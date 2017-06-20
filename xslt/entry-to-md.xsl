@@ -237,7 +237,7 @@
         <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
 -->
-    <xsl:template match="figure">
+    <xsl:template match="figure[child::margin]">
         <xsl:text>&#x0A;</xsl:text>
         <xsl:text>&gt; *Figure*</xsl:text>
         <xsl:text>&#x0A;</xsl:text>
