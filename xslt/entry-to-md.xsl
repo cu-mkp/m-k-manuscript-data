@@ -259,7 +259,7 @@
         <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
     
-    <xsl:template match="id"/>
+    <xsl:template match="id | margin"/>
     
     <xsl:template match="cont">
         <xsl:text>&#x0A;</xsl:text>
