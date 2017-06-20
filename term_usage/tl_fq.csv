@@ -1,8 +1,8 @@
  115 moule
-  53 moules
+  52 moules
   26 mortier
   23 crusol
-  22 chassis
+  23 chassis
   21 pinceau
   21 fourneau
   21 baston
@@ -11,25 +11,26 @@
   15 lime
   13 costeau
   12 burin
-  11 vaisseau
   11 esponge
+  10 vaisseau
   10 tamis
   10 pot
+  10 marteau
   10 boicte
    9 mortiers
-   9 marteau
+   9 mabre
    9 gabions
    9 crampons
    8 forge
    8 escuelle
+   8 corde
    8 chaple
    7 souflet
-   7 mabre
-   7 corde
    7 broisse
    6 roue
    6 plane
    6 pilon
+   6 doigt
    6 creuset
    6 cousteau
    6 cheville
@@ -37,7 +38,6 @@
    5 guimbelet
    5 four de reverberation
    5 four a vent
-   5 doigt
    5 cloche
    5 ciselet
    5 chevilles
@@ -45,6 +45,7 @@
    5 aiguille
    4 verre
    4 trancheplume
+   4 souflets
    4 pincettes
    4 petite boicte
    4 molle
@@ -62,7 +63,6 @@
    4 Moules
    4 Moule
    3 tuile
-   3 souflets
    3 sac
    3 presse
    3 poincte
@@ -70,6 +70,7 @@
    3 molles
    3 grille
    3 fisselle
+   3 desgrusouer
    3 dent
    3 de chien
    3 dan de loup
@@ -83,7 +84,6 @@
    2 tuyau
    2 toile
    2 tenailles
-   2 tamisee
    2 table
    2 serviette
    2 regle
@@ -101,6 +101,7 @@
    2 mortier de verre
    2 mortier de fer
    2 manche
+   2 main
    2 linge
    2 lime doulce
    2 lames
@@ -113,6 +114,7 @@
    2 foreter
    2 foret
    2 esguille
+   2 esgrusouer
    2 de cuir
    2 creusol
    2 couvercle
@@ -129,6 +131,7 @@
    2 ambu
    2 aiguilles
    1 verge
+   1 vaisseau plombe
    1 vaisseau destaing
    1 vaisse
    1 tuyle
@@ -142,7 +145,7 @@
    1 trencheplume
    1 tenaille
    1 tapon
-   1 tamiser
+   1 tamisee
    1 syringue
    1 souldouers de vitrier
    1 souldouer
@@ -201,6 +204,7 @@
    1 oreille
    1 ongle du poulce
    1 moulins
+   1 moules froids
    1 moules de metal
    1 mouler
    1 moulent
@@ -215,15 +219,15 @@
    1 modelle en papier
    1 mirouers
    1 mirouer de cristal
-   1 medaille de relief
+   1 medaille
    1 mattelas
    1 matras
    1 martinets
    1 marteaulx
    1 manches
    1 manche de chemise
-   1 main
    1 mail
+   1 mable
    1 long verre
    1 limes quarree
    1 liment
@@ -249,7 +253,7 @@
    1 fourchettes
    1 four de charbon
    1 four couvert
-   1 four a ventsoufletsde souflets
+   1 four a ventde souflets
    1 four a vent souflets
    1 four a souflets
    1 four a boys
@@ -264,7 +268,6 @@
    1 fer tranchant
    1 fer coupa{n}t
    1 fer
-   1 femelle molle
    1 estrier
    1 estamine
    1 estamiere
@@ -283,6 +286,7 @@
    1 demy
    1 de verre
    1 de reverberation
+   1 de relief
    1 de pur cuivre
    1 de plomb
    1 de grais
@@ -293,7 +297,6 @@
    1 curedent
    1 cureaureille
    1 cuivre
-   1 cuilleres
    1 cuillere de boys
    1 cuillere de bois
    1 cueillerees dargent

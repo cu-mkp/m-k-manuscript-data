@@ -1,24 +1,24 @@
  279 eau
- 264 or
+ 265 or
  249 plomb
  241 cire
- 197 huile
- 192 fer
+ 198 huile
+ 194 fer
  185 argent
- 154 estain
+ 153 estain
  115 cuivre
- 109 metal
+ 110 metal
  105 terre
-  92 plastre
+  93 plastre
   90 papier
   85 verre
-  74 pouldre
   74 letton
+  73 pouldre
   72 vinaigre
   72 charbon
   67 estaim
   60 eau de vye
-  59 boys
+  60 boys
   58 ardille
   44 vin
   43 colle
@@ -90,12 +90,12 @@
   13 feultre
   13 borras
   13 ambre
-  12 pierres
   12 luth
   12 estaim de glace
   12 aspic
   12 argent vif
   11 verdegris
+  11 pierres
   11 huiler
   11 glaire doeuf
   11 eau de sel armoniac
@@ -129,6 +129,7 @@
    8 huile de soufre
    8 grais
    8 eau gommee
+   8 bourre
    8 blanc
    8 armoniac
    8 albastre
@@ -144,7 +145,6 @@
    7 eau de
    7 ciment
    7 caillous
-   7 bourre
    7 bistre
    7 antimoyne
    7 antimoine
@@ -152,6 +152,7 @@
    7 Or
    6 ☾
    6 vitriol
+   6 souldure
    6 son
    6 sels
    6 savon
@@ -171,6 +172,7 @@
    6 cristallin
    6 cire blanche
    6 charbon de saule
+   6 bol
    6 aspalte
    6 arene
    6 alung
@@ -180,7 +182,6 @@
    5 toile ciree
    5 terres
    5 taffetas
-   5 souldure
    5 souffre
    5 sandaraque
    5 safran
@@ -210,7 +211,6 @@
    5 colle de poisson
    5 chaulx
    5 bullitoyre
-   5 bol
    5 blanchiment
    5 ardile
    5 Crocum ferri
@@ -470,6 +470,7 @@
    2 eau tiede
    2 eau de sel
    2 eau dalum
+   2 draps
    2 dragant
    2 distille
    2 diama{n}t
@@ -650,6 +651,7 @@
    1 terre bourre bolvene
    1 terre bolvene
    1 terre argille
+   1 terre ardille blanche
    1 terre a gainiers
    1 terra emerita
    1 termentine
@@ -727,6 +729,7 @@
    1 safre
    1 safir
    1 sablonneux
+   1 sablesartificiels
    1 sable blanc
    1 sabe
    1 ruta
@@ -907,6 +910,7 @@
    1 noire soufree
    1 noir de couperose
    1 noir de charbon de mine
+   1 noir a noircy
    1 noir a noirci
    1 noeuds
    1 neuf
@@ -924,7 +928,6 @@
    1 mie de pain
    1 mie
    1 metaulx alies
-   1 metal fondu
    1 mestiviers
    1 merita
    1 mentine
@@ -994,9 +997,11 @@
    1 laiton
    1 laines
    1 laictues
+   1 la paste du
    1 just de citron
    1 just
    1 jus dorange
+   1 jus de cerises noires
    1 jeune bois
    1 jayet
    1 jaulnes
@@ -1006,7 +1011,6 @@
    1 jacinthe
    1 ivoyre
    1 iust de cerises noires
-   1 ius de cerises noires
    1 incarnadine
    1 iaune doeuf
    1 iaulne doeuf
@@ -1079,6 +1083,7 @@
    1 gip de lateribus
    1 gip
    1 gentiane
+   1 gelee
    1 geiette
    1 geiete
    1 gect
@@ -1152,6 +1157,7 @@
    1 estaing de Glasse
    1 estain dou aigre
    1 estain de glas
+   1 estain de cloche
    1 estain cuivre
    1 estain commun
    1 estaimg
@@ -1226,7 +1232,6 @@
    1 duvet
    1 dung oeuf
    1 draps de soye
-   1 draps
    1 drap noir
    1 drap blanc
    1 doulce
@@ -1389,7 +1394,6 @@
    1 charbon commun
    1 charbon allume
    1 charbon 
-   1 chappe
    1 chanvre
    1 chandelle de rousine
    1 chair
@@ -1439,7 +1443,6 @@
    1 bon vin pur
    1 boli armeniae
    1 boli armeni
-   1 bol armen
    1 boix douls
    1 bois de
    1 boeuf
@@ -1463,6 +1466,7 @@
    1 axunge de verre
    1 axunge
    1 avoyne
+   1 aux
    1 aureas
    1 aulx metaulx
    1 aspalthe
@@ -1471,6 +1475,7 @@
    1 arsenic jaulne
    1 arsenic blanc
    1 arrabeic
+   1 armen
    1 argille
    1 arge{n}t
    1 argent vif arreste
@@ -1482,7 +1487,6 @@
    1 ardoise calcinee
    1 ardille sabloneuse
    1 ardille fresche
-   1 ardille blanche
    1 ardides
    1 arcenic sublime
    1 arcenic jaulne

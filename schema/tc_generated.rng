@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="root">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="ab"/>
+          <ref name="figure"/>
+          <ref name="id"/>
+          <ref name="pro"/>
+          <element name="div">
+            <oneOrMore>
+              <choice>
+                <text/>
+                <ref name="ab"/>
+                <ref name="add"/>
+                <ref name="cont"/>
+                <ref name="del"/>
+                <ref name="figure"/>
+                <ref name="head"/>
+                <ref name="id"/>
+                <ref name="lb"/>
+                <ref name="man"/>
+                <ref name="margin"/>
+                <ref name="pro"/>
+              </choice>
+            </oneOrMore>
+          </element>
+          <element name="image">
+            <data type="anyURI"/>
+          </element>
+          <element name="page">
+            <data type="NMTOKEN"/>
+          </element>
+        </choice>
+      </oneOrMore>
+    </element>
+  </start>
+  <define name="head">
+    <element name="head">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="add"/>
+          <ref name="al"/>
+          <ref name="bp"/>
+          <ref name="del"/>
+          <ref name="env"/>
+          <ref name="figure"/>
+          <ref name="it"/>
+          <ref name="la"/>
+          <ref name="lb"/>
+          <ref name="m"/>
+          <ref name="man"/>
+          <ref name="margin"/>
+          <ref name="ms"/>
+          <ref name="pa"/>
+          <ref name="pl"/>
+          <ref name="pn"/>
+          <ref name="pro"/>
+          <ref name="sn"/>
+          <ref name="tl"/>
+          <ref name="tmp"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="add">
+    <element name="add">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="al"/>
+          <ref name="bp"/>
+          <ref name="del"/>
+          <ref name="figure"/>
+          <ref name="head"/>
+          <ref name="la"/>
+          <ref name="lb"/>
+          <ref name="m"/>
+          <ref name="ms"/>
+          <ref name="pa"/>
+          <ref name="pl"/>
+          <ref name="pro"/>
+          <ref name="tl"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="ab">
+    <element name="ab">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="ab"/>
+          <ref name="add"/>
+          <ref name="al"/>
+          <ref name="bp"/>
+          <ref name="cn"/>
+          <ref name="cont"/>
+          <ref name="del"/>
+          <ref name="env"/>
+          <ref name="figure"/>
+          <ref name="head"/>
+          <ref name="id"/>
+          <ref name="it"/>
+          <ref name="la"/>
+          <ref name="lb"/>
+          <ref name="m"/>
+          <ref name="man"/>
+          <ref name="margin"/>
+          <ref name="ms"/>
+          <ref name="pa"/>
+          <ref name="pl"/>
+          <ref name="pn"/>
+          <ref name="pro"/>
+          <ref name="sn"/>
+          <ref name="sup"/>
+          <ref name="tl"/>
+          <ref name="tmp"/>
+          <element name="corr">
+            <oneOrMore>
+              <choice>
+                <text/>
+                <ref name="del"/>
+              </choice>
+            </oneOrMore>
+          </element>
+          <element name="gap">
+            <empty/>
+          </element>
+          <element name="gk">
+            <oneOrMore>
+              <choice>
+                <text/>
+                <ref name="lb"/>
+              </choice>
+            </oneOrMore>
+          </element>
+          <element name="greek">
+            <data type="NCName"/>
+          </element>
+          <element name="md">
+            <oneOrMore>
+              <choice>
+                <text/>
+                <ref name="m"/>
+              </choice>
+            </oneOrMore>
+          </element>
+          <element name="mu">
+            <data type="NCName"/>
+          </element>
+          <element name="oc">
+            <oneOrMore>
+              <choice>
+                <text/>
+                <ref name="al"/>
+                <ref name="env"/>
+              </choice>
+            </oneOrMore>
+          </element>
+          <element name="rub">
+            <oneOrMore>
+              <choice>
+                <text/>
+                <ref name="lb"/>
+                <ref name="m"/>
+                <ref name="pro"/>
+              </choice>
+            </oneOrMore>
+          </element>
+          <element name="underline">
+            <oneOrMore>
+              <choice>
+                <text/>
+                <ref name="del"/>
+                <ref name="figure"/>
+                <ref name="m"/>
+              </choice>
+            </oneOrMore>
+          </element>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="figure">
+    <element name="figure">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="del"/>
+          <ref name="id"/>
+          <ref name="m"/>
+          <ref name="margin"/>
+          <ref name="ms"/>
+          <element name="caption">
+            <oneOrMore>
+              <choice>
+                <text/>
+                <ref name="del"/>
+                <ref name="lb"/>
+                <ref name="margin"/>
+                <ref name="ms"/>
+                <ref name="pl"/>
+              </choice>
+            </oneOrMore>
+          </element>
+          <element name="link">
+            <data type="anyURI"/>
+          </element>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="margin">
+    <element name="margin">
+      <data type="NCName"/>
+    </element>
+  </define>
+  <define name="lb">
+    <element name="lb">
+      <empty/>
+    </element>
+  </define>
+  <define name="del">
+    <element name="del">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="add"/>
+          <ref name="al"/>
+          <ref name="del"/>
+          <ref name="figure"/>
+          <ref name="lb"/>
+          <ref name="m"/>
+          <ref name="margin"/>
+          <ref name="ms"/>
+          <ref name="pa"/>
+          <ref name="pl"/>
+          <ref name="pro"/>
+          <ref name="tl"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="id">
+    <element name="id">
+      <data type="NMTOKEN"/>
+    </element>
+  </define>
+  <define name="man">
+    <element name="man">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="figure"/>
+          <ref name="head"/>
+          <ref name="la"/>
+          <ref name="lb"/>
+          <ref name="m"/>
+          <ref name="margin"/>
+          <ref name="tl"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="pro">
+    <element name="pro">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="add"/>
+          <ref name="al"/>
+          <ref name="del"/>
+          <ref name="env"/>
+          <ref name="lb"/>
+          <ref name="m"/>
+          <ref name="pl"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="cont">
+    <element name="cont">
+      <empty/>
+    </element>
+  </define>
+  <define name="ms">
+    <element name="ms">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="al"/>
+          <ref name="bp"/>
+          <ref name="cn"/>
+          <ref name="figure"/>
+          <ref name="lb"/>
+          <ref name="m"/>
+          <ref name="pa"/>
+          <ref name="pl"/>
+          <ref name="tl"/>
+          <ref name="tmp"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="al">
+    <element name="al">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="env"/>
+          <ref name="lb"/>
+          <ref name="m"/>
+          <ref name="sup"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="it">
+    <element name="it">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="del"/>
+          <ref name="lb"/>
+          <ref name="m"/>
+          <ref name="ms"/>
+          <ref name="pl"/>
+          <ref name="pro"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="env">
+    <element name="env">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="lb"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="m">
+    <element name="m">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="add"/>
+          <ref name="al"/>
+          <ref name="del"/>
+          <ref name="figure"/>
+          <ref name="la"/>
+          <ref name="lb"/>
+          <ref name="pa"/>
+          <ref name="pl"/>
+          <ref name="pro"/>
+          <ref name="sup"/>
+          <ref name="tl"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="bp">
+    <element name="bp">
+      <text/>
+    </element>
+  </define>
+  <define name="pa">
+    <element name="pa">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="la"/>
+          <ref name="lb"/>
+          <ref name="pro"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="la">
+    <element name="la">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="cn"/>
+          <ref name="del"/>
+          <ref name="figure"/>
+          <ref name="lb"/>
+          <ref name="m"/>
+          <ref name="pa"/>
+          <ref name="pl"/>
+          <ref name="pn"/>
+          <ref name="pro"/>
+          <element name="fr">
+            <ref name="del"/>
+          </element>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="tmp">
+    <element name="tmp">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="del"/>
+          <ref name="lb"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="tl">
+    <element name="tl">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="add"/>
+          <ref name="al"/>
+          <ref name="bp"/>
+          <ref name="del"/>
+          <ref name="lb"/>
+          <ref name="m"/>
+          <ref name="ms"/>
+          <ref name="pa"/>
+          <ref name="pn"/>
+          <ref name="pro"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="sn">
+    <element name="sn">
+      <text/>
+    </element>
+  </define>
+  <define name="pl">
+    <element name="pl">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="lb"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="pn">
+    <element name="pn">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="lb"/>
+          <ref name="pl"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="sup">
+    <element name="sup">
+      <text/>
+    </element>
+  </define>
+  <define name="cn">
+    <element name="cn">
+      <text/>
+    </element>
+  </define>
+</grammar>

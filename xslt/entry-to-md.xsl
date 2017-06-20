@@ -1,41 +1,41 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
     exclude-result-prefixes="#all">
 
     <xsl:output encoding="UTF-8" method="text"/>
 
     <xsl:template match="/">
-        <xsl:apply-templates select="/entry"/>
+        <xsl:apply-templates select="/root"/>
     </xsl:template>
 
     <!-- <xsl:strip-space elements="*"/>-->
     <xsl:param name="materials">
-        <xsl:for-each select="distinct-values(//material[normalize-space()]/normalize-space())">
+        <xsl:for-each select="distinct-values(//m[normalize-space()]/normalize-space())">
             <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
         </xsl:for-each>
     </xsl:param>
 
     <xsl:param name="tools">
-        <xsl:for-each select="distinct-values(//tool[normalize-space()]/normalize-space())">
+        <xsl:for-each select="distinct-values(//tl[normalize-space()]/normalize-space())">
             <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
         </xsl:for-each>
     </xsl:param>
     
     
     <xsl:param name="animals">
-        <xsl:for-each select="distinct-values(//animal[normalize-space()]/normalize-space())">
+        <xsl:for-each select="distinct-values(//al[normalize-space()]/normalize-space())">
             <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
         </xsl:for-each>
     </xsl:param>
     
     
     <xsl:param name="plants">
-        <xsl:for-each select="distinct-values(//plant[normalize-space()]/normalize-space())">
+        <xsl:for-each select="distinct-values(//pa[normalize-space()]/normalize-space())">
             <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
         </xsl:for-each>
     </xsl:param>
     
-    
+<!--    
     <xsl:param name="colors">
         <xsl:for-each select="distinct-values(//color[normalize-space()]/normalize-space())">
             <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
@@ -53,22 +53,22 @@
             <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
         </xsl:for-each>
     </xsl:param>
+-->
 
-
-    <xsl:template match="entry">
+    <xsl:template match="root">
         <xsl:message select="$materials"/>
-        <xsl:variable name="sect_id" select="@identifier"/>
-        <xsl:result-document encoding="utf-8" href="../_texts/{$sect_id}.md">
+        <xsl:variable name="folio_id" select="concat('p-', page)"/>
+        <xsl:result-document encoding="utf-8" href="../_texts/{$folio_id}.md">
             <!-- YAML for Ed -->
             <xsl:text>---&#x0A;layout: narrative&#x0A;</xsl:text>
             <xsl:text>title: </xsl:text>
-            <xsl:value-of select="normalize-space(child::heading)"/>
+            <xsl:value-of select="normalize-space(child::page)"/>
             <xsl:text>&#x0A;</xsl:text>
             <xsl:text>identifier: </xsl:text>
-            <xsl:value-of select="@identifier"/>
+            <xsl:value-of select="$folio_id"/>
             <xsl:text>&#x0A;</xsl:text>
             <xsl:text>folio: </xsl:text>
-            <xsl:value-of select="child::folio[1]/@number"/>
+            <xsl:value-of select="page"/>
             <xsl:text>&#x0A;</xsl:text>
             <xsl:text>annotation: </xsl:text>
             <xsl:choose>
@@ -86,7 +86,7 @@
             <xsl:text>&#x0A;</xsl:text>
             <xsl:text>editor: GR8975 Seminar Participants&#x0A;</xsl:text>
             <xsl:text>rights: Public Domain&#x0A;</xsl:text>
-            <xsl:text>purposes: </xsl:text>
+<!--            <xsl:text>purposes: </xsl:text>
             <xsl:text>[</xsl:text>
             <xsl:value-of select="translate(translate($purposes, '[', ''), ']', '')"/>
             <xsl:text>]</xsl:text>
@@ -96,6 +96,7 @@
             <xsl:value-of select="translate(translate($activities, '[', ''), ']', '')"/>
             <xsl:text>]</xsl:text>
             <xsl:text>&#x0A;</xsl:text>
+-->
             <xsl:text>materials: </xsl:text>
             <xsl:text>[</xsl:text>
             <xsl:value-of select="translate(translate($materials, '[', ''), ']', '')"/>
@@ -106,11 +107,13 @@
             <xsl:value-of select="translate(translate($tools, '[', ''), ']', '')"/>
             <xsl:text>]</xsl:text>
             <xsl:text>&#x0A;</xsl:text>
+<!--
             <xsl:text>colors: </xsl:text>
             <xsl:text>[</xsl:text>
             <xsl:value-of select="translate(translate($colors, '[', ''), ']', '')"/>
             <xsl:text>]</xsl:text>
             <xsl:text>&#x0A;</xsl:text>
+-->
             <xsl:text>plants: </xsl:text>
             <xsl:text>[</xsl:text>
             <xsl:value-of select="translate(translate($plants, '[', ''), ']', '')"/>
@@ -127,7 +130,7 @@
         </xsl:result-document>
     </xsl:template>
 
-    <xsl:template match="heading">
+    <xsl:template match="head">
         <xsl:text>&#x0A;</xsl:text>
         <xsl:text>&#x0A;</xsl:text>
         <xsl:text>## </xsl:text>
@@ -136,19 +139,18 @@
         <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
 
-    <xsl:template match="block">
+    <xsl:template match="ab">
         <xsl:text>&#x0A;</xsl:text>
         <xsl:apply-templates/>
         <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
 
-    <xsl:template match="margin-block | block[@position]">
+    <xsl:template match="*[child::margin]">
         <xsl:text>&#x0A;</xsl:text>
         <xsl:text>&gt; </xsl:text>
         <xsl:text>*at&#160;</xsl:text>
-        <xsl:value-of select="replace(@position, '-', ' ')"/>
-        <xsl:text>&#160;margin of folio </xsl:text>
-        <xsl:value-of select="preceding::folio[1]/@number"/>
+        <xsl:value-of select="replace(margin/text(), '-', ' ')"/>
+        <xsl:text>&#160;margin</xsl:text>
         <xsl:text>*</xsl:text>
         <xsl:text>&#x0A;</xsl:text>
         <xsl:text>&gt; </xsl:text><xsl:text>&#x0A;</xsl:text>
@@ -162,20 +164,20 @@
     </xsl:template>
 
     <!-- folio breaks and link to image -->
-    <xsl:template match="folio">
+    <xsl:template match="page">
         <xsl:text>&lt;div class="folio" align="center"&gt;</xsl:text>
         <xsl:text>- - - - - &lt;a href="</xsl:text>
-        <xsl:value-of select="@url"/>
+        <xsl:value-of select="following::image"/>
         <xsl:text>" target="_blank"&gt;</xsl:text>
-        <xsl:text>&lt;img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/&gt;</xsl:text>
-        <xsl:value-of select="@number"/>
+        <xsl:text>&lt;img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/&gt;</xsl:text>
+        <xsl:value-of select="normalize-space(.)"/>
         <xsl:text>&lt;/a&gt; - - - - -</xsl:text>
         <xsl:text> &lt;/div&gt;</xsl:text>
     </xsl:template>
     
     
     <!-- annotations -->
-    <xsl:template match="annotations">
+    <!--    <xsl:template match="annotations">
         <xsl:text>&#x0A;</xsl:text>
         <xsl:text>&lt;div class="annotation" align="left"&gt;</xsl:text>
         <xsl:text>Annotations:</xsl:text>
@@ -197,20 +199,31 @@
     <xsl:template match="purpose">
         <xsl:apply-templates/>
     </xsl:template>
-
+-->
     <xsl:template
         match="
-            activity | animal | foreign
-            | material | material_format | place | plant
-            | profession | image | ref | sub_recipe | tool | unit | color | name | q
-            | sup | time">
+        al |
+        bp |
+        cn |
+        env |
+        m |
+        md |
+        ms |
+        mu |
+        pa |
+        pl |
+        pn |
+        pro |
+        sn |
+        tl |
+        tmp">
         <xsl:text>&lt;span class="</xsl:text>
         <xsl:value-of select="local-name()"/>
         <xsl:text>"&gt;</xsl:text>
         <xsl:apply-templates/>
         <xsl:text>&lt;/span&gt;</xsl:text>
     </xsl:template>
-    
+<!--    
     <xsl:template match="list">
         <xsl:text>&#x0A;</xsl:text>
         <xsl:apply-templates/>
@@ -223,7 +236,7 @@
         <xsl:apply-templates/>
         <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
-    
+-->
     <xsl:template match="figure">
         <xsl:text>&#x0A;</xsl:text>
         <xsl:text>&gt; *Figure*</xsl:text>
@@ -239,10 +252,21 @@
         </xsl:if>
         <xsl:text>&gt; </xsl:text>
         <xsl:text>&lt;a href="</xsl:text>
-        <xsl:value-of select="@url"/>
+        <xsl:value-of select="."/>
         <xsl:text>" target="_blank"&gt;</xsl:text>
         <xsl:text>&lt;img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/&gt;</xsl:text>
         <xsl:text>&lt;/a&gt;</xsl:text>
         <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
+    
+    <xsl:template match="id"/>
+    
+    <xsl:template match="cont[preceding-sibling::*[/normalize-space()]]">
+        <xsl:text>&#x0A;</xsl:text>
+        <xsl:text>*</xsl:text>
+        <xsl:text>[continued]</xsl:text>
+        <xsl:text>*</xsl:text>
+        <xsl:text>&#x0A;</xsl:text>
+    </xsl:template>
+    
 </xsl:stylesheet>
