@@ -3,6 +3,7 @@
     exclude-result-prefixes="#all">
 
     <xsl:output encoding="UTF-8" method="text"/>
+    <xsl:param name="mode"/>
 
     <xsl:template match="/">
         <xsl:apply-templates select="/root"/>
@@ -82,7 +83,8 @@
              <xsl:text>&#x0A;</xsl:text>
             <xsl:text>author:</xsl:text>
             <xsl:text>&#x0A;</xsl:text>
-            <xsl:text>mode: annotated</xsl:text>
+            <xsl:text>mode:</xsl:text>
+            <xsl:value-of select="$mode"/>
             <xsl:text>&#x0A;</xsl:text>
             <xsl:text>editor: GR8975 Seminar Participants&#x0A;</xsl:text>
             <xsl:text>rights: Public Domain&#x0A;</xsl:text>
