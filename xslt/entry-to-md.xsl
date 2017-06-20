@@ -241,25 +241,24 @@
         <xsl:text>&#x0A;</xsl:text>
         <xsl:text>&gt; *Figure*</xsl:text>
         <xsl:text>&#x0A;</xsl:text>
-        <xsl:if test="@position">
-        <xsl:text>&gt; </xsl:text>       
+        <xsl:if test="margin">
+        <xsl:text>&gt; </xsl:text>
         <xsl:text>*at&#160;</xsl:text>
-        <xsl:value-of select="replace(@position, '-', ' ')"/>
-        <xsl:text>&#160;margin of folio </xsl:text>
-        <xsl:value-of select="preceding::folio[1]/@number"/>
+        <xsl:value-of select="replace(margin/text(), '-', ' ')"/>
+        <xsl:text>&#160;margin</xsl:text>
         <xsl:text>*</xsl:text>
         <xsl:text>&#x0A;</xsl:text>
         </xsl:if>
         <xsl:text>&gt; </xsl:text>
         <xsl:text>&lt;a href="</xsl:text>
-        <xsl:value-of select="."/>
+        <xsl:value-of select="link"/>
         <xsl:text>" target="_blank"&gt;</xsl:text>
         <xsl:text>&lt;img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/&gt;</xsl:text>
         <xsl:text>&lt;/a&gt;</xsl:text>
         <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
     
-    <xsl:template match="id | margin"/>
+    <xsl:template match="id | margin | image"/>
     
     <xsl:template match="cont">
         <xsl:text>&#x0A;</xsl:text>
