@@ -1,160 +1,164 @@
-  33 serpent
-  21 escrevisse
-  20 tortue
-  16 animaulx
-  15 serpents
-  15 animal
-  13 cheval
-  12 vers
-  12 mouche
-  11 lesard
-  10 escrevisses
-  10 chevaulx
-   9 mouton
-   9 lesards
-   9 iraigne
-   8 tortues
-   8 poisson
-   7 chiens
-   6 veau
-   6 rat
-   6 lezard
-   5 oiseau
-   5 grenoille
-   4 seiche
-   4 lesardes
-   4 crapault
-   4 chien
-   3 vache
-   3 serpens
-   3 rats
-   3 pourceau
-   3 porc
-   3 mouches
-   3 loup
-   3 lezards
-   3 gris
-   3 bœuf
-   3 benarris
-   3 angroise
-   3 Rossignol
-   3 Oyseaulx
-   2 vipere
-   2 saulterelles
-   2 rossignols
-   2 poulet
-   2 porceau
-   2 pigeons
-   2 papillons
-   2 papillon
-   2 oyseaulx
-   2 mulots
-   2 moutons
-   2 mousche
-   2 lezardes
-   2 garrigue
-   2 fourmis
-   2 foeuille
-   2 escargots
-   2 de garrigue
-   2 chardonnerets
-   2 chancre
-   2 cerf volant
-   2 celles deau
-   2 celles
-   2 calendres
-   2 boeuf
-   2 Tortues
-   2 Serpens
-   2 Crapault
-   2 Celles deau
-   1 yraignes
-   1 yraigne
-   1 vers de farine
-   1 verdaule
-   1 ver
-   1 venatione
-   1 tourterelles
-   1 tortues deau
-   1 tortues de
-   1 tortue deau
-   1 tarins
-   1 souris
-   1 serpents deau
-   1 serpend
-   1 sernailles
-   1 saulterelle
-   1 saulmon
-   1 rossignol
-   1 rats lirons
-   1 poulsins
-   1 pouls
-   1 poulle
-   1 poulain
-   1 porc espic
-   1 pincons
-   1 pigeon
-   1 passe solitaire
-   1 oisillons
-   1 oiseaulx
-   1 moulue
-   1 moules
-   1 liraigne
-   1 linotte
-   1 lievre
-   1 lesarde
-   1 laisards
-   1 iraignee
-   1 huitres
-   1 huistres
-   1 grenoilles
-   1 fouines
-   1 formis
-   1 dragon
-   1 daigneaulx
-   1 cygales
-   1 corbeau
-   1 coquu
-   1 connils
-   1 cigne
-   1 chevreaulx
-   1 chevreau
-   1 chevaux
-   1 chats
-   1 chat
-   1 chancres
-   1 celle de
-   1 canard
-   1 calendre
-   1 calandres
-   1 calandre
-   1 butor
-   1 brebis
-   1 bouc
-   1 benarrins
-   1 bellettes
-   1 aucupio
-   1 animaux
-   1 animales
-   1 angroisse
-   1 aigle
-   1 Yraigne
-   1 Vers de soye
-   1 Tuaparc
-   1 Serpents
-   1 Oysillons
-   1 Mousches
-   1 Moules
-   1 Lesards
-   1 Escrevisse
-   1 Escargots
-   1 Chevaulx
-   1 Chauve souris
-   1 Chancre
-   1 Celles de garrigue
-   1 Canards
-   1 Butor
-   1 Brebis
-   1 Araigne
-   1 Aquatilium animalium
-   1 
+serpent,33
+escrevisse,21
+tortue,20
+animaulx,16
+serpents,15
+animal,15
+cheval,14
+vers,12
+mouche,12
+lesard,11
+mouton,10
+escrevisses,10
+chevaulx,10
+lesards,9
+iraigne,9
+tortues,8
+poisson,8
+chiens,7
+veau,6
+seiche,6
+rat,6
+lezard,6
+oiseau,5
+grenoille,5
+lesardes,4
+crapault,4
+chien,4
+vache,3
+serpens,3
+rats,3
+pourceau,3
+porc,3
+mouches,3
+loup,3
+lezards,3
+bœuf,3
+benarris,3
+angroise,3
+Rossignol,3
+Oyseaulx,3
+vipere,2
+saulterelles,2
+rossignols,2
+poulet,2
+porceau,2
+pigeons,2
+papillons,2
+papillon,2
+oyseaulx,2
+mulots,2
+moutons,2
+mousche,2
+lezardes,2
+gris,2
+garrigue,2
+fourmis,2
+foeuille,2
+escargots,2
+de,2
+chardonnerets,2
+chancre,2
+cerf,2
+celles,2
+celles,2
+calendres,2
+boeuf,2
+Tortues,2
+Serpens,2
+Crapault,2
+Celles,2
+yraignes,1
+yraigne,1
+vers,1
+verdaule,1
+ver,1
+venatione,1
+tourterelles,1
+tortues,1
+tortues,1
+tortue,1
+tarins,1
+souris,1
+serpents,1
+serpend,1
+sernailles,1
+saulterelle,1
+saulmon,1
+rossignol,1
+rats,1
+poulsins,1
+pouls,1
+poulle,1
+poulain,1
+porc,1
+pincons,1
+pigeon,1
+passe,1
+oisillons,1
+oiseaulx,1
+moulue,1
+moules,1
+menue,1
+liraigne,1
+linotte,1
+lievre,1
+lesarde,1
+laisards,1
+iraignee,1
+huitres,1
+huitre,1
+huistres,1
+grenoilles,1
+fouines,1
+formis,1
+dragon,1
+daigneaulx,1
+cygales,1
+corbeau,1
+coquu,1
+connils,1
+cigne,1
+chevreaulx,1
+chevreau,1
+chevaux,1
+chats,1
+chat,1
+chancres,1
+celle,1
+canard,1
+calendre,1
+calandres,1
+calandre,1
+butor,1
+brebis,1
+bouc,1
+boeufs,1
+beuf,1
+benarrins,1
+bellettes,1
+aucupio,1
+animaux,1
+animales,1
+angroisse,1
+aigle,1
+Yraigne,1
+Vers,1
+Tuaparc,1
+Serpents,1
+Oysillons,1
+Mousches,1
+Moules,1
+Lesards,1
+Escrevisse,1
+Escargots,1
+Chevaulx,1
+Chauve,1
+Chancre,1
+Celles,1
+Canards,1
+Butor,1
+Brebis,1
+Araigne,1
+Aquatilium,1
+,1

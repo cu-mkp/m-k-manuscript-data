@@ -1,151 +1,153 @@
-  28 fleur
-  26 herbe
-  19 fleurs
-  15 rose
-  12 herbes
-  11 foeuille
-  11 bled
-  10 foeuilles
-   6 orme
-   5 raisin
-   5 pensee
-   5 pastel
-   5 noix
-   5 foeilles
-   5 foeille
-   5 abres
-   5 abre
-   4 sauge
-   4 millet
-   4 lin
-   3 saule
-   3 bouquet
-   3 asperge
-   2 vigne
-   2 tim
-   2 tige
-   2 soucy
-   2 rosmarin
-   2 havets
-   2 fruicts
-   2 figuier
-   2 espinette
-   2 buglose
-   2 bruyeres
-   2 bouton
-   2 bleds
-   2 aulx
-   1 viole
-   1 vinette
-   1 vesse
-   1 tiges
-   1 soulcy
-   1 soulci
-   1 solcy
-   1 sauvignons
-   1 saulge
-   1 rosier
-   1 rose soulcy
-   1 ronce
-   1 rheubarbe des moynes
-   1 ranunculus
-   1 raisins
-   1 racine de cucurme
-   1 queue de cheval
-   1 pruneaux
-   1 prele
-   1 pomole
-   1 pommes
-   1 poires
-   1 peschier
-   1 perces mericotons
-   1 pavot rouge
-   1 papus
-   1 palta lupina
-   1 orenge
-   1 orangers
-   1 orange
-   1 oigno{n}s
-   1 oignons
-   1 oignon
-   1 noyau
-   1 nois
-   1 musc
-   1 mil
-   1 mericotons
-   1 melons
-   1 mauves
-   1 lys
-   1 linge
-   1 lapathium acutum maius
-   1 lapasses
-   1 hiebles
-   1 herbes potaigeres
-   1 herbes bulbeuses
-   1 herbages
-   1 hayes
-   1 guindoles
-   1 guimave
-   1 genest
-   1 fruictz
-   1 fruict des fraises
-   1 froment
-   1 fraisiers
-   1 fraises
-   1 foeuillle
-   1 foeuilles de rosier
-   1 foeuilles de
-   1 foeuille dabsinthe
-   1 foeuiles
-   1 foeilles delices
-   1 foeilles de lierre
-   1 fleur de soulcy
-   1 fleur de roses
-   1 fleur de la rose
-   1 feuillage
-   1 fayan
-   1 despinette
-   1 des rosiers
-   1 dent
-   1 de Lyon
-   1 cormier
-   1 colombine
-   1 coings
-   1 choux
-   1 chauches
-   1 chastaignes
-   1 chaisne
-   1 canelle
-   1 buys
-   1 buy
-   1 bruiere
-   1 branche de provenche
-   1 bouttons
-   1 boutons
-   1 boufain
-   1 bled de froment
-   1 aspic
-   1 artichaulx
-   1 armols
-   1 arbres
-   1 amendiers
-   1 amaranthe
-   1 ail
-   1 abricots
-   1 abres de noyau
-   1 Visme
-   1 Segle
-   1 Safran
-   1 Roses
-   1 Peschers
-   1 Pastel
-   1 Orangers
-   1 Oliviers
-   1 Oeillet
-   1 Marguerites
-   1 Herbes
-   1 Eschervis
-   1 Eleusines
-   1 Boys
-   1  pourrceaulx
-   1 
+fleur,28
+herbe,26
+fleurs,19
+rose,15
+herbes,12
+foeuille,11
+bled,11
+foeuilles,10
+orme,6
+raisin,5
+pensee,5
+pastel,5
+noix,5
+foeilles,5
+foeille,5
+abres,5
+abre,5
+sauge,4
+millet,4
+lin,4
+vigne,3
+saule,3
+figuier,3
+bouquet,3
+asperge,3
+tim,2
+tige,2
+soucy,2
+rosmarin,2
+havets,2
+fruicts,2
+espinette,2
+buglose,2
+bruyeres,2
+bouton,2
+bleds,2
+aulx,2
+viole,1
+vinette,1
+vesse,1
+tiges,1
+soulcy,1
+soulci,1
+solcy,1
+seigle,1
+sauvignons,1
+saulge,1
+rosier,1
+rose,1
+ronce,1
+rheubarbe,1
+ranunculus,1
+raisins,1
+racine,1
+queue,1
+pruneaux,1
+prele,1
+pomole,1
+pommes,1
+poires,1
+peschier,1
+perces,1
+pavot,1
+papus,1
+palta,1
+orenge,1
+orangers,1
+orange,1
+oigno{n}s,1
+oignons,1
+oignon,1
+noyer,1
+noyau,1
+nois,1
+musc,1
+mil,1
+mericotons,1
+melons,1
+mauves,1
+lys,1
+linge,1
+lapathium,1
+lapasses,1
+hiebles,1
+herbes,1
+herbes,1
+herbages,1
+hayes,1
+guindoles,1
+guimave,1
+genest,1
+fruictz,1
+fruict,1
+froment,1
+fraisiers,1
+fraises,1
+foeuillle,1
+foeuilles,1
+foeuilles,1
+foeuille,1
+foeuiles,1
+foeilles,1
+foeilles,1
+fleur,1
+fleur,1
+fleur,1
+feuillage,1
+fayan,1
+despinette,1
+des,1
+dent,1
+de,1
+cormier,1
+colombine,1
+coings,1
+choux,1
+chauches,1
+chastaignes,1
+chaisne,1
+canelle,1
+buys,1
+buy,1
+bruiere,1
+branche,1
+bouttons,1
+boutons,1
+boufain,1
+bled,1
+aspic,1
+artichaulx,1
+armols,1
+arbres,1
+amendiers,1
+amaranthe,1
+ail,1
+abricots,1
+abres,1
+Visme,1
+Segle,1
+Safran,1
+Roses,1
+Peschers,1
+Pastel,1
+Orangers,1
+Oliviers,1
+Oeillet,1
+Marguerites,1
+Herbes,1
+Eschervis,1
+Eleusines,1
+Boys,1
+pourrceaulx,1
+,1
