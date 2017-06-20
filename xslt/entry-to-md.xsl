@@ -83,7 +83,7 @@
              <xsl:text>&#x0A;</xsl:text>
             <xsl:text>author:</xsl:text>
             <xsl:text>&#x0A;</xsl:text>
-            <xsl:text>mode:</xsl:text>
+            <xsl:text>mode: </xsl:text>
             <xsl:value-of select="$mode"/>
             <xsl:text>&#x0A;</xsl:text>
             <xsl:text>editor: GR8975 Seminar Participants&#x0A;</xsl:text>
