@@ -139,7 +139,7 @@
         <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
 
-    <xsl:template match="ab">
+    <xsl:template match="ab | div">
         <xsl:text>&#x0A;</xsl:text>
         <xsl:apply-templates/>
         <xsl:text>&#x0A;</xsl:text>
@@ -259,6 +259,10 @@
     </xsl:template>
     
     <xsl:template match="id | margin | image"/>
+    
+    <xsl:template match="lb">
+        <xsl:text>&#x0A;</xsl:text>
+    </xsl:template>
     
     <xsl:template match="cont">
         <xsl:text>&#x0A;</xsl:text>
