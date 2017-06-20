@@ -261,7 +261,7 @@
     <xsl:template match="id | margin | image"/>
     
     <xsl:template match="lb">
-        <xsl:text>&#x0A;</xsl:text>
+        <xsl:text>&lt;br/&gt;</xsl:text>
     </xsl:template>
     
     <xsl:template match="cont">
