@@ -261,7 +261,7 @@
     
     <xsl:template match="id"/>
     
-    <xsl:template match="cont[preceding-sibling::*[/normalize-space()]]">
+    <xsl:template match="cont">
         <xsl:text>&#x0A;</xsl:text>
         <xsl:text>*</xsl:text>
         <xsl:text>[continued]</xsl:text>
