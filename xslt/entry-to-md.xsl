@@ -218,7 +218,9 @@
         pro |
         sn |
         tl |
-        tmp">
+        tmp |
+        del |
+        add">
         <xsl:text>&lt;span class="</xsl:text>
         <xsl:value-of select="local-name()"/>
         <xsl:text>"&gt;</xsl:text>
