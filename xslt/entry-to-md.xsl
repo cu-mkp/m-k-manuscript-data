@@ -141,6 +141,16 @@
         <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
 
+    <xsl:template match="head[parent::*[child::margin]]">
+    <xsl:text>&#x0A;</xsl:text>
+    <xsl:text>&#x0A;</xsl:text>
+    <xsl:text>** </xsl:text>
+    <xsl:apply-templates/>
+    <xsl:text>** </xsl:text>
+    <xsl:text>&#x0A;</xsl:text>
+    <xsl:text>&#x0A;</xsl:text>
+    </xsl:template>
+
     <xsl:template match="ab | div">
         <xsl:text>&#x0A;</xsl:text>
         <xsl:apply-templates/>
@@ -155,7 +165,8 @@
         <xsl:text>&#160;margin</xsl:text>
         <xsl:text>*</xsl:text>
         <xsl:text>&#x0A;</xsl:text>
-        <xsl:text>&gt; </xsl:text><xsl:text>&#x0A;</xsl:text>
+        <xsl:text>&gt; </xsl:text>
+        <xsl:text>&#x0A;</xsl:text>
         <xsl:text>&gt; </xsl:text>
         <xsl:apply-templates/>
         <xsl:text>&#x0A;</xsl:text>
