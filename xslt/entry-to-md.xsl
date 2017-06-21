@@ -168,6 +168,7 @@
         <xsl:text>&gt; </xsl:text>
         <xsl:text>&#x0A;</xsl:text>
         <xsl:text>&gt; </xsl:text>
+        <xsl:text>&#x0A;</xsl:text>
         <xsl:text>&gt; </xsl:text>
         <xsl:apply-templates/>
         <xsl:text>&#x0A;</xsl:text>

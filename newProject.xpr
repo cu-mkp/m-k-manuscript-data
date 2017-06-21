@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/104v_tc_preTEI.xml</String>
+                                    <String>tc/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -25,11 +25,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/104r_tc_preTEI.xml</String>
+                                    <String>tl/104v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -40,11 +40,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/103v_tc_preTEI.xml</String>
+                                    <String>tl/104r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -55,11 +55,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/103r_tc_preTEI.xml</String>
+                                    <String>tl/103v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -70,11 +70,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/102v_tc_preTEI.xml</String>
+                                    <String>tl/103r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -85,11 +85,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/102r_tc_preTEI.xml</String>
+                                    <String>tl/102v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -100,11 +100,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/101v_tc_preTEI.xml</String>
+                                    <String>tl/102r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -115,11 +115,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/101r_tc_preTEI.xml</String>
+                                    <String>tl/101v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -130,11 +130,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/100v_tc_preTEI.xml</String>
+                                    <String>tl/101r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -145,11 +145,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/100r_tc_preTEI.xml</String>
+                                    <String>tl/100v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -160,11 +160,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/099v_tc_preTEI.xml</String>
+                                    <String>tl/100r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -175,11 +175,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/099r_tc_preTEI.xml</String>
+                                    <String>tl/099v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -190,11 +190,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/098v_tc_preTEI.xml</String>
+                                    <String>tl/099r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -205,11 +205,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/098r_tc_preTEI.xml</String>
+                                    <String>tl/098v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -220,11 +220,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/097v_tc_preTEI.xml</String>
+                                    <String>tl/098r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -235,11 +235,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/097r_tc_preTEI.xml</String>
+                                    <String>tl/097v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -250,11 +250,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/096v_tc_preTEI.xml</String>
+                                    <String>tl/097r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -265,11 +265,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/096r_tc_preTEI.xml</String>
+                                    <String>tl/096v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -280,11 +280,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/095v_tc_preTEI.xml</String>
+                                    <String>tl/096r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -295,11 +295,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/095r_tc_preTEI.xml</String>
+                                    <String>tl/095v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -310,11 +310,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/094v_tc_preTEI.xml</String>
+                                    <String>tl/095r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -325,11 +325,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/094r_tc_preTEI.xml</String>
+                                    <String>tl/094v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -340,11 +340,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/093v_tc_preTEI.xml</String>
+                                    <String>tl/094r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -355,11 +355,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/093r_tc_preTEI.xml</String>
+                                    <String>tl/093v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -370,11 +370,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/092v_tc_preTEI.xml</String>
+                                    <String>tl/093r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -385,11 +385,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/092r_tc_preTEI.xml</String>
+                                    <String>tl/092v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -400,11 +400,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/091v_tc_preTEI.xml</String>
+                                    <String>tl/092r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -415,11 +415,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/091r_tc_preTEI.xml</String>
+                                    <String>tl/091v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -430,11 +430,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/090v_tc_preTEI.xml</String>
+                                    <String>tl/091r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -445,11 +445,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/090r_tc_preTEI.xml</String>
+                                    <String>tl/090v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -460,11 +460,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/089v_tc_preTEI.xml</String>
+                                    <String>tl/090r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -475,11 +475,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/089r_tc_preTEI.xml</String>
+                                    <String>tl/089v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -490,11 +490,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/088v_tc_preTEI.xml</String>
+                                    <String>tl/089r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -505,11 +505,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/088r_tc_preTEI.xml</String>
+                                    <String>tl/088v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -520,11 +520,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/087v_tc_preTEI.xml</String>
+                                    <String>tl/088r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -535,11 +535,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/087r_tc_preTEI.xml</String>
+                                    <String>tl/087v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -550,11 +550,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/086v_tc_preTEI.xml</String>
+                                    <String>tl/087r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -565,11 +565,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/086r_tc_preTEI.xml</String>
+                                    <String>tl/086v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -580,11 +580,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/085v_tc_preTEI.xml</String>
+                                    <String>tl/086r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -595,11 +595,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/085r_tc_preTEI.xml</String>
+                                    <String>tl/085v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -610,11 +610,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/084v_tc_preTEI.xml</String>
+                                    <String>tl/085r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -625,11 +625,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/084r_tc_preTEI.xml</String>
+                                    <String>tl/084v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -640,11 +640,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/083v_tc_preTEI.xml</String>
+                                    <String>tl/084r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -655,11 +655,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/083r_tc_preTEI.xml</String>
+                                    <String>tl/083v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -670,11 +670,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/082v_tc_preTEI.xml</String>
+                                    <String>tl/083r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -685,11 +685,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/082r_tc_preTEI.xml</String>
+                                    <String>tl/082v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -700,11 +700,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/081v_tc_preTEI.xml</String>
+                                    <String>tl/082r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -715,11 +715,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/081r_tc_preTEI.xml</String>
+                                    <String>tl/081v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -730,11 +730,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/080v_tc_preTEI.xml</String>
+                                    <String>tl/081r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -745,11 +745,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/080r_tc_preTEI.xml</String>
+                                    <String>tl/080v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -760,11 +760,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/079v_tc_preTEI.xml</String>
+                                    <String>tl/080r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -775,11 +775,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/079r_tc_preTEI.xml</String>
+                                    <String>tl/079v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -790,11 +790,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/078v_tc_preTEI.xml</String>
+                                    <String>tl/079r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -805,11 +805,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/078r_tc_preTEI.xml</String>
+                                    <String>tl/078v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -820,11 +820,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/077v_tc_preTEI.xml</String>
+                                    <String>tl/078r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -835,11 +835,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/077r_tc_preTEI.xml</String>
+                                    <String>tl/077v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -850,11 +850,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/076v_tc_preTEI.xml</String>
+                                    <String>tl/077r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -865,11 +865,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/076r_tc_preTEI.xml</String>
+                                    <String>tl/076v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -880,11 +880,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/075v_tc_preTEI.xml</String>
+                                    <String>tl/076r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -895,11 +895,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/075r_tc_preTEI.xml</String>
+                                    <String>tl/075v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -910,11 +910,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/074v_tc_preTEI.xml</String>
+                                    <String>tl/075r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -925,11 +925,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/074r_tc_preTEI.xml</String>
+                                    <String>tl/074v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -940,11 +940,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/073v_tc_preTEI.xml</String>
+                                    <String>tl/074r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -955,11 +955,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/073r_tc_preTEI.xml</String>
+                                    <String>tl/073v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -970,11 +970,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/072v_tc_preTEI.xml</String>
+                                    <String>tl/073r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -985,11 +985,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/072r_tc_preTEI.xml</String>
+                                    <String>tl/072v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1000,11 +1000,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/071v_tc_preTEI.xml</String>
+                                    <String>tl/072r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1015,11 +1015,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/071r_tc_preTEI.xml</String>
+                                    <String>tl/071v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1030,11 +1030,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/070v_tc_preTEI.xml</String>
+                                    <String>tl/071r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1045,11 +1045,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/070r_tc_preTEI.xml</String>
+                                    <String>tl/070v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1060,11 +1060,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/069v_tc_preTEI.xml</String>
+                                    <String>tl/070r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1075,11 +1075,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/069r_tc_preTEI.xml</String>
+                                    <String>tl/069v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1090,11 +1090,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/068v_tc_preTEI.xml</String>
+                                    <String>tl/069r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1105,11 +1105,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/068r_tc_preTEI.xml</String>
+                                    <String>tl/068v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1120,11 +1120,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/067v_tc_preTEI.xml</String>
+                                    <String>tl/068r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1135,11 +1135,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/067r_tc_preTEI.xml</String>
+                                    <String>tl/067v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1150,11 +1150,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/066v_tc_preTEI.xml</String>
+                                    <String>tl/067r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1165,11 +1165,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/066r_tc_preTEI.xml</String>
+                                    <String>tl/066v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1180,11 +1180,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/065v_tc_preTEI.xml</String>
+                                    <String>tl/066r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1195,11 +1195,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/065r_tc_preTEI.xml</String>
+                                    <String>tl/065v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1210,11 +1210,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/064v_tc_preTEI.xml</String>
+                                    <String>tl/065r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1225,11 +1225,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/064r_tc_preTEI.xml</String>
+                                    <String>tl/064v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1240,11 +1240,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/063v_tc_preTEI.xml</String>
+                                    <String>tl/064r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1255,11 +1255,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/063r_tc_preTEI.xml</String>
+                                    <String>tl/063v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1270,11 +1270,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/062v_tc_preTEI.xml</String>
+                                    <String>tl/063r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1285,11 +1285,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/062r_tc_preTEI.xml</String>
+                                    <String>tl/062v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1300,11 +1300,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/061v_tc_preTEI.xml</String>
+                                    <String>tl/062r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1315,11 +1315,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/061r_tc_preTEI.xml</String>
+                                    <String>tl/061v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1330,11 +1330,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/060v_tc_preTEI.xml</String>
+                                    <String>tl/061r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1345,11 +1345,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/060r_tc_preTEI.xml</String>
+                                    <String>tl/060v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1360,11 +1360,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/059v_tc_preTEI.xml</String>
+                                    <String>tl/060r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1375,11 +1375,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/059r_tc_preTEI.xml</String>
+                                    <String>tl/059v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1390,11 +1390,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/058v_tc_preTEI.xml</String>
+                                    <String>tl/059r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1405,11 +1405,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/058r_tc_preTEI.xml</String>
+                                    <String>tl/058v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1420,11 +1420,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/057v_tc_preTEI.xml</String>
+                                    <String>tl/058r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1435,11 +1435,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/057r_tc_preTEI.xml</String>
+                                    <String>tl/057v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1450,11 +1450,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/056v_tc_preTEI.xml</String>
+                                    <String>tl/057r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1465,11 +1465,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/056r_tc_preTEI.xml</String>
+                                    <String>tl/056v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1480,11 +1480,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/055v_tc_preTEI.xml</String>
+                                    <String>tl/056r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1495,11 +1495,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/055r_tc_preTEI.xml</String>
+                                    <String>tl/055v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1510,11 +1510,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/054v_tc_preTEI.xml</String>
+                                    <String>tl/055r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1525,11 +1525,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/054r_tc_preTEI.xml</String>
+                                    <String>tl/054v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1540,11 +1540,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/053v_tc_preTEI.xml</String>
+                                    <String>tl/054r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1555,11 +1555,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/053r_tc_preTEI.xml</String>
+                                    <String>tl/053v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1570,11 +1570,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/052v_tc_preTEI.xml</String>
+                                    <String>tl/053r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1585,11 +1585,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/052r_tc_preTEI.xml</String>
+                                    <String>tl/052v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1600,11 +1600,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/051v_tc_preTEI.xml</String>
+                                    <String>tl/052r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1615,11 +1615,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/051r_tc_preTEI.xml</String>
+                                    <String>tl/051v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1630,11 +1630,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/050v_tc_preTEI.xml</String>
+                                    <String>tl/051r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1645,11 +1645,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/050r_tc_preTEI.xml</String>
+                                    <String>tl/050v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1660,11 +1660,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/049v_tc_preTEI.xml</String>
+                                    <String>tl/050r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1675,11 +1675,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/049r_tc_preTEI.xml</String>
+                                    <String>tl/049v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1690,11 +1690,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/048v_tc_preTEI.xml</String>
+                                    <String>tl/049r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1705,11 +1705,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/048r_tc_preTEI.xml</String>
+                                    <String>tl/048v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1720,11 +1720,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/047v_tc_preTEI.xml</String>
+                                    <String>tl/048r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1735,11 +1735,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/047r_tc_preTEI.xml</String>
+                                    <String>tl/047v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1750,11 +1750,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/046v_tc_preTEI.xml</String>
+                                    <String>tl/047r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1765,11 +1765,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/046r_tc_preTEI.xml</String>
+                                    <String>tl/046v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1780,11 +1780,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/045v_tc_preTEI.xml</String>
+                                    <String>tl/046r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1795,11 +1795,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/045r_tc_preTEI.xml</String>
+                                    <String>tl/045v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1810,11 +1810,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/044v_tc_preTEI.xml</String>
+                                    <String>tl/045r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1825,11 +1825,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/044r_tc_preTEI.xml</String>
+                                    <String>tl/044v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1840,11 +1840,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/043v_tc_preTEI.xml</String>
+                                    <String>tl/044r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1855,11 +1855,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/043r_tc_preTEI.xml</String>
+                                    <String>tl/043v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1870,11 +1870,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/042v_tc_preTEI.xml</String>
+                                    <String>tl/043r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1885,11 +1885,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/042r_tc_preTEI.xml</String>
+                                    <String>tl/042v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1900,11 +1900,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/041v_tc_preTEI.xml</String>
+                                    <String>tl/042r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1915,11 +1915,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/041r_tc_preTEI.xml</String>
+                                    <String>tl/041v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1930,11 +1930,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/040v_tc_preTEI.xml</String>
+                                    <String>tl/041r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1945,11 +1945,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/040r_tc_preTEI.xml</String>
+                                    <String>tl/040v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1960,11 +1960,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/039v_tc_preTEI.xml</String>
+                                    <String>tl/040r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1975,11 +1975,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/039r_tc_preTEI.xml</String>
+                                    <String>tl/039v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1990,11 +1990,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/038v_tc_preTEI.xml</String>
+                                    <String>tl/039r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2005,11 +2005,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/038r_tc_preTEI.xml</String>
+                                    <String>tl/038v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2020,11 +2020,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/037v_tc_preTEI.xml</String>
+                                    <String>tl/038r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2035,11 +2035,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/037r_tc_preTEI.xml</String>
+                                    <String>tl/037v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2050,11 +2050,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/036v_tc_preTEI.xml</String>
+                                    <String>tl/037r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2065,11 +2065,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/036r_tc_preTEI.xml</String>
+                                    <String>tl/036v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2080,11 +2080,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/035v_tc_preTEI.xml</String>
+                                    <String>tl/036r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2095,11 +2095,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/035r_tc_preTEI.xml</String>
+                                    <String>tl/035v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2110,11 +2110,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/034v_tc_preTEI.xml</String>
+                                    <String>tl/035r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2125,11 +2125,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/034r_tc_preTEI.xml</String>
+                                    <String>tl/034v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2140,11 +2140,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/033v_tc_preTEI.xml</String>
+                                    <String>tl/034r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2155,11 +2155,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/033r_tc_preTEI.xml</String>
+                                    <String>tl/033v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2170,11 +2170,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/032v_tc_preTEI.xml</String>
+                                    <String>tl/033r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2185,11 +2185,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/032r_tc_preTEI.xml</String>
+                                    <String>tl/032v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2200,11 +2200,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/031v_tc_preTEI.xml</String>
+                                    <String>tl/032r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2215,11 +2215,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/031r_tc_preTEI.xml</String>
+                                    <String>tl/031v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2230,11 +2230,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/030v_tc_preTEI.xml</String>
+                                    <String>tl/031r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2245,11 +2245,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/030r_tc_preTEI.xml</String>
+                                    <String>tl/030v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2260,11 +2260,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/029v_tc_preTEI.xml</String>
+                                    <String>tl/030r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2275,11 +2275,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/029r_tc_preTEI.xml</String>
+                                    <String>tl/029v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2290,11 +2290,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/028v_tc_preTEI.xml</String>
+                                    <String>tl/029r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2305,11 +2305,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/028r_tc_preTEI.xml</String>
+                                    <String>tl/028v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2320,11 +2320,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/027v_tc_preTEI.xml</String>
+                                    <String>tl/028r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2335,11 +2335,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/027r_tc_preTEI.xml</String>
+                                    <String>tl/027v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2350,11 +2350,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/026v_tc_preTEI.xml</String>
+                                    <String>tl/027r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2365,11 +2365,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/026r_tc_preTEI.xml</String>
+                                    <String>tl/026v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2380,11 +2380,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/025v_tc_preTEI.xml</String>
+                                    <String>tl/026r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2395,11 +2395,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/025r_tc_preTEI.xml</String>
+                                    <String>tl/025v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2410,11 +2410,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/024v_tc_preTEI.xml</String>
+                                    <String>tl/025r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2425,11 +2425,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/024r_tc_preTEI.xml</String>
+                                    <String>tl/024v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2440,11 +2440,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/023v_tc_preTEI.xml</String>
+                                    <String>tl/024r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2455,11 +2455,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/023r_tc_preTEI.xml</String>
+                                    <String>tl/023v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2470,11 +2470,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/022v_tc_preTEI.xml</String>
+                                    <String>tl/023r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2485,11 +2485,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/022r_tc_preTEI.xml</String>
+                                    <String>tl/022v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2500,11 +2500,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/021v_tc_preTEI.xml</String>
+                                    <String>tl/022r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2515,11 +2515,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/021r_tc_preTEI.xml</String>
+                                    <String>tl/021v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2530,11 +2530,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/020v_tc_preTEI.xml</String>
+                                    <String>tl/021r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2545,11 +2545,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/020r_tc_preTEI.xml</String>
+                                    <String>tl/020v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2560,11 +2560,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/019v_tc_preTEI.xml</String>
+                                    <String>tl/020r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2575,11 +2575,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/019r_tc_preTEI.xml</String>
+                                    <String>tl/019v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2590,11 +2590,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/018v_tc_preTEI.xml</String>
+                                    <String>tl/019r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2605,11 +2605,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/018r_tc_preTEI.xml</String>
+                                    <String>tl/018v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2620,11 +2620,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/017v_tc_preTEI.xml</String>
+                                    <String>tl/018r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2635,11 +2635,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/017r_tc_preTEI.xml</String>
+                                    <String>tl/017v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2650,11 +2650,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/016v_tc_preTEI.xml</String>
+                                    <String>tl/017r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2665,11 +2665,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/016r_tc_preTEI.xml</String>
+                                    <String>tl/016v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2680,11 +2680,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/015v_tc_preTEI.xml</String>
+                                    <String>tl/016r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2695,11 +2695,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/015r_tc_preTEI.xml</String>
+                                    <String>tl/015v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2710,11 +2710,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/014v_tc_preTEI.xml</String>
+                                    <String>tl/015r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2725,11 +2725,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/014r_tc_preTEI.xml</String>
+                                    <String>tl/014v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2740,11 +2740,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/013v_tc_preTEI.xml</String>
+                                    <String>tl/014r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2755,11 +2755,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/013r_tc_preTEI.xml</String>
+                                    <String>tl/013v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2770,11 +2770,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/012v_tc_preTEI.xml</String>
+                                    <String>tl/013r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2785,11 +2785,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/012r_tc_preTEI.xml</String>
+                                    <String>tl/012v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2800,11 +2800,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/011v_tc_preTEI.xml</String>
+                                    <String>tl/012r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2815,11 +2815,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/011r_tc_preTEI.xml</String>
+                                    <String>tl/011v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2830,11 +2830,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/010v_tc_preTEI.xml</String>
+                                    <String>tl/011r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2845,11 +2845,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/010r_tc_preTEI.xml</String>
+                                    <String>tl/010v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2860,11 +2860,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/009v_tc_preTEI.xml</String>
+                                    <String>tl/010r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2875,11 +2875,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/009r_tc_preTEI.xml</String>
+                                    <String>tl/009v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2890,11 +2890,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/008v_tc_preTEI.xml</String>
+                                    <String>tl/009r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2905,11 +2905,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/008r_tc_preTEI.xml</String>
+                                    <String>tl/008v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2920,11 +2920,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/007v_tc_preTEI.xml</String>
+                                    <String>tl/008r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2935,11 +2935,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/007r_tc_preTEI.xml</String>
+                                    <String>tl/007v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2950,11 +2950,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/006v_tc_preTEI.xml</String>
+                                    <String>tl/007r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2965,11 +2965,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/006r_tc_preTEI.xml</String>
+                                    <String>tl/006v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2980,11 +2980,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/005v_tc_preTEI.xml</String>
+                                    <String>tl/006r_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -2995,11 +2995,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/005r_tc_preTEI.xml</String>
+                                    <String>tl/005v_tl_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tc</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -3104,6 +3104,114 @@
                                             </field>
                                             <field name="value">
                                                 <String>tc</String>
+                                            </field>
+                                            <field name="hasXPathValue">
+                                                <Boolean>false</Boolean>
+                                            </field>
+                                        </transformationParameter>
+                                    </list>
+                                </field>
+                                <field name="cascadingStylesheets">
+                                    <String-array/>
+                                </field>
+                                <field name="xslTransformer">
+                                    <String>Saxon-HE</String>
+                                </field>
+                                <field name="extensionURLs">
+                                    <String-array/>
+                                </field>
+                            </scenario>
+                            <scenario>
+                                <field name="advancedOptionsMap">
+                                    <null/>
+                                </field>
+                                <field name="name">
+                                    <String>folio-to-md-tl</String>
+                                </field>
+                                <field name="baseURL">
+                                    <String></String>
+                                </field>
+                                <field name="footerURL">
+                                    <String></String>
+                                </field>
+                                <field name="fOPMethod">
+                                    <String>pdf</String>
+                                </field>
+                                <field name="fOProcessorName">
+                                    <String>Apache FOP</String>
+                                </field>
+                                <field name="headerURL">
+                                    <String></String>
+                                </field>
+                                <field name="inputXSLURL">
+                                    <String>${pdu}/xslt/entry-to-md.xsl</String>
+                                </field>
+                                <field name="inputXMLURL">
+                                    <String>${currentFileURL}</String>
+                                </field>
+                                <field name="defaultScenario">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="isFOPPerforming">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="type">
+                                    <String>XSL</String>
+                                </field>
+                                <field name="saveAs">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="openInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="outputFile">
+                                    <null/>
+                                </field>
+                                <field name="outputResource">
+                                    <null/>
+                                </field>
+                                <field name="openOtherLocationInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="locationToOpenInBrowserURL">
+                                    <null/>
+                                </field>
+                                <field name="openInEditor">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInHTMLPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInXMLPane">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="showInSVGPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInResultSetPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="useXSLTInput">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="xsltParams">
+                                    <list>
+                                        <transformationParameter>
+                                            <field name="paramDescription">
+                                                <paramDescriptor>
+                                                    <field name="localName">
+                                                        <String>mode</String>
+                                                    </field>
+                                                    <field name="prefix">
+                                                        <null/>
+                                                    </field>
+                                                    <field name="namespace">
+                                                        <null/>
+                                                    </field>
+                                                </paramDescriptor>
+                                            </field>
+                                            <field name="value">
+                                                <String>tl</String>
                                             </field>
                                             <field name="hasXPathValue">
                                                 <Boolean>false</Boolean>
