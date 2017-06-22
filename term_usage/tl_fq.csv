@@ -1,394 +1,415 @@
-moule,117
-moules,55
-mortier,26
-pinceau,24
-baston,24
-crusol,23
-chassis,23
-fourneau,21
-four,18
-fil,17
-lime,15
-costeau,13
-burin,13
-vaisseau,12
-tamis,12
-mabre,12
-esponge,11
-pot,10
-marteau,10
-boicte,10
-mortiers,9
-gabions,9
-crampons,9
-forge,8
-escuelle,8
-chaple,8
-souflet,7
-corde,7
-broisse,7
-souflets,6
-roue,6
-plane,6
-pilon,6
-papier,6
-doigt,6
-creuset,6
-cousteau,6
-cheville,6
-chandelle,6
-molle,5
-guimbelet,5
-four,5
-four,5
-filet,5
-cloche,5
-ciselet,5
-chevilles,5
-aiguille,5
-verre,4
-trancheplume,4
-pincettes,4
-petite,4
-moulle,4
-lanterne,4
-grille,4
-fourchette,4
-creusets,4
-cordeau,4
-ciselets,4
-ciseaulx,4
-ciseau,4
-chauldron,4
-bouteille,4
-boicte,4
-Moules,4
-Moule,4
-tuile,3
-sac,3
-presse,3
-poincte,3
-plume,3
-molles,3
-medaille,3
-linge,3
-fisselle,3
-esguille,3
-eaulx,3
-desgrusouer,3
-dent,3
-de,3
-dan,3
-cuillere,3
-crusols,3
-creusol,3
-compas,3
-chapeau,3
-cercle,3
-carte,3
-broisses,3
-bouteille,3
-boisseau,3
-Mortiers,3
-vis,2
-tuyau,2
-toile,2
-tenailles,2
-table,2
-serviette,2
-regle,2
-presses,2
-pots,2
-poelonne,2
-plaste,2
-pinsettes,2
-panier,2
-pallette,2
-pallete,2
-palle,2
-onglet,2
-mortier,2
-mortier,2
-manche,2
-main,2
-lime,2
-lames,2
-houtils,2
-grande,2
-gouge,2
-gand,2
-fornaise,2
-forges,2
-foreter,2
-foret,2
-espingle,2
-esgrusouer,2
-de,2
-couvercle,2
-costeaulx,2
-cornue,2
-cloches,2
-cabats,2
-bullitoire,2
-brasier,2
-boicte,2
-barre,2
-aneau,2
-ambu,2
-aiguilles,2
-verge,1
-vaisseau,1
-vaisseau,1
-vaisse,1
-tuyle,1
-tuiles,1
-tuelle,1
-truelle,1
-triboulet,1
-trepies,1
-trepier,1
-trepan,1
-trencheplume,1
-tour,1
-tenaille,1
-tapon,1
-tamisee,1
-syringue,1
-souldouers,1
-souldouer,1
-semal,1
-sayettes,1
-sayes,1
-sacs,1
-roulleau,1
-roue,1
-roue,1
-roue,1
-rond,1
-rolleaux,1
-rolleau,1
-ribot,1
-reigle,1
-rateau,1
-rasteaulx,1
-raspe,1
-rabot,1
-quarreau,1
-quaisse,1
-presse,1
-poue,1
-portes,1
-portepiece,1
-porte,1
-porphire,1
-poinctes,1
-poinctes,1
-poinctes,1
-poincte,1
-poincte,1
-poincte,1
-poincons,1
-poincon,1
-poin,1
-poilonnes,1
-poilonne,1
-poil,1
-poches,1
-platene,1
-plat,1
-place,1
-piquet,1
-pinceaulx,1
-pilons,1
-pierre,1
-pierre,1
-pierre,1
-pierre,1
-picquet,1
-petite,1
-petit,1
-perches,1
-peigne,1
-pallette,1
-palles,1
-palle,1
-pales,1
-painceau,1
-oreille,1
-ongle,1
-ongle,1
-moulles,1
-moulle,1
-moulins,1
-moules,1
-moules,1
-moules,1
-mouler,1
-moulent,1
-moulee,1
-moule,1
-moule,1
-mouchouer,1
-mortier,1
-mortier,1
-mortier,1
-molets,1
-moles,1
-modelle,1
-mirouers,1
-mirouer,1
-mattelas,1
-matras,1
-martinets,1
-marteaulx,1
-manches,1
-manche,1
-mail,1
-mable,1
-long,1
-limes,1
-liment,1
-les,1
-lanternes,1
-lampes,1
-lampe,1
-lame,1
-lame,1
-horologe,1
-grand,1
-grand,1
-globe,1
-gibessiere,1
-gibbessiere,1
-gands,1
-fusil,1
-fraiser,1
-fours,1
-fourneau,1
-fourneau,1
-fournaise,1
-fourd,1
-fourchettes,1
-four,1
-four,1
-four,1
-four,1
-four,1
-four,1
-fornaise,1
-formes,1
-forge,1
-forchettes,1
-filtre,1
-fils,1
-fil,1
-fil,1
-feu,1
-fer,1
-fer,1
-fer,1
-estrier,1
-estamine,1
-estamiere,1
-escaille,1
-entonnouer,1
-enclumes,1
-enclume,1
-eguille,1
-eau,1
-eau,1
-eau,1
-eau,1
-drap,1
-doibs,1
-despingle,1
-des,1
-demy,1
-demy,1
-demy,1
-de,1
-de,1
-de,1
-de,1
-de,1
-de,1
-de,1
-de,1
-de,1
-dargent,1
-dardille,1
-curedent,1
-cureaureille,1
-cuivre,1
-cuillere,1
-cuillere,1
-cueillerees,1
-cueillere,1
-cueillere,1
-crusole,1
-croix,1
-creusel,1
-crampo{n}s,1
-couvercle,1
-cousteaulx,1
-couges,1
-cornues,1
-cordette,1
-corde,1
-contour,1
-coissinet,1
-coisinet,1
-coings,1
-clou,1
-clochettes,1
-cloche,1
-claire,1
-chevro{n}s,1
-chaulderon,1
-chandelle,1
-cassolle,1
-cassete,1
-carton,1
-carreau,1
-caisse,1
-brunisson,1
-broche,1
-bouteure,1
-bouteilles,1
-bouche,1
-boitte,1
-boitte,1
-boictes,1
-boictes,1
-bocals,1
-bocal,1
-billots,1
-billot,1
-bastons,1
-bastoneau,1
-baston,1
-baston,1
-baston,1
-assiette,1
-anneaulx,1
-alembics,1
-alembic,1
-aleine,1
-alambic,1
-alaine,1
-acier,1
-Tamis,1
-Souflets,1
-Roue,1
-Presse,1
-Mouler,1
-Mortier,1
-Four,1
-Four,1
-Fil,1
-Crusol,1
-Creusets,1
-Cousteau,1
-Broisses,1
-trancheplume,1
-,1
+119|moule
+51|moules
+35|chassis
+27|mortier
+27|crusol
+25|baston
+24|pinceau
+23|fourneau
+19|four
+17|fil de fer
+16|mabre
+16|boicte
+14|costeau
+13|lime
+12|vaisseau
+12|tamis
+11|pot
+11|marteau
+11|esponge
+11|creuset
+11|burin
+9|papier
+9|mortiers
+9|gabions
+9|forge
+9|doigt
+9|crampons
+8|escuelle
+8|chaple
+8|broisse
+7|souflet
+7|linge
+6|souflets
+6|roue
+6|plane
+6|pilon
+6|cousteau
+6|corde
+6|ciseaulx
+6|chevilles
+6|cheville
+6|chandelle
+5|molle
+5|grille
+5|four de reverberation
+5|four a vent
+5|filet
+5|cloche
+5|ciselet
+5|aiguille
+4|verre
+4|tuile
+4|trancheplume
+4|tamisee
+4|pincettes
+4|moulle
+4|lanterne
+4|guimbelet
+4|fourchette
+4|doigts
+4|dent
+4|creusets
+4|cordeau
+4|ciseau
+4|chauldron
+4|carte
+4|bouteille
+4|boicte de cuir
+4|Moules
+4|Moule
+3|table
+3|presse
+3|porphire
+3|poincte
+3|plume
+3|molles
+3|medaille
+3|foret
+3|fisselle
+3|esguille
+3|eaulx
+3|de chien
+3|dan de loup
+3|cuillere
+3|crusols
+3|creusol
+3|compas
+3|ciselets
+3|chapeau
+3|cercle
+3|broisses
+3|bouteille de verre
+3|boisseau
+3|Mortiers
+2|vis
+2|verge
+2|tuyau
+2|toile
+2|tenailles
+2|serviette
+2|sac
+2|regle
+2|presses
+2|pots
+2|poelonne
+2|plaste
+2|pinsettes
+2|panier
+2|pallette
+2|pallete
+2|palle
+2|onglet
+2|ongle
+2|mortier de verre
+2|mortier de fer
+2|manche
+2|main
+2|lime doulce
+2|lames
+2|gouge
+2|gand
+2|fornaise
+2|forges
+2|foreter
+2|espingle
+2|esgrusouer
+2|double tamis
+2|desgrusouer
+2|de fer
+2|de cuir
+2|couvercle
+2|cousteaulx
+2|costeaulx
+2|cornue
+2|cloches
+2|carton
+2|cabats
+2|bullitoire
+2|brasier
+2|boicte 
+2|barre
+2|aneau
+2|ambu
+2|aiguilles
+1|vaisseau plombe
+1|vaisseau destaing
+1|vaisse
+1|tuyle
+1|tuiles
+1|tuelle
+1|truelle
+1|triboulet
+1|trepies
+1|trepier
+1|trepan
+1|trencheplume
+1|tour
+1|tenaille
+1|tapon de la bouteille
+1|tapon
+1|tamiser
+1|tamis double
+1|table soit
+1|syringue
+1|souldouers de vitrier
+1|souldouer
+1|semal
+1|sayettes
+1|sayes
+1|sacs
+1|roulleau
+1|roue de plomb
+1|roue de
+1|rolleaux
+1|rolleau
+1|ribot
+1|reigle
+1|rateau
+1|rasteaulx
+1|raspe
+1|rabot
+1|quarreau
+1|quaisse
+1|presse a rouleaux
+1|poue
+1|portes
+1|portepiece
+1|porte piece
+1|poinctes de fil de fer
+1|poinctes de fer
+1|poinctes de bois
+1|poincte de diamant
+1|poincte dacier
+1|poincte 
+1|poincons
+1|poincon
+1|poin
+1|poilonnes
+1|poilonne
+1|poile
+1|poil
+1|poches de cuir
+1|platte de fer
+1|platene
+1|plat destain
+1|plat
+1|planche
+1|place du fouye
+1|piquet
+1|pinceaulx a huile
+1|pilons
+1|pierre ponce
+1|pierre noire
+1|pierre de touche
+1|pierre
+1|picquet de fer
+1|petit compas
+1|petit baston
+1|perches
+1|peigne
+1|pallette a huile
+1|palles fer
+1|palle baisse
+1|pales
+1|painceau
+1|paille
+1|os de seiche
+1|oreille
+1|ongle du poulce droict
+1|moulles
+1|moulle de cuivre
+1|moulins
+1|moules froids
+1|moules destain
+1|moules destaim
+1|moules de cuivre graves au burin ou en pierre ou
+1|mouler
+1|moulent
+1|moulee
+1|moule de plomb
+1|moule de cuivre
+1|mouchouer
+1|mortier de ver f
+1|mortier de metal ou de fer
+1|mortier de cuivre
+1|mortier de bronze
+1|molets
+1|moles
+1|modelle en papier
+1|mirouers
+1|mirouer de cristal
+1|mattelas
+1|matras
+1|martinets
+1|marteaulx
+1|manches
+1|manche de linge
+1|manche de chemise
+1|mains
+1|mail
+1|mable
+1|long verre
+1|limes quarree
+1|liment
+1|les pastissiers se servent
+1|lanternes
+1|lampes
+1|lampe
+1|lame de cuivre
+1|houtils
+1|horologe de sable
+1|guinbelet
+1|grattebroisse de letton
+1|gratte
+1|grand doigt
+1|globe
+1|gibessiere
+1|gibbessiere
+1|gands
+1|fusil
+1|fraiser
+1|fours de barbiers
+1|fourneau de briques
+1|fourneau a vent a foeu de fusion
+1|fournaise
+1|fourd
+1|fourchettes
+1|four de charbon
+1|four couvert
+1|four a ventde souflets
+1|four a vent souflets
+1|four a souflets
+1|four a boys
+1|fornaise des potiers
+1|formes de fer &amp; de cuivre
+1|forge dorfevre
+1|forchettes
+1|filtre
+1|fils de
+1|fil de letton
+1|feu de reverbera{ti}on
+1|fer tranchant
+1|fer coupa{n}t
+1|fer
+1|estrier
+1|estamine
+1|estamiere
+1|escaille
+1|entonnouer
+1|enclumes
+1|enclume
+1|en terre
+1|eguille
+1|eau de roche
+1|eau coloree
+1|eau 
+1|eau
+1|drap
+1|doibs
+1|despingle
+1|desgrusoue
+1|des verriers
+1|demy moule
+1|demy mole
+1|demy
+1|de verre
+1|de reverberation
+1|de relief
+1|de pur cuivre
+1|de plomb
+1|de pierre
+1|de bronze
+1|dargent
+1|dardille
+1|curedent
+1|cureaureille
+1|cuivre
+1|cuir
+1|cuillere de boys
+1|cuillere de bois
+1|cueillerees dargent
+1|cueillere de fer
+1|cueillere
+1|crusole
+1|cruset
+1|croix de S{ainc}t Andre
+1|creusel
+1|crampo{n}s
+1|couvercle de cuir
+1|couges
+1|cornues
+1|cordette
+1|corde despinette
+1|contour
+1|coings
+1|cloue
+1|clou
+1|clochettes
+1|cloche de boys
+1|claire
+1|chevro{n}s
+1|chaulderon
+1|chandelle de suif
+1|chandelle de cire
+1|cassolle dest
+1|cassolle de fer ou metal
+1|cassete
+1|carreau
+1|cane
+1|caisse
+1|brunisson
+1|broche de boys
+1|bouteure dorfevres
+1|bouteilles de verre
+1|bouche
+1|boitte de buys
+1|boitte
+1|boite
+1|boictes de verre
+1|boictes
+1|bocals
+1|bocal
+1|billots
+1|billot
+1|bien unye
+1|bien unie
+1|bastons
+1|bastoneau
+1|baston rond duquel
+1|baston plat
+1|baston de saul
+1|assiette
+1|anneaulx
+1|alembics
+1|alembic
+1|aleine dacier
+1|alambic
+1|alaine
+1|acier
+1|Tamis
+1|Souflets
+1|Roue de cuivre
+1|Presse
+1|Mouler
+1|Mortier
+1|Four a vent
+1|Four a souflets
+1|Fil de fer
+1|Crusol
+1|Creusets
+1|Cousteau
+1|Broisses
+1|trancheplume
+1|linge
+1|
