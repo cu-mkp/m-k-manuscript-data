@@ -199,7 +199,7 @@
         <xsl:text>&#x0A;</xsl:text>
         <xsl:text>&gt; </xsl:text>
         <xsl:text>*at&#160;</xsl:text>
-        <xsl:value-of select="replace(margin/text(), '-', ' ')"/>
+        <xsl:value-of select="replace(margin[1]/text(), '-', ' ')"/>
         <xsl:text>&#160;margin</xsl:text>
         <xsl:text>*</xsl:text>
         <xsl:text>&#x0A;</xsl:text>
