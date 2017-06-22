@@ -35,26 +35,37 @@
             <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
         </xsl:for-each>
     </xsl:param>
+        
+    <xsl:param name="measurements">
+        <xsl:for-each select="distinct-values(//ms[normalize-space()]/normalize-space())">
+            <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
+        </xsl:for-each>
+    </xsl:param>
     
-<!--    
-    <xsl:param name="colors">
-        <xsl:for-each select="distinct-values(//color[normalize-space()]/normalize-space())">
+    <xsl:param name="bodyparts">
+        <xsl:for-each select="distinct-values(//bp[normalize-space()]/normalize-space())">
+            <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
+        </xsl:for-each>
+    </xsl:param>
+    
+    <xsl:param name="environments">
+        <xsl:for-each select="distinct-values(//env[normalize-space()]/normalize-space())">
+            <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
+        </xsl:for-each>
+    </xsl:param>
+    
+    <xsl:param name="places">
+        <xsl:for-each select="distinct-values(//pl[normalize-space()]/normalize-space())">
             <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
         </xsl:for-each>
     </xsl:param>
 
-    <xsl:param name="activities">
-        <xsl:for-each select="distinct-values(//activity[@type]/@type)">
+
+    <xsl:param name="professions">
+        <xsl:for-each select="distinct-values(//pro[normalize-space()]/normalize-space())">
             <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
         </xsl:for-each>
     </xsl:param>
-    
-    <xsl:param name="purposes">
-        <xsl:for-each select="distinct-values(//purpose[@type]/@type)">
-            <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
-        </xsl:for-each>
-    </xsl:param>
--->
 
     <xsl:template match="root">
         <xsl:message select="$materials"/>
@@ -99,28 +110,55 @@
             <xsl:text>]</xsl:text>
             <xsl:text>&#x0A;</xsl:text>
 -->
+            <!-- materials -->
             <xsl:text>materials: </xsl:text>
             <xsl:text>[</xsl:text>
             <xsl:value-of select="translate(translate($materials, '[', ''), ']', '')"/>
             <xsl:text>]</xsl:text>
             <xsl:text>&#x0A;</xsl:text>
+            <!-- tools-->
             <xsl:text>tools: </xsl:text>
             <xsl:text>[</xsl:text>
             <xsl:value-of select="translate(translate($tools, '[', ''), ']', '')"/>
             <xsl:text>]</xsl:text>
             <xsl:text>&#x0A;</xsl:text>
-<!--
-            <xsl:text>colors: </xsl:text>
+            <!-- measurements -->
+            <xsl:text>measurements: </xsl:text>
             <xsl:text>[</xsl:text>
-            <xsl:value-of select="translate(translate($colors, '[', ''), ']', '')"/>
+            <xsl:value-of select="translate(translate($measurements, '[', ''), ']', '')"/>
             <xsl:text>]</xsl:text>
             <xsl:text>&#x0A;</xsl:text>
--->
+            <!-- body parts -->
+            <xsl:text>bodyparts: </xsl:text>
+            <xsl:text>[</xsl:text>
+            <xsl:value-of select="translate(translate($bodyparts, '[', ''), ']', '')"/>
+            <xsl:text>]</xsl:text>
+            <xsl:text>&#x0A;</xsl:text>
+            <!-- places -->
+            <xsl:text>places: </xsl:text>
+            <xsl:text>[</xsl:text>
+            <xsl:value-of select="translate(translate($places, '[', ''), ']', '')"/>
+            <xsl:text>]</xsl:text>
+            <xsl:text>&#x0A;</xsl:text>
+            <!-- plants -->
             <xsl:text>plants: </xsl:text>
             <xsl:text>[</xsl:text>
             <xsl:value-of select="translate(translate($plants, '[', ''), ']', '')"/>
             <xsl:text>]</xsl:text>
             <xsl:text>&#x0A;</xsl:text>
+            <!-- professions -->
+            <xsl:text>professions: </xsl:text>
+            <xsl:text>[</xsl:text>
+            <xsl:value-of select="translate(translate($professions, '[', ''), ']', '')"/>
+            <xsl:text>]</xsl:text>
+            <xsl:text>&#x0A;</xsl:text>
+            <!-- environments -->
+            <xsl:text>environments: </xsl:text>
+            <xsl:text>[</xsl:text>
+            <xsl:value-of select="translate(translate($environments, '[', ''), ']', '')"/>
+            <xsl:text>]</xsl:text>
+            <xsl:text>&#x0A;</xsl:text>
+            <!-- animals -->
             <xsl:text>animals: </xsl:text>
             <xsl:text>[</xsl:text>
             <xsl:value-of select="translate(translate($animals, '[', ''), ']', '')"/>
