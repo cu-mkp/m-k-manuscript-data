@@ -4,47 +4,104 @@
   <start>
     <element name="root">
       <mixed>
-      <element name="page">
-        <data type="NMTOKEN"/>
-      </element>
-      <element name="image">
-        <data type="anyURI"/>
-      </element>
-      <oneOrMore>
-        <choice>
-          <!--          <text/> -->
-          <ref name="ab"/>
-          <ref name="figure"/>
-          <!--          <ref name="id"/>
-          <ref name="pro"/>
--->
-          <element name="div">
-            <optional>
-              <ref name="cont"/>
-            </optional>
-            <ref name="id"/>
-            <optional>
-              <ref name="margin"/>
-            </optional>
-            <optional>
-              <ref name="head"/>
-            </optional>
-            <oneOrMore>
-              <choice>
-                <text/>
-                <ref name="ab"/>
-                <ref name="m.phrase"/>
-              </choice>
-            </oneOrMore>
-            <optional>
-              <ref name="cont"/>
-            </optional>
-          </element>
-        </choice>
-      </oneOrMore>
+        <element name="page">
+          <data type="NMTOKEN"/>
+        </element>
+        <element name="image">
+          <data type="anyURI"/>
+        </element>
+        <oneOrMore>
+          <choice>
+            <!--          <text/> -->
+            <ref name="e.ab"/>
+            <ref name="e.figure"/>
+            <ref name="e.div"/>
+          </choice>
+        </oneOrMore>
       </mixed>
     </element>
   </start>
+  
+  <!--                   -->
+  <!-- BLOCK ELEMENTS    -->
+  <!--                   -->
+
+
+  <!-- ab -->
+  <define name="e.ab">
+    <element name="ab">
+      <optional>
+        <ref name="cont"/>
+      </optional>
+      <optional>
+        <ref name="margin"/>
+      </optional>
+      <ref name="m.phrase"/>
+      <optional>
+        <ref name="cont"/>
+      </optional>
+    </element>
+  </define>
+
+
+  <!-- div -->
+  <define name="e.div">
+    <element name="div">
+      <optional>
+        <ref name="cont"/>
+      </optional>
+      <ref name="id"/>
+      <optional>
+        <ref name="margin"/>
+      </optional>
+      <optional>
+        <ref name="head"/>
+      </optional>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="e.ab"/>
+          <ref name="m.phrase"/>
+        </choice>
+      </oneOrMore>
+      <optional>
+        <ref name="cont"/>
+      </optional>
+    </element>
+  </define>
+
+  <!-- figure -->
+  <define name="e.figure">
+    <element name="figure">
+      <optional>
+        <ref name="id"/>
+      </optional>
+      <optional>
+        <ref name="margin"/>
+      </optional>
+      <optional>
+        <element name="link">
+          <data type="anyURI"/>
+        </element>
+      </optional>
+      
+      <oneOrMore>
+        <choice>
+          <ref name="m.phrase"/>
+          <element name="caption">
+            <oneOrMore>
+              <choice>
+                <text/>
+                <ref name="m.phrase"/>
+              </choice>
+            </oneOrMore>
+          </element>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+
+   <!-- head -->
   <define name="head">
     <element name="head">
       <oneOrMore>
@@ -55,7 +112,7 @@
           <ref name="bp"/>
           <ref name="del"/>
           <ref name="env"/>
-          <ref name="figure"/>
+          <ref name="e.figure"/>
           <ref name="it"/>
           <ref name="la"/>
           <ref name="lb"/>
@@ -74,6 +131,7 @@
       </oneOrMore>
     </element>
   </define>
+
   <define name="add">
     <element name="add">
       <oneOrMore>
@@ -82,7 +140,7 @@
           <ref name="al"/>
           <ref name="bp"/>
           <ref name="del"/>
-          <ref name="figure"/>
+          <ref name="e.figure"/>
           <ref name="head"/>
           <ref name="la"/>
           <ref name="lb"/>
@@ -96,49 +154,8 @@
       </oneOrMore>
     </element>
   </define>
-  <define name="ab">
-    <element name="ab">
-      <optional>
-        <ref name="cont"/>
-      </optional>
-      <optional>
-        <ref name="margin"/>
-      </optional>
-      <ref name="m.phrase"/>
-      <optional>
-        <ref name="cont"/>
-      </optional>
-    </element>
-  </define>
-  <define name="figure">
-    <element name="figure">
-      <oneOrMore>
-        <choice>
-          <text/>
-          <ref name="del"/>
-          <ref name="id"/>
-          <ref name="m"/>
-          <ref name="margin"/>
-          <ref name="ms"/>
-          <element name="caption">
-            <oneOrMore>
-              <choice>
-                <text/>
-                <ref name="del"/>
-                <ref name="lb"/>
-                <ref name="margin"/>
-                <ref name="ms"/>
-                <ref name="pl"/>
-              </choice>
-            </oneOrMore>
-          </element>
-          <element name="link">
-            <data type="anyURI"/>
-          </element>
-        </choice>
-      </oneOrMore>
-    </element>
-  </define>
+
+
   <define name="margin">
     <element name="margin">
       <optional>
@@ -310,14 +327,14 @@
     <oneOrMore>
       <choice>
         <text/>
-        <ref name="ab"/>
+        <ref name="e.ab"/>
         <ref name="add"/>
         <ref name="al"/>
         <ref name="bp"/>
         <ref name="cn"/>
         <ref name="del"/>
         <ref name="env"/>
-        <ref name="figure"/>
+        <ref name="e.figure"/>
         <ref name="fr"/>
         <ref name="it"/>
         <ref name="la"/>
