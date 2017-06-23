@@ -1,6 +1,7 @@
 <root><page>047v</page> 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f100.image</image>
 
+
 <div>
 <id>p047v_a1</id>
 <head>A beverage which tastes like wine</head>
@@ -11,21 +12,22 @@
 
 </div>
 
+
 <div>
 <id>p047v_a2</id>
 <head>Melting</head>
 
 
-<ab>Some, to make it run neatly, put half <m>metal</m> &amp; half <m>copper</m>. Others take one part of <m>potin</m> &amp; one part of <del>copper</del> <m>latten</m>. Others take one part of candlesticks <m>latten</m> &amp; one part of basin <m>latten</m>. And among basins, the <m>latten</m> of larger ones is more brittle than that of skillets, because in order to make the round shape so small it is necessary that the substance be softer. For big ones, that have a more ample round shape, the substance can be more brittle. In any event, the most brittle <m>latten</m> runs better, &amp; casts more neatly, but it must be cast very <del>neat</del> hot. <del>One</del> When one wants to cast, one casts <m>lead</m> into the substance, which makes it flow &amp; run &amp; goes up in smoke, &amp; keeps the mold from corrupting. And if you want to cast <fr>pieces de foeu</fr>, mix in more <m>rosette</m> than <m>latten</m>, so that it is less breakable. The crucibles for melting <m>metal</m> should be better than those for <pro>glassmakers</pro> for glass is not as heavy as <m>metal</m>. And in this instance, one needs to lute the crucibles with <m>earth</m> and crushed <m>glass</m>.</ab>
+<ab>Some, to make it run neatly, put <ms>half</ms> <m>metal</m> &amp; <ms>half</ms> <m>copper</m>. Others take one <ms>part</ms> of <m>potin</m> &amp; one <ms>part</ms> of <del><m>copper</m></del> <m>latten</m>. Others take one <ms>part</ms> of <m>candlesticks latten</m> &amp; one <ms>part</ms> of <m>basin latten</m>. And among basins, the <m>latten</m> of larger ones is more brittle than that of skillets, because in order to make the round shape so small it is necessary that the substance be softer. For big ones, that have a more ample round shape, the substance can be more brittle. In any event, the most brittle <m>latten</m> runs better, &amp; casts more neatly, but it must be cast very <del>neat</del> hot. <del>One</del> When one wants to cast, one casts <m>lead</m> into the substance, which makes it flow &amp; run &amp; goes up in smoke, &amp; keeps the <tl>mold</tl> from corrupting. And if you want to cast <fr>pieces de foeu</fr>, mix in more <m>rosette</m> than <m>latten</m>, so that it is less breakable. The <tl>crucibles for melting <m>metal</m></tl> should be better than <tl>those for <pro>glassmakers</pro></tl> for <m>glass</m> is not as heavy as <m>metal</m>. And in this instance, one needs to lute the <tl>crucibles</tl> with <m>earth</m> and <m>crushed glass</m>.</ab>
 
 
 </div>
 <div>
 <id>p047v_a3</id>
-<head>Crucibles</head>
+<head><tl>Crucibles</tl></head>
 
 
-<ab>Those made in winter &amp; humid weather are not good. Those of the founders should be thick and should be luted.</ab>
+<ab>Those made <tmp>in winter</tmp> &amp; <env><tmp>humid weather</tmp></env> are not good. Those of the founders should be thick and should be luted.</ab>
 
 
 </div>
@@ -34,5 +36,5 @@
 <head>Cast</head>
 
 
-<ab>Finely calcinated <m>pumice stone</m> casts 22 carat <m>gold</m> without repair, but it needs to be ablaze and red like the metal. And it withstands several casts.</ab>
+<ab>Finely <m>calcinated pumice stone</m> casts 22 <ms>carat</ms> <m>gold</m> without repair, but it needs to be ablaze and red like the <m>metal</m>. And it withstands several casts.</ab>
 </div></root>

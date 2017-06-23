@@ -1,42 +1,44 @@
-62|lb
+64|lb
 39|quintal
 25|℥
 17|pan
+15|moictie
 14|l{i}b{vre}
 12|pas
-12|moictie
 10|pans
 9|quintals
 8|partye
-6|doigts
+7|doigts
 5|jours
+5|jour
+5|heures
 4|par
-4|ligne
-4|jour
+4|onces
 4|doigt
 4|aulne
 3|unces
 3|quart
 3|pieds
-3|pied
 3|pars
 3|once
 3|nuict
+3|ligne
 3|lien
 3|lanterne
 3|heure
 3|deniers
+2|un bon quart dheure
+2|seau
 2|quint{als}
-2|quintalz
 2|poulsses
 2|poulse
 2|plusieurs jours
+2|pied
 2|petit doigt
 2|pa{n}s
+2|patenostres
 2|pan de roy
-2|onces
 2|lignes
-2|heures
 2|gros
 2|gabions
 2|denier
@@ -48,13 +50,18 @@
 1|une ou deux heures
 1|une ou deux
 1|une heure &amp; demye
+1|un quart dheure
 1|un pan
+1|un demy 
 1|trois pars
 1|trois ou 4 jours
 1|travers de doigt
 1|soir
+1|seau en heure
 1|roy
 1|quintaulx
+1|quintalz
+1|quarts
 1|quarte partye
 1|quarte
 1|pousses
@@ -67,7 +74,6 @@
 1|pied de roy
 1|petits morceaulx
 1|pa{n}
-1|patenostres
 1|parties
 1|part
 1|paniers
@@ -77,8 +83,8 @@
 1|palle
 1|pailles
 1|ou 5 doigts
+1|nuit
 1|noix
-1|nois
 1|moys
 1|montpellier
 1|matin
@@ -89,6 +95,7 @@
 1|long comme la largeur de 4
 1|large de ii ou trois doitgs
 1|large
+1|la grosseur
 1|joinctee
 1|iours
 1|iour
@@ -101,7 +108,9 @@
 1|grain
 1|gouttes
 1|fort co{mm}e de grands livres imprimes
+1|espesseurs de papier
 1|empan
+1|dune noix
 1|douziesme partye
 1|dour
 1|double liard
@@ -116,13 +125,12 @@
 1|deulx 
 1|den{iers}
 1|degre de chaleur
-1|coquille de
 1|cinquiesme
 1|carats
 1|caques
 1|canes
 1|cane
+1|bras
 1|balles
 1|aultant que tu vouldras faire longue une cartuche
 1|an
-1|Trois quarts
