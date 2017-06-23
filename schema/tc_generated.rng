@@ -3,6 +3,7 @@
   datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
   <start>
     <element name="root">
+      <mixed>
       <element name="page">
         <data type="NMTOKEN"/>
       </element>
@@ -32,13 +33,7 @@
               <choice>
                 <text/>
                 <ref name="ab"/>
-                <ref name="add"/>
-                <ref name="del"/>
-                <ref name="figure"/>
-                <ref name="lb"/>
-                <ref name="man"/>
-                <ref name="margin"/>
-                <ref name="pro"/>
+                <ref name="m.phrase"/>
               </choice>
             </oneOrMore>
             <optional>
@@ -47,6 +42,7 @@
           </element>
         </choice>
       </oneOrMore>
+      </mixed>
     </element>
   </start>
   <define name="head">
@@ -102,99 +98,16 @@
   </define>
   <define name="ab">
     <element name="ab">
-      <oneOrMore>
-        <choice>
-          <text/>
-          <ref name="ab"/>
-          <ref name="add"/>
-          <ref name="al"/>
-          <ref name="bp"/>
-          <ref name="cn"/>
-          <ref name="cont"/>
-          <ref name="del"/>
-          <ref name="env"/>
-          <ref name="figure"/>
-          <ref name="head"/>
-          <ref name="id"/>
-          <ref name="it"/>
-          <ref name="la"/>
-          <ref name="lb"/>
-          <ref name="m"/>
-          <ref name="man"/>
-          <ref name="margin"/>
-          <ref name="ms"/>
-          <ref name="pa"/>
-          <ref name="pl"/>
-          <ref name="pn"/>
-          <ref name="pro"/>
-          <ref name="sn"/>
-          <ref name="sup"/>
-          <ref name="tl"/>
-          <ref name="tmp"/>
-          <element name="corr">
-            <oneOrMore>
-              <choice>
-                <text/>
-                <ref name="del"/>
-              </choice>
-            </oneOrMore>
-          </element>
-          <element name="gap">
-            <empty/>
-          </element>
-          <element name="gk">
-            <oneOrMore>
-              <choice>
-                <text/>
-                <ref name="lb"/>
-              </choice>
-            </oneOrMore>
-          </element>
-          <element name="greek">
-            <data type="NCName"/>
-          </element>
-          <element name="md">
-            <oneOrMore>
-              <choice>
-                <text/>
-                <ref name="m"/>
-              </choice>
-            </oneOrMore>
-          </element>
-          <element name="mu">
-            <data type="NCName"/>
-          </element>
-          <element name="oc">
-            <oneOrMore>
-              <choice>
-                <text/>
-                <ref name="al"/>
-                <ref name="env"/>
-              </choice>
-            </oneOrMore>
-          </element>
-          <element name="rub">
-            <oneOrMore>
-              <choice>
-                <text/>
-                <ref name="lb"/>
-                <ref name="m"/>
-                <ref name="pro"/>
-              </choice>
-            </oneOrMore>
-          </element>
-          <element name="underline">
-            <oneOrMore>
-              <choice>
-                <text/>
-                <ref name="del"/>
-                <ref name="figure"/>
-                <ref name="m"/>
-              </choice>
-            </oneOrMore>
-          </element>
-        </choice>
-      </oneOrMore>
+      <optional>
+        <ref name="cont"/>
+      </optional>
+      <optional>
+        <ref name="margin"/>
+      </optional>
+      <ref name="m.phrase"/>
+      <optional>
+        <ref name="cont"/>
+      </optional>
     </element>
   </define>
   <define name="figure">
@@ -259,6 +172,7 @@
   </define>
   <define name="man">
     <element name="man">
+      <ref name="margin"/>
       <ref name="m.phrase"/>
     </element>
   </define>
@@ -383,7 +297,7 @@
     </element>
   </define>
   <define name="rub">
-    <element name="oc">
+    <element name="rub">
       <ref name="m.phrase"/>
     </element>
   </define>
@@ -399,6 +313,7 @@
         <ref name="del"/>
         <ref name="env"/>
         <ref name="figure"/>
+        <ref name="fr"/>
         <ref name="it"/>
         <ref name="la"/>
         <ref name="lb"/>
