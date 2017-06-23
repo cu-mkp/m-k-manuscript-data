@@ -21,7 +21,7 @@
       </mixed>
     </element>
   </start>
-  
+
   <!--                   -->
   <!-- BLOCK ELEMENTS    -->
   <!--                   -->
@@ -31,14 +31,14 @@
   <define name="e.ab">
     <element name="ab">
       <optional>
-        <ref name="cont"/>
+        <ref name="e.cont"/>
       </optional>
       <optional>
-        <ref name="margin"/>
+        <ref name="e.margin"/>
       </optional>
       <ref name="m.phrase"/>
       <optional>
-        <ref name="cont"/>
+        <ref name="e.cont"/>
       </optional>
     </element>
   </define>
@@ -48,14 +48,14 @@
   <define name="e.div">
     <element name="div">
       <optional>
-        <ref name="cont"/>
+        <ref name="e.cont"/>
       </optional>
-      <ref name="id"/>
+      <ref name="e.id"/>
       <optional>
-        <ref name="margin"/>
+        <ref name="e.margin"/>
       </optional>
       <optional>
-        <ref name="head"/>
+        <ref name="e.head"/>
       </optional>
       <oneOrMore>
         <choice>
@@ -65,7 +65,7 @@
         </choice>
       </oneOrMore>
       <optional>
-        <ref name="cont"/>
+        <ref name="e.cont"/>
       </optional>
     </element>
   </define>
@@ -74,10 +74,10 @@
   <define name="e.figure">
     <element name="figure">
       <optional>
-        <ref name="id"/>
+        <ref name="e.id"/>
       </optional>
       <optional>
-        <ref name="margin"/>
+        <ref name="e.margin"/>
       </optional>
       <optional>
         <element name="link">
@@ -102,61 +102,91 @@
   </define>
 
    <!-- head -->
-  <define name="head">
+  <define name="e.head">
     <element name="head">
-      <oneOrMore>
-        <choice>
-          <text/>
-          <ref name="add"/>
-          <ref name="al"/>
-          <ref name="bp"/>
-          <ref name="del"/>
-          <ref name="env"/>
-          <ref name="e.figure"/>
-          <ref name="it"/>
-          <ref name="la"/>
-          <ref name="lb"/>
-          <ref name="m"/>
-          <ref name="man"/>
-          <ref name="margin"/>
-          <ref name="ms"/>
-          <ref name="pa"/>
-          <ref name="pl"/>
-          <ref name="pn"/>
-          <ref name="pro"/>
-          <ref name="sn"/>
-          <ref name="tl"/>
-          <ref name="tmp"/>
-        </choice>
-      </oneOrMore>
+      <ref name="m.phrase"/>
     </element>
   </define>
 
-  <define name="add">
+  <!--                           -->
+  <!-- TRANSCRIPTION ELEMENTS    -->
+  <!--                           -->
+
+  <define name="e.add">
     <element name="add">
-      <oneOrMore>
-        <choice>
-          <text/>
-          <ref name="al"/>
-          <ref name="bp"/>
-          <ref name="del"/>
-          <ref name="e.figure"/>
-          <ref name="head"/>
-          <ref name="la"/>
-          <ref name="lb"/>
-          <ref name="m"/>
-          <ref name="ms"/>
-          <ref name="pa"/>
-          <ref name="pl"/>
-          <ref name="pro"/>
-          <ref name="tl"/>
-        </choice>
-      </oneOrMore>
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+   
+  <!-- corr -->
+  <define name="e.corr">
+    <element name="corr">
+      <ref name="m.phrase"/>
     </element>
   </define>
 
+  <!-- del -->
+  <define name="e.del">
+    <element name="del">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
 
-  <define name="margin">
+   <!-- gap -->
+  <define name="e.gap">
+    <element name="gap">
+      <empty/>
+    </element>
+  </define>
+
+  <!-- lb -->
+  <define name="e.lb">
+    <element name="lb">
+      <empty/>
+    </element>
+  </define>
+  
+  <!-- man -->
+  <define name="e.man">
+    <element name="man">
+      <ref name="e.margin"/>
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+  
+  <!-- rub -->
+  <define name="e.rub">
+    <element name="rub">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+  
+  <!-- sup -->
+  <define name="e.sup">
+    <element name="sup">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+  
+  <!-- underline -->
+  <define name="e.underline">
+    <element name="underline">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+  
+  <!--                           -->
+  <!--  ATTR-LIKE ELEMENTS       -->
+  <!--                           -->
+
+  <define name="e.id">
+    <element name="id">
+      <data type="NMTOKEN"/>
+    </element>
+  </define>
+  
+  <!-- margin -->
+  <define name="e.margin">
     <element name="margin">
       <optional>
         <choice>
@@ -172,192 +202,198 @@
       </optional>
     </element>
   </define>
-  <define name="lb">
-    <element name="lb">
-      <empty/>
-    </element>
-  </define>
-  <define name="del">
-    <element name="del">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-  <define name="id">
-    <element name="id">
-      <data type="NMTOKEN"/>
-    </element>
-  </define>
-  <define name="man">
-    <element name="man">
-      <ref name="margin"/>
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-  <define name="pro">
-    <element name="pro">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-  <define name="cont">
+  
+  <define name="e.cont">
     <element name="cont">
       <empty/>
     </element>
   </define>
-  <define name="ms">
-    <element name="ms">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-  <define name="al">
-    <element name="al">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-  <define name="it">
-    <element name="it">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-  <define name="env">
-    <element name="env">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-  <define name="m">
-    <element name="m">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-  <define name="bp">
-    <element name="bp">
-      <text/>
-    </element>
-  </define>
-  <define name="pa">
-    <element name="pa">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-  <define name="la">
-    <element name="la">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-  <define name="fr">
-    <element name="fr">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-  <define name="tmp">
-    <element name="tmp">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-  <define name="tl">
-    <element name="tl">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-  <define name="sn">
-    <element name="sn">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-  <define name="pl">
-    <element name="pl">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-  <define name="pn">
-    <element name="pn">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-  <define name="sup">
-    <element name="sup">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-  <define name="cn">
-    <element name="cn">
-      <text/>
-    </element>
-  </define>
-  <define name="corr">
-    <element name="corr">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-  <define name="gap">
-    <element name="gap">
-      <empty/>
-    </element>
-  </define>
-  <define name="gk">
+  
+  <!--                            -->
+  <!--  LANGUAGE ELEMENTS         -->
+  <!--                            -->
+  
+  <!-- gk -->
+  <define name="e.gk">
     <element name="gk">
       <ref name="m.phrase"/>
     </element>
   </define>
-  <define name="mu">
-    <element name="mu">
+  
+  <!-- it -->
+  <define name="e.it">
+    <element name="it">
       <ref name="m.phrase"/>
     </element>
   </define>
-  <define name="md">
-    <element name="md">
+  
+  <!-- la -->
+  <define name="e.la">
+    <element name="la">
       <ref name="m.phrase"/>
     </element>
   </define>
-  <define name="oc">
+  
+  <!-- fr -->
+  <define name="e.fr">
+    <element name="fr">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+  
+  <!-- oc -->
+  <define name="e.oc">
     <element name="oc">
       <ref name="m.phrase"/>
     </element>
   </define>
-  <define name="rub">
-    <element name="rub">
+  <!--                            -->
+  <!--  SEMANTIC ELEMENTS         -->
+  <!--                            -->
+  
+  <!-- bp -->
+  <define name="e.bp">
+    <element name="bp">
+      <text/>
+    </element>
+  </define>
+  
+  <!-- pro -->
+  <define name="e.pro">
+    <element name="pro">
       <ref name="m.phrase"/>
     </element>
   </define>
-  <define name="underline">
-    <element name="underline">
+  <!-- ms -->
+  <define name="e.ms">
+    <element name="ms">
       <ref name="m.phrase"/>
     </element>
   </define>
+  
+  <!-- al -->
+  <define name="e.al">
+    <element name="al">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+  
+  <!-- env -->
+  <define name="e.env">
+    <element name="env">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+  
+  <!-- m -->
+  <define name="e.m">
+    <element name="m">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+
+  <!-- pa -->
+  <define name="e.pa">
+    <element name="pa">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+
+  <!-- tmp -->
+  <define name="e.tmp">
+    <element name="tmp">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+  
+  <!-- tl -->
+  <define name="e.tl">
+    <element name="tl">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+  
+  <!-- sn -->
+  <define name="e.sn">
+    <element name="sn">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+  
+  <!-- pl -->
+  <define name="e.pl">
+    <element name="pl">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+  
+  <!-- pn -->
+  <define name="e.pn">
+    <element name="pn">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+
+  <!-- cn -->
+  <define name="e.cn">
+    <element name="cn">
+      <text/>
+    </element>
+  </define>
+  
+  <!-- mu -->
+  <define name="e.mu">
+    <element name="mu">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+  
+  <!-- md -->
+  <define name="e.md">
+    <element name="md">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+  
+
+<!-- PHRASE MODEL -->
+  
+  <!-- m.phrase -->
   <define name="m.phrase">
     <oneOrMore>
       <choice>
         <text/>
         <ref name="e.ab"/>
-        <ref name="add"/>
-        <ref name="al"/>
-        <ref name="bp"/>
-        <ref name="cn"/>
-        <ref name="del"/>
-        <ref name="env"/>
+        <ref name="e.add"/>
+        <ref name="e.al"/>
+        <ref name="e.bp"/>
+        <ref name="e.cn"/>
+        <ref name="e.del"/>
+        <ref name="e.env"/>
         <ref name="e.figure"/>
-        <ref name="fr"/>
-        <ref name="it"/>
-        <ref name="la"/>
-        <ref name="lb"/>
-        <ref name="m"/>
-        <ref name="man"/>
-        <ref name="ms"/>
-        <ref name="pa"/>
-        <ref name="pl"/>
-        <ref name="pn"/>
-        <ref name="pro"/>
-        <ref name="sn"/>
-        <ref name="sup"/>
-        <ref name="tl"/>
-        <ref name="tmp"/>
-        <ref name="corr"/>
-        <ref name="gap"/>
-        <ref name="gk"/>
-        <ref name="md"/>
-        <ref name="mu"/>
-        <ref name="oc"/>
-        <ref name="rub"/>
-        <ref name="underline"/>
+        <ref name="e.fr"/>
+        <ref name="e.it"/>
+        <ref name="e.la"/>
+        <ref name="e.lb"/>
+        <ref name="e.m"/>
+        <ref name="e.man"/>
+        <ref name="e.ms"/>
+        <ref name="e.pa"/>
+        <ref name="e.pl"/>
+        <ref name="e.pn"/>
+        <ref name="e.pro"/>
+        <ref name="e.sn"/>
+        <ref name="e.sup"/>
+        <ref name="e.tl"/>
+        <ref name="e.tmp"/>
+        <ref name="e.corr"/>
+        <ref name="e.gap"/>
+        <ref name="e.gk"/>
+        <ref name="e.md"/>
+        <ref name="e.mu"/>
+        <ref name="e.oc"/>
+        <ref name="e.rub"/>
+        <ref name="e.underline"/>
       </choice>
     </oneOrMore>
   </define>
