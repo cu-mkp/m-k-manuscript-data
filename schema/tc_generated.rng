@@ -301,6 +301,11 @@
       <ref name="m.phrase"/>
     </element>
   </define>
+  <define name="underline">
+    <element name="underline">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
   <define name="m.phrase">
     <oneOrMore>
       <choice>
@@ -335,6 +340,7 @@
         <ref name="mu"/>
         <ref name="oc"/>
         <ref name="rub"/>
+        <ref name="underline"/>
       </choice>
     </oneOrMore>
   </define>

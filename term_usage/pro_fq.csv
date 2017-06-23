@@ -1,5 +1,5 @@
 26|orfevres
-17|fondeurs
+18|fondeurs
 14|painctres
 8|verriers
 7|pintiers
@@ -16,6 +16,7 @@
 4|Painctre
 3|pionniers
 3|ouvriers
+3|canoniers
 3|apotiquaires
 3|M{aistr}e
 3|
@@ -32,7 +33,6 @@
 2|imprimeurs
 2|fondeurs dartiglerie
 2|courroieur
-2|canoniers
 2|apothiquaires
 2|Vitrier
 2|Pintiers
@@ -40,6 +40,7 @@
 2|Orfevre
 2|Marchant
 2|Horlogeurs
+2|Canonier
 1|villageois
 1|verrier
 1|vendangeurs
@@ -154,6 +155,5 @@
 1|Chirurgiens
 1|Ceulx qui font les gardes despees
 1|Celuy qui faict profession de travailler a huile
-1|Canonier
 1|Boulangier
 1|@Vitrier

@@ -3,28 +3,28 @@
 51|chassis
 28|mortier
 28|crusol
+24|pinceau
 24|fourneau
 24|baston
 23|four
-22|pinceau
-19|mabre
+20|mabre
 17|fil de fer
 17|costeau
 16|boicte
 15|lime
 13|burin
 12|tamis
+11|pot
 11|marteau
 11|esponge
 11|creuset
 10|vaisseau
 10|forge
+10|doigt
 9|souflets
-9|pot
 9|mortiers
 9|linge
 9|gabions
-9|doigt
 9|crampons
 9|broisse
 8|porphire
@@ -85,6 +85,7 @@
 3|dan de loup
 3|cuillere
 3|creusol
+3|compas
 3|chapeau
 3|cercle
 3|carton
@@ -128,6 +129,7 @@
 2|foreter
 2|espingle
 2|esgrusouer
+2|drap
 2|double tamis
 2|desgrusouer
 2|de fer
@@ -137,7 +139,6 @@
 2|cousteaulx
 2|costeaulx
 2|cornue
-2|compas
 2|cloches
 2|cabats
 2|bullitoire
@@ -262,6 +263,7 @@
 1|mortier de bronze
 1|molets
 1|moles
+1|modelle en papier
 1|mirouers
 1|mirouer de cristal
 1|mattelas
@@ -332,7 +334,6 @@
 1|eau coloree
 1|eau 
 1|eau
-1|drap
 1|double tamys
 1|double des apothiquaires
 1|double

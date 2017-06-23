@@ -7,7 +7,7 @@
 11|bled
 10|foeuilles
 8|orme
-6|noix
+7|noix
 5|raisin
 5|pensee
 5|pastel
@@ -15,13 +15,14 @@
 5|foeille
 5|abres
 5|abre
+4|saule
 4|sauge
 4|millet
+4|lin
 3|vigne
-3|saule
-3|lin
 3|figuier
 3|bouquet
+3|aspic
 3|asperge
 2|tim
 2|tige
@@ -35,7 +36,6 @@
 2|bouton
 2|bleds
 2|aulx
-2|aspic
 1|viole
 1|vinette
 1|vesse
@@ -47,6 +47,7 @@
 1|sauvignons
 1|saulge
 1|sarment
+1|safran
 1|rosier
 1|rose soulcy
 1|ronce
@@ -55,7 +56,10 @@
 1|raisins
 1|racine de cucurme
 1|queues de pourrceaulx
+1|queue de cheval
 1|pruneaux
+1|prele
+1|poys
 1|pomole
 1|pommes
 1|poix
@@ -75,6 +79,7 @@
 1|noyer
 1|noyau
 1|noisettes
+1|nois
 1|musc
 1|mil
 1|mericotons
@@ -108,6 +113,7 @@
 1|fleur de roses
 1|fleur de la rose
 1|feuillage
+1|febve
 1|fayan
 1|despinette
 1|des rosiers
@@ -124,6 +130,7 @@
 1|buys
 1|buy
 1|bruiere
+1|bresil
 1|branche de provenche
 1|bouttons
 1|boutons

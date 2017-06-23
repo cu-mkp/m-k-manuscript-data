@@ -1,4 +1,4 @@
-64|lb
+67|lb
 39|quintal
 25|℥
 17|pan
@@ -14,15 +14,16 @@
 5|heures
 4|par
 4|onces
+4|ligne
 4|doigt
 4|aulne
 3|unces
 3|quart
 3|pieds
+3|pied
 3|pars
 3|once
 3|nuict
-3|ligne
 3|lien
 3|lanterne
 3|heure
@@ -30,10 +31,10 @@
 2|un bon quart dheure
 2|seau
 2|quint{als}
+2|quintalz
 2|poulsses
 2|poulse
 2|plusieurs jours
-2|pied
 2|petit doigt
 2|pa{n}s
 2|patenostres
@@ -50,6 +51,7 @@
 1|une ou deux heures
 1|une ou deux
 1|une heure &amp; demye
+1|une demy coquille de
 1|un quart dheure
 1|un pan
 1|un demy 
@@ -60,7 +62,6 @@
 1|seau en heure
 1|roy
 1|quintaulx
-1|quintalz
 1|quarts
 1|quarte partye
 1|quarte
@@ -85,6 +86,7 @@
 1|ou 5 doigts
 1|nuit
 1|noix
+1|nois
 1|moys
 1|montpellier
 1|matin
