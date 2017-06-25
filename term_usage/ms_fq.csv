@@ -1,32 +1,33 @@
-67|lb
+71|lb
 39|quintal
-25|℥
+33|℥
+19|moictie
 17|pan
-15|moictie
 14|l{i}b{vre}
 12|pas
+11|partye
 10|pans
 9|quintals
-8|partye
-7|doigts
-5|jours
-5|jour
-5|heures
+8|jours
+8|doigts
+7|heures
+7|heure
+6|jour
+6|doigt
+5|onces
+4|pied
 4|par
-4|onces
+4|nuict
 4|ligne
-4|doigt
 4|aulne
 3|unces
 3|quart
 3|pieds
-3|pied
 3|pars
 3|once
-3|nuict
 3|lien
 3|lanterne
-3|heure
+3|hora
 3|deniers
 2|un bon quart dheure
 2|seau
@@ -38,7 +39,10 @@
 2|petit doigt
 2|pa{n}s
 2|patenostres
+2|parties
+2|partie
 2|pan de roy
+2|moys
 2|lignes
 2|gros
 2|gabions
@@ -57,14 +61,21 @@
 1|un demy 
 1|trois pars
 1|trois ou 4 jours
+1|trois
 1|travers de doigt
+1|teston
+1|tables
 1|soir
 1|seau en heure
 1|roy
 1|quintaulx
 1|quarts
 1|quarte partye
+1|quarte partie
 1|quarte
+1|proportion
+1|presque moictie
+1|pousses en quarre
 1|pousses
 1|poulces
 1|poix
@@ -75,7 +86,6 @@
 1|pied de roy
 1|petits morceaulx
 1|pa{n}
-1|parties
 1|part
 1|paniers
 1|panier
@@ -87,14 +97,15 @@
 1|nuit
 1|noix
 1|nois
-1|moys
 1|montpellier
+1|meza onca
 1|matin
 1|mains
 1|l{i]b{vre}
 1|lopins
 1|longuem{ent}
 1|long comme la largeur de 4
+1|liards
 1|large de ii ou trois doitgs
 1|large
 1|la grosseur
@@ -105,12 +116,15 @@
 1|huict en huict jours
 1|horologe de sable
 1|hault de trois doits
+1|grosseur dune noix
+1|gros co{mm}e ffisselle de moing
 1|gros comme un curedent
 1|grains
 1|grain
 1|gouttes
 1|fort co{mm}e de grands livres imprimes
 1|espesseurs de papier
+1|espesseur dun
 1|empan
 1|dune noix
 1|douziesme partye
@@ -119,6 +133,7 @@
 1|dos dun costeau
 1|dos de cousteau
 1|dos de costeau
+1|doitgts
 1|doitgs
 1|deux fois que la saulcice
 1|deux doits en deulx doigts
@@ -126,7 +141,9 @@
 1|deulx jours
 1|deulx 
 1|den{iers}
+1|delie co{mm}e grosse corde despinette pour les petits ouvrages
 1|degre de chaleur
+1|creusets
 1|cinquiesme
 1|carats
 1|caques
@@ -134,5 +151,6 @@
 1|cane
 1|bras
 1|balles
+1|aulta{n}t
 1|aultant que tu vouldras faire longue une cartuche
 1|an

@@ -4,20 +4,22 @@
 8|verriers
 7|pintiers
 7|canonier
-6|artisans
 6|Fondeur
 5|vitriers
 5|potiers
 4|ouvrier
 4|orfevre
-4|mareschaulx
 4|fourbisseur
 4|artiste
+4|artisans
 4|Painctre
 3|pionniers
 3|ouvriers
+3|mareschaulx
+3|imprimeurs
 3|canoniers
 3|apotiquaires
+3|Vitrier
 3|M{aistr}e
 3|
 2|vitrier
@@ -30,11 +32,9 @@
 2|minerons
 2|menusiers
 2|maistres
-2|imprimeurs
 2|fondeurs dartiglerie
 2|courroieur
 2|apothiquaires
-2|Vitrier
 2|Pintiers
 2|Pintier
 2|Orfevre
@@ -73,7 +73,7 @@
 1|painctre
 1|ouvriers de fer
 1|moynes
-1|mouleurs
+1|mouleurs de foix
 1|mouleur
 1|mestiviers
 1|messager
@@ -84,6 +84,7 @@
 1|lapidaires
 1|jardiners
 1|inventeur
+1|imprimeur
 1|grossiers
 1|graveurs sur le
 1|gonnin
@@ -102,6 +103,7 @@
 1|faiseurs de cuir dore
 1|espasiers
 1|enleumineurs
+1|en grand ouvrage
 1|denlumineure
 1|de malte
 1|de cloches
@@ -126,6 +128,8 @@
 1|barbiers
 1|aultres qui travaillent aulx champs
 1|assistant
+1|artisans qui travaillent en grands ouvraiges
+1|artisans qui travaillent
 1|argentiers
 1|archiers
 1|aprentis
@@ -156,4 +160,3 @@
 1|Ceulx qui font les gardes despees
 1|Celuy qui faict profession de travailler a huile
 1|Boulangier
-1|@Vitrier

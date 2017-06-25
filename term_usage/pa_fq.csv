@@ -2,41 +2,46 @@
 26|herbe
 19|fleurs
 15|rose
+13|bled
+13|aspic
 12|herbes
+11|noix
 11|foeuille
-11|bled
 10|foeuilles
+9|saule
 8|orme
-7|noix
+6|pensee
 5|raisin
-5|pensee
 5|pastel
+5|lin
 5|foeilles
 5|foeille
 5|abres
 5|abre
-4|saule
 4|sauge
 4|millet
-4|lin
 3|vigne
+3|froment
 3|figuier
 3|bouquet
-3|aspic
 3|asperge
 2|tim
 2|tige
 2|soucy
 2|rosmarin
+2|olif
+2|noyer
 2|havets
 2|fruicts
 2|espinette
+2|buys
 2|buglose
 2|bruyeres
 2|bouton
 2|bleds
 2|aulx
 1|viole
+1|vini
 1|vinette
 1|vesse
 1|tiges
@@ -47,6 +52,7 @@
 1|sauvignons
 1|saulge
 1|sarment
+1|sapin
 1|safran
 1|rosier
 1|rose soulcy
@@ -63,23 +69,26 @@
 1|pomole
 1|pommes
 1|poix
+1|poirier
 1|poires
 1|peschier
 1|perces mericotons
 1|pavot rouge
 1|papus
 1|palta lupina
+1|paille
+1|orties
 1|orenge
 1|orangers
 1|orange
-1|olif
+1|olive
 1|oigno{n}s
 1|oignons
 1|oignon
-1|noyer
 1|noyau
 1|noisettes
 1|nois
+1|navete
 1|musc
 1|mil
 1|mericotons
@@ -99,7 +108,6 @@
 1|genest
 1|fruictz
 1|fruict des fraises
-1|froment
 1|fraisiers
 1|fraises
 1|foeuillle
@@ -112,6 +120,7 @@
 1|fleur de soulcy
 1|fleur de roses
 1|fleur de la rose
+1|fleur de
 1|feuillage
 1|febve
 1|fayan
@@ -127,7 +136,6 @@
 1|chastaignes
 1|chaisne
 1|canelle
-1|buys
 1|buy
 1|bruiere
 1|bresil
@@ -140,8 +148,10 @@
 1|armols
 1|arbres
 1|amendiers
+1|amendes
 1|amaranthe
 1|ail
+1|absinthe
 1|abricots
 1|abres de noyau
 1|Visme

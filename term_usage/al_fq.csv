@@ -7,14 +7,14 @@
 14|cheval
 12|vers
 12|mouche
+11|seiche
 11|mouton
 11|lesard
 10|escrevisses
 10|chevaulx
-9|seiche
+9|tortues
 9|lesards
 9|iraigne
-8|tortues
 8|poisson
 7|chiens
 7|bœuf
@@ -23,14 +23,15 @@
 6|lezard
 5|oiseau
 5|grenoille
+4|rats
 4|pourceau
 4|lesardes
 4|crapault
 4|chien
 3|vache
 3|serpens
-3|rats
 3|porc
+3|oyseaulx
 3|mouches
 3|loup
 3|lezards
@@ -46,10 +47,10 @@
 2|pigeons
 2|papillons
 2|papillon
-2|oyseaulx
 2|mulots
 2|moutons
 2|mousche
+2|moules
 2|lezardes
 2|gris
 2|garrigue
@@ -78,6 +79,7 @@
 1|tortues deau
 1|tortues de
 1|tortue deau
+1|telines
 1|tarins
 1|souris
 1|serpents deau
@@ -97,8 +99,8 @@
 1|oisillons
 1|oiseaulx
 1|moulue
-1|moules
 1|menue gris
+1|lucerta
 1|liraigne
 1|linotte
 1|lievre
@@ -117,6 +119,7 @@
 1|cygales
 1|corbeau
 1|coquu
+1|coquilles
 1|connils
 1|cigne
 1|chevreaulx
@@ -125,6 +128,7 @@
 1|chats
 1|chat
 1|chancres
+1|cerf
 1|celle de
 1|canard
 1|calendre

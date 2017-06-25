@@ -1,11 +1,15 @@
-5|jours
-4|nuict
-4|jour
+8|jours
+6|jour
+5|nuict
+5|heures
+5|heure
 3|tous les ans
-3|heures
+3|hora
+2|ung quart dheure
 2|un bon quart dheure
 2|tout lan
 2|plusieurs jours
+2|moys
 2|matin
 2|
 1|un quart dheure
@@ -14,17 +18,21 @@
 1|trois jours en la sepmaine
 1|temps serain &amp; s bien sec
 1|temps humide
+1|temps de pluye
+1|serain de la nuit
 1|seconde annee
 1|saison
 1|saint Anthoine de
 1|sabmedy
 1|nuit
-1|moys
 1|mercredy
 1|mardy
+1|lyver
 1|lune
 1|long temps
+1|leste
 1|lendem{ain}
+1|lendemain
 1|jour de S{ain}t paul
 1|jour au lendemain
 1|jeudy
@@ -38,6 +46,7 @@
 1|en hiver
 1|en heure
 1|en este
+1|en
 1|du temps passe
 1|de nuict
 1|bon matin
