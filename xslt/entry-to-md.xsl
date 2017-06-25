@@ -218,7 +218,7 @@
 
     <!-- folio breaks and link to image -->
     <xsl:template match="page">
-        <xsl:text>&lt;p&gt;&lt;a href="{{site.url}}/{{base.url}}/diplomatic/"&gt;[TOC]&lt;/a&gt;&lt;/p&gt;</xsl:text>
+        <xsl:text>&lt;p&gt;&lt;a href="{{ site.baseurl }}/diplomatic/"&gt;[TOC]&lt;/a&gt;&lt;/p&gt;</xsl:text>
         <xsl:text>&lt;div class="folio" align="center"&gt;</xsl:text>
         <xsl:text>- - - - - &lt;a href="</xsl:text>
         <xsl:value-of select="following::image"/>
