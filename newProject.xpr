@@ -3548,7 +3548,7 @@
                                                         <Integer>4</Integer>
                                                     </field>
                                                     <field name="uri">
-                                                        <String>${pdu}/schema/tc_generated.rng</String>
+                                                        <String>${pdu}/schema/ms-transcription.rng</String>
                                                     </field>
                                                 </validationUnitSchema>
                                             </field>
