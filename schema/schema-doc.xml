@@ -1,0 +1,3376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+                         "http://docbook.org/xml/4.5/docbookx.dtd">
+<article>
+   <title>RELAX-NG Schema Documentation</title>
+   <section>
+      <title>Grammar Documentation</title>
+      <para>Namespace: </para>
+      <section>
+         <title>
+	Element: ab</title>
+         <table role="element" id="e.ab.ab">
+            <title>Element: ab</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+      
+                           <link linkend="e.cont">%e.cont;</link>
+      ?
+      ,
+      
+        <link linkend="e.margin">%e.margin;</link>
+      ?
+      ,
+      <link linkend="m.phrase">%m.phrase;</link>, 
+      
+        <link linkend="e.cont">%e.cont;</link>
+      ?
+      
+    </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="ab">
+                              <optional>
+                                 <ref name="e.cont"/>
+                              </optional>
+                              <optional>
+                                 <ref name="e.margin"/>
+                              </optional>
+                              <ref name="m.phrase"/>
+                              <optional>
+                                 <ref name="e.cont"/>
+                              </optional>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: add</title>
+         <table role="element" id="e.add.add">
+            <title>Element: add</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="add">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: al</title>
+         <table role="element" id="e.al.al">
+            <title>Element: al</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="al">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: bp</title>
+         <table role="element" id="e.bp.bp">
+            <title>Element: bp</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+      
+    TEXT
+    
+    </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="bp">
+                              <text/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: caption</title>
+         <table role="element" id="e.figure.figure.caption">
+            <title>Element: caption</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+            
+    (
+              
+    ( 
+    
+    TEXT
+     | <link linkend="m.phrase">%m.phrase;</link>
+    )
+  
+            )+
+    
+          </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="caption">
+                              <oneOrMore>
+                                 <choice>
+                                    <text/>
+                                    <ref name="m.phrase"/>
+                                 </choice>
+                              </oneOrMore>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: cn</title>
+         <table role="element" id="e.cn.cn">
+            <title>Element: cn</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+      
+    TEXT
+    
+    </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="cn">
+                              <text/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: cont</title>
+         <table role="element" id="e.cont.cont">
+            <title>Element: cont</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+      
+    EMPTY
+  
+    </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="cont">
+                              <empty/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: corr</title>
+         <table role="element" id="e.corr.corr">
+            <title>Element: corr</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="corr">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: del</title>
+         <table role="element" id="e.del.del">
+            <title>Element: del</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="del">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: div</title>
+         <table role="element" id="e.div.div">
+            <title>Element: div</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+      
+                           <link linkend="e.cont">%e.cont;</link>
+      ?
+      ,
+      <link linkend="e.id">%e.id;</link>, 
+      
+        <link linkend="e.margin">%e.margin;</link>
+      ?
+      ,
+      
+        <link linkend="e.head">%e.head;</link>
+      ?
+      ,
+      
+    (
+        
+    ( 
+    
+    TEXT
+     | <link linkend="e.ab">%e.ab;</link> | <link linkend="m.phrase">%m.phrase;</link>
+    )
+  
+      )+
+    ,
+      
+        <link linkend="e.cont">%e.cont;</link>
+      ?
+      
+    </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="div">
+                              <optional>
+                                 <ref name="e.cont"/>
+                              </optional>
+                              <ref name="e.id"/>
+                              <optional>
+                                 <ref name="e.margin"/>
+                              </optional>
+                              <optional>
+                                 <ref name="e.head"/>
+                              </optional>
+                              <oneOrMore>
+                                 <choice>
+                                    <text/>
+                                    <ref name="e.ab"/>
+                                    <ref name="m.phrase"/>
+                                 </choice>
+                              </oneOrMore>
+                              <optional>
+                                 <ref name="e.cont"/>
+                              </optional>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: env</title>
+         <table role="element" id="e.env.env">
+            <title>Element: env</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="env">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: figure</title>
+         <table role="element" id="e.figure.figure">
+            <title>Element: figure</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+      
+                           <link linkend="e.id">%e.id;</link>
+      ?
+      ,
+      
+        <link linkend="e.margin">%e.margin;</link>
+      ?
+      ,
+      
+        <link linkend="e.figure.figure.link">link</link>
+      ?
+      ,
+
+      
+    (
+        
+    ( 
+    <link linkend="m.phrase">%m.phrase;</link> | <link linkend="e.figure.figure.caption">caption</link>
+    )
+  
+      )+
+    
+    </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="figure">
+                              <optional>
+                                 <ref name="e.id"/>
+                              </optional>
+                              <optional>
+                                 <ref name="e.margin"/>
+                              </optional>
+                              <optional>
+                                 <element name="link">
+                                    <data type="anyURI"/>
+                                 </element>
+                              </optional>
+
+                              <oneOrMore>
+                                 <choice>
+                                    <ref name="m.phrase"/>
+                                    <element name="caption">
+                                       <oneOrMore>
+                                          <choice>
+                                             <text/>
+                                             <ref name="m.phrase"/>
+                                          </choice>
+                                       </oneOrMore>
+                                    </element>
+                                 </choice>
+                              </oneOrMore>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: fr</title>
+         <table role="element" id="e.fr.fr">
+            <title>Element: fr</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="fr">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: gap</title>
+         <table role="element" id="e.gap.gap">
+            <title>Element: gap</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+      
+    EMPTY
+  
+    </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="gap">
+                              <empty/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: gk</title>
+         <table role="element" id="e.gk.gk">
+            <title>Element: gk</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="gk">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: head</title>
+         <table role="element" id="e.head.head">
+            <title>Element: head</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="head">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: id</title>
+         <table role="element" id="e.id.id">
+            <title>Element: id</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+      
+    xsd:NMTOKEN
+    </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="id">
+                              <data type="NMTOKEN"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: image</title>
+         <table role="element" id="root.image">
+            <title>Element: image</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+          
+    xsd:anyURI
+        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="image">
+                              <data type="anyURI"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: it</title>
+         <table role="element" id="e.it.it">
+            <title>Element: it</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="it">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: la</title>
+         <table role="element" id="e.la.la">
+            <title>Element: la</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="la">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: lb</title>
+         <table role="element" id="e.lb.lb">
+            <title>Element: lb</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+      
+    EMPTY
+  
+    </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="lb">
+                              <empty/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: link</title>
+         <table role="element" id="e.figure.figure.link">
+            <title>Element: link</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+          
+    xsd:anyURI
+        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="link">
+                              <data type="anyURI"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: m</title>
+         <table role="element" id="e.m.m">
+            <title>Element: m</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="m">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: man</title>
+         <table role="element" id="e.man.man">
+            <title>Element: man</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.margin">%e.margin;</link>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="man">
+                              <ref name="e.margin"/>
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: margin</title>
+         <table role="element" id="e.margin.margin">
+            <title>Element: margin</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+      
+    </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="margin">
+                              <optional>
+                                 <choice>
+                                    <value>left-top</value>
+                                    <value>left-middle</value>
+                                    <value>left-bottom</value>
+                                    <value>right-top</value>
+                                    <value>right-middle</value>
+                                    <value>right-bottom</value>
+                                    <value>top</value>
+                                    <value>bottom</value>
+                                 </choice>
+                              </optional>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: md</title>
+         <table role="element" id="e.md.md">
+            <title>Element: md</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="md">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: ms</title>
+         <table role="element" id="e.ms.ms">
+            <title>Element: ms</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="ms">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: mu</title>
+         <table role="element" id="e.mu.mu">
+            <title>Element: mu</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="mu">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: oc</title>
+         <table role="element" id="e.oc.oc">
+            <title>Element: oc</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="oc">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: pa</title>
+         <table role="element" id="e.pa.pa">
+            <title>Element: pa</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="pa">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: page</title>
+         <table role="element" id="root.page">
+            <title>Element: page</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+          
+    xsd:NMTOKEN
+        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="page">
+                              <data type="NMTOKEN"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: pl</title>
+         <table role="element" id="e.pl.pl">
+            <title>Element: pl</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="pl">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: pn</title>
+         <table role="element" id="e.pn.pn">
+            <title>Element: pn</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="pn">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: pro</title>
+         <table role="element" id="e.pro.pro">
+            <title>Element: pro</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="pro">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: root</title>
+         <table role="element" id="root">
+            <title>Element: root</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Root element for transcription of folio</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+      
+      
+    </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="root">
+                              <a:documentation>Root element for transcription of folio</a:documentation>
+                              <mixed>
+                                 <element name="page">
+                                    <data type="NMTOKEN"/>
+                                 </element>
+                                 <element name="image">
+                                    <data type="anyURI"/>
+                                 </element>
+                                 <oneOrMore>
+                                    <choice>
+            <!--          <text/> -->
+                                       <ref name="e.ab"/>
+                                       <ref name="e.figure"/>
+                                       <ref name="e.div"/>
+                                    </choice>
+                                 </oneOrMore>
+                              </mixed>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: rub</title>
+         <table role="element" id="e.rub.rub">
+            <title>Element: rub</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="rub">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: sn</title>
+         <table role="element" id="e.sn.sn">
+            <title>Element: sn</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="sn">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: sup</title>
+         <table role="element" id="e.sup.sup">
+            <title>Element: sup</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="sup">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: tl</title>
+         <table role="element" id="e.tl.tl">
+            <title>Element: tl</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="tl">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: tmp</title>
+         <table role="element" id="e.tmp.tmp">
+            <title>Element: tmp</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="tmp">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section>
+         <title>
+	Element: underline</title>
+         <table role="element" id="e.underline.underline">
+            <title>Element: underline</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="m.phrase">%m.phrase;</link>
+                        </para>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry role="header" valign="top">
+                        <para>Source</para>
+                     </entry>
+                     <entry>
+                        <programlisting><![CDATA[<element xmlns="http://relaxng.org/ns/structure/1.0"
+                                    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+                                    name="underline">
+                              <ref name="m.phrase"/>
+                           </element>]]></programlisting>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.ab">
+         <title>Pattern: e.ab</title>
+         <table>
+            <title>Pattern: e.ab</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Anonymous Block: a generic block of text for. (TEI Element)</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.ab.ab">ab</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.add">
+         <title>Pattern: e.add</title>
+         <table>
+            <title>Pattern: e.add</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Addition: Text added to the document by author, scribe, but *not* by a
+      transcriber</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.add.add">add</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.al">
+         <title>Pattern: e.al</title>
+         <table>
+            <title>Pattern: e.al</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Animal</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.al.al">al</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.bp">
+         <title>Pattern: e.bp</title>
+         <table>
+            <title>Pattern: e.bp</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Body Part</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.bp.bp">bp</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.cn">
+         <title>Pattern: e.cn</title>
+         <table>
+            <title>Pattern: e.cn</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Currency Term: Coins and currency (only type of coin, not amount) [if it is a price without being a coin, let an instructor know]</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.cn.cn">cn</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.cont">
+         <title>Pattern: e.cont</title>
+         <table>
+            <title>Pattern: e.cont</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Continued: An empty element indicating that the parent block is continued on
+      another page or continues from another page </para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.cont.cont">cont</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.corr">
+         <title>Pattern: e.corr</title>
+         <table>
+            <title>Pattern: e.corr</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Correction: A revision introduced into the transcription by the
+      transcriber/Editor</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.corr.corr">corr</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.del">
+         <title>Pattern: e.del</title>
+         <table>
+            <title>Pattern: e.del</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Deletion: Content deleted in the document by author, scribe, but *not* by a
+      transcriber</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.del.del">del</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.div">
+         <title>Pattern: e.div</title>
+         <table>
+            <title>Pattern: e.div</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Text Division: A group of one or more document objects forming a primary
+      textual component; e.g., an "entry" or "recipe". TEI Element</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.div.div">div</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.env">
+         <title>Pattern: e.env</title>
+         <table>
+            <title>Pattern: e.env</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Environment: Reference to a physical space or environment, such as workshop
+      space, mountains, forest, etc.</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.env.env">env</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.figure">
+         <title>Pattern: e.figure</title>
+         <table>
+            <title>Pattern: e.figure</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Figure: a graphical object in the source document</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.figure.figure">figure</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.fr">
+         <title>Pattern: e.fr</title>
+         <table>
+            <title>Pattern: e.fr</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>French: French text</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.fr.fr">fr</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.gap">
+         <title>Pattern: e.gap</title>
+         <table>
+            <title>Pattern: e.gap</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.gap.gap">gap</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.gk">
+         <title>Pattern: e.gk</title>
+         <table>
+            <title>Pattern: e.gk</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Greek: Greek text</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.gk.gk">gk</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.head">
+         <title>Pattern: e.head</title>
+         <table>
+            <title>Pattern: e.head</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Heading: a block of text at the beginning of a textual division functioning ad
+      the heading or title of that division. TEI Element</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.head.head">head</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.id">
+         <title>Pattern: e.id</title>
+         <table>
+            <title>Pattern: e.id</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Identifier: A unique identifier for the element which encloses
+      it</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.id.id">id</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.it">
+         <title>Pattern: e.it</title>
+         <table>
+            <title>Pattern: e.it</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Greek: Italian text</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.it.it">it</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.la">
+         <title>Pattern: e.la</title>
+         <table>
+            <title>Pattern: e.la</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Greek: Latin text</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.la.la">la</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.lb">
+         <title>Pattern: e.lb</title>
+         <table>
+            <title>Pattern: e.lb</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Line Break: An empty element indicating end of a line of text in the source
+      document</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.lb.lb">lb</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.m">
+         <title>Pattern: e.m</title>
+         <table>
+            <title>Pattern: e.m</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Material</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.m.m">m</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.man">
+         <title>Pattern: e.man</title>
+         <table>
+            <title>Pattern: e.man</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Manchette: a word or phrase in italic script in the margin that indicates
+      something in the text block It is not a heading (although sometimes it looks like it, but
+      rather explains something in the text block</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.man.man">man</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.margin">
+         <title>Pattern: e.margin</title>
+         <table>
+            <title>Pattern: e.margin</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Margin Position: the location in the margin at which the parent element appears
+      in the source document. Valid values are: "right-top", "right-middle", "right-bottom",
+      "left-top", "left-middle", "left-bottom", "top", and "bottom"</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.margin.margin">margin</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.md">
+         <title>Pattern: e.md</title>
+         <table>
+            <title>Pattern: e.md</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Medical Term: medical and health-related terms or phrases, such as disease terms, as plague and mange, or medical advice, if possible</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.md.md">md</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.ms">
+         <title>Pattern: e.ms</title>
+         <table>
+            <title>Pattern: e.ms</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Measurement</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.ms.ms">ms</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.mu">
+         <title>Pattern: e.mu</title>
+         <table>
+            <title>Pattern: e.mu</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Musical Instrument</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.mu.mu">mu</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.oc">
+         <title>Pattern: e.oc</title>
+         <table>
+            <title>Pattern: e.oc</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Occitane: Occitane text</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.oc.oc">oc</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.pa">
+         <title>Pattern: e.pa</title>
+         <table>
+            <title>Pattern: e.pa</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Plant</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.pa.pa">pa</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.pl">
+         <title>Pattern: e.pl</title>
+         <table>
+            <title>Pattern: e.pl</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Place Term</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.pl.pl">pl</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.pn">
+         <title>Pattern: e.pn</title>
+         <table>
+            <title>Pattern: e.pn</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Personal Name</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.pn.pn">pn</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.pro">
+         <title>Pattern: e.pro</title>
+         <table>
+            <title>Pattern: e.pro</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Profession</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.pro.pro">pro</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.rub">
+         <title>Pattern: e.rub</title>
+         <table>
+            <title>Pattern: e.rub</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Rubric: A word or phrase in italic script in the body of the text that is not a
+      new div, heading, or block</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.rub.rub">rub</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.sn">
+         <title>Pattern: e.sn</title>
+         <table>
+            <title>Pattern: e.sn</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Sense Term: Use of the 5 senses to make qualitative assessment, but generally
+      not visual, e.g., “luisant” </para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.sn.sn">sn</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.sup">
+         <title>Pattern: e.sup</title>
+         <table>
+            <title>Pattern: e.sup</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Supplied Text: Text added by the transcriber/editor. DO NOT USE IN TC. DO NOT
+      USE IN TCN, EXCEPT IF THERE IS A MISTAKE ON THE PART OF THE AUTHOR. USE SPARINGLY IN
+      TL.</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.sup.sup">sup</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.tl">
+         <title>Pattern: e.tl</title>
+         <table>
+            <title>Pattern: e.tl</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Tool</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.tl.tl">tl</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.tmp">
+         <title>Pattern: e.tmp</title>
+         <table>
+            <title>Pattern: e.tmp</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>Temporal Term: A reference to time, e.g., hour, day, season, holiday, span of
+      time, time of day, etc</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.tmp.tmp">tmp</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="e.underline">
+         <title>Pattern: e.underline</title>
+         <table>
+            <title>Pattern: e.underline</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+                           <link linkend="e.underline.underline">underline</link>
+                        </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+      <section id="m.phrase">
+         <title>Pattern: m.phrase</title>
+         <table>
+            <title>Pattern: m.phrase</title>
+            <tgroup cols="2">
+               <colspec colnum="1"/>
+               <colspec colnum="2" colwidth="*"/>
+               <tbody>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Namespace</para>
+                     </entry>
+                     <entry>
+                        <para/>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry class="header" valign="top">
+                        <para>Documentation</para>
+                     </entry>
+                     <entry>
+                        <para>No documentation available.</para>
+                     </entry>
+                  </row>
+                  <row valign="top">
+                     <entry class="header">
+                        <para>Content Model</para>
+                     </entry>
+                     <entry>
+                        <para>
+    (
+      
+    ( 
+    
+    TEXT
+     | <link linkend="e.ab">%e.ab;</link> | <link linkend="e.add">%e.add;</link> | <link linkend="e.al">%e.al;</link> | <link linkend="e.bp">%e.bp;</link> | <link linkend="e.cn">%e.cn;</link> | <link linkend="e.del">%e.del;</link> | <link linkend="e.env">%e.env;</link> | <link linkend="e.figure">%e.figure;</link> | <link linkend="e.fr">%e.fr;</link> | <link linkend="e.it">%e.it;</link> | <link linkend="e.la">%e.la;</link> | <link linkend="e.lb">%e.lb;</link> | <link linkend="e.m">%e.m;</link> | <link linkend="e.man">%e.man;</link> | <link linkend="e.ms">%e.ms;</link> | <link linkend="e.pa">%e.pa;</link> | <link linkend="e.pl">%e.pl;</link> | <link linkend="e.pn">%e.pn;</link> | <link linkend="e.pro">%e.pro;</link> | <link linkend="e.sn">%e.sn;</link> | <link linkend="e.sup">%e.sup;</link> | <link linkend="e.tl">%e.tl;</link> | <link linkend="e.tmp">%e.tmp;</link> | <link linkend="e.corr">%e.corr;</link> | <link linkend="e.gap">%e.gap;</link> | <link linkend="e.gk">%e.gk;</link> | <link linkend="e.md">%e.md;</link> | <link linkend="e.mu">%e.mu;</link> | <link linkend="e.oc">%e.oc;</link> | <link linkend="e.rub">%e.rub;</link> | <link linkend="e.underline">%e.underline;</link>
+    )
+  
+    )+
+    </para>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </section>
+   </section>
+</article>

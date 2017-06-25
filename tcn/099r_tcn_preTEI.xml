@@ -7,8 +7,8 @@
 <id>p098v_5</id>
 
 
-<ab>La <m>terre</m> ou <m>sable</m> mouillé ou broyé avecq <m>eau</m> veult estre<lb/>
-plus recuit que le <m>sable</m>.</ab>
+<ab>La <m>terre</m> ou sable mouillé ou broyé avecq <m>eau</m> veult estre<lb/>
+plus recuit que le sable.</ab>
 
 
 <ab>Le <m>letton de chandelier</m> n'est pas pur car on y mesle<lb/>
@@ -16,7 +16,7 @@ de la <m>limaille</m> &amp; du <m>potin</m>.</ab>
 
 
 <ab>Le <m>letton</m> veult estre gecté plus chault que le <m>cuivre</m>,<lb/>
-quod non credo.</ab>
+<la>quod non credo</la>.</ab>
 
 
 <ab>Il ne fault pas, pour gecter curieusem{ent}, prendre tous<lb/>
@@ -28,7 +28,7 @@ ou <m>letton</m>.</ab>
 
 
 <ab>
-Il est mieulx de mouler tout d'un <m>sable</m>, soict en <tl>chassis</tl><lb/>
+Il est mieulx de mouler tout d'un sable, soict en chassis<lb/>
 ou noyau, qu'en divers meslés.</ab>
 
 
@@ -36,21 +36,21 @@ ou noyau, qu'en divers meslés.</ab>
 <margin>left-top</margin>
 
 Il fault recuire<lb/>
-à foeu de <m>charbon</m><lb/>
+à foeu de <add><del>qui</del>de</add> <m>charbon</m><lb/>
 qui s'allume de<lb/>
-soy mesme le crusol<lb/>
-une ou deulx heures<lb/>
-avecq la<lb/>
+soy mesme le <tl>crusol</tl><lb/>
+une ou deulx <ms><tmp>heures</tmp></ms><lb/>
+<del>et p</del> avecq la<lb/>
 matiere dedans,<lb/>
 et puys soufler<lb/>
-&amp; couvrir le crusol<lb/>
+&amp; couvrir le <tl>crusol</tl><lb/>
 de gros <m>charbons</m><lb/>
 &amp; la gueule du<lb/>
 <tl>fourneau de briques</tl>,<lb/>
 et laisser consumer<lb/>
 deulx ou trois<lb/>  
 mises de <m>charbon</m><lb/>
-qui se remplissent<lb/>
+qui <del>se</del> se remplissent<lb/>
 le <tl>fourneau</tl> par<lb/>
 dessus le <tl>crusol</tl>.<lb/>
 En fin donner foeu<lb/>
@@ -63,7 +63,7 @@ bain liquide co{mm}e<lb/>
 flammes de bleu<lb/>
 pasle, gecte.<lb/>
 Le secret est de<lb/>
-gecter bien fort chault<lb/>
+gecter bien <add>fort</add> chault<lb/>
 &amp; à coup.</ab>
 
 
@@ -71,19 +71,22 @@ gecter bien fort chault<lb/>
 <div>
 <id>p099r_2</id>
 <head>
-<m>Sable blanc</m> maigre</head><ab>sans liaison se rend fort<lb/>
+<m>Sable blanc maigre</m></head>
+
+
+<ab>sans liaison se rend fort<lb/>
 propre pour le gect, &amp; ayant corps, se tu le broyes fort<lb/>
-subtil sur le <m>porphire</m> ou le <m>calcine</m>, le rougissant plusieurs<lb/>
+subtil sur le <tl><m>porphire</m></tl> ou le calcine, le rougissant plusieurs<lb/>
 foys au foeu, &amp; estans en <m>vinaigre</m> ou subtillies avecq l'<m>eau</m><lb/>
 co{mm}e tu sçais, il moule aussy fort net en noyau, co{mm}e j'ay<lb/>
 experimenté. Mays ne le destrempe pas avecq <m>eau sel</m> si tu<lb/>
 le veulx promptem{ent} recuire, car le <m>sel</m> bouillonne au foeu<lb/>
 &amp; faict des pustules, esta{n}t pressé du foeu. Je croy que<lb/>
 les noyaulx recuits à l'aise ne feroient pas cela. Je y ay<lb/>
-moulé fort net en noyau matiere de <tl>poelonne</tl>. Le <m>sable blanc</m><lb/>
-sent le <m>soufre</m> co{mm}e il se recuit, et croy qu'il se fondroit. Et<lb/>
+moulé fort net en noyau <m>matiere de poelonne</m>. Le <m>sable blanc</m><lb/>
+<sn>sent le <m>soufre</m></sn> co{mm}e il se recuit, et croy qu'il se fondroit. Et<lb/>
 co{mm}e la matiere a esté gectée dedans, il adquiert dans le<lb/>
-moule un lustre co{mm}e s’il estoit plombé ou vitrifié. Je croy<lb/>
+<tl>moule</tl> <del>co{mm}e</del> un lustre co{mm}e s’il estoit <m>plombé</m> ou vitrifié. Je croy<lb/>
 que les <pro>verriers</pro> s'en pourroient servir.</ab>
 
 
@@ -98,13 +101,12 @@ dissoult dans l'<m>eau</m>.</ab>
 </div>
 <div>
 <id>p099r_3</id>
-<head>
-Anses de cloches</head>
+<head>Anses de cloches</head>
 
 
 <ab>
 Elles se peuvent bien remectre sans refaire la cloche,<lb/>
-laquelle il fault remectre dans la fosse &amp; le moule dedans.<lb/>
-Mays soulder la cloche fendue, il est estimé impossible<lb/>
+laquelle il fault remectre dans la fosse &amp; le <tl>moule</tl> dedans.<lb/>
+Mays <m>soulder</m> la cloche <del>ref</del> fendue, il est estimé impossible<lb/>
 pour luy donner sa premiere voix.</ab>
 </div></root>
