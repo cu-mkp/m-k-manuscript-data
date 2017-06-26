@@ -1,0 +1,62 @@
+---
+layout: narrative
+title: 054v
+identifier: p-054v
+folio: 054v
+annotation: no
+author:
+mode: tc
+editor: GR8975 Seminar Participants
+rights: Public Domain
+materials: [pain sucre, gemme, paille, foin, foing]
+tools: []
+measurements: []
+bodyparts: []
+places: []
+plants: []
+professions: [cordonniers]
+environments: []
+animals: []
+---
+
+<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/_texts/p-054v_tl.md/">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f114.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>054v</a> - - - - - </div>  
+  
+> *Figure*
+> <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5N1FlRklFdzIxUzQ" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+ 
+Pour faire seicher les confictures <span class="del">ayes une</span> qui ne sont liquides<br/> ayes une tine percee des deulx costes dune petite fenestre quarree<br/> & par icelles passe des bastons dune part & daultre & sur iceulx<br/> pose un crible faict de fisselles en forme de ret Et la dessus<br/> tu colloqueras proprem{ent} les vaisseaulx de tes confictures Et ayant<br/> mis au fonds de la tine un rechault ou deulx Couvre la tine<br/> avecq un linceulx en double
+ 
+ 
+  
+
+## Pour fayre suivre un cheval
+
+ 
+\+Il luy fault donner du <span class="m">pain sucre</span> & il cognoistra celuy<br/> qui luy fera ce bien
+ 
+Et pour le mainctenir en bonne disposition de cheminer <span class="del">mects u</span><br/> fais luy prendre un bon train des le commancem{ent} du chemin & le<br/> continue
+ 
+ 
+  
+
+## Chiens
+
+ 
+Pour les garder de mordre il est bon davoir des pelottes<br/> de <span class="m">gemme</span> acoustree co{mm}e celle des <span class="pro">cordonniers</span> & leur gecter co{mm}e ilz<br/> te jappent & ilz mordront tellement les pelottes quilz senpasteront<br/> les dents & ne te pourront nuire
+ 
+ 
+  
+
+## Pour desguiser un cheval
+
+ 
+Luy coupper les oreilles & la queue & avecq de la <span class="m">paille</span><br/> allumee luy faire griller le poil de la teste & ailleurs
+ 
+ 
+  
+
+## Bottes de <span class="m">foin</span>
+
+ 
+Par faulte de bottes tu peux faire de la corde de <span class="m">foing</span> & ten<br/> entourner les jambes & jamays la pluye ne passera
+ 

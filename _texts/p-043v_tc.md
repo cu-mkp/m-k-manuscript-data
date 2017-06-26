@@ -1,0 +1,53 @@
+---
+layout: narrative
+title: 043v
+identifier: p-043v
+folio: 043v
+annotation: no
+author:
+mode: tc
+editor: GR8975 Seminar Participants
+rights: Public Domain
+materials: [Vin, bresil, eau claire, eau taincte, vin, just de citron, orange, Perles, talc pulverise, pouldre, feultre, cuir, papier]
+tools: [porte piece]
+measurements: [une ou deux heures]
+bodyparts: []
+places: []
+plants: []
+professions: [Harquebusier]
+environments: []
+animals: []
+---
+
+<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/_texts/p-043v_tl.md/">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f92.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>043v</a> - - - - - </div>  
+  
+
+## <span class="m">Vin</span> diversifie et transmue
+
+ 
+Racles du <span class="m">bresil</span> bien menu mectes le tremper <span class="ms">une ou deux<br/> heures</span> dans <span class="m">eau claire</span> puys prenes ceste <span class="m">eau taincte</span> &<br/> adjoustes y de l<span class="m">eau claire</span> & vous feres d<span class="del">e</span>u <span class="m">vin</span> si clairet<br/> quil vous plaira Estant a v{ost}re plaisir mectes y une goute<br/> de <span class="m">just de citron</span> ou d<span class="m">orange</span> & incontinent il viendra blanc<br/> Il sen peult boire sans danger 
+ 
+ 
+  
+
+## <span class="m">Perles</span>
+
+ 
+On dict que le <span class="m">talc pulverise</span> soufle dedans a la lampe<br/> les rend ainsy 
+ 
+ 
+  
+
+## <span class="pro">Harquebusier</span>
+
+ 
+Pour tirer justement de ton harquebus il fault que le bout<br/> de la culasse soict & vienne justement sur le bort de la lumiere<br/> pourcequen ceste sorte la <span class="m">pouldre</span> sans soufler prend & se brusle<br/> tout a coup & ha plus de force & ne repousse poinct Au co{n}traire<br/> si la culasse est eschancree co{mm}e co{mmun}ement elles font la <span class="m">pouldre</span> prend<br/> plus tost en cet endroict faict repousser & soufle Ce que demo{n}stre<br/> bien une harquebus chambree qui repousse plus quune aultre<br/> Et pourceque le canon est plus gros a la culasse qua la gueule<br/> les mires sont aussy inegales Car celle de la culasse est plus<br/> haulte que celle de la gueule Et puys lespesseur du canon emporte<br/> sur le calibre environ une ligne et la mire une aultre Il fauldroit<br/> doncq faire ou le canon tout dune grosseur ou eslever le fust<br/> <span class="del">sur</span> par le bout & vers la gueule & lenfoncer & abaisser vers la<br/> culasse Le poix de la <span class="m">pouldre</span> doibt estre la tierce partie de la<br/> basle 
+ 
+ 
+  
+
+## Dragee dharquebus
+
+ 
+Si tu veulx quelle aille ensemble pose dessus une piece<br/> de <span class="m">feultre</span> ou <span class="m">cuir</span> ou <span class="m">papier</span> selon la dista{n}ce & que l<span class="del">e</span>a piece<br/> soict avecq un <span class="tl">porte piece</span> justem{ent} coupee selon le qualibre<br/> de lharquebus 
+ 
