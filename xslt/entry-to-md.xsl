@@ -278,14 +278,14 @@
         <!-- TOC Link -->
         <xsl:text>&lt;a href="{{ site.baseurl }}/</xsl:text>
         <xsl:value-of select="$mode-expanded"/>
-        <xsl:text>/" target="_blank"&gt;[TOC]&lt;/a&gt;</xsl:text>
+        <xsl:text>/"&gt;[TOC]&lt;/a&gt;</xsl:text>
         <!-- Link to Other Editions -->
         <xsl:text> | </xsl:text>
         <xsl:text>&lt;a href="{{ site.baseurl }}/texts/</xsl:text>
         <xsl:value-of select="$folio_id"/>
         <xsl:text>_</xsl:text>
         <xsl:value-of select="$other-mode"/>
-        <xsl:text>/ target="_blank""&gt;[</xsl:text>
+        <xsl:text>/" target="_blank"&gt;[</xsl:text>
         <xsl:value-of select="$other-mode-expanded"/>
         <xsl:text>]&lt;/a&gt;</xsl:text>
         <xsl:text>&lt;/p&gt;</xsl:text>

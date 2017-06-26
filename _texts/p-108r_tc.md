@@ -19,7 +19,7 @@ environments: [terre, piererie]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/" target="_blank">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-108r_tl/ target="_blank"">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f221.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>108r</a> - - - - - </div>  
+<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-108r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f221.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>108r</a> - - - - - </div>  
   
 Pour tenir les noyaulx aulcuns employent du <span class="tl"><span class="m">fil du propre<br/> metal</span> dont ils gectent</span> pource quil se reduict <span class="del">avec</span> & fond avecq<br/> son semblable Mays pource que en fondant ou plyant le<br/> noyau varie Les aultres trouvent mieulx de se<span class="del">r</span> servir de<br/> <span class="tl"><span class="m">fil de fer</span></span> esguise par les bouts pourcequil tient plus ferme<br/> & ayant les bouts subtils ne paroist non plus quune pointe<br/> daiguille Et on le peult dorer ou <span class="m">argenter</span> plustost que le<br/> mectre en oeuvre Sil faict trou on le recouvre avecq un petit <span class="tl">ciseau</span>
  
