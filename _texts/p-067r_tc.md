@@ -19,7 +19,7 @@ environments: []
 animals: [rat, menue gris, canard, corbeau]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/" target="_blank">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-067r_tl/">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f139.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>067r</a> - - - - - </div>  
+<p><a href="{{ site.baseurl }}/diplomatic/" target="_blank">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-067r_tl/ target="_blank"">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f139.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>067r</a> - - - - - </div>  
  
 *[continued]*
   

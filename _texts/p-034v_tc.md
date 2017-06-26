@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/" target="_blank">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-034v_tl/">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f74.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>034v</a> - - - - - </div>  
+<p><a href="{{ site.baseurl }}/diplomatic/" target="_blank">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-034v_tl/ target="_blank"">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f74.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>034v</a> - - - - - </div>  
   
 
 ## Pour fayre fondre ou transmuer<br/> une bague mise dans une <span class="tl">boitte</span>
