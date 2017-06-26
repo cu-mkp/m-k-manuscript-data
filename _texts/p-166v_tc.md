@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-166v_tl/">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f338.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>166v</a> - - - - - </div>  
+<p><a href="{{ site.baseurl }}/diplomatic/" target="_blank">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-166v_tl/">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f338.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>166v</a> - - - - - </div>  
   @
 Aulx exemplaires <span class="pl">grecs</span> il sadjouste un psalme de <span class="pn">david</span><br/> duquel <span class="pn">s{ainc}t Athanase</span> faict mention <span class="del">en</span> in Sinopsi il se comma{n}ce<br/> parvus eram & au second verset le prophete royal dict<br/> <span class="del">Manus meae</span> @Manus meae fecerunt organum et digiti<br/> mei aptarunt psalterium
   

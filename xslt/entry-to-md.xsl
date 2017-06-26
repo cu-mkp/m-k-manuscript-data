@@ -278,7 +278,7 @@
         <!-- TOC Link -->
         <xsl:text>&lt;a href="{{ site.baseurl }}/</xsl:text>
         <xsl:value-of select="$mode-expanded"/>
-        <xsl:text>/"&gt;[TOC]&lt;/a&gt;</xsl:text>
+        <xsl:text>/" target="_blank"&gt;[TOC]&lt;/a&gt;</xsl:text>
         <!-- Link to Other Editions -->
         <xsl:text> | </xsl:text>
         <xsl:text>&lt;a href="{{ site.baseurl }}/texts/</xsl:text>

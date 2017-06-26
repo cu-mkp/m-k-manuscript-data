@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-x<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-101v_tc/">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f208.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>101v</a> - - - - - </div>  
+x<p><a href="{{ site.baseurl }}/translation/" target="_blank">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-101v_tc/">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f208.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>101v</a> - - - - - </div>  
  
 *[continued]*
   
