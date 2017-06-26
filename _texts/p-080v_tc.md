@@ -19,7 +19,7 @@ environments: [grandes escailles vers les montaignes]
 animals: [huistres]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/_texts/p-080v_tl.md/">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f166.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>080v</a> - - - - - </div>  
+<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-080v_tl/">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f166.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>080v</a> - - - - - </div>  
   
 
 ## <span class="pro">Fondeurs</span> de menus ouvrages<br/> <span class="add">@d<span class="m">estain</span></span>

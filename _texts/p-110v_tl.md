@@ -19,7 +19,7 @@ environments: []
 animals: [a snake, Mussels]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/_texts/p-110v_tc.md/">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f226.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>110v</a> - - - - - </div>  
+<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-110v_tc/">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f226.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>110v</a> - - - - - </div>  
   
 When <span class="sup"><span class="al">a snake</span></span> has eaten something; when twisting it, it will vomit <span class="sup">the food</span>. And if, after having eaten something, <span class="sup">the snake</span> is pressed underfoot, this troubles <span class="sup">the snake</span> a lot and makes it sick. If <span class="sup">the snake</span> is wounded, it will not eat voluntarily.
 

@@ -19,7 +19,7 @@ environments: []
 animals: [aucupio, venatione, Aquatilium animalium]
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/_texts/p-001r_tc.md/">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f7.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>001r</a> - - - - - </div>  
+<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-001r_tc/">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f7.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>001r</a> - - - - - </div>  
   
  Master Nicolas Coste, in the <span class="pl">Rue de la Heaumerie, at the sign of St Claude</span>/Mirrors<br/> Master Jehan Cousin, who resides in the <span class="pl">Faubourg St Germain</span>, knows about the master<br/> Master Jehan Garnier, in the <span class="pl">Rue des Escrivains</span> by <span class="pl">St Jacques de la Boucherie</span>, <span class="pro">currier</span>. Try <span class="m">woad flowers</span>
  
