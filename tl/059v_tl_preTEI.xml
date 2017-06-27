@@ -6,19 +6,19 @@
 <id>p059v_1</id>
 
 
-<head>Painting weapons</head>
+<head><del>Black</del>Painting of armory</head>
 
 
-<ab><m>Black charcoal</m> mixed with <m>white lead</m> is very appropriate for painting weapons, also mixing in a little <m>azure</m> if you wish. <m>Charcoal</m> by itself is somewhat bluish.</ab>
+<ab><m>Charcoal black</m> mixed with a little <m>lead white</m> is very appropriate to make armory, mixing in a little <del>of <ill/></del> <m>azure</m> if you wish. <m>Charcoal <add>black</add></m> by itself is as if bluish.</ab>
 </div>
 
 
 <div>
 <id>p059v_2</id>
-<head>Painting crepe</head>
+<head>Painting of <m>crêpe</m></head>
 
 
-<ab>First you need to make a greyish background using <m>charcoal black</m> mixed with <m>white lead</m> and a little <m>azure</m>. Then, after drying, highlight with strokes and lines in <m>white lead</m>.</ab>
+<ab>First one needs to make the background greyish with <m>charcoal black</m> mixed with <m>lead white</m> &amp; a little <m>azure</m>. Then, <del><fr>resu</fr></del> after it is dry, highlight with strokes &amp; lines in <m>lead white</m>.</ab>
 </div>
  
 <div>
@@ -26,19 +26,17 @@
 <head>Folds in clothing</head>
 
 
-<ab>You must take care not to represent any <sup>folds</sup> falsely, but rather imitate natural effects. Thick cloth hardly makes any folds, <m>taffetas</m> and <m>silk</m> cloth make more, and <m>crepe</m> more still. Observe which folds go lengthwise and which across.</ab>
+<ab>One needs to take care that none are made which are false, but that only that which happens naturally is imitated. A <m>thick cloth</m> hardly makes any folds, <m>taffetas</m> &amp; <m>silk cloth</m>  make more, &amp; <m>crêpe</m> more still. <del>Make</del> Observe which ones should go lengthwise &amp; others across.</ab>
 </div>
 
 
 <div>
 <id>p059v_4</id>
-<head>Siccatives</head>
+<head>Desiccative</head>
 
 
-<ab><m>White lead</m> and <m>massicot</m> are most siccative, nevertheless they need a good two days. If you want to verify whether an <m>oil</m> is siccative, use it to distemper <m>white lead</m>, and if it soon produces a crust it means that it will dry.</ab>
+<ab><m>Lead white</m> &amp; <m>massicot</m> are the most desiccative, nevertheless they need a good two <ms><tmp>days</tmp></ms>. If you want to prove whether an <m>oil</m> is desiccative, temper <m>lead white</m> with it, &amp; if it produces a crust <del>in a <ms><tmp>day</tmp></ms></del> soon it means that it will dessicate.</ab>
 </div>
-
-
 
 
 <div>
@@ -46,7 +44,7 @@
 <head>Double layers</head>
 
 
-<ab><m>Azures</m>, flesh tones and reds are applied twice. Other <sup>colors</sup> are not.</ab>
+<ab><m>Azures</m>, flesh tones and reds are layered twice. The others not.</ab>
 </div>
 
 
@@ -55,6 +53,6 @@
 <head>Mending cracks in a panel</head>
 
 
-<ab>If a painted panel breaks you can glue it well on the reverse, but to fill in the cracks properly in order to paint and repair it, you must not use any <m>glue </m>, which weakens in damp weather and would swell when touched with the <m>oil</m> of the painting. But have some <m>white wax</m>, which is harder than the other sort. The <m>oil</m> mixed into the <m>wax</m> prevents it from melting in the sun. The <m>wax</m> must not be hard, but soft as if recently cooled. Apply it on cracks and crevices with the tip of a knife, then scrape.</ab>
+<ab>If a painted panel breaks you can <m>glue</m> it well on the reverse, but to fill in the cracks well in order to paint on it &amp; repair it, it ought not to be with <m>glue </m>, which rots <env>in damp weather</env> &amp; would swell when touched with the <m>oil</m> of the painting. But take <m>white wax</m>, which is harder than the other kind. The <m>oil</m> mixed in among the <m>wax</m> prevents it from melting <env>in the sun</env>. The <m>wax</m> ought not to be hard, but soft as if recently cooled. Apply it on cracks &amp; crevices with the <tl>tip of a knife</tl>, then scrape.</ab>
 <cont/>
 </div></root>

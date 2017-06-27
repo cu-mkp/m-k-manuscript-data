@@ -1,92 +1,98 @@
-142|moule
-68|moules
-57|chassis
-32|mortier
+165|moule
+93|moules
+69|chassis
+43|pinceau
+35|mortier
 32|mabre
-30|pinceau
 28|crusol
-25|baston
+27|baston
+25|costeau
 24|fourneau
 23|four
-22|costeau
-19|tamis
+20|tamis
 19|porphire
 18|fil de fer
 16|boicte
+15|vaisseau
+15|pot
 15|lime
-14|vaisseau
+13|poincte
 13|marteau
+13|forge
 13|burin
-12|pot
 12|os
-12|forge
+12|doigt
 11|esponge
-11|doigt
 11|creuset
 10|papier
+10|molle
+10|escuelle
+10|doigts
+10|crampons
+10|broisse
 9|souflets
 9|mortiers
+9|main
 9|linge
 9|gabions
-9|crampons
-9|broisse
+9|bouteille
 8|pilon
-8|escuelle
-8|doigts
+8|mains
+8|cousteau
 8|corde
+8|chevilles
 8|chaple
+7|verre
+7|trancheplume
 7|souflet
+7|ongle
 7|grille
 7|four a vent
-7|chevilles
+7|filet
 6|roue
+6|poinctes
+6|plume
 6|plane
-6|molle
-6|filet
-6|cousteau
 6|ciselet
-6|ciseaulx
 6|cheville
 6|chandelle
-6|bouteille
-5|verre
 5|tuile
-5|trancheplume
-5|ongle
-5|main
+5|tamisee
+5|table
+5|serviette
+5|presse
 5|four de reverberation
+5|dent
 5|cloche
 5|ciseau
 5|carte
 5|aiguille
-4|tamisee
-4|serviette
-4|presse
+5|Moules
 4|pots
-4|plume
 4|pincettes
+4|pallete
 4|moulle
-4|mains
+4|molles
 4|lanterne
 4|guimbelet
 4|fourchette
-4|dent
 4|creusets
+4|cotton
 4|cordeau
+4|compas
 4|ciselets
+4|ciseaulx
 4|chauldron
 4|broisses
+4|bouteille de verre
 4|boicte de cuir
-4|Moules
-4|Moule
 3|verge
-3|table
 3|sac
 3|presses
-3|poincte
+3|pot de terre
 3|palle
 3|os de seiche
-3|molles
+3|moule de plastre
 3|medaille
 3|manche
 3|foret
@@ -101,12 +107,11 @@
 3|dan de loup
 3|cuillere
 3|creusol
-3|compas
 3|chapeau
 3|cercle
 3|carton
-3|bouteille de verre
 3|boisseau
+3|barrique
 3|Mortiers
 2|vis
 2|vaisseau de cuivre
@@ -114,72 +119,100 @@
 2|toile
 2|tenailles
 2|tamise
+2|sayes
 2|regle
+2|queue de fer
+2|quarton
+2|poinctes de fil de fer
+2|poinctes de fer
+2|poincte dun costeau
 2|poelonne
 2|plaste
+2|planche
 2|pinsettes
+2|pinceaulx a huile
+2|pinceaulx a
+2|pinceaulx
 2|pierre
 2|pied
+2|petit baston
+2|papier colle
 2|panier
 2|pallette
-2|pallete
 2|paille
 2|onglet
+2|moules a noyau
 2|mortier de verre
 2|mortier de fer
 2|mortier de bronze
+2|molletes
+2|moles
 2|manche de chemise
 2|lime doulce
 2|lames
+2|huile
 2|houtils
 2|gouge
 2|gand
 2|fornaise
 2|forges
 2|foreter
+2|fiolle
 2|fil darchal
+2|fil
 2|esgrusouer
 2|desgrusouer
+2|de verre
 2|de cuir
 2|crusols
 2|couvercle
-2|cousteaulx
 2|costeaulx
 2|cornue
+2|conche
 2|cloches
 2|chaulderon
+2|cage
 2|cabats
 2|bullitoire
 2|brasier
+2|bouche
 2|boicte 
 2|barre
 2|aneau
 2|ambu
+2|alembic
 2|Souflets
+1|vergettes
+1|vase
 1|vaisseau plombe
 1|vaisseau destaing
 1|vaisseau de terre
 1|vaisse
+1|un peu de liege
 1|tuyle
 1|tuiles
 1|tuile a crochet
 1|tuelle
 1|truelle
 1|triboulet
-1|trepies
+1|trepies de fer
 1|trepier
 1|trepan
 1|trencheplume
 1|tour
+1|toille q{ui} soit asses serree
+1|toile de cambray
 1|terrine
 1|tenaille
 1|tapon de la bouteille
 1|tapon
 1|tamiser
 1|tamis double
+1|tables
 1|table soit
 1|table bien nette &amp; unie
 1|syringue
+1|sur le rechault
 1|subtil tamis
 1|sublimatorio di vetro
 1|souldouers de vitrier
@@ -189,7 +222,7 @@
 1|seau
 1|sayettes de pourceau
 1|sayettes
-1|sayes
+1|sayetes de poil de pourceau
 1|sacs
 1|roulleau
 1|roue de plomb
@@ -200,22 +233,30 @@
 1|ribot
 1|retors de la sye
 1|reigle
+1|refendu et escartele par le bout
 1|rateau
 1|rasteaulx
 1|raspe
+1|rachault
 1|rabot
+1|quille de cire
 1|quarreau
 1|quaisse
 1|presse a rouleaux
+1|pour sapuyer la main quand ilz paignent
 1|pour les verriers
 1|poue
+1|pots de terre
 1|portes
 1|portepiece
 1|porte piece
 1|pointes de
-1|poinctes de fil de fer
-1|poinctes de fer
+1|pointes
+1|poinctes delicates de fil 
 1|poinctes de bois
+1|poincte du
+1|poincte de fil de fer
+1|poincte de fer
 1|poincte de diamant
 1|poincte dacier
 1|poincte 
@@ -228,34 +269,35 @@
 1|poil
 1|poches de cuir
 1|platte de fer
+1|platine dardille
 1|platene
 1|plat destain
 1|plat destaim fin
 1|plat
-1|planche
+1|plaste destain
 1|place du fouye
 1|piquet
 1|pippe
 1|pipe
 1|pinon
+1|pinceaulx fort delies qui
 1|pinceaulx composes de deulx ou trois poils de barbe 
-1|pinceaulx a huile
-1|pinceaulx
 1|pilons
 1|pierre ponce
 1|pierre noire
 1|pierre de touche
+1|pied de cire
 1|picquet de fer
 1|phiole
-1|petit compas
-1|petit baston
+1|petit
 1|perches
 1|peigne
-1|papier colle
+1|paulme
 1|pallette a huile
 1|palles fer
 1|palle baisse
 1|palettes
+1|palette
 1|pales
 1|painceau
 1|oreille
@@ -267,13 +309,12 @@
 1|moules froids
 1|moules destain
 1|moules destaim
+1|moules de plastre
 1|moules de noyau
 1|moules de metal
 1|moules de cuivre graves au burin ou en pierre ou
 1|moules a gecter letton
-1|mouler
-1|moulent
-1|moulee
+1|moules a chassis
 1|moule de terre
 1|moule de plomb
 1|moule de grais
@@ -284,7 +325,6 @@
 1|mortier de metal ou de fer
 1|mortier de cuivre
 1|molets
-1|moles
 1|modelle en papier
 1|mirouers
 1|mirouer de cristal
@@ -295,21 +335,30 @@
 1|marteler
 1|marteaulx
 1|manches
+1|manche des pinceaulx
 1|manche de linge
 1|mains joinctes
 1|mail
 1|mabres
 1|mable
+1|lopin de verre
+1|longs pinceaux
 1|long verre
+1|linges
+1|linge rude
+1|linge fort subtil
 1|limes quarree
 1|liment
 1|les pastissiers se servent
 1|lanternes
+1|langue
 1|lampes
 1|lampe
+1|lames dargent
 1|lame de fer
 1|lame de cuivre
 1|lame
+1|instrument recourbe
 1|horologe de sable
 1|guinbelet
 1|grattebroisse de letton
@@ -337,23 +386,34 @@
 1|four a boys
 1|fosse
 1|forneau
+1|fornaise des verriers
 1|fornaise des potiers
 1|formes de fer &amp; de cuivre
 1|forge dorfevre
 1|forge des orfevres
 1|forchettes
+1|fiolle de verre
+1|fiolle de
+1|fiole
 1|filtre
 1|fils de
+1|filiere
 1|fil du propre
 1|fil de letton
+1|fil de
 1|feu de reverbera{ti}on
 1|fer tranchant
+1|fer entourne de cotton
+1|fer crochu
 1|fer coupa{n}t
 1|fer
 1|feille de papier
 1|estrier
 1|estamine
 1|estamiere
+1|escuelles
+1|escuelle plombee
+1|escuelle de terre plombee
 1|escaille
 1|entonnouer
 1|enclumes
@@ -364,6 +424,8 @@
 1|eau coloree
 1|eau 
 1|eau
+1|drapt vert
+1|drappeau
 1|drap de laine
 1|double tamys
 1|double des apothiquaires
@@ -378,7 +440,6 @@
 1|demy moule
 1|demy mole
 1|demy
-1|de verre
 1|de reverberation
 1|de relief
 1|de rat
@@ -386,19 +447,23 @@
 1|de plomb
 1|de pierre
 1|de grais
+1|de diverses grandeur qui ayent un bec
+1|de cist cordes de cistre
 1|de chassis
 1|de bronze
 1|dargent
 1|dardille
+1|dacier
 1|curedent
 1|cureaureille
 1|cuivre
 1|cuir
-1|cuillere de boys
+1|cuilliere
 1|cuillere de bois
 1|cuellere
 1|cueillerees dargent
 1|cueillere de fer
+1|cueillere de boys
 1|cueillere
 1|crusols pour fondre le metal
 1|crusole
@@ -408,6 +473,7 @@
 1|creusel
 1|crampo{n}s
 1|couvercle de cuir
+1|cousteaulx
 1|couges
 1|cornues
 1|cordon
@@ -430,19 +496,21 @@
 1|chauderon
 1|chandelle de suif
 1|chandelle de cire
+1|cercle de terre
 1|cassolle dest
 1|cassolle de fer ou metal
 1|cassolle de fer
 1|cassete
+1|casse platte
 1|carreau
 1|cane
 1|caisse
 1|brunisson
 1|broche de boys
+1|broc
 1|bouteure dorfevres
 1|bouteilles de verre
 1|bouteille de
-1|bouche
 1|boitte de buys
 1|boitte
 1|boite
@@ -462,11 +530,12 @@
 1|baston fendu
 1|baston de saul
 1|barriquet
-1|barrique
+1|barriques
+1|ayent la poincte ferme
 1|assiette
 1|anneaulx
+1|amande
 1|alembics
-1|alembic
 1|aleine dacier
 1|alambic
 1|alaine
@@ -476,12 +545,15 @@
 1|Tamis
 1|Roue de cuivre
 1|Presse
-1|Mouler
+1|Pinceaulx
+1|Moule de plastre
+1|Moule
 1|Mortier
 1|Four a vent
 1|Four a souflets
 1|Fil de fer
 1|Crusol
+1|Croons
 1|Creusets
 1|Cousteau
 1|Broisses

@@ -1,20 +1,20 @@
-26|orfevres
-18|fondeurs
-14|painctres
+27|orfevres
+19|fondeurs
+15|painctres
 8|verriers
 7|pintiers
 7|canonier
 6|Fondeur
 5|vitriers
 5|potiers
+5|Painctre
 4|ouvrier
-4|orfevre
 4|fourbisseur
 4|artiste
 4|artisans
-4|Painctre
 3|pionniers
 3|ouvriers
+3|orfevre
 3|mareschaulx
 3|imprimeurs
 3|canoniers
@@ -32,6 +32,7 @@
 2|minerons
 2|menusiers
 2|maistres
+2|imprimeur
 2|fondeurs dartiglerie
 2|courroieur
 2|apothiquaires
@@ -45,7 +46,9 @@
 1|verrier
 1|vendangeurs
 1|vallet
+1|vaissele &amp; grosserie
 1|tuilier
+1|travaillent de
 1|tinturiers
 1|taneurs
 1|tailleurs de pierre
@@ -54,6 +57,7 @@
 1|sophistiqueurs
 1|serruriers
 1|rustiques
+1|rustique
 1|roy
 1|riches
 1|quadraniers
@@ -65,7 +69,8 @@
 1|pintori
 1|pelerin
 1|paysant
-1|paysan
+1|paysans
+1|pauvres paysans
 1|pastissiers
 1|parfumeurs
 1|parayres
@@ -84,7 +89,6 @@
 1|lapidaires
 1|jardiners
 1|inventeur
-1|imprimeur
 1|grossiers
 1|graveurs sur le
 1|gonnin
@@ -99,9 +103,11 @@
 1|fondableseurs
 1|foeilles de pierrerie
 1|fer
+1|femmes
 1|febvre
 1|faiseurs de cuir dore
 1|espasiers
+1|enlumineurs
 1|enleumineurs
 1|en grand ouvrage
 1|denlumineure
@@ -119,6 +125,8 @@
 1|chaudroniers
 1|chandeliers
 1|ceulx qui font les
+1|ceulx qui aguisent
+1|ceulx qui
 1|cavallerie
 1|canonnier
 1|boutonniers aussi de verre
@@ -153,10 +161,11 @@
 1|Gainiers
 1|Gainier
 1|Fourbisseur
-1|Fondeurs
+1|Fondeurs de menus ouvrages
 1|Faiseur de natte
 1|Cordonnier
 1|Chirurgiens
 1|Ceulx qui font les gardes despees
 1|Celuy qui faict profession de travailler a huile
 1|Boulangier
+1|@destaim

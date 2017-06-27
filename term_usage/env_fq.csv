@@ -1,19 +1,21 @@
 12|mine
-6|a la pluye
-4|au soleil
+9|a la pluye
+5|au soleil
 3|soleil
-3|pluye
 3|muraille
 3|en lieu humide
 3|cave
 2|terre
+2|temps humide
 2|sec
 2|rochers
 2|riviere
+2|pluye
 2|mer
 2|maisons
 2|lieu sec
 2|lieu humide
+2|en terre
 2|en
 2|eglises
 2|boutique
@@ -21,6 +23,7 @@
 2|au serain
 2|a lombre
 2|a lhumide
+2|a lair
 1|villes fortes
 1|villes
 1|ville
@@ -31,9 +34,9 @@
 1|terriers
 1|terrier
 1|terre fresche &amp; humide
-1|temps humide
 1|temps de pluye
 1|temps
+1|sur les maisons
 1|soleil chault
 1|serain de la nuit
 1|serain
@@ -59,6 +62,7 @@
 1|mine de Th{ou}l{ous}e
 1|lieu clos
 1|lieu
+1|la premiere pluye
 1|humidite
 1|humeur de la cave
 1|hors du vent
@@ -66,14 +70,18 @@
 1|grandes escailles vers les montaignes
 1|grandes cuisines
 1|garrigue
+1|formillere
+1|fontaine
 1|expose au soleil
 1|en un jardin
+1|en temps humide
 1|en lieu frais
 1|en lieu bien
 1|en lieu aire
 1|en lieu
 1|en la cave
 1|en hault
+1|eau
 1|doulce
 1|descouvert
 1|de rochers
@@ -93,11 +101,13 @@
 1|bas en terre
 1|aulx territoires maigres
 1|aulx environs de toutes les bonnes villes
+1|aulx champs
+1|au soleil 
 1|au profond de la sablonniere
 1|au froict
 1|au costau de puy david bien
 1|au
 1|apres un temps pluvieulx
-1|a lair
+1|a la
 1|A lair
 1|

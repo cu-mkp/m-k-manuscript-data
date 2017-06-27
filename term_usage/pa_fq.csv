@@ -1,50 +1,57 @@
-28|fleur
-26|herbe
-19|fleurs
+30|aspic
+20|noix
+19|fleur
+16|fleurs
 15|rose
-13|bled
-13|aspic
-12|herbes
-11|noix
+14|bled
 11|foeuille
 10|foeuilles
 9|saule
-8|orme
+9|orme
+7|lin
 6|pensee
+6|herbe
 5|raisin
 5|pastel
-5|lin
-5|foeilles
-5|foeille
+5|olif
+5|figuier
 5|abres
 5|abre
 4|sauge
 4|millet
+4|froment
+4|foeille
+4|cotton
 3|vigne
-3|froment
-3|figuier
-3|bouquet
+3|herbes
+3|foeilles
 3|asperge
 2|tim
-2|tige
 2|soucy
+2|safran
 2|rosmarin
-2|olif
 2|noyer
+2|mil
+2|herable
 2|havets
-2|fruicts
 2|espinette
+2|chastaignes
 2|buys
 2|buglose
 2|bruyeres
 2|bouton
 2|bleds
 2|aulx
+2|amendes
+2|ail
+2|absinthe
+1|zedoaire
 1|viole
 1|vini
 1|vinette
 1|vesse
 1|tiges
+1|tige
 1|soulcy
 1|soulci
 1|solcy
@@ -53,8 +60,8 @@
 1|saulge
 1|sarment
 1|sapin
-1|safran
 1|rosier
+1|roses
 1|rose soulcy
 1|ronce
 1|rheubarbe des moynes
@@ -72,6 +79,8 @@
 1|poirier
 1|poires
 1|peschier
+1|pesches
+1|persicaire
 1|perces mericotons
 1|pavot rouge
 1|papus
@@ -85,16 +94,17 @@
 1|oigno{n}s
 1|oignons
 1|oignon
+1|ognions
 1|noyau
 1|noisettes
 1|nois
 1|navete
 1|musc
-1|mil
 1|mericotons
 1|melons
 1|mauves
 1|lys
+1|linges
 1|linge
 1|lapathium acutum maius
 1|lapasses
@@ -106,14 +116,13 @@
 1|guindoles
 1|guimave
 1|genest
-1|fruictz
 1|fruict des fraises
+1|from{ent}
 1|fraisiers
 1|fraises
 1|foeuillle
 1|foeuilles de rosier
 1|foeuilles de
-1|foeuille dabsinthe
 1|foeuiles
 1|foeilles delices
 1|foeilles de lierre
@@ -121,7 +130,6 @@
 1|fleur de roses
 1|fleur de la rose
 1|fleur de
-1|feuillage
 1|febve
 1|fayan
 1|despinette
@@ -133,7 +141,6 @@
 1|coings
 1|choux
 1|chauches
-1|chastaignes
 1|chaisne
 1|canelle
 1|buy
@@ -148,14 +155,13 @@
 1|armols
 1|arbres
 1|amendiers
-1|amendes
 1|amaranthe
-1|ail
-1|absinthe
+1|amande
 1|abricots
 1|abres de noyau
 1|Visme
 1|Segle
+1|Santonique
 1|Safran
 1|Roses
 1|Peschers
@@ -164,7 +170,6 @@
 1|Oliviers
 1|Oeillet
 1|Marguerites
-1|Herbes
 1|Eschervis
 1|Eleusines
 1|Boys

@@ -4,7 +4,7 @@
 
 <div>
 <id>p060v_1</id>
-<head><m>Vernis</m> sec en une <tmp>heure</tmp></head>
+<head><m>Vernis</m> sec en une <ms><tmp>heure</tmp></ms></head>
 
 
 <ab>P{rens} <m>huile <add>@ de tourmentine</add> blanc</m> <add>@ &amp;</add> <m>termentine</m> &amp; <m>mastic pulverise &amp; passe<lb/>
@@ -23,7 +23,7 @@ a discretion jusques a ce quil aye asses de corps<figure>+</figure></ab>
 Ce quon cognoist quand estant mis<lb/>
 sur un <tl>costeau</tl> <env>au vent</env> il ne coule point<lb/>
 Cestuy cy est excellent pour tableaulx<lb/>
-et est sec en une <tmp>heure</tmp><lb/>
+et est sec en une <ms><tmp>heure</tmp></ms><lb/>
 et ne grippe point<lb/>
 co{mm}e celuy de <m><sup>tourmentine</sup></m> tour<lb/>
 mentine</ab>
@@ -32,18 +32,19 @@ mentine</ab>
 
 <div>
 <id>p060v_2</id>
-<head>Laver les tableaulx</head>
+<head>@ Laver les tableaulx</head>
 
 
 <ab>Aulcuns les lavent avecq <m>eau de savon</m> aultres avecq<lb/>
  <m>urine</m> aultres avecq <m>vin blanc</m> car la pouldre gaste les<lb/>
-couleurs</ab></div>
+couleurs</ab>
+</div>
 
 
 <div>
 <id>p060v_3</id>
 <margin>left-middle</margin>
-<head><m>Huile daspic</m></head>
+<head><m>@ Huile d<pa>aspic</pa></m></head>
 
 
 <ab>Il nen fault pas<lb/>
@@ -55,8 +56,8 @@ les couleurs qui apres<lb/>
 se deffont Et pour<lb/>
 ceste cause les <pro>painctres</pro><lb/>
 lemployent a nettoyer<lb/>
-leurs pinceaulx a<lb/>
-<m>huile</m> quand ilz se sont<lb/>
+leurs <tl>pinceaulx a<lb/>
+<m>huile</m></tl> quand ilz se sont<lb/>
 faicts durs Car il les<lb/>
 rend mols &amp; nets incontinent<lb/>
 penetrant la couleur seiche<lb/>
@@ -64,9 +65,9 @@ qui les empaste Les <pro>painctres</pro><lb/>
 aussy envieulx quelque fois<lb/>
 de la besoigne entreprise<lb/>
 par un aultre secretement<lb/>
-le soir versent quelques<lb/>
+<tmp>le soir</tmp> versent quelques<lb/>
 gouttes d<m>huile <del>sur le</del><lb/>
-daspic</m> sur le bord den<lb/>
+d<pa>aspic</pa></m> sur le bord den<lb/>
 hault du tableau de<lb/>
 sorte que coulant en bas<lb/>
 il faict une tache<lb/>
@@ -78,7 +79,8 @@ louvrage uny &amp; dun<lb/>
 mesme contexte ilz sont<lb/>
 contraincts de reffaire<lb/>
 tout Et ainsy perdent<lb/>
-a leur besoigne</ab></div>
+a leur besoigne</ab>
+</div>
 
 
 <div>
@@ -97,10 +99,10 @@ a leur besoigne</ab></div>
 <head>Labeur des <pl>flamens</pl></head>
 
 
-<ab>Ils font tous leurs ouvrages a <m>huile</m> avecq la poincte du<lb/>
-pinceau a <del>f</del> la facon des bons enlumineurs et broyent leurs<lb/>
+<ab>Ils font tous leurs ouvrages a <m>huile</m> avecq la <tl>poincte du<lb/>
+pinceau</tl> a <del>f</del> la facon des bons <pro>enlumineurs</pro> et broyent leurs<lb/>
 couleurs fort subtillement se gardent de la poulsiere et nettoyent<lb/>
-souvent leur pinceau des bouts de poil que quelque fois ilz<lb/>
+souvent leur <tl>pinceau</tl> des bouts de <m>poil</m> que quelque fois ilz<lb/>
 laissent pource que cela demeurant sur louvrage <del>il cela</del> il<lb/>
 empescheroit de travailler nettement dequoy il sont fort curieux<lb/>
 En ceste sorte leur labeur se monstre fort adoulcy Mesmem{ent}<lb/>
@@ -110,5 +112,6 @@ puys les yeulx apres le nes en fin la bouche et le reste<lb/>
 Mays ilz ne font pas comme quelques uns qui <del>fo</del> couchent<lb/>
 deulx ou trois carnations differentes lune jaulnastre &amp; lautre<lb/>
 obscure pourceque les couleurs tousjours se meslent &amp; en fin<lb/>
-se meurent Seulement ilz <del>[illegible]</del> font proprem leur impression</ab><cont/>
+se meurent Seulement ilz <del><ill/></del> font proprem leur impression</ab>
+<cont/>
 </div></root>
