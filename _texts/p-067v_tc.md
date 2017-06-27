@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [suye, sel, vinaigre, fer doulx, acier, letton, cuivre, laicton, Os de pied de beuf pour sable, paille, bourre, sable dos, cuyvre, Huiles dessence, huile de noix, tormentine, eau, dazur desmail, blanc de plomb, tourmentine, huile]
-tools: [pinceau]
-measurements: []
+materials: [suye, sel, vinaigre, fer doulx, acier, letton, cuivre, laicton, Os de pied de beuf pour sable, paille, bourre, sable dos, cuyvre, Huiles dessence, huile de noix, tormentine, eau commune, destrempe, dazur desmail, blanc de plomb, vernis de tourmentine, huile]
+tools: [pinceau, alembic]
+measurements: [heure]
 bodyparts: []
 places: []
-plants: []
+plants: [noix]
 professions: [sarruriers, fondeurs]
 environments: []
 animals: [beuf]
@@ -46,5 +46,5 @@ Estants bien brusles par deulx fois & pulverises ilz<br/> moulent fort net en sa
 ## <span class="m">Huiles dessence</span>
 
  
-L<span class="m">huile <span class="add">de noix</span></span> meslee avecq aultant de <span class="m">tormentine</span> & distillee<br/> par lalembic rend une essence plus blanche que l<span class="m">eau</span><br/> commune Mays elle nha poinct de corps & ne donne point<br/> de liaison aulx couleurs qui semboivent incontinent et puys<br/> laissent la couleur sans prise et seffacant Elles semboiva{n}t<br/> de ceste sorte ne donneroient pas loisir de travailler et adoulcir<br/> non plus qua destrempe Mays tu racoustres ce deffault<br/> luy donnant un peu de corps avecq de la <span class="m">tormentine</span> non pas<br/> du tout si espes que pour vernir Et ainsy tu pourras<br/> travail <span class="m">dazur desmail</span> & feras un parfaict <span class="m">blanc de plomb</span><br/> Le vernis de <span class="m">tourmentine</span> faict avecq de ceste <span class="m">huile</span> est<br/> sec dans une heure
+L<span class="m">huile <span class="add">de <span class="pa">noix</span></span></span> meslee avecq aultant de <span class="m">tormentine</span> & distillee<br/> par l<span class="tl">alembic</span> rend une essence plus blanche que l<span class="m">eau<br/> commune</span> Mays elle nha poinct de corps & ne donne point<br/> de liaison aulx couleurs qui semboivent incontinent et puys<br/> laissent la couleur sans prise et seffacant Elles semboiva{n}t<br/> de ceste sorte ne donneroient pas loisir de travailler et adoulcir<br/> non plus qua <span class="m">destrempe</span> Mays tu racoustres ce deffault<br/> luy donnant un peu de corps avecq de la <span class="m">tormentine</span> non pas<br/> du tout si espes que pour vernir Et ainsy tu pourras<br/> travail <span class="m">dazur desmail</span> & feras un parfaict <span class="m">blanc de plomb</span><br/> Le <span class="m">vernis de tourmentine</span> faict avecq de ceste <span class="m">huile</span> est<br/> sec dans une <span class="ms"><span class="tmp">heure</span></span>
  

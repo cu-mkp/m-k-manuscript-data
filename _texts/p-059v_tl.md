@@ -8,32 +8,32 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Black charcoal, white lead, azure, Charcoal, charcoal black, taffetas, silk, crepe, White lead, massicot, oil, Azures, glue, white wax, wax]
-tools: []
-measurements: []
+materials: [Charcoal black, lead white, azure, crêpe, charcoal black, thick cloth, taffetas, silk cloth, Lead white, massicot, oil, Azures, glue, white wax, wax]
+tools: [tip of a knife]
+measurements: [days, day]
 bodyparts: []
 places: []
 plants: []
 professions: []
-environments: []
+environments: [in damp weather, in the sun]
 animals: []
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-059v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f124.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>059v</a> - - - - - </div>  
   
 
-## Painting weapons
+## <span class="del">Black</span>Painting of armory
 
  
-<span class="m">Black charcoal</span> mixed with <span class="m">white lead</span> is very appropriate for painting weapons, also mixing in a little <span class="m">azure</span> if you wish. <span class="m">Charcoal</span> by itself is somewhat bluish.
+<span class="m">Charcoal black</span> mixed with a little <span class="m">lead white</span> is very appropriate to make armory, mixing in a little <span class="del">of </span> <span class="m">azure</span> if you wish. <span class="m">Charcoal <span class="add">black</span></span> by itself is as if bluish.
  
  
   
 
-## Painting crepe
+## Painting of <span class="m">crêpe</span>
 
  
-First you need to make a greyish background using <span class="m">charcoal black</span> mixed with <span class="m">white lead</span> and a little <span class="m">azure</span>. Then, after drying, highlight with strokes and lines in <span class="m">white lead</span>.
+First one needs to make the background greyish with <span class="m">charcoal black</span> mixed with <span class="m">lead white</span> & a little <span class="m">azure</span>. Then, <span class="del">resu</span> after it is dry, highlight with strokes & lines in <span class="m">lead white</span>.
  
  
   
@@ -41,15 +41,15 @@ First you need to make a greyish background using <span class="m">charcoal black
 ## Folds in clothing
 
  
-You must take care not to represent any <span class="sup">folds</span> falsely, but rather imitate natural effects. Thick cloth hardly makes any folds, <span class="m">taffetas</span> and <span class="m">silk</span> cloth make more, and <span class="m">crepe</span> more still. Observe which folds go lengthwise and which across.
+One needs to take care that none are made which are false, but that only that which happens naturally is imitated. A <span class="m">thick cloth</span> hardly makes any folds, <span class="m">taffetas</span> & <span class="m">silk cloth</span> make more, & <span class="m">crêpe</span> more still. <span class="del">Make</span> Observe which ones should go lengthwise & others across.
  
  
   
 
-## Siccatives
+## Desiccative
 
  
-<span class="m">White lead</span> and <span class="m">massicot</span> are most siccative, nevertheless they need a good two days. If you want to verify whether an <span class="m">oil</span> is siccative, use it to distemper <span class="m">white lead</span>, and if it soon produces a crust it means that it will dry.
+<span class="m">Lead white</span> & <span class="m">massicot</span> are the most desiccative, nevertheless they need a good two <span class="ms"><span class="tmp">days</span></span>. If you want to prove whether an <span class="m">oil</span> is desiccative, temper <span class="m">lead white</span> with it, & if it produces a crust <span class="del">in a <span class="ms"><span class="tmp">day</span></span></span> soon it means that it will dessicate.
  
  
   
@@ -57,7 +57,7 @@ You must take care not to represent any <span class="sup">folds</span> falsely, 
 ## Double layers
 
  
-<span class="m">Azures</span>, flesh tones and reds are applied twice. Other <span class="sup">colors</span> are not.
+<span class="m">Azures</span>, flesh tones and reds are layered twice. The others not.
  
  
   
@@ -65,7 +65,7 @@ You must take care not to represent any <span class="sup">folds</span> falsely, 
 ## Mending cracks in a panel
 
  
-If a painted panel breaks you can glue it well on the reverse, but to fill in the cracks properly in order to paint and repair it, you must not use any <span class="m">glue </span>, which weakens in damp weather and would swell when touched with the <span class="m">oil</span> of the painting. But have some <span class="m">white wax</span>, which is harder than the other sort. The <span class="m">oil</span> mixed into the <span class="m">wax</span> prevents it from melting in the sun. The <span class="m">wax</span> must not be hard, but soft as if recently cooled. Apply it on cracks and crevices with the tip of a knife, then scrape.
+If a painted panel breaks you can <span class="m">glue</span> it well on the reverse, but to fill in the cracks well in order to paint on it & repair it, it ought not to be with <span class="m">glue </span>, which rots <span class="env">in damp weather</span> & would swell when touched with the <span class="m">oil</span> of the painting. But take <span class="m">white wax</span>, which is harder than the other kind. The <span class="m">oil</span> mixed in among the <span class="m">wax</span> prevents it from melting <span class="env">in the sun</span>. The <span class="m">wax</span> ought not to be hard, but soft as if recently cooled. Apply it on cracks & crevices with the <span class="tl">tip of a knife</span>, then scrape.
  
 *[continued]*
  

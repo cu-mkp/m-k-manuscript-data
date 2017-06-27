@@ -8,12 +8,12 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [sal ammoniac, tin, mercury, parchment glue, white of one egg, saffron, vinegar, sap of a fig tree, bronze, aspic oil, sandarac, wood, Venice turpentine, petroleum oil, aspic oil., copper, Armenian bole, copper filings, sulfur, charcoal]
-tools: []
-measurements: []
+materials: [sal ammoniac, tin, mercury, parchment glue, white of one egg, saffron, vinegar, sap of a fig tree, bronze, Varnish, spike lavender oil, sandarac, drugs, wood, varnish, varnishVenice turpentine, perolle petroleum oil, spike lavender oil., copper, Armenian bole, copper filings, sulfur, charcoal]
+tools: [pot, vial]
+measurements: [ounces, ounce, quarter ounce]
 bodyparts: []
 places: [Venice, Armenian]
-plants: []
+plants: [spike lavender]
 professions: []
 environments: []
 animals: []
@@ -36,18 +36,18 @@ Take some <span class="m">parchment glue</span> and apply it with the <span clas
  
   
 
-## Varnish
+## <span class="m">Varnish</span>
 
  
-Take two ounces of <span class="m">aspic oil</span> and one ounce of <span class="m">sandarac</span>. Take a clean pot and warm it and then take it out of the fire, and after, put the drugs inside, then put them into a vial and apply it <span class="sup">the mixture</span> on the <span class="m">wood</span>.
+Take two <span class="ms">ounces</span> of <span class="m"><span class="pa">spike lavender</span> oil</span> & one <span class="ms">ounce</span> of <span class="m">sandarac</span>. Take a clean <span class="tl">pot</span>, & warm it, & then take it from the fire, and next put the <span class="m">drugs</span> inside, and next put them into a <span class="tl">vial</span>, & apply it on the <span class="m">wood</span>.
  
  
   
 
-## Another recipe for making varnish
+## Another recipe for making <span class="m">varnish</span>
 
  
-Take one ounce of <span class="del"></span><span class="m"><span class="pl">Venice</span> turpentine</span>, and one quarter ounce of <span class="del"></span> <span class="m">petroleum oil</span>, and one ounce of <span class="m">sandarac</span>, and one of <span class="m">aspic oil.</span>
+Take one <span class="ms">ounce</span> of <span class="m"><span class="del">varnish</span><span class="pl">Venice</span> turpentine</span> & one <span class="ms">quarter ounce</span> of <span class="m"><span class="del">perolle</span> <span class="add">petroleum</span> oil</span> & one <span class="ms">ounce</span> of <span class="m">sandarac</span> & one of <span class="m"><span class="pa">spike lavender</span> oil.</span>
  
  
   

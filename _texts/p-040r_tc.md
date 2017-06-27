@@ -55,7 +55,7 @@ On tient pour asseure que <span class="del">jec</span> faisant rougir du <span c
 ## Boutons de <span class="m">vermeilles</span>
 
  
-Pourceque les <span class="m">vermeilles</span> ne craignent point le foeu on<br/> les taille a losange pla<span class="del">[illegible]</span>te dun coste puys on les joinct en<br/> estoille dans paste d<span class="m">esmail</span> broye apres on le parfond<br/> & on dore l<span class="m">esmail</span> d<span class="m">or</span> de foeille quon recuist.
+Pourceque les <span class="m">vermeilles</span> ne craignent point le foeu on<br/> les taille a losange pla<span class="del"></span>te dun coste puys on les joinct en<br/> estoille dans paste d<span class="m">esmail</span> broye apres on le parfond<br/> & on dore l<span class="m">esmail</span> d<span class="m">or</span> de foeille quon recuist.
  
  
   

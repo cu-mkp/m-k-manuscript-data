@@ -8,14 +8,14 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [poils, poils de rat, poil de menue gris, eau, Huile, huile, papier, tourmentine, huile daspic, metal, charbon, glaire doeuf, gomme, aspic, huile dolif, glaire, taffetas]
+materials: [poils, poils de rat, poil de menue gris, eau, Huile, huile, papier, tourmentine, huile daspic, vernis, metal, charbon, Vernis, glaire doeuf, gomme, huile non daspic mays dun aultre odorant qui semble huile dolif, aspic, huile dolif, glaire, taffetas]
 tools: [Four a souflets, souflets]
 measurements: []
 bodyparts: []
 places: [allemands]
-plants: []
-professions: []
-environments: []
+plants: [aspic, olif]
+professions: [painctres, pauvres paysans]
+environments: [la premiere pluye]
 animals: [rat, menue gris, canard, corbeau]
 ---
 
@@ -31,7 +31,7 @@ animals: [rat, menue gris, canard, corbeau]
 ## <span class="m">Huile</span>
 
  
-Tout <span class="m">huile</span> qui sembreve au <span class="m">papier</span> & en chaufant<br/> sevapore au foeu & laisse le <span class="m">papier</span> net comme la <span class="m">tourmentine</span><br/> & <span class="m">huile daspic</span> est bonne a faire vernis
+Tout <span class="m">huile</span> qui sembreve au <span class="m">papier</span> & en chaufant<br/> sevapore au foeu & laisse le <span class="m">papier</span> net comme la <span class="m">tourmentine</span><br/> & <span class="m">huile d<span class="pa">aspic</span></span> est bonne a faire <span class="m">vernis</span>
  
  
   
@@ -47,13 +47,13 @@ Toute chose broyee & destrempee soufle selon<br/> aulcuns
 ## <span class="tl">Four a souflets</span>
 
  
-Plustost qui mectre le <span class="m">metal</span> il fault quil soit<br/> rouge au fonds co{mm}e un <span class="m">charbon</span> & bien enflambe<br/> Apres tu <span class="del">[illegible]</span> lemplis & couvre le <span class="m">charbon</span> & ajouste les<br/> <span class="tl">souflets</span> Aultrement le <span class="m">metal</span> de dessus se fondroit<br/> par le moyen des <span class="tl">souflets</span> & le fonds seroit caille &<br/> refroidy & ne courroit pas Mays si tu procedes en<br/> ceste sorte tu fondras tout ce quil te plaira
+Plustost qui mectre le <span class="m">metal</span> il fault quil soit<br/> rouge au fonds co{mm}e un <span class="m">charbon</span> & bien enflambe<br/> Apres tu <span class="del"></span> lemplis & couvre le <span class="m">charbon</span> & ajouste les<br/> <span class="tl">souflets</span> Aultrement le <span class="m">metal</span> de dessus se fondroit<br/> par le moyen des <span class="tl">souflets</span> & le fonds seroit caille &<br/> refroidy & ne courroit pas Mays si tu procedes en<br/> ceste sorte tu fondras tout ce quil te plaira
  
  
   
 
-## Vernis sur <span class="m">papier</span>
+## <span class="m">Vernis</span> sur <span class="m">papier</span>
 
  
-Les <span class="pl">allemands</span> font des boictes <span class="del">p</span>couvertes de <span class="m">papier</span> painct& le vernissent<br/> de <span class="m">glaire doeuf</span> meslee de <span class="m">gomme</span> & dun peu d<span class="m">huile</span> non d<span class="m">aspic</span> mays<br/> dun aultre odorant qui semble <span class="m">huile dolif</span> Tout ouvrage faict avecq<br/> <span class="m">glaire</span> soubstient l<span class="m">huile</span> Cest avecq cela que les painctres trompent les<br/> pauvres paysans paignant leurs bandes de <span class="m">taffetas</span> avecq ceste <span class="m">glaire</span><br/> pour avoyr plustost faict Mays la premiere pluye emporte tout
+Les <span class="pl">allemands</span> font des boictes <span class="del">p</span> couvertes de <span class="m">papier</span> painct & le vernissent<br/> de <span class="m">glaire doeuf</span> meslee de <span class="m">gomme</span> & dun peu d<span class="m"><span class="m">huile</span> non d<span class="m"><span class="pa">aspic</span></span> mays<br/> dun aultre <span class="sn">odorant</span> qui semble <span class="m">huile d<span class="pa">olif</span></span></span> Tout ouvrage faict avecq<br/> <span class="m">glaire</span> soubstient l<span class="m">huile</span> Cest avecq cela que les <span class="pro">painctres</span> trompent les<br/> <span class="pro">pauvres paysans</span> paignant leurs bandes de <span class="m">taffetas</span> avecq ceste <span class="m">glaire</span><br/> pour avoyr plustost faict Mays <span class="env">la premiere pluye</span> emporte tout
  

@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Crocum ferri, rouille de fer, limaille, vinaigre, rouille, crocum, or, Plastre, boys, cire, plastre, charbon, terre]
-tools: [moules, moule, molle]
+materials: [Crocum ferri, rouille de fer, limaille, vinaigre, rouille, cendres, crocum, or, Plastre, boys, cire, plastre, charbon, cendre, terre]
+tools: [moules, moule, molle, cercle de terre]
 measurements: [once]
 bodyparts: []
 places: []
-plants: [Herbes, herbe, asperge, tim, herbes, rosmarin]
+plants: [asperge, tim, rosmarin]
 professions: []
 environments: []
 animals: []
@@ -25,7 +25,7 @@ animals: []
 ## <span class="m">Crocum ferri</span>
 
  
-Il est bien plustost faict avecq de la <span class="m">rouille de fer</span><br/> quavecq la <span class="m">limaille</span> Car si le <span class="m">vinaigre</span> <span class="add">est bon</span> tu le veras<br/> bouillir a gros bouillons <span class="del">co{mm}e sil</span> sur la <span class="m">rouille</span> co{mm}e<br/> sil estoit sur le foeu Sur la <span class="m">limaille</span> il ne bouile point<br/> sil nest mis sur le foeu ou cendres chauldes Touteffois<br/> quand la <span class="m">limaille</span> a passe par le <span class="m">vinaigre</span> & que tu levapores<br/> & embrase & quelle est bien rouge Si tu reiteres cela<br/> pour la seconde foys le <span class="m">vinaigre</span> y aura bien plus de<br/> force & le <span class="m">crocum</span> en sera beaucoup plus subtil & plus<br/> rouge Ceulx qui en usent pour gecter en <span class="m">or</span> <span class="del">veu</span> achaptent<br/> l<span class="ms">once</span> quarante ou cinquante <span class="cn">sols</span>
+Il est bien plustost faict avecq de la <span class="m">rouille de fer</span><br/> quavecq la <span class="m">limaille</span> Car si le <span class="m">vinaigre</span> <span class="add">est bon</span> tu le veras<br/> bouillir a gros bouillons <span class="del">co{mm}e sil</span> sur la <span class="m">rouille</span> co{mm}e<br/> sil estoit sur le foeu Sur la <span class="m">limaille</span> il ne bouile point<br/> sil nest mis sur le foeu ou <span class="m">cendres</span> chauldes Touteffois<br/> quand la <span class="m">limaille</span> a passe par le <span class="m">vinaigre</span> & que tu levapores<br/> & embrase & quelle est bien rouge Si tu reiteres cela<br/> pour la seconde foys le <span class="m">vinaigre</span> y aura bien plus de<br/> force & le <span class="m">crocum</span> en sera beaucoup plus subtil & plus<br/> rouge Ceulx qui en usent pour gecter en <span class="m">or</span> <span class="del">veu</span> achaptent<br/> l<span class="ms">once</span> quarante ou cinquante <span class="cn">sols</span>
  
 > *at left top margin*
 > 
@@ -53,15 +53,15 @@ Tu en peulx mouler de si grand de pieces quil te<br/> playra Mays si tu prends t
  
   
 
-## <span class="pa">Herbes</span> difficilles abrusler<br/> dans le noyau
+## Herbes difficilles abrusler<br/> dans le noyau
 
  
-Toute <span class="pa">herbe</span> qui ha la tige dure & comme de <span class="m">boys</span> est fort<br/> difficille a brusler dans le noyau co{mm}e l<span class="pa">asperge</span> le <span class="pa">tim</span> & semblables<br/> pourceque elles demeurent en <span class="m">charbon</span> dans les petits conduicts<br/> & si elles ne se reduissent bien en cendre il nest possible de les<br/> vuider du <span class="tl">molle</span> Aulcuns les recuisent pour cet effect deulx ou<br/> <span class="del">[illisible]</span> trois fois Aultres mectant plusieurs <span class="pa">herbes</span> ensemble dans le<br/> <span class="tl">moule</span> passent au travers des <span class="del">filets</span> <span class="pa">herbes</span> & d<span class="del">es <span class="tl">moules</span></span><br/> cercle de <span class="m">terre</span> qui est pour recepvoir le sable destrempe <span class="del">plusi</span>
+Toute herbe qui ha la tige dure & comme de <span class="m">boys</span> est fort<br/> difficille a brusler dans le noyau co{mm}e l<span class="pa">asperge</span> le <span class="pa">tim</span> & semblables<br/> pourceque elles demeurent en <span class="m">charbon</span> dans les petits conduicts<br/> & si elles ne se reduissent bien en <span class="m">cendre</span> il nest possible de les<br/> vuider du <span class="tl">molle</span> Aulcuns les recuisent pour cet effect deulx ou<br/> <span class="del"></span> trois fois Aultres mectant plusieurs herbes ensemble dans le<br/> <span class="tl">moule</span> passent au travers des <span class="del">filets</span> herbes & d<span class="del">es <span class="tl">moules</span></span><span class="add">u</span><br/> <span class="tl">cercle de <span class="m">terre</span></span> qui est pour recepvoir le sable destrempe <span class="del">plusi</span>
  
 > *at left bottom margin*
 > 
 > 
->  Cela ne provient<br/> pas de l<span class="pa">herbe</span> qui<br/>s a la tige lignee<br/> pourceque le<br/> <span class="pa">rosmarin</span> se brusle<br/> bien Mays cest<br/> du naturel de certaines<br/> <span class="pa">herbes</span>
+>  Cela ne provient<br/> pas de lherbe qui<br/>s a la tige lignee<br/> pourceque le<br/> <span class="pa">rosmarin</span> se brusle<br/> bien Mays cest<br/> du naturel de certaines<br/> herbes
  
 *[continued]*
  

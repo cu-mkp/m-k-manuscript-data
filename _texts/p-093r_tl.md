@@ -65,7 +65,7 @@ The <span class="m">white ash</span> of all kinds of <span class="m">wood</span>
 ## <span class="m">Sand</span>
 
  
-Very fine pulverized <span class="m">soot</span> molds and removes easily from the mold. The best <span class="m">soot</span>, which is greasy and shiny, is the one from the big kitchens
+Very fine pulverized <span class="m">soot</span> molds & removes easily from the mold. The best <span class="m">soot</span>, which is greasy & shiny, is the one from the big kitchens
  
 Very fine pulverized <span class="m">quicklime</span> works, but mixed <span class="m">flint,</span> crumbled into the hollow, does better.
  

@@ -46,7 +46,7 @@ Il y a pour ce faire trois roues une d<span class="m">estain</span> de <span cla
  
   
 
-## M<span class="del">[illegible]</span>ixtion des <span class="pro">pintiers</span>
+## M<span class="del"></span>ixtion des <span class="pro">pintiers</span>
 
  
 Pourceque parmy le <span class="m">fin estaing</span> ilz meslent bien souvent la<br/> <span class="ms">moictie</span> de <span class="m">plomb</span> qui rend l<span class="m">estaing</span> sourd pour corriger<br/> cela ilz meslent de la <span class="m">limaille de letton</span> parmy pour le<br/> rendre <span class="sn">sonnant</span>

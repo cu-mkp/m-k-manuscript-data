@@ -31,7 +31,7 @@ et lunissent bien <span class="del">puys</span> et estant bien seiche deseignent
 ## Carnations
 
  
-Il ten fault faire de deulx sortes lune plus rouge pour<br/> faire la principale couche laultre plus pale pour les<br/> rehaulssements comme lentour des yeux Et puys sur ceste<br/> derniere carnation tu toucheras legerement les principaulx<br/> jour dun peu de <span class="m">blanc de plomb</span> Mays garde den mectre<br/> trop car cela feroit sembler un visaige de mort La belle<br/> <span class="m">laque de <span class="pl">florence</span></span> faict une belle carnation vifve retirant<br/> au <span class="del">[illegible]</span> tent de la <span class="m">rose alexandrine</span> & <span class="m">incarnadine</span>
+Il ten fault faire de deulx sortes lune plus rouge pour<br/> faire la principale couche laultre plus pale pour les<br/> rehaulssements comme lentour des yeux Et puys sur ceste<br/> derniere carnation tu toucheras legerement les principaulx<br/> jour dun peu de <span class="m">blanc de plomb</span> Mays garde den mectre<br/> trop car cela feroit sembler un visaige de mort La belle<br/> <span class="m">laque de <span class="pl">florence</span></span> faict une belle carnation vifve retirant<br/> au <span class="del"></span> tent de la <span class="m">rose alexandrine</span> & <span class="m">incarnadine</span>
  
 > *at left top margin*
 > 

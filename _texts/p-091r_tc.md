@@ -29,7 +29,7 @@ De Tout abre qui ha plus grosse moelle <span class="add">le greffe</span> est ma
  
 Les abricots ont lescorce fort deliee & par ainsy il les fault<br/> enter sur jeunes abres qui ne layent poinct encores espesse co{mm}e sur<br/> gectes de prunier & amendiers
  
-Les greffes ne <span class="del">[illegible]</span> prenent gueres si la taille de labre se mouille<br/> il fault doncq hanter En temps serain & doulx & non trop froid &<br/> venteulx
+Les greffes ne <span class="del"></span> prenent gueres si la taille de labre se mouille<br/> il fault doncq hanter En temps serain & doulx & non trop froid &<br/> venteulx
  
 Le <span class="m">bois vieulx</span> quon laisse au greffe est necessaire si on ente sur<br/> un abre qui est desja faict & de bonne grosseur pourceque estant tel<br/> il serre plus le greffe & sil est de <span class="m">jeune bois</span> il est si comprime quil<br/> ne peult profficter Mays le <span class="m">bois vieulx</span> resiste mieulx a la<br/> compression du <span class="m">bois vieulx</span> <span class="del">que le jeune</span> a cause quil est plus dur que<br/> le jeune @Mays si le greffe est tout de <span class="m">bois vieulx</span> jamays il ne faict<br/> belle mise ains vient caduc & court & long a croistre
 

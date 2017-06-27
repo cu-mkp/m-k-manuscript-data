@@ -45,5 +45,5 @@ Il fault le faire entre deulx <span class="tl">lames</span> de <span class="m">f
 > *at left bottom margin*
 > 
 > 
->  Il nest pas<br/> pour en <span class="m">oindre</span><br/> les <span class="al">animaulx</span> a<br/> poil car il est<br/> trop fort &<br/> roide Mays<br/> bien pour en<br/> donner un trait<br/> a un pied de petit<br/> <span class="al">animal</span> co{mm}e @ <span class="al">mouche</span> & semblables Il est aussy excellent pour le taint des <span class="m">pierrres</span><br/> blanches [illisible]
+>  Il nest pas<br/> pour en <span class="m">oindre</span><br/> les <span class="al">animaulx</span> a<br/> poil car il est<br/> trop fort &<br/> roide Mays<br/> bien pour en<br/> donner un trait<br/> a un pied de petit<br/> <span class="al">animal</span> co{mm}e @ <span class="al">mouche</span> & semblables Il est aussy excellent pour le taint des <span class="m">pierrres</span><br/> blanches 
  

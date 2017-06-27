@@ -8,12 +8,12 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [soot, salt, vinegar, fer doulx, steel, latten, copper, Latten, Oxen foot bones for sand, straw, wadding, bone sand, Essential oils, Walnut oil, turpentine, essence, water, azur d’esmail, lead white, Turpentine varnish, oil]
-tools: [Files, square files, soft files, pinceau]
-measurements: []
+materials: [soot, salt, vinegar, fer doulx, steel, latten, copper, Latten, Oxen foot bones for sand, straw, wadding, bone sand, Huiles d'essence, Walnut oil, turpentine, common water, distemper, azur d’esmail, lead white, Turpentine varnish, oil]
+tools: [Files, square files, soft files, pinceau, alembic]
+measurements: [hour]
 bodyparts: []
 places: []
-plants: []
+plants: [Walnut]
 professions: [locksmiths, Founders]
 environments: []
 animals: [Oxen]
@@ -43,8 +43,8 @@ Once having been burned well twice & pulverized, they mold very neatly in sand &
  
   
 
-## <span class="m">Essential oils</span>
+## <span class="m">Huiles d'essence</span>
 
  
-<span class="m"><span class="add">Walnut</span> oil</span> mixed with an equal quantity of <span class="m">turpentine</span> and distilled with an alembic produces an <span class="m">essence</span> whiter than common <span class="m">water</span>. But this has no body & does not unite colors, which are immediately imbibed, and then color is left unable to grip and fades away. Imbibed thus, they would not let you work with or soften them, anymore than in distemper. But you can rectify this flaw by giving it a little body with <span class="m">turpentine</span>, <span class="sup">but</span> not as thickly as you would use for varnishing. And thus you can work with <span class="m">azur d’esmail</span>, & make perfect <span class="m">lead white</span>. <span class="m">Turpentine varnish</span> made from this <span class="m">oil</span> dries within one hour.
+<span class="m"><span class="add"><span class="pa">Walnut</span></span> oil</span> mixed with as much of <span class="m">turpentine</span> & distilled by an <span class="tl">alembic</span> renders an essence whiter than <span class="m">common water</span>. But this has no body & does not give a bond for colors that are immediately imbibed, and then leaves the color without stickiness and faded. These, imbibed in this way, would not let you work or soften, no more than in <span class="m">distemper</span>. But you rectify this fault, by giving it a little body with <span class="m">turpentine</span>, not at all so thick as for varnish. And thus you can work with <span class="m">azur d’esmail</span> & will make a perfect <span class="m">lead white</span>. <span class="m">Turpentine varnish</span> made with this <span class="m">oil</span> is dry in one <span class="ms"><span class="tmp">hour</span></span>.
  

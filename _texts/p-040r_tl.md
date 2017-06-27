@@ -55,7 +55,7 @@ One takes for granted that <span class="del">jec</span> heat red—hot the <span
 ## <span class="m">Silver gilt</span> buttons
 
  
-Because <span class="m">silver gilt</span> does not fear fire, it is cut into lozenges flat<span class="del">[illegible]</span> on one side, then they are joined together in a star shape with a paste of crushed <span class="m">enamel</span>, which is then melted & the <span class="m">enamel</span> is gilt with <span class="m">gold</span> leaf and then reheated.
+Because <span class="m">silver gilt</span> does not fear fire, it is cut into lozenges flat<span class="del"></span> on one side, then they are joined together in a star shape with a paste of crushed <span class="m">enamel</span>, which is then melted & the <span class="m">enamel</span> is gilt with <span class="m">gold</span> leaf and then reheated.
  
  
   

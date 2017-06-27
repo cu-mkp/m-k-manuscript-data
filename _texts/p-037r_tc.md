@@ -38,7 +38,7 @@ Le <span class="m">metal</span> se blanchist tant plus il est refondu pourceque<
  
   
 
-## Foeilles pour <span class="del">le [illegible]</span> les <span class="m">pierreries</span>
+## Foeilles pour <span class="del">le </span> les <span class="m">pierreries</span>
 
  
 Estant faictes il ne les fault pas tenir dans aulcune caisse de <span class="m">fer</span><br/> ne de <span class="m">metal</span> car cela les faict tacher Mays en quelque boicte de

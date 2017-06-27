@@ -42,7 +42,7 @@ animals: []
  
  It must be lengthened out with respect to the thing you have molded. And at a minimum for large molds it must be four or five fingers in length. You can make it large enough for half the mold & then divide it in three points of such a sort, and so the molded things will [each] be small. But your points must be small. And in the middle of the casting & of its points, make some holes to impede the fury of the <span class="m">metal</span> & make it run more softly. It is also necessary to fix the bent parts of the animal with little notched lines, and similarly the end of the tail and other fine parts so that the <span class="m">metal</span> goes throughout & flows from one part to the other.
  
- Do not forget to make a wax cast of the paws of [illeg] & things as subtle as this.
+ Do not forget to make a wax cast of the paws of  & things as subtle as this.
  
 > *at left top margin*
 > 

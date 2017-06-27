@@ -30,7 +30,7 @@ Apres que ton sable <span class="del">de noyau dalu</span> de <span class="m">gi
 > *at left top margin*
 > 
 > 
->  <br/>@ nota quil fault<br/> <span class="del">[illegible]</span> premierem{ent}<br/> q{ue} de le secher<br/> destre{m}per letout<br/> et <span class="del">le</span> vuider le<br/> liq{u}ide en un aultre<br/> <span class="tl">vaisseau</span> co{mm}un<br/> quitant le<br/> <span class="m">litarge</span> affin q{ue}<br/> les <span class="m">pierres</span> & <span class="m">t{er}re</span><br/> demeure au fond<br/> apres Il fault<br/> le laisser reposer<br/> & vuider l<span class="m">eau</span> par<br/> inclina{ti}on & le<br/> laisser <span class="del">secher</span>
+>  <br/>@ nota quil fault<br/> <span class="del"></span> premierem{ent}<br/> q{ue} de le secher<br/> destre{m}per letout<br/> et <span class="del">le</span> vuider le<br/> liq{u}ide en un aultre<br/> <span class="tl">vaisseau</span> co{mm}un<br/> quitant le<br/> <span class="m">litarge</span> affin q{ue}<br/> les <span class="m">pierres</span> & <span class="m">t{er}re</span><br/> demeure au fond<br/> apres Il fault<br/> le laisser reposer<br/> & vuider l<span class="m">eau</span> par<br/> inclina{ti}on & le<br/> laisser <span class="del">secher</span>
  
 > *at left bottom margin*
 > 

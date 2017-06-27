@@ -8,14 +8,14 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [eau, eau commune, boys, huile, plume, plastre, alum de plume, brique, verre, son, terre, vinaigre, urine]
-tools: [cuillere de boys, pinceaulx a huile, tamis, mortier]
-measurements: []
-bodyparts: []
+materials: [eau, eau commune, plombee, boys, huile, plume, plastre, alum de plume, brique, verre, son, terre, vinaigre, urine]
+tools: [conche, moules, broc, escuelle plombee, cueillere de boys, escuelle, pinceaulx a huile, tamis, mains, mortier, bouteille de verre, barrique, bouteille, vaisseau]
+measurements: [parties, heure]
+bodyparts: [mains]
 places: []
 plants: []
 professions: []
-environments: []
+environments: [eau]
 animals: [grenoilles, serpents deau]
 ---
 
@@ -25,12 +25,12 @@ animals: [grenoilles, serpents deau]
 ## Pour destremper le sable
 
  
-Il te fault avoir une grande conche pleine d<span class="m">eau</span> pour<br/> <span class="del">q</span> tramper les moules pour les ouvrir Ung broc<br/> plein d<span class="m">eau <span class="add">commune</span></span> Une escuelle plombee pour destremper le<br/> sable Une petite <span class="tl">cuillere de <span class="m">boys</span></span> pour ramasser<br/> le sable destrempe dans lescuelle <span class="del">La grande conche est</span><br/> <span class="del">pour tr</span>
+Il te fault avoir une grande <span class="tl">conche</span> pleine d<span class="m">eau</span> pour<br/> <span class="del">q</span> tramper les <span class="tl">moules</span> pour les ouvrir Ung <span class="tl">broc</span><br/> plein d<span class="m">eau <span class="add">commune</span></span> Une <span class="tl">escuelle <span class="m">plombee</span></span> pour destremper le<br/> sable Une petite <span class="tl">cueillere de <span class="m">boys</span></span> pour ramasser<br/> le sable destrempe dans l<span class="tl">escuelle</span> <span class="del">La grande <span class="tl">conche</span> est</span><br/> <span class="del">pour tr</span>
  
 > *at left top margin*
 > 
 > 
->   pour mancher tes gros<br/> <span class="tl">pinceaulx a <span class="m">huile</span></span> si tu nas<br/> dasses gros tuiaulx de <span class="m">plume</span><br/> prens en deulx & les fonds & joints ensembles 
+>   pour mancher tes gros<br/> <span class="tl">pinceaulx a <span class="m">huile</span></span> si tu nas<br/> dasses gros tuiaulx de <span class="m">plume</span><br/> prens en deulx & les fends & joints ensemble 
  
 > *Figure*
 > *at left top margin*
@@ -42,7 +42,7 @@ Il te fault avoir une grande conche pleine d<span class="m">eau</span> pour<br/>
 ## Decoction des sables
 
  
-de fin dicte
+Desja dicte.
  
  
   
@@ -50,7 +50,7 @@ de fin dicte
 ## Pour mouler en noyau<br/> Mixtion du sable
 
  
-Ayant recuict ton sable scavoir le <span class="m">plastre</span> l<span class="m">alum de plume</span> &<br/> la <span class="m">brique</span> & le ayant bien subtilllement passer <span class="add">par le <span class="tl">tamis</span> #</span> Mesles les en<br/> ceste sorte Prens quattre parties de <span class="m">plastre</span> deulx de <span class="m">brique</span><br/> & une d<span class="m">alum de plume</span> Mesles les tous ensemble avecq les mains<br/> <span class="del">quil</span> de telle sorte quon ne puisse discerner lung davecq lautre<br/> ton sable prest il te faut faire mourir lanimal que tu veulx<br/> mouler <span class="del">E</span>en ceste maniere
+Ayant recuict ton sable scavoir le <span class="m">plastre</span> l<span class="m">alum de plume</span> &<br/> la <span class="m">brique</span> & les ayant bien subtilllement passes <span class="add">par le <span class="tl">tamis</span> #</span> Mesles les en<br/> ceste sorte Prens quattre <span class="ms">parties</span> de <span class="m">plastre</span> deulx de <span class="m">brique</span><br/> & une d<span class="m">alum de plume</span> Mesles les tous ensemble avecq les <span class="tl"><span class="bp">mains</span></span><br/> <span class="del">quil</span> de telle sorte quon ne puisse discerner lung davecq lautre<br/> ton sable prest il te faut faire mourir lanimal que tu veulx<br/> mouler <span class="del">de</span>en ceste maniere
  
 > *at left middle margin*
 > 
@@ -63,7 +63,7 @@ Ayant recuict ton sable scavoir le <span class="m">plastre</span> l<span class="
 ## Fayre mourir lanimal a mouler
 
  
-Il fault que tu ayes este curieulx de ne le blesser poinct en le<br/> prenant et layant mis dans une bouteille de <span class="m">verre</span> avecq du<br/> <span class="m">son</span> ou dans un barrique <span class="del">pleine</span> demy plene de <span class="m">terre</span> fresche<br/> & humide si tu en as provision ou que tu les veuilles garder long<br/> temps Que tu leur donnes des <span class="al">grenoilles</span> vives & non mortes<br/> pour manger Car si tu les gardes sans quils se paissent<br/> ilz se flaitrissent & amaigrissent & ont de longues peaulx ridees<br/> Ainsy pour le mieulx tu le mouleras le plustost <span class="del">apres</span> quil se sera<br/> possible <span class="del">apre</span> apres quil aura este prins Mays plustost fais<br/> le mourir en ceste sorte Mects le dans une bouteille ou vaisseau<br/> nect affin quil ne se charge daulcune poulsiere Et mects dedans<br/> telle quantite de bon <span class="m">vinaigre</span> & d<span class="m">urine</span> quil en puisse estre couvert<br/> Et remue le & le tourmente la dedans jusques a ce quil soict<br/> mort et qui sera en une ou demye heure Mays si tu est presse
+Il fault que tu ayes este curieulx de ne le blesser poinct en le<br/> prenant et layant mis dans une <span class="tl">bouteille de <span class="m">verre</span></span> <span class="del">d</span> avecq du<br/> <span class="m">son</span> ou dans un <span class="tl">barrique</span> <span class="del">pleine</span> demy pleine de <span class="m">terre</span> fresche<br/> & humide si tu en as provision ou que tu les veuilles garder long<br/> temps Que tu leur donnes des <span class="al">grenoilles</span> vives & non mortes<br/> pour manger Car si tu les gardes sans quils se paissent<br/> ilz se flaitrissent & amaigrissent & ont de longues peaulx ridees<br/> Ainsy pour le mieulx tu le mouleras le plustost <span class="del">apres</span> quil se sera<br/> possible <span class="del">apre</span> apres quil aura este prins Mays plustost fais<br/> le mourir en ceste sorte Mects le dans une <span class="tl">bouteille</span> ou <span class="tl">vaisseau</span><br/> nect affin quil ne se charge daulcune poulsiere Et mects dedans<br/> telle quantite de bon <span class="m">vinaigre</span> & d<span class="m">urine</span> quil en puisse estre couvert<br/> Et remue le & le tourmente la dedans jusques a ce quil soict<br/> mort ce qui sera en une ou demye <span class="ms"><span class="tmp">heure</span></span> Mays si tu est presse
  
 > *at left bottom margin*
 > 
@@ -73,7 +73,7 @@ Il fault que tu ayes este curieulx de ne le blesser poinct en le<br/> prenant et
 > *at left bottom margin*
 > 
 > 
->   Les <span class="al">serpents deau</span><br/> mordent gueres
+>   Les <span class="al">serpents d<span class="env">eau</span></span><br/> mordent gueres
  
 *[continued]*
  

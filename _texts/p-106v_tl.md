@@ -25,7 +25,7 @@ animals: []
 ## Casting in <span class="m">gold</span>
 
  
-To cast in <span class="m">gold</span>, <span class="m">crocum ferri</span> is necessary, and more <span class="m">stone alum</span> than in the following mixture. The <span class="m">stone alum</span> mixture cannot spoil anything. The mold must be red & close it immediately with <span class="m">iron</span> presses.
+To cast in <span class="m">gold</span>, <span class="m">crocum ferri</span> is necessary, & more <span class="m">stone alum</span> than in the following mixture. The <span class="m">stone alum</span> mixture cannot spoil anything. The mold must be red & close it immediately with <span class="m">iron</span> presses.
  
 Shells of crabs & [shells of] crayfish are troublesome to burn & have their own proper way of being molded.
  

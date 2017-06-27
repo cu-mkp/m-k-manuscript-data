@@ -9,8 +9,8 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [plomb, Medecine, rosmarin, pouldre, charbon, fumee, Terre graisse, areneuse, bronze, vernys, eaue claire, pappier, eau de vye, betjoin, pappiers, cartes]
-tools: []
-measurements: []
+tools: [pinceau, mortier]
+measurements: [onces, once]
 bodyparts: []
 places: [orientaulx]
 plants: []
@@ -52,9 +52,9 @@ Les <span class="pro">fondeurs</span> pour en faire les anses de leurs cloches s
 ## @ Recepte pour faire <span class="m">bronze</span> et <span class="m">vernys</span> de<br/> plusieurs sortes
 
  
-Pour faire <span class="m">vernys</span> excellant d<span class="m">eaue claire</span> duquel uzeras aveq le<br/> pinceau Et Incontinant seiche pour mectre sur <span class="m">pappier</span> tablette ou<br/> au{ltr}e piece
+Pour faire <span class="m">vernys</span> excellant d<span class="m">eaue claire</span> duquel uzeras aveq le<br/> <span class="tl">pinceau</span> Et Incontinant seiche pour mectre sur <span class="m">pappier</span> tablette ou<br/> au{ltr}e piece
  
-Premierement tu prandras Cinq onces d<span class="m">eau de vye</span> et une once<br/> de <span class="m">betjoin</span> pillez entre deux <span class="m">pappiers</span> ou <span class="m">cartes</span> ou en ung mortier
+Premierement tu prandras Cinq <span class="ms">onces</span> d<span class="m">eau de vye</span> et une <span class="ms">once</span><br/> de <span class="m">betjoin</span> pillez entre deux <span class="m">pappiers</span> ou <span class="m">cartes</span> ou en ung <span class="tl">mortier</span>
  
 *[continued]*
  

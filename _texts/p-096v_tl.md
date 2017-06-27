@@ -8,8 +8,8 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [gold, silver, ashes, blazing hot charcoal, charcoal, hot coal, bloodstone, Yellow varnish, nut olive oil]
-tools: [soft file, burnisher]
+materials: [gold, silver, ashes, blazing hot charcoal, charcoal, hot coal, bloodstone, Yellow varnish, walnut olive oil]
+tools: [lime doulce, burnisher]
 measurements: []
 bodyparts: []
 places: []
@@ -33,7 +33,7 @@ When they are white, it is necessary only to clean them well, and then to heat t
 ## Color of water
 
  
-For the color of water, pass a <span class="tl">soft file</span> on the hilts to whiten them, then the <span class="tl">burnisher</span>. Afterwards, you color them blue until they become grey. Next, when they are still slightly hot, pass <span class="m">bloodstone</span> over them, and, as they cool, one turns them to reheat them, since the color of water is achieved only after doing this a few times. And if hilts weren't warm, the <span class="m">bloodstone</span> would scrape them and undo the color. Pay attention that hilts don't become too grey, since they would give off soot that would prevent the color from setting. Almost one day is necessary to prepare, soften, and set the color of water, but as soon as they turn a little blue, it is enough for grey or other colors. Grey is the lesser color, after varnish made of two colors, either yellow or black.
+For the color of water, pass a <span class="tl">lime doulce</span> on the guards to whiten them, then the <span class="tl">burnisher</span>. Next, one makes them pass blue until they become grey. Next, when they are still moderately hot, pass the <span class="m">bloodstone</span> over them, and when they cool, one turns them to reheat them, for the color of water is made only by several goes. And if the guards were not warm, the <span class="m">bloodstone</span> would scrape & undo the color. One needs to heed that guards do not pass too grey, for they would give off filth that would prevent the color from taking. One needs almost one day for preparing, softening, and setting the color of water, but as they pass a little blue, it is enough for grey & another color. Grey is the lesser color after varnish which is of two colors, either yellow or black.
  
  
   
@@ -41,5 +41,5 @@ For the color of water, pass a <span class="tl">soft file</span> on the hilts to
 ## <span class="m">Yellow varnish</span>
 
  
-One should vigorously whiten and clean the hilts well. After that, with a feather, one coats them entirely, when they are cold, with <span class="m">nut <span class="del">olive</span> oil</span>. Then, turn them over a good <span class="m">charcoal</span> fire like that of the <span class="pro">furbishers</span>' furnace without letting them touch the <span class="m">charcoal</span> or <span class="m">ashes</span>. And when they stop smoking, it is done.
+One whitens very well & one cleans the guards well. Next, one with a feather, one coats them cold with a feather all of <span class="m">walnut <span class="del">olive</span> oil</span>, and next turn them over a good <span class="m">charcoal</span> fire that is in the <span class="pro">furbishers</span>' furnace, without them touching the <span class="m">charcoal</span> or the <span class="m">ashes</span>. And when they do not smoke anymore, it is done.
  

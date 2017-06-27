@@ -45,7 +45,7 @@ animals: [chat]
 ## P Pour escripre a gaulche aussi<br/> bien qua la droicte
 
  
- Escripts le mieulx que tu pourras avecq <span class="m">ancre bien gommee</span><br/> sur aultant de petits <span class="m">cartels</span> que tu vouldras <span class="del">[illegible]</span> escripre de<br/> mots & estant chasque le{tt}re bien chargee d<span class="m">ancre</span> pose sur ton<br/> <span class="m">papier</span> & frotte avecq une <span class="tl">dent</span> le dos du <span class="m">cartels</span>
+ Escripts le mieulx que tu pourras avecq <span class="m">ancre bien gommee</span><br/> sur aultant de petits <span class="m">cartels</span> que tu vouldras <span class="del"></span> escripre de<br/> mots & estant chasque le{tt}re bien chargee d<span class="m">ancre</span> pose sur ton<br/> <span class="m">papier</span> & frotte avecq une <span class="tl">dent</span> le dos du <span class="m">cartels</span>
  
  
   

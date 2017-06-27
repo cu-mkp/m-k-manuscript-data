@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [cuivre, plomb, sable de pieds de bœuf brusles deulx foys & fort subtilies, sables maigres, magistra, bon vin pur, vin bouilly avecq de la racine dorme, sables forts subtils, linge brusle, huile dolif, glaire doeuf, sable de verre calcine, laicton, matiere de poilonne, tripoly Moulee, feultre brusle, sel armoniac, tripoly]
+materials: [cuivre, plomb, sable de pieds de bœuf brusles deulx foys & fort subtilies, sables maigres, magistra, vin pur, vin bouilly avecq de la racine dorme, sables forts subtils, linge brusle, huile dolif, glaire doeuf battue, sable de verre calcine, laicton, matiere de poilonne, tripoly Moulee, feultre brusle, sel armoniac, tripoly]
 tools: [costeau, carte]
 measurements: [quart, lb]
 bodyparts: []
@@ -27,11 +27,11 @@ Le sable <span class="env">pres de mon sol</span> est fort excellent Mays il<br/
  
 Le <span class="m">sable de pieds de <span class="al">bœuf</span> brusles deulx foys & fort<br/> subtilies</span> font plus net en <span class="m">cuivre</span> & sans chape que sable<br/> que jay veu Jen ay gecte une medaille de relief bien<br/> hault Et <span class="del">f</span> deliee de lespesseur dun tranchant de<br/> <span class="tl">costeau</span> ou dune <span class="tl">carte</span> Et estoict creuse dun coste au droict<br/> du relief qui estoit de laultre part 
  
-Il fault que les <span class="m">sables maigres</span> soient plus humectes<br/> que les aultres scavoir de <span class="m">magistra</span> ou de <span class="m">bon vin pur</span><br/> ou de <span class="m">vin bouilly avecq de la racine d<span class="pa">orme</span></span> & semblables<br/> Mays les <span class="m">sables forts subtils</span> co{mm}e le <span class="m">linge brusle</span> qui<br/> est gras & douls de soymesme veult estre aplique sec
+Il fault que les <span class="m">sables maigres</span> soient plus humectes<br/> que les aultres scavoir de <span class="m">magistra</span> ou de bon <span class="m">vin pur</span><br/> ou de <span class="m">vin bouilly avecq de la racine d<span class="pa">orme</span></span> & semblables<br/> Mays les <span class="m">sables forts subtils</span> co{mm}e le <span class="m">linge brusle</span> qui<br/> est gras & douls de soymesme veult estre aplique sec
  
 Tout sable humecte veult estre fort battu & demene<br/> pour estre subtilie & aplany des petites glebes qui se<br/> font en luy quand il est baigne 
  
-L<span class="m">huile d<span class="pa">olif</span></span> quaulcungs meslent parmy la <span class="m">glaire<br/> doeuf</span> battue faict soufler
+L<span class="m">huile d<span class="pa">olif</span></span> quaulcungs meslent parmy la <span class="m">glaire<br/> doeuf battue</span> faict soufler
  
 Le <span class="m">sable de verre calcine</span> soubstient force fusions<br/> Mays il ny ha que les premieres il soufle aussy
  

@@ -8,8 +8,8 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [cuivre, fer, metal, Huile de tormentine, Tormentine, eau de vye, poulsiere, bled, cendres, toile, canevas, Estain de glace]
-tools: [Mortiers, mortiers, mortier]
+materials: [cuivre, fer, metal, Vernis, Huile de tormentine, Tormentine, bonne eau de vye, poulsiere, bled, cendres, toile, canevas, Estain de glace]
+tools: [Mortiers, mortiers, mortier, sur le rechault, costeau]
 measurements: []
 bodyparts: []
 places: []
@@ -38,10 +38,10 @@ Il se peult planter co{mm}e la <span class="pa">ronce</span> des deulx costes & 
  
   
 
-## Vernis
+## <span class="m">Vernis</span>
 
  
-<span class="m">Huile de tormentine</span> <span class="m">Tormentine</span> & bonne <span class="m">eau de vye</span> pour le<br/> rendre desiccatif Fais chaufer sans mesler sur le rechault<br/> affin quil se mesle <span class="del">pu</span> de soymesme en fondant Apres esprouve<br/> sur un costeau bien net & tu cognoistras la sil ha asses de corps<br/> & sil ne coule point trop
+<span class="m">Huile de tormentine</span> <span class="m">Tormentine</span> & <span class="m">bonne eau de vye</span> pour le<br/> rendre desiccatif Fais chaufer sans mesler <span class="tl">sur le rechault</span><br/> affin quil se mesle <span class="del">pu</span> de soymesme en fondant Apres esprouve<br/> sur un <span class="tl">costeau</span> bien net & tu cognoistras la sil ha asses de corps<br/> & sil ne coule point trop
  
  
   

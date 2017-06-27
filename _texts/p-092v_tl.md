@@ -35,9 +35,9 @@ animals: []
  
 It can be frozen, as I tested, letting it boil one or two hours in a rather large <span class="m">iron</span> pan putting, for each ℥ of ☿, ii ℥ of <span class="m">vert—de—gris</span> and <span class="m">vitriol</span> of <span class="m">saltpetre</span>, each in the same quantity, with enough of the <span class="m"><span class="pro">blacksmith</span>'s old water.</span>
  
-Or melt 4 ℥ of <span class="m">tin</span>, and when it has cooled, purify it by removing the <span class="m">filth</span> on the top, then make a hole and inside there add i ℥ of ☿ and if you remelt it, it will be like tin but it will be fragile. If you want to know if it is <span class="m">tin</span> or ☿, redden a shovel and put a small piece of your ingot on the top. If it is <span class="m">tin</span>, the piece will melt but remain, but if it is ☿, it will melt immediately then, crackling quite hard, it will evaporate. It must be frozen in a ladle or in a hollow crucible, and make the hole medium sized.
+Or melt 4 ℥ of <span class="m">tin</span>, & when it has cooled, purify it by removing the <span class="m">filth</span> on the top, then make a hole & inside there add i ℥ of ☿ & if you remelt it, it will be like tin but it will be fragile. If you want to know if it is <span class="m">tin</span> or ☿, redden a shovel & put a small piece of your ingot on the top. If it is <span class="m">tin</span>, the piece will melt & remain, but if it is ☿, it will melt immediately then, crackling quite hard, it will evaporate. It must be frozen in a ladle or in a hollow crucible, & make the hole medium sized.
  
-It can also be frozen, as I tried, that is to say with <span class="m">aqua fortis</span> which before corroded a bit of <span class="m">silver</span>. This, mixed, will make <span class="m">tin</span> and <span class="m">lead</span> fluid.
+It can also be frozen, as I tried, that is to say with <span class="m">aqua fortis</span> which before corroded a bit of <span class="m">silver</span>. This, mixed, will make <span class="m">tin</span> & <span class="m">lead</span> fluid.
  
  
   
@@ -45,5 +45,5 @@ It can also be frozen, as I tried, that is to say with <span class="m">aqua fort
 ## Mixture
 
  
-<span class="m">Pure tin</span>, <span class="m">frozen mercury,</span> smells like tin. <span class="m">Iced tin</span>, <span class="m">pure lead</span>, as much of one as of the other, makes a substance that melts very quickly but that is fragile and white. I think that it would be good for soldering. [Takes a] long time to cool.
+<span class="m">Pure tin</span>, <span class="m">frozen mercury,</span> smells like tin. <span class="m">Iced tin</span>, <span class="m">pure lead</span>, as much of one as of the other, makes a substance that melts very quickly but that is fragile & white. I think that it would be good for soldering. [Takes a] long time to cool.
  

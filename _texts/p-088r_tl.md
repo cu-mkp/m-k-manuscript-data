@@ -8,8 +8,8 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [copper, iron, metal, Varnish, Turpentine oil, turpentine, eau de vie, Dust, ashes, wheat, rough cloth, canvas, Looking-glass tin, material]
-tools: []
+materials: [copper, iron, metal, Varnish, Turpentine oil, turpentine, good eau de vye, Dust, ashes, wheat, rough cloth, canvas, Looking-glass tin, material]
+tools: [chafing dish, knife]
 measurements: []
 bodyparts: []
 places: []
@@ -41,7 +41,7 @@ The fine <span class="m">copper</span> mortars do not throw any flames, as long 
 ## <span class="m">Varnish</span>
 
  
-<span class="m">Turpentine oil</span>: <span class="m">turpentine</span> & good <span class="m">eau de vie</span>, to dry it out; heat it without mixing on the stove, so that it mixes <span class="del"></span> of its own accord in melting. After, test it on a very clean blade, & you will know from this whether it has enough body & whether it does not flow too much.
+<span class="m">Turpentine oil</span> <span class="m">turpentine</span> & <span class="m">good eau de vye</span> to render it desiccative. Heat it without mixing on the <span class="tl">chafing dish</span>, so that it mixes <span class="del">pu</span> by itself when melting. Next test on a very clean <span class="tl">knife</span>, & you will know then if it has enough body & if it does not run too much.
  
  
   

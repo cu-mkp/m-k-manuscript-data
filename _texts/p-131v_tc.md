@@ -23,7 +23,7 @@ animals: []
  
 *[continued]*
   
-en forme ronde pour la gecter en <span class="m">or</span> et <span class="m">argent</span> Ne mect<br/> rien en ta <span class="m">cire</span> que tu praepareras pour cet effect <span class="del">[illegible]</span> de<br/> toutes ses <span class="m">drogues</span> Sinon y gecter du <span class="m">soufre</span> fondu co{mm}e<br/> elle est fondue & de la <span class="m">fumee de chandelle</span> Le <span class="m">soufre</span><br/> fondu va au fonds et neanmoings laisse de sa qualite<br/> a la <span class="m">cire</span> la faisant promptem{ent} fondre au foeu & luy<br/> donna{n}t fermette En ceste sorte tu peux fondre au<br/> feu ceste <span class="del">[illisible]</span> figure esbauchee de <span class="m">cire</span> Mays si elle<br/> est compose de <span class="m">ceruse</span> ou semblable il faut que<br/> tu mectes ton moule dans l<span class="m">eau</span> bouillante
+en forme ronde pour la gecter en <span class="m">or</span> et <span class="m">argent</span> Ne mect<br/> rien en ta <span class="m">cire</span> que tu praepareras pour cet effect <span class="del"></span> de<br/> toutes ses <span class="m">drogues</span> Sinon y gecter du <span class="m">soufre</span> fondu co{mm}e<br/> elle est fondue & de la <span class="m">fumee de chandelle</span> Le <span class="m">soufre</span><br/> fondu va au fonds et neanmoings laisse de sa qualite<br/> a la <span class="m">cire</span> la faisant promptem{ent} fondre au foeu & luy<br/> donna{n}t fermette En ceste sorte tu peux fondre au<br/> feu ceste <span class="del"></span> figure esbauchee de <span class="m">cire</span> Mays si elle<br/> est compose de <span class="m">ceruse</span> ou semblable il faut que<br/> tu mectes ton moule dans l<span class="m">eau</span> bouillante
  
 > *at left top margin*
 > 
@@ -41,7 +41,7 @@ Si ton ouvraige gecte a soufle il se peut reparer<br/> avec de la <span class="m
 > *at left middle margin*
 > 
 > 
->   Tu y peulx soulder<br/> de [<span class="del">illisible</span>] la mesme<br/> matiere puys la<br/> reparer avecq le<br/> burin limes chaple<br/> et semblable.
+>   Tu y peulx soulder<br/> de [<span class="del"></span>] la mesme<br/> matiere puys la<br/> reparer avecq le<br/> burin limes chaple<br/> et semblable.
  
 > *at left middle margin*
 > 

@@ -26,7 +26,7 @@ animals: [lizard]
 > *at left top margin*
 > 
 > 
->   Don't forget to add first some <span class="m">borras</span> in your molten <span class="m">silver</span>, even if <span class="pro">silversmiths</span> do not. However, it is good to do it and I have seen it done. Then we add matter from the crust twice, and then some of the metallic thing. Keep it from [illegible] that be laid at the very end of your forge.
+>   Don't forget to add first some <span class="m">borras</span> in your molten <span class="m">silver</span>, even if <span class="pro">silversmiths</span> do not. However, it is good to do it and I have seen it done. Then we add matter from the crust twice, and then some of the metallic thing. Keep it from  that be laid at the very end of your forge.
  
 > *at left top margin*
 > 

@@ -43,7 +43,7 @@ Mects sur la fin co{mm}e il est bien chault & co{mm}e tu veulx<br/> gecter du <s
  
 Les <span class="m">caillous noirs de <span class="env">riviere</span> calcines</span> sont bons pour le<br/> <span class="m">plomb</span> Mays ilz sestonnent pour le <span class="m">metal</span>
  
-Il ny a que la <span class="del">[illegible]</span> <span class="m">terre ardille dequoy on faict les tuiles</span><br/> recuite & rougie & passee par une <span class="tl">manche</span> subtilem{ent} destrempee<br/> avecq <span class="m">glaire</span>
+Il ny a que la <span class="del"></span> <span class="m">terre ardille dequoy on faict les tuiles</span><br/> recuite & rougie & passee par une <span class="tl">manche</span> subtilem{ent} destrempee<br/> avecq <span class="m">glaire</span>
  
 Le <span class="m">charbon de <span class="pa">saule</span></span> pour sable pour le <span class="del">b</span> <span class="m">plomb</span> @est excellent
  

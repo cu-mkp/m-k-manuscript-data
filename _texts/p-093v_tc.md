@@ -8,8 +8,8 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [toile, bistre, rouille, huile, ocre de ru, vert de vessie, mabre, Azur, azur desmail, boys, laque, azur, verre]
-tools: [esponge, pinceau]
+materials: [toile, bistre, rouille, huile, ocre de ru, vert de vessie, mabre, Azur, azur desmail, boys, vernis, laque, azur, verre]
+tools: [esponge, pinceau, palette]
 measurements: []
 bodyparts: []
 places: []
@@ -33,7 +33,7 @@ Pource que les couleurs a destrempe sont promptem{ent} seiches<br/> & quon nauro
 ## <span class="m">Azur</span>
 
  
-L<span class="m">azur desmail</span> veult estre tousjours lave pourceque les<br/> ordures qui se cognoissent dans les laveures le font mourir<br/> Il le fault coucher toujours deulx foys & la premiere<br/> fort espes menant le pinceau en le couchant premierem{ent} de long<br/> puys de travers  Il semploye mieulx sur la <span class="m">toile</span><br/> ou il semboit incontinent que sur le <span class="m">boys</span> Le vernis le<br/> remect en sa vigueur pourceque sembevant il vient obscur<br/> Pour lessayer les <span class="pro">painctres</span> portent leur palette ches<br/> les <span class="pro">grossiers</span> & le destrempent & alient avecq un peu de blanc<br/> broye a <span class="m">huile</span> Car en ceste sorte le beau monstre sa vivacite<br/> turquine Mays le mauvays est gris lavande Le plus<br/> delie est le meilleur pour travailler Il se subtilie en<br/> <span class="del">travaillant</span> le lava{n}t
+L<span class="m">azur desmail</span> veult estre tousjours lave pourceque les<br/> ordures qui se cognoissent dans les laveures le font mourir<br/> Il le fault coucher toujours deulx foys & la premiere<br/> fort espes menant le <span class="tl">pinceau</span> en le couchant premierem{ent} de long<br/> puys de travers  Il semploye mieulx sur la <span class="m">toile</span><br/> ou il semboit incontinent que sur le <span class="m">boys</span> Le <span class="m">vernis</span> le<br/> remect en sa vigueur pourceque sembevant il vient obscur<br/> Pour lessayer les <span class="pro">painctres</span> portent leur <span class="tl">palette</span> ches<br/> les <span class="pro">grossiers</span> & le destrempent & alient avecq un peu de blanc<br/> broye a <span class="m">huile</span> Car en ceste sorte le beau monstre sa vivacite<br/> turquine Mays le mauvays est gris lavande Le plus<br/> delie est le meilleur pour travailler Il se subtilie en<br/> <span class="del">travaillant</span> le lava{n}t
  
  
   

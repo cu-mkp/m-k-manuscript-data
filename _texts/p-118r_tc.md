@@ -8,15 +8,15 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [eau fort, nacre de perle, plastre, cendre, stuf, charbon, estain, letton, papier, verre, liege, parchemin chaufe, corail blanc, bois, estain de glace, marchasites, terre, colle, mines, marchasites sulfurees, rosette, Estaim de glace, estaim, estaim de glace, Sel armoniac, Eau de sel armoniac, or, argent]
-tools: [moules, presses, vaisseau, burin, chaple, ciseau, marteau, mouler]
-measurements: [lb]
+materials: [eau fort, nacre de perle, plastre, cendre, seps de vigne, stuf, charbon, estain, letton, papier, verre, liege, parchemin chaufe, corail blanc, bois, estain de glace, marchasites, terre, colle, mines, marchasites sulfurees, rosette, Estaim de glace, estaim fin, estaim de glace, Sel armoniac, Eau de sel armoniac, or, argent]
+tools: [moules, presses, tables, vaisseau, burin, chaple, ciseau, marteau]
+measurements: [once, ℥, lb]
 bodyparts: []
 places: []
 plants: [vigne]
 professions: []
 environments: [mer]
-animals: [Escargots]
+animals: [Escargots, Ceulx qui se trouvent dans la mer, ceulx dans lesquels certains petits chancres se logent, chancres]
 ---
 
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-118r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f241.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>118r</a> - - - - - </div>  
@@ -25,7 +25,7 @@ animals: [Escargots]
 ## <span class="al">Escargots</span>
 
  
-Ceulx qui se trouvent dans la <span class="env">mer</span> & mesmem{ent} ceulx dans lesquels<br/> certains petits chancres se logent sont tresbeaulx pour grottes sils<br/> sont descharges de la premiere crouste de leur coquille avecq de l<span class="m">eau<br/> fort</span> Car ilz semblent vrayem{ent} estre de <span class="m">nacre de perle</span>
+<span class="al">Ceulx qui se trouvent dans la <span class="env">mer</span></span> & mesmem{ent} <span class="al">ceulx dans lesquels<br/> certains petits <span class="al">chancres</span> se logent</span> sont tresbeaulx pour grottes sils<br/> sont descharges de la premiere crouste de leur coquille avecq de l<span class="m">eau<br/> fort</span> Car ilz semblent vrayem{ent} estre de <span class="m">nacre de perle</span>
  
  
   
@@ -33,12 +33,12 @@ Ceulx qui se trouvent dans la <span class="env">mer</span> & mesmem{ent} ceulx d
 ## Pour oster les baves ou barbes<br/> des choses moulées à noyau
 
  
-Si tes <span class="tl">moules</span> sont de bon <span class="m">plastre</span> qui soustienent bien le foeu <span class="del">&</span><br/> ilz ne se fendront point Mesmement si avecq des <span class="tl">presses</span> ilz sont bien<br/> serres entre deulx tables Ou dans ung <span class="tl">vaisseau</span> plein de <span class="m">cendre</span> ou<br/> sable & par ainsy ne feront poinct de baves Mays sils en font tu les<br/> peulx oster avecq un <span class="tl">burin</span> quon appelle <span class="tl">chaple</span> qui ha le bout co{mm}e un petit<br/> <span class="tl">ciseau</span>
+Si tes <span class="tl">moules</span> sont de bon <span class="m">plastre</span> qui soustienent bien le foeu <span class="del">&</span><br/> ilz ne se fendront point Mesmement si avecq des <span class="tl">presses</span> ilz sont bien<br/> serres entre deulx <span class="tl">tables</span> Ou dans ung <span class="tl">vaisseau</span> plein de <span class="m">cendre</span> ou<br/> sable & par ainsy ne feront poinct de baves Mays sils en font tu les<br/> peulx oster avecq un <span class="tl">burin</span> quon appelle <span class="tl">chaple</span> qui ha le bout co{mm}e un petit<br/> <span class="tl">ciseau</span>
  
 > *at left middle margin*
 > 
 > 
->   Les vieulx seps de <span class="pa">vigne</span>
+>   Les vieulx <span class="m">seps de <span class="pa">vigne</span></span>
  
  
   
@@ -46,7 +46,7 @@ Si tes <span class="tl">moules</span> sont de bon <span class="m">plastre</span>
 ## Pour grottes
 
  
-Les pierres faictes deau appellees <span class="m">stuf</span> Le <span class="m">charbon</span> La composition<br/> d<span class="m">estain</span> & de <span class="m">letton</span> fin Le <span class="m">papier</span> pille & mesle de <span class="m">verre</span> pille Le <span class="m">liege</span><br/> Le <span class="m">parchemin chaufe</span> le <span class="m">corail blanc</span> sont propres pour faire grottes<br/> Mays les lopins de <span class="m">bois</span> fantasque qui se trouvent parmy les<br/> forests & les funges & potirons des arbres estant secs sont<br/> meilleurs que tout pourcequilz sont legers On y mesle de petits<br/> lopins d<span class="m">estain de glace</span> qui ha une lueur esclatante On y pile<br/> menu diverse sorte de <span class="m">marchasites</span> quon lave pour les purifier<br/> de la <span class="m">terre</span> & on en saulpouldre louvrage qui est tresbeau<br/> Sil ny ha point de fontaine en la grotte On colle tout <span class="del">[illegible]</span> cela<br/> de <span class="m">colle</span> forte <span class="del">qu</span> et est bien tost faict <span class="add">@Ayes montrer de toutes sortes<br/> de <span class="m">mines</span> Les <span class="m">marchasites sulfurees</span> qui nont point de grain mays<br/> sont unies comme l<span class="m">estain de glace</span> sont tresbelles</span>
+Les pierres faictes deau appellees <span class="m">stuf</span> Le <span class="m">charbon</span> La composition<br/> d<span class="m">estain</span> & de <span class="m">letton</span> fin Le <span class="m">papier</span> pille & mesle de <span class="m">verre</span> pille Le <span class="m">liege</span><br/> Le <span class="m">parchemin chaufe</span> le <span class="m">corail blanc</span> sont propres pour faire grottes<br/> Mays les lopins de <span class="m">bois</span> fantasque qui se trouvent parmy les<br/> forests & les funges & potirons des arbres estant secs sont<br/> meilleurs que tout pourcequilz sont legers On y mesle de petits<br/> lopins d<span class="m">estain de glace</span> qui ha une lueur esclatante On y pile<br/> menu diverse sorte de <span class="m">marchasites</span> quon lave pour les purifier<br/> de la <span class="m">terre</span> & on en saulpouldre louvrage qui est tresbeau<br/> Sil ny ha point de fontaine en la grotte On colle tout <span class="del"></span> cela<br/> de <span class="m">colle</span> forte <span class="del">qu</span> et est bien tost faict <span class="add">@Ayes montrer de toutes sortes<br/> de <span class="m">mines</span> Les <span class="m">marchasites sulfurees</span> qui nont point de grain mays<br/> sont unies comme l<span class="m">estain de glace</span> sont tresbelles</span>
  
 > *at left middle margin*
 > 
@@ -59,7 +59,7 @@ Les pierres faictes deau appellees <span class="m">stuf</span> Le <span class="m
 ## <span class="m">Estaim de glace</span>
 
  
-Il blanchise & rend ferme l<span class="m">estaim</span> fin si <span class="del">en [illegible]</span> on en mect<br/> <span class="del">parmy</span> une once parmy cest ascavoir i ℥ d<span class="m">estaim de glace</span><br/> dans une <span class="ms">lb</span> d<span class="m">estaim</span> fin
+Il blanchise & rend ferme l<span class="m">estaim fin</span> si <span class="del">en </span> on en mect<br/> <span class="del">parmy</span> une <span class="ms">once</span> parmy cest ascavoir i <span class="ms">℥</span> d<span class="m">estaim de glace</span><br/> dans une <span class="ms">lb</span> d<span class="m">estaim fin</span>
  
  
   
@@ -67,5 +67,5 @@ Il blanchise & rend ferme l<span class="m">estaim</span> fin si <span class="del
 ## <span class="m">Sel armoniac</span>
 
  
- <span class="del">Il</span> <span class="m">Eau de sel armoniac</span> est fort naturelle a <span class="tl">mouler</span> en <span class="m">or</span> & en<br/> <span class="m">argent</span>
+ <span class="del">Il</span> <span class="m">Eau de sel armoniac</span> est fort naturelle a mouler en <span class="m">or</span> & en<br/> <span class="m">argent</span>
  

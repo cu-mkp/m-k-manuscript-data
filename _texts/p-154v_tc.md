@@ -33,7 +33,7 @@ Il est fort fantasque a gecter Il veult estre<br/> gecte fort chault Et pour mie
 ## Mouler
 
  
-Il nest que bon quil soict un peu amorty par dehors<br/> & soict neantmoins rouge par dedans Car quand<br/> il sort du foeu lair & vehemente exhalation de<br/> foeu ne recuit pas si bien le gect
+Il nest que bon quil soict un peu amorty par dehors<br/> & soict neantmoins rouge par dedans Car quand<br/> il sort du foeu lair & vehemente exhalation de<br/> foeu ne recoit pas si bien le gect
  
  
   
@@ -41,7 +41,7 @@ Il nest que bon quil soict un peu amorty par dehors<br/> & soict neantmoins roug
 ## Gect d<span class="m">argent</span>
 
  @ 
-L<span class="m">argent</span> veult bien le gect longuet A l<span class="m">or</span> nimporte<br/> @ L<span class="m">argent</span> en soubdant endure l<span class="m">eau</span> quon gecte dessus Mays l<span class="m">or</span> saulteroit<br/> & <span class="del">illisible</span> <span class="del">que</span> a ceste cause on iecte de <span class="del">la soubdure</span> son sur la <span class="m">soubdure</span>
+L<span class="m">argent</span> veult bien le gect longuet A l<span class="m">or</span> nimporte<br/> @ L<span class="m">argent</span> en soubdant endure l<span class="m">eau</span> quon gecte dessus Mays l<span class="m">or</span> saulteroit<br/> & <span class="del">veult que</span> a ceste cause on iecte de <span class="del">la soubdure</span> son sur la <span class="m">soubdure</span>
  
 > *at left middle margin*
 > 

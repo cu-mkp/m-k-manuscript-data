@@ -29,7 +29,7 @@ animals: []
 ## @<span class="m">esmeraldes<br/>de Brissac</span>
 
 </span> 
-Jai prins <span class="m">miniu{m}</span> 26 ℥@ <span class="m">{christ}al</span>@<span class="add">[illegible] et broie sur le <span class="m">marbre</span></span> 12 ℥ <span class="m">v{er}det</span> 3 |ʒ| Incorpores le tout ensemble<br/> mis dans un {crois}et couvert d'un a{ultr}e bien lute qui ait un trou dans<br/> le hault fuzion 7 heures sans soufler la mace a este dun beau<br/> v{er}t
+Jai prins <span class="m">miniu{m}</span> 26 ℥@ <span class="m">{christ}al</span>@<span class="add"> et broie sur le <span class="m">marbre</span></span> 12 ℥ <span class="m">v{er}det</span> 3 |ʒ| Incorpores le tout ensemble<br/> mis dans un {crois}et couvert d'un a{ultr}e bien lute qui ait un trou dans<br/> le hault fuzion 7 heures sans soufler la mace a este dun beau<br/> v{er}t
  
 Jai prins <span class="m">miniu{m}</span> 12 ℥ <span class="m">{christ}al</span> 6 ℥ <span class="m">v{er}det</span> 2 grains fuzion doulce<br/> vi heures recuicte 24 heures la mace a este de v{er}t Jaulne<br/> & rouge
  

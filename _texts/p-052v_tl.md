@@ -8,13 +8,13 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [vinegar, silk, ♁, ☉, honey, Linseed, white wine, tragacanth gum, tragacanth, sel blanc, clear water]
-tools: []
+materials: [vinegar, silk, ♁, ☉, honey, Linseed, gum, white wine, tragacanth gum, tragacanth, sel blanc, clear water]
+tools: [bottle, stoppered]
 measurements: []
 bodyparts: []
 places: []
 plants: []
-professions: []
+professions: [illumination]
 environments: []
 animals: []
 ---
@@ -39,5 +39,5 @@ If one wants to have it strong and very fine, one has to gather it before the se
 ## Colors
 
  
-If you want to keep them beautiful in gum and such that they do not lose any of their natural color, put <span class="m">white wine</span>, the whitest and clearest you can, in a bottle with a little <span class="m">tragacanth gum</span>. And having stoppered the bottle, scramble & shake it very strongly together, & let it rest until the <span class="m">tragacanth</span> is dissolved. Also put in a little fine—grained <span class="m">sel blanc</span> to brighten the whole. Some mix <span class="m">clear water</span> with <span class="m">white wine</span>, and with this mixture they temper the colors without grinding. And these show very beautifully on illumination works.
+If you want to keep them beautiful in <span class="m">gum</span> and such that they do not lose any of their natural color, put <span class="m">white wine</span>, the whitest and clearest you can, in a <span class="tl">bottle</span> with a little <span class="m">tragacanth gum</span>. And having <span class="tl">stoppered</span> the <span class="tl">bottle</span>, scramble & shake it very strongly together, & let it rest until the <span class="m">tragacanth</span> is dissolved. Also put in a little fine—grained <span class="m">sel blanc</span> to brighten the whole. Some mix <span class="m">clear water</span> with <span class="m">white wine</span>, and with this mixture they temper the colors without grinding. And these show very beautifully on <span class="pro">illumination</span> works.
 

@@ -33,7 +33,7 @@ L<span class="m">or</span> que le vent touche ou quon forge vient noir Mays<br/>
  
 Si tu as a forger quelque ouvraige de <span class="del"><span class="m">letton</span></span><span class="add"><span class="m">sol</span></span> sur le <span class="m">laitton</span><br/> co{mm}e on faict les petites statues Mects entre l<span class="m">or</span> & le <span class="m">laiton</span><br/> une lame de <span class="m">plomb</span> Et plustost que recuire l<span class="m">or</span> & le remectre<br/> au foeu Trempe dans l<span class="m">eau fort</span> & il sera douls
  
-Cest asses que le gect soict de lespesseur <span class="del">[illegible]</span><br/> de la medaille scavoir depuys le milieu du gect jusque<br/> a la medaille Mays si la medaille est fort espesse il ne<br/> fault pas espessir pour cela le gect Car le gect fort<br/> espes ne vient jamays bien <span class="del">Mai</span> Bien se pelt il faire<br/> large pour embrasser la medaille le plus que faire<br/> se pourra
+Cest asses que le gect soict de lespesseur <span class="del"></span><br/> de la medaille scavoir depuys le milieu du gect jusque<br/> a la medaille Mays si la medaille est fort espesse il ne<br/> fault pas espessir pour cela le gect Car le gect fort<br/> espes ne vient jamays bien <span class="del">Mai</span> Bien se pelt il faire<br/> large pour embrasser la medaille le plus que faire<br/> se pourra
  
  
   

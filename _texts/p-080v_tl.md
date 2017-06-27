@@ -8,32 +8,32 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [tin, soft, solder, glass tin, soft tin, stones, reddish, the color of dark slate, whitish, carton, iron tools, tallow, quicklime, pounce, linen, cork, lead, box molds, distilled vinegar, oyster shells]
-tools: []
-measurements: []
-bodyparts: []
+materials: [tin, solder, fine & soft tin, looking glass tin, soft tin, stones of which are made the sharpening stones or files of barbers, slate, carton, iron fittings, stones, tallow, fine powder of quicklime, linen, cork, lead, distilled vinegar, calcined oyster shells]
+tools: [carton, compass, linen, gimblet, a piece of cork, mold, pegs, box mold, box molds, table is very flat]
+measurements: [finger]
+bodyparts: [finger]
 places: []
 plants: []
-professions: [Founders]
-environments: []
-animals: []
+professions: [Founders of small works @ in tin, barbers]
+environments: [great flakes towards the mountains]
+animals: [oyster]
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-080v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f166.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>080v</a> - - - - - </div>  
   
 
-## <span class="pro">Founders</span> of small <span class="m">tin</span> work
+## <span class="pro">Founders of small works <span class="add">@ in <span class="m">tin</span></span></span>
 
  
-They usually cast from <span class="m">soft</span> <span class="m">solder</span> the things that should not become hollow, because hollow works require fine & <span class="m">soft</span> <span class="m">tin</span>. However, these things would not otherwise lose their coat & become hollow if they are mixed or include <span class="m">glass tin</span> <span class="del"></span> in them, just like they mix a little [<span class="m">glass tin</span>] in the <span class="m">soft tin</span>. They carve their work on <span class="m">stones</span> of which the sharpening stones or barber's files are made. These are found in great flakes near the mountains, & resemble slate. They are found in three colors: one <span class="m">reddish</span>, that is not as perfect as the others because it does not sustain heat <span class="del"></span>; [another] one <span class="del"></span> is <span class="m">the color of dark slate</span>, and the other is <span class="m">whitish</span>. When they work a relief, first they print it on <span class="m">carton</span>, which is one finger thick, to serve as a pattern. After planing their <span class="m">stones</span> & rubbing them together <span class="del"></span>, they use a compass & little <span class="m">iron tools</span> to carve their figures. They make their molds with three or four <span class="m">stones</span>, to make a circle or a square with the <span class="m">stones</span> which join perfectly because the <span class="m">stones</span> are of equal size. Before casting, they rub the mould over with <span class="m">tallow</span>, and it [the mould] absorbs it quickly because it is hot. Then, having [put] fine powder of <span class="m">quicklime</span> into a cloth, they rub the mould using <span class="m">pounce</span> in beating the <span class="m">linen</span> on top, then blow it a little on top; this prevents bubbles [from forming]. The main thing is to make some vents. If the work is big, they do as it is shown [on the picture]. They make a hole in the medal, somewhere where it is least visible, & with a bit they pierce the mold on the side of the medal. 
+They usually cast with <span class="m">solder</span>, even the things that should not become empty, for the latter require <span class="m">fine & soft tin</span>, which however would not release, & would not become empty if it was mixed or had some <span class="m">looking glass tin</span> <span class="del">mix</span> <span class="add">in</span> it, just like they put in a little of it in <span class="m">soft tin</span>. They carve their works on <span class="m">stones of which are made the sharpening stones or files of <span class="pro">barbers</span></span>, which are found in <span class="env">great flakes towards the mountains</span>, & resemble <span class="m">slate</span>. They are three colors of them: reddish, which is not as perfect as the others because it does not last as long in the fire <span class="del">& as</span>,one <span class="del">dard</span> of the color of dark <span class="m">slate</span>, the other whitish. When they have some relief, first they imprint it on <span class="tl"><span class="m">carton</span></span>, as thick as one <span class="ms"><span class="bp">finger</span></span>, <span class="add">to serve as a pattern</span>, then with a little <span class="tl">compass</span> & little matching <span class="m">iron fittings</span>, they carve their figures, having first flattened their <span class="m">stones</span> & worn down one against the other, they make their <span class="del">p</span> molds of three or four pieces, to make a circle or a square which joins perfectly, because the <span class="m">stones</span> render themselves even. Before casting, they rub the mould with <span class="m">tallow</span>, which has quickly absorbed it because it is hot. Then, taking <span class="m">fine powder of quicklime</span> in a <span class="tl"><span class="m">linen</span></span>, they rub the mould while beating with the <span class="tl"><span class="m">linen</span></span> on top, then blow a little on top to prevent it from becoming porous. The main thing is to make vents. If the work is big and they make it in such a way as seen here, they pierce a hole in the part of the medal, that is least visible. And with a <span class="tl">gimblet</span> they pierce the mold on the side of the medal. 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5VktqeFlScTAyczQ" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
- And if they want their work to last, they pierce [it] somewhere and fit in a piece of <span class="m">cork</span> & <span class="m">lead</span> or <span class="m">tin</span> will not damage it. 
+ And if they want their work to stay pierced in whichever place, they drive in <span class="tl">a piece of <span class="m">cork</span></span> at this place in the <span class="tl">mold</span>. And the <span class="m">lead</span> or <span class="m">tin</span> will not attach to it. 
  
 > *at left top margin*
 > 
 > 
->   Make sure the pegs of your frame fit in easily so <span class="del"></span> it will open with ease without moving anything else. Your <span class="m">box molds</span> should fit well, & the table should be very flat. 
+>   Make sure the <span class="tl">pegs</span> of your <span class="tl">box mold</span> enter easily so that <span class="del">opening</span> it will easily open without shifting anything; and that your <span class="tl">box molds</span> fit well together; & the <span class="tl">table is very flat</span>. 
  
 > *at left top margin*
 > 
@@ -43,5 +43,5 @@ They usually cast from <span class="m">soft</span> <span class="m">solder</span>
 > *at left middle margin*
 > 
 > 
->   Try calcined <span class="m">oyster shells</span>; they are said to be excellent for molding.
+>   Try <span class="m">calcined <span class="al">oyster</span> shells</span>; one says that they are excellent for molding.
  

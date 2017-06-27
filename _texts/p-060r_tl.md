@@ -8,13 +8,13 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [oil, wax, chalk, glue, Oil, Walnut oil, peeled almonds, Palma christi, Fatty oil, varnish, common varnish, Oils, ceruse, lead filings, lead white, calcined pulverized pglass, clear water]
-tools: [vial]
+materials: [oil, wax, chalk, colle de destrempe, glue, Oil, Walnut oil, peeled almonds, Palma christi, Fatty oil, varnish, common varnish, Oils, ceruse, lead filings, lead white, calcined pulverized pglass, clear water]
+tools: [pinceau, broisse, knife, vial]
 measurements: []
 bodyparts: []
-places: []
+places: [Flemish]
 plants: [Walnut, almonds]
-professions: []
+professions: [painters]
 environments: [exposed to the sun]
 animals: []
 ---
@@ -23,28 +23,28 @@ animals: []
  
 *[continued]*
   
-and to prevent it from breaking, mix in a little <span class="m">oil</span> and melt them together and fill the cracks and make them even and paint on them. And the <span class="m">oil</span> mixed with <span class="m">wax</span> will help colors to hold since they are also distempered with <span class="m">oil</span>.
+and to prevent it from breaking, mix in a little <span class="m">oil</span> & melt them together & fill the cracks & make them even and paint on them. And the <span class="m">oil</span> mixed with <span class="m">wax</span> will <span class="del">q</span> help colors to hold since they are also distempered with <span class="m">oil</span>.
 
  
   
 
-## First whitening of the painting
+## First whitening of a panel
 
  
-Apply two or three layers of <span class="m">chalk</span> distempered with <span class="m">glue</span> on the painting, not with a paintbrush but with a <span class="sup">large</span> brush as if you intended to rub it down, and leave to dry. And repeat this two or three times, then make the last layer quite even using a knife, <span class="add">then apply a layer of <span class="m">glue</span></span> upon which you will later be able to put your underlayer and then paint. But make sure that your first white layer is not too thick for it would break easily. Flemish painters have such paintings made by the dozen.
+One layers two or three times with <span class="m">chalk</span> tempered with <span class="m">colle <span class="add">de destrempe</span></span> on the panel, not with a <span class="tl">pinceau</span> but with a <span class="tl">broisse</span> in such a way as if you wanted to pounce, & leave to dry. And reiterate up to two or three times, then even the last ground layer out well with a <span class="tl">knife</span>, <span class="add">then give coat of <span class="m">glue</span>on top</span>, upon which you will next be able to make your impression and then paint. But make sure that your first white is not too thick for it would break easily. <span class="pl">Flemish</span> <span class="pro">painters</span> have such panels made by the dozen.
 
  
   
 
-## Working neatly
+## Neat work
 
  
-When you are at work make sure you do raise no dust, and when you leave your work cover it so that the said dust will not fall upon it. Also apply your colors as thinly as possible, for if they are thick you will be unable to soften them.
+When you are working, make sure not to stir up dust, & when you leave your work, cover it so that the said dust will not fall upon it. Also layer your colors as thinly as you can, for if they are thick you will be not be able to soften them thoroughly.
  
 > *at left middle margin*
 > 
 > 
->   Do not apply color on color if they are not similar, such as white on black, but rather flesh over flesh, and so on. And leave empty spaces for shadows or different colors. By doing so, laying each sort of color directly on the underlayer, they will not fade and your work will be neat.
+>   Also do not layer color on color if they are not similar, such as white on black, but rather flesh color on flesh color, & thus with the others. And leave blank the space for shadow or a different color. <span class="del">Ains</span> in this way, layering each kind of color only on the impression, they will not die & you will work neatly.
 
  
   

@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [estaing de Glace, eaue de gomme, mabre, vernilhon, souffre, mercure, plombe, huille de lin, terre, croute de pin, ognions, charbon, colle farine, sandrax, mastic, arrabeic, alung daraucqde Roc, arabic]
-tools: []
-measurements: []
+materials: [estaing de Glace, eaue de gomme, mabre, vernilhon, souffre, mercure, plombe, verny, huille de lin, terre, croute de pin, ognions, charbon, colle farine, sandrax bien pilles, mastic & arrabeic deux onces de ch{asc}un qui soit bien broye tous deux, mastic, arrabeic, alung daraucqde Roc, arabic]
+tools: [pot de terre, cuilliere]
+measurements: [livre, heures, demy once, onces]
 bodyparts: []
 places: []
-plants: []
+plants: [lin, ognions]
 professions: []
 environments: []
 animals: []
@@ -33,15 +33,15 @@ Prenes de l<span class="m">estaing de Glace</span> & le mectes destremper dedans
 ## Pour faire <span class="m">vernilhon</span>
 
  
-Prenes deux livres de <span class="m">souffre</span> & le faictes fondre & le<br/> mectes dedans deux livres de <span class="del">mercuse</span><span class="add"><span class="m">mercure</span></span> Et si celle matiere sen<br/> flame couvres la bien gentiment q{ue} lair ne passe dedans le pot<br/> puis mectes le tout quelque temps appres dedans ung pot<br/> <span class="m">plombe</span> au foeu par lespace de vingt quatre heures vous<br/> aures de bon <span class="m">vernilhon</span>. 
+Prenes deux livres de <span class="m">souffre</span> & le faictes fondre & le<br/> mectes dedans deux livres de <span class="del">merecuse</span><span class="add">@<span class="m">mercure</span></span> Et si celle matiere sen<br/> flame couvres la bien gentiment q{ue} lair ne passe dedans le pot<br/> puis mectes le tout quelque temps appres dedans ung pot<br/> <span class="m">plombe</span> au foeu par lespace de vingt quatre heures vous<br/> aures de bon <span class="m">vernilhon</span>. 
  
  
   
 
-## Pour faire verny
+## Pour faire <span class="m">verny</span>
 
  
-Prenes une livre d<span class="m">huille de lin</span> Et puys la mectres dedans<br/> ung pot de <span class="m">terre</span> mellee <span class="m">croute de pin</span> et trois <span class="m">ognions</span> Et le<br/> mectres dessus du foeu de <span class="m">charbon</span> Et le feres cuyre a petit foeu<br/> Et quil bouilhe lespace de cinq heures vous prendres demy once<br/> de <span class="m">colle farine</span> & le feres bouilhir tout comme devant Et le<br/> remouvoir avecque une cuilliere Et puys appres vous y mectres<br/> deux onces de <span class="m">sandrax</span> bien pilles & le feres comme dessus Et<br/> puys appres prandres <span class="m">mastic</span> & <span class="m">arrab<span class="del">e</span><span class="add">i</span>c</span> deux onces de ch{asc}un qui<br/> soit bien broye tous deux Et le mectres tout ensemble & le<br/> feres bouilhir en Remouvant tousjours lespace de cinq heures<br/> Et puys vous mectres <span class="m">alung <span class="del">daraucq</span><span class="add">de Roc</span></span> deux onces & puys le<br/> feres bouillir Et si vous y mectes deux onces de <span class="del">larabla</span><span class="add">l<span class="m">arabic</span></span> si vous<br/> voyes qui ne sont asses cuyt faictes le cuyre davantage apetict
+Prenes une <span class="ms">livre</span> d<span class="m">huille de <span class="pa">lin</span></span> Et puys la mecteres dedans<br/> ung <span class="tl">pot de <span class="m">terre</span></span> mellee <span class="m">croute de pin</span> et trois <span class="m"><span class="pa">ognions</span></span> Et le<br/> mectres dessus du foeu de <span class="m">charbon</span> Et le feres cuyre a petit foeu<br/> Et quil bouilhe lespace de cinq <span class="ms"><span class="tmp">heures</span></span> vous prendres <span class="ms">demy once</span><br/> de <span class="m">colle farine</span> & le feres bouilhir tout comme devant Et le<br/> remouvoir avecque une <span class="tl">cuilliere</span> Et puys appres vous y mectres<br/> deux <span class="ms">onces</span> de <span class="m">sandrax bien pilles</span> & le feres comme dessus Et<br/> puys appres prandres <span class="m"><span class="m">mastic</span> & <span class="m">arrab<span class="del">e</span><span class="add">i</span>c</span> deux <span class="ms">onces</span> de ch{asc}un qui<br/> soit bien broye tous deux</span> Et le mectres tout ensemble & le<br/> feres bouilhir en Remouvant tousjours Lespace de cinq <span class="ms"><span class="tmp">heures</span></span><br/> Et puys vous mectres <span class="m">alung <span class="del">daraucq</span><span class="add">de Roc</span></span> deux <span class="ms">onces</span> & puys le<br/> feres bouillir Et si vous y mectes deux <span class="ms">onces</span> de <span class="del">larable</span><span class="add">l<span class="m">arabic</span></span> si vous<br/> voyes qui ne soit asses cuyt faictes le cuyre davantage apetict
  
 *[continued]*
  

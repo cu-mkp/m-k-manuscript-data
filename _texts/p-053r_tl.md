@@ -41,7 +41,7 @@ If, in the fire &melting, it touches the <span class="m">iron</span>, this <span
 ## <span class="m">Lead</span> casting
 
  
-One mixes it, according to some, with <span class="ms">half</span> <span class="m">tin</span> & <span class="ms">half</span> <span class="m">lead</span> and, to <span class="add">heat</span> <span class="del">[illegible]</span> it, one mixes in a little <span class="m">sublimate</span>. It casts well in small sizes in a <span class="m"><span class="al">cuttlefish</span> bone</span>, provided it is good.
+One mixes it, according to some, with <span class="ms">half</span> <span class="m">tin</span> & <span class="ms">half</span> <span class="m">lead</span> and, to <span class="add">heat</span> <span class="del"></span> it, one mixes in a little <span class="m">sublimate</span>. It casts well in small sizes in a <span class="m"><span class="al">cuttlefish</span> bone</span>, provided it is good.
  
  
   

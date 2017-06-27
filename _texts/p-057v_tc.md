@@ -8,14 +8,14 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [peaulx daigneaulx, parchemin, terre, draps, cuyr, poix, noir de couperose, escaille de fer, cuir, toille, colle, laict de femme, carton, rousine, cuyvre, huille, blanc de plomb, ceruse, huille de noix, huille damendes, peau des noix]
-tools: []
+materials: [peaulx daigneaulx, parchemin, terre, draps, cuyr, poix, noir de couperose, escaille de fer, cuir, toille, colle, Croons, laict de femme, carton, rousine fondue fort delayee et claire, cuyvre, huille, blanc de plomb, ceruse, huille de noix, huille damendes, peau des noix]
+tools: [Croons]
 measurements: []
 bodyparts: []
 places: [venise, flamens]
-plants: []
-professions: [Gainier, Gainiers, taneurs]
-environments: []
+plants: [noix, amendes]
+professions: [Gainier, Gainiers, taneurs, Painctre]
+environments: [temps humide]
 animals: [daigneaulx, chevreaulx]
 ---
 
@@ -30,18 +30,18 @@ animals: [daigneaulx, chevreaulx]
  
   
 
-## Painctre
+## <span class="pro">Painctre</span>
 
  
-@Croons bons ne se font aveq <span class="m">colle</span> <span class="del">bonne</span> mays aveq <span class="m">laict de<br/> femme</span>
+@<span class="tl"><span class="m">Croons</span></span> bons ne se font aveq <span class="m">colle</span> <span class="del">bonne</span> mays aveq <span class="m">laict de<br/> femme</span>
  
-Les Images faictz de <span class="m">carton</span> se doibvent estant secs tremper dans la<br/> <span class="m">rousine</span> fondue fort delayee et claire Cela la fortifie aultrement Ilz<br/> deviennent mols en temps humide
+Les Images faictz de <span class="m">carton</span> se doibvent estant secs tremper dans la<br/> <span class="m">rousine fondue fort delayee et claire</span> Cela la fortifie aultrement Ilz<br/> deviennent mols en <span class="env">temps humide</span>
  
 Les Masques de <span class="pl">venise</span> se font aveq le creulx & le visaige masle de<br/> <span class="m">cuyvre</span>
  
 Les <span class="pl">flamens</span> nemploient poinct aultre blanc aux carna{ti}ons a <span class="m">huille</span><br/> Que le <span class="m">blanc de plomb</span> pource q{ue} la <span class="m">ceruse</span> Jaulnist
  
-L<span class="m">huille de noix</span> de 4 ou 5 ans qui est Cler est la meilheure couleur<br/> garde de poulsiere Celuy qui est recentem{ent} tire avecq la presse<br/> en forme d<span class="m">huille damendes</span> est blanc mesmem{ent} si la <span class="m">peau des noix</span><br/> est tiree
+L<span class="m">huille de <span class="pa">noix</span></span> de 4 ou 5 <span class="tmp">ans</span> qui est Cler est la meilheure couleur<br/> garde de poulsiere Celuy qui est recentem{ent} tire avecq la presse<br/> en forme d<span class="m">huille d<span class="pa">amendes</span></span> est blanc mesmem{ent} si la <span class="m">peau des <span class="pa">noix</span></span><br/> est tiree
  
 *[continued]*
  

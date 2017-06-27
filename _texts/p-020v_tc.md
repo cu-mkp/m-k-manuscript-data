@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [vesse, eau de cisterne, eau blanchie, lamydon, suc, eau illegible distilee de lescorce dorenge, Lescorce, vin escumant, jus dorange, vin, escume, just, Eschervis racine, oignon, verjus, savo{n} noir, oeufs, sucre]
+materials: [vesse, eau de cisterne, eau blanchie, lamydon, suc, eau distilee de lescorce dorenge, Lescorce, vin escumant, jus dorange, vin, escume, just, Eschervis racine, oignon, verjus, savo{n} noir, oeufs, sucre]
 tools: [verre]
 measurements: [quintals, doigt]
 bodyparts: [face, estomac, doigt, ventre]
@@ -33,7 +33,7 @@ Pille de la <span class="m"><span class="pa">vesse</span></span> en <span class=
 ## Contre les ventosites colique &c
 
  
-Le <span class="m">suc</span> exprime ou l<span class="m">eau <span class="del">[illegible]</span> distilee de lescorce d<span class="pa">orenge</span></span><br/> est excellent contre la colique venteuse <span class="m">Lescorce</span> aussi<br/> confite est excellente pour les vents de l<span class="bp">estomac</span> Et pour<br/> en faire preuve Ayant verse du <span class="m">vin escumant</span> dans un<br/> <span class="tl">verre</span> Exprime du <span class="m">jus d<span class="pa">orange</span></span> sur lescume du <span class="m">vin</span> qui<br/> ne provient que de vapeur & vent Et tu verras quincontinent<br/> l<span class="m">escume</span> s'esperdra Si tu exprimes aussi du <span class="m">just</span> contre la<br/> chandelle elle ardra dadvantaige 
+Le <span class="m">suc</span> exprime ou l<span class="m">eau <span class="del"></span> distilee de lescorce d<span class="pa">orenge</span></span><br/> est excellent contre la colique venteuse <span class="m">Lescorce</span> aussi<br/> confite est excellente pour les vents de l<span class="bp">estomac</span> Et pour<br/> en faire preuve Ayant verse du <span class="m">vin escumant</span> dans un<br/> <span class="tl">verre</span> Exprime du <span class="m">jus d<span class="pa">orange</span></span> sur lescume du <span class="m">vin</span> qui<br/> ne provient que de vapeur & vent Et tu verras quincontinent<br/> l<span class="m">escume</span> s'esperdra Si tu exprimes aussi du <span class="m">just</span> contre la<br/> chandelle elle ardra dadvantaige 
  
  
   

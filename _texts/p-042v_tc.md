@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [satin, farine, croye broyee, glaire, laict, escorce de figuier, huile, miel, eau, taffetas, eau dalum, eau damydon, Sable de gect, mabre, albastre calcine, laque, huile dolif, Vernis blanc, plastre, colle bien blanche, vernis de sandarache huile daspic et un peu de mastic, sandarache, huile daspic, mastic]
-tools: [mabre, vaisseau, pinceau]
+materials: [satin, farine, croye broyee, glaire, laict, escorce de figuier, eau, verre, huile, miel, taffetas, eau dalum, eau damydon, Sable de gect, mabre, albastre calcine, laque, huile dolif, Vernis blanc, plastre, colle bien blanche, vernis de sandarache huile daspic et un peu de mastic, sandarache, huile daspic, mastic]
+tools: [lopin de verre, trancheplume, mabre, vaisseau, pinceau]
 measurements: [mains]
 bodyparts: [mains]
 places: []
-plants: [aspic]
+plants: [figuier, olif, aspic]
 professions: []
 environments: []
 animals: []
@@ -25,7 +25,7 @@ animals: []
 ## Poncis pour esgratigner sur le<br/> <span class="m">satin</span>
 
  
-Apres que tu as ponce avecq de la <span class="m">farine</span> ou <span class="m">croye broyee</span><br/> affin que les poincts du poncis ne seffacent suys la trace<br/> avecq de la <span class="m">glaire</span> battue avecq du <span class="m">laict</span> ou <span class="m">escorce de figuier</span><br/> ce qui la fera incontinent esclarcir co{mm}e eau & sans faire<br/> corps elle gardera la trace que resuivras & esgratigneras<br/> avecq <span class="del">d</span> un lopin de verre ou trancheplume
+Apres que tu as ponce avecq de la <span class="m">farine</span> ou <span class="m">croye broyee</span><br/> affin que les poincts du poncis ne seffacent suys la trace<br/> avecq de la <span class="m">glaire</span> battue avecq du <span class="m">laict</span> ou <span class="m">escorce de <span class="pa">figuier</span></span><br/> ce qui la fera incontinent esclarcir co{mm}e <span class="m">eau</span> & sans faire<br/> corps elle gardera la trace que resuivras & esgratigneras<br/> avecq <span class="del">d</span> un <span class="tl">lopin de <span class="m">verre</span></span> ou <span class="tl">trancheplume</span>
  
  
   
@@ -33,7 +33,7 @@ Apres que tu as ponce avecq de la <span class="m">farine</span> ou <span class="
 ## Toile pour paindre a <span class="m">huile</span><br/> sans se rompre
 
  
-Affin que ton pourtraict a <span class="m">huile</span> ne se rompe & gaste poinct<br/> en le pliant fais ta couche avecq <span class="m">miel</span> <span class="del">huile</span> un peu d<span class="m">huile</span><br/> & <span class="m">eau</span> & <span class="add">&</span><span class="m">farine</span>
+Affin que ton pourtraict a <span class="m">huile</span> ne se rompe & gaste poinct<br/> en le pliant fais ta couche avecq <span class="m">miel</span> <span class="del">huile</span> un peu d<span class="m">huile</span><br/> & <span class="m">eau</span> & <span class="add">&</span> <span class="m">farine</span>
  
  
   
@@ -57,7 +57,7 @@ Le principal est de le bien broyer sur le <span class="tl"><span class="m">mabre
 ## Pour pourfiler un portraict
 
  
-Suis les traicts avecq de la <span class="m">laque</span> broyee avecq<br/> <span class="m">huile dolif</span> qui ne sechera poinct
+Suis les traicts avecq de la <span class="m">laque</span> broyee avecq<br/> <span class="m">huile d<span class="pa">olif</span></span> qui ne sechera poinct
  
  
   

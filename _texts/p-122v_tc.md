@@ -9,7 +9,7 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [cire, suif, ardille, papier, metal]
-tools: [escuelle, cueillere, pallette, cuillere, moule]
+tools: [escuelle, cueillere, pallette, cuillere, moule, platine dardille]
 measurements: []
 bodyparts: []
 places: []
@@ -25,7 +25,7 @@ animals: [escrevisses]
 ## Nettoyer l<span class="tl">escuelle</span> et la <span class="tl">cueillere</span><br/> dequoy on destrempe le sable
 
  
-Sois curieulx de nettoyer freschement & soubdain que<br/> tu as gecte ton <span class="tl">escuelle</span> & ta <span class="tl">pallette</span> ou <span class="tl">cuillere</span> avecq<br/> lesquels tu destrempes ton sable pourc equ<span class="del">il</span>esil sy desseche<br/> il sesmie & tombe dans le sable frais & faict faire<br/> trou ou faulte en louvrage Quand aussy le <span class="tl">moule</span> se<br/> recuit ces petits lopins sescroutent & escaillent & gardent<br/> de gecter net
+Sois curieulx de nettoyer freschement & soubdain que<br/> tu as gecte ton <span class="tl">escuelle</span> & ta <span class="tl">pallette</span> ou <span class="tl">cuillere</span> avecq<br/> lesquels tu destrempes ton sable pourcequ<span class="del">il</span>esil sy desseche<br/> il sesmie & tombe dans le sable frais & faict faire<br/> trou ou faulte en louvrage Quand aussy le <span class="tl">moule</span> se<br/> recuit ces petits lopins sescroutent & escaillent & gardent<br/> de gecter net
 
  
   
@@ -38,7 +38,7 @@ La <span class="m">cire</span> tout seule est trop tost froidye & ne court pas<b
 > *at left middle margin*
 > 
 > 
->   La premiere partye du <span class="tl">moule</span><br/> qui est premierem{ent} gectee sur la<br/> platine d<span class="m">ardille</span> se fent plus volontiers<br/> au foeu que la<br/> seconde
+>   La premiere partye du <span class="tl">moule</span><br/> qui est premierem{ent} gectee sur la<br/> <span class="tl">platine d<span class="m">ardille</span></span> se fent plus volontiers<br/> au foeu que la<br/> seconde
  
  
   

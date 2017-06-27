@@ -8,8 +8,8 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [huile, cire, croye, colle, blanc, Huile, huile de noix, amendes pelees, palma christi, huile gras, vernis, vernis commun, huiles, ceruse, plomb lime, blanc de plomb, verre p calcine pulverise, eau claire]
-tools: [phiole]
+materials: [huile, cire, croye, colle de destrempe, colle, @Huile, huile de noix, amendes pelees, palma christi, huile gras, vernis, vernis commun, huiles, ceruse, plomb lime, blanc de plomb, verre p calcine pulverise, eau claire]
+tools: [pinceau, broisse, cousteau, phiole]
 measurements: []
 bodyparts: []
 places: [flamens]
@@ -31,7 +31,7 @@ et affin quelle ne sesclatte mesles y peu d<span class="m">huile</span> parmy & 
 ## Blanchiment premier dun tableau
 
  
-On couche par deulx ou trois fois de la <span class="m">croye</span> destrempee a <span class="m">colle</span><br/> <span class="add">de destrempe</span> sur le tableau non avecq un pinceau Mays avecq une broisse<br/> en telle sorte comme si tu voulois poncer & laisse seicher Et<br/> reitere jusques a deulx ou trois fois puys avecq un cousteau<br/> unis bien la derniere assiete <span class="add">puys donne dessus une main de <span class="m">colle</span></span> sur laquelle tu pourras apres<br/> faire ton impression puys paindre Mays garde que<br/> ton premier <span class="m">blanc</span> ne soict pas trop espes car il sesclateroit<br/> volontiers les <span class="pro">painctres</span> <span class="pl">flamens</span> font faire a douzaine tels tableaux
+On couche par deulx ou trois fois de la <span class="m">croye</span> destrempee a <span class="m">colle<br/> <span class="add">de destrempe</span></span> sur le tableau non avecq un <span class="tl">pinceau</span> Mays avecq une <span class="tl">broisse</span><br/> en telle sorte comme si tu voulois poncer & laisse seicher Et<br/> reitere jusques a deulx ou trois fois puys avecq un <span class="tl">cousteau</span><br/> unis bien la derniere assiete <span class="add">puys donne dessus une main de <span class="m">colle</span></span> sur laquelle tu pourras apres<br/> faire ton impression puys paindre Mays garde que<br/> ton premier blanc ne soict pas trop espes car il sesclateroit<br/> volontiers les <span class="pro">painctres</span> <span class="pl">flamens</span> font faire a douzaine tels tableaux
  
  
   
@@ -39,7 +39,7 @@ On couche par deulx ou trois fois de la <span class="m">croye</span> destrempee 
 ## Labeur net
 
  
-Quand tu travailles garde bien de nexciter poinct de<br/> poulsiere & quand tu laisses ton labeur couvre le affin que<br/> ladicte pouldre ni tumbe Couche aussy tes couleurs les moings<br/> espesses que tu pourras Car si elles sont espesses tu ne pourras pas<br/> bien adoulcir
+Quand tu travailles garde bien de nexciter poinct de<br/> poulsiere & quand tu laisses ton labeur couvre le affin que<br/> ladicte pouldre ni tumbe @ Couche aussy tes couleurs les moings<br/> espesses que tu pourras Car si elles sont espesses tu ne pourras pas<br/> bien adoulcir
  
 > *at left middle margin*
 > 
@@ -49,7 +49,7 @@ Quand tu travailles garde bien de nexciter poinct de<br/> poulsiere & quand tu l
  
   
 
-## <span class="m">Huile</span>
+## <span class="m">@Huile</span>
 
  
 L<span class="m">huile de <span class="pa">noix</span></span> tire co{mm}e les <span class="m"><span class="pa">amendes</span> pelees</span> est fort blanc<br/> Celuy de <span class="m">palma christi</span> Et quand l<span class="m">huile</span> a un peu de corps<br/> les couleurs sen adoulcissent car si l<span class="m">huile</span> est trop cler les<br/> couleurs coulent & non poinct de liaison mesmes celles qui nont<br/> gueres de corps L<span class="m">huile gras</span> qui ne semboict pas aysem{ent}<br/> est propre pour <span class="m">vernis</span> L<span class="m">huile</span> est asses desiccatif quand il<br/> se deseche aussy tost que <span class="m">vernis commun</span> les <span class="m">huiles</span> ne se desechent<br/> pas si tost en pays froit quen pays chault L<span class="m">huile</span> <span class="env">expose au soleil</span> <br/> sesclarcist bien Mays il sengraisse Si<br/> tu y mects de la <span class="m">ceruse</span> ou du <span class="m">plomb lime</span> ou <span class="m">blanc de plomb</span><br/> ou <span class="m">verre <span class="del">p</span> calcine pulverise</span> Pour eviter cela mects la<br/> <span class="tl">phiole</span> dans de l<span class="m">eau claire</span>

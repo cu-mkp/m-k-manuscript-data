@@ -57,7 +57,7 @@ Those who have been fed at the spit do not sing among or the company of other bi
 ## Melting
 
  
-The <span class="m">potée</span> is made of <span class="m">burnt earth</span> which has served for the melting. It is the <span class="m">earth</span> bourré bolvene in which it has been melted. It should be ground against a large <span class="m">stone</span> slab, and of this one should make the first coat of the mantle of the bell, where the letters and ornementations are to be found. It does not require to be cooked again against <span class="m">hay fire</span> and will mold very neatly.
+The <span class="m">potée</span> is made of <span class="m">burnt earth</span> which has served for the melting. It is the <span class="m">earth</span> bourré bolvene in which it has been melted. It should be ground against a large <span class="m">stone</span> slab, & of this one should make the first coat of the mantle of the bell, where the letters & ornementations are to be found & It does not require to be cooked again against <span class="m">hay fire</span> and will mold very neatly.
  
 The <span class="m">earth</span> used for the molding of the core is likely to swell if you do not strongly rub the molded piece with a brush or the finger and if it is not well <span class="m">oil</span>ed. And you need to do it one coat at a time rather than all at once.
  

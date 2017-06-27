@@ -46,7 +46,7 @@ When you have well molded the first part of the animal, that is to say the back,
 > *at left top margin*
 > 
 > 
->   # then \+<span class="del">illegible</span>
+>   # then \+<span class="del"></span>
  
 > *at left bottom margin*
 > 

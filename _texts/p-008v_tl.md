@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [ruby balay, tripoli, marcasite powder, oil, Or moulu, argent moulu, fine gold, ☿, mercury, marble, gum water, silver, aqua fortis, copper, stones, tin, lead, diamonds, rubies, sapphires, jacinths, emeralds, amethysts, fine tin, latten filings, stoneware, water, urc, ☾, ☼, ♀]
+materials: [ruby balay, tripoli, marcasite powder, oil, Or moulu, argent moulu, fine gold, ☿, mercury, marble, gum water, silver, aqua fortis, copper, stones, tin, lead, diamond, ruby, sapphire, jacinth, emeralds, amethysts, fine tin, latten filings, stoneware, water, urc, ☾, ☼, ♀]
 tools: [marble, copper blade]
 measurements: [half the quantity, eighth part]
 bodyparts: []
@@ -41,12 +41,12 @@ You need to calcine your <span class="m">fine gold</span> with <span class="m">�
 ## Polishing <span class="m">stones</span>
 
  
-There are three wheels for this purpose, one of <span class="m">tin</span>, one of <span class="m">lead</span>, and one of pure <span class="m">copper</span>. On the <span class="m">copper</span> wheel, only <span class="m">diamonds</span>, <span class="m">rubies</span>, <span class="m">sapphires</span> and oriental <span class="m">jacinths</span> are usually polished. The <span class="m">tin</span> wheel is for softer stones such as <span class="m">emeralds</span>, <span class="m">amethysts</span> and others.
+There are three wheels for this purpose, one of <span class="m">tin</span>, one of <span class="m">lead</span>, and one of pure <span class="m">copper</span>. On the <span class="del">cu</span><span class="m">copper</span> wheel, one does not commonly cut <span class="del">co</span> or polish other than the <span class="m">diamond</span>,the <span class="m">ruby</span>, <span class="m">sapphire</span> and oriental <span class="m">jacinth</span>. The <span class="m">tin</span> wheel is for softer stones such as <span class="m">emeralds</span>, <span class="m">amethysts</span> and others.
 
  
   
 
-## <span class="pro">Pewterers</span>' mixture <span class="del">[illegible]</span>
+## <span class="pro">Pewterers</span>' mixture <span class="del"></span>
 
  
 Because they often mix in with the <span class="m">fine tin</span> <span class="ms">half the quantity</span> of <span class="m">lead</span>, which renders the <span class="m">tin</span> dull. To correct this, they mix in some <span class="m">latten filings</span> to make it <span class="sn">sonorous</span>.

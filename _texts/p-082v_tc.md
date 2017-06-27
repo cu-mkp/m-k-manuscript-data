@@ -25,7 +25,7 @@ animals: []
 ## <span class="pro">Horlogeurs</span>
 
  
-Ancienem{ent} ilz destrempoient leurs ressorts les plongea{n}t<br/> dans du <span class="m">plomb</span> fondu Mays aujourdhuy ilz trempent<br/> leurs ressorts touts droits & les replient estant trempes<br/> qui est un <span class="del">p[illegible]</span> beau secret
+Ancienem{ent} ilz destrempoient leurs ressorts les plongea{n}t<br/> dans du <span class="m">plomb</span> fondu Mays aujourdhuy ilz trempent<br/> leurs ressorts touts droits & les replient estant trempes<br/> qui est un <span class="del">p</span> beau secret
  
  
   

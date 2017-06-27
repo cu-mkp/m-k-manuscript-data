@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [earth, metal, charcoal powder, Wax, wax, tepid water, water, paper, colors in varnish, glass, colors in turpentine & mastic, gum ammoniacum, vinegar, glue, plaster]
+materials: [earth, metal, charcoal powder, Wax, wax, tepid water, water, paper, colors in varnish, glass, colors in turpentine & mastic, gum ammoniac, vinegar, glue, plaster]
 tools: [mould of earth, stick, pestle, mold, brush]
 measurements: []
 bodyparts: [hands]
@@ -33,7 +33,7 @@ The <span class="tl">mould of <span class="m">earth</span></span> is reheated un
 ## <span class="m">Wax</span> for seal and imprint
 
  
-For the large <span class="m">wax</span> seals, one needs to have <span class="m">tepid water</span> always ready & <span class="del">apre</span> to keep your <span class="m">wax</span> in it. But before, it should have been kneaded between your <span class="bp">hands</span> to render it very even, for otherwise the <span class="m">water</span> that would get in between would prevent it from coming together. Next you will imprint whatever you want and put three or four pieces of <span class="m">paper</span> on, & with a <span class="tl">stick</span> <span class="del">you</span> even & round like a <span class="tl">pestle</span>, you will roll it as if you wanted to polish it, and it will attach itself to the <span class="m">paper</span>, which will help you lift it off the <span class="tl">mold</span>. Thus you will imprint better than if you dripped it molten. You can carve the figures & gild them, silver them, & paint them with <span class="m">colors in varnish</span>, & transfer them onto a base of <span class="m">glass</span> painted with <span class="m">colors in turpentine & mastic</span>. And if you want to apply these plates by inlaying, do it with <span class="m">gum ammoniacum</span> mixed with <span class="m">vinegar</span>, and you will have good <span class="m">glue</span>.
+For the large <span class="m">wax</span> seals, one needs to have <span class="m">tepid water</span> always ready & <span class="del">apre</span> to keep your <span class="m">wax</span> in it. But before, it should have been kneaded between your <span class="bp">hands</span> to render it very even, for otherwise the <span class="m">water</span> that would get in between would prevent it from coming together. Next you will imprint whatever you want and put three or four pieces of <span class="m">paper</span> on, & with a <span class="tl">stick</span> <span class="del">you</span> even & round like a <span class="tl">pestle</span>, you will roll it as if you wanted to polish it, and it will attach itself to the <span class="m">paper</span>, which will help you lift it off the <span class="tl">mold</span>. Thus you will imprint better than if you dripped it molten. You can carve the figures & gild them, silver them, & paint them with <span class="m">colors in varnish</span>, & transfer them onto a base of <span class="m">glass</span> painted with <span class="m">colors in turpentine & mastic</span>. And if you want to apply these plates by inlaying, do it with <span class="m">gum ammoniac </span> mixed with <span class="m">vinegar</span>, and you will have good <span class="m">glue</span>.
  
  
   

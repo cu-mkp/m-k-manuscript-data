@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [verre, vetjoin, eau, betjoin, huille de lin, huille petrolle, masticq, alung de glace, copperoze blanche, terre, huille daspic, copperoze, sang de illegible da Rac]
-tools: []
-measurements: []
+materials: [verre, vetjoin aussi Grossement pille, eau, betjoin, vernys, huille de lin, huille petrolle, masticq, alung de glace, copperoze blanche, drogues, terre, cendres, verny, huille daspic, copperoze, sang de raiye da Rac]
+tools: [fiolle de verre, fiolle, pot de terre]
+measurements: [onces, lespace dung Jour, once]
 bodyparts: []
 places: []
-plants: []
+plants: [lin, aspic]
 professions: []
 environments: []
 animals: []
@@ -23,31 +23,31 @@ animals: []
  
 *[continued]*
   
-mais quil ne soit pas trop menu puis prandre une fiolle<br/> de <span class="m">verre</span> moienement grand<span class="del">e</span> Et y mectre de ses deux<br/> la moictie assavoir deux onces & Demye, appres mectz led{ict}<br/> <span class="m">vetjoin</span> aussi grossement pille et le mectz a proffict aveq<br/> lad{icte} <span class="m">eau</span> et le laisse reposer lespace dung Jour & Demy &<br/> puys prens lad{icte} <span class="m">eau</span> & la mectz dedans une aultre fiolle de<br/> <span class="m">verre</span> & le destrampe tres bien et sur le reste dud{ict} <span class="m">betjoin</span><br/> qui demeure au fondz de lad{icte} premiere fiolle mectz le reste<br/> de l<span class="m">eau</span> sur cedict et faictz devant comme tu verras le<br/> cas bien aller et mesle la premiere <span class="m">eau</span> aveq la seconde<br/> parquoy dicelle tu ten pourras ayder en chose plus<br/> noble
+mais quil ne soit pas trop menu puis prandre une <span class="del"></span> <span class="tl">fiolle<br/> de <span class="m">verre</span></span> moienement grande Et y mectre de ses deux<br/> la moictie assavoir deux <span class="ms">onces</span> & Demye, appres mectz led{ict}<br/> <span class="m">vetjoin aussi Grossement pille</span> et le mectz a proffict aveq<br/> lad{icte} <span class="m">eau</span> et le laisse reposer <span class="ms">lespace dung <span class="tmp">Jour</span></span> & demy &<br/> puys prens lad{icte} <span class="m">eau</span> & la mectz dedans une au{ltr}e <span class="tl">fiolle de<br/> <span class="m">verre</span></span> & le destrampe tres bien et sur le reste dud{ict} <span class="m">betjoin</span><br/> qui demeure au fondz de lad{icte} premiere <span class="tl">fiolle</span> mectz le reste<br/> de l<span class="m">eau</span> sur cedict et faictz devant comme tu verras le<br/> cas bien aller et mesle la premiere <span class="m">eau</span> aveq la seconde<br/> parquoy dicell{e} tu ten pourras ayder en chose plus<br/> noble
  
  
   
 
-## Aultre vernys aprouve
+## Aultre <span class="m">vernys</span> aprouve
 
  
-Prens deux onces d<span class="m">huille de lin</span> & deux onces d<span class="m">huille<br/> petrolle</span> et deux onces de <span class="m">masticq</span> le plus blanc q{ue}<br/> pourras trouver et de l<span class="m">alung de glace</span> & le broye et prendz<br/> ung peu de <span class="m">copperoze blanche</span> et mectz toutes ses drogues<br/> ensemble en ung pot de <span class="m">terre</span> q{ue} soit noeuf et le pose un<br/> peu sur les cendres chauldes et tu verras du beau verny
+Prens deux <span class="ms">onces</span> d<span class="m">huille de <span class="pa">lin</span></span> & deux <span class="ms">onces</span> d<span class="m">huille<br/> petrolle</span> et deux <span class="ms">onces</span> de <span class="m">masticq</span> le plus blanc q{ue}<br/> pourras trouver et de l<span class="m">alung de glace</span> & le broye et prendz<br/> ung peu de <span class="m">copperoze blanche</span> et mectz toutes ses <span class="m">drogues</span><br/> ensemble en ung <span class="tl">pot de <span class="m">terre</span></span> q{ui} soit noeuf et le pose un<br/> peu sur les <span class="m">cendres</span> chauldes et tu verras du beau <span class="m">verny</span>
  
  
   
 
-## Aultre verny
+## Aultre <span class="m">verny</span>
 
  
-Prendz de l<span class="m">huille petrolle</span> & de l<span class="m">huille daspic</span> aultant<br/> dun q{ue} dau{ltr}e & le mectz ensemble aveq de la <span class="m">copperoze</span> &<br/> le fais fondre sur les cendres chauldes scellon la quenthite<br/> q{ue} tu en vouldras faire, pour coucher ce verny fais trois<br/> couches sur la besogne q{ue} tu vouldras vernir
+Prendz de l<span class="m">huille petrolle</span> & de l<span class="m">huille d<span class="pa">aspic</span></span> aultant<br/> dun q{ue} dau{ltr}e & le mectz ensemble aveq de la <span class="m">copperoze</span> &<br/> le fais fondre sur les <span class="m">cendres</span> chauldes scellon la quenthite<br/> q{ue} tu en vouldras faire, pour coucher ce <span class="m">verny</span> fais trois<br/> couches sur la besogne q{ue} tu vouldras vernir
  
  
   
 
-## Aultre verny
+## Aultre <span class="m">verny</span>
 
  
-Prens une once d<span class="m">huille daspic</span> & du <span class="m">sang <span class="del">de [illegible]</span> <span class="add">da Rac</span></span> & fais 
+Prens une <span class="ms">once</span> d<span class="m">huille d<span class="pa">aspic</span></span> & du <span class="m">sang <span class="del">de ra<span class="del">i</span><span class="add">y</span>e</span> <span class="add">da Rac</span></span> & fais 
  
 *[continued]*
  

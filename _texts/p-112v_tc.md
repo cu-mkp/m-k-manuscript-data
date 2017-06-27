@@ -8,10 +8,10 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [eau de vye, vinaigre, urine, cire, terre grasse, ardille, fil de fer, acier, fer, plastre, terre]
-tools: [baston rond duquel les pastissiers se servent, aiguille, eguille]
-measurements: []
-bodyparts: []
+materials: [eau de vye, vinaigre, urine, cire, terre grasse, ardille, terre, fil de fer, acier, fer, plastre de terre]
+tools: [verre, mains, baston rond duquel les pastissiers se servent, aiguille, eguille, poincte de fil de fer, poincte, molletes, poinctes de fil de fer, poinctes, aiguille dacier, poinctes de fer, poincte de fer, pointes, planche, table]
+measurements: [poulce]
+bodyparts: [mains, poulce]
 places: []
 plants: []
 professions: [pastissiers]
@@ -30,7 +30,7 @@ Quand ton animal sera mort retire le & le nettoye bien<br/> curieusem{ent} de se
 > *at left top margin*
 > 
 > 
->  dans un verre & y<br/> trempe & tiens continuellem{ent}<br/> la teste de lanimal<br/> Ou tout entier sil nest<br/> guere grand
+>  dans un <span class="tl">verre</span> & y<br/> trempe & tiens continuellem{ent}<br/> la teste de lanimal<br/> Ou tout entier sil nest<br/> guere grand
  
 > *at left top margin*
 > 
@@ -43,22 +43,22 @@ Quand ton animal sera mort retire le & le nettoye bien<br/> curieusem{ent} de se
 ## <span class="del">Mouler</span>Fayre le plant et disposition de lanimal
 
  
-Ayant faict provision de <span class="m">terre grasse</span> appellee <span class="m">ardille</span><br/> qui soict grise pourceque communem{ent} cest la meilleure ou<br/> aultre qui ay bonne liaison & qui soict fort corroye & battue<br/> de telle sorte quelle soict maniable sans sattaquer aulx<br/> mains ni a louvrage faict une lazagne ou comme un torteau<br/> de ceste terre esgallem{ent} aplaty avecq un <span class="tl">baston rond duquel<br/> les <span class="pro">pastissiers</span> se servent</span> qui soict un peu plus espes que dun poulce<br/> Et sur ceste tourtelle plante ton animal <span class="del">aya</span> imitant en<br/> cela son naturel & <span class="del">sa</span> la facon de laquelle co{mmun}ement il se<br/> contourne Et premierement avecq une bonne <span class="tl">aiguille</span> pique le<br/> au milieu du dessoubs de la gorge & jusque au <span class="del">illisible</span> los superieur<br/> de la teste retire l<span class="tl">eguille</span> & en sa place & son trou mays<br/> une poincte de <span class="m">fil de fer</span> de telle longueur quelle suffist a tenir<br/> la teste de lanimal aussy haulte quil apartient & si la peau<br/> rentre au dedans & quand tu y mect la poincte retire la avecq<br/> le <span class="del">poincte</span> bout de tes petites molletes & la disposer co{mm}e elle estoit Pousse<br/> laultre bout de la poincte dans la tourtelle d<span class="m">ardille</span> Ainsy<br/> la teste se tiendra haulte qui aura meilleur grace & estant<br/> asseuree Dispose apres le reste du corps & des pates &<br/> lentortillem{ent} co{mm}e tu verras estre plus seant Et affin quil soit<br/> asseure & ne varie poinct quand tu y gecteras le sable <span class="del">Mectra</span><br/> Arreste les pates <span class="del">& le corp</span> avecq de petites poinctes de <span class="m">fil de fer</span><br/> ayant premierem{ent} faict le premier trou avecq ton <span class="tl">aiguille</span> bien<br/> poinctue fais le semblable en telle parties du corps a quil te<br/> semblera necessaire <span class="del">plantant</span> faisant que les poinctes passant<br/> par lanimal se plantent dans la tourtelle de terre non pas<br/> si avant quelles nexcedent un peu le corps de lanimal par un
+Ayant faict provision de <span class="m">terre grasse</span> appellee <span class="m">ardille</span><br/> qui soict grise pourceque communem{ent} cest la meilleure ou<br/> aultre qui ay bonne liaison & qui soict fort corroye & battue<br/> de telle sorte quelle soict maniable sans sattaquer aulx<br/> <span class="tl"><span class="bp">mains</span></span> ni a louvrage faict une lazagne ou comme un torteau<br/> de ceste <span class="m">terre</span> esgallem{ent} aplaty avecq un <span class="tl">baston rond duquel<br/> les <span class="pro">pastissiers</span> se servent</span> qui soict un peu plus espes que dun <span class="ms"><span class="bp">poulce</span></span><br/> Et sur ceste tourtelle plante ton animal <span class="del">aya</span> imitant en<br/> cela son naturel & <span class="del">sa</span> la facon de laquelle co{mmun}ement il se<br/> contourne Et premierement avecq une bonne <span class="tl">aiguille</span> pique le<br/> au milieu du dessoubs de la gorge & jusque au <span class="del"></span> los superieur<br/> de la teste retire l<span class="tl">eguille</span> & en sa place & son trou mays<br/> une <span class="tl">poincte de <span class="m">fil de fer</span></span> de telle longueur quelle suffist a tenir<br/> la teste de lanimal aussy haulte quil apartient & si la peau<br/> rentre au dedans & quand tu y mect la <span class="tl">poincte</span> retire la avecq<br/> le <span class="del"><span class="tl">poincte</span></span> bout de tes petites <span class="tl">molletes</span> & la disposer co{mm}e elle estoit Pousse<br/> laultre bout de la <span class="tl">poincte</span> dans la tourtelle d<span class="m">ardille</span> Ainsy<br/> la teste se tiendra haulte qui aura meilleur grace & estant<br/> asseuree Dispose apres le reste du corps & des pates &<br/> lentortillem{ent} co{mm}e tu verras estre plus seant Et affin quil soit<br/> asseure & ne varie poinct quand tu y gecteras le sable <span class="del">Mectra</span><br/> Arreste les pates <span class="del">& le corp</span> avecq de petites <span class="tl">poinctes de <span class="m">fil de fer</span></span><br/> ayant premierem{ent} faict le premier trou avecq ton <span class="tl">aiguille</span> bien<br/> poinctue fais le semblable en telle parties du corps a quil te<br/> semblera necessaire <span class="del">plantant</span> faisant que les <span class="tl">poinctes</span> passant<br/> par lanimal se plantent dans la tourtelle de terre non pas<br/> si avant quelles nexcedent un peu le corps de lanimal par un
  
 > *at left top margin*
 > 
 > 
->  Aye une <span class="tl">aiguille</span><br/> d<span class="m">acier</span> fine & qui soit<br/> la plus pointue<br/> quil te sera possible<br/> affin que dicelle<br/> faisant le premier<br/> trou pour poser<br/> les poinctes de <span class="m">fer</span><br/> elle passe sans<br/> rien esforcer & par<br/> la rudesse nenfonce<br/> poincte ou retire la<br/> peau Apres mects<br/> y la poincte de fer<br/> grossette au lieulx<br/> espais & deliee aulx<br/> lieulx delies Mays<br/> advise pour secret<br/> de ne planter pas<br/> du premier coup ta<br/> poincte passee dans<br/> lanimal sur la <span class="m">plastre</span><br/> de terre <span class="del">pour</span> mays<br/> layant plantee retire<br/> la de la <span class="m">terre</span> & non<br/> de lanimal & <span class="del">fais</span><br/> <span class="del">ains</span> apres fiche la<br/> Cela se faict pourceque<br/> en fichant la premiere<br/> foys la poincte elle<br/> enfonce la peau du<br/> <span class="al">serpent</span> Et en la retirant elle<br/> remect la peau en son premier<br/> estat
+>  Aye une <span class="tl">aiguille<br/> d<span class="m">acier</span></span> fine & qui soit<br/> la plus pointue<br/> quil te sera possible<br/> affin que dicelle<br/> faisant le premier<br/> trou pour poser<br/> les <span class="tl">poinctes de <span class="m">fer</span></span><br/> elle passe sans<br/> rien esforcer & par<br/> la rudesse nenfonce<br/> poincte ou retire la<br/> peau Apres mects<br/> y la <span class="tl">poincte de <span class="m">fer</span></span><br/> grossette au lieulx<br/> espais & deliee aulx<br/> lieulx delies Mays<br/> advise pour secret<br/> de ne planter pas<br/> du premier coup ta<br/> poincte passee dans<br/> lanimal sur la <span class="m">plastre<br/> de terre</span> <span class="del">pour</span> mays<br/> layant plantee retire<br/> la de la <span class="m">terre</span> & non<br/> de lanimal & <span class="del">fais</span><br/> <span class="del">ains</span> apres fiche la<br/> Cela se faict pourceque<br/> en fichant la premiere<br/> foys la <span class="tl">poincte</span> elle<br/> enfonce la peau du<br/> <span class="al">serpent</span> Et en la retirant elle<br/> remect la peau en son premier<br/> estat
  
 > *at left bottom margin*
 > 
 > 
->  Quand tu remects les pointes<br/> qui ont servi nettoye les bien de la rouille <br/> affin quelles ne retirent la peau
+>  Quand tu remects les <span class="tl">pointes</span><br/> qui ont servi nettoye les bien de la rouille <br/> affin quelles ne retirent la peau
  
 > *at bottom margin*
 > 
 > 
->  La principalle disposition du plant est de <span class="del">di</span> bien<br/> poser la teste levee & regardant de coste Et pour<br/> cet effect perce sur quelque planche ou table solide<br/> la teste & <span class="del">[illisible]</span> faisant passer la poincte par dessoubs<br/> de la gorge <span class="del">s'arrestant</span> entrant dans le test superieur 
+>  La principalle disposition du plant est de <span class="del">di</span> bien<br/> poser la teste levee & regardant de coste Et pour<br/> cet effect perce sur quelque <span class="tl">planche</span> ou <span class="tl">table</span> solide<br/> la teste & <span class="del"></span> faisant passer la <span class="tl">poincte</span> par dessoubs<br/> de la gorge <span class="del">s'arrestant</span> entrant dans le test superieur 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5c3dzVlNzcUd6MnM" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  <br/> 

@@ -8,14 +8,14 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Copper, latten, crucible, ceruse, flour, oil, lead, tin, quicksilver]
-tools: []
+materials: [Copper, latten, well ground ceruse, flour, oil, lead, old letters of printers, types for the setting of letters, tin, fixed quicksilver]
+tools: [crucible]
 measurements: []
 bodyparts: []
 places: []
 plants: []
-professions: []
-environments: []
+professions: [printers]
+environments: [in the sun]
 animals: []
 ---
 
@@ -23,11 +23,11 @@ animals: []
  
 *[continued]*
   
-<span class="m">Copper</span> <span class="del">is bett</span> and <span class="m">latten</span> are proper to cast & at the right heat when they cast, while stirring them in the <span class="m">crucible</span>, a very white flame & that the bath is very liquid.
+<span class="m">Copper</span> <span class="del">is bett</span> and <span class="m">latten</span> are proper to cast & at the right heat when they cast, while stirring them in the <span class="tl">crucible</span>, a very white flame & that the bath is very liquid.
  
-Some cast in well ground <span class="m">ceruse</span>, <span class="del">pour le</span>; others in <span class="m">flour</span> moistened several times with <span class="m">oil</span> <span class="del">& g</span> & dried in the sun.
+Some cast in <span class="m">well ground ceruse</span>, <span class="del">pour le</span>; others in <span class="m">flour</span> moistened several times with <span class="m">oil</span> <span class="del">& g</span> & dried <span class="env">in the sun</span>.
  
-Others, for casting in <span class="m">lead</span>, old letters of printers or types for the setting of letters.
+Others, for casting in <span class="m">lead</span>, <span class="m">old letters of <span class="pro">printers</span></span> or <span class="m">types for the setting of letters</span>.
  
-Others put into the <span class="m">tin</span> or <span class="m">lead</span> a substance of fixed <span class="m">quicksilver</span> which makes it run.
+Others put into the <span class="m">tin</span> or <span class="m">lead</span> a substance of <span class="m">fixed quicksilver</span> which makes it run.
  

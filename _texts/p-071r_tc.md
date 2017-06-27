@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Ambre, cire, graise, Bois, orme, racine dherable, bois, herable, Vin, sucre, vin, estain, papier, eau panee, cloux de girofle, Eau de vye, eau de vye]
+materials: [Ambre, cire, graise, Bois madre, orme, racine dherable, bois, herable, Vin, sucre, vin, estain, papier, eau panee, cloux de girofle, Eau de vye, eau de vye]
 tools: []
 measurements: []
 bodyparts: []
 places: [anglois, Irois]
-plants: []
+plants: [orme, herable]
 professions: []
 environments: []
 animals: [chevreau, bouc, Chevaulx, cheval]
@@ -30,10 +30,10 @@ Il se ramollist co{mm}e paste estant bouilly en <span class="m">cire</span> fond
  
   
 
-## <span class="m">Bois</span> madre
+## <span class="m">Bois madre</span>
 
  
-L<span class="m">orme</span> en sa racine noueuse a de belles madreures diversifiees de<br/> gris et de noir Et la <span class="m">racine dherable</span> Mays il fault bien choisir<br/> le fil du <span class="m">bois</span> On donne a l<span class="m">herable</span> certaine couleur jaulne puys<br/> on le vernist
+L<span class="m"><span class="pa">orme</span></span> en sa racine noueuse a de belles madreures diversifiees de<br/> gris et de noir Et la <span class="m">racine d<span class="pa">herable</span></span> Mays il fault bien choisir<br/> le fil du <span class="m">bois</span> On donne a l<span class="m"><span class="pa">herable</span></span> certaine couleur jaulne puys<br/> on le vernist
  
  
   

@@ -41,7 +41,7 @@ Il en fault gecter deulx pieces de <span class="m">cuivre letton</span> ou<br/> 
  
  Cest pourquoy la <span class="tl">presse</span> est meilleure car elle serre uniment<br/> & plus que les <span class="tl"><span class="bp">mains</span></span> Et faict que le sable grossier qui est<br/> humide co{mmun}ique de son humidite au <span class="m">sable doulx & subtil</span> qui<br/> est saulpouldre & ponce sec sur la medaille
  
- Quand tu moules laisses tousjours v{ost}re medaille dans l<span class="del">ung</span><br/> <span class="add">des</span> chassis <span class="del">Est</span> <span class="add">sans la remuer</span> pourceque si ton cave nest pas moule bien net<br/> Tu luy peulx remectre justem{ent} par le moyen des <span class="tl">chevilles</span> qui le<br/> garderont de varier Mays ponce premierem{ent} ta medaille de <span class="m">charbon<br/> de saule</span> fort subtil & <span class="del">se</span> et apres la nettoye Car cela la desgraisse<br/> & faict quapres elle se despouille mieulx
+ Quand tu moules laisses tousjours v{ost}re medaille dans <span class="del">lung</span><br/> <span class="add">des</span> chassis <span class="del">Est</span> <span class="add">sans la remuer</span> pourceque si ton cave nest pas moule bien net<br/> Tu luy peulx remectre justem{ent} par le moyen des <span class="tl">chevilles</span> qui le<br/> garderont de varier Mays ponce premierem{ent} ta medaille de <span class="m">charbon<br/> de saule</span> fort subtil & <span class="del">se</span> et apres la nettoye Car cela la desgraisse<br/> & faict quapres elle se despouille mieulx
  
  Ne frappe pas en moulant car cela estonne le chassis & le sable
  

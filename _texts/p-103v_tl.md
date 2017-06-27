@@ -25,7 +25,7 @@ animals: []
 ## Enema
 
  
- In order for the pipe to not hurt children at all, or those with swollen or protruding hemorrhoidal veins, one covers the pipe with a parcel of <span class="m">chicken entrail</span> and fold it over the end, and in this way, one gives the enema.
+ In order for the pipe to not hurt children at all, or those with swollen or protruding hemorrhoidal veins, one covers the pipe with a parcel of <span class="m">chicken entrail</span> & fold it over the end, & in this way, one gives the enema.
  
  
   
@@ -33,7 +33,7 @@ animals: []
 ## Casting
 
  
- <span class="m">Tin</span> recoils if thick, therefore it is better to cast it thin and from one piece, to make two and then solder them together, if necessary. One makes use of a strong piece of <span class="m">taffeta</span> to sieve the fine sand with which one first covers the medal, which is of the thickness of a teston.
+ <span class="m">Tin</span> recoils if thick, therefore it is better to cast it thin & from one piece, to make two and then solder them together, if necessary. One makes use of a strong piece of <span class="m">taffeta</span> to sieve the fine sand with which one first covers the medal, which is of the thickness of a teston.
  
  
   
@@ -41,7 +41,7 @@ animals: []
 ## To make colors fluid
 
  
- Mix some <span class="m">vinegar</span> with a bit of <span class="m">bile</span>, put it into a <span class="m">glass</span> bottle, and if you want to preserve it for a long time, add some <span class="m">salt</span> and mix some of this with your colors which will make them flow.
+ Mix some <span class="m">vinegar</span> with a bit of <span class="m">bile</span>, & put it into a <span class="m">glass</span> bottle, & if you want to preserve it for a long time, add some <span class="m">salt</span> & mix some of this with your colors & that will make them flow.
  
  
   
@@ -49,7 +49,7 @@ animals: []
 ## <span class="m">Earwax</span>
 
  
- If you take enough with the tip of an ear picker and you sieve it with foam of <span class="m">urine</span>, which often forms in <span class="sup">the <span class="m">urine</span></span> of those who have a headache, all the foam will dissipate.
+ If you take enough with the tip of an ear picker & you sieve it with foam of <span class="m">urine</span>, which often forms in <span class="sup">the <span class="m">urine</span></span> of those who have a headache, all the foam will dissipate.
  
  
   

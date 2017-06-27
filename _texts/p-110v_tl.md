@@ -9,7 +9,7 @@ mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [olive oil, water, oil, ,, Wheat oil, iron, butter, wheat oil, lead, tin, looking-glass tin, resin]
-tools: []
+tools: [Molds]
 measurements: []
 bodyparts: []
 places: []
@@ -21,12 +21,12 @@ animals: [a snake, Mussels]
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-110v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f226.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>110v</a> - - - - - </div>  
   
-When <span class="sup"><span class="al">a snake</span></span> has eaten something; when twisting it, it will vomit <span class="sup">the food</span>. And if, after having eaten something, <span class="sup">the snake</span> is pressed underfoot, this troubles <span class="sup">the snake</span> a lot and makes it sick. If <span class="sup">the snake</span> is wounded, it will not eat voluntarily.
+When <span class="sup"><span class="al">a snake</span></span> has eaten something; when tormenting it, it will vomit <span class="sup">the food</span>. And if, after having eaten something, <span class="sup">the snake</span> is pressed underfoot, this troubles <span class="sup">the snake</span> a lot and makes it sick. If <span class="sup">the snake</span> is wounded, it will not eat voluntarily.
 
  
   
 
-## <span class="al">Mussels</span>
+## <span class="tl">Molds</span>
 
  
 There is nothing better for opening them up than to oil them with <span class="m">olive oil</span>, and nothing else. And afterwards, when you want to separate them, soak them in cold <span class="m">water</span>; that is the secret. And you will see that the <span class="m">oil</span><span class="m">,</span> although it seems to be imbued, will separate itself <span class="sup">from the water</span> as <span class="sup">does</span> grease. <span class="al">Mussels</span> become stronger in cold <span class="m">water</span>, and warm <span class="m">water</span> would dissolve them with difficulty, although having been reheated, <span class="sup">the mussels</span> are <span class="sup">then</span> more handleable and easy to dissolve in the <span class="m">water</span>.

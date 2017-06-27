@@ -8,12 +8,12 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [spike lavender oil, sandarac, glue, vermillion, gum water, water, wood, vinegar, salt, rainwater, verdigris, horse dung]
-tools: []
-measurements: []
+materials: [drugs, earthen, cloth, varnish, spike lavender oil, coals, sang dea Raiec, glass, glue very clear, red varnish, vermillion, gum water, water, wood, vinegar, salt, rainwater, verdigris, horse dung]
+tools: [earthen pot, cloth, stick, glass vial, pinceau]
+measurements: [ounce, half ounce]
 bodyparts: []
 places: []
-plants: []
+plants: [spike lavender]
 professions: []
 environments: []
 animals: []
@@ -23,23 +23,23 @@ animals: []
  
 *[continued]*
   
-melt the drugs in a new earthenware pot, and when they are melted, you shall pass them through a clean cloth and you will see a beautiful varnish.
+these <span class="m">drugs</span> melt in a new <span class="tl"><span class="m">earthen</span> pot</span>, & when it is melted, you will pass it in a clean <span class="tl"><span class="m">cloth</span></span> & you will see a beautiful <span class="m">varnish</span>.
  
  
   
 
-## Another varnish
+## Another <span class="m">varnish</span>
 
  
-Take one ounce of <span class="m">spike lavender oil</span> and heat it over coals; take a half ounce of <span class="m">sandarac</span><span class="del"></span> and grind it coarsely<span class="del"></span>, and then put it in the <span class="m">spike lavender oil</span> and mix it with a stick until it has melted, and then put it in a glass vial, and when you want to use it needs to be heated little by little over the coals, and before applying, lay a coat of very clear <span class="m">glue</span>, and then apply it with a paintbrush.
+Take one <span class="ms">ounce</span> of <span class="m"><span class="pa">spike lavender</span> oil</span> & heat it over <span class="m">coals</span>, & then take a <span class="ms">half ounce</span> of <span class="m">sang d<span class="del">e</span><span class="add">a</span> Ra<span class="del">ie</span><span class="add">c</span></span> & grind it coarsely, and then put it into the <span class="m"><span class="pa">spike lavender</span> oil</span>, & then mix it with a <span class="tl">stick</span> until you see that it is melted, and then put it in a <span class="tl"><span class="m">glass</span> vial</span>. And when you want to use it, heat it little by little over the <span class="m">coals</span>. And before laying it, lay a coat of <span class="m">glue very clear</span>, & then lay it with a <span class="tl">pinceau</span>.
  
  
   
 
-## To make red varnish
+## For making <span class="m">red varnish</span>
 
  
-Take <span class="m">vermillion</span> and dilute it with <span class="m">gum water</span> as well as with other <span class="m">water</span> and make it like said varnish, and mix this other <span class="m">water</span> the same way as other varnish and then apply it as above <span class="del">to make green wood</span>.
+Take <span class="m">vermillion</span> & soak it with <span class="m">gum water</span> as well as with other <span class="m">water</span>, and make it like the other <span class="m">varnish</span>, & mix this other <span class="m">water</span> like the other <span class="m">varnish</span>, and then lay it down as before <span class="del">to make three green</span>.
  
  
   

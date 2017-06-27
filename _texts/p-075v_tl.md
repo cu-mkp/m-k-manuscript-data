@@ -25,7 +25,7 @@ animals: []
 ## Making grey <span class="m">wood</span>
 
  
-It is necessary to take three demi—sestiers of <span class="m">iron</span> filings per 18 <span class="del"></span> deniers of <span class="m">rock alum</span>, and for as much <span class="sup">18 deniers</span> <span class="m">green copperas</span> for six deniers of <span class="m">verdigris</span>, <span class="del"></span> pitch and a quart of <span class="del"></span><span class="m">currier water</span>; and if you can't find any, use <span class="del"></span><span class="m">rainwater</span> [blank] of a slight degree. 
+It is necessary to take three demi—sestiers of <span class="m">iron</span> filings per 18 <span class="del"></span> deniers of <span class="m">rock alum</span>, and for as much <span class="sup">18 deniers</span> <span class="m">green copperas</span> for six deniers of <span class="m">verdigris</span>, <span class="del"></span> pitch and a quart of <span class="del"></span><span class="m">currier water</span>; and if you can't find any, use <span class="del"></span><span class="m">rainwater</span>  of a slight degree. 
  
  
   

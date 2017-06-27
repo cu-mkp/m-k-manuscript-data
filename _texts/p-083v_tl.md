@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [axunge de verre, ashes, vitriol, ferrous sulphate, water, copper, latten, metal, hollow, sand, Vinegar, wine, charcoal made from willow]
+materials: [tallow of glass, vitriol, copperas, copper, latten, metal, Vinegar, wine, sand]
 tools: []
 measurements: []
 bodyparts: []
@@ -22,28 +22,28 @@ animals: []
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-083v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f172.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>083v</a> - - - - - </div>  
   
 
-##  Excellent type of molding with water
+## A way for molding excellently with water
 
  
- Dissolve some l’<span class="m">axunge de verre</span> in a moist place and then pour this water over what you wish to mold, having turned it in a circle. Then let it coagulate over hot <span class="m">ashes</span>. Use the same process with <span class="m">vitriol</span> & <span class="m">ferrous sulphate</span> which are very calcinated & reduce in <span class="m">water</span>.
+ Dissolve in damp place some <span class="m">tallow of glass</span>, and then place this water on what you want to mold, having encircled it, and place it to coagulate on the hot ashes. Do the same with <span class="m">vitriol</span> & <span class="m">copperas</span>, which, once well calcinated, reduce in water.
  
  
   
 
-##  Molding one part in relief and one hollow side
+##  Molding in relief on one part and hollow on the other.
 
  
- It is necessary to cast two parts of very clean <span class="m">copper</span>, <span class="m">latten</span> or a similar <span class="m">metal</span> and then when you mold the <span class="m">hollow</span> in <span class="m">sand</span>, leave the <span class="m">metal</span> figure, that you have molded in the box mold, without budging it from its place. Then cast & if there is not enough thickness press a bit & force the figure down into the box mold.
+ It is necessary to cast two pieces of <span class="m">copper</span>, <span class="m">latten</span> or similar <span class="m">metal</span>, very neatly, and then when you have molded the cavity in the sand, leave the figure of metal that you have molded in the frame, without moving it from its place. And cast, & if there is not enough thickness press a little & push the figure down in the frame.
  
- It is wise to always mold the faces not close to the cast but the head in bottom because the strength of the material concentrates at the entry of the medal & where the force of the impurity is. Thus if you molded the face close to the cast in this manner, you could find impurities there & it is better that impurities remain on the clothes which you can repair more easily 
+ It is good to mold always the faces not on the side of the cast, but with the head on the bottom, because the force of the substance is at the entry of the medal, & there, where the force is, the filth & grime accumulate. And, in this way, if you were mold the face towards the cast, some grime could be found there, & it is better that is found on the clothing, which is easier to repair.
  
- <span class="m">Vinegar</span> is better for moistening than <span class="m">wine</span>. It is necessary that the box mold be quite equal, otherwise as you press one side, it lifts up the opposite <span class="sup">one</span>.
+ <span class="m">Vinegar</span> is better for moistening than <span class="m">wine</span>. It is necessary that the frame be well smooth and even, otherwise <span class="del">and that the cast be</span>, as you press on one side, the other one lifts.
  
- This is why the press is better because it tightens more extremely than by hand, and makes the <span class="m">sand</span> become fat which loses its moisture. With soft & fine <span class="m">sand</span> which is powdered, & dry, burnish the medal.
+ This is why the press is better, for it tightens evenly, & more than your hands, and makes the lumpy <span class="m">sand</span>, which is damp, communicate its humidity to the soft and fine sand, which is sprinkled & poncé dry on the medal.
  
- When you mold, always leaves your medal in one of the box molds without stirring it because if your pipe is not clean, it will not mold well. You can repair it thanks to the bolts which prevent it from moving. But first, burnish your medal with <span class="m">charcoal made from willow</span>. & Then clean your medal because that degreases it & makes it easier to remove it from the mold afterwards.
+ When you mold, always leave your medal <span class="add">the</span> frames, <span class="del">is</span> <span class="add">without stirring it</span> because, if your cavity is not molded very neatly, you can put it back in the right place by means of pegs, which will prevent it from shifting. But, at first, ponce yout medal with very fine willow charcoal, & <span class="del">se</span> next clean it, for this degreases it, & makes it easier to release.
  
-Do not knock as you are molding because that damage the box mold & the sand.
+Do not knock it when molding because this will shake loose the frame & the sand.
  
  
 > *at left middle margin*

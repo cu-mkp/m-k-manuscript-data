@@ -8,22 +8,22 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Crocum ferri, limaille daiguilles, crocum ferri, alum, plume, chaulx vive, argent, arsenic, tartre, aes ustum, limaille de letton cuivre menue, antimoyne, sublime, plastre, crocum, alum de plume, sel commun, salpestre, aes ustum limaille de cuivre, axunge, cire, mastic, vinaigre, esmail]
-tools: []
+materials: [chair, oeuf, farine, Crocum ferri, sang, limaille daiguilles, crocum ferri, alum de plume, chaulx vive, argent, arsenic & le tartre pulverises, aes ustum, limaille de letton cuivre menue due lantimoyne du sublime Subtilem{ent} pulverises, plastre, crocum, sel commun fondu, salpestre, arsenic, tartre, limaille de cuivre, antimoyne, axunge, cire, mastic, vinaigre, esmail]
+tools: [moules]
 measurements: []
 bodyparts: []
 places: []
 plants: []
 professions: [orfevres]
 environments: []
-animals: []
+animals: [ver de farine]
 ---
 
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-120v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>120v</a> - - - - - </div>  
  
 *[continued]*
   
-mange de luy mesme Et pour luy convier mieulx tu peulx bien<br/> mectre parmy la chair & loeuf quelque ver de farine vif<br/> car il en est fort friand
+mange de luy mesme Et pour luy convier mieulx tu peulx bien<br/> mectre parmy la <span class="m">chair</span> & l<span class="m">oeuf</span> quelque <span class="al">ver de <span class="m">farine</span></span> vif<br/> car il en est fort friand
  
  
   
@@ -31,12 +31,12 @@ mange de luy mesme Et pour luy convier mieulx tu peulx bien<br/> mectre parmy la
 ## <span class="m">Crocum ferri</span>
 
  
-Il est excellent sinapise sur les playes pour arrester le<br/> sang Le meilleur est de <span class="m">limaille daiguilles</span>
+Il est excellent <span class="md">sinapise</span> sur les playes pour arrester le<br/> <span class="m">sang</span> Le meilleur est de <span class="m">limaille daiguilles</span>
  
 > *at left top margin*
 > 
 > 
->   Le <span class="m">crocum ferri</span><br/> endurcist les<br/> moules estants<br/> recuits & l<span class="m">alum</span><br/> de <span class="m">plume</span> tant plus<br/> il en ya les rend plus mols & doulx
+>   Le <span class="m">crocum ferri</span><br/> endurcist les<br/> <span class="tl">moules</span> estants<br/> recuits & l<span class="m">alum<br/> de plume</span> tant plus<br/> il en ya les rend plus mols & doulx
  
  
   
@@ -52,7 +52,7 @@ Il fault escorcher lanimal & le faire bouillir Ou bien<br/> lescorcher & le mect
 ## Fayre courre l<span class="m">argent</span>
 
  
-<span class="del">Si cest pour grand ouvrage L<span class="m">arsenic</span> & le <span class="m">tartre</span> pulverises<br/> & gectes sur l<span class="m">argent</span> fondu le font courre Si <span class="del">cest pou</span> et<br/> suffist Mays pour ouvrage subtil Il y fault de l<span class="m">aes<br/> ustum</span> de la <span class="m">limaille <span class="del">de letton</span> <span class="add">cuivre menue</span></span> de l<span class="m">antimoyne</span> du <span class="m">sublime</span> Subtilem{ent}<br/> pulverises De cela se faict une masse qui naigrist point<br/> Si le <span class="del">s</span> <span class="m">plastre</span> est bon il ny fault point de <span class="m">crocum</span> pour<br/> l<span class="m">argent</span> Mays on mect plus d<span class="m">alum de plume</span><br/> Il y fault aussy du <span class="m">sel commun</span> fondu & du <span class="m">salpestre</span> avecq les<br/> drogues susdictes <span class="m">arsenic</span> <span class="m">tartre</span> <span class="m">aes ustum limaille de cuivre</span><br/> <span class="m">antimoyne</span> &.</span>
+<span class="del">Si cest pour grand ouvrage L<span class="m">arsenic & le tartre pulverises</span><br/> & gectes sur l<span class="m">argent</span> fondu le font courre Si <span class="del">cest pou</span> et<br/> suffist Mays pour ouvrage subtil Il y fault de l<span class="m">aes<br/> ustum</span> de la <span class="m">limaille <span class="del">de letton</span> <span class="add">cuivre menue</span> d<span class="del">u</span><span class="add">e</span> lantimoyne du sublime Subtilem{ent}<br/> pulverises</span> <span class="del">Cela</span> <span class="add">De</span> cela se faict une masse qui naigrist point<br/> Si le <span class="del">s</span> <span class="m">plastre</span> est bon il ny fault point de <span class="m">crocum</span> pour<br/> l<span class="m">argent</span> Mays on mect plus d<span class="m">alum de plume</span><br/> <span class="add">@Il y fault aussy du <span class="m">sel commun fondu</span> & du <span class="m">salpestre</span> avecq les<br/> drogues susdictes <span class="m">arsenic</span> <span class="m">tartre</span> <span class="m">aes ustum</span> <span class="m">limaille de cuivre</span><br/> <span class="m">antimoyne</span> &.</span></span>
  
 
 > *at left middle margin*
@@ -67,20 +67,19 @@ Il fault escorcher lanimal & le faire bouillir Ou bien<br/> lescorcher & le mect
 >   Un peu d<span class="m">axunge</span><br/> Et de l<span class="m">arsenic</span> 
  
  
-  
-> *Figure*
 > *at left middle margin*
-> <a href="" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
- 
+> 
+> 
+>    \+ 
  Voy le second foeillet suivant
  
 > *at left middle margin*
 > 
 > 
->  Les fleurs se gardent aussy en leur mesme beaulte dans le vinaigre distille dans un vase<br/> bien selle qui ne prene aulcun vent qui soit bien selle de <span class="m">cire</span> & <span class="m">mastic</span> Les œillets & roses<br/> le residue du <span class="m">vinaigre</span> commu{n} les faict pourrir <br/> Si le sable faict poulssiere & tient<br/> sur les fleurs & quaisem{ent} avecq un<br/> pinceau il ne soste il nest pas bon<br/> Le plus maigre est le meilleur
+>  Les fleurs se gardent aussy en leur mesme beaulte dans le vinaigre distille <span class="del">v</span><span class="add">d</span>ans un vase<br/> bien selle qui ne prene aulcun vent qui soit bien selle de <span class="m">cire</span> & <span class="m">mastic</span> Les œillets & roses<br/> le residue du <span class="m">vinaigre</span> commu{n} les faict pourrir <br/> Si le sable faict poulssiere & tient<br/> sur les fleurs & quaisem{ent} avecq un<br/> pinceau il ne soste il nest pas bon<br/> Le plus maigre est le meilleur
  
 
-## Garder fleurs seiches en mesme<br/> estat toute lannee
+** Garder fleurs seiches en mesme<br/> estat toute lannee **
 
  
 > *at right middle margin*

@@ -8,12 +8,12 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [earthenware, ashes, varnish, mastic, sandarac, gum arabic, aspic oil, glue, metals, toast, butter, antimony, pig's bladder, Tin, common tin, lead, tin, latten, metal scrapings, iron]
+materials: [earthenware, ashes, varnish, mastic, sang daRage darac, gum arabic, spike lavender oil, glue quite clear, metals, toast, butter, antimony, pig's bladder, Tin, common tin, fine lead, tin, fine tin, latten, metal scrapings, iron, lead]
 tools: []
-measurements: []
+measurements: [lb, quintal]
 bodyparts: []
 places: []
-plants: []
+plants: [spike lavender]
 professions: [pewterers, printers]
 environments: []
 animals: [pig]
@@ -28,10 +28,10 @@ and put in an <span class="m">earthenware</span>pot, and <span class="sup">make 
  
   
 
-## Making <span class="m">varnish</span>
+## For making <span class="m">varnish</span>
 
  
-Take some <span class="m">mastic</span>, <span class="del"></span> @<span class="m">sandarac</span>, <span class="m">gum arabic</span>, and <span class="m">aspic oil</span>, as much of one as the other, and melt them all together. Before coating it, lay a coat of quite clear <span class="m">glue</span> and let it dry.
+Take some <span class="m">mastic</span>, <span class="m">sang <span class="del">daRage</span> <span class="add">darac</span></span>, <span class="m">gum arabic</span> & <span class="m"><span class="pa">spike lavender</span> oil</span>, as much of one as the other, & make them melt all together, & before coating it, lay a coat of <span class="m">glue quite clear</span>, & let it dry.
 
  
   
@@ -47,12 +47,12 @@ In the morning, take a piece of thin <span class="m">toast</span> with <span cla
 ## <span class="m">Tin</span> for casting
 
  
-They use <span class="m">common tin</span>, which is the one that <span class="pro">pewterers</span> use for plates, which is composed of 9 or <span class="del"></span>ten pounds of pure <span class="m">lead</span> on one quintall of <span class="m">tin</span>.
+They use <span class="m">common tin</span>, which is the one that <span class="pro">pewterers</span> use to make dishes, which is composed of 9 or <span class="del">ten</span> ten <span class="ms">lb</span> of <span class="m">fine lead</span> for one <span class="ms">quintal</span> of <span class="m">tin</span>.
  
 > *at left bottom margin*
 > 
 > 
-> Some find that there is nothing better than pure <span class="m">tin</span>.
+> Some find that there is nothing better than <span class="m">fine tin</span>.
 
  
   

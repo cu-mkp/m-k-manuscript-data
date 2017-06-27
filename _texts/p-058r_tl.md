@@ -8,12 +8,12 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [oil, lead white, ceruse, Florence lake, lake, alum, cotton, cambric, Crystallin, water, bitumen, Aspic oil, walnut oil, aspic oil, Verdigris, orpiment, urine]
-tools: []
+materials: [oil, lead white, ceruse, Florence lake, lake, purpurine, alum, cotton, fabric of Cambray, Cristallin, water, asphaltum, Spike lavender oil, walnut oil, spike lavender oil, Verdigris, orpiment, urine]
+tools: [cotton, fabric of Cambray]
 measurements: []
 bodyparts: [cheeks]
-places: [Florence, Flanders]
-plants: []
+places: [Florence, Flanders, Cambray]
+plants: [cotton, Spike lavender, walnut, spike lavender]
 professions: []
 environments: []
 animals: []
@@ -23,13 +23,13 @@ animals: []
  
 *[continued]*
   
-You must make at least three layers of flesh color in order to paint faces in <span class="m">oil</span>. And to begin, one places the black and shadow where it is appropriate. After, the highlighting with <span class="m">lead white</span> must not be placed on the black. Flesh colors and [missing word] containing <span class="m">ceruse</span> will yellow in five or six months, but <span class="m">lead white</span> does not change.
+One needs to make at least three layers of flesh color to accomplish faces in <span class="m">oil</span>. And at the beginning, one puts the black and umber where it is appropriate. Next, the heightening with <span class="m">lead white</span> must not be put on the black. Flesh colors and  with <span class="m">ceruse</span> going in will yellow in five or six <span class="tmp">months</span>, but <span class="m">lead white</span> does not change.
  
-<span class="m"><span class="pl">Florence</span> lake</span> is better than <span class="sup"><span class="m">lake</span></span> from <span class="pl">Flanders</span> because in <span class="pl">Florence</span> they make the best dyes. To make a beautiful flesh color, the reddest and brightest <span class="m">lake</span> is the best, because those that are purple and violet as a result of the addition of too much <span class="m">alum</span> look like the flesh of someone that is very cold. That is why women who want to color their cheeks crush <span class="m"><span class="pl">Florence</span> lake</span> very finely, then fill a little <span class="m">cotton</span> with it, which they then wrap in a little fine <span class="m">cambric</span>. And thus they rub the <span class="m">lake</span> on their <span class="bp">cheeks</span> and then, with another clean <span class="m">cotton</span>, they soften it.
+<span class="m"><span class="pl">Florence</span> lake</span> is better than the kind from <span class="pl">Flanders</span> for in <span class="pl">Florence</span> the best dyes are made. To make a beautiful flesh color, the reddest & liveliest <span class="m">lake</span> is the best, for the kind that contains <span class="m"><span class="m">purpurine</span></span> & violet, by admixture of too much <span class="m">alum</span>, makes flesh color like that of one who is very cold. That is why ladies, wanting to color their <span class="bp">cheeks</span>, crush <span class="m"><span class="pl">Florence</span> lake</span> very finely, then fill a little <span class="tl"><span class="m"><span class="pa">cotton</span></span></span> with it, which they next wrap in a little <span class="tl"><span class="m">fabric of <span class="pl">Cambray</span></span></span> which is clear. And thus they pounce the <span class="m">lake</span> on their <span class="bp">cheeks</span> & then, with another clean <span class="tl"><span class="m"><span class="pa">cotton</span></span></span>, they soften it.
  
-<span class="m">Crystallin</span> having been crushed in <span class="m">water</span> appears to have body, but in <span class="m">oil</span> it does not have any. It is crushed with <span class="m">lake</span> and with <span class="m">bitumen</span>, which would not dry for a very long time otherwise.
+<span class="m">Cristallin</span> having been crushed with <span class="m">water</span> appears to <span class="del">be</span> have body, but with <span class="m">oil</span> it does not have any. It is crushed with <span class="m">lake</span> & with <span class="m">asphaltum</span>, which would not dry for a <span class="tmp">very long time</span> without this.
  
-<span class="m">Aspic oil</span> is commonly put with <span class="m">lead white</span>, not entirely pure but mixed with a little <span class="m">walnut oil</span>. The said <span class="m">aspic oil</span> will not be good for <span class="m">lake</span> and colors that do not have body because it will make them crack, but with those that have body and are somewhat greasy, it is quite appropriate.
+<span class="m"><span class="pa">Spike lavender</span> oil</span> is commonly put with <span class="m">lead white</span>, <span class="del">d</span> not entirely pure but mixed with a little <span class="m"><span class="pa">walnut</span> oil</span>. The said <span class="m"><span class="pa">spike lavender</span> oil</span> would not be good for <span class="m">lake</span> & colors that do not have body <span class="add">for it would make them crack</span>, but with those that have body & are somewhat greasy, it is quite appropriate.
  
-<span class="m">Verdigris</span> and <span class="m">orpiment</span> must be first crushed with <span class="m">urine</span> rather than thinned with <span class="m">oil</span>. Thus they are beautiful and do not fade.
+<span class="m">Verdigris</span> and <span class="m">orpiment</span> must first be crushed with <span class="m">urine</span> rather than thinning them with <span class="m">oil</span>. Thus they are beautiful & do not die.
  

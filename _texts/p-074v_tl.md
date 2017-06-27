@@ -8,10 +8,10 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [vermillion, gum water, gum arabic, water, gum, wax, ceruse, pitch, wood, verdigris]
-tools: []
+materials: [cloth, oil, red varnish, vermillion, gum water quite clear, yellow varnish, gum arabic, water, well beaten saffron, gum, varnish, wax, ceruse, pitch, wood, verdigris]
+tools: [cloth that is woven tight enough, palm]
 measurements: []
-bodyparts: []
+bodyparts: [hands, palm]
 places: []
 plants: []
 professions: []
@@ -23,23 +23,23 @@ animals: []
  
 *[continued]*
   
-fire until it is cooked enough. And strain it through a cloth that is compact enough. And when you have strained it, leave it to cool a little. And if you see that it is so thick that you cannot strain it, you will add a little of that oil and will make it better. 
+fire until it is cooked enough. And pour it into a <span class="tl"><span class="m">cloth</span> that is woven tight enough</span>. And when you have poured it, let it to cool a little. And if you see that it is too thick so that you cannot pour it, you will put a little of the said <span class="m">oil</span> & you will make it better. 
  
  
   
 
-## To make red varnish
+## For making <span class="m">red varnish</span>
 
  
-Take <span class="m">vermillion</span>, and let it <span class="del"></span> soak in quite light <span class="m">gum water</span>, like the other, and make two or three ground layers as is said above. 
+Take <span class="m">vermillion</span> and make it soak in <span class="m">gum water quite clear</span>, thus as the other, make two or three ground layers as above. 
  
  
   
 
-## To make yellow varnish
+## For making <span class="m">yellow varnish</span>
 
  
-Take some <span class="m">gum arabic</span> and let it soak in <span class="m">water</span>, then take some well beaten saffran and soak said <span class="m">gum</span>. And make it quite light, then make your ground layer on that which you want to varnish, and leave it to dry, and when it will be dry give another ground layer of the same [varnish], and leave it to dry as before, until it will be dry enough. Then take varnish from an apothecary, crushed by strokes far enough from one another. Then wash your hands quite well and spread your varnish with their palms. 
+Take some <span class="m">gum arabic</span> & make it <span class="del">tr</span> soak with <span class="m">water</span>, then take some <span class="m">well beaten saffron</span>, & soak the said <span class="m">gum</span>, and make it quite clear, then make your ground layer on that which you want to varnish, & let it dry, & when it is dry give another ground layer of the same, & let it dry as before until it is dry enough. Then take <span class="m">varnish</span> from an apothecary. Crush by blows one far enough from the other. Then wash your <span class="bp">hands</span> quite well & with your <span class="tl"><span class="bp">palm</span></span> spread your <span class="m">varnish</span>. 
  
  
   

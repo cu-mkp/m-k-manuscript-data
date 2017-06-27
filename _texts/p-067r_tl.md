@@ -8,14 +8,14 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [hairs, rat hairs, hairs of the same squirrel, water, Oil, oil, paper, turpentine, spike lavender oil, metal, charcoal, egg white, gum, aspic, olive oil, taffeta]
+materials: [hairs, rat hairs, hairs of the same squirrel, water, Oil, oil, paper, turpentine, spike lavender oil, varnish, metal, charcoal, Varnish, glair of the egg, gum, oil, not of spike lavender, but another odorant that resembles olive oil, spike lavender, olive oil, glair, taffeta]
 tools: [Bellows furnace, bellows]
 measurements: []
 bodyparts: []
 places: [Germans]
-plants: []
-professions: [painters]
-environments: []
+plants: [spike lavender, olive]
+professions: [painters, poor peasants]
+environments: [the first rain]
 animals: [rat, squirrel, duck, crow]
 ---
 
@@ -31,7 +31,7 @@ animals: [rat, squirrel, duck, crow]
 ## <span class="m">Oil</span>
 
  
-All <span class="m">oil</span> which is imbibed by <span class="m">paper</span> & once heated by fire evaporates & leaves the <span class="m">paper</span> clean, like <span class="m">turpentine</span> & <span class="m">spike lavender oil</span>, is good for making varnish.
+All <span class="m">oil</span> which is imbibed by <span class="m">paper</span> & once heated by fire evaporates & leaves the <span class="m">paper</span> clean, like <span class="m">turpentine</span> & <span class="m"><span class="pa">spike lavender</span> oil</span>, is good for making <span class="m">varnish</span>.
  
  
   
@@ -47,13 +47,13 @@ Everything ground & tempered becomes porous, according to some.
 ## <span class="tl">Bellows furnace</span>
 
  
-Before you put in the <span class="m">metal</span>, it is necessary that it be red at the bottom, like like a <span class="m">charcoal</span> & well inflamed. Next, you <span class="del">[illegible]</span> fill it & cover the <span class="m">charcoal</span> & adjust the <span class="tl">bellows</span>, otherwise the <span class="m">metal</span> on top would melt as a result of the <span class="tl">bellows</span> & its bottom would be curdled & cooled & would not run. But if you proceed in this manner you will melt everything you like.
+Before you put in the <span class="m">metal</span>, it is necessary that it be red at the bottom, like like a <span class="m">charcoal</span> & well inflamed. Next, you <span class="del"></span> fill it & cover the <span class="m">charcoal</span> & adjust the <span class="tl">bellows</span>, otherwise the <span class="m">metal</span> on top would melt as a result of the <span class="tl">bellows</span> & its bottom would be curdled & cooled & would not run. But if you proceed in this manner you will melt everything you like.
  
  
   
 
-## Varnish on <span class="m">paper</span>
+## <span class="m">Varnish</span> on <span class="m">paper</span>
 
  
-The <span class="pl">Germans</span> make boxes <span class="del">p</span> covered with painted <span class="m">paper</span> & varnish it with <span class="m">egg white</span>, mixed with <span class="m">gum</span> and some <span class="m">oil</span>, not <span class="m">aspic</span>, but another odorant which looks like <span class="m">olive oil</span>. Every work done with <span class="m">egg white</span> sustains <span class="m">oil</span>. It is with this that <span class="pro">painters</span> trick the poor peasants, painting their bands of <span class="m">taffeta</span> with this <span class="m">egg white</span> to be done faster. But the first rain washes away everything.
+The <span class="pl">Germans</span> make boxes <span class="del">p</span> covered with painted <span class="m">paper</span> & varnish it with <span class="m">glair of the egg</span> mixed with <span class="m">gum</span> & a little <span class="m"><span class="m">oil</span>, not of <span class="m"><span class="pa">spike lavender</span></span>, but another <span class="sn">odorant</span> that resembles <span class="m"><span class="pa">olive</span> oil</span></span>. Every work done with <span class="m">glair</span> supports <span class="m">oil</span>. It is with this that <span class="pro">painters</span> trick the <span class="pro">poor peasants</span>, painting their bands of <span class="m">taffeta</span> with this <span class="m">glair</span>, to be done sooner. But <span class="env">the first rain</span> carries away everything.
  

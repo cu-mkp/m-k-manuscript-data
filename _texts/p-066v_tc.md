@@ -8,14 +8,14 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [or, huile gras, ceruse, pains, tourmentine de venise, tourmentine commune, sumach, prunelles, graine de coings, balaustes, foeilles dolivier, tourmentine, pain, eau de ruche de miel, miel, cire, huile, chenevi, plomb, poil de la queue de gris, poil, poils de barbe de rat, eau]
-tools: []
-measurements: []
+materials: [dorer, or mat, vernis, huile gras, ceruse, or bruny, pains, tourmentine de venise, tourmentine commune, sumach, prunelles, graine de coings, balaustes, foeilles dolivier, tourmentine, pain, eau de ruche de miel, miel, cire, huile, chenevi, plomb, poil de la queue de gris, poil, poils de barbe de rat, eau]
+tools: [pinceaulx]
+measurements: [heures]
 bodyparts: []
 places: [venise]
 plants: []
 professions: []
-environments: []
+environments: [au soleil, a la pluye]
 animals: [pigeons, gris, rat]
 ---
 
@@ -26,14 +26,14 @@ animals: [pigeons, gris, rat]
 > *at left top margin*
 > 
 > 
->   Quand l<span class="m">or</span> couleur commence<br/> a gripper cest signe que dans<br/> dix ou douze heures il sera sec<br/> & propre a dorer
+>   Quand lor couleur commence<br/> a gripper cest signe que dans<br/> dix ou douze <span class="ms"><span class="tmp">heures</span></span> il sera sec<br/> & propre a <span class="m">dorer</span>
  
 > *at left top margin*
 > 
 > 
->   * Pour fayre beau<br/> l<span class="m">or</span> mat mets y<br/> un peu de vernis<br/> ou d<span class="m">huile gras</span><br/> non pas de celuy<br/> qui est faict du<br/> nettoyement des<br/> pinceaulx Mays<br/> de celuy pur qui<br/> se faict gras<br/> au soleil ou<br/> mesle de <span class="m">ceruse</span>
+>   * Pour fayre beau<br/> l<span class="m">or mat</span> mets y<br/> un peu de <span class="m">vernis</span><br/> ou d<span class="m">huile gras</span><br/> non pas de celuy<br/> qui est faict du<br/> nettoyement des<br/> <span class="tl">pinceaulx</span> Mays<br/> de celuy pur qui<br/> se faict gras<br/> <span class="env">au soleil </span> ou<br/> mesle de <span class="m">ceruse</span>
  
-L<span class="m">or</span> mat de ceste<br/> sorte nest gueres<br/> moings beau<br/> que l<span class="del">es</span><span class="add"><span class="m">or</span></span> bruny<br/> Et dure dava{n}tage a la<br/> pluye & aultrem{ent} & plustost faict<br/> L<span class="m">or</span> bruny sesclate<br/> avecq le temps<br/> & se desfaict<br/> a la pluye<br/>
+L<span class="m">or mat</span> de ceste<br/> sorte nest gueres<br/> moings beau<br/> que l<span class="del">es</span><span class="add"><span class="m">or bruny</span></span><br/> Et dure dava{n}tage <span class="env">a la<br/> pluye</span> & aultrem{ent} & plustost faict<br/> L<span class="m">or bruny</span> sesclate<br/> <span class="tmp">avecq le temps</span><br/> & se desfaict<br/> <span class="env">a la pluye</span><br/>
  
  
   

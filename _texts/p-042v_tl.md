@@ -8,12 +8,12 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [satin, flour, chalk, egg white, milk, bark of a fig tree, oil, honey, water, taffeta, water of alum, starch water, Sand for casting, marble, calcined alabaster, lake, olive oil, White varnish, plaster, glue quite white, varnish of sandarac, spike lavender oil, and a little mastic, sandarac, spike lavender oil, mastic]
-tools: [pen-knife, marble, vessel, pinceau]
+materials: [satin, flour, crushed chalk, glair, milk, bark of a fig tree, water, glass, oil, honey, taffeta, water of alum, starch water, Sand for casting, marble, calcined alabaster, lake, olive oil, White varnish, plaster, glue quite white, varnish of sandarac, spike lavender oil, and a little mastic, sandarac, spike lavender oil, mastic]
+tools: [piece of glass, pen-knife, marble, vessel, pinceau]
 measurements: [coats]
 bodyparts: []
 places: []
-plants: [spike lavender]
+plants: [fig tree, olive, spike lavender]
 professions: []
 environments: []
 animals: []
@@ -25,7 +25,7 @@ animals: []
 ## Pounced design for scratching <span class="m">satin</span>
 
  
-After you have pounced with <span class="m">flour</span> or crushed<span class="m">chalk</span>, in order that the dots of the pounced design are not erased, follow the trace with <span class="m">egg white</span> beaten with the <span class="m">milk</span> or <span class="m">bark of a fig tree</span>, which will immediately make it clear up like water, & without becoming thick, it will keep the trace that you will follow again & scratch with <span class="del">d</span> a piece of glass or a <span class="tl">pen—knife</span>.
+After you have pounced with <span class="m">flour</span> or <span class="m">crushed chalk</span>, in order that the dots of the pounced design are not erased, follow the trace with <span class="m">glair</span> beaten with the <span class="m">milk</span> or <span class="m">bark of a <span class="pa">fig tree</span></span>, which will immediately make it clear up like <span class="m">water</span>, & without becoming thick, it will keep the trace that you will follow again & scratch with <span class="del">d</span> a <span class="tl">piece of <span class="m">glass</span></span> or a <span class="tl">pen—knife</span>.
  
  
   
@@ -54,10 +54,10 @@ The main thing is to grind it well on the <span class="tl"><span class="m">marbl
  
   
 
-## For tinseling a painting
+## For tinseling a picture
 
  
-Follow the lines with <span class="m">lake</span> ground with <span class="m">olive oil</span>, which will not dry.
+Follow the lines with <span class="m">lake</span> ground with <span class="m"><span class="pa">olive</span> oil</span>, which will not dry.
  
  
   

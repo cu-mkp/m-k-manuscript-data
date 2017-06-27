@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-x<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-101v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f208.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>101v</a> - - - - - </div>  
+<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-101v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f208.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>101v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -49,7 +49,7 @@ It is made, like <span class="m">rubies</span>, with <span class="m">gold</span>
 ## <span class="m">Topaz</span>
 
  
-I melted one part of calcinated & pulverized <span class="m">pumice stone</span> with three parts of <span class="m">minium</span>, the stone having been pulverized in a steel mortar. A very beautiful yellow came to me, without any grain more yellow than the others. It is true that it was strongly charged with colour. I believe it would be better to pulverize the <span class="m">pumice</span> in a glass mortar, because it & the <span class="m">minium</span> make enough yellow by themselves. A mass came to me, the top of which was the beautiful yellow, as mentioned, and the bottom was like a <span class="m">fire—stone</span> without transparency. With which, in mixing other
+I melted one part of calcinated & pulverized <span class="m">pumice stone</span> <span class="del">& tr</span> with three parts of <span class="m">minium</span>, the stone having been pulverized in a steel mortar. A very beautiful yellow came to me, without any grain more yellow than the others. It is true that it was strongly charged with colour. I believe it would be better to pulverize the <span class="m">pumice</span> in a glass mortar, because it & the <span class="m">minium</span> make enough yellow by themselves. A mass came to me, the top of which was the beautiful yellow, as mentioned, and the bottom was like a <span class="m">fire—stone</span> without transparency. With which, in mixing other
  
  
   

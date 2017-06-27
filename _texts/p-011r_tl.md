@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [esmail d’azur, oil, ceruse, azur d’esmail, azure, marble, egg yolk, waters, water, enamel, azures, rock water, vert d'azur, copper, Azure ashes, Azur d’esmail, clear water, colored water]
+materials: [esmail d’azur, oil, ceruse, azur d’esmail, azure, marble, egg yolk, waters, water, enamel, azures, rock water, vert d'azur, copper, Azure ash, Azur d’esmail, clear water, colored water]
 tools: [awl, marble, waters, painceau, broisse, trowel, water, sponge, vessel, sieves, rock water, alembic, fingernail, oil palette, clear water, colored water]
 measurements: []
 bodyparts: [fingernail]
@@ -29,5 +29,5 @@ This is a secret that is hardly known to <span class="pro">common painters</span
  
 To make <span class="m">azures</span> beautiful, they wash or soak them in a <span class="tl"><span class="m">rock water</span></span>, as they call it; it is a <span class="m">water</span> distilled from mines where <span class="m">azure</span> or <span class="m">vert d'azur</span> is found, which distills naturally through the <span class="env">veins of the mountain</span> or is distilled through an <span class="tl">alembic</span> <span class="del">par</span> from mineral stones of <span class="m">azure</span> or <span class="m">copper</span>.
  
-<span class="m"><span class="add">Azure</span> ashes</span> are only good for landscapes because they die in <span class="m">oil</span>. Only true <span class="m">azure</span> holds on. <span class="m">Azur d’esmail</span> cannot be worked if it is too coarse. Try it, therefore, on the <span class="tl"><span class="bp">fingernail</span></span> or the <span class="tl"><span class="m">oil</span> palette</span>. If it <span class="del">[illegible]</span> happens to be sandy, do not crush it except with the <span class="m">egg yolk</span> or, better yet, wash it in <span class="tl"><span class="m">clear water</span></span> & with a <span class="tl">sponge</span> remove the <span class="tl"><span class="m">colored water</span></span> after it starts to go to the bottom, and in this manner you will extract the very delicate flower, which will be easy to work with.
+<span class="m"><span class="add">Azure</span> ash</span> are only good for landscapes because they die in <span class="m">oil</span>. Only true <span class="m">azure</span> holds on. <span class="m">Azur d’esmail</span> cannot be worked if it is too coarse. Try it, therefore, on the <span class="tl"><span class="bp">fingernail</span></span> or the <span class="tl"><span class="m">oil</span> palette</span>. If it <span class="del"></span> happens to be sandy, do not crush it except with the <span class="m">egg yolk</span> or, better yet, wash it in <span class="tl"><span class="m">clear water</span></span> & with a <span class="tl">sponge</span> remove the <span class="tl"><span class="m">colored water</span></span> after it starts to go to the bottom, and in this manner you will extract the very delicate flower, which will be easy to work with.
  

@@ -8,8 +8,8 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Lake, white lead, ceruse, oil, azure, azurite ash, azur, enamel azur, turpentine, nut oil, Azure, walnut oil, spike lavender oil, Azur d'esmail, water]
-tools: [pinceau]
+materials: [Lake, lead white, ceruse, oil, azure, ash from Acre, azure d’Acre, azur d’esmail, turpentine, walnut oil, turpentine oil, varnish, Azure, spike lavender oil, Azur d'esmail, water]
+tools: [pinceau, palette, knife point]
 measurements: []
 bodyparts: []
 places: [Acre, Italians]
@@ -23,7 +23,7 @@ animals: []
  
 *[continued]*
   
-<span class="m">Lake</span> and <span class="m">white lead</span> and <span class="m">ceruse</span> are easy to work with some <span class="m">oil</span>, but every kind of <span class="m">azure</span> is difficult. And to make a beautiful <span class="m">azure</span>, one has to lay it not with big strokes of the brush but with fine strokes of the end. Not only for <span class="m">azurite ash</span> and <span class="m">azur</span> from <span class="pl">Acre</span> but mainly for <span class="m">enamel azur</span> which has to be very fine, otherwise you will not be able to work with it unless with hard work and you have to mingle it with some <span class="m">turpentine</span> to thicken it and and to mingle it with some <span class="m">white lead</span>. Any <span class="m">azure</span> must not neither be ground nor washed for it loses its color and become pale. But put some of it powdered on your palette and you moisten it bit by bit with some <span class="m">nut oil</span> or <span class="m">turpentine</span>, dip a knife point in some <span class="m">oil</span> and then mix it bit by bit on the said palette
+<span class="m">Lake</span> & <span class="m">lead white</span> & <span class="m">ceruse</span> are easy to work in <span class="m">oil</span>, but every kind of <span class="m">azure</span> is difficult. And to make beautiful <span class="m">azure</span>, one needs to layer it not with large strokes of the <span class="tl">pinceau</span> but with small strokes of the point. Not only <span class="m">ash <span class="sup">from <span class="pl">Acre</span></span></span> & <span class="m">azure d’Acre</span> but mainly <span class="m">azur d’esmail</span> which one needs to choose to be very delicate, <span class="del">for it</span> otherwise you will not <span class="del">v</span> be able to work with it except with great work, and even then you need to thin it with <span class="m">turpentine</span> to give it body, and mix it with a little <span class="m">lead white</span>. Any <span class="m">azure</span> does not want to be crushed or washed for it loses color & becomes wan. But putting it powdered on your <span class="tl">palette</span>, you will thin it little by little either with <span class="m"><span class="pa">walnut</span> oil</span> or <span class="m">turpentine oil</span>, dipping a <span class="tl">knife point</span> in <span class="m">oil</span>, then tempering it little by little on the said <span class="tl">palette</span>.
 
  
   
@@ -31,12 +31,15 @@ animals: []
 ## Shadows
 
  
-First shadows which are closer to the daylight have to be light and very faint then the last ones very dark to enhance strongly the relief. The <span class="pl">Italians</span> usually make three shadows, the first one very faint, the second one darker and the third one very dark, then put these three shadows together by hatching them from the darkest to the lightest
+The first shadows which are closer to light need to be clear & thoroughly softened & then the last ones very dark to accentuate well. The <span class="pl">Italians</span> usually make three shadows, the first one, of light, very clear, the second one darker & the third ones quite strong, then blend these three shadows together by hatching them from the darkest to the clearest.
  
 > *at left middle margin*
 > 
 > 
->   The varnish is more beautiful on a painting when the color has been completely soaked up
+>   The <span class="m">varnish</span> is more beautiful on the panel when the color has imbibed well.
+ 
+> *Figure*
+> <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5QWJmbC1RaG8zTGM" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
  
   

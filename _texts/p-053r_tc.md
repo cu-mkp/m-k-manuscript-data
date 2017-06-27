@@ -41,7 +41,7 @@ Si au foeu & a la fonte il touche le <span class="m">fer</span> Ce <span class="
 ## Gect de <span class="m">plomb</span>
 
  
-On le mesle selon aulcuns <span class="ms">moictie</span> d<span class="m">estain</span> & <span class="ms">moictie</span> <span class="m">plomb</span><br/> et pour lesch<span class="del">[illegible]</span><span class="add">afer</span> on y mesle un peu de <span class="m">sublime</span> Il se gecte bien<br/> en petit dans l<span class="m">os de <span class="al">seiche</span></span> pourveu quil soict bon
+On le mesle selon aulcuns <span class="ms">moictie</span> d<span class="m">estain</span> & <span class="ms">moictie</span> <span class="m">plomb</span><br/> et pour lesch<span class="del"></span><span class="add">afer</span> on y mesle un peu de <span class="m">sublime</span> Il se gecte bien<br/> en petit dans l<span class="m">os de <span class="al">seiche</span></span> pourveu quil soict bon
  
  
   

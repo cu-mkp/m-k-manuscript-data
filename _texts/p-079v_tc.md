@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [terre, cendres, Masticq, sang daRage darac, Gomme aRabic, Huille daspic, colle, metaulx, rostie, boeurre, antimoine, vessie de porc, Estaim, estain commun, plomb fin, estain, estain fin, letton, escailles, fer, plomb]
+materials: [terre, cendres, verny, Masticq, sang daRage darac, Gomme aRabic, Huille daspic, colle bien clere, metaulx, rostie, boeurre, antimoine, vessie de porc, Estaim, estain commun, plomb fin, estain, estain fin, letton, escailles, fer, plomb]
 tools: []
 measurements: [lb, quintal]
 bodyparts: []
 places: []
-plants: []
+plants: [aspic]
 professions: [pintiers, imprimeurs]
 environments: []
 animals: [porc]
@@ -28,11 +28,11 @@ et mectes le dedans ung pot de <span class="m">terre</span> & quil y ayt<br/> fo
  
   
 
-## Pour faire verny
+## Pour faire <span class="m">verny</span>
 
  
-Prenes <span class="m">Masticq</span> <span class="m">sang <span class="del">daRage</span> <span class="add">darac</span></span> <span class="m">Gomme aRabic</span> &<br/> <span class="m">Huille daspic</span> aultant dung q{ue} dau{ltr}e & les faictes<br/> fondre ensemble & devant que le coucher couchez une<br/> couche de <span class="m">colle</span> bien clere & le laisses seicher
-
+Prenes <span class="m">Masticq</span> <span class="m">sang <span class="del">daRage</span> <span class="add">darac</span></span> <span class="m">Gomme aRabic</span> &<br/> <span class="m">Huille d<span class="pa">aspic</span></span> aultant dung q{ue} dau{ltr}e & les faictes<br/> fondre ensemble & devant que le coucher couchez une<br/> couche de <span class="m">colle bien clere</span> & le laisses seicher
+ 
  
   
 

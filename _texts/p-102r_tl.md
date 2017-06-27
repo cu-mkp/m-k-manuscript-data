@@ -41,7 +41,7 @@ A chest with a ten inch wide square <span class="m">stone</span>, and of a one�
 ## <span class="m">Royal cement</span>
 
  
-One pound and a half of <span class="m">vitriol</span> As much <span class="m">saltpeter</span> As much <span class="m">rock alum</span>
+One pound & a half of <span class="m">vitriol</span> As much <span class="m">saltpeter</span> As much <span class="m">rock alum</span>
  
  
   
@@ -49,7 +49,7 @@ One pound and a half of <span class="m">vitriol</span> As much <span class="m">s
 ## <span class="m">Glass</span> vessel
 
  
-The <span class="m">glass</span> vessel must be either pear—shaped or round pyramid—shaped, of the same thickness as the small back of a knife, round on the bottom without folding over on itself, like flasks, its opening of such a size that a <span class="m"><span class="pl">Dutch</span> feather</span> can just about get in, with a lip at the end, in this way of the height of seven fingers' width. 
+The <span class="m">glass</span> vessel must be either pear—shaped or round pyramid—shaped, of the same thickness as the small back of a knife, round on the bottom without folding over on itself, like flasks, its opening of such a size that a <span class="m"><span class="pl">Dutch</span> feather</span> can just about get in, & with a lip at the end, in this way of the height of seven fingers' width. 
 > *Figure*
 > *at bottom margin*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5MVhNYTRzOXJzR2M" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>

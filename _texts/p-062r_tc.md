@@ -41,7 +41,7 @@ Il sen mect aulx visaiges aulx cheveulx Aulx testes de mort et<br/> rochers
 ## Hommes et animaulx esloignes
 
  
-On les faict premierem{ent} a la grossiere de gris ou de pourpre qui est de <span class="m">cendre</span><br/> d<span class="m">azur</span> & de <span class="m">laque</span> Estants secs on rehaulsse & acheve de carnation & autres<br/> couleurs & de blanc Et il<br/> se montre mieulx & est plustost<br/> faict que de blanc & de noir<br/> Les armees[illegible]<br/> se peignent<br/> ainsy
+On les faict premierem{ent} a la grossiere de gris ou de pourpre qui est de <span class="m">cendre</span><br/> d<span class="m">azur</span> & de <span class="m">laque</span> Estants secs on rehaulsse & acheve de carnation & autres<br/> couleurs & de blanc Et il<br/> se montre mieulx & est plustost<br/> faict que de blanc & de noir<br/> Les armees<br/> se peignent<br/> ainsy
  
  
   

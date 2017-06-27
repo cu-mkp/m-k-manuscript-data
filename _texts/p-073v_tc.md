@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [sel armoniac, estaing, argent vif, colle de partenay, parchemin, blanc dung oeuf, saffran, vinaigre, laict de figuier, bronze, uille daspic, sandrax, boys, tormentine de vernise venise, huille de parolle petrolle, huille daspic, cuyvre, broullaminy, limailhe de cuyvre, souffre, charbon]
-tools: []
-measurements: []
+materials: [sel armoniac, estaing, argent vif, colle de partenay, parchemin, blanc dung oeuf, saffran, vinaigre, laict de figuier, bronze, Verny, uille daspic, sandrax, drogues, boys, verny, tormentine de vernise venise, huille de perolle petrolle, huille daspic, Cuyvre, broullaminy, limailhe de cuyvre, souffre, charbon]
+tools: [pot, fiole]
+measurements: [onces, once, quart de once]
 bodyparts: []
 places: [venise]
-plants: []
+plants: [aspic]
 professions: []
 environments: []
 animals: []
@@ -23,37 +23,37 @@ animals: []
  
 *[continued]*
   
-broyes apart Quand il sera bien broye prenes le <span class="m">sel armoniac</span> &<br/> le broyes encores ensemble puys prenes une once d<span class="m">estaing</span> doulx &<br/> une once d<span class="m">argent vif</span> puis faictes fondre v{ost}re <span class="m">estaing</span> & mectes<br/> v{ost}re <span class="m">argent vif</span> goutte a goutte dans v{ost}re <span class="m">estaing</span> en fondant & le<br/> remues fort jusques ace q{ui}l soit en pouldre
+broyes apart Quand Il sera bien broye prenes le <span class="m">sel armoniac</span> &<br/> le broyes encores ensemble puys prenes une once d<span class="m">estaing</span> doulz &<br/> une once d<span class="m">argent vif</span> puis faictes fondre v{ost}re <span class="m">estaing</span> & mectes<br/> v{ost}re <span class="m">argent vif</span> goutte a goutte dans v{ost}re <span class="m">estaing</span> en fondant & le<br/> Remues fort Jusques ace q{ui}l soit en pouldre
  
  
   
 
-## Pour le coucher
+## Pour le <span class="del">c</span>Coucher
 
  
-Prenes de la <span class="m">colle de partenay</span> <span class="add">ou <span class="m">parchemin</span></span> Et lapliques avecq de <span class="m">blanc<br/> dung oeuf</span> puys prenes ung peu de <span class="m">saffran</span> Et du <span class="m">vinaigre</span><br/> Et du <span class="m">laict de figuier</span> Et faictes encores une couche puys<br/> prenes la <span class="m">bronze</span> Et laplicques dessus
+Prenes de la <span class="m">colle de partenay</span> <span class="add">@ou <span class="m">parchemin</span></span> Et lapliques avecq Le <span class="m">blanc<br/> dung oeuf</span> puys prenes ung peu de <span class="m">saffran</span> Et du <span class="m">vinaigre</span><br/> Et du <span class="m">laict de figuier</span> Et faictes encores une couche puys<br/> prenes la <span class="m">bronze</span> Et laplicques dessus
  
  
   
 
-## Vernis
+## <span class="m">Verny</span>
 
  
-Prenes deux onces d<span class="m">uille daspic</span> & une once de <span class="m">sandrax</span> prenes<br/> ung pot net & le faictes chauffer & puis le tires hors du<br/> feu Et appres mectes Les drogues dedans Et appres mectes la<br/> dedans une fiole & le coucher sur le <span class="m">boys</span>
+Prenes deux <span class="ms">onces</span> d<span class="m">uille d<span class="pa">aspic</span></span> & une <span class="ms">once</span> de <span class="m">sandrax</span> prenes<br/> ung <span class="tl">pot</span> net & le faictes chauffer & puis le tires hors du<br/> feu Et appres mectes Les <span class="m">drogues</span> dedans Et appres mectes les<br/> dedans une <span class="tl">fiole</span> & le coucher sur le <span class="m">boys</span>
  
  
   
 
-## Aultre recepte pour faire verny
+## Aultre recepte pour faire <span class="m">verny</span>
 
  
-Prenes une once de <span class="m">tormentine de <span class="del">vernise</span> <span class="add"><span class="pl">venise</span></span></span> & ung quart de<br/> once d<span class="m">huille de <span class="del">parolle</span> <span class="add">petrolle</span></span> & une once de <span class="m">sandrax</span> & une d<span class="m">huille<br/> daspic</span>
+Prenes une <span class="ms">once</span> de <span class="m">tormentine de <span class="del">vernise</span> <span class="add"><span class="pl">venise</span></span></span> & ung <span class="ms">quart de<br/> once</span> d<span class="m">huille de <span class="del">perolle</span> <span class="add">petrolle</span></span> & une <span class="ms">once</span> de <span class="m">sandrax</span> & une d<span class="m">huille<br/> d<span class="pa">aspic</span></span>
  
  
   
 
-## Couleur de <span class="m">cuyvre</span> bruny
+## Couleur de <span class="m">Cuyvre</span> bruny
 
  
-Prenes une once de <span class="m">sel armoniac</span> avecq une once de<br/> <span class="m">broullaminy</span> et demye de <span class="m">limailhe de cuyvre</span> aveq une once de<br/> <span class="m">souffre</span> & demy sestier de <span class="m">vinaigre</span> bouttes tout dedans ung<br/> petict fourneau de carreaulx Et faictes ung petict foeu de<br/> <span class="m">charbon</span> au tour Et mectes v{ost}re pot dedans led{icte} fourneau<br/> toute la journee
+Prenes une once de <span class="m">sel armoniac</span> avecq une once de<br/> <span class="m">broullaminy</span> et demye de <span class="m">limailhe de cuyvre</span> aveq une once de<br/> <span class="m">souffre</span> & demy sestier de <span class="m">vinaigre</span> bouttes tout dedans ung<br/> petict fourneau de carreaulx Et faictes ung petict foeu de<br/> <span class="m">charbon</span> au tour Et Mectes v{ost}re pot dedans led{ict} fourneau<br/> toute la journee
  

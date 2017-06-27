@@ -8,15 +8,15 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Azure, wood, Turpentine oil, palma christi seed oil, Nut oil, azur, oil, Enamel azur, water, spike lavender oil, nut oil, spike lavender, hair, rats' hair, hairs, hair of a stone marten, musk]
-tools: []
-measurements: []
-bodyparts: []
-places: [Flanders, Turkish]
-plants: []
+materials: [Black of charcoal from the mines, ordinary charcoal, burnt ivory, peach stones, lampblack, burnt bones of the feet of oxen, Azure, wood, Turpentine oil, palma christi seed oil, Walnut oil, azure, fatty oil, Azur d’esmail, water, oil, spike lavender oil, walnut oil, spike lavender, porcupine quills, wood of arrows fromTurkey, hair taken from a squirrel's tail, bristles of the oldest rats, quill, hairs, bristles of stone martens & weasels & small animals which make musk, musk, hair]
+tools: [longs pinceaux, Pinceaulx, handle of pinceaulx, small rods to rest their hand when they are painting, pinceaulx which have a firm point, pinceau, quill]
+measurements: [pint]
+bodyparts: [hand]
+places: [Flanders, Turkey]
+plants: [peach, Walnut, spike lavender, walnut]
 professions: []
 environments: []
-animals: [porcupine, squirrel, rats, dormouses, stone marten, weasel]
+animals: [oxen, porcupine, squirrel, rats, dormice, stone martens, weasels]
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-058v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f122.item." target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>058v</a> - - - - - </div>  
@@ -25,7 +25,7 @@ animals: [porcupine, squirrel, rats, dormouses, stone marten, weasel]
 ## Blacks
 
  
-Coal black, ordinary black lead black, burnt ivory black, peaches stones black, black smoke, black light, burnt oxes' feet bones black
+<span class="m">Black of charcoal from the mines</span>, of <span class="m">ordinary charcoal</span>, of <span class="m">burnt ivory</span>, of <span class="m"><span class="pa">peach</span> stones</span>, of <span class="m">lampblack</span>, of <span class="m">burnt bones of the feet of <span class="al">oxen</span></span>
 
  
   
@@ -33,15 +33,15 @@ Coal black, ordinary black lead black, burnt ivory black, peaches stones black, 
 ## Shadows
 
  
-When you are making a painting with several persons shadows as well as skins have to be different
+When you are making a painting with several persons, just as the flesh colors have to be different, so do the shadows.
 
  
   
 
-## Frescoes 
+## In fresco
 
  
-<span class="m">Azure</span> is not good for that but [illegible] and you have to work with long brushes. Frescoes cannot be made on <span class="m">wood</span>
+<span class="m">Azure</span> is not good here, but bleak, & one needs to work with long <span class="tl"> longs pinceaux</span>. Fresco is not used <span class="del">cont</span> on <span class="m">wood</span>
 
  
   
@@ -49,30 +49,30 @@ When you are making a painting with several persons shadows as well as skins hav
 ## <span class="m">Azure</span>
 
  
-<span class="m">Turpentine oil</span> makes it very beautiful, try some <span class="m">palma christi seed oil</span>. <span class="m">Nut oil</span> in <span class="pl">Flanders</span> costs at least a hundred sols a pint. The <span class="m">azur</span> requires some greasy <span class="m">oil</span> for it is not thick
+<span class="m">Turpentine oil</span> renders it very beautiful. Assay <span class="m">palma christi seed oil</span>. <span class="m"><span class="pa">Walnut</span> oil</span> in <span class="pl">Flanders</span> costs at least a hundred <span class="cn">sols</span> a <span class="ms">pint</span>. The <span class="m">azure</span> requires a little <span class="m">fatty oil</span> because it has no body.
  
 > *at left middle margin*
 > 
 > 
->   <span class="m">Enamel azur</span> hates more than any other to be ground, even with some <span class="m">water</span> for it dies and loses all its color. Because however it cannot be used if it is big, grind it not with some water but with some oil and grind it thickly and so it will not die
+>   <span class="m">Azur d’esmail</span> hates more than any other to be crushed, especially with <span class="m">water</span>, for it dies & loses all its color. However, because it cannot be worked if it is coarse, crush not with <span class="m">water</span> but with <span class="m">oil</span> & crush it coarsely, and in this way it will not die as much.
  
 > *at left middle margin*
 > 
 > 
->   Always choose the thinnest one
+>   Always choose the most delicate one
  
  
   
 
-## Brushes 
+## <span class="tl">Pinceaulx</span>
 
  
-When the color has dried inside them and you want to clean them soak them in some <span class="m">spike lavender oil</span> and they will turn immediately soft again as before, then you will finish to clean them in some <span class="m">nut oil</span>. <span class="m">Nut oil</span>is not as appropriate to soften them as the <span class="m">spike lavender</span> one which is clear like water and penetrates and is not as thick as the <span class="m">nut oil</span>. Brush handles are made by those who work with care from <span class="al">porcupine</span> hairs, by some others from fine branches of <span class="pl">Turkish</span> <span class="m">wood</span> with which they also make small sticks to rest their hand when they are painting
+When the color has dried inside, & you want to clean them, soak them in <span class="m"><span class="pa">spike lavender</span> oil</span> and they immediately will turn soft again as before, then you will finish to clean them in some <span class="m"><span class="pa">walnut</span> oil</span>. <span class="m"><span class="pa">Walnut</span> oil</span>is not <span class="del">as not</span> as appropriate to soften them as the <span class="m"><span class="pa">spike lavender</span></span> kind which is clear like <span class="m">water</span> & penetrates & does not have body like <span class="m"><span class="pa">walnut</span> oil</span>. The <span class="tl">handle of pinceaulx</span> is made by those who work with care from <span class="m"><span class="al">porcupine</span> quills</span>, by others from <span class="m"><span class="m">wood</span> of arrows from<span class="pl">Turkey</span></span> <span class="del">with whom</span> with which they also make <span class="tl">small rods to rest their <span class="bp">hand</span> when they are painting</span>.
  
 > *at left bottom margin*
 > 
 > 
->   To work properly on small scale you need some very fine brushes with a strong point. And because the <span class="m">hair</span> taken from a <span class="al">squirrel</span>'s tale is mollesin, the most careful ones use the of oldest <span class="m"><span class="al">rats</span>' hair</span> and even of <span class="al">dormouses</span> if they can find some and put two or three in the middle of a brush. These brushes draw a straight line like a quill and all the other <span class="m">hairs</span> stick to them. The <span class="m">hair of a <span class="al">stone marten</span></span> or of a <span class="al">weasel</span> and small animals used to make some <span class="m">musk</span> are even better for just one <span class="m">hair</span> is necessary in a brush
+>   To work well on a small scale very thin <span class="tl">pinceaulx which have a firm point</span> are needed. And because the <span class="m">hair taken from a <span class="al">squirrel</span>'s tail</span> is mollesin, the most careful take the <span class="m">bristles of the oldest <span class="al">rats</span></span>, especially of <span class="al">dormice</span> if they can find them & put two or three of them in the middle of the <span class="tl">pinceau</span>. These make a straight line like a <span class="tl"><span class="m">quill</span></span> & all the other <span class="m">hairs</span> of the <span class="tl">pinceau</span> stick to them as to the point. The <span class="m">bristles of <span class="al">stone martens</span> & <span class="al">weasels</span> & small animals which make <span class="m">musk</span></span> are even better, for a single<span class="m">hair</span> in a <span class="tl">pinceau</span> suffices.
  
 *[continued]*
  

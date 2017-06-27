@@ -31,7 +31,7 @@ quand tu en vouldras user destrampe le aveq de la<br/> <span class="m">colle</sp
 ## Pour faire <span class="m">boys</span> Gris
 
  
- Prendz de la moullee du <span class="m">grais</span> _ _ _ de<br/> la <span class="m">limaille de fer</span> de la <span class="m">feraille</span> de l<span class="m">alung</span> du noyr<br/> de <span class="pro">courroieur</span> de la <span class="m">coperose</span> de l<span class="m">alung de Glace</span>
+ Prendz de la moullee du <span class="m">grais</span> _ _ _ de<br/> la <span class="m">limaille de fer</span> de la <span class="m">feraille</span> de l<span class="m">alung</span> du noyr<br/> de <span class="pro">courroieur</span> de la <span class="m">coperose</span> & de l<span class="m">alung de Glace</span>
  
  
   
@@ -39,7 +39,7 @@ quand tu en vouldras user destrampe le aveq de la<br/> <span class="m">colle</sp
 ## Pour faire <span class="m">Eau</span> pour le mal des<br/> yeux
 
  
- Prenes de la <span class="m">coupperose blanche</span> & la faictes chauffer<br/> un petict sur le foeu puys le mectes en pouldre dedans<br/> un drappeau blanc bien estendu sur un verre bien nect<br/> & la pouldre dess{us} puys prenes de l<span class="m">eau de fontayne</span> &<br/> la faictes passer sur led{ict} drappeau en Remuant du doigt<br/> lad{icte} pouldre tant quelle soit toute passee puys en lautre<br/> vos yeux a toute heure q{ue} vous vouldres & aveq layd<br/> de dieu vous vous en trouveres fort bien
+ Prenes de la <span class="m">coupperose blanche</span> & la faictes chauffer<br/> un petict sur le foeu puys le mectes en pouldre dedans<br/> un drappeau blanc bien estendu sur un verre bien nect<br/> & la pouldre dess{us} puys prenes de l<span class="m">eau de fontayne</span> &<br/> la faictes passer sur led{ict} drappeau en Remuant du doigt<br/> lad{icte} pouldre tant quelle soit toute passee puys en lavez<br/> vos <span class="del">v</span>yeux a toute heure q{ue} vous vouldres & aveq layde<br/> de dieu vous vous en trouveres fort bien
  
  
   
@@ -47,7 +47,7 @@ quand tu en vouldras user destrampe le aveq de la<br/> <span class="m">colle</sp
 ## Pour faire <span class="m">bronze</span> en coulleur d<span class="m">or</span>
 
  
- Prenes six onces d<span class="m">estaing</span> cacides & aultant de <span class="m">souffre<br/> vif</span> & six onces de <span class="m">sel armoniac</span> et mectes l<span class="m">estaing</span><br/> fondre dedans une cuilliere quand Il sera fondu mectes<br/> l<span class="m">argent vif</span> dedans puys le gectes en ligne puys<br/> pilles toutes ses drogues ensemble dedans ung mortier &
+ Prenes six onces d<span class="m">estaing</span> Cacides & aultant de <span class="m">souffre<br/> vif</span> & six onces de <span class="m">sel armoniac</span> et mectes l<span class="m">estaing</span><br/> fondre dedans une cuilliere quand Il sera fondu mectes<br/> l<span class="m">argent vif</span> dedans puys le gectes en ligne puys<br/> pilles toutes ses drogues ensemble dedans ung mortier &
  
 *[continued]*
  

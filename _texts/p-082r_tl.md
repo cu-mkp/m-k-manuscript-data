@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Copper, Iron, copper, metal, wood, brick, Egg white, sand, latten]
+materials: [copper, Iron, metal, wood, brick, Glair of eggs, Eggs, sand, latten]
 tools: []
 measurements: []
 bodyparts: []
@@ -22,10 +22,10 @@ animals: []
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-082r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f169.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>082r</a> - - - - - </div>  
   
 
-## <span class="m">Copper</span> heat
+##  Heat of <span class="m">copper</span>
 
  
-It is hot enough when you see it <span class="sup">is</span>clean & smooth on top of its impurity.
+It is hot enough when you see it neat & even on top, without filth.
  
  
   
@@ -33,15 +33,15 @@ It is hot enough when you see it <span class="sup">is</span>clean & smooth on to
 ## Box mold
 
  
-<span class="m">Iron</span> & <span class="m">copper</span> swell if the <span class="m">metal</span> touches it [the box mold], & the <span class="m">wood</span> warps. Thus, make a mold from <span class="m">wood</span>, & [then] make the box molds from <span class="m">brick</span>s in this mold <span class="sup">the <span class="m">wood</span>en mold</span> of the thickness that you will want.
+<span class="m">Iron</span> & <span class="m">copper</span> make it porous if the <span class="m">metal</span> touches it, & the <span class="m">wood</span> warps. Thus, make a mold of <span class="m">wood</span>, & have box molds of <span class="m">brick</span>s made inside this mold of whatever thickness that you want.
  
  
   
 
-## <span class="m">Egg white</span>
+## <span class="m">Glair of eggs</span>
 
  
-<span class="m">Egg white</span> gives strength to <span class="m">sand</span> so that many casts <span class="sup">can be</span> made from it
+Glair of <span class="m">Eggs</span> gives strength to <span class="m">sand</span> to make several casts.
  
  
   

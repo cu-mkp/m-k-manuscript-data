@@ -10,7 +10,7 @@ editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [pouldre, balle, plomb, estaim, estaim de glace, mitraille, retailles de cuivre que font les chaudroniers, cuivre, estaim commun, huile, linge, papier, Laque, cuir blanc, boufain]
 tools: []
-measurements: [pieds de roy, deniers, pans, pieds, poulces, aulne, den{iers}, pas, lb, quintal, huict en huict jours, une ou deux heures]
+measurements: [pieds de roy, deniers, pans, pieds, poulces, aulne, den{iers}, pas, lb, quintal, huict en huict jours, heures]
 bodyparts: []
 places: [paris]
 plants: [fleurs, pavot rouge, bleds, herbe, hayes, lin, buglose, lys, colombine, pensee]
@@ -54,7 +54,7 @@ Pour la garder de repoulser, il fault de <span class="ms">huict en huict jours</
 ## <span class="m">Laque</span>
 
  
-Pour lesprouver destrempe la & laplique sur du <span class="m">papier</span> & si<br/> <span class="ms">une ou deux heures</span> apres elle ne sy meurt poinct elle est fine &<br/> bonne
+Pour lesprouver destrempe la & laplique sur du <span class="m">papier</span> & si<br/> une ou deux <span class="ms"><span class="tmp">heures</span></span> apres elle ne sy meurt poinct elle est fine &<br/> bonne
  
  
   

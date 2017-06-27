@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [molten lead, lead, Lead, tin, Sand, sand, bronze, Laiton de potin, latten of cassole, fine latten, red copper, smoke, bellows, coals, Iron, iron slab, Copper]
+materials: [molten lead, lead, Lead, tin, Sand, bronze, Latten of potin, latten of skillets, fine latten, red copper, smoke, bellows, platte, copper]
 tools: []
 measurements: []
 bodyparts: []
@@ -33,17 +33,17 @@ Formerly, they dipping their springs by immersing them into <span class="m">molt
 ## Casting <span class="m">lead</span> in <span class="m">lead</span>
 
  
-Some make their caves with <span class="m">lead</span>, they make them thick, and then cast <span class="m">lead</span> in it.<br/> <span class="m">Lead</span> that is not cast hot enough is white, & darker when cast very hot.
+There are some who make their cavities with thick <span class="m">lead</span>, then cast <span class="m">lead</span> in them.<br/> <span class="m">Lead</span> when not cast hot enough, is white, & blacker when cast well hot.
  
 > *at left top margin*
 > 
 > 
->   One can make <span class="m">lead</span> molds &, to cast, smoke it with soot black. But that is never very neat.
+>   One can make a <span class="m">lead</span> mold. & to cast in it, fumigate it with candle soot. But it is never that neat.
  
 > *at left top margin*
 > 
 > 
->   <span class="m">Lead</span> never comes as neat as <span class="m">tin</span>.
+>   Never does <span class="m">Lead</span> come so neat as <span class="m">tin</span>.
  
  
   
@@ -51,28 +51,28 @@ Some make their caves with <span class="m">lead</span>, they make them thick, an
 ## <span class="m">Sand</span>
 
  
-If <span class="m">sand</span> is too fat it should be reheated and sifted again.
+If it is too fat, one ought to reheat it and sieve it again.
  
  
   
 
-## Ways of <span class="m">bronze</span> casting
+## Ways of casting in <span class="m">bronze</span>
 
  
-<span class="m">Laiton de potin</span>, which is the most acid, moulds neater than <span class="m">latten of cassole</span> according to many people. All <span class="m">fine latten</span> molds cleaner than <span class="m">red copper</span>. If you want to cast something fragile & tenuous, the secret is casting as hot as possible so that the matter boils. You will know that it is hot enough when it <span class="m">smoke</span>s a lot and stirring it makes sparks. For heating well you should place your crucible as low as possible & close to the forging mill, so that the <span class="m">bellows</span> blow on the middle of the crucible, thus it heats better than on the grate on which we <span class="add">usually</span>put the crucible, under which the bellows blow. It is true that the crucible can easily break but you can lute it as you know <span class="pro">founders</span> do. You need to keep feeding <span class="add">the fire</span>with <span class="m">coals</span>, which are between the bellows & the crucible. Make sure to cast all at once & not in increments & drop by drop, otherwise the conduit will be plugged by the matter. It is better to make an <span class="pro">abreveoir</span> to <span class="pro">abreuver</span> the medal. It is necessary that you stir the melted matter with a stick, so that the matter at the bottom heats well. Because <span class="m">Iron</span> turns the matter acid. Turn
+<span class="m">Latten of  potin</span> <span class="del">cor</span>, which is the most brittle, molds more neatly, according to the opinion of many people, than fine <span class="m">latten of skillets</span>, just like all <span class="m">fine latten</span> molds neater than <span class="m">red copper</span>. If you want to cast something fine & thin, the entire secret is to cast as hot as possible so that the substance boils. You will recognize that it is hot enough when it <span class="m">smoke</span>s a lot and while stirring it throws sparks. To heat well, place your crucible as low as possible & at the very bottom of the forge, so that the <span class="m">bellows</span> <span class="del">fra</span> beat on the middle of the crucible, for in this way it is better than on the grill on which one <span class="add">usually</span> puts the crucible, under which the bellows beat. It is true that the crucible risks more danger breaking, but you can lute it as you know <span class="pro">founders</span> do. And also, one ought to maintain <span class="add">the charcoal</span>between the bellows & the crucible. Also take heed to cast all at once & not in increments & drop by drop, which would stop and plug up the conduit of the substance. And if make in the cast an <span class="pro">abreveoir</span> to <span class="pro">abreuver</span> the medal, it would be even better. And so that the substance heats well at the bottom, stir it, once melted, with a wood stick, for iron only makes it brittle. Turn.
  
 > *at left middle margin*
 > 
 > 
->   Some people add wool stuffing to heat up & make it runny.
+>   Some put wool stuffing in order to heat it & make it run.
  
 > *at left bottom margin*
 > 
 > 
->   Place one large <span class="m">iron slab</span> under your crucible, the plate will redden & this will maintain the heat under your crucible.
+>   Put under your crucible, one large iron <span class="m">platte</span>, which will redden & will maintain the heat under your crucible.
  
 > *at left bottom margin*
 > 
 > 
->   <span class="m">Copper</span> matter is good to cast because when broken, its grain is long & not short, that shows that the matter is soft. The matter is composed half of <span class="m">fine latten</span> & half of <span class="m">red copper</span>. This long grain is called longue tige <span class="add">long rod</span>.
+>   The <span class="m">copper</span> substance is found to be good for casting, when once broken it makes the grain long & not short, for it demonstrates that it is soft. It is half <span class="m">fine latten</span> & half <span class="m">red copper</span>. This long grain is called long stalk.
  

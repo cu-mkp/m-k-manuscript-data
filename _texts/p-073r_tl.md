@@ -8,10 +8,10 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [blue florey, quicklime, water, quickline, wood, turmeric, bone, horn, ashes of vine shoots, verdigris, alum, river water, bran, iron filings, sulfur, fuller's earth, maplewood, rainwater, gold, sal ammoniac, iron]
+materials: [blue varnish, blue of flowers florey or of Flanders, quicklime, water, blue, wood, turmeric, bone, horn, ashes of vine shoots, verdigris, alum, river water, bran, iron filings, sulfur, fuller's earth, maplewood, rainwater, gold, sal ammoniac, iron]
 tools: []
-measurements: []
-bodyparts: []
+measurements: [fingers, day]
+bodyparts: [fingers]
 places: [Flanders]
 plants: []
 professions: [goldsmith's]
@@ -22,10 +22,10 @@ animals: []
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-073r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f151.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>073r</a> - - - - - </div>  
   
 
-## For making <span class="m">blue florey</span> varnish or <span class="pl">Flanders</span> <span class="sup">varnish</span>
+## For making <span class="m">blue varnish</span>
 
  
-Take the <span class="m">blue florey</span> and <span class="m">quicklime</span>, and put on around four fingers' worth of <span class="m">water</span> and leave it to soak for one day. Take the <span class="m">water</span> where the aforesaid <span class="m">quickline</span> has soaked, and put your <span class="m">blue <span class="sup">florey</span></span> with it, and put it on the <span class="m">wood</span>.
+Take the <span class="m">blue of flowers <span class="add">florey or of <span class="pl">Flanders</span></span></span> & <span class="m">quicklime</span>, and put in around four <span class="ms"><span class="bp">fingers</span></span> of <span class="m">water</span>, and let it soak one <span class="ms"><span class="tmp">day</span></span>. Take the <span class="m">water</span> where the said <span class="m">quicklime</span> has soaked, and put your <span class="m">blue</span> with it, and lay it down on the <span class="m">wood</span>.
  
  
   

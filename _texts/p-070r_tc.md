@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [metal, os dhomme, escaille de fer, cuivre, graisse, salpestre, papier, os de pieds de mouton, pied de bœuf, huile, suif, verre pile, terre cendree, cendre, laicton, sable de corp rocher, tuf, letton, cire, terre, plomb, crasse]
+materials: [metal, os dhomme, escaille de fer, cuivre, graisse, salpestre, papier, os de pieds de mouton, ceulx de pied de bœuf, huile, suif, verre pile, terre cendree, cendre, laicton, sable de corp rocher, tuf, letton, cire, terre, plomb, crasse]
 tools: [papier, chassis, poile, tamis double]
 measurements: [quart]
 bodyparts: []
@@ -29,7 +29,7 @@ Les <span class="m">os d<span class="al">homme</span></span> sont les meilleurs 
  
 Pour gecter net il fault que ta matiere soict bien chaulde<br/> & pour cet effect quand ta matiere est fondue gectes y de<br/> l<span class="m">escaille de fer</span> ou en pouldre ou autrem{ent} <span class="del">E</span> car cela<br/> eschaufe fort le <span class="m">cuivre</span> & le nettoye de sa <span class="m">graisse</span> Sur<br/> la fin quand tu vouldras gecter mects y un peu de<br/> <span class="m">salpestre</span> pliant tes additions dans un <span class="tl"><span class="m">papier</span></span> affin que touls<br/> ne cognoissent pas ce que tu y mesles
  
-Les <span class="m">os de pieds de <span class="al">mouton</span></span> sont encores meilleurs que<br/> ceulx de <span class="m">pied de <span class="al">bœuf</span></span>
+Les <span class="m">os de pieds de <span class="al">mouton</span></span> sont encores meilleurs que<br/> <span class="m">ceulx de pied de <span class="al">bœuf</span></span>
  
 L<span class="m">huile</span> & le <span class="m">suif</span> fort fort soufler & le <span class="m">verre pile</span> & le <span class="m">cuivre</span> seul
  

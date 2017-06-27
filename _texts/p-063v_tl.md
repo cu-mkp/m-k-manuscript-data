@@ -54,10 +54,10 @@ Some people <span class="sup">add</span> <span class="m">chalk</span>, but the b
  
   
 
-##  Flanders blue—green 
+##  Flanders blue 
 
  
-In the month of May, one puts some putrified cow dung under horse dung. Then mix them with iron.
+In the month of May, one puts the dung of a cow to putrify under horse dung. Then one mixes with floree.
  
  
   

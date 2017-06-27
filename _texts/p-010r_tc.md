@@ -53,7 +53,7 @@ Il se faict a <span class="pl">lyon</span> avecq du <span class="m">suc de gauld
 ## <span class="pa">Roses</span>
 
  
-Se contrefont ou avecq rasclures de <span class="del">[illegible]</span> <span class="m">corne de lanternes</span><br/> ou avecq rasclures de <span class="m">parchemin</span> bien claires & deliees & tainctes<br/> & employees comme tu scais
+Se contrefont ou avecq rasclures de <span class="del"></span> <span class="m">corne de lanternes</span><br/> ou avecq rasclures de <span class="m">parchemin</span> bien claires & deliees & tainctes<br/> & employees comme tu scais
  
  
   

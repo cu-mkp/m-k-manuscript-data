@@ -8,14 +8,14 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [asphaltum, umber, lake, wood, egg white, egg yolk, water, peeling of the fig tree, oil, gold, canvas, gilds, bole, honey, garlic juice, or, glue, lamp black, soot black, minium, massicot, ochre de ru, yellow ocher, fatty oil, Or, Flanders varnish, spirit, Gold, verdigris, or moulu, gild]
-tools: [feather, cotton, tooth]
-measurements: [ounce]
+materials: [asphaltum, umber, lake, wood, egg white, egg yolk, water, peeling of the fig tree, oil, varnish, canvas, distemper, bole, honey, garlic juice, or mat, colle à destrempe, lamp black, soot black, colle, minium, massicot, ochre de ru, yellow ocher, fatty oil, gold, Or mat, cotton, Flanders varnish, eau de vye, verdigris, or moulu, gild, gilded]
+tools: [pinceaulx for oil, feather, cotton, tooth]
+measurements: [day, hour, days, ounce]
 bodyparts: [finger]
 places: [Flemish, Flanders, France]
-plants: []
+plants: [cotton]
 professions: []
-environments: []
+environments: [in the rain]
 animals: []
 ---
 
@@ -49,34 +49,37 @@ Because it is quite tedious to paint in distemper on <span class="m">wood</span>
 ## Colors in <span class="m">oil</span> that are imbibed
 
  
-It is best that colors in <span class="m">oil</span> are imbibed, that is to say they do not remain shiny after they are dry, for they do not die. But if in some places they are shiny, it is that the fattiness of the <span class="m">oil</span> has remained in that part which would make the colors die. The varnish mends all this & unites & renders it similar in one place as in another.
+It is best that colors in <span class="m">oil</span> are imbibed, that is to say they do not remain shiny after they are dry, for they do not die. But if in some places they are shiny, it is that the fattiness of the <span class="m">oil</span> has remained in that part which would make the colors die. The <span class="m">varnish</span> mends all this & unites & renders it similar in one place as in another.
  
-One needs <span class="m">gold</span> color to be laid down thick, for if it is clear, it would be imbibed & would run.
+One needs gold color to be laid down thick, for if it is clear, it would be imbibed & would run.
  
-On <span class="m">canvas</span> & in distemper, one <span class="m">gilds</span> with <span class="m">bole</span> & <span class="m">honey</span> & a little <span class="m">garlic juice</span>.
+> *at left middle margin*
+> 
+> 
+>   On <span class="m">canvas</span> & in <span class="m">distemper</span>, one gilds with <span class="m">bole</span> & <span class="m">honey</span> & a little <span class="m">garlic juice</span>.
  
  
   
 
-## Gilding painting mounts with <span class="m">or</span> mat
+## Gilding molding for panels with <span class="m">or mat</span>
 
  
-See the other side of this folio this mark: *
+see the other side of this folio this mark: *
  
-The <span class="pl">Flemish</span> give one layer of distempered <span class="m">glue</span> on the mount, then they mix <span class="m">lamp black</span> or <span class="m">soot black</span> with the same <span class="m">glue</span> & leave to dry. Next, they pounce some moresque designs in the corners & paint them with <span class="m">minium</span>, <span class="m">massicot</span>, <span class="m">ochre de ru</span>, and a bit of <span class="m">yellow ocher</span>, mixed with the <span class="m">fatty oil</span> in which they clean their <span class="m">oil</span> brushes, because the three aforesaid colors are griping and dry immediatly. And next, they apply the <span class="m">gold</span>, then varnish on top of everything. And it seems by this way to some, that all of the black is painted in <span class="m">oil</span>, but that would not be good because the <span class="m">gold</span> attaches everywhere, and not only on the moresque. Go back to the top to *
+The <span class="pl">Flemish</span> give one layer of <span class="m">colle à destrempe</span> on the moulding, then mix <span class="m">lamp black</span> or <span class="m">soot black</span> with the same <span class="m">colle</span> & let dry. Next they pounce some moresque in the corners & paint it with <span class="m">minium</span>, <span class="m">massicot</span>, & <span class="m">ochre de ru</span>, <span class="add">and a little <span class="m">yellow ocher</span></span>, mixed with <span class="m">fatty oil</span> in which they clean their <span class="tl">pinceaulx for <span class="m">oil</span></span>, because the three aforesaid colors are gripping & dry immediately. Next they lay down the <span class="m">gold</span>, then varnish on top of all. And it seems to some by this means that all this black is painted in <span class="m">oil</span>, but it would not be good because the <span class="m">gold</span> would attach itself everywhere & not only to the moresque. Go back to the top to *
  
 > *at left top margin*
 > 
 > 
->   * <span class="m">Or</span>mat 
-It is made with <span class="m">massicot</span>, <span class="m">minium</span>, <span class="m">ochre de ru</span>, & <span class="m">yellow ocher</span>, so that the composition resembles <span class="m">gold</span>. Gild the day after <span class="del">un jo</span> it is applied, if you <span class="del">in the</span> made the groundlayer the <span class="sup">same</span> evening as the color. Next, having gilded, leave it to dry & rest for one day. Next, rub the gilding with a <span class="tl">feather</span> & <span class="tl">cotton</span>, so that no small flakes remains, then varnish with <span class="m"><span class="pl">Flanders</span> varnish</span>, which you make, mixed with a little <span class="m">spirit</span>, to make it desiccative.
+>   * <span class="m">Or mat</span><br/> It is made with <span class="m">massicot</span>, <span class="m">minium</span>, <span class="m">ochre de ru</span>, & <span class="m">yellow ocher</span>, so that the composition resembles <span class="m">gold</span>. Gild <span class="tmp">the day after</span> <span class="del">un jo</span> it is laid down if you <span class="del">in the</span> made the groundlayer the <span class="tmp">evening</span> of the color. After having gilded, let it dry & rest one <span class="ms"><span class="tmp">day</span></span>, next rub the gilding with a <span class="tl">feather</span> & <span class="tl"><span class="m"><span class="pa">cotton</span></span></span> in order that no burrs remain, then varnish with <span class="m"><span class="pl">Flanders</span> varnish</span>, which you make mixed with a little <span class="m">eau de vye</span>, to render it desiccative.
  
-The varnish will dry in an hour. It will enhance the <span class="m">gold</span> color. And this <span class="m">or</span> mat withstands rain, even if one rubs it, but it must be well dry, for eight or ten days.
- <span class="m">Gold</span> color that is made of various colors cleaned from <span class="m">oil</span> brushes is not so good & with time tarnishes the <span class="m">gold</span> because of the <span class="m">verdigris</span>. One must not touch with the <span class="bp">finger</span> the layer made for the <span class="m">gold</span> because that will prevent it from attaching itself there. The <span class="m">or moulu</span> spoils if <span class="m">water</span> touches it, but <span class="m">or</span> mat withstands well the rain & in <span class="m">water</span>. One must not burnish it, because the <span class="tl">tooth</span> would remove it. Collect the small flakes & small bits that the <span class="tl">cotton</span> removed when the <span class="m">gold</span> is dry and that you clean it, for as little as an <span class="ms">ounce</span> is still <span class="m">gold</span>. In <span class="pl">Flanders</span>, women <span class="del">make</span> <span class="m">gild</span>. It is more beautiful when it is a little thick but in <span class="pl">France</span> they beat it too delicately. 
-Breathe on the <span class="m">gold</span> color, and if it loses its shine, it is dry enough, but if does not welcome the vapor of the breath, it is not yet dry enough.
+The <span class="m">varnish</span> will be dry in an <span class="ms"><span class="tmp">hour</span></span>. It will increase the color of gold. And this <span class="m">or mat</span> holds <span class="env">in the rain</span>, even if one rubs it. But it must be well dried for eight or ten <span class="ms"><span class="tmp">days</span></span>.
  
-One should not do <span class="m">or</span> mat gilding after <span class="del">with</span> having applied <span class="m">gold</span> color, but wait one day and one night, <span class="del">but take heed to not</span> and, when it appears to be dry, it will grip the gold. Next, one varnishes.
+Gold color that is made of different colors cleaned from <span class="tl">pinceaulx for <span class="m">oil</span></span> is not so good, & with <span class="tmp">time</span>, tarnishes the gold because of the <span class="m">verdigris</span>. One must not touch with a <span class="bp">finger</span> the layer made for the gold because that will keep it from attaching itself. The <span class="m">or moulu</span> is spoiled if <span class="m">water</span> touches it, but the <span class="m">or mat</span> holds well <span class="env">in the rain</span> & in <span class="m">water</span>. One must not burnish it, because the <span class="tl">tooth</span> would remove it. Gather the burrs & small flakes that the <span class="tl"><span class="m"><span class="pa">cotton</span></span></span> makes lift off when the <span class="m">gold</span> is dry & you clean it, for an <span class="ms">ounce</span> is still <span class="m">gold</span>. In <span class="pl">Flanders</span>, women <span class="del">make</span> <span class="m">gild</span>. It is more beautiful when it is a little thick, but in <span class="pl">France</span> they beat it too delicately.
  
+Breathe on the gold color, and if it tarnishes, it is dry enough, but if it does not receive the vapor of the breath, it is not enough.
+ 
+One must not gild <span class="m">or mat</span> after <span class="del">with</span> having <span class="m">gilded</span>. But wait <span class="tmp">one day or one night</span>, <span class="del">But take heed to not</span> and when it appears as dry, it grips the <span class="m">gold</span>, next one varnishes.
  
 *[continued]*
  

@@ -8,12 +8,12 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Amber, wax, grease, wood, elm, root of the maple tree, maple wood, Sugared, mulled wine, wine, tin, paper, eau panée, cloves, sugar, Eau de vie, spirits]
+materials: [Amber, wax, grease, Bois madre, elm, root of the maple, wood, maple, Sugared, mulled wine, wine, tin, paper, eau panée, cloves, sugar, Eau de vie, spirits]
 tools: []
 measurements: []
 bodyparts: []
 places: [English]
-plants: []
+plants: [elm, maple]
 professions: []
 environments: []
 animals: [kid, goat, horses, horse, Irish]
@@ -30,10 +30,10 @@ It softens like a paste when it is boiled in molten <span class="m">wax</span>, 
  
   
 
-## Streaked <span class="m">wood</span>
+## <span class="m">Bois madre</span>
 
  
-The <span class="m">elm</span>has in its knotty roots beautiful veins streaked with grey and black, and the <span class="m">root of the maple tree</span> as well, but the grain of the <span class="m">wood</span> needs to be chosen carefully. One gives the <span class="m">maple wood</span> a certain yellow color and then varnishes it.
+The <span class="m"><span class="pa">elm</span></span>, in its knotty root, has beautiful streaks diversified with grey and black, and the <span class="m">root of the <span class="pa">maple</span></span>, but one needs to chose well the grain of the <span class="m">wood</span>. One gives the <span class="m"><span class="pa">maple</span></span> a certain yellow color, then one varnishes it.
  
  
   

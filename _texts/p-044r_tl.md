@@ -10,7 +10,7 @@ editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [bullet, powder, lead, tin, looking glass tin, debris, copper shards that coppersmiths make, common tin, oil, linen, paper, Lake, flowers, Red poppies, boufain, herb which grows in hedges, which has a stem similar to flax, long and broad leaves like little bugloss, which has a violet flower verging on blue and looks like the fleur de lys,, columbine flower of the shape and size of the bugloss flower, which has a leaf like that of the pansy]
 tools: []
-measurements: [lb, quintal]
+measurements: [lb, quintal, hours]
 bodyparts: []
 places: []
 plants: []
@@ -54,7 +54,7 @@ To keep it from backfiring, clean your arquebuse every eight days, and rub it wi
 ## <span class="m">Lake</span>
 
  
-To test it, soak it & apply it to <span class="m">paper</span>, & if one or two hours later it does not die there, it is fine and good.
+To test it, soak it & apply it to <span class="m">paper</span>, & if one or two <span class="ms"><span class="tmp">hours</span></span> later it does not die there, it is fine and good.
  
  
   

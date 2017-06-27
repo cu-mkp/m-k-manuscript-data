@@ -46,7 +46,7 @@ Hurt a <span class="al">chicken</span> or a <span class="al">dog</span> to test 
  
   
 
-## Oneneu elbirro traut is no eheram<br/> rus enn elbat no [illegible] ueirtse
+## Oneneu elbirro traut is no eheram<br/> rus enn elbat no  ueirtse
 
  
 Get in the month of June and July, many of the biggest <span class="al">snails</span> you can find with their shell, put them in a <span class="m">glass</span> bottle with a sufficient quantity of very hard and very boiled <span class="m">egg yolks</span> with some good <span class="m">vinegar</span>. Cork it and put it under some <span class="m"><span class="al">horse</span>muck</span> for fifteen days. The <span class="al">snails</span> will first survive thanks to the <span class="m">egg yolks</span>, then with the heat they will come out of their shells and eat live on it. Finally, it will come a <span class="m">white salve</span>. For your own safety you will not cut the bottle, keep it well closed and put it in strong sun and dawn for

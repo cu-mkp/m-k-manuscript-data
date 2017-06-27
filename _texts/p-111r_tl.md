@@ -59,7 +59,7 @@ This, wet & well beat & kneaded as you know, is necessary for you to make the co
 > *at left middle margin*
 > 
 > 
->   It is neater than [illegible] of <span class="m">lead</span>.
+>   It is neater than  of <span class="m">lead</span>.
  
 > *Figure*
 > *at left middle margin*
@@ -71,5 +71,5 @@ This, wet & well beat & kneaded as you know, is necessary for you to make the co
 ## <span class="m">Iron</span> wire
 
  
-You have to be provisioned with different thicknesses according to the molds that you want to make, some large like packthread from [illegible] & some thin, like the fat cords of a spinet, for small works. With it reheated, make clamps to close the molds & make points like needles of various lengths according to your need, to fasten the animal to the mold & hold it subject. Needles would not be good for this since your points must be hollow & of the same thickness throughout, except at the point. And then you have to make them as long as you have need. <span class="m">Iron</span> wire is harder than that of <span class="m">latten</span>.
+You have to be provisioned with different thicknesses according to the molds that you want to make, some large like packthread from  & some thin, like the fat cords of a spinet, for small works. With it reheated, make clamps to close the molds & make points like needles of various lengths according to your need, to fasten the animal to the mold & hold it subject. Needles would not be good for this since your points must be hollow & of the same thickness throughout, except at the point. And then you have to make them as long as you have need. <span class="m">Iron</span> wire is harder than that of <span class="m">latten</span>.
  

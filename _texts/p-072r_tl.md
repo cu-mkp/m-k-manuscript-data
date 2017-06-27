@@ -8,13 +8,13 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [lead, heads of nails, old horseshoes, antimony, Copper, marble, metal, wine, elm root, well-flowing latten, latten, bellows, tile, copper, persicaire, salts]
-tools: []
+materials: [Printers’ letters, lead, nails, nailheads, horseshoes, antimony, copper, marble, oiling, wine boiled with elm root, latten, substance of the trebuschets, tile, iron, charcoals, grindings from sharpening large scissors & large knives, persicaire, salts]
+tools: [box mold, board, marble, mold, furnace, bellows, tile, mollettes, crooked iron, latten wirebrush]
 measurements: []
 bodyparts: []
 places: []
-plants: []
-professions: []
+plants: [elm, persicaire]
+professions: [Printers]
 environments: []
 animals: []
 ---
@@ -22,21 +22,21 @@ animals: []
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-072r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f149.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>072r</a> - - - - - </div>  
   
 
-## Printer's letters
+## <span class="m"><span class="pro">Printers</span>’ letters</span>
 
  
-The people who make the letters mix with the <span class="m">lead</span> <span class="del">nails</span> <span class="m">heads of nails</span> & <span class="m">old horseshoes</span>, & <span class="m">antimony</span> to help melting. This mixture is good for printing, &holds steady. It flows and is well suited to casting in <span class="m">lead</span>.
+Those who make them, mix into the <span class="m">lead</span> some <span class="del"><span class="m">nails</span></span> <span class="m">nailheads</span> & old <span class="m">horseshoes</span>, & <span class="m">antimony</span> which makes it all melt. This composition is strong for printing, &holds steadfast. It runs and is good for casting in <span class="m">lead</span>.
  
  
   
 
-## <span class="m">Copper</span> casting
+## Casting in <span class="m">copper</span> 
 
  
-The box mold should be even—shaped & well fitted onto the board where it is placed, so that it will hold steady & even when one moulds. The sand should be clean & carefully selected, well baked, & regarding the sand you will pour directly over the medal and press the harder while molding, it should be very finely pulverised on the <span class="m">marble</span>. Be careful not to oil your medal or the <span class="m">metal</span> will be brittle. Bake slowly and thoroughly, & let cool. Moisten your sand with <span class="m">wine</span> boiled with <span class="m">elm root</span>, and in it, cast <span class="m">well—flowing latten</span> (that is, <span class="m">latten</span> from scales and similar thin things). Cast as widely as possible, & although the stream [of <span class="m">metal</span>] will not be very thick, it will not be any worse. Still, make sure it enters the mold well. Cast from the foot of the medal up, so that the face, further away from the heat, comes out better & the violent effect of the heat is softened. And if your box mold does not have furrows, draw some <span class="del"></span> in the sand, from the borders of the mold towards the hollow where you will be casting. Cast very hot; you will know [if you are at the right temperature] by throwing a bit of your reserved material into what is already <span class="del"></span> very molten, & if it melts right away, it is a sign that [your metal] is hot enough. Then maintain a vigorous heat in your furnace with <span class="m">bellows</span> of an appropriate size, while holding the mouth of your furnace well covered with a large <span class="del"></span> <span class="m">tile</span> or something similar that needs to be red before the casting. When you want to cast, have your mollettes red hot, & the iron hook as well, to clean out the charcoals [fallen] in your material. Having cast, scrub your work with a <span class="m">latten</span> wirebrush. The residual powder from large scissors & large knives is very good for <span class="m">copper</span>.
+It is necessary that the <span class="tl">box mold</span> be well smooth & that it fits well also on the <span class="tl">board</span> where it sits, so that it holds firm & does not shift when one moulds. It is necessary that the sand be clean & well chosen and well reheated, & pulverised very finely on the <span class="tl"><span class="m">marble</span></span>, for the one that you want to put first on the medal, and when molding you press strongly. Guard against <span class="m">oiling</span> your medal, for this would make it porous. Reheat slowly and reheat well, & let cool. Moisten your sand with <span class="m">wine boiled with <span class="pa">elm</span> root</span>, and cast <span class="m">latten</span> which comes out well, namely from the <span class="m">substance of the trebuschets</span> and similar thin things. Make your cast broad & even if it is barely thick, it will not be worse off, but it will enter well in the <span class="tl">mold</span>. Cast from the foot of the medal, so that the face, further away from the heat, comes out better & sweetened from the violent heat. And if your <span class="tl">box mold</span> does not have vents, make some <span class="del">qu</span> in the sand, which come, from the corners of the piece, to render themselves into the cast. Cast very hot, something that you will know, when you cast a little leftover substance in the one which has already been melted, & if it melts quickly, this is a sign it is <span class="del">fo</span> well hot. At that time, invigorate the heat of your <span class="tl">furnace</span> with <span class="tl">bellows</span> of the right size, keeping the mouth of the <span class="tl">furnace</span> well covered with some big <span class="del"><span class="m">copper</span></span> <span class="tl"><span class="m">tile</span></span> or other similar thing, which should be very red before you cast. When you want to cast, take your well red <span class="tl">mollettes</span> & the <span class="tl">crooked <span class="m">iron</span></span> as well, to clean the <span class="m">charcoals</span> which are in your substance. Having cast, rub your work with a <span class="tl"><span class="m">latten</span> wirebrush</span>. The <span class="m">grindings from sharpening large scissors & large knives</span> is very good for <span class="m">copper</span>.
  
 > *at left middle margin*
 > 
 > 
->   It is said to be a great secret to add <span class="m">persicaire</span> to [the cast], in order to make it as fluid as lead. Try to extract <span class="m">salts</span> from it.
+>   One believes it to be a great secret to add in it <span class="m"><span class="pa">persicaire</span></span>, which renders them soft as <span class="m">lead</span>.Try to extract <span class="m">salts</span> from it.
 

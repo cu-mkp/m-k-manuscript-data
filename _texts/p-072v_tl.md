@@ -8,15 +8,15 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Lead, tin, Straw, looking glass tin, soft tin, lead, quicksilver, wax, cuttlefish bone, bones, Cuttlefish bone, marrow, shell, iron filings, pins filings]
-tools: []
-measurements: []
-bodyparts: []
-places: []
+materials: [Lead, tin, Straw, solder, looking glass tin, soft tin, lead, quicksilver, leads, wax, cuttlefish bone, bones, Cuttlefish bone, marrow, bone marrow, shell, iron filings, pins]
+tools: [tin dish, fingers, shirt sleeve, box mold, finger, well smooth table, pegs, hammer, wirebrush, molds]
+measurements: [part, lb]
+bodyparts: [fingers, finger]
+places: [Germans]
 plants: []
 professions: [printers]
 environments: []
-animals: []
+animals: [cuttlefish, Cuttlefish]
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-072v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f150.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>072v</a> - - - - - </div>  
@@ -25,48 +25,48 @@ animals: []
 ## Casting
 
  
-<span class="m">Lead</span>, which is soft & heavy, wants to be cast much hotter than <span class="m">tin</span>. When it is not hot enough, it makes lines in the medal<span class="del"></span>. <span class="m">Straw</span> burns in it, if it is hot <span class="sup">enough</span>. It makes a solder so soft & runny that it can be melted in a <span class="m">tin</span> dish. It is composed of one part out of <span class="m">looking glass tin</span>, of one part out of <span class="m">soft tin</span>, & another part of <span class="m">lead</span>. It <span class="sup">the solder</span> runs very cleanly and casts in sheets, but the work is very rough & breaks. The best solder, for casting well, is the common one, <span class="del"></span>but it leaves certain coarse crumbs. Combine <span class="m">lead</span> with <span class="m">tin</span> so that the ingot that you are going to cast becomes smooth & lustrous & polished, & doesn't make any eyes or bubbles except for a small point in the middle. And this sign will tell you that there is enough <span class="m">tin</span>, otherwise the <span class="m">lead</span> dominates too much. The sand is good for <span class="m">lead</span> & <span class="m">tin</span>. Good <span class="sup">sand</span> is well dried & fine & thin, which however can be picked up between the fingers. The sand wants to be recooked rather than put to work <span class="sup">directly</span>. And <span class="del"></span> to mold with it, it wants to be well dampened & then recooked, not all at once nor under a lot of pressure, because this spoils it, & makes it shrink & also makes it crumble. But if you reheat it, and take your time, it will make it very firm, to be good for molding. It is necessary to filter it through a shirt sleeve in order to make it the more fine, with the aim of putting it first on the piece to be cast.
+<span class="m">Lead</span>, which is mortified & weighty, wants to be cast hot, more so than <span class="m">tin</span>. And when it is not hot enough, it makes lines in the medal. <span class="del">It</span> <span class="m">Straw</span> burns in it, provided it is hot. One can make a <span class="m">solder</span> so soft & runny that it can be melted in a <span class="tl"><span class="m">tin</span> dish</span>. It is composed of one <span class="ms">part</span> <span class="m">looking glass tin</span>, one <span class="ms">part</span> <span class="m">soft tin</span>, & another <span class="ms">part</span> <span class="m">lead</span>. It runs very neatly and is cast in leaves, but the work is very brittle & prone to breaking. The best <span class="m">solder</span> is the common one for casting well, but <span class="del">is</span> leaves certain lumpy points. Alloy <span class="m">lead</span> with <span class="m">tin</span> so that the ingot that you will cast comes out even & shiny & polished, & without any eyes or bubbles except for a small point in the middle. And this sign will tell you that there is enough <span class="m">tin</span>, otherwise the <span class="m">lead</span> dominates too much. Sand is good for <span class="m">lead</span> & <span class="m">tin</span>. The good one is very thin & fine & lean, which however sticks together between one’s <span class="tl"><span class="bp">fingers</span></span>. The sand wants to be reheated before being put to work. And <span class="del">once</span> to mold <span class="add">with it</span>, it wants to be very moistened & then reheated, not all at once nor with a burst of fire, for this corrupts & makes it shrink & crumble as well. But if you reheat it gently, it renders itself very stiff, once well moistened. One ought to pass it through a <span class="tl">shirt <span class="add">sleeve</span></span> for the finest one, in order to first put some on the piece to mold.
  
-One makes a solder with <span class="m">quicksilver</span><span class="del"></span>that is white, but it is thick. Make sure your box is joined well & that one does not see any daylight between the joints.
+One makes a <span class="m">solder</span> with <span class="m">quicksilver</span> <span class="del">but</span>which is white, but it is brittle. Make your <span class="tl">box mold</span> so that it joins well & that one does not see the daylight between the joints.
  
-The Germans cast <span class="m">lead</span> very thinly, because they think it is better than very thick, but as it is too pliable, it is so thin they mix a little <span class="m">tin</span> with the aforementioned lead which, otherwise, would fold like <span class="m">wax</span>.
+The <span class="pl">Germans</span> cast their <span class="m">leads</span> very thinly, rather than very thickly, because it seems they come out better, but so that are not too pliant, being so thin, they mix a little <span class="m">tin</span> with the said <span class="m">lead</span>, which otherwise would fold up like <span class="m">wax</span>.
  
-Some say the blackest <span class="m">lead</span> is the best & the softest & flows the best. You recognize the goodness of it by rubbing it with your finger, which will blacken immediately.
+The blackest <span class="m">lead</span>, so say some, is the best & the softest & which runs the best. <span class="sn">You will know its goodness by rubbing it with your <span class="tl"><span class="bp">finger</span></span>, which will render it very black quickly</span>. 
  
-The good alloy for the flow of <span class="m">lead</span> & <span class="m">tin</span> is [made] from one lb of <span class="m">lead</span>, & one and a half lb of <span class="m">tin</span>. It is solder which flows well & that is good for casting, but it is rough.
+The alloy good for running <span class="m">lead</span> & <span class="m">tin</span> is per one <span class="ms">lb</span> of <span class="m">lead</span>, one <span class="ms">lb</span> & a half of <span class="m">tin</span> <span class="del">aultr</span>, so that the tin exceeds more than one <span class="ms">part</span>. It is <span class="m">solder</span> which flows well & that is good for casting, but it is brittle.
  
 > *at right top margin*
 > 
 > 
->   <span class="del"></span>To make the <span class="m">lead</span> flow well, mix in a little <span class="m">quicksilver</span>.
+>   To make the <span class="m">lead</span> flow well, one puts in a little <span class="m">quicksilver</span>.
  
 > *at left top margin*
 > 
 > 
->   Rub a <span class="m">cuttlefish bone</span> on a table in order to make it flat & one against the other & against the two <span class="m">bones</span> with pegs to keep them in place.
+>   Rub <span class="m"><span class="al">cuttlefish</span> bone</span> on a <span class="tl">well smooth table</span> to flatten it & one against the other & cross the two <span class="m">bones</span> with <span class="tl">pegs</span> to mark the place.
  
 > *at left top margin*
 > 
 > 
->   <span class="m">Cuttlefish bone</span> molds <span class="m">lead</span> better than [any]thing there is, but try to see if it needs to be recooked. <span class="del">One must mold the back of the <span class="m">bones</span> & along the side of them because the <span class="m">marrow</span> there is more delicate</span>.
+>   <span class="m"><span class="al">Cuttlefish</span> bone</span> molds <span class="m">lead</span> better than anything else. But try it to see if it needs reheating. <span class="del">One ought to mold on the back of the <span class="m">bones</span> & from this side for the <span class="m">marrow</span> is more delicate there.</span>
  
 > *at left middle margin*
 > 
 > 
->   The <span class="m">marrow</span> near the mouth is more delicate & does have not as many fibers & molds more cleanly. The <span class="m">shell</span> which has the <span class="m">marrow</span> <span class="sup">which</span> is calcinated is good for making sand.
+>   The <span class="m">bone marrow</span> towards the tail is more delicate & does have not as many stripes & molds more cleanly. The <span class="m">shell</span> which holds the <span class="m">marrow</span>, once calcined, is good for making sand.
  
 > *at left middle margin*
 > 
 > 
->   When you cast <span class="m">lead</span>, you must cast it <span class="del"></span> somewhat hot, & not at once & shake your frame & cast two or three times. However, if it is too hot, cast it, it will cast swollen & with bubbles. When it is very hot, it becomes blue; leave it then until the color passes <span class="del"></span> & let it rest a little before casting.
+>   When you cast <span class="m">lead</span>, one ought to cast it <span class="del">cast very neatly</span> <span class="add">rather</span> hot, & not at once & shake the <span class="tl">box mold</span> a little & cast two or three times. However, if it is cast too hot, it will rise up & swell. When it is very hot, it becomes blue, let it then pass this color <span class="del">deva</span> & rest a little before casting.
  
 > *at left middle margin*
 > 
 > 
->   Some, such as <span class="pro">printers</span>, mix <span class="m">iron filings</span> or <span class="m">pins <span class="sup">filings</span></span> with <span class="m">lead</span> <span class="del"></span> in order to render it hard. But this makes it rough & it breaks <span class="del">not</span> under a hammer.
+>   Some, such as <span class="pro">printers</span>, mix <span class="m">iron filings</span> or <span class="m">pins</span> in the <span class="m">lead</span>, <span class="del">but</span> in order to render it hard. But this renders it brittle &<span class="del">not</span> it breaks under the <span class="tl">hammer</span>.
  
 > *at left bottom margin*
 > 
 > 
->   Have a scrub brush for cleaning your molds.
+>   Take a <span class="tl">wirebrush</span> to clean your <span class="tl">molds</span>.
  

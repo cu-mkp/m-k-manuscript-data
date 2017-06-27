@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [lake, egg yolk, rouges de mine, oil, egg white, quick-lime, azure d'email, shale, roquaille, noir d’escaille, glass, white paper, paper]
+materials: [lake, egg yolk, rouges de mine, oil, glair of the egg, quick-lime, azure d'email, shale, roquaille, noir d’escaille, glass, white paper, paper]
 tools: [Broisses, shale]
 measurements: [rosary beads]
 bodyparts: []
@@ -27,7 +27,7 @@ animals: []
  
 <span class="pro">Scribes</span> achieve darkening of <span class="m">lake</span> & other colors for garments with <span class="m">egg yolk</span>, but this is a delusion and does not last.
  
-Others glaze <span class="m">rouges de mine</span> & others which are not beautiful in <span class="m">oil</span> <span class="del">M</span>using <span class="m">egg white</span>, and it appears to be done in <span class="m">oil</span>. But <span class="env">humidity</span> corrupts all this.
+Others glaze <span class="m">rouges de mine</span> & others which are not beautiful in <span class="m">oil</span> <span class="del">M</span>using <span class="m">glair of the egg</span>, and it appears to be done in <span class="m">oil</span>. But <span class="env">humidity</span> corrupts all this.
  
  
   

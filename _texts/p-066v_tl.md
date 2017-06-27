@@ -8,14 +8,14 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [gold, or, fatty oil, ceruse, Or, loafs of bread, Venice turpentine, common turpentine, sumac, sloe, quince seeds, leaves of olive trees, turpentine, bread, water from a beehive, honey, wax, oil, hempseed, lead, hair from the tail of a squirrel, hair, hairs of a rat’s whiskers, water]
-tools: []
-measurements: []
+materials: [gilding, or mat, varnish, fatty oil, ceruse, Or mat, burnished gold, Burnished gold, loafs of bread, Venice turpentine, common turpentine, sumac, sloe, quince seeds, leaves of olive trees, turpentine, bread, water from a beehive, honey, wax, oil, hempseed, lead, hair from the tail of a squirrel, hair, hairs of a rat’s whiskers, water]
+tools: [pinceaulx]
+measurements: [hours]
 bodyparts: []
 places: [Venice]
 plants: [pomegranate flowers]
 professions: []
-environments: []
+environments: [in the sun, in the rain]
 animals: [pigeons, squirrel, rat]
 ---
 
@@ -26,14 +26,14 @@ animals: [pigeons, squirrel, rat]
 > *at left top margin*
 > 
 > 
->   When <span class="m">gold</span> color starts to grip, it signals that in ten to twelve hours it will be dry and ready for gilding.
+>   When gold color starts to grip, it is a sign that in ten or twelve <span class="ms"><span class="tmp">hours</span></span> it will be dry & appropriate for <span class="m">gilding</span>.
  
 > *at left top margin*
 > 
 > 
->   * To make <span class="m">or</span> mat beautiful, put in a little varnish or <span class="m">fatty oil</span>, not the kind that is made from cleaning brushes, but the pure kind, that is made fatty in the sun, or mixed with <span class="m">ceruse</span>.
+>   * To make <span class="m">or mat</span> beautiful, put in a little <span class="m">varnish</span> or <span class="m">fatty oil</span>, not from that which is made from the cleaning of <span class="tl">pinceaulx</span>, but the pure, which is made fatty <span class="env">in the sun</span> or mixed with <span class="m">ceruse</span>.
  
-<span class="m">Or</span> mat of this kind is scarcely less beautiful than burnished <span class="del">es</span> <span class="m">gold</span>, and lasts longer in the rain & the like, & <span class="sup">is</span> made more quickly. Burnished <span class="m">gold</span> cracks with time and comes apart in the rain.
+<span class="m">Or mat</span> of this sort is scarcely less beautiful than <span class="del">es</span> <span class="add"><span class="m">burnished gold</span></span>, and lasts longer <span class="env">in the rain</span>, & besides, & is made sooner. <span class="m">Burnished gold</span> is cracked <span class="tmp">with time</span> & comes apart <span class="env">in the rain</span>.
  
  
   

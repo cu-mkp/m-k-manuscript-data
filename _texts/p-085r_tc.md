@@ -8,9 +8,9 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [huile, linge, sayettes de pourceau, huile de noix clair, ceruse, eau de glaire doeuf, feultre, os brusle, mache de fer, eau, glaire, eau gommee, vin, racine dorme, huiler, verre, plomb doux, estaim aigre, sable maigre, ponce, lescaille, sables maigres, metal, minium, Huile, huile daspic, celuy de mine, chassis, Vernis, cuivre, sel de verre, fient, Colle, terre, or, massicot, vernis]
-tools: [table bien nette & unie, doigts, costeau, linge, sayettes de pourceau, moule, mabre, chassis, pilon]
-measurements: []
+materials: [huile, linge, sayettes de pourceau, huile de noix clair, ceruse, eau de glaire doeuf, feultre, os brusle, mache de fer, eau, glaire, eau gommee, vin, racine dorme, huiler, verre, plomb doux, estaim aigre, sable maigre, ponce, lescaille, sables maigres, metal, minium, Huile, huile daspic, celuy de mine, chassis, Vernis vert, cuivre, sel de verre, fient, Colle, terre, massicot, vernis]
+tools: [table bien nette & unie, doigts, costeau, linge, sayettes de pourceau, moule, mabre, chassis, pilon, pots de terre]
+measurements: [jours]
 bodyparts: [doigts]
 places: [flamens]
 plants: [noix, orme, aspic]
@@ -55,10 +55,10 @@ Despuys jay aperceu que ce sable bien quil soict excelent & endure beaucoup<br/>
  
   
 
-## <span class="m">Vernis</span> vert pour les medailles de <span class="m">cuivre</span>
+## <span class="m">Vernis vert</span> pour les medailles de <span class="m">cuivre</span>
 
  
-Les ayant gectees bien nettes couvre les de <span class="m">sel de verre</span><br/> duquel nous usons pour sable & lhumecte & en trois ou 4 jours<br/> il sera vert <span class="m">huile</span> les apres & les tiens soubs le <span class="m">fient</span>
+Les ayant gectees bien nettes couvre les de <span class="m">sel de verre</span><br/> duquel nous usons pour sable & lhumecte & en trois ou 4 <span class="ms"><span class="tmp">jours</span></span><br/> il sera vert <span class="m">huile</span> les apres & les tiens soubs le <span class="m">fient</span>
  
  
   
@@ -66,5 +66,5 @@ Les ayant gectees bien nettes couvre les de <span class="m">sel de verre</span><
 ## <span class="m">Colle</span>
 
  
-Les <span class="pl">flamens</span> recollent leurs pots de <span class="m">terre</span> avecq de l<span class="m">or</span> coleur<br/> cest a dire <span class="m">minium</span> <span class="m">massicot</span> & <span class="m">vernis</span>
+Les <span class="pl">flamens</span> recollent leurs <span class="tl">pots de <span class="m">terre</span></span> avecq de lor coleur<br/> cest a dire <span class="m">minium</span> <span class="m">massicot</span> & <span class="m">vernis</span>
  

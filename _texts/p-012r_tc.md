@@ -30,7 +30,7 @@ Le <span class="m">soufre</span> se faict beau avecq le <span class="m">noir a n
 > *at left top margin*
 > 
 > 
->   Il ne le fault pas gecter<br/> quil ne soict bien refroidi<br/> & quil naye perdu toutes<br/> ses pustules & bouillons<br/> et ne soict bien<br/> abaisse & rendu<br/> uny co{m}me <span class="del">[illegible]</span> <span class="m">eau</span><br/> Le <span class="m">noir a noircir</span><br/> luy donne un beau<br/> vernis & le rend<br/> plus necte Il fault<br/> employer le <span class="m">soufre</span><br/> jaulne du plus beau<br/> car le grisastre & vif<br/> nest pas bon Ne gecte pas<br/> <span class="env">au vent</span> & <span class="env">au froict</span><br/> car il soufleroit
+>   Il ne le fault pas gecter<br/> quil ne soict bien refroidi<br/> & quil naye perdu toutes<br/> ses pustules & bouillons<br/> et ne soict bien<br/> abaisse & rendu<br/> uny co{m}me <span class="del"></span> <span class="m">eau</span><br/> Le <span class="m">noir a noircir</span><br/> luy donne un beau<br/> vernis & le rend<br/> plus necte Il fault<br/> employer le <span class="m">soufre</span><br/> jaulne du plus beau<br/> car le grisastre & vif<br/> nest pas bon Ne gecte pas<br/> <span class="env">au vent</span> & <span class="env">au froict</span><br/> car il soufleroit
  
  
   
@@ -59,7 +59,7 @@ Le plus blanc & plus fin est le meilleur Et quand le cave<br/> est bien nect com
 ## <span class="m">Plastre</span>
 
  
-Celuy de <span class="env">montaigne</span> est plus gris et <span class="del">le</span> celuy d<span class="pl">albigeois</span><br/> plus blanc Il le fault cuire a feu clos co{mm}e a <span class="tl">feu de reverbera{ti}on</span><br/> ou <span class="tl">fours de barbiers</span> Et le plus frais cuict est le meilleur a<br/> mectre en besoigne Il le fault broyer subtillem{ent} sur le <span class="tl"><span class="m">mabre</span></span><br/> Apres avoyr præpare ton cave de <span class="m">soufre</span> ou aultre & lavoir<br/> <span class="m">huile</span> & entourne dun siecle destrempe non trop espes ton <span class="m">plastre</span> en<br/> <span class="m">eau</span> & desmelle bien avecq le <span class="tl"><span class="bp">doigt</span></span> et sil faict des pustulles jectes y dessus<br/> de la <span class="m">pouldre dudict plastre</span> & <span class="del">[illegible]</span> broye avecq le <span class="tl"><span class="bp">doigt</span></span> jusques a ce \+
+Celuy de <span class="env">montaigne</span> est plus gris et <span class="del">le</span> celuy d<span class="pl">albigeois</span><br/> plus blanc Il le fault cuire a feu clos co{mm}e a <span class="tl">feu de reverbera{ti}on</span><br/> ou <span class="tl">fours de barbiers</span> Et le plus frais cuict est le meilleur a<br/> mectre en besoigne Il le fault broyer subtillem{ent} sur le <span class="tl"><span class="m">mabre</span></span><br/> Apres avoyr præpare ton cave de <span class="m">soufre</span> ou aultre & lavoir<br/> <span class="m">huile</span> & entourne dun siecle destrempe non trop espes ton <span class="m">plastre</span> en<br/> <span class="m">eau</span> & desmelle bien avecq le <span class="tl"><span class="bp">doigt</span></span> et sil faict des pustulles jectes y dessus<br/> de la <span class="m">pouldre dudict plastre</span> & <span class="del"></span> broye avecq le <span class="tl"><span class="bp">doigt</span></span> jusques a ce \+
  
 > *at left bottom margin*
 > 

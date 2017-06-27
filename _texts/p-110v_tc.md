@@ -9,14 +9,14 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [huile dolif, eau froide, huile, eau chaulde, eau, Huile de froment, fer, beurre, huile de froment, plomb, estaim, estaim de glace, rousine, plomb fin, estaim fin]
-tools: [pied, lame de fer]
+tools: [pied, Moules, lame de fer]
 measurements: [quarte partie, trois, lb, onces, ℥]
 bodyparts: [pied]
 places: []
 plants: [olif, froment, fleur de pensee]
 professions: []
 environments: []
-animals: [Moules, moules, papillon, serpents]
+animals: [moules, papillon, serpents]
 ---
 
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-110v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f226.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>110v</a> - - - - - </div>  
@@ -28,7 +28,7 @@ Quand il ha mange quelque chose en le tourmentant<br/> il le rend Et si apres av
  
   
 
-## <span class="al">Moules</span>
+## <span class="tl">Moules</span>
 
  
 Il ny a rien mieulx pour les faire ouvrir que de les<br/> oindre d<span class="m">huile d<span class="pa">olif</span></span> & non daultre Et apres quand<br/> tu les veulx desjoindre Trempe les dans de l<span class="m">eau<br/> froide</span> qui est le secret <span class="del">L</span><span class="add">E</span>t tu verras que l<span class="m">huile</span> encores<br/> quil semble estre imbu Se retirera a part co{mm}e une grasse<br/> Les <span class="al">moules</span> se rendent plus fortes dans l<span class="m">eau froide</span> Et<br/> l<span class="m">eau chaulde</span> malaisem{ent} les dissouldroit Encores questa{n}ts<br/> recuits ilz soient plus maniables & aises a dissouldre<br/> dans l<span class="m">eau</span>
@@ -57,7 +57,7 @@ Pourceque l<span class="m">estaim</span> veult estre gecte fort tanvre Si ta med
 > *at left bottom margin*
 > 
 > 
-> <span class="del">S[illegible]</span>
+> <span class="del">S</span>
  
 > *at left bottom margin*
 > 

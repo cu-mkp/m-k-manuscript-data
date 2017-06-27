@@ -8,11 +8,11 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [sand, oil, cloth, pork skin, walnut oil, white lead,, glair, sands, felt, bone, iron dross, water, egg white, gummed water, elm root, lead, tin, soft lead, pumice, metal scrapings, metal, white lead, minium, aspic oil, varnish, copper, glass salts, manure, Glue, earthenware, or colés, massicot]
-tools: []
-measurements: []
+materials: [sand, oil, cloth, pork skin, walnut oil, white lead,, glair, sands, felt, bone, iron dross, water, egg white, gummed water, elm root, lead, tin, soft lead, pumice, metal scrapings, metal, white lead, minium, aspic oil, Green varnish, copper, sel de verre, dung, Glue, earthen, massicot, varnish]
+tools: [earthen pots]
+measurements: [days]
 bodyparts: []
-places: []
+places: [Flemish]
 plants: []
 professions: []
 environments: []
@@ -54,10 +54,10 @@ Since that moment, I have realized that even though this <span class="m">sand</s
  
   
 
-## Green <span class="m">varnish</span> for <span class="m">copper</span> medals
+## <span class="m">Green varnish</span> for medals of <span class="m">copper</span>
 
  
-After casting them neatly, cover them with <span class="m">glass salts</span>, which we use for sand, & moisten it. & Within three or four days they will be green. Oil them after, & place them under some <span class="m">manure</span>.
+Having casted them very neatly, cover them with <span class="m">sel de verre</span> that we use for sand, & moisten it, & in three or 4 <span class="ms"><span class="tmp">days</span></span> it will be green. Oil them after & keep them under the <span class="m">dung</span>.
  
  
   
@@ -65,5 +65,5 @@ After casting them neatly, cover them with <span class="m">glass salts</span>, w
 ## <span class="m">Glue</span>
 
  
-The Flemish mend their <span class="m">earthenware</span> pots with <span class="m">or colés</span>, that is to say <span class="m">massicot</span>, <span class="m">minium</span> & <span class="m">varnish</span>. 
+The <span class="pl">Flemish</span> reglue their <span class="tl"><span class="m">earthen</span> pots</span> with gold color, that is to say <span class="m">minium</span>, <span class="m">massicot</span>, & <span class="m">varnish</span>. 
  
