@@ -10,7 +10,7 @@ editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [or, argent, argent de foeille, terre emerita, vernis daspic, sandaraque, or bel, or bruny, papier, amydon, eau, eau clere damydon, eau de vye, Terra emerita, safran, colle forte, linge, huiles, Sang de dragon, verre, lie de vin, sang de dragon, esmail rouge cler, rubis, poix, noisettes, eau de vye commune, eau fort, gomme dragant, vernis de tourmentine]
 tools: [linge, mortier, bouteille de verre, tapon de la bouteille]
-measurements: [longuem{ent}]
+measurements: [longuement]
 bodyparts: []
 places: []
 plants: [aspic, poix, noisettes]
@@ -41,7 +41,7 @@ Fais ton assiete d<span class="m">amydon</span> destrempe en <span class="m">eau
 ## Oster taches
 
  
-La bonne <span class="m">eau de vye</span> les oste si tu en frottes le<br/> vestem{ent}
+La bonne <span class="m">eau de vye</span> les oste si tu en frottes le<br/> vestement
  
  
   
@@ -65,14 +65,14 @@ La bonne <span class="m">eau de vye</span> les oste si tu en frottes le<br/> ves
 ## <span class="m">Sang de dragon</span>
 
  
-Ayes de la larme diceluy bien choisie qui demonstre son<br/> rouge transparent Et mets dans une <span class="tl">bouteille de <span class="m">verre</span></span> dans<br/> suffisante quantite de la meilleure <span class="m">eau de vye</span> que tu pourras<br/> <span class="del">Car icelle</span> Et lestouppe bien et si diligemment quil ne sesvente<br/> poinct Aultrem{ent} il ne vauldroict rien Et le laisse ainsy<br/> <span class="ms">longuem{ent}</span> Car tant plus il <span class="del">y</span> demeurera il sera plus beau &<br/> meilleur & se dissoubdra sil est bon Sinon il viendra co{mm}e<br/> <span class="m">lie de vin</span> Quand tu en vouldras user fais un petit<br/> pertuis au <span class="tl">tapon de la bouteille</span> & en verse un peu & le<br/> rebouche a chasque fois puys laplique sur l<span class="m">or</span>
+Ayes de la larme diceluy bien choisie qui demonstre son<br/> rouge transparent Et mets dans une <span class="tl">bouteille de <span class="m">verre</span></span> dans<br/> suffisante quantite de la meilleure <span class="m">eau de vye</span> que tu pourras<br/> <span class="del">Car icelle</span> Et lestouppe bien et si diligemment quil ne sesvente<br/> poinct Aultrement il ne vauldroict rien Et le laisse ainsy<br/> <span class="ms">longuement</span> Car tant plus il <span class="del">y</span> demeurera il sera plus beau &<br/> meilleur & se dissoubdra sil est bon Sinon il viendra comme<br/> <span class="m">lie de vin</span> Quand tu en vouldras user fais un petit<br/> pertuis au <span class="tl">tapon de la bouteille</span> & en verse un peu & le<br/> rebouche a chasque fois puys laplique sur l<span class="m">or</span>
  
- Le bon <span class="m">sang de dragon</span> se trouve a grands lopins co{mm}e pieces<br/> de torteau <span class="add">cestuy la ne vault rien et est sophistique</span> & estant rompu il monstre par les costes des escailles<br/> transparentes co{mm}e <span class="del">ro</span> <span class="m">esmail rouge cler</span> il est aussy grumelle<br/> en quelques endroits co{mm}e petits <span class="m">rubis</span> Il fault que l<span class="m">eau de vye</span><br/> soict fort ardente & de plusieurs passes
+ Le bon <span class="m">sang de dragon</span> se trouve a grands lopins comme pieces<br/> de torteau <span class="add">cestuy la ne vault rien et est sophistique</span> & estant rompu il monstre par les costes des escailles<br/> transparentes comme <span class="del">ro</span> <span class="m">esmail rouge cler</span> il est aussy grumelle<br/> en quelques endroits comme petits <span class="m">rubis</span> Il fault que l<span class="m">eau de vye</span><br/> soict fort ardente & de plusieurs passes
  
 > *at left bottom margin*
 > 
 > 
->   @Le plus obscur <span class="m">sang de dragon</span><br/> est le meilleur & ha plus de taincture cest la larme qui se trouve a <span class="del">gr</span> lopins co{mm}e <span class="m"><span class="pa">poix</span></span> et grosses <span class="m"><span class="pa">noisettes</span></span> qui semble 
+>   @Le plus obscur <span class="m">sang de dragon</span><br/> est le meilleur & ha plus de taincture cest la larme qui se trouve a <span class="del">gr</span> lopins comme <span class="m"><span class="pa">poix</span></span> et grosses <span class="m"><span class="pa">noisettes</span></span> qui semble 
 > *Figure*
 > *at right bottom margin*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5cXJfWVlSSGlKOGs" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
@@ -81,7 +81,7 @@ Ayes de la larme diceluy bien choisie qui demonstre son<br/> rouge transparent E
 > *at left bottom margin*
 > 
 > 
->   Je lay mise dans<br/> <span class="m">eau de vye commune</span><br/> y meslant un peu<br/> d<span class="m">eau fort</span> pour luy<br/> donner force Au coma{n}<br/> cem{ent} l<span class="m">eau</span> tira un peu<br/> de taincture Mays en<br/> fin il ne se trouva<br/> quune aparence de<br/> <span class="m">gomme dragant</span> avecq<br/> laquelle je croy quilz<br/> sophistiquent le <span class="m">sang<br/> de dragon</span>
+>   Je lay mise dans<br/> <span class="m">eau de vye commune</span><br/> y meslant un peu<br/> d<span class="m">eau fort</span> pour luy<br/> donner force Au coman<br/> cement l<span class="m">eau</span> tira un peu<br/> de taincture Mays en<br/> fin il ne se trouva<br/> quune aparence de<br/> <span class="m">gomme dragant</span> avecq<br/> laquelle je croy quilz<br/> sophistiquent le <span class="m">sang<br/> de dragon</span>
  
 > *at left bottom margin*
 > 

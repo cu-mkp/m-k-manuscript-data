@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Sand, hoof of an ox, porphyry, elm root, Dross of Iron, ox hoof, felt, lead, Felt, sands, sand, metal, Eau Magistra, salt water, salt, wine, Sanding charcoal, willow charcoal, oak, beech charcoal, oysters, Lead, soft lead, soft tin, white lead, egg white]
+materials: [Sand, bone of oxen feet, porphyry, Iron dross, felt, lead, Felt, sands, sand, metal, Eau Magistra, salt water, salt, wine, elm root, Charcoal, oak, beech, oysters, Lead, soft lead, soft tin, ceruse, egg glaire]
 tools: []
 measurements: []
 bodyparts: []
@@ -25,21 +25,21 @@ animals: []
 ## <span class="m">Sand</span>
 
  
-I tried the <span class="m">hoof of an ox</span>, quite burned & pulverized & very well crushed on <span class="m">porphyry</span>, until it is fine enough to slip through your fingers without being felt. On its own, it makes a very clean mold. But because on its own it is very dry & lean, it demands to be well wet & humidified, with a thick broth with <span class="m">elm root</span>.
+I tried the <span class="m">bone of oxen <span class="add">feet</span></span>, very burned & pulverized & ground on <span class="m">porphyry</span>, until it is not felt between your fingers. It molds on its own very neatly. But because on its own it is very arid & lean, it wants to be well moistened & dampened with wine boiled with elm root.
  
-<span class="m">Dross of Iron</span>, very burned <span class="m">ox hoof</span>, and <span class="m">felt</span>, all burn well in a closed fire. All three ground very finely on <span class="m">porphyry</span> mold very neatly in <span class="m">lead</span>, without any need to reheat it much, & by casting in a box mold either hot or cold.
+<span class="m">Iron dross</span>, well burned <span class="m">bone of oxen feet</span>, <span class="m">felt</span> also well burned over a closed fire, and all three very well ground on <span class="m">porphyry</span> mold very neatly in <span class="m">lead</span>, without needing to be reheated a lot, & casting <span class="del">le</span>in a hot or cold frame.
  
-<span class="m">Felt</span> on its own provides a very clean mold if wet, & comes off easily. And also makes the other two come off easily
- 
-> *at left top margin*
-> 
-> 
->   These <span class="m">sands</span> can only undergo one cast.
+<span class="m">Felt</span> alone molds very neatly once moistened & releases well, and also makes the other two release.
  
 > *at left top margin*
 > 
 > 
->   A fat <span class="m">sand</span> which sticks together neatly, makes bubbles.
+>   These <span class="m">sands</span> only withstand one casting.
+ 
+> *at left top margin*
+> 
+> 
+>   A fat <span class="m">sand</span> which is rendered very smooth, makes it porous.
  
 > *at left middle margin*
 > 
@@ -54,9 +54,9 @@ A fat <span class="m">metal</span> needs lean <span class="m">sand</span>.
 ## <span class="m">Eau Magistra</span>
 
  
-Some people think that <span class="m">salt water</span> is not good, because the <span class="m">salt</span> releases gas when heated & as a result causes bubbles. [In this case], there is only <span class="m">wine</span> boiled with <span class="m">elm root</span>.
+Some people think that <span class="m">salt water</span> is not good, because the <span class="m">salt</span> cracks in fire, & consequently should make it porous. a result causes bubbles. There is only <span class="m">wine</span> boiled with <span class="m">elm root</span>.
  
-<span class="m">Sanding charcoal</span> makes [things] come off well. But one finds that <span class="m">willow charcoal</span> creates bubbles, but <span class="m">oak</span> or <span class="m">beech charcoal</span> does the job without making bubbles.
+<span class="m">Charcoal</span> for poncer makes for a good release, but one finds the one of willow make it porous. The one of <span class="m">oak</span> or <span class="m">beech</span> does well without making it porous.
  
 > *at left middle margin*
 > 
@@ -69,15 +69,15 @@ Some people think that <span class="m">salt water</span> is not good, because th
 ## <span class="m">Lead</span>
 
  
-For casting, there is only <span class="m">soft lead</span> that can be cast at a high temperature. And <span class="m">soft tin</span>.
+For casting, there is only <span class="m">soft lead</span> that wants to be cast very <span class="del">g</span> hot, and <span class="m">soft tin</span>.
  
  
   
 
-##  <span class="m">Sand</span>, for the most excellent <span class="m">lead</span> of all, for large and small reliefs
+##  <span class="m">Sand</span> for lead, the most excellent of all, for large and small reliefs
 
  
- I took <span class="m">white lead</span> and crushed it dry on <span class="m">porphyry</span>, to make it very fine. Then I moistened it a lot with very well beaten <span class="m">egg white</span>, so that it became like a paste, by making it stick together perfectly with the flat of a knife. I let it rest for a while. 
+ I took <span class="m">ceruse</span> and crushed it dry on <span class="m">porphyry</span>, to make it very fine, then I moistened so much, with well beaten <span class="m">egg glaire</span>, that it was like a paste, smoothing it perfectly with the dull side of a knife. I left it a little. 
  
  
 > *Figure*
@@ -88,7 +88,7 @@ For casting, there is only <span class="m">soft lead</span> that can be cast at 
 > *at left bottom margin*
 > 
 > 
->   Mix it well with the knife.
+>   One ought to mix it well with a knife.
  
 *[continued]*
  

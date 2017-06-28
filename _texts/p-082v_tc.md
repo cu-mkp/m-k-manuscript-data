@@ -8,8 +8,8 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [plomb, noir de chandelle, estaing, bronze, laitton de potin, laitton fin de cassole, letton, cuivre rouge, luter, charbon, fer, bourras, cuivre, letton fin]
-tools: [moule de plomb, creuset, forge, crusol, grille, cruset, baston, platte de fer]
+materials: [plomb, noir de chandelle, estaing, bronze, laitton de potin, laitton fin de cassole, letton fin, cuivre rouge, luter, charbon, fer, bourras, cuivre]
+tools: [moule de plomb, creuset, forge, souflets, crusol, grille, cruset, baston, platte de fer]
 measurements: [moictie]
 bodyparts: []
 places: []
@@ -25,7 +25,7 @@ animals: []
 ## <span class="pro">Horlogeurs</span>
 
  
-Ancienem{ent} ilz destrempoient leurs ressorts les plongea{n}t<br/> dans du <span class="m">plomb</span> fondu Mays aujourdhuy ilz trempent<br/> leurs ressorts touts droits & les replient estant trempes<br/> qui est un <span class="del">p</span> beau secret
+Ancienement ilz destrempoient leurs ressorts les plongeant<br/> dans du <span class="m">plomb</span> fondu Mays aujourdhuy ilz trempent<br/> leurs ressorts touts droits & les replient estant trempes<br/> qui est un <span class="del">p</span> beau secret
  
  
   
@@ -61,7 +61,7 @@ Sil est trop gras il le fault recuire Et le repasser
 ## Forme de gecter en <span class="m">bronze</span>
 
  
-Le <span class="m">laitton de potin</span> <span class="del">cor</span> qui est le plus aigre moule plus net<br/> selon lopinion de plusieurs que le <span class="m">laitton fin de cassole</span> Co{mm}e tout <span class="m">letton</span><br/> fin moule plus net que le <span class="m">cuivre rouge</span> Si tu veulx gecter quelque<br/> chose subtile & tanvre Tout le secret est de gecter le plus chault<br/> quil te sera possible De sorte que la matiere bouille Tu<br/> cognoistras quil est bien chault quand il fume fort Et quand<br/> en le remuant il gecte des estincelles Pour bien chaufer colloque<br/> ton <span class="tl">creuset</span> au plus bas & au ras de la <span class="tl">forge</span> affin que les<br/> souflets <span class="del">fra</span> battent au milieu du <span class="tl">crusol</span> car en ceste sorte il<br/> chaufe mieulx que sur la <span class="tl">grille</span> sur laquelle on pose le <span class="tl">creuset</span><br/> soubs lequel battent les souflets Il est vray que le <span class="tl">creuset</span> est<br/> plus dangereulx a casser mays tu le peulx <span class="m">luter</span> co{mm}e tu scais que<br/> font les <span class="pro">fondeurs</span> Et aussy fault il entretenir tousjours du<br/> <span class="m">charbon</span> entre les souflets & le <span class="tl">cruset</span> Advise aussy de gecter<br/> tout a un coup & non pas a parcelles & a gouttes qui sarresteroient<br/> & boucheroient le conduit de la matiere Et si tu fesois au gect<br/> un abreveoir pour abrever ta medaille il nen seroit que mieulx<br/> Et affin que la matiere chaufe bien au fonds remue la esta{n}t<br/> fondue avecq un <span class="tl">baston</span> Car le <span class="m">fer</span> ne faict quaigrir Tourne 
+Le <span class="m">laitton de potin</span> <span class="del">cor</span> qui est le plus aigre moule plus net<br/> selon lopinion de plusieurs que le <span class="m">laitton fin de cassole</span> Comme tout <span class="m">letton<br/> fin</span> moule plus net que le <span class="m">cuivre rouge</span> Si tu veulx gecter quelque<br/> chose subtile & tanvre Tout le secret est de gecter le plus chault<br/> quil te sera possible De sorte que la matiere bouille Tu<br/> cognoistras quil est bien chault quand il fume fort Et quand<br/> en le remuant il gecte des estincelles Pour bien chaufer colloque<br/> ton <span class="tl">creuset</span> au plus bas & au ras de la <span class="tl">forge</span> affin que les<br/> <span class="tl">souflets</span> <span class="del">fra</span> battent au milieu du <span class="tl">crusol</span> car en ceste sorte il<br/> chaufe mieulx que sur la <span class="tl">grille</span> sur laquelle on pose le <span class="tl">creuset</span><br/> soubs lequel battent les <span class="tl">souflets</span> Il est vray que le <span class="tl">creuset</span> est<br/> plus dangereulx a casser mays tu le peulx <span class="m">luter</span> comme tu scais que<br/> font les <span class="pro">fondeurs</span> Et aussy fault il entretenir tousjours du<br/> <span class="m">charbon</span> entre les <span class="tl">souflets</span> & le <span class="tl">cruset</span> Advise aussy de gecter<br/> tout a un coup & non pas a parcelles & a gouttes qui sarresteroient<br/> & boucheroient le conduit de la matiere Et si tu fesois au gect<br/> un abreveoir pour abrever ta medaille il nen seroit que mieulx<br/> Et affin que la matiere chaufe bien au fonds remue la estant<br/> fondue avecq un <span class="tl">baston</span> Car le <span class="m">fer</span> ne faict quaigrir Tourne 
  
 > *at left middle margin*
 > 

@@ -25,7 +25,7 @@ animals: []
 ## Umbres
 
  
-Pourceque les noirs font diverses couleurs les uns un noir rougeastre<br/> les aultres tirant sur le bleu aultres sur le vert Choisis ceulx<br/> qui retirent sur le jaulne pour faire beaulx umbres a <span class="m">huile</span> Car<br/> lumbre mesmem{ent} des hommes est jaulnastre Et pour cet effect use<br/> de la <span class="m">geiete</span> broyee bien fort laquelle tu mesleras dun peu d<span class="m">ocre <span class="add">jaulne</span></span> & de<br/> <span class="m">blanc de plomb</span> Ou bien apres que tu as broye ton <span class="m">blanc de plomb</span><br/> <span class="del">bro</span> et <span class="del">nettoye p</span> ramasse avecq la  broyes y la <span class="m">geiette</span> Ainsy il<br/> sera plus desiccatif & faisant de soy mesme un noir jaulnastre<br/> le peu de blanc mesle le rendra parfaict pour umbre dhomme<br/> Les noirs qui font un noir verdastre sont propres pour lOmbre<br/> des femmes Prens doncq du noir de [missing word] un peu de <span class="m">verd de<br/> vessie</span> & du <span class="m">bistre</span> & tu auras un parfaict umbre de femme a destrempe
+Pourceque les noirs font diverses couleurs les uns un noir rougeastre<br/> les aultres tirant sur le bleu aultres sur le vert Choisis ceulx<br/> qui retirent sur le jaulne pour faire beaulx umbres a <span class="m">huile</span> Car<br/> lumbre mesmement des hommes est jaulnastre Et pour cet effect use<br/> de la <span class="m">geiete</span> broyee bien fort laquelle tu mesleras dun peu d<span class="m">ocre <span class="add">jaulne</span></span> & de<br/> <span class="m">blanc de plomb</span> Ou bien apres que tu as broye ton <span class="m">blanc de plomb</span><br/> <span class="del">bro</span> et <span class="del">nettoye p</span> ramasse avecq la  broyes y la <span class="m">geiette</span> Ainsy il<br/> sera plus desiccatif & faisant de soy mesme un noir jaulnastre<br/> le peu de blanc mesle le rendra parfaict pour umbre dhomme<br/> Les noirs qui font un noir verdastre sont propres pour lOmbre<br/> des femmes Prens doncq du noir de missing word un peu de <span class="m">verd de<br/> vessie</span> & du <span class="m">bistre</span> & tu auras un parfaict umbre de femme a destrempe
  
 > *at left top margin*
 > 
@@ -38,7 +38,7 @@ Pourceque les noirs font diverses couleurs les uns un noir rougeastre<br/> les a
 ## Carnation
 
  
-Il fault bien cognoistre le meslange des couleurs & les ombres<br/> propres Mays sur tout regarde de les bien adoulcir Et<br/> note & observe quune chose qui se monstre platte veult estre<br/> adoulcie de long comme venant de la <span class="del">l{ett}re a ga</span> droicte a la<br/> gaulche co{mm}e 
+Il fault bien cognoistre le meslange des couleurs & les ombres<br/> propres Mays sur tout regarde de les bien adoulcir Et<br/> note & observe quune chose qui se monstre platte veult estre<br/> adoulcie de long comme venant de la <span class="del">lettre a ga</span> droicte a la<br/> gaulche comme 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5eUhrRmdpaWNCZlk" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  et ce qui se doibt representer rond<br/> doibt estre adoulci en rond
@@ -62,15 +62,15 @@ Si apres que les couleurs couchees sont imbeues il reste quelque<br/> partye lui
 > *at left middle margin*
 > 
 > 
->   On ne peult<br/> point coucher<br/> a <span class="m">huile</span> sur un<br/> <span class="m">papier</span> coupe<br/> & patronner<br/> co{mm}e a destrempe<br/> Car la couleur<br/> couleroit Ainsy<br/> pour dorer d<span class="m">or</span> mat<br/> il fault poncer &<br/> puys coucher l<span class="m">or couleurs</span><br/> avecq le pinceau
+>   On ne peult<br/> point coucher<br/> a <span class="m">huile</span> sur un<br/> <span class="m">papier</span> coupe<br/> & patronner<br/> comme a destrempe<br/> Car la couleur<br/> couleroit Ainsy<br/> pour dorer d<span class="m">or</span> mat<br/> il fault poncer &<br/> puys coucher l<span class="m">or couleurs</span><br/> avecq le pinceau
  
 > *at left bottom margin*
 > 
 > 
->   Toutes couleurs<br/> grasses co{mm}e la<br/> <span class="m">ceruse</span> et le <span class="m">minium</span><br/> le <span class="m">massicot</span> l<span class="m">ocre</span><br/> <span class="m">blanc de plomb</span><br/> sont bonnes pour<br/> faire <span class="m">or couleur</span>.
+>   Toutes couleurs<br/> grasses comme la<br/> <span class="m">ceruse</span> et le <span class="m">minium</span><br/> le <span class="m">massicot</span> l<span class="m">ocre</span><br/> <span class="m">blanc de plomb</span><br/> sont bonnes pour<br/> faire <span class="m">or couleur</span>.
  
 > *at left bottom margin*
 > 
 > 
->   Toute couleur ou chose<br/> qui se rend espesse<br/> y mectant de l<span class="m">eau</span><br/> en broyant a<br/> corps Mays celles<br/> qui nen ont point<br/> co{mm}e le <span class="m">verre</span> pile<br/> la <span class="m">laque</span> & se<br/> rendent claires
+>   Toute couleur ou chose<br/> qui se rend espesse<br/> y mectant de l<span class="m">eau</span><br/> en broyant a<br/> corps Mays celles<br/> qui nen ont point<br/> comme le <span class="m">verre</span> pile<br/> la <span class="m">laque</span> & se<br/> rendent claires
  

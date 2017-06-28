@@ -33,7 +33,7 @@ Si en ton gect il survient quelque petit trou, racoustre le<br/> avecq de la <sp
 ## <span class="m">Laque</span>
 
  
-Si estant broyee tu la laisses seicher sans la tenir en l<span class="m">eau</span><br/> elle dessechera & tu auras aultant de peyne a la broyer co{mm}e<br/> au parava{n}t <span class="del"><span class="add">La</span></span>
+Si estant broyee tu la laisses seicher sans la tenir en l<span class="m">eau</span><br/> elle dessechera & tu auras aultant de peyne a la broyer comme<br/> au paravant <span class="del"><span class="add">La</span></span>
  
  
   
@@ -54,7 +54,7 @@ Quand il est long a fayre prise & seicher cest signe quil est<br/> trop gras & h
 > *at left middle margin*
 > 
 > 
->   Il le fault<br/> bien <span class="m">huiler</span> car<br/> il est plus difficile<br/> a se separer les<br/> deulx moicties des<br/> <span class="tl">moules</span> que<br/> qua{n}d il est<br/> mesle
+>   Il le fault<br/> bien <span class="m">huiler</span> car<br/> il est plus difficile<br/> a se separer les<br/> deulx moicties des<br/> <span class="tl">moules</span> que<br/> quand il est<br/> mesle
  
  
   

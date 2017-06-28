@@ -30,10 +30,10 @@ Il sen faict de <span class="m">buys</span> marquetees d<span class="m">ebene</s
  
   
 
-## L{ett}re plus lisable
+## Lettre plus lisable
 
  
-On taille les plus grandes pieces de <span class="m">beril</span> ou <span class="m">cristal</span> en rond<br/> dun coste & de plat par laultre puys on lenchasse avecq un<br/> petit manche et on assoict le coste plat sur la l{ett}re
+On taille les plus grandes pieces de <span class="m">beril</span> ou <span class="m">cristal</span> en rond<br/> dun coste & de plat par laultre puys on lenchasse avecq un<br/> petit manche et on assoict le coste plat sur la lettre
  
  
   
@@ -49,7 +49,7 @@ Si tu as quelque medaille de <span class="m">bronze</span> & que tu la veuilles<
 ## Ramolir la <span class="m">corne</span>
 
  
-Ceulx qui <span class="del">acou</span> mectent en œuvre les agnus dei & font des cercles<br/> de <span class="m">corne</span> pour certaines petites boictes Ramolissent <span class="del">ladicte</span> lesdicts<br/> cercles les mectant seulem{ent} tremper dans l<span class="m">eau</span> chaulde & les faconnent apres<br/> sur un <span class="tl">triboulet</span> en rond ou faict en ovale
+Ceulx qui <span class="del">acou</span> mectent en œuvre les agnus dei & font des cercles<br/> de <span class="m">corne</span> pour certaines petites boictes Ramolissent <span class="del">ladicte</span> lesdicts<br/> cercles les mectant seulement tremper dans l<span class="m">eau</span> chaulde & les faconnent apres<br/> sur un <span class="tl">triboulet</span> en rond ou faict en ovale
  
  
   

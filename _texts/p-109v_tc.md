@@ -23,7 +23,7 @@ animals: [grenoille, Crapault, serpents, lezards]
  
 *[continued]*
   
-quand ilz veulent mordre ou manger quelque chose ilz ne le<br/> mordent pas de droicte attaque ains par sinueulx retournem{ent}<br/> & de travers co{mm}e faict <span class="pn">sathan</span> & ses <span class="pro">suposts</span> Il ha la teste<br/> petite mays le corps fort grand Lentree du peche semble<br/> estre petite & de peu de consequence Mays la suicte en est<br/> fort grande il sabstient de manger sept ou huict <span class="ms"><span class="tmp">jours</span></span> si<br/> une fois il ha devore quelque <span class="al">grenoille</span> il en avalle bien<br/> trois ou quattre lune apres laultre Et ce quil ha devore<br/> ne se corrompt & consume pas tout a un coup dans son estomach<br/> Mays <span class="del">p</span> quelque partie peu a peu scavoir os et tout Et le<br/> reste se trouve aussy frais co{mm}e quand il ha devore de<br/> sorte que quelque fois quon le presse & tourmente il rend<br/> ce quil ha englouty qui en partye se trouve tout consume<br/> & laultre aussy frais comme sil estoit vif il tient bien<br/> deulx ou trois <span class="ms"><span class="tmp">heures</span></span> une <span class="al">grenoille</span> engloutie & la rend<br/> toute vive
+quand ilz veulent mordre ou manger quelque chose ilz ne le<br/> mordent pas de droicte attaque ains par sinueulx retournement<br/> & de travers comme faict <span class="pn">sathan</span> & ses <span class="pro">suposts</span> Il ha la teste<br/> petite mays le corps fort grand Lentree du peche semble<br/> estre petite & de peu de consequence Mays la suicte en est<br/> fort grande il sabstient de manger sept ou huict <span class="ms"><span class="tmp">jours</span></span> si<br/> une fois il ha devore quelque <span class="al">grenoille</span> il en avalle bien<br/> trois ou quattre lune apres laultre Et ce quil ha devore<br/> ne se corrompt & consume pas tout a un coup dans son estomach<br/> Mays <span class="del">p</span> quelque partie peu a peu scavoir os et tout Et le<br/> reste se trouve aussy frais comme quand il ha devore de<br/> sorte que quelque fois quon le presse & tourmente il rend<br/> ce quil ha englouty qui en partye se trouve tout consume<br/> & laultre aussy frais comme sil estoit vif il tient bien<br/> deulx ou trois <span class="ms"><span class="tmp">heures</span></span> une <span class="al">grenoille</span> engloutie & la rend<br/> toute vive
  
  
   
@@ -31,7 +31,7 @@ quand ilz veulent mordre ou manger quelque chose ilz ne le<br/> mordent pas de d
 ## <span class="al">Crapault</span>
 
  
-Si par cas fortuit tu voulois mouler ce vilain animal<br/> & quil <span class="m">pissast</span> en ta <span class="bp">main</span> cela te feroict cuire & prurir<br/> la main co{mm}e si tu avoys manie des <span class="pa">orties</span> Mays le<br/> plus souverain <span class="md">remede</span> pour cela est de me[c]tre la main<br/> <span class="env">dans de la <span class="m">terre</span> fresche</span> & len couvrir co{mm}e si tu<br/> la voulois ensepvelir La <span class="al">grenoille</span> nest pas si belle<br/> moulee a cause quelle ha la peau vive & laultre lha grumeleuse
+Si par cas fortuit tu voulois mouler ce vilain animal<br/> & quil <span class="m">pissast</span> en ta <span class="bp">main</span> cela te feroict cuire & prurir<br/> la main comme si tu avoys manie des <span class="pa">orties</span> Mays le<br/> plus souverain <span class="md">remede</span> pour cela est de mectre la main<br/> <span class="env">dans de la <span class="m">terre</span> fresche</span> & len couvrir comme si tu<br/> la voulois ensepvelir La <span class="al">grenoille</span> nest pas si belle<br/> moulee a cause quelle ha la peau vive & laultre lha grumeleuse
  
 > *at left middle margin*
 > 
@@ -41,7 +41,7 @@ Si par cas fortuit tu voulois mouler ce vilain animal<br/> & quil <span class="m
 > *at right middle margin*
 > 
 > 
->   Quand il est grand il se fault mouler creux & si tu<br/> luy veulx fayre la gueule ouverte mects du <span class="m">cotton</span> deda{n}s<br/> & puys sur le <span class="m">cotton</span> de la<br/> <span class="m">cire</span> fondue
+>   Quand il est grand il se fault mouler creux & si tu<br/> luy veulx fayre la gueule ouverte mects du <span class="m">cotton</span> dedans<br/> & puys sur le <span class="m">cotton</span> de la<br/> <span class="m">cire</span> fondue
  
  
   
@@ -49,10 +49,10 @@ Si par cas fortuit tu voulois mouler ce vilain animal<br/> & quil <span class="m
 ## Fayre mourir <span class="al">serpents</span> pour mouler
 
  
-Aulcuns leur mectent une goutte d<span class="m">eau fort</span> dans la gueule<br/> ce qui les hebete bien de sorte que la teste & la partie<br/> anterieure semble estre morte Mays la gueule demeure<br/> vive Et comme tu la piques avec l<span class="tl">espingle</span> pour lacommoder<br/> au <span class="tl">molle</span> elle se remue & gaste & deffaict tout donc pour<br/> les faire mourir toutallem[{ent}] Mects les dans une <span class="tl">bouteille</span><br/> dans de bon <span class="m">vinaigre</span> & un peu d<span class="m">eau de vye</span> Et fays<br/> ainsi des <span class="al">lezards</span> & aultres bestes semblables
+Aulcuns leur mectent une goutte d<span class="m">eau fort</span> dans la gueule<br/> ce qui les hebete bien de sorte que la teste & la partie<br/> anterieure semble estre morte Mays la gueule demeure<br/> vive Et comme tu la piques avec l<span class="tl">espingle</span> pour lacommoder<br/> au <span class="tl">molle</span> elle se remue & gaste & deffaict tout donc pour<br/> les faire mourir toutallement Mects les dans une <span class="tl">bouteille</span><br/> dans de bon <span class="m">vinaigre</span> & un peu d<span class="m">eau de vye</span> Et fays<br/> ainsi des <span class="al">lezards</span> & aultres bestes semblables
  
 > *at left bottom margin*
 > 
 > 
->   Si tu les veulx<br/> garder tu les peulx<br/> mectre Dans une<br/> <span class="tl">pipe</span> pleine de <span class="m">terre</span><br/> <span class="env">en un jardin</span> <span class="env">A lair</span><br/> Mays il fault que<br/> la <span class="tl">pippe</span> soict<br/> couverte de <span class="tl"><span class="m">fil darchal</span></span><br/> Car aultrem{ent} ilz<br/> gri[m]peroient & monteroient<br/> fort hault
+>   Si tu les veulx<br/> garder tu les peulx<br/> mectre Dans une<br/> <span class="tl">pipe</span> pleine de <span class="m">terre</span><br/> <span class="env">en un jardin</span> <span class="env">A lair</span><br/> Mays il fault que<br/> la <span class="tl">pippe</span> soict<br/> couverte de <span class="tl"><span class="m">fil darchal</span></span><br/> Car aultrement ilz<br/> grimperoient & monteroient<br/> fort hault
  

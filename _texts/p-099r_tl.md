@@ -29,16 +29,16 @@ animals: []
  
 <span class="m">Latten</span> needs to be cast warmer than <span class="m">copper</span>, which I do not believe.
  
-To cast scrupulously, you must not take all of the <span class="m">alloyed metals</span> together, but take them in [their] pure [form] & mix them.
+To cast scrupulously, you must not take all of the <span class="m">alloyed metals</span> together, but take them in their pure form & mix them.
  
-<span class="m">Iron</span> shoul not […] to cast in <span class="m">copper</span> or <span class="m">brass</span>.
+<span class="m">Iron</span> shoul not … to cast in <span class="m">copper</span> or <span class="m">brass</span>.
  
 It is better to mold <span class="m">sand</span> at once, either as a molding box or <span class="m">noyau</span>, rather than several casts.
  
 > *at left top margin*
 > 
 > 
->   You must reheat a crucible on a charcoal fire which easily ignites for one or two hours with the material inside. Then breathe on it & cover the crucible with large pieces of charcoal & the opening of the stove with bricks, and let it consume two or three lumps of charcoal which shall fill the stove beneath the crucible. Eventually put the molding box on the fire & when the flame is very white & the material is as light as <span class="m">water</span> & spitting some pale blue flames, [make the] cast. The secret to casting well is to do so at a very high temperature & speedily.
+>   You must reheat a crucible on a charcoal fire which easily ignites for one or two hours with the material inside. Then breathe on it & cover the crucible with large pieces of charcoal & the opening of the stove with bricks, and let it consume two or three lumps of charcoal which shall fill the stove beneath the crucible. Eventually put the molding box on the fire & when the flame is very white & the material is as light as <span class="m">water</span> & spitting some pale blue flames, make the cast. The secret to casting well is to do so at a very high temperature & speedily.
  
  
   
@@ -46,7 +46,7 @@ It is better to mold <span class="m">sand</span> at once, either as a molding bo
 ## Thin white <span class="m">sand</span>
 
 
- without bond is perfect for casting & it becomes thicker if you crush it very finely on <span class="m">porphyry</span> or you calcinate it by making it red—hot several times, & if it becomes <span class="m">vinegar</span> or thinner with <span class="m">water</span>, as you know, it casts as well very precisely in a core, as I did the experiment. But don't soak it with salted water if you want to anneal it quickly for salt boils on fire & creates more dust while it is being pressed by the fire. I think that reheated cores gently would not react like this. I cast very neatly as a core some matter and […]. white <span class="m">sand</span> smells <span class="m">sulphur</span> when it is reheated, and I think that it would melt. And since the material has been cast into it, it takes in the mold a luster as if it were leaded or vitrified. I think that <span class="pro">glassmakers</span> could use it.
+ without bond is perfect for casting & it becomes thicker if you crush it very finely on <span class="m">porphyry</span> or you calcinate it by making it red—hot several times, & if it becomes <span class="m">vinegar</span> or thinner with <span class="m">water</span>, as you know, it casts as well very precisely in a core, as I did the experiment. But don't soak it with salted water if you want to anneal it quickly for salt boils on fire & creates more dust while it is being pressed by the fire. I think that reheated cores gently would not react like this. I cast very neatly as a core some matter and …. white <span class="m">sand</span> smells <span class="m">sulphur</span> when it is reheated, and I think that it would melt. And since the material has been cast into it, it takes in the mold a luster as if it were leaded or vitrified. I think that <span class="pro">glassmakers</span> could use it.
  
 > *at left middle margin*
 > 

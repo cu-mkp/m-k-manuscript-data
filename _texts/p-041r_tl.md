@@ -33,7 +33,7 @@ It renders itself fat once beaten and also mixed with <span class="m"><span clas
 ## Garden lily
 
  
-If it is broken during its first blossom, it will not grow or bloom until the following year, and I believe it is the same for bulbous flowers [in general].
+If it is broken during its first blossom, it will not grow or bloom until the following year, and I believe it is the same for bulbous flowers in general.
 
  
   

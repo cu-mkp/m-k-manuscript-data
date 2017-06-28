@@ -25,7 +25,7 @@ animals: []
 ## <span class="m">Velours</span> @et noirs
 
  
-Il fault fault faire l<span class="del">e</span>a <span class="del">milieu</span> principalle couche <span class="del">d</span>fort<br/> obscure & les plis & rehaulssem{ent} de la mesme fort esclarcie<br/> avecq du blanc & sur les fins d<span class="del">u</span>e son jour tu donnes un<br/> traict blanc Pour <span class="m">velours</span> bleu & vert Tu <span class="del">rehaulsses</span><br/> touches le renfoncem{ent} de noir d<span class="m">os de peche</span> qui est fort<br/> noir Pour <span class="m">laque</span> le noir de <span class="m">charbon de pierre</span> qui<br/> faict un noir rougeastre <span class="add">sur <span class="m">laque</span> pour <span class="m">velours</span></span> Le <span class="m">charbon</span> commun faict<br/> un noir blanchastre <span class="del">P</span>
+Il fault fault faire l<span class="del">e</span>a <span class="del">milieu</span> principalle couche <span class="del">d</span>fort<br/> obscure & les plis & rehaulssement de la mesme fort esclarcie<br/> avecq du blanc & sur les fins d<span class="del">u</span>e son jour tu donnes un<br/> traict blanc Pour <span class="m">velours</span> bleu & vert Tu <span class="del">rehaulsses</span><br/> touches le renfoncement de noir d<span class="m">os de peche</span> qui est fort<br/> noir Pour <span class="m">laque</span> le noir de <span class="m">charbon de pierre</span> qui<br/> faict un noir rougeastre <span class="add">sur <span class="m">laque</span> pour <span class="m">velours</span></span> Le <span class="m">charbon</span> commun faict<br/> un noir blanchastre <span class="del">P</span>
  
  
   
@@ -73,5 +73,5 @@ Il ne sy employe que trois couleurs le blanc le noir<br/> & le <span class="m">b
 ## Adoulcir
 
  
-Si tu as travaille & faict ton assiete de quelque couleur desiccative<br/> co{mm}e le <span class="m">mine</span> & semblable acheve dadoulcir pendant que louvraige est<br/> frais Car si tu attendois au lendemain il seroit sec & tu ne pourrois<br/> nettem{ent} achever
+Si tu as travaille & faict ton assiete de quelque couleur desiccative<br/> comme le <span class="m">mine</span> & semblable acheve dadoulcir pendant que louvraige est<br/> frais Car si tu attendois au lendemain il seroit sec & tu ne pourrois<br/> nettement achever
  

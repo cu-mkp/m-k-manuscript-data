@@ -35,7 +35,7 @@ animals: []
 > *at left top margin*
 > 
 > 
->   It is good if the platform is slightly oriented upwards because the piece is more quickly put in action [& tient plus coup] and hits harder.
+>   It is good if the platform is slightly oriented upwards because the piece is more quickly put in action & tient plus coup and hits harder.
  
 *[continued]*
  

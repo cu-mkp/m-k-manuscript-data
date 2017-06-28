@@ -52,7 +52,7 @@ If your herbage is very fine, in addition to vents, you can drive a thread throu
 
  
 After your molds have their cast vents and clamps, fix the clamps as above mentioned. Then make a round, made of <span class="m">bricks</span>, at the edge of your forge, or in a clean place. Fill this round with big, half—lighted pieces of <span class="m">charcoal</span>. Put your molds on the round, and leave it during half an hour, that way it will gently heat up and not all at once. Finally, when <span class="m">coals</span> start being white, add big half—lighted big pieces of <span class="m">charcoal</span> and blow with your small bellows until hot. Do as such, slowly, until the molds redden inside and out. If you want to cast a herbage or an animal which are difficult to strip, and you need to burn what is in the mold, look into the cast and see if it is molds are quite red and inflamed inside; this will be a sign that they are properly annealed. If it is not so, increase the heat and keep at it until it becomes thus. If there is nothing inside the mold to be burnt, this heat is good for <span class="m">tin</span> casting. The molds for <span class="m">tin</span> casting are much better annealed in a reverberatory furnace.
- [image] 
+ image 
 > *at left bottom margin*
 > 
 > 
@@ -69,7 +69,7 @@ After your molds have their cast vents and clamps, fix the clamps as above menti
 > *at left bottom margin*
 > 
 > 
->   If you want to cast <span class="m">silver</span>, do not anneal twice, and if something stays in the mold and that must be burnt because no good […]
+>   If you want to cast <span class="m">silver</span>, do not anneal twice, and if something stays in the mold and that must be burnt because no good …
  
 *[continued]*
  

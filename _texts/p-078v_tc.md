@@ -25,7 +25,7 @@ animals: [loup, chien]
 ## Pour faire <span class="m">bronze</span> en<br/> couleur dassier
 
  
-Prens de l<span class="m">alung de glace</span> & de l<span class="m">anthimoyne</span><br/> mais Il fault deux foys aultant d<span class="m">alung</span> de<br/> glace q{ue} d<span class="m">enthimoyne</span> et pille le tout ensemble<br/> dedans ung mortier de <span class="m">fer</span> & puys destrampe aveq de<br/> l<span class="m">eau de Gomme</span> en le broiant sur ung <span class="m">marbre</span> &<br/> puys en fault user aveq le pinceau & appres laisser<br/> seicher et puys le polir aveq ung <span class="tl">dan de <span class="al">loup</span></span> ou<br/> <span class="tl">de <span class="al">chien</span></span>
+Prens de l<span class="m">alung de glace</span> & de l<span class="m">anthimoyne</span><br/> mais Il fault deux foys aultant d<span class="m">alung</span> de<br/> glace que d<span class="m">enthimoyne</span> et pille le tout ensemble<br/> dedans ung mortier de <span class="m">fer</span> & puys destrampe aveq de<br/> l<span class="m">eau de Gomme</span> en le broiant sur ung <span class="m">marbre</span> &<br/> puys en fault user aveq le pinceau & appres laisser<br/> seicher et puys le polir aveq ung <span class="tl">dan de <span class="al">loup</span></span> ou<br/> <span class="tl">de <span class="al">chien</span></span>
  
  
   
@@ -49,7 +49,7 @@ Prens <span class="m">verd de Gris</span> & le destrampe aveq fort <span class="
 ## Pour faire <span class="m">bronze</span>
 
  
-Prens <span class="m">Limailhe despaingle</span> & au{ltr}e de <span class="m">leton</span> & le<br/> mectz ensemble & le broye sur ung <span class="m">marbre</span> bien broyez<br/> aveq de leau peu a peu Jusques ace q{uil}z soient distilez<br/> puys les mectz dedans q{ue}lque vaisseau noeuf Et
+Prens <span class="m">Limailhe despaingle</span> & aultre de <span class="m">leton</span> & le<br/> mectz ensemble & le broye sur ung <span class="m">marbre</span> bien broyez<br/> aveq de leau peu a peu Jusques ace quilz soient distilez<br/> puys les mectz dedans quelque vaisseau noeuf Et
  
 *[continued]*
  

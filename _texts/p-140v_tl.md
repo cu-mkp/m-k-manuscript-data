@@ -23,7 +23,7 @@ animals: []
  
 *[continued]*
   
- to engrave on <span class="m">silver</span> & <span class="m">copper</span> with aqua fortis. With this [<span class="m">wax</span>] too, one fills the cavity of a relief, & then casts in this cavity, with moistened <span class="m">sand</span>, which immediately takes the relief very neatly. And then you can cast its cavity on it in <span class="m">copper</span>, <span class="m">gold</span>, and <span class="m">silver</span>, and make really singular seals.
+ to engrave on <span class="m">silver</span> & <span class="m">copper</span> with aqua fortis. With this <span class="m">wax</span> too, one fills the cavity of a relief, & then casts in this cavity, with moistened <span class="m">sand</span>, which immediately takes the relief very neatly. And then you can cast its cavity on it in <span class="m">copper</span>, <span class="m">gold</span>, and <span class="m">silver</span>, and make really singular seals.
  
 > *at left top margin*
 > 

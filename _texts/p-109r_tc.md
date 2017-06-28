@@ -33,7 +33,7 @@ Quand la <span class="m">cire</span> est trop dure on y mesle de la <span class=
 ## <span class="m">Cire</span> a mouler —
 
  
-Comme la <span class="m">cire</span> est fondue ilz ont du <span class="m">soufre</span> fondu dans<br/> une <span class="tl">cuillere</span> ou <span class="tl">crusol</span> & en versent dans la <span class="m">cire</span> fondue Et<br/> le <span class="m">soufre</span> allant au fonds ou demeurant par dessus il laisse<br/> & mesle seulem{ent} sa substance parmy la <span class="m">cire</span> & la rend plus<br/> fusible en leschaufant desorte que layant moulee elle se<br/> fond dans le <span class="tl">moule</span> doulcem{ent} co{mm}e <span class="m">beurre</span> sans y laisser aulcune<br/> pustule ou bouillon Sois aussy adverty de ne luy donner pas<br/> trop grand foeu.
+Comme la <span class="m">cire</span> est fondue ilz ont du <span class="m">soufre</span> fondu dans<br/> une <span class="tl">cuillere</span> ou <span class="tl">crusol</span> & en versent dans la <span class="m">cire</span> fondue Et<br/> le <span class="m">soufre</span> allant au fonds ou demeurant par dessus il laisse<br/> & mesle seulement sa substance parmy la <span class="m">cire</span> & la rend plus<br/> fusible en leschaufant desorte que layant moulee elle se<br/> fond dans le <span class="tl">moule</span> doulcement comme <span class="m">beurre</span> sans y laisser aulcune<br/> pustule ou bouillon Sois aussy adverty de ne luy donner pas<br/> trop grand foeu.
  
 > *at left top margin*
 > 
@@ -51,7 +51,7 @@ Affin que ton <span class="tl">moule</span> grippe sans refuser en aulcun lieu s
 > *at left middle margin*
 > 
 > 
->   Oings fort fort<br/> legerem{ent} d<span class="m">huile</span><br/> si peu que quasi<br/> il ne paroisse<br/> point puys<br/> frotte d<span class="m">eau de vye</span><br/> Apres destrempe<br/> ton sable d<span class="m">eau<br/> tiede</span> affin quil<br/> ne refuse pas<br/> l<span class="m">huile</span>
+>   Oings fort fort<br/> legerement d<span class="m">huile</span><br/> si peu que quasi<br/> il ne paroisse<br/> point puys<br/> frotte d<span class="m">eau de vye</span><br/> Apres destrempe<br/> ton sable d<span class="m">eau<br/> tiede</span> affin quil<br/> ne refuse pas<br/> l<span class="m">huile</span>
 
  
   
@@ -59,7 +59,7 @@ Affin que ton <span class="tl">moule</span> grippe sans refuser en aulcun lieu s
 ## <span class="tl">Souflets</span> de la <span class="tl">forge</span>
 
  
-Il est mieulx que par le portevent ils soient enchasser dans quelque<br/> bout de membreure <span class="del">q</span> car ilz en sont plus asseures apres tu les<br/> peuls legerem{ent} asseurer par hault Il fault que les tuelles soient<br/> 4 <span class="ms"><span class="bp">doigts</span></span> sur la sole de la <span class="tl">forge</span>
+Il est mieulx que par le portevent ils soient enchasser dans quelque<br/> bout de membreure <span class="del">q</span> car ilz en sont plus asseures apres tu les<br/> peuls legerement asseurer par hault Il fault que les tuelles soient<br/> 4 <span class="ms"><span class="bp">doigts</span></span> sur la sole de la <span class="tl">forge</span>
 
  
   

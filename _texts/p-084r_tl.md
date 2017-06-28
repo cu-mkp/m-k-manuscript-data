@@ -8,11 +8,11 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [paper, Magistry, rock salt, sandever, marble, tartar oil, Flour, Sand, Toulousain sand, glass, essences of the aforementioned salts, natural sand, copper]
+materials: [paper, Eau magistra, rock salt, sandever, marble, Flour, Sand, sand from Toulouse, glass, natural sand, copper]
 tools: []
 measurements: []
 bodyparts: []
-places: [Toulousain]
+places: [Toulouse]
 plants: []
 professions: []
 environments: []
@@ -25,17 +25,17 @@ animals: []
 ## Impromptu mask
 
  
-Mold some <span class="m">paper</span> & put it on the face of somebody who is making an ugly grimace, let it dry & take your pattern to paint
+Mold some <span class="m">paper</span> & put it on the face of somebody who is making an ugly grimace. Let it dry & take your pattern to paint from it
  
- # &liftings. It is necessary that it not be too wet for the aforementioned reasons. Reheat little by little, and if you left it out to dry slowly in some dry place & without any high heat after molding it, it would work better, since if you expose it all of a sudden to high heat, it warps. I think it would be very convenient to reheat it in the mouth of the oven after you take bread out of it. One should not complain about the difficulty of preparing it; it can take as many castings as you wish, because it becomes as hard as marble & you can polish it, & the mold cannot be ruined. Having used it, crush & sift it again, without making a special effort to crush it very finely, since, when sifted through a common sieve, it is stronger and strips better than when it is very fine.
+ # & swellings. It is necessary that it not be too wet for the above said reasons. Reheat little <span class="add">by little</span>. And if, after having been molded, you leave it to dry slowly, in some dry place, & not over a big fire, it would be better, for when one exposes it all at once to intense heat, it swells. I believe that reheating it at the mouth of the furnace, after you have taken the bread out, would be well proper. One ought not complain about the difficulty of preparing it, for it withstands as many castings as you wish, because it renders itself hard as marble & you can polish it & the mold cannot be spoiled. Having been used, crush & sieve again, yet without being so scrupulous as to render it very fine, <span class="del">I</span> for once passed only through a common sieve, it has more force and releases better, than when it is so fine.
  
  
   
 
-## <span class="m">Magistry</span>
+## <span class="m">Eau magistra</span>
 
  
-Dissolve <span class="m">rock salt</span> or <span class="m">sandever</span> that you have pulverized finely & placed on a <span class="m">marble</span> slab in a pot & it will dry out while you reheat the mold, & will provide it with a binding to enable several castings. Try moistening it with <span class="m">tartar oil</span>. 
+Dissolve <span class="m">rock salt</span> or finely pulverized <span class="m">sandever</span> salt & put on <span class="m">marble</span> in a cellar, & it will dry out by reheating the mold, & will give it a bond to withstands several castings. Try to moisten it with tartar oil.
  
  
   
@@ -43,18 +43,18 @@ Dissolve <span class="m">rock salt</span> or <span class="m">sandever</span> tha
 ## <span class="m">Flour</span>
 
  
-Ground during <span class="tmp">Advent</span> lasts the whole year.
+Ground during <span class="tmp">Advent</span>, keeps for the whole year.
  
  
   
 
-## <span class="m">Sand</span> from a <span class="pl">Toulousain</span> mine
+## <span class="m">Sand</span> from a mine in <span class="pl">Toulouse</span>
 
  
-<span class="m"><span class="pl">Toulousain</span> sand</span>, which is harvested from the Côteau du Puy—David, deep down in the earth, is excellent on its own, but to make it sustain multiple castings, I mix it with pulverized & moistened <span class="m">sandever</span>, which hardens it & holds well together with it, & enables as many castings as you like. Try to moisten the crushed <span class="m">glass</span> and other sands with the <span class="m">essences of the aforementioned salts</span>. Like all <span class="m">natural sand</span>, it needs to be reheated well. Before putting it to use, one pulverises it, because it is in a lump, and then one reheats it in a <span class="m">copper</span> boiler (or similar) until it ceases to smoke.
+The <span class="m">sand from <span class="pl">Toulouse</span></span>, which is taken, from the depths of the earth, from the small hill of Puy David, is excellent in itself, but to make it withstand several castings, I mix it with pulverized <span class="m">sandever</span> & moistened, which hardens it, & takes body & bond with it, & makes it withstand <span class="del">more than five</span> as many castings as you wish. Try to moisten the crushed <span class="m">glass</span> and other <span class="del">e</span> sands with the waters of the above mentioned salts. It wants to be, like all <span class="m">natural sand</span>, well reheated before putting it to work. One pulverises it, because it is in a lump, then one reheats it in a <span class="m">copper</span> kettle or similar thing, until it no longer smokes.
  
 > *at left bottom margin*
 > 
 > 
->   It is necessary to reheat it before using it. It becomes better for casting because it is reheated, but when it has been used too much, it must be refreshed with new sand.
+>   It is necessary to reheat it before using it. It is rendered better for casting because it is reheated, but when it has been used a lot, one ought to refresh it with new sand.
  

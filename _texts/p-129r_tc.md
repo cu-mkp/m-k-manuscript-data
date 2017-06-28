@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [metal, gomme, huile, glaire, pelure de figuier, santonique, ceruse, massicot, scudegrun, verdegris, vinaigre, plomb, estain, soufre, metalline, argent, huile de froment]
-tools: []
-measurements: []
+materials: [metal, gomme, huile, glaire, pelure de figuier, santonique, ceruse, massicot, scudegrun, verdegris, vinaigre, plomb, estain, soufre, linge, metalline, argent, huile de froment]
+tools: [linge rude]
+measurements: [demy balle dharquebus]
 bodyparts: []
 places: []
-plants: []
+plants: [Roses, froment, pensees, caprier]
 professions: []
 environments: []
 animals: [vipere, serpent, lesard, mouches]
@@ -25,7 +25,7 @@ animals: [vipere, serpent, lesard, mouches]
 ## Paindre herbes de <span class="m">metal</span>
 
  
-Si tu as haste il sera mieulx que tu destrempes tes couleurs<br/> a <span class="m">gomme</span> point trop espesse <span class="del">ou</span> car l<span class="m">huile</span> est long a seicher<br/> et coule sil est couche cler co{mm}e les herbes requierent Et si tu<br/> veulx encores avoir promptem{ent} <span class="add"> faict</span> destrempe ta couleur avecq de<br/> la <span class="m">glaire</span> battue avecq de la <span class="m">pelure de figuier</span> et bien tost<br/> ton ouvraige sera sec Mays couche cler
+Si tu as haste il sera mieulx que tu destrempes tes couleurs<br/> a <span class="m">gomme</span> point trop espesse <span class="del">ou</span> car l<span class="m">huile</span> est long a seicher<br/> et coule sil est couche cler comme les herbes requierent Et si tu<br/> veulx encores avoir promptement <span class="add">faict</span> destrempe ta couleur avecq de<br/> la <span class="m">glaire</span> battue avecq de la <span class="m">pelure de figuier</span> et bien tost<br/> ton ouvraige sera sec Mays couche cler
  
  
   
@@ -41,7 +41,7 @@ Ce blanc blafart de ceste herbe se faict de vert de terre<br/> de blanc de plomb
 ## Couleur de <span class="al">vipere</span>
 
  
-Cest le plus beau <span class="al">serpent</span> qui se puisse mouler a cause quil ha<br/> fort belles escailles & rudes & transparentes Sa couleur naifve<br/> se faict avecq de bon <span class="m">verdegris</span> fort broye avecq de bon<br/> <span class="m">vinaigre</span> sil est de <span class="m">plomb</span> ou d<span class="m">estain</span> Et sil est en quelque<br/> endroit plus obscur parfume ceste premiere couleur de <span class="m">soufre</span><br/> co{mm}e tu scais Et sil fault esclarcir et blanchir co{mm}e soubs<br/> la gorge frotte dun linge rude <span class="add">Le masle gecte par sa nature<br/> qui est au fondement quand il est fort presse une petite masse co{mm}e une<br/> demy balle dharquebus faicte en génitoires et toute<br/> plaine de aiguillons fort veneneulx</span>
+Cest le plus beau <span class="al">serpent</span> qui se puisse mouler a cause quil ha<br/> fort belles escailles & rudes & transparentes Sa couleur naifve<br/> se faict avecq de bon <span class="m">verdegris</span> fort broye avecq de bon<br/> <span class="m">vinaigre</span> sil est de <span class="m">plomb</span> ou d<span class="m">estain</span> Et sil est en quelque<br/> endroit plus obscur parfume ceste premiere couleur de <span class="m">soufre</span><br/> comme tu scais Et sil fault esclarcir et blanchir comme soubs<br/> la gorge frotte dun <span class="tl"><span class="m">linge</span> rude</span> <span class="add">Le masle gecte par sa nature<br/> qui est au fondement quand il est fort presse une petite masse comme une<br/> <span class="ms">demy balle dharquebus</span> faicte en génitoires et toute<br/> plaine de aiguillons fort veneneulx</span>
  
 > *at left middle margin*
 > 
@@ -51,8 +51,8 @@ Cest le plus beau <span class="al">serpent</span> qui se puisse mouler a cause q
  
   
 
-## Roses moulees
+## <span class="pa">Roses</span> moulees
 
  
-Elles sont malaisees a mouler a cause que les foeuilles sont fort<br/> subtiles & foibles & doubles Mays pour <span class="del">obl</span> obvier a cela<br/> il les fault oindre d<span class="m">huile de froment</span> qui est fort desicatif<br/> et estant bien tost sec il affermist & roidist les foeuilles pour les<br/> pouvoir distinguer & soustenir le sable destrempe Le mesme se<br/> faict aulx <span class="al">mouches</span> aulx pensees & semblables choses delicates<br/> aulx fleurs de caprier
+Elles sont malaisees a mouler a cause que les foeuilles sont fort<br/> subtiles & foibles & doubles Mays pour <span class="del">obl</span> obvier a cela<br/> il les fault oindre d<span class="m">huile de <span class="pa">froment</span></span> qui est fort desicatif<br/> et estant bien tost sec il affermist & roidist les foeuilles pour les<br/> pouvoir distinguer & soustenir le sable destrempe Le mesme se<br/> faict aulx <span class="al">mouches</span> aulx <span class="pa">pensees</span> & semblables choses delicates<br/> aulx fleurs de <span class="pa">caprier</span>
  

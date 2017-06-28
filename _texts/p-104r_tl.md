@@ -25,7 +25,7 @@ animals: []
 ## Corroding and dissolving absolutely pure <span class="m">gold</span>
 
  
-Put it regular <span class="m">salt</span> with <span class="m">aqua fortis</span> into a violl. Let it rest for two hours, without heating it. Put [in this mixture] <span class="m">tenuous gold</span>, and draw it out as if it had been separated from <span class="m">silver</span>.
+Put it regular <span class="m">salt</span> with <span class="m">aqua fortis</span> into a violl. Let it rest for two hours, without heating it. Put in this mixture <span class="m">tenuous gold</span>, and draw it out as if it had been separated from <span class="m">silver</span>.
  
  
   
@@ -49,7 +49,7 @@ One ℥ of <span class="m">verdigris</span> and 2 ℥ of <span class="m">coarse 
 ## How to <span class="m">silver</span> plate <span class="m">copper</span> and <span class="m">latten</span>
 
  
-Mold the <span class="m">silver</span> as the <span class="m">gold</span>, & put it in the oven in order to get a good <span class="m">gilt</span> pot. And do not let it heat, otherwise the <span class="m">silver</span> would tarnish. Once it will be well spread, make it boil in <span class="m">walnut oil</span>, & then heat it a bit, & put it [into the <span class="m">water</span> the <span class="pro">silversmiths</span> use to bleach their works].
+Mold the <span class="m">silver</span> as the <span class="m">gold</span>, & put it in the oven in order to get a good <span class="m">gilt</span> pot. And do not let it heat, otherwise the <span class="m">silver</span> would tarnish. Once it will be well spread, make it boil in <span class="m">walnut oil</span>, & then heat it a bit, & put it into the <span class="m">water</span> the <span class="pro">silversmiths</span> use to bleach their works.
  
  
   

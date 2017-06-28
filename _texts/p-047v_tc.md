@@ -49,5 +49,5 @@ Ceulx qui se font <span class="tmp">en hyver</span> & <span class="env"><span cl
 ## Gect
 
  
-La <span class="m">pierre ponce calcinee</span> subtillem{ent} gecte l<span class="m">or</span> de 22 <span class="ms">carats</span><br/> sans reparer Mays il fault quelle soict enflamme et rouge<br/> co{mm}e le <span class="m">metal</span> Et elle endure plusieurs gects
+La <span class="m">pierre ponce calcinee</span> subtillement gecte l<span class="m">or</span> de 22 <span class="ms">carats</span><br/> sans reparer Mays il fault quelle soict enflamme et rouge<br/> comme le <span class="m">metal</span> Et elle endure plusieurs gects
  

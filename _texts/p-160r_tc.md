@@ -9,7 +9,7 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [fer, bois, eau, glaire doeuf]
-tools: [Presse, moules, croix de S{ainc}t Andre, chassis, coings, presses, vis, forge, moule, estrier, platene, pallette]
+tools: [Presse, moules, croix de Sainct Andre, chassis, coings, presses, vis, forge, moule, estrier, platene, pallette]
 measurements: []
 bodyparts: []
 places: []
@@ -32,7 +32,7 @@ animals: []
 > *at right top margin*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5MEUzMjhxUVl1ZTA" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
-Ce sont deulx lamines de <span class="m">fer</span> attachees par quattre petits<br/> piliers de <span class="m">fer</span> de telle sorte toutes foys que<span class="del">lles</span> <span class="add">la superieure</span> @ puysse<span class="del">nt</span> librem{ent}<br/> jouer & courir le long des piliers & que celle de bas soict<br/> arrestee Au bout des piliers sarreste une <span class="tl">croix de <span class="pn">S{ainc}t Andre</span></span><br/> de <span class="m">fer</span> au milieu de laquelle est une vis qui sarre les lamines<br/> contre les <span class="tl">moules</span> qui sont entre deulx<br/> Ou bien pour les petits <span class="tl">moules</span> on fait un <span class="tl">chassis</span> & ayant<br/> mis les <span class="tl">moules</span> entre deulx lames de <span class="m">fer</span> on <span class="del">pose</span> le sarre dans<br/> le <span class="tl">chassis</span> avecq des <span class="tl">coings</span><br/> Les grandes <span class="tl">presses</span> de <span class="m">bois</span> faictes a <span class="tl">vis</span> oultre ce quelles<br/> sont lourdes a mectre aupres de la <span class="tl">forge</span> pour gecter On ne peult<br/> pas cognoistre quand elle sarrent trop & bien souvent elles<br/> rompent le <span class="tl">moule</span>
+Ce sont deulx lamines de <span class="m">fer</span> attachees par quattre petits<br/> piliers de <span class="m">fer</span> de telle sorte toutes foys que<span class="del">lles</span> <span class="add">la superieure</span> @ puysse<span class="del">nt</span> librement<br/> jouer & courir le long des piliers & que celle de bas soict<br/> arrestee Au bout des piliers sarreste une <span class="tl">croix de <span class="pn">Sainct Andre</span></span><br/> de <span class="m">fer</span> au milieu de laquelle est une vis qui sarre les lamines<br/> contre les <span class="tl">moules</span> qui sont entre deulx<br/> Ou bien pour les petits <span class="tl">moules</span> on fait un <span class="tl">chassis</span> & ayant<br/> mis les <span class="tl">moules</span> entre deulx lames de <span class="m">fer</span> on <span class="del">pose</span> le sarre dans<br/> le <span class="tl">chassis</span> avecq des <span class="tl">coings</span><br/> Les grandes <span class="tl">presses</span> de <span class="m">bois</span> faictes a <span class="tl">vis</span> oultre ce quelles<br/> sont lourdes a mectre aupres de la <span class="tl">forge</span> pour gecter On ne peult<br/> pas cognoistre quand elle sarrent trop & bien souvent elles<br/> rompent le <span class="tl">moule</span>
  
 > *at left top margin*
 > 
@@ -45,5 +45,5 @@ Ce sont deulx lamines de <span class="m">fer</span> attachees par quattre petits
 ## Sable pour <span class="pa">fleurs</span>
 
  
-Sil est gecte espes il agrave trop les <span class="pa">fleurs</span> & les reserre & reduit<br/> co{mm}e amassees ensemble Advise doncq de le destremper cler & fort<br/> soufler plustost que la <span class="pa">fleur</span> ne soict couverte gecte au coste du<br/> <span class="tl">moule</span> Et destrempa{n}t le sable il ne fault seulem[{ent}] tourner la<br/> <span class="tl">pallette</span> Mays battre le sable dans l<span class="m">eau</span> co{mm}e si tu battois<br/> de la <span class="m">glaire doeuf</span>
+Sil est gecte espes il agrave trop les <span class="pa">fleurs</span> & les reserre & reduit<br/> comme amassees ensemble Advise doncq de le destremper cler & fort<br/> soufler plustost que la <span class="pa">fleur</span> ne soict couverte gecte au coste du<br/> <span class="tl">moule</span> Et destrempant le sable il ne fault seulement tourner la<br/> <span class="tl">pallette</span> Mays battre le sable dans l<span class="m">eau</span> comme si tu battois<br/> de la <span class="m">glaire doeuf</span>
  

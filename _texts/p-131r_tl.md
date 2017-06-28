@@ -30,7 +30,7 @@ Mold them in two or three castings; being annealed, your mold will open, and it 
 > *at left top margin*
 > 
 > 
->   Try [this]
+>   Try this
  
  
   
@@ -38,7 +38,7 @@ Mold them in two or three castings; being annealed, your mold will open, and it 
 ## molded letter <span class="m">paper</span>
 
  
-Write with some <span class="m">ink</span> well thickened with gum or any other <span class="m">color dye</span> which has body, and which is not erased if dampened with brandy. Then put your paper on the sheet of clay, and dampen it with <span class="m">brandy</span>. Cast both sides [of paper].
+Write with some <span class="m">ink</span> well thickened with gum or any other <span class="m">color dye</span> which has body, and which is not erased if dampened with brandy. Then put your paper on the sheet of clay, and dampen it with <span class="m">brandy</span>. Cast both sides of paper.
  
  
   

@@ -47,7 +47,7 @@ when you want to use it, dilute it with very clear <span class="m">glue</span> a
 ## Making <span class="m">gold</span> colored <span class="m">bronze</span>
 
  
- Take six ounces of tin […], six ounces of <span class="m">natural sulphur</span>, and <span class="m">sal ammoniac</span>. Melt the <span class="m">tin</span> in a spoon. When it is molten add <span class="m">quicksilver</span> and cast in a line. Then crush all the drugs together in a mortar, and
+ Take six ounces of tin …, six ounces of <span class="m">natural sulphur</span>, and <span class="m">sal ammoniac</span>. Melt the <span class="m">tin</span> in a spoon. When it is molten add <span class="m">quicksilver</span> and cast in a line. Then crush all the drugs together in a mortar, and
  
 *[continued]*
  

@@ -33,7 +33,7 @@ Distille l<span class="m">eau de vigne</span> & la mects dans une grande<br/> bo
 ## Chassis des <span class="pl">allemans</span>
 
  
-Les <span class="pl">allemans</span> qui travaillent en petit font des chassis non de<br/> <span class="m">verre</span> Mays de <span class="m">toile</span> oincte de <span class="m">vernis clair de tourmentine</span>,<br/> scavoir <span class="ms">moictie</span> <span class="m">huile de tourmentine</span> & <span class="ms">presque moictie</span> de <span class="m">tourmentine</span><br/> pourceque ce jour qui nest pas si esclatant que du <span class="m">verre</span> leur<br/> faict parroistre les traicts plus gros Et quand ilz veulent<br/> faire quelque chose subtile co{mm}e les venes <span class="del">de</span> & semblables choses<br/> ilz usent de <span class="tl">pinceaulx composes de deulx ou trois <span class="m">poils de barbe de <span class="al">rat</span></span></span>.
+Les <span class="pl">allemans</span> qui travaillent en petit font des chassis non de<br/> <span class="m">verre</span> Mays de <span class="m">toile</span> oincte de <span class="m">vernis clair de tourmentine</span>,<br/> scavoir <span class="ms">moictie</span> <span class="m">huile de tourmentine</span> & <span class="ms">presque moictie</span> de <span class="m">tourmentine</span><br/> pourceque ce jour qui nest pas si esclatant que du <span class="m">verre</span> leur<br/> faict parroistre les traicts plus gros Et quand ilz veulent<br/> faire quelque chose subtile comme les venes <span class="del">de</span> & semblables choses<br/> ilz usent de <span class="tl">pinceaulx composes de deulx ou trois <span class="m">poils de barbe de <span class="al">rat</span></span></span>.
  
  
   
@@ -46,7 +46,7 @@ Il fault choisir le plus <span class="del">beau</span> deslie quil sera possible
 > *at left middle margin*
 > 
 > 
->   L<span class="m">azur</span> veult estre<br/> couche net cest pourquoy<br/> <span class="del">quan</span> il se meurt tousjours<br/> quelque peu quand pour<br/> reparer un vieulx tableau<br/> on le couche sur de<br/> vieulx <span class="m">azur</span> desja<br/> terny En telle chose<br/> il est mieulx de racler<br/> la vielle couche & impri<br/> mer de nouveau puys <br/> poser l'<span class="m">azur</span> Cest<br/> ainsy presque des<br/> aultres couleurs<br/> L'<span class="m">azur</span> aussy broye<br/> a <span class="m">huile</span> demeure tousjours<br/> luisant Ce qui nest<br/> pas bon signe a l<span class="m">azur</span> a<br/> car cela le fait<br/> mourir
+>   L<span class="m">azur</span> veult estre<br/> couche net cest pourquoy<br/> <span class="del">quan</span> il se meurt tousjours<br/> quelque peu quand pour<br/> reparer un vieulx tableau<br/> on le couche sur de<br/> vieulx <span class="m">azur</span> desja<br/> terny En telle chose<br/> il est mieulx de racler<br/> la vielle couche & impri<br/> mer de nouveau puys <br/> poser l'<span class="m">azur</span> Cest<br/> ainsy presque des<br/> aultres couleurs<br/> L'<span class="m">azur</span> aussy broye<br/> a <span class="m">huile</span> demeure tousjours<br/> luisant Ce qui nest<br/> pas bon signe a l<span class="m">azur</span><br/> car cela le fait<br/> mourir
  
  
   
@@ -54,5 +54,5 @@ Il fault choisir le plus <span class="del">beau</span> deslie quil sera possible
 ## Broyer couleurs
 
  
-Une table de <span class="del"><span class="m">mabre</span> & p</span> <span class="m">verre</span>espoisse dun <span class="del"><span class="m">verre</span></span> poulce<br/> est plus propre pour broyer nettem{ent} les couleurs que chose qui<br/> soict mesmem{ent} pour la <span class="m">laque</span> & pour les <span class="m">blancs</span>
+Une table de <span class="del"><span class="m">mabre</span> & p</span> <span class="m">verre</span>espoisse dun <span class="del"><span class="m">verre</span></span> poulce<br/> est plus propre pour broyer nettement les couleurs que chose qui<br/> soict mesmement pour la <span class="m">laque</span> & pour les <span class="m">blancs</span>
  

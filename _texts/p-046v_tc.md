@@ -38,10 +38,10 @@ animals: []
  
   
 
-## Effacer l{ett}re
+## Effacer lettre
 
  
-Trempe une plume a escripre dans <span class="m">huile de soufre</span> recent<br/> & bon & resuicts ainsy avecq la plume trempee toutes les l{ettr}es<br/> & elles seffaceront sur parchemin Urb
+Trempe une plume a escripre dans <span class="m">huile de soufre</span> recent<br/> & bon & resuicts ainsy avecq la plume trempee toutes les lettres<br/> & elles seffaceront sur parchemin Urb
  
  
   
@@ -49,29 +49,29 @@ Trempe une plume a escripre dans <span class="m">huile de soufre</span> recent<b
 ## Escripre sans <span class="m">ancre</span>
 
  
-Escripts avecq <span class="m">huile de soufre</span> & chaufe & la l{ett}re<br/> deviendra noire comme ceste cy Urb
+Escripts avecq <span class="m">huile de soufre</span> & chaufe & la lettre<br/> deviendra noire comme ceste cy Urb
  
  
   
 
-## Faire l{ett}re a jour sur <span class="m">papier</span><br/> et aultre ouvrage
+## Faire lettre a jour sur <span class="m">papier</span><br/> et aultre ouvrage
 
  
- Si tu escripts <span class="del">d</span> ou trasse quelque chose sur le <span class="m">papier</span><br/> & le chaufes bien tost & incontinent il deviendra noir<br/> puys frottant avecq une esponge la l{ett}re se trouvera<br/> couppee pourcequelle sera bruslee Urb Ou bien resuicts<br/> la l{ett}re avecq une plume <span class="del">de</span> essuicte
+ Si tu escripts <span class="del">d</span> ou trasse quelque chose sur le <span class="m">papier</span><br/> & le chaufes bien tost & incontinent il deviendra noir<br/> puys frottant avecq une esponge la lettre se trouvera<br/> couppee pourcequelle sera bruslee Urb Ou bien resuicts<br/> la lettre avecq une plume <span class="del">de</span> essuicte
  
  
   
 
-## Faire brusler les bottes a quelquu{n}
+## Faire brusler les bottes a quelquun
 
  
-Frottes de l<span class="m">huile</span> susdict & co{mm}e il se chaufera elle<br/> se brusleront sans flamme Urb
+Frottes de l<span class="m">huile</span> susdict & comme il se chaufera elle<br/> se brusleront sans flamme Urb
  
  
   
 
-## Sur <span class="m">pierre</span> l{ett}re noire
+## Sur <span class="m">pierre</span> lettre noire
 
  
-Le mesme <span class="m">huile</span> sur des l{ett}res gravees en <span class="m">pierre</span> & chaufe<br/> vient noir & penetre
+Le mesme <span class="m">huile</span> sur des lettres gravees en <span class="m">pierre</span> & chaufe<br/> vient noir & penetre
  

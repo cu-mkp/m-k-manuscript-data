@@ -25,7 +25,7 @@ animals: []
 ## Couleur noire pour taindre
 
  
-P{rens} <span class="m">lessive de chaulx vive</span> & <span class="m">litharge</span> mesle & destrempe<br/> & tu feras taincture tanee & la reiterant tu feras noir<br/> Essaye daultres couleurs avecq la <span class="m">lessive de chaulx</span>
+Prens <span class="m">lessive de chaulx vive</span> & <span class="m">litharge</span> mesle & destrempe<br/> & tu feras taincture tanee & la reiterant tu feras noir<br/> Essaye daultres couleurs avecq la <span class="m">lessive de chaulx</span>
  
  
   
@@ -49,7 +49,7 @@ Il les fault espurger <span class="tmp">tous les ans</span> de sorte quil ny<br/
 ## Planter <span class="pa">abres</span>
 
  
-On dict que rarement l<span class="pa">abre</span> plante le <span class="tmp">jour de S{ain}t paul</span><br/> fault aprendre @& pour couvrir les ampeaulx la<span class="m">fiente de<br/> bœuf</span> est fort propre pource quelle ne se deffaict point a la <span class="m">pluye</span><br/> co{mm}e la <span class="m">terre</span>
+On dict que rarement l<span class="pa">abre</span> plante le <span class="tmp">jour de Saint paul</span><br/> fault aprendre @& pour couvrir les ampeaulx la<span class="m">fiente de<br/> bœuf</span> est fort propre pource quelle ne se deffaict point a la <span class="m">pluye</span><br/> comme la <span class="m">terre</span>
  
  
   
@@ -57,7 +57,7 @@ On dict que rarement l<span class="pa">abre</span> plante le <span class="tmp">j
 ## Ma[a]rchant
 
  
-Ceulx qui vendent par le menu les velours & <span class="del">es</span> aultres<br/> estoffes ne font poinct de livre double pource que vendant<br/> par le menu & en detail ce leur seroict trop de pene Ilz<br/> ont seulem{ent} leur lb de vente & leur livre de raison Mays<br/> ceulx qui vendent en gros & ceulx qui trafiquent de <span class="m">pastel</span><br/> ont double livre
+Ceulx qui vendent par le menu les velours & <span class="del">es</span> aultres<br/> estoffes ne font poinct de livre double pource que vendant<br/> par le menu & en detail ce leur seroict trop de pene Ilz<br/> ont seulement leur lb de vente & leur livre de raison Mays<br/> ceulx qui vendent en gros & ceulx qui trafiquent de <span class="m">pastel</span><br/> ont double livre
  
  
   

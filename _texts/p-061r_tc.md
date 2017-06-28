@@ -9,13 +9,13 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [blanc de plomb, laque de florence, rose alexandrine, incarnadine, minium, massicot, cendres, Blanc de plomb, ceruse]
-tools: []
+tools: [poincte du pinceau & le reste de plat, poincte du pinceau sec & aplati, pinceau]
 measurements: []
-bodyparts: []
+bodyparts: [derriere de ta main]
 places: [florence]
 plants: []
 professions: []
-environments: []
+environments: [jour]
 animals: []
 ---
 
@@ -36,7 +36,7 @@ Il ten fault faire de deulx sortes lune plus rouge pour<br/> faire la principale
 > *at left top margin*
 > 
 > 
->   @ Certaines<br/> couleurs ne veulent<br/> estre broyees<br/> co{mm}e le <span class="m">minium</span> et<br/> le <span class="m">massicot</span><br/> Les <span class="m">cendres</span><br/> ne veulent<br/> aulcunement<br/> estre broyees
+>   @ Certaines<br/> couleurs ne veulent<br/> estre broyees<br/> comme le <span class="m">minium</span> et<br/> le <span class="m">massicot</span><br/> Les <span class="m">cendres</span><br/> ne veulent<br/> aulcunement<br/> estre broyees
  
  
   
@@ -44,7 +44,7 @@ Il ten fault faire de deulx sortes lune plus rouge pour<br/> faire la principale
 ## Arrondir
 
  
-Si tu veulx faire bien relever <span class="del">arr</span> adoulcis les choses<br/> rondes en arrondissant avecq la poincte du pinceau & le<br/> reste de plat sil est plat & ainsy des aultres selon leur<br/> naturel & legerement avecq la poincte du pinceau sec & aplati<br/> <span class="add">&</span> avecq patience
+Si tu veulx faire bien relever <span class="del">arr</span> adoulcis les choses<br/> rondes en arrondissant avecq la <span class="tl">poincte du pinceau & le<br/> reste de plat</span> sil est plat & ainsy des aultres selon leur<br/> naturel & legerement avecq la <span class="tl">poincte du pinceau sec & aplati</span><br/> <span class="add">&</span> avecq patience
  
  
   
@@ -60,5 +60,11 @@ Sans cestuy la tu ne peulx travailler en petit en quoy il fault<br/> avecq grand
 ## Jours
 
  
-Ton pinceau te le monstre faisant ombre qui doibt tousjours<br/> suivre le derriere de ta main non pas de droicte ligne comme<br/> ainsy  car le jour seroict trop crud & trop rude Mays<br/> obliquement & co{mm}e en pante ainsy   Il fault que le<br/> tableau ne soict pas de front contre le jour Mays<br/> a demy tourne contre iceluy Et sur tout <br/> cherche le jour doulx Car il faict lombre & ouvrage doulx co{mm}e le jour<br/> rude louvrage rude
+Ton <span class="tl">pinceau</span> te le monstre faisant ombre qui doibt tousjours<br/> suivre le <span class="bp">derriere de ta main</span> non pas de droicte ligne comme<br/> ainsy 
+> *Figure*
+> <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5LVgyaXJ0Rl8wMjA" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+ car le jour seroict trop crud & trop rude Mays<br/> obliquement & comme en pante ainsy 
+> *Figure*
+> <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5a0g1a0hvTUdHRFE" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+ Il fault que le<br/> tableau ne soict pas de front contre le <span class="env">jour</span> Mays<br/> a demy tourne contre iceluy Et sur tout <br/> cherche le jour doulx Car il faict lombre & ouvrage doulx comme le jour<br/> rude louvrage rude
  

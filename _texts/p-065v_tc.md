@@ -25,7 +25,7 @@ animals: []
 ## Couleurs mi vives
 
  
-Quand les couleurs s<span class="del">a</span>emboivent sur la <span class="m">toile</span> cest a dire quelle<br/> na este imprimee quune fois & a ceste cause elles deviennent<br/> sans <span class="add">estre</span> reluisantes ains mattes Mays cest le meilleur pourveu<br/> que tu recouches deulx fois Car les couleurs en ceste sorte<br/> ayant plus de corps ne meurent point & en sont bien plus<br/> belles, mesmem{ent} l<span class="m">azur</span> la <span class="m">laque</span> & ceulx qui nont point de corps<br/> Mays ceulx qui veulent despescher leur tableau au premier<br/> coup par adquit impriment deulx fois Ainsy les couleurs<br/> ne semboivent point aussy nen durent elles pas ta{n}t La<br/> seconde couche dicelles ne semboit point & demeure luisante
+Quand les couleurs s<span class="del">a</span>emboivent sur la <span class="m">toile</span> cest a dire quelle<br/> na este imprimee quune fois & a ceste cause elles deviennent<br/> sans <span class="add">estre</span> reluisantes ains mattes Mays cest le meilleur pourveu<br/> que tu recouches deulx fois Car les couleurs en ceste sorte<br/> ayant plus de corps ne meurent point & en sont bien plus<br/> belles, mesmement l<span class="m">azur</span> la <span class="m">laque</span> & ceulx qui nont point de corps<br/> Mays ceulx qui veulent despescher leur tableau au premier<br/> coup par adquit impriment deulx fois Ainsy les couleurs<br/> ne semboivent point aussy nen durent elles pas tant La<br/> seconde couche dicelles ne semboit point & demeure luisante
  
  
   
@@ -41,7 +41,7 @@ Il fault que tu poses ton <span class="m">charbon</span> au bout dun baston<br/>
 ## Glasser
 
  
-On glasse co{mm}ement avecq couleurs qui nont point de corps<br/> co{mm}e la <span class="m">laque</span> & le <span class="m">verdegris</span> Touteffois pour se servir<br/> des aultres on y mesle quantite de <span class="m">cristallin</span> calcine & broye<br/> qui nha point aussy de corps & <span class="del">rend</span> esclarcist lespesseur<br/> des aultres
+On glasse commement avecq couleurs qui nont point de corps<br/> comme la <span class="m">laque</span> & le <span class="m">verdegris</span> Touteffois pour se servir<br/> des aultres on y mesle quantite de <span class="m">cristallin</span> calcine & broye<br/> qui nha point aussy de corps & <span class="del">rend</span> esclarcist lespesseur<br/> des aultres
  
  
   
@@ -89,7 +89,7 @@ Il y en a qui<br/> paignent au<br/> naturel sur du<br/> <span class="m">papier</
 ** Impression **
 
  
-Il en fault estre<br/> bien curieulx & ne la<br/> faire pas co{mm}e<br/> quelques uns avecq<br/> l<span class="m">or</span> couleur qui se<br/> faict des laveures<br/> des pinceaulx a <span class="m">huile</span><br/> pourceque le <span class="m">verdegris</span><br/> & aultres couleurs corrosives<br/> qui y sont font en fin mourir<br/> les couleurs qui sy <span class="del">meu</span> couchent<br/> apres Il est bon de la faire
+Il en fault estre<br/> bien curieulx & ne la<br/> faire pas comme<br/> quelques uns avecq<br/> l<span class="m">or</span> couleur qui se<br/> faict des laveures<br/> des pinceaulx a <span class="m">huile</span><br/> pourceque le <span class="m">verdegris</span><br/> & aultres couleurs corrosives<br/> qui y sont font en fin mourir<br/> les couleurs qui sy <span class="del">meu</span> couchent<br/> apres Il est bon de la faire
  
 > *at bottom margin*
 > 

@@ -43,8 +43,8 @@ You must give it its pose. And to do so, place it on its side on a <span class="
  
   
 
-## Po{ur} f{air}e h{…} vin f{…}rs [?]
+## Pour faire h… vin f…rs ?
 
  
-Prenez un chausson du pied droid <span class="add">t</span> qui ait este porte et le faictes<br/> tremper en <span class="m">eau</span> et de l<span class="m">eau</span> q{u}i en sortira la f{air}e boyre au mesme<br/> ou autre et v{er}rez merveilles
+Prenez un chausson du pied droid <span class="add">t</span> qui ait este porte et le faictes<br/> tremper en <span class="m">eau</span> et de l<span class="m">eau</span> qui en sortira la faire boyre au mesme<br/> ou autre et verrez merveilles
  

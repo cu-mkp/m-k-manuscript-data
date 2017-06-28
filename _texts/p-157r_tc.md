@@ -33,7 +33,7 @@ Ils moulent en deulx <span class="m">os de <span class="al">seiche</span></span>
 ## Rouge cler 
 
  
-Aulcuns orfevres lesprouvent sur de l<span class="m">or</span> <span class="del">esp</span> battu tanvre<br/> & bien bruny avecq le <span class="tl">chaple</span> Mays il est mieulx de lesprouver<br/> sur un lingot d<span class="m">or</span> Et esprouver aussy en ouvrage ou gr[…]<br/> ou fantasque tes matieres Pourceque si elles paroissent<br/> bien en grand ouvrage & extraordinaire Elles se demo{n}stre{nt}<br/> excellentes en ouvrage commun 
+Aulcuns orfevres lesprouvent sur de l<span class="m">or</span> <span class="del">esp</span> battu tanvre<br/> & bien bruny avecq le <span class="tl">chaple</span> Mays il est mieulx de lesprouver<br/> sur un lingot d<span class="m">or</span> Et esprouver aussy en ouvrage ou grand<br/> ou fantasque tes matieres Pourceque si elles paroissent<br/> bien en grand ouvrage & extraordinaire Elles se demonstrent<br/> excellentes en ouvrage commun 
  
  
   
@@ -41,7 +41,7 @@ Aulcuns orfevres lesprouvent sur de l<span class="m">or</span> <span class="del"
 ## Nettoyer et desgraisser<br/> tes ouvrages gectes d<span class="m">estain</span><br/> et aultres
 
  
-Fais de la lessive curieuse{m}ent passee par de bonnes<br/> <span class="m">cendres</span> et co{mm}e elle sera recente & point grasse Fais<br/> y bouillir ton ouvrage moule Et le <span class="m">suif</span> et <span class="m">gresse</span> sen p{ar}[t]
+Fais de la lessive curieusement passee par de bonnes<br/> <span class="m">cendres</span> et comme elle sera recente & point grasse Fais<br/> y bouillir ton ouvrage moule Et le <span class="m">suif</span> et <span class="m">gresse</span> sen part
   
  
   
@@ -49,7 +49,7 @@ Fais de la lessive curieuse{m}ent passee par de bonnes<br/> <span class="m">cend
 ## Disposer l<span class="pa">herbe</span> ou fleur pour<br/> gecter
 
  
-Mets touiours a lenssus le principal envers de la chose<br/> pourcequil vient mieulx et plus net que le bas<br/> Fais le gect large & que de supraplus (qui est la masse)<br/> aulx fondeurs de grand gect <span class="del">Et</span> mesmem{en}t pour l<span class="m">argent</span> qui veu[lt]<br/> le <span class="tl">moule</span> bien chault & estre gecte fort chault<br/> Les choses fort tanvres veulent estre gectees fort chault
+Mets touiours a lenssus le principal envers de la chose<br/> pourcequil vient mieulx et plus net que le bas<br/> Fais le gect large & que de supraplus (qui est la masse)<br/> aulx fondeurs de grand gect <span class="del">Et</span> mesmement pour l<span class="m">argent</span> qui veult<br/> le <span class="tl">moule</span> bien chault & estre gecte fort chault<br/> Les choses fort tanvres veulent estre gectees fort chault
  @ 
 > *at left bottom margin*
 > 

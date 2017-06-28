@@ -25,7 +25,7 @@ animals: []
 ## L<span class="m">or</span> nestre fixe 
 
  
-L<span class="m">or</span> en doreure sen va estant la piece recuite & tenue<br/> a grand foeu mesmem{ent} sil y a du <span class="m">plomb</span> Car le <span class="m">plomb</span><br/> percera au foeu une piece d<span class="m">or</span> pource quil tient fort de <span class="m">☿</span>
+L<span class="m">or</span> en doreure sen va estant la piece recuite & tenue<br/> a grand foeu mesmement sil y a du <span class="m">plomb</span> Car le <span class="m">plomb</span><br/> percera au foeu une piece d<span class="m">or</span> pource quil tient fort de <span class="m">☿</span>
  
  
   
@@ -33,7 +33,7 @@ L<span class="m">or</span> en doreure sen va estant la piece recuite & tenue<br/
 ## Couper <span class="m">plomb</span>
 
  
-A cause quil est gras & se grippe & attaque au <span class="tl">costeau</span><br/> ou <span class="tl">ciseau</span> mouille le & tu le coupperas co{mm}e <span class="m">verre</span>
+A cause quil est gras & se grippe & attaque au <span class="tl">costeau</span><br/> ou <span class="tl">ciseau</span> mouille le & tu le coupperas comme <span class="m">verre</span>
  
 > *at left top margin*
 > 
@@ -61,7 +61,7 @@ Aulcuns souldent<br/> pour petit ouvrage<br/> & choses qui ne vont<br/> quune fo
 ## Escaille de <span class="m">fer</span>
 
  
-Estant bien pulverise & subtiliee sur le <span class="m">mabre</span> & meslee<br/> avecq le <span class="m">sable</span> susdict de noyau Et seche lentem{ent} sans<br/> recuire endure plusieurs gects de <span class="m">plomb</span> & d<span class="m">estain</span> Le <span class="m">cuivre</span><br/> & <span class="m">letton</span> @ y viennent bien Mays si elle nest fort subtiliee co{mm}e<br/> le <span class="m">crocum</span> elle va au fonds si le sable nest destrempe asses espes
+Estant bien pulverise & subtiliee sur le <span class="m">mabre</span> & meslee<br/> avecq le <span class="m">sable</span> susdict de noyau Et seche lentement sans<br/> recuire endure plusieurs gects de <span class="m">plomb</span> & d<span class="m">estain</span> Le <span class="m">cuivre</span><br/> & <span class="m">letton</span> @ y viennent bien Mays si elle nest fort subtiliee comme<br/> le <span class="m">crocum</span> elle va au fonds si le sable nest destrempe asses espes
  
  
   

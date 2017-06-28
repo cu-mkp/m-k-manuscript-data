@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [copper, Iron, metal, wood, brick, Glair of eggs, Eggs, sand, latten]
+materials: [copper, filth, Iron, metal, wood, bricks, Glair of eggs, latten]
 tools: []
 measurements: []
 bodyparts: []
@@ -25,7 +25,7 @@ animals: []
 ##  Heat of <span class="m">copper</span>
 
  
-It is hot enough when you see it neat & even on top, without filth.
+It is hot enough when you see it neat & even on top, without <span class="m">filth</span>.
  
  
   
@@ -33,7 +33,7 @@ It is hot enough when you see it neat & even on top, without filth.
 ## Box mold
 
  
-<span class="m">Iron</span> & <span class="m">copper</span> make it porous if the <span class="m">metal</span> touches it, & the <span class="m">wood</span> warps. Thus, make a mold of <span class="m">wood</span>, & have box molds of <span class="m">brick</span>s made inside this mold of whatever thickness that you want.
+<span class="m">Iron</span> & <span class="m">copper</span> make it porous if the <span class="m">metal</span> touches it, & the <span class="m">wood</span> warps. Thus, make a mold of <span class="m">wood</span>, & have box molds of <span class="m">bricks</span> made inside this mold of whatever thickness that you want.
  
  
   
@@ -41,7 +41,7 @@ It is hot enough when you see it neat & even on top, without filth.
 ## <span class="m">Glair of eggs</span>
 
  
-Glair of <span class="m">Eggs</span> gives strength to <span class="m">sand</span> to make several casts.
+<span class="m">Glair of eggs</span> gives strength to sand to make several casts.
  
  
   

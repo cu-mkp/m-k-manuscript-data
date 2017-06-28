@@ -10,7 +10,7 @@ editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [metal, rosette, pouldre]
 tools: [Mortiers, mortiers, chauldron, crusol]
-measurements: [l{i}b{vre}, poulsses]
+measurements: [libvre, poulsses]
 bodyparts: []
 places: []
 plants: []
@@ -28,10 +28,10 @@ animals: []
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5QTU2dDJtWHU5Nmc" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
 @ 
-Les <span class="tl">mortiers</span> se font de la meilleure ligue de <span class="m">metal</span> & de fine <span class="m">rosette</span><br/> quon peult affin quils ne crevent poinct scavoir dune partye de <span class="m">metal</span><br/> & deulx de <span class="m">rosette</span> fine ou vieulx <span class="tl">chauldron</span> qui est encores mieulx<br/> Les uns sont de quinze ou dixsept <span class="ms">l{i}b{vre}</span>. & se chargent de deulx <span class="ms">l{i}b{vre}</span><br/> & demye de bonne <span class="m">pouldre</span> grenee & son pour apliquer aulx fenestres<br/> & portes communes Aultres sont du poix de 25 a 27 <span class="ms">l{i}b{vre}</span> et se<br/> chargent de 4 <span class="ms">l{i}b{vre}</span> de <span class="m">pouldre</span> Aultres de 4 s. <span class="ms">l{i}b{vre}</span> poisant & se<br/> chargent de huict <span class="ms">l{i}b{vre}</span> de <span class="m">pouldre</span> Et ainsy se forment selon leffort<br/> quilz ont affayre Il sont pardehors toutes dune venue Mays par<br/> dedans ilz sont faicts comme un <span class="tl">crusol</span> 
+Les <span class="tl">mortiers</span> se font de la meilleure ligue de <span class="m">metal</span> & de fine <span class="m">rosette</span><br/> quon peult affin quils ne crevent poinct scavoir dune partye de <span class="m">metal</span><br/> & deulx de <span class="m">rosette</span> fine ou vieulx <span class="tl">chauldron</span> qui est encores mieulx<br/> Les uns sont de quinze ou dixsept <span class="ms">libvre</span>. & se chargent de deulx <span class="ms">libvre</span><br/> & demye de bonne <span class="m">pouldre</span> grenee & son pour apliquer aulx fenestres<br/> & portes communes Aultres sont du poix de 25 a 27 <span class="ms">libvre</span> et se<br/> chargent de 4 <span class="ms">libvre</span> de <span class="m">pouldre</span> Aultres de 4 s. <span class="ms">libvre</span> poisant & se<br/> chargent de huict <span class="ms">libvre</span> de <span class="m">pouldre</span> Et ainsy se forment selon leffort<br/> quilz ont affayre Il sont pardehors toutes dune venue Mays par<br/> dedans ilz sont faicts comme un <span class="tl">crusol</span> 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5OUZCVWpfdmlzbWc" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
- plus estroicts au dedans<br/> de la culasse & allant en eslargissant vers la gueule Et cest pour<br/> leur donner force a la culasse a cause de la quantite de <span class="m">pouldre</span><br/> quilz tiennent & quilz ne se crevent poinct <span class="del">On leurs donne a la culasse</span><br/> Ceux de 4 s. <span class="ms">l{i}b{vre}</span> ont huict lignes despesseur a la culasse & viennent<br/> par dedans en diminuant jusques a la gueule qui est de 4 lignes Ils<br/> ont xii <span class="ms">poulsses</span> de long & sept de diamettre en la gueule & ouverture
+ plus estroicts au dedans<br/> de la culasse & allant en eslargissant vers la gueule Et cest pour<br/> leur donner force a la culasse a cause de la quantite de <span class="m">pouldre</span><br/> quilz tiennent & quilz ne se crevent poinct <span class="del">On leurs donne a la culasse</span><br/> Ceux de 4 s. <span class="ms">libvre</span> ont huict lignes despesseur a la culasse & viennent<br/> par dedans en diminuant jusques a la gueule qui est de 4 lignes Ils<br/> ont xii <span class="ms">poulsses</span> de long & sept de diamettre en la gueule & ouverture
  
 *[continued]*
  

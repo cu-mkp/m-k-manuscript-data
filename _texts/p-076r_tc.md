@@ -23,7 +23,7 @@ animals: []
  
 *[continued]*
   
-sy nen trouves Et en couvrir dicell{e} pouldre led{ict} <span class="m">boys</span><br/> Jusques ace quil soit froid & le feres Rebouillir & en boulhant<br/> on verra sil sera asses noir ou non Et sil nest asses vous<br/> prandres delad{icte} pouldre & en mectes sur led{ict} <span class="m">boys</span> en boulhant
+sy nen trouves Et en couvrir dicelle pouldre ledict <span class="m">boys</span><br/> Jusques ace quil soit froid & le feres Rebouillir & en boulhant<br/> on verra sil sera asses noir ou non Et sil nest asses vous<br/> prandres deladicte pouldre & en mectes sur ledict <span class="m">boys</span> en boulhant
  
  
   
@@ -39,7 +39,7 @@ sy nen trouves Et en couvrir dicell{e} pouldre led{ict} <span class="m">boys</sp
 ## Pour faire <span class="m">boys</span> Rouge
 
  
- Prenes une Carte d<span class="m">urine vieilhe</span> et trois onces de <span class="m">Garante</span><br/> & une once d<span class="m">alung de glace</span> et mectres le tout dans v{ost}re pot<br/> & faictes comme du verd
+ Prenes une Carte d<span class="m">urine vieilhe</span> et trois onces de <span class="m">Garante</span><br/> & une once d<span class="m">alung de glace</span> et mectres le tout dans vostre pot<br/> & faictes comme du verd
  
  
   
@@ -47,7 +47,7 @@ sy nen trouves Et en couvrir dicell{e} pouldre led{ict} <span class="m">boys</sp
 ## Pour le faire Bleu
 
  
- Prenes une carte d<span class="m">urine</span> comme dessus et une once d<span class="m">alung</span><br/> & deux dragmes de <span class="m">sel armoniac</span> & demye once de <span class="m">fleurs de<br/> pastel</span> le tout mis en pouldre et en f{air}e comme du verd
+ Prenes une carte d<span class="m">urine</span> comme dessus et une once d<span class="m">alung</span><br/> & deux dragmes de <span class="m">sel armoniac</span> & demye once de <span class="m">fleurs de<br/> pastel</span> le tout mis en pouldre et en faire comme du verd
  
  
   
@@ -55,7 +55,7 @@ sy nen trouves Et en couvrir dicell{e} pouldre led{ict} <span class="m">boys</sp
 ## Pour le faire Violet
 
  
- Prenes une carte d<span class="m">hurine</span> & une once d<span class="m">alung</span> & deux dragmes<br/> de <span class="m">sel armoniac</span> & une de <span class="m">lacque</span> & faire comme dess{us}
+ Prenes une carte d<span class="m">hurine</span> & une once d<span class="m">alung</span> & deux dragmes<br/> de <span class="m">sel armoniac</span> & une de <span class="m">lacque</span> & faire comme dessus
  
  
   
@@ -63,5 +63,5 @@ sy nen trouves Et en couvrir dicell{e} pouldre led{ict} <span class="m">boys</sp
 ## Pour le faire Jaulne
 
  
- Prenes <span class="m">hurinne</span> comme dessus Et <span class="m">Guesdre</span> deux onces & une<br/> once de <span class="m">fustict</span> Et deux <span class="del">onces</span> dragmes de <span class="m">sel armoniac</span> & f{air}e<br/> comme dessus
+ Prenes <span class="m">hurinne</span> comme dessus Et <span class="m">Guesdre</span> deux onces & une<br/> once de <span class="m">fustict</span> Et deux <span class="del">onces</span> dragmes de <span class="m">sel armoniac</span> & faire<br/> comme dessus
  

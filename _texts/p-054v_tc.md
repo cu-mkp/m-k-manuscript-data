@@ -24,7 +24,7 @@ animals: []
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5N1FlRklFdzIxUzQ" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
-Pour faire seicher les confictures <span class="del">ayes une</span> qui ne sont liquides<br/> ayes une tine percee des deulx costes dune petite fenestre quarree<br/> & par icelles passe des bastons dune part & daultre & sur iceulx<br/> pose un crible faict de fisselles en forme de ret Et la dessus<br/> tu colloqueras proprem{ent} les vaisseaulx de tes confictures Et aya{n}t<br/> mis au fonds de la tine un rechault ou deulx Couvre la tine<br/> avecq un linceulx en double
+Pour faire seicher les confictures <span class="del">ayes une</span> qui ne sont liquides<br/> ayes une tine percee des deulx costes dune petite fenestre quarree<br/> & par icelles passe des bastons dune part & daultre & sur iceulx<br/> pose un crible faict de fisselles en forme de ret Et la dessus<br/> tu colloqueras proprement les vaisseaulx de tes confictures Et ayant<br/> mis au fonds de la tine un rechault ou deulx Couvre la tine<br/> avecq un linceulx en double
  
  
   
@@ -34,7 +34,7 @@ Pour faire seicher les confictures <span class="del">ayes une</span> qui ne sont
  
 \+Il luy fault donner du <span class="m">pain sucre</span> & il cognoistra celuy<br/> qui luy fera ce bien
  
-Et pour le mainctenir en bonne disposition de cheminer <span class="del">mects le</span><br/> fais luy prendre un bon train des le commancem{ent} du chemin & le<br/> continue
+Et pour le mainctenir en bonne disposition de cheminer <span class="del">mects le</span><br/> fais luy prendre un bon train des le commancement du chemin & le<br/> continue
  
  
   
@@ -42,7 +42,7 @@ Et pour le mainctenir en bonne disposition de cheminer <span class="del">mects l
 ## Chiens
 
  
-Pour les garder de mordre il est bon davoir des pelottes<br/> de <span class="m">gemme</span> acoustree co{mm}e celle des <span class="pro">cordonniers</span> & leur gecter co{mm}e ilz<br/> te jappent & ilz mordront tellement les pelottes quilz sempasteront<br/> les dents & ne te pourront nuire
+Pour les garder de mordre il est bon davoir des pelottes<br/> de <span class="m">gemme</span> acoustree comme celle des <span class="pro">cordonniers</span> & leur gecter comme ilz<br/> te jappent & ilz mordront tellement les pelottes quilz sempasteront<br/> les dents & ne te pourront nuire
  
  
   

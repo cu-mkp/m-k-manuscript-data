@@ -10,7 +10,7 @@ editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: []
 tools: []
-measurements: [quint{als}, pa{n}, quintals, pans, cane, quintal, pa{n}s, demy, lb]
+measurements: [quintals, pan, pans, cane, quintal, demy, lb]
 bodyparts: []
 places: [monpelier]
 plants: []

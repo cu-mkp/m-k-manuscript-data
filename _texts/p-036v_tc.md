@@ -25,7 +25,7 @@ animals: []
 ## <span class="pro">Fondeur</span>
 
  
-Les pots de cuisine se font bons pour ne donner poinct<br/> <span class="sn">mauvays goust a la viande</span> avecq du mesme <span class="m">metal duquel<br/> les cloches se font</span> Il est vray que pour les rendre plus<br/> vendables les <span class="pro">fond<span class="del">ables</span><span class="add">eurs</span></span> y meslent plus de <span class="m">letton</span> pourcequilz<br/> sont plus jaulnes Mays le <span class="m">letton</span> de soymesme & a son seul<br/> attouchem{ent} est <span class="sn">puant</span> & de <span class="sn">mauvaise odeur</span>
+Les pots de cuisine se font bons pour ne donner poinct<br/> <span class="sn">mauvays goust a la viande</span> avecq du mesme <span class="m">metal duquel<br/> les cloches se font</span> Il est vray que pour les rendre plus<br/> vendables les <span class="pro">fond<span class="del">ables</span><span class="add">eurs</span></span> y meslent plus de <span class="m">letton</span> pourcequilz<br/> sont plus jaulnes Mays le <span class="m">letton</span> de soymesme & a son seul<br/> attouchement est <span class="sn">puant</span> & de <span class="sn">mauvaise odeur</span>
  
 Le <span class="m">letton</span> ne perd point ou bien peu sa <span class="m">calamine</span> au <span class="tl">four a vent</span><br/> quand il se fond au <span class="tl">creuset</span> ne gueres au <span class="tl">four a <span class="m">boys</span></span> Mays<br/> bien au <span class="tl">four a souflets</span> pourceque les <span class="tl">souflets</span> donnent<br/> feu de chasse
  

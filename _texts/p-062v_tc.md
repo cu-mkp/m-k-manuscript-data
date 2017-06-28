@@ -35,7 +35,7 @@ Quand l'impression est de long temps faicte elle sengraisse<br/> il la fault fro
 ## Perspective
 
  
-Pour cognoistre le poinct il fault coucher une regle<br/> sur les lignes & a la desmenee dicelles le poinct sera<br/> Aucuns font un pertuis au bout de leurs regles pour assurer<br/> le poinct par ce pertuis & faire jouer la regle Aultres<br/> couchent une regle au travers du tableau puys sur icelle<br/> regle couchee posent la poincte dune aultre regle laquelle<br/> fichee sur laultre par le moyen dune vis joue & sestend<br/> la ou il est besoing sans perdre le point<br/> La regle et compas sans le jugem{ent} de loeil font errer<br/> perspective est tres difficille
+Pour cognoistre le poinct il fault coucher une regle<br/> sur les lignes & a la desmenee dicelles le poinct sera<br/> Aucuns font un pertuis au bout de leurs regles pour assurer<br/> le poinct par ce pertuis & faire jouer la regle Aultres<br/> couchent une regle au travers du tableau puys sur icelle<br/> regle couchee posent la poincte dune aultre regle laquelle<br/> fichee sur laultre par le moyen dune vis joue & sestend<br/> la ou il est besoing sans perdre le point<br/> La regle et compas sans le jugement de loeil font errer<br/> perspective est tres difficille
  
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5ZkRNOG9hZmpMT2M" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
@@ -57,5 +57,5 @@ Pour faire aussy les lignes a <span class="m">plomb</span> qui sont du hault<br/
 ## Tableau
 
  
-Il fault pour pourtraire & coucher les couleurs mesmem{ent} a<br/> <span class="m">huile</span> que tu tiennes ton tableau le plus droict sur le chevalet<br/> quil te sera possible car sil est panche il y a danger que quelque<br/> poulsiere & ordure ne si attache Tiens net & sans poulsiere<br/> Le lieu ou tu pains
+Il fault pour pourtraire & coucher les couleurs mesmement a<br/> <span class="m">huile</span> que tu tiennes ton tableau le plus droict sur le chevalet<br/> quil te sera possible car sil est panche il y a danger que quelque<br/> poulsiere & ordure ne si attache Tiens net & sans poulsiere<br/> Le lieu ou tu pains
  

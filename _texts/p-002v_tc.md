@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [esmeraldesde Brissac, miniu{m}, {christ}al, marbre, v{er}det, safir, Caillous, sel de febvre, coryal]
+materials: [esmeraldesde Brissac, minium, christal, marbre, verdet, safir, Caillous, sel de febvre, coryal]
 tools: []
 measurements: []
 bodyparts: []
@@ -29,9 +29,9 @@ animals: []
 ## @<span class="m">esmeraldes<br/>de Brissac</span>
 
 </span> 
-Jai prins <span class="m">miniu{m}</span> 26 ℥@ <span class="m">{christ}al</span>@<span class="add"> et broie sur le <span class="m">marbre</span></span> 12 ℥ <span class="m">v{er}det</span> 3 |ʒ| Incorpores le tout ensemble<br/> mis dans un {crois}et couvert d'un a{ultr}e bien lute qui ait un trou dans<br/> le hault fuzion 7 heures sans soufler la mace a este dun beau<br/> v{er}t
+Jai prins <span class="m">minium</span> 26 ℥@ <span class="m">christal</span>@<span class="add"> et broie sur le <span class="m">marbre</span></span> 12 ℥ <span class="m">verdet</span> 3 |ʒ| Incorpores le tout ensemble<br/> mis dans un croiset couvert d'un aultre bien lute qui ait un trou dans<br/> le hault fuzion 7 heures sans soufler la mace a este dun beau<br/> vert
  
-Jai prins <span class="m">miniu{m}</span> 12 ℥ <span class="m">{christ}al</span> 6 ℥ <span class="m">v{er}det</span> 2 grains fuzion doulce<br/> vi heures recuicte 24 heures la mace a este de v{er}t Jaulne<br/> & rouge
+Jai prins <span class="m">minium</span> 12 ℥ <span class="m">christal</span> 6 ℥ <span class="m">verdet</span> 2 grains fuzion doulce<br/> vi heures recuicte 24 heures la mace a este de vert Jaulne<br/> & rouge
  
  
   
@@ -39,5 +39,5 @@ Jai prins <span class="m">miniu{m}</span> 12 ℥ <span class="m">{christ}al</spa
 ## <span class="m">safir</span>
 
  
-<span class="m">Caillous</span> ou <span class="m">{christ}al</span> 8 ℥ <span class="m">miniu{m}</span> 16 ℥ <span class="m">sel de <span class="pro">febvre</span></span> 4 ℥<br/> <span class="m">coryal</span> [?] extincellent 4 grains fuzion 6 [?] heures
+<span class="m">Caillous</span> ou <span class="m">christal</span> 8 ℥ <span class="m">minium</span> 16 ℥ <span class="m">sel de <span class="pro">febvre</span></span> 4 ℥<br/> <span class="m">coryal</span> ? extincellent 4 grains fuzion 6 ? heures
  

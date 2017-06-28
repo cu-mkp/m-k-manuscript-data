@@ -38,7 +38,7 @@ Take a dozen dried <span class="m">common <span class="pa">walnuts</span></span>
  
   
 
-## To relieve the pain of g{out}
+## To relieve the pain of gout
 
  
 Take half a pound of finely powdered golden and yellow <span class="m">marcasite</span>, half an ounce of <span class="m">storax</span>, 4 lb. of <span class="m">urine</span>, incorporate well together, little by little, in a <span class="tl">mortar</span>, then boil all together quite strongly. But the pot needs to be well covered so the smoke does not escape. Then distill the imbibed <span class="m">urine</span>, separated by inclination, in an <span class="tl">alembic</span>, well luted and covered with a <span class="m">copper</span> head. And soak a cloth with the said <span class="m">water</span> and apply it lukewarm on the pain.

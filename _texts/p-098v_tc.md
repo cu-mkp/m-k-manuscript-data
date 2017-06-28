@@ -33,7 +33,7 @@ Les petits <span class="al">chiens</span> qui doivent estre barbets se cognoisse
 ## <span class="m">Artichauts</span> <span class="m">sales</span>
 
  
-On les mect entiers & non trop faicts en un barricot<br/> quon emplist de <span class="m">saulmure</span> Puys on les sert tout lan<br/> parmy les salades crus avecq <span class="m">huile</span> & <span class="m">vinaigre</span> car esta{n}t<br/> ainsy prepares ilz sont longs a cuire Mays advise<br/> dexperimenter ta <span class="m">saulmure</span> avecq un <span class="m">œuf</span> Car si elle est<br/> bonne & assez forte l<span class="m">oeuf</span> nagera dessus Sinon elle nest<br/> pas asses forte et ne conserveroit pas les <span class="m">fruits</span>
+On les mect entiers & non trop faicts en un barricot<br/> quon emplist de <span class="m">saulmure</span> Puys on les sert tout lan<br/> parmy les salades crus avecq <span class="m">huile</span> & <span class="m">vinaigre</span> car estant<br/> ainsy prepares ilz sont longs a cuire Mays advise<br/> dexperimenter ta <span class="m">saulmure</span> avecq un <span class="m">œuf</span> Car si elle est<br/> bonne & assez forte l<span class="m">oeuf</span> nagera dessus Sinon elle nest<br/> pas asses forte et ne conserveroit pas les <span class="m">fruits</span>
  
  
   
@@ -57,7 +57,7 @@ Qui ont este nourris a la broche ne siflent pas parmy les<br/> aultres en compai
 ## Fonte
 
  
-La <span class="m">potee</span> se faict de <span class="m">terre bruslee</span> qui a servy a la fonte<br/> cest <span class="m">terre bourre bolvene</span> dans @ laquelle on la fondu On la<br/> broye sur une grande <span class="tl"><span class="m">pierre</span></span> & de celle la on en faict la <span class="del">chappe<br/> des</span> premiere couche de la chape des cloches ou il y ha<br/> l{ett}res & ouvrages & <span class="del">le</span> nha besoing que destre recuite a la<br/> flambe de la <span class="tl"><span class="m">paille</span></span> et moulle fort net
+La <span class="m">potee</span> se faict de <span class="m">terre bruslee</span> qui a servy a la fonte<br/> cest <span class="m">terre bourre bolvene</span> dans @ laquelle on la fondu On la<br/> broye sur une grande <span class="tl"><span class="m">pierre</span></span> & de celle la on en faict la <span class="del">chappe<br/> des</span> premiere couche de la chape des cloches ou il y ha<br/> lettres & ouvrages & <span class="del">le</span> nha besoing que destre recuite a la<br/> flambe de la <span class="tl"><span class="m">paille</span></span> et moulle fort net
  
 La <span class="m">terre</span> qui moule en noyau est subgecte a soufler si tu<br/> ne frottes fort avecq la <span class="tl">broisse</span> ou le <span class="tl"><span class="bp">doigt </span></span> sur la piece<br/> mouler qui soit bien <span class="m">huilee</span> Et fais couches a couches & non<br/> en un coup
  

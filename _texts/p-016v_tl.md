@@ -28,7 +28,7 @@ which is usually of 3 <span class="ms">pan</span>s high. But first of all, you h
  
   
 
-## Against Go{norrhea}
+## Against Gonorrhea
 
  
 Soak some <span class="m"><span class="pa">quince</span> seeds</span> in some clear <span class="m">water</span> and inject this viscous <span class="m">water</span>

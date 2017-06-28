@@ -12,7 +12,7 @@ materials: [egg white, earth, Rosette, lead, red copper, copper, metal, Sand, po
 tools: []
 measurements: []
 bodyparts: []
-places: [Th{oulous}e]
+places: [Thoulouse]
 plants: []
 professions: [Casters, apothecaries]
 environments: []
@@ -55,7 +55,7 @@ It wants to be well recooked for big <span class="m">metal</span> <span class="s
 ## <span class="m">Sand</span> Experiments
 
  
-X I have tested <span class="m">sand</span> of <span class="pl">Th{oulous}e</span>, & after seeing it well recooked two times in a skillet, I passed it through a fine <span class="m">tammy cloth</span>, like the double <span class="sup">sieve</span> which <span class="pro">apothecaries</span> use, without grinding it further on the <span class="m">porphyry</span>, as I have done other times. I moistened it <span class="sup">the sand</span> in infusion with <span class="m">elm root,</span> and in it, I molded a big piece of a portrait of Jesus. I found it unmolded very well without having to tire myself out by hitting it from behind & it molded cleanly on one side of the relief & on the other concave. & [it was] of the thickness of a coin of forty sols. I cast <span class="sup">this</span> very hot
+X I have tested <span class="m">sand</span> of <span class="pl">Thoulouse</span>, & after seeing it well recooked two times in a skillet, I passed it through a fine <span class="m">tammy cloth</span>, like the double <span class="sup">sieve</span> which <span class="pro">apothecaries</span> use, without grinding it further on the <span class="m">porphyry</span>, as I have done other times. I moistened it <span class="sup">the sand</span> in infusion with <span class="m">elm root,</span> and in it, I molded a big piece of a portrait of Jesus. I found it unmolded very well without having to tire myself out by hitting it from behind & it molded cleanly on one side of the relief & on the other concave. & it was of the thickness of a coin of forty sols. I cast <span class="sup">this</span> very hot
  
 > *Figure*
 > *at left bottom margin*

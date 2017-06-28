@@ -23,7 +23,7 @@ animals: [animal]
  
 *[continued]*
   
- <span class="m">agathe</span> de diverse couleur Mays pourceque ceste totalle<br/> blancheur ne respondoict pas a faire ceste crouste blanche en<br/> la superficie que je cherchois laissant le reste de la chose de<br/> sa couleur naturelle Je fis un pertuis dans une <span class="m">brique</span> de la<br/> grandeur justement de la chose & la mis dedans puys je fis<br/> rougir deulx <span class="tl">souldouers de <span class="pro">vitrier</span></span> & comme ilz estoient rouges<br/> je les presentois lung apres laultre sur la superficie de la<br/> chose jusques a ce que jeus la crouste blanche que je dema{n}dois<br/> sur laquelle je fis tel desseing que je vouleus descouvrant<br/> jusques au fonds rouge avecq une <span class="tl">poincte de <span class="m">diamant</span></span> Et la<br/> polis avecq des <span class="m">sayes de porceau</span> et du <span class="m">tripoly</span> Je ne scay<br/> sil seroict mieulx de la recuire soubs les <span class="m">cendres</span> chauldes<br/> & sil seroict bon de lenchasser dans de l<span class="m">albastre</span> qui est fort<br/> froid co{mm}e je lenchassay dans la <span class="m">brique</span>
+ <span class="m">agathe</span> de diverse couleur Mays pourceque ceste totalle<br/> blancheur ne respondoict pas a faire ceste crouste blanche en<br/> la superficie que je cherchois laissant le reste de la chose de<br/> sa couleur naturelle Je fis un pertuis dans une <span class="m">brique</span> de la<br/> grandeur justement de la chose & la mis dedans puys je fis<br/> rougir deulx <span class="tl">souldouers de <span class="pro">vitrier</span></span> & comme ilz estoient rouges<br/> je les presentois lung apres laultre sur la superficie de la<br/> chose jusques a ce que jeus la crouste blanche que je demandois<br/> sur laquelle je fis tel desseing que je vouleus descouvrant<br/> jusques au fonds rouge avecq une <span class="tl">poincte de <span class="m">diamant</span></span> Et la<br/> polis avecq des <span class="m">sayes de porceau</span> et du <span class="m">tripoly</span> Je ne scay<br/> sil seroict mieulx de la recuire soubs les <span class="m">cendres</span> chauldes<br/> & sil seroict bon de lenchasser dans de l<span class="m">albastre</span> qui est fort<br/> froid comme je lenchassay dans la <span class="m">brique</span>
  
  
   
@@ -44,7 +44,7 @@ Mesle <span class="m">sel armoniac</span> & <span class="m">vitriol</span> & fai
  
   
 
-## Polisseme{n}t de <span class="m">pierres</span>
+## Polissement de <span class="m">pierres</span>
 
  
 Les <span class="m">pierres</span> <span class="del">eai</span> gravees ne se polissent pas sur la <span class="tl">roue de<br/> <span class="m">cuivre</span></span> Ains avecq les <span class="tl">broisses</span> et le <span class="m">tripoly</span> Mays les pierres<br/> taillees a faces et a plain se polissent sur la <span class="tl">roue</span> susdicte
@@ -55,7 +55,7 @@ Les <span class="m">pierres</span> <span class="del">eai</span> gravees ne se po
 ## <span class="tl">Tamis</span> fins de <span class="m">soye</span> creue
 
  
-On faict de lestamine de <span class="m">soye</span> crue au telier pour fayre de fins &<br/> subtils <span class="tl">tamis</span> Et pour cet effect il ne fault pas choisir la <span class="m">soye</span> crue<br/> blanchie a la fumee du <span class="m">soufre</span> qui rend la <span class="m">soye</span> <span class="del">chas</span> chargee dune<br/> vapeur glua{n}te qui retiendroit la <span class="m">farine</span> & enfin empescheroit quelle ne<br/> 
+On faict de lestamine de <span class="m">soye</span> crue au telier pour fayre de fins &<br/> subtils <span class="tl">tamis</span> Et pour cet effect il ne fault pas choisir la <span class="m">soye</span> crue<br/> blanchie a la fumee du <span class="m">soufre</span> qui rend la <span class="m">soye</span> <span class="del">chas</span> chargee dune<br/> vapeur gluante qui retiendroit la <span class="m">farine</span> & enfin empescheroit quelle ne<br/> 
  
 *[continued]*
  

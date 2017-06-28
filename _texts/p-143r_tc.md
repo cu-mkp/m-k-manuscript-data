@@ -25,22 +25,22 @@ animals: [tortues, tortue deau, celle de garrigue, serpents, Celles deau, Celles
 ## Mouler <span class="al">tortues</span>
 
  
-La <span class="al">tortue deau</span> est plus belle a mouler pourcequelle ha<br/> plus belles escailles & les jambes droictes Et <span class="al">celle de<br/> garrigue</span> les ha tor<span class="del">t</span>dues Elles sont de grande vye<br/> partant pour les faire mourir Ouvre leur la gueule<br/> & leur passe un long <span class="tl">trencheplume</span> par touts les intestins<br/> & puys luy fais avaller du <span class="m">vinaigre</span> mesle d<span class="m">eau de vye</span><br/> ou <span class="m">urine</span> co{mm}e pour les <span class="al">serpents</span> Il les fault mouler<br/> a plusieurs pieces & le dos mesmes quelques fois pourceque<br/> les costes sont a quelques unes plus estroits quailleurs<br/> & ne sont pas a ceste occasion en despouille Pour les<br/> faire mourir il ne les fault pas faire bouillir car elles<br/> se deffont & mesmes la coquille par l<span class="m">eau chaulde</span> Elles viennent<br/> mieulx creuses pourceque leur grande espesseur corromproit<br/> le moulle @<span class="al">Celles deau</span> sont plus vigoureuses & <span class="al">Celles de garrigue</span> sont<br/> plus maigres plus lentes & plus endormies Si tu grattes <span class="al">celles deau</span><br/> sur leur coquille quelque endormies quelles soient elles sesbougent <span class="al">celles<br/> de garrigue</span> non
+La <span class="al">tortue deau</span> est plus belle a mouler pourcequelle ha<br/> plus belles escailles & les jambes droictes Et <span class="al">celle de<br/> garrigue</span> les ha tor<span class="del">t</span>dues Elles sont de grande vye<br/> partant pour les faire mourir Ouvre leur la gueule<br/> & leur passe un long <span class="tl">trencheplume</span> par touts les intestins<br/> & puys luy fais avaller du <span class="m">vinaigre</span> mesle d<span class="m">eau de vye</span><br/> ou <span class="m">urine</span> comme pour les <span class="al">serpents</span> Il les fault mouler<br/> a plusieurs pieces & le dos mesmes quelques fois pourceque<br/> les costes sont a quelques unes plus estroits quailleurs<br/> & ne sont pas a ceste occasion en despouille Pour les<br/> faire mourir il ne les fault pas faire bouillir car elles<br/> se deffont & mesmes la coquille par l<span class="m">eau chaulde</span> Elles viennent<br/> mieulx creuses pourceque leur grande espesseur corromproit<br/> le moulle @<span class="al">Celles deau</span> sont plus vigoureuses & <span class="al">Celles de garrigue</span> sont<br/> plus maigres plus lentes & plus endormies Si tu grattes <span class="al">celles deau</span><br/> sur leur coquille quelque endormies quelles soient elles sesbougent <span class="al">celles<br/> de garrigue</span> non
  
 > *at left top margin*
 > 
 > 
->  Elles meurent asses tost dans<br/> le <span class="m">vinaigre</span> mesle dun peu d<span class="m">eau<br/> de vie</span> ou d<span class="m">urine</span> co{mm}e tous aultres<br/> animaulx
+>  Elles meurent asses tost dans<br/> le <span class="m">vinaigre</span> mesle dun peu d<span class="m">eau<br/> de vie</span> ou d<span class="m">urine</span> comme tous aultres<br/> animaulx
  
 > *at left top margin*
 > 
 > 
->  Elles se tiennent<br/> lhiver les yeulx<br/> clos & sont co{mm}e<br/> mortes esta{n}t<br/> assopies du froid<br/> Elles se cachent<br/> en terre ou soubs<br/> de la balle de<br/> <span class="m">bled</span> ou <span class="m">fumier<br/> chauld</span>& ne<br/> vivent que de<br/> lhumeur de la<br/> terre
+>  Elles se tiennent<br/> lhiver les yeulx<br/> clos & sont comme<br/> mortes estant<br/> assopies du froid<br/> Elles se cachent<br/> en terre ou soubs<br/> de la balle de<br/> <span class="m">bled</span> ou <span class="m">fumier<br/> chauld</span>& ne<br/> vivent que de<br/> lhumeur de la<br/> terre
  
 > *at left middle margin*
 > 
 > 
->  @ Il ne les fault<br/> pas mouler si tost<br/> quelles sont<br/> mortes pource quelles<br/> sont encores<br/> trop roydes<br/> Mays le lendemain<br/> tu les manieras<br/> & plieras les<br/> pattes co{mm}e tu<br/> vouldras
+>  @ Il ne les fault<br/> pas mouler si tost<br/> quelles sont<br/> mortes pource quelles<br/> sont encores<br/> trop roydes<br/> Mays le lendemain<br/> tu les manieras<br/> & plieras les<br/> pattes comme tu<br/> vouldras
  
  
   
@@ -66,5 +66,5 @@ Estant moule il se peult oster sans le brusler pource<br/> quil est bien de desp
 >  
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5cnJFVXFaRURaY3c" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
- Laisse<br/> refroidir le<br/> moule plustost<br/> que louvrir<br/> mesmem{ent} aulx<br/> choses espesses
+ Laisse<br/> refroidir le<br/> moule plustost<br/> que louvrir<br/> mesmement aulx<br/> choses espesses
  

@@ -49,7 +49,7 @@ If he wants to do some tanned work on black <span class="m">leather</span> shoes
 ## Writing without <span class="m">ink</span>
 
  
- Write with <span class="m">oil of sulfur</span> and heat [it], and the letter will become as black as this one. Urb. 
+ Write with <span class="m">oil of sulfur</span> and heat it, and the letter will become as black as this one. Urb. 
  
  
   

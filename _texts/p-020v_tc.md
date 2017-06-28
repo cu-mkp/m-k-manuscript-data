@@ -8,11 +8,11 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [vesse, eau de cisterne, eau blanchie, lamydon, suc, eau distilee de lescorce dorenge, Lescorce, vin escumant, jus dorange, vin, escume, just, Eschervis racine, oignon, verjus, savo{n} noir, oeufs, sucre]
+materials: [vesse, eau de cisterne, eau blanchie, lamydon, suc, eau distilee de lescorce dorenge, Lescorce, vin escumant, jus dorange, vin, escume, just, Eschervis racine, oignon, verjus, savon noir, oeufs, sucre]
 tools: [verre]
 measurements: [quintals, doigt]
 bodyparts: [face, estomac, doigt, ventre]
-places: [rhodés, Alby, mende, th{o}l{os}e, france]
+places: [rhodés, Alby, mende, tholose, france]
 plants: [vesse, orenge, orange, Eschervis, oignon]
 professions: []
 environments: []
@@ -41,7 +41,7 @@ Le <span class="m">suc</span> exprime ou l<span class="m">eau <span class="del">
 ## <span class="m"><span class="pa">Eschervis</span> racine</span>
 
  
-Ils veulent estre plantes en lieu fort humide ou tel quavecq<br/> puys rodier ou fontayne on le puysse souvent arroser Car<br/> par ce moyen ilz sont tendres Aultrement ils se faict au deda{n}s<br/> un coeur dur qui luy oste toute sa bonte 
+Ils veulent estre plantes en lieu fort humide ou tel quavecq<br/> puys rodier ou fontayne on le puysse souvent arroser Car<br/> par ce moyen ilz sont tendres Aultrement ils se faict au dedans<br/> un coeur dur qui luy oste toute sa bonte 
  
  
   
@@ -49,15 +49,15 @@ Ils veulent estre plantes en lieu fort humide ou tel quavecq<br/> puys rodier ou
 ## Contre brusleure
 
  
-Pile un <span class="m"><span class="pa">oignon</span></span> avecq du <span class="m">verjus</span> & le laisse ainsy tremper<br/> puys laplique Ou bien aplique sur la brusleure du <span class="m">savo{n}<br/> noir</span> experimente 
+Pile un <span class="m"><span class="pa">oignon</span></span> avecq du <span class="m">verjus</span> & le laisse ainsy tremper<br/> puys laplique Ou bien aplique sur la brusleure du <span class="m">savon<br/> noir</span> experimente 
  
  
   
 
-## Commu{n} dire
+## Commun dire
 
  
-Clocher de <span class="pl">rhodés</span> Eglise d<span class="pl">Alby</span> cloches de <span class="pl">mende</span><br/> Touteffoys on tient la choche de <span class="pl">th{o}l{os}e</span> appellee cardaillac pour<br/> une des plus belles de <span class="pl">france</span> daultant quil poise deuls cens<br/> cinquante <span class="ms">quintals</span> 
+Clocher de <span class="pl">rhodés</span> Eglise d<span class="pl">Alby</span> cloches de <span class="pl">mende</span><br/> Touteffoys on tient la choche de <span class="pl">tholose</span> appellee cardaillac pour<br/> une des plus belles de <span class="pl">france</span> daultant quil poise deuls cens<br/> cinquante <span class="ms">quintals</span> 
  
  
   

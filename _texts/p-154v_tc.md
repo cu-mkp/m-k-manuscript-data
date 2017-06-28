@@ -13,7 +13,7 @@ tools: [pinceau, fil de letton]
 measurements: []
 bodyparts: []
 places: []
-plants: [fleurs, herbages, foeuilles, fleur de roses, pensee, fraises, foeuiles, fruict des fraises]
+plants: [fleurs, herbages, foeuilles, fleur de roses, pensee, fraises, foeuiles, fruict des fraisiers]
 professions: []
 environments: []
 animals: [mouche, animales]
@@ -25,7 +25,7 @@ animals: [mouche, animales]
 ## <span class="m">Letton</span>
 
  
-Il est fort fantasque a gecter Il veult estre<br/> gecte fort chault Et pour mieulx en venir a bout<br/> gecte dessus du <span class="m">sel armoniac</span> pour lesclarcir Allie<br/> le aussy dun peu de <span class="m">cuivre rouge</span> Et co{mm}e tu vouldras<br/> gecter un peu d<span class="m">estain</span> pour le faire mieulx courre<br/> Il laisse tousiours une queue co{mm}e de <span class="m">verre</span> fondu<br/> Il ne demande pas si long gect que les aultres
+Il est fort fantasque a gecter Il veult estre<br/> gecte fort chault Et pour mieulx en venir a bout<br/> gecte dessus du <span class="m">sel armoniac</span> pour lesclarcir Allie<br/> le aussy dun peu de <span class="m">cuivre rouge</span> Et comme tu vouldras<br/> gecter un peu d<span class="m">estain</span> pour le faire mieulx courre<br/> Il laisse tousiours une queue comme de <span class="m">verre</span> fondu<br/> Il ne demande pas si long gect que les aultres
  
  
   
@@ -54,14 +54,7 @@ L<span class="m">argent</span> veult bien le gect longuet A l<span class="m">or<
 ## Renforcer les <span class="pa">fleurs</span> et<br/> choses delicates
 
  
-Pour <span class="pa">fleurs</span> & <span class="del">choses delicates</span> & <span class="pa">herbages</span> on nuse<br/> poinct d<span class="m">huile de froment</span> Ains de <span class="m">beurre</span> fondu duquel<br/> on donne une couche # 
- 
-> *at left middle margin*
-> 
-> 
-> avecq un petit <span class="tl">pinceau</span>
- 
-legere au derriere des <span class="pa">foeuilles</span> de<br/> <span class="pa">fleur de roses</span> & de la <span class="pa">pensee</span> & aultres <span class="pa">fleurs</span> qui en<br/> ont besoing Mais on renforce les <span class="del">fl</span> petits pieds de <span class="al">mouche</span><br/> & daultres petits <span class="al">animales</span> <span class="m">dhuile de froment</span> pour les<br/> fortifier & faire soubstenir
+Pour <span class="pa">fleurs</span> & <span class="del">choses delicates</span> & <span class="pa">herbages</span> on nuse<br/> poinct d<span class="m">huile de froment</span> Ains de <span class="m">beurre</span> fondu duquel<br/> on donne une couche # <span class="add">avecq un petit <span class="tl">pinceau</span></span> legere au derriere des <span class="pa">foeuilles</span> de<br/> <span class="pa">fleur de roses</span> & de la <span class="pa">pensee</span> & aultres <span class="pa">fleurs</span> qui en<br/> ont besoing Mais on renforce les <span class="del">f</span> petits pieds de <span class="al">mouche</span><br/> & daultres petits <span class="al">animales</span> <span class="m">dhuile de froment</span> pour les<br/> fortifier & faire soubstenir
  
  
   
@@ -69,5 +62,5 @@ legere au derriere des <span class="pa">foeuilles</span> de<br/> <span class="pa
 ## <span class="pa">fraises</span>
 
  
-Les <span class="pa">foeuiles</span> se moulent a part & puys se raportent<br/> avecq souldure Et pourceque les <span class="pa">fruict des fraises</span><br/> se gecte massif & que par ce moyen il est poisant et que<br/> la queue d<span class="m">estain</span> qui est deliee ne les pourroit pas<br/> soubstenir sans se rompre bien tost on faict les queues<br/> de <span class="tl">fil de <span class="m">letton</span></span> & puys on les soulde & raporte
+Les <span class="pa">foeuiles</span> se moulent a part & puys se raportent<br/> avecq souldure Et pourceque les <span class="pa">fruict des fraisiers</span><br/> se gecte massif & que par ce moyen il est poisant et que<br/> la queue d<span class="m">estain</span> qui est deliee ne les pourroit pas<br/> soubstenir sans se rompre bien tost on faict les queues<br/> de <span class="tl">fil de <span class="m">letton</span></span> & puys on les soulde & raporte
  

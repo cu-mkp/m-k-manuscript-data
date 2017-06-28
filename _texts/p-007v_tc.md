@@ -25,7 +25,7 @@ animals: []
 ## Pour donner couleur de toute<br/> sorte de <span class="m">metaulx</span> au <span class="m">boys</span> & aultre chose
 
  
-P{renés} <span class="m">pierre de touche</span> & <span class="m">pierre ponce</span> aultant dun que daultre<br/> & les broyes ensemble & destrempes avecq <span class="m">colle de retailles</span><br/> plus forte que pour paindre & peignes en ce que vous vouldres<br/> estant sec frottes ceste couche de quelque <span class="m">metal</span> que ce soict<br/> puys le brunisses
+Prenés <span class="m">pierre de touche</span> & <span class="m">pierre ponce</span> aultant dun que daultre<br/> & les broyes ensemble & destrempes avecq <span class="m">colle de retailles</span><br/> plus forte que pour paindre & peignes en ce que vous vouldres<br/> estant sec frottes ceste couche de quelque <span class="m">metal</span> que ce soict<br/> puys le brunisses
  
  
   
@@ -33,15 +33,15 @@ P{renés} <span class="m">pierre de touche</span> & <span class="m">pierre ponce
 ## Contre la colique venteuse
 
  
-P{rens} une douzaine de <span class="m">noix communes</span> seiches & lune apres<br/> laultre gectes les en un bon <span class="tl">brasier</span> ou elles se puissent<br/> enflammer & les tires avecq des <span class="tl">pincettes</span> Et les laisses<br/> ardre & bien esprendre en lair Et les estaignes dans<br/> un verre de bon <span class="m">vin</span> Apres laisses froidir le <span class="m">vin</span> Et le<br/> coules & en verses la moictie Car six <span class="m">noix</span> estainctes<br/> sont pour une dose Excellent remede contre la suffocation<br/> de matrice
+Prens une douzaine de <span class="m">noix communes</span> seiches & lune apres<br/> laultre gectes les en un bon <span class="tl">brasier</span> ou elles se puissent<br/> enflammer & les tires avecq des <span class="tl">pincettes</span> Et les laisses<br/> ardre & bien esprendre en lair Et les estaignes dans<br/> un verre de bon <span class="m">vin</span> Apres laisses froidir le <span class="m">vin</span> Et le<br/> coules & en verses la moictie Car six <span class="m">noix</span> estainctes<br/> sont pour une dose Excellent remede contre la suffocation<br/> de matrice
  
  
   
 
-## Pour oster la douleur de la g{out}
+## Pour oster la douleur de la gout
 
  
-P{rens} demy lb de <span class="m">marquasite</span> doree & jaulne subtillem{ent} pulverisee<br/> demy once de <span class="m">storax</span> 4 lb d<span class="m">urine</span> incorpores bien tout<br/> ensemble peu a peu dans un <span class="tl">mortier</span> puys faictes bouillir<br/> bien fort tout ensemble Mays il fault que le pot soict bien<br/> couvert affin que la fumee nexhale poinct Apres distilles<br/> l<span class="m">urine</span> <span class="del">c’est</span> imbibee & separee par inclination En un <span class="tl">alembic</span><br/> bien lute & couvert dun chapiteau de <span class="m">cuivre</span> & imbibes un<br/> linge de ladicte <span class="m">eau</span> & lapliques tiedement sur la douleur
+Prens demy lb de <span class="m">marquasite</span> doree & jaulne subtillement pulverisee<br/> demy once de <span class="m">storax</span> 4 lb d<span class="m">urine</span> incorpores bien tout<br/> ensemble peu a peu dans un <span class="tl">mortier</span> puys faictes bouillir<br/> bien fort tout ensemble Mays il fault que le pot soict bien<br/> couvert affin que la fumee nexhale poinct Apres distilles<br/> l<span class="m">urine</span> <span class="del">c’est</span> imbibee & separee par inclination En un <span class="tl">alembic</span><br/> bien lute & couvert dun chapiteau de <span class="m">cuivre</span> & imbibes un<br/> linge de ladicte <span class="m">eau</span> & lapliques tiedement sur la douleur
  
  
   
@@ -49,5 +49,5 @@ P{rens} demy lb de <span class="m">marquasite</span> doree & jaulne subtillem{en
 ## Contre gonhorrea
 
  
-<span class="m">Aquae fabrorum antiquae</span> lb i. <span class="m">boli <span class="pl">armeniae</span></span> in <span class="del">tel</span> tenuissimum<br/> pollinem redactae ℥. i. <span class="m">mellis</span> co{mmun}is ʒ. iii. coquantur ad <span class="m">mellis</span><br/> despumationem Tum refrigerata, <span class="m">colentur</span> cum forti expressione<br/> & de colatura utatur per iniectionem.
+<span class="m">Aquae fabrorum antiquae</span> lb i. <span class="m">boli <span class="pl">armeniae</span></span> in <span class="del">tel</span> tenuissimum<br/> pollinem redactae ℥. i. <span class="m">mellis</span> communis ʒ. iii. coquantur ad <span class="m">mellis</span><br/> despumationem Tum refrigerata, <span class="m">colentur</span> cum forti expressione<br/> & de colatura utatur per iniectionem.
  

@@ -25,7 +25,7 @@ animals: []
 ## Couleurs pour les feuilles vertes
 
  
-On les painct co{mmun}ement a <span class="m">huile</span> pourceque les couleurs<br/> a destrempe nont point de tenue Pour <span class="pa">fleur de soulcy</span><br/> le <span class="m">minium</span> peu broye pour aulcuns & pour daultres qui<br/> sont plus jaulnastres un peu de <span class="m">massicot</span> parmy<br/> Pour vert Le <span class="m">vert de gris</span> a fonds & est trop obscur<br/> Si cest un vert jaulnastre Tu peulx mesler avecq<br/> le <span class="m">verdegris</span> un peu d<span class="m">ocre jaulne</span> & de <span class="m">scudegrun</span><br/> Si le verd est obscur Mects parmy du <span class="m">charbon<br/> de noyau de pescher</span> qui faict un <span class="del">v</span> noir verdastre<br/> co{mm}e le noir d<span class="m">os de pied de bœuf</span> faict bleuastre<br/> Et ainsy par jugement & discretion mects la couleur<br/> sur la fleur ou foeille naturelle pour voyr<br/> si elle aproche bien @Mays couche la fort clere pour ne<br/> couvrir pas les traicts de louvrage
+On les painct communement a <span class="m">huile</span> pourceque les couleurs<br/> a destrempe nont point de tenue Pour <span class="pa">fleur de soulcy</span><br/> le <span class="m">minium</span> peu broye pour aulcuns & pour daultres qui<br/> sont plus jaulnastres un peu de <span class="m">massicot</span> parmy<br/> Pour vert Le <span class="m">vert de gris</span> a fonds & est trop obscur<br/> Si cest un vert jaulnastre Tu peulx mesler avecq<br/> le <span class="m">verdegris</span> un peu d<span class="m">ocre jaulne</span> & de <span class="m">scudegrun</span><br/> Si le verd est obscur Mects parmy du <span class="m">charbon<br/> de noyau de pescher</span> qui faict un <span class="del">v</span> noir verdastre<br/> comme le noir d<span class="m">os de pied de bœuf</span> faict bleuastre<br/> Et ainsy par jugement & discretion mects la couleur<br/> sur la fleur ou foeille naturelle pour voyr<br/> si elle aproche bien @Mays couche la fort clere pour ne<br/> couvrir pas les traicts de louvrage
  
  
   
@@ -49,10 +49,10 @@ Elle faict venir plus net & encores quelles soict <span class="add">un @ peu</sp
 ## Gect
 
  
-<span class="del">Encores que</span> <span class="add">Si</span>@ la medaille est fort espesse ne luy donne<br/> pas pour cela le gect aussy espes Il suffict que le<br/> gect aye la moictie de son espesseur Mays si elle<br/> tanvre donne luy le gect de son espesseur Noublie pas de<br/> fayre des souspirails au gect ou communem{ent} la matiere soufle
+<span class="del">Encores que</span> <span class="add">Si</span>@ la medaille est fort espesse ne luy donne<br/> pas pour cela le gect aussy espes Il suffict que le<br/> gect aye la moictie de son espesseur Mays si elle<br/> tanvre donne luy le gect de son espesseur Noublie pas de<br/> fayre des souspirails au gect ou communement la matiere soufle
  
 > *at left bottom margin*
 > 
 > 
->   Noublie jamays<br/> d<span class="m">huiler</span> le gect de<br/> <span class="m">cire</span> quand tu moules<br/> des herbes ou<br/> fleurs Aultrem{ent}<br/> il se rompt & ne<br/> se peult pas<br/> retirer
+>   Noublie jamays<br/> d<span class="m">huiler</span> le gect de<br/> <span class="m">cire</span> quand tu moules<br/> des herbes ou<br/> fleurs Aultrement<br/> il se rompt & ne<br/> se peult pas<br/> retirer
  

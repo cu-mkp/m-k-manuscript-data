@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Lead, tin, lead, stone, resin candle, antimony, looking-glass tin, pure lead, copper, glass, resin, Looking glass tin, soldering, iron, Shells of iron, calcined oyster, Rye straw ashes, egg white, latten, Burnt & calcined pumice stone, burnt & calcined cuttlefish bones, ashes of walnut tree, vine, fine tin, looking glass tin, earth, Latten, resin candles, Brittle dou tin]
+materials: [Lead, tin, lead, stone, resin candle, antimony, looking-glass tin, pure lead, copper, glass, resin, Looking glass tin, soldering, iron, Shells of iron oyster,calcined, Rye straw ashes, egg white, latten, Burnt & calcined pumice stone, burnt & calcined cuttlefish bones, ashes of walnut tree, vine, fine tin, looking glass tin, earth, Latten, resin candles, Brittle dou tin]
 tools: [molds, bodkins, copper mold, sieved, tin molds, copper molds engraved with a burin, or in stone or in earth, burin]
 measurements: [lb, pound, half, quarter, quintal]
 bodyparts: []
@@ -32,7 +32,7 @@ Those who cast those small works that are sold in front of <span class="env">chu
 > 
 >   <span class="pn">Poncet</span>. They cast with <span class="m">soldering</span> that <span class="del"><span class="pro">pewterers</span></span> <span class="add"><span class="pro">glass—makers</span></span> use. 
  
- Lump of <span class="m">iron</span> <span class="m">Shells of iron</span>, <span class="m">calcined <span class="al">oyster</span></span>. 
+ Lump of <span class="m">iron</span> <span class="m">Shells of <span class="del">iron</span> <span class="al">oyster</span>,calcined</span>. 
  
  
   

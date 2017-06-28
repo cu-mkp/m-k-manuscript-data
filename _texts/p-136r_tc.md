@@ -23,7 +23,7 @@ animals: []
  
 *[continued]*
   
-en mirouer Et co{mm}e tu vouldras @ gecter mects encor un peu<br/> de la couleur & laisse reposer un petit tousjours souflant<br/> du petit & grand souflet En fin adapte ton moule tout<br/> rouge entre les moulets ou dans un crusol plein de sable bien<br/> chault & gete Et co{mm}e il aura faict prise gecte si tu veulx<br/> dans l<span class="m">eau</span> Car l<span class="m">or</span> ne fait point de domaige co{mm}e l<span class="m">estain</span><br/> qui saulte
+en mirouer Et comme tu vouldras @ gecter mects encor un peu<br/> de la couleur & laisse reposer un petit tousjours souflant<br/> du petit & grand souflet En fin adapte ton moule tout<br/> rouge entre les moulets ou dans un crusol plein de sable bien<br/> chault & gete Et comme il aura faict prise gecte si tu veulx<br/> dans l<span class="m">eau</span> Car l<span class="m">or</span> ne fait point de domaige comme l<span class="m">estain</span><br/> qui saulte
  
 Pour fondre l<span class="m">or</span> en lingot nimporte poinct de <span class="del">gec</span> soufler<br/> par dessus avecq le petit souflet
  
@@ -31,7 +31,7 @@ En grand ouvraige le crusol de sable se doit mectre<br/> dans un fourneau a vent
  
 L<span class="m">or</span> que le vent touche ou quon forge vient noir Mays<br/> un peu d<span class="m">eau</span> fort le descouvre soubdain
  
-Si tu as a forger quelque ouvraige de <span class="del"><span class="m">letton</span></span><span class="add"><span class="m">sol</span></span> sur le <span class="m">laitton</span><br/> co{mm}e on faict les petites statues Mects entre l<span class="m">or</span> & le <span class="m">laiton</span><br/> une lame de <span class="m">plomb</span> Et plustost que recuire l<span class="m">or</span> & le remectre<br/> au foeu Trempe dans l<span class="m">eau fort</span> & il sera douls
+Si tu as a forger quelque ouvraige de <span class="del"><span class="m">letton</span></span><span class="add"><span class="m">sol</span></span> sur le <span class="m">laitton</span><br/> comme on faict les petites statues Mects entre l<span class="m">or</span> & le <span class="m">laiton</span><br/> une lame de <span class="m">plomb</span> Et plustost que recuire l<span class="m">or</span> & le remectre<br/> au foeu Trempe dans l<span class="m">eau fort</span> & il sera douls
  
 Cest asses que le gect soict de lespesseur <span class="del"></span><br/> de la medaille scavoir depuys le milieu du gect jusque<br/> a la medaille Mays si la medaille est fort espesse il ne<br/> fault pas espessir pour cela le gect Car le gect fort<br/> espes ne vient jamays bien <span class="del">Mai</span> Bien se pelt il faire<br/> large pour embrasser la medaille le plus que faire<br/> se pourra
  

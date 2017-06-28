@@ -25,12 +25,12 @@ animals: []
 ## Pour gecter en <span class="m">cuivre rouge</span>
 
  
-Le <span class="m">cuivre rouge</span> pur de chaudron ou dautres ouvrages<br/> tanvres est propre pour gect Et pour le faire courre gecte<br/> y du <span class="m">sel armoniac</span> & co{mm}e tu seras prest a gecter mects dedans<br/> un peu d<span class="m">estain</span> fin & fort peu Et note quil fault gecter<br/> le <span class="m">cuivre</span> fort chault dans le moule qui soit aussy enflamme<br/> & tout rouge co{mm}e en l<span class="m">or</span> <span class="m">argent</span> <span class="m">letton</span> & <span class="m">metal</span> Tu cognoistras<br/> quil sera asses chault quand il est uny clair & luisant comme<br/> un mirouer <span class="del">de cu</span> d<span class="m">acier</span> nouvellem{ent} poly ou co{mm}e l<span class="m">argent</span> fondu<br/> Garde le vent car aussy tost il se refroidist Arreste avecq<br/> des estoupes <span class="del">ou</span>le gect pour garder quil ne se refroidisse<br/> Le <span class="m">cuivre rouge</span> vient plus net que le <span class="m">laitton</span> qui ha<br/> force fumee qui empeschent de courre Je lay moule en<br/> noyau net co{mm}e le principal & tanvre co{mm}e papier Il faut<br/> quil soict si chault quil soict blanc & luisant & poly co{mm}e<br/> <span class="m">argent</span> fondu et <span class="add">comme un mirouer</span> Je lay gecte au mesme sable que dessus en<br/> noyau
+Le <span class="m">cuivre rouge</span> pur de chaudron ou dautres ouvrages<br/> tanvres est propre pour gect Et pour le faire courre gecte<br/> y du <span class="m">sel armoniac</span> & comme tu seras prest a gecter mects dedans<br/> un peu d<span class="m">estain</span> fin & fort peu Et note quil fault gecter<br/> le <span class="m">cuivre</span> fort chault dans le moule qui soit aussy enflamme<br/> & tout rouge comme en l<span class="m">or</span> <span class="m">argent</span> <span class="m">letton</span> & <span class="m">metal</span> Tu cognoistras<br/> quil sera asses chault quand il est uny clair & luisant comme<br/> un mirouer <span class="del">de cu</span> d<span class="m">acier</span> nouvellement poly ou comme l<span class="m">argent</span> fondu<br/> Garde le vent car aussy tost il se refroidist Arreste avecq<br/> des estoupes <span class="del">ou</span>le gect pour garder quil ne se refroidisse<br/> Le <span class="m">cuivre rouge</span> vient plus net que le <span class="m">laitton</span> qui ha<br/> force fumee qui empeschent de courre Je lay moule en<br/> noyau net comme le principal & tanvre comme papier Il faut<br/> quil soict si chault quil soict blanc & luisant & poly comme<br/> <span class="m">argent</span> fondu et <span class="add">comme un mirouer</span> Je lay gecte au mesme sable que dessus en<br/> noyau
  
 > *at left top margin*
 > 
 > 
->   Le <span class="m">cuivre</span> et <span class="m">letton</span> sont le plus longs a fondre que les aultres <span class="m">metaulx</span><br/> mesmem{ent} le <span class="m">cuivre rouge</span><br/> Mays aussy il coule & vient<br/> bien net pourveu quil soit gecte<br/> fort chault<br/> quil soit co{mm}e <span class="m">eau</span>
+>   Le <span class="m">cuivre</span> et <span class="m">letton</span> sont le plus longs a fondre que les aultres <span class="m">metaulx</span><br/> mesmement le <span class="m">cuivre rouge</span><br/> Mays aussy il coule & vient<br/> bien net pourveu quil soit gecte<br/> fort chault<br/> quil soit comme <span class="m">eau</span>
  
 > *at left top margin*
 > 
@@ -41,7 +41,7 @@ Le <span class="m">cuivre rouge</span> pur de chaudron ou dautres ouvrages<br/> 
 ## <span class="m">Huile tingente</span> pour fayre<br/> courre les <span class="m">metaux</span>
 
  
- P{rens} <span class="m">☿sublime</span> de <span class="pl">venise</span> vray & non <span class="m">arsenic sublime</span> un poix<br/> <span class="m">Aes ustum</span> un poix <span class="m">Sel armoniac</span> un poix pulverise<br/> tout apart & apres mesle le tout dans une bouteille de<br/> verre & mects sur cendres chauldes Tu verras que tout<br/> se dissouldra co{mm}e cire faisant force couleurs Laisse<br/> <span class="del">tout</span> congeler & mets en un peu sur chasque <span class="m">metal</span> <span class="add">fondu</span> & il<br/> courra merveilleusem{ent}
+ Prens <span class="m">☿sublime</span> de <span class="pl">venise</span> vray & non <span class="m">arsenic sublime</span> un poix<br/> <span class="m">Aes ustum</span> un poix <span class="m">Sel armoniac</span> un poix pulverise<br/> tout apart & apres mesle le tout dans une bouteille de<br/> verre & mects sur cendres chauldes Tu verras que tout<br/> se dissouldra comme cire faisant force couleurs Laisse<br/> <span class="del">tout</span> congeler & mets en un peu sur chasque <span class="m">metal</span> <span class="add">fondu</span> & il<br/> courra merveilleusement
  
 > *at left middle margin*
 > 
@@ -52,7 +52,7 @@ Le <span class="m">cuivre rouge</span> pur de chaudron ou dautres ouvrages<br/> 
 ## Crampons
 
  
-Il se font avecq les tenailles plattes de fil de <span class="m">fer</span> recuit<br/> & replye puys battu par les bouts sur lenclume Co{mm}e ilz sont<br/> ainssy subtilies ils sont subgects a se brusler les metta{n}t souvent<br/> dans ces moules a recuire Sers toy doncq des nouveaulx
+Il se font avecq les tenailles plattes de fil de <span class="m">fer</span> recuit<br/> & replye puys battu par les bouts sur lenclume Comme ilz sont<br/> ainssy subtilies ils sont subgects a se brusler les mettant souvent<br/> dans ces moules a recuire Sers toy doncq des nouveaulx
  
 > *Figure*
 > *at left bottom margin*

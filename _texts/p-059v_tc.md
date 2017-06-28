@@ -25,7 +25,7 @@ animals: []
 ## <span class="del">Noir</span>Paincture darmes
 
  
-Le <span class="m">noir de charbon</span> mesle dun peu de <span class="m">blanc de plomb</span> est<br/> fort propre pour faire les armes y meslant si tu veux un<br/> peu <span class="del">de </span> d<span class="m">azur</span> Le <span class="m"><span class="add">noir de</span> charbon</span> de soymesme est co{mm}e bluastre
+Le <span class="m">noir de charbon</span> mesle dun peu de <span class="m">blanc de plomb</span> est<br/> fort propre pour faire les armes y meslant si tu veux un<br/> peu <span class="del">de </span> d<span class="m">azur</span> Le <span class="m"><span class="add">noir de</span> charbon</span> de soymesme est comme bluastre
  
  
   
@@ -65,7 +65,7 @@ Les <span class="m">azurs</span> carnations & rouges se couchent deulx foys<br/>
 ## Racoustrer les fentes dun tableau
 
  
-Si un tableau painct se rompt tu le peulx bien <span class="m">coller</span><br/> par derriere Mays pour bien boucher les fentes pour<br/> y paindre & le reparer Il ne fault pas que ce soict<br/> avecques la <span class="m">colle</span> qui se relentist <span class="env">en temps humide</span> & esta{n}t<br/> touche de l<span class="m">huile</span> de la paincture senfleroit Mays<br/> ayes de la <span class="m">cire blanche</span> qui est plus dure que laultre<br/> @L<span class="m">huile</span> meslee parmy la <span class="m">cire</span> empesche quelle ne se fonde<br/> <span class="env">au soleil</span> Il ne fault pas que la <span class="m">cire</span> soict dure ains molle co{mm}e<br/> nagueres refroidie aplique la par les fentes & crevasses avecq la<br/> <span class="tl">poincte dun costeau</span> puys racle
+Si un tableau painct se rompt tu le peulx bien <span class="m">coller</span><br/> par derriere Mays pour bien boucher les fentes pour<br/> y paindre & le reparer Il ne fault pas que ce soict<br/> avecques la <span class="m">colle</span> qui se relentist <span class="env">en temps humide</span> & estant<br/> touche de l<span class="m">huile</span> de la paincture senfleroit Mays<br/> ayes de la <span class="m">cire blanche</span> qui est plus dure que laultre<br/> @L<span class="m">huile</span> meslee parmy la <span class="m">cire</span> empesche quelle ne se fonde<br/> <span class="env">au soleil</span> Il ne fault pas que la <span class="m">cire</span> soict dure ains molle comme<br/> nagueres refroidie aplique la par les fentes & crevasses avecq la<br/> <span class="tl">poincte dun costeau</span> puys racle
  
 *[continued]*
  

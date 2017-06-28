@@ -49,12 +49,12 @@ When it's melted, it is good to throw in a little fine <span class="m">tin</span
 ## <span class="m">Clay earth</span>
 
  
-This, wet & well beat & kneaded as you know, is necessary for you to make the contour of your molds. But attend that it not be too soft. But likewise [attend that it be] sort of half dry such that it doesn't attack the hands at all, because otherwise it would attack your work. Always keep it in a damp place, and make some holes in it, and fill them with water, to keep it fresh.
+This, wet & well beat & kneaded as you know, is necessary for you to make the contour of your molds. But attend that it not be too soft. But likewise attend that it be sort of half dry such that it doesn't attack the hands at all, because otherwise it would attack your work. Always keep it in a damp place, and make some holes in it, and fill them with water, to keep it fresh.
  
 > *at left middle margin*
 > 
 > 
->   The gray [<span class="m">earth</span>] is best which does not cleave at all.
+>   The gray <span class="m">earth</span> is best which does not cleave at all.
  
 > *at left middle margin*
 > 

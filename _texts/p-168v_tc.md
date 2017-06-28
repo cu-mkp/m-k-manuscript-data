@@ -29,13 +29,13 @@ H Sies a cousteau pour coupper si besoing est une<br/> sarrasine
  
 J les grands chevilles de <span class="m">fer</span> qui tramversent & attachent<br/> le mortier
  
-K ce sont co{mm}e chevilles de <span class="m">fer</span> toutes rondes & revestues de<br/> <span class="m">toile</span> comme tout le reste pour faire tourner les grands<br/> chevilles de <span class="m">fer</span> percees pres du bouton
+K ce sont comme chevilles de <span class="m">fer</span> toutes rondes & revestues de<br/> <span class="m">toile</span> comme tout le reste pour faire tourner les grands<br/> chevilles de <span class="m">fer</span> percees pres du bouton
  
 L haches quil fault tousjours porter pour acher et<br/> romptre si par cas fortuit le mortier avoit laisse quelque<br/> chose entier
  
 M un gros mail de <span class="m">bois</span> pour enfoncer ce que par les<br/> sies ou birons auroict este commance & affoibly
  
-N sont grands taraires & birons de faiseur de roues<br/> pour couper doulcem{ent} une porte ou fenestre en faisant de<br/> grands trous pres lung de lautre
+N sont grands taraires & birons de faiseur de roues<br/> pour couper doulcement une porte ou fenestre en faisant de<br/> grands trous pres lung de lautre
  
 O potences de la haulteur dun homme quil fault porter<br/> pour mecytre soubs une sarrasine incontinent que le mortier<br/> a donne & empescher que la sarrasine ne tombe
  

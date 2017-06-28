@@ -33,7 +33,7 @@ Vvolfangus Lazius<br/> Petrus Appianus mathematicus Ingolstadiensis, Comment. <s
  
 Hieronimo Ruscelli<br/> Hermolaus Barbarus<br/> Angelius Bargaeus, De <span class="al">aucupio</span> et <span class="al">venatione</span><br/> Nicolaus Damascenus
  
-Caes{ariensis}, De rebus Persarum<br/> Isidorus
+Caesariensis, De rebus Persarum<br/> Isidorus
  
 Orosius<br/> Eupolemus, historicus gentilis qui de rebus Davidis & Salomonis scripsit
  

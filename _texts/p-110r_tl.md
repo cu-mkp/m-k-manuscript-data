@@ -25,7 +25,7 @@ animals: []
 ## Casting
 
  
-You could cast from already casted things and animals, but it never works as well as from the natural [original] ones, with which you can make four or five molds.
+You could cast from already casted things and animals, but it never works as well as from the natural original ones, with which you can make four or five molds.
  
  
   
@@ -41,12 +41,12 @@ You need to grind white and yellow <span class="m">marcasites</span> & various k
 ## Snakes
 
  
-When they feel trapped, they seldom bite, and cannot really hurt unless they are really big snakes. The most important thing is to avoid being bitten before capturing them. Having put your foot as close as possible from the neck, you holds it as close to the head as possible. That way, it will not bite if it cannot stretch its neck and do a sinuous turn, it will not be able to hurt from a frontal attack, nor will it be able to twist into an S. I have found out that the person who taught me how to mold them was little afraid of snakes. He would catch one and pull it quickly, grabbed it by the neck and, putting it under his shoe, flattened it so it would eject from the behind, which is five or six fingers from the tail, everything that is bad and venomous in the belly. After that, the snake has no strength to bite and, if by chance it still bites and ejects from its behind some garbage, he [the man] would dig in the soil with a knife and bury his hand in the fresh and humid soil which, applied to the infected part of the hand, would suck all the venom, without doing anything else. It was the same with toad venom, as I have seen experimented.
+When they feel trapped, they seldom bite, and cannot really hurt unless they are really big snakes. The most important thing is to avoid being bitten before capturing them. Having put your foot as close as possible from the neck, you holds it as close to the head as possible. That way, it will not bite if it cannot stretch its neck and do a sinuous turn, it will not be able to hurt from a frontal attack, nor will it be able to twist into an S. I have found out that the person who taught me how to mold them was little afraid of snakes. He would catch one and pull it quickly, grabbed it by the neck and, putting it under his shoe, flattened it so it would eject from the behind, which is five or six fingers from the tail, everything that is bad and venomous in the belly. After that, the snake has no strength to bite and, if by chance it still bites and ejects from its behind some garbage, he the man would dig in the soil with a knife and bury his hand in the fresh and humid soil which, applied to the infected part of the hand, would suck all the venom, without doing anything else. It was the same with toad venom, as I have seen experimented.
  
 > *at left middle margin*
 > 
 > 
->   In three [days] it is as thin as if he had not eaten. Cast it right after catching it is the best, before it loses weight. You should kill it only a quarter of an hour before you want to cast it.
+>   In three days it is as thin as if he had not eaten. Cast it right after catching it is the best, before it loses weight. You should kill it only a quarter of an hour before you want to cast it.
  
 *[continued]*
  

@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-120v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image [image]" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>120v</a> - - - - - </div>  
+<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-120v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>120v</a> - - - - - </div>  
   
 eat by itself. And so that he likes it better, you can add to the meat and the egg some mealworm, because nightingales love them.
  
@@ -50,7 +50,7 @@ You must skin the animal and boil it. Or skin it and put it into <span class="m"
 ## Making <span class="m">silver</span> runny
 
  
-If it is for a large work, <span class="m">arsenic</span> and pulverized <span class="m">tartar</span> thrown into melted <span class="m">silver</span>, makes the <span class="m">silver</span> runny. This is enough [for silver.] But for subtle work, you need <span class="m">bronze, filings, copper,</span> even <span class="m">antimony</span>, <span class="m">sublimate</span>, all neatly ground. All of this makes a mass that does not get smaller. If the <span class="m">plaster</span> is good, you do not need to add <span class="m">crocum</span> for <span class="m">silver</span>, but one puts in more <span class="m">feather alum</span>. It is also necessary to add melted <span class="m">common salt</span>, and some <span class="m">saltpeter</span> and the aforementioned drugs: <span class="m">arsenic, tartar, bronze, copper filings, antimony</span> &
+If it is for a large work, <span class="m">arsenic</span> and pulverized <span class="m">tartar</span> thrown into melted <span class="m">silver</span>, makes the <span class="m">silver</span> runny. This is enough for silver. But for subtle work, you need <span class="m">bronze, filings, copper,</span> even <span class="m">antimony</span>, <span class="m">sublimate</span>, all neatly ground. All of this makes a mass that does not get smaller. If the <span class="m">plaster</span> is good, you do not need to add <span class="m">crocum</span> for <span class="m">silver</span>, but one puts in more <span class="m">feather alum</span>. It is also necessary to add melted <span class="m">common salt</span>, and some <span class="m">saltpeter</span> and the aforementioned drugs: <span class="m">arsenic, tartar, bronze, copper filings, antimony</span> &
  
 > *at left middle margin*
 > 
@@ -68,7 +68,7 @@ If it is for a large work, <span class="m">arsenic</span> and pulverized <span c
 > *at left middle margin*
 > <a href="" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
-See the second folio following [this]
+See the second folio following this
  
 > *at left middle margin*
 > 
@@ -84,7 +84,7 @@ See the second folio following [this]
 > 
 >   <span class="m">River sand</span>, that is washed by the current of water, is good when strained in a cloth to make the powder compact.
  
-This is a rare secret, and which is pleasing for decorating tables, rooms, studies out of season when winter denies you flowers. Be advised to pick them when they are in full vigor and still growing, because if you take them when no longer in bloom or when they are starting to wilt, they will not keep. Having therefore chosen them, take some <span class="m">sand</span>, the leanest and driest you can find, that must be very well ground, like the one <span class="pro">goldsmiths</span> use to sand <span class="m">enamel</span>, or like the one [used] for engraving. But this <span class="m">sand</span> must not be dusty at all, nor must it stay on your hand or leave a trace when you have ground or poured it, because it is
+This is a rare secret, and which is pleasing for decorating tables, rooms, studies out of season when winter denies you flowers. Be advised to pick them when they are in full vigor and still growing, because if you take them when no longer in bloom or when they are starting to wilt, they will not keep. Having therefore chosen them, take some <span class="m">sand</span>, the leanest and driest you can find, that must be very well ground, like the one <span class="pro">goldsmiths</span> use to sand <span class="m">enamel</span>, or like the one used for engraving. But this <span class="m">sand</span> must not be dusty at all, nor must it stay on your hand or leave a trace when you have ground or poured it, because it is
  
 > *at left bottom margin*
 > 

@@ -30,7 +30,7 @@ The <span class="m">metal</span> whitens the more it is melted, because the <spa
  
   
 
-## Medicine for the stomach which warms it [stomach] and unstops the liver
+## Medicine for the stomach which warms it stomach and unstops the liver
 
  
 Have some <span class="m">wormwood powder</span>, dissolve it in some <span class="m">capilli veneris syrup</span> or <span class="m">preserves</span>, and make an opiate that you will take once a week on a piece of <span class="m">bread</span> dipped in <span class="m">wine</span>. Then you will be able to drink a bit of fully dipped <span class="m">wine</span>. This clears the phlegm and gas which come from there. You can take six <span class="m">pepper</span> grains, and grate their <span class="m">rinds</span> so they are smooth, and swallow them without chewing them. This heals the stomach without warming the liver.
@@ -46,7 +46,7 @@ Once they have been made, do not keep them in any <span class="m">iron</span> or
  
   
 
-## For preventing candles from dripping and making them [candles] white
+## For preventing candles from dripping and making them candles white
 
  
 Once they have been made, put in a mould some fresh <span class="m">water</span> whipped with some <span class="m">bran</span>, which should by no means be purged again of its <span class="m">flour</span>, so that the <span class="m">water</span> is white. And dip your candles in this. Then leave them to dry. And do so thusly two or three times.

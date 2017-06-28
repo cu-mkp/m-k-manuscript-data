@@ -23,7 +23,7 @@ animals: [loup, chien]
  
 *[continued]*
   
-quand tu en vouldras user destrampe le aveq de la<br/> <span class="m">colle</span> bien clere & puys tu le coucheras surce q{ue} tu<br/> vouldras par deux ou trois foys & puys le laisse<br/> seicher mais avant q{ue} le coucher couche y une couche<br/> de <span class="m">colle</span> bien claire & le laisse seicher & frotte lad{icte}<br/> <span class="m">bronze</span> aveq ung <span class="tl">dan de <span class="al">loup</span></span> ou <span class="tl">de <span class="al">chien</span></span> 
+quand tu en vouldras user destrampe le aveq de la<br/> <span class="m">colle</span> bien clere & puys tu le coucheras surce que tu<br/> vouldras par deux ou trois foys & puys le laisse<br/> seicher mais avant que le coucher couche y une couche<br/> de <span class="m">colle</span> bien claire & le laisse seicher & frotte ladicte<br/> <span class="m">bronze</span> aveq ung <span class="tl">dan de <span class="al">loup</span></span> ou <span class="tl">de <span class="al">chien</span></span> 
  
  
   
@@ -39,7 +39,7 @@ quand tu en vouldras user destrampe le aveq de la<br/> <span class="m">colle</sp
 ## Pour faire <span class="m">Eau</span> pour le mal des<br/> yeux
 
  
- Prenes de la <span class="m">coupperose blanche</span> & la faictes chauffer<br/> un petict sur le foeu puys le mectes en pouldre dedans<br/> un drappeau blanc bien estendu sur un verre bien nect<br/> & la pouldre dess{us} puys prenes de l<span class="m">eau de fontayne</span> &<br/> la faictes passer sur led{ict} drappeau en Remuant du doigt<br/> lad{icte} pouldre tant quelle soit toute passee puys en lavez<br/> vos <span class="del">v</span>yeux a toute heure q{ue} vous vouldres & aveq layde<br/> de dieu vous vous en trouveres fort bien
+ Prenes de la <span class="m">coupperose blanche</span> & la faictes chauffer<br/> un petict sur le foeu puys le mectes en pouldre dedans<br/> un drappeau blanc bien estendu sur un verre bien nect<br/> & la pouldre dessus puys prenes de l<span class="m">eau de fontayne</span> &<br/> la faictes passer sur ledict drappeau en Remuant du doigt<br/> ladicte pouldre tant quelle soit toute passee puys en lavez<br/> vos <span class="del">v</span>yeux a toute heure que vous vouldres & aveq layde<br/> de dieu vous vous en trouveres fort bien
  
  
   

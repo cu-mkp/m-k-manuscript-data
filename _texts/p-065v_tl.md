@@ -78,7 +78,7 @@ It is useful that an <span class="pro">apprentice</span> should work with black 
 > 
 >    
 
-** Priming **
+** Impression **
 
  
 You must be quite careful about this, and do not do it, as some will, using <span class="m">gold</span> color made by cleaning the <span class="m">oil</span> brushes, because <span class="m">verdigris</span> and other corrosive colors included will end by fading the colors that are laid in after. It is useful to do it with <span class="m">ceruse</span>, <span class="m">yellow ocher</span>, and a bit of <span class="m">massicot</span>, and make it scarcely thick so that it will not crack.

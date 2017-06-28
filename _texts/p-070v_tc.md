@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [cuivre, letton, ceruse fort broyee, farine, huile, plomb, vieilles l{ett}res des imprimeurs, composition dicelles, estaing, argent vif]
+materials: [cuivre, letton, ceruse fort broyee, farine, huile, plomb, vieilles lettres des imprimeurs, composition dicelles, estaing, argent vif]
 tools: [crusol]
 measurements: []
 bodyparts: []
@@ -27,7 +27,7 @@ Le <span class="m">cuivre</span> <span class="del">est meil</span> et <span clas
  
 Aulcuns gectent en <span class="m">ceruse fort broyee</span> <span class="del">pour le</span> Aultres<br/> en <span class="m">farine</span> humectee plusieurs fois avecq de l<span class="m">huile</span> <span class="del">& g</span><br/> & seichee <span class="env">au soleil</span>
  
-Aultres pour gecter en <span class="m">plomb</span> des <span class="m">vieilles l{ett}res des<br/> <span class="pro">imprimeurs</span></span> ou de la <span class="m">composition dicelles</span>
+Aultres pour gecter en <span class="m">plomb</span> des <span class="m">vieilles lettres des<br/> <span class="pro">imprimeurs</span></span> ou de la <span class="m">composition dicelles</span>
  
 Aultres mectent parmy l<span class="m">estaing</span> ou <span class="m">plomb</span> une matiere<br/> d<span class="m">argent vif</span> arreste qui faict couler
  

@@ -23,11 +23,11 @@ animals: [homme, mouton, bœuf]
  
 *[continued]*
   
-Quand tu as moule il est bon de recuire ta forme sur la<br/> fumee de la matiere que tu fonds pourceque le gect sempraint<br/> de la qualite d<span class="del">e</span><span class="add">u</span> <span class="m">metal</span> qui court apres plus ayseme{nt} en chose<br/> qui tient de luy
+Quand tu as moule il est bon de recuire ta forme sur la<br/> fumee de la matiere que tu fonds pourceque le gect sempraint<br/> de la qualite d<span class="del">e</span><span class="add">u</span> <span class="m">metal</span> qui court apres plus aysement en chose<br/> qui tient de luy
  
 Les <span class="m">os d<span class="al">homme</span></span> sont les meilleurs pour gect estant calcines
  
-Pour gecter net il fault que ta matiere soict bien chaulde<br/> & pour cet effect quand ta matiere est fondue gectes y de<br/> l<span class="m">escaille de fer</span> ou en pouldre ou autrem{ent} <span class="del">E</span> car cela<br/> eschaufe fort le <span class="m">cuivre</span> & le nettoye de sa <span class="m">graisse</span> Sur<br/> la fin quand tu vouldras gecter mects y un peu de<br/> <span class="m">salpestre</span> pliant tes additions dans un <span class="tl"><span class="m">papier</span></span> affin que touls<br/> ne cognoissent pas ce que tu y mesles
+Pour gecter net il fault que ta matiere soict bien chaulde<br/> & pour cet effect quand ta matiere est fondue gectes y de<br/> l<span class="m">escaille de fer</span> ou en pouldre ou autrement <span class="del">E</span> car cela<br/> eschaufe fort le <span class="m">cuivre</span> & le nettoye de sa <span class="m">graisse</span> Sur<br/> la fin quand tu vouldras gecter mects y un peu de<br/> <span class="m">salpestre</span> pliant tes additions dans un <span class="tl"><span class="m">papier</span></span> affin que touls<br/> ne cognoissent pas ce que tu y mesles
  
 Les <span class="m">os de pieds de <span class="al">mouton</span></span> sont encores meilleurs que<br/> <span class="m">ceulx de pied de <span class="al">bœuf</span></span>
  

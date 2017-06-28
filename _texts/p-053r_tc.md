@@ -49,7 +49,7 @@ On le mesle selon aulcuns <span class="ms">moictie</span> d<span class="m">estai
 ## Mouler de <span class="m">papier</span>
 
  
-Fais bouillir <span class="add">sur <span class="m">cendres</span> chauldes</span> du <span class="m">cotton</span> en <span class="m">eau fort</span> meslee de <span class="m">sel ammoniac</span><br/> co{mm}e <span class="m">eau regale</span> Et le <span class="m">cotton</span> viendra fort subtil co{mm}e pouldre<br/> destrempe le apres avecq <span class="m">eau gommee</span> & mouleras fort delicat
+Fais bouillir <span class="add">sur <span class="m">cendres</span> chauldes</span> du <span class="m">cotton</span> en <span class="m">eau fort</span> meslee de <span class="m">sel ammoniac</span><br/> comme <span class="m">eau regale</span> Et le <span class="m">cotton</span> viendra fort subtil comme pouldre<br/> destrempe le apres avecq <span class="m">eau gommee</span> & mouleras fort delicat
  
  
   
@@ -57,7 +57,7 @@ Fais bouillir <span class="add">sur <span class="m">cendres</span> chauldes</spa
 ## Amendiers abricots
 
  
-Ils viennent bien droicts si on les hante Et touts arbres<br/> de noyau co{mm}e pavis mericotons alberges <span class="del">vie</span> abricots & viennent<br/> mieulx hantes sur lamendier en escusson
+Ils viennent bien droicts si on les hante Et touts arbres<br/> de noyau comme pavis mericotons alberges <span class="del">vie</span> abricots & viennent<br/> mieulx hantes sur lamendier en escusson
  
  
   

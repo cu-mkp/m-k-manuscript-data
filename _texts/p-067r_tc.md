@@ -47,7 +47,7 @@ Toute chose broyee & destrempee soufle selon<br/> aulcuns
 ## <span class="tl">Four a souflets</span>
 
  
-Plustost qui mectre le <span class="m">metal</span> il fault quil soit<br/> rouge au fonds co{mm}e un <span class="m">charbon</span> & bien enflambe<br/> Apres tu <span class="del"></span> lemplis & couvre le <span class="m">charbon</span> & ajouste les<br/> <span class="tl">souflets</span> Aultrement le <span class="m">metal</span> de dessus se fondroit<br/> par le moyen des <span class="tl">souflets</span> & le fonds seroit caille &<br/> refroidy & ne courroit pas Mays si tu procedes en<br/> ceste sorte tu fondras tout ce quil te plaira
+Plustost qui mectre le <span class="m">metal</span> il fault quil soit<br/> rouge au fonds comme un <span class="m">charbon</span> & bien enflambe<br/> Apres tu <span class="del"></span> lemplis & couvre le <span class="m">charbon</span> & ajouste les<br/> <span class="tl">souflets</span> Aultrement le <span class="m">metal</span> de dessus se fondroit<br/> par le moyen des <span class="tl">souflets</span> & le fonds seroit caille &<br/> refroidy & ne courroit pas Mays si tu procedes en<br/> ceste sorte tu fondras tout ce quil te plaira
  
  
   

@@ -41,7 +41,7 @@ Il sen peult fayre des mouches a la main sans gect &<br/> les aisles & pieds se 
 ## Prendre escrevisses
 
  
-Attache au bout dun <span class="tl">baston</span> du <span class="m">foye</span> ou <span class="m">poulmon</span> de boeuf<br/> ou moutton & quavecq une petite <span class="tl">corde</span> tu faces pendre<br/> un <span class="tl">panier</span> au bout dudit <span class="tl">baston</span> Mects dans l<span class="m">eau</span> ou les<br/> escrevisses se nourrissent & elles bien tost se viendont<br/> amonceller sur la chair Retire @ doulcem{ent} de l<span class="m">eau</span> &<br/> celles qui vouldront se retirer dans l<span class="m">eau</span> tumberont<br/> au <span class="tl">panier</span>
+Attache au bout dun <span class="tl">baston</span> du <span class="m">foye</span> ou <span class="m">poulmon</span> de boeuf<br/> ou moutton & quavecq une petite <span class="tl">corde</span> tu faces pendre<br/> un <span class="tl">panier</span> au bout dudit <span class="tl">baston</span> Mects dans l<span class="m">eau</span> ou les<br/> escrevisses se nourrissent & elles bien tost se viendont<br/> amonceller sur la chair Retire @ doulcement de l<span class="m">eau</span> &<br/> celles qui vouldront se retirer dans l<span class="m">eau</span> tumberont<br/> au <span class="tl">panier</span>
  
  
   
@@ -49,7 +49,7 @@ Attache au bout dun <span class="tl">baston</span> du <span class="m">foye</span
 ## Prendre passereaulx
 
  
-Silz couchent aulx pailles co{mm}e ilz font co{mmun}em{ent} pres<br/> de la maison Laisses la plus proche fenestre ouverte<br/> & i mectes de la <span class="tl">chandelle</span> allumee Mays que la <span class="tl">chandelle</span><br/> soit cachee & que sa lueur seulement paroisse par la<br/> chambre & par la fenestre Et touls @ sencofreront dans<br/> la chambre Mays il fault que la nuit soict obscure<br/> & ne fasse point de ☾
+Silz couchent aulx pailles comme ilz font communement pres<br/> de la maison Laisses la plus proche fenestre ouverte<br/> & i mectes de la <span class="tl">chandelle</span> allumee Mays que la <span class="tl">chandelle</span><br/> soit cachee & que sa lueur seulement paroisse par la<br/> chambre & par la fenestre Et touls @ sencofreront dans<br/> la chambre Mays il fault que la nuit soict obscure<br/> & ne fasse point de ☾
  
  
 > *at left top margin*

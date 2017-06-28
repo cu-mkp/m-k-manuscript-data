@@ -23,9 +23,7 @@ animals: [parasites, lizards]
  
 *[continued]*
   
-to cast, force feed it <span class="sup">your animal</span> some good <span class="m">spirits</span> or mix a bit of <span class="m">spirits</span> with the <span class="m">vinegar</span>. And soon it will be dead without any wounds that would deform it. As for large animals, for which it is necessary to have a lot of <span class="m">spirits</span>, one uses <span class="m">vinegar</span> and <span class="m">urine</span>, but for small ones, <span class="m">spirits</span> only are needed, and it will be done quicker.
- 
-When your animal is dead, take it out and clean it very carefully, <span class="sup">relieving it</span> of its old skin if it sheds, of its <span class="al">parasites</span> like <span class="al">lizards</span> have, and then apply it.
+to cast, force feed it <span class="sup">your animal</span> some good <span class="m">spirits</span> or mix a bit of <span class="m">spirits</span> with the <span class="m">vinegar</span>. And soon it will be dead without any wounds that would deform it. As for large animals, for which it is necessary to have a lot of <span class="m">spirits</span>, one uses <span class="m">vinegar</span> and <span class="m">urine</span>. But for small ones, <span class="m">spirits</span> only are needed, and it will be done quicker.<br/> When your animal is dead, take it out and clean it very carefully, <span class="sup">relieving it</span> of its old skin if it sheds, of its <span class="al">parasites</span> like <span class="al">lizards</span> have, and then apply it.
  
 > *at left top margin*
 > 
@@ -48,7 +46,7 @@ Having gotten in some fat <span class="m">earth</span> called <span class="m">cl
 > *at left top margin*
 > 
 > 
-> Take a needle of fine <span class="m">steel</span>, and which will be the sharpest you can find, so that with it, when you make your first hole in order to place the wire threads, it will pass through without effort, and take care not to rudely insert the wire or take skin with it. Then put a thicker wire in the thick bits [of the animal] and the thinner wire in the thinner bits. But take this secret advice and do not plant your pointed wire in one go through the animal and onto the <span class="m">plaster</span>, but having planted it, take it out of the <span class="m">clay</span> earth but not out of the animal, which is afterwards fastened there. One does this because by fastening the point the first time, it pushes in the skin of the serpent and by taking the point out, it replaces the skin in its original state.
+> Take a needle of fine <span class="m">steel</span>, and which will be the sharpest you can find, so that with it, when you make your first hole in order to place the wire threads, it will pass through without effort, and take care not to rudely insert the wire or take skin with it. Then put a thicker wire in the thick bits of the animal and the thinner wire in the thinner bits. But take this secret advice and do not plant your pointed wire in one go through the animal and onto the <span class="m">plaster</span>, but having planted it, take it out of the <span class="m">clay</span> earth but not out of the animal, which is afterwards fastened there. One does this because by fastening the point the first time, it pushes in the skin of the serpent and by taking the point out, it replaces the skin in its original state.
  
 > *at left bottom margin*
 > 

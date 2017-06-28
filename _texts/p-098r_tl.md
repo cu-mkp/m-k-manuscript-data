@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Varnish, turpentine, turpentine oil, spike lavender oil, amber, mastic, dragon's blood, terra merita, wet, iron, tin, vinegar, linen, resin, square little iron box., tow, melted tin, sal ammoniac]
+materials: [Varnish, turpentine, spike lavender, amber, mastic, dragon's blood, terra merita, wet, iron, tin, vinegar, linen, resin, estamiere, little square iron box., tow, melted tin, sal ammoniac]
 tools: []
 measurements: []
 bodyparts: []
@@ -25,7 +25,7 @@ animals: []
 ## <span class="m">Varnish</span> for lutes
 
  
-They take a little <span class="m">turpentine</span> and some <span class="m">turpentine oil</span>, or <span class="m">spike lavender [oil]</span>, and some <span class="m">amber</span> pulverized and very finely sieved & proceed as with that of <span class="m">mastic</span>, & they add some <span class="m">dragon's blood</span> to color it and turn it red. And others some <span class="m">terra merita</span> to turn it yellow.
+They take a little <span class="m">turpentine</span> & oil of <span class="m">turpentine</span> or of <span class="m">spike lavender</span> & <span class="m">amber</span> pulverized & passed very subtly & make as that of <span class="m">mastic</span>, & add in to color it a little <span class="m">dragon's blood</span> and make it reddish, and others some <span class="m">terra merita</span> for yellow.
  
  
   
@@ -41,7 +41,7 @@ You have to work the ground, then then it with a rake, and afterwards if it is d
 ## <span class="pro">Locksmith</span>
 
  
-To <span class="m">tin</span> nails and other work, they file their work neatly, then in order to clean & degrease it well, it is boiled in <span class="m">vinegar</span>. Then they dry it with <span class="m">linen</span>, afterwards they heat it & pass some <span class="m">resin</span> over it, which induces a shining skin like varnish. This done, they melt some pure & fine <span class="m">tin</span> in their <span class="m">tin</span>ning tool, which is a <span class="m">square little iron box.</span> And when the <span class="m">tin</span> is well melted and moderately warm, they throw some <span class="m">resin</span> in to consume the scum, & then they temper the head of a nail or something similar for a bit, and having been left in for seven or eight pauses, they take it out and shake it, hitting it with some <span class="m">iron</span> to make the the superfluous <span class="m">tin</span> fall off, & clean it with a small stick wrapped in <span class="m">tow</span>. And if it is not well <span class="m">tin</span>ned, you will hit it until it it hot with a piece of <span class="m">resin</span> and do as before before and leave it to get cold. When the work cools down it becomes yellow, which is a sign that the <span class="m">tin</span> is the right temperature. But it becomes blue if the <span class="m">tin</span> is too hot. Things so <span class="m">tin</span>ned are of a duration, & do not come undone at all, like the tinning done by leaves. But at the end of a year they can be clarified & renewed by heating & striking them.
+To well <span class="m">tin</span> nails and other work, they file their work very neatly. Then to clean it well & rid it of fattiness, they make it boil in <span class="m">vinegar</span>, then they wipe it well with a <span class="m">linen</span>. Next they heat it & pass some <span class="m">resin</span> over top, which coats it with a shiny skin like varnish. This done, they melt some pure & fine <span class="m">tin</span> in their <span class="m">estamiere</span>, which is a <span class="m">little square iron box.</span> And when the <span class="m">tin</span> is well melted & moderately warm, they throw in <span class="m">resin</span> in to burn the filth, & then they let the head of a nail or something similar soak a little, & having remained there for seven or eight pauses, they take it out and shake it, hitting the top with an <span class="m">iron</span> to make the tin that is superfluous fall off, & clean it with a small stick wrapped in <span class="m">tow</span>. And if it is not well <span class="m">tin</span>ned, you will hit it hot with a piece of <span class="m">resin</span> & do as before before & leave it to get cold. When the work cools down it becomes yellow, which is a sign that the <span class="m">tin</span> is the right temperature. But it becomes blue if the <span class="m">tin</span> is too hot. Things so <span class="m">tin</span>ned are of a duration, & do not come undone at all, like the tinning done by leaves. But at the end of a year they can be clarified & renewed by heating & striking them.
  
 <span class="pro">Leadsmiths</span> say that making a lizard die in the <span class="m">melted tin</span> makes the <span class="m">tin</span>ning become very golden. Or else by adding <span class="m">sal ammoniac</span>.
  

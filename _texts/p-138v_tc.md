@@ -25,7 +25,7 @@ animals: [lesards]
 ## <span class="m">Talc</span> mesle aux moules
 
  
-Jay prins de celuy duquel javoys tire l<span class="m">huile</span> Je lay broye<br/> encores fort subtillement <span class="del">s</span> dans un mortier d<span class="m">acier</span> avecq<br/> un pilon fort grumeleux co{mm}e une lime Je lay rendu fort<br/> subtil & en pouldre cottonee & dumetteuse Je lay mesle<br/> avecq le sable & lay destrempe ensemble & lay gecte en<br/> noyau Il ha moule <span class="del">en nu</span> tresnet & ne fault point<br/> doubter quil ne tienne au foeu
+Jay prins de celuy duquel javoys tire l<span class="m">huile</span> Je lay broye<br/> encores fort subtillement <span class="del">s</span> dans un mortier d<span class="m">acier</span> avecq<br/> un pilon fort grumeleux comme une lime Je lay rendu fort<br/> subtil & en pouldre cottonee & dumetteuse Je lay mesle<br/> avecq le sable & lay destrempe ensemble & lay gecte en<br/> noyau Il ha moule <span class="del">en nu</span> tresnet & ne fault point<br/> doubter quil ne tienne au foeu
  
  
   
@@ -39,7 +39,7 @@ L<span class="m">or</span> fin non alie se peult bien gecter en medaille<br/> ma
  
 Une <span class="pa">pensee</span> oincte d<span class="m">huile de froment</span> se peult bien gecter en<br/> <span class="m">or</span> allie
  
-Et aultres <span class="pa">foeilles delices</span> mays que la branche ne soit<br/> pas grande et les foeilles particulierem{ent} gectees se peuvent<br/> soubder.
+Et aultres <span class="pa">foeilles delices</span> mays que la branche ne soit<br/> pas grande et les foeilles particulierement gectees se peuvent<br/> soubder.
  
  
   

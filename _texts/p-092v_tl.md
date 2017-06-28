@@ -25,7 +25,7 @@ animals: []
 ## <span class="m">Sand</span> of <span class="m">river tellins</span> and <span class="m">mussels</span>
 
  
- The long <span class="m">shells</span> that can be found in rivers of <span class="m">fresh water</span>, being calcinated, make a <span class="m">white and very fine [impalpable] sand</span> which moulds very clean..
+ The long <span class="m">shells</span> that can be found in rivers of <span class="m">fresh water</span>, being calcinated, make a <span class="m">white and very fine impalpable sand</span> which moulds very clean..
  
  
   
@@ -45,5 +45,5 @@ It can also be frozen, as I tried, that is to say with <span class="m">aqua fort
 ## Mixture
 
  
-<span class="m">Pure tin</span>, <span class="m">frozen mercury,</span> smells like tin. <span class="m">Iced tin</span>, <span class="m">pure lead</span>, as much of one as of the other, makes a substance that melts very quickly but that is fragile & white. I think that it would be good for soldering. [Takes a] long time to cool.
+<span class="m">Pure tin</span>, <span class="m">frozen mercury,</span> smells like tin. <span class="m">Iced tin</span>, <span class="m">pure lead</span>, as much of one as of the other, makes a substance that melts very quickly but that is fragile & white. I think that it would be good for soldering. Takes a long time to cool.
  

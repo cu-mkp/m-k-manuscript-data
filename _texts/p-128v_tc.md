@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [vif argent, argent, borras, or, charbons, bullitoyre, tartre, sel commun, eau commune, papier, eau, sel, cuivre, eau de tartre]
-tools: []
-measurements: []
+materials: [vif argent, sable maigre, cendre, argent bien fondu, argent, argent plus fin que la ligue du capital et comme de realle, borras, argent fondu, or, charbons, tartre, sel commun, ligue de teston, sel commun pulverise, eau commune, papier, eau du bullitoyre, sel, eau claire, cuivre, eau de tartre, tartre brusle]
+tools: [terrine, vaisseau, molettes, moule, forge, molletes, souflet, commun bullitoyre, bullitoyre, grattebroissa, papier, crusol]
+measurements: [grosseur dun pois, presque autant dun que daultre]
 bodyparts: []
-places: [allemands, france, allemand]
-plants: []
+places: [capital, allemands, france, allemand]
+plants: [pois]
 professions: [orfevres]
 environments: []
 animals: [lezard]
@@ -23,22 +23,22 @@ animals: [lezard]
  
 *[continued]*
   
- Tu verras quelle le tormentera & leschaufera bien fort<br/> et bien tost le rendra fort liquide & dispose a gecter et lesclarcira<br/> co{mm}e il apartient Quand il est en cest estat & quil est fort blanc<br/> et poly reluisant co{mm}e <span class="m">vif argent</span> Praepare toy de gecter<br/> Et pour cet esfect ayes du sable maigre delie Dans<br/> une terrine ou aultre vaisseau duquel tu le vouldras ayder<br/> Fays une fosse dans le sable Puys avecq tes molettes<br/> prens ton moule bien rouge & le pose dans ceste fosse de<br/> sable Couvre incontinent louverture de ton moule affin que<br/> aulcune cendre & poulsiere nentre dedans & lors acheve de<br/> lentourner de sable jusques au bout du gect & des souspirailz<br/> Ce faict descouvre ton moule & gecte dessus ton <span class="m">argent</span> bien<br/> fondu la grosseur dun pois ou environ de ce grain metallique<br/> qui incontinent sespandra par tout ton <span class="m">argent</span> & le fera bouillir<br/> & tourner Gecte aussy tost que tu y auras mis ceste<br/> matiere Car cest ceste cy qui est le secret de faire courre<br/> l<span class="m">argent</span> comme sa crouste leschaufe & lesclarcist Tu<br/> peulx gecter <span class="m">argent</span> plus fin que la ligue du capital et<br/> co{mm}e de realle Mays que tu y adjoustes de ce grain
+ Tu verras quelle le tormentera & leschaufera bien fort<br/> et bien tost le rendra fort liquide & dispose a gecter et lesclarcira<br/> comme il apartient Quand il est en cest estat & quil est fort blanc<br/> et poly reluisant comme <span class="m">vif argent</span> Praepare toy de gecter<br/> Et pour cet esfect ayes du <span class="m">sable maigre</span> delie Dans<br/> une <span class="tl">terrine</span> ou aultre <span class="tl">vaisseau</span> duquel tu le vouldras ayder<br/> Fays une fosse dans le sable Puys avecq tes <span class="tl">molettes</span><br/> prens ton moule bien rouge & le pose dans ceste fosse de<br/> sable Couvre incontinent louverture de ton <span class="tl">moule</span> affin que<br/> aulcune <span class="m">cendre</span> & poulsiere nentre dedans & lors acheve de<br/> lentourner de sable jusques au bout du gect & des souspirailz<br/> Ce faict descouvre ton <span class="tl">moule</span> & gecte dessus ton <span class="m">argent bien<br/> fondu</span> la <span class="ms">grosseur dun <span class="pa">pois</span></span> ou environ de ce grain metallique<br/> qui incontinent sespandra par tout ton <span class="m">argent</span> & le fera bouillir<br/> & tourner Gecte aussy tost que tu y auras mis ceste<br/> matiere Car cest ceste cy qui est le secret de faire courre<br/> l<span class="m">argent</span> comme sa crouste leschaufe & lesclarcist Tu<br/> peulx gecter <span class="m">argent plus fin que la ligue du <span class="pl">capital</span> et<br/> comme de <span class="cn">realle</span></span> Mays que tu y adjoustes de ce grain
  
 > *at left top margin*
 > 
 > 
->   Ne laisse pas pour cela de mettre devant toute chose un peu de <span class="m">borras</span> dans l<span class="m">argent</span><br/> fondu car encores<br/> que les <span class="pro">orfevres</span> ny<br/> en mectent point<br/> Touteffois il y est bon<br/> et je lay veu bien pratique<br/> Apres on y mect de la<br/> croste de la matiere<br/> de par deulx diverses<br/> foys & puys de la chose<br/> metallique lors garde la<br/> <br/> qui soict pose au bout<br/> de ta forge
+>   Ne laisse pas pour cela de mettre devant toute chose un peu de <span class="m">borras</span> dans l<span class="m">argent<br/> fondu</span> car encores<br/> que les <span class="pro">orfevres</span> ny<br/> en mectent point<br/> Touteffois il y est bon<br/> et je lay veu bien pratique<br/> Apres on y mect de la<br/> croste de la matiere<br/> de par deulx diverses<br/> foys & puys de la chose<br/> metallique lors garde la<br/> <br/> qui soict pose au bout<br/> de ta <span class="tl">forge</span>
  
 > *at left top margin*
 > 
 > 
->   Si tu veulx soufler la<br/> cendre qui est aultour<br/> de ton moule lors que<br/> tu le tiens entre les<br/> molletes tiens luy louverture<br/> en bas & soufle 
+>   Si tu veulx soufler la<br/> <span class="m">cendre</span> qui est aultour<br/> de ton <span class="tl">moule</span> lors que<br/> tu le tiens entre les<br/> <span class="tl">molletes</span> tiens luy louverture<br/> en bas & soufle 
  
 > *at left middle margin*
 > 
 > 
->   Quand l<span class="m">argent</span> est bien<br/> fondu tu le peulx bien<br/> descouvrir et soufler<br/> avec le petit souflet<br/> non pas continuellem{ent}<br/> comme a l<span class="m">or</span> Mays<br/> pour gecter hors les<br/> <span class="m">charbons</span> seulem{ent} pour<br/> y mectre des matieres<br/> qui le font courre 
+>   Quand l<span class="m">argent</span> est bien<br/> fondu tu le peulx bien<br/> descouvrir et soufler<br/> avec le petit <span class="tl">souflet</span><br/> non pas continuellement<br/> comme a l<span class="m">or</span> Mays<br/> pour gecter hors les<br/> <span class="m">charbons</span> seulement pour<br/> y mectre des matieres<br/> qui le font courre 
  
  
   
@@ -46,15 +46,15 @@ animals: [lezard]
 ## Blanchiment de l<span class="m">argent</span> gecte
 
  
- Pource que on gecte communem{ent} de bas <span class="m">argent</span> & mesmem{ent}<br/> les <span class="pl">allemands</span> Et que telle ligue face volontiers quelq{ue}<br/> chappe ou croste <span class="del">qui est contraire  Nos</span> <span class="add">Aulcuns</span> <span class="pro">orfevres</span> <span class="del">de</span><br/> <span class="del"><span class="pl">france</span></span> sont communem{ent} bien empresses a blanchir leurs<br/> ouvraiges Mesmem{ent} les grossieres pource quils meslent<br/> que du commun <span class="m">bullitoyre</span> qui est de <span class="m">tartre</span> & <span class="m">sel commun</span><br/> presque auta{n}t dun que daultre Mays jay veu un<br/> excellent <span class="pl">allemand</span> travailler ainsy ayant en ma presence<br/> gecte un petit <span class="al">lezard</span> de ligue de teston Il fist une croste<br/> grisastre Et pour len nettoyer Il le fist bouillir au <span class="m">bullitoyre</span><br/> susdict de <span class="m">tartre</span> & sel commun <span class="add">pulverise</span> <span class="del">Et</span> mesle d<span class="m">eau commune</span> au foeu<br/> de sa forge en estant sorty il le grattebroissa Et pource que<br/> il nestoit pas net a sa fantasie de ceste croste Il fist brusler<br/> du <span class="m">tartre</span> <span class="add">dans du <span class="m">papier</span></span> iusques a ce quil fut noir & ne fuma plus Puys<br/> il destrempa ledict <span class="m">tartre</span> avec de l<span class="m">eau</span> du <span class="m">bullitoyre</span> co{m}posee<br/> de <span class="m">sel</span> & <span class="m">tartre</span> & en couvrit tout son <span class="al">lezard</span> puys le mit entre les<br/> charbons <span class="del">de</span> vifs de la forge & soufla un peu Quand le <span class="al">lezard</span> fut<br/> rouge il losta le laissa froidir puys le recuit au <span class="m">bullitoyre</span> <br/> apres le grattebroissa dans l<span class="m">eau</span> claire 
+ Pource que on gecte communement de bas <span class="m">argent</span> & mesmement<br/> les <span class="pl">allemands</span> Et que telle ligue face volontiers quelque<br/> chappe ou croste <span class="del">qui est contraire  Nos</span> <span class="add">Aulcuns</span> <span class="pro">orfevres</span> <span class="del">de</span><br/> <span class="del"><span class="pl">france</span></span> sont communement bien empresses a blanchir leurs<br/> ouvraiges Mesmement les grossieres pource quils meslent<br/> que du <span class="tl">commun bullitoyre</span> qui est de <span class="m">tartre</span> & <span class="m">sel commun</span><br/> <span class="ms">presque autant dun que daultre</span> Mays jay veu un<br/> excellent <span class="pl">allemand</span> travailler ainsy ayant en ma presence<br/> gecte un petit <span class="al">lezard</span> de <span class="m">ligue de <span class="cn">teston</span></span> Il fist une croste<br/> grisastre Et pour len nettoyer Il le fist bouillir au <span class="tl">bullitoyre</span><br/> susdict de <span class="m">tartre</span> & <span class="m">sel commun <span class="add">pulverise</span></span> <span class="del">Et</span> mesle d<span class="m">eau commune</span> au foeu<br/> de sa <span class="tl">forge</span> en estant sorty il le <span class="tl">grattebroissa</span> Et pource que<br/> il nestoit pas net a sa fantasie de ceste croste Il fist brusler<br/> du <span class="m">tartre</span> <span class="add">dans du <span class="tl"><span class="m">papier</span></span></span> iusques a ce quil fut noir & ne fuma plus Puys<br/> il destrempa ledict <span class="m">tartre</span> avec de l<span class="m">eau du <span class="tl">bullitoyre</span></span> composee<br/> de <span class="m">sel</span> & <span class="m">tartre</span> & en couvrit tout son <span class="al">lezard</span> puys le mit entre les<br/> <span class="m">charbons</span> <span class="del">de</span> vifs de la <span class="tl">forge</span> & soufla un peu Quand le <span class="al">lezard</span> fut<br/> rouge il losta le laissa froidir puys le recuit au <span class="tl">bullitoyre</span> <br/> apres le <span class="tl">grattebroissa</span> dans l<span class="m">eau claire</span> 
  
 > *at left middle margin*
 > 
 > 
->   \+ Note que le <span class="m">bullitoyre</span><br/> pour l<span class="m">argent</span> nest jamays<br/> bon dans un crusol<br/> pource que leur prenent<br/> la forme du <span class="del">f</span> <span class="m">tartre</span><br/> sesvapore Mays le<br/> vaisseau pour bouillir<br/> esta{n}t de <span class="m">cuivre</span> est<br/> excella{n}t pour le blanchim{ent}<br/> de l<span class="m">argent</span> & pour la<br/> saulce qui colore l<span class="m">or</span> 
+>   \+ Note que le <span class="tl">bullitoyre</span><br/> pour l<span class="m">argent</span> nest jamays<br/> bon dans un <span class="tl">crusol</span><br/> pource que leur prenent<br/> la forme du <span class="del">f</span> <span class="m">tartre</span><br/> sesvapore Mays le<br/> <span class="tl">vaisseau</span> pour bouillir<br/> estant de <span class="m">cuivre</span> est<br/> excellant pour le blanchiment<br/> de l<span class="m">argent</span> & pour la<br/> saulce qui colore l<span class="m">or</span> 
  
 > *at left bottom margin*
 > 
 > 
->   Il observoit de ne<br/> laisser pas tant<br/> bouillir son <span class="m">eau de<br/> tartre</span> quelle renversast<br/> par dessus pource que<br/> lors sa force sen<br/> va doncq quand ceste<br/> premiere furie de bouillir<br/> viendra oste la du foeu<br/> & luy remects Il tenoit<br/> pour secret ce <span class="m">tartre</span><br/> brusle mis dessus pour<br/> l<span class="m">argent</span> bas. 
+>   Il observoit de ne<br/> laisser pas tant<br/> bouillir son <span class="m">eau de<br/> tartre</span> quelle renversast<br/> par dessus pource que<br/> lors sa force sen<br/> va doncq quand ceste<br/> premiere furie de bouillir<br/> viendra oste la du foeu<br/> & luy remects Il tenoit<br/> pour secret ce <span class="m">tartre<br/> brusle</span> mis dessus pour<br/> l<span class="m">argent</span> bas. 
  

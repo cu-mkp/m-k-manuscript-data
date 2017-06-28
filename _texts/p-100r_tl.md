@@ -25,7 +25,7 @@ animals: []
 ## <span class="m">Gold</span> color
 
  
-To very quickly make a layer of <span class="m">or <span class="del">sur</span>mat</span> on <span class="m">canvas</span> or on other <span class="m">oil</span> panel, one [exposes] <span class="m"><span class="pa">walnut</span> oil</span> under the sun or on the fire to make it fatty, as previously mentioned, for it thickens by itself in this way, despite having neither <span class="m">lead</span>, nor <span class="m">ceruse</span>. And with it, crush <span class="m">massicot</span>, <span class="m">mine</span>, & other desiccants, but not <span class="m">vert—de—gris</span> nor <span class="m">orpiment</span>, for they make the <span class="m">gold</span> die. It will quickly be dry. However, if the weather is not serain and dry, do not shade it, for if the weather is dewy & humid, it will turn black.
+To very quickly make a layer of <span class="m">or <span class="del">sur</span>mat</span> on <span class="m">canvas</span> or on other <span class="m">oil</span> panel, one exposes <span class="m"><span class="pa">walnut</span> oil</span> under the sun or on the fire to make it fatty, as previously mentioned, for it thickens by itself in this way, despite having neither <span class="m">lead</span>, nor <span class="m">ceruse</span>. And with it, crush <span class="m">massicot</span>, <span class="m">mine</span>, & other desiccants, but not <span class="m">vert—de—gris</span> nor <span class="m">orpiment</span>, for they make the <span class="m">gold</span> die. It will quickly be dry. However, if the weather is not serain and dry, do not shade it, for if the weather is dewy & humid, it will turn black.
  
  
   

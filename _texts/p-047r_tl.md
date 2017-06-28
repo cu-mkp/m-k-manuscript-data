@@ -57,5 +57,5 @@ Those from <span class="pl">Bayonne</span>, which seem to be made of <span class
 ## Against diarrhea and dysentery
 
  
-Against diarrhea, it is good to use preserve of <span class="m">symphytum</span>, also [known as] <span class="m">consolida maior</span>. And if it is against dysentery, you can rub the temples, the hollow of the hands, and the sole of the feet with <span class="m">wax oil</span> and take a drop of two of it with a spoonful of <span class="m">broth</span>. The root of <span class="m">consolida maior</span>, crushed and put between <span class="del">pieces</span> cuts in a piece of <span class="m"><span class="al">beef</span></span>, then boiled, rejoins them, as it is said. 
+Against diarrhea, it is good to use preserve of <span class="m">symphytum</span>, also known as <span class="m">consolida maior</span>. And if it is against dysentery, you can rub the temples, the hollow of the hands, and the sole of the feet with <span class="m">wax oil</span> and take a drop of two of it with a spoonful of <span class="m">broth</span>. The root of <span class="m">consolida maior</span>, crushed and put between <span class="del">pieces</span> cuts in a piece of <span class="m"><span class="al">beef</span></span>, then boiled, rejoins them, as it is said. 
  

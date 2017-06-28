@@ -12,7 +12,7 @@ materials: [plomb, estaim, cuivre, metal, paille, crasse, linge, suif, mercure a
 tools: [chassis, linge fort subtil, cassolle de fer ou metal, verge de fer, moule, linge, dent]
 measurements: []
 bodyparts: []
-places: [puy david, th{ou}l{ous}e, fosseret, Ox, florence]
+places: [puy david, thoulouse, fosseret, Ox, florence]
 plants: []
 professions: [gainiers, potiers]
 environments: []
@@ -25,7 +25,7 @@ animals: []
 ## Sable
 
  
-Il sen trouve dexcellent au costau de <span class="pl">puy david</span> aupres de <span class="pl">th{ou}l{ous}e</span><br/> pour <span class="m">plomb</span> <span class="m">estaim</span> & <span class="m">cuivre</span> Il ne veult pas estre trop recuit<br/> pourceque se deseichant ainsy a coup il perd sa liaison & sescuie<br/> a la premiere entree du <span class="m">metal</span> ce qui faict venir louvraige<br/> grumeleus & mal net Il vault mieulx recuire de loing quavecq<br/> la flamme de <span class="m">paille</span> qui engendre <span class="del">des</span> de la <span class="m">crasse</span> Plustost que<br/> remplir le <span class="tl">chassis</span> tu peulx mectre du plus subtil sable que tu auras<br/> dans un <span class="tl"><span class="m">linge</span> fort subtil</span> & en poncer a sec la medaille Et puys<br/> le sable mouille que tu y mects dessus qui ha plus de corps le<br/> grippe
+Il sen trouve dexcellent au costau de <span class="pl">puy david</span> aupres de <span class="pl">thoulouse</span><br/> pour <span class="m">plomb</span> <span class="m">estaim</span> & <span class="m">cuivre</span> Il ne veult pas estre trop recuit<br/> pourceque se deseichant ainsy a coup il perd sa liaison & sescuie<br/> a la premiere entree du <span class="m">metal</span> ce qui faict venir louvraige<br/> grumeleus & mal net Il vault mieulx recuire de loing quavecq<br/> la flamme de <span class="m">paille</span> qui engendre <span class="del">des</span> de la <span class="m">crasse</span> Plustost que<br/> remplir le <span class="tl">chassis</span> tu peulx mectre du plus subtil sable que tu auras<br/> dans un <span class="tl"><span class="m">linge</span> fort subtil</span> & en poncer a sec la medaille Et puys<br/> le sable mouille que tu y mects dessus qui ha plus de corps le<br/> grippe
  
 > *at left top margin*
 > 
@@ -35,7 +35,7 @@ Il sen trouve dexcellent au costau de <span class="pl">puy david</span> aupres d
 > *at left top margin*
 > 
 > 
->   Le <span class="m">mercure<br/> arreste</span> melle co{mm}e<br/> on veult gecter<br/> faict courre le<br/> <span class="del"><span class="m">metal</span></span> <span class="m">plomb</span><br/> Mays sil est<br/> pur il le fault<br/> gecter bien chault<br/> affin quil coure<br/> Et souspirails
+>   Le <span class="m">mercure<br/> arreste</span> melle comme<br/> on veult gecter<br/> faict courre le<br/> <span class="del"><span class="m">metal</span></span> <span class="m">plomb</span><br/> Mays sil est<br/> pur il le fault<br/> gecter bien chault<br/> affin quil coure<br/> Et souspirails
  
  
   
@@ -59,5 +59,5 @@ Il fault quil soit bien cuict ce que tu cognoistras quand le cuisant<br/> en que
 ## <span class="m">Carton</span>
 
  
-Il fault prendre du <span class="m">papier de <span class="pl">florence</span></span> qui est le plus fin & le piler &<br/> faire tremper plusieurs fois & changer d<span class="m">eau</span> <span class="tmp">tous les jours</span> affin quil ne<br/> sente point mal & co{mm}e tu lauras moule dans le cave pose ung <span class="tl"><span class="m">linge</span></span> dessus &<br/> par derriere frotte avecq une <span class="tl">dent</span> co{mm}e si tu voulois brunir Et il se<br/> moulera fort net puys <span class="m">colle</span> par derriere de la <span class="m">toile</span> avecq <span class="m">colle forte</span>
+Il fault prendre du <span class="m">papier de <span class="pl">florence</span></span> qui est le plus fin & le piler &<br/> faire tremper plusieurs fois & changer d<span class="m">eau</span> <span class="tmp">tous les jours</span> affin quil ne<br/> sente point mal & comme tu lauras moule dans le cave pose ung <span class="tl"><span class="m">linge</span></span> dessus &<br/> par derriere frotte avecq une <span class="tl">dent</span> comme si tu voulois brunir Et il se<br/> moulera fort net puys <span class="m">colle</span> par derriere de la <span class="m">toile</span> avecq <span class="m">colle forte</span>
  

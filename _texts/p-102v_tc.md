@@ -41,7 +41,7 @@ Au mois daougst la fleur est mieulx cuicte & plus propre<br/> a fayre <span clas
 ## Gect
 
  
-L<span class="m">estain</span> vient mieulx estant tanvre & subtil quespes<br/> pourceque estant espes & en grand chaleur il se ressere<br/> Doncq si tu veulx mouler en <span class="m">estaing</span> quelque piece esspece<br/> moule la seulem[{ent}] dun coste & cave dun coste sil est possible<br/> en ceste sorte tu lauras plus nette Et puys tu pourras<br/> <span class="m">souldre</span> deulx moicties ensemble Mays si tu es contrainct<br/> de le mouler espes Fais en la forme & moule force<br/> abrevouers aultour de la figure en ceste sorte 
+L<span class="m">estain</span> vient mieulx estant tanvre & subtil quespes<br/> pourceque estant espes & en grand chaleur il se ressere<br/> Doncq si tu veulx mouler en <span class="m">estaing</span> quelque piece esspece<br/> moule la seulement dun coste & cave dun coste sil est possible<br/> en ceste sorte tu lauras plus nette Et puys tu pourras<br/> <span class="m">souldre</span> deulx moicties ensemble Mays si tu es contrainct<br/> de le mouler espes Fais en la forme & moule force<br/> abrevouers aultour de la figure en ceste sorte 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5SjZwV0ZHdW93ZEk" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  

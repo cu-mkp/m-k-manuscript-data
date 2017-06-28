@@ -44,7 +44,7 @@ According to the strength of your knives, either kitchen or table knives, you wi
 ## To boil an <span class="m">egg</span> in cold <span class="m">water</span> without a fire
 
  
-Empty an <span class="m">egg</span> from both ends so that nothing remains inside, then fill it with <span class="m">quicklime</span> and <span class="m">natural sulphur</span>, then plug the holes with <span class="m">wax</span> and put it in <span class="m">water</span> so that it floats two or three fingers [above the surface].
+Empty an <span class="m">egg</span> from both ends so that nothing remains inside, then fill it with <span class="m">quicklime</span> and <span class="m">natural sulphur</span>, then plug the holes with <span class="m">wax</span> and put it in <span class="m">water</span> so that it floats two or three fingers above the surface.
  
  
   

@@ -49,5 +49,5 @@ Frotte tes armes ou aultres pieces dorees de <span class="m">fiente<br/> de <spa
 ## Pour blanchir la <span class="m">ceruse</span>
 
  
-Fais durcir des <span class="m">œufs partis les par moictie & oste le<br/> jaulne & entre les deulx moicties du blanc</span> mects un lopin<br/> de <span class="m">ceruse</span> & les lie avecq du <span class="tl">filet</span> puys fais bouillir da{n}s<br/> <span class="m">eau claire</span> & elle deviendra toute noire & ainsy la <span class="m">ceruse</span><br/> demeurra bien purifiee Aulcuns la font recuire au feu<br/> & devient fort blanche
+Fais durcir des <span class="m">œufs partis les par moictie & oste le<br/> jaulne & entre les deulx moicties du blanc</span> mects un lopin<br/> de <span class="m">ceruse</span> & les lie avecq du <span class="tl">filet</span> puys fais bouillir dans<br/> <span class="m">eau claire</span> & elle deviendra toute noire & ainsy la <span class="m">ceruse</span><br/> demeurra bien purifiee Aulcuns la font recuire au feu<br/> & devient fort blanche
  

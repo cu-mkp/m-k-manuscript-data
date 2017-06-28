@@ -31,7 +31,7 @@ Their <span class="tl">hammers</span> must be quite even & polished, and if in s
 ## A new vine
 
  
-When [the vine] has taken root well, if you want it to grow many cordons, having dug furrows [next to it], put two handfuls of <span class="m">pigeon guano</span> next to each rootstock.
+When the vine has taken root well, if you want it to grow many cordons, having dug furrows next to it, put two handfuls of <span class="m">pigeon guano</span> next to each rootstock.
  
  
   

@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [cuivre, argent, letton, eau, racine de cucurme, terra merita, Blanchime{n}t, tartre, fer, blanchiment, sel commun, Crocum ferri, limaille, vinaigre, mabre]
+materials: [cuivre, argent, letton, eau, racine de cucurme, terra merita, Blanchiment, tartre, fer, blanchiment, sel commun, Crocum ferri, limaille, vinaigre, mabre]
 tools: [marteau]
 measurements: []
 bodyparts: [pied, jambe, jarret]
@@ -31,15 +31,15 @@ pas venu si cler que ie desirois ie lay encore recuit<br/> laisse froidir remis 
 ## Belle couleur au <span class="m">letton</span>
 
  
-Layant bien nettoye co{mm}e dict est & bien grattebroisse<br/> fais le bouillir en <span class="m">eau</span> & <span class="m"><span class="pa">racine de cucurme</span></span> ou <span class="m">terra merita</span><br/> et il viendra tres beau
+Layant bien nettoye comme dict est & bien grattebroisse<br/> fais le bouillir en <span class="m">eau</span> & <span class="m"><span class="pa">racine de cucurme</span></span> ou <span class="m">terra merita</span><br/> et il viendra tres beau
  
  
   
 
-## <span class="m">Blanchime{n}t</span>
+## <span class="m">Blanchiment</span>
 
  
-Si cest pour <span class="m">argent</span> Ne pile pas ton <span class="m">tartre</span> avecq du<br/> <span class="m">fer</span> ains avecq le manche du <span class="tl">marteau</span> Car si tu touches<br/> & trempes du <span class="m">fer</span> en ton <span class="m">blanchiment</span> l<span class="m">argent</span> viendroit<br/> rouge co{mm}e <span class="m">cuivre</span> & te le fauldroit recuire & remectre<br/> au <span class="m">blanchiment</span> Ne mesle rien avecq ton <span class="m">tartre</span> qui ne<br/> doibve entrer au <span class="m">blanchiment</span> car cela le corromp Ne le<br/> laisse pas verser hors son premier bouillon Car en cela<br/> est toute sa force Le <span class="m">blanchiment</span> se faict dune partye<br/> de <span class="m">tartre</span> pulverise & la moictie de <span class="m">sel commun</span>
+Si cest pour <span class="m">argent</span> Ne pile pas ton <span class="m">tartre</span> avecq du<br/> <span class="m">fer</span> ains avecq le manche du <span class="tl">marteau</span> Car si tu touches<br/> & trempes du <span class="m">fer</span> en ton <span class="m">blanchiment</span> l<span class="m">argent</span> viendroit<br/> rouge comme <span class="m">cuivre</span> & te le fauldroit recuire & remectre<br/> au <span class="m">blanchiment</span> Ne mesle rien avecq ton <span class="m">tartre</span> qui ne<br/> doibve entrer au <span class="m">blanchiment</span> car cela le corromp Ne le<br/> laisse pas verser hors son premier bouillon Car en cela<br/> est toute sa force Le <span class="m">blanchiment</span> se faict dune partye<br/> de <span class="m">tartre</span> pulverise & la moictie de <span class="m">sel commun</span>
  
  
   
@@ -60,5 +60,5 @@ On moule communement le <span class="bp">pied</span> & la <span class="bp">jambe
 ## <span class="m">Crocum ferri</span>
 
  @ 
-Pour le faire bien tost rougis la <span class="m">limaille</span> dans une caisse de <span class="m">fer</span><br/> le remuant souvant puys arrouse le de bon <span class="m">vinaigre</span> & le laisse evaporer<br/> & sans loster de dessus le foeu laisse le rougir & enflammer. esta{n}t froid<br/> pulverise le sur le <span class="m">mabre</span> & le retourne au foeu <span class="del">rou</span> arrouse de <span class="m">vinaigre</span><br/> Et puys enflamme Ainsy il sera bien tost colore & subtilie
+Pour le faire bien tost rougis la <span class="m">limaille</span> dans une caisse de <span class="m">fer</span><br/> le remuant souvant puys arrouse le de bon <span class="m">vinaigre</span> & le laisse evaporer<br/> & sans loster de dessus le foeu laisse le rougir & enflammer. estant froid<br/> pulverise le sur le <span class="m">mabre</span> & le retourne au foeu <span class="del">rou</span> arrouse de <span class="m">vinaigre</span><br/> Et puys enflamme Ainsy il sera bien tost colore & subtilie
  

@@ -25,7 +25,7 @@ animals: [Escargots, Ceulx qui se trouvent dans la mer, ceulx dans lesquels cert
 ## <span class="al">Escargots</span>
 
  
-<span class="al">Ceulx qui se trouvent dans la <span class="env">mer</span></span> & mesmem{ent} <span class="al">ceulx dans lesquels<br/> certains petits <span class="al">chancres</span> se logent</span> sont tresbeaulx pour grottes sils<br/> sont descharges de la premiere crouste de leur coquille avecq de l<span class="m">eau<br/> fort</span> Car ilz semblent vrayem{ent} estre de <span class="m">nacre de perle</span>
+<span class="al">Ceulx qui se trouvent dans la <span class="env">mer</span></span> & mesmement <span class="al">ceulx dans lesquels<br/> certains petits <span class="al">chancres</span> se logent</span> sont tresbeaulx pour grottes sils<br/> sont descharges de la premiere crouste de leur coquille avecq de l<span class="m">eau<br/> fort</span> Car ilz semblent vrayement estre de <span class="m">nacre de perle</span>
  
  
   
@@ -33,7 +33,7 @@ animals: [Escargots, Ceulx qui se trouvent dans la mer, ceulx dans lesquels cert
 ## Pour oster les baves ou barbes<br/> des choses moulées à noyau
 
  
-Si tes <span class="tl">moules</span> sont de bon <span class="m">plastre</span> qui soustienent bien le foeu <span class="del">&</span><br/> ilz ne se fendront point Mesmement si avecq des <span class="tl">presses</span> ilz sont bien<br/> serres entre deulx <span class="tl">tables</span> Ou dans ung <span class="tl">vaisseau</span> plein de <span class="m">cendre</span> ou<br/> sable & par ainsy ne feront poinct de baves Mays sils en font tu les<br/> peulx oster avecq un <span class="tl">burin</span> quon appelle <span class="tl">chaple</span> qui ha le bout co{mm}e un petit<br/> <span class="tl">ciseau</span>
+Si tes <span class="tl">moules</span> sont de bon <span class="m">plastre</span> qui soustienent bien le foeu <span class="del">&</span><br/> ilz ne se fendront point Mesmement si avecq des <span class="tl">presses</span> ilz sont bien<br/> serres entre deulx <span class="tl">tables</span> Ou dans ung <span class="tl">vaisseau</span> plein de <span class="m">cendre</span> ou<br/> sable & par ainsy ne feront poinct de baves Mays sils en font tu les<br/> peulx oster avecq un <span class="tl">burin</span> quon appelle <span class="tl">chaple</span> qui ha le bout comme un petit<br/> <span class="tl">ciseau</span>
  
 > *at left middle margin*
 > 

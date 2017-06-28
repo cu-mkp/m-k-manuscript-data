@@ -25,7 +25,7 @@ animals: []
 ## Pour faire couleur dor fort belle<br/> & de peu de despance
 
  
-Premierement prenes <span class="m">Escorce doranges</span> bien Jaulne &<br/> les nettoies bien du blanc qui est dedans & les<br/> pulverises tres bien <span class="del">et</span> <span class="add">en</span> ung mortier bien net Et prenes<br/> aultant de <span class="m">souffre</span> & broyes tout ensemble Et mectes le<br/> tout en une fiolle de verre & les Gardes en la cave ou<br/> au{ltr}e lieu humide par lespace de huict ou dix jours puys<br/> quand en vouldres user fault le chauffer et en user ou<br/> vous vouldres & vous verres une fort belle coulleur
+Premierement prenes <span class="m">Escorce doranges</span> bien Jaulne &<br/> les nettoies bien du blanc qui est dedans & les<br/> pulverises tres bien <span class="del">et</span> <span class="add">en</span> ung mortier bien net Et prenes<br/> aultant de <span class="m">souffre</span> & broyes tout ensemble Et mectes le<br/> tout en une fiolle de verre & les Gardes en la cave ou<br/> aultre lieu humide par lespace de huict ou dix jours puys<br/> quand en vouldres user fault le chauffer et en user ou<br/> vous vouldres & vous verres une fort belle coulleur
  
  
   
@@ -33,7 +33,7 @@ Premierement prenes <span class="m">Escorce doranges</span> bien Jaulne &<br/> l
 ## Pour faire Goumiche noyre
 
  
-Prenes de la <span class="m">colle</span> & la destrampes aveq du <span class="m">vinaigre</span><br/> & la faictes fondre et quelle soit bien claire et prenes du<br/> <span class="m">noir de lampe</span> ou au{ltr}e noir & le destrempes ensemble<br/> puys le poses sur <span class="m">boys</span>
+Prenes de la <span class="m">colle</span> & la destrampes aveq du <span class="m">vinaigre</span><br/> & la faictes fondre et quelle soit bien claire et prenes du<br/> <span class="m">noir de lampe</span> ou aultre noir & le destrempes ensemble<br/> puys le poses sur <span class="m">boys</span>
  
  
   
@@ -41,7 +41,7 @@ Prenes de la <span class="m">colle</span> & la destrampes aveq du <span class="m
 ## Pour La Blanche
 
  
-Fault prandre de la <span class="m">Cire blanche</span> aveq de la <span class="m">Ceruze</span><br/> et fondes le tout ensemble & le couches sur <span class="m">boys</span> ou<br/> au{ltr}e chose
+Fault prandre de la <span class="m">Cire blanche</span> aveq de la <span class="m">Ceruze</span><br/> et fondes le tout ensemble & le couches sur <span class="m">boys</span> ou<br/> aultre chose
  
  
   
@@ -49,5 +49,5 @@ Fault prandre de la <span class="m">Cire blanche</span> aveq de la <span class="
 ## Pour dorer sur <span class="m">fer</span>ou<br/> <span class="m">Estaing</span>
 
  
-Premierement Il fault laver ce q{ue} lon veuld dorer<br/> dedans <span class="m">lye de vin</span> Et puis de Rechief le laver avecq du <span class="m">vin<br/> blanc</span> Et prandre trois onces <span class="m">terra merita</span> & choppine de<br/> <span class="m">vin blanc</span> Et faire bouillir les matieres lespace de demye<br/> heure & poser vos couleurs sur v{ost}re <span class="m">fer</span> ou <span class="m">Estaing</span> ou au{ltr}e<br/> Et puys le laisses secher sur un <span class="m">pappier</span> & ne mectre<br/> poinct la main en vos matieres
+Premierement Il fault laver ce que lon veuld dorer<br/> dedans <span class="m">lye de vin</span> Et puis de Rechief le laver avecq du <span class="m">vin<br/> blanc</span> Et prandre trois onces <span class="m">terra merita</span> & choppine de<br/> <span class="m">vin blanc</span> Et faire bouillir les matieres lespace de demye<br/> heure & poser vos couleurs sur vostre <span class="m">fer</span> ou <span class="m">Estaing</span> ou aultre<br/> Et puys le laisses secher sur un <span class="m">pappier</span> & ne mectre<br/> poinct la main en vos matieres
  

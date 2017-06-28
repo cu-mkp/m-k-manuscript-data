@@ -24,7 +24,7 @@ animals: []
 *[continued]*
   \+ 
 
-## Casting with <span class="m">copper</span> alloyed with <span class="m">☾</span>, which is like very low <span class="m">solder</span> and ard[...]es and <span class="m">old K</span> and some Re out of xii
+## Casting with <span class="m">copper</span> alloyed with <span class="m">☾</span>, which is like very low <span class="m">solder</span> and ard...es and <span class="m">old K</span> and some Re out of xii
 
  
 I have cast the cleanest I have ever seen, making very small figures as thin as paper. I have cast extremely hot in the very red mold, and have put into the melted mixture the two compositions which makes <span class="m">silver</span> runny, and have done as if I wanted to throw with <span class="m">pure silver</span>. This <span class="m">league</span> is white when it boils, as with every other alloy which contains even just a small bit of <span class="m">silver</span>. To cast something very delicate, use this.

@@ -25,11 +25,11 @@ animals: []
 ## Aprentissaige du <span class="pro">paintre</span>
 
  
-On luy donne premierem{ent} a faire un <span class="m">oeuf</span> dans lequel on luy<br/> faict faire un demy visaige puys entier avecq les oreilles<br/> apres le col puys les partyes du corps separem{ent} apres<br/> joinctes puys une figure puys deulx & troys En fin une<br/> histoire luy aprenant a tenir le <span class="m">charbon</span> par la pointe<br/> & le pinceau aussy Co{mm}e il scait portraire on luy aprend<br/> a <span class="del">p</span> coucher de couleurs
+On luy donne premierement a faire un <span class="m">oeuf</span> dans lequel on luy<br/> faict faire un demy visaige puys entier avecq les oreilles<br/> apres le col puys les partyes du corps separement apres<br/> joinctes puys une figure puys deulx & troys En fin une<br/> histoire luy aprenant a tenir le <span class="m">charbon</span> par la pointe<br/> & le pinceau aussy Comme il scait portraire on luy aprend<br/> a <span class="del">p</span> coucher de couleurs
  
 On luy propose aussy ces traicts &<br/> lignes
  
-<span class="del">C</span> <span class="add">L</span>a figure de l<span class="m">œuf</span> pour visaiges <span class="add">et pour les corps plies</span> est le principal<br/> patron <span class="del">& la croix</span> co{mm}e la croix est le modelle du plant<br/> droict & entier Sans ces traicts tu ne feras jamays bien
+<span class="del">C</span> <span class="add">L</span>a figure de l<span class="m">œuf</span> pour visaiges <span class="add">et pour les corps plies</span> est le principal<br/> patron <span class="del">& la croix</span> comme la croix est le modelle du plant<br/> droict & entier Sans ces traicts tu ne feras jamays bien
  
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5NmZDTmZwc1Jqb2M" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
@@ -37,7 +37,7 @@ On luy propose aussy ces traicts &<br/> lignes
 > *at left top margin*
 > 
 > 
->   Toutes couleurs qui nont point de corps<br/> a <span class="m">huile</span> nen ont point a destrempe <span class="del">Et</span><br/> ains a destrempe vont a fonds Les<br/> couleurs a destrempe veulent estre grasses<br/> ce qui se cognoist quand elles prenent<br/> a la pallete<br/> esta{n}t destrempees<br/> a <span class="m">huile</span>
+>   Toutes couleurs qui nont point de corps<br/> a <span class="m">huile</span> nen ont point a destrempe <span class="del">Et</span><br/> ains a destrempe vont a fonds Les<br/> couleurs a destrempe veulent estre grasses<br/> ce qui se cognoist quand elles prenent<br/> a la pallete<br/> estant destrempees<br/> a <span class="m">huile</span>
  
  
   
@@ -53,7 +53,7 @@ Pour bien adoulcir il ne fault pas coucher les couleurs espesses<br/> Ains plust
 ## Lignes droictes
 
  
-Tu te peulx servir de la reigle mays non pas la coucher<br/> a plat sur le tableau Mays co{mm}e enlevee & apuye sur les<br/> bouts du tableau Aultrem{ent} tu brouillerois tout & ne verrois<br/> pas bien aussy le traict
+Tu te peulx servir de la reigle mays non pas la coucher<br/> a plat sur le tableau Mays comme enlevee & apuye sur les<br/> bouts du tableau Aultrement tu brouillerois tout & ne verrois<br/> pas bien aussy le traict
  
  
   

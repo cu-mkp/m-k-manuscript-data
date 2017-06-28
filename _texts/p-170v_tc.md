@@ -33,7 +33,7 @@ Et leur reste sur la premiere annee quatre vintg livres quinz<br/> Et sur la sec
 ## @ Contre peste
 
  
-P{rends} contre fiebvre pestilentiale ou poison ou peste le poix<br/> dun escues de ton <span class="m">opiate</span> destrempe avecq <span class="m">eau de scabieuse</span> ou<br/> <span class="m">buglose</span> ou <span class="m">vin</span> fort trempe quand on est touche Apres la<br/> prinse il se fault faire suer
+Prends contre fiebvre pestilentiale ou poison ou peste le poix<br/> dun escues de ton <span class="m">opiate</span> destrempe avecq <span class="m">eau de scabieuse</span> ou<br/> <span class="m">buglose</span> ou <span class="m">vin</span> fort trempe quand on est touche Apres la<br/> prinse il se fault faire suer
  
  
 > *at left middle margin*
@@ -44,9 +44,9 @@ P{rends} contre fiebvre pestilentiale ou poison ou peste le poix<br/> dun escues
 ** Pour preserver **
 
  
-<span class="m">Acetum</span> paratum ex <span class="m">ruta</span> <span class="m">baccis juniperi</span> simul tusis Eo<br/> <span class="m">aceto</span> extinguantur <span class="m">lateres</span> igniti Et vapor excipiatur ore <br/> naribus Cest pour preserver qua{n}d on va en aer infaict<br/> Un acoustrement se peult parfumer ainsy & <span class="add">en</span> oster linfection<br/> la chambre maison & Si tu te trouves en lieu ou nayes<br/> ceste preparation porte <span class="m">rue</span> & <span class="m">grains</span> piles ensemble<br/> puys a ton besoin fais bouillir en <span class="m">vinaigre</span> et en use<br/> devant.
+<span class="m">Acetum</span> paratum ex <span class="m">ruta</span> <span class="m">baccis juniperi</span> simul tusis Eo<br/> <span class="m">aceto</span> extinguantur <span class="m">lateres</span> igniti Et vapor excipiatur ore &<br/> naribus Cest pour preserver quand on va en aer infaict<br/> Un acoustrement se peult parfumer ainsy & <span class="add">en</span> oster linfection<br/> la chambre maison & Si tu te trouves en lieu ou nayes<br/> ceste preparation porte <span class="m">rue</span> & <span class="m">grains</span> piles ensemble<br/> puys a ton besoin fais bouillir en <span class="m">vinaigre</span> et en use<br/> devant.
  
-Reru{m} scoticarum historia Georgio Bucanano auth{ore}
+Rerum scoticarum historia Georgio Bucanano authore
  
 Rembertus Dodonæus mechliniensis medicus<br/> de stirpium historia
  
@@ -56,7 +56,7 @@ Tilesius de coloribus Vascosan
  
 Marmodaeus <span class="del">ge</span> de lapillis præciosis
 @  
-Othonis Epi{scopi}<br/> frisigensis<br/> ab orbe condito
+Othonis Episcopi<br/> frisigensis<br/> ab orbe condito
   
 Abbatis<br/> Uspergensis<br/> chronic
   

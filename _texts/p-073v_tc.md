@@ -23,7 +23,7 @@ animals: []
  
 *[continued]*
   
-broyes apart Quand Il sera bien broye prenes le <span class="m">sel armoniac</span> &<br/> le broyes encores ensemble puys prenes une once d<span class="m">estaing</span> doulz &<br/> une once d<span class="m">argent vif</span> puis faictes fondre v{ost}re <span class="m">estaing</span> & mectes<br/> v{ost}re <span class="m">argent vif</span> goutte a goutte dans v{ost}re <span class="m">estaing</span> en fondant & le<br/> Remues fort Jusques ace q{ui}l soit en pouldre
+broyes apart Quand Il sera bien broye prenes le <span class="m">sel armoniac</span> &<br/> le broyes encores ensemble puys prenes une once d<span class="m">estaing</span> doulz &<br/> une once d<span class="m">argent vif</span> puis faictes fondre vostre <span class="m">estaing</span> & mectes<br/> vostre <span class="m">argent vif</span> goutte a goutte dans vostre <span class="m">estaing</span> en fondant & le<br/> Remues fort Jusques ace quil soit en pouldre
  
  
   
@@ -55,5 +55,5 @@ Prenes une <span class="ms">once</span> de <span class="m">tormentine de <span c
 ## Couleur de <span class="m">Cuyvre</span> bruny
 
  
-Prenes une once de <span class="m">sel armoniac</span> avecq une once de<br/> <span class="m">broullaminy</span> et demye de <span class="m">limailhe de cuyvre</span> aveq une once de<br/> <span class="m">souffre</span> & demy sestier de <span class="m">vinaigre</span> bouttes tout dedans ung<br/> petict fourneau de carreaulx Et faictes ung petict foeu de<br/> <span class="m">charbon</span> au tour Et Mectes v{ost}re pot dedans led{ict} fourneau<br/> toute la journee
+Prenes une once de <span class="m">sel armoniac</span> avecq une once de<br/> <span class="m">broullaminy</span> et demye de <span class="m">limailhe de cuyvre</span> aveq une once de<br/> <span class="m">souffre</span> & demy sestier de <span class="m">vinaigre</span> bouttes tout dedans ung<br/> petict fourneau de carreaulx Et faictes ung petict foeu de<br/> <span class="m">charbon</span> au tour Et Mectes vostre pot dedans ledict fourneau<br/> toute la journee
  

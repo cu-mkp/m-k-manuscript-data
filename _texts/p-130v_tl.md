@@ -25,12 +25,12 @@ animals: []
 ## Molding a crab
 
  
-It is a secret and a masterpiece to mold [a crab] well because it is necessary to proceed differently [than you would] with other animals, because its shell is quite difficult to [...] and that is why it is necessary to reheat the mold three or four times. And on top of all that, it leaves a hard crust [that is] gray like <span class="m">ash</span>. It is not molded from one piece and one cast as [is done with] plants. Rather, [it is moulded] in two casts as [is done] with serpents which are easily stripped from it [the mold]. After it is opened, nimbly remove this crust with the very fine point of a pen—knife {and not with <span class="m">quicksilver</span> which removes nothing from it} and likewise those small crusts of the second cast which get into the cavities that the <span class="m">sand</span> or the molded animal made because it has curved legs. Here is the subtlety and the secret of stripping it. As you molded it [the crab] from the back side in the way [that you did for] the others [animals], remove the stomach and all the curved legs from it. Make your second cast in the way [that you did for] the other [animals], but as it will have set, take care that you not open the mold unless you have first reheated it well. Otherwise, because of its curved legs, you would break the whole thing. Herein lies the subtlety. If, after it has been well reheated and opened, you see that the crust is not burned enough, reheat [it] until it is burned [enough]. 
+It is a secret and a masterpiece to mold a crab well because it is necessary to proceed differently than you would with other animals, because its shell is quite difficult to ... and that is why it is necessary to reheat the mold three or four times. And on top of all that, it leaves a hard crust that is gray like <span class="m">ash</span>. It is not molded from one piece and one cast as is done with plants. Rather, it is moulded in two casts as is done with serpents which are easily stripped from it the mold. After it is opened, nimbly remove this crust with the very fine point of a pen—knife and not with <span class="m">quicksilver</span> which removes nothing from it and likewise those small crusts of the second cast which get into the cavities that the <span class="m">sand</span> or the molded animal made because it has curved legs. Here is the subtlety and the secret of stripping it. As you molded it the crab from the back side in the way that you did for the others animals, remove the stomach and all the curved legs from it. Make your second cast in the way that you did for the other animals, but as it will have set, take care that you not open the mold unless you have first reheated it well. Otherwise, because of its curved legs, you would break the whole thing. Herein lies the subtlety. If, after it has been well reheated and opened, you see that the crust is not burned enough, reheat it until it is burned enough. 
  
 > *at left top margin*
 > 
 > 
->   It [a crab] can be painted like a crayfish.
+>   It a crab can be painted like a crayfish.
  
 > *at left top margin*
 > 
@@ -48,7 +48,7 @@ It is a secret and a masterpiece to mold [a crab] well because it is necessary t
 ## Stag beetle
 
  
-Like a crab, it [a stag beetle] is also difficult to burn, therefore do [stag beetles] as you did crabs.
+Like a crab, it a stag beetle is also difficult to burn, therefore do stag beetles as you did crabs.
  
  
   
@@ -56,5 +56,5 @@ Like a crab, it [a stag beetle] is also difficult to burn, therefore do [stag be
 ## For molding thinly
 
  
-After you have molded the first mold as the core, leave it to dry well before removing the figure from <span class="m">wax</span>, so that the mold is not ruined. Afterwards, then make make a small <span class="m">lasagna of paste</span> as thick as you like, and, once you have greased the cavity of your first hollowed mold with <span class="m">butter</span>, apply the <span class="m">paste</span> to it [the cavity of the first concave mold] and then the upper part of the second mold. If you grease [the mold] with <span class="m">oil</span>, it will be soaked up [into the mold] and it will not be as clean as <span class="m">butter</span>.
+After you have molded the first mold as the core, leave it to dry well before removing the figure from <span class="m">wax</span>, so that the mold is not ruined. Afterwards, then make make a small <span class="m">lasagna of paste</span> as thick as you like, and, once you have greased the cavity of your first hollowed mold with <span class="m">butter</span>, apply the <span class="m">paste</span> to it the cavity of the first concave mold and then the upper part of the second mold. If you grease the mold with <span class="m">oil</span>, it will be soaked up into the mold and it will not be as clean as <span class="m">butter</span>.
  

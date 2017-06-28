@@ -59,7 +59,7 @@ animals: []
 > *at left bottom margin*
 > 
 > 
->   <span class="m">Silver</span> should not be peeled off when [still] molten.
+>   <span class="m">Silver</span> should not be peeled off when still molten.
  
 > *at left bottom margin*
 > 

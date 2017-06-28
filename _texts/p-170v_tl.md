@@ -25,7 +25,7 @@ In the year fifteen hundred seventy—eight, the second of July, the heirs of th
  
 They have also received, as part of the revenue of the year fifteen hundred seventy nine, three hundred forty three and one third ecus.
  
-And for the first year, they remain [to be paid] eighty livres and fifteen sous, | and for the second settlement, they have not yet received anything.
+And for the first year, they remain to be paid eighty livres and fifteen sous, | and for the second settlement, they have not yet received anything.
  
  
   
@@ -41,7 +41,7 @@ Against pestilential fever or poison or plague, take an ecu's weight of your <sp
 ## To preserve oneself
 
  
-<span class="m">Acetum</span> paratum ex <span class="m">ruta</span> <span class="m">baccis juniperi</span> simul tusis Eo<br/><span class="m">aceto</span> extinguantur <span class="m">lateres</span> igniti. Et vapor excipiatur ore [&]<br/>naribus. <span class="m">Rue</span> <span class="m">vinegar</span> together with crushed <span class="m">juniper berries</span>. Pour the <span class="m">vinegar</span> over red hot <span class="m">bricks</span> and inhale the vapor through the mouth and nostrils. This is to preserve oneself when going into noxious air: a garment can be perfumed with this vapor in order to remove infection from a room, house, etc. And if you find yourself in a place where you do not have this preparation, carry <span class="m">rue</span> and <span class="m">berries</span> crushed together, then, if need be, boil them in <span class="m">vinegar</span> and use as described.
+<span class="m">Acetum</span> paratum ex <span class="m">ruta</span> <span class="m">baccis juniperi</span> simul tusis Eo <span class="m">aceto</span> extinguantur <span class="m">lateres</span> igniti. Et vapor excipiatur ore & naribus. <span class="m">Rue</span> <span class="m">vinegar</span> together with crushed <span class="m">juniper berries</span>. Pour the <span class="m">vinegar</span> over red hot <span class="m">bricks</span> and inhale the vapor through the mouth and nostrils. This is to preserve oneself when going into noxious air: a garment can be perfumed with this vapor in order to remove infection from a room, house, etc. And if you find yourself in a place where you do not have this preparation, carry <span class="m">rue</span> and <span class="m">berries</span> crushed together, then, if need be, boil them in <span class="m">vinegar</span> and use as described.
  
 Ottonis episcopi | Frisigensis | Ab orbe condito
  

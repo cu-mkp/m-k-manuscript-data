@@ -25,7 +25,7 @@ animals: []
 ## Pour manger et dissouldre l<span class="m">or</span> tout pur
 
  
-R{ecipe} mects du <span class="m">sel commun</span> dans de l<span class="m">eau fort</span> en un <span class="tl">matras</span><br/> Et le laisse reposer deux heures sans le mectre sur le foeu<br/> Mectes y l<span class="m">or</span> fort tanvre et le tires co{mm}e sil avoict este<br/> desparty d<span class="m">argent</span>
+Recipe mects du <span class="m">sel commun</span> dans de l<span class="m">eau fort</span> en un <span class="tl">matras</span><br/> Et le laisse reposer deux heures sans le mectre sur le foeu<br/> Mectes y l<span class="m">or</span> fort tanvre et le tires comme sil avoict este<br/> desparty d<span class="m">argent</span>
  
  
   
@@ -49,7 +49,7 @@ Une ℥ de <span class="m">verdet</span> ii ℥ de <span class="m">gros sel</spa
 ## <span class="m">Argenter</span> sur <span class="m">cuivre</span> et <span class="m">letton</span>
 
  
-Molles l<span class="m">argent</span> co{mm}e l<span class="m">or</span> & le charger co{mm}e si vous voulies<br/> dorer Et ne le laisse chaufe[r] que l<span class="m">argent</span> ne se ternisse<br/> point Et apres quil sera bien charge bouilles le en <span class="m">huile<br/> de noix</span> & apres chaufes le un peu & le bouttes en <span class="m">boutteure</span><br/> doulce
+Molles l<span class="m">argent</span> comme l<span class="m">or</span> & le charger comme si vous voulies<br/> dorer Et ne le laisse chaufer que l<span class="m">argent</span> ne se ternisse<br/> point Et apres quil sera bien charge bouilles le en <span class="m">huile<br/> de noix</span> & apres chaufes le un peu & le bouttes en <span class="m">boutteure</span><br/> doulce
  
  
   

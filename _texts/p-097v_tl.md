@@ -8,9 +8,9 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Mastic, mastic, turpentine, turpentine oil, spirits, oil, ashes, water, aspic, spike lavender oil]
-tools: []
-measurements: []
+materials: [Mastic varnish, mastic, turpentine, turpentine oil, eau de vye, varnish, oil, subtly ground mastic, ashes, water, spike lavender, spike lavender oil]
+tools: [varnished bowl, sieve, knife]
+measurements: [half hour, ℥, half ℥, one-third]
 bodyparts: []
 places: []
 plants: []
@@ -22,40 +22,40 @@ animals: []
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-097v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f200.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>097v</a> - - - - - </div>  
   
 
-## <span class="m">Mastic</span> varnish dried a half hour
+## <span class="m">Mastic varnish</span> dry in a <span class="ms"><span class="tmp">half hour</span></span>
 
  
- Some use 2 ℥ of <span class="m">mastic</span>, half ℥ of <span class="m">turpentine</span> and of <span class="m">turpentine oil</span>, and <span class="m">spirits</span> at your discretion since it evaporates when heated and nonetheless makes a more desiccative varnish. But I made it like this: I use <span class="m">turpentine oil</span>, at my discretion, and add very little <span class="m">turpentine</span>, since it remains humid and gets tacky if we add too much, together with some <span class="m">spirits</span> and heat the <span class="m">oil</span> in a varnished bowl and, as it become very hot I add some finely ground <span class="m">mastic</span> and pass one—third of the <span class="m">oil</span> through a sieve and let this heat up until it is melted, which will occur quickly on hot <span class="m">ashes</span>. Once it is all melted, try it on your knife, and if you see that it has too much body add a bit of <span class="m">turpentine oil</span>, and if it does not, add some <span class="m">mastic</span>. And so it is finished, and keep it well covered so that no rubbish gets in. When you want to make this, take care to separate and choose the <span class="m">mastic</span> that is white and pure of any dirt and dust and black dross. And when you wash it and dry it, make it very white and clean and make it even better, because if you don't purge it of these dregs and marks they will be pulverised into it, remain within the varnish, and when you wipe it onto some white or flesh—tinted <span class="sup">surface</span>, it will seem as if it were spotted and dirty. Having properly selected, pulverise it in a mortar and pass it through a very fine sieve, and afterward mix it in <span class="m">oil</span>, as stated above. But if you want to make it more carefully, take a drop of <span class="m">mastic</span>, as you know, pulverise, pass it, and mix, and you shall have something very singular for small projects. Be well advised when varnishing to not breathe on it for it will make the varnish white and thick.
+ Some take 2 <span class="ms">℥</span> of <span class="m">mastic</span>, <span class="ms">half ℥</span> of <span class="m">turpentine</span> & <span class="ms">half ℥</span> of <span class="m">turpentine oil</span> & <span class="m">eau de vye</span>, a little at your discretion, because it evaporates when heated & nonetheless makes the <span class="m">varnish</span> more desiccative. But I made it thus: I take <span class="m">turpentine oil</span> at discretion & put in a good bit of <span class="m">turpentine</span>, because it remains always moist & attaches itself if one puts in too much, & <span class="m">eau de vye</span>, & heat in a <span class="tl">varnished bowl</span> the said <span class="m">oil</span>, & when it begins to be very hot, I put in some <span class="m">subtly ground mastic</span> & around <span class="ms">one—third</span> of the <span class="m">oil</span> passed through a <span class="tl">sieve</span> <span class="del">l</span>, and let reheat until it is melted, which will be soon on hot <span class="m">ashes</span>. Once all melted, try it on the <span class="tl">knife</span>, and if you see that it has too much body, add in a little <span class="m">turpentine oil</span>, and if it does not have enough, add in <span class="m">mastic</span>, and thus it well be done. And keep it well covered so that no filth gets in. When you want to make it, be careful to sort & choose the <span class="m">mastic</span> that is white & purified of any dirt & dust & black dross. And when you wash it & dry it to render it very white & clean, it will be even better. For if you do not purge it well, these straws & marks, pulverised into it, will remain within the varnish, & when you set it on white or carnation, it will appear that they are fleas & blemishes. Once well chosen, pulverise it in a mortar and pass it through a very fine sieve, and next mix it in <span class="m">oil</span>, as is said. But if you want to make it more carefully, extract a tear of <span class="m">mastic</span>, as you know, pulverise, pass, & mix, and you will have something very singular for small works. Take heed when varnishing not to breathe on it, for this will make the varnish whiten & take body.
  
 > *at left top margin*
 > 
 > 
->   It almost dries as you are working on it.
+>   It almost dries when working.
  
 > *at left top margin*
 > 
 > 
->   We know that this varnish does not have enough body when it doesn't take well to an <span class="m">oil</span> painting, since it is like <span class="m">water</span>. Add, therefore, powdered <span class="m">mastic</span> and heat it until it is good. This varnish is very white and beautiful not at all like the <span class="m">aspic</span> one.
+>   One knows that this varnish does not have body enough when it does not take well on a panel in <span class="m">oil</span> for it is like <span class="m">water</span>. Add in therefore powdered <span class="m">mastic</span> & heat until it is good. This varnish is very white & beautiful, & does not go to your head like that of <span class="m">spike lavender</span>.
  
 > *at left middle margin*
 > 
 > 
->   For some, instead of <span class="m">turpentine oil</span>, use some <span class="m">spike lavender oil</span>, which is not as good.
+>   For some, instead of <span class="del">tour</span> <span class="m">turpentine oil</span>, put <span class="m">spike lavender oil</span>, which is not as good.
  
 > *at left middle margin*
 > 
 > 
->   This varnish is to be applied cold on the canvas with a very clean fingertip, and spread quickly.
+>   This varnish is laid down cold on the panel with a very clean fingertip, & one needs to spread it vigorously.
  
 > *at left middle margin*
 > 
 > 
->   The Italians hardly varnish their paintings since they layer their paints very thick and these take a long time to be dry on the inside, even though they have a dry skin and crust on the surface.
+>   The Italians scarcely varnish their paintings because they lay their paintings very thick & they are a long time drying on the inside, though on top they make a dry skin & crust.
  
 > *at left middle margin*
 > 
 > 
->   The varnish is applied with one's finger in order to thinly layer it, because it will yellow afterward.
+>   One lays the varnish with a finger so as to lay it thin, because when thick, it yellows.
  
  
   

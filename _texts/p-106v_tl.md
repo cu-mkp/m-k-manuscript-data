@@ -27,9 +27,9 @@ animals: []
  
 To cast in <span class="m">gold</span>, <span class="m">crocum ferri</span> is necessary, & more <span class="m">stone alum</span> than in the following mixture. The <span class="m">stone alum</span> mixture cannot spoil anything. The mold must be red & close it immediately with <span class="m">iron</span> presses.
  
-Shells of crabs & [shells of] crayfish are troublesome to burn & have their own proper way of being molded.
+Shells of crabs & shells of crayfish are troublesome to burn & have their own proper way of being molded.
  
-When molding rats and birds, the feet, being burned, are difficult to recover, because they are small and slender. The body is recovered more easily from the mold. The feet are cast in many pieces.
+When molding rats & birds, the feet, being burned, are difficult to recover, because they are small & slender. The body is recovered more easily from the mold. The feet are cast in many pieces.
  
  
   
@@ -40,18 +40,18 @@ When molding rats and birds, the feet, being burned, are difficult to recover, b
 > *at right middle margin*
 > 
 > 
->   those of houses that are outdoors, ones [that are] a bit <span class="m">sand</span>y seem to hold better in fire
+>   those of houses that are outdoors, ones that are a bit <span class="m">sand</span>y seem to hold better in fire
  
-<span class="m">Tiles</span> with which one covers houses, the hardest and surest and recleaned of <span class="m">stones</span> & large <span class="m">gravel</span>, are taken to mix in with the <span class="m">sand</span> for molding. But, rather, it is necessary to reheat them just until they have been quite red for one or two hours, and crush them and pass them finely through a sieve.
+<span class="m">Tiles</span> with which one covers houses, the hardest & surest and recleaned of <span class="m">stones</span> & large <span class="m">gravel</span>, are taken to mix in with the <span class="m">sand</span> for molding. But, rather, it is necessary to reheat them just until they have been quite red for one or two hours, & crush them & pass them finely through a sieve.
  
 Little turtles just out of the egg are really delightful to mold.
  —————————  
 > *at middle margin*
 > 
 > 
->   If the <span class="m">plaster</span> is mixed with some <span class="m">dust</span> or is not the hard kind, [...] in the fire and make [...]
+>   If the <span class="m">plaster</span> is mixed with some <span class="m">dust</span> or is not the hard kind, ... in the fire and make ...
  
-The hardest <span class="m">plaster</span>, as was said, is the best, being taken thusly totally raw from stones of this kind. Crush it as finely as possible and pass it through the most fine sieve or sleeve that you can. Having been made fine in this way, put a good amount in a cauldron or frying pan over an open flame. & as it starts to heat up, stir it continuously. And heavy and lumpy though it is, it will become so light and so tractable that it will appear to you not to have any resistance to the said stirring, as though it were of water. Continue to keep stirring it continuously until it returns once again to being heavy and thick. And now this is the sign that it is cooked, but do not reheat it at all such that your <span class="m">stone alum</span> brick be reheated & that <span class="m">clay</span> circles form. Because this must be the last reheating, and when everything else is ready, because the less that the <span class="m">plaster</span> remains reheated & the more suddenly it is put into the work, the better, because it takes rather better. It is not permitted to reheat it except when you want to mold. And to reheat it, put it, in fine, totally raw powder, in a cauldron on a clear flame & do not give it too much [heat] in one go nor too fierce. Stir continuously with a long stick, turning around the cauldron to avoid the vapor. And in the middle, in the form of a figure 8 at the beginning, you will find it heavy [and] clayey because it is full of moisture, [and] when it heats up, it will start to throw off [the moisture] in some bubbles on the edges of the cauldron. And finally it will become liquid & mealy and like bran and start boiling in the middle. Continue to stir continuously until you recognize that it has once again become heavy ʘʘ
+The hardest <span class="m">plaster</span>, as was said, is the best, being taken thusly totally raw from stones of this kind. Crush it as finely as possible and pass it through the most fine sieve or sleeve that you can. Having been made fine in this way, put a good amount in a cauldron or frying pan over an open flame. & as it starts to heat up, stir it continuously. And heavy and lumpy though it is, it will become so light and so tractable that it will appear to you not to have any resistance to the said stirring, as though it were of water. Continue to keep stirring it continuously until it returns once again to being heavy and thick. And now this is the sign that it is cooked, but do not reheat it at all such that your <span class="m">stone alum</span> brick be reheated & that <span class="m">clay</span> circles form. Because this must be the last reheating, and when everything else is ready, because the less that the <span class="m">plaster</span> remains reheated & the more suddenly it is put into the work, the better, because it takes rather better. It is not permitted to reheat it except when you want to mold. And to reheat it, put it, in fine, totally raw powder, in a cauldron on a clear flame & do not give it too much heat in one go nor too fierce. Stir continuously with a long stick, turning around the cauldron to avoid the vapor. And in the middle, in the form of a figure 8 at the beginning, you will find it heavy and clayey because it is full of moisture, and when it heats up, it will start to throw off the moisture in some bubbles on the edges of the cauldron. And finally it will become liquid & mealy and like bran and start boiling in the middle. Continue to stir continuously until you recognize that it has once again become heavy ʘʘ
  
 <span class="m">Stone alum</span> is that which binds well to <span class="m">sand</span>.
  
@@ -65,7 +65,7 @@ The hardest <span class="m">plaster</span>, as was said, is the best, being take
 > *at left middle margin*
 > 
 > 
->   <span class="m">Plaster</span> alone does not sustain [...] but breaks up into lumps. 
+>   <span class="m">Plaster</span> alone does not sustain ... but breaks up into lumps. 
  
  Keep reheated <span class="m">plaster</span>, as is said here, one or two months well compacted in a dry place, if it's not the rainy season but rather fresh out it is more excellent for exquisite work. 
  

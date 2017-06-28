@@ -8,12 +8,12 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [gold, silver, ashes, blazing hot charcoal, charcoal, hot coal, bloodstone, Yellow varnish, walnut olive oil]
-tools: [lime doulce, burnisher]
-measurements: []
+materials: [gold, silver, ashes, blazing hot charcoal, charcoal, hot coal, bloodstone, varnish, Yellow varnish, walnut olive oil]
+tools: [lime doulce, burnisher, feather, furbishers' furnace]
+measurements: [day]
 bodyparts: []
 places: []
-plants: []
+plants: [walnut, olive]
 professions: [furbishers]
 environments: []
 animals: []
@@ -33,7 +33,7 @@ When they are white, it is necessary only to clean them well, and then to heat t
 ## Color of water
 
  
-For the color of water, pass a <span class="tl">lime doulce</span> on the guards to whiten them, then the <span class="tl">burnisher</span>. Next, one makes them pass blue until they become grey. Next, when they are still moderately hot, pass the <span class="m">bloodstone</span> over them, and when they cool, one turns them to reheat them, for the color of water is made only by several goes. And if the guards were not warm, the <span class="m">bloodstone</span> would scrape & undo the color. One needs to heed that guards do not pass too grey, for they would give off filth that would prevent the color from taking. One needs almost one day for preparing, softening, and setting the color of water, but as they pass a little blue, it is enough for grey & another color. Grey is the lesser color after varnish which is of two colors, either yellow or black.
+<span class="add">For</span> the color of water, pass a <span class="tl">lime doulce</span> on the guards to whiten them, then the <span class="tl">burnisher</span>. Next, one makes them pass blue until they become grey. Next, when they are still moderately hot, pass the <span class="m">bloodstone</span> over them, and when they cool, one turns them to reheat them, for the color of water is made only by several goes. And if the guards were not warm, the <span class="m">bloodstone</span> would scrape & undo the color. One needs to heed that guards do not pass too grey, for they would give off filth that would prevent the color from taking. One needs almost one <span class="ms"><span class="tmp">day</span></span> for preparing, softening, & setting the color of water, but as they pass a little blue, it is enough for grey & another color. Grey is the lesser color after <span class="m">varnish</span> which is of two colors, either yellow or black.
  
  
   
@@ -41,5 +41,5 @@ For the color of water, pass a <span class="tl">lime doulce</span> on the guards
 ## <span class="m">Yellow varnish</span>
 
  
-One whitens very well & one cleans the guards well. Next, one with a feather, one coats them cold with a feather all of <span class="m">walnut <span class="del">olive</span> oil</span>, and next turn them over a good <span class="m">charcoal</span> fire that is in the <span class="pro">furbishers</span>' furnace, without them touching the <span class="m">charcoal</span> or the <span class="m">ashes</span>. And when they do not smoke anymore, it is done.
+One whitens very well & one cleans the guards well. Next, one with a feather, one coats them cold with a <span class="tl">feather</span> all of <span class="m"><span class="pa">walnut</span> <span class="del"><span class="pa">olive</span></span> oil</span>, and next turn them over a good <span class="m">charcoal</span> fire that is in the <span class="tl"><span class="pro">furbishers</span>' furnace</span>, without them touching the <span class="m">charcoal</span> or the <span class="m">ashes</span>. And when they do not smoke anymore, it is done.
  

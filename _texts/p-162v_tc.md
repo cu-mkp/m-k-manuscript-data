@@ -25,7 +25,7 @@ animals: [Butor]
 ## <span class="pa">Peschers</span>
 
  
-Pourceque ils jectent & florissent des premiers & par<br/> ainsy sont atrapes de la <span class="del">ch</span> gelee On les deschausse<br/> lhiver affin que <span class="del">lhyver</span> le froid les retarde Et que en<br/> florissant plus tard les fleurs viennent a proffict
+Pourceque ils jectent & florissent des premiers & par<br/> ainsy sont atrapes de la <span class="del">ch</span> gelee On les deschausse<br/> lhiver affin que <span class="del">lhyver</span> le froid les retarde Et que <span class="del">le</span><br/> florissant plus tard les fleurs viennent a proffict
  
  
   
@@ -41,7 +41,7 @@ En <span class="pl">espaigne</span> on les deschausse lhiver & leste on les<br/>
 ## Pied de <span class="al">Butor</span>
 
  
-Pour le mouler il est mieulx de luy estendre bien les<br/> doigts & ongles sur quelque chose plaine & le laisser<br/> ainsy seicher quelque jours pourceque en seichant<br/> les escailles se monstrent plus rudes & les nerfs & tendons<br/> deviennent plus aparents Et par ainsy le pied moule<br/> sera plus artiste
+Pour le mouler il est mieulx de luy estendre bien les<br/> doitgs & ongles sur quelque chose plaine & le laisser<br/> ainsy seicher quelques jours pourceque en seichant<br/> les escailles se monstrent plus rudes & les nerfs & tendons<br/> deviennent plus aparents Et par ainsy le pied moule<br/> sera plus artiste
  
  
   
@@ -49,5 +49,5 @@ Pour le mouler il est mieulx de luy estendre bien les<br/> doigts & ongles sur q
 ## <span class="tl">Moules</span> de choses qui ne sont<br/> en despouille
 
  
-Les animaulx qui ne sont en despouille ne se peuvent<br/> mouler qua deulx <span class="tl">moules</span> qui ne se doibvent ouvrir quapres<br/> quils sont bien recuits & que lanimal enclos ne soit bien<br/> brusle Les animaulx qui ont os ou escaille qui ne se<br/> reduisent en pouldre ains demeurent en lopins calcines<br/> ne sortiront jamays par le gect quelque souflets quon<br/> fist ne quelque <span class="m">argent</span> vif quon y mist ou un <span class="tl">tuyau</span><br/> de plume en moulant pour servir de gect Cest pourquoy<br/> on moule a deulx moicties Affin que le <span class="tl">moule</span> souvrant<br/> apres avoyr este recuit la chose bruslee se puisse bien<br/> nettoyer Mays advise de le bien laisser froidir affin<br/> quen osta{n}t les <span class="tl">crampons</span> estant chault et lors quil est plus<br/> frangible quelque chose ne se rompe Pendant quil est chault<br/> la crouste & cendres quil laisse & qui adhare au <span class="tl">moule</span> sostes<br/> mieulx estant froid Note aussy que du coste du <span class="tl">moule</span> bas<br/> quand tu recuits lanimal que bouille y laisse une craste Et<br/> pourceste occasion on marque toujours le <span class="tl">moule</span> ou est le dos<br/> de lanimal affin quen recuisant il soit en hault & dessus & que par<br/> ce moyen il soict plus net
+Les animaulx qui ne sont en despouille ne se peuvent<br/> mouler qua deulx <span class="tl">moules</span> qui ne se doibvent ouvrir quapres<br/> quils sont bien recuits & que lanimal enclos ne soict bien<br/> brusle Les animaulx qui ont os ou escaille qui ne se<br/> reduisent en pouldre ains demeurent en lopins calcines<br/> ne sortiront jamays par le gect quelque soufler quon<br/> fist ne quelque <span class="m">argent</span> vif quon y mist ou un <span class="tl">tuyau</span><br/> de plume en moulant pour servir de gect Cest pourquoy<br/> on moule a deulx moicties Affin que le <span class="tl">moule</span> souvrant<br/> apres avoyr este recuit la chose bruslee se puisse bien<br/> nettoyer Mays advise de le bien laisser froidir affin<br/> quen ostant les <span class="tl">crampons</span> estant chault et lors quil est plus<br/> frangible quelque chose ne se rompe Pendant quil est chault<br/> la crouste & cendres quil laisse & qui adhære au <span class="tl">moule</span> sostera<br/> mieulx estant froid Note aussy que du coste du <span class="tl">moule</span> bas<br/> quand tu recuits lanimal qui bouille y laisse une crasse Et<br/> pourceste occasion on marque toujours le <span class="tl">moule</span> ou est le dos<br/> de lanimal affin quen recuisant il soit en hault & dessus & que par<br/> ce moyen il soict plus net
  
