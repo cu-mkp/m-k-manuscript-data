@@ -25,7 +25,7 @@ animals: [cheval]
 ## Ramollir le <span class="m">fer</span> @ et le rendre fort<br/> doux
 
  
-Prens sublime <span class="m">chaulx vive</span> <span class="m">savon de <span class="pl">venise</span></span> <span class="m">fiente de <span class="al">cheval</span></span><br/> un peu moings de sublime que des aultres destrempe tout cela<br/> ensemble comme paste & en empaste le <span class="m">fer</span> & lenvelope en cella<br/> avecq quelque meschant <span class="tl">linge</span> puys le fais recuire iusques<br/> a ce quil soict bien rouge Ou bien laisse le <span class="ms">soir</span> dans un<br/> bon foeu iusques au <span class="ms">matin</span> il sera fort doulx pour y bien<br/> graver ce que tu vouldras
+P<span class="exp">rens</span> sublime <span class="m">chaulx vive</span> <span class="m">savon de <span class="pl">venise</span></span> <span class="m">fiente de <span class="al">cheval</span></span><br/> un peu moings de sublime que des aultres destrempe tout cela<br/> ensemble co<span class="exp">mm</span>e paste & en empaste le <span class="m">fer</span> & lenvelope en cella<br/> avecq quelque meschant <span class="tl">linge</span> puys le fais recuire iusques<br/> a ce quil soict bien rouge Ou bien laisse le <span class="ms">soir</span> dans un<br/> bon foeu iusques au <span class="ms">matin</span> il sera fort doulx pour y bien<br/> graver ce que tu vouldras
  
  
   
@@ -41,7 +41,7 @@ On lappelle <span class="m">or</span> de <span class="pl">rheim</span> quon trou
 ## Divers arts d<span class="pl">allemaigne</span>
 
  
-Ils saydent fort des <span class="tl">moulins</span> d<span class="m">eau</span> & la pluspart des<br/> <span class="pro">artisans</span> de <span class="m">metaulx</span> d<span class="m">or</span> & d<span class="m">argent</span> & aultres font a ces<br/> <span class="tl">martinets</span> <span class="del">faire</span> battre leurs grands ouvrages Et pour<br/> tirer le <span class="tl">fil de <span class="m">fer</span></span> ilz rougissent de grandes masses de<br/> <span class="m">fer</span> & luy ayant faict une poincte ilz le font acrocher<br/> ainsy tout rouge & tirent ainsy promptement le fil
+Ils saydent fort des <span class="tl">moulins</span> d<span class="m">eau</span> & la pluspart des<br/> <span class="pro">artisans</span> de <span class="m">metaulx</span> d<span class="m">or</span> & d<span class="m">argent</span> & aultres font a ces<br/> <span class="tl">martinets</span> <span class="del">faire</span> battre leurs grands ouvrages Et pour<br/> tirer le <span class="tl">fil de <span class="m">fer</span></span> ilz rougissent de grandes masses de<br/> <span class="m">fer</span> & luy ayant faict une poincte ilz le font acrocher<br/> ainsy tout rouge & tirent ainsy promptem<span class="exp">ent</span> le fil
  
  
   

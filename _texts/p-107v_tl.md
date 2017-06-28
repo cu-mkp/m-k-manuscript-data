@@ -29,11 +29,11 @@ Good <span class="m">stone alum</span> is white and as shiny as white silk, this
  
 When you cast surround the <span class="m">sand</span> of your mold with very beaten greasy <span class="m">earth</span>. Make a circle around your mold with this <span class="m">earth</span>.
  
-Archanum omnibus fere reconditum est in re fusoria,<br/> videlicet res exprimenda formis, sive <span class="m">herba</span> sit sive <span class="m">animal</span><br/> ut <span class="m">lucerta</span>, inmergatur primum in <span class="m">vini spiritum</span><br/> aprime rectificatum, deinde pulvere composito aspergatur<br/> sive illinatur (si pulvis in formam pultis redactus sit, ut<br/> assolet)
+Archanum omnibus fere reconditum est in re fusoria,<br/> v<span class="exp">idelicet</span> res exprimenda formis, sive <span class="m">herba</span> sit sive <span class="m">animal</span><br/> ut <span class="m">lucerta</span>, inmergatur primum in <span class="m">vini spiritum</span><br/> aprime rectificatum, deinde pulvere composito aspergatur<br/> sive illinatur (si pulvis in formam pultis redactus sit, ut<br/> assolet)
  
 When you want to mold something hollow, the core must be made of the same matter, if the snake or the animal is curved or folded you must do your core in several pieces.
  
-Try to see if distilled <span class="m">vinegar</span> is good for eating away, it will dissolve the <span class="m">animal</span> inside the hollow mold.
+Try <span class="x">to see</span> if distilled <span class="m">vinegar</span> is good for eating away, it will dissolve the <span class="m">animal</span> inside the hollow mold.
  
 > *at left top margin*
 > 

@@ -35,7 +35,7 @@ Moule les a deulx ou trois gects Qui estant recuit souvrira<br/> & il te sera pl
  
   
 
-## Lettre et <span class="m">papier</span> moule
+## Le<span class="exp">tt</span>re et <span class="m">papier</span> moule
 
  
 Escripts de quelque <span class="m">ancre</span> bien gommee ou de quelque couleur<br/> qui aye corps & qui ne se defface point estant mouille d<span class="m">eau<br/> de vye</span> Puys pose ton <span class="m">papier</span> sur la <span class="tl">plastre <span class="m">dardille</span></span> & le<br/> mouille d<span class="m">eau de vye</span> Et gecte dune part & daultre
@@ -54,7 +54,7 @@ Esbauche sur une <span class="m">ardoise</span> bien unye quelque desseing<br/> 
 ## Pour bien apprendre un chien
 
  
-Il le fault tenir attache & quand il fera ce que tu luy<br/> comman des donnes luy pour te fayre aymer du <span class="m">fromage</span><br/> tenu sous l'aisselle qui doit estre une mauvaise drogue &<br/> pour le maistre, sil est rousseau, & pour laprentis aussy
+Il le fault tenir attache & quand il fera ce que tu luy<br/> comma<span class="exp">n</span> des donnes luy pour te fayre aymer du <span class="m">fromage</span><br/> tenu sous l'aisselle qui doit estre une mauvaise drogue &<br/> pour le maistre, sil est rousseau, & pour laprentis aussy
  
  
   
@@ -62,7 +62,7 @@ Il le fault tenir attache & quand il fera ce que tu luy<br/> comman des donnes l
 ## <span class="m">Cires</span> moulees
 
  
-Les figures de <span class="m">cire</span> composee de <span class="m">ceruse</span> & <span class="m">blanc de plomb</span><br/> ne sont pas pour brusler & fondre dans un <span class="tl">moule</span> ou tu veulx<br/> gecter <span class="m">or</span> & <span class="m">argent</span> car cela laigriroit Et puys si tu penses<br/> retirer telles <span class="m">cires</span> composees de choses provenantes des <span class="m">metaux</span><br/> recuisant les <span class="tl">moules</span> tu te tromperois pource que lasperite<br/> du foeu les faisant bouilloner la <span class="m">cire</span> sen va & la composition<br/> de <span class="m">ceruse</span> ou aultre couleur metallique sattaque au <span class="tl">moule</span><br/> Et pour ceste raison si tu veulx esbaucher quelque chose 
+Les figures de <span class="m">cire</span> composee de <span class="m">ceruse</span> & <span class="m">blanc de plomb</span><br/> ne sont pas pour brusler & fondre dans un <span class="tl">moule</span> ou tu veulx<br/> gecter <span class="m">or</span> & <span class="m">argent</span> car cela laigriroit Et puys si tu penses<br/> retirer telles <span class="m">cires</span> composees de choses provena<span class="exp">n</span>tes des <span class="m">metaux</span><br/> recuisant les <span class="tl">moules</span> tu te tromperois pource que lasperite<br/> du foeu les faisant bouilloner la <span class="m">cire</span> sen va & la composition<br/> de <span class="m">ceruse</span> ou aultre couleur metallique sattaque au <span class="tl">moule</span><br/> Et pour ceste raison si tu veulx esbaucher quelque chose 
  
 > *at left bottom margin*
 > 

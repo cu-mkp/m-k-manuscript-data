@@ -56,7 +56,7 @@ You do not need thin sheets of <span class="m">clay</span>, because the herbs an
 > *at bottom margin*
 > 
 > 
->  When very red, cast your tin into the mold when it is so hot that you cannot? hold your finger in the hole without .
+>  When very red, cast your tin into the mold when it is so hot that you can<span class="x">not?</span> hold your finger in the hole without <span class="ill"></span>.
  
 *[continued]*
  

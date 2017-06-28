@@ -25,7 +25,7 @@ animals: []
 ## Nettement travailler
 
  
-Ne poses jamays si tu peulx deulx couleurs lune sur laultre<br/> Mays apres curieusement faict ton desseing garde la place<br/> des ombres seule pour eulx mesmes & des jours & rehaulssement<br/> aussy particulierement sans coucher tout a plat dune couleur &<br/> puys rehaulsser ou bien ombrer sur icelle Et en ceste sorte<br/> tu advances ta besoigne espargnes les couleurs & travailles<br/> nettement qui est cause que les couleurs nestant poinct brouillees ne<br/> meslees ensemble elles ne meurent poinct & tu adoulcis mieulx les<br/> couleurs ne se trouvant pas si espesses
+Ne poses jamays si tu peulx deulx couleurs lune sur laultre<br/> Mays apres curieusem<span class="exp">ent</span> faict ton desseing garde la place<br/> des ombres seule pour eulx mesmes & des jours & rehaulssement<br/> aussy particulierement sans coucher tout a plat dune couleur &<br/> puys rehaulsser ou bien ombrer sur icelle Et en ceste sorte<br/> tu advances ta besoigne espargnes les couleurs & travailles<br/> nettem<span class="exp">ent</span> qui est cause que les couleurs nestant poinct brouillees ne<br/> meslees ensemble elles ne meurent poinct & tu adoulcis mieulx les<br/> couleurs ne se trouvant pas si espesses
  
  
   
@@ -41,7 +41,7 @@ Il nest pas bon a travailler de couleurs pourcequils les<br/> rend espesses & au
 ## <span class="m">Vermeillon</span>
 
  
-Il ne le fault pas tenir en l<span class="m">eau</span> estant <span class="del">tremper</span> <span class="add">broye</span> a <span class="m">huile</span> car<br/> il pert sa couleur Il est mieulx de choisir du <span class="m">vermeillon<br/> blanchastre</span> que <span class="m"><span class="sup">vermeillon</span>obscur</span> & <span class="m"><span class="sup">vermeillon</span>noirastre</span> Car communement le <span class="m">vermeillon</span> se<br/> mesle avecq un peu de <span class="m">laque</span> sans laquelle il ne seroict gueres<br/> different du <span class="m">minium</span> Mays le pasle jecte plus de vivacite que<br/> lobscur Il nest pas desiccatif & pour ceste occasion on y mesle<br/> du <span class="m">cristallin</span> calcine
+Il ne le fault pas tenir en l<span class="m">eau</span> estant <span class="del">tremper</span> <span class="add">broye</span> a <span class="m">huile</span> car<br/> il pert sa couleur Il est mieulx de choisir du <span class="m">vermeillon<br/> blanchastre</span> que <span class="m"><span class="sup">vermeillon</span>obscur</span> & <span class="m"><span class="sup">vermeillon</span>noirastre</span> Car co<span class="exp">mmun</span>em<span class="exp">ent</span> le <span class="m">vermeillon</span> se<br/> mesle avecq un peu de <span class="m">laque</span> sans laquelle il ne seroict gueres<br/> different du <span class="m">minium</span> Mays le pasle jecte plus de vivacite que<br/> lobscur Il nest pas desiccatif & pour ceste occasion on y mesle<br/> du <span class="m">cristallin</span> calcine
  
  
   
@@ -49,7 +49,7 @@ Il ne le fault pas tenir en l<span class="m">eau</span> estant <span class="del"
 ## Couleurs a <span class="m">huile</span> dans l<span class="m">eau</span>
 
  
-Communement apres les avoyr broyees on mect une <span class="del">fo</span> <span class="m">lopin de<br/> foeille d</span>estain dessus & on les mect dans l<span class="m">eau</span> pour les garder<br/> de seicher mays cela est plus propre pour la <span class="m">ceruse blanc de<br/> plomb</span> <span class="m">minium</span> & <span class="m">massicot</span> que pour les aultres Car la <span class="m">laque</span><br/> y meurt & perd sa couleur le <span class="m">vermeillon azur</span> aussy
+Communem<span class="exp">ent</span> apres les avoyr broyees on mect une <span class="del">fo</span> <span class="m">lopin de<br/> foeille d</span>estain dessus & on les mect dans l<span class="m">eau</span> pour les garder<br/> de seicher mays cela est plus propre pour la <span class="m">ceruse blanc de<br/> plomb</span> <span class="m">minium</span> & <span class="m">massicot</span> que pour les aultres Car la <span class="m">laque</span><br/> y meurt & perd sa couleur le <span class="m">vermeillon azur</span> aussy
  
  
   
@@ -57,7 +57,7 @@ Communement apres les avoyr broyees on mect une <span class="del">fo</span> <spa
 ## Double couche
 
  
-Le <span class="m">vert <span class="add">de gris</span></span> ne se meurt poinct & ainsy na point besoing destre couche<br/> deulx foys Mays la <span class="m">laque</span> & aultres & principallement la carnation<br/> <span class="del">le</span> requierent deulx couches Les couleurs ne changent gueres<br/> quand elles sont seiches
+Le <span class="m">vert <span class="add">de gris</span></span> ne se meurt poinct & ainsy na point besoing destre couche<br/> deulx foys Mays la <span class="m">laque</span> & aultres & principallem<span class="exp">ent</span> la carnation<br/> <span class="del">le</span> requierent deulx couches Les couleurs ne changent gueres<br/> quand elles sont seiches
  
  
 > *at left top margin*

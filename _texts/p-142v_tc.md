@@ -30,12 +30,12 @@ Si tu as a mouler un <span class="m">papier</span> escript qui soict trop tanvre
 > *at left top margin*
 > 
 > 
->  Si tu escripts<br/> sur <span class="m">papier</span> ou <span class="m">carton</span><br/> commun & que ta<br/> lettre soict a <span class="m">gomme</span><br/> Lhumidite de la<br/> plaste d<span class="m">ardille</span> ou<br/> le sable destrempe<br/> pour noyau humecteront<br/> ta lettre la defferont<br/> escripts doncq de<br/> <span class="m">cinabre</span> destrempe<br/> a <span class="m">huile</span> sur du<br/> <span class="m">papier</span> <span class="m">huile</span> &<br/> imprime
+>  Si tu escripts<br/> sur <span class="m">papier</span> ou <span class="m">carton</span><br/> commun & que ta<br/> l<span class="exp">ett</span>re soict a <span class="m">gomme</span><br/> Lhumidite de la<br/> plaste d<span class="m">ardille</span> ou<br/> le sable destrempe<br/> pour noyau humectero<span class="exp">n</span>t<br/> ta l<span class="exp">ett</span>re la defferont<br/> escripts doncq de<br/> <span class="m">cinabre</span> destrempe<br/> a <span class="m">huile</span> sur du<br/> <span class="m">papier</span> <span class="m">huile</span> &<br/> imprime
  
 > *at left middle margin*
 > 
 > 
-> \+ @Recuits tes <span class="tl">moules</span><br/> avecq <span class="m">charbons</span> allumes<br/> premierement a la <span class="tl">forge</span><br/> affin que le foeu ne soit pas si violent & ne rompe pas les <span class="tl">moules</span><br/> Et ne faicts pas tant de foeu ou le <span class="tl">moule</span> est<br/> tanvre comme au lieu ou<br/> il est espes
+> \+ @Recuits tes <span class="tl">moules</span><br/> avecq <span class="m">charbons</span> allumes<br/> premierem<span class="exp">ent</span> a la <span class="tl">forge</span><br/> affin que le foeu ne soit pas si violent & ne ro<span class="exp">m</span>pe pas les <span class="tl">moules</span><br/> Et ne faicts pas tant de foeu ou le <span class="tl">moule</span> est<br/> tanvre co<span class="exp">mm</span>e au lieu ou<br/> il est espes
  
  
   
@@ -53,7 +53,7 @@ Fais les coches diceulx qui entrent plus au dedans<br/> du molle quau dehors car
 > *at left middle margin*
 > 
 > 
->  @ Il ne fault poinct<br/> deulx fois recuire les<br/> <span class="tl">moules</span> quand lanimal<br/> se peult retirer sans<br/> brusler comme faict un<br/> <span class="al">crapault</span> qui se peult<br/> bien mouler creux comme tous<br/> animaulx espes toutesfois<br/> il est tousjours bon<br/> de rougir une fois<br/> le <span class="tl">moule</span>
+>  @ Il ne fault poinct<br/> deulx fois recuire les<br/> <span class="tl">moules</span> quand lanimal<br/> se peult retirer sans<br/> brusler co<span class="exp">mm</span>e faict un<br/> <span class="al">crapault</span> qui se peult<br/> bien mouler creux co<span class="exp">mm</span>e tous<br/> animaulx espes toutesfois<br/> il est tousjours bon<br/> de rougir une fois<br/> le <span class="tl">moule</span>
  
  
   
@@ -61,5 +61,5 @@ Fais les coches diceulx qui entrent plus au dedans<br/> du molle quau dehors car
 ## <span class="m">Luth</span> pour <span class="m">luther</span> tes <span class="tl">moules</span>
 
  
-Je nen ay point trouve de plustost faict que cestuy cy<br/> ne de meilleur Prens de ceste <span class="m">terre</span> maigre de laquelle les<br/> <span class="pro">fondeurs dartiglerie</span> & <span class="pro">de cloches</span> font leur trusseaulx<br/> et moules qui est maigre & sabloneuse Destrempe l<span class="del">e</span>a<br/> mediocrement comme <span class="m">mortier</span> fort espes Mesles y environ<br/> la moictie de <span class="m">fiente de cheval</span> & puys la fais battre<br/> fort apres mesles y la tierce partye de <span class="m">bourre descarde</span><br/> ou de <span class="m">tondure de draps</span> Et la bats encores bien fort<br/> Tu peulx recuire ton moule aussy tost que le <span class="m">luth</span><br/> sera pose.
+Je nen ay point trouve de plustost faict que cestuy cy<br/> ne de meilleur P<span class="exp">rens</span> de ceste <span class="m">terre</span> maigre de laquelle les<br/> <span class="pro">fondeurs dartiglerie</span> & <span class="pro">de cloches</span> font leur trusseaulx<br/> et moules qui est maigre & sabloneuse Destrempe l<span class="del">e</span>a<br/> mediocrement comme <span class="m">mortier</span> fort espes Mesles y environ<br/> la moictie de <span class="m">fiente de cheval</span> & puys la fais battre<br/> fort apres mesles y la tierce partye de <span class="m">bourre descarde</span><br/> ou de <span class="m">tondure de draps</span> Et la bats encores bien fort<br/> Tu peulx recuire ton moule aussy tost que le <span class="m">luth</span><br/> sera pose.
  

@@ -25,7 +25,7 @@ animals: []
 ## <span class="m">Talcum</span> mixed with the molds
 
  
-I used the one from which I had extracted the <span class="m">oil</span>. I crushed it very finely even more into a <span class="m">steel</span> mortar with a pestle which was rough like a file. I crushed it very finely into a cottony, downy powder. I mixed it with the <span class="m">sand</span> and soaked both matters together, and I casted it en noyau. It molded very clean and there is no doubt that it will withstand fire.
+I used the one from which I had extracted the <span class="m">oil</span>. I crushed it very finely even more into a <span class="m">steel</span> mortar with a pestle <span class="x">which was</span> rough like a file. I crushed it very finely into a cottony, downy powder. I mixed it with the <span class="m">sand</span> and soaked both matters together, and I casted it en noyau. It molded very clean and there is no doubt that it will withstand fire.
  
  
   
@@ -33,13 +33,13 @@ I used the one from which I had extracted the <span class="m">oil</span>. I crus
 ## <span class="m">Gold</span> casted very thinly
 
  
-When goldsmiths have to solder something quickly but don't have enough time to forge it, they melt <span class="m">gold</span> and then they pour it on a cloth or on anything else that withstands fire. Then they flatten it swiftly with a hammer or another similar tool, and it the gold is very tenuous and it even retains the impression of the cloth.
+When goldsmiths have to solder something quickly but don't have enough time to forge it, they melt <span class="m">gold</span> and then they pour it on a cloth or on anything else that withstands fire. Then they flatten it swiftly with a hammer or another similar tool, and it <span class="x">the gold</span> is very tenuous and it even retains the impression of the cloth.
  
 Unalloyed pure <span class="m">gold</span> can be cast into a medal but not into herbs and lizards or other very delicate things if it is not alloyed.
  
 A <span class="m">pansy</span> which is <span class="m">oiled</span> with <span class="m">wheat oil</span> can be cast with alloyed <span class="m">gold</span>.
  
-And other fruit <span class="m">leaves</span>, but with branches that are not large and especially the leaves, once cast, can be soldered.
+And other fruit <span class="m">leaves</span>, but with branch<span class="x">es</span> that are not large and especially the leaves, once cast, can be soldered.
  
  
   

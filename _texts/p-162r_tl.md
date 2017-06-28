@@ -25,7 +25,7 @@ animals: []
 ## For La Boutique
 
  
- According to Herodotus the Portuguese did not invent deep sea navigation as they put about. At the beginning of the first book entitled Clio, he says that the Phoenicians used to come navigating straight across from the Red Sea to the Greek coast, mainly to Argos, where they would bring merchandise from Egypt and Assyria, which they usually sold out within 6 days.
+ According to Herodotus the Portuguese did not invent <span class="x">deep sea</span> navigation as they put about. At the beginning of the first book entitled Clio, he says that the Phoenicians used to come navigating straight across from the Red Sea to the Greek coast, mainly to Argos, where they would bring merchandise from Egypt and Assyria, which they usually sold out within 6 days.
  
 > *at left top margin*
 > 
@@ -69,5 +69,5 @@ animals: []
 ##  Rotten wood
 
  
- Wood that is white, being light as a sponge, if burnt in a close fire, may be used for casting lead in a box and molds very cleanly, but these things such material do not withstand open? fire. 
+ Wood that is white, being light as a sponge, if burnt in a close fire, may be used for casting lead in a box and molds very cleanly, but these things <span class="x">such material</span> do not withstand <span class="x">open?</span> fire. 
  

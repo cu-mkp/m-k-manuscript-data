@@ -49,7 +49,7 @@ Une lb. & demye de <span class="m">vitriol</span><br/> Aultant de <span class="m
 ## Vaisseaulx de <span class="m">verre</span>
 
  
-Le vaisseau de <span class="m">verre</span> doibt estre faict en poire ou pyramide ronde<br/> de lespesseur dun petit dos de <span class="tl">costeau</span> rond au fonds sans estre replye<br/> comme les ampoulles son ouverture de telle grandeur quune <span class="m">plume d<span class="pl">holande</span></span><br/> y puysse justement entrer & un bord au bout Ainsy de la haulteur<br/> de sept travers de doigt 
+Le vaisseau de <span class="m">verre</span> doibt estre faict en poire ou pyramide ronde<br/> de lespesseur dun petit dos de <span class="tl">costeau</span> rond au fonds sans estre replye<br/> co<span class="exp">mm</span>e les ampoulles son ouverture de telle grandeur quune <span class="m">plume d<span class="pl">holande</span></span><br/> y puysse justem<span class="exp">ent</span> entrer & un bord au bout Ainsy de la haulteur<br/> de sept travers de doigt 
 > *Figure*
 > *at bottom margin*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5MVhNYTRzOXJzR2M" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>

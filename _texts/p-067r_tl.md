@@ -47,7 +47,7 @@ Everything ground & tempered becomes porous, according to some.
 ## <span class="tl">Bellows furnace</span>
 
  
-Before you put in the <span class="m">metal</span>, it is necessary that it be red at the bottom, like like a <span class="m">charcoal</span> & well inflamed. Next, you <span class="del"></span> fill it & cover the <span class="m">charcoal</span> & adjust the <span class="tl">bellows</span>, otherwise the <span class="m">metal</span> on top would melt as a result of the <span class="tl">bellows</span> & its bottom would be curdled & cooled & would not run. But if you proceed in this manner you will melt everything you like.
+Before you put in the <span class="m">metal</span>, it is necessary that it be red at the bottom, like like a <span class="m">charcoal</span> & well inflamed. Next, you <span class="del"><span class="ill"></span></span> fill it & cover the <span class="m">charcoal</span> & adjust the <span class="tl">bellows</span>, otherwise the <span class="m">metal</span> on top would melt as a result of the <span class="tl">bellows</span> & its bottom would be curdled & cooled & would not run. But if you proceed in this manner you will melt everything you like.
  
  
   

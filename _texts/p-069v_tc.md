@@ -27,7 +27,7 @@ Le sable <span class="env">pres de mon sol</span> est fort excellent Mays il<br/
  
 Le <span class="m">sable de pieds de <span class="al">bœuf</span> brusles deulx foys & fort<br/> subtilies</span> font plus net en <span class="m">cuivre</span> & sans chape que sable<br/> que jay veu Jen ay gecte une medaille de relief bien<br/> hault Et <span class="del">f</span> deliee de lespesseur dun tranchant de<br/> <span class="tl">costeau</span> ou dune <span class="tl">carte</span> Et estoict creuse dun coste au droict<br/> du relief qui estoit de laultre part 
  
-Il fault que les <span class="m">sables maigres</span> soient plus humectes<br/> que les aultres scavoir de <span class="m">magistra</span> ou de bon <span class="m">vin pur</span><br/> ou de <span class="m">vin bouilly avecq de la racine d<span class="pa">orme</span></span> & semblables<br/> Mays les <span class="m">sables forts subtils</span> comme le <span class="m">linge brusle</span> qui<br/> est gras & douls de soymesme veult estre aplique sec
+Il fault que les <span class="m">sables maigres</span> soient plus humectes<br/> que les aultres scavoir de <span class="m">magistra</span> ou de bon <span class="m">vin pur</span><br/> ou de <span class="m">vin bouilly avecq de la racine d<span class="pa">orme</span></span> & semblables<br/> Mays les <span class="m">sables forts subtils</span> co<span class="exp">mm</span>e le <span class="m">linge brusle</span> qui<br/> est gras & douls de soymesme veult estre aplique sec
  
 Tout sable humecte veult estre fort battu & demene<br/> pour estre subtilie & aplany des petites glebes qui se<br/> font en luy quand il est baigne 
  
@@ -42,7 +42,7 @@ Les <span class="pro">fondeurs</span> gectent bien chassis jusques a 30 ou 40<br
 > *at left middle margin*
 > 
 > 
->   Il est bon pour grand<br/> ouvrage Mays pour<br/> petit il est malaise<br/> a despouiller <span class="del">Il</span> a<br/> cause quil sesmie<br/> Il est bon quil soit<br/> un peu allié de quelque<br/> chose grasse qui aye<br/> lyaison comme <span class="m">tripoly<br/> Moulee</span> ou <span class="del">ab</span> <span class="m">feultre<br/> brusle</span> ou <span class="m">sel armoniac</span><br/> ou <span class="m">tripoly</span> & semblables
+>   Il est bon pour gra<span class="exp">n</span>d<br/> ouvrage Mays pour<br/> petit il est malaise<br/> a despouiller <span class="del">Il</span> a<br/> cause quil sesmie<br/> Il est bon quil soit<br/> un peu allié de quelque<br/> chose grasse qui aye<br/> lyaison co<span class="exp">mm</span>e <span class="m">tripoly<br/> Moulee</span> ou <span class="del">ab</span> <span class="m">feultre<br/> brusle</span> ou <span class="m">sel armoniac</span><br/> ou <span class="m">tripoly</span> & semblables
  
 *[continued]*
  

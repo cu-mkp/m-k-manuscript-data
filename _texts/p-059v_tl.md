@@ -25,7 +25,7 @@ animals: []
 ## <span class="del">Black</span>Painting of armory
 
  
-<span class="m">Charcoal black</span> mixed with a little <span class="m">lead white</span> is very appropriate to make armory, mixing in a little <span class="del">of </span> <span class="m">azure</span> if you wish. <span class="m">Charcoal <span class="add">black</span></span> by itself is as if bluish.
+<span class="m">Charcoal black</span> mixed with a little <span class="m">lead white</span> is very appropriate to make armory, mixing in a little <span class="del">of <span class="ill"></span></span> <span class="m">azure</span> if you wish. <span class="m">Charcoal <span class="add">black</span></span> by itself is as if bluish.
  
  
   

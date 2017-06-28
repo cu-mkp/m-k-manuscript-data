@@ -33,7 +33,7 @@ Distille l<span class="m">eau de vigne</span> & la mects dans une grande<br/> bo
 ## Chassis des <span class="pl">allemans</span>
 
  
-Les <span class="pl">allemans</span> qui travaillent en petit font des chassis non de<br/> <span class="m">verre</span> Mays de <span class="m">toile</span> oincte de <span class="m">vernis clair de tourmentine</span>,<br/> scavoir <span class="ms">moictie</span> <span class="m">huile de tourmentine</span> & <span class="ms">presque moictie</span> de <span class="m">tourmentine</span><br/> pourceque ce jour qui nest pas si esclatant que du <span class="m">verre</span> leur<br/> faict parroistre les traicts plus gros Et quand ilz veulent<br/> faire quelque chose subtile comme les venes <span class="del">de</span> & semblables choses<br/> ilz usent de <span class="tl">pinceaulx composes de deulx ou trois <span class="m">poils de barbe de <span class="al">rat</span></span></span>.
+Les <span class="pl">allemans</span> qui travaillent en petit font des chassis non de<br/> <span class="m">verre</span> Mays de <span class="m">toile</span> oincte de <span class="m">vernis clair de tourmentine</span>,<br/> scavoir <span class="ms">moictie</span> <span class="m">huile de tourmentine</span> & <span class="ms">presque moictie</span> de <span class="m">tourmentine</span><br/> pourceque ce jour qui nest pas si esclatant que du <span class="m">verre</span> leur<br/> faict parroistre les traicts plus gros Et quand ilz veulent<br/> faire quelque chose subtile co<span class="exp">mm</span>e les venes <span class="del">de</span> & semblables choses<br/> ilz usent de <span class="tl">pinceaulx composes de deulx ou trois <span class="m">poils de barbe de <span class="al">rat</span></span></span>.
  
  
   
@@ -54,5 +54,5 @@ Il fault choisir le plus <span class="del">beau</span> deslie quil sera possible
 ## Broyer couleurs
 
  
-Une table de <span class="del"><span class="m">mabre</span> & p</span> <span class="m">verre</span>espoisse dun <span class="del"><span class="m">verre</span></span> poulce<br/> est plus propre pour broyer nettement les couleurs que chose qui<br/> soict mesmement pour la <span class="m">laque</span> & pour les <span class="m">blancs</span>
+Une table de <span class="del"><span class="m">mabre</span> & p</span> <span class="m">verre</span>espoisse dun <span class="del"><span class="m">verre</span></span> poulce<br/> est plus propre pour broyer nettem<span class="exp">ent</span> les couleurs que chose qui<br/> soict mesmem<span class="exp">ent</span> pour la <span class="m">laque</span> & pour les <span class="m">blancs</span>
  

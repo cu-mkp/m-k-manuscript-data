@@ -23,7 +23,7 @@ animals: []
  
 *[continued]*
   
-broyes apart Quand Il sera bien broye prenes le <span class="m">sel armoniac</span> &<br/> le broyes encores ensemble puys prenes une once d<span class="m">estaing</span> doulz &<br/> une once d<span class="m">argent vif</span> puis faictes fondre vostre <span class="m">estaing</span> & mectes<br/> vostre <span class="m">argent vif</span> goutte a goutte dans vostre <span class="m">estaing</span> en fondant & le<br/> Remues fort Jusques ace quil soit en pouldre
+broyes apart Quand Il sera bien broye prenes le <span class="m">sel armoniac</span> &<br/> le broyes encores ensemble puys prenes une once d<span class="m">estaing</span> doulz &<br/> une once d<span class="m">argent vif</span> puis faictes fondre v<span class="exp">ost</span>re <span class="m">estaing</span> & mectes<br/> v<span class="exp">ost</span>re <span class="m">argent vif</span> goutte a goutte dans v<span class="exp">ost</span>re <span class="m">estaing</span> en fondant & le<br/> Remues fort Jusques ace q<span class="exp">ui</span>l soit en pouldre
  
  
   
@@ -55,5 +55,5 @@ Prenes une <span class="ms">once</span> de <span class="m">tormentine de <span c
 ## Couleur de <span class="m">Cuyvre</span> bruny
 
  
-Prenes une once de <span class="m">sel armoniac</span> avecq une once de<br/> <span class="m">broullaminy</span> et demye de <span class="m">limailhe de cuyvre</span> aveq une once de<br/> <span class="m">souffre</span> & demy sestier de <span class="m">vinaigre</span> bouttes tout dedans ung<br/> petict fourneau de carreaulx Et faictes ung petict foeu de<br/> <span class="m">charbon</span> au tour Et Mectes vostre pot dedans ledict fourneau<br/> toute la journee
+Prenes une once de <span class="m">sel armoniac</span> avecq une once de<br/> <span class="m">broullaminy</span> et demye de <span class="m">limailhe de cuyvre</span> aveq une once de<br/> <span class="m">souffre</span> & demy sestier de <span class="m">vinaigre</span> bouttes tout dedans ung<br/> petict fourneau de carreaulx Et faictes ung petict foeu de<br/> <span class="m">charbon</span> au tour Et Mectes v<span class="exp">ost</span>re pot dedans led<span class="exp">ict</span> fourneau<br/> toute la journee
  

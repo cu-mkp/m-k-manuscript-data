@@ -25,7 +25,7 @@ animals: []
 ## Recuire les <span class="tl">moules</span>
 
  
-Volontiers les <span class="tl">chassis</span> se deseichent & non recuisent<br/> car recuire est proprement faire <span class="del">pour la seconde fois</span> rougir<br/> & enflamber au foeu les <span class="tl">moules</span> Et deseicher est laisser<br/> seicher les <span class="tl">moules</span> deulx mesmes Ou leur faire evaporer leur<br/> humidite les presentant devant foeu de flamme ou de <span class="m">charbon</span><br/> Volontiers les <span class="tl">moules de noyau</span> se recuisent & les <span class="tl">moules<br/> de chassis</span> se deseichent
+Volontiers les <span class="tl">chassis</span> se deseichent & non recuisent<br/> car recuire est proprem<span class="exp">ent</span> faire <span class="del">pour la seconde fois</span> rougir<br/> & enflamber au foeu les <span class="tl">moules</span> Et deseicher est laisser<br/> seicher les <span class="tl">moules</span> deulx mesmes Ou leur faire evaporer leur<br/> humidite les presentant devant foeu de flamme ou de <span class="m">charbon</span><br/> Volontiers les <span class="tl">moules de noyau</span> se recuisent & les <span class="tl">moules<br/> de chassis</span> se deseichent
  
  
   
@@ -33,7 +33,7 @@ Volontiers les <span class="tl">chassis</span> se deseichent & non recuisent<br/
 ## Fumee de <span class="m">letton</span>
 
  
-Il est bon dy recuire les <span class="tl">moules a gecter <span class="m">letton</span></span> car ceste <span class="m"><span class="del">g</span><span class="add">c</span>rasse<br/> jaulne</span> qui semble neantmoins remplir les <span class="tl">moules</span> fait gecter<br/> fort net comme estant de mesme nature
+Il est bon dy recuire les <span class="tl">moules a gecter <span class="m">letton</span></span> car ceste <span class="m"><span class="del">g</span><span class="add">c</span>rasse<br/> jaulne</span> qui semble neantmoins remplir les <span class="tl">moules</span> fait gecter<br/> fort net co<span class="exp">mm</span>e esta<span class="exp">n</span>t de mesme nature
  
  
   
@@ -49,7 +49,7 @@ Quand il est fondu il est bon dy gecter un peu d<span class="m">estaing fin</spa
 ## <span class="m">Terre ardille</span>
 
  
-Ceste cy humectee & bien battue & pestrie comme tu scais test<br/> necessaire pour faire le contour pour contennir tes <span class="tl">moules</span><br/> Mays advise qu<span class="del">i</span><span class="add">e</span>l<span class="add">le</span> ne soit pas trop molle Ains comme a demy<br/> seiche quelle <span class="sn">ne sattaque point aulx <span class="tl"><span class="bp">mains</span></span></span> pour ce que autrement<br/> elle sattaqueroit a la besoigne Tiens la tousjours <span class="env">en<br/> lieu humide</span> et fais y des trous et les emplys d<span class="m">eau</span> pour la tenir<br/> fraische
+Ceste cy humectee & bien battue & pestrie co<span class="exp">mm</span>e tu scais test<br/> necessaire pour faire le contour pour contennir tes <span class="tl">moules</span><br/> Mays advise qu<span class="del">i</span><span class="add">e</span>l<span class="add">le</span> ne soit pas trop molle Ains co<span class="exp">mm</span>e a demy<br/> seiche quelle <span class="sn">ne sattaque point aulx <span class="tl"><span class="bp">mains</span></span></span> pour ce que autrem<span class="exp">ent</span><br/> elle sattaqueroit a la besoigne Tiens la tousjours <span class="env">en<br/> lieu humide</span> et fais y des trous et les emplys d<span class="m">eau</span> pour la tenir<br/> fraische
  
 > *at left middle margin*
 > 
@@ -75,5 +75,5 @@ Ceste cy humectee & bien battue & pestrie comme tu scais test<br/> necessaire po
 ## <span class="m">Fil de fer</span>
 
  
-Il ten fault avoyr aussy provision de diverses grosseurs<br/> selon les <span class="tl">moules</span> que tu veulx faire de <span class="ms">gros comme ffisselle de moing …</span><br/> & du <span class="ms">delie <span class="del">p</span> comme grosse corde d<span class="mu">espinette</span> pour les petits ouvrages</span><br/> Tu en fais estant <span class="del">de</span> recuit des crampons pour fermer les<br/> <span class="tl">moules</span> & des poinctes comme aiguilles de diverses longueurs selon<br/> ton besoing pour piquer sur lanimal a mouler & le tenir subgect<br/> Les <span class="tl">aiguilles</span> ny seroient pas bonnes pource quil fault que ses<br/> poinctes soient vuides & de mesme grosseur par tout si ce nest a<br/> la poincte Et puys il les fault faire longues comme tu en as<br/> affaire Le <span class="m">fil de fer</span> est plus ferme que <span class="m">celuy de letton</span>
+Il ten fault avoyr aussy provision de diverses grosseurs<br/> selon les <span class="tl">moules</span> que tu veulx faire de <span class="ms">gros co<span class="exp">mm</span>e ffisselle de moing …</span><br/> & du <span class="ms">delie <span class="del">p</span> co<span class="exp">mm</span>e grosse corde d<span class="mu">espinette</span> pour les petits ouvrages</span><br/> Tu en fais estant <span class="del">de</span> recuit des crampons pour fermer les<br/> <span class="tl">moules</span> & des poinctes co<span class="exp">mm</span>e aiguilles de diverses longueurs selon<br/> ton besoing pour piquer sur lanimal a mouler & le tenir subgect<br/> Les <span class="tl">aiguilles</span> ny seroient pas bonnes pource quil fault que ses<br/> poinctes soient vuides & de mesme grosseur par tout si ce nest a<br/> la poincte Et puys il les fault faire longues co<span class="exp">mm</span>e tu en as<br/> affaire Le <span class="m">fil de fer</span> est plus ferme que <span class="m">celuy de letton</span>
  

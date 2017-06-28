@@ -52,5 +52,5 @@ Dry some <span class="m">bread</span> in an oven, then stick <span class="m">clo
 ## Keeping birds and animals
 
  
-Take a measurement from the part of their body that is fleshy and more susceptible to decay, with some <span class="m">canvas</span> that you shall cut according to their size and width. Having filled this with <span class="m">cotton</span> and stitched it, skin them. But leave the head, neck, wings and feet of birds, and head, legs, feet and tail of animals, because those dry easily. Then use that <span class="m">skin</span> to dress the mold made of <span class="m">canvas</span>. Small ones can be dried in an oven or covered in <span class="m">sel ammoniac</span> and <span class="m">(?)</span>.
+Take a measurement from <span class="x">the part of</span> their body that is fleshy and more susceptible to decay, with some <span class="m">canvas</span> that you shall cut according to their size and width. Having filled this with <span class="m">cotton</span> and stitched it, skin them. But leave the head, neck, wings and feet of birds, and head, legs, feet and tail of animals, because those dry easily. Then use that <span class="m">skin</span> to dress the mold made of <span class="m">canvas</span>. Small ones can be dried in an oven or covered in <span class="m">sel ammoniac</span> and <span class="m">(?)</span>.
  

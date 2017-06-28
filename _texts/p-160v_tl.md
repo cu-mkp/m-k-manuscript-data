@@ -25,7 +25,7 @@ animals: []
 ## Moulding a foot or a hand
 
  
-Mix <span class="m">resin</span> to the <span class="m">wax</span>. Once well blended, soften the mixture in hot <span class="m">water</span> or <span class="m">urine</span>. Then press the foot or the hand in the mixture in order to get an impress, then pour <span class="m">plaster;</span> the cast will which will be clean and come off easily.
+Mix <span class="m">resin</span> to the <span class="m">wax</span>. Once well blended, soften the mixture in hot <span class="m">water</span> or <span class="m">urine</span>. Then press <span class="x">the foot or the hand</span> in the mixture in order to get an impress, then pour <span class="m">plaster;</span> the cast will which will be clean and come off easily.
  
  
   
@@ -57,7 +57,7 @@ If they sleep in the farmyard, like they commonly do, close to the house, let th
 ## Catching birds
 
  
-During winter, when birds have molted, skin them and fill them with cloth and stuffing, or dry them well in an oven. Then arrange your birds on trees, have some look like they are singing, look like they have assembled and are numerous.
+During winter, when birds have molted, skin them and fill them with cloth and stuffing, or dry them well in an oven. Then arrange your birds on trees, have some <span class="x">look like they are</span> singing, <span class="x">look like they have assembled</span> and are numerous.
  
-the oven must not be too hot. This method is good in the summer, because flies would set into the eyes and make works before they birds could dry. You can work on the birds more easily in the winter, because they dry by themselves.
+the oven must not be too hot. This <span class="x">method</span> is good in the summer, because flies would set into the eyes and make works before they <span class="x">birds</span> could dry. You can work on the birds more easily in the winter, because they dry by themselves.
  

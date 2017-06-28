@@ -23,7 +23,7 @@ animals: [pigeon]
  
 *[continued]*
   
-Leurs <span class="tl">marteaulx</span> doibvent estre bien unis & polis et si par<br/> cas fortuit la rouille <span class="del">les</span> ou aultre usage les ha endomages<br/> ilz les polissent premierement avecq <span class="m">pouldre desmery</span> puys<br/> les achevent de brunir & adoulcir avecq de la <span class="m">potee</span><br/> Aultrement ilz ne battroient pas net Il fault aussy que<br/> le plan des <span class="tl">enclumes</span> soict de mesme
+Leurs <span class="tl">marteaulx</span> doibvent estre bien unis & polis et si par<br/> cas fortuit la rouille <span class="del">les</span> ou aultre usage les ha endomages<br/> ilz les polissent premierem<span class="exp">ent</span> avecq <span class="m">pouldre desmery</span> puys<br/> les achevent de brunir & adoulcir avecq de la <span class="m">potee</span><br/> Aultrem<span class="exp">ent</span> ilz ne battroient pas net Il fault aussy que<br/> le plan des <span class="tl">enclumes</span> soict de mesme
  
  
   
@@ -39,7 +39,7 @@ Estant bien prise si tu veulx quelle gecte force<br/> branches layant labouree m
 ## <span class="m">Eaulx</span> coulourees
 
  
-L<span class="m">urine</span> distillee Le <span class="m">vinaigre</span> distille et l<span class="m">eau de<br/> vye</span> prenent taincture caerulee & verte de l<span class="m">aes ustum</span><br/> pulverise et subtilement broye Et ceste taincture est<br/> <span class="m">cuivre rouge</span> en sa resideue Si tu distilles les susdictes<br/> choses par <span class="tl">filtre</span>
+L<span class="m">urine</span> distillee Le <span class="m">vinaigre</span> distille et l<span class="m">eau de<br/> vye</span> prenent taincture caerulee & verte de l<span class="m">aes ustum</span><br/> pulverise et subtilem<span class="exp">ent</span> broye Et ceste taincture est<br/> <span class="m">cuivre rouge</span> en sa resideue Si tu distilles les susdictes<br/> choses par <span class="tl">filtre</span>
  
  
   
@@ -47,7 +47,7 @@ L<span class="m">urine</span> distillee Le <span class="m">vinaigre</span> disti
 ## <span class="m">Vernis</span> durant a l<span class="m">eau</span>
 
  
-Le <span class="m">vernis de <span class="pl">flandres</span></span> faict de <span class="m">tourmentine</span> & <span class="m">huile</span> dicelle<br/> ou de <span class="m">mastic</span> se peult oster et ne soubstient poinct <span class="env">a la pluye</span><br/> Mays celuy qui est faict d<span class="m">huile de noix blanche</span> comme tu la<br/> fais tient <span class="env">a la pluye</span> est fort cler & beau & bien tost sec<br/> Cest pourquoy on use diceluy aulx banieres & enseignes<br/> painctes quon porte <span class="env">a la pluye</span>
+Le <span class="m">vernis de <span class="pl">flandres</span></span> faict de <span class="m">tourmentine</span> & <span class="m">huile</span> dicelle<br/> ou de <span class="m">mastic</span> se peult oster et ne soubstient poinct <span class="env">a la pluye</span><br/> Mays celuy qui est faict d<span class="m">huile de noix blanche</span> co<span class="exp">mm</span>e tu la<br/> fais tient <span class="env">a la pluye</span> est fort cler & beau & bien tost sec<br/> Cest pourquoy on use diceluy aulx banieres & enseignes<br/> painctes quon porte <span class="env">a la pluye</span>
  
  
   
@@ -55,5 +55,5 @@ Le <span class="m">vernis de <span class="pl">flandres</span></span> faict de <s
 ## Fruict de <span class="m">sucre</span>
 
  
-On ne les paint pas au <span class="tl">pinceau</span> comme les aultres <span class="del">s</span> choses<br/> de couleur destrempee pourceque le <span class="m">sucre</span> se fondroit<br/> Mays on les frotte de couleur avecq le <span class="tl"><span class="bp">doigt</span></span>
+On ne les paint pas au <span class="tl">pinceau</span> co<span class="exp">mm</span>e les aultres <span class="del">s</span> choses<br/> de couleur destrempee pourceque le <span class="m">sucre</span> se fondroit<br/> Mays on les frotte de couleur avecq le <span class="tl"><span class="bp">doigt</span></span>
  

@@ -40,7 +40,7 @@ You find an earth in <span class="pl">Germany</span>, the color of cooked plaste
 > *at left middle margin*
 > 
 > 
->   <span class="m">spat</span> almost does not set, even if it is reheated and even if it is a kind of <span class="m">plaster</span>, which you can easily break with your fingers.
+>   <span class="m">spat</span> almost does not set, even if it is reheated and <span class="x">even if</span> it is a kind of <span class="m">plaster</span>, which you can easily break with your fingers.
  
  
   

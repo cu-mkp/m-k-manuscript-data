@@ -25,7 +25,7 @@ animals: []
 ## <span class="m">Esmail</span>
 
  
-L<span class="m">esmail</span> prend plus volontiers sur le <span class="m">cuivre</span> que sur l<span class="m">argent</span><br/> il est vray quil fault que la taille soict bien creuse & rude<br/> L<span class="m">azur</span> en corps & le rouge quon appelle gueule l<span class="m">esmail</span> blanc<br/> & le verd espes y prenent fort bien Ayant <span class="m">esmaille</span> on <span class="m">dore</span><br/> les foeillages de la taille<span class="del"></span> Le <span class="m">cuivre</span> a mesme durte a tailler<br/> que l<span class="m">argent fin</span> ou l<span class="m">or de <span class="cn">pistolet</span></span>
+L<span class="m">esmail</span> prend plus volontiers sur le <span class="m">cuivre</span> que sur l<span class="m">argent</span><br/> il est vray quil fault que la taille soict bien creuse & rude<br/> L<span class="m">azur</span> en corps & le rouge quon appelle gueule l<span class="m">esmail</span> blanc<br/> & le verd espes y prenent fort bien Ayant <span class="m">esmaille</span> on <span class="m">dore</span><br/> les foeillages de la taille<span class="del"><span class="ill"></span></span> Le <span class="m">cuivre</span> a mesme durte a tailler<br/> que l<span class="m">argent fin</span> ou l<span class="m">or de <span class="cn">pistolet</span></span>
  
  
   

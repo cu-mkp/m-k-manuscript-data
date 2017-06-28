@@ -27,9 +27,9 @@ Le bout sachepte tout faict a douzaine qui couste six sols<br/> des petits Mays 
  
 Les gardes sont de plusieurs sortes<br/> A ouvraiges<br/> A goutiere qui est a mouleures rondes<br/> A <span class="m">perles</span><br/> A escharpe quand les bandes sont de travers<br/> A oignon qui est teste platte<br/> A mode de roy qui sont plaines
  
-Les <span class="pro">forbisseurs</span> les achaptent a douzaines la douzaine<br/> des pleines coste communem x lb La piece douvraige 30 sl ou<br/> selon sa facon
+Les <span class="pro">forbisseurs</span> les achaptent a douzaines la douzaine<br/> des pleines coste co<span class="exp">mmun</span>em x lb La piece douvraige 30 sl ou<br/> selon sa facon
  
-La premiere chose que faict l<span class="pro">aprentis</span> cest de fourbir<br/> comme dict est
+La premiere chose que faict l<span class="pro">aprentis</span> cest de fourbir<br/> co<span class="exp">mm</span>e dict est
  
 Et apres de garnir lespee & faire un fourreau qui est<br/> le parfait de lart
  
@@ -37,7 +37,7 @@ Ils acheptent les <span class="m">boys</span> des fourreaulx qui sont de <span c
  
 Ces <span class="m">boys</span> sappellent ainssy Estelles qui doibvent estre bien nettes<br/> & sans noeuds & ont un travers de doigt despes
  
-Puys le <span class="pro">fourbisseur</span> les mect sur un petit banc appele le<br/> banc des fourreaulx Et avecq ung <span class="del">plane</span> petit <span class="m">fer</span> comme celuy<br/> du banc des <span class="pro">menusiers</span> ilz le font tenir ferme Puys avecq<br/> une <span class="del">plane</span> plane qui est comme un costeau a deulx manches<br/> on esbauche le <span class="m">boys</span> par dessus apres on y passe le rabot pour<br/> mieulx laplanir Apres par le dedans on le recure avecq une
+Puys le <span class="pro">fourbisseur</span> les mect sur un petit banc appele le<br/> banc des fourreaulx Et avecq ung <span class="del">plane</span> petit <span class="m">fer</span> co<span class="exp">mm</span>e celuy<br/> du banc des <span class="pro">menusiers</span> ilz le font tenir ferme Puys avecq<br/> une <span class="del">plane</span> plane qui est co<span class="exp">mm</span>e un costeau a deulx manches<br/> on esbauche le <span class="m">boys</span> par dessus apres on y passe le rabot pour<br/> mieulx laplanir Apres par le dedans on le recure avecq une
  
 *[continued]*
  

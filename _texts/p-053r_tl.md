@@ -25,7 +25,7 @@ animals: [cuttlefish, horse, oxen, sheep]
 ## Soldering a vise
 
  
-It is good that the jaws of the vise should be high for use in making a long piece, and that they join well to clamp a thin object. In order to solder the nut, after you have made the bolt, you will make a long <span class="m">iron</span> strip of the right thickness to fit into the notch of the bolt when red hot, and you will bend it all around the bolt by striking it with a hammer. Once it is well wrapped around, you will insert the bolt around which the nut is wrapped.
+It is good that the jaws of the vise should be high for use in making a long piece, and that they join well to clamp a thin object. In order to solder the nut, after you have made the bolt, you will make a long <span class="m">iron</span> strip of the right thickness to fit into the notch of the bolt when red hot, and you will bend it all around <span class="x">the bolt</span> by striking it with a hammer. Once it is well wrapped around, you will insert the bolt around which the nut is wrapped.
  
  
   
@@ -41,7 +41,7 @@ If, in the fire &melting, it touches the <span class="m">iron</span>, this <span
 ## <span class="m">Lead</span> casting
 
  
-One mixes it, according to some, with <span class="ms">half</span> <span class="m">tin</span> & <span class="ms">half</span> <span class="m">lead</span> and, to <span class="add">heat</span> <span class="del"></span> it, one mixes in a little <span class="m">sublimate</span>. It casts well in small sizes in a <span class="m"><span class="al">cuttlefish</span> bone</span>, provided it is good.
+One mixes it, according to some, with <span class="ms">half</span> <span class="m">tin</span> & <span class="ms">half</span> <span class="m">lead</span> and, to <span class="add">heat</span> <span class="del"><span class="ill"></span></span> it, one mixes in a little <span class="m">sublimate</span>. It casts well in small sizes in a <span class="m"><span class="al">cuttlefish</span> bone</span>, provided it is good.
  
  
   
@@ -57,7 +57,7 @@ Boil <span class="add">over hot <span class="m">ashes</span></span> some <span c
 ## Almond trees, apricot trees
 
  
-They grow quite straight if they are grafted. And every kind of tree whose fruit has pits, such as nectarines, peaches, clingstone—peaches, apricots etc., comes best by shield budding on an almond tree by.
+They grow quite straight if they are grafted. And every kind of tree <span class="x">whose fruit has</span> pits, such as nectarines, peaches, clingstone—peaches, apricots etc., comes best by shield budding on an almond tree by.
  
  
   

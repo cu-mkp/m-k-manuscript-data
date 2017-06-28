@@ -25,7 +25,7 @@ animals: []
 ## Poncis pour esgratigner sur le<br/> <span class="m">satin</span>
 
  
-Apres que tu as ponce avecq de la <span class="m">farine</span> ou <span class="m">croye broyee</span><br/> affin que les poincts du poncis ne seffacent suys la trace<br/> avecq de la <span class="m">glaire</span> battue avecq du <span class="m">laict</span> ou <span class="m">escorce de <span class="pa">figuier</span></span><br/> ce qui la fera incontinent esclarcir comme <span class="m">eau</span> & sans faire<br/> corps elle gardera la trace que resuivras & esgratigneras<br/> avecq <span class="del">d</span> un <span class="tl">lopin de <span class="m">verre</span></span> ou <span class="tl">trancheplume</span>
+Apres que tu as ponce avecq de la <span class="m">farine</span> ou <span class="m">croye broyee</span><br/> affin que les poincts du poncis ne seffacent suys la trace<br/> avecq de la <span class="m">glaire</span> battue avecq du <span class="m">laict</span> ou <span class="m">escorce de <span class="pa">figuier</span></span><br/> ce qui la fera incontinent esclarcir co<span class="exp">mm</span>e <span class="m">eau</span> & sans faire<br/> corps elle gardera la trace que resuivras & esgratigneras<br/> avecq <span class="del">d</span> un <span class="tl">lopin de <span class="m">verre</span></span> ou <span class="tl">trancheplume</span>
  
  
   
@@ -65,5 +65,5 @@ Suis les traicts avecq de la <span class="m">laque</span> broyee avecq<br/> <spa
 ## <span class="m">Vernis blanc</span> sur le <span class="m">plastre</span>
 
  
-Donne deulx ou trois <span class="ms"><span class="bp">mains</span></span> de <span class="m">colle bien blanche</span> pour<br/> paindre Apres vernis de <span class="m">vernis de <span class="m">sandarache</span> <span class="m">huile<br/> d<span class="pa">aspic</span></span> et un peu de <span class="m">mastic</span></span> Et le mectre <span class="tmp">au soir</span> dedans<br/> un <span class="tl">vaisseau</span> tout ensemble bien pile sans foeu qui le<br/> feroit venir jaulne puys avecq un <span class="tl">pinceau</span> il est sec<br/> incontinent Coule l<span class="m">huile</span> qui aura pris la substance
+Donne deulx ou trois <span class="ms"><span class="bp">mains</span></span> de <span class="m">colle bien blanche</span> pour<br/> paindre Apres vernis de <span class="m">vernis de <span class="m">sandarache</span> <span class="m">huile<br/> d<span class="pa">aspic</span></span> et un peu de <span class="m">mastic</span></span> Et le mectre <span class="tmp">au soir</span> dedans<br/> un <span class="tl">vaisseau</span> tout ensemble bien pile sans foeu qui le<br/> feroit venir jaulne puys avecq un <span class="tl">pinceau</span> il est sec<br/> incontinent Coule l<span class="m">huile</span> qui aura pris la substa<span class="exp">n</span>ce
  

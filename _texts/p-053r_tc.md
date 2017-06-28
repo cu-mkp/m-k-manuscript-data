@@ -41,7 +41,7 @@ Si au foeu & a la fonte il touche le <span class="m">fer</span> Ce <span class="
 ## Gect de <span class="m">plomb</span>
 
  
-On le mesle selon aulcuns <span class="ms">moictie</span> d<span class="m">estain</span> & <span class="ms">moictie</span> <span class="m">plomb</span><br/> et pour lesch<span class="del"></span><span class="add">afer</span> on y mesle un peu de <span class="m">sublime</span> Il se gecte bien<br/> en petit dans l<span class="m">os de <span class="al">seiche</span></span> pourveu quil soict bon
+On le mesle selon aulcuns <span class="ms">moictie</span> d<span class="m">estain</span> & <span class="ms">moictie</span> <span class="m">plomb</span><br/> et pour lesch<span class="del"><span class="ill"></span></span><span class="add">afer</span> on y mesle un peu de <span class="m">sublime</span> Il se gecte bien<br/> en petit dans l<span class="m">os de <span class="al">seiche</span></span> pourveu quil soict bon
  
  
   
@@ -49,7 +49,7 @@ On le mesle selon aulcuns <span class="ms">moictie</span> d<span class="m">estai
 ## Mouler de <span class="m">papier</span>
 
  
-Fais bouillir <span class="add">sur <span class="m">cendres</span> chauldes</span> du <span class="m">cotton</span> en <span class="m">eau fort</span> meslee de <span class="m">sel ammoniac</span><br/> comme <span class="m">eau regale</span> Et le <span class="m">cotton</span> viendra fort subtil comme pouldre<br/> destrempe le apres avecq <span class="m">eau gommee</span> & mouleras fort delicat
+Fais bouillir <span class="add">sur <span class="m">cendres</span> chauldes</span> du <span class="m">cotton</span> en <span class="m">eau fort</span> meslee de <span class="m">sel ammoniac</span><br/> co<span class="exp">mm</span>e <span class="m">eau regale</span> Et le <span class="m">cotton</span> viendra fort subtil co<span class="exp">mm</span>e pouldre<br/> destrempe le apres avecq <span class="m">eau gommee</span> & mouleras fort delicat
  
  
   
@@ -57,7 +57,7 @@ Fais bouillir <span class="add">sur <span class="m">cendres</span> chauldes</spa
 ## Amendiers abricots
 
  
-Ils viennent bien droicts si on les hante Et touts arbres<br/> de noyau comme pavis mericotons alberges <span class="del">vie</span> abricots & viennent<br/> mieulx hantes sur lamendier en escusson
+Ils viennent bien droicts si on les hante Et touts arbres<br/> de noyau co<span class="exp">mm</span>e pavis mericotons alberges <span class="del">vie</span> abricots & viennent<br/> mieulx hantes sur lamendier en escusson
  
  
   

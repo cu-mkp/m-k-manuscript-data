@@ -33,7 +33,7 @@ Small barbet dogs are recognizable thanks to their muzzle which is larger than t
 ## Salted <span class="m">artichokes</span>
 
  
-One should put them fill and not too ripe in a small barrel full of <span class="m">brine</span>. Then can be served all year long, with salads, <span class="m">oil</span> and <span class="m">vinegar</span>, raw, as prepared in this way they take long to cook. Make sure to try your <span class="m">brine</span> with an <span class="m">egg</span>: if it is good, the <span class="m">egg</span> will float in it. If it does not float, it means the <span class="m">brine</span> is not strong enough and would not conserve the <span class="m">fruits</span>.
+One should put them fill and not too ripe in a small barrel full of <span class="m">brine</span>. Then can be served all year long, with salads, <span class="m">oil</span> and <span class="m">vinegar</span>, raw, as prepared in this way they take long to cook. Make sure to try your <span class="m">brine</span> with an <span class="m">egg</span>: if it is good, the <span class="m">egg</span> will float in it. If it does not float, it means <span class="x">the <span class="m">brine</span></span> is not strong enough and would not conserve the <span class="m">fruits</span>.
  
  
   

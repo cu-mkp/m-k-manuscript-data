@@ -25,7 +25,7 @@ animals: []
 ## <span class="pa">Visme</span>
 
  
-Il se peult planter comme la <span class="pa">ronce</span> des deulx costes & ceulx qui<br/> plantent le gros pied contre mont disent quil faict plus grosse<br/> souche Mays il ny ha que la poincte en hault car il croist<br/> plus hault
+Il se peult planter co<span class="exp">mm</span>e la <span class="pa">ronce</span> des deulx costes & ceulx qui<br/> plantent le gros pied contre mont disent quil faict plus grosse<br/> souche Mays il ny ha que la poincte en hault car il croist<br/> plus hault
  
  
   
@@ -57,7 +57,7 @@ On trouve par experience que le greffe qui <span class="del">est</span> ha son e
 ## <span class="pro">Boulangier</span>
 
  
-La <span class="m">poulsiere</span> garde le <span class="m">bled</span> de cussonner Et pour le bien<br/> nettoyer quand il est tache & comme rouille Passe des <span class="m">cendres</span><br/> par le tamis & les mesle avecq le <span class="m">bled</span> puys bellute<br/> le tout avecq un belluteau de grosse <span class="m">toile</span> ou <span class="m">canevas</span><br/> les <span class="m">cendres</span> passeront & ton <span class="m">bled</span> demeurera jaulne net & fort<br/> beau
+La <span class="m">poulsiere</span> garde le <span class="m">bled</span> de cussonner Et pour le bien<br/> nettoyer quand il est tache & co<span class="exp">mm</span>e rouille Passe des <span class="m">cendres</span><br/> par le tamis & les mesle avecq le <span class="m">bled</span> puys bellute<br/> le tout avecq un belluteau de grosse <span class="m">toile</span> ou <span class="m">canevas</span><br/> les <span class="m">cendres</span> passeront & ton <span class="m">bled</span> demeurera jaulne net & fort<br/> beau
  
  
   

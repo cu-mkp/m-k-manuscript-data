@@ -36,7 +36,7 @@ animals: [lizard, wall lizard]
  
   
 
-## Sand made of <span class="m">crocum ferri</span>
+## Sand made of <span class="m">crocum <span class="x">ferri</span></span>
 
  
  You can use the mixture made of <span class="m">crocum ferri</span> to cast <span class="m">silver</span> or <span class="m">gold</span>, this mixture will make these casts firm, and prevent these from cracking and making burrs. And I believe that for flat things, it would withstand severa casts. Which however is not commonly done for <span class="m">gold</span> and <span class="m">silver</span>.

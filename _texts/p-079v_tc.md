@@ -23,7 +23,7 @@ animals: [porc]
  
 *[continued]*
   
-et mectes le dedans ung pot de <span class="m">terre</span> & quil y ayt<br/> forces <span class="m">cendres</span> chauldes dessoubz & feres petit a<br/> petit du foeu dessoubz de plus en plus & ne le<br/> fault pas bouger & quand il sera cuit & si fault<br/> quil soit six heures & gardes que la fumee ne vous<br/> face mal car est maulvaix
+et mectes le dedans ung pot de <span class="m">terre</span> & quil y ayt<br/> forces <span class="m">cendres</span> chauldes dessoubz & feres petit a<br/> petit du foeu dessoubz de plus en plus & ne le<br/> fault pas bouger & quand il sera cuit & si fault<br/> q<span class="exp">u</span>il soit six heures & gardes q<span class="exp">ue</span> la fumee ne vous<br/> face mal car est maulvaix
 
  
   
@@ -31,7 +31,7 @@ et mectes le dedans ung pot de <span class="m">terre</span> & quil y ayt<br/> fo
 ## Pour faire <span class="m">verny</span>
 
  
-Prenes <span class="m">Masticq</span> <span class="m">sang <span class="del">daRage</span> <span class="add">darac</span></span> <span class="m">Gomme aRabic</span> &<br/> <span class="m">Huille d<span class="pa">aspic</span></span> aultant dung que daultre & les faictes<br/> fondre ensemble & devant que le coucher couchez une<br/> couche de <span class="m">colle bien clere</span> & le laisses seicher
+Prenes <span class="m">Masticq</span> <span class="m">sang <span class="del">daRage</span> <span class="add">darac</span></span> <span class="m">Gomme aRabic</span> &<br/> <span class="m">Huille d<span class="pa">aspic</span></span> aultant dung q<span class="exp">ue</span> dau<span class="exp">ltr</span>e & les faictes<br/> fondre ensemble & devant que le coucher couchez une<br/> couche de <span class="m">colle bien clere</span> & le laisses seicher
  
  
   

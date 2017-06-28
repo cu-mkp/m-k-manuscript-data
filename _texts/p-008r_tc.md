@@ -22,10 +22,10 @@ animals: []
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-008r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f21.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>008r</a> - - - - - </div>  
   
 
-## Lettre d<span class="m">or</span> sur <span class="m">papier</span>
+## L<span class="exp">ett</span>re d<span class="m">or</span> sur <span class="m">papier</span>
 
  
-Escripts avecq du <span class="m">laict de <span class="pa">figuier</span></span> puys laisse un peu<br/> seicher apres pose l<span class="m">or</span> en feuille & estant bien sec frotte<br/> avecq un <span class="tl"><span class="m">linge</span></span> et la seule lettre demeurera
+Escripts avecq du <span class="m">laict de <span class="pa">figuier</span></span> puys laisse un peu<br/> seicher apres pose l<span class="m">or</span> en feuille & estant bien sec frotte<br/> avecq un <span class="tl"><span class="m">linge</span></span> et la seule l<span class="exp">ett</span>re demeurera
  
  
   

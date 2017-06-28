@@ -31,7 +31,7 @@ Quand il ha mange quelque chose en le tourmentant<br/> il le rend Et si apres av
 ## <span class="tl">Moules</span>
 
  
-Il ny a rien mieulx pour les faire ouvrir que de les<br/> oindre d<span class="m">huile d<span class="pa">olif</span></span> & non daultre Et apres quand<br/> tu les veulx desjoindre Trempe les dans de l<span class="m">eau<br/> froide</span> qui est le secret <span class="del">L</span><span class="add">E</span>t tu verras que l<span class="m">huile</span> encores<br/> quil semble estre imbu Se retirera a part comme une grasse<br/> Les <span class="al">moules</span> se rendent plus fortes dans l<span class="m">eau froide</span> Et<br/> l<span class="m">eau chaulde</span> malaisement les dissouldroit Encores questants<br/> recuits ilz soient plus maniables & aises a dissouldre<br/> dans l<span class="m">eau</span>
+Il ny a rien mieulx pour les faire ouvrir que de les<br/> oindre d<span class="m">huile d<span class="pa">olif</span></span> & non daultre Et apres quand<br/> tu les veulx desjoindre Trempe les dans de l<span class="m">eau<br/> froide</span> qui est le secret <span class="del">L</span><span class="add">E</span>t tu verras que l<span class="m">huile</span> encores<br/> quil semble estre imbu Se retirera a part co<span class="exp">mm</span>e une grasse<br/> Les <span class="al">moules</span> se rendent plus fortes dans l<span class="m">eau froide</span> Et<br/> l<span class="m">eau chaulde</span> malaisem<span class="exp">ent</span> les dissouldroit Encores questa<span class="exp">n</span>ts<br/> recuits ilz soient plus maniables & aises a dissouldre<br/> dans l<span class="m">eau</span>
 
  
   
@@ -44,7 +44,7 @@ Se faict sur une <span class="tl">lame de <span class="m">fer</span></span> roug
 > *at left middle margin*
 > 
 > 
->  #<br/> Si tu veulx mouler<br/> quelque chose delicate<br/> comme une <span class="pa">fleur de<br/> pensee</span> Aulcuns<br/> pour luy donner un<br/> peu despesseur<br/> plus que le naturel<br/> Aulcuns la frottent<br/> de <span class="m">beurre</span> Mays il<br/> est mieulx de loingdre<br/> d<span class="m">huile de <span class="pa">froment</span></span><br/> car il nha pas de corps<br/> & ne bouche pas<br/> tant les petits<br/> lineaments Et<br/> si faict affermir<br/> la fleur
+>  #<br/> Si tu veulx mouler<br/> quelque chose delicate<br/> co<span class="exp">mm</span>e une <span class="pa">fleur de<br/> pensee</span> Aulcuns<br/> pour luy donner un<br/> peu despesseur<br/> plus que le naturel<br/> Aulcuns la frottent<br/> de <span class="m">beurre</span> Mays il<br/> est mieulx de loingdre<br/> d<span class="m">huile de <span class="pa">froment</span></span><br/> car il nha pas de corps<br/> & ne bouche pas<br/> tant les petits<br/> lineaments Et<br/> si faict affermir<br/> la fleur
 
  
   
@@ -52,12 +52,12 @@ Se faict sur une <span class="tl">lame de <span class="m">fer</span></span> roug
 ## Gect de <span class="m">plomb</span> et <span class="m">estaim</span>
 
  
-Pourceque l<span class="m">estaim</span> veult estre gecte fort tanvre Si ta medaille<br/> herbe ou aultre chose a mouler est <span class="del">espe</span> tanvre & subtile fais quil<br/> y aye plus d<span class="m">estaim</span> beaucoup plus que de <span class="m">plomb</span> Scavoir moins<br/> que la <span class="ms">quarte partie</span> de <span class="m">plomb</span> sur <span class="ms">trois</span> d<span class="m">estaim</span> Et encores ne<br/> mect on le <span class="m">plomb</span> que pour lalier Au contraire si tu veulx<br/> mouler quelque chose forte & espesse Mays beaucoup plus<br/> de <span class="m">plomb</span> que d<span class="m">estaim</span> Et en lun & laultre tu peulx mectre<br/> un peu d<span class="m">estaim de glace</span> mays fort peu avecq un peu de <span class="m">rousine</span><br/> quand tu vouldras gecter <span class="add">Despuys en moulant de <span class="m">plomb fin</span> et<br/> noeuf jay mis sur une <span class="ms">lb</span> deulx <span class="ms">onces</span> d<span class="m">estaim fin</span> Et moulant<br/> d<span class="m">estaim fin</span> jy ay mis ii <span class="ms">℥</span> de <span class="m">plomb fin</span> pour <span class="ms">lb</span>Jay faict des<br/> herbes & <span class="al">serpents</span> comme le naturel</span>
+Pourceque l<span class="m">estaim</span> veult estre gecte fort tanvre Si ta medaille<br/> herbe ou aultre chose a mouler est <span class="del">espe</span> tanvre & subtile fais quil<br/> y aye plus d<span class="m">estaim</span> beaucoup plus que de <span class="m">plomb</span> Scavoir moins<br/> que la <span class="ms">quarte partie</span> de <span class="m">plomb</span> sur <span class="ms">trois</span> d<span class="m">estaim</span> Et encores ne<br/> mect on le <span class="m">plomb</span> que pour lalier Au contraire si tu veulx<br/> mouler quelque chose forte & espesse Mays beaucoup plus<br/> de <span class="m">plomb</span> que d<span class="m">estaim</span> Et en lun & laultre tu peulx mectre<br/> un peu d<span class="m">estaim de glace</span> mays fort peu avecq un peu de <span class="m">rousine</span><br/> quand tu vouldras gecter <span class="add">Despuys en moulant de <span class="m">plomb fin</span> et<br/> noeuf jay mis sur une <span class="ms">lb</span> deulx <span class="ms">onces</span> d<span class="m">estaim fin</span> Et moulant<br/> d<span class="m">estaim fin</span> jy ay mis ii <span class="ms">℥</span> de <span class="m">plomb fin</span> pour <span class="ms">lb</span>Jay faict des<br/> herbes & <span class="al">serpents</span> co<span class="exp">mm</span>e le naturel</span>
  
 > *at left bottom margin*
 > 
 > 
-> <span class="del">S</span>
+> <span class="del">S<span class="ill"></span></span>
  
 > *at left bottom margin*
 > 

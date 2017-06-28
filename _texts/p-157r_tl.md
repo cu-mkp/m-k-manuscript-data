@@ -33,7 +33,7 @@ animals: []
 ## Bright red
 
  
- Some <span class="pro">goldsmiths</span> try it out on finely beaten gold that is well burnished with a chisel. But it is better to try it out on a <span class="m">gold</span> ingot, and to test it as well on a work or  your materials fantastic, since if they look good & extraordinary on a big work, they will show excellently on a common work.
+ Some <span class="pro">goldsmiths</span> try it out on finely beaten gold that is well burnished with a chisel. But it is better to try it out on a <span class="m">gold</span> ingot, and to test it as well on a work or <span class="ill"></span> your materials fantastic, since if they look good & extraordinary on a big work, they will show excellently on a common work.
  
  
   

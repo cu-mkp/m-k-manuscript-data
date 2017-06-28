@@ -23,7 +23,7 @@ animals: []
  
 *[continued]*
   
-& de ses conduicts & abrevouers tu y peulx mectre aussy de<br/> petits fils de <span class="m">cire</span> qui se raportent au corps Affin que<br/> le <span class="m">metal</span> aille plus aysement dune partye a laultre & coure<br/> promptement par tout Et de ses conduicts tu peulx mener<br/> ton gect & tes souspirails sans gaster aulcune chose
+& de ses conduicts & abrevouers tu y peulx mectre aussy de<br/> petits fils de <span class="m">cire</span> qui se raportent au corps Affin que<br/> le <span class="m">metal</span> aille plus aysem<span class="exp">ent</span> dune partye a laultre & coure<br/> promptement par tout Et de ses conduicts tu peulx mener<br/> ton gect & tes souspirails sans gaster aulcune chose
  
 > *at left top margin*
 > 
@@ -44,12 +44,12 @@ animals: []
 ## <span class="m">Plastre</span>
 
  
-Quand tu <span class="del">v</span> moules quelque chose pour y gecter de la<br/> <span class="m">cire</span> tu moules de <span class="m">plastre</span> seul recuit apres estre pulverise<br/> Car estant recuit en <span class="m">pierre</span> la superficie se cuist & le dedans<br/> demeure presque crud Le <span class="m">plastre gris transparent</span> nest<br/> pas fort Mays <span class="m">celuy est bon qui estant destrempe est blanc</span><br/> & faict bien tost prise Toutesfoys le gris ay je trouve bien<br/> ferme & dur apres avoyr faict prise Mays il y est plus<br/> long Il fault cognoistre le naturel de chascun <span class="del">Si tu</span> Tu<br/> ne mouleras jamays bien net Si ne tu ne destrempes bien clair<br/> & liquide ton <span class="m">plastre</span> ou sable de noyau Destrempe le <span class="del"><span class="tl">mortier</span></span><br/> bien tost apres quil ha este recuit
+Quand tu <span class="del">v</span> moules quelque chose pour y gecter de la<br/> <span class="m">cire</span> tu moules de <span class="m">plastre</span> seul recuit apres estre pulverise<br/> Car esta<span class="exp">n</span>t recuit en <span class="m">pierre</span> la superficie se cuist & le dedans<br/> demeure presque crud Le <span class="m">plastre gris transparent</span> nest<br/> pas fort Mays <span class="m">celuy est bon qui esta<span class="exp">nt</span> destrempe est blanc</span><br/> & faict bien tost prise Toutesfoys le gris ay je trouve bien<br/> ferme & dur apres avoyr faict prise Mays il y est plus<br/> long Il fault cognoistre le naturel de chascun <span class="del">Si tu</span> Tu<br/> ne mouleras jamays bien net Si ne tu ne destrempes bien clair<br/> & liquide ton <span class="m">plastre</span> ou sable de noyau Destrempe le <span class="del"><span class="tl">mortier</span></span><br/> bien tost apres quil ha este recuit
  
 > *at left middle margin*
 > 
 > 
->   Si tu moules de<br/> <span class="m">plastre</span> <span class="del">crud</span> seul<br/> recuit toutesfoys<br/> comme dit est Il fault bien <span class="m">huiler</span><br/> le premier<br/> <span class="tl">moule</span> Et quand<br/> le second aura<br/> faict bonne prise<br/> Et que lauras<br/> pare Trempe<br/> long temps dans<br/> l<span class="m">eau</span> Et sil ne se<br/> veult despouiller<br/> trempe le dans<br/> l<span class="m">eau chaulde</span> car<br/> l<span class="m">eau<br/> froide</span><br/> le durcit Et l<span class="m">eau chaulde</span><br/> le remollist<br/> dadvantage<br/> L<span class="m">eau froide</span><br/> ne le penetre pas<br/> comme le mixtionne<br/> pourcequil est<br/> plus dur & le<br/> mixtionne est<br/> plus spongieulx<br/> De ce <span class="m">plastre</span><br/> ainsy recuit en pouldre<br/> il sen gecte des medailles<br/> quil ne craignent point les<br/> pluyes mesmement si elles sont<br/> vernies On les tient en <span class="pl">allemaigne</span><br/> <span class="env">sur les maisons</span> Mays advise que l<span class="m">eau</span> soict fort chaulde & si elle est<br/> bouillante il ny ha point de danger Tous <span class="tl">moules de <span class="m">plastre</span></span> seulx ou mixtionne sy<br/> despouillent
+>   Si tu moules de<br/> <span class="m">plastre</span> <span class="del">crud</span> seul<br/> recuit toutesfoys<br/> co<span class="exp">mm</span>e dit est Il fault bien <span class="m">huiler</span><br/> le premier<br/> <span class="tl">moule</span> Et qua<span class="exp">n</span>d<br/> le second aura<br/> faict bonne prise<br/> Et que lauras<br/> pare Trempe<br/> long temps dans<br/> l<span class="m">eau</span> Et sil ne se<br/> veult despouiller<br/> trempe le dans<br/> l<span class="m">eau chaulde</span> car<br/> l<span class="m">eau<br/> froide</span><br/> le durcit Et l<span class="m">eau chaulde</span><br/> le remollist<br/> dadvantage<br/> L<span class="m">eau froide</span><br/> ne le penetre pas<br/> co<span class="exp">mm</span>e le mixtionne<br/> pourcequil est<br/> plus dur & le<br/> mixtionne est<br/> plus spongieulx<br/> De ce <span class="m">plastre</span><br/> ainsy recuit en pouldre<br/> il sen gecte des medailles<br/> quil ne craignent point les<br/> pluyes mesmem<span class="exp">en</span>t si elles sont<br/> vernies On les tient en <span class="pl">allemaigne</span><br/> <span class="env">sur les maisons</span> Mays advise que l<span class="m">eau</span> soict fort chaulde & si elle est<br/> bouillante il ny ha point de danger Tous <span class="tl">moules de <span class="m">plastre</span></span> seulx ou mixtionne sy<br/> despouillent
  
  
   
@@ -62,7 +62,7 @@ Quand tu <span class="del">v</span> moules quelque chose pour y gecter de la<br/
 > 
 >   A Scavoir 
  
-Les <span class="pro">ouvriers</span> de <span class="pl">damas</span> ou d<span class="pl">hongrie</span> voisins des <span class="pl">turcs</span><br/> separent aulx mines le <span class="m">fer</span> davecq l<span class="m">acier</span> Et de ce premier<br/> <span class="m">acier</span> fondu premierement de sa mine ilz gectent en sable des<br/> <span class="del">sab</span> lames de cimeterre qui couppent apres laultre <span class="m">fer</span><br/> sans grande difficulte pourceque tout <span class="m">fer</span> fondu est plus<br/> dur que le <span class="m">fer</span> douls battu en gueuses & barres Ainsy est<br/> de l<span class="m">acier</span> des cimeterres Mays il est fort brusc Quand on<br/> des<span class="del">b</span>manche un cimeterre on cognoist bien par la queue<br/> qui entre dans le manche quil est gecte en sable
+Les <span class="pro">ouvriers</span> de <span class="pl">damas</span> ou d<span class="pl">hongrie</span> voisins des <span class="pl">turcs</span><br/> separent aulx mines le <span class="m">fer</span> davecq l<span class="m">acier</span> Et de ce premier<br/> <span class="m">acier</span> fondu premierem<span class="exp">ent</span> de sa mine ilz gectent en sable des<br/> <span class="del">sab</span> lames de cimeterre qui couppent apres laultre <span class="m">fer</span><br/> sans grande difficulte pourceque tout <span class="m">fer</span> fondu est plus<br/> dur que le <span class="m">fer</span> douls battu en gueuses & barres Ainsy est<br/> de l<span class="m">acier</span> des cimeterres Mays il est fort brusc Quand on<br/> des<span class="del">b</span>manche un cimeterre on cognoist bien par la queue<br/> qui entre dans le manche quil est gecte en sable
  
  
   
@@ -70,7 +70,7 @@ Les <span class="pro">ouvriers</span> de <span class="pl">damas</span> ou d<span
 ## <span class="sn">Ouyr</span> de loing
 
  
-Fais un petit trou en <span class="m">terre</span> & y pose de <span class="tmp">nuict</span> ou en temps de<br/> Silence l<span class="bp">oreille</span> justement & tu <span class="sn">entendras</span> aysement la rumeur
+Fais un petit trou en <span class="m">terre</span> & y pose de <span class="tmp">nuict</span> ou en temps de<br/> Silence l<span class="bp">oreille</span> justem<span class="exp">ent</span> & tu <span class="sn">entendras</span> aysem<span class="exp">ent</span> la rumeur
  
  
   

@@ -38,7 +38,7 @@ If the <span class="pro">shearer</span> wounds them at some point, he applies th
 > *at left middle margin*
 > 
 > 
->   If the <span class="pro">shearer</span> wants to 'viscorter' them, that is to castrate them as they are one or two years old, he must not have been with his wife, because this would cause the <span class="al">sheep</span> to die. 
+>   If the <span class="pro">shearer</span> wants to 'viscorter' them, that is to castrate them as <span class="x">they</span> are one or two years old, he must not have been with his wife, because this would cause the <span class="al">sheep</span> to die. 
  
  
   

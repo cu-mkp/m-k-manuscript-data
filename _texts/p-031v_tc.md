@@ -25,9 +25,9 @@ animals: []
 ## <span class="pro">Painctre</span>
 
  
-Les <span class="pro">scribes</span> font le renfondrement de la <span class="m">laque</span> &<br/> aultres couleurs de vestements avecq du <span class="m">iaulne doeuf</span><br/> mays cela est tromperie et nest pas douree
+Les <span class="pro">scribes</span> font le renfondrem<span class="exp">ent</span> de la <span class="m">laque</span> &<br/> aultres couleurs de vestements avecq du <span class="m">iaulne doeuf</span><br/> mays cela est tromperie et nest pas douree
  
-Les aultres glassent avecq de la <span class="m">glaire doeuf</span> les<br/> <span class="m">rouges de mine</span> & daultres qui ne sont pas belles a<br/> <span class="m">huile</span> <span class="del">M</span> Et semble faict a <span class="m">huile</span> Mais l<span class="env">humidite</span> corrompt<br/> tout cella
+Les aultres glassent avecq de la <span class="m">glaire doeuf</span> les<br/> <span class="m">rouges de mine</span> & daultres qui ne sont pas belles a<br/> <span class="m">huile</span> <span class="del">M</span> Et semble faict a <span class="m">huile</span> Mais l<span class="env">humidite</span> corro<span class="exp">m</span>pt<br/> tout cella
  
  
   
@@ -35,7 +35,7 @@ Les aultres glassent avecq de la <span class="m">glaire doeuf</span> les<br/> <s
 ## <span class="tl">Broisses</span>
 
  
-Prens de celles qui ont un peu servy aulx <span class="pro">blanchisseurs</span><br/> de <span class="m">chaulx vive</span> car lasperite de la <span class="m">chaulx</span> & lusage<br/> les rend plus maniables
+Prens de celles qui ont un peu servy aulx <span class="pro">blanchisse<span class="exp">ur</span>s</span><br/> de <span class="m">chaulx vive</span> car lasperite de la <span class="m">chaulx</span> & lusage<br/> les rend plus maniables
  
  
   
@@ -51,5 +51,5 @@ Il ne fault pas entreprendre dy travailler en <span class="env">temps<br/> obscu
 ## Paindre daprest
 
  
-Pour le bleu ilz prenent de l<span class="m">azur desmail</span> du plus<br/> gros & le broyent sur une <span class="tl"><span class="m">escaille</span></span> & y meslent deulx ou trois<br/> <span class="ms">patenostres</span> de <span class="m">roquaille</span> ou plus selon la quantite de la besoigne<br/> Et ayant faict leur desseing de <span class="m">noir descaille</span> (qui se paint<br/> vers le jour et la piece de <span class="m">verre</span> droicte) Ils couchent toutes<br/> leurs pieces sur du <span class="m">papier blanc</span> <span class="del">quand</span> pour cognoistre par<br/> la blancheur du <span class="m">papier</span> le jour de leurs histoires et <span class="del">as</span> y assoir<br/> les couleurs qui sont dune sorte tout a un coup Puys ilz<br/> recuisent
+Pour le bleu ilz prenent de l<span class="m">azur desmail</span> du plus<br/> gros & le broyent sur une <span class="tl"><span class="m">escaille</span></span> & y meslent deulx ou trois<br/> <span class="ms">patenostres</span> de <span class="m">roquaille</span> ou plus selon la qua<span class="exp">n</span>tite de la besoigne<br/> Et ayant faict leur desseing de <span class="m">noir descaille</span> (qui se paint<br/> vers le jour et la piece de <span class="m">verre</span> droicte) Ils couchent toutes<br/> leurs pieces sur du <span class="m">papier blanc</span> <span class="del">quand</span> pour cognoistre par<br/> la blancheur du <span class="m">papier</span> le jour de leurs histoires et <span class="del">as</span> y assoir<br/> les couleurs qui sont dune sorte tout a un coup Puys ilz<br/> recuisent
  

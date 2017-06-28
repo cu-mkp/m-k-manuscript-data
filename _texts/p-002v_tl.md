@@ -29,7 +29,7 @@ Practica, cioè nova inventione di contegiare, stampata in <span class="pl">Bres
 ## <span class="m">Emeralds of Brissac</span>
 
 </span> 
-I took <span class="m">minium</span>, 26 ℥, <span class="m">crystal</span> <span class="add">… and ground on marble</span> 12 ℥, <span class="m">verdigris</span>3 |ʒ|. Incorporated all together. Put in a crucible covered by another well luted crucible with a hole on top. Melting: 7 hours without blowing. The mass came out a fine green.
+I took <span class="m">minium</span>, 26 ℥, <span class="m">crystal</span> <span class="add"><span class="x">…</span> and ground on marble</span> 12 ℥, <span class="m">verdigris</span>3 |ʒ|. Incorporated all together. Put in a crucible covered by another well luted crucible with a hole on top. Melting: 7 hours without blowing. The mass came out a fine green.
  
 I took <span class="m">minium</span>, 12 ℥, <span class="m">crystal</span>, 6 ℥, <span class="m">verdigris</span>, 2 grains. Melting: moderate, vi hours, baked 24 hours. The mass came out green, yellow and red.
  
@@ -39,5 +39,5 @@ I took <span class="m">minium</span>, 12 ℥, <span class="m">crystal</span>, 6 
 ## <span class="m">Sapphire</span>
 
  
-<span class="m">Pebbles</span> or <span class="m">crystal</span>, 8 ℥; <span class="m">minium</span>, 16 ℥; <span class="m"><span class="pro">smith</span>'s salt</span>, 4 ℥; sparkling <span class="m">coryal</span>, 4 grains. Melting: 6 ? hours.
+<span class="m">Pebbles</span> or <span class="m">crystal</span>, 8 ℥; <span class="m">minium</span>, 16 ℥; <span class="m"><span class="pro">smith</span>'s salt</span>, 4 ℥; sparkling <span class="m">coryal</span>, 4 grains. Melting: 6 <span class="x">?</span> hours.
  

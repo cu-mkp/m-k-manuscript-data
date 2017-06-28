@@ -25,12 +25,12 @@ animals: [chancre, serpents, escrevisse, Cerf volant]
 ## Mouler un <span class="al">chancre</span>
 
  
-Cest un secret et chef doeuvre de le bien mouler pourceque<br/> il y faut proceder aultrement quaulx aultres animaulx<br/> A cause que sa coquille est fort difficille a bien brusler &<br/> pour ceste occasion il <span class="del">le</span> fault quelque fois recuire<br/> le <span class="tl">moule</span> trois ou quattre foys Et avecq tout cela il<br/> laisse une crouste dure grise comme <span class="m">cendre</span> Mays pourceque<br/> il ne se moule pas dune piece & dun gect comme les herbes<br/> Ains a deulx gects comme les <span class="al">serpents</span> qui sont bien en<br/> despouille On enleve ceste croste <span class="add">non avecq <span class="m">vif argent</span> qui ny</span> apres quil est ouvert<br/> avecq une forte subtile poincte de <span class="tl">trancheplume</span> avecq dexterite<br/> tout ainsy que ces petites croustes du second gect qui<br/> entrent dans les retirements qua faict le sable ou<br/> lanimal moule Mays A cause quil ha les pattes<br/> courbes Icy est la finesse & secret de le despouiller<br/> Doncq comme tu las moule dun coste qui est par le dos<br/> a la facon des aultres Descouvre luy le ventre &<br/> toutes ses pates courbes Fais ton second gect a la<br/> facon des aultres Mays comme il aura faict sa prise<br/> Garde toy bien douvrir le <span class="tl">moule</span> Que tu ne layes<br/> premierement fort recuit Aultrement a cause de ses<br/> pates courbes tu romprois tout En quoy gist la<br/> dexterite Si tu cognois apres lavoir bien recuit &<br/> ouvert que la croste ne soict pas asses bruslee recuits<br/> tant quelle le fasse
+Cest un secret et chef doeuvre de le bien mouler pourceque<br/> il y faut proceder aultrement quaulx aultres animaulx<br/> A cause que sa coquille est fort difficille a bien brusler &<br/> pour ceste occasion il <span class="del">le</span> fault quelque fois recuire<br/> le <span class="tl">moule</span> trois ou quattre foys Et avecq tout cela il<br/> laisse une crouste dure grise co<span class="exp">mm</span>e <span class="m">cendre</span> Mays pourceque<br/> il ne se moule pas dune piece & dun gect co<span class="exp">mm</span>e les herbes<br/> Ains a deulx gects co<span class="exp">mm</span>e les <span class="al">serpents</span> qui sont bien en<br/> despouille On enleve ceste croste <span class="add">non avecq <span class="m">vif argent</span> qui ny</span> apres quil est ouvert<br/> avecq une forte subtile poincte de <span class="tl">trancheplume</span> avecq dexterite<br/> tout ainsy que ces petites croustes du second gect qui<br/> entrent dans les retirements qua faict le sable ou<br/> lanimal moule Mays A cause quil ha les pattes<br/> courbes Icy est la finesse & secret de le despouiller<br/> Doncq co<span class="exp">mm</span>e tu las moule dun coste qui est par le dos<br/> a la facon des aultres Descouvre luy le ventre &<br/> toutes ses pates courbes Fais ton second gect a la<br/> facon des aultres Mays co<span class="exp">mm</span>e il aura faict sa prise<br/> Garde toy bien douvrir le <span class="tl">moule</span> Que tu ne layes<br/> premierem<span class="exp">ent</span> fort recuit Aultrement a cause de ses<br/> pates courbes tu romprois tout En quoy gist la<br/> dexterite Si tu cognois apres lavoir bien recuit &<br/> ouvert que la croste ne soict pas asses bruslee recuits<br/> tant quelle le fasse
  
 > *at left top margin*
 > 
 > 
->   Il se painct comme<br/> l<span class="al">escrevisse</span>
+>   Il se painct co<span class="exp">mm</span>e<br/> l<span class="al">escrevisse</span>
  
 > *at left top margin*
 > 
@@ -48,7 +48,7 @@ Cest un secret et chef doeuvre de le bien mouler pourceque<br/> il y faut proced
 ## <span class="al">Cerf volant</span>
 
  
-Il est aussy difficile a brusler comme le <span class="al">chancre</span> partant<br/> fais pour luy comme tu as fait du <span class="al">chancre</span>
+Il est aussy difficile a brusler comme le <span class="al">chancre</span> parta<span class="exp">n</span>t<br/> fais pour luy co<span class="exp">mm</span>e tu as fait du <span class="al">chancre</span>
  
  
   

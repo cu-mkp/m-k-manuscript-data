@@ -31,7 +31,7 @@ dune patte jusques a laultre affin que les extremites<br/> escartees se viennent
 ## Carquans faicts a jour
 
  
-Ilz se moulent comme les <span class="al">escrevisses</span> en noyau premierement<br/> dun coste estant rehaulsses d<span class="m">ardille</span> ce qui est cave & puys<br/> on les descouvre de laultre & on faict le second gect<br/> Ils se peuvent bien aussy gecter en chassis pourveu quilz<br/> soient bien en despouille Silz ne le sont on les esbauche<br/> en <span class="m">cire</span> ou bien on remplist les cavites qui ne peulvent<br/> despouiller de <span class="m">cire</span> ou <span class="m">ardille</span>
+Ilz se moulent comme les <span class="al">escrevisses</span> en noyau premierem<span class="exp">ent</span><br/> dun coste estant rehaulsses d<span class="m">ardille</span> ce qui est cave & puys<br/> on les descouvre de laultre & on faict le second gect<br/> Ils se peuvent bien aussy gecter en chassis pourveu quilz<br/> soient bien en despouille Silz ne le sont on les esbauche<br/> en <span class="m">cire</span> ou bien on remplist les cavites qui ne peulvent<br/> despouiller de <span class="m">cire</span> ou <span class="m">ardille</span>
 
  
   
@@ -39,7 +39,7 @@ Ilz se moulent comme les <span class="al">escrevisses</span> en noyau premiereme
 ## <span class="m">Limaille de fer</span>
 
  
-Pourceque communement la <span class="m">limaille</span> est meslee dordures Il est<br/> bon de la rougir au foeu pour brusler les immundices<br/> Et puys la laver en <span class="m">eau claire</span> En ceste sorte les<br/> salettes iront au dessus de l<span class="m">eau</span> que tu gecteras & la<br/> bonne <span class="m">limaille</span> ira au fons
+Pourceque co<span class="exp">mmun</span>ement la <span class="m">limaille</span> est meslee dordures Il est<br/> bon de la rougir au foeu pour brusler les immundices<br/> Et puys la laver en <span class="m">eau claire</span> En ceste sorte les<br/> salettes iront au dessus de l<span class="m">eau</span> que tu gecteras & la<br/> bonne <span class="m">limaille</span> ira au fons
 
  
   

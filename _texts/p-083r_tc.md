@@ -25,12 +25,12 @@ animals: [cheval]
 ## Sable @pour le <span class="m">plomb</span>
 
  
-Recipe <span class="m">suye grise du fourneau des <span class="pro">argentiers</span></span> <span class="m">chaulx vive</span> et<br/> <span class="m">farine ana</span> humecte selon lart estant le plus subtilie quil te sera<br/> possible
+R<span class="exp">ecipe</span> <span class="m">suye grise du fourneau des <span class="pro">argentiers</span></span> <span class="m">chaulx vive</span> et<br/> <span class="m">farine ana</span> humecte selon lart estant le plus subtilie quil te sera<br/> possible
  
 > *at left top margin*
 > 
 > 
->   La <span class="m">suye grise des <span class="pro">sarruriers</span></span><br/> qui se tient a leur <span class="tl">forge</span> est fort<br/> subtile estant broyee moule fort net<br/> & despouille<br/> fort bien
+>   La <span class="m">suye grise des <span class="pro">sarruriers</span></span><br/> qui se tient a leur <span class="tl">forge</span> est fort<br/> subtile esta<span class="exp">n</span>t broyee moule fort net<br/> & despouille<br/> fort bien
  
  
   
@@ -38,7 +38,7 @@ Recipe <span class="m">suye grise du fourneau des <span class="pro">argentiers</
 ## Sable pour medailles de <span class="m">cuivre</span>
 
  
-Recipe <span class="m">feultre de chappeau brusle</span> <span class="add">a feu couvert</span> <span class="m">mache de fer</span> & <span class="m">os brusle</span> tout<br/> fort subtillement broye & pile & arrouse avecq <span class="m">eau sel</span> & en fais<br/> paste & moule & essuye a feu de <span class="m">paille</span> <span class="add">@Ces trois sables pulverises<br/> et subtilies bien fort sur le <span class="tl"><span class="m">porphire</span></span> moulent fort et croy que separement chascun<br/> est fort bon Le <span class="m">feultre brusle</span> moule fort net et despose<br/> fort net</span>
+R<span class="exp">ecipe</span> <span class="m">feultre de chappeau brusle</span> <span class="add">a feu couvert</span> <span class="m">mache de fer</span> & <span class="m">os brusle</span> tout<br/> fort subtillement broye & pile & arrouse avecq <span class="m">eau sel</span> & en fais<br/> paste & moule & essuye a feu de <span class="m">paille</span> <span class="add">@Ces trois sables pulverises<br/> et subtilies bien fort sur le <span class="tl"><span class="m">porphire</span></span> moulent fort et croy que separem<span class="exp">ent</span> chascun<br/> est fort bon Le <span class="m">feultre brusle</span> moule fort net et despose<br/> fort net</span>
  
 > *at left top margin*
 > 
@@ -59,7 +59,7 @@ Recipe <span class="m">feultre de chappeau brusle</span> <span class="add">a feu
 ## Aultre pour le <span class="m">plomb</span>
 
  
-Recipe <span class="m">ardoise subtillement pillee</span> & <span class="m">pierre ponce <span class="del">calcinee</span></span> meslee tout ensemble<br/> calcines les dans un <span class="tl">pot</span> bien couvert & estoupe a bon foeu par trois<br/> fois & a chasque fois destrempes les avecq du <span class="m">vernis</span>
+R<span class="exp">ecipe</span> <span class="m">ardoise subtillem<span class="exp">ent</span> pillee</span> & <span class="m">pierre ponce <span class="del">calcinee</span></span> meslee tout ensemble<br/> calcines les dans un <span class="tl">pot</span> bien couvert & estoupe a bon foeu par trois<br/> fois & a chasque fois destrempes les avecq du <span class="m">vernis</span>
  
  
   
@@ -67,12 +67,12 @@ Recipe <span class="m">ardoise subtillement pillee</span> & <span class="m">pier
 ## Aultre
 
  
-Recipe <span class="del">p</span> <span class="m">tuile peu cuitte broyee</span> & destrempee de <span class="m">vin blanc</span> avecq du<br/> <span class="m">papier de trasse noir brusle</span> & si tu y adjoustes de la <span class="m">fiente de<br/> <span class="al">cheval</span> bruslee</span> elle nen sera que meilleure humecte avecq <span class="m">glaire doeuf</span>
+R<span class="exp">ecipe</span> <span class="del">p</span> <span class="m">tuile peu cuitte broyee</span> & destrempee de <span class="m">vin blanc</span> avecq du<br/> <span class="m">papier de trasse noir brusle</span> & si tu y adjoustes de la <span class="m">fiente de<br/> <span class="al">cheval</span> bruslee</span> elle nen sera que meilleure humecte avecq <span class="m">glaire doeuf</span>
  
 > *at left bottom margin*
 > 
 > 
->   Le <span class="m">papier de<br/> trasse brusle</span><br/> a foeu clos se<br/> reduict comme en<br/> <span class="m">charbon</span> & noir<br/> fort doulx moule<br/> net & faict bien<br/> despouiller<br/> mesle parmy les<br/> aultres
+>   Le <span class="m">papier de<br/> trasse brusle</span><br/> a foeu clos se<br/> reduict co<span class="exp">mm</span>e en<br/> <span class="m">charbon</span> & noir<br/> fort doulx moule<br/> net & faict bien<br/> despouiller<br/> mesle parmy les<br/> aultres
  
  
   
@@ -80,5 +80,5 @@ Recipe <span class="del">p</span> <span class="m">tuile peu cuitte broyee</span>
 ## Sable excellent
 
  
-<span class="m">Albastre calcine</span> dans un <span class="tl">crusol</span> a foeu de <span class="m">charbon</span> tant quen le<br/> touchant il vienne en pouldre Estant froit pulverises le subtilement<br/> & passes par un <span class="tl">double tamis</span> & le rendes comme impalpable Et <span class="del">d</span> avecq<br/> une <span class="ms">lb</span> de <span class="m">albastre</span> il fault une <span class="ms">℥</span> de <span class="m">sel armoniac</span> Mesles bien<br/> & incorpores tout ensemble Puys le mettes dans une <span class="del"><span class="env">cave</span></span> <span class="env">cave</span> ou<br/> <span class="env">lieu humide</span> et de ceste paste moulles ce quil vous fauldra & apres<br/> seiches le <span class="tl">moule</span> au foeu & y gectes tel <span class="m">metal</span> quil vous plaira<br/> pendant que le sable est chault & vous gecteres aussy net que le principal<br/> & le sable sert tousjours le mectant en <span class="env">lieu humide</span> & seichant au foeu
+<span class="m">Albastre calcine</span> dans un <span class="tl">crusol</span> a foeu de <span class="m">charbon</span> tant quen le<br/> touchant il vienne en pouldre Esta<span class="exp">n</span>t froit pulverises le subtilem<span class="exp">ent</span><br/> & passes par un <span class="tl">double tamis</span> & le rendes co<span class="exp">mm</span>e impalpable Et <span class="del">d</span> avecq<br/> une <span class="ms">lb</span> de <span class="m">albastre</span> il fault une <span class="ms">℥</span> de <span class="m">sel armoniac</span> Mesles bien<br/> & incorpores tout ensemble Puys le mettes dans une <span class="del"><span class="env">cave</span></span> <span class="env">cave</span> ou<br/> <span class="env">lieu humide</span> et de ceste paste moulles ce quil vous fauldra & apres<br/> seiches le <span class="tl">moule</span> au foeu & y gectes tel <span class="m">metal</span> quil vous plaira<br/> pendant que le sable est chault & vous gecteres aussy net que le principal<br/> & le sable sert tousjours le mecta<span class="exp">n</span>t en <span class="env">lieu humide</span> & seichant au foeu
  

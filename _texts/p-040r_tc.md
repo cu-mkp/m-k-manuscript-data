@@ -23,7 +23,7 @@ animals: []
  
 *[continued]*
   
-gueres expert en la paincture Si ta planche de <span class="m">verre</span><br/> est emboutie comme prinse du ventre de quelque bocal elle<br/> sen monstrera mieulx @Quand tu couches tes couleurs a <span class="m">tourmentine</span><br/> sur tes planches de <span class="m">verre</span> pose les premierement sur un quarreau chault<br/> & comme elles seront eschaufees estans tes couleurs & le laisse un peu sur<br/> le quarreau puys pose ta foeille d<span class="m">estain</span>
+gueres expert en la paincture Si ta planche de <span class="m">verre</span><br/> est emboutie comme prinse du ventre de quelque bocal elle<br/> sen monstrera mieulx @Quand tu couches tes couleurs a <span class="m">tourmentine</span><br/> sur tes planches de <span class="m">verre</span> pose les premierem<span class="exp">ent</span> sur un quarreau chault<br/> & comme elles seront eschaufees estans tes couleurs & le laisse un peu sur<br/> le quarreau puys pose ta foeille d<span class="m">estain</span>
  
  
   
@@ -55,7 +55,7 @@ On tient pour asseure que <span class="del">jec</span> faisant rougir du <span c
 ## Boutons de <span class="m">vermeilles</span>
 
  
-Pourceque les <span class="m">vermeilles</span> ne craignent point le foeu on<br/> les taille a losange pla<span class="del"></span>te dun coste puys on les joinct en<br/> estoille dans paste d<span class="m">esmail</span> broye apres on le parfond<br/> & on dore l<span class="m">esmail</span> d<span class="m">or</span> de foeille quon recuist.
+Pourceque les <span class="m">vermeilles</span> ne craignent point le foeu on<br/> les taille a losange pla<span class="del"><span class="ill"></span></span>te dun coste puys on les joinct en<br/> estoille dans paste d<span class="m">esmail</span> broye apres on le parfond<br/> & on dore l<span class="m">esmail</span> d<span class="m">or</span> de foeille quon recuist.
  
  
   
@@ -63,5 +63,5 @@ Pourceque les <span class="m">vermeilles</span> ne craignent point le foeu on<br
 ## Grottes
 
  
-Pour remplir quelque lieu vuide qui ne peult pas estre<br/> charge de quelque roches pendant on mect pres du<br/> foeu un lopin de <span class="m">parchemin</span> espes qui se retire & samoncele<br/> puys on le painct a destrempe puys a <span class="m">huile</span> apres on<br/> laplique.
+Pour remplir quelque lieu vuide qui ne peult pas estre<br/> charge de quelque roches pendant on mect pres du<br/> foeu un lopin de <span class="m">parchemin</span> espes qui se retire & samo<span class="exp">n</span>cele<br/> puys on le painct a destrempe puys a <span class="m">huile</span> apres on<br/> laplique.
  

@@ -40,7 +40,7 @@ animals: [sernailles]
 ## Gect 
 
  
- Il faut quil soit longuet en esgard a la chose que <br/> tu as moulee Et pour le moings aux grands moules <br/> il fault quil aye quattre ou cinq doigts de longueur <br/> Tu le peulx faire large jusque a la moitie & puys <br/> le diviser en trois poinctes en ceste sorte Et tant plus <br/> la chose moulee sera petite il faut ainsy que tes poinctes <br/> soient petites Et au milieu du gect & de ses poinctes <br/> fais y quelques pertuis affin dempescher la furie <br/> de <span class="m">metal</span> & fayre quil coule doulcement Il faut aussy <br/> conjoindre les parties pliees de lanimal par petites <br/> lignes encoches et mesmement le bout de la queue ou aultre <br/> partyes subtile affin que le <span class="m">metal</span> suive par tout & <br/> se raporte dune partie a lautre 
+ Il faut quil soit longuet en esgard a la chose que <br/> tu as moulee Et pour le moings aux grands moules <br/> il fault quil aye quattre ou cinq doigts de longueur <br/> Tu le peulx faire large jusque a la moitie & puys <br/> le diviser en trois poinctes en ceste sorte Et tant plus <br/> la chose moulee sera petite il faut ainsy que tes poinctes <br/> soient petites Et au milieu du gect & de ses poinctes <br/> fais y quelques pertuis affin dempescher la furie <br/> de <span class="m">metal</span> & fayre quil coule doulce<span class="exp">men</span>t Il faut aussy <br/> conjoindre les parties pliees de lanimal par petites <br/> lignes encoches et mesmement le bout de la queue ou aultre <br/> partyes subtile affin que le <span class="m">metal</span> suive par tout & <br/> se raporte dune partie a lautre 
  
  Noublie pas de faire gect de cire aux pates des <span class="al">sernailles</span><br/> & choses comme cella subtilles 
  
@@ -56,7 +56,7 @@ animals: [sernailles]
 > *at left middle margin*
 > 
 > 
->   La foeille de<br/> vigne se paint <br/> de vert faict de <span class="m">scudegrin</span> <br/> & <span class="m">verd de terre</span> 
+>   La foeille de<br/> vigne se paint <br/> de vert faict de <span class="m">scudegri<span class="exp">n</span></span> <br/> & <span class="m">verd de terre</span> 
  
  
   
@@ -64,7 +64,7 @@ animals: [sernailles]
 ## Foeille de vigne et petite grenoille 
 
  
- Prens des foeilles de vignes pour mouler comme elles sont en croissant <br/> ainsy que de toutes herbes & fleurs ou dune jeune vigne renaissant <br/> apres avoyr este couppee ou lors quelles reboutent en automne pour <br/> que les nouvelles foeilles sont plus grumeleuses & ont les lineaments plus <br/> apparents au contraire les foeilles ancienes sont unies par dedans & <br/> percees en plusieurs endroicts Pose donc ta foeille le dos en bas <br/> sur la plaste d<span class="m">ardille</span> Et asseure la avecq des petites poinctes luy laisse <br/> neantmoings son reply naturel Et fais une coche <span class="add">dans l<span class="m">ardille</span></span> pour cacher la queue <br/> au premier gect lequel estant fait & sec Tu retireras la queue de la <br/> foeille & la nettoyeras bien avec des sayettes &lapuyeras avec une petit <br/> hausse d<span class="m">ardille</span> Apres fais plusieurs gects aultour de la foeille avec de <br/> la <span class="m">cire</span> comme tu sçais & fais le gect tanvre & de plusieurs trais & grumeleux 
+ P<span class="exp">rens</span> des foeilles de vignes pour mouler co<span class="exp">mm</span>e elles sont en croissant <br/> ainsy que de toutes herbes & fleurs ou dune jeune vigne renaissant <br/> apres avoyr este couppee ou lors quelles reboutent en automne pour <br/> que les nouvelles foeilles sont plus grumeleuses & ont les lineaments plus <br/> apparents au contraire les foeilles ancienes sont unies par dedans & <br/> percees en plusieurs endroicts Pose donc ta foeille le dos en bas <br/> sur la plaste d<span class="m">ardille</span> Et asseure la avecq des petites poinctes luy laisse <br/> neantmoings son reply naturel Et fais une coche <span class="add">dans l<span class="m">ardille</span></span> pour cacher la queue <br/> au premier gect lequel estant fait & sec Tu retireras la queue de la <br/> foeille & la nettoyeras bien avec des sayettes &lapuyeras avec une petit <br/> hausse d<span class="m">ardille</span> Apres fais plusieurs gects aultour de la foeille avec de <br/> la <span class="m">cire</span> co<span class="exp">mm</span>e tu sçais & fais le gect tanvre & de plusieurs trais & grumeleux 
  
 > *at left bottom margin*
 > 

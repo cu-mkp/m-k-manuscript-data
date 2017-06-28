@@ -29,9 +29,9 @@ animals: []
  
 Tout <span class="tl"><span class="m">mabre</span></span> sur lequel le <span class="tl">costeau</span> peult prinquer ne vault<br/> rien pour broyer les fines couleurs
  
- La <span class="m">croye</span> na poinct de corps a <span class="m">huile</span> La <span class="m">ceruse</span> y est<br/> propre Mays le <span class="m">blanc de plomb</span> plus excellent La <span class="m">ceruse</span><br/> est la plus blanche se broyant premierement a l<span class="m">eau</span> Et le<br/> <span class="m">blanc de plomb</span> grisastre Mays <span class="del">le blanc</span> il prend sa<br/> parfaicte blancheur a <span class="m">huile</span>
+ La <span class="m">croye</span> na poinct de corps a <span class="m">huile</span> La <span class="m">ceruse</span> y est<br/> propre Mays le <span class="m">blanc de plomb</span> plus excellent La <span class="m">ceruse</span><br/> est la plus blanche se broyant premierem<span class="exp">ent</span> a l<span class="m">eau</span> Et le<br/> <span class="m">blanc de plomb</span> grisastre Mays <span class="del">le blanc</span> il prend sa<br/> parfaicte blancheur a <span class="m">huile</span>
  
-Quand tu broyes tes couleurs nettoyes premierement bien<br/> ta <span class="env">boutique</span> car en marchant si tu excites de la pouldre<br/> cela gastera tes couleurs qui ne seront jamays belles si<br/> elles ne sont fort <span class="del">be</span> nettes
+Quand tu broyes tes couleurs nettoyes premierem<span class="exp">ent</span> bien<br/> ta <span class="env">boutique</span> car en marchant si tu excites de la pouldre<br/> cela gastera tes couleurs qui ne seront jamays belles si<br/> elles ne sont fort <span class="del">be</span> nettes
  
 La <span class="m">floree</span> ne se doibt pas mesler avecq l<span class="m">azur desmail</span><br/> ou aultre car elle le faict verd
  
@@ -44,7 +44,7 @@ Pour <span class="tl">palettes</span> a paindre L<span class="m">yvoire</span> e
 > *at left top margin*
 > 
 > 
->   @<span class="pro">Celuy qui <span class="add">faict profession de</span> travailler a <span class="m">huile</span></span><br/> ne travaillera gueres bien a<br/> <span class="m">destrempe</span> sil ny ha este bien<br/> institue de jeunesse<br/> Car la facon<br/> de travailler est<br/> diverse pourceque<br/> lavant le <span class="tl">pinceau</span><br/> pour <span class="m">destrempe</span> on<br/> le laisse tousjours<br/> humide Et au<br/> contraire quand<br/> on nettoye le <span class="tl">pinceau</span><br/> dans l<span class="m">huile</span> pour<br/> adoulcir on essuye<br/> fort le <span class="tl">pinceau</span><br/> Aultrement le labeur<br/> couleroit & seroit<br/> bien tost tout<br/> desfigure
+>   @<span class="pro">Celuy qui <span class="add">faict profession de</span> travailler a <span class="m">huile</span></span><br/> ne travaillera gueres bien a<br/> <span class="m">destrempe</span> sil ny ha este bien<br/> institue de jeunesse<br/> Car la facon<br/> de travailler est<br/> diverse pourceque<br/> lavant le <span class="tl">pinceau</span><br/> pour <span class="m">destrempe</span> on<br/> le laisse tousjours<br/> humide Et au<br/> contraire quand<br/> on nettoye le <span class="tl">pinceau</span><br/> dans l<span class="m">huile</span> pour<br/> adoulcir on essuye<br/> fort le <span class="tl">pinceau</span><br/> Aultrem<span class="exp">ent</span> le labeur<br/> couleroit & seroit<br/> bien tost tout<br/> desfigure
  
 > *at left middle margin*
 > 
@@ -54,7 +54,7 @@ Pour <span class="tl">palettes</span> a paindre L<span class="m">yvoire</span> e
 > *at left middle margin*
 > 
 > 
->   Et ne couchent pas<br/> leur ombre tout dune<br/> sorte comme les <span class="pl">flaments</span><br/> Mays font en hachant<br/> le plus cler vers le<br/> jour puys un plus<br/> obscur apres & en<br/> fin un plus noir<br/> pour faire<br/> mieulx gecter &<br/> eslever
+>   Et ne couchent pas<br/> leur ombre tout dune<br/> sorte co<span class="exp">mm</span>e les <span class="pl">flaments</span><br/> Mays font en hachant<br/> le plus cler vers le<br/> jour puys un plus<br/> obscur apres & en<br/> fin un plus noir<br/> pour faire<br/> mieulx gecter &<br/> eslever
  
 > *at left bottom margin*
 > 

@@ -25,7 +25,7 @@ animals: [mouche, animales]
 ## <span class="m">Letton</span>
 
  
-Il est fort fantasque a gecter Il veult estre<br/> gecte fort chault Et pour mieulx en venir a bout<br/> gecte dessus du <span class="m">sel armoniac</span> pour lesclarcir Allie<br/> le aussy dun peu de <span class="m">cuivre rouge</span> Et comme tu vouldras<br/> gecter un peu d<span class="m">estain</span> pour le faire mieulx courre<br/> Il laisse tousiours une queue comme de <span class="m">verre</span> fondu<br/> Il ne demande pas si long gect que les aultres
+Il est fort fantasque a gecter Il veult estre<br/> gecte fort chault Et pour mieulx en venir a bout<br/> gecte dessus du <span class="m">sel armoniac</span> pour lesclarcir Allie<br/> le aussy dun peu de <span class="m">cuivre rouge</span> Et co<span class="exp">mm</span>e tu vouldras<br/> gecter un peu d<span class="m">estain</span> pour le faire mieulx courre<br/> Il laisse tousiours une queue co<span class="exp">mm</span>e de <span class="m">verre</span> fondu<br/> Il ne demande pas si long gect que les aultres
  
  
   

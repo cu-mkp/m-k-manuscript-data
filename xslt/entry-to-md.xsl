@@ -344,7 +344,11 @@
             tmp |
             del |
             add |
-            sup">
+            sup |
+            exp | 
+            ill | 
+            unc | 
+            x">
         <xsl:text>&lt;span class="</xsl:text>
         <xsl:value-of select="local-name()"/>
         <xsl:text>"&gt;</xsl:text>

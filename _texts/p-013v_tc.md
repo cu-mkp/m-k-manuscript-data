@@ -47,7 +47,7 @@ Quand elles ont este apliquees enbroderie sur quelque<br/> acoustrement elles so
 ## <span class="m">Crapaudine</span>
 
  
-Celle qui est de la teste du <span class="al">crapault</span> & qui ha la figure<br/> du <span class="al">crapault</span> naturellement paincte comme tu as veu est la plus<br/> excellente On tient que si on mect de la pouldre dicelle sur<br/> un <span class="tl">brasier</span> en la chambre de quelques uns de nuict quilz<br/> ne pourront se mouvoir ne parler ne donner empeschement<br/> aulx <span class="pro">larrons</span> 
+Celle qui est de la teste du <span class="al">crapault</span> & qui ha la figure<br/> du <span class="al">crapault</span> naturellement paincte co<span class="exp">mm</span>e tu as veu est la plus<br/> excellente On tient que si on mect de la pouldre dicelle sur<br/> un <span class="tl">brasier</span> en la chambre de quelques uns de nuict quilz<br/> ne pourront se mouvoir ne parler ne donner empeschement<br/> aulx <span class="pro">larrons</span> 
  
  
   

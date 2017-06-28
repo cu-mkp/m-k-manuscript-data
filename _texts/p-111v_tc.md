@@ -43,7 +43,7 @@ Pour nettoyer les diverses couleurs du <span class="m">plomb</span> & de l<span 
 ## <span class="al">Lesards</span>
 
  
-Quand on les prend avecq les deulx <span class="tl"><span class="bp">doigts</span></span> par les costes de<br/> la teste au droict des oreilles on luy faict ouvrir la <span class="del">g</span> gueule<br/> <span class="add">avecq le bout de l<span class="tl"><span class="bp">ongle</span></span></span><br/> puys on luy prend le bout de la mandibulle basse & apres de celle<br/> de dessus il serre l<span class="tl"><span class="bp">ongle</span></span> mays il ne la peult pas passer mays<br/> il serre bien fort Et sil mordoit la <span class="bp">chair</span> vive il ne scauroit<br/> <span class="del">au</span> laisser la prise & ny auroit meilleur remede que de luy<br/> couper promptement la teste <span class="tmp">Au printemps</span> comme ilz ont change de<br/> peau ilz sont plus beaus
+Quand on les prend avecq les deulx <span class="tl"><span class="bp">doigts</span></span> par les costes de<br/> la teste au droict des oreilles on luy faict ouvrir la <span class="del">g</span> gueule<br/> <span class="add">avecq le bout de l<span class="tl"><span class="bp">ongle</span></span></span><br/> puys on luy prend le bout de la mandibulle basse & apres de celle<br/> de dessus il serre l<span class="tl"><span class="bp">ongle</span></span> mays il ne la peult pas passer mays<br/> il serre bien fort Et sil mordoit la <span class="bp">chair</span> vive il ne scauroit<br/> <span class="del">au</span> laisser la prise & ny auroit meilleur remede que de luy<br/> couper promptem<span class="exp">ent</span> la teste <span class="tmp">Au printemps</span> co<span class="exp">mm</span>e ilz ont change de<br/> peau ilz sont plus beaus
  
 > *at left middle margin*
 > 
@@ -54,14 +54,14 @@ Quand on les prend avecq les deulx <span class="tl"><span class="bp">doigts</spa
 > *at left middle margin*
 > 
 > 
->   Comme un tenaille 
+>   Co<span class="exp">mm</span>e un tenaille 
  
   
 
 ## Composition de sable
 
  
-Tout estant recuit comme il est dit cy dessus Prens<br/> quattre 4 pleins <span class="ms"><span class="tl">crusols</span></span> de <span class="m">plastre</span> deulx 2 de <span class="m">brique</span><br/> & un d<span class="m">alum de plume</span> Ne passe pas par le <span class="tl">tamis</span> pour<br/> mesler <span class="del">May</span> pourceque l<span class="m">alum</span> ne passeroit pas<br/> Mesle avecq les <span class="tl"><span class="bp">mains</span></span> jusques que lun ne lautre<br/> ne blanc ne rouge ne se cognoisse parmy lautre<br/> Si ton <span class="m">plastre</span> nestoit fort ny mesle pas du tout tant de <span class="m">alum<br/> de plume</span> Car il attendrist les <span class="tl">moules</span> Advise bien aussy que<br/> ton sable ne soict pas chault (comme il est incontinent quil a este<br/> recuit) <span class="del">C</span> quand tu le vouldras destremper d<span class="m">eau</span> Car cela <span class="del">les</span><br/> faict les <span class="tl">moules</span> trop tendres & rompans 
+Tout estant recuit co<span class="exp">mm</span>e il est dit cy dessus Prens<br/> quattre 4 pleins <span class="ms"><span class="tl">crusols</span></span> de <span class="m">plastre</span> deulx 2 de <span class="m">brique</span><br/> & un d<span class="m">alum de plume</span> Ne passe pas par le <span class="tl">tamis</span> pour<br/> mesler <span class="del">May</span> pourceque l<span class="m">alum</span> ne passeroit pas<br/> Mesle avecq les <span class="tl"><span class="bp">mains</span></span> jusques que lun ne lautre<br/> ne blanc ne rouge ne se cognoisse parmy lautre<br/> Si ton <span class="m">plastre</span> nestoit fort ny mesle pas du tout tant de <span class="m">alum<br/> de plume</span> Car il attendrist les <span class="tl">moules</span> Advise bien aussy que<br/> ton sable ne soict pas chault (co<span class="exp">mm</span>e il est incontinent quil a este<br/> recuit) <span class="del">C</span> quand tu le vouldras destremper d<span class="m">eau</span> Car cela <span class="del">les</span><br/> faict les <span class="tl">moules</span> trop tendres & rompans 
  
 > *at left bottom margin*
 > 

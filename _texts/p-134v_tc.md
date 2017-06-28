@@ -25,7 +25,7 @@ animals: [iraigne]
 ## Faire courre le <span class="m">☀</span>
 
  
- <span class="m">Verdegris</span> & <span class="m">sel armoniac</span> aultant dun que dautre<br/> <span class="m">Borras</span> & <span class="m">salpestre</span> aultant dun que dautre Mays<br/> le <span class="m">borras</span> & <span class="del"><span class="m">sel armo</span></span> <span class="m">salpestre</span> ensemble ne doibvent<br/> priser que la moitie des aultres scavoir aultant<br/> tous deux que le <span class="m">verdegris</span> Broye les subtillement sur<br/> le <span class="m">marbre</span> en pouldre puys broye les de nouveau<br/> avec de fort bon <span class="m">vinaigre</span> jusques a ce quil soict<br/> subtil comme une couleur et <span class="m">verdet</span> broye a <span class="m">huile</span><br/> Apres laisse le seicher de soy mesme si tu as loisir<br/> ou au foeu <span class="del"></span> de la forge & fais quil soict bien<br/> sec
+ <span class="m">Verdegris</span> & <span class="m">sel armoniac</span> aultant dun que dautre<br/> <span class="m">Borras</span> & <span class="m">salpestre</span> aultant dun que dautre Mays<br/> le <span class="m">borras</span> & <span class="del"><span class="m">sel armo</span></span> <span class="m">salpestre</span> ensemble ne doibvent<br/> priser que la moitie des aultres scavoir aultant<br/> tous deux que le <span class="m">verdegris</span> Broye les subtillem<span class="exp">ent</span> sur<br/> le <span class="m">marbre</span> en pouldre puys broye les de nouveau<br/> avec de fort bon <span class="m">vinaigre</span> jusques a ce quil soict<br/> subtil comme une couleur et <span class="m">verdet</span> broye a <span class="m">huile</span><br/> Apres laisse le seicher de soy mesme si tu as loisir<br/> ou au foeu <span class="del"><span class="ill"></span></span> de la forge & fais quil soict bien<br/> sec
  
 > *at left top margin*
 > 
@@ -35,7 +35,7 @@ animals: [iraigne]
 > *at left middle margin*
 > 
 > 
->   <span class="del"><span class="al">iraigne</span></span> Une des principalles<br/> choses pour le gect<br/> est de gecter fort <span class="del">que</span><br/> chault <span class="del">si</span> principallement<br/> les grans <span class="m">metaux</span>
+>   <span class="del"><span class="al">iraigne</span></span> Une des principalles<br/> choses pour le gect<br/> est de gecter fort <span class="del">que</span><br/> chault <span class="del">si</span> principallem<span class="exp">ent</span><br/> les grans <span class="m">metaux</span>
  
  
   

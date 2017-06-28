@@ -75,7 +75,7 @@ Pour gect il ny a que le <span class="m">plomb doux</span> qui veult estre gecte
 ## Sable pour le <span class="m">plomb</span> le plus<br/> excellent de tous pour grand relief<br/> et petit
 
  
-Jay prins de la <span class="m">ceruse</span> et lay broyee a sec sur le <span class="tl"><span class="m">porphire</span></span><br/> pour la faire bien subtile puys je lay tellement humectee avecq<br/> de la <span class="m">glaire doeuf fort battue</span> quelle estoit comme paste sunissant<br/> avecq le plat dun <span class="tl">costeau</span> en perfection Je lay un peu laisser
+Jay prins de la <span class="m">ceruse</span> et lay broyee a sec sur le <span class="tl"><span class="m">porphire</span></span><br/> pour la faire bien subtile puys je lay tellem<span class="exp">ent</span> humectee avecq<br/> de la <span class="m">glaire doeuf fort battue</span> quelle estoit co<span class="exp">mm</span>e paste sunissant<br/> avecq le plat dun <span class="tl">costeau</span> en perfection Je lay un peu laisser
  
 > *at left bottom margin*
 > 

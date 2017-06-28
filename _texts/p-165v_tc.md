@@ -25,7 +25,7 @@ animals: [animaulx]
 ## Plant d<span class="al">animaulx</span>
 
  
-Non seulement avec les poinctes de <span class="m">fer</span> Mays avecq de la<br/> <span class="m">cire</span> fondue les <span class="al">animaulx</span> sasseurent sur la plaste de <span class="m">terre</span><br/> @Laves les premierement en <span class="m">eau</span> claire estant morts dans la mixtion<br/> de <span class="m">vinaigre</span> & <span class="m">urine</span><br/> & avecq une <span class="tl">esponge</span><br/> repurge leur la gueule<br/> les yeulx<br/> et la<br/> teste de<br/> la bave<br/> qui en<br/> sort<br/> car<br/> jamays<br/> le sable<br/> ny prendroit<br/> bien et<br/> viendroit<br/> grumeleux
+Non seulem<span class="exp">ent</span> avec les poinctes de <span class="m">fer</span> Mays avecq de la<br/> <span class="m">cire</span> fondue les <span class="al">animaulx</span> sasseurent sur la plaste de <span class="m">terre</span><br/> @Laves les premierem<span class="exp">ent</span> en <span class="m">eau</span> claire estant morts dans la mixtion<br/> de <span class="m">vinaigre</span> & <span class="m">urine</span><br/> & avecq une <span class="tl">esponge</span><br/> repurge leur la gueule<br/> les yeulx<br/> et la<br/> teste de<br/> la bave<br/> qui en<br/> sort<br/> car<br/> jamays<br/> le sable<br/> ny prendroit<br/> bien et<br/> viendroit<br/> grumeleux
  
 > *at left top margin*
 > 
@@ -46,7 +46,7 @@ Si les ayant moules une foys tu les veulx garder<br/> pour les mouler dadvantage
 ## <span class="tl">Moules</span>
 
  
-Estant moules ne les garde pas long temps Ains les<br/> employe <span class="del">u</span> le plustot que tu pourras pourcequestant<br/> long temps gardes ilz sont subgects a se corrompre
+Estant moules ne les garde pas long temps Ains les<br/> employe <span class="del">u</span> le plustot que tu pourras pourcequesta<span class="exp">n</span>t<br/> long temps gardes ilz sont subgects a se corrompre
  
 > *at left middle margin*
 > 
@@ -59,7 +59,7 @@ Estant moules ne les garde pas long temps Ains les<br/> employe <span class="del
 ## <span class="m">Luth</span>
 
  
-A la recuite tu peulx bien employer le <span class="m">luth</span> commun Mays<br/> quand tu vouldras gecter despouilles en le <span class="tl">moule</span> & promptement<br/> avecq une <span class="tl">broisse</span> couche le <span class="m">luth</span> de <span class="m">plastre</span> qui ha<br/> servy aulx <span class="tl">moules</span> car il sera sec en se posant &<br/> gecte Il fault principallement mectre ce <span class="m">luth</span> sur les<br/> joinctures
+A la recuite tu peulx bien employer le <span class="m">luth</span> commun Mays<br/> quand tu vouldras gecter despouilles en le <span class="tl">moule</span> & pro<span class="exp">m</span>ptem<span class="exp">ent</span><br/> avecq une <span class="tl">broisse</span> couche le <span class="m">luth</span> de <span class="m">plastre</span> qui ha<br/> servy aulx <span class="tl">moules</span> car il sera sec en se posant &<br/> gecte Il fault principallem<span class="exp">ent</span> mectre ce <span class="m">luth</span> sur les<br/> joinctures
  
  
   
@@ -67,7 +67,7 @@ A la recuite tu peulx bien employer le <span class="m">luth</span> commun Mays<b
 ## <span class="m">Argent</span>
 
  
-Quand il sautille estant fondu cest signe quil est<br/> bien chault & pourceque communement il est plombeux<br/> il est bon di gecter du <span class="m">mortier</span> de <span class="m">chaulx</span> car cella<br/> attire & amasse le <span class="m">plomb</span>
+Quand il sautille estant fondu cest signe quil est<br/> bien chault & pourceque co<span class="exp">mmun</span>ement il est plombeux<br/> il est bon di gecter du <span class="m">mortier</span> de <span class="m">chaulx</span> car cella<br/> attire & amasse le <span class="m">plomb</span>
  
  
   
@@ -87,5 +87,5 @@ Affin quelles viennent mieulx mects despuys le gect<br/> jusques aulx bout dicel
 ## Raporter quelque aisle<br/> de mousche ou semblable
 
  
-Elle se<br/> raporte avecq <span class="m">colle de poisson</span><br/> destrempee avecq <span class="m">eau de vye</span> sur foeu lent faisant aussy<br/> chaufer louvrage puys cela se couvre avecq de la <span class="m">cire</span><br/> a esbaucher qui soit grise
+Elle se<br/> raporte avecq <span class="m">colle de poisson</span><br/> destrempee avecq <span class="m">eau de vye</span> sur foeu lent faisa<span class="exp">n</span>t aussy<br/> chaufer louvrage puys cela se couvre avecq de la <span class="m">cire</span><br/> a esbaucher qui soit grise
  

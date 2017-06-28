@@ -45,7 +45,7 @@ A raw lump of <span class="m">metal</span>, if you don't have <span class="m">cr
  
 The snakes and the lizards you wish to mold should not be kept for a long time, because if they are alive, they will waste away, and if they are dead, they will decay.
  
-<span class="m">Plaster of Paris</span> is as hard as stone & very good. When you want to choose some for your <span class="m">sand</span>, take the rawest and the hardest that is possible for you & that does not make any powder. Transparent <span class="m">plaster</span> and that which makes powder in giving way is that which is not good for this work. A sign of that which is near perfect is that it is hard & makes shining grains that look almost like sugar. Finally, to mix it into the <span class="m">sand</span> to cast <span class="m">gold</span>, it has to be put in the <span class="m">fire</span> twice, & reheated twice.
+<span class="m">Plaster of Paris</span> is as hard as stone & very good. When you want to choose some for your <span class="m">sand</span>, take the rawest and the hardest that is possible for you & that does not make any powder. Transparent <span class="x"><span class="m">plaster</span></span> and that which makes powder in giving way is that which is not good for this work. A sign of that which is near perfect is that it is hard & makes shining grains that look almost like sugar. Finally, to mix it into the <span class="m">sand</span> to cast <span class="m">gold</span>, it has to be put in the <span class="m">fire</span> twice, & reheated twice.
  
 > *at left top margin*
 > 

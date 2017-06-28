@@ -33,13 +33,13 @@ Une <span class="del"><span class="ms">℥</span> de</span> <span class="ms">par
 ## Mouler cave dun coste et de relief<br/> de laultre
 
  
-Et pour cet effect on gecte une medaille d<span class="m">estain fin</span> qui est plus<br/> dur a fondre Et comme elle est nette on moule avecq icelle Et on<br/> la laisse en lune moictie du <span class="tl">chassis</span> & on ly presse un peu affin<br/> quelle y tienne mieulx Et apres tu gecteras dans ton <span class="tl">chassis</span><br/> de la <span class="m">souldure</span> cy dessus descripte ou aultre plus fondante<br/> que l<span class="m">estain fin</span> Et ainsy la seconde medaille se fondra &<br/> moulera sur la premiere sans la gaster Mays pour faire<br/> plus seurement destrempe du <span class="m">noir de lampe</span> avecq de l<span class="m">eau</span> & avecq<br/> un <span class="tl">pinceau</span> donnes en une couche legere sur la medaille qui<br/> demeure dans le <span class="tl">chassis</span> & laisse seicher Ainsy elle ne fondra<br/> poinct
+Et pour cet effect on gecte une medaille d<span class="m">estain fin</span> qui est plus<br/> dur a fondre Et co<span class="exp">mm</span>e elle est nette on moule avecq icelle Et on<br/> la laisse en lune moictie du <span class="tl">chassis</span> & on ly presse un peu affin<br/> quelle y tienne mieulx Et apres tu gecteras dans ton <span class="tl">chassis</span><br/> de la <span class="m">souldure</span> cy dessus descripte ou aultre plus fondante<br/> que l<span class="m">estain fin</span> Et ainsy la seconde medaille se fondra &<br/> moulera sur la premiere sans la gaster Mays pour faire<br/> plus seurement destrempe du <span class="m">noir de lampe</span> avecq de l<span class="m">eau</span> & avecq<br/> un <span class="tl">pinceau</span> donnes en une couche legere sur la medaille qui<br/> demeure dans le <span class="tl">chassis</span> & laisse seicher Ainsy elle ne fondra<br/> poinct
  
 Mays si tu as une medaille de <span class="m">cuivre</span> ou d<span class="m">argent</span> tu la peulx<br/> bien laisser dans le gect si tu veulx gecter de <span class="m">plomb</span> ou <span class="m">estaim</span><br/> mays il fault quelle soict un peu chaulde car la froideur feroit<br/> retirer l<span class="m">estain</span>
  
 L<span class="m">estaim</span> veult estre gecte bien chault pour venir net
  
-L<span class="m">estain doulx</span> qui est le meilleur pour le gect est celuy qui estant<br/> gecte en <span class="tl">grille</span> est <span class="del">bruny &</span> luisant & poly comme un mirouer & qui semble<br/> avoyr este bruny Et nha poinct de trous comme celuy qui est aigre & qui<br/> nest point luisant comme bruny
+L<span class="m">estain doulx</span> qui est le meilleur pour le gect est celuy qui estant<br/> gecte en <span class="tl">grille</span> est <span class="del">bruny &</span> luisant & poly co<span class="exp">mm</span>e un mirouer & qui semble<br/> avoyr este bruny Et nha poinct de trous co<span class="exp">mm</span>e celuy qui est aigre & qui<br/> nest point luisant co<span class="exp">mm</span>e bruny
  
  
   
@@ -47,7 +47,7 @@ L<span class="m">estain doulx</span> qui est le meilleur pour le gect est celuy 
 ## <span class="m">Potin</span>
 
  
-Le <span class="m">potin</span> estant gecte chault court & coule comme <span class="m">estaim</span> Mays la<br/> medaille en est blanchastre et jecte incontinent le verd Ce que ne faict<br/> la bonne matiere
+Le <span class="m">potin</span> estant gecte chault court & coule co<span class="exp">mm</span>e <span class="m">estaim</span> Mays la<br/> medaille en est blanchastre et jecte incontinent le verd Ce que ne faict<br/> la bonne matiere
  
  
   

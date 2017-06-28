@@ -46,7 +46,7 @@ Il y a pour ce faire trois roues une d<span class="m">estain</span> de <span cla
  
   
 
-## M<span class="del"></span>ixtion des <span class="pro">pintiers</span>
+## M<span class="del"><span class="ill"></span></span>ixtion des <span class="pro">pintiers</span>
 
  
 Pourceque parmy le <span class="m">fin estaing</span> ilz meslent bien souvent la<br/> <span class="ms">moictie</span> de <span class="m">plomb</span> qui rend l<span class="m">estaing</span> sourd pour corriger<br/> cela ilz meslent de la <span class="m">limaille de letton</span> parmy pour le<br/> rendre <span class="sn">sonnant</span>
@@ -57,5 +57,5 @@ Pourceque parmy le <span class="m">fin estaing</span> ilz meslent bien souvent l
 ## Amalgame parfaict
 
  
-Ayes un <span class="m">grais</span> le plus delie que tu pourras & le cave<br/> au milieu Mectes y la <span class="ms">huictiesme partye</span> de <span class="m">☿</span> <span class="del">au</span> & la<br/> dedans frottes & uses y adjoustant de l<span class="m">eau</span> urc <span class="m">☾</span> ou <span class="m">☼</span><br/> jusques a ce que la matiere viendra comme paste & encores plus<br/> dur Apres si vous voules faictes le manger avecq de bon<br/> <span class="m">eau fort</span> si cest <span class="m">☾</span> ou <span class="m">♀</span> puys refondre layant retire<br/> comme vous scaves La <span class="m">☾</span> aura taincture et laissera estant<br/> fondue quelque grain de <span class="m">☼</span> & le <span class="m">♀</span> sera fort beau & naura<br/> presque poinct de chappe
+Ayes un <span class="m">grais</span> le plus delie que tu pourras & le cave<br/> au milieu Mectes y la <span class="ms">huictiesme partye</span> de <span class="m">☿</span> <span class="del">au</span> & la<br/> dedans frottes & uses y adjoustant de l<span class="m">eau</span> urc <span class="m">☾</span> ou <span class="m">☼</span><br/> jusques a ce que la matiere viendra comme paste & encores plus<br/> dur Apres si vous voules faictes le manger avecq de bon<br/> <span class="m">eau fort</span> si cest <span class="m">☾</span> ou <span class="m">♀</span> puys refondre layant retire<br/> comme vous scaves La <span class="m">☾</span> aura taincture et laissera esta<span class="exp">n</span>t<br/> fondue quelque grain de <span class="m">☼</span> & le <span class="m">♀</span> sera fort beau & naura<br/> presque poinct de chappe
 

@@ -25,7 +25,7 @@ animals: []
 ## Books to recover
 
  
-The chronicles of Sigebert Rufinus Irenaeus, In Haereses Paulus Aemilius Paulus Jovius Polydorus Bergomensis Philippe de Commines
+The chronicles of Sigebert Rufinus Irenaeus, In <span class="x">Haereses</span> Paulus Aemilius Paulus Jovius Polydorus Bergomensis Philippe de Commines
  
  ———————————————————————— 
   

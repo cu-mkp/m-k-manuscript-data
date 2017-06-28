@@ -30,7 +30,7 @@ animals: [lizard]
 > *at left top margin*
 > 
 > 
->   You must not cast it until it is well cooled & has lost all of its lumps & bubbles, and it has settled down & become even like <span class="del"></span> <span class="m">water</span>. The <span class="m">soot black</span> gives it a fine luster & makes it neater. The most beautiful yellow <span class="m">sulfur</span> must be used, for the greyish & lively <span class="m">sulfur</span> is not good. Do not cast <span class="env">in wind</span> & <span class="env">cold</span>, for it would become porous.
+>   You must not cast it until it is well cooled & has lost all of its lumps & bubbles, and it has settled down & become even like <span class="del"><span class="ill"></span></span> <span class="m">water</span>. The <span class="m">soot black</span> gives it a fine luster & makes it neater. The most beautiful yellow <span class="m">sulfur</span> must be used, for the greyish & lively <span class="m">sulfur</span> is not good. Do not cast <span class="env">in wind</span> & <span class="env">cold</span>, for it would become porous.
  
  
   
@@ -59,7 +59,7 @@ The whitest & finest is the best. And when the cavity is quite clean, as that of
 ## <span class="m">Plaster</span>
 
  
-<span class="env">Mountain</span> <span class="m">plaster</span> is greyer, and <span class="del">the</span> the one from the region of <span class="pl">Albi</span> is whiter. It must be heated over a closed fire, such as a <span class="tl">reverberatory furnace</span> or <span class="tl">fours de barbiers</span>. And the best to work with is the most recently heated one. It must be finely ground on <span class="tl"><span class="m">marble</span></span>. After preparing your hollow mold with <span class="m">sulfur</span> or something else, & <span class="m">oiling</span> it, & investing with a circle, temper not too thickly your <span class="m">plaster</span> with <span class="m">water</span>, & stir it well with your <span class="tl"><span class="bp">finger</span></span>, and if it makes lumps, throw in more <span class="m">powder of the said plaster</span> & <span class="del"></span> grind it with your <span class="tl"><span class="bp">finger</span></span> until \+
+<span class="env">Mountain</span> <span class="m">plaster</span> is greyer, and <span class="del">the</span> the one from the region of <span class="pl">Albi</span> is whiter. It must be heated over a closed fire, such as a <span class="tl">reverberatory furnace</span> or <span class="tl">fours de barbiers</span>. And the best to work with is the most recently heated one. It must be finely ground on <span class="tl"><span class="m">marble</span></span>. After preparing your hollow mold with <span class="m">sulfur</span> or something else, & <span class="m">oiling</span> it, & investing with a circle, temper not too thickly your <span class="m">plaster</span> with <span class="m">water</span>, & stir it well with your <span class="tl"><span class="bp">finger</span></span>, and if it makes lumps, throw in more <span class="m">powder of the said plaster</span> & <span class="del"><span class="ill"></span></span> grind it with your <span class="tl"><span class="bp">finger</span></span> until \+
  
 > *at left bottom margin*
 > 

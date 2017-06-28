@@ -23,11 +23,11 @@ animals: []
  
 *[continued]*
   
-Les poignees d<span class="m">or</span> se font y mectant dessoubs de la <span class="m">toile</span>deliee<br/> jaulne ou aultre jaulnye avecq de la <span class="m">croye</span> Et ceste <span class="m">toile</span> se pose<br/> avecq <span class="m">colle</span> ou <span class="m">gome</span> susdicte Cest affin que le fil tienne mieulx<br/> dessus Ceulx si se font a cordons comme celles de <span class="m">soye</span> & entre deulx<br/> cordons on y mect un fil ou deulx pour la faire mieulx monstrer<br/> Celle d<span class="m">argent</span> se faict de mesme Et y a aultant de peyne qua la<br/> <span class="m">soye</span> et encores moings pourceque la <span class="m">soye</span> coste plus a tordre<br/> a cause quil la fault tordre a deulx revers Une poignee<br/> d<span class="m">or</span> fin vault 28 ou 20 sl
+Les poignees d<span class="m">or</span> se font y mectant dessoubs de la <span class="m">toile</span>deliee<br/> jaulne ou aultre jaulnye avecq de la <span class="m">croye</span> Et ceste <span class="m">toile</span> se pose<br/> avecq <span class="m">colle</span> ou <span class="m">gome</span> susdicte Cest affin que le fil tienne mieulx<br/> dessus Ceulx si se font a cordons co<span class="exp">mm</span>e celles de <span class="m">soye</span> & entre deulx<br/> cordons on y mect un fil ou deulx pour la faire mieulx monstrer<br/> Celle d<span class="m">argent</span> se faict de mesme Et y a aulta<span class="exp">n</span>t de peyne qua la<br/> <span class="m">soye</span> et encores moings pourceque la <span class="m">soye</span> coste plus a tordre<br/> a cause quil la fault tordre a deulx revers Une poignee<br/> d<span class="m">or</span> fin vault 28 ou 20 sl
  
 La meilleure pointe despee est a <span class="m">foeille de sauge</span>
  
-Ce long baston sur laquelle sattache & couche<br/> lespee pour la fourbir sappelle le chameau<br/> il est communement de <span class="m">sorbier</span> qui est dur & uny
+Ce long baston sur laquelle sattache & couche<br/> lespee pour la fourbir sappelle le chameau<br/> il est communem<span class="exp">ent</span> de <span class="m">sorbier</span> qui est dur & uny
  
 Le baston de dessoubs qui est plie en arc<br/> sappelle larson
  
@@ -37,7 +37,7 @@ Et ceste piece carree qui porte sur lespee<br/> pour la brunir sappelle fustee
  
 Il y ha deulx cornes lun sappelle le cornet<br/> a <span class="m">huile</span> laultre le cornet de l<span class="m">esmery</span>
  
-Il y ha un <span class="m">fer</span> qui est faict comme une poincte<br/> dhalebarde quarre & d<span class="m">acier</span> fort uny & bien<br/> lime Qui sappelle le grateau Qui sert a<br/> a adoulcir les traicts de la lime sur les gardes<br/> despee & a donner le fil aulx espees apres quelles<br/> sont esmoulues qui est mieulx quavecq la <span class="m">pierre</span><br/> ou <span class="m">coux</span> qui faict bien souvent des rayeures
+Il y ha un <span class="m">fer</span> qui est faict co<span class="exp">mm</span>e une poincte<br/> dhalebarde quarre & d<span class="m">acier</span> fort uny & bien<br/> lime Qui sappelle le grateau Qui sert a<br/> a adoulcir les traicts de la lime sur les gardes<br/> despee & a donner le fil aulx espees apres quelles<br/> sont esmoulues qui est mieulx quavecq la <span class="m">pierre</span><br/> ou <span class="m">coux</span> qui faict bien souvent des rayeures
  
 Pour mieulx faire <span class="del">coupp</span> trancher les espees on leur donne le fil<br/> tirant de la pointe en sus
  

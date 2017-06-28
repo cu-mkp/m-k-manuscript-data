@@ -25,7 +25,7 @@ In the year fifteen hundred seventy—eight, the second of July, the heirs of th
  
 They have also received, as part of the revenue of the year fifteen hundred seventy nine, three hundred forty three and one third ecus.
  
-And for the first year, they remain to be paid eighty livres and fifteen sous, | and for the second settlement, they have not yet received anything.
+And for the first year, they remain <span class="x">to be paid</span> eighty livres and fifteen sous, | and for the second settlement, they have not yet received anything.
  
  
   

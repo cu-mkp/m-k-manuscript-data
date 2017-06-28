@@ -53,7 +53,7 @@ It is made in <span class="pl">Lyon</span> from the <span class="m">juice of wel
 ## <span class="pa">Roses</span>
 
  
-These are imitated either with the scrapings of <span class="del"></span> <span class="m">horn used for lanterns</span>, or with scrapings of very clear, delicate & dyed <span class="m">parchment</span>, used as you know.
+These are imitated either with the scrapings of <span class="del"><span class="ill"></span></span> <span class="m">horn used for lanterns</span>, or with scrapings of very clear, delicate & dyed <span class="m">parchment</span>, used as you know.
  
  
   

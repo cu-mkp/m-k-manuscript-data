@@ -35,7 +35,7 @@ Elles se gastent si une foys le moys on ne leur rafreschist leur<br/> <span clas
  
 Que quand il gele le jour des rameaulx il gele tous les moys<br/> de lan
  
-Que quand les premieres fleurs tombent <span class="del">les suiv</span> & se perdent<br/> de la gelee les aultres communement se perdent aussy
+Que quand les premieres fleurs tombent <span class="del">les suiv</span> & se perdent<br/> de la gelee les aultres co<span class="exp">mmun</span>ement se perdent aussy
  
  
   
@@ -49,9 +49,9 @@ Il ne fault pas que le greffe soict de <span class="m">vieulx bois</span> car il
  
 Il ne fault laisser au greffe que deux gectons pour le plus<br/> car quand il ha dadvantaige sa force est afoiblie le vent<br/> le tourmente & nha pas tant de force pour bouter
  
-Les abres qui hont grosse moelle comme les peschiers & tout<br/> leur genrre & les pruniers ne veulent point hantes en temps<br/> de gelee pourceque le froid corrompt leur moelle laquelle<br/> il se fault bien aussi garder doffenser en coupant le pied du<br/> greffe
+Les abres qui hont grosse moelle co<span class="exp">mm</span>e les peschiers & tout<br/> leur genrre & les pruniers ne veulent point hantes en temps<br/> de gelee pourceque le froid corrompt leur moelle laquelle<br/> il se fault bien aussi garder doffenser en coupant le pied du<br/> greffe
  
-Toutes hantes ne se doibvent faire plustost que leur abre<br/> ne soict en sabe car lhumeur les pousse bien tost Aultrement<br/> <span class="del">au</span>ilz se seichent plustost que lhumeur de la sabe ne les pousse
+Toutes hantes ne se doibvent faire plustost que leur abre<br/> ne soict en sabe car lhumeur les pousse bien tost Aultrem<span class="exp">ent</span><br/> <span class="del">au</span>ilz se seichent plustost que lhumeur de la sabe ne les pousse
  
  
   
@@ -69,5 +69,5 @@ La <span class="m">cendre blanche de tout boys</span> qui se tient encores au <s
  
 La <span class="del"><span class="m">cendre</span></span> <span class="m">suye bien pulverisee</span> moule & despouille fort net<br/> celle des <span class="env">cuisines</span> qui est grasse & luisante des <span class="env">grandes cuisines</span> est meilleure
  
-La <span class="m">chaulx vive subtillement pulverisee</span> faict le mesme de <span class="m">pierre<br/> vive</span> deffaicte en la cave faict mieulx
+La <span class="m">chaulx vive subtillem<span class="exp">ent</span> pulverisee</span> faict le mesme de <span class="m">pierre<br/> vive</span> deffaicte en la cave faict mieulx
  

@@ -33,7 +33,7 @@ Mesle avec icelle de la <span class="m">rousine</span> et du <span class="m">bol
 ## <span class="m">Ligues</span> diverses d<span class="m">estain</span> et <span class="m">plomb</span>
 
  @ 
-Pour choses creuses comme <span class="al">tortues</span> moictie <span class="m">plomb</span> fin et moitie<br/> <span class="m">estain</span>
+Pour choses creuses co<span class="exp">mm</span>e <span class="al">tortues</span> moictie <span class="m">plomb</span> fin et moitie<br/> <span class="m">estain</span>
  
  Pour <span class="pa">fleurs</span> presque tout <span class="m">estain</span> sçavoir une <span class="ms">lb</span>. d<span class="m">estain</span> fin<br/> et deux ℥ de <span class="m">plomb</span> fin 
  
@@ -63,5 +63,5 @@ La <span class="m">brique</span> refroidist le <span class="m">metal</span> & si
 > *at left middle margin*
 > 
 > 
->  lescaille<br/> de <span class="m">fer</span> fort<br/> subtillement<br/> broyee<br/> les rend<br/> bien ferme<br/> & forts
+>  lescaille<br/> de <span class="m">fer</span> fort<br/> subtillem<span class="exp">ent</span><br/> broyee<br/> les rend<br/> bien ferme<br/> & forts
 

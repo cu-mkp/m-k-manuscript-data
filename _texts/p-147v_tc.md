@@ -24,10 +24,10 @@ animals: []
 *[continued]*
   \+ 
 
-## Gect de <span class="m">cuivre</span> allie de <span class="m">☾</span><br/> qui est comme <span class="m">soubdure</span> fort basse @ ard...es<br/> et <span class="m">vieulx K</span> et quelque Re sur xii
+## Gect de <span class="m">cuivre</span> allie de <span class="m">☾</span><br/> qui est co<span class="exp">mm</span>e <span class="m">soubdure</span> fort basse @ ard<span class="x">...</span>es<br/> et <span class="m">vieulx K</span> et quelque Re sur xii
 
  
-Ien ay gecte le plus net que iay veu en fort petites figures<br/> & tanvre comme <span class="m">papier</span> Iay gecte fort chault dans le <span class="tl">moule</span><br/> tout rouge Et ay mis dans la matiere fondue de<span class="add">s</span> <span class="del">ceste</span><br/> deulx <span class="del">matieres</span> compositions qui font courre l<span class="m">argent</span> & ay<br/> faict comme si ieusse vouleu gecter <span class="m">argent</span> pur Ceste ligue est<br/> blanche au <span class="tl">bullitoire</span> comme tout alliage qui tient tant soict<br/> peu de <span class="m">☾</span> pour gecter quelque chose delicat use de ceste cy
+Ien ay gecte le plus net que iay veu en fort petites figures<br/> & tanvre co<span class="exp">mm</span>e <span class="m">papier</span> Iay gecte fort chault dans le <span class="tl">moule</span><br/> tout rouge Et ay mis dans la matiere fondue de<span class="add">s</span> <span class="del">ceste</span><br/> deulx <span class="del">matieres</span> compositions qui font courre l<span class="m">argent</span> & ay<br/> faict co<span class="exp">mm</span>e si ieusse vouleu gecter <span class="m">argent</span> pur Ceste ligue est<br/> blanche au <span class="tl">bullitoire</span> co<span class="exp">mm</span>e tout alliage qui tient tant soict<br/> peu de <span class="m">☾</span> pour gecter quelque chose delicat use de ceste cy
  
  
   
@@ -43,7 +43,7 @@ Il nen y a poinct de meilleur que celuy <span class="del">qui ha</span> duquel<b
 ## <span class="tl">Crusol</span>
 
  
-Prens garde quil soict trois <span class="ms"><span class="bp">doigts</span></span> de <span class="del">fe</span> la bouche<br/> du <span class="tl">souflet</span> & que ledict <span class="tl">souflet</span> batte dess<span class="del">us</span>oubs le cul du<br/> <span class="tl">crusol</span> aultrement il le refroidiroit
+Prens garde quil soict trois <span class="ms"><span class="bp">doigts</span></span> de <span class="del">fe</span> la bouche<br/> du <span class="tl">souflet</span> & que ledict <span class="tl">souflet</span> batte dess<span class="del">us</span>oubs le cul du<br/> <span class="tl">crusol</span> aultrem<span class="exp">ent</span> il le refroidiroit
 
  
   
@@ -51,12 +51,12 @@ Prens garde quil soict trois <span class="ms"><span class="bp">doigts</span></sp
 ## Gect de <span class="m">letton</span>
 
  
-Iay prins de celuy de <span class="tl">poilonnes</span> de <span class="m">letton</span> qui sont battues<br/> & forgees tanvres <span class="del">I</span>Layant bien chaufe ie y ay gecte<br/> deulx ou trois <span class="ms">grains</span> comme pois de <span class="m">sel armoniac</span> Cela<br/> la esclarcy comme un mirouer Estant fort blanc de force<br/> destre chault Iy ay gecte de la <span class="m">calamine</span> crue & pure<br/> pulverisee Ie lay gecte en son <span class="tl">moule</span> tout rouge Il est<br/> venu fort net & tanvre comme <span class="m">papier</span> & creux par le revers<br/> Mays pourcequil avoit chappe Ie lay recuit cest<br/> a dire rougy lay laisse refroidir puys lay mis au<br/> <span class="m">blanchiment</span> dune partye de <span class="m">tartre</span> crud & de la moictie<br/> de <span class="m">sel commun</span> Ayant bien bouilly ie lay grattebroisse<br/> en <span class="m">eau clere</span> Et pourceque la premiere foys il nestoit
+Iay prins de celuy de <span class="tl">poilonnes</span> de <span class="m">letton</span> qui sont battues<br/> & forgees tanvres <span class="del">I</span>Layant bien chaufe ie y ay gecte<br/> deulx ou trois <span class="ms">grains</span> co<span class="exp">mm</span>e pois de <span class="m">sel armoniac</span> Cela<br/> la esclarcy co<span class="exp">mm</span>e un mirouer Estant fort blanc de force<br/> destre chault Iy ay gecte de la <span class="m">calamine</span> crue & pure<br/> pulverisee Ie lay gecte en son <span class="tl">moule</span> tout rouge Il est<br/> venu fort net & tanvre co<span class="exp">mm</span>e <span class="m">papier</span> & creux par le revers<br/> Mays pourcequil avoit chappe Ie lay recuit cest<br/> a dire rougy lay laisse refroidir puys lay mis au<br/> <span class="m">blanchiment</span> dune partye de <span class="m">tartre</span> crud & de la moictie<br/> de <span class="m">sel commun</span> Ayant bien bouilly ie lay grattebroisse<br/> en <span class="m">eau clere</span> Et pourceque la premiere foys il nestoit
  
 > *at left bottom margin*
 > 
 > 
->   Ne le laisse<br/> pas froidir en<br/> fondant Il faict<br/> tousiours une<br/> queue comme <span class="m">verre</span><br/> fondu a cause<br/> de la <span class="m">calamine</span><br/> communement le <span class="m">letton</span><br/> doulx de <span class="tl">poelonne</span><br/> vient rouge du gect<br/> mesmement quand il<br/> est long temps au<br/> foeu <span class="del">m</span> pourceque la <span class="m">calamine</span> sexhale<br/> Mays le <span class="m">letton</span> aigre de chandelier vient jaulne & la <span class="m">limaille</span> <span class="tl">despingle</span>
+>   Ne le laisse<br/> pas froidir en<br/> fondant Il faict<br/> tousiours une<br/> queue co<span class="exp">mm</span>e <span class="m">verre</span><br/> fondu a cause<br/> de la <span class="m">calamine</span><br/> communem<span class="exp">ent</span> le <span class="m">letton</span><br/> doulx de <span class="tl">poelonne</span><br/> vient rouge du gect<br/> mesmem<span class="exp">ent</span> quand il<br/> est long temps au<br/> foeu <span class="del">m</span> pourceque la <span class="m">calamine</span> sexhale<br/> Mays le <span class="m">letton</span> aigre de chandelier vient jaulne & la <span class="m">limaille</span> <span class="tl">despingle</span>
  
 *[continued]*
  

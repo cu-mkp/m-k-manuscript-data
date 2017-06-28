@@ -31,7 +31,7 @@ fondre ses <span class="m">drogues</span> dedans un <span class="tl">pot de <spa
 ## Aultre <span class="m">verny</span>
 
  
-Prens une <span class="ms">once</span> d<span class="m">huille d<span class="pa">aspic</span></span> & la fais chauffer sur les<br/> <span class="m">charbons</span> & puys prens <span class="ms">demye once</span> de <span class="m">sang d<span class="del">e</span><span class="add">a</span> Ra<span class="del">ie</span><span class="add">c</span></span><br/> & la broye grossement et puis le mectz dedans l<span class="m">huille d<span class="pa">aspic</span></span> &<br/> puys le mesle aveq ung <span class="tl">baston</span> tant que voyrras quil sera<br/> fondu et puys le mectz dedans une <span class="tl">fiolle de <span class="m">verre</span></span> Et<br/> quand tu en vouldras user fais le chauffer peu a peu sur<br/> Les <span class="m">charbons</span> Et devant que le poser, pose une couche de<br/> <span class="m">colle bien clere</span>, & puys le pose aveq le <span class="tl">pinceau</span>
+Prens une <span class="ms">once</span> d<span class="m">huille d<span class="pa">aspic</span></span> & la fais chauffer sur les<br/> <span class="m">charbons</span> & puys prens <span class="ms">demye once</span> de <span class="m">sang d<span class="del">e</span><span class="add">a</span> Ra<span class="unc"><span class="del">ie</span></span><span class="add">c</span></span><br/> & la broye grossement et puis le mectz dedans l<span class="m">huille d<span class="pa">aspic</span></span> &<br/> puys le mesle aveq ung <span class="tl">baston</span> tant q<span class="exp">ue</span> voyrras q<span class="exp">ui</span>l sera<br/> fondu et puys le mectz dedans une <span class="tl">fiolle de <span class="m">verre</span></span> Et<br/> quand tu en vouldras user fais le chauffer peu a peu sur<br/> Les <span class="m">charbons</span> Et devant q<span class="exp">ue</span> le poser, pose une couche de<br/> <span class="m">colle bien clere</span>, & puys le pose aveq le <span class="tl">pinceau</span>
  
  
   
@@ -39,7 +39,7 @@ Prens une <span class="ms">once</span> d<span class="m">huille d<span class="pa"
 ## Pour faire v<span class="m">erny Rouge</span>
 
  
-Prens du <span class="m">vermilhon</span> & le fais tremper aveq de l<span class="m">eau de<br/> goume</span> ainsin que daultre <span class="m">eau</span> et en fais comme daultre <span class="m">verny</span><br/> & mesle ceste aultre <span class="m">eau</span> comm daultre <span class="m">verny</span> et puys le<br/> couche comme devant <span class="del">pour faire trois verd</span>
+Prens du <span class="m">vermilhon</span> & le fais tremper aveq de l<span class="m">eau de<br/> goume</span> ainsin q<span class="exp">ue</span> dau<span class="exp">ltr</span>e <span class="m">eau</span> et en fais comme dau<span class="exp">ltr</span>e <span class="m">verny</span><br/> & mesle ceste au<span class="exp">ltr</span>e <span class="m">eau</span> comm dau<span class="exp">ltr</span>e <span class="m">verny</span> et puys le<br/> couche comme devant <span class="del">pour faire trois verd</span>
  
  
   

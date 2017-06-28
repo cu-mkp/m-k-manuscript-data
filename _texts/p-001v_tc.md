@@ -25,7 +25,7 @@ animals: [poulet]
 ## Pour lascher le ventre
 
  
-Les <span class="m"><span class="pa">pruneaux</span> de <span class="pl">Sainct Antonin</span></span> & si tu veulx parmy tu pourras<br/> mectre des <span class="m">foeilles de <span class="pa">mauves</span></span> & de <span class="m"><span class="pa">viole</span></span> y adjoustant du <span class="m">sucre</span><br/> & si on veult un peu de <span class="m"><span class="pa">canelle</span></span> pour lestomac
+Les <span class="m"><span class="pa">pruneaux</span> de <span class="pl">S<span class="exp">ainc</span>t Antonin</span></span> & si tu veulx parmy tu pourras<br/> mectre des <span class="m">foeilles de <span class="pa">mauves</span></span> & de <span class="m"><span class="pa">viole</span></span> y adjoustant du <span class="m">sucre</span><br/> & si on veult un peu de <span class="m"><span class="pa">canelle</span></span> pour lestomac
  
 Ou bien dans un <span class="m">bouillon de <span class="al">poulet</span></span> de la <span class="m">racine de <span class="pa">guimave</span></span><br/> la fresche est plus remollitive
  @

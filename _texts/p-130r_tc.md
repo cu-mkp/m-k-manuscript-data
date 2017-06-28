@@ -25,7 +25,7 @@ animals: [chats, rats, escrevisses, yraigne, iraigne, yraignes]
 ## Animaulx seches au four
 
  
-Les petits <span class="del"></span> <span class="al">chats</span> sescorchent et on leur oste les yeulx<br/> & toutes les entrailles on leur mect un petit baston de long entre<br/> les dents pour leur faire fort ouvrir la gueule Puys avecq<br/> des poinctes de <span class="m">fer</span> on leurs attache les pieds sur une petite<br/> table leur donnant le plant & desmarche convenable Estant<br/> ainsy attache par les pieds <span class="add">avec de petits aneaulx de fil de <span class="m">fer</span> ainsy</span> Il les faut pendre au soleil<br/> leschine en bas En ceste sorte ils prenent <span class="del">&d</span> leurs ply &<br/> se seichent & le ventre se froissest & la queue demeure<br/> hauste <span class="add">ou avec le reply que ne luy auras donne</span> Estant par ce moyen un peu sec on leur contourne<br/> la teste comme on veut lasseurant avecq quelque houtil Puys<br/> on lacheve de seicher au four quant le pain est tire Apres<br/> on luy mect dans le cave des yeulx des balles de <span class="m">plomb</span> ou<br/> de <span class="m">cire</span> peincte selon le naturel On les painct d<span class="m">ancre</span> bien <span class="m">gomme</span><br/> pour semblable estre de geyct on luy donne une langue peincte des<br/> cornes des aisles & semblables fantasies ainsy des <span class="al">rats</span> &<br/> touts animaulx
+Les petits <span class="del"><span class="ill"></span></span> <span class="al">chats</span> sescorchent et on leur oste les yeulx<br/> & toutes les entrailles on leur mect un petit baston de long entre<br/> les dents pour leur faire fort ouvrir la gueule Puys avecq<br/> des poinctes de <span class="m">fer</span> on leurs attache les pieds sur une petite<br/> table leur donnant le plant & desmarche convenable Estant<br/> ainsy attache par les pieds <span class="add">avec de petits aneaulx de fil de <span class="m">fer</span> ainsy</span> Il les faut pendre au soleil<br/> leschine en bas En ceste sorte ils prenent <span class="del">&d</span> leurs ply &<br/> se seichent & le ventre se froissest & la queue demeure<br/> hauste <span class="add">ou avec le reply que ne luy auras donne</span> Estant par ce moyen un peu sec on leur contourne<br/> la teste co<span class="exp">mm</span>e on veut lasseura<span class="exp">n</span>t avecq quelque houtil Puys<br/> on lacheve de seicher au four quant le pain est tire Apres<br/> on luy mect dans le cave des yeulx des balles de <span class="m">plomb</span> ou<br/> de <span class="m">cire</span> peincte selon le naturel On les painct d<span class="m">ancre</span> bien <span class="m">gomme</span><br/> pour semblable estre de geyct on luy donne une langue peincte des<br/> cornes des aisles & semblables fantasies ainsy des <span class="al">rats</span> &<br/> touts animaulx
  
 > *at left top margin*
 > 
@@ -41,7 +41,7 @@ Les petits <span class="del"></span> <span class="al">chats</span> sescorchent e
 ## Pour rougir les <span class="al">escrevisses</span> vives<br/> qui sembleront bouillies
 
  
-Frotte les dans de fort bon <span class="m">vinaigre</span> ou il y aye un peu d<span class="m">eau<br/> de vye</span> & non guere & elles se pourront servir comme cuittes & cheminer
+Frotte les dans de fort bon <span class="m">vinaigre</span> ou il y aye un peu d<span class="m">eau<br/> de vye</span> & non guere & elles se pourront servir co<span class="exp">mm</span>e cuittes & cheminer
 
  
   
@@ -49,12 +49,12 @@ Frotte les dans de fort bon <span class="m">vinaigre</span> ou il y aye un peu d
 ## Mouler une <span class="al">yraigne</span> seule
 
  
-Il la faut planter sur la <span class="tl">plaste d<span class="m">argille</span></span> comme il est dict<br/> sur la feuille de <span class="pa">vigne</span> Et fayre la dessus le premier<br/> gect & comme il aura fait prise Descouvre l<span class="al">iraigne</span> jusque<br/> a la moictie des jambes puys fais le second gect
+Il la faut planter sur la <span class="tl">plaste d<span class="m">argille</span></span> co<span class="exp">mm</span>e il est dict<br/> sur la feuille de <span class="pa">vigne</span> Et fayre la dessus le premier<br/> gect & comme il aura fait prise Descouvre l<span class="al">iraigne</span> jusque<br/> a la moictie des jambes puys fais le second gect
  
 > *at left bottom margin*
 > 
 > 
->   Aussi.<br/> Les pieds pelus des grosses <span class="al">yraignes</span> comme<br/> tout poil danimal ne se moule pas bien sil nest<br/> couche layant oint<br/> aveclq de l<span class="m">huile de<br/> <span class="pa">froment</span></span> qui lafermit<br/> & est bien tost sec<br/> Les choses pelues<br/> se meslent avecq le<br/> sable & ne se<br/> bruslent pas<br/> bien
+>   Aussi.<br/> Les pieds pelus des grosses <span class="al">yraignes</span> co<span class="exp">mm</span>e<br/> tout poil danimal ne se moule pas bien sil nest<br/> couche layant oint<br/> aveclq de l<span class="m">huile de<br/> <span class="pa">froment</span></span> qui lafermit<br/> & est bien tost sec<br/> Les choses pelues<br/> se meslent avecq le<br/> sable & ne se<br/> bruslent pas<br/> bien
  
  
   

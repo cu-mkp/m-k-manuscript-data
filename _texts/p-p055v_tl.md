@@ -23,7 +23,7 @@ animals: [Toad]
  
 *[continued]*
   
-for fifteen days. Next you will break it sc. the bottle from a good distance & with a long stick without looking at it & your eyes covered, you will put it where you want, or rub a little in a running river or on a tree or on grass that is on the bank.
+for fifteen days. Next you will break it <span class="x">sc. the bottle</span> from a good distance & with a long stick without looking at it & your eyes covered, you will put it where you want, or rub a little in a running river or on a tree or on grass that is on the bank.
 
  
   

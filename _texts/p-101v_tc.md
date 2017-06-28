@@ -23,7 +23,7 @@ animals: []
  
 *[continued]*
   
-que le <span class="tl">crusol</span> soict rouge Apres jecte le sur un <span class="tl"><span class="m">mabre</span></span><br/> et tu auras une matiere blanche dure & unie comme <span class="m">albastre</span><br/> dequoy tu pourras jecter medailles qui sembleront <span class="m">mabre</span><br/> mays garde les de lhumidite
+que le <span class="tl">crusol</span> soict rouge Apres jecte le sur un <span class="tl"><span class="m">mabre</span></span><br/> et tu auras une matiere blanche dure & unie co<span class="exp">mm</span>e <span class="m">albastre</span><br/> dequoy tu pourras jecter medailles qui semblero<span class="exp">n</span>t <span class="m">mabre</span><br/> mays garde les de lhumidite
  
  
   
@@ -31,7 +31,7 @@ que le <span class="tl">crusol</span> soict rouge Apres jecte le sur un <span cl
 ## <span class="m">Jacinthe</span>
 
  
-Se faict comme le <span class="m">ruby</span> avecq de l<span class="m">or</span> mays il ny<br/> fault pas si grand foeu Le <span class="m">ruby</span> veult foeu tout<br/> un jour Et sil nha pas asses de foeu il naura<br/> que des veines rouges
+Se faict co<span class="exp">mm</span>e le <span class="m">ruby</span> avecq de l<span class="m">or</span> mays il ny<br/> fault pas si grand foeu Le <span class="m">ruby</span> veult foeu tout<br/> un jour Et sil nha pas asses de foeu il naura<br/> que des veines rouges
  
 > *at left top margin*
 > 
@@ -49,7 +49,7 @@ Se faict comme le <span class="m">ruby</span> avecq de l<span class="m">or</span
 ## <span class="m">Topasse</span>
 
  
-Jay fondu une part de <span class="m">pierre ponce</span> calcinee &<br/> pulverisee <span class="del">& tr</span> avecq trois pars de <span class="m">minium</span><br/> et la <span class="m">pierre</span> pulverisee dans un <span class="tl">mortier de <span class="del">ver f</span><br/> <span class="m">acier</span></span> Il mest <span class="add">@venu</span> un fort beau jaulne sans aulcuns<br/> grains plus jaulne que nul aultre Il est vray<br/> quil estoict charge fort de couleur Je croy quil<br/> seroit mieulx de <span class="del">le</span> pulveriser la <span class="m">ponce</span> dans un<br/> <span class="tl">mortier de <span class="m">verre</span></span> pourcequelle & le <span class="m">minium</span> font asses<br/> jaulne deulx mesme Il mest venu une masse le dessus<br/> beau jaulne comme dict est le dessoubs comme <span class="m">caillou a<br/> foeu</span> sans transparence avecq quoy en meslant daultr@
+Jay fondu une part de <span class="m">pierre ponce</span> calcinee &<br/> pulverisee <span class="del">& tr</span> avecq trois pars de <span class="m">minium</span><br/> et la <span class="m">pierre</span> pulverisee dans un <span class="tl">mortier de <span class="del">ver f</span><br/> <span class="m">acier</span></span> Il mest <span class="add">@venu</span> un fort beau jaulne sans aulcuns<br/> grains plus jaulne que nul aultre Il est vray<br/> quil estoict charge fort de couleur Je croy quil<br/> seroit mieulx de <span class="del">le</span> pulveriser la <span class="m">ponce</span> dans un<br/> <span class="tl">mortier de <span class="m">verre</span></span> pourcequelle & le <span class="m">minium</span> font asses<br/> jaulne deulx mesme Il mest venu une masse le dessus<br/> beau jaulne co<span class="exp">mm</span>e dict est le dessoubs co<span class="exp">mm</span>e <span class="m">caillou a<br/> foeu</span> sans transparence avecq quoy en meslant daultr@
  
  
   

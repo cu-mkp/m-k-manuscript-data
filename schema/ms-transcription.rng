@@ -146,6 +146,15 @@
     </element>
   </define>
 
+<!-- exp -->
+  
+  <define name="e.exp">
+    <a:documentation>Expansion: text added by the editor or transcriber expanding an abbreviation in the source</a:documentation>
+    <element name="exp">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+
   <!-- gap -->
   <a:documentation>Gap: Text added to the document by author, scribe, but *not* by a
     transcriber</a:documentation>
@@ -154,6 +163,17 @@
       <empty/>
     </element>
   </define>
+
+<!-- ill -->
+  
+  <define name="e.ill">
+    <a:documentation>Correction: A revision introduced into the transcription by the
+      transcriber/Editor</a:documentation>
+    <element name="ill">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+
 
   <!-- lb -->
   <define name="e.lb">
@@ -194,9 +214,26 @@
     </element>
   </define>
 
+  <!-- unc -->
+  <define name="e.unc">
+    <a:documentation>Unclear: Text which has been transcribed but with some uncertainty</a:documentation>
+    <element name="unc">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+
   <!-- underline -->
   <define name="e.underline">
     <element name="underline">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+  
+  <!-- exp -->
+  
+  <define name="e.x">
+    <a:documentation>X: used to indicate ambiguous use of square brackets in the transcription</a:documentation>
+    <element name="x">
       <ref name="m.phrase"/>
     </element>
   </define>
@@ -293,7 +330,7 @@
   <define name="e.bp">
     <a:documentation>Body Part</a:documentation>
     <element name="bp">
-      <text/>
+      <ref name="m.phrase"/>
     </element>
   </define>
 
@@ -391,7 +428,7 @@
   <define name="e.cn">
     <a:documentation>Currency Term: Coins and currency (only type of coin, not amount) [if it is a price without being a coin, let an instructor know]</a:documentation>
     <element name="cn">
-      <text/>
+      <ref name="m.phrase"/>
     </element>
   </define>
 
@@ -429,6 +466,7 @@
         <ref name="e.figure"/>
         <ref name="e.fr"/>
         <ref name="e.it"/>
+        <ref name="e.ill"/>
         <ref name="e.la"/>
         <ref name="e.lb"/>
         <ref name="e.m"/>
@@ -450,6 +488,9 @@
         <ref name="e.oc"/>
         <ref name="e.rub"/>
         <ref name="e.underline"/>
+        <ref name="e.exp"/>
+        <ref name="e.x"/>
+        <ref name="e.unc"/>
       </choice>
     </oneOrMore>
   </define>

@@ -23,7 +23,7 @@ animals: []
  
 *[continued]*
   
-foeu Jusques ace quil soit asses cuyt Et la coulles pardedans<br/> une <span class="tl"><span class="m">toille</span> qui soit asses serree</span> Et quand vous laures coulle<br/> laisses la Refroidir ung petict Et si vous voies quil soit<br/> trop espaix que vous ne le puissies couler vous mectres ung<br/> petict dudict <span class="m">huille</span> & le feres meilheur
+foeu Jusques ace q<span class="exp">ui</span>l soit asses cuyt Et la coulles pardedans<br/> une <span class="tl"><span class="m">toille</span> q<span class="exp">ui</span> soit asses serree</span> Et quand vous laures coulle<br/> laisses la Refroidir ung petict Et si vous voies q<span class="exp">ui</span>l soit<br/> trop espaix q<span class="exp">ue</span> vous ne le puissies couler vous mectres ung<br/> petict dud<span class="exp">ict</span> <span class="m">huille</span> & le feres meilheur
  
  
   
@@ -31,7 +31,7 @@ foeu Jusques ace quil soit asses cuyt Et la coulles pardedans<br/> une <span cla
 ## Pour faire <span class="m">vernys Rouge</span>
 
  
-Prenes de <span class="m">vermilhon</span> Et le faictes tremper avecq de l<span class="m">eaue<br/> de gaulme bien clair</span> ainsin quelaultre est faicte deux ou<br/> trois assictes comme dessus 
+Prenes de <span class="m">vermilhon</span> Et le faictes tremper avecq de l<span class="m">eaue<br/> de gaulme bien clair</span> ainsin q<span class="exp">ue</span>lau<span class="exp">ltr</span>e est faicte deux ou<br/> trois assictes comme dess<span class="exp">us</span> 
  
  
   
@@ -39,7 +39,7 @@ Prenes de <span class="m">vermilhon</span> Et le faictes tremper avecq de l<span
 ## Pour faire <span class="m">vernys Jaulne</span>
 
  
-Prenes dela <span class="m">Gaulme arrabic</span> & la faictes <span class="del">tr</span>destremper aveq<br/> de l<span class="m">eaue</span> puys prenes du <span class="m">saffran bien baptu</span> & destrempe<br/> ladicte <span class="m">Gaulme</span> Et la faictes bien claire puys faictes vostre assicte<br/> Sur ce que vous vouldres vernir & la laisses secher & quand<br/> Il sera sec donnes une aultre assicte du mesme & la laisses<br/> seicher comme devant tant quil sera asses sec puys prenes<br/> du <span class="m">verny</span> del<span class="pro">apoticquaire</span> concasse par cou asses loing lung<br/> de laultre puys laves vostre <span class="bp">main</span> bien necte & de la <span class="tl"><span class="bp">paulme</span></span><br/> dicelle estendes vostre <span class="m">verny</span> 
+Prenes dela <span class="m">Gaulme arrabic</span> & la faictes <span class="del">tr</span>destremper aveq<br/> de l<span class="m">eaue</span> puys prenes du <span class="m">saffran bien baptu</span> & destrempe<br/> lad<span class="exp">icte</span> <span class="m">Gaulme</span> Et la faictes bien claire puys faictes v<span class="exp">ost</span>re assicte<br/> Sur ce q<span class="exp">ue</span> vous vouldres vernir & la laisses secher & quand<br/> Il sera sec donnes une au<span class="exp">ltr</span>e assicte du mesme & la laisses<br/> seicher comme devant tant q<span class="exp">ui</span>l sera asses sec puys prenes<br/> du <span class="m">verny</span> del<span class="pro">apoticquaire</span> concasse par cou asses loing lung<br/> de lau<span class="exp">ltr</span>e puys laves v<span class="exp">ost</span>re <span class="bp">main</span> bien necte & de la <span class="tl"><span class="bp">paulme</span></span><br/> dicell<span class="exp">e</span> estendes v<span class="exp">ost</span>re <span class="m">verny</span> 
  
  
   
@@ -47,7 +47,7 @@ Prenes dela <span class="m">Gaulme arrabic</span> & la faictes <span class="del"
 ## Recepte pour <span class="m">Gaulme</span> blanche
 
  
-Prenes <span class="m">Sire blanche</span> & dela <span class="m">seruze</span> & ung petict de <span class="m">poix</span><br/> fine tresbien pillee Ensemble & la mectes dedans ung petict<br/> pot neuf & la faictes fondre Et quand elle sera fondue vous<br/> feres une palette de <span class="m">boys</span> <span class="del">de</span><span class="add">&</span> brunises ce que vouldres
+Prenes <span class="m">Sire blanche</span> & dela <span class="m">seruze</span> & ung petict de <span class="m">poix</span><br/> fine tresbien pillee Ensemble & la mectes dedans ung petict<br/> pot neuf & la faictes fondre Et quand elle sera fondue vous<br/> feres une palette de <span class="m">boys</span> <span class="del">de</span><span class="add">&</span> brunises ce q<span class="exp">ue</span> vouldres
  
  
   
@@ -55,5 +55,5 @@ Prenes <span class="m">Sire blanche</span> & dela <span class="m">seruze</span> 
 ## <span class="m">Gorime</span> verte
 
  
-Prenes dela <span class="m">cire verte</span> aveq du <span class="m">vert de Gris</span> ung petict Et le<br/> faictes fondre comme dessus 
+Prenes dela <span class="m">cire verte</span> aveq du <span class="m">vert de Gris</span> ung petict Et le<br/> faictes fondre comme dess<span class="exp">us</span> 
  

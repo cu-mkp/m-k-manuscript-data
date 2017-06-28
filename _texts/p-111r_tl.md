@@ -49,17 +49,17 @@ When it's melted, it is good to throw in a little fine <span class="m">tin</span
 ## <span class="m">Clay earth</span>
 
  
-This, wet & well beat & kneaded as you know, is necessary for you to make the contour of your molds. But attend that it not be too soft. But likewise attend that it be sort of half dry such that it doesn't attack the hands at all, because otherwise it would attack your work. Always keep it in a damp place, and make some holes in it, and fill them with water, to keep it fresh.
+This, wet & well beat & kneaded as you know, is necessary for you to make the contour of your molds. But attend that it not be too soft. But likewise <span class="x">attend that it be</span> sort of half dry such that it doesn't attack the hands at all, because otherwise it would attack your work. Always keep it in a damp place, and make some holes in it, and fill them with water, to keep it fresh.
  
 > *at left middle margin*
 > 
 > 
->   The gray <span class="m">earth</span> is best which does not cleave at all.
+>   The gray <span class="x"><span class="m">earth</span></span> is best which does not cleave at all.
  
 > *at left middle margin*
 > 
 > 
->   It is neater than  of <span class="m">lead</span>.
+>   It is neater than <span class="ill"></span> of <span class="m">lead</span>.
  
 > *Figure*
 > *at left middle margin*
@@ -71,5 +71,5 @@ This, wet & well beat & kneaded as you know, is necessary for you to make the co
 ## <span class="m">Iron</span> wire
 
  
-You have to be provisioned with different thicknesses according to the molds that you want to make, some large like packthread from  & some thin, like the fat cords of a spinet, for small works. With it reheated, make clamps to close the molds & make points like needles of various lengths according to your need, to fasten the animal to the mold & hold it subject. Needles would not be good for this since your points must be hollow & of the same thickness throughout, except at the point. And then you have to make them as long as you have need. <span class="m">Iron</span> wire is harder than that of <span class="m">latten</span>.
+You have to be provisioned with different thicknesses according to the molds that you want to make, some large like packthread from <span class="ill"></span> & some thin, like the fat cords of a spinet, for small works. With it reheated, make clamps to close the molds & make points like needles of various lengths according to your need, to fasten the animal to the mold & hold it subject. Needles would not be good for this since your points must be hollow & of the same thickness throughout, except at the point. And then you have to make them as long as you have need. <span class="m">Iron</span> wire is harder than that of <span class="m">latten</span>.
  

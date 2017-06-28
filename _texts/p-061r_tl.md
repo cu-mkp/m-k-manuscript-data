@@ -31,7 +31,7 @@ and even it well <span class="del">then</span> and once quite dry, they draw the
 ## Flesh colors
 
  
-You need to make two kinds of it, one more red to make the main layer, the other more pale for the highlights, as around the eyes. And then on this last flesh color, you will lightly touch the main daylight with a little <span class="m">lead white</span>. But avoid putting too much of it for this will look like the face of a dead person. The beautiful <span class="m"><span class="pl">Florence</span> lake</span> makes a beautiful vivid flesh color that approaches <span class="del"></span> the complexion of <span class="m">rose alexandrine</span> & <span class="m">incarnadine</span>.
+You need to make two kinds of it, one more red to make the main layer, the other more pale for the highlights, as around the eyes. And then on this last flesh color, you will lightly touch the main daylight with a little <span class="m">lead white</span>. But avoid putting too much of it for this will look like the face of a dead person. The beautiful <span class="m"><span class="pl">Florence</span> lake</span> makes a beautiful vivid flesh color that approaches <span class="del"><span class="ill"></span></span> the complexion of <span class="m">rose alexandrine</span> & <span class="m">incarnadine</span>.
  
 > *at left top margin*
 > 

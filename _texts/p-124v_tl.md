@@ -25,7 +25,7 @@ animals: [lizards, snake]
 ## <span class="m">Rouge clair</span> @ <span class="add"><span class="m">enamel</span></span>
 
  
-Fine <span class="m">gold</span> is unfavorable for it, for <span class="del"></span> on the former it is yellowish. But alloyed <span class="m">gold</span> is more favorable, such as that of <span class="cn">escu</span> & <span class="cn">pistolet</span>. <span class="del">If</span> <span class="m">Gold</span> in its pale color decays the <span class="m">enamel</span>’s hue. <span class="del">Ma</span> And for this occasion, once cut, one puts it back on the fire to give it a reddish color to make <span class="m">enamels</span> beautiful. Otherwise, they are subdued.
+Fine <span class="m">gold</span> is unfavorable for it, for <span class="del"><span class="ill"></span></span> on the former it is yellowish. But alloyed <span class="m">gold</span> is more favorable, such as that of <span class="cn">escu</span> & <span class="cn">pistolet</span>. <span class="del">If</span> <span class="m">Gold</span> in its pale color decays the <span class="m">enamel</span>’s hue. <span class="del">Ma</span> And for this occasion, once cut, one puts it back on the fire to give it a reddish color to make <span class="m">enamels</span> beautiful. Otherwise, they are subdued.
  
 There is <span class="m">rouge clair</span> that once worn down with <span class="m">arene</span> loses its beauty.
  

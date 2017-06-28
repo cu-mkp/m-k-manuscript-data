@@ -43,7 +43,7 @@ To clean the various colors of <span class="m">lead</span> and <span class="m">t
 ## <span class="al">Lizards</span>
 
  
-When one grabs them with two fingers from the sides of the head, at the level of the ears, one makes them open their mouth with the tip of the fingernail, then one grabs the edge of their lower jaw, and then the edge of the upper one. He squeezes the fingernail like a pair of pincers, but he cannot go through it, but he squeezes it quite hard; and if he bit the flesh, he would never let go of his hold, and there would be no better remedy than to cut off his head promptly. In the spring, as they have shed their skin, they are better—looking.
+When one grabs them with two fingers from the sides of the head, at the level of the ears, one makes them open their mouth with the tip of the fingernail, then one grabs the edge of their lower jaw, and then <span class="x">the edge</span> of the upper one. He squeezes the fingernail like a pair of pincers, but he cannot go through it, but he squeezes it quite hard; and if he bit the flesh, he would never let go of his hold, and there would be no better remedy than to cut off his head promptly. In the spring, as they have shed their skin, they are better—looking.
  
 > *at left middle margin*
 > 

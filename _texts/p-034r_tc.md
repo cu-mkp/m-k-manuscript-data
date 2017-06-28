@@ -30,7 +30,7 @@ Fais luy embrasser la quenoille du lict ou chose semblable<br/> & que du mesme b
  
   X
 
-## Gaiger a quelqu<span class="del">le</span>un que se promenant<br/> jusques a tel lieu et en revenir il ne<br/> dira point quattre fois de suite botte sans esperon
+## Gaiger a quelqu<span class="del">le</span>un que se promenant<br/> jusques a tel lieu et en revenir il ne<br/> dira point quattre fois de suite botte sa<span class="exp">n</span>s espero<span class="exp">n</span>
 
  
 Sil sessaye de le dirdir<span class="del">a</span>e <span class="add">mays il fault quil parle hault</span> quand il sera alle & revenu tu luy<br/> Xdiras quil ha perdu pourcequil falloit quil dict quattre foys<br/> botte sans dire esperon car ta gageure est telle
@@ -38,7 +38,7 @@ Sil sessaye de le dirdir<span class="del">a</span>e <span class="add">mays il fa
  
   
 
-## Faire tenir un chandellier contre la <span class="env">muraille</span><br/> sans y fayre trou
+## Faire tenir un chandellier co<span class="exp">n</span>tre la <span class="env">muraille</span><br/> sans y fayre trou
 
  X
 Fais le tenir par un <span class="pro">vallet</span> contre la <span class="env">muraille</span>
@@ -57,5 +57,5 @@ Tu en coupperas un petit loppin <span class="ms">gros comme un <span class="tl">
 ## Escripre subtillement
 
  
-Couppe de longs listeaulx de <span class="m">parchemin</span> subtil & les marque<br/> selon lordre de leur suicte de A B C & cætera puys les fais<br/> couldre dans la lisiere dune chemisse de grosse <span class="m">toile</span> comme<br/> pour un <span class="pro">messager</span> lequel si tu veulx distraire sa chemise nen<br/> scaura rien
+Couppe de longs listeaulx de <span class="m">parchemin</span> subtil & les marque<br/> selon lordre de leur suicte de A B C & cætera puys les fais<br/> couldre dans la lisiere dune chemisse de grosse <span class="m">toile</span> co<span class="exp">mm</span>e<br/> pour un <span class="pro">messager</span> lequel si tu veulx distraire sa chemise nen<br/> scaura rien
  

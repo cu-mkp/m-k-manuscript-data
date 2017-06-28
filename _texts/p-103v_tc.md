@@ -25,7 +25,7 @@ animals: []
 ## Clistere
 
  
- Affin que le tuyau noffense poinct comme les enfans<br/> ou ceulx qui <span class="del">se</span> ont les veines hemorroidales eminentes<br/> ou enflees On revest le bout du canon dun lopin de <span class="m">boyau<br/> de poulet</span> & on le replye par le bout & en ceste sorte<br/> on donne le clistere
+ Affin que le tuyau noffense poinct co<span class="exp">mm</span>e les enfans<br/> ou ceulx qui <span class="del">se</span> ont les veines hemorroidales eminentes<br/> ou enflees On revest le bout du canon dun lopin de <span class="m">boyau<br/> de poulet</span> & on le replye par le bout & en ceste sorte<br/> on donne le clistere
  
  
   
@@ -33,7 +33,7 @@ animals: []
 ## Gect
 
  
- L<span class="m">estaim</span> se retire estant espes par ainsy il est<br/> mieulx de le gecter tanvre & dune piece en faire<br/> deulx puys le<span class="add">s</span> <span class="m">soulder</span> si besoing est On se sert<br/> dun <span class="m">taffetas</span> fort pour passer le sable subtil duquel<br/> on couvre premierement la medaille de l<span class="ms">espesseur dun<br/> <span class="cn">teston</span></span>
+ L<span class="m">estaim</span> se retire estant espes par ainsy il est<br/> mieulx de le gecter tanvre & dune piece en faire<br/> deulx puys le<span class="add">s</span> <span class="m">soulder</span> si besoing est On se sert<br/> dun <span class="m">taffetas</span> fort pour passer le sable subtil duquel<br/> on couvre premierem<span class="exp">ent</span> la medaille de l<span class="ms">espesseur dun<br/> <span class="cn">teston</span></span>
  
  
   

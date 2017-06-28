@@ -22,10 +22,10 @@ animals: []
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-075v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f156.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>075v</a> - - - - - </div>  
   
 
-## Pour faire du <span class="m">boys gris</span>
+## Pour f<span class="exp">air</span>e du <span class="m">boys gris</span>
 
  
-Il fault prendre de <span class="m">limailhe de fer</span> trois demy sestier pour<br/> xviii <span class="del">s</span> deniers <span class="m">dalung de glace</span> & pour aultant de <span class="m">couperose<br/> verte</span> pour six deniers de <span class="m">vert de gris</span> de l<span class="del">am</span>a<span class="m">poix</span> & une carte<br/> de <span class="del">cuyr</span> <span class="m"><span class="add">eaue</span> de <span class="pro">courroieur</span></span> Et si vous nen trouves poinct vous<br/> mectres de <span class="del">plus</span> <span class="add">l<span class="m">eaue de pluye</span></span>  de menu de gre
+Il fault prendre de <span class="m">limailhe de fer</span> trois demy sestier po<span class="exp">ur</span><br/> xviii <span class="del">s</span> deniers <span class="m">dalung de glace</span> & pour aultant de <span class="m">couperose<br/> verte</span> pour six den<span class="exp">iers</span> de <span class="m">vert de gris</span> de l<span class="del">am</span>a<span class="m">poix</span> & une carte<br/> de <span class="del">cuyr</span> <span class="m"><span class="add">eaue</span> de <span class="pro">courroieur</span></span> Et si vous nen trouves poinct vous<br/> mectres de <span class="del">plus</span> <span class="add">l<span class="m">eaue de pluye</span></span>  de menu de gre
  
  
   
@@ -33,9 +33,9 @@ Il fault prendre de <span class="m">limailhe de fer</span> trois demy sestier po
 ## Pour dorer sur le <span class="m">boys</span>
 
  
-Premierement fault poser une couche de <span class="m">colle</span> bien claire Et<br/> estant seiche vous poseres une couche d<span class="m">ore Jaulne</span> Et quand il<br/> sera faict vous prendres du <span class="m">boys de figier</span>& le mectres tremper<br/> quelque espace de temps & en laveres les plases que vous voules<br/> dorer et coupperes vostre or avecq ung couteau au pris que le poseres<br/> Et fault poser ledict or avecq du couto<span class="del">ie</span><span class="add">n</span> et si vous pouves trouver<br/> du <span class="pa">figuier</span> prenes le <span class="m">blanc dung œuf</span> & le fort remuer
+Premierement fault poser une couche de <span class="m">colle</span> bien claire Et<br/> estant seiche vous poseres une couche d<span class="m">ore Jaulne</span> Et quand il<br/> sera faict vous prendres du <span class="m">boys de figier</span>& le mectres tremper<br/> quelque espace de temps & en laveres les plases q<span class="exp">ue</span> vous voules<br/> dorer et coupperes v<span class="exp">ost</span>re or avecq ung couteau au pris q<span class="exp">ue</span> le poseres<br/> Et fault poser led<span class="exp">ict</span> or avecq du couto<span class="del">ie</span><span class="add">n</span> et si vous pouves trouver<br/> du <span class="pa">figuier</span> prenes le <span class="m">blanc dung œuf</span> & le fort remuer
  
-Et si vostre or Na asses belle couleur vous prandres de la<br/> <span class="m">plume de perdris</span> & la feres bruller dedans une choffrette<br/> et faictes aller la fumee contre ce que vous aures doré
+Et si v<span class="exp">ost</span>re or Na asses belle couleur vous prandres de la<br/> <span class="m">plume de perdris</span> & la feres bruller dedans une choffrette<br/> et faictes aller la fumee co<span class="exp">n</span>tre ce q<span class="exp">ue</span> vous aures doré
  
  
   
@@ -43,7 +43,7 @@ Et si vostre or Na asses belle couleur vous prandres de la<br/> <span class="m">
 ## Pour dorer d<span class="m">or Moleu</span>
 
  
-Fault prandre une coquille d<span class="m">or</span> et auparavant que en vouldres<br/> travailher vous la mectres tramper avecq de l<span class="m">eaue de Gome</span> Et<br/> le poseres avecq un pinsseau & le polires avecq une <span class="del">peau</span> <span class="m"><span class="add">dant</span> de<br/> loup</span> quand il sera sec
+Fault prandre une coquille d<span class="m">or</span> et auparavant q<span class="exp">ue</span> en vouldres<br/> travailher vous la mectres tramper avecq de l<span class="m">eaue de Gome</span> Et<br/> le poseres avecq un pinsseau & le polires avecq une <span class="del">peau</span> <span class="m"><span class="add">dant</span> de<br/> loup</span> quand il sera sec
  
  
   
@@ -51,7 +51,7 @@ Fault prandre une coquille d<span class="m">or</span> et auparavant que en vould
 ## Recepte pour Mectre tous <span class="m">boys</span><br/> en coulleur
 
  
- Pour le faire noir Il le fault tremper en <span class="m">huille dolive</span> Et<br/> la <span class="m">Carne</span> au cas semblablement quatre ou Cinq Jours & puys<br/> le bouilhir la ou Il aura trempe lespace dune heure & la<br/> tirer hors de l<span class="m">huille</span> Et prandre du <span class="m">souffre vif</span> ou daultre
+ Pour le faire noir Il le fault tremper en <span class="m">huille dolive</span> Et<br/> la <span class="m">Carne</span> au cas semblablement quatre ou Cinq Jours & puys<br/> le bouilhir la ou Il aura trempe lespace dune heure & la<br/> tirer hors de l<span class="m">huille</span> Et prandre du <span class="m">souffre vif</span> ou dau<span class="exp">ltr</span>e
  
 *[continued]*
  

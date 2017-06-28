@@ -25,7 +25,7 @@ animals: []
 ## <span class="m">Or</span> couleur
 
  
-Pour avoyr bien tost faict couche d<span class="m">or</span> <span class="del">sur</span> mat sur <span class="m">toile</span><br/> ou aultre tableau a <span class="m">huile</span> on faict au soleil ou au feu de<br/> l<span class="m">huile de noix</span> gras comme cy devant dict car il sespessist de soy<br/> mesmes en ceste sorte encores quil ny aye point de <span class="m">plomb</span> ne <span class="m">ceruse</span><br/> Et avec iceluy broye du <span class="m">massicot</span> <span class="m">mine</span> & aultres dessiccatifs<br/> non pas <span class="m">verdet</span> ne <span class="m">orpiment</span> car ilz font mourir l<span class="m">or</span> Il sera<br/> sec bien tost Touteffoys si le temps nest serain & sec ne l’adonbre<br/> pas car si le temps est relent & humide il se rendroit noir
+Pour avoyr bien tost faict couche d<span class="m">or</span> <span class="del">sur</span> mat sur <span class="m">toile</span><br/> ou aultre tableau a <span class="m">huile</span> on faict au soleil ou au feu de<br/> l<span class="m">huile de noix</span> gras co<span class="exp">mm</span>e cy devant dict car il sespessist de soy<br/> mesmes en ceste sorte encores quil ny aye point de <span class="m">plomb</span> ne <span class="m">ceruse</span><br/> Et avec iceluy broye du <span class="m">massicot</span> <span class="m">mine</span> & aultres dessiccatifs<br/> non pas <span class="m">verdet</span> ne <span class="m">orpiment</span> car ilz font mourir l<span class="m">or</span> Il sera<br/> sec bien tost Touteffoys si le temps nest serain & sec ne l’adonbre<br/> pas car si le temps est relent & humide il se rendroit noir
  
  
   
@@ -54,7 +54,7 @@ Il fault piler tes materiaulx en un <span class="tl">mortier</span> de <span cla
 ## Le <span class="m">salpestre</span> vitrifie
 
  
-Estant fondu avec les <span class="m">caillous</span> il faict le <span class="m">verre</span> fort blanc<br/> Mays il le fault plustost calciner sur une <span class="tl">tuile</span> ou <span class="tl">palle</span><br/> chaulde Et ce qui restera de la vapeur Mesle le avec aultant<br/> de <span class="m">caillou</span> blanc calcine Il est vray quau petit <span class="tl">fourneau</span><br/> Il ne se clarifie pas bien Mays aulx grandes verrieres<br/> il faict le <span class="m">verre</span> fort cler & blanc & net
+Estant fondu avec les <span class="m">caillous</span> il faict le <span class="m">verre</span> fort blanc<br/> Mays il le fault plustost calciner sur une <span class="tl">tuile</span> ou <span class="tl">palle</span><br/> chaulde Et ce qui restera de la vapeur Mesle le avec aulta<span class="exp">n</span>t<br/> de <span class="m">caillou</span> blanc calcine Il est vray quau petit <span class="tl">fourneau</span><br/> Il ne se clarifie pas bien Mays aulx grandes verrieres<br/> il faict le <span class="m">verre</span> fort cler & blanc & net
  
  
   

@@ -25,11 +25,11 @@ animals: []
 ## Founder's earth
 
  
-This is boulvene earth mixed in with dung or hairs which withstands fire, of which you must always have a large stock hanging around for dawbing the molds that you use to cast in silver and that need reheating. Those where you burn flowers or animals do not need dawbing, unless they have been left to stand once they have been reheated, and once they have been cleaned of any bones and ash that might have remained inside. And having removed the clamps, you open the two halves to see if they have any cracks. Because there is some plaster that does not harden as much in the fire as another one would. Others create crusts on the things that remain to be burned inside. And all of these are imperfections that you must avoid, either by giving the animal a bath of spirits before pouring your soaked sand, or by putting in more or less brick sand or alum, or by reheating the brick to higher temperature, or by instead of mixing in brick, mixing in broken bits of crucibles and similar things that resist fire well. Having therefore reheated your mold to burn what is inside, leave it to cool. And if it is neat and unbroken put the clamps on again, and dawb with the aforementioned earth, that is called of the <span class="pro">founders</span>, dust it with a bit of sifted ashes and leave it to strain. But beware not to dawb your if they are not cold. Those in which you cast silver, where nothing needs burning inside, only need, when the cast and the vents are made, to be dawbed and reheated once. Do not dawb the part of the mold in which you want to cast, but leave it uncovered like the openings of the vents.
+This is boulvene earth mixed in with dung or hairs which withstands fire, of which you must always have a large stock hanging around for dawbing the molds that you use to cast in silver and that need reheating. Those where you burn flowers or animals do not need dawbing, unless they have been left to stand once they have been reheated, and once they have been cleaned of any bones and ash that might have remained inside. And having removed the clamps, you open the two halves to see if they have any cracks. Because there is some plaster that does not harden as much in the fire as another one would. Others create crusts on the things that remain to be burned inside. And all of these are imperfections that you must avoid, either by giving the animal a bath of spirits before pouring your soaked sand, or by putting in more or less brick <span class="x">sand</span> or alum, or by reheating the brick to higher temperature, or by instead of mixing in brick, mixing in broken bits of crucibles and similar things that resist fire well. Having therefore reheated your mold to burn what is inside, leave it to cool. And if it is neat and unbroken put the clamps on again, and dawb with the aforementioned earth, that is called of the <span class="pro">founders</span>, dust it with a bit of sifted ashes and leave it to strain. But beware not to dawb your if they are not cold. Those in which you cast silver, where nothing needs burning inside, only need, when the cast and the vents are made, to be dawbed and reheated once. Do not dawb the part of the mold in which you want to cast, but leave it uncovered like the openings of the vents.
  
-The molds should crack at the first reheating, because then they will not crack at the second reheating anymore.
+The molds should crack at the first reheating, because <span class="x">then</span> they will not crack at the second reheating anymore.
  
-The smallest molds reheat more quickly, therefore take the ones that have finished reheating first when you cast, because you can put several in your furnace at the same time to reheat.
+The smallest molds reheat more quickly, therefore take the ones that have finished reheating first when you cast, because you can put several <span class="x">in your furnace at the same time</span> to reheat.
  
 First light the coals in the forge, or in any other place that is close, and having placed your molds on a layer of good embers, not burning too much, in order to have a slow fire in the beginning, then add in little by little coals that are half lit to the forge.
  
@@ -60,7 +60,7 @@ First light the coals in the forge, or in any other place that is close, and hav
 > *at left middle margin*
 > 
 > 
->   Dawb rather thickly in two or three layers, doing similarly at the points of the joints, so that the silver does not run out of the mold.
+>   Dawb rather thickly in two or three layers, <span class="x">doing</span> similarly at the points of the joints, so that the silver does not run out of the mold.
  
 > *at left bottom margin*
 > 

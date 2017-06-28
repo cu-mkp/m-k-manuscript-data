@@ -49,7 +49,7 @@ If it is crumpled or folded from when it was rolled up, moisten the back side wi
 ## <span class="m">Plaster</span> for molding
 
  
-When it is long to set and dry, it means that it is too fat and moist, which is what makes it shrink away from the fire and crack. This is where burrs come from. The one that comes from lean <span class="m">earth</span> is better. You must not store your moulds made of fat <span class="m">plaster</span> for a long time, because they resemble fat <span class="m">earth</span>, which when drying, cracks. The best is to reheat them soon after they have been made and cast. Moulds made of good <span class="m">plaster</span> can be stored a long time.
+When it is long to set and dry, it means that it is too fat and moist, which is what makes it shrink away from the fire and crack. <span class="x">This is</span> where burrs come from. The one that comes from lean <span class="m">earth</span> is better. You must not store your moulds made of fat <span class="m">plaster</span> for a long time, because they resemble fat <span class="m">earth</span>, which when drying, cracks. The best is to reheat them soon after they have been made and cast. Moulds made of good <span class="m">plaster</span> can be stored a long time.
  
 > *at left middle margin*
 > 
@@ -62,7 +62,7 @@ When it is long to set and dry, it means that it is too fat and moist, which is 
 ## <span class="m"><span class="al">Dragon</span>'s blood</span>
 
  
-You can imitate <span class="al">dragon</span>'s blood with <span class="m">lacquer</span>, which surpasses it in beauty, if when diluted in <span class="m">oil</span>, you use it to ice <span class="m">gold</span> or <span class="m">silver</span>. Diluted with varnish, it fades.
+You can imitate <span class="al">dragon</span>'s blood with <span class="m">lacquer</span>, which surpasses it in beauty, if <span class="x">when</span> diluted in <span class="m">oil</span>, you use it to ice <span class="m">gold</span> or <span class="m">silver</span>. Diluted with varnish, it fades.
  
  
   

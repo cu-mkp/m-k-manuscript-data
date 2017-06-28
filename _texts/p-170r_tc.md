@@ -63,7 +63,7 @@ Ceulx de noyau en recuisant veulent estre poses sur les <span class="m">charbons
 ## Ouvrages espes d<span class="m">estain</span>
 
  
-Il ne veulent pas estre gectes de <span class="m">plomb</span> ou <span class="m">estain rouge</span> comme les<br/> choses tanvres & subtiles cest asses quil soict <span class="del">f</span> bien fondu & chault<br/> Les choses tanvres veulent estre bien chauldes & d<span class="m">estain rouge</span>
+Il ne veulent pas estre gectes de <span class="m">plomb</span> ou <span class="m">estain rouge</span> co<span class="exp">mm</span>e les<br/> choses tanvres & subtiles cest asses quil soict <span class="del">f</span> bien fondu & chault<br/> Les choses tanvres veulent estre bien chauldes & d<span class="m">estain rouge</span>
  
  
   
@@ -71,7 +71,7 @@ Il ne veulent pas estre gectes de <span class="m">plomb</span> ou <span class="m
 ## Nettoyer moules clos
 
  
-Il les fault laisser froidir plustost que soufler dedans pour les<br/> nettoyer car estant chaults ilz retiennent la <span class="m">cendre</span> Estant froids ilz<br/> se nettoyent mieulx Ayes un fil delie de <span class="m">letton</span> ou <span class="m">paille</span> subtile pour nettoyer<br/> la queue parfaictement car cest celle qui faict le gect Soufle en dedans & suppe<br/> attirant a toy Engrossis plustost que mouler la queue avecq de la <span class="m">cire</span> puys couppe la<br/> 
+Il les fault laisser froidir plustost que soufler dedans pour les<br/> nettoyer car estant chaults ilz retiennent la <span class="m">cendre</span> Estant froids ilz<br/> se nettoyent mieulx Ayes un fil delie de <span class="m">letton</span> ou <span class="m">paille</span> subtile pour nettoyer<br/> la queue parfaictem<span class="exp">ent</span> car cest celle qui faict le gect Soufle en dedans & suppe<br/> attirant a toy Engrossis plustost que mouler la queue avecq de la <span class="m">cire</span> puys couppe la<br/> 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5amQ1YVRWWnFGWUE" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
 

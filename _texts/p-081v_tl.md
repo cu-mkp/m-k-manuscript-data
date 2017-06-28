@@ -43,7 +43,7 @@ Put in, at the end, when it is very hot and you want to cast, <span class="m">sa
  
 <span class="m">Calcined black pebbles from the <span class="env">river</span></span> are good for <span class="m">lead</span>, but they are shaken loose for <span class="m">metal</span>.
  
-There is only <span class="del"></span> <span class="m">clay earth with which one can make <span class="m">tiles</span></span>, reheated & reddened & passed through a <span class="tl">sleeve</span> finely moistened with <span class="m">glair</span>.
+There is only <span class="del"><span class="ill"></span></span> <span class="m">clay earth with which one can make <span class="m">tiles</span></span>, reheated & reddened & passed through a <span class="tl">sleeve</span> finely moistened with <span class="m">glair</span>.
  
 <span class="m"><span class="pa">Willow</span> charcoal</span> is excellent for sand for <span class="del">b</span> <span class="m">lead</span>.
  

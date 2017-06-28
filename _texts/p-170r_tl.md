@@ -39,7 +39,7 @@ Relief awls are made of untempered <span class="m">steel</span>, and then it is 
 ## Casting
 
  
-Do not cast all at once because in doing so, the metal overflows and gets cold instead of going to the bottom of the mold. Rather, cast it bit by bit, and gently.
+Do not cast all at once because in doing so, the metal overflows and gets cold instead of going to the bottom <span class="x">of the mold</span>. Rather, cast it bit by bit, and gently.
  
  
   

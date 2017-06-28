@@ -24,7 +24,7 @@ animals: []
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5N1FlRklFdzIxUzQ" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
-To dry jams that are not? liquid, have an open tub pierced on each side with a small, square window, and pass sticks through these from one side to the other, and place on these a sieve made of strings in the form of a net. And on this, you will neatly put your jam containers. And having put at the bottom of the tub a hot coal or two, cover the tub with a cloth folded in two.
+To dry jams that are <span class="x">not?</span> liquid, have an open tub pierced on each side with a small, square window, and pass sticks through these from one side to the other, and place on these a sieve made of strings in the form of a net. And on this, you will neatly put your jam containers. And having put at the bottom of the tub a hot coal or two, cover the tub with a cloth folded in two.
  
  
   

@@ -33,7 +33,7 @@ Pille de la <span class="m"><span class="pa">vesse</span></span> en <span class=
 ## Contre les ventosites colique &c
 
  
-Le <span class="m">suc</span> exprime ou l<span class="m">eau <span class="del"></span> distilee de lescorce d<span class="pa">orenge</span></span><br/> est excellent contre la colique venteuse <span class="m">Lescorce</span> aussi<br/> confite est excellente pour les vents de l<span class="bp">estomac</span> Et pour<br/> en faire preuve Ayant verse du <span class="m">vin escumant</span> dans un<br/> <span class="tl">verre</span> Exprime du <span class="m">jus d<span class="pa">orange</span></span> sur lescume du <span class="m">vin</span> qui<br/> ne provient que de vapeur & vent Et tu verras quincontinent<br/> l<span class="m">escume</span> s'esperdra Si tu exprimes aussi du <span class="m">just</span> contre la<br/> chandelle elle ardra dadvantaige 
+Le <span class="m">suc</span> exprime ou l<span class="m">eau <span class="del"><span class="ill"></span></span> distilee de lescorce d<span class="pa">orenge</span></span><br/> est excellent contre la colique venteuse <span class="m">Lescorce</span> aussi<br/> confite est excellente pour les vents de l<span class="bp">estomac</span> Et pour<br/> en faire preuve Ayant verse du <span class="m">vin escumant</span> dans un<br/> <span class="tl">verre</span> Exprime du <span class="m">jus d<span class="pa">orange</span></span> sur lescume du <span class="m">vin</span> qui<br/> ne provient que de vapeur & vent Et tu verras quincontinent<br/> l<span class="m">escume</span> s'esperdra Si tu exprimes aussi du <span class="m">just</span> contre la<br/> chandelle elle ardra dadvantaige 
  
  
   
@@ -41,7 +41,7 @@ Le <span class="m">suc</span> exprime ou l<span class="m">eau <span class="del">
 ## <span class="m"><span class="pa">Eschervis</span> racine</span>
 
  
-Ils veulent estre plantes en lieu fort humide ou tel quavecq<br/> puys rodier ou fontayne on le puysse souvent arroser Car<br/> par ce moyen ilz sont tendres Aultrement ils se faict au dedans<br/> un coeur dur qui luy oste toute sa bonte 
+Ils veulent estre plantes en lieu fort humide ou tel quavecq<br/> puys rodier ou fontayne on le puysse souvent arroser Car<br/> par ce moyen ilz sont tendres Aultrement ils se faict au deda<span class="exp">n</span>s<br/> un coeur dur qui luy oste toute sa bonte 
  
  
   
@@ -49,15 +49,15 @@ Ils veulent estre plantes en lieu fort humide ou tel quavecq<br/> puys rodier ou
 ## Contre brusleure
 
  
-Pile un <span class="m"><span class="pa">oignon</span></span> avecq du <span class="m">verjus</span> & le laisse ainsy tremper<br/> puys laplique Ou bien aplique sur la brusleure du <span class="m">savon<br/> noir</span> experimente 
+Pile un <span class="m"><span class="pa">oignon</span></span> avecq du <span class="m">verjus</span> & le laisse ainsy tremper<br/> puys laplique Ou bien aplique sur la brusleure du <span class="m">savo<span class="exp">n</span><br/> noir</span> experimente 
  
  
   
 
-## Commun dire
+## Commu<span class="exp">n</span> dire
 
  
-Clocher de <span class="pl">rhodés</span> Eglise d<span class="pl">Alby</span> cloches de <span class="pl">mende</span><br/> Touteffoys on tient la choche de <span class="pl">tholose</span> appellee cardaillac pour<br/> une des plus belles de <span class="pl">france</span> daultant quil poise deuls cens<br/> cinquante <span class="ms">quintals</span> 
+Clocher de <span class="pl">rhodés</span> Eglise d<span class="pl">Alby</span> cloches de <span class="pl">mende</span><br/> Touteffoys on tient la choche de <span class="pl">th<span class="exp">o</span>l<span class="exp">os</span>e</span> appellee cardaillac pour<br/> une des plus belles de <span class="pl">france</span> daultant quil poise deuls cens<br/> cinquante <span class="ms">quintals</span> 
  
  
   

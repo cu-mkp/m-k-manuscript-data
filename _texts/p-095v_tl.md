@@ -27,7 +27,7 @@ The end can be bought already made, a dozen of small ones costs six sols but the
  
 Hilts are of different types: Ornate Guttered which is with round mouldings <span class="m">Pearled</span> Scarfed when the bands are crosswise Onioned which is with a flat head In the King's manner, fully covered 
  
-The <span class="pro">furbishers</span> buy them by dozens, the dozen of full ones costs 10 lb. the worked one, 30 sols or more depending on its nature.
+The <span class="pro">furbishers</span> buy them by dozens, the dozen of full ones costs 10 lb. the worked one, 30 sols or <span class="x">more</span> depending on its nature.
  
 The first thing that the <span class="pro">apprentice</span> does is to furbish as said.
  

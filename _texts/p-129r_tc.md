@@ -25,7 +25,7 @@ animals: [vipere, serpent, lesard, mouches]
 ## Paindre herbes de <span class="m">metal</span>
 
  
-Si tu as haste il sera mieulx que tu destrempes tes couleurs<br/> a <span class="m">gomme</span> point trop espesse <span class="del">ou</span> car l<span class="m">huile</span> est long a seicher<br/> et coule sil est couche cler comme les herbes requierent Et si tu<br/> veulx encores avoir promptement <span class="add">faict</span> destrempe ta couleur avecq de<br/> la <span class="m">glaire</span> battue avecq de la <span class="m">pelure de figuier</span> et bien tost<br/> ton ouvraige sera sec Mays couche cler
+Si tu as haste il sera mieulx que tu destrempes tes couleurs<br/> a <span class="m">gomme</span> point trop espesse <span class="del">ou</span> car l<span class="m">huile</span> est long a seicher<br/> et coule sil est couche cler co<span class="exp">mm</span>e les herbes requierent Et si tu<br/> veulx encores avoir promptem<span class="exp">ent</span> <span class="add">faict</span> destrempe ta couleur avecq de<br/> la <span class="m">glaire</span> battue avecq de la <span class="m">pelure de figuier</span> et bien tost<br/> ton ouvraige sera sec Mays couche cler
  
  
   
@@ -41,7 +41,7 @@ Ce blanc blafart de ceste herbe se faict de vert de terre<br/> de blanc de plomb
 ## Couleur de <span class="al">vipere</span>
 
  
-Cest le plus beau <span class="al">serpent</span> qui se puisse mouler a cause quil ha<br/> fort belles escailles & rudes & transparentes Sa couleur naifve<br/> se faict avecq de bon <span class="m">verdegris</span> fort broye avecq de bon<br/> <span class="m">vinaigre</span> sil est de <span class="m">plomb</span> ou d<span class="m">estain</span> Et sil est en quelque<br/> endroit plus obscur parfume ceste premiere couleur de <span class="m">soufre</span><br/> comme tu scais Et sil fault esclarcir et blanchir comme soubs<br/> la gorge frotte dun <span class="tl"><span class="m">linge</span> rude</span> <span class="add">Le masle gecte par sa nature<br/> qui est au fondement quand il est fort presse une petite masse comme une<br/> <span class="ms">demy balle dharquebus</span> faicte en génitoires et toute<br/> plaine de aiguillons fort veneneulx</span>
+Cest le plus beau <span class="al">serpent</span> qui se puisse mouler a cause quil ha<br/> fort belles escailles & rudes & transparentes Sa couleur naifve<br/> se faict avecq de bon <span class="m">verdegris</span> fort broye avecq de bon<br/> <span class="m">vinaigre</span> sil est de <span class="m">plomb</span> ou d<span class="m">estain</span> Et sil est en quelque<br/> endroit plus obscur parfume ceste premiere couleur de <span class="m">soufre</span><br/> co<span class="exp">mm</span>e tu scais Et sil fault esclarcir et blanchir co<span class="exp">mm</span>e soubs<br/> la gorge frotte dun <span class="tl"><span class="m">linge</span> rude</span> <span class="add">Le masle gecte par sa nature<br/> qui est au fondement quand il est fort presse une petite masse co<span class="exp">mm</span>e une<br/> <span class="ms">demy balle dharquebus</span> faicte en génitoires et toute<br/> plaine de aiguillons fort veneneulx</span>
  
 > *at left middle margin*
 > 

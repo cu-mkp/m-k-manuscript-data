@@ -45,5 +45,5 @@ You must make it between two empty <span class="m">iron</span> blades, the botto
 > *at left bottom margin*
 > 
 > 
-> You cannot use this to oil hairy animals, because it is too strong and rigid, but it is good to apply to the foot of a little animal, like a <span class="al">fly</span> and other similar things. It is also excellent to dye white stones 
+> You cannot use this to oil hairy animals, because it is too strong and rigid, but it is good to apply to the foot of a little animal, like a <span class="al">fly</span> and other similar things. It is also excellent to dye white stones <span class="ill"></span>
 

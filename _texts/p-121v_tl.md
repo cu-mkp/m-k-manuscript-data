@@ -57,10 +57,10 @@ You need to place the animals as said, and make up the same sand out of <span cl
  
   
 
-## <span class="m">Silver</span> used to cast
+## <span class="m">Silver</span> <span class="x">used</span> to cast
 
  
-It is not pure but alloyed <span class="m">silver</span>, and it does not become perfectly white on the fire because they <span class="pro">goldsmiths</span> whiten it after the melting to clean up the welding marks that occur when an animal needs to be attached to another or when it needs repairing. The process is similar with teston <span class="m">silver</span> and all alloyed <span class="m">silver</span> as long as it is soft and good.
+It is not pure but alloyed <span class="m">silver</span>, and it does not become perfectly white on the fire because they <span class="x"><span class="pro">goldsmiths</span></span> whiten it after the melting to clean up the welding marks that occur when an animal needs to be attached to another or when it needs repairing. <span class="x">The process</span> is similar with teston <span class="m">silver</span> and all alloyed <span class="m">silver</span> as long as it is soft and good.
  
 Before starting to cast in <span class="m">silver</span>, in order to coat all round and strengthen your <span class="tl">mold</span>s, you should use <span class="m">earth</span> that can withstand fire, such as this sandy <span class="m">earth</span> mixed with <span class="m">cloth waste</span> which <span class="pro">founders</span> use to cast their canons, or any good <span class="m">lute</span> that can withstand fire. They need to all be red and to be tied with <span class="tl"><span class="m">iron</span> wire</span>.
  

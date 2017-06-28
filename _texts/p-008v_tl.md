@@ -46,7 +46,7 @@ There are three wheels for this purpose, one of <span class="m">tin</span>, one 
  
   
 
-## <span class="pro">Pewterers</span>' mixture <span class="del"></span>
+## <span class="pro">Pewterers</span>' mixture <span class="del"><span class="ill"></span></span>
 
  
 Because they often mix in with the <span class="m">fine tin</span> <span class="ms">half the quantity</span> of <span class="m">lead</span>, which renders the <span class="m">tin</span> dull. To correct this, they mix in some <span class="m">latten filings</span> to make it <span class="sn">sonorous</span>.

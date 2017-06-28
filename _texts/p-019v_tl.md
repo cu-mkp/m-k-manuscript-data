@@ -45,7 +45,7 @@ animals: [cat]
 ## <span class="del">P</span>For writing as well from the left as from the right
 
  
- Write as best you can with <span class="m">well—gummed ink</span> on as many little <span class="m">cards</span> as you want <span class="del"></span> to write words. & once each letter is well saturated with <span class="m">ink</span>, put it down on your <span class="m">paper</span> & rub with a <span class="tl">tooth</span> the back of the <span class="m">card</span>.
+ Write as best you can with <span class="m">well—gummed ink</span> on as many little <span class="m">cards</span> as you want <span class="del"><span class="ill"></span></span> to write words. & once each letter is well saturated with <span class="m">ink</span>, put it down on your <span class="m">paper</span> & rub with a <span class="tl">tooth</span> the back of the <span class="m">card</span>.
  
  
   

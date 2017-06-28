@@ -25,7 +25,7 @@ animals: []
 ## <span class="m">Enamel</span>
 
  
-<span class="m">Enamel</span> takes more readily on <span class="m">copper</span> than on <span class="m">silver</span>. It is true that the cut needs to be well hollowed out & rough. <span class="m">Azure</span> in body & the red called gules, white <span class="m">enamel</span> & thick green take to it very well. Having <span class="m">enamelled</span>, one gilds the feuillages of the engraving<span class="del"></span>. <span class="m">Copper</span> has a similar hardness for engraving as fine <span class="m">silver</span> or <span class="m"><span class="cn">pistolet</span> <span class="m">gold</span></span>.
+<span class="m">Enamel</span> takes more readily on <span class="m">copper</span> than on <span class="m">silver</span>. It is true that the cut needs to be well hollowed out & rough. <span class="m">Azure</span> in body & the red called gules, white <span class="m">enamel</span> & thick green take to it very well. Having <span class="m">enamelled</span>, one gilds the feuillages of the engraving<span class="del"><span class="ill"></span></span>. <span class="m">Copper</span> has a similar hardness for engraving as fine <span class="m">silver</span> or <span class="m"><span class="cn">pistolet</span> <span class="m">gold</span></span>.
  
  
   

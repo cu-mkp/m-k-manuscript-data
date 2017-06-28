@@ -33,7 +33,7 @@ animals: [pigeons, gris, rat]
 > 
 >   * Pour fayre beau<br/> l<span class="m">or mat</span> mets y<br/> un peu de <span class="m">vernis</span><br/> ou d<span class="m">huile gras</span><br/> non pas de celuy<br/> qui est faict du<br/> nettoyement des<br/> <span class="tl">pinceaulx</span> Mays<br/> de celuy pur qui<br/> se faict gras<br/> <span class="env">au soleil </span> ou<br/> mesle de <span class="m">ceruse</span>
  
-L<span class="m">or mat</span> de ceste<br/> sorte nest gueres<br/> moings beau<br/> que l<span class="del">es</span><span class="add"><span class="m">or bruny</span></span><br/> Et dure davantage <span class="env">a la<br/> pluye</span> & aultrement & plustost faict<br/> L<span class="m">or bruny</span> sesclate<br/> <span class="tmp">avecq le temps</span><br/> & se desfaict<br/> <span class="env">a la pluye</span><br/>
+L<span class="m">or mat</span> de ceste<br/> sorte nest gueres<br/> moings beau<br/> que l<span class="del">es</span><span class="add"><span class="m">or bruny</span></span><br/> Et dure dava<span class="exp">n</span>tage <span class="env">a la<br/> pluye</span> & aultrem<span class="exp">ent</span> & plustost faict<br/> L<span class="m">or bruny</span> sesclate<br/> <span class="tmp">avecq le temps</span><br/> & se desfaict<br/> <span class="env">a la pluye</span><br/>
  
  
   
@@ -65,7 +65,7 @@ Aplique dessus la nuit des lamines fort tanvres de<br/> <span class="m">plomb</s
 ## Pinceaulx
 
  
-Pour les faire bons couppe le <span class="m">poil de la queue de <span class="al">gris</span></span><br/> aultant en une prise comme il en peult tenir en une quarte<br/> repliee en canule Et le mectant ainsy dedans ladicte carte<br/> repliee frappe <span class="add">en</span> & <span class="add">la</span> remue affin que le <span class="m">poil</span> sunise & se rende<br/> de mesme longueur Mects au milieu un ou deulx <span class="m">poils de<br/> barbe de <span class="al">rat</span></span> puys empoignant & sarrant bien cela<br/> avecq le poulce & le doigt indice trempe fort le bout<br/> de tout ce <span class="m">poil</span> dans l<span class="m">eau</span> puys taprochant bien du<br/> 
+Pour les faire bons couppe le <span class="m">poil de la queue de <span class="al">gris</span></span><br/> aultant en une prise comme il en peult tenir en une quarte<br/> repliee en canule Et le mectant ainsy dedans lad<span class="exp">icte</span> carte<br/> repliee frappe <span class="add">en</span> & <span class="add">la</span> remue affin que le <span class="m">poil</span> sunise & se rende<br/> de mesme longueur Mects au milieu un ou deulx <span class="m">poils de<br/> barbe de <span class="al">rat</span></span> puys empoignant & sarrant bien cela<br/> avecq le poulce & le doigt indice trempe fort le bout<br/> de tout ce <span class="m">poil</span> dans l<span class="m">eau</span> puys taprochant bien du<br/> 
  
 *[continued]*
  

@@ -37,7 +37,7 @@ They must be left in their burs until you want to eat them. And in their burs, s
 ## Scented <span class="m">candle</span> from <span class="pl">Le Mans</span>
 
  
-They melt in with <span class="m">wax</span> and <span class="m">candles</span> <span class="m">rosin</span> that is called in <span class="pl">France</span> rosin from <span class="pl">Burgundy</span>, which is white and not as rough or dry as the other <span class="m">rosin</span>. They also perfume the wick and the end of the wick.
+They melt in with <span class="m">wax</span> and <span class="m">candles</span> <span class="m">rosin</span> that is called in <span class="pl">France</span> <span class="x">rosin</span> from <span class="pl">Burgundy</span>, which is white and not as rough or dry as the other <span class="m">rosin</span>. They also perfume the wick and the end of the wick.
  
  
   

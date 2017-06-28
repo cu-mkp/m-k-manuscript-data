@@ -25,7 +25,7 @@ animals: [chevreau, bouc, Chevaulx, cheval]
 ## <span class="m">Ambre</span>
 
  
-Il se ramollist comme paste estant bouilly en <span class="m">cire</span> fondue<br/> Et prend couleur bouilly avecq <span class="del">ceru</span> <span class="m">graise</span> de jeune <span class="al">chevreau</span><br/> car celle du <span class="al">bouc</span> le feroit rompre principallement sil est glace
+Il se ramollist co<span class="exp">mm</span>e paste estant bouilly en <span class="m">cire</span> fondue<br/> Et prend couleur bouilly avecq <span class="del">ceru</span> <span class="m">graise</span> de jeune <span class="al">chevreau</span><br/> car celle du <span class="al">bouc</span> le feroit rompre principallem<span class="exp">ent</span> sil est glace
  
  
   
@@ -41,7 +41,7 @@ L<span class="m"><span class="pa">orme</span></span> en sa racine noueuse a de b
 ## <span class="m">Vin</span> brusle et <span class="m">sucre</span>
 
  
-Les <span class="pl">anglois</span> se sentant morfondus font brusler du <span class="m">vin</span> en ceste<br/> sorte Il le font chaufer dans un <span class="del">grand</span> pot d<span class="m">estain</span> jusques<br/> a ce quil bouille Et comme il leve un bouillon ilz <span class="del">le tirent du</span> lallument<br/> avecq du <span class="m">papier</span> enflamme pour scavoir sil est asses chault<br/> Apres pour lenflammer du tout Ils le versent dun vaisseau<br/> dans un aultre comme qui vouldroit battre de l<span class="m">eau panee</span> Et comme<br/> ilz font cela Quelque aultre avecq un <span class="m">papier</span> enflamme allume<br/> ce qui tumbe dun vaisseau a aultre de sorte que tu dirois<br/> que tu verses du foeu Comme le <span class="m">vin</span> est asses brusle fais le encores<br/> un peu chaufer y adjoustant quelques <span class="m">cloux de girofle</span> & suffisante<br/> quantite de <span class="m">sucre</span> Et <span class="del">boi</span> en boivent le plus chault quilz peuvent<br/> pour se gaigner un morfondiment
+Les <span class="pl">anglois</span> se sentant morfondus font brusler du <span class="m">vin</span> en ceste<br/> sorte Il le font chaufer dans un <span class="del">grand</span> pot d<span class="m">estain</span> jusques<br/> a ce quil bouille Et comme il leve un bouillon ilz <span class="del">le tirent du</span> lallument<br/> avecq du <span class="m">papier</span> enflamme pour scavoir sil est asses chault<br/> Apres pour lenflammer du tout Ils le versent dun vaisseau<br/> dans un aultre co<span class="exp">mm</span>e qui vouldroit battre de l<span class="m">eau panee</span> Et co<span class="exp">mm</span>e<br/> ilz font cela Quelque aultre avecq un <span class="m">papier</span> enflamme allume<br/> ce qui tumbe dun vaisseau a aultre de sorte que tu dirois<br/> que tu verses du foeu Co<span class="exp">mm</span>e le <span class="m">vin</span> est asses brusle fais le encores<br/> un peu chaufer y adjoustant quelques <span class="m">cloux de girofle</span> & suffisa<span class="exp">n</span>te<br/> quantite de <span class="m">sucre</span> Et <span class="del">boi</span> en boivent le plus chault quilz peuvent<br/> pour se gaigner un morfondiment
  
 > *at left middle margin*
 > 
@@ -62,5 +62,5 @@ Pour fortifier un <span class="al">cheval</span> harasse il luy font boire du <s
 ## <span class="m">Eau de vye</span>
 
  
-Les <span class="pl">Irois</span> ne boivent gueres de <span class="m">vin</span> pource quilz le convertissent<br/> en <span class="m">eau de vye</span> de laquelle ilz usent presque aussy familiairement que nous<br/> usons du <span class="m">vin</span>
+Les <span class="pl">Irois</span> ne boivent gueres de <span class="m">vin</span> pource quilz le convertissent<br/> en <span class="m">eau de vye</span> de laquelle ilz usent presque aussy familiairem<span class="exp">ent</span> que nous<br/> usons du <span class="m">vin</span>
  

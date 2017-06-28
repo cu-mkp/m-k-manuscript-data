@@ -35,15 +35,15 @@ Touteffoys ne loste pas que tu nayes du tout repare la<br/> <span class="al">tor
 ## <span class="m">Huile de froment</span>
 
  
-Il fault le faire entre deulx <span class="tl">lames</span> de <span class="m">fer</span> bien vuide<br/> mesmement celle de bas sur laquelle qui sera en pante tu mectras<br/> du <span class="m">froment</span> bien esgal & uny Et puys poseras dessus laultre<br/> toute rouge & la presseras jusque a ce que tu voyes bien<br/> desgouter l<span class="m">huile noire</span> Retire cela tant que tu en ayes<br/> asses Cest <span class="m">huile</span> est incontinent sec Il dore les choses argentees<br/> & vrnies augmente la couleur des choses dorees Sert de <span class="m">vernis</span><br/> sur le <span class="m">fer</span> pour apres y graver pour vernir en tane des gardes<br/> despes Et pourroit bien servir aulx <span class="pro">faiseurs de cuir dore</span>
+Il fault le faire entre deulx <span class="tl">lames</span> de <span class="m">fer</span> bien vuide<br/> mesmem<span class="exp">ent</span> celle de bas sur laquelle qui sera en pante tu mectras<br/> du <span class="m">froment</span> bien esgal & uny Et puys poseras dessus laultre<br/> toute rouge & la presseras jusque a ce que tu voyes bien<br/> desgouter l<span class="m">huile noire</span> Retire cela tant que tu en ayes<br/> asses Cest <span class="m">huile</span> est incontinent sec Il dore les choses argentees<br/> & vrnies augmente la couleur des choses dorees Sert de <span class="m">vernis</span><br/> sur le <span class="m">fer</span> pour apres y graver pour vernir en tane des gardes<br/> despes Et pourroit bien servir aulx <span class="pro">faiseurs de cuir dore</span>
  
 > *at left bottom margin*
 > 
 > 
->  Il en fault user<br/> comme il est recent<br/> faict Et pour les choses a<br/> mouler il ne veult pas estre si<br/> espes que pour le tainct
+>  Il en fault user<br/> co<span class="exp">mm</span>e il est recent<br/> faict Et pour les choses a<br/> mouler il ne veult pas estre si<br/> espes que pour le tainct
  
 > *at left bottom margin*
 > 
 > 
->  Il nest pas<br/> pour en <span class="m">oindre</span><br/> les <span class="al">animaulx</span> a<br/> poil car il est<br/> trop fort &<br/> roide Mays<br/> bien pour en<br/> donner un trait<br/> a un pied de petit<br/> <span class="al">animal</span> comme @ <span class="al">mouche</span> & semblables Il est aussy excellent pour le taint des <span class="m">pierrres</span><br/> blanches 
+>  Il nest pas<br/> pour en <span class="m">oindre</span><br/> les <span class="al">animaulx</span> a<br/> poil car il est<br/> trop fort &<br/> roide Mays<br/> bien pour en<br/> donner un trait<br/> a un pied de petit<br/> <span class="al">animal</span> co<span class="exp">mm</span>e @ <span class="al">mouche</span> & semblables Il est aussy excellent pour le taint des <span class="m">pierrres</span><br/> blanches <span class="ill"></span>
  

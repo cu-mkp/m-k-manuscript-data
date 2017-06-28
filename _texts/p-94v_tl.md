@@ -45,7 +45,7 @@ To make the swords cut better, the edge from the point is also sharpened.
  
 The fustée is a three—finger—thick, square <span class="m">wood</span> tool, made of <span class="m">boxwood</span> which fit in the middle of the fustée stick to furbish.
  
-The fresil stick is made of <span class="m">willow wood</span> which is to … weapon with some <span class="m">clinker</span> which is the <span class="m">iron scale</span> falling from the <span class="pro">blacksmiths</span>' forge.
+The fresil stick is made of <span class="m">willow wood</span> which is to <span class="x">…</span> weapon with some <span class="m">clinker</span> which is the <span class="m">iron scale</span> falling from the <span class="pro">blacksmiths</span>' forge.
  
 > *Figure*
 > *at left top margin*

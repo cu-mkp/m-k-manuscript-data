@@ -67,7 +67,7 @@ It is better that at the end with the air chamber the bellows be set in some kin
 ## Molding <span class="al">snakes</span>
 
  
-When you get them for molding, if it is possible, do not remove their teeth if you think you might want to keep them, because having had their teeth removed, it hurts their gums and mouths, and they can no longer eat. You can keep the snakes in a barrel full of <span class="m">bran</span> or even better of <span class="m">earth</span>, in a cool place, or in a <span class="m">glass</span> bottle. And give them some live frog or other live animal because they do not eat anything <span class="sup">that is</span> dead. Also I have noticed that
+When you get them for molding, if it is possible, do not remove their teeth if you <span class="x">think you might</span> want to keep them, because having had their teeth removed, it hurts their gums and mouths, and they can no longer eat. You can keep <span class="x">the snakes</span> in a barrel full of <span class="m">bran</span> or even better of <span class="m">earth</span>, in a cool place, or in a <span class="m">glass</span> bottle. And give them some live frog or other live animal because they do not eat anything <span class="sup">that is</span> dead. Also I have noticed that
  
 *[continued]*
  

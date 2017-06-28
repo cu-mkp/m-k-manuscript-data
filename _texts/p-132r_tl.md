@@ -36,7 +36,7 @@ It opens once anealed. To clean it after, fix the clamps again, lute the mold, p
 > *at left top margin*
 > 
 > 
->   If your heated mold …, shrinks because of the bad quality of the <span class="m">plaster</span>, open it after the first heating, tighten it, the lute it and clamp it again.
+>   If your heated mold <span class="x">…</span>, shrinks because of the bad quality of the <span class="m">plaster</span>, open it after the first heating, tighten it, the lute it and clamp it again.
  
  
   
