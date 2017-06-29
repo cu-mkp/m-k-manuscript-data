@@ -31,7 +31,7 @@
 
   <!-- ab -->
   <define name="e.ab">
-    <a:documentation>Anonymous Block: a generic block of text for. (TEI Element)</a:documentation>
+    <a:documentation>Anonymous Block: a generic block of text</a:documentation>
     <element name="ab">
       <optional>
         <ref name="e.cont"/>
@@ -49,8 +49,7 @@
 
   <!-- div -->
   <define name="e.div">
-    <a:documentation>Text Division: A group of one or more document objects forming a primary
-      textual component; e.g., an "entry" or "recipe". TEI Element</a:documentation>
+    <a:documentation>Text Division: A group of one or more document objects forming a primary textual component; e.g., an "entry" or "recipe"</a:documentation>
     <element name="div">
       <optional>
         <ref name="e.cont"/>
@@ -109,8 +108,7 @@
 
   <!-- head -->
   <define name="e.head">
-    <a:documentation>Heading: a block of text at the beginning of a textual division functioning ad
-      the heading or title of that division. TEI Element</a:documentation>
+    <a:documentation>Heading: a block of text at the beginning of a textual division functioning as the heading or title of that division. TEI Element</a:documentation>
     <element name="head">
       <ref name="m.phrase"/>
     </element>
@@ -121,8 +119,7 @@
   <!--                           -->
 
   <define name="e.add">
-    <a:documentation>Addition: Text added to the document by author, scribe, but *not* by a
-      transcriber</a:documentation>
+    <a:documentation>Addition: Text added to the document by author, scribe, but *not* by the editor or transcriber</a:documentation>
     <element name="add">
       <ref name="m.phrase"/>
     </element>
@@ -130,8 +127,7 @@
 
   <!-- corr -->
   <define name="e.corr">
-    <a:documentation>Correction: A revision introduced into the transcription by the
-      transcriber/Editor</a:documentation>
+    <a:documentation>Correction: A revision introduced into the transcription by the editor or transcriber</a:documentation>
     <element name="corr">
       <ref name="m.phrase"/>
     </element>
@@ -139,8 +135,7 @@
 
   <!-- del -->
   <define name="e.del">
-    <a:documentation>Deletion: Content deleted in the document by author, scribe, but *not* by a
-      transcriber</a:documentation>
+    <a:documentation>Deletion: Content deleted in the document by author, scribe, but *not* by the editor or transcriber</a:documentation>
     <element name="del">
       <ref name="m.phrase"/>
     </element>
@@ -156,8 +151,7 @@
   </define>
 
   <!-- gap -->
-  <a:documentation>Gap: Text added to the document by author, scribe, but *not* by a
-    transcriber</a:documentation>
+  <a:documentation>Gap: Text added to the document by author, scribe, but *not* by the editor or transcriber</a:documentation>
   <define name="e.gap">
     <element name="gap">
       <empty/>
@@ -167,8 +161,7 @@
 <!-- ill -->
   
   <define name="e.ill">
-    <a:documentation>Correction: A revision introduced into the transcription by the
-      transcriber/Editor</a:documentation>
+    <a:documentation>Illegible: unreadable text in the source document</a:documentation>
     <element name="ill">
       <ref name="m.phrase"/>
     </element>
@@ -177,8 +170,7 @@
 
   <!-- lb -->
   <define name="e.lb">
-    <a:documentation>Line Break: An empty element indicating end of a line of text in the source
-      document</a:documentation>
+    <a:documentation>Line Break: An empty element indicating end of a line of text in the source document</a:documentation>
     <element name="lb">
       <empty/>
     </element>
@@ -186,9 +178,7 @@
 
   <!-- man -->
   <define name="e.man">
-    <a:documentation>Manchette: a word or phrase in italic script in the margin that indicates
-      something in the text block It is not a heading (although sometimes it looks like it, but
-      rather explains something in the text block</a:documentation>
+    <a:documentation>Manchette: a word or phrase in italic script in the margin that indicates something in the text block It is not a heading (although sometimes it looks like it, but rather explains something in the text block</a:documentation>
     <element name="man">
       <ref name="e.margin"/>
       <ref name="m.phrase"/>
@@ -197,8 +187,7 @@
 
   <!-- rub -->
   <define name="e.rub">
-    <a:documentation>Rubric: A word or phrase in italic script in the body of the text that is not a
-      new div, heading, or block</a:documentation>
+    <a:documentation>Rubric: A word or phrase in italic script in the body of the text that is not a new div, heading, or block</a:documentation>
     <element name="rub">
       <ref name="m.phrase"/>
     </element>
@@ -206,9 +195,7 @@
 
   <!-- sup -->
   <define name="e.sup">
-    <a:documentation>Supplied Text: Text added by the transcriber/editor. DO NOT USE IN TC. DO NOT
-      USE IN TCN, EXCEPT IF THERE IS A MISTAKE ON THE PART OF THE AUTHOR. USE SPARINGLY IN
-      TL.</a:documentation>
+    <a:documentation>Supplied Text: Text added by the transcriber/editor.</a:documentation>
     <element name="sup">
       <ref name="m.phrase"/>
     </element>
@@ -252,9 +239,7 @@
 
   <!-- margin -->
   <define name="e.margin">
-    <a:documentation>Margin Position: the location in the margin at which the parent element appears
-      in the source document. Valid values are: "right-top", "right-middle", "right-bottom",
-      "left-top", "left-middle", "left-bottom", "top", and "bottom"</a:documentation>
+    <a:documentation>Margin Position: the location in the margin at which the parent element appears in the source document. Valid values are: "right-top", "right-middle", "right-bottom", "left-top", "left-middle", "left-bottom", "top", and "bottom"</a:documentation>
     <element name="margin">
       <optional>
         <choice>
@@ -272,8 +257,7 @@
   </define>
 
   <define name="e.cont">
-    <a:documentation>Continued: An empty element indicating that the parent block is continued on
-      another page or continues from another page </a:documentation>
+    <a:documentation>Continued: An empty element indicating that the parent block is continued on another page or continues from another page </a:documentation>
     <element name="cont">
       <empty/>
     </element>
@@ -293,7 +277,7 @@
 
   <!-- it -->
   <define name="e.it">
-    <a:documentation>Greek: Italian text</a:documentation>
+    <a:documentation>Italian: Italian text</a:documentation>
     <element name="it">
       <ref name="m.phrase"/>
     </element>
@@ -301,7 +285,7 @@
 
   <!-- la -->
   <define name="e.la">
-    <a:documentation>Greek: Latin text</a:documentation>
+    <a:documentation>Latin: Latin text</a:documentation>
     <element name="la">
       <ref name="m.phrase"/>
     </element>
@@ -322,6 +306,7 @@
       <ref name="m.phrase"/>
     </element>
   </define>
+  
   <!--                            -->
   <!--  SEMANTIC ELEMENTS         -->
   <!--                            -->
@@ -359,8 +344,7 @@
 
   <!-- env -->
   <define name="e.env">
-    <a:documentation>Environment: Reference to a physical space or environment, such as workshop
-      space, mountains, forest, etc.</a:documentation>
+    <a:documentation>Environment: Reference to a physical space or environment, such as workshop space, mountains, forest, etc.</a:documentation>
     <element name="env">
       <ref name="m.phrase"/>
     </element>
@@ -384,8 +368,7 @@
 
   <!-- tmp -->
   <define name="e.tmp">
-    <a:documentation>Temporal Term: A reference to time, e.g., hour, day, season, holiday, span of
-      time, time of day, etc</a:documentation>
+    <a:documentation>Temporal Term: A reference to time, e.g., hour, day, season, holiday, span of time, time of day, etc</a:documentation>
     <element name="tmp">
       <ref name="m.phrase"/>
     </element>
@@ -401,8 +384,7 @@
 
   <!-- sn -->
   <define name="e.sn">
-    <a:documentation>Sense Term: Use of the 5 senses to make qualitative assessment, but generally
-      not visual, e.g., “luisant” </a:documentation>
+    <a:documentation>Sense Term: Use of the 5 senses to make qualitative assessment, but generally not visual, e.g., “luisant” </a:documentation>
     <element name="sn">
       <ref name="m.phrase"/>
     </element>
@@ -426,7 +408,7 @@
 
   <!-- cn -->
   <define name="e.cn">
-    <a:documentation>Currency Term: Coins and currency (only type of coin, not amount) [if it is a price without being a coin, let an instructor know]</a:documentation>
+    <a:documentation>Currency Term: Coins and currency (only type of coin, not amount)</a:documentation>
     <element name="cn">
       <ref name="m.phrase"/>
     </element>
