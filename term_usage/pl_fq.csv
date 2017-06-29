@@ -1,14 +1,14 @@
 15|allemaigne
 8|venise
+8|france
 8|flandres
 8|espaigne
-7|france
 7|angleterre
 6|lorraine
 6|florence
 5|allemans
-5|Th{ou}l{ous}e
-4|th{ou}l{ous}e
+5|Thoulouse
+4|thoulouse
 4|flamens
 4|allemands
 4|France
@@ -34,14 +34,14 @@
 2|acre
 2|Lyon
 1|urb. rom.
-1|t{ou}l{ou}se
 1|turquie
 1|turcs
+1|toulouse
 1|touch
-1|th{o}l{os}e
-1|s{ainc}t Jacques de la
+1|tholose
+1|sainct Jacques de la
 1|rue des escrivains
-1|rue de la heaumerie a limage s{ainc}t claude
+1|rue de la heaumerie a limage sainct claude
 1|romme
 1|rhodés
 1|rheim
@@ -50,7 +50,7 @@
 1|portugais
 1|phoeniciens
 1|phasis
-1|parys pres la S{ainc}te chappelle
+1|parys pres la Saincte chappelle
 1|parys
 1|orientaulx
 1|normandie
@@ -76,11 +76,10 @@
 1|hebrieulx
 1|graece
 1|gascoigne
-1|fra{n}ce
 1|fosseret
 1|flendres
 1|flamans
-1|faulxbourgs de s{ainc}t germain
+1|faulxbourgs de sainct germain
 1|delphos
 1|delphis
 1|delphe
@@ -90,6 +89,7 @@
 1|colchos
 1|carmail
 1|cardonne
+1|capital
 1|cambray
 1|brescia
 1|bourgoigne
@@ -111,12 +111,12 @@
 1|albigeois
 1|aegipte
 1|Tyanee
-1|Th{o}l{o}se
-1|S{ainc}t Michel
-1|S{ainc}t Antonin
+1|Tholose
 1|Syracuse
 1|Siciliens
 1|Saint denis
+1|Sainct Michel
+1|Sainct Antonin
 1|Romae
 1|Ox
 1|Normandie

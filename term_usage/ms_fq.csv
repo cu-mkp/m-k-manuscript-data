@@ -1,26 +1,27 @@
-72|lb
+93|lb
+42|℥
 39|quintal
-35|℥
-19|moictie
-17|pan
-15|onces
-14|l{i}b{vre}
+24|moictie
+18|pan
+16|onces
+14|heure
 13|once
-13|heures
-13|heure
+13|jours
+13|doigts
 12|pas
-11|jours
+12|pans
+12|jour
+12|heures
+11|quintals
 10|partye
-10|pans
-9|quintals
-9|jour
-9|doigts
 7|pars
+6|deniers
+5|nuict
+5|ligne
 5|doigt
 4|quart
+4|poix
 4|pied
-4|nuict
-4|ligne
 4|aulne
 3|unces
 3|pieds
@@ -31,17 +32,14 @@
 3|lanterne
 3|hora
 3|grains
-3|deniers
 2|un bon quart dheure
 2|seau
-2|quint{als}
 2|quintalz
 2|quarte partie
 2|poulsses
 2|poulces
 2|plusieurs jours
 2|petit doigt
-2|pa{n}s
 2|patenostres
 2|pan de roy
 2|lignes
@@ -49,8 +47,10 @@
 2|gabions
 2|fois le jour
 2|denier
+2|demye ℥
 2|demy
 2|boisseaulx
+2|aultant dun que dautre
 2|
 1|œufs
 1|verre
@@ -61,21 +61,24 @@
 1|un quart dheure
 1|un pan
 1|un jour et
+1|un iour
 1|un demy 
 1|un
 1|tu trouve leau mediocrement salee
+1|troisiesme partye
 1|trois pars
 1|trois ou 4 jours et trois iours
 1|trois ou 4 jours
 1|trois
 1|travers dun grain de bled
 1|travers de doigt
-1|tout un jour
 1|tout
+1|tierce partye
 1|tierce
 1|teston
 1|tenir le bout du
 1|tables
+1|soleil de juin
 1|soir
 1|seau en heure
 1|sans te brusler
@@ -86,24 +89,26 @@
 1|quarte partye
 1|quarte ou cinquiesme partye
 1|quarte
-1|quart plus pesa{n}t
+1|quart plus pesant
 1|quart de
 1|proportion
 1|presque moictie
+1|presque autant dun que daultre
 1|pousses en quarre
 1|pousses
 1|poulse
 1|poulce
 1|pot
-1|poix
 1|poignees
+1|plusieurs foys chasque 
 1|plume de cigne
+1|pleine escuelles a oreille
 1|plats
 1|pinte
 1|pieds de
 1|pied de roy
 1|petite joinctee
-1|pa{n}
+1|pauses
 1|part
 1|paniers
 1|panier
@@ -112,16 +117,17 @@
 1|palle
 1|pailles
 1|ou 5 doigts
+1|on en tire le pain
 1|nuit
 1|nois
 1|montpellier
+1|moitie
 1|moictie du jour
 1|mil
 1|meza onca
 1|matin
 1|mains
-1|l{i]b{vre}
-1|longuem{ent}
+1|longuement
 1|long comme la largeur de 4
 1|livre
 1|liards
@@ -129,10 +135,9 @@
 1|lespace dung Jour
 1|large de ii ou trois doitgs
 1|large
-1|la grosseur dune auclane avecq sa coquille
+1|la grosseur dune avelane avecq sa coquille
 1|la grosseur
 1|jusques a
-1|jour naturel
 1|joinctee
 1|iours
 1|iour
@@ -141,19 +146,24 @@
 1|horologe de sable
 1|hault de trois doits
 1|grosseur dune noix
+1|grosseur dune noisette
+1|grosseur dune ferue
+1|grosseur dun pois
 1|grosseur de deulx chastaignes
-1|gros co{mm}e ffisselle de moing …
 1|gros comme un curedent
+1|gros comme ffisselle de moing …
 1|grain
 1|gouttes
-1|fort co{mm}e de grands livres imprimes
+1|fort comme de grands livres imprimes
 1|febve
 1|et trois nuicts
+1|espoisse dun verre poulce
 1|espesseurs de papier
+1|espesseur dune piece de quarante sols
 1|espesseur dun papier
 1|espesseur dun costeau
 1|espesseur dun
-1|espace dun pater n{oste}r
+1|espace dun pater noster
 1|empan
 1|dune noix
 1|douziesme partye
@@ -169,16 +179,19 @@
 1|deux doits en deulx doigts
 1|deulx pointes de doigt
 1|deulx jours
-1|den{iers}
+1|deulx foys aultant
 1|demye once
+1|demye
 1|demy once
 1|demy lb
-1|delie p co{mm}e grosse corde despinette pour les petits ouvrages
+1|demy balle dharquebus
+1|delie p comme grosse corde despinette pour les petits ouvrages
 1|degre de chaleur
-1|de sel armoniac co{mm}e deulx noix
+1|de sel armoniac comme deulx noix
 1|cueillerees dargent
 1|crusols
 1|creusets
+1|comme la chaleur du
 1|cinquiesme
 1|ce que tu puisses
 1|carats
@@ -186,14 +199,21 @@
 1|canes
 1|cane
 1|bras
+1|bonne heure
 1|balles
+1|autant dun que daultre 
+1|aussy gros quune ferve
 1|aussy gros de cire quun grain de
 1|aussy gros
-1|aulta{n}t
+1|aultant quune grosse noix
 1|aultant que tu vouldras faire longue une cartuche
+1|aultant
+1|asses chault comme quand
 1|ans
 1|an
 1|a la langue
 1|Jour
 1|Aultant quil pourroit tenir dans un œuf
 1|4 doigts et le poulse
+1|&amp; une nuict
+1|&amp; aussi gros quune febve de salpestre

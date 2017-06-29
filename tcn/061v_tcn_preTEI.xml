@@ -1,5 +1,7 @@
 <root><page>061v</page>
-<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f128.item</image>
+<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f128.image</image>
+
+
 <div>
 <id>p061v_1</id>
 
@@ -10,7 +12,7 @@
 
 
 <ab>Distille l'<m>eau de vigne</m> &amp; la mects dans une grande<lb/> 
-bouteille. Et derriere icelle mects ta chandelle, &amp; elle ne <lb/>
+<tl>bouteille</tl>. Et derriere icelle mects ta <tl>chandelle</tl>, &amp; elle ne <lb/>
 nuyra point à ta veue.</ab>
 </div>
 
@@ -43,16 +45,16 @@ de <al>rat</al></m></tl>.</ab>
 <ab>Il fault choisir le plus <del>beau</del> deslié qu'il sera possible, car<lb/> 
 s'il est gros on n'en peult travailler à <m>huile</m>. Et si tu n'en<lb/> 
 trouves d'assez subtil, tu le peulx bien broyer, non à <m>eau</m><lb/> 
-mays à <m>huile</m>, &amp; le broyer espés. Aprés pose le sur ta pallete<lb/> 
+mays à <m>huile</m>, &amp; le broyer espés. Aprés pose le sur ta <tl>pallete</tl><lb/> 
 &amp; y mesle un peu de <m>tourmentine</m>, mays non gueres, pour luy<lb/> 
 donner liaison, et fais qu'il soict espés comme <m>beurre</m> ou <m>mortier</m>,<lb/>
-&amp; puys avecq un assés gros pinceau travaille le en esgaiant tousjours<lb/>
-le pinceau. Puys pour l'adoulcir hache à denteleure avecq <del>le</del><lb/>
-la poincte du pinceau. Les rehaulssements se feront avecq<lb/>
+&amp; puys avecq un <tl>assés gros pinceau</tl> travaille le en esgaiant tousjours<lb/>
+le <tl>pinceau</tl>. Puys pour l'adoulcir hache à denteleure avecq <del>le</del><lb/>
+la <tl>poincte du pinceau</tl>. Les rehaulssements se feront avecq<lb/>
 <del>d</del> luy mesme deslayé avec<corr>q</corr> <m>ceruse</m> qui, luy donnant lyaison,<lb/> 
 le rend plus aisé à travailler. Ainsi l'ay je veu employer.<lb/>
 Il fault qu'il soict fort espés &amp; quasi que tu ayes pene<lb/> 
-a l'estendre avecq le pinceau. Et n'est que bon que tu<lb/>
+a l'estendre avecq le <tl>pinceau</tl>. Et n'est que bon que tu<lb/>
 couches le tableau. Toutes ses difficultés ne se font point<lb/> 
 quand il est fort subtil &amp; delié sans estre broyé, et ne<lb/> 
 coule point.</ab>
@@ -71,7 +73,7 @@ on le couche sur de<lb/>
 vieulx <m>azur</m> desja<lb/>
 terny. En telle chose<lb/>
 il est mieulx de racler<lb/> 
-la vielle couche &amp; impri-<lb/>
+la vielle couche &amp; <sup>imprimer</sup> impri-<lb/>
 mer de nouveau, puys <lb/>
 poser l'<m>azur</m>. C'est<lb/>
 ainsy presque des<lb/>
@@ -90,7 +92,9 @@ mourir.</ab>
 
 
 <head>Broyer couleurs</head>
-<ab>Une table de <del><m>mabre</m> &amp; p</del> <m>verre</m> espoisse d'un <del><m>verre</m></del> poulce<lb/>
+
+
+<ab>Une table de <del><m>mabre</m> &amp; p</del> <m>verre</m> <ms>espoisse d'un <del><m>verre</m></del> <bp>poulce</bp></ms><lb/>
 est plus propre pour broyer nettem<exp>ent</exp> les couleurs que chose qui<lb/> 
-soict, mesmem<exp>ent</exp> pour la <m>laque</m> &amp; pour les <m>blancs</m>.</ab>
+soict, mesmem<exp>ent</exp> pour la <m>laque</m> &amp; pour les blancs.</ab>
 </div></root>

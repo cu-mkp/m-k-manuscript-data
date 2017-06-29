@@ -1,10 +1,15 @@
-12|mine
+13|mine
 9|a la pluye
-5|au soleil
+6|eau
+6|cave
+6|au soleil
+5|garrigue
+4|vent
+4|lieu humide
+4|en lieu humide
 3|soleil
 3|muraille
-3|en lieu humide
-3|cave
+3|en terre
 2|terre
 2|temps humide
 2|sec
@@ -14,11 +19,8 @@
 2|mer
 2|maisons
 2|lieu sec
-2|lieu humide
-2|en terre
 2|en
 2|eglises
-2|boutique
 2|au vent
 2|au serain
 2|a lombre
@@ -29,7 +31,7 @@
 1|ville
 1|vigne qui est bien haulte
 1|vigne de puy
-1|vent
+1|vent dune fenestre
 1|veines de la montaigne
 1|terriers
 1|terrier
@@ -37,6 +39,8 @@
 1|temps de pluye
 1|temps
 1|sur les maisons
+1|soubs
+1|soleil de juin
 1|soleil chault
 1|serain de la nuit
 1|serain
@@ -54,22 +58,23 @@
 1|pierrerer
 1|piererie
 1|pays
-1|ou sont les M{aistr}e{s} jures
+1|ou sont les Maistres jures
 1|obscur
 1|nature
 1|montueulx
 1|montaigne
-1|mine de Th{ou}l{ous}e
+1|mine de Thoulouse
+1|lieu mouille
 1|lieu clos
 1|lieu
 1|la premiere pluye
+1|jour
 1|humidite
 1|humeur de la cave
 1|hors du vent
 1|haultan
 1|grandes escailles vers les montaignes
 1|grandes cuisines
-1|garrigue
 1|formillere
 1|fontaine
 1|expose au soleil
@@ -81,10 +86,10 @@
 1|en lieu
 1|en la cave
 1|en hault
-1|eau
 1|doulce
 1|descouvert
 1|de rochers
+1|de la balle de 
 1|david
 1|dans leau
 1|dans la
@@ -92,10 +97,13 @@
 1|cuisines
 1|chemins sablonneulx
 1|cheminee
+1|chauld
 1|champs
 1|chambre
 1|cavernes
+1|boutique
 1|bonnes villes
+1|bled ou fumier
 1|biquoques
 1|basse court
 1|bas en terre
@@ -108,6 +116,8 @@
 1|au costau de puy david bien
 1|au
 1|apres un temps pluvieulx
+1|air
 1|a la
 1|A lair
+1|&amp; humide
 1|

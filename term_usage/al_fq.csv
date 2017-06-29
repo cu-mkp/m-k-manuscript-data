@@ -1,36 +1,37 @@
 29|serpent
-23|serpents
-21|escrevisse
-20|tortue
-14|cheval
+22|serpents
+22|escrevisse
+21|tortue
+16|cheval
+13|seiche
 12|vers
 12|mouche
-11|seiche
 11|mouton
+11|lesards
 11|lesard
+11|iraigne
 10|tortues
-10|lesards
 10|escrevisses
 10|chevaulx
-9|iraigne
 9|animaulx
 8|poisson
+7|lezard
+7|grenoille
 7|chiens
 7|bœuf
 6|veau
 6|rat
-6|lezard
+6|chancre
 6|animal
+5|serpens
 5|oiseau
 5|lesardes
-5|grenoille
 5|chien
-4|serpens
+4|vache
 4|rats
 4|pourceau
 4|crapault
 3|vipere
-3|vache
 3|porc
 3|oyseaulx
 3|mouches
@@ -58,9 +59,9 @@
 2|fourmis
 2|foeuille
 2|escargots
+2|dragon
 2|de garrigue
 2|chardonnerets
-2|chancre
 2|cerf volant
 2|celles deau
 2|celles
@@ -90,6 +91,7 @@
 1|saulterelle
 1|rossignol
 1|rats lirons
+1|pulces
 1|poulsins
 1|pouls
 1|poulle
@@ -103,9 +105,9 @@
 1|moulue
 1|menue gris
 1|lucerta
-1|liraigne
 1|linotte
 1|lievre
+1|lezarde
 1|laisards
 1|iraignee
 1|huitres
@@ -115,7 +117,6 @@
 1|grenoilles
 1|fouines
 1|formis
-1|dragon
 1|daigneaulx
 1|cygales
 1|corbeau
@@ -167,6 +168,7 @@
 1|Chauve souris
 1|Chancre
 1|Ceulx qui se trouvent dans la mer
+1|Cerf volant
 1|Celles de garrigue
 1|Canards
 1|Butor

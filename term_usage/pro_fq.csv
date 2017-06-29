@@ -1,4 +1,4 @@
-27|orfevres
+26|orfevres
 19|fondeurs
 15|painctres
 8|verriers
@@ -16,12 +16,12 @@
 3|ouvriers
 3|orfevre
 3|mareschaulx
+3|maistres
 3|imprimeurs
 3|canoniers
 3|apotiquaires
 3|Vitrier
-3|M{aistr}e
-3|
+3|Maistre
 2|vitrier
 2|tondeur
 2|scribes
@@ -31,10 +31,9 @@
 2|moissonneur
 2|minerons
 2|menusiers
-2|maistres
 2|imprimeur
-2|fondeurs dartiglerie
 2|courroieur
+2|aprentis
 2|apothiquaires
 2|Pintiers
 2|Pintier
@@ -57,7 +56,6 @@
 1|sophistiqueurs
 1|serruriers
 1|rustiques
-1|rustique
 1|roy
 1|riches
 1|quadraniers
@@ -67,6 +65,7 @@
 1|potier
 1|plombeurs
 1|pintori
+1|petits 
 1|pelerin
 1|paysant
 1|paysans
@@ -99,9 +98,12 @@
 1|forbisseurs
 1|forbisseur
 1|fondeurs de grands ouvraiges
+1|fondeurs dartiglerie &amp; de cloches
+1|fondeurs dartiglerie
 1|fondeur
 1|fondableseurs
 1|foeilles de pierrerie
+1|ferriers
 1|fer
 1|femmes
 1|febvre
@@ -109,11 +111,11 @@
 1|espasiers
 1|enlumineurs
 1|enleumineurs
+1|enffans
 1|en grand ouvrage
 1|denlumineure
 1|de malte
-1|de cloches
-1|de boutique
+1|de grand gect
 1|cousteliers
 1|courroyeur
 1|corroyeurs
@@ -130,7 +132,7 @@
 1|cavallerie
 1|canonnier
 1|boutonniers aussi de verre
-1|blanchiss[e{ur}]s
+1|blanchisseurs
 1|bimbalotiers
 1|bergiers
 1|barbiers
@@ -140,7 +142,6 @@
 1|artisans qui travaillent
 1|argentiers
 1|archiers
-1|aprentis
 1|aprantis
 1|apoticquaire
 1|apothicaires
@@ -149,13 +150,13 @@
 1|Tailleurs en planches
 1|Sarrurier
 1|Parfumeur
-1|M{aistr}e{s} pintiers jures
-1|M{aistr}e{s} jures
-1|M{aistr}e gonin
-1|M{aistre}s
-1|Mouleurs de foix
+1|Mouleurs
 1|Menusier
 1|Marchans
+1|Maistres pintiers jures
+1|Maistres jures
+1|Maistres
+1|Maistre gonin
 1|Jardinier
 1|Harquebusier
 1|Gainiers
@@ -169,3 +170,4 @@
 1|Celuy qui faict profession de travailler a huile
 1|Boulangier
 1|@destaim
+1|

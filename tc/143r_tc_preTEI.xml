@@ -7,9 +7,9 @@
 <head>Mouler <al>tortues</al></head>
 
 
-<ab>La <al>tortue deau</al> est plus belle a mouler pourcequelle ha<lb/>
+<ab>La <al>tortue d<env>eau</env></al> est plus belle a mouler pourcequelle ha<lb/>
 plus belles escailles &amp; les jambes droictes Et <al>celle de<lb/>
-garrigue</al> les ha tor<corr><del>t</del>d</corr>ues Elles sont de grande vye<lb/>
+<env>garrigue</env></al> les ha tortues Elles sont de grande vye<lb/>
 partant pour les faire mourir Ouvre leur la gueule<lb/>
 &amp; leur passe un long <tl>trencheplume</tl> par touts les intestins<lb/>
 &amp; puys luy fais avaller du <m>vinaigre</m> mesle d<m>eau de vye</m><lb/>
@@ -20,10 +20,10 @@ les costes sont a quelques unes plus estroits quailleurs<lb/>
 faire mourir il ne les fault pas faire bouillir car elles<lb/>
 se deffont &amp; mesmes la coquille par l<m>eau chaulde</m>  Elles viennent<lb/>
 mieulx creuses pourceque leur grande espesseur corromproit<lb/>
-le moulle @<al>Celles deau</al> sont plus vigoureuses &amp; <al>Celles de garrigue</al> sont<lb/>
-plus maigres plus lentes &amp; plus endormies Si tu grattes <al>celles deau</al><lb/>
+le <tl>moulle</tl> <add><al>Celles d<env>eau</env></al> sont plus vigoureuses <al>Celles de <env>garrigue</env></al> sont<lb/>
+plus maigres plus lentes &amp; plus endormies Si tu grattes <al>celles d<env>eau</env></al><lb/>
 sur leur coquille quelque endormies quelles soient elles sesbougent <al>celles<lb/>
-de garrigue</al> non</ab>
+de <env>garrigue</env></al> non</add></ab>
  
 <ab><margin>left-top</margin>
 Elles meurent asses tost dans<lb/>
@@ -34,15 +34,15 @@ animaulx</ab>
 
 <ab><margin>left-top</margin>
 Elles se tiennent<lb/>
-lhiver les yeulx<lb/>
+l<tmp>hiver</tmp> les yeulx<lb/>
 clos &amp; sont co<exp>mm</exp>e<lb/>
 mortes esta<exp>n</exp>t<lb/>
 assopies du froid<lb/>
 Elles se cachent<lb/>
-en terre ou soubs<lb/>
+<env>en terre</env> ou <env>soubs<lb/>
 de la balle de<lb/> 
-<m>bled</m> ou <m>fumier<lb/>
-chauld</m>&amp; ne<lb/>
+<m><pa>bled</pa></m> ou <m>fumier</m><lb/>
+chauld</env> &amp; ne<lb/>
 vivent que de<lb/>
 lhumeur de la<lb/>
 terre</ab>
@@ -55,7 +55,7 @@ quelles sont<lb/>
 mortes pource quelles<lb/>
 sont encores<lb/>
 trop roydes<lb/>
-Mays le lendemain<lb/>
+Mays le <tmp>lendemain</tmp><lb/>
 tu les manieras<lb/>
 &amp; plieras les<lb/>
 pattes co<exp>mm</exp>e tu<lb/>
@@ -65,14 +65,14 @@ vouldras</ab>
 
 <div>
 <id>p143r_2</id>
-<head><pro>Mouleurs de <pl>foix</pl></pro></head>
+<head><pro>Mouleurs</pro> de <pl>foix</pl></head>
 
 
-<ab>Ceulx qui moulent de travers font leur sable de <la><m>crocum</m></la><lb/>
+<ab>Ceulx qui moulent de travers font leur sable de <m><la>crocum</la></m><lb/>
 &amp; d<m>ardoise calcinee</m> Mays l<m>ardoise</m> retient toujours de son<lb/>
 asperite &amp; soufle pourcequelle est grasse En noyau elle nest<lb/>
-pas bonne En sable elle se peult accommoder Ilz tamisent<lb/>
-leurs sables Les broyent sur le <m>porphire</m> Et les destrempent<lb/>
+pas bonne En sable elle se peult accommoder Ilz <tl>tamisent</tl><lb/>
+leurs sables Les broyent sur le <tl><m>porphire</m></tl> Et les destrempent<lb/>
 en <m>eau</m> &amp; en retirent le plus subtil qui est au dessus puys<lb/>
 le recuisent</ab>
  </div>
@@ -92,21 +92,22 @@ mays il <del>s</del> seroit malaise a coupper Il est mieulx de le faire<lb/>
 a trois ou 4 parties qui soient un peu larges pres de lanimal<lb/>
 &amp; comprenent le plus du bord diceluy qui est vers le gect que faire<lb/>
 se pourra Fais aussy des conduicts de gect depuys le bout
-<cont/>
+
+
 </ab>
 
 
-<ab><margin>left-bottom</margin>
+<ab>
+<margin>left-bottom</margin>
 <figure>
 <id>fig_p143r_1</id>
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5cnJFVXFaRURaY3c</link>
 </figure>
 Laisse<lb/>
 refroidir le<lb/>
-moule plustost<lb/>
+<tl>moule</tl> plustost<lb/>
 que louvrir<lb/>
 mesmem<exp>ent</exp> aulx<lb/>
 choses espesses</ab>
-
-
+<cont/>
 </div></root>
