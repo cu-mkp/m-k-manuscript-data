@@ -2,10 +2,6 @@
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f52.image</image>
 
 
-<div>
-<id>p022v_1</id>
-
-
 <figure>
 <id>fig_p022v_1</id>
 <margin>left-top</margin>
@@ -14,6 +10,10 @@
 </figure>
 
 
+
+
+<div>
+<id>p022v_1</id>
 <head>Orgues</head>
 
 

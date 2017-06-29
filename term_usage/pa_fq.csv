@@ -1,42 +1,45 @@
 33|aspic
-23|noix
-19|fleur
-16|fleurs
-15|rose
+24|noix
+19|froment
+16|rose
 15|bled
 12|vigne
-11|foeuille
 10|saule
-10|froment
-10|foeuilles
 9|orme
+8|olif
 8|lin
 6|pensee
-6|olif
-6|herbe
+6|figuier
 5|raisin
 5|pastel
-5|figuier
 5|abres
 5|abre
 4|sauge
+4|olive
 4|millet
-4|foeille
+4|fleurs
+4|fleur
 4|cotton
-3|herbes
-3|foeilles
+3|herbe
+3|foeille
 3|asperge
 2|tim
 2|soucy
 2|safran
 2|rosmarin
-2|olive
+2|rosier
+2|roses
+2|poix
+2|pois
 2|oignons
 2|noyer
 2|mil
 2|linge
 2|herable
 2|havets
+2|fromant
+2|fraisiers
+2|foeuille
 2|espinette
 2|coings
 2|chastaignes
@@ -44,7 +47,6 @@
 2|buglose
 2|bruyeres
 2|bresil
-2|bouton
 2|bleds
 2|aulx
 2|amendes
@@ -52,13 +54,13 @@
 2|ail
 2|absinthe
 2|Roses
+1|zedoaire
 1|viole
 1|vini
 1|vinette
 1|vignes
 1|vesse
-1|tiges
-1|tige
+1|terra merita
 1|soulcy
 1|soulci
 1|solcy
@@ -67,14 +69,12 @@
 1|saulge
 1|sarment
 1|sapin
-1|rosier
-1|roses
+1|rosiers
 1|rose soulcy
 1|ronce
 1|rheubarbe des moynes
 1|ranunculus
 1|raisins
-1|racine de cucurme
 1|queues de pourrceaulx
 1|queue de cheval
 1|pruneaux
@@ -82,8 +82,6 @@
 1|poys
 1|pomole
 1|pommes
-1|poix
-1|pois
 1|poirier
 1|poires
 1|petit
@@ -120,33 +118,28 @@
 1|hiebles
 1|herbes potaigeres
 1|herbes bulbeuses
-1|herbages
+1|herbes
 1|hayes
 1|guindoles
 1|guimave
 1|grand passevelours
 1|genest
-1|fruict des fraisiers
-1|fromant
-1|fraisiers
 1|fraises
-1|foeuillle
-1|foeuilles de rosier
 1|foeuilles de
-1|foeuiles
 1|foeilles de lierre
 1|fleur de soulcy
-1|fleur de roses
-1|fleur de la rose
 1|fleur de genest
 1|fleur de
+1|figier
 1|festus
 1|febve
 1|fayan
+1|erable
 1|despinette
-1|des rosiers
 1|dent
 1|de Lyon
+1|cucurme
+1|coutoien
 1|cormier
 1|colombine
 1|choux
@@ -158,8 +151,6 @@
 1|buy
 1|bruiere
 1|branche de provenche
-1|bouttons
-1|boutons
 1|boufain
 1|bled de froment
 1|avelane
@@ -174,6 +165,7 @@
 1|Segle
 1|Santonique
 1|Safran
+1|Rose
 1|Peschers
 1|Pastel
 1|Orangers

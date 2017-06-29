@@ -2,8 +2,10 @@
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f346.item</image>
 
 
-<div>@
-<ab>Lan mil cinq cens septante huict le deuxiesme de Juillet a este faict<lb/>
+<div>
+<id>p170v_1</id>
+<ab>
+@Lan mil cinq cens septante huict le deuxiesme de Juillet a este faict<lb/>
 Transport aulx heritiers de feu sr ouvryer <del>deux cens cinq escu</del><lb/>
 du Rentement de St frajou montant douze cens trente livres</ab>
 
@@ -68,20 +70,19 @@ de stirpium historia</la></ab>
 
 
 
-<margin>left-middle</margin>
-<ab><la>Othonis Epi<exp>scopi</exp><lb/>
+
+
+<ab><margin>left-middle</margin><la>Othonis Epi<exp>scopi</exp><lb/>
 frisigensis<lb/>
 ab orbe condito</la></ab>
 
 
-<margin>left-bottom</margin>
-<ab><la>Abbatis<lb/>
+<ab><margin>left-middle</margin><la>Abbatis<lb/>
 Uspergensis<lb/>
 chronic</la></ab>
 
 
-<margin>left-bottom</margin>
-<ab><la>Hyeronimus<lb/>
+<ab><margin>left-middle</margin><la>Hyeronimus<lb/>
 mercurialis<lb/>
 variarum</la></ab>@
 </div></root>

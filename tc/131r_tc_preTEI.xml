@@ -13,8 +13,7 @@ a brusler dans le <tl>moule</tl></head>
 
 
 <ab>
-<margin>left-top</margin>
-<man>Essay</man></ab> 
+<man><margin>left-top</margin>Essay</man></ab> 
 
 
 </div>
@@ -81,7 +80,7 @@ Et pour ceste raison si tu veulx esbaucher quelque chose </ab>
 <ab>
 <margin>left-bottom</margin>
 <figure>+</figure>
-<man><la>Nota</la></man>
+<man><margin>left-bottom</margin><la>Nota</la></man>
 La <m>cire blanche</m><lb/>
 est plus delicate<lb/>
 que laultre &amp;<lb/>

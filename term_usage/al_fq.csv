@@ -1,28 +1,27 @@
 29|serpent
-22|serpents
+23|serpents
+22|tortue
 22|escrevisse
-21|tortue
 16|cheval
 13|seiche
 12|vers
 12|mouche
 11|mouton
 11|lesards
-11|lesard
 11|iraigne
 10|tortues
+10|rat
+10|lesard
 10|escrevisses
 10|chevaulx
-9|animaulx
 8|poisson
 7|lezard
 7|grenoille
 7|chiens
 7|bœuf
 6|veau
-6|rat
+6|dragon
 6|chancre
-6|animal
 5|serpens
 5|oiseau
 5|lesardes
@@ -30,18 +29,22 @@
 4|vache
 4|rats
 4|pourceau
+4|loup
 4|crapault
+4|animaulx
 3|vipere
 3|porc
 3|oyseaulx
 3|mouches
-3|loup
 3|lezards
 3|chancres
 3|benarris
+3|animal
 3|angroise
 3|Rossignol
 3|Oyseaulx
+3|Celles deau
+2|souris
 2|saulterelles
 2|rossignols
 2|poulet
@@ -59,7 +62,6 @@
 2|fourmis
 2|foeuille
 2|escargots
-2|dragon
 2|de garrigue
 2|chardonnerets
 2|cerf volant
@@ -70,7 +72,6 @@
 2|Tortues
 2|Serpens
 2|Crapault
-2|Celles deau
 1|yraignes
 1|yraigne
 1|vers de farine
@@ -79,12 +80,9 @@
 1|ver
 1|venatione
 1|tourterelles
-1|tortues deau
-1|tortues de
 1|tortue deau
 1|telines
 1|tarins
-1|souris
 1|serpents deau
 1|serpend
 1|sernailles
@@ -99,6 +97,7 @@
 1|porc espic
 1|pincons
 1|pigeon
+1|perdris
 1|passe solitaire
 1|oisillons
 1|oiseaulx
@@ -108,6 +107,7 @@
 1|linotte
 1|lievre
 1|lezarde
+1|lesarde
 1|laisards
 1|iraignee
 1|huitres
@@ -134,6 +134,7 @@
 1|ceulx dans lesquels
 1|certains petits chancres se logent
 1|cerf
+1|celles de
 1|celle de
 1|canard
 1|calendre
@@ -149,8 +150,6 @@
 1|bellettes
 1|aucupio
 1|aspic cornu
-1|animaux
-1|animales
 1|angroisse
 1|alouetes
 1|aigle

@@ -3,6 +3,7 @@
 
 
 <div>
+<id>p170v_1</id>
 <ab>L'an mil cinq cens septante huict le deuxiesme de juillet a esté faict<lb/>
 transport aulx heritiers de feu sr Ouvryer <del>deux cens cinq escu</del><lb/>
 du rentement de S<exp>ainc</exp>t Frajou, montant douze cens trente livres.</ab>
@@ -59,20 +60,17 @@ devant.</ab>
 <ab><la>Marmodaeus, <del>ge</del> De lapillis præciosis</la></ab>
 
 
-<margin>left-middle</margin>
-<ab><la>Othonis Epi<exp>scopi</exp><lb/>
+<ab><margin>left-middle</margin><la>Othonis Epi<exp>scopi</exp><lb/>
 frisigensis<lb/>
 ab orbe condito</la></ab>
 
 
-<margin>left-bottom</margin>
-<ab><la>Abbatis<lb/>
+<ab><margin>left-middle</margin><la>Abbatis<lb/>
 Uspergensis<lb/>
 chronic</la></ab>
 
 
-<margin>left-bottom</margin>
-<ab><la>@ Hyeronimus<lb/>
+<ab><margin>left-middle</margin><la>@ Hyeronimus<lb/>
 mercurialis<lb/>
 variarum</la></ab>
 </div></root>

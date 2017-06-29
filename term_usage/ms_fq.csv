@@ -1,24 +1,23 @@
 93|lb
-42|℥
+44|℥
 39|quintal
-24|moictie
+36|moictie
+20|once
 18|pan
-16|onces
-14|heure
-13|once
+17|onces
+15|heure
+14|doigts
 13|jours
-13|doigts
+13|jour
+13|heures
 12|pas
+12|partye
 12|pans
-12|jour
-12|heures
 11|quintals
-10|partye
-7|pars
-6|deniers
+8|deniers
+6|doigt
 5|nuict
 5|ligne
-5|doigt
 4|quart
 4|poix
 4|pied
@@ -27,11 +26,12 @@
 3|pieds
 3|parties
 3|partie
+3|pars
 3|moys
+3|moitie
 3|lien
 3|lanterne
 3|hora
-3|grains
 2|un bon quart dheure
 2|seau
 2|quintalz
@@ -44,10 +44,12 @@
 2|pan de roy
 2|lignes
 2|gros
+2|grains
+2|grain
 2|gabions
 2|fois le jour
-2|denier
 2|demye ℥
+2|demy sestier
 2|demy
 2|boisseaulx
 2|aultant dun que dautre
@@ -72,6 +74,7 @@
 1|trois
 1|travers dun grain de bled
 1|travers de doigt
+1|tout un jour
 1|tout
 1|tierce partye
 1|tierce
@@ -79,9 +82,9 @@
 1|tenir le bout du
 1|tables
 1|soleil de juin
-1|soir
 1|seau en heure
 1|sans te brusler
+1|sans lallumer il est en bonne chaleur Mays sil le brusle &amp; y mect
 1|roy
 1|quintaulx
 1|que
@@ -91,11 +94,13 @@
 1|quarte
 1|quart plus pesant
 1|quart de
+1|puisse presque entrer
 1|proportion
 1|presque moictie
 1|presque autant dun que daultre
 1|pousses en quarre
 1|pousses
+1|pour scavoir quand il sera en bonne
 1|poulse
 1|poulce
 1|pot
@@ -107,9 +112,7 @@
 1|pinte
 1|pieds de
 1|pied de roy
-1|petite joinctee
 1|pauses
-1|part
 1|paniers
 1|panier
 1|pan de montpellier
@@ -121,11 +124,9 @@
 1|nuit
 1|nois
 1|montpellier
-1|moitie
 1|moictie du jour
 1|mil
 1|meza onca
-1|matin
 1|mains
 1|longuement
 1|long comme la largeur de 4
@@ -133,11 +134,15 @@
 1|liards
 1|lespesseur dun
 1|lespace dung Jour
+1|le soir dans un
+1|le foeu il est trop chault
 1|large de ii ou trois doitgs
 1|large
 1|la grosseur dune avelane avecq sa coquille
 1|la grosseur
 1|jusques a
+1|journee
+1|jour naturel
 1|joinctee
 1|iours
 1|iour
@@ -152,7 +157,7 @@
 1|grosseur de deulx chastaignes
 1|gros comme un curedent
 1|gros comme ffisselle de moing …
-1|grain
+1|grains comme pois
 1|gouttes
 1|fort comme de grands livres imprimes
 1|febve
@@ -163,9 +168,11 @@
 1|espesseur dun papier
 1|espesseur dun costeau
 1|espesseur dun
+1|espesseur
 1|espace dun pater noster
 1|empan
 1|dune noix
+1|du dos de costeau
 1|douziesme partye
 1|dour
 1|double liard
@@ -180,6 +187,7 @@
 1|deulx pointes de doigt
 1|deulx jours
 1|deulx foys aultant
+1|denier
 1|demye once
 1|demye
 1|demy once
@@ -187,19 +195,24 @@
 1|demy balle dharquebus
 1|delie p comme grosse corde despinette pour les petits ouvrages
 1|degre de chaleur
+1|de telle capacite que le bout du petit doigt y
 1|de sel armoniac comme deulx noix
 1|cueillerees dargent
 1|crusols
 1|creusets
+1|coquille
 1|comme la chaleur du
 1|cinquiesme
+1|chaleur trempe dedans un petit papier retors Sil le noircist
 1|ce que tu puisses
+1|carte
 1|carats
 1|caques
 1|canes
 1|cane
 1|bras
 1|bonne heure
+1|bon foeu iusques au matin
 1|balles
 1|autant dun que daultre 
 1|aussy gros quune ferve
@@ -207,13 +220,14 @@
 1|aussy gros
 1|aultant quune grosse noix
 1|aultant que tu vouldras faire longue une cartuche
+1|aultant dun que daultre
 1|aultant
 1|asses chault comme quand
 1|ans
 1|an
 1|a la langue
+1|Jours
 1|Jour
 1|Aultant quil pourroit tenir dans un œuf
-1|4 doigts et le poulse
 1|&amp; une nuict
 1|&amp; aussi gros quune febve de salpestre

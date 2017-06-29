@@ -14,33 +14,11 @@
 
 
 <div>
-<id>p064r_6</id>
-<margin>left-top</margin>
-<ab>
-<head><m>Yellow ochre</m></head>
-
-
-One needs a little of it in every flesh color.</ab>
-</div>
-
-
-<div>
-<id>p064r_7</id>
-<margin>left-middle</margin>
-<ab>
-<head>Softening</head>
-
-
-One softens in the same way on <m>oiled paper</m> as on <m>wood</m>. But it is easier to soften on <m>canvas</m>, because the softening must be rougher on it.</ab>
-</div>
-
-
-<div>
 <id>p064r_2</id>
-<head>Fatty <m>oil</m></head>
+<head><m>Fatty oil</m></head>
 
 
-<ab>It is not good for working with colors because it makes them thick, &amp; as difficult to work as <m>azur d’esmail</m>. Use, then, the clearest <m>walnut oil</m> that you can, &amp; the freshest.</ab>
+<ab>It is not good for working with colors because it makes them thick, &amp; as difficult to work as <m>azur d’esmail</m>. Use, then, the <m>clearest <pa>walnut</pa> oil</m> that you can, &amp; the freshest.</ab>
 </div>
 
 
@@ -49,27 +27,16 @@ One softens in the same way on <m>oiled paper</m> as on <m>wood</m>. But it is e
  <head><m>Vermilion</m></head>
 
 
-<ab>One ought not to keep it in <m>water</m> when crushed with <m>oil</m> for it loses its color. It is better to choose <m>whitish vermilion</m> than dark &amp; blackish. For <m>vermilion</m> is usually mixed with a little <m>lake</m>, without which it would hardly be different from <m>minium</m>. But the pale kind one casts more vivacity than the dark one. It is not desiccative, &amp; for this reason one mixes in calcined <m><fr>cristallin</fr></m>.</ab>
-</div>
-
-
-<div>
-<id>p064_8</id>
-<margin>left-bottom</margin>
-<ab> 
-<head>Eye</head>
-
-
-Every eye must follow the circle of the compass &amp; not be flat &amp; square.</ab>
+<ab>One ought not to keep it in <m>water</m> when <del>soaked</del> <add>crushed</add> with <m>oil</m> for it loses its color. It is better to choose whitish <m>vermilion</m> than dark &amp; blackish. For <m>vermilion</m> is usually mixed with a little <m>lake</m>, without which it would hardly be different from <m>minium</m>. But the pale kind one casts more vivacity than the dark one. It is not desiccative, &amp; for this reason one mixes in <m>calcined <fr>cristallin</fr></m>.</ab>
 </div>
 
 
 <div>
 <id>p064_4</id>
-<head><m>Oil colors</m> in <m>water</m></head>
+<head><m>Oil</m> colors in <m>water</m></head>
 
 
-<ab>Usually, after crushing them one puts a <del><fr>fo</fr></del> piece of <m>tin leaf</m> on top, &amp; one puts them in <m>water</m> to prevent them from drying out. But this is more appropriate for <m>ceruse</m>, <m>lead white</m>, <m>minium</m> &amp; <m>massicot</m> than for the others, for <m>lake</m> dies there &amp; loses its color, as does <m>azure vermilion</m>.</ab>
+<ab>Usually, after crushing them one puts <corr>a</corr> <del><fr>fo</fr></del> piece of <m>tin leaf</m> on top, &amp; one puts them in <m>water</m> to prevent them from drying out. But this is more appropriate for <m>ceruse</m>, <m>lead white</m>, <m>minium</m> &amp; <m>massicot</m> than for the others, for <m>lake</m> dies there &amp; loses its color, as does <m>azure vermilion</m>.</ab>
 </div>
 
 
@@ -78,5 +45,31 @@ Every eye must follow the circle of the compass &amp; not be flat &amp; square.<
 <head>Double layer</head>
 
 
-<ab><m>Verdigris</m> does not die, &amp; thus does not need to be layered twice. But <m>lake</m> &amp; others, &amp; especially flesh color, require two layers. Colors hardly change when they are dry.</ab>
+<ab><m>Ver<add>digris</add></m> does not die, &amp; thus does not need to be layered twice. But <m>lake</m> &amp; others, &amp; especially flesh color, <del>the</del> require two layers. Colors hardly change when they are dry.</ab>
+</div>
+ 
+<div>
+<id>p064r_6</id>
+<margin>left-top</margin>
+<head><m>Yellow ochre</m></head>
+<ab>
+One needs a little of it in every flesh color.</ab>
+</div>
+
+
+<div>
+<id>p064r_7</id>
+<margin>left-middle</margin>
+<head>Softening</head>
+<ab>
+One softens in the same way on <m>oiled paper</m> as on <m>wood</m>. But it is easier to soften on <m>canvas</m>, because the softening must be rougher on it.</ab>
+</div>
+
+
+<div>
+<id>p064_8</id>
+<margin>left-bottom</margin>
+<head>Eye</head>
+<ab> 
+Every eye must follow the circle of the <tl>compass</tl> &amp; not be flat &amp; square.</ab>
 </div></root>

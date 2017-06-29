@@ -1,6 +1,6 @@
 13|mine
 9|a la pluye
-6|eau
+8|eau
 6|cave
 6|au soleil
 5|garrigue
@@ -19,8 +19,10 @@
 2|mer
 2|maisons
 2|lieu sec
+2|fontaine
 2|en
 2|eglises
+2|boutique
 2|au vent
 2|au serain
 2|a lombre
@@ -29,8 +31,6 @@
 1|villes fortes
 1|villes
 1|ville
-1|vigne qui est bien haulte
-1|vigne de puy
 1|vent dune fenestre
 1|veines de la montaigne
 1|terriers
@@ -75,8 +75,8 @@
 1|haultan
 1|grandes escailles vers les montaignes
 1|grandes cuisines
+1|gardemangers
 1|formillere
-1|fontaine
 1|expose au soleil
 1|en un jardin
 1|en temps humide
@@ -90,7 +90,6 @@
 1|descouvert
 1|de rochers
 1|de la balle de 
-1|david
 1|dans leau
 1|dans la
 1|dans de la terre fresche
@@ -101,7 +100,6 @@
 1|champs
 1|chambre
 1|cavernes
-1|boutique
 1|bonnes villes
 1|bled ou fumier
 1|biquoques
