@@ -8,8 +8,8 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Cire, cire, ceruse, blanc de plomb, tourmentine, or, argent, fer, mastic, ciment, argent vif]
-tools: []
+materials: [Cire, cire, ceruse, blanc de plomb, tourmentine, or, argent, fil de fer, fer, mastic, ciment, argent vif, Relute, lute, luter]
+tools: [poinctes de fil de fer, poinctes, poincte, poincte de fer, fil de fer, Crampons, moule, crampons, moules]
 measurements: []
 bodyparts: []
 places: []
@@ -47,18 +47,18 @@ animals: [lezardes, lesards]
  
   
 
-##  Marques des poinctes de fil de <span class="m">fer</span><br/> qui se trouvent en la teste de lanimal
+##  Marques des <span class="tl">poinctes de <span class="m">fil de fer</span></span><br/> qui se trouvent en la teste de lanimal
 
  
- Avecq les poinctes on ha plustost dresse le plant Mesmement<br/> celuy de la teste Mays la teste estant percee il demeure aultour de<br/> la piqueure certaine humeur et petite exudation qui empeche que le<br/> sable ne peut bien revestir la poincte & y demeure tousjours quelque<br/> petits pertuis <span class="del">g</span> Mays pour eviter cela Tu pourrois planter <span class="add"><span class="exp">n</span>s la plase de la <span class="ill"></span></span> une<br/> poincte de <span class="m">fer</span> <span class="del">arro</span> esmoussee & arrondie par le hault bout & sur ce bout<br/> y poser un peu de <span class="m">cire</span> dure ou <span class="del">du</span> un peu de <span class="m">mastic</span> ou <span class="m">ciment</span> Et par<br/> le moyen du fil de <span class="m">fer</span> chault y faire tenir la gorge de lanimal<br/> qui se pourroit oster quand tu viendrois a descouvrir le ventre<br/> et la gorge pour faire le second gect
+ Avecq les <span class="tl">poinctes</span> on ha plustost dresse le plant Mesmement<br/> celuy de la teste Mays la teste estant percee il demeure aultour de<br/> la piqueure certaine humeur et petite exudation qui empeche que le<br/> sable ne peut bien revestir la <span class="tl">poincte</span> & y demeure tousjours quelque<br/> petits pertuis <span class="del">g</span> Mays pour eviter cela Tu pourrois planter <span class="add">da<span class="exp">n</span>s la plase de la <span class="ill"></span></span> une<br/> <span class="tl">poincte de <span class="m">fer</span></span> <span class="del">arro</span> esmoussee & arrondie par le hault bout & sur ce bout<br/> y poser un peu de <span class="m">cire</span> dure ou <span class="del">du</span> un peu de <span class="m">mastic</span> ou <span class="m">ciment</span> Et par<br/> le moyen du <span class="tl"><span class="m">fil de fer</span></span> chault y faire tenir la gorge de lanimal<br/> qui se pourroit oster quand tu viendrois a descouvrir le ventre<br/> et la gorge pour faire le second gect
  
  
   
 
-## Crampons et moule rompu
+## <span class="tl">Crampons</span> et <span class="tl">moule</span> rompu
 
  
- Quand tu as fait la premiere recuite & oste les crampons<br/> Et que tu <span class="del">les</span> as ouvert ton moule pour le nettoyer en soufla<span class="exp">n</span>t<br/> sans <span class="m">argent vif</span> qui ne semploye quaulx moules clos referme le<br/> moule & remects les crampons mays non pas au premier lieu ou ilz<br/> estoient Relute & reseche Mays si cest pour gect d<span class="m">argent</span> ou <span class="m">or</span><br/> lute avec les reste du sable qui ha servy car cest le plus seur Si ton<br/> moule en recuisant est rompu tu le peulx adjouster avec des cra<span class="exp">m</span>pons<br/> & luter
+ Quand tu as fait la premiere recuite & oste les <span class="tl">crampons</span><br/> Et que tu <span class="del">les</span> as ouvert ton <span class="tl">moule</span> pour le nettoyer en soufla<span class="exp">n</span>t<br/> sans <span class="m">argent vif</span> qui ne semploye quaulx <span class="tl">moules</span> clos referme le<br/> <span class="tl">moule</span> & remects les <span class="tl">crampons</span> mays non pas au premier lieu ou ilz<br/> estoient <span class="m">Relute</span> & reseche Mays si cest pour gect d<span class="m">argent</span> ou <span class="m">or</span><br/> <span class="m">lute</span> avec les reste du sable qui ha servy car cest le plus seur Si ton<br/> <span class="tl">moule</span> en recuisant est rompu tu le peulx adjouster avec des <span class="tl">cra<span class="exp">m</span>pons</span><br/> & <span class="m">luter</span>
  
 > *at left bottom margin*
 > 

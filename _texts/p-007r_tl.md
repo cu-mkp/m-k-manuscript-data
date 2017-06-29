@@ -16,7 +16,7 @@ places: []
 plants: [service tree]
 professions: [Joiners, guitar makers]
 environments: [in the sun, in the rain]
-animals: [Fish, codfish]
+animals: [dragon, Fish, codfish]
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-007r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f19.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>007r</a> - - - - - </div>  
@@ -41,7 +41,7 @@ The stamp of <span class="m">sheets of copper or latten</span> is made on <span 
 ## Doublets
 
  
-Good <span class="m">dragon's blood</span> soaked in <span class="m">spirits</span> produces its own <span class="m">mastic</span> or <span class="m">glue</span>. So do <span class="m">vert de vessie</span> and <span class="m">saffron</span>.
+Good <span class="m"><span class="al">dragon</span>'s blood</span> soaked in <span class="m">spirits</span> produces its own <span class="m">mastic</span> or <span class="m">glue</span>. So do <span class="m">vert de vessie</span> and <span class="m">saffron</span>.
  
  
   

@@ -28,7 +28,7 @@ de mouler fais luy prendre par la gueule de bonne <span class="m">eau<br/> de vy
 > *at left top margin*
 > 
 > 
-> Or mects en suffisamment<br/> dans un <span class="tl">verre</span> & y<br/> trempe & tiens continuellem<span class="exp">ent</span><br/> la teste de lanimal<br/> Ou tout entier sil nest<br/> gueres grand
+>  Or mects en suffisamment<br/> dans un <span class="tl">verre</span> & y<br/> trempe & tiens continuellem<span class="exp">ent</span><br/> la teste de lanimal<br/> Ou tout entier sil nest<br/> gueres grand
  
 > *at left top margin*
 > 

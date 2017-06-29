@@ -26,18 +26,24 @@ animals: [Chancre, escrevisse, Lesards, lesards, lesardes]
 
  
 Il suffist la <span class="ms">grosseur de deulx <span class="m"><span class="pa">chastaignes</span></span></span> de <span class="m">sel<br/> armoniac pulverise</span> dans un <span class="ms"><span class="tl">pot</span></span> d<span class="m">eau</span> Et qu<span class="ms">a la <span class="tl"><span class="bp">langue</span></span><br/> tu trouve l<span class="m">eau</span> mediocrement <span class="m">salee</span></span> Car trop nest pas bon
+ 
+ 
   
 
 ## <span class="m">Sanguine</span>
 
  
 Pour nettoyer les diverses couleurs du <span class="m">plomb</span> & de l<span class="m">estaim</span><br/> on pulverise de la <span class="m">sanguine</span> & avecq des <span class="tl">sayes</span> on en frotte l<span class="del">e</span><span class="add">ouvrage</span><br/> moule
+ 
+ 
   
 
 ## <span class="al">Chancre</span> et <span class="al">escrevisse</span>
 
  
  Ce sont des plus difficilles a mouler & qui les moule bien<br/> en moulera bien daultres choses fort subtilles
+ 
+ 
   
 
 ## <span class="al">Lesards</span>
@@ -50,11 +56,11 @@ Quand on les prend avecq les deulx <span class="tl"><span class="bp">doigts</spa
 > 
 >   Les petits <span class="al">lesards</span> quon prend l<span class="tmp">este</span> de la grandeur de petites <span class="al">lesardes</span> gris sur le<br/> dos & vers par dessoubs sont<br/> fort propres pour gecter en <span class="m">argent</span><br/> & <span class="m">or</span> ou aultre<br/> <span class="m">metal</span> pourcequilz<br/> ont lescaille plus rude que les <span class="al">lesardes</span><br/> & se monstrent mieulx
  
- 
 > *at left middle margin*
 > 
 > 
 >   Co<span class="exp">mm</span>e un tenaille 
+ 
  
   
 

@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [blue varnish, blue of flowers florey or of Flanders, quicklime, water, blue, wood, turmeric, bone, horn, ashes of vine shoots, verdigris, alum, river water, bran, iron filings, sulfur, fuller's earth, maplewood, rainwater, gold, sal ammoniac, iron]
+materials: [blue varnish, blue of flowers florey or of Flanders, quicklime, water, blue, wood, turmeric, bone, horn, ashes of vine shoots, verdigris, alum, river water, bran, iron filings, sulfur, fuller's earth, maplewood, well water, gold, sal ammoniac, iron]
 tools: []
 measurements: [fingers, day]
 bodyparts: [fingers]
@@ -38,10 +38,10 @@ Take the <span class="m">water</span> where the <span class="m">quicklime</span>
  
   
 
-## For degreasing <span class="m">bone</span> or <span class="m">horn</span>
+## For ridding <span class="m">bone</span> or <span class="m">horn</span> of fattiness
 
  
-They need to be boiled in <span class="m">quicklime</span>, and be sure that there is always <span class="m">water</span>, and take a well—cleaned pan, and when they are clean, boil them in the <span class="m">ashes of vine shoots</span>, and put it inside the hottest pot you can, and put some <span class="m">verdigris</span> into the <span class="pro">goldsmith's</span> pot of <span class="m">water</span>, and leave for some time and you will see a most beautiful green color.
+One needs to make them boil in <span class="m">quicklime</span>, and it must always have <span class="m">water</span>, and take a very clean pan. And when they are washed, make them boil in the <span class="m">ashes of vine shoots</span>, and put them inside the hottest pot you can, and put <span class="m">verdigris</span> into the <span class="pro">goldsmith's</span> <span class="m">water</span> pot, and leave for the space of some time, and you will see a very beautiful green color.
  
  
   
@@ -49,15 +49,15 @@ They need to be boiled in <span class="m">quicklime</span>, and be sure that the
 ## For making gray <span class="m">wood</span>
 
  
-Take <span class="m">alum</span> with <span class="m">river water</span>and boil them together. Then take <span class="m">river water</span> with some <span class="m">bran</span>, pour in the <span class="m">bran</span> and crush them together. Take <span class="m">iron filings</span> and <span class="m">sulfur</span> and <span class="m">verdigris</span> and <span class="m">fuller's earth</span> , and boil it all together, and crush <span class="m">maplewood</span> which will have been soaked in <span class="m">water</span> of <span class="m">alum</span> and <span class="m">rainwater</span>, and put it to boil together. All of this can be done better in a large crucible.
+Take <span class="m">alum</span> with <span class="m">river water</span>, make them boil together, then take <span class="m">river water</span> with <span class="m">bran</span>, submerge the <span class="m">bran</span> and crush it together. Take <span class="m">iron filings</span> & <span class="m">sulfur</span> & <span class="m">verdigris</span> and <span class="m">fuller's earth</span> , and make it all boil together, and crush <span class="m">maplewood</span> which will have been soaked in <span class="m">water</span> of <span class="m">alum</span> and <span class="m">well water</span>, & put it to boil together. <span class="add">All of this will be done better in hollow sandstone.</span>
  
  
   
 
-## To make bronze with a <span class="m">gold</span> color
+## For making bronze in <span class="m">gold</span> color
 
  
-Take one ounce of <span class="m">sal ammoniac</span> and crush it in an <span class="m">iron</span> mortar. When it is well crushed, take one ounce of <span class="m">sulfur</span>, and 
+Take one ounce of <span class="m">sal ammoniac</span> and crush them in an <span class="m">iron</span> mortar. Once well crushed, take one ounce of <span class="m">sulfur</span>, and 
  
 *[continued]*
  

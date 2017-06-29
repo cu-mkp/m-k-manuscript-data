@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [wood, thorn branch, clear, pine resin, vermilion, walnut oil,, Venice, lake, resin,, charcoal, Colophony, resin, leaded, water, canvas, tammy cloth, vinegar, coral, mastic, Sulfur, Coral, red enamel, cement, glass, brick, opaque red enamel, enamel, Varnish, Venice turpentine, turpentine oil, oil, turpentine, varnish, Mastic varnish, rosin, Thick varnish, linseed oil, garlic, wheat, common thick turpentine]
+materials: [wood, thorn branch, clear, pine resin, vermilion, walnut oil, Venice, lake, resin,, charcoal, Colophony, resin, leaded, water, canvas, tammy cloth, vinegar, coral, mastic, Sulfur, Coral, red enamel, cement, glass, brick, opaque red enamel, enamel, Varnish, Venice turpentine, turpentine oil, oil, turpentine, varnish, Mastic varnish, rosin, Thick varnish, linseed oil, garlic, wheat, common thick turpentine]
 tools: [pot, finger]
 measurements: [lb]
 bodyparts: [finger]
@@ -25,7 +25,7 @@ animals: []
 ## Imitation coral
 
  \+ 
-One must first make the branches from <span class="m">wood</span> or take a fantastical <span class="m">thorn branch</span>, then melt a pound of the best possible <span class="m">clear</span> <span class="m">pine resin</span> and add one ounce of finely ground <span class="m">vermilion</span> together with <span class="m">walnut oil,</span> and if you add a little <span class="m">Venice</span> <span class="m">lake</span> the color will be all the more vivid, and stir all together into the <span class="m">resin,</span> molten over a <span class="m">charcoal</span> fire, not over an open flame, lest it catch fire. Then dip in your branches with a swirling motion. And should there remain any filaments, turn the branch over the heat of the <span class="m">charcoal</span>.
+One must first make the branches from <span class="m">wood</span> or take a fantastical <span class="m">thorn branch</span>, then melt a pound of the best possible <span class="m">clear</span> <span class="m">pine resin</span> and add one ounce of finely ground <span class="m">vermilion</span> together with <span class="m">walnut oil</span>, and if you add a little <span class="m">Venice</span> <span class="m">lake</span> the color will be all the more vivid, and stir all together into the <span class="m">resin,</span> molten over a <span class="m">charcoal</span> fire, not over an open flame, lest it catch fire. Then dip in your branches with a swirling motion. And should there remain any filaments, turn the branch over the heat of the <span class="m">charcoal</span>.
  
 > *at left top margin*
 > 

@@ -9,7 +9,7 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [bronze, Os de seiche, estain, plomb, os, papier, or, argent, lute, ardille, charbon]
-tools: [oreille, moule, main]
+tools: [chassis, oreille, moule, main]
 measurements: []
 bodyparts: [oreille, main]
 places: []
@@ -22,20 +22,18 @@ animals: [seiche]
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-145r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f295.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>145r</a> - - - - - </div>  
   
 
-## Gecter en trois chassis
+## Gecter en trois <span class="tl">chassis</span>
 
  
-On gecte en trois chassis des mortiers de <span class="m">bronze</span> & choses<br/> semblables qui sont bien en despouille Scavoir le cors<br/> du mortier dans l’un <span class="del">les deulx chassis</span> <span class="add">le noyau dans l’aultre</span> @Et le <span class="add">cul du mortier</span> <span class="del">noyau</span> dans l<span class="del">au<span class="exp">tre</span></span>e tiers<br/> <span class="del">pour petit ouvrage</span> pourceque aultrement la mouleure qui y est<br/> ne seroit pas en despouille
- 
+On gecte en trois <span class="tl">chassis</span> des mortiers de <span class="m">bronze</span> & choses<br/> semblables qui sont bien en despouille Scavoir le cors<br/> du mortier dans l’un <span class="del">les deulx <span class="tl">chassis</span></span> <span class="add">le noyau dans l’aultre</span> @<span class="add">Et le <span class="add">cul du mortier</span> <span class="del">noyau</span> dans l<span class="del">au<span class="exp">tre</span></span>e tiers<br/> <span class="del">pour petit ouvrage</span> pourceque aultrement la mouleure qui y est<br/> ne seroit pas en despouille</span>
  
 > *at left top margin*
 > 
 > 
-> Inquire 
+>   Inquire 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5MXRaSldvRzY2UTg" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  A
-
  
  
   

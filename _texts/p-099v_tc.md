@@ -8,9 +8,9 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [metal, huile, or, orpiment, metaulx broyes, cristallin broye, pierre de touche, arsenic, mastic, huile de tourmentine, eau de vye, cendres]
-tools: [foret, foreter]
-measurements: []
+materials: [metal, huile, or, orpiment, metaulx broyes, cristallin broye, pierre de touche, arsenic, Vernis, mastic, huile de tourmentine claire & blanche, eau de vye, cendres]
+tools: [foret, foreter, vaisseau]
+measurements: [onces]
 bodyparts: []
 places: []
 plants: []
@@ -67,8 +67,8 @@ On le sublime & on le broye, & aulcuns pour le fayre<br/> plustost fondre y mect
  
   
 
-## Vernis
+## <span class="m">Vernis</span>
 
  
-Aulcuns font celuy de <span class="m">mastic</span> avec deulx onces de <span class="m">mastic</span><br/> et une d<span class="m">huile de tourmentine</span> claire & blanche & <span class="m">eau de vye</span><br/> co<span class="exp">mm</span>e dessus faire chaufer sur <span class="m">cendres</span> jusques a ce quil<br/> soit fondu puys la laisser reposer & poser en un aultre<br/> vaisseau pour le purger des faisses
+Aulcuns font celuy de <span class="m">mastic</span> avec deulx <span class="ms">onces</span> de <span class="m">mastic</span><br/> et une d<span class="m">huile de tourmentine claire & blanche</span> & <span class="m">eau de vye</span><br/> co<span class="exp">mm</span>e dessus faire chaufer sur <span class="m">cendres</span> jusques a ce quil<br/> soit fondu puys la laisser reposer & poser en un aultre<br/> <span class="tl">vaisseau</span> pour le purger des faisses
  

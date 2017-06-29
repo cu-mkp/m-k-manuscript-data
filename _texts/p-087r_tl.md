@@ -8,13 +8,13 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [latten, copper, sand, metal, cardboard, founder's earth, Sand]
+materials: [latten, sand, carton, Sand]
 tools: []
 measurements: []
 bodyparts: []
-places: [Toulouse, Touch, Saint-Michel, Blagnac]
+places: [Thoulouse, Touch, Sainct Michel, Blagnac]
 plants: []
-professions: [founder]
+professions: [founder, Founders]
 environments: []
 animals: []
 ---
@@ -23,25 +23,25 @@ animals: []
  
 *[continued]*
   
-In order to mold well, it is necessary to cast several medals together in a large box mold, because when there is a lot of material & the crucible is almost full, it becomes hotter. & Then, if you do not succeed with one of the medals, another will be good.
+In order to mold well, one ought in a big frame several medals together, for when there is a lot of substance, & the crucible is almost full, it heats more, & then, if one medal does not come out well, the other will be good.
  
-It is better to melt with a bellows furnace than with a wind furnace, because it heats more vigorously. It is true that <span class="m">latten</span> melts better in the wind furnace, because it is more brittle than <span class="m">copper</span>.
+It is better to melt in a bellows furnace than in a four à vent, because it gives a more vigorous heat. It is true that <span class="m">latten</span> melts well in the four à vent, because it is easier to melt than copper, being more brittle.
  
-Some <span class="pro">founder</span>s superstitiously believe that there are only three days in a week that are good for melting, that is, Tuesdays, <span class="del">Wednesdays</span> Thursdays, and Saturdays. For them, the others are unlucky.
+Some of the <span class="pro">founder</span>s have this superstition, that only three days a week are good for melting, namely Tuesdays, <span class="del">Wednesdays</span> Thursdays, and Saturdays. The others, for them, are unlucky.
  
-When you mold, do not excessively pound on the medal that is in <span class="m">sand</span>, because that prevents it from being cleanly stripped, & cracks the mold.
+When you mold, do not knock excessively on the medal, which is in the <span class="m">sand</span>, because it prevents it from releasing very neatly, & shakes loose the mold.
  
-See to it that <span class="m">sand</span> does not go over the edges of the box mold, because if the molded medal is higher than the cast, <span class="m">metal</span> will not easily enter the form. Therefore, always take care that the surface of your cast surpasses the mold in a straight line. To accomplish this, if you wish, put a piece of <span class="m">cardboard</span> of whatever thickness you please on top of the mold.
+Take heed also that the <span class="m">sand</span> does not surpass the edges of the frame, for it makes the molded medal higher than the cast, & in this way, metal will never enter the mold. Therefore, always make sure that the surface of your casted object directly lines up with the mold, and to make this effect, if you wish, put a lump of <span class="m">carton</span> of whatever thickness you wish.
  
-To prevent their large casting works from becoming too porous, <span class="pro">founder</span>s are careful to heat their molds very well. And to know if the molds are heated enough, they tap them with their finger, & if they start ringing like a pot, they are heated enough.
+<span class="pro">Founders</span>, in order to prevent their large cast works from becoming porous, are careful to well reheat their molds. And to know if they have been reheated enough, they knock against it with their finger, & if they ring like a pot, then they are.
  
-In order to cast their canons cleanly, they mix with their <span class="m"><span class="pro">founder</span>'s earth</span> some fine casting <span class="m">sand</span>, if they can get any.
+To cast their canons neatly, they mix their earth with some fine casting <span class="m">sand</span>, if they can get any.
  
  
   
 
-## <span class="m">Sand</span> of <span class="pl">Toulouse</span>
+## <span class="m">Sand</span> from <span class="pl">Thoulouse</span>
 
  
-<span class="del"></span>The <span class="sup"><span class="m">sand</span></span> generally considered good is the one found in a vineyard near Pech—David. But the best is the one is from the <span class="pl">Touch</span>, a river close to <span class="pl">Saint—Michel</span> & <span class="pl">Blagnac</span>, in a vineyard at a high altitude. This <span class="sup"><span class="m">sand</span></span> is thinner, & a bit greasier than the other, & better for small works. It should not be overheated.
+<span class="del"></span>The usual <span class="del">bo</span> good one is the one which is found in a vineyard near Puy David, but the one which is most excellent is the one is from <span class="pl">Touch</span>, near <span class="pl">Sainct Michel</span> & near <span class="pl">Blagnac</span>, in a vineyard that is high up. The latter is thinner, & a little fatter than the other, & better for small works. It does not want to be too reheated.
  

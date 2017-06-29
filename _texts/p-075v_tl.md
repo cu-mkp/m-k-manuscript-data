@@ -8,13 +8,13 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [wood, iron, rock alum, green copperas, verdigris, currier water, rainwater, glue, yellow gold, fig tree wood, gold, cotton, fig tree, egg white, partridge feather, wolf's tooth, olive oil, meat, natural sulphur]
+materials: [wood, iron, alung de glace, green copperas, verdigris, currier water, rainwater, glue, yellow gold, fig tree wood, gold, cotton, fig tree, the white of one egg, partridge feather, wolf's tooth, olive oil, meat, natural sulphur]
 tools: []
-measurements: [coquille]
+measurements: [setiers, coquille]
 bodyparts: []
 places: []
 plants: []
-professions: []
+professions: [currier]
 environments: []
 animals: []
 ---
@@ -22,25 +22,25 @@ animals: []
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-075v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f156.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>075v</a> - - - - - </div>  
   
 
-## Making grey <span class="m">wood</span>
+## For making gray <span class="m">wood</span>
 
  
-It is necessary to take three demi—sestiers of <span class="m">iron</span> filings per 18 <span class="del"></span> deniers of <span class="m">rock alum</span>, and for as much <span class="sup">18 deniers</span> <span class="m">green copperas</span> for six deniers of <span class="m">verdigris</span>, <span class="del"></span> pitch and a quart of <span class="del"></span><span class="m">currier water</span>; and if you can't find any, use <span class="del"></span><span class="m">rainwater</span>  of a slight degree. 
+One needs to take three half <span class="ms">setiers</span> of <span class="m">iron</span> filings for 18 deniers of <span class="m">alung de glace</span>, & for as much <span class="m">green copperas</span>, for six deniers of <span class="m">verdigris</span>, pitch, & a quart of <span class="m"><span class="pro">currier</span> water</span>, and if you cannot find it, you will put <span class="m">rainwater</span>  of slight degree. 
  
  
   
 
-## Gilding <span class="m">wood</span>
+## For gilding on <span class="m">wood</span>
 
  
-First of all it is necessary to apply a coat of very clear <span class="m">glue</span>; and when it is dry, you will apply a coat of <span class="m">yellow gold</span>; and when this is done you will take <span class="m">fig tree wood</span> and soak it for a while, and wash the place you want to gild, and cut your <span class="m">gold</span> with a knife near where you will put it; and said <span class="m">gold</span> must be applied with <span class="m">cotton</span><span class="del"></span>, and if you can find some <span class="m">fig tree</span>, take an <span class="m">egg white</span> and stir it frequently.
+First one needs to lay down a coat of <span class="m">glue</span> very clear, and once dry, you will lay down a coat of <span class="m">yellow gold</span>. And when it is done, you will take <span class="m">fig tree wood</span>, & put it to soak some space of time, & wash the places you want to gild, and cut your <span class="m">gold</span> with a knife to the price that you will lay down. And one must lay down the said <span class="m">gold</span> with <span class="m">cotton</span>. And if you can find <span class="m">fig tree</span>, take the <span class="m">the white of one egg</span> & stir it vigorously.
  
- If your <span class="m">gold</span> does not have a nice enough color, you will take a <span class="m">partridge feather</span> burn it in a chafing—dish, and turn the smoke toward what you have gilded.
+ If your <span class="m">gold</span> does not have beautiful enough color, you will take a <span class="m">partridge feather</span>, & make it burn it in a chafing—dish, and make the smoke go against what you have gilded.
  
  
   
 
-## Gilding with ground <span class="m">gold</span>
+## For gilding of ground <span class="m">gold</span>
 
  
 Take a <span class="ms">coquille</span> of <span class="m">gold</span>, soak it with gum water before you intend to work, and then apply it with a brush, and polish it with a <span class="del"></span><span class="m">wolf's tooth</span> once it is dry.

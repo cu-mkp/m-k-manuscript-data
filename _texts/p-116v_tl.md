@@ -13,7 +13,7 @@ tools: [Casting, barrel, mold, cast, molded, crucible, point, finger]
 measurements: [pound]
 bodyparts: [finger]
 places: []
-plants: [herb, flower, greeneries]
+plants: [herb, flower, greeneries, hazelnut]
 professions: []
 environments: []
 animals: [snake, Snake, snakes, animal, mice]
@@ -38,7 +38,7 @@ animals: [snake, Snake, snakes, animal, mice]
 ## <span class="m">Tin</span> and <span class="m">lead</span> mixture
 
  
-For fine <span class="pa">herb</span>s, <span class="pa">flower</span>s and <span class="pa">greeneries</span>. You need more than 3 parts of <span class="m">tin</span> for one part of <span class="m">lead</span>. If this material is thick and fat, you need 3 parts <span class="m">lead</span>. Heat the mostly <span class="m">tin</span> mixture, which must become red and very hot. When you want to <span class="tl">cast</span>, remove your <span class="tl">crucible</span> from the fire, and add two or three grains of <span class="m">resin</span> for one and a half or two <span class="ms">pound</span>s of <span class="m">lead</span> or <span class="m">tin</span>. With the <span class="m">resin</span>, also some fat <span class="m">looking—glass tin</span>, the size of an auclane with its shell, mix and cast. Make sure you have more <span class="m">metal</span> than you need; some <span class="m">metal</span> should be set aside. If you haven't enough <span class="m">metal</span>, keep <span class="tl">cast</span>ing and finish your <span class="tl">cast</span>, it will set, however it will not be so neat. Dip your <span class="tl">mold</span> into <span class="m">water</span>, and dismantle your <span class="tl">mold</span> carefully with a <span class="tl">point</span>. Make an elongated <span class="tl">cast</span> in order not to damage anything. If you <span class="tl">mold</span> something very thin, you must make your <span class="tl">cast</span> with mostly <span class="m">tin</span>.
+For fine <span class="pa">herb</span>s, <span class="pa">flower</span>s and <span class="pa">greeneries</span>. You need more than 3 parts of <span class="m">tin</span> for one part of <span class="m">lead</span>. If this material is thick and fat, you need 3 parts <span class="m">lead</span>. Heat the mostly <span class="m">tin</span> mixture, which must become red and very hot. When you want to <span class="tl">cast</span>, remove your <span class="tl">crucible</span> from the fire, and add two or three grains of <span class="m">resin</span> for one and a half or two <span class="ms">pound</span>s of <span class="m">lead</span> or <span class="m">tin</span>. With the <span class="m">resin</span>, also some fat <span class="m">looking—glass tin</span>, the size of a <span class="pa">hazelnut</span> with its shell, mix and cast. Make sure you have more <span class="m">metal</span> than you need; some <span class="m">metal</span> should be set aside. If you haven't enough <span class="m">metal</span>, keep <span class="tl">cast</span>ing and finish your <span class="tl">cast</span>, it will set, however it will not be so neat. Dip your <span class="tl">mold</span> into <span class="m">water</span>, and dismantle your <span class="tl">mold</span> carefully with a <span class="tl">point</span>. Make an elongated <span class="tl">cast</span> in order not to damage anything. If you <span class="tl">mold</span> something very thin, you must make your <span class="tl">cast</span> with mostly <span class="m">tin</span>.
  
 > *at left middle margin*
 > 

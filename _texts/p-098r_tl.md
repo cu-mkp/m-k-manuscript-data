@@ -8,15 +8,15 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Varnish, turpentine, spike lavender, amber, mastic, dragon's blood, terra merita, wet, iron, tin, vinegar, linen, resin, estamiere, little square iron box., tow, melted tin, sal ammoniac]
-tools: []
-measurements: []
+materials: [Varnish, turpentine, oil of turpentine or of spike lavender, amber pulverized, mastic, dragon's blood, terra merita, wet, iron, tin, vinegar, linen, resin, varnish, pure & fine tin, estamiere, tow, tinned, tinning done in leaf, tinning, sal ammoniac]
+tools: [file, linen, head of a nail, iron, small stick wrapped in tow]
+measurements: [pauses]
 bodyparts: []
 places: []
-plants: []
+plants: [spike lavender, linen]
 professions: [Locksmith, Leadsmiths]
 environments: []
-animals: []
+animals: [lizard]
 ---
 
 .<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-098r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f201.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>098r</a> - - - - - </div>  
@@ -25,7 +25,7 @@ animals: []
 ## <span class="m">Varnish</span> for lutes
 
  
-They take a little <span class="m">turpentine</span> & oil of <span class="m">turpentine</span> or of <span class="m">spike lavender</span> & <span class="m">amber</span> pulverized & passed very subtly & make as that of <span class="m">mastic</span>, & add in to color it a little <span class="m">dragon's blood</span> and make it reddish, and others some <span class="m">terra merita</span> for yellow.
+They take a little <span class="m">turpentine</span> & <span class="m">oil of turpentine or of <span class="pa">spike lavender</span></span> & <span class="m">amber pulverized</span> & passed very subtly & make as that of <span class="m">mastic</span>, & add in to color it a little <span class="m">dragon's blood</span> and make it reddish, and others some <span class="m">terra merita</span> for yellow.
  
  
   
@@ -41,7 +41,7 @@ You have to work the ground, then then it with a rake, and afterwards if it is d
 ## <span class="pro">Locksmith</span>
 
  
-To well <span class="m">tin</span> nails and other work, they file their work very neatly. Then to clean it well & rid it of fattiness, they make it boil in <span class="m">vinegar</span>, then they wipe it well with a <span class="m">linen</span>. Next they heat it & pass some <span class="m">resin</span> over top, which coats it with a shiny skin like varnish. This done, they melt some pure & fine <span class="m">tin</span> in their <span class="m">estamiere</span>, which is a <span class="m">little square iron box.</span> And when the <span class="m">tin</span> is well melted & moderately warm, they throw in <span class="m">resin</span> in to burn the filth, & then they let the head of a nail or something similar soak a little, & having remained there for seven or eight pauses, they take it out and shake it, hitting the top with an <span class="m">iron</span> to make the tin that is superfluous fall off, & clean it with a small stick wrapped in <span class="m">tow</span>. And if it is not well <span class="m">tin</span>ned, you will hit it hot with a piece of <span class="m">resin</span> & do as before before & leave it to get cold. When the work cools down it becomes yellow, which is a sign that the <span class="m">tin</span> is the right temperature. But it becomes blue if the <span class="m">tin</span> is too hot. Things so <span class="m">tin</span>ned are of a duration, & do not come undone at all, like the tinning done by leaves. But at the end of a year they can be clarified & renewed by heating & striking them.
+To well <span class="m">tin</span> nails and other work, they <span class="tl">file</span> their work very neatly. Then to clean it well & rid it of fattiness, they make it boil in <span class="m">vinegar</span>, then they wipe it well with a <span class="tl"><span class="m"><span class="pa">linen</span></span></span>. Next they heat it & pass some <span class="m">resin</span> over top, which coats it with a shiny skin like <span class="m">varnish</span>. This done, they melt some <span class="m">pure & fine tin</span> in their <span class="m">estamiere</span>, which is a little square <span class="m">iron</span> box. And when the <span class="m">tin</span> is well melted & moderately warm, they throw in <span class="m">resin</span> in to burn the filth, & then they let the <span class="tl">head of a nail</span> or something similar soak a little, & having remained there for seven or eight <span class="ms"><span class="tmp">pauses</span></span>, they take it out and shake it, hitting the top with an <span class="tl"><span class="m">iron</span></span> to make the <span class="m">tin</span> that is superfluous fall off, & clean it with a <span class="tl">small stick wrapped in <span class="m">tow</span></span>. And if it is not well <span class="m">tinned</span>, you will hit it hot with a piece of <span class="m">resin</span> & do as before & let it cool. When the work cools, it becomes yellow, which is a sign that the <span class="m">tin</span> is the right temperature. But it becomes blue if the <span class="m">tin</span> is too hot. Things <span class="del">t</span> thus <span class="m">tinned</span> are durable & are not undone like <span class="m">tinning done in leaf</span>, thus at the end of a <span class="tmp">year</span> they can be clarified & renewed by heating & rubbing them.
  
-<span class="pro">Leadsmiths</span> say that making a lizard die in the <span class="m">melted tin</span> makes the <span class="m">tin</span>ning become very golden. Or else by adding <span class="m">sal ammoniac</span>.
+<span class="pro">Leadsmiths</span> say that making a <span class="al">lizard</span> die in the melted <span class="del">il des</span> <span class="m">tin</span> makes the <span class="m">tinning</span> become very golden. Or else putting in <span class="m">sal ammoniac</span>.
  

@@ -8,8 +8,8 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [eau, or, estain, letton, sol, laitton, laiton, plomb, eau fort, esmail]
-tools: []
+materials: [eau, or, estain, letton, sol, laitton, laiton, plomb, eau fort, Esmailler, esmail]
+tools: [souflet, moule, crusol, fourneau a vent, burin]
 measurements: []
 bodyparts: []
 places: []
@@ -23,11 +23,11 @@ animals: []
  
 *[continued]*
   
-en mirouer Et co<span class="exp">mm</span>e tu vouldras @ gecter mects encor un peu<br/> de la couleur & laisse reposer un petit tousjours souflant<br/> du petit & grand souflet En fin adapte ton moule tout<br/> rouge entre les moulets ou dans un crusol plein de sable bien<br/> chault & gete Et co<span class="exp">mm</span>e il aura faict prise gecte si tu veulx<br/> dans l<span class="m">eau</span> Car l<span class="m">or</span> ne fait point de domaige co<span class="exp">mm</span>e l<span class="m">estain</span><br/> qui saulte
+en mirouer Et co<span class="exp">mm</span>e tu vouldras @ gecter mects encor un peu<br/> de la couleur & laisse reposer un petit tousjours souflant<br/> du petit & grand <span class="tl">souflet</span> En fin adapte ton <span class="tl">moule</span> tout<br/> rouge entre les moulets ou dans un <span class="tl">crusol</span> plein de sable bien<br/> chault & gete Et co<span class="exp">mm</span>e il aura faict prise gecte si tu veulx<br/> dans l<span class="m">eau</span> Car l<span class="m">or</span> ne fait point de domaige co<span class="exp">mm</span>e l<span class="m">estain</span><br/> qui saulte
  
-Pour fondre l<span class="m">or</span> en lingot nimporte poinct de <span class="del">gec</span> soufler<br/> par dessus avecq le petit souflet
+Pour fondre l<span class="m">or</span> en lingot nimporte poinct de <span class="del">gec</span> soufler<br/> par dessus avecq le petit <span class="tl">souflet</span>
  
-En grand ouvraige le crusol de sable se doit mectre<br/> dans un fourneau a vent pour estre tout rouge au bout de<br/> la fournaise
+En grand ouvraige le <span class="tl">crusol</span> de sable se doit mectre<br/> dans un <span class="tl">fourneau a vent</span> pour estre tout rouge au bout de<br/> la fournaise
  
 L<span class="m">or</span> que le vent touche ou quon forge vient noir Mays<br/> un peu d<span class="m">eau</span> fort le descouvre soubdain
  
@@ -38,8 +38,8 @@ Cest asses que le gect soict de lespesseur <span class="del"><span class="ill"><
  
   
 
-## <span class="del">Esm</span> Esmailler ouvraiges tanvres
+## <span class="del">Esm</span> <span class="m">Esmailler</span> ouvraiges tanvres
 
  
-Les <span class="pro">orfevres</span> rasclent avecq laisle du burin la foeille<br/> d<span class="m">or</span> & puys y assoient l<span class="m">esmail</span>
+Les <span class="pro">orfevres</span> rasclent avecq laisle du <span class="tl">burin</span> la foeille<br/> d<span class="m">or</span> & puys y assoient l<span class="m">esmail</span>
  

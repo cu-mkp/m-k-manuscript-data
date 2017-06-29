@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Talc, huile, acier, Or, or, huile de froment, Diamants, cire noire, cire, fumee de lampe]
-tools: []
+materials: [Talc, huile, acier, Or, souldure, or, linge, or fin non alie, huile de froment, or allie, soubder, Diamants, cire noire, cire, fumee de lampe]
+tools: [mortier dacier, pilon, linge, marteau]
 measurements: []
 bodyparts: []
 places: []
-plants: [pensee, foeilles delices]
+plants: [pensee, froment]
 professions: [orfevres]
 environments: []
 animals: [lesards]
@@ -25,7 +25,7 @@ animals: [lesards]
 ## <span class="m">Talc</span> mesle aux moules
 
  
-Jay prins de celuy duquel javoys tire l<span class="m">huile</span> Je lay broye<br/> encores fort subtillement <span class="del">s</span> dans un mortier d<span class="m">acier</span> avecq<br/> un pilon fort grumeleux co<span class="exp">mm</span>e une lime Je lay rendu fort<br/> subtil & en pouldre cottonee & dumetteuse Je lay mesle<br/> avecq le sable & lay destrempe ensemble & lay gecte en<br/> noyau Il ha moule <span class="del">en nu</span> tresnet & ne fault point<br/> doubter quil ne tienne au foeu
+Jay prins de celuy duquel javoys tire l<span class="m">huile</span> Je lay broye<br/> encores fort subtillement <span class="del">s</span> dans un <span class="tl">mortier d<span class="m">acier</span></span> avecq<br/> un <span class="tl">pilon</span> fort grumeleux co<span class="exp">mm</span>e une lime Je lay rendu fort<br/> subtil & en pouldre cottonee & dumetteuse Je lay mesle<br/> avecq le sable & lay destrempe ensemble & lay gecte en<br/> noyau Il ha moule <span class="del">en nu</span> tresnet & ne fault point<br/> doubter quil ne tienne au foeu
  
  
   
@@ -33,13 +33,13 @@ Jay prins de celuy duquel javoys tire l<span class="m">huile</span> Je lay broye
 ## <span class="m">Or</span> gecte fort tanvre
 
  
-Quand promptement les <span class="pro">orfevres</span> ont affaire de souldure<br/> et nont pas loisir den forger ilz en fondent d<span class="m">or</span> Et<br/> puys le gectent sur un linge ou aultre chose qui soubstiene<br/> le foeu Et soubdain laplatissent avecq un marteau ou chose<br/> semblable Et il se trouve fort tanvre & recoit mesmes<br/> limpression du linge
+Quand promptement les <span class="pro">orfevres</span> ont affaire de <span class="m">souldure</span><br/> et nont pas loisir den forger ilz en fondent d<span class="m">or</span> Et<br/> puys le gectent sur un <span class="tl"><span class="m">linge</span></span> ou aultre chose qui soubstiene<br/> le foeu Et soubdain laplatissent avecq un <span class="tl">marteau</span> ou chose<br/> semblable Et il se trouve fort tanvre & recoit mesmes<br/> limpression du <span class="tl"><span class="m">linge</span></span>
  
-L<span class="m">or</span> fin non alie se peult bien gecter en medaille<br/> mays non pas en herbes & <span class="al">lesards</span> & choses fort<br/> subtilles sil nest allie
+L<span class="m">or fin non alie</span> se peult bien gecter en medaille<br/> mays non pas en herbes & <span class="al">lesards</span> & choses fort<br/> subtilles sil nest allie
  
-Une <span class="pa">pensee</span> oincte d<span class="m">huile de froment</span> se peult bien gecter en<br/> <span class="m">or</span> allie
+Une <span class="pa">pensee</span> oincte d<span class="m">huile de <span class="pa">froment</span></span> se peult bien gecter en<br/> <span class="m">or allie</span>
  
-Et aultres <span class="pa">foeilles delices</span> mays que la branche ne soit<br/> pas grande et les foeilles particulierem<span class="exp">ent</span> gectees se peuvent<br/> soubder.
+Et aultres foeilles delices mays que la branche ne soit<br/> pas grande et les foeilles particulierem<span class="exp">ent</span> gectees se peuvent<br/> <span class="m">soubder</span>.
  
  
   

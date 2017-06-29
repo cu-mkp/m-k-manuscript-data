@@ -25,15 +25,15 @@ animals: []
 ## Apprenticeship of the <span class="pro">painter</span>
 
  
-He is first made to draw an <span class="m">egg</span>, in which he must draw half a face, then the entire <span class="sup">face</span> with the ears, then the neck, then the parts of the body separately, then joined, then one figure, then two and three, and finally a narrative scene, teaching him how to hold the <span class="m">charcoal</span> by the point, and also the paintbrush. Once he knows how to draw, he is taught how to apply colors.
+First, one gives him an <span class="m">egg</span> to do in which one has him make half a face, then a whole one with the ears, next the neck, then the parts of the body separately, next joined, then one figure, then two & three, finally a history, teaching him how to hold the <span class="m">charcoal</span> by the end, & also the pinceau. Once he knows how to draw, one teaches him how to layer colors.
  
  
   
 
-## He is also shown these strokes and lines
+## One also presents him with these strokes & lines
 
  
-The figure of the <span class="m">egg</span> is the main pattern for faces and for curled—up bodies, as the cross is the model for a full, straight figure. Without these strokes you will never do anything well.
+The figure of the <span class="m">egg</span> is the main pattern for faces <span class="add">and for bent bodies</span>, as the cross is the model for a full, straight figure. Without these strokes you will never do anything well.
  
  
 > *Figure*

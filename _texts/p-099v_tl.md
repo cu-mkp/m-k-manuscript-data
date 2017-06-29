@@ -8,9 +8,9 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [metal, oil, gold, orpiment, arsenic, mastic varnish, mastic, turpentine oil, spirits, ashes]
-tools: []
-measurements: []
+materials: [metal, oil, gold, orpiment, arsenic, Varnish, mastic, clear & white turpentine oil, eau de vye, ashes]
+tools: [vessel]
+measurements: [ounces]
 bodyparts: []
 places: []
 plants: []
@@ -33,12 +33,12 @@ They have to be pruned often; otherwise they die and do not produce good fruit.
 ## Cannons
 
  
-They are very difficult to drill when they are made of <span class="m">metal</span> since the material is rough and brittle. But you must not push the drill too strongly or push all at once, but remove it often. In that case, the cannon mouth is bigger than the bullet in order to avoid drilling, since the material can be easily cast and slides. The drill should not be like a dovetail, or a point, but should be cut in round like a crankshaft. If it breaks, don't leave it to rust X
+They are very difficult to drill when they are made of <span class="m">metal</span> since the material is rough and brittle. But you must not push the drill too strongly or push all at once, but remove it often. In that case, the cannon mouth is bigger than the bullet in order to avoid drilling, since the material can be easily cast and slides. The drill should not be like a dovetail, or a point, but should be cut in round like a crankshaft. If it breaks, don't leave it to rust \+
  
 > *at left top margin*
 > 
 > 
->   X but instantly take it off from the light. What you will do is pour a little <span class="m">oil</span> on it and then turn it down opposite to the light, strike the opposite side, and it will fall out. You have to drill gently when a piece is made of metal.
+>   \+ but instantly take it off from the light. What you will do is pour a little <span class="m">oil</span> on it and then turn it down opposite to the light, strike the opposite side, and it will fall out. You have to drill gently when a piece is made of metal.
  
  
   
@@ -67,8 +67,8 @@ Mix it with <span class="m">arsenic</span> and grind it. Some prefer to melt it 
  
   
 
-## Varnish
+## <span class="m">Varnish</span>
 
  
-Some make the <span class="m">mastic varnish</span> with two ounces of <span class="m">mastic</span> and one of clear, white <span class="m">turpentine oil</span> and some <span class="m">spirits</span> as aforesaid; heat that on <span class="m">ashes</span> until it melts and then leave it still and put it in another vessel to remove dust.
+Some make this of <span class="m">mastic</span> with two <span class="ms">ounces</span> of <span class="m">mastic</span> and one of <span class="m">clear & white turpentine oil</span> & <span class="m">eau de vye</span> as above. Heat it on <span class="m">ashes</span> until it is melted, then let it rest & put it in another <span class="tl">vessel</span> to purge it of dregs.
  

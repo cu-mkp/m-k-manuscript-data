@@ -46,8 +46,8 @@ Take some <span class="m">gum arabic</span> & make it <span class="del">tr</span
 
 ## Recipe for white <span class="m">gum</span>
 
- 
-Take white <span class="m">wax</span> and <span class="m">ceruse</span> and a little fine <span class="m">pitch</span>, very well pounded together, and put it in a small new pot and make it melt. And when it will be melted you will make a palette of <span class="m">wood</span> <span class="del"></span> and burnish what you want. 
+ & 
+Take white <span class="m">wax</span> & <span class="m">ceruse</span> & a little of fine <span class="m">pitch</span> very well pounded together, & put it in a small new pot & make it melt. And when it will be melted you will make a palette of <span class="m">wood</span> <span class="del">de</span><span class="add">&</span> burnish what you want. 
  
  
   
@@ -55,5 +55,5 @@ Take white <span class="m">wax</span> and <span class="m">ceruse</span> and a li
 ## Green <span class="m">gum</span>
 
  
-Take green <span class="m">wax</span> with a little <span class="m">verdigris</span> and make it melt as said above. 
+Take green <span class="m">wax</span> with a little of <span class="m">verdigris</span> and make it melt as above. 
  

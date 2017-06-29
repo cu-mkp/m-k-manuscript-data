@@ -8,13 +8,13 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [ashes, water, lead, oil]
-tools: []
+materials: [ash, water, oil, plumb, thread, lead]
+tools: [eye, compass, ruler, rulers, tip of another ruler, screw, judgement of the eye, plumb lines, thread, hook, easel]
 measurements: []
-bodyparts: []
+bodyparts: [eye]
 places: []
 plants: []
-professions: []
+professions: [artist, Masters, apprentices]
 environments: []
 animals: []
 ---
@@ -22,12 +22,12 @@ animals: []
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-062v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f130.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>062v</a> - - - - - </div>  
   
 
-## Portraits
+## Drawing
 
  
-To become an artist, it is necessary to draw by eye, without compass or ruler. Masters do not allow apprentices to use them.
+To become an <span class="pro">artist</span>, one needs to draw by <span class="tl"><span class="bp">eye</span></span>, without <span class="tl">compass</span> or <span class="tl">ruler</span>. <span class="pro">Masters</span> do not allow <span class="pro">apprentices</span> to do this.
  
-When the priming has been done a long while ago, it becomes greasy. It must be scrubbed with <span class="m">ashes</span> and <span class="m">water</span>.
+When the priming has been <span class="tmp">long</span> done, it becomes greasy. One needs to rub it with <span class="m">ash</span> & <span class="m">water</span>.
  
  
   
@@ -35,7 +35,7 @@ When the priming has been done a long while ago, it becomes greasy. It must be s
 ## Perspective
 
  
-In order to tell where the <span class="sup">vanishing</span> point is one must lay a ruler over the lines, and the point will be where the lines meet. Some make a hole at the end of their rulers in order to fix the point by that hole while moving the ruler about. Others lay a ruler across the panel,, then on this ruler they place the tip of another ruler which, being attached to the former by a screw, will move about and reach as far as necessary without losing the point. The ruler and compass without discernment of the eye will cause errors. Perspective is very difficult.
+To know the point, one needs to lay down a <span class="tl">ruler</span> over the lines, & at the intersection of these the point will be. Some make a hole at the end of their <span class="tl">rulers</span> to fix the point by that hole & move the <span class="tl">ruler</span> about. Others lay down a <span class="tl">ruler</span> across the panel, then on this laid—down <span class="tl">ruler</span> they set the <span class="tl">tip of another ruler</span>, which, attached to the former by way of a <span class="tl">screw</span>, moves about & reaches as far as necessary without losing the point. The <span class="tl">ruler</span> and <span class="tl">compass</span> without the <span class="tl">judgement of the <span class="bp">eye</span></span> cause errors. Perspective is very difficult.
  
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5ZkRNOG9hZmpMT2M" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
@@ -43,11 +43,9 @@ In order to tell where the <span class="sup">vanishing</span> point is one must 
 > *at left middle margin*
 > 
 > 
->   To paint a perspective in oil, you should not use a ruler, for you would smudge everything. Instead, in applying your colors you must keep and follow the lines of your first drawing.
+>   To paint perspective in <span class="m">oil</span>, you ought not to use a <span class="tl">ruler</span>, for you would smudge everything. But when layering your colors you need to keep to <span class="del">the</span> & follow the lines of your first drawing.
  
- 
-  
-Also, to make plumb lines, that is lines from the top to the bottom of the panel, you need to have a thread with a piece of <span class="m">lead</span> attached to one end and a little hook to the other end for hanging the said thread from the top of the painting.
+Also, to make <span class="tl"><span class="m">plumb</span> lines</span>, which go from the top <span class="del">to make</span> <span class="del">vif</span> to the bottom of the panel, you need to have a <span class="tl"><span class="m">thread</span></span> with some piece of <span class="m">lead</span> attached to one end & a little <span class="tl">hook</span> to the other for hanging the said <span class="tl"><span class="m">thread</span></span> from the top of the panel.
  
  
 > *Figure*
@@ -56,8 +54,8 @@ Also, to make plumb lines, that is lines from the top to the bottom of the panel
  
   
 
-## Painting
+## Panel
 
  
-In order to draw and to apply the colors, especially in <span class="m">oil</span>, you must keep your panel as straight as possible on the easel, since if it is tilted there is a danger that dust or impurities might stick on it. Keep the place where you paint clean and free of dust.
+To draw & layer the colors, especially in <span class="m">oil</span>, you need to hold your panel as upright as you can on the <span class="tl">easel</span>, for if it is slanted there is a danger that some dust & dirt might stick on it. Keep clean & without dust the place where you paint.
  

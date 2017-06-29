@@ -8,12 +8,12 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Amaranth, white wine, flower, wine, Spirits, oil, massicot, minium, walnut oil, lead from Flanders, lead ore, filth, ore, lead, iron, copper, jet, stil de grain yellow, ochre, Bister, wood, Verdigris, water, vinegar, urine, marble]
-tools: [vessel, molds of iron & copper, crucible]
+materials: [white wine, flower, wine, Eau de vie, oil, massicot, minium, oil than walnut, lead from Flanders, lead ore, filth, ore, lead, iron, copper, jet, stil de grain yellow, ochre, Bistre, distemper, Verdigris, water, vinegar, urine, marble]
+tools: [vessel, molds of iron & copper, crucible, spatula, marble]
 measurements: []
 bodyparts: []
-places: [Germans, Flanders]
-plants: []
+places: [Germans, Flanders, German]
+plants: [Amaranth, walnut]
 professions: [painters]
 environments: [mine]
 animals: []
@@ -22,10 +22,10 @@ animals: []
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-063r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f131.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>063r</a> - - - - - </div>  
   
 
-## <span class="m">Amaranth</span> color
+## <span class="pa">Amaranth</span> color
 
  
-Although it is said to be immortal, <span class="m">white wine</span> removes its coloration and makes it light red and the dried <span class="m">flower</span> ends up white. Note that <span class="m">wine</span> does so, and I have tried it. <span class="m">Spirits</span> have the same effect.
+Although it is said to be immortal, it is nonetheless the case that <span class="m">white wine</span> removes its tint & turns claret—colored, & next the dried <span class="m">flower</span> ends up white. Note that thus <span class="m">wine</span>, & I have tried it. <span class="m">Eau de vie</span> does as much.
  
  
   
@@ -33,7 +33,7 @@ Although it is said to be immortal, <span class="m">white wine</span> removes it
 ## Drying of <span class="m">oil</span>
 
  
-If the <span class="m">oil</span> does not dry, put in <span class="m">massicot</span> and <span class="m">minium</span>. There is no better <span class="m">oil</span> than <span class="m">walnut oil</span>, because it does not dry out too quickly nor too slowly.
+If the <span class="m">oil</span> does not dry out, put in <span class="m">massicot</span> & <span class="m">minium</span>. There is no better <span class="m">oil than <span class="pa">walnut</span></span>, for it does not dry out too soon nor too late.
  
  
   
@@ -54,21 +54,21 @@ The <span class="pl">Germans</span> use <span class="m">lead from <span class="p
 ## Shadows
 
  
-German <span class="pro">painters</span> shade their flesh tones with crushed <span class="m">jet</span>, <span class="m">stil de grain yellow</span> and <span class="m">ochre</span>.
+<span class="pl">German</span> <span class="pro">painters</span> make their shadows on flesh colour of people with crushed <span class="m">jet</span>, <span class="m">stil de grain yellow</span> & <span class="m">ochre</span>.
  
  
   
 
-## <span class="m">Bister</span>
+## <span class="m">Bistre</span>
 
  
-It is only employed in distemper, and is used for the color of <span class="m">wood</span>.
+It is only used in <span class="m">distemper</span>, & with this wood color is made.
  
  
   
 
-## <span class="m">Verdigris</span> and another very beautiful, gay green
+## <span class="m">Verdigris</span> and another very beautiful bright green
 
  
-One must not crush it with <span class="m">water</span> alone, because that makes it fade. To make it beautiful in distemper, some crush it with <span class="m">vinegar</span>, but that makes it turn pale and become whitish. To make it beautiful, crush it with <span class="m">urine</span> and leave it to dry. Then, whenever you like, crush it with <span class="m">oil</span>. And after you have collected it with the palette, before you finish cleaning the <span class="m">marble</span>, crush it <span class="sup">there</span> with <span class="m">stil de grain yellow</span>. And you will have a very beautiful green.
+One ought not to crush it with <span class="m">water</span> alone, for that makes it die. To render it beautiful in <span class="m">distemper</span>, some crush it with <span class="m">vinegar</span>, but that makes it turn pale & become whitish. To render it beautiful, crush it with <span class="m">urine</span> & leave to dry. Then, whenever you like, crush it with <span class="m">oil</span>. And after you have collected it with the <span class="tl">spatula</span>, before finishing to clean the <span class="tl"><span class="m">marble</span></span>, crush <span class="m">stil de grain yellow</span> on it. And you will have a very beautiful green.
  

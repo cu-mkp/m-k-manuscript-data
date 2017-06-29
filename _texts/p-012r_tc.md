@@ -38,7 +38,7 @@ Le <span class="m">soufre</span> se faict beau avecq le <span class="m">noir a n
 ## <span class="m">Chimolee</span>
 
  
-La <span class="m">terre chimolee</span> aultrement des <span class="pro">parayres</span> qui acoustrent<br/> les <span class="m">draps</span> est excellente a mouler en creulx ou relief & si<br/> tu la veulx recuire il fault que premierem<span class="exp">ent</span> elle soict<br/> chaulde & la recuire a feu doulx de loing & peu a peu<br/> aultrem<span class="exp">ent</span> elle petteroit mects la figure a recuire dans<br/> un <span class="tl">pot</span> au <span class="tl">four</span> ou dans un <span class="tl">four couvert</span> Elle est fort<br/> doulce nette & belle <span class="add">Tu peulx faire cave danimaulx de <span class="m">chimolee</span><br/> & i gecter du <span class="m">plomb</span></span>
+La <span class="m">terre chimolee</span> aultrement des <span class="pro">parayres</span> qui acoustrent<br/> les <span class="m">draps</span> est excellente a mouler en creulx ou relief & si<br/> tu la veulx recuire il fault que premierem<span class="exp">ent</span> elle soict<br/> chaulde & la recuire a feu doulx de loing & peu a peu<br/> aultrem<span class="exp">ent</span> elle petteroit mects la figure a recuire dans<br/> un <span class="tl">pot</span> au <span class="tl">four</span> ou dans un <span class="tl">four couvert</span> Elle est fort<br/> doulce nette & belle @Tu peulx faire cave danimaulx de <span class="m">chimolee</span><br/> & i gecter du <span class="m">plomb</span>
  
 > *at left middle margin*
 > 

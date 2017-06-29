@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [☀, Verdegris, sel armoniac, Borras, salpestre, borras, sel armo, verdegris, marbre, vinaigre, verdet, huile, metaux, or, fer, plomb, estain, argent, cire, pituite, salive, terre, eau de graine de coings]
-tools: []
-measurements: []
-bodyparts: []
+materials: [☀, Verdegris, sel armoniac, Borras, salpestre, borras, sel armo, verdegris, marbre, vinaigre, verdet, huile, metaux, or, fil de fer, plomb, estain, argent, cire, souldure, pituite, salive espesse quiet blanche qui se tient aulx dents, soulder, terre grasse, salive, eau de graine de coings bouillie]
+tools: [marbre, forge, cramponer, moule, fil de fer, bandes, burin]
+measurements: [aultant dun que dautre, moitie]
+bodyparts: [dents]
 places: []
-plants: []
+plants: [coings]
 professions: []
 environments: []
 animals: [iraigne]
@@ -25,7 +25,7 @@ animals: [iraigne]
 ## Faire courre le <span class="m">☀</span>
 
  
- <span class="m">Verdegris</span> & <span class="m">sel armoniac</span> aultant dun que dautre<br/> <span class="m">Borras</span> & <span class="m">salpestre</span> aultant dun que dautre Mays<br/> le <span class="m">borras</span> & <span class="del"><span class="m">sel armo</span></span> <span class="m">salpestre</span> ensemble ne doibvent<br/> priser que la moitie des aultres scavoir aultant<br/> tous deux que le <span class="m">verdegris</span> Broye les subtillem<span class="exp">ent</span> sur<br/> le <span class="m">marbre</span> en pouldre puys broye les de nouveau<br/> avec de fort bon <span class="m">vinaigre</span> jusques a ce quil soict<br/> subtil comme une couleur et <span class="m">verdet</span> broye a <span class="m">huile</span><br/> Apres laisse le seicher de soy mesme si tu as loisir<br/> ou au foeu <span class="del"><span class="ill"></span></span> de la forge & fais quil soict bien<br/> sec
+ <span class="m">Verdegris</span> & <span class="m">sel armoniac</span> <span class="ms">aultant dun que dautre</span><br/> <span class="m">Borras</span> & <span class="m">salpestre</span> <span class="ms">aultant dun que dautre</span> Mays<br/> le <span class="m">borras</span> & <span class="del"><span class="m">sel armo</span></span> <span class="m">salpestre</span> ensemble ne doibvent<br/> priser que la <span class="ms">moitie</span> des aultres scavoir aultant<br/> tous deux que le <span class="m">verdegris</span> Broye les subtillem<span class="exp">ent</span> sur<br/> le <span class="tl"><span class="m">marbre</span></span> en pouldre puys broye les de nouveau<br/> avec de fort bon <span class="m">vinaigre</span> jusques a ce quil soict<br/> subtil comme une couleur et <span class="m">verdet</span> broye a <span class="m">huile</span><br/> Apres laisse le seicher de soy mesme si tu as loisir<br/> ou au foeu <span class="del"><span class="ill"></span></span> de la <span class="tl">forge</span> & fais quil soict bien<br/> sec
  
 > *at left top margin*
 > 
@@ -35,7 +35,12 @@ animals: [iraigne]
 > *at left middle margin*
 > 
 > 
->   <span class="del"><span class="al">iraigne</span></span> Une des principalles<br/> choses pour le gect<br/> est de gecter fort <span class="del">que</span><br/> chault <span class="del">si</span> principallem<span class="exp">ent</span><br/> les grans <span class="m">metaux</span>
+>   <span class="del"><span class="al">iraigne</span></span> 
+ 
+> *at left middle margin*
+> 
+> 
+>   Une des principalles<br/> choses pour le gect<br/> est de gecter fort <span class="del">que</span><br/> chault <span class="del">si</span> principallem<span class="exp">ent</span><br/> les grans <span class="m">metaux</span>
  
  
   
@@ -43,12 +48,12 @@ animals: [iraigne]
 ##  Pour gect d<span class="m">or</span> en grand<br/> ouvraige
 
  
- Il fault non seulement bien cramponer le moule<br/> Mays les fortifier de bons liens de fil de <span class="m">fer</span> ou<br/> petites bandes faictes a propos
+ Il fault non seulement bien <span class="tl">cramponer</span> le <span class="tl">moule</span><br/> Mays les fortifier de bons liens de <span class="tl"><span class="m">fil de fer</span></span> ou<br/> petites <span class="tl">bandes</span> faictes a propos
  
 > *at left middle margin*
 > 
 > 
->   Plustost que<br/> gecter en <span class="m">or</span><br/> nettoye bien ta<br/> forge de <span class="m">plomb</span><br/> & <span class="m">estain</span>
+>   Plustost que<br/> gecter en <span class="m">or</span><br/> nettoye bien ta<br/> <span class="tl">forge</span> de <span class="m">plomb</span><br/> & <span class="m">estain</span>
  
  
   
@@ -56,5 +61,5 @@ animals: [iraigne]
 ##  Secret pour soulder l<span class="m">or</span> et<br/> <span class="m">argent</span> en petit ouvrage
 
  
- Si quelque bout de petite pate ne vient pas bien<br/> en <span class="m">or</span> ou <span class="m">argent</span> par faulte de navoir pas faict par<br/> dessoubs un gect de <span class="m">cire</span> Bas de l<span class="m">or</span> de souldure fort<br/> tanvre puys couppe le en si menues paillettes que tu as besoing<br/> Prens de ceste <span class="m">pituite</span> ou <span class="m">salive</span> espesse <span class="del">qui</span>et blanche<br/> qui se tient aulx dents & avec la poincte du burin aplique<br/> la au lieu que tu veulx soulder & y pose une petite paillette d<span class="m">or</span><br/> & apres avecq un peu de <span class="m">terre</span> grasse destrempee avecq la<br/> <span class="m">salive</span> fait une petite couche a loposite pour mieux tenir<br/> la souldure Apres pulverise dessus un peu de <span class="m">borras</span> &<br/> mects au foeu L<span class="m">eau de graine de coings</span> bouillie & les<br/> aultres aussy
+ Si quelque bout de petite pate ne vient pas bien<br/> en <span class="m">or</span> ou <span class="m">argent</span> par faulte de navoir pas faict par<br/> dessoubs un gect de <span class="m">cire</span> Bas de l<span class="m">or</span> de <span class="m">souldure</span> fort<br/> tanvre puys couppe le en si menues paillettes que tu as besoing<br/> Prens de ceste <span class="m">pituite</span> ou <span class="m">salive espesse <span class="del">qui</span>et blanche<br/> qui se tient aulx <span class="bp">dents</span></span> & avec la poincte du <span class="tl">burin</span> aplique<br/> la au lieu que tu veulx <span class="m">soulder</span> & y pose une petite paillette d<span class="m">or</span><br/> & apres avecq un peu de <span class="m">terre grasse</span> destrempee avecq la<br/> <span class="m">salive</span> fait une petite couche a loposite pour mieux tenir<br/> la <span class="m">souldure</span> Apres pulverise dessus un peu de <span class="m">borras</span> &<br/> mects au foeu L<span class="m">eau de graine de <span class="pa">coings</span> bouillie</span> & les<br/> aultres aussy
  

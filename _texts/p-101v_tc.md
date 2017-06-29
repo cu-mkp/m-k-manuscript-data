@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [mabre, albastre, Jacinthe, ruby, or, antimoine, jacinthe, Topasse, pierre ponce, minium, pierre, acier, ponce, verre, caillou a foeu, huile de lin, ambre jaulne, Gomme armoniac, vinaigre, gommes]
+materials: [mabre, albastre, Jacinthe, ruby, or, antimoine, jacinthe, Topasse, pierre ponce, minium, pierre, acier, ponce, verre, caillou a foeu, Vernis, huile de lin, vernis, ambre jaulne fort pulverise, Gomme armoniac, vinaigre, gommes]
 tools: [crusol, mabre, creusets, mortier de ver f acier, mortier de verre, estamine]
 measurements: []
 bodyparts: []
 places: [allemands]
-plants: []
+plants: [lin]
 professions: []
 environments: []
 animals: []
@@ -54,10 +54,10 @@ Jay fondu une part de <span class="m">pierre ponce</span> calcinee &<br/> pulver
  
   
 
-## Vernis
+## <span class="m">Vernis</span>
 
  
-Les <span class="pl">allemands</span> font fort bouillir le <span class="m">minium</span><br/> parmy l<span class="m">huile de lin</span> & pour luy donner corps de<br/> vernis ilz y meslent l<span class="m">ambre jaulne</span> fort pulverise
+Les <span class="pl">allemands</span> font fort bouillir le <span class="m">minium</span><br/> parmy l<span class="m">huile de <span class="pa">lin</span></span> & pour luy donner corps de<br/> <span class="m">vernis</span> ilz y meslent l<span class="m">ambre jaulne fort pulverise</span>
  
  
   

@@ -28,7 +28,9 @@ and with your pipes and abrevouers @, you can also place small threads of <span 
 > *at left top margin*
 > 
 > 
->   
+>  
+*[continued]*
+  
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5ZHJJRXJlU2RFZlk" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  small rolls, you make your casts and vents without danger of chipping or <span class="x">...</span> any of the mold because the <span class="m">wax</span>, once it has been removed, leaves a thoroughly empty place. Make your vents proceed from the head <span class="x">of the cast</span>, which is at the bottom, towards the cast. Make your cast so that it is not thick, and make two or three notches inside the passage because this impairs the <span class="m">metal</span> fury. And it makes it flow easily without filling with bubbles, <span class="x">and</span> it does not make too much smoke which dams up the passage. You can also divide it into two or three branches thusly 

@@ -8,8 +8,8 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Sable commun de mine, vinaigre distille, Crocum ferri, vinaigre, porphire, crocum, alum de plume, crocum ferri, or, argent, limailles daiguilles, limaille dacier & daiguilles, amalgame]
-tools: [chassis, moule, porphire, ongle, pot, four a vent, doigts]
+materials: [Sable commun de mine, vinaigre distille, Crocum ferri, vinaigre, porphire, crocum, alum de plume, crocum ferri, or, argent, limailles daiguilles, limaille dacier & daiguilles, Dorer, dorer, amalgame]
+tools: [chassis, moule, porphire, ongle, pot, four a vent, doigts, moules]
 measurements: [jours, plusieurs foys chasque jour, moictie]
 bodyparts: [ongle, doigts]
 places: []
@@ -54,18 +54,18 @@ Layant passe par le <span class="m">vinaigre</span> & rougi au foeu<br/> Lay fai
 > *at left middle margin*
 > 
 > 
->   On en peult bien<br/> mectre parmy les<br/> moules ou tu veulx<br/> gecter <span class="m">argent</span> car<br/> il affermist les<br/> moules et tu le trouveroit<br/> en grattant un peu<br/> plus rude que laultre<br/> ou il ny en ha poinct<br/> Il faict mouler fort net
+>   On en peult bien<br/> mectre parmy les<br/> <span class="tl">moules</span> ou tu veulx<br/> gecter <span class="m">argent</span> car<br/> il affermist les<br/> <span class="tl">moules</span> et tu le trouveroit<br/> en grattant un peu<br/> plus rude que laultre<br/> ou il ny en ha poinct<br/> Il faict mouler fort net
  
 > *at left bottom margin*
 > 
 > 
->   Cestuy cy est propre<br/> pour tous moules<br/> & les garde de<br/> rompre & crever au<br/> foeu Et pour<br/> medailles plattes<br/> il soustient<br/> plusieurs gects<br/> Celuy de <span class="m">limaille<br/> dacier & daiguilles</span><br/> est plus rouge<br/> & meilleur
+>   Cestuy cy est propre<br/> pour tous <span class="tl">moules</span><br/> & les garde de<br/> rompre & crever au<br/> foeu Et pour<br/> medailles plattes<br/> il soustient<br/> plusieurs gects<br/> Celuy de <span class="m">limaille<br/> dacier & daiguilles</span><br/> est plus rouge<br/> & meilleur
  
  
   
 
-## Dorer animaux gectes<br/> d<span class="m">argent</span>
+## <span class="m">Dorer</span> animaux gectes<br/> d<span class="m">argent</span>
 
  
-Tu les peux dorer d<span class="m">amalgame</span> sans que les traicts<br/> aulcunnem<span class="exp">ent</span> se gastent sils sont d<span class="m">argent</span>
+Tu les peux <span class="m">dorer</span> d<span class="m">amalgame</span> sans que les traicts<br/> aulcunnem<span class="exp">ent</span> se gastent sils sont d<span class="m">argent</span>
  

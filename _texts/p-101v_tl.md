@@ -8,12 +8,12 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [alabaster, Jacinth, rubies, gold, Rubies, antimony, jacinth, Topaz, pumice stone, minium, pumice, fire-stone, linseed oil, yellow amber, Ammoniacum, vinegar, gums]
+materials: [alabaster, Jacinth, rubies, gold, Rubies, antimony, jacinth, Topaz, pumice stone, minium, pumice, fire-stone, Varnish, linseed oil, varnish, very pulverized yellow amber, Ammoniacum, vinegar, gums]
 tools: []
 measurements: []
 bodyparts: []
-places: []
-plants: []
+places: [Germans]
+plants: [linseed]
 professions: []
 environments: []
 animals: []
@@ -54,10 +54,10 @@ I melted one part of calcinated & pulverized <span class="m">pumice stone</span>
  
   
 
-## Varnish
+## <span class="m">Varnish</span>
 
  
-The Germans thoroughly boil the <span class="m">minium</span> in <span class="m">linseed oil</span>, & to give it the body of varnish, they mix in thoroughly pulverized <span class="m">yellow amber</span>.
+The <span class="pl">Germans</span> make <span class="m">minium</span> boil a lot in <span class="m"><span class="pa">linseed</span> oil</span>, & to give it the body of <span class="m">varnish</span>, they mix in <span class="m">very pulverized yellow amber</span>.
  
  
   

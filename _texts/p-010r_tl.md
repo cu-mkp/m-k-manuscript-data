@@ -8,8 +8,8 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [jasper, horn, cornaline, stones, rose, turpentine, spike lavender, oil, spike lavender oil, glass, talc, pins, cement, gum amoniacum, vinegar, marbled jasper, wool, gold, silver, tin, ., strong glue, Stil de grain yellow, juice of weld, chalk, ceruse, distemper, horn used for lanterns, parchment, common azur, azur d'esmail, lake, alum, lead, common salt, iron, salt, marble, water]
-tools: [joiner's plane, marble slab, sieve]
+materials: [jasper, horn, cornaline, stones, rose, turpentine, spike lavender, oil, spike lavender oil, glass, talc, pins, cement, gum ammoniac, vinegar, marbled jasper, wool, gold, silver, tin, ., strong glue, Stil de grain yellow, juice of weld, chalk, ceruse, distemper, horn used for lanterns, parchment, common azur, azur d'esmail, lake, alum, lead, common salt, iron, salt, marble, water]
+tools: [joiner's plane, marble, sieve]
 measurements: [lb]
 bodyparts: []
 places: [Lyon]
@@ -25,9 +25,9 @@ animals: []
 ## Imitation <span class="m">jasper</span>
 
  
-Take <span class="m">horn</span> as is used to make lanterns, quite thin, and underneath imitate your <span class="m">jasper</span>, <span class="m">cornaline</span>, and other <span class="m">stones</span>. That will look more appropriate than doing it on glass, which is too shiny. And the <span class="m">horn</span> gives a lustre and a fatty polish similar to <span class="m">jasper</span>.
+Take <span class="m">horn</span> from which one makes lanterns, quite thin, and underneath make the figure of your <span class="m">jasper</span>, <span class="m">cornaline</span>, and other <span class="m">stones</span> which will be a work more appropriate than doing it on glass, which is too shiny. And the <span class="m">horn</span> gives a lustre and a fatty polish like <span class="m">jasper</span>.
  
-You know how you can imitate <span class="m"><span class="pa">rose</span></span>s with scrapings of the said <span class="m">horn</span>. The colors for this <span class="m">jasper</span> need to have as a base clear <span class="m">turpentine</span> or <span class="m">spike lavender</span> varnish. And matte, opaque colours are not appropriate, no matter how fine they are. You have to <span class="m">oil</span> the unpainted underside with <span class="m">spike lavender oil</span>.
+You know how with scrapings of the said <span class="m">horn</span> one can imitate <span class="m"><span class="pa">rose</span></span>s . The <span class="del">horn</span> colors for this <span class="m">jasper</span> need to have as a base clear <span class="m">turpentine</span> or <span class="m">spike lavender</span> varnish. And matte, opaque colours are not appropriate, no matter how fine they are. You have to <span class="m">oil</span> the unpainted underside with <span class="m">spike lavender oil</span>.
  
 > *at top margin*
 > 
@@ -37,7 +37,7 @@ You know how you can imitate <span class="m"><span class="pa">rose</span></span>
 > *at left top margin*
 > 
 > 
->  You can inlay beds with it, and on the joints you can throw the filings of <span class="m">talc</span> or of <span class="m">pins</span> on the fresh <span class="m">cement</span> of the said joints. You have to bond them with <span class="m">gum amoniacum</span> soaked in <span class="m">vinegar</span>. To better imitate <span class="m">marbled jasper</span>, apply coarse<span class="m">wool</span> hair dyed various colors and intermingled. After you have laid down all the colors, scrape oblique lines into them then lay down<span class="m">gold</span> and <span class="m">silver</span> leaves. If you lay down colors made of <span class="m">turpentine</span> on the <span class="m">horn</span>, give it a backing of <span class="m">silver</span> or of <span class="m">tin</span> leaf<span class="m">.</span> You can also file <span class="m">horn</span> and mix it with <span class="m">strong glue</span> and lay it down onto the joints of the piece of <span class="m">horn</span> and finish with a <span class="tl">joiner's plane</span>.
+>  You can inlay beds with it, and on the joints you can throw the filings of <span class="m">talc</span> or of <span class="m">pins</span> on the fresh <span class="m">cement</span> of the said joints. You have to bond them with <span class="m">gum ammoniac</span> tempered in <span class="m">vinegar</span>. To better counterfeit <span class="m">marbled jasper</span>, apply coarse<span class="m">wool</span> dyed diverse colors and intermingled. After you have laid down all the colors, scrape oblique lines into them then lay down<span class="m">gold</span> and <span class="m">silver</span> leaves. If you lay down colors made of <span class="m">turpentine</span> on the <span class="m">horn</span>, give it a backing of <span class="m">silver</span> or of <span class="m">tin</span> leaf<span class="m">.</span> You can also file <span class="m">horn</span> and mix it with <span class="m">strong glue</span> and lay it down onto the joints of the piece of <span class="m">horn</span> and finish with a <span class="tl">joiner's plane</span>.
  
  
   
@@ -53,7 +53,7 @@ It is made in <span class="pl">Lyon</span> from the <span class="m">juice of wel
 ## <span class="pa">Roses</span>
 
  
-These are imitated either with the scrapings of <span class="del"><span class="ill"></span></span> <span class="m">horn used for lanterns</span>, or with scrapings of very clear, delicate & dyed <span class="m">parchment</span>, used as you know.
+These are counterfeited either with the scrapings of <span class="del"><span class="ill"></span></span> <span class="m">horn used for lanterns</span>, or with scrapings of <span class="m">parchment</span>, very clear, delicate & dyed, employed as you know.
  
  
   
@@ -61,7 +61,7 @@ These are imitated either with the scrapings of <span class="del"><span class="i
 ## Purple color
 
  
-<span class="pro">Painters</span> make it beautifully by making the first ground layer of <span class="m">common azur</span>, or better yet <span class="m">azur d'esmail</span>, & next they glaze it with <span class="m">lake</span>, which will be more appropriate for this if you mix in <span class="m">alum</span>, which gives it a violet tint depending on the quantity that you mix in.
+<span class="pro">Painters</span> make it beautifully by making the first layer of <span class="m">common azur</span>, or better yet <span class="m">azur d'esmail</span>, & next they glaze it with <span class="m">lake</span>, which will be more appropriate for this if you mix in <span class="m">alum</span>, which gives it a violet tint depending on the quantity that you mix in.
  
  
   <span class="pro"> </span>
@@ -69,5 +69,5 @@ These are imitated either with the scrapings of <span class="del"><span class="i
 ## Powder for hourglasses
 
  
-It must be made very fine and not subject to rust and with enough weight to flow. Taking i <span class="ms">lb</span> of <span class="m">lead</span>, melt it and skim and purify it from its filth, then pour into it four ℥ of finely ground <span class="m">common salt</span>, and take care that there are no <span class="m">stones</span> or earth. And immediately after pouring it, stir continuously very well with an <span class="m">iron</span> <span class="sup">tool</span> until the <span class="m">lead</span> and <span class="m">salt</span> are quite incorporated, and take it immediately off the fire, stirring continuously. And if it seems too coarse, grind it on a <span class="tl"><span class="m">marble</span> slab</span> and pass it through a fine <span class="tl">sieve</span>, then wash it as many as times as necessary until the <span class="m">water</span> runs clear, throwing out the fine powder that will float on it, renewing the <span class="m">water</span> as many times as necessary until it is completely cleared.
+It is made very subtle & not subject to rust &by its weight able to flow. Taking i <span class="ms">lb</span> of <span class="m">lead</span>, melt it and skim and purify it from its filth, then pour into it four ℥ of finely pulverized <span class="m">common salt</span>, and take good care that it has no <span class="m">stones</span> nor earth. And immediately after you have poured it, mix continuously very well with an <span class="m">iron</span> <span class="sup">tool</span> until the <span class="m">lead</span> and <span class="m">salt</span> are well incorporated, and take it immediately from the fire, stirring continuously. And if it seems too coarse, grind it on the <span class="tl"><span class="m">marble</span></span> and pass it through a fine <span class="tl">sieve</span>, then wash it as many as times as necessary until the <span class="m">water</span> becomes clear, throwing out the fine powder that will float on it, renewing the <span class="m">water</span> as many times as necessary until it is all even.
  

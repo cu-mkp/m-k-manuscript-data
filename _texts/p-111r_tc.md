@@ -64,7 +64,7 @@ Ceste cy humectee & bien battue & pestrie co<span class="exp">mm</span>e tu scai
 > *at left middle margin*
 > 
 > 
->    
+>   
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5X085N09VejNheTQ" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  

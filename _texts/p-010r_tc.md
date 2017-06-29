@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Jaspe, corne, jaspe, cornalines, pierres, verre, rose, tourmentine claire, aspic, huiler, huile daspic, limaille de talc, espingle, ciment, gomme armoniac, vinaigre, laines a gros poil, or & argent en foeille, tourmentine, argent, foeille destaing, colle forte, Scudegrun, suc de gaulde, croye, ceruse, destrempe, huile, corne de lanternes, parchemin, azur commun, azur desmail, laque, alum, rouille, plomb, sel commun, pierre, terre, sel, mabre, eau]
+materials: [Jaspe, corne, jaspe, cornalines, pierres, verre, rose, tourmentine claire, aspic, huiler, huile daspic, limaille de talc, espingle, ciment, gomme armoniac, vinaigre, jaspe grumeleux, laines a gros poil, or & argent en foeille, tourmentine, argent, foeille destaing, colle forte, Scudegrun, suc de gaulde, croye, ceruse, destrempe, huile, corne de lanternes, parchemin, azur commun, azur desmail, laque, alum, rouille, plomb, sel commun, pierre, terre, sel, mabre, eau]
 tools: [rabot, mabre, tamis]
 measurements: []
 bodyparts: []
@@ -37,7 +37,7 @@ Tu scais co<span class="exp">mm</span>e avecq la raclure de ladicte <span class=
 > *at left top margin*
 > 
 > 
->  Tu en peulx incruster<br/> des licts & y peulx<br/> sur les joinctures<br/> jecter de la <span class="m">limaille<br/> de talc</span> ou d<span class="m">espingle</span><br/> sur le <span class="m">ciment</span><br/> frais desdictes joinctures Il les<br/> fault joindre<br/> avecq de la <span class="m">gomme<br/> armoniac</span><br/> destrempee en<br/> <span class="m">vinaigre</span> pour<br/> mieulx contrefaire<br/> <span class="m">jaspe</span> grumeleux<br/> aplique des <span class="m">laines<br/> a gros poil</span> tainctes<br/> de diverses couleurs<br/> & entresmeslees<br/> Apres que tu as<br/> couche toutes les<br/> couleurs esgratigne<br/> sur icelles des<br/> lignes obliques<br/> puys couche<br/> de l<span class="m">or & argent<br/> en foeille</span><br/> Si tu couches<br/> sur la <span class="m">corne</span><br/> des couleurs de <span class="m">tourmentine</span><br/> donnes y un<br/> fonds d<span class="m">argent</span><br/> ou de <span class="m">foeille<br/> destaing</span> Tu peulx<br/> aussy limer<br/> de la <span class="m">corne</span> & la<br/> mesler avecq <span class="m">colle<br/> forte</span> & la coucher<br/> sur les joinctures<br/> de la piece de<br/> <span class="m">corne</span> puys lunir<br/> avecq le <span class="tl">rabot</span>
+>  Tu en peulx incruster<br/> des licts & y peulx<br/> sur les joinctures<br/> jecter de la <span class="m">limaille<br/> de talc</span> ou d<span class="m">espingle</span><br/> sur le <span class="m">ciment</span><br/> frais desdictes joinctures Il les<br/> fault joindre<br/> avecq de la <span class="m">gomme<br/> armoniac</span><br/> destrempee en<br/> <span class="m">vinaigre</span> pour<br/> mieulx contrefaire<br/> <span class="m">jaspe grumeleux</span><br/> aplique des <span class="m">laines<br/> a gros poil</span> tainctes<br/> de diverses couleurs<br/> & entresmeslees<br/> Apres que tu as<br/> couche toutes les<br/> couleurs esgratigne<br/> sur icelles des<br/> lignes obliques<br/> puys couche<br/> de l<span class="m">or & argent<br/> en foeille</span><br/> Si tu couches<br/> sur la <span class="m">corne</span><br/> des couleurs de <span class="m">tourmentine</span><br/> donnes y un<br/> fonds d<span class="m">argent</span><br/> ou de <span class="m">foeille<br/> destaing</span> Tu peulx<br/> aussy limer<br/> de la <span class="m">corne</span> & la<br/> mesler avecq <span class="m">colle<br/> forte</span> & la coucher<br/> sur les joinctures<br/> de la piece de<br/> <span class="m">corne</span> puys lunir<br/> avecq le <span class="tl">rabot</span>
  
  
   
@@ -64,7 +64,7 @@ Se contrefont ou avecq rasclures de <span class="del"><span class="ill"></span><
 Les <span class="pro">painctres</span> la font belle faisant la premiere assiette d<span class="m">azur<br/> commun</span> ou pour mieulx d<span class="m">azur desmail</span> & apres ilz glassent de <span class="m">laque</span><br/> qui sera plus propre a cela si tu y mesles de l<span class="m">alum</span> qui luy<br/> donne taincture violette selon la quantite que tu en mesles
  
  
-  <span class="pro"> </span>
+  
 
 ## Pouldre dhorloges de sable
 

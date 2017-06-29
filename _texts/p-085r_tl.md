@@ -8,48 +8,47 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [sand, oil, pork, walnut oil, cloth, white lead,, glair, sands, felt, bone, iron dross, water, egg white, gummed water, elm root, lead, tin, soft lead, pumice, metal scrapings, metal, white lead, minium, aspic oil, Green varnish, copper, sel de verre, dung, Glue, earthen, massicot, varnish]
-tools: [earthen pots]
+materials: [oiled, oil, linen, clear walnut oil, ceruse, water of egg glair, felt, burnt bone, iron dross, marble, water, egg glair, gummed water, wine boiled with elm root, glass, soft lead, brittle tin, lean sand, pumice, flakes, lean sands, metal, minium, Oil, aspic oil, glair, the one of the mine, Green varnish, copper, sel de verre, dung, Glue, earthen, massicot, varnish]
+tools: [very clean & smooth table, fingers, knife, linen, small bristle brushes of pork, mold, frame, pestle, earthen pots]
 measurements: [days]
-bodyparts: []
+bodyparts: [fingers]
 places: [Flemish]
-plants: []
+plants: [walnut, elm root, aspic]
 professions: []
-environments: []
-animals: []
+environments: [mine]
+animals: [pork]
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-085r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f175.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>085r</a> - - - - - </div>  
- 
+> *at left top margin*
+> 
+> 
+>  
 *[continued]*
   
-to rest on a very clean & smooth table, & since it is desiccative, I knew it would dry out <span class="del">lor</span>, what I let it do in order to reduce it to powder, & molding it with <span class="m">sand</span>, once broken up with my fingers & the sharp edge of a knife. I <span class="m">oil</span>ed my medal because <span class="m">oil</span> cleans it without spoiling it. <span class="del">And</span> And having dried it & cleaned it with a linen, & small bristle brushes of <span class="m">pork</span>, I once again lightly <span class="m">oil</span>ed it with clear <span class="m">walnut oil</span>, & gently swiped it with a <span class="m">cloth</span> so that <span class="x">the medal</span> would not be too <span class="m">oil</span>ed; having already considered that in this way <span class="x">the medal</span> should come out easily, because the <span class="m">white lead,</span> wet with <span class="m">glair</span>, which would not damage the <span class="m">oil</span>. This worked very well. I molded a medal very cleanly in high relief, without it having any lumps, which a lot of good <span class="m">sands</span> such as <span class="m">felt</span>, burnt <span class="m">bone</span>, & <span class="m">iron dross</span> failed to do on the first attempt. I re—cooked it & my mold became hard like marble. And then I knew that <span class="m">sands</span> used to mold big relief must be very moist with some kind of <span class="m">water</span>, which gives body & firmness, like <span class="m">egg white</span>, <span class="m">gummed water</span>, <span class="x">or</span> one <span class="x"><span class="m">water</span></span> boiled with <span class="m">elm root</span>. And lightly <span class="m">oil</span> your medal. It can take as many firings as you want because it is as hard as glass. But soft <span class="m">lead</span> & sour <span class="m">tin</span> must be cast at a very hot temperature.
+to rest on a <span class="tl">very clean & smooth table</span>, & since it is desiccative, I knew it would dry out <span class="del">lor</span>, what I let it do in order to reduce it to powder, & molding it with sand, once broken up with my <span class="tl"><span class="bp">fingers</span></span> & the sharp edge of a <span class="tl">knife</span>. I <span class="m">oiled</span> my medal because <span class="m">oil</span> cleans it without spoiling it. <span class="del">And</span> And having dried it & cleaned it with a <span class="tl"><span class="m">linen</span></span>, & <span class="tl">small bristle brushes of <span class="al">pork</span></span>, I once again lightly <span class="m">oiled</span> it with <span class="m">clear <span class="pa">walnut</span> oil</span>, & gently passed a <span class="tl"><span class="m">linen</span></span> over it, so that it does not remain too <span class="m">oiled</span>, and I noted that, in this way, it would come out better in release, because the <span class="m">ceruse</span>, once moistened with <span class="m">water of egg glair</span>, would not attach to the <span class="m">oil</span>. This worked very well and I molded a medal of high relief very neatly, without making any stickiness, which a lot of good sands, such as <span class="m">felt</span>, <span class="m">burnt bone</span> & <span class="m">iron dross</span>, had failed to do on the first try. I reheated it & my <span class="tl">mold</span> became hard like <span class="m">marble</span>, and I realized with this, that sands for molding high relief should be well moistened with some <span class="m">water</span>, which gives them body & compactness, like <span class="m">egg glair</span>, <span class="m">gummed water</span>, <span class="del">ea</span> <span class="m">wine boiled with <span class="pa">elm root</span></span>, & and lightly <span class="m">oil</span> the medal, it withstands as many castings as you wish, for it is as hard as <span class="m">glass</span>. But even <span class="m">soft lead</span> & <span class="m">brittle tin</span> <span class="del">v</span> want to be cast very hot.
  
-Since that moment, I have realized that even though this <span class="m">sand</span> is excellent & can be cast often & molds very neatly, it is fat and it makes bubbles. In this way, the <span class="m">soft lead</span> does not suit the mold well. But I have tried to mix it with lean <span class="m">sand</span>, such as <span class="m">pumice</span>, <span class="m">metal scrapings</span>, & similar things, in order to give it body, & to help it come off easily, because lean <span class="m">sand</span> <span class="x">alone</span> does not come off easily; and yet it takes <span class="m">metal</span> well.
- 
-> *at left top margin*
-> 
-> 
->   Try to mix <span class="m">white lead</span> or <span class="m">minium</span> with other sands.
- 
-> *Figure*
-> *at left top margin*
-> <a href="" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+Since then I have realized that this sand, even though it is excellent & endures many castings & molds very neatly, it is however fat and makes things porous. This, <span class="m">soft lead</span> <span class="del">and the</span> does not come out so well. But try to mix it with a <span class="m">lean sand</span>, such as <span class="m">pumice</span>, <span class="m">flakes</span>, & similar things, to give them body, & so that they release better. For <span class="m">lean sands</span> barely release well and yet they receive <span class="m">metal</span> well.
  
 > *at left top margin*
 > 
 > 
->   Oil & smear with <span class="m">aspic oil</span>, which will disappear when reheated, because the <span class="m">oil</span> causes bubbling.
+>   Try to mix <span class="m">ceruse</span> or <span class="m">minium</span> with other sands.
+ X 
+> *at left top margin*
+> 
+> 
+>   <span class="m">Oil</span> & smear with <span class="m"><span class="pa">aspic</span> oil</span>, which will go away when reheating, for the <span class="m">oil</span> makes it porous.
  
 > *at left middle margin*
 > 
 > 
->   It is necessary to mold with <span class="m">egg white</span>, and then mix it well. And once it is in the box mold, beat it well on the top with a pestle, or something else clean. This helps to make molding better and come out more easily.
+>   One ought to moisten with <span class="m">glair</span>, then mix it well. And once in the <span class="tl">frame</span>, beat it on top with a <span class="tl">pestle</span>, or other proper thing, for this makes it mold better and release better. 
  
 > *at left middle margin*
 > 
 > 
->   It is best to fill the box mold in one go, because the mixture made of several <span class="m">sands</span>, and the one from mines, that you use to fill the box mold, damages it.
+>   It would be good to fill the <span class="tl">frame</span> all at once, for the mixture, made of several sands with <span class="m">the one of the <span class="env">mine</span></span>, with which you fill the <span class="tl">frame</span>, corrupts it.
  
  
   

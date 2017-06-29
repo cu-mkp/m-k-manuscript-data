@@ -8,14 +8,14 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [silk, flour, horsehair, azurite ash, oil, paper, pearls, soapy water, Toadstone, tallow]
+materials: [raw silk, flour, horsehair, azurite ash, oil, paper, pearls, soapy water, Toadstone, tallow]
 tools: [finger, brazier]
 measurements: []
 bodyparts: [finger]
 places: []
 plants: []
 professions: [sophisticators, thieves, Candlemakers]
-environments: [autan]
+environments: [autan wind]
 animals: [horse, toad, Snakes, snake, swine]
 ---
 
@@ -23,15 +23,15 @@ animals: [horse, toad, Snakes, snake, swine]
  
 *[continued]*
   
- passing through so well. But for this effect, choose yellow and natural raw <span class="m">silk</span> because it is stronger and rejects <span class="m">flour</span> as <span class="m"><span class="al">horse</span>hair</span> does.
+ passing through so well. But for this effect, choose <span class="m">raw silk</span> yellow and natural because it is stronger and rejects <span class="m">flour</span> as <span class="m"><span class="al">horse</span>hair</span> does.
 
  
   
 
-## To recognize the good kind of <span class="m">azurite ash</span> for <span class="m">oil</span>
+## To know the good <span class="m">azurite ash</span> for <span class="m">oil</span>
 
  
-The one that piles up in small clods and is lumpy is the best because it is delicate. Also the one that is also very pale in color, because <span class="m">oil</span> darkens it. Certain <span class="pro">sophisticators</span> mix them, but you will know this if you pour some onto a piece of <span class="m">paper</span> & lay it flat & smudge it with the <span class="tl"><span class="bp">finger</span></span> since, if it is mixed, it will be found variegated & as if with pale & darker stripes, but if it is unmixed it will be even & of one color. 
+The one that piles up in small clods and is lumpy is the best because it is the most subtle. Also the one that is also very pale in color, because <span class="m">oil</span> darkens it. Certain <span class="pro">sophisticators</span> mix them, but you will know this if you pour some onto a piece of <span class="m">paper</span> & lay it flat & smudge it with the <span class="tl"><span class="bp">finger</span></span> since, if it is mixed, it will be found variegated & as if with pale & darker stripes, but if it is unmixed it will be even & of one color. 
  
  
   
@@ -47,7 +47,7 @@ When they have been applied in embroidery on some garment, they are greasy & are
 ## <span class="m">Toadstone</span>
 
  
-That which comes from the head of the <span class="al">toad</span> and has the shape of the <span class="al">toad</span>, painted naturally as you have seen, is the most excellent. It is said that if powder made from it is put on a <span class="tl">brazier</span> in someone's room at night, they will be unable to move, speak, or stop <span class="pro">thieves</span>. 
+That which is from the head of the <span class="al">toad</span> and has the shape of the <span class="al">toad</span>, painted naturally as you have seen, is the most excellent. It is held that if one puts the powder made from it on a <span class="tl">brazier</span> in someone's chamber at night, they will be unable to move, speak, or stop <span class="pro">thieves</span>. 
  
  
   
@@ -63,5 +63,5 @@ It is said that if one calls a <span class="al">snake</span> in Greek, saying Ο
 ## Candles
 
  
-<span class="pro">Candlemakers</span> never make good candles when the <span class="env">autan</span> wind blows because they always melt, however good is the <span class="m">tallow</span> they use in them. 
+<span class="pro">Candlemakers</span> never make good candles when the <span class="env">autan wind</span> blows because they always melt, however good is the <span class="m">tallow</span> they use. 
  

@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [gum, red wax, Bronze, copper, verdigris, clear glue, wood, pin filings, marble, water, tin, bismuth, quicksilver, glue, clear water, aqua fortis, vinegar, copperas, solle, gold, saltpetre, ammonia salt]
+materials: [gum, red wax, Bronze, copper, verdet, clear glue, wood, pin filings, marble, water, tin, looking-glass tin, quicksilver, glue, clear water, aqua fortis, vinegar, verdigris, copperas, solle, gold, saltpetre, ammonia salt]
 tools: []
 measurements: []
 bodyparts: []
@@ -25,7 +25,7 @@ animals: []
 ## Red <span class="m">gum</span>
 
  
- Take <span class="m">red wax</span> of vermillion and a little <span class="del"></span> resin pitch, <span class="sup">and make</span> as described above.
+ Take <span class="m">red wax</span>, vermillion, & a little of <span class="add">resin</span> pitch, as above.
  
  
   
@@ -33,7 +33,7 @@ animals: []
 ## <span class="m">Bronze</span> of <span class="m">copper</span>
 
  
- Take some <span class="m">verdigris</span> and <span class="m">clear glue</span> and grind them together. Then apply a layer over your <span class="m">wood</span>, and take some <span class="m">pin filings</span> and grind it on a <span class="m">marble</span> with <span class="m">water</span>, then apply it over the <span class="m">wood</span> and polish it with <span class="m">copper</span>.
+ Take some <span class="add"><span class="m">verdet</span></span> & <span class="m">clear glue</span>, & grind it together. Then make a layer on your <span class="m">wood</span>, and take <span class="m">pin filings</span>, and grind it on <span class="m">marble</span> with <span class="m">water</span>, then pour it on the <span class="m">wood</span> & polish it with <span class="m">copper</span>.
  
  
   
@@ -41,7 +41,7 @@ animals: []
 ## <span class="m">Bronze</span> like <span class="m">tin</span>
 
  
- Take some <span class="m">bismuth</span> and two ounces of <span class="m">quicksilver</span>. Melt the <span class="m">bismuth</span> into a new pot, as soon as it becomes completely melted add the <span class="del"></span> <span class="m">quicksilver</span> and then remove it from the fire. Leave the aforementioned <span class="m">glue</span> to dry, then take a piece of <span class="m">tin</span>, and burnish it on a <span class="m">marble</span> <span class="sup">slab</span> with <span class="m">clear water</span>, then coat it over the <span class="m">wood</span> and polish it with a piece of <span class="m">tin</span>.
+ Take <span class="m">looking—glass tin</span>, two ounces of <span class="m">quicksilver</span>, & melt the <span class="m">looking—glass tin</span> into a new pot. And <span class="add">whenever</span> it is all melted, put in the <span class="del"></span> <span class="m">quick<span class="add">silver</span></span>, & remove it from the fire, & let the said <span class="m">glue</span> dry. Then take a piece of <span class="m">tin</span> & burnish it on <span class="m">marble</span> with <span class="m">clear water</span>, and then coat it on the <span class="m">wood</span>, and polish it with a piece of <span class="m">tin</span>.
  
  
   

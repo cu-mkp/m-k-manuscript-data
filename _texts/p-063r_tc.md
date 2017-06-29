@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [amaranthe, vin blanc, fleur seiche, vin, eau de vye, huile, massicot, minium, huile que de noix, plomb de flandres, mine de plomb, crasse, mine, plomb, fer, cuivre, geyct, scudegrun, ocre, Bistre, boys, Verdegris, eau, vinaigre, urine, mabre, Scudegrun]
-tools: [vaisseau, formes de fer & de cuivre, creusol]
+materials: [vin blanc, fleur seiche, vin, eau de vye, huile, massicot, minium, huile que de noix, plomb de flandres, mine de plomb, crasse, mine, plomb, fer, cuivre, geyct, scudegrun, ocre, Bistre, destrempe, boys, Verdegris, eau, vinaigre, urine, mabre, Scudegrun]
+tools: [vaisseau, formes de fer & de cuivre, creusol, pallete, mabre]
 measurements: []
 bodyparts: []
 places: [allemans, flandres]
-plants: []
+plants: [amaranthe, noix]
 professions: [painctres]
 environments: [mine]
 animals: []
@@ -22,7 +22,7 @@ animals: []
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-063r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f131.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>063r</a> - - - - - </div>  
   
 
-## Couleur d<span class="m">amaranthe</span>
+## Couleur d<span class="pa">amaranthe</span>
 
  
 Encores quon la die immortelle si est ce que le <span class="m">vin blanc</span><br/> luy oste sa taincture & sen rend clairet <span class="del">Sur</span> & apres<br/> la <span class="m">fleur seiche</span> se trouve blanche Note quainsy le <span class="m">vin</span> &<br/> je lay <span class="del">p</span> esprouve L<span class="m">eau de vye</span> en faict aultant
@@ -33,7 +33,7 @@ Encores quon la die immortelle si est ce que le <span class="m">vin blanc</span>
 ## Desiccation d<span class="m">huile</span>
 
  
-Si l<span class="m">huile</span> ne deseiche poinct mects dedans du <span class="m">massicot</span><br/> & <span class="m">minium</span> Il ny a poinct meilleur <span class="m">huile que de noix</span> car il ne<br/> deseiche point trop tost ne trop tard
+Si l<span class="m">huile</span> ne deseiche poinct mects dedans du <span class="m">massicot</span><br/> & <span class="m">minium</span> Il ny a poinct meilleur <span class="m">huile que de <span class="pa">noix</span></span> car il ne<br/> deseiche point trop tost ne trop tard
  
  
   
@@ -62,7 +62,7 @@ Les <span class="pro">painctres</span> <span class="pl">allemans</span> font leu
 ## <span class="m">Bistre</span>
 
  
-Il ne semploye qua destrempe & diceluy il se faict couleur<br/> de <span class="m">boys</span>
+Il ne semploye qua <span class="m">destrempe</span> & diceluy il se faict couleur<br/> de <span class="m">boys</span>
  
  
   
@@ -70,5 +70,5 @@ Il ne semploye qua destrempe & diceluy il se faict couleur<br/> de <span class="
 ## <span class="m">Verdegris</span> et aultre tresbeau vert<br/> gay
 
  
-Il ne le fault pas broyer avecq l<span class="m">eau</span> seule car cela le<br/> faict mourir Aulcuns pour le rendre beau a destrempe<br/> le broyent avecq du <span class="m">vinaigre</span> Mays cela le faict pallir<br/> & venir blanchastre Pour le rendre beau broyes le avecq<br/> <span class="m">urine</span> & laisses seicher Puys quand vous vouldres broyes<br/> le a <span class="m">huile</span> Et apres que vous laures recuilly avecq la pallete<br/> Plustost quachever de nettoyer le <span class="m">mabre</span> Broyes y du<br/> <span class="m">Scudegrun</span> Et vous aures un tresbeau vert
+Il ne le fault pas broyer avecq l<span class="m">eau</span> seule car cela le<br/> faict mourir Aulcuns pour le rendre beau a <span class="m">destrempe</span><br/> le broyent avecq du <span class="m">vinaigre</span> Mays cela le faict pallir<br/> & venir blanchastre Pour le rendre beau broyes le avecq<br/> <span class="m">urine</span> & laisses seicher Puys quand vous vouldres broyes<br/> le a <span class="m">huile</span> Et apres que vous laures recuilly avecq la <span class="tl">pallete</span><br/> Plustost quachever de nettoyer le <span class="tl"><span class="m">mabre</span></span> Broyes y du<br/> <span class="m">Scudegrun</span> Et vous aures un tresbeau vert
  

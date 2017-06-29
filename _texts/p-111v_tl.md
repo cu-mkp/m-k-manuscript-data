@@ -26,18 +26,24 @@ animals: [Crab, crayfish, Lizards, lizards, female lizards]
 
  
 It is enough to use two <span class="m">chestnuts</span>' worth of <span class="m">sal ammoniac</span> pulverized in a pot of <span class="m">water</span>, and that the water tastes lightly salted to your tongue, because too much is not good.
+ 
+ 
   
 
 ## <span class="m">Sanguine</span>
 
  
 To clean the various colors of <span class="m">lead</span> and <span class="m">tin</span>, <span class="m">sanguine</span> is pulverized, and it is rubbed on the molded work with pieces of fabric.
+ 
+ 
   
 
 ## <span class="al">Crab</span> and <span class="al">crayfish</span>
 
  
  They are among the most difficult to mold, and whoever molds them well will mold many other very subtle things.
+ 
+ 
   
 
 ## <span class="al">Lizards</span>

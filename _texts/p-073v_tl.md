@@ -8,11 +8,11 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [sal ammoniac, tin, mercury, parchment glue, white of one egg, saffron, vinegar, sap of a fig tree, bronze, Varnish, spike lavender oil, sandarac, drugs, wood, varnish, varnishVenice turpentine, perolle petroleum oil, spike lavender oil., copper, Armenian bole, copper filings, sulfur, charcoal]
+materials: [sal ammoniac, tin, quicksilver, glue, parchment, white of one egg, saffron, vinegar, milk of a fig tree, bronze, Varnish, spike lavender oil, sandarac, drugs, wood, varnish, varnishVenice turpentine, perolle petroleum oil, spike lavender oil., copper, Armenian bole, copper filings, sulfur, charcoal]
 tools: [pot, vial]
-measurements: [ounces, ounce, quarter ounce]
+measurements: [ounces, ounce, quarter ounce, setier]
 bodyparts: []
-places: [Venice, Armenian]
+places: [Partenay, Venice, Armenian]
 plants: [spike lavender]
 professions: []
 environments: []
@@ -23,15 +23,15 @@ animals: []
  
 *[continued]*
   
-crush it separately. When it is well—crushed, take <span class="m">sal ammoniac</span> and again crush them together. Then take one ounce of soft <span class="m">tin</span> and one ounce of <span class="m">mercury</span>, then melt your <span class="m">tin</span> and add your <span class="m">mercury</span> drop by drop into your <span class="m">tin</span> while melting, and stir with force until it turns to powder.
+crush it separately. When it is well—crushed, take the <span class="m">sal ammoniac</span> & crush it together again. Then take one ounce of soft <span class="m">tin</span> & one ounce of <span class="m">quicksilver</span>, then melt your <span class="m">tin</span> & put your <span class="m">quicksilver</span> drop by drop into your <span class="m">tin</span> while melting, & stir with force until it is powder.
  
  
   
 
-## For coating
+## For coating it
 
  
-Take some <span class="m">parchment glue</span> and apply it with the <span class="m">white of one egg</span>, then take a little <span class="m">saffron</span> and <span class="m">vinegar</span> and the <span class="m">sap of a fig tree</span>, and do another coat. Then take the <span class="m">bronze</span> and apply it on top.
+Take some <span class="m">glue</span> of <span class="pl">Partenay</span> <span class="add">or <span class="m">parchment</span></span> and apply it with the <span class="m">white of one egg</span>, then take a little <span class="m">saffron</span> and <span class="m">vinegar</span> and the <span class="m">milk of a fig tree</span>, and do a coat again. Then take the <span class="m">bronze</span> and apply it on top.
  
  
   
@@ -52,8 +52,8 @@ Take one <span class="ms">ounce</span> of <span class="m"><span class="del">varn
  
   
 
-## The color of burnished <span class="m">copper</span>
+## Color of burnished <span class="m">copper</span>
 
  
-Take one ounce of <span class="m">sal ammoniac</span> with one ounce of <span class="m"><span class="pl">Armenian</span> bole</span>, and half an ounce of <span class="m">copper filings</span> with one ounce of <span class="m">sulfur</span>, and half a septier of <span class="m">vinegar</span>. Push all of it into a small tiled oven and around it make a small <span class="m">charcoal</span> fire and put your pot into the aforesaid furnace for the whole day.
+Take one ounce of <span class="m">sal ammoniac</span> with one ounce of <span class="m"><span class="pl">Armenian</span> bole</span> and half of <span class="m">copper filings</span> with one ounce of <span class="m">sulfur</span> & half a <span class="ms">setier</span> of <span class="m">vinegar</span>. Crush all into a small oven of tiles and make a small <span class="m">charcoal</span> fire around it, and put your pot into the said small oven for the whole day.
  

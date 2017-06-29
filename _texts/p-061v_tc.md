@@ -8,10 +8,10 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Eau, eau de vigne, verre, toile, vernis clair de tourmentine, huile de tourmentine, tourmentine, poils de barbe de rat, Azur desmail, huile, eau, beurre, mortier, ceruse, azur, mabre, laque, blancs]
-tools: [pinceaulx composes de deulx ou trois poils de barbe de rat]
-measurements: [moictie, presque moictie]
-bodyparts: []
+materials: [Eau, eau de vigne, verre, toile, vernis clair de tourmentine, huile de tourmentine, tourmentine, poils de barbe de rat, Azur desmail, huile, eau, beurre, mortier, ceruse, azur, mabre, laque]
+tools: [bouteille, chandelle, pinceaulx composes de deulx ou trois poils de barbe de rat, pallete, asses gros pinceau, pinceau, poincte du pinceau]
+measurements: [moictie, presque moictie, espoisse dun verre poulce]
+bodyparts: [poulce]
 places: [allemans]
 plants: []
 professions: [painctre]
@@ -25,7 +25,7 @@ animals: [rat]
 ## <span class="m">Eau</span> pour donner jour au<br/> <span class="pro">painctre</span>
 
  
-Distille l<span class="m">eau de vigne</span> & la mects dans une grande<br/> bouteille Et derriere icelle mects ta chandelle & elle ne<br/> nuyra point a ta veue
+Distille l<span class="m">eau de vigne</span> & la mects dans une grande<br/> <span class="tl">bouteille</span> Et derriere icelle mects ta <span class="tl">chandelle</span> & elle ne<br/> nuyra point a ta veue
  
  
   
@@ -41,7 +41,7 @@ Les <span class="pl">allemans</span> qui travaillent en petit font des chassis n
 ## <span class="m">Azur desmail</span> a <span class="m">huile</span>
 
  
-Il fault choisir le plus <span class="del">beau</span> deslie quil sera possible Car <br/> sil est gros on nen peult travailler a <span class="m">huile</span> Et si tu nen<br/> trouves dasses subtil Tu le peulx bien broyer non a <span class="m">eau</span><br/> mays a <span class="m">huile</span> & le broyer espes Apres pose le sur ta pallete<br/> & y mesle un peu de <span class="m">tourmentine</span> mays non gueres pour luy<br/> donner liaison Et fais quil soict espes comme <span class="m">beurre</span> ou <span class="m">mortier</span><br/> & puys avecq un asses gros pinceau travaille le en esgaiant tousjours<br/> le pinceau puys pour ladoulcir hache a denteleure avecq <span class="del">le</span><br/> la poincte du pinceau Les rehaulssements se feront avecq<br/> <span class="del">d</span> luy mesme deslaye avecc <span class="m">ceruse</span> qui luy donnant lyaison<br/> le rend plus aise a travailler ainsy lay je veu employer<br/> Il fault quil soict fort espes & quasi que tu ayes pene<br/> a lestendre avecq le pinceau Et nest que bon que tu<br/> couches le tableau Toutes ses difficultes ne se font point<br/> quand il est fort subtil & delie sans estre broye Et ne<br/> coule point
+Il fault choisir le plus <span class="del">beau</span> deslie quil sera possible Car <br/> sil est gros on nen peult travailler a <span class="m">huile</span> Et si tu nen<br/> trouves dasses subtil Tu le peulx bien broyer non a <span class="m">eau</span><br/> mays a <span class="m">huile</span> & le broyer espes Apres pose le sur ta <span class="tl">pallete</span><br/> & y mesle un peu de <span class="m">tourmentine</span> mays non gueres pour luy<br/> donner liaison Et fais quil soict espes comme <span class="m">beurre</span> ou <span class="m">mortier</span><br/> & puys avecq un <span class="tl">asses gros pinceau</span> travaille le en esgaiant tousjours<br/> le <span class="tl">pinceau</span> puys pour ladoulcir hache a denteleure avecq <span class="del">le</span><br/> la <span class="tl">poincte du pinceau</span> Les rehaulssements se feront avecq<br/> <span class="del">d</span> luy mesme deslaye avecc <span class="m">ceruse</span> qui luy donnant lyaison<br/> le rend plus aise a travailler ainsy lay je veu employer<br/> Il fault quil soict fort espes & quasi que tu ayes pene<br/> a lestendre avecq le <span class="tl">pinceau</span> Et nest que bon que tu<br/> couches le tableau Toutes ses difficultes ne se font point<br/> quand il est fort subtil & delie sans estre broye Et ne<br/> coule point
  
 > *at left middle margin*
 > 
@@ -54,5 +54,5 @@ Il fault choisir le plus <span class="del">beau</span> deslie quil sera possible
 ## Broyer couleurs
 
  
-Une table de <span class="del"><span class="m">mabre</span> & p</span> <span class="m">verre</span>espoisse dun <span class="del"><span class="m">verre</span></span> poulce<br/> est plus propre pour broyer nettem<span class="exp">ent</span> les couleurs que chose qui<br/> soict mesmem<span class="exp">ent</span> pour la <span class="m">laque</span> & pour les <span class="m">blancs</span>
+Une table de <span class="del"><span class="m">mabre</span> & p</span> <span class="m">verre</span> <span class="ms">espoisse dun <span class="del"><span class="m">verre</span></span> <span class="bp">poulce</span></span><br/> est plus propre pour broyer nettem<span class="exp">ent</span> les couleurs que chose qui<br/> soict mesmem<span class="exp">ent</span> pour la <span class="m">laque</span> & pour les blancs
  

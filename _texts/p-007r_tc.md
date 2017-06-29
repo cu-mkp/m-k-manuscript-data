@@ -16,7 +16,7 @@ places: []
 plants: [cormier]
 professions: [menusiers, quiterniers]
 environments: [au soleil, a la pluye]
-animals: [poisson, moulue]
+animals: [dragon, poisson, moulue]
 ---
 
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-007r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f19.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>007r</a> - - - - - </div>  
@@ -41,7 +41,7 @@ La stampe de <span class="m">lamine de cuivre ou letton</span> se faict sur du <
 ## Doublets
 
  
-Le bon <span class="m">sang de dragon</span> destrempe en <span class="m">eau de vye</span> porte son<br/> <span class="m">mastic</span> ou <span class="m">colle</span> soy mesme comme aussi faict le <span class="m">verd de vessie</span> & le<br/> <span class="m">safran</span>
+Le bon <span class="m">sang de <span class="al">dragon</span></span> destrempe en <span class="m">eau de vye</span> porte son<br/> <span class="m">mastic</span> ou <span class="m">colle</span> soy mesme comme aussi faict le <span class="m">verd de vessie</span> & le<br/> <span class="m">safran</span>
  
  
   

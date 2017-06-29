@@ -26,7 +26,7 @@ animals: [lizards, snakes]
  
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5RFFFT3hSbnlGaVU" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
- as heavy as before, and it should be like a paste not very thick, it must not be as easy to stir as a liquid. This state shows you that it is cooked enough. It must boil in the middle, and all around you must have a thick mixture. If you reheat it too much your mixture would be short of body, because if it becomes red the mixture will lose its strength and it will spoil the <span class="m">sand</span>. Let it cool before mixing it to any other <span class="m">sand</span>. <span class="x">…</span>
+ as heavy as before, and it should be like a paste not very thick, &it must not be as easy to stir & as a liquid. This state shows you that it is cooked enough. It must boil in the middle, and all around you must have a thick mixture. If you reheat it too much your mixture would be short of body, because if it becomes red the mixture will lose its strength & it will spoil the <span class="m">sand</span>. Let it cool before mixing it to any other <span class="m">sand</span>. <span class="x">…</span>
  
  
   
@@ -34,7 +34,7 @@ animals: [lizards, snakes]
 ## Catching <span class="m"><span class="al">lizards</span></span> and <span class="m"><span class="al">snakes</span></span>
 
  
-Take a stick, pin a net with a slipknot to the top. Whistle, and move the net nearer to the head of the lizard, and pull when it put it's head inside the net. It is more difficult to take a lizard with your hands than a snake, because lizards bite without letting go, and bite as strong as pincers.
+Take a stick, pin a net with a slipknot to the top. Whistle, and move the net nearer to the head of the lizard, and pull when it put it's head inside the net. It is more difficult to take a lizard with your hands than a snake, & because lizards bite without letting go, & bite as strong as pincers.
  
 You can take snakes with your hand, but cover your handle with a woollen cloth, because the teeth of the snake could go through a common cloth. You can recognize dangerous snakes by their blue eyes. They do not bite into water, as it is known by <span class="pro">crayfish catchers</span>.
  

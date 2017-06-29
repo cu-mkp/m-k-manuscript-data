@@ -8,11 +8,11 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Sand, slate, earth, Slate, sand, Magistry, roots of a young elm, wine, vinegar, resin, porphyry, egg white, lead, tin, sponge, water, salt, sands, pure lead]
+materials: [Sand, slate, earth, sand, Slate, sands, Magistry, roots of a young elm, wine, vinegar, resin, porphyry, lead, tin, egg glair, sponge, pure lead]
 tools: []
 measurements: []
 bodyparts: []
-places: [Toulouse]
+places: [Thoulouse]
 plants: []
 professions: [Founders]
 environments: []
@@ -25,12 +25,12 @@ animals: []
 ## <span class="m">Sand</span>, <span class="m">slate</span>, and burned <span class="m">earth</span>
 
  
-<span class="m">Sand</span>, when overheated, does not hold as well. <span class="m">Slate</span> is baked & will mold clean, yet it is true that often it becomes porous, just like burned <span class="m">earth</span> also does, as well as any kind of greasy <span class="m">sand</span>.
+Very burnt <span class="m">sand</span> looses its bond. <span class="m">Slate</span> is reheated & molds neatly. Next, it is true that often it becomes porous, like burned <span class="m">earth</span> also does, like fat <span class="m">sand</span> also does. .
  
 > *at left top margin*
 > 
 > 
->   I find that one must not hammer at all on <span class="m">sand</span> <span class="sup">already</span> very finely pulverised, because it would damage it, & then <span class="del">make</span><span class="sup">the sand</span> would not be able to release the cast cleanly. Still, it needs to be pressed hard, and moisten it sufficiently.
+>   I find that one ought not to knowck on very finely ground <span class="m">sands</span>, for it shakes them loose, & <span class="del">make</span><span class="sup"> prevents them from releasing neatly. But one ought to press hard and moisten them sufficiently.</span>
  
  
   
@@ -38,19 +38,19 @@ animals: []
 ## <span class="m">Magistry</span>
 
  
-<span class="pro">Founders</span> harvest the <span class="m">roots of a young elm</span> when it is sappy, & boil it in <span class="m">wine</span>, or better yet <span class="m">vinegar</span>. They prepare a year's worth of it and store it in a cask.
+<span class="pro">Founders</span> take the <span class="m">roots of a young elm</span> when it has sap, & boil it in <span class="m">wine</span>, or better yet <span class="m">vinegar</span>, and keep it all year long in a cask.
  
  
   
 
-## <span class="m">Sand</span> from sand pit from <span class="pl">Toulouse</span>
+## <span class="m">Sand</span> from the mine of <span class="pl">Thoulouse</span>
 
  
-<span class="sup">In order to use</span> <span class="m">sand</span> from a sandpit for casting, filter it through a double sieve, then having mixed it with molten <span class="m">resin</span> it burns & heats, & becomes all red & hot as iron. Once it has cooled down it is completely black and can be pulverised on <span class="m">porphyry</span> very well. Having prepared it like this & checked the smoothness of the surface with my nail, I moistened it with <span class="m">egg white</span> & beat it vigorously, until it was not a paste anymore but a powder. I found <span class="sup">this sand</span> to release the cast very well, & molded very clean in <span class="m">lead</span> & <span class="m">tin</span> <span class="sup">with it</span>, however it needs to be reheated & at leisure.
+ Casting sand coming from the mine, once passed through a double sieve, next put in with melted <span class="m">resin</span>, burns &inflammes & becomes all red & inflamed like iron. Once cold it is completely black and can be ground very finely on <span class="m">porphyry</span>. Thus having prepared it & render it without asperity on the fingernail, I moistened it with beaten egg glair & beat it well, until it was not pasty but rather powdery.I found it of very good release, & molded with it in <span class="m">lead</span> & <span class="m">tin</span> very neatly, but it wants to be well reheated & at ease.
  
-Others beat it strongly in a mortar, in small amounts at a time, & thus it detaches and comes out very fine; then they bake it moderately, just enough to dry it, and then they crush it dry on <span class="m">porphyry</span>. Thus it is made almost impalpable, and yet not too dry <span class="del"></span>, and it retains the consistency & the binding quality of the <span class="m">earth</span> to which it is related, and is better than when it is burnt. When you moisten it with <span class="m">egg white</span> and pass it through a <span class="m">sponge</span> it releases <span class="del"></span> very clean for a low relief, but not a figure in high relief. Considering this, since then I experimented <span class="del"></span> with moistening it only with strong <span class="m">vinegar</span>. <span class="sup">That way</span> it releases a figure I previously had not been able to release <span class="sup">from the mold</span>. I think that even when you wet the finest sort with <span class="m">egg white</span>, or in a similar fashion, or the thick sort to fill chasses with <span class="m">water</span>, <span class="m">salt</span>, or <span class="m">vinegar</span>, they do not mix so well. However, given that they are of one and the same nature, & are similarly moistened, they espouse each other, & hold together.
+Others beat it well in a mortar, in small amounts at a time, & thus it detaches andrenders very finely. Then they reheat it moderately, only to dry it. Then they grind it dry on <span class="m">porphyry</span>. And thus it becomes as if impalpable, and not too dried out, <span class="del">it</span> and it retains body & bond of the <span class="m">earth</span> of which it is related, and is better than when it is very burnt. Once moistened with <span class="m">egg glair</span> wiped with a <span class="m">sponge</span>, it releases <span class="del">very neatly M</span> very neatly in low relief, but not for figures in high relief. Therefore, since then I experimented <span class="del">lexper</span> with moistening it only with very strong <span class="m">vinegar</span>. It released a figure which I could not release previously. And I believe that, moistening the finest in the same way like with glair & the lumpiest, to fill the chasses with salt water or wine, that they do not ally so well. Since they are of the same nature & are moistened the same, they embrace each other, & hold together one with the other.
  
- To mold well, when your <span class="m">sands</span> are prepared, mold in one day. Bake slowly the next day, then cast the other. 
+ To mold well, after having prepared your <span class="m">sands</span>, mold in a day. Reheat Bake slowly the next day, then cast the other. 
  
 > *at left middle margin*
 > 

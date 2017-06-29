@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Huile gras, azur desmail, huile de noix, Vermeillon, eau, huile, vermeillon blanchastre, vermeillonobscur, vermeillonnoirastre, vermeillon, laque, minium, cristallin, lopin de foeille d, ceruse blanc de plomb, massicot, vermeillon azur, vert de gris, Ocre jaulne, papier huile, bois, toile]
+materials: [Huile gras, azur desmail, huile de noix, Vermeillon, eau, huile, vermeillon blanchastre, obscur, noirastre, vermeillon, laque, minium, cristallin, lopin de foeille d, ceruse blanc de plomb, massicot, vermeillon azur, vert de gris, Ocre jaulne, papier huile, bois, toile]
 tools: []
 measurements: []
 bodyparts: []
@@ -25,7 +25,7 @@ animals: []
 ## Nettement travailler
 
  
-Ne poses jamays si tu peulx deulx couleurs lune sur laultre<br/> Mays apres curieusem<span class="exp">ent</span> faict ton desseing garde la place<br/> des ombres seule pour eulx mesmes & des jours & rehaulssement<br/> aussy particulierement sans coucher tout a plat dune couleur &<br/> puys rehaulsser ou bien ombrer sur icelle Et en ceste sorte<br/> tu advances ta besoigne espargnes les couleurs & travailles<br/> nettem<span class="exp">ent</span> qui est cause que les couleurs nestant poinct brouillees ne<br/> meslees ensemble elles ne meurent poinct & tu adoulcis mieulx les<br/> couleurs ne se trouvant pas si espesses
+Ne poses jamays si tu peulx deulx couleurs lune sur laultre<br/> Mays apres curieusem<span class="exp">ent</span> faict ton desseing garde la place<br/> des ombres seule pour eulx mesmes & des jours & rehaulssements<br/> aussy particulierement sans coucher tout a plat dune couleur &<br/> puys rehaulsser ou bien ombrer sur icelle Et en ceste sorte<br/> tu advances ta besoigne espargnes les couleurs & travailles<br/> nettem<span class="exp">ent</span> qui est cause que les couleurs nestant poinct brouillees ne<br/> meslees ensemble elles ne meurent poinct & tu adoulcis mieulx les<br/> couleurs ne se trouvant pas si espesses
  
  
   
@@ -41,7 +41,7 @@ Il nest pas bon a travailler de couleurs pourcequils les<br/> rend espesses & au
 ## <span class="m">Vermeillon</span>
 
  
-Il ne le fault pas tenir en l<span class="m">eau</span> estant <span class="del">tremper</span> <span class="add">broye</span> a <span class="m">huile</span> car<br/> il pert sa couleur Il est mieulx de choisir du <span class="m">vermeillon<br/> blanchastre</span> que <span class="m"><span class="sup">vermeillon</span>obscur</span> & <span class="m"><span class="sup">vermeillon</span>noirastre</span> Car co<span class="exp">mmun</span>em<span class="exp">ent</span> le <span class="m">vermeillon</span> se<br/> mesle avecq un peu de <span class="m">laque</span> sans laquelle il ne seroict gueres<br/> different du <span class="m">minium</span> Mays le pasle jecte plus de vivacite que<br/> lobscur Il nest pas desiccatif & pour ceste occasion on y mesle<br/> du <span class="m">cristallin</span> calcine
+Il ne le fault pas tenir en l<span class="m">eau</span> estant <span class="del">tremper</span> <span class="add">broye</span> a <span class="m">huile</span> car<br/> il pert sa couleur Il est mieulx de choisir du <span class="m">vermeillon<br/> blanchastre</span> que <span class="m">obscur</span> & <span class="m">noirastre</span> Car co<span class="exp">mmun</span>em<span class="exp">ent</span> le <span class="m">vermeillon</span> se<br/> mesle avecq un peu de <span class="m">laque</span> sans laquelle il ne seroict gueres<br/> different du <span class="m">minium</span> Mays le pasle jecte plus de vivacite que<br/> lobscur Il nest pas desiccatif & pour ceste occasion, on y mesle<br/> du <span class="m">cristallin</span> calciné
  
  
   

@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [os de pieds de bœuf fort brusle & pulverise & broye, porphire, vin bouilly avecq racine dorme, mache de fer, os de pieds de bœuf fort brusle, feultre aussy fort brusle, plomb, feultre, sable gras, metal gras, sable maigre, Eau magistra, eau sel, sel, charbon pour poncer, celuy de saule, celuy de chaisne ou fayan, huitres bruslees, Plomb, plomb doux, estaing douls, ceruse, glaire doeuf fort battue]
+materials: [os de pieds de bœuf fort brusle & pulverise, porphire, vin bouilly avecq racine dorme, mache de fer, os de pieds de bœuf fort brusle, feultre aussy fort brusle, plomb, feultre, sable gras, metal gras, sable maigre, Eau magistra, eau sel, sel, charbon pour poncer, celuy de saule, celuy de chaisne ou fayan, huitres bruslees, Plomb, plomb doux, estaing douls, ceruse, glaire doeuf fort battue]
 tools: [porphire, doigts, chassis, costeau]
 measurements: []
 bodyparts: [doigts]
@@ -25,7 +25,7 @@ animals: [bœuf, huitres]
 ## Sable
 
  
-Jay essaye l<span class="m">os de <span class="add">pieds de</span> <span class="al">bœuf</span> fort brusle & pulverise & broye</span><br/> bien fort sur le <span class="tl"><span class="m">porphire</span></span> jusques a ce quil <span class="sn">ne se sente<br/> point entre les <span class="tl"><span class="bp">doigts</span></span></span> Il moule tout seul fort net Mays<br/> pourceque de soy mesme il est aride & maigre il veult estre<br/> fort mouille & humecte avecq <span class="m">vin bouilly avecq racine d<span class="pa">orme</span></span>
+Jay essaye l<span class="m">os de <span class="add">pieds de</span> <span class="al">bœuf</span> fort brusle & pulverise</span> & broye<br/> bien fort sur le <span class="tl"><span class="m">porphire</span></span> jusques a ce quil <span class="sn">ne se sente<br/> point entre les <span class="tl"><span class="bp">doigts</span></span></span> Il moule tout seul fort net Mays<br/> pourceque de soy mesme il est aride & maigre il veult estre<br/> fort mouille & humecte avecq <span class="m">vin bouilly avecq racine d<span class="pa">orme</span></span>
  
 La <span class="m">mache de fer</span> l<span class="m">os de pieds de <span class="al">bœuf</span> fort brusle</span> le <span class="m">feultre<br/> aussy fort brusle</span> a foeu clos Et tout trois fort subtilles<br/> sur le <span class="tl"><span class="m">porphire</span></span> moulent fort nect en <span class="m">plomb</span> sans quil soit<br/> besoing de les recuire beaucoup & gectant <span class="del">le</span> <span class="add">au</span> <span class="tl">chassis</span> chault<br/> ou froit
  

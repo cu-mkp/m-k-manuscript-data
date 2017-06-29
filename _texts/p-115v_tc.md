@@ -8,13 +8,13 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [estain, plomb, estain fin, estain de glace, metalline, argent, ardile, briques, charbons, charbon]
-tools: [moule, main, fil, aiguille, moules, crampons, moules a noyau, forge, souflet, four de reverberation]
+materials: [estaim, plomb, estaim fin, estain, estaim de glace, metalline, argent, ardile, briques, charbons, charbon]
+tools: [moule, main, fil, eguille, moules, crampons, moules a noyau, forge, souflet, four de reverberation]
 measurements: [quarte partie, heure]
 bodyparts: [main]
 places: []
 plants: []
-professions: []
+professions: [ferriers]
 environments: []
 animals: []
 ---
@@ -22,15 +22,15 @@ animals: []
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-115v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f236.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>115v</a> - - - - - </div>  
   
 
-## Gect d<span class="m">estain</span>
+## Gect d<span class="m">estaim</span>
 
  
-Si lherbe ou fleur que tu veulx gecte <span class="del">en <span class="m">estain</span></span> est delicate &<br/> subtile Il fault que l<span class="m">estain</span> excede la mixture de <span class="m">plomb</span> & au<br/> contraire si elle est espaisse il fault que le <span class="m">plomb</span> excede doncq<br/> pour la <span class="del">mixture</span> chose subtile mets sur de l<span class="m">estain fin</span> non pas<br/> du tout la <span class="ms">quarte partie</span> de <span class="m">plomb</span> Et fait que ton <span class="tl">moule</span> soict<br/> <span class="sn">chaudelet de telle sorte que tu le puisse tenir a la <span class="tl"><span class="bp">main</span></span></span> quand<br/> tu vouldras gecter . Quand a l<span class="m">estain</span> alie ainssy que dict est il<br/> fault quil soict fort chault & quasi rouge pour gecter affin<br/> quil penetre Autrement ayant <span class="add">a</span> faire long cours par les subtiles<br/> branches de lherbe il seroit froid plustot que dy parvenir<br/> Et noublie pas de mesler parmy un peu d<span class="m">estain de glace</span> qui le<br/> faict mieulx courir & laffermist
+Si lherbe ou fleur que tu veulx gecter <span class="del">en <span class="m">estaim</span></span> est delicate &<br/> subtile Il fault que l<span class="m">estaim</span> excede la mixture de <span class="m">plomb</span> & au<br/> contraire si elle est espaisse il fault que le <span class="m">plomb</span> excede Doncq<br/> pour la <span class="del">mixture</span> chose subtile mets sur de l<span class="m">estaim fin</span> non pas<br/> du tout la <span class="ms">quarte partie</span> de <span class="m">plomb</span> Et fait que ton <span class="tl">moule</span> soict<br/> <span class="sn">chaudelet de telle sorte que tu le puisse tenir a la <span class="tl"><span class="bp">main</span></span></span> quand<br/> tu vouldras gecter . Quand a l<span class="m">estain</span> alie ainsy que dict est il<br/> fault quil soict fort chault & quasi rouge pour gecter affin<br/> quil penetre Autrement ayant <span class="add">a</span> faire long cours par les subtiles<br/> branches de lherbe il seroict froid plustost que dy parvenir<br/> Et noublie pas de mesler parmy un peu d<span class="m">estaim de glace</span> qui le<br/> faict mieulx courir & laffermist
  
 > *at left top margin*
 > 
 > 
->   Sur le <span class="m">plomb</span><br/> allie d<span class="m">estain</span> ou<br/> <span class="m">estain</span> allie de <span class="m">plomb</span><br/> tu peux mectre un bien<br/> peu de <span class="m">metalline</span> & il<br/> semblera <span class="m">argent</span><br/> Mays nen mects<br/> guere car cela<br/> endurcist la<br/> matiere & laigrist<br/> aussy de sorte<br/> que pour chose<br/> delicate co<span class="exp">mm</span>e pattes<br/> & semblables il<br/> ne seroit pas<br/> propre
+>   Sur le <span class="m">plomb</span><br/> allie d<span class="m">estain</span> ou<br/> <span class="m">estain</span> allie de <span class="m">plomb</span><br/> tu peux mectre un bien<br/> peu de <span class="m">metalline</span> & il<br/> semblera <span class="m">argent</span><br/> Mays nen mects<br/> gueres car cela<br/> endurcist la<br/> matiere & laigrist<br/> aussy de sorte<br/> que pour chose<br/> delicate co<span class="exp">mm</span>e pattes<br/> & semblables il<br/> ne seroit pas<br/> propre
  
  
   
@@ -38,12 +38,12 @@ Si lherbe ou fleur que tu veulx gecte <span class="del">en <span class="m">estai
 ## Pour donner vent au <span class="tl">moule</span>
 
  
-Oultre les soupirails si ton <span class="del">es</span>herbe est fort subtile<br/> tu peulx passer un <span class="tl">fil</span> au travers du contour <span class="add">d<span class="m">ardile</span></span> plustot que gecter<br/> avecq une <span class="tl">aiguille</span> & faire quil passe parmy lherbe Et le <span class="tl">fil</span> se<br/> bruslant co<span class="exp">mm</span>e lherbe le trou demeurera qui donnera air & vent<br/> pour aider a nettoyer.
+Oultre les soupirails si ton <span class="del">es</span>herbe est fort subtile<br/> tu peulx passer un <span class="tl">fil</span> au travers du contour <span class="add">d<span class="m">ardile</span></span> plustost que gecter<br/> avecq une <span class="tl">eguille</span> & faire quil passe parmy lherbe Et le <span class="tl">fil</span> se<br/> bruslant co<span class="exp">mm</span>e lherbe le trou demeurera qui donnera air & vent<br/> pour aider a nettoyer.
  
 > *at left middle margin*
 > 
 > 
->   Ne retire pas<br/> tes <span class="tl">moules</span> recuits<br/> du feu quils ne<br/> soient refroidis<br/> eux mesmes & garde<br/> que le vent ou froid ne le frappe estant fort chaulx car cela les feroit crever<br/> Il ne les fault pas recuire quilz ne<br/> soient essores et affermis car aultrement<br/> ilz se gecteroient et<br/> fault plustost faire<br/> les gects & soupirails<br/> & mectre les <span class="tl">crampons</span>
+>   Ne retire pas<br/> tes <span class="tl">moules</span> recuits<br/> du feu quilz ne<br/> soient refroidis<br/> deulx mesmes & garde<br/> que le vent ou froid ne les frappe esta<span class="exp">n</span>t fort chaulx car cela les feroit crever<br/> Il ne les fault pas recuire quilz ne<br/> soient essores et affermis car aultrement<br/> ilz se gecteroient et<br/> fault plustost faire<br/> les gects & souspirails<br/> & mectre les <span class="tl">crampons</span>
  
  
   
@@ -51,7 +51,7 @@ Oultre les soupirails si ton <span class="del">es</span>herbe est fort subtile<b
 ## Recuire ses <span class="tl">moules a noyau</span>
 
  
-Apres que tes <span class="tl">moules</span> ont leur gect soupirails & <span class="tl">crampons</span> co<span class="exp">mm</span>e<br/> dict est fais au bout de la <span class="tl">forge</span> <span class="del">en</span> ou en quelque lieu net<br/> un entour de <span class="m">briques</span> et lemplir de gros <span class="m">charbons</span> demy allumes<br/> Et poses tes <span class="tl">moules</span> dessus et laisse ainsy de soy mesmes<br/> allumes les <span class="m">charbons</span> une demye <span class="ms"><span class="tmp">heure</span></span> affin quilz seschaufe<br/> peu à peu et non tout a coup En fin co<span class="exp">mm</span>e ilz commanceront a<br/> devenir blancs boute <span class="del">peu a peu</span> de gros <span class="m">charbon</span> ainsy demy<br/> allumes par dessus & soufle avecq ton petit <span class="tl">souflet</span> jusques a<br/> ce quilz soient eschaufe Et ainssy peu <span class="add">a peu</span> vigore le foeu sans<br/> presser jusques a ce que tes <span class="tl">moules</span> soient bien rougis & dehors<br/> & dedans si cest pour le gect de quelque herbe ou de quelque<br/> animal qui ne soict pas bien en despouille & que pour ceste<br/> occasion il faille brusler dans le <span class="tl">moule</span> Et quand tu regarderas<br/> par le gect & que par iceluy tu verras que les <span class="tl">moules</span> sont bien<br/> rouges & enflammes dedans Ce te sera signe quilz seront assez<br/> recuits mays si tu ne vois ce signe augmente & continue le foeu<br/> jusques a ce que cela soict Sil ny a rien dans le <span class="tl">moule</span> quil faille<br/> brusler Ce sera asses quilz soient bien desseiches a ce mesme foeu<br/> si cest pour gect d<span class="m">estain</span> Ilz se recuisent bien mieulx dans un<br/> <span class="tl">four de reverberation</span>
+Apres que tes <span class="tl">moules</span> ont leur gect souspirails & <span class="tl">crampons</span> co<span class="exp">mm</span>e<br/> dict est fais au bout de la <span class="tl">forge</span> <span class="del">en</span> ou en quelque lieu net<br/> un entour de <span class="m">briques</span> et lemplis de gros <span class="m">charbons</span> demy allumes<br/> Et poses tes <span class="tl">moules</span> dessus et laisse ainsy de soy mesmes<br/> allumer les <span class="m">charbons</span> une demye <span class="ms"><span class="tmp">heure</span></span> affin quilz seschaufent<br/> peu à peu et non tout a coup En fin co<span class="exp">mm</span>e ilz commanceront a<br/> devenir blancs boute <span class="del">peu a peu</span> de gros <span class="m">charbon</span> ainsy demy<br/> allumes par dessus & soufle avecq ton petit <span class="tl">souflet</span> jusques a<br/> ce quilz soient eschaufe Et ainsy peu <span class="add">a peu</span> vigore le foeu sans<br/> presser jusques a ce que tes <span class="tl">moules</span> soient bien rougis & dehors<br/> & dedans si cest pour le gect de quelque herbe ou de quelque<br/> animal qui ne soict pas bien en despouille & que pour ceste<br/> occasion il <span class="add">le</span> faille brusler dans le <span class="tl">moule</span> Et quand tu regarderas<br/> par le gect & que par iceluy tu verras que les <span class="tl">moules</span> sont bien<br/> rouges & enflammes dedans Ce te sera signe quilz seront assez<br/> recuits mays si tu ne vois ce signe augmente & continue le foeu<br/> jusques a ce que cela soict Sil ny a rien dans le <span class="tl">moule</span> quil faille<br/> brusler Ce sera asses quilz soient bien desseiches a ce mesme foeu<br/> si cest pour gect d<span class="m">estain</span> Ilz se recuisent bien mieulx dans un<br/> <span class="tl">four de reverberation</span>
  
 > *at left bottom margin*
 > 
@@ -69,7 +69,7 @@ Apres que tes <span class="tl">moules</span> ont leur gect soupirails & <span cl
 > *at left bottom margin*
 > 
 > 
->   Pour gecter en <span class="m">argent</span><br/> il ne fault point<br/> recuire deulx foys<br/> <span class="del">&</span> Sil ny a quelque chose<br/> dans le <span class="tl">moule</span> quil faille<br/> <span class="del">despouiller</span> brusler pour<br/> nestre pas de bonne @
+>   Pour gecter en <span class="m">argent</span><br/> il ne fault point<br/> recuire deulx foys<br/> <span class="del">&</span> Sil ny a quelque chose<br/> dans le <span class="tl">moule</span> quil faille<br/> <span class="del">despouiller</span> brusler pour<br/> nestre pas de bonne despouille Tous les <span class="tl">moules</span> des <span class="pro">ferriers</span> se recuisent deulx foys la premiere pour 
  
 *[continued]*
  
