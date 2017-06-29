@@ -1,33 +1,25 @@
-default namespace = ""
-namespace a = "http://relaxng.org/ns/compatibility/annotations/1.0"
 
 start =
-  
-  ## Root element for transcription of folio
-  element root {
+ 
+ ## Root element for transcription of folio
+  ```element root {
     mixed {
       element page { xsd:NMTOKEN },
       element image { xsd:anyURI },
-      (# <text/>
-       e.ab
-       | e.figure
-       | e.div)+
+       (e.ab | e.figure | e.div)+
     }
-  }
-#
+  }```
 
 # BLOCK ELEMENTS
 
-#
+## ab
 
-# ab
+### Anonymous Block: a generic block of text
+```e.ab = element ab { e.cont?, e.margin?, m.phrase, e.cont? }```
+## div
 
-## Anonymous Block: a generic block of text
-e.ab = element ab { e.cont?, e.margin?, m.phrase, e.cont? }
-# div
-
-## Text Division: A group of one or more document objects forming a primary textual component; e.g., an "entry" or "recipe"
-e.div =
+### Text Division: A group of one or more document objects forming a primary textual component; e.g., an "entry" or "recipe"
+```e.div =
   element div {
     e.cont?,
     e.id,
@@ -35,7 +27,7 @@ e.div =
     e.head?,
     (text | e.ab | m.phrase)+,
     e.cont?
-  }
+  }```
 # figure
 
 ## Figure: a graphical object in the source document
