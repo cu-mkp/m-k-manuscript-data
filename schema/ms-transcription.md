@@ -22,12 +22,11 @@ start =
 
 # ab
 
-## Anonymous Block: a generic block of text for. (TEI Element)
+## Anonymous Block: a generic block of text
 e.ab = element ab { e.cont?, e.margin?, m.phrase, e.cont? }
 # div
 
-## Text Division: A group of one or more document objects forming a primary
-##       textual component; e.g., an "entry" or "recipe". TEI Element
+## Text Division: A group of one or more document objects forming a primary textual component; e.g., an "entry" or "recipe"
 e.div =
   element div {
     e.cont?,
@@ -50,8 +49,7 @@ e.figure =
   }
 # head
 
-## Heading: a block of text at the beginning of a textual division functioning ad
-##       the heading or title of that division. TEI Element
+## Heading: a block of text at the beginning of a textual division functioning as the heading or title of that division. TEI Element
 e.head = element head { m.phrase }
 #
 
@@ -59,18 +57,15 @@ e.head = element head { m.phrase }
 
 #
 
-## Addition: Text added to the document by author, scribe, but *not* by a
-##       transcriber
+## Addition: Text added to the document by author, scribe, but *not* by the editor or transcriber
 e.add = element add { m.phrase }
 # corr
 
-## Correction: A revision introduced into the transcription by the
-##       transcriber/Editor
+## Correction: A revision introduced into the transcription by the editor or transcriber
 e.corr = element corr { m.phrase }
 # del
 
-## Deletion: Content deleted in the document by author, scribe, but *not* by a
-##       transcriber
+## Deletion: Content deleted in the document by author, scribe, but *not* by the editor or transcriber
 e.del = element del { m.phrase }
 # exp
 
@@ -79,36 +74,28 @@ e.exp = element exp { m.phrase }
 # gap
 
 a:documentation [
-  "Gap: Text added to the document by author, scribe, but *not* by a\x{a}" ~
-  "    transcriber"
+  "Gap: Text added to the document by author, scribe, but *not* by the editor or transcriber"
 ]
 e.gap = element gap { empty }
 # ill
 
-## Correction: A revision introduced into the transcription by the
-##       transcriber/Editor
+## Illegible: unreadable text in the source document
 e.ill = element ill { m.phrase }
 # lb
 
-## Line Break: An empty element indicating end of a line of text in the source
-##       document
+## Line Break: An empty element indicating end of a line of text in the source document
 e.lb = element lb { empty }
 # man
 
-## Manchette: a word or phrase in italic script in the margin that indicates
-##       something in the text block It is not a heading (although sometimes it looks like it, but
-##       rather explains something in the text block
+## Manchette: a word or phrase in italic script in the margin that indicates something in the text block It is not a heading (although sometimes it looks like it, but rather explains something in the text block
 e.man = element man { e.margin, m.phrase }
 # rub
 
-## Rubric: A word or phrase in italic script in the body of the text that is not a
-##       new div, heading, or block
+## Rubric: A word or phrase in italic script in the body of the text that is not a new div, heading, or block
 e.rub = element rub { m.phrase }
 # sup
 
-## Supplied Text: Text added by the transcriber/editor. DO NOT USE IN TC. DO NOT
-##       USE IN TCN, EXCEPT IF THERE IS A MISTAKE ON THE PART OF THE AUTHOR. USE SPARINGLY IN
-##       TL.
+## Supplied Text: Text added by the transcriber/editor.
 e.sup = element sup { m.phrase }
 # unc
 
@@ -131,9 +118,7 @@ e.x = element x { m.phrase }
 e.id = element id { xsd:NMTOKEN }
 # margin
 
-## Margin Position: the location in the margin at which the parent element appears
-##       in the source document. Valid values are: "right-top", "right-middle", "right-bottom",
-##       "left-top", "left-middle", "left-bottom", "top", and "bottom"
+## Margin Position: the location in the margin at which the parent element appears in the source document. Valid values are: "right-top", "right-middle", "right-bottom", "left-top", "left-middle", "left-bottom", "top", and "bottom"
 e.margin =
   element margin {
     ("left-top"
@@ -146,8 +131,7 @@ e.margin =
      | "bottom")?
   }
 
-## Continued: An empty element indicating that the parent block is continued on
-##       another page or continues from another page 
+## Continued: An empty element indicating that the parent block is continued on another page or continues from another page 
 e.cont = element cont { empty }
 #
 
@@ -161,11 +145,11 @@ e.cont = element cont { empty }
 e.gk = element gk { m.phrase }
 # it
 
-## Greek: Italian text
+## Italian: Italian text
 e.it = element it { m.phrase }
 # la
 
-## Greek: Latin text
+## Latin: Latin text
 e.la = element la { m.phrase }
 # fr
 
@@ -199,8 +183,7 @@ e.ms = element ms { m.phrase }
 e.al = element al { m.phrase }
 # env
 
-## Environment: Reference to a physical space or environment, such as workshop
-##       space, mountains, forest, etc.
+## Environment: Reference to a physical space or environment, such as workshop space, mountains, forest, etc.
 e.env = element env { m.phrase }
 # m
 
@@ -212,8 +195,7 @@ e.m = element m { m.phrase }
 e.pa = element pa { m.phrase }
 # tmp
 
-## Temporal Term: A reference to time, e.g., hour, day, season, holiday, span of
-##       time, time of day, etc
+## Temporal Term: A reference to time, e.g., hour, day, season, holiday, span of time, time of day, etc
 e.tmp = element tmp { m.phrase }
 # tl
 
@@ -221,8 +203,7 @@ e.tmp = element tmp { m.phrase }
 e.tl = element tl { m.phrase }
 # sn
 
-## Sense Term: Use of the 5 senses to make qualitative assessment, but generally
-##       not visual, e.g., “luisant” 
+## Sense Term: Use of the 5 senses to make qualitative assessment, but generally not visual, e.g., “luisant” 
 e.sn = element sn { m.phrase }
 # pl
 
@@ -234,7 +215,7 @@ e.pl = element pl { m.phrase }
 e.pn = element pn { m.phrase }
 # cn
 
-## Currency Term: Coins and currency (only type of coin, not amount) [if it is a price without being a coin, let an instructor know]
+## Currency Term: Coins and currency (only type of coin, not amount)
 e.cn = element cn { m.phrase }
 # mu
 
