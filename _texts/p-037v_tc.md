@@ -9,7 +9,7 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [pluye, absinthe, gris descaille, verre, noir a huile, bois, esmaulx, esmail dazur, esmail colombin, rocaille, verre de plomb, argent, sanguine, noir descaille, sanguine claire, Ambre jaulne, sel pulverise, ponce pulverisee, arene, ambre, tripoli de bretaigne, cuir, urine]
-tools: [piquet, lime, corde, doigt, cuir, cane]
+tools: [piquet, lime, corde, tripoli de bretaigne, doigt, cuir, cane]
 measurements: [deux doits en deulx doigts, nuict]
 bodyparts: [doits, doigts, nes, bouche, doigt]
 places: [anglois, bretaigne]
@@ -41,5 +41,5 @@ animals: [rats, mulots]
 ## <span class="m">Ambre jaulne</span>
 
  
- Il se taille aveq la <span class="tl">lime</span> puys on passe un certain <span class="m">sel pulverise</span> par<br/> dessus quun <span class="pl">anglois</span> apelloict desramonet Mays je cuide que cela estoit<br/> <span class="m">ponce pulverisee</span> car elle avoict asperite d<span class="m">arene</span> Et avecq une <span class="tl">corde</span> tendue<br/> il polissoit son <span class="m">ambre</span> puys y passoit du <span class="m">tripoli de <span class="pl">bretaigne</span></span> avecq<br/> le <span class="tl"><span class="bp">doigt</span></span> Daultres avecq un <span class="tl"><span class="m">cuir</span></span> ou une <span class="tl">cane</span> L<span class="m">ambre</span> perd sa<br/> couleur si quelque personne mal saine le porte & devient blanchastre<br/> Mays pour le remettre il le fault faire tremper une <span class="ms"><span class="tmp">nuict</span></span> dans<br/> de l<span class="m">urine</span> puys le faire bouillir un peu dedans 
+ Il se taille aveq la <span class="tl">lime</span> puys on passe un certain <span class="m">sel pulverise</span> par<br/> dessus quun <span class="pl">anglois</span> apelloict desramonet Mays je cuide que cela estoit<br/> <span class="m">ponce pulverisee</span> car elle avoict asperite d<span class="m">arene</span> Et avecq une <span class="tl">corde</span> tendue<br/> il polissoit son <span class="m">ambre</span> puys y passoit du <span class="tl"><span class="m">tripoli de <span class="pl">bretaigne</span></span></span> avecq<br/> le <span class="tl"><span class="bp">doigt</span></span> Daultres avecq un <span class="tl"><span class="m">cuir</span></span> ou une <span class="tl">cane</span> L<span class="m">ambre</span> perd sa<br/> couleur si quelque personne mal saine le porte & devient blanchastre<br/> Mays pour le remettre il le fault faire tremper une <span class="ms"><span class="tmp">nuict</span></span> dans<br/> de l<span class="m">urine</span> puys le faire bouillir un peu dedans 
  

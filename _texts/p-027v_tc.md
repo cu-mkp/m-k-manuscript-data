@@ -36,7 +36,6 @@ animals: []
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5OGJ5MXhrMVFtVTA" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
 > *Figure*
-> *at middle margin*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5OWVRTXVjNTljRnM" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
 > *Figure*

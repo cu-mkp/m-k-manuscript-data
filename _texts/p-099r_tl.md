@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Earth, wet sand, water, sand, Latten from a candlestick, filings, pot metal, Latten, copper, alloyed metals, Iron, brass, noyau, porphyry, vinegar, sulphur, sal ammoniac]
+materials: [Earth, sand, Latten from a candlestick, iron filings, potin, Latten, copper, Iron, latten, noyau, water, porphyry, sulphur, sal ammoniac]
 tools: []
 measurements: []
 bodyparts: []
@@ -23,35 +23,35 @@ animals: []
  
 *[continued]*
   
-<span class="m">Earth</span> or crushed <span class="m">wet sand</span> with <span class="m">water</span> needs to be reheated more than <span class="m">sand</span>.
+<span class="m">Earth</span>, or sand, moistened or ground with water, wants to be reheated more than <span class="m">sand</span>.
  
-<span class="m">Latten from a candlestick</span> is not pure since some <span class="m">filings</span> & <span class="m">pot metal</span> are mixed into it.
+<span class="m">Latten from a candlestick</span> is not pure, for one mixes in it <span class="m">iron filings</span> & <span class="m">potin</span>.
  
-<span class="m">Latten</span> needs to be cast warmer than <span class="m">copper</span>, which I do not believe.
+<span class="m">Latten</span> wants to be cast hotter than <span class="m">copper</span>, quod non credo.
  
-To cast scrupulously, you must not take all of the <span class="m">alloyed metals</span> together, but take them in <span class="x">their</span> pure <span class="x">form</span> & mix them.
+One ought not, to cast carefully, to take metals already alloyed, but take them pure & mix them.
  
-<span class="m">Iron</span> shoul not <span class="x">…</span> to cast in <span class="m">copper</span> or <span class="m">brass</span>.
+<span class="m">Iron</span> hardly agrees with being cast in a mixture of <span class="m">copper</span> or <span class="m">latten</span>.
  
-It is better to mold <span class="m">sand</span> at once, either as a molding box or <span class="m">noyau</span>, rather than several casts.
+It is better all with a <span class="m">sand</span>, either in a frame or noyau at once, either as a molding box or <span class="m">noyau</span>, rather than several mixed.
  
 > *at left top margin*
 > 
 > 
->   You must reheat a crucible on a charcoal fire which easily ignites for one or two hours with the material inside. Then breathe on it & cover the crucible with large pieces of charcoal & the opening of the stove with bricks, and let it consume two or three lumps of charcoal which shall fill the stove beneath the crucible. Eventually put the molding box on the fire & when the flame is very white & the material is as light as <span class="m">water</span> & spitting some pale blue flames, <span class="x">make the</span> cast. The secret to casting well is to do so at a very high temperature & speedily.
+>   One ought to reheat for one or two hours <span class="del">etp</span>, in <span class="add"><span class="del">that</span>a</span> charcoal fire which lights by itself, a crucible with the substance inside, and then blow & cover the crucible with large charcoals & the mouth of the furnace with bricks, and let it consume two or three feedings of charcoal, which fill the furnace above the crucible. In the end feed and stoke the fire, & when the flame is very white & that the substance will be in liquid bath like <span class="m">water</span> & casting off pale blue flames, cast. The secret is to cast <span class="add">very</span> hot & in one go.
  
  
   
 
-## Thin white <span class="m">sand</span>
+## Lean white <span class="m">sand</span>
 
-
- without bond is perfect for casting & it becomes thicker if you crush it very finely on <span class="m">porphyry</span> or you calcinate it by making it red—hot several times, & if it becomes <span class="m">vinegar</span> or thinner with <span class="m">water</span>, as you know, it casts as well very precisely in a core, as I did the experiment. But don't soak it with salted water if you want to anneal it quickly for salt boils on fire & creates more dust while it is being pressed by the fire. I think that reheated cores gently would not react like this. I cast very neatly as a core some matter and <span class="x">…</span>. white <span class="m">sand</span> smells <span class="m">sulphur</span> when it is reheated, and I think that it would melt. And since the material has been cast into it, it takes in the mold a luster as if it were leaded or vitrified. I think that <span class="pro">glassmakers</span> could use it.
+ 
+ without bond renders well proper for casting, & having body, if you grind it very finely on <span class="m">porphyry</span> or calcine it, reddening it several times in the fire, & being in vinegar, or finely ground with water as you know, it also molds very neatly in noyau, as I have experimented. But do not moisten it with salt water if you want to quickly reheat it, for salt boils on the fire & makes bubbles, being pressed by the fire. I believe that the noyau, gently reheated, would not do this. I molded very neatly in noyau the substance of skillets. White <span class="m">sand</span> smells like <span class="m">sulphur</span> when reheated, and I believe it would melt. And since the substance has been cast in it, it acquires in the mold <span class="del">co<span class="exp">mm</span>e</span> a luster as if it were leaded or vitrified. I believe that <span class="pro">glassmakers</span> could use it.
  
 > *at left middle margin*
 > 
 > 
->   A very little <span class="m">sal ammoniac</span> must be dissolved in water.
+>   One needs very little of <span class="m">sal ammoniac</span> dissolved in water.
  
  
   
@@ -59,5 +59,5 @@ It is better to mold <span class="m">sand</span> at once, either as a molding bo
 ##  Bell handles
 
  
- They can be repaired well without remaking the bell, which you must put back into the pit & the mold inside. But it is thought impossible to give back to it its original tone when soldering a cracked bell.
+ They can be put back on, without remaking the bell, which one ought to put back in the pit, & and mold it there. But should you solder a cracked bell, it is considered impossible to give it its first voice.
  

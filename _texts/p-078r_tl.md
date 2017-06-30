@@ -8,15 +8,15 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [drugs, earthen, cloth, varnish, spike lavender oil, coals, sang dea Raiec, glass, glue very clear, red varnish, vermillion, gum water, water, wood, vinegar, salt, rainwater, verdigris, horse dung]
-tools: [earthen pot, cloth, stick, glass vial, pinceau]
-measurements: [ounce, half ounce]
+materials: [drugs, earthen, cloth, varnish, spike lavender oil, coals, sang dea Raiec, glass, glue very clear, red varnish, vermillion, gum water, water, wood, very strong vinegar, salt, rainwater, verdigris, horse dung]
+tools: [earthen pot, cloth, stick, glass vial, pinceau, earthen vessel]
+measurements: [ounce, half ounce, days]
 bodyparts: []
 places: []
 plants: [spike lavender]
 professions: []
 environments: []
-animals: []
+animals: [horse]
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-078r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f161.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>078r</a> - - - - - </div>  
@@ -47,5 +47,5 @@ Take <span class="m">vermillion</span> & soak it with <span class="m">gum water<
 ## For making <span class="del">tr</span> green <span class="m"><span class="add">w</span>ood</span>
 
  
-Take very strong <span class="m">vinegar</span>, <span class="m">salt</span>, & <span class="m">rainwater</span>, and one needs to put it all together with <span class="m">verdigris</span>, and put it in a new earthen vessel with your <span class="m">wood</span>, & put it in some very warm <span class="m">horse dung</span> for the space of eight or nine days.
+Take <span class="m">very strong vinegar</span>, <span class="m">salt</span>, & <span class="m">rainwater</span>, and one needs to put it all together with <span class="m">verdigris</span>, and put it in a new <span class="tl"><span class="m">earthen</span> vessel</span> with your <span class="m">wood</span>, & put it in some very warm <span class="m"><span class="al">horse</span> dung</span> for the space of eight or nine <span class="ms"><span class="tmp">days</span></span>.
  

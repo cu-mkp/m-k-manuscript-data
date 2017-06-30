@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [ruby balay, tripoli, marcasite powder, oil, Or moulu, argent moulu, fine gold, ☿, mercury, marble, gum water, silver, aqua fortis, copper, stones, tin, lead, diamond, ruby, sapphire, jacinth, emeralds, amethysts, fine tin, latten filings, stoneware, water, urc, ☾, ☼, ♀]
+materials: [balas ruby, tripoli, marcasite powder, oil, Or moulu, argent moulu, fine gold, ☿, mercury, marble, gum water, silver, aqua fortis, copper, stones, tin, lead, diamond, ruby, sapphire, jacinth, emeralds, amethysts, fine tin, latten filings, stoneware, water, urc, ☾, ☼, ♀]
 tools: [marble, copper blade]
 measurements: [half, eighth part]
 bodyparts: []
@@ -22,10 +22,10 @@ animals: []
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-008v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f22.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>008v</a> - - - - - </div>  
   
 
-## To polish a <span class="m">ruby balay</span>
+## Polishing of the <span class="m">balas ruby</span>
 
  
-You don't polish it with <span class="m">tripoli</span> <span class="del">but</span> like the others, but with <span class="m">marcasite powder</span> and <span class="m">oil</span>.
+It is not polished with <span class="m">tripoli</span> <span class="del">but</span> like the others, but with <span class="m">marcasite powder</span> & <span class="m">oil</span>.
 
  
   
@@ -41,7 +41,7 @@ You need to calcine your <span class="m">fine gold</span> with <span class="m">�
 ## Polishing <span class="m">stones</span>
 
  
-There are three wheels for this purpose, one of <span class="m">tin</span>, one of <span class="m">lead</span>, and one of pure <span class="m">copper</span>. On the <span class="del">cu</span><span class="m">copper</span> wheel, one does not commonly cut <span class="del">co</span> or polish other than the <span class="m">diamond</span>,the <span class="m">ruby</span>, <span class="m">sapphire</span> and oriental <span class="m">jacinth</span>. The <span class="m">tin</span> wheel is for softer stones such as <span class="m">emeralds</span>, <span class="m">amethysts</span> and others.
+There are three wheels for doing this, one of <span class="m">tin</span>, one of <span class="m">lead</span>, & one of fine <span class="m">copper</span>, on the <span class="del">cu</span><span class="m">copper</span> wheel one does not commonly cut <span class="del">co</span> or polish but the <span class="m">diamond</span>, the <span class="m">ruby</span>, <span class="m">sapphire</span>, & oriental <span class="m">jacinth</span>. The <span class="m">tin</span> wheel is for more tender stones like <span class="m">emeralds</span>, <span class="m">amethysts</span>, & others.
 
  
   

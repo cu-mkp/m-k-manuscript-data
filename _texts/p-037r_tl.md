@@ -38,10 +38,10 @@ Have some <span class="m">wormwood powder</span>, dissolve it in some <span clas
  
   
 
-## Sheets for precious stones
+## Leaves for the gemstones
 
  
-Once they have been made, do not keep them in any <span class="m">iron</span> or <span class="m">metal</span> box because this stains them. But in some box of
+Once made, one ought not to keep them in any case or <span class="m">iron</span> or <span class="m">metal</span>, for this stains them, but in some box of
  
  
   

@@ -25,7 +25,7 @@ animals: []
 ## Reheating molds
 
  
-Box molds dry out readily, & do not get reheated, because to reheat is properly to turn molds red and inflamed in the fire, and drying out is to let both molds dry, or make them evaporate their humidity, placing them before a fire of flames or one of charcoal. Molds de noyau reheat easily & box molds dry out.
+Box molds dry out readily, & do not get reheated, because to reheat is properly to turn molds red & inflamed in the fire, and drying out is to let both molds dry, or make them evaporate their humidity, placing them before a fire of flames or one of charcoal. Molds de noyau reheat easily & box molds dry out.
  
  
   

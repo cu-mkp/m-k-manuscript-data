@@ -9,11 +9,11 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [fer, bois, eau, glaire doeuf]
-tools: [Presse, moules, croix de Sainct Andre, chassis, coings, presses, vis, forge, moule, estrier, platene, pallette]
+tools: [Presse, moules, lamines de fer, piliers de fer, piliers, vis, lamines, chassis, lames de fer, coings, presses de bois faictes a vis, forge, moule, estrier, cloue, platene, presse, pallette]
 measurements: []
 bodyparts: []
 places: []
-plants: [fleurs, fleur]
+plants: []
 professions: []
 environments: []
 animals: []
@@ -32,18 +32,18 @@ animals: []
 > *at right top margin*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5MEUzMjhxUVl1ZTA" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
-Ce sont deulx lamines de <span class="m">fer</span> attachees par quattre petits<br/> piliers de <span class="m">fer</span> de telle sorte toutes foys que<span class="del">lles</span> <span class="add">la superieure</span> @ puysse<span class="del">nt</span> librem<span class="exp">ent</span><br/> jouer & courir le long des piliers & que celle de bas soict<br/> arrestee Au bout des piliers sarreste une <span class="tl">croix de <span class="pn">S<span class="exp">ainc</span>t Andre</span></span><br/> de <span class="m">fer</span> au milieu de laquelle est une vis qui sarre les lamines<br/> contre les <span class="tl">moules</span> qui sont entre deulx<br/> Ou bien pour les petits <span class="tl">moules</span> on fait un <span class="tl">chassis</span> & ayant<br/> mis les <span class="tl">moules</span> entre deulx lames de <span class="m">fer</span> on <span class="del">pose</span> le sarre dans<br/> le <span class="tl">chassis</span> avecq des <span class="tl">coings</span><br/> Les grandes <span class="tl">presses</span> de <span class="m">bois</span> faictes a <span class="tl">vis</span> oultre ce quelles<br/> sont lourdes a mectre aupres de la <span class="tl">forge</span> pour gecter On ne peult<br/> pas cognoistre quand elle sarrent trop & bien souvent elles<br/> rompent le <span class="tl">moule</span>
+Ce sont deulx <span class="tl">lamines de <span class="m">fer</span></span> attachees par quattre petits<br/> <span class="tl">piliers de <span class="m">fer</span></span> de telle sorte toutes foys que<span class="del">lles</span> <span class="add">la superieure</span> puysse<span class="del">nt</span> librem<span class="exp">ent</span><br/> jouer & courir le long des <span class="tl">piliers</span> & que celle de bas soict<br/> arrestee Au bout des <span class="tl">piliers</span> sarreste une croix de <span class="pn">S<span class="exp">ainc</span>t Andre</span><br/> de <span class="m">fer</span> au milieu de laquelle est une <span class="tl">vis</span> qui sarre les <span class="tl">lamines</span><br/> contre les <span class="tl">moules</span> qui sont entre deulx<br/> Ou bien pour les petits <span class="tl">moules</span> on fait un <span class="tl">chassis</span> & ayant<br/> mis les <span class="tl">moules</span> entre deulx <span class="tl">lames de <span class="m">fer</span></span> on <span class="del">pose</span> le sarre dans<br/> le <span class="tl">chassis</span> avecq des <span class="tl">coings</span><br/> Les grandes <span class="tl">presses de <span class="m">bois</span> faictes a vis</span> oultre ce quelles<br/> sont lourdes a mectre aupres de la <span class="tl">forge</span> pour gecter On ne peult<br/> pas cognoistre quand elle sarrent trop & bien souvent elles<br/> rompent le <span class="tl">moule</span>
  
 > *at left top margin*
 > 
 > 
->   La <span class="tl">vis</span> est rivee<br/> a cest <span class="tl">estrier</span> qui<br/> est cloue sur la<br/> <span class="tl">platene</span> de dessus<br/> & par ce moyen<br/> la haulsse & la<br/> presse
+>   La <span class="tl">vis</span> est rivee<br/> a cest <span class="tl">estrier</span> qui<br/> est <span class="tl">cloue</span> sur la<br/> <span class="tl">platene</span> de dessus<br/> & par ce moyen<br/> la haulsse & la<br/> <span class="tl">presse</span>
  
  
   
 
-## Sable pour <span class="pa">fleurs</span>
+## Sable pour fleurs
 
  
-Sil est gecte espes il agrave trop les <span class="pa">fleurs</span> & les reserre & reduit<br/> co<span class="exp">mm</span>e amassees ensemble Advise doncq de le destremper cler & fort<br/> soufler plustost que la <span class="pa">fleur</span> ne soict couverte gecte au coste du<br/> <span class="tl">moule</span> Et destrempa<span class="exp">n</span>t le sable il ne fault seulem<span class="exp">ent</span> tourner la<br/> <span class="tl">pallette</span> Mays battre le sable dans l<span class="m">eau</span> co<span class="exp">mm</span>e si tu battois<br/> de la <span class="m">glaire doeuf</span>
+Sil est gecte espes il agrave trop les fleurs & les reserre & reduit<br/> co<span class="exp">mm</span>e amassees ensemble Advise doncq de le destremper cler & fort<br/> soufler plustost que la fleur ne soict couverte gecte au coste du<br/> <span class="tl">moule</span> Et destrempa<span class="exp">n</span>t le sable il ne fault seulem<span class="exp">ent</span> tourner la<br/> <span class="tl">pallette</span> Mays battre le sable dans l<span class="m">eau</span> co<span class="exp">mm</span>e si tu battois<br/> de la <span class="m">glaire doeuf</span>
  

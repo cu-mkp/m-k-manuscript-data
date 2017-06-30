@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Aspalte, terre dumbre, laque, bois, glaire doeuf, jaulne, eau, pelures de figuier, huile, vernis, toile, destrempe, bol, miel, suc dail, or mat, colle a destrempe, noir de lampe, noir a noircir, colle, minium, massicot, ocre de ru, ocre jaulne, huile gras, or, Or mat, mine, cotton, vernis de flandres, eau de vye, verdegris, or moulu, dore]
-tools: [pinceaulx a huile, plume, cotton, dent]
+materials: [Aspalte, terre dumbre, laque, destrempe, bois, glaire doeuf, jaulne, eau, pelures de figuier, huile, vernis, toile, bol, miel, suc dail, or mat, colle a destrempe, noir de lampe, noir a noircir, colle, minium, massicot, ocre de ru, ocre jaulne, huile gras, or, Or mat, mine, cotton, vernis de flandres, eau de vye, verdegris, or moulu, dore]
+tools: [esponge, pinceaulx a huile, plume, cotton, dent]
 measurements: [jour, heure, jours, once]
 bodyparts: [doigt]
 places: [flaments, flandres, france]
-plants: [cotton]
+plants: [figuier, cotton]
 professions: []
 environments: [a la pluye]
 animals: []
@@ -38,10 +38,10 @@ Pour femme <span class="m">Aspalte</span> <span class="m">terre dumbre</span> & 
  
   
 
-## Paindre a destrempe<br/> sur <span class="m">bois</span>
+## Paindre a <span class="m">destrempe</span><br/> sur <span class="m">bois</span>
 
  
-Pourcequil est fort fascheux de paindre a destrempe<br/> sur le <span class="m">bois</span> et que malaisem<span class="exp">ent</span> y peult on faire <span class="del">un</span> bien un<br/> visaige Aulcuns destrempent leurs couleurs avecq <span class="m">glaire<br/> doeuf</span> passee par lesponge Ou meslee avecq le <span class="m">jaulne</span> de<br/> l<span class="m">eau</span> & fort battue avecq <span class="m">pelures de figuier</span> Avecq cela<br/> | ilz peignent & adoulcissent sur le <span class="m">bois</span> co<span class="exp">mm</span>e a <span class="m">huile</span> Et<br/> cela soubstient le vernis Mays cela nest pas de duree
+Pourcequil est fort fascheux de paindre a <span class="m">destrempe</span><br/> sur le <span class="m">bois</span> et que malaisem<span class="exp">ent</span> y peult on faire <span class="del">un</span> bien un<br/> visaige Aulcuns destrempent leurs couleurs avecq <span class="m">glaire<br/> doeuf</span> passee par l<span class="tl">esponge</span> Ou meslee avecq le <span class="m">jaulne</span> de<br/> l<span class="m">eau</span> & fort battue avecq <span class="m">pelures de <span class="pa">figuier</span></span> Avecq cela<br/> | ilz peignent & adoulcissent sur le <span class="m">bois</span> co<span class="exp">mm</span>e a <span class="m">huile</span> Et<br/> cela soubstient le <span class="m">vernis</span> Mays cela nest pas de duree
  
  
   

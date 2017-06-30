@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [salt water, old wood, Sand, white ash, wood, soot, quicklime, flint,]
+materials: [salt water, old wood, Sand, white ash, woods, wood, ashes, tallow, quicklime, flint]
 tools: []
 measurements: []
 bodyparts: []
@@ -57,7 +57,7 @@ All grafts must not be done earlier than the sap flows up, otherwise they dry.
 ## <span class="m">Sand</span>
 
  
-The <span class="m">white ash</span> of all kinds of <span class="m">wood</span>, which still sticks to the <span class="m">wood</span> while burning, and which has not fallen into the hearth, molds very clean
+The <span class="m">white ash</span> of all <span class="m">woods</span>, which still sticks to the <span class="m">wood</span> that burns, and which has not fallen into the hearth, molds very neatly.
  
  
   
@@ -65,7 +65,7 @@ The <span class="m">white ash</span> of all kinds of <span class="m">wood</span>
 ## <span class="m">Sand</span>
 
  
-Very fine pulverized <span class="m">soot</span> molds & removes easily from the mold. The best <span class="m">soot</span>, which is greasy & shiny, is the one from the big kitchens
+Well pulverized <span class="del"><span class="m">ashes</span></span> <span class="m">tallow</span> molds & releases very neatly.The one from the kitchens, which is fat & shiny, from the big kitchens, is better.
  
-Very fine pulverized <span class="m">quicklime</span> works, but mixed <span class="m">flint,</span> crumbled into the hollow, does better.
+Finely pulverized <span class="m">quicklime</span> works. The same for broken up <span class="m">flint</span>,which works better in the cavity.
  

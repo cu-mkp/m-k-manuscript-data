@@ -33,7 +33,7 @@ Distill some <span class="m">vine water</span> & put it into a big <span class="
 ## <span class="pl">German</span> chassis
 
  
-<span class="pl">Germans</span> who work in miniature make chassis not of <span class="m">glass</span>, but of <span class="m">canvas</span> oiled with <span class="m">clear turpentine varnish</span>, namely <span class="ms">half</span> <span class="m">turpentine oil</span> & <span class="ms">almost half</span> <span class="m">turpentine</span>, because this light, which is not as bright as <span class="m">glass</span>, makes them see larger features. And when they want to make something subtle like veins <span class="del">de</span> & similar things, they use <span class="tl">pinceaulx composed of two or three <span class="m"><span class="al">rat</span>whiskers</span></span>.
+<span class="pl">Germans</span> who work in miniature make chassis not of <span class="m">glass</span>, but of <span class="m">canvas</span> smeared with <span class="m">clear turpentine varnish</span>, namely <span class="ms">half</span> <span class="m">turpentine oil</span> & <span class="ms">almost half</span> <span class="m">turpentine</span>, because this light, which is not as bright as <span class="m">glass</span>, makes them see larger features. And when they want to make something subtle like veins <span class="del">de</span> & similar things, they use <span class="tl">pinceaulx composed of two or three <span class="m"><span class="al">rat</span>whiskers</span></span>.
  
  
   

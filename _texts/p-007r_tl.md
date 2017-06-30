@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [gold color, tinsel, tin, iron, copper, glue, wood, fatty oil, walnut oil, lead white, oil, massicot, mine de plomb, Minium, gold, cotton, fumée de perdrix, cloth, velvet, satin, strong glue, sheets of copper or latten, service treewood, lake, verdet, azur d’esmail, turpentine varnish, azure, fer blanc, dragon's blood, spirits, mastic, vert de vessie, saffron, Fish glue, usblac, mouth glue, codfish skin, salted, water, Mouth glue, parchment, paper, white wine]
+materials: [gold color, tinsel, tin, iron, copper, glue, wood, fatty oil, walnut oil, lead white, oil, massicot, mine de plomb, Minium, gold, cotton, fumée de perdrix, cloth, velvet, satin, strong glue, sheets of copper or latten, service treewood, lake, verdet, azur d’esmail, turpentine varnish, azure, fer blanc, dragon's blood, eau de vye, mastic, sap-green, saffron, Fish glue, usblac, mouth glue, codfish skin, salted, water, Mouth glue, parchment, paper, white wine, spirits]
 tools: [mouth]
 measurements: [days]
 bodyparts: [mouth]
@@ -41,7 +41,7 @@ The stamp of <span class="m">sheets of copper or latten</span> is made on <span 
 ## Doublets
 
  
-Good <span class="m"><span class="al">dragon</span>'s blood</span> soaked in <span class="m">spirits</span> produces its own <span class="m">mastic</span> or <span class="m">glue</span>. So do <span class="m">vert de vessie</span> and <span class="m">saffron</span>.
+Good <span class="m"><span class="al">dragon</span>'s blood</span> soaked in <span class="m">eau de vye</span> carries its <span class="m">mastic</span> or <span class="m">glue</span> in itself, so do <span class="m">sap—green</span> & <span class="m">saffron</span>.
  
  
   

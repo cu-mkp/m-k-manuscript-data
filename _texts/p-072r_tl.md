@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Printers’ letters, lead, nails, nailheads, horseshoes, antimony, copper, marble, oiling, wine boiled with elm root, latten, substance of the trebuschets, tile, iron, charcoals, grindings from sharpening large scissors & large knives, persicaire, salts]
+materials: [lead, nails, nailheads, horseshoes, antimony, copper, marble, oiling, wine boiled with elm root, latten, substance of the trebuschets, tile, iron, charcoals, grindings from sharpening large scissors & large knives, persicaire, salts]
 tools: [box mold, board, marble, mold, furnace, bellows, tile, mollettes, crooked iron, latten wirebrush]
 measurements: []
 bodyparts: []
@@ -16,16 +16,16 @@ places: []
 plants: [elm, persicaire]
 professions: [Printers]
 environments: []
-animals: []
+animals: [horse]
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-072r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f149.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>072r</a> - - - - - </div>  
   
 
-## <span class="m"><span class="pro">Printers</span>’ letters</span>
+## <span class="pro">Printers</span>’ letters
 
  
-Those who make them, mix into the <span class="m">lead</span> some <span class="del"><span class="m">nails</span></span> <span class="m">nailheads</span> & old <span class="m">horseshoes</span>, & <span class="m">antimony</span> which makes it all melt. This composition is strong for printing, &holds steadfast. It runs and is good for casting in <span class="m">lead</span>.
+Those who make them, mix into the <span class="m">lead</span> some <span class="del"><span class="m">nails</span></span> <span class="m">nailheads</span> & old <span class="m"><span class="al">horse</span>shoes</span>, & <span class="m">antimony</span> which makes it all melt. This composition is strong for printing, &holds steadfast. It runs and is good for casting in <span class="m">lead</span>.
  
  
   

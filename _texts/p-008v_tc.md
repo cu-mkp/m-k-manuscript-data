@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [ruby balay, tripoly, pouldre de marchasite, huile, Or et argent moulu, or fin, ☿, mercure, mabre, eau gommee, argent, eau fort, cuivre, pierres, estain, plomb, cuivre fin, diamant, rubi, saphir, jacinthe orientale, esmeraulde, ametiste, fin estaing, estaing, limaille de letton, grais, eau, ☾, ☼, ♀]
+materials: [ruby balay, tripoly, pouldre de marchasite, huile, Or et argent moulu, or fin, ☿, mercure, mabre, eau gommee, argent, eau fort, cuivre, pierres, estain, plomb, cuivre fin, diamant, rubi, saphir, jacinthe orientale, esmeraulde, ametiste, fin estaing, estaing, limaille de letton, grais, eau, urc, ☾, ☼, ♀]
 tools: [mabre, lame de cuivre]
 measurements: [moictie, huictiesme partye]
 bodyparts: []
@@ -57,5 +57,5 @@ Pourceque parmy le <span class="m">fin estaing</span> ilz meslent bien souvent l
 ## Amalgame parfaict
 
  
-Ayes un <span class="m">grais</span> le plus delie que tu pourras & le cave<br/> au milieu Mectes y la <span class="ms">huictiesme partye</span> de <span class="m">☿</span> <span class="del">au</span> & la<br/> dedans frottes & uses y adjoustant de l<span class="m">eau</span> <span class="unc">urc</span> <span class="m">☾</span> ou <span class="m">☼</span><br/> jusques a ce que la matiere viendra comme paste & encores plus<br/> dur Apres si vous voules faictes le manger avecq de bon<br/> <span class="m">eau fort</span> si cest <span class="m">☾</span> ou <span class="m">♀</span> puys refondre layant retire<br/> comme vous scaves La <span class="m">☾</span> aura taincture et laissera esta<span class="exp">n</span>t<br/> fondue quelque grain de <span class="m">☼</span> & le <span class="m">♀</span> sera fort beau & naura<br/> presque poinct de chappe
+Ayes un <span class="m">grais</span> le plus delie que tu pourras & le cave<br/> au milieu Mectes y la <span class="ms">huictiesme partye</span> de <span class="m">☿</span> <span class="del">au</span> & la<br/> dedans frottes & uses y adjoustant de l<span class="m">eau</span> <span class="m">urc</span> <span class="m">☾</span> ou <span class="m">☼</span><br/> jusques a ce que la matiere viendra comme paste & encores plus<br/> dur Apres si vous voules faictes le manger avecq de bon<br/> <span class="m">eau fort</span> si cest <span class="m">☾</span> ou <span class="m">♀</span> puys refondre layant retire<br/> comme vous scaves La <span class="m">☾</span> aura taincture et laissera esta<span class="exp">n</span>t<br/> fondue quelque grain de <span class="m">☼</span> & le <span class="m">♀</span> sera fort beau & naura<br/> presque poinct de chappe
 

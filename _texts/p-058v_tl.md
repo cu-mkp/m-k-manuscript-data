@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Black of charcoal from the mines, ordinary charcoal, burnt ivory, peach stones, lampblack, burnt bones of the feet of oxen, Azure, wood, Turpentine oil, palma christi seed oil, Walnut oil, azure, fatty oil, Azur d’esmail, water, oil, spike lavender oil, walnut oil, spike lavender, porcupine quills, wood of arrows fromTurkey, hair taken from a squirrel's tail, bristles of the oldest rats, quill, hairs, bristles of stone martens & weasels & small animals which make musk, musk, hair]
+materials: [Black of charcoal from the mines, ordinary charcoal, burnt ivory, peach stones, lampblack, burnt bones of the feet of oxen, Azure, wood, Turpentine oil, palma christi seed oil, Walnut oil, azure, fatty oil, Azur d’esmail, water, oil, spike lavender oil, walnut oil, spike lavender, porcupine quills, wood of arrows fromTurkey, hair taken from the tail of asquirrel's fur, bristles of the oldest rats, quill, hairs, bristles of stone martens & weasels & small animals which make musk, musk, hair]
 tools: [longs pinceaux, Pinceaulx, handle of pinceaulx, small rods to rest their hand when they are painting, pinceaulx which have a firm point, pinceau, quill]
 measurements: [pint]
 bodyparts: [hand]
@@ -72,7 +72,7 @@ When the color has dried inside, & you want to clean them, soak them in <span cl
 > *at left bottom margin*
 > 
 > 
->   To work well on a small scale very thin <span class="tl">pinceaulx which have a firm point</span> are needed. And because the <span class="m">hair taken from a <span class="al">squirrel</span>'s tail</span> is mollesin, the most careful take the <span class="m">bristles of the oldest <span class="al">rats</span></span>, especially of <span class="al">dormice</span> if they can find them & put two or three of them in the middle of the <span class="tl">pinceau</span>. These make a straight line like a <span class="tl"><span class="m">quill</span></span> & all the other <span class="m">hairs</span> of the <span class="tl">pinceau</span> stick to them as to the point. The <span class="m">bristles of <span class="al">stone martens</span> & <span class="al">weasels</span> & small animals which make <span class="m">musk</span></span> are even better, for a single<span class="m">hair</span> in a <span class="tl">pinceau</span> suffices.
+>   To work well on a small scale very thin <span class="tl">pinceaulx which have a firm point</span> are needed. And because the <span class="m">hair taken from the tail of a<span class="al">squirrel</span>'s fur</span> is mollesin, the most careful take the <span class="m">bristles of the oldest <span class="al">rats</span></span>, especially of <span class="al">dormice</span> if they can find them & put two or three of them in the middle of the <span class="tl">pinceau</span>. These make a straight line like a <span class="tl"><span class="m">quill</span></span> & all the other <span class="m">hairs</span> of the <span class="tl">pinceau</span> stick to them as to the point. The <span class="m">bristles of <span class="al">stone martens</span> & <span class="al">weasels</span> & small animals which make <span class="m">musk</span></span> are even better, for a single<span class="m">hair</span> in a <span class="tl">pinceau</span> suffices.
  
 *[continued]*
  

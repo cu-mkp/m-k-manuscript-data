@@ -8,9 +8,9 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [lead, grey soot from the furnace of the silversmiths, quick lime, ana flour, grey soot of locksmiths, copper, hat felt burnt, dross of iron, burnt bone, saltwater, straw, porphyry, Burnt hat felt, Plaster, Bone, iron dross, Felt, Charcoal of vine shoots, clay earth, well-beaten eggs’ glair, vinegar, finely crushed slate, calcined pumice stone, varnish, tile little baked, ground, white wine, burnt black trasse paper, burnt horse dung, egg glair, Trasse paper burnt, charcoal, Alabaster, calcined, alabaster, sal ammoniac]
+materials: [lead, grey soot from the furnace of the silversmiths, quick lime, grey soot of locksmiths, copper, hat felt burnt, dross of iron, burnt bone, saltwater, straw, porphyry, Burnt hat felt, Plaster, Bone, iron dross, Felt, Charcoal of vine shoots, clay earth, well-beaten eggs’ glair, vinegar, finely crushed slate, calcined pumice stone, varnish, tile little baked, ground, white wine, burnt black trasse paper, burnt horse dung, egg glair, Trasse paper burnt, charcoal, Alabaster, calcined, alabaster, sal ammoniac]
 tools: [forge, porphyry, sieved, furnace, pot, crucible, double sieve, mold]
-measurements: [lb, ℥]
+measurements: [ana, lb, ℥]
 bodyparts: []
 places: []
 plants: [vine]
@@ -25,7 +25,7 @@ animals: [horse]
 ## Sand @ for <span class="m">lead</span>
 
  
-Recipe <span class="m">grey soot from the furnace of the <span class="pro">silversmiths</span></span>, <span class="m">quick lime</span>, and <span class="m">ana flour</span>, moistened according to the art, being the finest possible.
+Recipe <span class="m">grey soot from the furnace of the <span class="pro">silversmiths</span></span>, <span class="m">quick lime</span>, and flour,<span class="ms">ana</span>, moistened according to the art, being the finest possible.
  
 > *at left top margin*
 > 

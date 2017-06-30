@@ -8,14 +8,14 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [cire, soufre, rousine, acier, fer, metal, charbons, estain, plomb, estain rouge, cendre, letton, paille]
-tools: []
+materials: [cire noire, soufre fondu, rousine, acier non trempe, fer, metal, charbons, estain, plomb, estain rouge, cendre, fil delie de letton, paille, cire, soulde, fil de letton, souldure]
+tools: [matrices, fer acerre, Crampons, moule, Moules, Ceulx de noyau, moules a chassis, moules clos, fil delie de letton, paille, chaple]
 measurements: []
 bodyparts: []
 places: []
 plants: []
 professions: []
-environments: []
+environments: [a lair]
 animals: []
 ---
 
@@ -23,7 +23,7 @@ animals: []
  
 *[continued]*
   
-de parfum & semblable Mays advise quil fault que<br/> la <span class="m">cire</span> <span class="add">noire</span> dont tu moules soict dure affin que brusquement & <span class="del">du</span> plus<br/> a sec elle se retire pour voir si elle est bien empraincte Elle<br/> se rend plus dure y adjoustant plus de <span class="m">soufre</span> fondu dans icelle<br/> fondue & un peu de <span class="m">rousine</span>
+de parfum & semblable Mays advise quil fault que<br/> la <span class="m">cire <span class="add">noire</span></span> dont tu moules soict dure affin que brusquement & <span class="del">du</span> plus<br/> a sec elle se retire pour voir si elle est bien empraincte Elle<br/> se rend plus dure y adjoustant plus de <span class="m">soufre fondu</span> dans icelle<br/> fondue & un peu de <span class="m">rousine</span>
  
  
   
@@ -31,7 +31,7 @@ de parfum & semblable Mays advise quil fault que<br/> la <span class="m">cire</s
 ## Medailles courantes
 
  
-On faict les poincons de relief d<span class="m">acier</span> non trempe puys<br/> on le trampe & avecq cy on frappe sur des matrices non rougies<br/> au foeu comme quelques ungs pensent Mays sur du <span class="m">fer</span><br/> acerre recuit & adoulcy quon trampe apres
+On faict les poincons de relief d<span class="m">acier non trempe</span> puys<br/> on le trampe & avecq cy on frappe sur des <span class="tl">matrices</span> non rougies<br/> au foeu comme quelques ungs pensent Mays sur du <span class="tl"><span class="m">fer</span><br/> acerre</span> recuit & adoulcy quon trampe apres
  
  
   
@@ -44,18 +44,18 @@ Ne gectes pas a coup car en ce faisant le <span class="m">metal</span> se regorg
  
   
 
-## Crampons
+## <span class="tl">Crampons</span>
 
  
-Quand tu les remects la seconde foys asseure bien le moule<br/> quil ne sesbranle point
+Quand tu les remects la seconde foys asseure bien le <span class="tl">moule</span><br/> quil ne sesbranle point
  
  
   
 
-## Moules
+## <span class="tl">Moules</span>
 
  
-Ceulx de noyau en recuisant veulent estre poses sur les <span class="m">charbons</span><br/> un <span class="add">peu</span> passes sans que lair les touche comme les moules a chassis<br/> veulent estre <span class="del">recu</span> deseicher a lair & a descouvert
+<span class="tl">Ceulx de noyau</span> en recuisant veulent estre poses sur les <span class="m">charbons</span><br/> un <span class="add">peu</span> passes sans que lair les touche comme les <span class="tl">moules a chassis</span><br/> veulent estre <span class="del">recu</span> deseicher <span class="env">a lair</span> & a descouvert
  
  
   
@@ -68,10 +68,10 @@ Il ne veulent pas estre gectes de <span class="m">plomb</span> ou <span class="m
  
   
 
-## Nettoyer moules clos
+## Nettoyer <span class="tl">moules clos</span>
 
  
-Il les fault laisser froidir plustost que soufler dedans pour les<br/> nettoyer car estant chaults ilz retiennent la <span class="m">cendre</span> Estant froids ilz<br/> se nettoyent mieulx Ayes un fil delie de <span class="m">letton</span> ou <span class="m">paille</span> subtile pour nettoyer<br/> la queue parfaictem<span class="exp">ent</span> car cest celle qui faict le gect Soufle en dedans & suppe<br/> attirant a toy Engrossis plustost que mouler la queue avecq de la <span class="m">cire</span> puys couppe la<br/> 
+Il les fault laisser froidir plustost que soufler dedans pour les<br/> nettoyer car estant chaults ilz retiennent la <span class="m">cendre</span> Estant froids ilz<br/> se nettoyent mieulx Ayes un <span class="tl"><span class="m">fil delie de letton</span></span> ou <span class="tl"><span class="m">paille</span></span> subtile pour nettoyer<br/> la queue parfaictem<span class="x"><span class="exp">ent</span></span> car cest celle qui faict le gect Soufle en dedans & suppe<br/> attirant a toy Engrossis plustost que mouler la queue avecq de la <span class="m">cire</span> puys couppe la<br/> 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5amQ1YVRWWnFGWUE" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
 
@@ -82,7 +82,5 @@ Il les fault laisser froidir plustost que soufler dedans pour les<br/> nettoyer 
 >  
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5S3FNaEt0QmN1alU" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
-& raporte & soulde une queue de fil de <span class="m">letton</span> par souldure Les grumeleures dune fleur cest peu<br/> de chose car cella se peult oster avecq le chaple mays que les foeuilles viennent bien puys la paincture<br/> couvre tout
- 
-*[continued]*
+& raporte & <span class="m">soulde</span> une queue de <span class="m">fil de letton</span> par <span class="m">souldure</span> Les grumeleures dune fleur cest peu<br/> de chose car cella se peult oster avecq le <span class="tl">chaple</span> mays que les foeuilles viennent bien puys la paincture<br/> couvre tout
  

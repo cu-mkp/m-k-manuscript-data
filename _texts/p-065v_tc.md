@@ -8,13 +8,13 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [toile, azur, laque, charbon, verdegris, cristallin, Blanc de plomb, papier, huile, eau, gomme, savon, cocon, or, ceruse, ocre & un peu de jaulne, massicot]
-tools: []
+materials: [toile, azur, laque, charbon, verdegris, cristallin calcine & broye, Blanc de plomb, papier huile, papier, eau, gomme, savon, cocon, huile, ceruse, ocre & un peu de jaulne, massicot]
+tools: [baston, pinceaulx a huile]
 measurements: []
-bodyparts: []
+bodyparts: [bout des doigts, main]
 places: []
 plants: []
-professions: [artiste, enleumineurs, painctres]
+professions: [artiste, aprentif, enleumineurs, painctres]
 environments: []
 animals: []
 ---
@@ -33,7 +33,7 @@ Quand les couleurs s<span class="del">a</span>emboivent sur la <span class="m">t
 ## Paindre grandes figures
 
  
-Il fault que tu poses ton <span class="m">charbon</span> au bout dun baston<br/> affin que tu fasses ton desseing premier de loing pourceque<br/> de pres tu ne pourroys si bien juger de la proportion que<br/> de certaine & suffisante distance Quand <span class="del">tu</span> aussy tu pains<br/> de pres tiens ton <span class="m">charbon</span> le plus long que tu pourras<br/> & <span class="del">de</span> comme du bout des doigts Car en ceste sorte tu tadquerras<br/> le traict <span class="pro">artiste</span> & <span class="del">l</span>te rendras la main legere
+Il fault que tu poses ton <span class="m">charbon</span> au bout dun <span class="tl">baston</span><br/> affin que tu fasses ton desseing premier de loing pourceque<br/> de pres tu ne pourroys si bien juger de la proportion que<br/> de certaine & suffisante distance Quand <span class="del">tu</span> aussy tu pains<br/> de pres tiens ton <span class="m">charbon</span> le plus long que tu pourras<br/> & <span class="del">de</span> comme du <span class="bp">bout des doigts</span> Car en ceste sorte tu tadquerras<br/> le traict <span class="pro">artiste</span> & <span class="del">l</span>te rendras la <span class="bp">main</span> legere
  
  
   
@@ -41,7 +41,7 @@ Il fault que tu poses ton <span class="m">charbon</span> au bout dun baston<br/>
 ## Glasser
 
  
-On glasse co<span class="exp">mm</span>ement avecq couleurs qui nont point de corps<br/> co<span class="exp">mm</span>e la <span class="m">laque</span> & le <span class="m">verdegris</span> Touteffois pour se servir<br/> des aultres on y mesle quantite de <span class="m">cristallin</span> calcine & broye<br/> qui nha point aussy de corps & <span class="del">rend</span> esclarcist lespesseur<br/> des aultres
+On glasse co<span class="exp">mmun</span>ement avecq couleurs qui nont point de corps<br/> co<span class="exp">mm</span>e la <span class="m">laque</span> & le <span class="m">verdegris</span> Touteffois pour se servir<br/> des aultres on y mesle quantite de <span class="m">cristallin calcine & broye</span><br/> qui nha point aussy de corps & <span class="del">rend</span> esclarcist lespesseur<br/> des aultres
  
  
   
@@ -49,7 +49,7 @@ On glasse co<span class="exp">mm</span>ement avecq couleurs qui nont point de co
 ## Blanc et noir
 
  
-Il est bon quun aprentif travaille de blanc & de noir<br/> deulx ou trois ans pour se rendre <span class="pro">artiste</span>
+Il est bon quun <span class="pro">aprentif</span> travaille de blanc & de noir<br/> deulx ou trois <span class="tmp">ans</span> pour se rendre <span class="pro">artiste</span>
  
  
   
@@ -68,7 +68,7 @@ Il ne se meurt point & ha beaucoup de corps
 ** Au naturel **
 
  
-Il y en a qui<br/> paignent au<br/> naturel sur du<br/> <span class="m">papier</span> <span class="m">huile</span> &<br/> sils nachevent<br/> tout a un coup<br/> ilz mectent leurs<br/> <span class="m">papier</span> & portrait<br/> commance dans<br/> l<span class="m">eau</span> affin quil<br/> ne seiche point
+Il y en a qui<br/> paignent au<br/> naturel sur du<br/> <span class="m">papier huile</span> &<br/> sils nachevent<br/> tout a un coup<br/> ilz mectent leurs<br/> <span class="m">papier</span> & portrait<br/> commance dans<br/> l<span class="m">eau</span> affin quil<br/> ne seiche point
  
 > *at left middle margin*
 > 
@@ -89,7 +89,7 @@ Il y en a qui<br/> paignent au<br/> naturel sur du<br/> <span class="m">papier</
 ** Impression **
 
  
-Il en fault estre<br/> bien curieulx & ne la<br/> faire pas co<span class="exp">mm</span>e<br/> quelques uns avecq<br/> l<span class="m">or</span> couleur qui se<br/> faict des laveures<br/> des pinceaulx a <span class="m">huile</span><br/> pourceque le <span class="m">verdegris</span><br/> & aultres couleurs corrosives<br/> qui y sont font en fin mourir<br/> les couleurs qui sy <span class="del">meu</span> couchent<br/> apres Il est bon de la faire
+Il en fault estre<br/> bien curieulx & ne la<br/> faire pas co<span class="exp">mm</span>e<br/> quelques uns avecq<br/> lor couleur qui se<br/> faict des laveures<br/> des <span class="tl">pinceaulx a <span class="m">huile</span></span><br/> pourceque le <span class="m">verdegris</span><br/> & aultres couleurs corrosives<br/> qui y sont font en fin mourir<br/> les couleurs qui sy <span class="del">meu</span> couchent<br/> apres Il est bon de la faire
  
 > *at bottom margin*
 > 

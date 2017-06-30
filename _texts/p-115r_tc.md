@@ -39,16 +39,17 @@ Si ton <span class="al">serpent</span> a este long temps sans manger il advient 
 Note quil fault plus d<span class="m">alum de plume</span> aux <span class="tl">moules</span> qui se doibvent<br/> recuire co<span class="exp">mm</span>e ceulx pour l<span class="m">or</span> & l<span class="m">argent</span> & pour les choses quil fault brusler<br/> dedans qua ceulx qui sont en bonne despouille & qui ne sont que pour<br/> gecter <span class="m">plomb</span> & <span class="m">estaing</span> Toutefois en lun et lautre nen mects pas<br/> trop
  
  
-> *at left bottom margin*
-> 
-> 
->   
+  
 
-** Animal hors de despouille **
+## Animal hors de despouille
 
  
 Si par cas fortuict tu as donne un tel entortillem<span class="exp">ent</span> a ton <span class="al">serpent</span><br/> que lendroit du ventre nen puisse aysem<span class="exp">ent</span> sortir daultant que<br/> la teste & la queue qui sont les deulx yssues sont plus delies coupe<br/> tout ce qui est dehores & recuits si bien le <span class="tl">moule</span> que ce qui<br/> est demeure dedans se brusle puys passe du <span class="m">vif argent</span> dedans<br/> & attirant <span class="del">ce qui</span> la <span class="m">cendre</span> & <span class="m">os brusle</span> de dedans il en sortira aussy<br/> a cause que le conduit est grand & ainsy naigrira point ta<br/> matiere Tu peulx bien tirer a force le <span class="al">serpent</span> moule pourcequil<br/> est mol & prest & obeist & le <span class="tl">moule</span> ayant faict prise est si<br/> ferme que pour cela lempraincte ne se gastera poinct
-   
+ 
+> *Figure*
+> *at left bottom margin*
+> <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5aS1ZeHc2dGxJTE0" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+ 
  
   
 
@@ -63,5 +64,5 @@ il nest que bon de laisser un peu amortir le<br/> <span class="tl">molle</span> 
  
 > *Figure*
 > *at left bottom margin*
-> <a href="" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+> <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5Xzg4WTZ2NFNkOHM" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  

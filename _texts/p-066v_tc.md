@@ -8,10 +8,10 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [dorer, or mat, vernis, huile gras, ceruse, or bruny, pains, tourmentine de venise, tourmentine commune, sumach, prunelles, graine de coings, balaustes, foeilles dolivier, tourmentine, pain, eau de ruche de miel, miel, cire, huile, chenevi, plomb, poil de la queue de gris, poil, poils de barbe de rat, eau]
-tools: [pinceaulx]
-measurements: [heures]
-bodyparts: []
+materials: [dorer, or mat, vernis, huile gras, ceruse, or bruny, pains, tourmentine de venise, tourmentine commune, sumach, prunelles, graine de coings, balaustes, foeilles dolivier, tourmentine, pain, eau de ruche de miel, miel, cire, huile, chenevi, plomb, poil de la queue de gris, quarte, carte, poil, poils de barbe de rat, eau]
+tools: [pinceaulx, Pinceaulx]
+measurements: [heures, aultant en une prise comme il en peult tenir en une quarte repliee en canule]
+bodyparts: [poulce, doigt indice]
 places: [venise]
 plants: []
 professions: []
@@ -62,10 +62,10 @@ Aplique dessus la nuit des lamines fort tanvres de<br/> <span class="m">plomb</s
  
   
 
-## Pinceaulx
+## <span class="tl">Pinceaulx</span>
 
  
-Pour les faire bons couppe le <span class="m">poil de la queue de <span class="al">gris</span></span><br/> aultant en une prise comme il en peult tenir en une quarte<br/> repliee en canule Et le mectant ainsy dedans lad<span class="exp">icte</span> carte<br/> repliee frappe <span class="add">en</span> & <span class="add">la</span> remue affin que le <span class="m">poil</span> sunise & se rende<br/> de mesme longueur Mects au milieu un ou deulx <span class="m">poils de<br/> barbe de <span class="al">rat</span></span> puys empoignant & sarrant bien cela<br/> avecq le poulce & le doigt indice trempe fort le bout<br/> de tout ce <span class="m">poil</span> dans l<span class="m">eau</span> puys taprochant bien du<br/> 
+Pour les faire bons couppe le <span class="m">poil de la queue de <span class="al">gris</span></span><br/> <span class="ms">aultant en une prise comme il en peult tenir en une <span class="m">quarte</span><br/> repliee en canule</span> Et le mectant ainsy dedans lad<span class="exp">icte</span> <span class="m">carte</span><br/> repliee frappe <span class="add">en</span> & <span class="add">la</span> remue affin que le <span class="m">poil</span> sunise & se rende<br/> de mesme longueur Mects au milieu un ou deulx <span class="m">poils de<br/> barbe de <span class="al">rat</span></span> puys empoignant & sarrant bien cela<br/> avecq le <span class="bp">poulce</span> & le <span class="bp">doigt indice</span> trempe fort le bout<br/> de tout ce <span class="m">poil</span> dans l<span class="m">eau</span> puys taprochant bien du<br/> 
  
 *[continued]*
  

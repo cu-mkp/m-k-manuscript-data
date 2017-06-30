@@ -8,12 +8,12 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [asphaltum, umber, lake, wood, egg white, egg yolk, water, peeling of the fig tree, oil, varnish, canvas, distemper, bole, honey, garlic juice, or mat, colle à destrempe, lamp black, soot black, colle, minium, massicot, ochre de ru, yellow ocher, fatty oil, gold, Or mat, cotton, Flanders varnish, eau de vye, verdigris, or moulu, gild, gilded]
-tools: [pinceaulx for oil, feather, cotton, tooth]
+materials: [asphaltum, umber, lake, distemper, wood, egg glair, yolk, water, skin of the fig tree, oil, varnish, canvas, bole, honey, garlic juice, or mat, colle à destrempe, lamp black, soot black, colle, minium, massicot, ochre de ru, yellow ocher, fatty oil, gold, Or mat, cotton, Flanders varnish, eau de vye, verdigris, or moulu, gild, gilded]
+tools: [sponge, pinceaulx for oil, feather, cotton, tooth]
 measurements: [day, hour, days, ounce]
 bodyparts: [finger]
 places: [Flemish, Flanders, France]
-plants: [cotton]
+plants: [fig tree, cotton]
 professions: []
 environments: [in the rain]
 animals: []
@@ -25,7 +25,7 @@ animals: []
 ## Double layers
 
  
-The <span class="pl">Flemish</span> & those who paint paintings by the dozen only apply one layer & finish in one go. But the colors soon die. And when they are laid twice, they will not die. One needs to lay them lightly & with minimal thickness, in order to soften them.
+The <span class="pl">Flemish</span> & those who paint panels by the dozen only make one layer & finish at the first go. But the colors soon die. And when they are layered twice, they do not die. One needs to layer them lightly & not very thick, to soften them well.
  
  
   
@@ -33,15 +33,15 @@ The <span class="pl">Flemish</span> & those who paint paintings by the dozen onl
 ## Shadows
 
  
-For women: <span class="m">asphaltum</span>, <span class="m">umber</span> and a little <span class="m">lake</span>.
+For women, <span class="m">asphaltum</span>, <span class="m">umber</span> & a little <span class="m">lake</span>.
  
  
   
 
-## Painting in distemper on <span class="m">wood</span>
+## Painting in <span class="m">distemper</span> on <span class="m">wood</span>
 
  
-Because it is quite tedious to paint in distemper on <span class="m">wood</span>, and difficult to paint a face well, some mix their colors with <span class="m">egg white</span> seeped through a sponge, or mixed with the <span class="m"><span class="sup">egg</span> yolk</span>, <span class="m">water</span>, and well beaten with the <span class="m">peeling of the fig tree</span>. With this they paint & soften on the <span class="m">wood</span>, like with <span class="m">oil</span>, and this supports the varnish, but this does not last.
+Because it is very tedious to paint in <span class="m">distemper</span> on <span class="m">wood</span>, and because one is at great pains to make a good <span class="del">a</span> face on it, some thin their colors with <span class="m">egg glair</span> passed through a <span class="tl">sponge</span>, or mixed with the <span class="m">yolk</span>, <span class="m">water</span>, & thoroughly beaten with the <span class="m">skin of the <span class="pa">fig tree</span></span>. With this | they paint & soften on the <span class="m">wood</span>, as with <span class="m">oil</span>, and this supports the <span class="m">varnish</span>, but this does not last.
  
  
   

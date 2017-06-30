@@ -9,8 +9,8 @@ mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [earthen, ashes, varnish, mastic, sang daRage darac, gum arabic, spike lavender oil, glue quite clear, metals, toast, butter, antimony, pig's bladder, Tin, common tin, fine lead, tin, fine tin, latten, metal scrapings, iron, lead]
-tools: []
-measurements: [lb, quintal]
+tools: [earthenpot]
+measurements: [hours, lb, quintal]
 bodyparts: []
 places: []
 plants: [spike lavender]
@@ -23,7 +23,7 @@ animals: [pig]
  
 *[continued]*
   
-and put it into an <span class="m">earthen</span>pot, & it should have many hot <span class="m">ashes</span> underneath, & little by little you will make the fire underneath bigger and bigger, & one ought not move it, & when it will be cooked, & it needs to be for six hours, mind that the smoke does not harm you for it is bad.
+and put it into an <span class="tl"><span class="m">earthen</span>pot</span>, & it should have many hot <span class="m">ashes</span> underneath, & little by little you will make the fire underneath bigger and bigger, & one ought not move it, & when it will be cooked, & it needs to be for six <span class="ms"><span class="tmp">hours</span></span>, mind that the smoke does not harm you for it is bad.
 
  
   

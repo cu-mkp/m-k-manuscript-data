@@ -8,8 +8,8 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [gum, red wax, vermillion, resins resin pitch, Bronze, copper, verdet, clear glue, wood, pin filings, marble, water, tin, looking-glass tin, quicksilver, quickaiantsilver, glue, clear water, aqua fortis, vinegar, verdigris, copperas, solle, gold, saltpetre, ammonia salt]
-tools: [marble, pot]
+materials: [gum, red wax, vermillion, resins resin pitch, Bronze, copper, verdet, clear glue, wood, pin filings, marble, water, tin, looking-glass tin, quicksilver, quickaiantsilver, glue, clear water, aqua fortis, vinegar, verdigris, copperas, solle, Or moulu, fine gold, saltpetre, sal ammoniac]
+tools: [marble, pot, shell]
 measurements: [ounces]
 bodyparts: []
 places: []
@@ -54,8 +54,8 @@ animals: []
  
   
 
-## Ground <span class="m">gold</span>
+## <span class="m">Or moulu</span>
 
  
- Take some fine <span class="m">gold</span> and put it on a very clean <span class="del"></span> <span class="m">marble</span> slab. Add <span class="m">aqua fortis</span> and start grinding. Then take some <span class="m">saltpetre</span> and <span class="m">ammonia salt</span>, pour it into a large, clean shell.
+ Take <span class="m">fine gold</span> & put it on a quite clean <span class="del">bu</span> <span class="tl"><span class="m">marble</span></span> & put <span class="m">aqua fortis</span> & start crushing. Then take <span class="m">saltpetre</span> & <span class="m">sal ammoniac</span>, and put it into a <span class="tl">shell</span> which should be large & washed, to safeguard it.
  

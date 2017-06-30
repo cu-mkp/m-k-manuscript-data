@@ -8,8 +8,8 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Goume, sire Rouge, Vernilhon, poix resins resine, Bronze, Cuyvre, verdet, colle claire, boys, limaille despingle, marbre, eau, cuyvre, Estaing, estaing de Glasse, argent vif, estaing de Glace, vitf aiantargent, colle, estaing, eaue claire, Eaue fort, vinaigre, verd de gris, copperouse, solle, Or Moulu, or, eaue fort, selpestre, sel armonial]
-tools: [marbre, pot]
+materials: [Goume, sire Rouge, Vernilhon, poix resins resine, Bronze, Cuyvre, verdet, colle claire, boys, limaille despingle, marbre, eau, cuyvre, Estaing, estaing de Glasse, argent vif, estaing de Glace, vitf aiantargent, colle, estaing, eaue claire, Eaue fort, vinaigre, verd de gris, copperouse, solle, Or Moulu, fin or, eaue fort, selpestre, sel armonial]
+tools: [marbre, pot, coquille]
 measurements: [onces]
 bodyparts: []
 places: []
@@ -57,5 +57,5 @@ Prenes de L<span class="m">estaing de Glasse</span> deux <span class="ms">onces<
 ## <span class="m">Or Moulu</span>
 
  
- Prenes fin <span class="m">or</span> & le mectes sur le <span class="del">bu</span> <span class="m">marbre</span> bien nect & mectes<br/> de l<span class="m">eaue fort</span> & commances a broyer puys prenes du <span class="m">selpestre</span> &<br/> du <span class="m">sel armonial</span> Et le mectes en une coquille q<span class="exp">ui</span> soit Grande & lavee<br/> comme assure
+Prenes <span class="m">fin or</span> & le mectes sur le <span class="del">bu</span> <span class="tl"><span class="m">marbre</span></span> bien nect & mectes<br/> de l<span class="m">eaue fort</span> & commances a broyer puys prenes du <span class="m">selpestre</span> &<br/> du <span class="m">sel armonial</span> Et le mectes en une <span class="tl">coquille</span> q<span class="exp">ui</span> soit Grande & lavee<br/> comme assure
  

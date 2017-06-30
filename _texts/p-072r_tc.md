@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Lettres dimprimeur, plomb, clous, testes de cloux, fers de cheval, antimoine, cuivre, mabre, huiler, vin bouilly avecq racine dorme, letton, matiere de trebuschets, tuile, fer, charbons, molee des gros ciseaulx & grands cousteaulx, persicaire, sel]
+materials: [plomb, clous, testes de cloux, fers de cheval, antimoine, cuivre, mabre, huiler, vin bouilly avecq racine dorme, letton, matiere de trebuschets, tuile, fer, charbons, molee des gros ciseaulx & grands cousteaulx, persicaire, sel]
 tools: [chassis, planche, mabre, moule, fourneau, souflets, tuile, molletes, fer crochu, grattebroisse de letton]
 measurements: []
 bodyparts: []
@@ -16,16 +16,16 @@ places: []
 plants: [orme, persicaire]
 professions: [imprimeur]
 environments: []
-animals: []
+animals: [cheval]
 ---
 
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-072r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f149.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>072r</a> - - - - - </div>  
   
 
-## <span class="m">L<span class="exp">ett</span>res d<span class="pro">imprimeur</span></span>
+## L<span class="exp">ett</span>res d<span class="pro">imprimeur</span>
 
  
-Ceulx qui les font meslent parmy le <span class="m">plomb</span> des <span class="del"><span class="m">clous</span></span> <span class="m">testes<br/> de cloux</span> & vieulx <span class="m">fers de cheval</span> & <span class="m">antimoine</span> qui faict<br/> fondre le tout ceste composition est ferme pour limpression<br/> & tient coup Elle coule et est bonne pour gecter en <span class="m">plomb</span>.
+Ceulx qui les font meslent parmy le <span class="m">plomb</span> des <span class="del"><span class="m">clous</span></span> <span class="m">testes<br/> de cloux</span> & vieulx <span class="m">fers de <span class="al">cheval</span></span> & <span class="m">antimoine</span> qui faict<br/> fondre le tout ceste composition est ferme pour limpression<br/> & tient coup Elle coule et est bonne pour gecter en <span class="m">plomb</span>.
 
  
   

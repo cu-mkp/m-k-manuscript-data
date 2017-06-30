@@ -8,22 +8,22 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [hairs, rat hairs, hairs of the same squirrel, water, Oil, oil, paper, turpentine, spike lavender oil, varnish, metal, charcoal, Varnish, glair of the egg, gum, oil, not of spike lavender, but another odorant that resembles olive oil, spike lavender, olive oil, glair, taffeta]
-tools: [Bellows furnace, bellows]
+materials: [hairs, rat hairs, hair of the petit-gris, quill, water, Oil, oil, paper, turpentine, spike lavender oil, varnish, metal, charcoal, Varnish, glair of the egg, gum, oil, not of spike lavender, but another odorant that resembles olive oil, spike lavender, olive oil, glair, taffeta]
+tools: [thread, pinceaulx, Bellows furnace, bellows]
 measurements: []
-bodyparts: []
+bodyparts: [ends of your fingernails, hand]
 places: [Germans]
 plants: [spike lavender, olive]
 professions: [painters, poor peasants]
 environments: [the first rain]
-animals: [rat, squirrel, duck, crow]
+animals: [rat, petit-gris, duck, crow]
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-067r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f139.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>067r</a> - - - - - </div>  
  
 *[continued]*
   
- daylight, pull out the <span class="m">hairs</span> which make the tip too long with the ends of your fingernails, until the tip appears good to you, & so that you notice in it the <span class="m"><span class="al">rat</span> hairs</span> that are entirely black and the <span class="m">hairs of the same <span class="al">squirrel</span></span> that are <span class="del">at the</span> whitish from the root to the middle. When it pleases you, bind and tighten it very well with a thread in two places, then cut what is superfluous & fit it in a quill of appropriate size, of a <span class="al">duck</span> or a <span class="al">crow</span> for the small ones. Good brushes are those that, once dipped into <span class="m">water</span>, do not bulge when you trace on your hand.
+ light, pull out the <span class="m">hairs</span> which make the tip too long with the <span class="bp">ends of your fingernails</span>, and this until the tip seems good to you, & and until you notice in it the <span class="m"><span class="al">rat</span> hairs</span> which are entirely black & the <span class="m">hair of the <span class="al">petit—gris</span></span> is <span class="del">at the</span> whitish from the root to the middle. When it pleases you, bind <span class="del">b</span> and tighten it very well with a <span class="tl">thread</span> in two places, then cut the excess & fit it in a <span class="m">quill</span> of a convenient size for it, of a <span class="al">duck</span> or a <span class="al">crow</span> for the small ones. Good <span class="tl">pinceaulx</span> are those that, once soaked in <span class="m">water</span>, do not bulge when you trace on your <span class="bp">hand</span>.
  
  
   

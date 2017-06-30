@@ -30,7 +30,7 @@ You should have: a large basin full of <span class="m">water</span> to dip the m
 > *at left top margin*
 > 
 > 
->   To make handles for your large oil brushes, if you do not have large enough <span class="m">feather pipes</span>, take two of them, melt them and join them together.
+>   To make handles for your large oil brushes, if you do not have large enough <span class="m">feather pipes</span>, take two of them, & melt them & join them together.
  
 > *Figure*
 > *at left top margin*
@@ -50,7 +50,7 @@ Already said
 ## Molding en noyau. Mixing of <span class="m">sand</span>
 
  
-Once you have reheated your <span class="m">sand</span>, that is the <span class="m">plaster</span>, the <span class="m">stone alum</span> and the <span class="m">brick</span>, and once you have finely filtered them through a <span class="m">cloth</span> sieve, # mix them the following way: take four measures of <span class="m">plaster</span>, two measures of <span class="m">bricks</span>, and one measure of <span class="m">stone alum</span>. Mix them all together with the hands, so that one may not discern one <span class="x">ingredient</span> from the other. Once your <span class="m">sand</span> is ready, you need to kill the animal that you wish to mold in this way.
+Once you have reheated your <span class="m">sand</span>, that is the <span class="m">plaster</span>, the <span class="m">stone alum</span> & the <span class="m">brick</span>, & once you have finely filtered them through a <span class="m">cloth</span> sieve, # mix them the following way: take four measures of <span class="m">plaster</span>, two measures of <span class="m">bricks</span>, & one measure of <span class="m">stone alum</span>. Mix them all together with the hands, so that one may not discern one <span class="x">ingredient</span> from the other. Once your <span class="m">sand</span> is ready, you need to kill the animal that you wish to mold in this way.
  
 > *at left middle margin*
 > 
@@ -63,12 +63,12 @@ Once you have reheated your <span class="m">sand</span>, that is the <span class
 ## Killing the animal to mold
 
  
-You must have been careful not to hurt it while capturing it. If you have a stock <span class="x">of animals</span> and you wish to keep them for a long time, place it in a <span class="m">glass</span> bottle with <span class="m">bran</span> or in a large barrel half full of damp fresh <span class="m">earth</span>. Give them frogs to eat, live rather than dead, because should you keep them without feeding them, they would wither and become emaciated, and their skin would become saggy and wrinkled. Therefore, the sooner after its capture you mold it, the better it will come out. And kill it in the following manner: place it in a clean bottle or vessel so that <span class="x">the animal</span> does not carry any <span class="m">dust</span>; fill <span class="x">the bottle</span> with enough good <span class="m">vinegar</span> and <span class="m">urine</span> so as to cover <span class="x">the animal</span>. Shake <span class="x">the bottle</span> and torment <span class="x">the animal</span> inside there until it is dead which should take an hour or half an hour. But if you are in a hurry
+You must have been careful not to hurt it while capturing it. If you have a stock <span class="x">of animals</span> and you wish to keep them for a long time, place it in a <span class="m">glass</span> bottle with <span class="m">bran</span> or in a large barrel half full of damp & fresh <span class="m">earth</span>. Give them frogs to eat, live & and not dead, because should you keep them without feeding them, they would wither & become emaciated, & their skin would become saggy and wrinkled. Therefore, the sooner after its capture you mold it, the better it will come out. And kill it in the following manner: place it in a clean bottle or vessel so that <span class="x">the animal</span> does not carry any <span class="m">dust</span>; fill <span class="x">the bottle</span> with enough good <span class="m">vinegar</span> & <span class="m">urine</span> so as to cover <span class="x">the animal</span>. Shake <span class="x">the bottle</span> & torment <span class="x">the animal</span> inside there until it is dead which should take an hour or half an hour. But if you are in a hurry
  
 > *at left bottom margin*
 > 
 > 
->   To know if <span class="x">the animal</span> is quite dead, take it out of the <span class="m">vinegar</span> and take it by the tail. If it moves its tail, do not mold it because it still has feelings, and when pricking <span class="x">its members</span>, it would remove itself and harm the mold.
+>   To know if <span class="x">the animal</span> is quite dead, take it out of the <span class="m">vinegar</span> and take it by the tail. If it moves its tail, do not mold it because it still has feelings, & when pricking <span class="x">its members</span>, it would remove itself & harm the mold.
  
 > *at left bottom margin*
 > 

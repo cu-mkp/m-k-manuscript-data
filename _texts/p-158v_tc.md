@@ -9,8 +9,8 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [huile, minium, massicot, vert de gris, verdegris, ocre jaulne, scudegrun, charbon de noyau de pescher, os de pied de bœuf, metal, Fumee de chandelle, estain, plomb, medaille, huiler, cire]
-tools: []
-measurements: []
+tools: [moules, presse, moules de noyau, moule]
+measurements: [moictie]
 bodyparts: []
 places: []
 plants: [fleur de soulcy]
@@ -30,10 +30,10 @@ On les painct co<span class="exp">mmun</span>ement a <span class="m">huile</span
  
   
 
-## Grands moules
+## Grands <span class="tl">moules</span>
 
  
-A cause du grand poix du <span class="m">metal</span> ilz veulent<br/> estre mis dans une presse affin quilz ne souvrent<br/> pas
+A cause du grand poix du <span class="m">metal</span> ilz veulent<br/> estre mis dans une <span class="tl">presse</span> affin quilz ne souvrent<br/> pas
  
  
   
@@ -41,7 +41,7 @@ A cause du grand poix du <span class="m">metal</span> ilz veulent<br/> estre mis
 ## <span class="m">Fumee de chandelle</span>
 
  
-Elle faict venir plus net & encores quelles soict <span class="add">un @ peu</span> espesse<br/> elle ne tient poinct de lieu pourcequelle nha poinct de<br/> corps Jay ainsy parfume mes moules de noyau pour<br/> l<span class="m">estain</span> & plomb Et ay gecte dans le moule froid<br/> mays auparavant bien deseiche Et est venu fort net<br/> Il est vray que le <span class="m">plomb</span> mesle de moictie d<span class="m">estain</span><br/> pourceque la <span class="m">medaille</span> estoit espesse estoict fort chault
+Elle faict venir plus net & encores quelles soict <span class="add">un peu</span> espesse<br/> elle ne tient poinct de lieu pourcequelle nha poinct de<br/> corps Jay ainsy parfume mes <span class="tl">moules de noyau</span> pour<br/> l<span class="m">estain</span> & <span class="m">plomb</span> Et ay gecte dans le <span class="tl">moule</span> froid<br/> mays auparavant bien deseiche Et est venu fort net<br/> Il est vray que le <span class="m">plomb</span> mesle de <span class="ms">moictie</span> d<span class="m">estain</span><br/> pourceque la <span class="m">medaille</span> estoit espesse estoict fort chault
  
  
   
@@ -49,7 +49,7 @@ Elle faict venir plus net & encores quelles soict <span class="add">un @ peu</sp
 ## Gect
 
  
-<span class="del">Encores que</span> <span class="add">Si</span>@ la medaille est fort espesse ne luy donne<br/> pas pour cela le gect aussy espes Il suffict que le<br/> gect aye la moictie de son espesseur Mays si elle<br/> tanvre donne luy le gect de son espesseur Noublie pas de<br/> fayre des souspirails au gect ou communem<span class="exp">ent</span> la matiere soufle
+<span class="del">Encores que</span> <span class="add">Si</span> la medaille est fort espesse ne luy donne<br/> pas pour cela le gect aussy espes Il suffict que le<br/> gect aye la moictie de son espesseur Mays si elle<br/> tanvre donne luy le gect de son espesseur Noublie pas de<br/> fayre des souspirails au gect ou communem<span class="exp">ent</span> la matiere soufle
  
 > *at left bottom margin*
 > 

@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [jasper, horn, cornaline, stones, rose, turpentine, spike lavender, oil, spike lavender oil, glass, talc, pins, cement, gum ammoniac, vinegar, marbled jasper, wool, gold, silver, tin, ., strong glue, Stil de grain yellow, juice of weld, chalk, ceruse, distemper, horn used for lanterns, parchment, common azur, azur d'esmail, lake, alum, lead, common salt, iron, salt, marble, water]
+materials: [jasper, horn, cornalines, stones, rose, turpentine, spike lavender, oil, spike lavender oil, glass, talc, pins, cement, gum ammoniac, vinegar, marbled jasper, wool, gold, silver, tin, ., strong glue, Stil de grain yellow, juice of weld, chalk, ceruse, distemper, horn used for lanterns, parchment, common azur, azur d'esmail, lake, alum, lead, common salt, iron, salt, marble, water]
 tools: [joiner's plane, marble, sieve]
 measurements: [lb]
 bodyparts: []
@@ -22,22 +22,22 @@ animals: []
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-010r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f25.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>010r</a> - - - - - </div>  
   
 
-## Imitation <span class="m">jasper</span>
+## Counterfeit <span class="m">jasper</span>
 
  
-Take <span class="m">horn</span> from which one makes lanterns, quite thin, and underneath make the figure of your <span class="m">jasper</span>, <span class="m">cornaline</span>, and other <span class="m">stones</span> which will be a work more appropriate than doing it on glass, which is too shiny. And the <span class="m">horn</span> gives a lustre and a fatty polish like <span class="m">jasper</span>.
+Take <span class="m">horn</span> from which one makes lanterns, quite thin, & underneath make the figure of your <span class="m">jasper</span>, <span class="m">cornalines</span>, & other <span class="m">stones</span>, which will be a work more appropriate than on glass, which is too shiny. And the <span class="m">horn</span> presents a lustre & a fatty polish like <span class="m">jasper</span>.
  
-You know how with scrapings of the said <span class="m">horn</span> one can imitate <span class="m"><span class="pa">rose</span></span>s . The <span class="del">horn</span> colors for this <span class="m">jasper</span> need to have as a base clear <span class="m">turpentine</span> or <span class="m">spike lavender</span> varnish. And matte, opaque colours are not appropriate, no matter how fine they are. You have to <span class="m">oil</span> the unpainted underside with <span class="m">spike lavender oil</span>.
+You know, as with scrapings of the said <span class="m">horn</span>, the <span class="m"><span class="pa">rose</span></span>s can be imitated. The <span class="del">horn</span> colors for this <span class="m">jasper</span> wants to have a base with clear <span class="m">turpentine</span> or <span class="m">spike lavender</span> varnish. <span class="add">And colors matte in body are not so appropriate here, however beautiful they are.</span> <span class="add">One needs to <span class="m">oil</span> the unpainted reverse with <span class="m">spike lavender oil</span>.</span>
  
 > *at top margin*
 > 
 > 
->  Thin <span class="m">glass</span> looks very fine for this effect
+>  Thin <span class="m">glass</span>, for this effect, is very beautiful.
  
 > *at left top margin*
 > 
 > 
->  You can inlay beds with it, and on the joints you can throw the filings of <span class="m">talc</span> or of <span class="m">pins</span> on the fresh <span class="m">cement</span> of the said joints. You have to bond them with <span class="m">gum ammoniac</span> tempered in <span class="m">vinegar</span>. To better counterfeit <span class="m">marbled jasper</span>, apply coarse<span class="m">wool</span> dyed diverse colors and intermingled. After you have laid down all the colors, scrape oblique lines into them then lay down<span class="m">gold</span> and <span class="m">silver</span> leaves. If you lay down colors made of <span class="m">turpentine</span> on the <span class="m">horn</span>, give it a backing of <span class="m">silver</span> or of <span class="m">tin</span> leaf<span class="m">.</span> You can also file <span class="m">horn</span> and mix it with <span class="m">strong glue</span> and lay it down onto the joints of the piece of <span class="m">horn</span> and finish with a <span class="tl">joiner's plane</span>.
+>  You can encrust beds with it & on the joints you can throw the filings of <span class="m">talc</span> or of <span class="m">pins</span> on the fresh <span class="m">cement</span> of the said joints. One needs to join them with <span class="m">gum ammoniac</span> mixed in <span class="m">vinegar</span>. To better counterfeit <span class="m">marbled jasper</span>, apply <span class="m">wool</span> of thick hairs dyed in diverse colors & intermingled. After you have laid down all the colors, scrape oblique lines on them, then lay down<span class="m">gold</span> & <span class="m">silver</span> in leaf. If you lay down colors of <span class="m">turpentine</span> on the <span class="m">horn</span>, give it a base of <span class="m">silver</span> or of <span class="m">tin</span> leaf<span class="m">.</span> You can also file <span class="m">horn</span> & mix it with <span class="m">strong glue</span>, & lay it down onto the joints of the piece of <span class="m">horn</span>, then even it with a <span class="tl">joiner's plane</span>.
  
  
   

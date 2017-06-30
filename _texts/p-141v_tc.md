@@ -57,7 +57,7 @@ animals: [escrevisse]
 > *at bottom margin*
 > 
 > 
->   Advise bien en moulant de disposer tellement les jambes<br/> quelles ne passent point le ventre de l<span class="al">escrevisse</span> <span class="del">Aultres</span> et que<br/> les posant elles sassoyent bien sur le ventre Aultrement les <span class="ill"></span> 
+>   Advise bien en moulant de disposer tellement les jambes<br/> quelles ne passent point le ventre de l<span class="al">escrevisse</span> <span class="del">Aultr</span> et que<br/> les posant elles sassoyent bien sur le ventre Aultrement les <span class="ill"></span> 
  
 *[continued]*
  

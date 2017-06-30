@@ -8,8 +8,8 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [cire, huiler, eau de vye, eau, boys, bois de, blanc de plomb, cire blanche, ceruse, Colle de poisson, cendres, or, argent, estain, Estaim, plomb, estaim, cendre]
-tools: []
+materials: [cire, huiler, eau de vye, eau chaulde, boys, bois, cire fondue, blanc de plomb, cire blanche, ceruse, Colle de poisson, cendres, or, argent, estain, souldant, Estaim, plomb, estaim, cendre]
+tools: [moule, Ciseler, ciselet, enclume, vaisseau]
 measurements: []
 bodyparts: []
 places: []
@@ -25,23 +25,23 @@ animals: [poisson]
 ## Portraicts de <span class="m">cire</span>
 
  
-Silz sont pains de coleurs sur la <span class="m">cire</span> & que la <span class="m">cire</span> ne<br/> Soyent @ taincte au dedans & meslee de couleur La taincture<br/> senleve & deffaict si tu les moules en noyau Mays le<br/> pourtraict ne se gaste poinct Il les fault <span class="m">huiler</span> legerem<span class="exp">ent</span><br/> baigner d<span class="m">eau de vye</span> & destremper avecq <span class="m">eau</span> chaulde<br/> Silz sont vernisses ilz les fault mouler deulx ou trois<br/> pour enlever le vernis qui se grippe au moule Apres<br/> quil sera oste tu pourras mouler net Silz sont sur<br/> du <span class="m">boys</span> il fault abreuver le <span class="m">bois de</span> <span class="m">cire</span> fondue fort<br/> chaulde car le moule aultrem<span class="exp">ent</span> si attacheroit Le <span class="m">blanc<br/> de plomb</span> est beaucoup meilleur pour mesler avecq la<br/> <span class="m">cire blanche</span> que la <span class="m">ceruse</span> car le <span class="m">blanc de plomb</span> est<br/> plus ferme & plus blanc
+Silz sont pains de coleurs sur la <span class="m">cire</span> & que la <span class="m">cire</span> ne<br/> Soyent taincte au dedans & meslee de couleur La taincture<br/> senleve & deffaict si tu les moules en noyau Mays le<br/> pourtraict ne se gaste poinct Il les fault <span class="m">huiler</span> legerem<span class="exp">ent</span><br/> baigner d<span class="m">eau de vye</span> & destremper avecq <span class="m">eau chaulde</span><br/> Silz sont vernisses ilz les fault mouler deulx ou trois<br/> pour enlever le vernis qui se grippe au <span class="tl">moule</span> Apres<br/> quil sera oste tu pourras mouler net Silz sont sur<br/> du <span class="m">boys</span> il fault abreuver le <span class="m">bois</span> de <span class="m">cire fondue</span> fort<br/> chaulde car le <span class="tl">moule</span> aultrem<span class="exp">ent</span> si attacheroit Le <span class="m">blanc<br/> de plomb</span> est beaucoup meilleur pour mesler avecq la<br/> <span class="m">cire blanche</span> que la <span class="m">ceruse</span> car le <span class="m">blanc de plomb</span> est<br/> plus ferme & plus blanc
  
  
   
 
-##  Ciseler
+## <span class="tl">Ciseler</span>
 
  
-Si le ciselet a passe par quelque partye dun portraict<br/> il fault reparer & resuivre le tout Aultrement il sembleroit<br/> une piece raportee
+Si le <span class="tl">ciselet</span> a passe par quelque partye dun portraict<br/> il fault reparer & resuivre le tout Aultrement il sembleroit<br/> une piece raportee
  
  
   
 
-##  <span class="m">Colle de <span class="al">poisson</span></span>
+## <span class="m">Colle de <span class="al">poisson</span></span>
 
  
-Bats la fort subtille & tanvre sur une enclume bien nette<br/> & apres destrempe la avecq de l<span class="m">eau de vye</span> sur <span class="del">ch</span> <span class="m">cendres</span><br/> chauldes & foeu leger & elle sera bien tost fondue & si elle nest<br/> asses forte & espesse adjoustes en Et advise de <span class="del">les</span> ne la mestre@<br/> poinct a fondre dans un vaisseau gras mays noeuf si tu peulx<br/> Elle se fond au foeu & se seiche bien tost aussy au foeu Mays<br/> quelle soict chaufee de loing estant sur louvrage Elle tient fort<br/> On en raporte les fleurs & choses delicattes d<span class="m">or</span> d<span class="m">argent</span> d<span class="m">estain</span><br/> & aultres quil y ha danger de gaster en souldant
+Bats la fort subtille & tanvre sur une <span class="tl">enclume</span> bien nette<br/> & apres destrempe la avecq de l<span class="m">eau de vye</span> sur <span class="del">ch</span> <span class="m">cendres</span><br/> chauldes & foeu leger & elle sera bien tost fondue & si elle nest<br/> asses forte & espesse adjoustes en Et advise de <span class="del">les</span> ne la mestre@<br/> poinct a fondre dans un <span class="tl">vaisseau</span> gras mays noeuf si tu peulx<br/> Elle se fond au foeu & se seiche bien tost aussy au foeu Mays<br/> quelle soict chaufee de loing estant sur louvrage Elle tient fort<br/> On en raporte les fleurs & choses delicattes d<span class="m">or</span> d<span class="m">argent</span> d<span class="m">estain</span><br/> & aultres quil y ha danger de gaster en <span class="m">souldant</span>
  
  
   

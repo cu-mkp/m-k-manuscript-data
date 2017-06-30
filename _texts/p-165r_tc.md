@@ -8,14 +8,14 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [cire gommee, Laque, eau, toile, Plastre, terre, plastre, huiler, Sang de dragon, laque, huile, or, argent, vernis, fer, acier, colle de poisson, cire, colle]
-tools: [esponge, moules, fil de fer]
-measurements: []
+materials: [cire gommee a esbaucher, Laque, eau, toile, Plastre, plastre, terre grasse, huiler, Sang de dragon, laque, huile, or, argent, vernis, fil de fer ou dacier, coller, colle de poisson, cire grise ou noire, colle]
+tools: [esponge, moules de plastre, moules, poinctes de fil de fer ou dacier]
+measurements: [jour]
 bodyparts: []
 places: []
 plants: []
 professions: []
-environments: []
+environments: [en terre maigre]
 animals: [dragon, serpents, lesards, poisson]
 ---
 
@@ -25,7 +25,7 @@ animals: [dragon, serpents, lesards, poisson]
 ## Reparer
 
  
-Si en ton gect il survient quelque petit trou, racoustre le<br/> avecq de la <span class="m">cire gommee</span> a esbaucher qui soit noire ou grise
+Si en ton gect il survient quelque petit trou, racoustre le<br/> avecq de la <span class="m">cire gommee a esbaucher</span> qui soit noire ou grise
  
  
   
@@ -49,7 +49,7 @@ Sil est foule & plisse en le roulant mouille le par<br/> derriere avecq une <spa
 ## <span class="m">Plastre</span> a mouler
 
  
-Quand il est long a fayre prise & seicher cest signe quil est<br/> trop gras & humide qui est ce qui le faict retirer au foeu &<br/> se fendre dou viennent les baves celuy qui se tire en <span class="m">terre</span><br/> maigre est le meilleur Il ne fault pas long temps garder les<br/> <span class="tl">moules</span> de <span class="m">plastre</span> gras car ils semblent la <span class="m">terre</span> grasse qui en<br/> se sechant delles mesmes se fend @Le mieulx est de les recuire<br/> bien tost apres quilz sont faicts & gecter Le bon <span class="m">plastre</span> se garde<br/> long temps en<br/> <span class="tl">moules</span>
+Quand il est long a fayre prise & seicher cest signe quil est<br/> trop gras & humide qui est ce qui le faict retirer au foeu &<br/> se fendre dou viennent les baves celuy qui se tire <span class="env">en terre<br/> maigre</span> est le meilleur Il ne fault pas long temps garder les<br/> <span class="tl">moules de <span class="m">plastre</span></span> gras car ils semblent la <span class="m">terre grasse</span> qui en<br/> se sechant delles mesmes se fend <span class="add">Le mieulx est de les recuire<br/> bien tost apres quilz sont faicts & gecter Le bon <span class="m">plastre</span> se garde<br/> long temps en<br/> <span class="tl">moules</span></span>
  
 > *at left middle margin*
 > 
@@ -70,5 +70,5 @@ Il se peult imiter avecq la <span class="m">laque</span> qui le surpasse en beau
 ## Reparer <span class="al">serpents</span> et <span class="al">lesards</span>
 
  
-Tu pourrois bien faire des poincons selon la forme de<br/> leurs escailles & en faire de plus grands & plus petits<br/> selon la forme du col du corps & de la queue Sil y ha<br/> quelque chose rompu tu le peulx hanter avecq de petites <span class="del">pieces</span><br/> poinctes de <span class="tl">fil de <span class="m">fer</span></span> ou d<span class="m">acier</span> & coller avecq <span class="m">colle de <span class="al">poisson</span></span><br/> & puys couvrir tout avecq <span class="m">cire</span> grise ou noire Mays il fault<br/> laisser seicher la <span class="m">colle</span> un jour sans y toucher
+Tu pourrois bien faire des poincons selon la forme de<br/> leurs escailles & en faire de plus grands & plus petits<br/> selon la forme du col du corps & de la queue Sil y ha<br/> quelque chose rompu tu le peulx hanter avecq de petites <span class="del">pieces</span><br/> <span class="tl">poinctes de <span class="m">fil de fer ou dacier</span></span> & <span class="m">coller</span> avecq <span class="m">colle de <span class="al">poisson</span></span><br/> & puys couvrir tout avecq <span class="m">cire grise ou noire</span> Mays il fault<br/> laisser seicher la <span class="m">colle</span> un <span class="ms"><span class="tmp">jour</span></span> sans y toucher
  

@@ -9,8 +9,8 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [terre, cendres, verny, Masticq, sang daRage darac, Gomme aRabic, Huille daspic, colle bien clere, metaulx, rostie, boeurre, antimoine, vessie de porc, Estaim, estain commun, plomb fin, estain, estain fin, letton, escailles, fer, plomb]
-tools: []
-measurements: [lb, quintal]
+tools: [pot de terre]
+measurements: [heures, lb, quintal]
 bodyparts: []
 places: []
 plants: [aspic]
@@ -23,8 +23,8 @@ animals: [porc]
  
 *[continued]*
   
-et mectes le dedans ung pot de <span class="m">terre</span> & quil y ayt<br/> forces <span class="m">cendres</span> chauldes dessoubz & feres petit a<br/> petit du foeu dessoubz de plus en plus & ne le<br/> fault pas bouger & quand il sera cuit & si fault<br/> q<span class="exp">u</span>il soit six heures & gardes q<span class="exp">ue</span> la fumee ne vous<br/> face mal car est maulvaix
-
+et mectes le dedans ung <span class="tl">pot de <span class="m">terre</span></span> & quil y ayt<br/> forces <span class="m">cendres</span> chauldes dessoubz & feres petit a<br/> petit du foeu dessoubz de plus en plus & ne le<br/> fault pas bouger & quand il sera cuit & si fault<br/> q<span class="exp">u</span>il soit six <span class="ms"><span class="tmp">heures</span></span> & gardes q<span class="exp">ue</span> la fumee ne vous<br/> face mal car est maulvaix
+ 
  
   
 

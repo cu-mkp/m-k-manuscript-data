@@ -8,14 +8,14 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Escorce doranges, souffre, colle, vinaigre, noir de lampe, boys, Cire blanche, Ceruze, fer, Estaing, lye de vin, vin blanc, terra merita, pappier]
-tools: []
-measurements: []
+materials: [Escorce doranges, souffre, verre, Goumiche noyre, colle, vinaigre, noir de lampe, boys, Cire blanche, Ceruze, fer, Estaing, lye de vin, vin blanc, terra merita, pappier]
+tools: [mortier, fiolle de verre]
+measurements: [jours]
 bodyparts: []
 places: []
-plants: []
+plants: [oranges]
 professions: []
-environments: []
+environments: [en la cave ou aultre lieu humide]
 animals: []
 ---
 
@@ -25,12 +25,12 @@ animals: []
 ## Pour faire couleur dor fort belle<br/> & de peu de despance
 
  
-Premierement prenes <span class="m">Escorce doranges</span> bien Jaulne &<br/> les nettoies bien du blanc qui est dedans & les<br/> pulverises tres bien <span class="del">et</span> <span class="add">en</span> ung mortier bien net Et prenes<br/> aultant de <span class="m">souffre</span> & broyes tout ensemble Et mectes le<br/> tout en une fiolle de verre & les Gardes en la cave ou<br/> au<span class="exp">ltr</span>e lieu humide par lespace de huict ou dix jours puys<br/> quand en vouldres user fault le chauffer et en user ou<br/> vous vouldres & vous verres une fort belle coulleur
+Premierement prenes <span class="m">Escorce d<span class="pa">oranges</span></span> bien Jaulne &<br/> les nettoies bien du blanc qui est dedans & les<br/> pulverises tres bien <span class="del">et</span> <span class="add">en</span> ung <span class="tl">mortier</span> bien net Et prenes<br/> aultant de <span class="m">souffre</span> & broyes tout ensemble Et mectes le<br/> tout en une <span class="tl">fiolle de <span class="m">verre</span></span> & les Gardes <span class="env">en la cave ou<br/> au<span class="exp">ltr</span>e lieu humide</span> par lespace de huict ou dix <span class="ms"><span class="tmp">jours</span></span> puys<br/> quand en vouldres user fault le chauffer et en user ou<br/> vous vouldres & vous verres une fort belle coulleur
  
  
   
 
-## Pour faire Goumiche noyre
+## Pour faire <span class="m">Goumiche noyre</span>
 
  
 Prenes de la <span class="m">colle</span> & la destrampes aveq du <span class="m">vinaigre</span><br/> & la faictes fondre et quelle soit bien claire et prenes du<br/> <span class="m">noir de lampe</span> ou au<span class="exp">ltr</span>e noir & le destrempes ensemble<br/> puys le poses sur <span class="m">boys</span>

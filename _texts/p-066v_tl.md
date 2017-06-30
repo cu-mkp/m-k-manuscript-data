@@ -8,10 +8,10 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [gilding, or mat, varnish, fatty oil, ceruse, Or mat, burnished gold, Burnished gold, loafs of bread, Venice turpentine, common turpentine, sumac, sloe, quince seeds, leaves of olive trees, turpentine, bread, water from a beehive, honey, wax, oil, hempseed, lead, hair from the tail of a squirrel, hair, hairs of a rat’s whiskers, water]
-tools: [pinceaulx]
-measurements: [hours]
-bodyparts: []
+materials: [gilding, or mat, varnish, fatty oil, ceruse, Or mat, burnished gold, Burnished gold, loafs of bread, Venice turpentine, common turpentine, sumac, sloe, quince seeds, leaves of olive trees, turpentine, bread, water from a beehive, honey, wax, oil, hempseed, lead, hair from the tail of a squirrel’s fur, card, hair, bristles of a rat’s whiskers, water]
+tools: [pinceaulx, Pinceaulx]
+measurements: [hours, as much in one go as one can hold in a card folded up into a small tube]
+bodyparts: [thumb, index finger]
 places: [Venice]
 plants: [pomegranate flowers]
 professions: []
@@ -62,10 +62,10 @@ At night, apply very thin sheets <span class="m">lead</span>. Singular remedy.
  
   
 
-## Pinceaulx
+## <span class="tl">Pinceaulx</span>
 
  
-In order to make them well, cut the <span class="m">hair from the tail of a <span class="al">squirrel</span></span>, as much as can be held in one go in a card rolled like a hollow straw. And placing them thus in the aforesaid folded card, tap & shuffle it so that the <span class="m">hair</span> gathers together & becomes of the same length. Put one or two <span class="m">hairs of a <span class="al">rat</span>’s whiskers</span> in the middle, then grab & squeeze it tightly with the thumb and index finger. Dip the tip of all this <span class="m">hair</span> well in <span class="m">water</span>, then, moving yourself close to
+To make them well, cut the <span class="m">hair from the tail of a <span class="al">squirrel</span>’s fur</span>, <span class="ms">as much in one go as one can hold in a <span class="m">card</span> folded up into a small tube</span>. And putting it thus into the aforesaid folded <span class="m">card</span>, tap <span class="add">it</span> & shake <span class="add">it</span> such that the <span class="m">hair</span> gathers together & becomes of the same length. Put one or two <span class="m">bristles of a <span class="al">rat</span>’s whiskers</span> in the middle, then, grabbing it with the fist & pinching it well with the <span class="bp">thumb</span> & <span class="bp">index finger</span>, thoroughly dip the tip of all this <span class="m">hair</span> in <span class="m">water</span>, then, moving close to
  
 *[continued]*
  

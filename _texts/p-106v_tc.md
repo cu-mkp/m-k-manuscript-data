@@ -46,10 +46,7 @@ Les <span class="m">tuilles</span> de quoy on couvre les <span class="env">maiso
  
 Les petites <span class="al">tortues</span> estant sorties de loeuf sont bien<br/> gentilles a mouler
  
-> *at middle margin*
-> 
-> 
->   Si le <span class="m">plastre</span> est mesle de quelque <span class="m">poulssiere</span> ou nest du fort il se creve au<br/> foeu & faict faire des baves
+ <span class="add">Si le <span class="m">plastre</span> est mesle de quelque <span class="m">poulssiere</span> ou nest du fort il se creve au<br/> foeu & faict faire des baves</span>
  
 Le <span class="m">plastre</span> co<span class="exp">mm</span>e dict est le plus dur est le meilleur estant en<br/> <span class="m">pierre</span> prens le doncq tout cru en telle sorte Pile le <span class="del">bien</span> <span class="add">plus</span><br/> subtillement quil te sera possible Et le passe par le plus<br/> delie <span class="tl">tamis</span> ou <span class="tl">manche</span> que tu pourras Estant ainsy <span class="del">p</span><span class="add">b</span>ien<br/> subtil mects le <span class="add">en bonne quantite</span> dans un <span class="tl">chauldron</span> ou <span class="tl">poelonne</span> sur foeu de<br/> flamme & co<span class="exp">mm</span>e il commancera a seschaufer remue toujours Et de<br/> poesant & grossier quil est Il deviendra si leger & si maniable<br/> quil te semblera navoyr non plus dempeschement a le <span class="del">manier</span> <span class="add">remuer</span> que<br/> si cestoit de l<span class="m">eau</span> continue a le mouvoir tousjours jusques a ce<br/> quil retourne encores poesant & grave Et lors cest signe quil<br/> est cuict <span class="add">Mays ne le recuits point que ta <span class="m">brique</span> <span class="m">alum de plume</span> de plume<br/> ne soient recuits & que les cercles d<span class="m">ardille</span> ne soient faicts Car il fault que ce<br/> soict le dernier recuit & quand tout le reste est prest Car le moings que le <span class="m">plastre</span> #</span><br/> 
  

@@ -37,5 +37,5 @@ Pour parfumer d<span class="m">ambre blanc</span> a la facon de<br/> <span class
 ## <span class="m">Eau de vye</span>
 
  
-Elle est excellente a fayre mouler net de sorte quau lieu<br/> ou tu nen mectras point le sable communem<span class="exp">ent</span> sattaquera a<br/> la figure Mays elle veult estre de trois passes Et pource<br/> elle ne prend pas aysem<span class="exp">ent</span> sur les choses <span class="m">huilees</span> je croy<br/> quil seroit bon den mectre parmy l<span class="m">eau</span> dans laquelle tu<br/> destrempes ton sable
+Elle est excellente a fayre mouler net de sorte quau lieu<br/> ou tu nen mectras point le sable communem<span class="x"><span class="exp">ent</span></span> sattaquera a<br/> la figure Mays elle veult estre de trois passes Et pource<br/> elle ne prend pas aysem<span class="x"><span class="exp">ent</span></span> sur les choses <span class="m">huilees</span> je croy<br/> quil seroit bon den mectre parmy l<span class="m">eau</span> dans laquelle tu<br/> destrempes ton sable
  

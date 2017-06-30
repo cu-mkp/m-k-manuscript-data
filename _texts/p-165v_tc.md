@@ -8,29 +8,29 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [fer, cire, terre, eau, vinaigre, urine, eau de vye, Luth, luth, plastre, Argent, mortier, chaulx, plomb, colle de poisson]
-tools: [esponge, corde, Moules, moule, broisse, moules]
+materials: [fer, cire fondue, terre, eau claire, vinaigre, urine, eau de vye, Luth, luth commun, luth, plastre qui ha servy aulx moules, Argent, plombeux, mortier de chaulx, plomb, cire, colle de poisson, cire a esbaucher]
+tools: [poinctes de fer, plaste de terre, esponge, corde despinette, Moules, moule, broisse]
 measurements: []
 bodyparts: []
 places: []
-plants: [despinette]
+plants: []
 professions: []
 environments: []
-animals: [animaulx]
+animals: [animaulx, mousche, poisson]
 ---
 
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-165v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f336.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>165v</a> - - - - - </div>  
   
 
-## Plant d<span class="al">animaulx</span>
+## Plant danimaulx
 
  
-Non seulem<span class="exp">ent</span> avec les poinctes de <span class="m">fer</span> Mays avecq de la<br/> <span class="m">cire</span> fondue les <span class="al">animaulx</span> sasseurent sur la plaste de <span class="m">terre</span><br/> @Laves les premierem<span class="exp">ent</span> en <span class="m">eau</span> claire estant morts dans la mixtion<br/> de <span class="m">vinaigre</span> & <span class="m">urine</span><br/> & avecq une <span class="tl">esponge</span><br/> repurge leur la gueule<br/> les yeulx<br/> et la<br/> teste de<br/> la bave<br/> qui en<br/> sort<br/> car<br/> jamays<br/> le sable<br/> ny prendroit<br/> bien et<br/> viendroit<br/> grumeleux
+Non seulem<span class="exp">ent</span> avec les <span class="tl">poinctes de <span class="m">fer</span></span> Mays avecq de la<br/> <span class="m">cire fondue</span> les animaulx sasseurent sur la <span class="tl">plaste de <span class="m">terre</span></span><br/> @<span class="add">Laves les premierem<span class="exp">ent</span> en <span class="m">eau claire</span> estant morts dans la mixtion<br/> de <span class="m">vinaigre</span> & <span class="m">urine</span><br/> & avecq une <span class="tl">esponge</span><br/> repurge leur la gueule<br/> les yeulx<br/> et la<br/> teste de<br/> la bave<br/> qui en<br/> sort<br/> car<br/> jamays<br/> le sable<br/> ny prendroit<br/> bien et<br/> viendroit<br/> grumeleux</span>
  
 > *at left top margin*
 > 
 > 
->   Si tu leur veulx fayre tenir<br/> la bouche ouverte<br/> mects y un petit<br/> bout de <span class="tl">corde</span><br/> <span class="pa">despinette</span> qui ne<br/> tiendra point de<br/> lieu
+>   Si tu leur veulx fayre tenir<br/> la bouche ouverte<br/> mects y un petit<br/> bout de <span class="tl">corde<br/> <span class="mu">despinette</span></span> qui ne<br/> tiendra point de<br/> lieu
  
  
   
@@ -59,7 +59,7 @@ Estant moules ne les garde pas long temps Ains les<br/> employe <span class="del
 ## <span class="m">Luth</span>
 
  
-A la recuite tu peulx bien employer le <span class="m">luth</span> commun Mays<br/> quand tu vouldras gecter despouilles en le <span class="tl">moule</span> & pro<span class="exp">m</span>ptem<span class="exp">ent</span><br/> avecq une <span class="tl">broisse</span> couche le <span class="m">luth</span> de <span class="m">plastre</span> qui ha<br/> servy aulx <span class="tl">moules</span> car il sera sec en se posant &<br/> gecte Il fault principallem<span class="exp">ent</span> mectre ce <span class="m">luth</span> sur les<br/> joinctures
+A la recuite tu peulx bien employer le <span class="m">luth commun</span> Mays<br/> quand tu vouldras gecter despouilles en le <span class="tl">moule</span> & pro<span class="exp">m</span>ptem<span class="x"><span class="exp">ent</span></span><br/> avecq une <span class="tl">broisse</span> couche le <span class="m">luth</span> de <span class="m">plastre qui ha<br/> servy aulx moules</span> car il sera sec en se posant &<br/> gecte Il fault principallem<span class="x"><span class="exp">ent</span></span> mectre ce <span class="m">luth</span> sur les<br/> joinctures
  
  
   
@@ -67,12 +67,12 @@ A la recuite tu peulx bien employer le <span class="m">luth</span> commun Mays<b
 ## <span class="m">Argent</span>
 
  
-Quand il sautille estant fondu cest signe quil est<br/> bien chault & pourceque co<span class="exp">mmun</span>ement il est plombeux<br/> il est bon di gecter du <span class="m">mortier</span> de <span class="m">chaulx</span> car cella<br/> attire & amasse le <span class="m">plomb</span>
+Quand il sautille estant fondu cest signe quil est<br/> bien chault & pourceque co<span class="exp">mmun</span>ement il est <span class="m">plombeux</span><br/> il est bon di gecter du <span class="m">mortier de chaulx</span> car cella<br/> attire & amasse le <span class="m">plomb</span>
  
  
   
 
-## Aisle de mousche
+## Aisle de <span class="al">mousche</span>
 
  
 Affin quelles viennent mieulx mects despuys le gect<br/> jusques aulx bout dicelles des filons de <span class="m">cire</span> fais<br/> aussy que soubs le ventre il y aye asses de <span class="m">cire</span><br/> car cest ce qui faict le gect
@@ -84,8 +84,8 @@ Affin quelles viennent mieulx mects despuys le gect<br/> jusques aulx bout dicel
  
   
 
-## Raporter quelque aisle<br/> de mousche ou semblable
+## Raporter quelque aisle<br/> de <span class="al">mousche</span> ou semblable
 
  
-Elle se<br/> raporte avecq <span class="m">colle de poisson</span><br/> destrempee avecq <span class="m">eau de vye</span> sur foeu lent faisa<span class="exp">n</span>t aussy<br/> chaufer louvrage puys cela se couvre avecq de la <span class="m">cire</span><br/> a esbaucher qui soit grise
+Elle se<br/> raporte avecq <span class="m">colle de <span class="al">poisson</span></span><br/> destrempee avecq <span class="m">eau de vye</span> sur foeu lent faisa<span class="exp">n</span>t aussy<br/> chaufer louvrage puys cela se couvre avecq de la <span class="m">cire<br/> a esbaucher</span> qui soit grise
  

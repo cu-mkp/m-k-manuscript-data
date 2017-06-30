@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [blue varnish, blue of flowers florey or of Flanders, quicklime, water, blue, wood, turmeric, bone, horn, ashes of vine shoots, verdigris, goldsmith's water, alum, river water, bran, iron filings, sulfur, fuller's earth, maplewood, water of alum, well water, sandstone, bronze, sal ammoniac, iron]
+materials: [blue varnish, blue of flowers florey or of Flanders, quicklime, water, blue, wood, terroy merita, bone, horn, ashes of vine shoots, verdigris, goldsmith's water, alum, river water, bran, iron filings, sulfur, fuller's earth, maplewood, water of alum, well water, sandstone, bronze, sal ammoniac, iron]
 tools: [pan, pot, goldsmith's water pot, iron mortar]
 measurements: [fingers, day, ounce]
 bodyparts: [fingers]
@@ -33,7 +33,7 @@ Take the <span class="m">blue of flowers <span class="add">florey or of <span cl
 ## For orange color
 
  
-Take the <span class="m">water</span> where the <span class="m">quicklime</span> will have soaked and some <span class="m">turmeric</span>, and put them one with the other, and then you will put them on your <span class="m">wood</span>.
+Take <span class="m">water</span> where the <span class="m">quicklime</span> has soaked and put <span class="m">terroy merita</span>, and put them one with the other, and then set on your <span class="m">wood</span>.
  
  
   

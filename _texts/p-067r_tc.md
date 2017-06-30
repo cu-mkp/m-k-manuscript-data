@@ -8,10 +8,10 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [poils, poils de rat, poil de menue gris, eau, Huile, huile, papier, tourmentine, huile daspic, vernis, metal, charbon, Vernis, glaire doeuf, gomme, huile non daspic mays dun aultre odorant qui semble huile dolif, aspic, huile dolif, glaire, taffetas]
-tools: [Four a souflets, souflets]
+materials: [poils, poils de rat, poil de menue gris, filet, tuyau, eau, Huile, huile, papier, tourmentine, huile daspic, vernis, metal, charbon, Vernis, glaire doeuf, gomme, huile non daspic mays dun aultre odorant qui semble huile dolif, aspic, huile dolif, glaire, taffetas]
+tools: [pinceaulx, Four a souflets, souflets]
 measurements: []
-bodyparts: []
+bodyparts: [bout des ongles, main]
 places: [allemands]
 plants: [aspic, olif]
 professions: [painctres, pauvres paysans]
@@ -23,7 +23,7 @@ animals: [rat, menue gris, canard, corbeau]
  
 *[continued]*
   
- jour arrache du bout des ongles les <span class="m">poils</span> qui font<br/> la poincte trop longue Et jusques a ce que la poincte te<br/> semble bien & que tu y remarques les <span class="m">poils de <span class="al">rat</span></span> qui sont<br/> touts noirs & le <span class="m">poil de <span class="al">menue gris</span></span> est blanchastre<br/> <span class="del">a la</span> despuys la racine jusques au milieu Quand il<br/> sera a ta fantasie lie <span class="del">b</span> Et sarre bien fort avecq du<br/> filet en deulx endroicts puys couppe le superflu<br/> & ladapte a un tuyau de grosseur qui luy soict<br/> convenable de <span class="al">canard</span> ou de <span class="al">corbeau</span> pour les petits<br/> Les bons pinceaulx sont ceulx qui estant trempes<br/> dans l<span class="m">eau</span> ne font point de ventre si tu en trasses<br/> sur la main
+jour arrache du <span class="bp">bout des ongles</span> les <span class="m">poils</span> qui font<br/> la poincte trop longue Et jusques a ce que la poincte te<br/> semble bien & que tu y remarques les <span class="m">poils de <span class="al">rat</span></span> qui sont<br/> touts noirs & le <span class="m">poil de <span class="al">menue gris</span></span> est blanchastre<br/> <span class="del">a la</span> despuys la racine jusques au milieu Quand il<br/> sera a ta fantasie lie <span class="del">b</span> Et sarre bien fort avecq du<br/> <span class="m">filet</span> en deulx endroicts puys couppe le superflu<br/> & ladapte a un <span class="m">tuyau</span> de grosseur qui luy soict<br/> convenable de <span class="al">canard</span> ou de <span class="al">corbeau</span> pour les petits<br/> Les bons <span class="tl">pinceaulx</span> sont ceulx qui estant trempes<br/> dans l<span class="m">eau</span> ne font point de ventre si tu en trasses<br/> sur la <span class="bp">main</span>
  
  
   

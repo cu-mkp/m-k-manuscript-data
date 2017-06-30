@@ -8,14 +8,14 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [oil, jet, yellow ochre, lead white, sap-green, bistre, grain, umber, cristallin, soap, paper, gild, or mat, gold color, ceruse, minium, massicot, ochre, gold, water, glass, lake]
-tools: []
+materials: [oil, jet, yellow ochre, lead white, sap-green, bistre, distemper, orberégrain, umber, cristallin, soap, paper, gild, or mat, gold color, ceruse, minium, massicot, ochre, water, crushed glass, lake]
+tools: [Mirror, cristallin mirror, mirror, candle, pinceau]
 measurements: []
 bodyparts: []
 places: []
-plants: []
-professions: []
-environments: []
+plants: [orberégrain]
+professions: [painter]
+environments: [firelight]
 animals: []
 ---
 
@@ -25,12 +25,12 @@ animals: []
 ## Shadows
 
  
- Because blacks make in different colors, some a reddish black, others tend towards blue, and others towards green, choose those which tend towards yellow to make beautiful shadows in <span class="m">oil</span>, for shadow, especially that of men, is yellowish. And for this effect use very strongly crushed <span class="m">jet</span>, which you will mix with a little <span class="m">yellow ochre</span> & <span class="m">lead white</span>. Or else, after you have crushed your <span class="m">lead white</span> <span class="del">bro</span> and <span class="del">clean p</span> gathered it with the , crush the <span class="m">jet</span> into it. Thus it will be more desiccative, & making on its own a yellowish black. A little white mixed in renders it perfect for men's shadows. Blacks which make a greenish black are appropriate for women's shadows. Take, then, some black of , a little <span class="m">sap—green</span> & <span class="m">bistre</span>, & you will have a perfect shadow for women in distemper.
+ Because blacks make in different colors, some a reddish black, others tend towards blue, and others towards green, choose those which tend towards yellow to make beautiful shadows in <span class="m">oil</span>, for shadow, especially that of men, is yellowish. And for this effect use very strongly crushed <span class="m">jet</span>, which you will mix with a little <span class="m"><span class="add">yellow</span> ochre</span> & <span class="m">lead white</span>. Or else, after you have crushed your <span class="m">lead white</span> <span class="del">bro</span> and <span class="del">clean p</span> gathered it with the , crush the <span class="m">jet</span> into it. Thus it will be more desiccative, & making on its own a yellowish black. A little white mixed in renders it perfect for men's shadows. Blacks which make a greenish black are appropriate for women's shadows. Take, then, some black of , a little <span class="m">sap—green</span> & <span class="m">bistre</span>, & you will have a perfect shadow for women in <span class="m">distemper</span>.
  
 > *at left top margin*
 > 
 > 
->   The powder of orberé <span class="m">grain</span> is darker than <span class="m">umber</span> & when you lack <span class="m">umber</span>, the said powder will do, but it does not have body.
+>   The powder of <span class="m"><span class="pa">orberégrain</span></span> is darker than <span class="m">umber</span> & when you lack <span class="m">umber</span>, the said powder will do, but it does not have body.
  
  
   
@@ -46,10 +46,10 @@ You must know well the mixing of colors & the appropriate shadows, but above all
  
   
 
-## Mirror
+## <span class="tl">Mirror</span>
 
  
-When you make flesh colors, it is good to have a <span class="m">cristallin</span> mirror, which represents well after nature, and in which <span class="del">it</span> you will see if your shadows are soft enough or too crude. But do not look at it with a candle, for firelight will make the shadows reddish. The painter also teacher himself with the mirror, for he sees in it what the natural can do.
+When you make flesh colors, it is good to have a <span class="tl"><span class="m">cristallin</span> <span class="tl">mirror</span></span>, which represents well after nature, and in which <span class="del">it</span> you will see if your shadows are soft enough or too crude. But do not look at it with a <span class="tl">candle</span>, for <span class="env">firelight</span> will make the shadows reddish. The <span class="pro">painter</span> also teacher himself with the <span class="tl">mirror</span>, for he sees in it what the natural can do.
  
  
   
@@ -62,15 +62,15 @@ If some part remains shiny and does not seem dry after the layered colors have p
 > *at left middle margin*
 > 
 > 
->   One cannot layer <span class="m">oil</span> on cut <span class="m">paper</span> & model as in distemper because the colour would run. Thus, to <span class="m">gild</span> with <span class="m">or mat</span>, one needs to pounce & then layer the <span class="m">gold color</span> with the pinceau.
+>   One cannot layer <span class="m">oil</span> on cut <span class="m">paper</span> & model as in <span class="m">distemper</span> because the colour would run. Thus, to <span class="m">gild</span> with <span class="m">or mat</span>, one needs to pounce & then layer the <span class="m">gold color</span> with the <span class="tl">pinceau</span>.
  
 > *at left bottom margin*
 > 
 > 
->   All greasy colors, such as <span class="m">ceruse</span> and <span class="m">minium</span>, <span class="m">massicot</span>, <span class="m">ochre</span>, <span class="m">lead white</span> are good for making <span class="m">gold</span> color.
+>   All greasy colors, such as <span class="m">ceruse</span> and <span class="m">minium</span>, <span class="m">massicot</span>, <span class="m">ochre</span>, <span class="m">lead white</span> are good for making gold color.
  
 > *at left bottom margin*
 > 
 > 
->   Any color or thing that thickens when <span class="m">water</span> is put with it when it is being crushed has body. But those that lack it, such as crushed <span class="m">glass</span>, <span class="m">lake</span> & become clear.
+>   Any color or thing that thickens when <span class="m">water</span> is put with it when it is being crushed has body. But those that lack it, such as <span class="m">crushed glass</span>, <span class="m">lake</span> & become clear.
  

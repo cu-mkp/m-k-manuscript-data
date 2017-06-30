@@ -78,8 +78,10 @@ Il fault escorcher lanimal & le faire bouillir Ou bien<br/> lescorcher & le mect
 > 
 >  Les fleurs se gardent aussy en leur mesme beaulte dans le vinaigre distille <span class="del">v</span><span class="add">d</span>ans un vase<br/> bien selle qui ne prene aulcun vent qui soit bien selle de <span class="m">cire</span> & <span class="m">mastic</span> Les œillets & roses<br/> le residue du <span class="m">vinaigre</span> commu<span class="exp">n</span> les faict pourrir <br/> Si le sable faict poulssiere & tient<br/> sur les fleurs & quaisem<span class="exp">ent</span> avecq un<br/> pinceau il ne soste il nest pas bon<br/> Le plus maigre est le meilleur
  
+ 
+  
 
-** Garder fleurs seiches en mesme<br/> estat toute lannee **
+## Garder fleurs seiches en mesme<br/> estat toute lannee
 
  
 > *at right middle margin*

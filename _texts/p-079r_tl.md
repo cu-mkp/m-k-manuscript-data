@@ -8,13 +8,13 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [glue, bronze, tooth, gray wood, sandstone, iron, ironware, alum, currier's’ black, copperas, alung de glace, water, white copperas, fountain water, gold, natural sulphur, sal ammoniac, tin, quicksilver]
-tools: []
-measurements: []
+materials: [very clear glue, bronze, tooth of a wolf or dog, wood, sandstone powder, iron filings, ironware, alum, currier's’ black, copperas, alung de glace, water, white copperas, fountain water, calcined tin, natural sulphur, sal ammoniac, tin, quicksilver, drugs]
+tools: [spoon, mortar]
+measurements: [ounces]
 bodyparts: []
 places: []
 plants: []
-professions: []
+professions: [currier]
 environments: []
 animals: [wolf, dog]
 ---
@@ -23,15 +23,15 @@ animals: [wolf, dog]
  
 *[continued]*
   
-when you want to use some of it, mix it with very clear <span class="m">glue</span>, & then you will lay it on what you want two or three times, & then let it dry. But before laying it, lay down on it one layer of very clear <span class="m">glue</span>, & let it dry, & rub the said <span class="m">bronze</span> with a <span class="m">tooth</span> of a <span class="al">wolf</span> or <span class="al">dog</span>.
+when you want to use some of it, mix it with <span class="m">very clear glue</span>, & then you will lay it on what you want two or three times, & then let it dry. But before laying it, lay down on it one layer of <span class="m">very clear glue</span>, & let it dry, & rub the said <span class="m">bronze</span> with a <span class="m">tooth of a <span class="al">wolf</span> or <span class="al">dog</span></span>.
  
  
   
 
-## Making <span class="m">gray wood</span>
+## Making gray <span class="m">wood</span>
 
  
- Take some <span class="m">sandstone</span> powder, ___ ___ ___, <span class="m">iron</span> filings, <span class="m">ironware</span>, <span class="m">alum</span>, <span class="m">currier's’ black</span>, <span class="m">copperas</span>, & <span class="m">alung de glace</span>.
+ Take some <span class="m">sandstone powder</span>, ___ ___ ___, <span class="m">iron filings</span>, <span class="m">ironware</span>, <span class="m">alum</span>, <span class="m"><span class="pro">currier</span>'s’ black</span>, <span class="m">copperas</span>, & <span class="m">alung de glace</span>.
  
  
   
@@ -44,10 +44,10 @@ when you want to use some of it, mix it with very clear <span class="m">glue</sp
  
   
 
-## For making bronze in <span class="m">gold</span> color
+## For making <span class="m">bronze</span> in gold color
 
  
- Take six ounces of calcined tin & as much of <span class="m">natural sulphur</span> & six ounces of <span class="m">sal ammoniac</span>, and put the <span class="m">tin</span> to melt in a spoon. When it is melted, put in <span class="m">quicksilver</span>, and throw it in a line, then crush all these drugs together in a mortar, <span class="del">&</span>
+ Take six <span class="ms">ounces</span> of <span class="m">calcined tin</span> & as much of <span class="m">natural sulphur</span> & six <span class="ms">ounces</span> of <span class="m">sal ammoniac</span>, and put the <span class="m">tin</span> to melt in a <span class="tl">spoon</span>. When it is melted, put in <span class="m">quicksilver</span>, and throw it in a line, then crush all these <span class="m">drugs</span> together in a <span class="tl">mortar</span>, <span class="del">&</span>
  
 *[continued]*
  

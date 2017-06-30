@@ -8,9 +8,9 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [plomb, suye grise du fourneau des argentiers, chaulx vive, farine ana, suye grise des sarruriers, cuivre, feultre de chappeau brusle, mache de fer, os brusle, eau sel, paille, porphire, feultre brusle, plastre, os, feultre, Charbon de sarment, terre argille, glaire doeufs bien battue, vinaigre, ardoise subtillement pillee, pierre ponce calcinee, vernis, tuile peu cuitte broyee, vin blanc, papier de trasse noir brusle, fiente de cheval bruslee, glaire doeuf, papier de trasse brusle, charbon, Albastre calcine, albastre, sel armoniac, metal]
+materials: [plomb, suye grise du fourneau des argentiers, chaulx vive, farine, suye grise des sarruriers, cuivre, feultre de chappeau brusle, mache de fer, os brusle, eau sel, paille, porphire, feultre brusle, plastre, os, feultre, Charbon de sarment, terre argille, glaire doeufs bien battue, vinaigre, ardoise subtillement pillee, pierre ponce calcinee, vernis, tuile peu cuitte broyee, vin blanc, papier de trasse noir brusle, fiente de cheval bruslee, glaire doeuf, papier de trasse brusle, charbon, Albastre calcine, albastre, sel armoniac, metal]
 tools: [forge, porphire, tamisee, four, pot, crusol, double tamis, moule]
-measurements: [lb, ℥]
+measurements: [ana, lb, ℥]
 bodyparts: []
 places: []
 plants: [sarment]
@@ -25,7 +25,7 @@ animals: [cheval]
 ## Sable @pour le <span class="m">plomb</span>
 
  
-R<span class="exp">ecipe</span> <span class="m">suye grise du fourneau des <span class="pro">argentiers</span></span> <span class="m">chaulx vive</span> et<br/> <span class="m">farine ana</span> humecte selon lart estant le plus subtilie quil te sera<br/> possible
+R<span class="exp">ecipe</span> <span class="m">suye grise du fourneau des <span class="pro">argentiers</span></span> <span class="m">chaulx vive</span> et<br/> <span class="m">farine</span> <span class="ms">ana</span> humecte selon lart estant le plus subtilie quil te sera<br/> possible
  
 > *at left top margin*
 > 
