@@ -14,16 +14,16 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/117v_tc_preTEI.xml</String>
+                                    <String>xslt/mk_single_file.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>normalize-terms</String>
+                                        <String>mk_single_file</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
+                                        <String>XML</String>
                                     </list>
                                 </field>
                             </scenarioAssociation>
@@ -44,11 +44,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tl/</String>
+                                    <String>tc/117v_tc_preTEI.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>folio-to-md-tl</String>
+                                        <String>normalize-terms</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -59,16 +59,16 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xslt/mk_single_file.xsl</String>
+                                    <String>tl/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>mk_single_file</String>
+                                        <String>folio-to-md-tl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XML</String>
+                                        <String>XSL</String>
                                     </list>
                                 </field>
                             </scenarioAssociation>
