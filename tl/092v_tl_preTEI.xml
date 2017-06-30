@@ -4,10 +4,10 @@
 
 <div>
 <id>p092v_a1</id>
-<head><m>Sand</m> from <m>river tellins</m> and <m>mussels</m> from the river</head>
+<head><m>Sand from <env>river</env> <al>tellins</al> and <al>mussels</al></m></head>
 
 
-<ab> The long <m>shells</m> that can be found in <m>fresh river waters</m>, once calcined, makes an <x>impalpable</x> white sand</m>, which moulds very neatly.</ab>
+<ab> The long <m><al>shells</al></m> that can be found in <env>fresh river waters</env>, once calcined, makes an impalpable white sand, which moulds very neatly.</ab>
 
 
 </div>
@@ -16,20 +16,18 @@
 <head>Freezing  <m>mercury</m></head>
 
 
-<ab>It freezes, just as I tried, by boiling it one or two hours in a rather large <m>iron</m> posnet, putting in, for an <ms><figure>℥</figure></ms> of <m><figure>☿</figure></m>, ii  <ms><figure>℥</figure></ms> of  <m><fr>verdet</fr></m> <del>de</del> and  <m>vitriol</m> of <m>saltpetre</m>,<ms><gk>ana</gk></ms>, with sufficient quantity of old water from <pro><fr>mareschaulx</fr></pro></m>.</ab>
+<ab>It freezes, just as I tried, by boiling it one or two <ms><tmp>hours</tmp></ms> in a rather large <tl><m>iron</m> posnet</tl>, putting in, for an <ms><figure>℥</figure></ms> of <m><figure>☿</figure></m>, ii  <ms><figure>℥</figure></ms> of  <m><fr>verdet</fr></m> <del><fr>de</fr></del> and  <m>vitriol of saltpetre</m>, <ms><gk>ana</gk></ms>, with sufficient quantity of <m>old water from <pro><fr>mareschaulx</fr></pro></m>.</ab>
 
 
-<ab>Or else, melt 4 <ms><figure>℥</figure></ms> of <m>tin</m>, &amp; as it cools, purify it of its filth, which is on top, then, make a hole in it &amp; put in there i <ms><figure>℥</figure></ms> of <m><figure>☿</figure></m> &amp; it will come out like tin if you remelt it, but it will be breakable. And If you want to assay if it is <m>tin</m> or <m><figure>☿</figure></m>, redden a shovel &amp; put a small lump of your ingot on top. If it is <m>tin</m>, it will melt &amp; stay, but if it is <m><figure>☿</figure></m>,  will quickly melt, then when crackling well, it will evaporate. One ought to freeze it in a spoon or in a hollow crucible, &amp; make a moderately sized hole.</ab>
+<ab>Or else, melt 4 <ms><figure>℥</figure></ms> of <m>tin</m>, &amp; as it cools, purify it of its <m>filth</m>, which is on top, then, make a hole in it &amp; put in there i <ms><figure>℥</figure></ms> of <m><figure>☿</figure></m> &amp; it will come out like <m>tin</m> if you remelt it, but it will be breakable. And If you want to assay if it is <m>tin</m> or <m><figure>☿</figure></m>, redden a <tl>shovel</tl> &amp; put a small lump of your ingot on top. If it is <m>tin</m>, it will melt &amp; stay, but if it is <m><figure>☿</figure></m>,  will quickly melt, then when crackling well, it will evaporate. One ought to freeze it in a <tl>spoon</tl> or in a <tl>hollow crucible</tl>, &amp; make a moderately sized hole.</ab>
 
 
-<ab>It can also be frozen, as I assayed, in <m>aqua fortis</m> which beforehand will have eaten a little <m>silver</m>. This one, mixed, makes <m>tin</m> &amp; <m>lead</m> run.</ab>
+<ab>It can also be frozen, as I assayed, in <m><la>aqua fortis</la></m> which beforehand will have eaten a little <m>silver</m>. This one, mixed, makes <m>tin</m> &amp; <m>lead</m> run.</ab>
 
 
 </div>
 <div>
 <id>p092v_a3</id>
 <head>Mixture</head>
-
-
-<ab><m>Fine tin</m>, <m>frozen mercury</m> with the smell of tin, <m>looking glass tin</m>, <m>fine lead</m>, as much of one as the other, makes a substance that melts very quickly, but breakable &amp; white. I think that it would be good for solder. A long time to cool.</ab>
+<ab><m>Fine tin</m>, <m>frozen mercury</m> with the smell of <m>tin</m>, <m>looking glass tin</m>, <m>fine lead</m>, <ms>as much of one as the other</ms>, makes a substance that melts very quickly, but breakable &amp; white. I think that it would be good for <m>solder</m>. A long time to cool.</ab>
 </div></root>

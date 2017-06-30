@@ -1,14 +1,14 @@
-93|lb
-44|℥
+94|lb
+51|℥
 39|quintal
 37|moictie
-27|once
+28|once
 22|onces
+19|heures
 18|pan
+17|heure
 16|jours
-16|heure
 15|jour
-15|heures
 15|doigts
 12|pas
 12|partye
@@ -22,9 +22,11 @@
 4|quart
 4|poix
 4|pied
+4|grains
 4|carte
 4|aulne
 3|unces
+3|quarte partie
 3|pieds
 3|parties
 3|partie
@@ -38,7 +40,6 @@
 2|un bon quart dheure
 2|seau
 2|quintalz
-2|quarte partie
 2|poulsses
 2|poulces
 2|plusieurs jours
@@ -47,7 +48,6 @@
 2|pan de roy
 2|lignes
 2|gros
-2|grains
 2|grain
 2|gabions
 2|fois le jour
@@ -57,9 +57,11 @@
 2|demy
 2|boisseaulx
 2|aultant dun que dautre
+2|aultant dun que daultre
 2|ana
 2|
 1|œufs
+1||ʒ|
 1|verre
 1|une ou deux
 1|une nuict
@@ -228,7 +230,6 @@
 1|aultant quune grosse noix
 1|aultant que tu vouldras faire longue une cartuche
 1|aultant en une prise comme il en peult tenir en une quarte 
-1|aultant dun que daultre
 1|aultant
 1|asses chault comme quand
 1|ans

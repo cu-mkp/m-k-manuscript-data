@@ -10,13 +10,18 @@
 
 <div>
 <id>p002v_2</id>
-<head><add>@<m>esmeraldes<lb/>de Brissac</m></add></head>
-<ab>Jai prins <m>miniu<exp>m</exp></m> 26 <figure>℥</figure>@ <m><exp>christ</exp>al</m>@<add><ill/> et broie sur le <m>marbre</m></add> 12 <figure>℥</figure> <m>v<exp>er</exp>det</m> 3 <figure>|ʒ|</figure> Incorpores le tout ensemble<lb/>
-mis dans un <exp>crois</exp>et couvert d'un a<exp>ultr</exp>e bien lute qui ait un trou dans<lb/>
-le hault fuzion 7 heures sans soufler la mace a este dun beau<lb/>
+<head><add>@<m>esmeraldes<lb/>
+de <pl>Brissac</pl></m></add></head>
+
+
+<ab>Jai prins <m>miniu<exp>m</exp></m> 26 <ms><figure>℥</figure></ms>@ <m><exp>christ</exp>al</m>@<add><ill/> et broie sur le <tl><m>marbre</m></tl></add> 12 <ms><figure>℥</figure></ms> <m>v<exp>er</exp>det</m> 3 <ms><figure>|ʒ|</figure></ms> Incorpore<add>s</add> le tout ensemble<lb/>
+mis dans un <tl><exp>crois</exp>et couvert d'un a<exp>ultr</exp>e bien <m>lute</m> qui ai<add>t</add> un trou dans<lb/>
+le hault</tl> fuzion 7 <ms><tmp>heures</tmp></ms> sans soufler la mace a este dun beau<lb/>
 v<exp>er</exp>t</ab>
-<ab>Jai prins <m>miniu<exp>m</exp></m> 12 <figure>℥</figure> <m><exp>christ</exp>al</m> 6 <figure>℥</figure> <m>v<exp>er</exp>det</m> 2 grains fuzion doulce<lb/>
-vi heures recuicte 24 heures la mace a este de v<exp>er</exp>t Jaulne<lb/>
+
+
+<ab>Jai prins <m>miniu<exp>m</exp></m> 12 <ms><figure>℥</figure></ms> <m><exp>christ</exp>al</m> 6 <ms><figure>℥</figure></ms> <m>v<exp>er</exp>det</m> 2 <ms>grains</ms> fuzion doulce<lb/>
+vi <ms><tmp>heures</tmp></ms> recuicte 24 <ms><tmp>heures</tmp></ms> la mace a este de v<exp>er</exp>t Jaulne<lb/>
 &amp; rouge</ab>
 </div>
 
@@ -24,6 +29,6 @@ vi heures recuicte 24 heures la mace a este de v<exp>er</exp>t Jaulne<lb/>
 <div>
 <id>p002v_3</id>
 <head><m>safir</m></head>
-<ab><m>Caillous</m> ou <m><exp>christ</exp>al</m> 8 <figure>℥</figure> <m>miniu<exp>m</exp></m> 16 <figure>℥</figure> <m>sel de <pro>febvre</pro></m> 4 <figure>℥</figure><lb/>
-<m>coryal</m> <x>?</x> extincellent 4 grains fuzion 6 <x>?</x> heures</ab>
+<ab><m>Caillous</m> ou <m><exp>christ</exp>al</m> 8 <ms><figure>℥</figure></ms> <m>miniu<exp>m</exp></m> 16 <ms><figure>℥</figure></ms> <m>sel de <pro>febvre</pro></m> 4 <ms><figure>℥</figure></ms><lb/>
+<unc><m>coryal</m></unc> extincellent 4 <ms>grains</ms> fuzion <unc>6</unc> <ms><tmp>heures</tmp></ms></ab>
 </div></root>

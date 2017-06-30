@@ -2,7 +2,8 @@
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/xpath-functions" exclude-result-prefixes="#all" >
     <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
-    <xsl:param name="source_dir"/>
+    <xsl:param name="mode"/>
+    <xsl:param name="source_dir" select="concat('file:////Users/terry/Github/ms-xml//',$mode,'/')"/>
     <xsl:template match="/" name="it">
         <all>
         <xsl:variable name="folderURI" select="resolve-uri($source_dir)"/>
