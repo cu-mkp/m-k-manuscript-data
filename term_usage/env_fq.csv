@@ -1,15 +1,16 @@
 13|mine
+11|eau
 9|a la pluye
-8|eau
 6|cave
 6|au soleil
 5|garrigue
 4|vent
 4|lieu humide
+4|en terre
 4|en lieu humide
 3|soleil
 3|muraille
-3|en terre
+3|a lair
 2|terre
 2|temps humide
 2|sec
@@ -27,10 +28,11 @@
 2|au serain
 2|a lombre
 2|a lhumide
-2|a lair
 1|villes fortes
 1|villes
 1|ville
+1|vigne qui est bien haulte
+1|vigne
 1|vent dune fenestre
 1|veines de la montaigne
 1|terriers
@@ -58,12 +60,18 @@
 1|pierrerer
 1|piererie
 1|pays
+1|pailles
 1|ou sont les Maistres jures
 1|obscur
+1|nuit soict obscure
 1|nature
 1|montueulx
 1|montaigne
 1|mine de Thoulouse
+1|maison
+1|maigre &amp; seche
+1|maigre
+1|lumiere du foeu
 1|lieu mouille
 1|lieu clos
 1|lieu
@@ -77,15 +85,20 @@
 1|grandes cuisines
 1|gardemangers
 1|formillere
+1|fontaines
 1|expose au soleil
+1|escrevisses se nourrissent
 1|en un jardin
+1|en terre 
 1|en temps humide
 1|en lieu frais
 1|en lieu bien
 1|en lieu aire
 1|en lieu
+1|en la cave ou
 1|en la cave
 1|en hault
+1|eau ou les
 1|doulce
 1|descouvert
 1|de rochers
@@ -95,6 +108,7 @@
 1|dans de la terre fresche
 1|cuisines
 1|chemins sablonneulx
+1|cheminees des grandes cuisines
 1|cheminee
 1|chauld
 1|champs
@@ -108,8 +122,10 @@
 1|aulx territoires maigres
 1|aulx environs de toutes les bonnes villes
 1|aulx champs
+1|aultre lieu humide
 1|au soleil 
 1|au profond de la sablonniere
+1|au froid
 1|au froict
 1|au costau de puy david bien
 1|au
@@ -117,5 +133,6 @@
 1|air
 1|a la
 1|A lair
+1|&amp; ne fasse point de ☾
 1|&amp; humide
 1|

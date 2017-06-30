@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [bark, old wood, young wood, cuttlefish bone, bones, bone, rooftile, willow charcoal, fake bone, brick, metal, lead]
+materials: [bark, old wood, young wood, cuttlefish bone, bones, counter bone, willow charcoal, metal, lead]
 tools: []
 measurements: []
 bodyparts: []
@@ -39,7 +39,7 @@ One must use <span class="m">old wood</span> to graft, if one wants to graft on 
 ## Molding with <span class="m">cuttlefish bone</span>
 
  
-Pay attention to keep the <span class="m">bones</span> in a dry place, because they are very prone to dampness. If you have a small medal, divide the <span class="m">bone</span> into two pieces, then smooth the two parts with a knife. And on a dry, & smooth <span class="m">rooftile</span> & <span class="x">that has been</span> pulverized with <span class="m">willow charcoal</span>, rub & polish the two half <span class="m">bones</span>. In this way, the <span class="m">bones</span> soak up the <span class="m">willow charcoal</span> so that the <span class="m">bones</span> will come off cleanly from the cast, & will not stick to it. Then on a <span class="m">fake bone</span>, that is to say a bit of smooth <span class="m">brick</span> of the same width as your <span class="m">bone</span>, place your medal. & then on the medal, put your <span class="m">bone</span> & press it firmly with another stone of the same size. And for a second time, mold it, and instead smooth over the top with <span class="m">willow charcoal</span> & blow slowly, then press as before, and it will cast neatly. If it is for a spoon handle, two whole <span class="m">bones</span> are needed. Any work that is cast is brittle & prone to breaking, because the <span class="m">metal</span> swells when cast, & contracts & condenses when hammered. That is why it is necessary to retrace with a chisel the cast object & in this way the <span class="m">metal</span> will contract again and let it escrouir. If the piece you have to cast is in high relief, first trace the mold & the hollow with a penknife, to make a clear path for the medal & then cast it. And if the medal has two sides
+Guard against keeping them in a damp place, for they are well prone to getting moist. If your medal is small, cut the bone in two then even it out with a knife. And on a hooked rooftile, well dry &well smooth & covered with pulverized willow charcoal, rub & smooth the two half <span class="m">bones</span>. Thus they absorb this willow charcoal, which makes them release them, guard against removing anything. Then on a <span class="m">counter bone</span>, that is to say a lump of brick, smoothed to the size of your bone, place your medal, & then on this one, place the bone, & press well with some other piece of the same size above. And for the second time, mold it, but before, ponce on top with <span class="m">willow charcoal</span> & blow gently, then press as before, and it will come out neatly. If it is for a spoon handle, one needs two whole <span class="m">bones</span>. All cast work is brittle & subject to breaking, because the <span class="m">metal</span> expands when cast, & retracts & condenses when hammered. That is why, one ought to retraxe the cast thing with a chisel, & in this way the <span class="m">metal</span> retracts, and let it thus escrouir. If the piece for molding is of high relief, first trace the mold & the cavity with a penknife, to make a clear path for the medal & then cast it. And if the medal has two sides
  
 > *at left bottom margin*
 > 

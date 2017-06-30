@@ -69,8 +69,8 @@ Pourceque tu doibs tousjours faire ton gect par la queue<br/> Et quelle est si s
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5dWU4UEtpX0hBV0k" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  et<br/> apliques en avecq le <span class="tl"><span class="m">fil de fer</span></span> chault co<span class="exp">mm</span>e dict est un au bout<br/> de la queue & des aultres qui se raportent par mesme facon<br/> dun <span class="del">bort</span> <span class="add">coste</span> de queue a laultre co<span class="exp">mm</span>e tu vois despainct Mays advise<br/> de faire avecq le bout du <span class="tl"><span class="m">fil de fer</span></span> chault que le bout de la <span class="m">cire</span><br/> noccupe gueres sur lanimal car le sable du second gect ne toucheroit<br/> pas a ceste partye Mays fais que le bout de la <span class="m">cire</span> se renge<br/> seulem<span class="exp">ent</span> au bort du vuide du premier <span class="tl">moule</span> Fais aussy des conduicts<br/> de <span class="m">cire</span> aultour des pattes & aultour des contournemens du corps<br/> qui sont un peu longs & ilz serviront dabreuvoirs a la chose moulee<br/>
- 
 *[continued]*
+
  
 > *at right bottom margin*
 > 

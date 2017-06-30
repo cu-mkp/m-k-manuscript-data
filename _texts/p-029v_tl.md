@@ -16,7 +16,7 @@ places: []
 plants: [spike lavender, peas, hazelnuts]
 professions: [Apothecaries]
 environments: []
-animals: []
+animals: [Dragon, dragon]
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-029v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f64.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>029v</a> - - - - - </div>  
@@ -62,17 +62,17 @@ Ground <span class="m">terra emerita</span> with some <span class="m">saffron</s
  
   
 
-## <span class="m">Dragon's blood</span>
+## <span class="m"><span class="al">Dragon</span>'s blood</span>
 
  
 Take a well chosen tear of it which shows off its transparent red. And in a <span class="tl"><span class="m">glass</span> bottle</span> put the best <span class="m">eau de vie</span> you can find, in sufficient quantity. <span class="del">For it</span> And stopper it well and so quickly that it does not evanesce, otherwise it would be worth nothing. And leave it thus for <span class="ms">a long time</span>, because the longer it stays <span class="del">there</span>, the more beautiful & better it will be & it will dissolve if it is good, otherwise it will become like <span class="m">lees</span>. When you want to use it, make a small hole in the <span class="tl">stopper of the bottle</span> & pour a little & stopper it again each time, then apply it on <span class="m">gold</span>.
  
-The good kind of <span class="m">dragon's blood</span> can be found in large pieces like <span class="m">torteau</span><span class="add">this one has no value and is adulterated</span> & once broken it shows on its edges scales, transparent as <span class="del">ro</span> <span class="m">rouge clair enamel</span>, it is also lumpy in some parts like small <span class="m">rubies</span>. The <span class="m">eau de vie</span> nees to be very afrdent & passed several times.
+The good kind of <span class="m"><span class="al">dragon</span>'s blood</span> can be found in large pieces like <span class="m">torteau</span><span class="add">this one has no value and is adulterated</span> & once broken it shows on its edges scales, transparent as <span class="del">ro</span> <span class="m">rouge clair enamel</span>, it is also lumpy in some parts like small <span class="m">rubies</span>. The <span class="m">eau de vie</span> nees to be very afrdent & passed several times.
  
 > *at left bottom margin*
 > 
 > 
->   The darker <span class="m">dragon's blood</span> is the best & has more of a tint; the tear is found in <span class="del">gr</span> pieces like <span class="m"><span class="pa">peas</span></span> and large <span class="m"><span class="pa">hazelnuts</span></span> which look like 
+>   The darker <span class="m"><span class="al">dragon</span>'s blood</span> is the best & has more of a tint; the tear is found in <span class="del">gr</span> pieces like <span class="m"><span class="pa">peas</span></span> and large <span class="m"><span class="pa">hazelnuts</span></span> which look like 
 > *Figure*
 > *at right bottom margin*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5cXJfWVlSSGlKOGs" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
@@ -81,7 +81,7 @@ The good kind of <span class="m">dragon's blood</span> can be found in large pie
 > *at left bottom margin*
 > 
 > 
->   I put it in <span class="m">common eau de vie</span>, mixing in some <span class="m">aqua fortis</span> to give it strength. At the beginning the <span class="m">water</span> took on a slight tint, but at the end there was only an appearance of <span class="m">tragacanth gum</span> with which I think they adulterate the <span class="m">dragon's blood</span>.
+>   I put it in <span class="m">common eau de vie</span>, mixing in some <span class="m">aqua fortis</span> to give it strength. At the beginning the <span class="m">water</span> took on a slight tint, but at the end there was only an appearance of <span class="m">tragacanth gum</span> with which I think they adulterate the <span class="m"><span class="al">dragon</span>'s blood</span>.
  
 > *at left bottom margin*
 > 

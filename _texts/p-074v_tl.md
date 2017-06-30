@@ -8,8 +8,8 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [cloth, oil, red varnish, vermillion, gum water quite clear, yellow varnish, gum arabic, water, well beaten saffron, gum, varnish, wax, ceruse, pitch, wood, verdigris]
-tools: [cloth that is woven tight enough, palm]
+materials: [cloth, oil, red varnish, vermillion, gum water quite clear, yellow varnish, gum arabic, water, well beaten saffron, gum, varnish, white wax, ceruse, fine pitch, wood, green wax, verdigris]
+tools: [cloth that is woven tight enough, palm, pot]
 measurements: []
 bodyparts: [hands, palm]
 places: []
@@ -46,8 +46,8 @@ Take some <span class="m">gum arabic</span> & make it <span class="del">tr</span
 
 ## Recipe for white <span class="m">gum</span>
 
- & 
-Take white <span class="m">wax</span> & <span class="m">ceruse</span> & a little of fine <span class="m">pitch</span> very well pounded together, & put it in a small new pot & make it melt. And when it will be melted you will make a palette of <span class="m">wood</span> <span class="del">de</span><span class="add">&</span> burnish what you want. 
+ 
+Take <span class="m">white wax</span> & <span class="m">ceruse</span> & a little of <span class="m">fine pitch</span> very well pounded together, & put it in a small new <span class="tl">pot</span> & make it melt. And when it will be melted you will make a palette of <span class="m">wood</span> <span class="del">of</span> <span class="add">&</span> burnish what you want. 
  
  
   
@@ -55,5 +55,5 @@ Take white <span class="m">wax</span> & <span class="m">ceruse</span> & a little
 ## Green <span class="m">gum</span>
 
  
-Take green <span class="m">wax</span> with a little of <span class="m">verdigris</span> and make it melt as above. 
+Take <span class="m">green wax</span> with a little of <span class="m">verdigris</span> and make it melt as above. 
  

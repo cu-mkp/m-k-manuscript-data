@@ -11,12 +11,12 @@ des <pl>portugais</pl> nest pas nouvellem<corr><exp>ent</exp></corr> par eulx in
 ventent Au comancem<corr><exp>ent</exp></corr> du premier livre intitule <gk>Clio</gk> il dict<lb/>
 que les <pl>phoeniciens</pl> venoient de la <pl>mer rouge</pl> par continuelles<lb/>
 navigations en la coste de <pl>graece</pl> principalle<exp>ment</exp> a <pl>argos</pl> ou ilz<lb/>
-portoient des marchandises d<pl>aegipte</pl> &amp; d<pl>assyrie</pl> que co<exp>mmun</exp>em<corr><exp>ent</exp></corr><lb/>
+portoient des marchandises d<pl>aegipte</pl> &amp; d<pl>assyrie</pl> que co<exp>mmun</exp>em<x><exp>ent</exp></x><lb/>
 en six jours il avoient debite</ab>
  
-<ab>
+<man>
 <margin>left-top</margin>
-Navigatio<exp>n</exp><lb/>marchandise@</ab>
+Navigatio<exp>n</exp><lb/>marchandise</man>
 
 
 <ab><pl>Herodote</pl> au premier foeuillet de <gk>Clio</gk> dict que les <pl>grecs</pl> furent<lb/>
@@ -24,28 +24,28 @@ dans un long vaisseau en la coste de <pl>colchos</pl> &amp; au fleuve <pl>phasis
 ou ilz ravirent <pn>Medee</pn> </ab>
 
 
-<ab>
+<man>
 <margin>left-top</margin>
-Galeres@</ab>
+Galeres</man>
  
 <ab><pn>Herod<exp>ote</exp></pn> au 3 foeuillet dict que <pn>Gyges</pn> presenta au temple de <pl>delphe</pl><lb/>
 <la>pateras <m>aureas</m> sex pondo 30 <cn>talentorum</cn></la></ab>
 
 
-<ab>
+<man>
 <margin>left-middle</margin>
-Vases d<m>or</m> @</ab>
+Vases d<m>or</m></man>
 
 
-<ab><pn>Herod<exp>ote</exp></pn>. <pn>Halyattes</pn> pere de <pn>croesus</pn> <la>pateram ex <m>ferro</m><lb/>
+<ab><pn>Herod<exp>ote</exp></pn>. <pn>Halyattes</pn> pere de <pn>croesus</pn> <la><rub>pateram ex <m>ferro</m><lb/>
 compactilem apud <pl>delphos</pl> dedicavit spectatu dignam<lb/>
 inter omnia quae sunt <pl>delphis</pl> donaria opus <pn>Glauci<lb/>
-Chii</pn> qui solus omnium compactionem <m>ferri</m> excogitavit@<lb/>
+Chii</pn> qui solus omnium compactionem <m>ferri</m> excogitavit</rub><lb/>
 compactile <m>ferrum</m></la> qui est fait dassemblage &amp; choses raportees</ab>
  
-<ab>
+<man>
 <margin>left-middle</margin>
-Vase de <m>fer</m><lb/>raporte et soulde @</ab>
+Vase de <m>fer</m><lb/>raporte et soulde</man>
 
 
 <ab>
@@ -56,22 +56,24 @@ boutique pour <del>avoyr en</del> recepvoir en commu<exp>n</exp> commerce des l<
 beaucoup plus rares secrets des benevoles lecteurs</ab>
 <figure/>
 </div>
+
+
 <div>
 <id>p162r_2</id>
-<head><la><m>Aes ustum</m></la></head>
+<head><m><la>Aes ustum</la></m></head>
 
 
 <ab>Estant pulverise subtillem<exp>ent</exp> il moule tresnet &amp; ha une<lb/>
-certaine <m>graisse</m> qui luy donne liaison  <figure>|</figure> plus quau <m>Crocum</m><lb/>
+certaine <m>graisse</m> qui luy donne liaison  <figure>|</figure> plus quau <m><la>Crocum</la></m><lb/>
 &amp; croy quil ne seroit point mal propre au gect</ab>
  
 </div>
 <div>
 <id>p162r_3</id>
-<head><pa>Boys</pa> pourry</head>
+<head><m>Boys</m> pourry</head>
 
 
-<ab>Celuy qui est blanc leger comme une esponge estant brusle<lb/>
-a foeu clos peult servir en chassis pour le <m>plomb</m> et moule<lb/>
+<ab><m>Celuy qui est blanc leger comme une esponge estant brusle</m><lb/>
+a foeu clos peult servir en <tl>chassis</tl> pour le <m>plomb</m> et moule<lb/>
 fort net Mays telles choses nendurent pas le foeu</ab>
 </div></root>

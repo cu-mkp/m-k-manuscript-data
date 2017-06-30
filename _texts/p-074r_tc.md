@@ -8,8 +8,8 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [estaing de Glace, eaue de gomme, mabre, vernilhon, souffre, mercure, plombe, verny, huille de lin, terre, croute de pin, ognions, charbon, colle farine, sandrax bien pilles, mastic & arrabeic deux onces de chascun qui soit bien broye tous deux, mastic, arrabeic, alung daraucqde Roc, arabic]
-tools: [pot de terre, cuilliere]
+materials: [bronzer, estaing de Glace, eaue de gomme, mabre, vernilhon, souffre, mercure, plombe, verny, huille de lin, terre, croute de pin, ognions, charbon, colle farine, sandrax bien pilles, mastic & arrabeic deux onces de chascun qui soit bien broye tous deux, mastic, arrabeic, alung daraucqde Roc, arabic]
+tools: [mortier, mabre, pot de terre, cuilliere]
 measurements: [livre, heures, demy once, onces]
 bodyparts: []
 places: []
@@ -22,10 +22,10 @@ animals: []
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-074r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f153.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>074r</a> - - - - - </div>  
   
 
-## Pour bronzer blanc
+## Pour <span class="m">bronzer</span> blanc
 
  
-Prenes de l<span class="m">estaing de Glace</span> & le mectes destremper dedans<br/> de l<span class="m">eaue de gomme</span> & le pilles dedans ung mortier Et appres<br/> vous le mectres dessus le <span class="m">mabre</span>
+Prenes de l<span class="m">estaing de Glace</span> & le mectes destremper dedans<br/> de l<span class="m">eaue de gomme</span> & le pilles dedans ung <span class="tl">mortier</span> Et appres<br/> vous le mectres dessus le <span class="tl"><span class="m">mabre</span></span>
  
  
   

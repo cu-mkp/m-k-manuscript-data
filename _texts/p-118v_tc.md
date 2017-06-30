@@ -20,12 +20,9 @@ animals: []
 ---
 
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-118v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f242.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>118v</a> - - - - - </div>  
-> *at left top margin*
-> 
-> 
->   
+  
 
-** Gect en <span class="tl">chassis</span> **
+## Gect en <span class="tl">chassis</span>
 
  
 Le mesme sable qui ha servi aulx noyaulx recuits composes<br/> co<span class="exp">mm</span>e dict est de <span class="m">plastre</span> <span class="m">brique</span> & <span class="m">alum de plume</span> est excellent pour<br/> jecter en <span class="tl">chassis</span> Et lay ainsy experimente Jay pile les lopins<br/> qui estoient provenus des <span class="m">moules de noyau</span> dans un <span class="tl">mortier</span> en traina<span class="exp">n</span>t<br/> le <span class="tl">pilon</span> pource que ce sable est fort doulx Je ne lay poinct passe<br/> par le <span class="tl">tamis</span> pource que l<span class="m">alum de plume</span> mesle parmy qui donne<br/> liaison ny passeroit pas Mays jay subtilie sur le <span class="tl"><span class="m">mabre</span></span> ce<br/> qui me sembloit trop grossier Et layant ainsy præpare Je lay<br/> humecte avec de l<span class="m">eau de sel armoniac</span> faicte d<span class="ms">aussy gros<br/> de <span class="m">sel armoniac</span> co<span class="exp">mm</span>e deulx <span class="pa">noix</span></span> dans une <span class="tl">bouteille</span> d<span class="m">eau commune</span><br/> de telle grandeur quune bouteille dans laquelle on faict bouillir<br/> de la ptisane ou dans un bon <span class="tl">pot</span> d<span class="m">eau</span> Que tu trouves <span class="del">d</span>l<span class="m">eau<br/> mediocrement salee</span> Jay mesle parmy <span class="del">leau de</span> demy <span class="ms">verre</span> de<br/> <span class="m">sel armoniac</span> <span class="del">deulx ault</span> deulx <span class="del">au t</span> <span class="ms"><span class="tl">cueillerees d<span class="m">argent</span></span></span> d<span class="m">eau de<br/> vye</span> <span class="del">Ja</span>Ayant ainsy humecte le sable de facon quil faisoict bonne<br/> prise sesmiant touteffois aisement Jay saulpouldre ma medaille<br/> avecq du <span class="m">charbon pulverise</span> avecq une <span class="tl">lime</span> pour la desgraisser<br/> d<span class="m">huile</span> & tout aultre <span class="m">graisse</span> quil fault bien eviter car cela <span class="del">feroit</span><br/> garderoit de bien despouiller Jay soufle ma medaille & lay moulee <span class="add">Et<br/> la femelle du <span class="tl">chassis</span> estant remplye</span><br/> Jay marque & faict une ligne sur le revers <span class="del">de la</span> & bort de la<br/> medaille & sur le sable prochain aussy Affin que le second<br/> <span class="tl">chassis</span> <span class="del">sem</span> prene empraincte la dessus pour denoter la place<br/> pour faire le gect <span class="del">Ayant remply</span> <span class="del">la femelle du <span class="tl">chassis</span> esta<span class="exp">n</span>t<br/> remplye</span> Jay descouvert le contour de la medaille Et ay ponce<br/> de <span class="m">charbon pulverise</span> tout ce coste Et puys ay remply le masle<br/> de sable <span class="del">Ayant fai</span> Jay separe le <span class="tl">chassis</span> Et nay poinct<br/> frappe aulx coings de la <span class="del">d</span> medaille pour la faire despouiller<br/> pource que cela estonne le sable & le faict <span class="del">esp</span> esmier Ains jay<br/> frappe au revers du <span class="tl">chassis</span> tenant lendroit de la medaille en<br/> bas Et elle ha moule fort net Si elle neust ainsy despouille<br/> jeusse attendu de loster jusques a ce que les <span class="tl">chassis</span> fussent<br/> 
@@ -37,7 +34,12 @@ Le mesme sable qui ha servi aulx noyaulx recuits composes<br/> co<span class="ex
 > 
 > 
 >  Pour mieulx il fault recuire le<br/> sable qui ha servi au noyau<br/> plustost que sen<br/> servir en <span class="tl">chassis</span><br/> jusques a ce quil ne se<br/> retire plus
-  Excellent sable 
+ 
+> *at left top margin*
+> 
+> 
+> Excellent sable
+ 
 Ayes un peu du<br/> mesme sable le plus<br/> subtil que tu pourras<br/> pour en couvrir la<br/> medaille
  
 > *at left middle margin*

@@ -28,9 +28,9 @@ animals: []
 Fais luy embrasser la quenoille du lict ou chose semblable<br/> & que du mesme bras il tienne le <span class="bp">doigt</span> au <span class="bp">front</span>
  
  
-  X
+  
 
-## Gaiger a quelqu<span class="del">le</span>un que se promenant<br/> jusques a tel lieu et en revenir il ne<br/> dira point quattre fois de suite botte sa<span class="exp">n</span>s espero<span class="exp">n</span>
+## XGaiger a quelqu<span class="del">le</span>un que se promenant<br/> jusques a tel lieu et en revenir il ne<br/> dira point quattre fois de suite botte sa<span class="exp">n</span>s espero<span class="exp">n</span>
 
  
 Sil sessaye de le dirdir<span class="del">a</span>e <span class="add">mays il fault quil parle hault</span> quand il sera alle & revenu tu luy<br/> Xdiras quil ha perdu pourcequil falloit quil dict quattre foys<br/> botte sans dire esperon car ta gageure est telle

@@ -16,7 +16,7 @@ places: []
 plants: [artichaulx, abres, abre]
 professions: []
 environments: []
-animals: []
+animals: [dragon]
 ---
 
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-038v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f82.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>038v</a> - - - - - </div>  
@@ -33,7 +33,7 @@ P<span class="exp">rens</span> <span class="m">lessive de chaulx vive</span> & <
 ## Contre seignee du <span class="bp">nes</span><br/> et pour taincture
 
  
-Pile de ceste espece de <span class="m">vinete</span> ou <span class="m">lapathum acutum</span> qui est vene<br/> de rouge quon appelle <span class="m">sang de dragon</span> Et laplique <span class="del">de</span> sur le<br/> <span class="bp">front</span> de celuy qui seigne Ceste herbe a force taincture & faict<br/> beau violet
+Pile de ceste espece de <span class="m">vinete</span> ou <span class="m">lapathum acutum</span> qui est vene<br/> de rouge quon appelle <span class="m">sang de <span class="al">dragon</span></span> Et laplique <span class="del">de</span> sur le<br/> <span class="bp">front</span> de celuy qui seigne Ceste herbe a force taincture & faict<br/> beau violet
  
  
   

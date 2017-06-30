@@ -47,7 +47,12 @@ Il fault piler tes materiaulx en un <span class="tl">mortier</span> de <span cla
 > *at left middle margin*
 > 
 > 
->    <span class="tl">Mortier</span><br/> de <span class="m">verre</span><br/> et <span class="tl">table</span><br/> de <span class="m">verre</span><br/> abroyer 
+>    
+> *at left middle margin*
+> 
+> 
+> <span class="tl">Mortier</span><br/> de <span class="m">verre</span><br/> et <span class="tl">table</span><br/> de <span class="m">verre</span><br/> abroyer
+ 
  
   
 

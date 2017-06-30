@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [huile, geiete, ocre jaulne, blanc de plomb, geiette, verd de vessie, bistre, bled orbere, terre dombre, cristalin, savon, papier, or, or couleurs, ceruse, minium, massicot, ocre, or couleur, eau, verre, laque]
+materials: [huile, geiete, ocre jaulne, blanc de plomb, geiette, verd de vessie, bistre, bled orbere, terre dombre, cristalin, savon, papier, or, or couleur, ceruse, minium, massicot, ocre, eau, verre, laque]
 tools: []
 measurements: []
 bodyparts: []
@@ -25,7 +25,7 @@ animals: []
 ## Umbres
 
  
-Pourceque les noirs font diverses couleurs les uns un noir rougeastre<br/> les aultres tirant sur le bleu aultres sur le vert Choisis ceulx<br/> qui retirent sur le jaulne pour faire beaulx umbres a <span class="m">huile</span> Car<br/> lumbre mesmem<span class="exp">ent</span> des hommes est jaulnastre Et pour cet effect use<br/> de la <span class="m">geiete</span> broyee bien fort laquelle tu mesleras dun peu d<span class="m">ocre <span class="add">jaulne</span></span> & de<br/> <span class="m">blanc de plomb</span> Ou bien apres que tu as broye ton <span class="m">blanc de plomb</span><br/> <span class="del">bro</span> et <span class="del">nettoye p</span> ramasse avecq la  broyes y la <span class="m">geiette</span> Ainsy il<br/> sera plus desiccatif & faisant de soy mesme un noir jaulnastre<br/> le peu de blanc mesle le rendra parfaict pour umbre dhomme<br/> Les noirs qui font un noir verdastre sont propres pour lOmbre<br/> des femmes Prens doncq du noir de <span class="x">missing word</span> un peu de <span class="m">verd de<br/> vessie</span> & du <span class="m">bistre</span> & tu auras un parfaict umbre de femme a destrempe
+Pourceque les noirs font diverses couleurs les uns un noir rougeastre<br/> les aultres tirant sur le bleu aultres sur le vert Choisis ceulx<br/> qui retirent sur le jaulne pour faire beaulx umbres a <span class="m">huile</span> Car<br/> lumbre mesmem<span class="exp">ent</span> des hommes est jaulnastre Et pour cet effect use<br/> de la <span class="m">geiete</span> broyee bien fort laquelle tu mesleras dun peu d<span class="m">ocre <span class="add">jaulne</span></span> & de<br/> <span class="m">blanc de plomb</span> Ou bien apres que tu as broye ton <span class="m">blanc de plomb</span><br/> <span class="del">bro</span> et <span class="del">nettoye p</span> ramasse avecq la  broyes y la <span class="m">geiette</span> Ainsy il<br/> sera plus desiccatif & faisant de soy mesme un noir jaulnastre<br/> le peu de blanc mesle le rendra parfaict pour umbre dhomme<br/> Les noirs qui font un noir verdastre sont propres pour lOmbre<br/> des femmes Prens doncq du noir de  un peu de <span class="m">verd de<br/> vessie</span> & du <span class="m">bistre</span> & tu auras un parfaict umbre de femme a destrempe
  
 > *at left top margin*
 > 
@@ -62,7 +62,7 @@ Si apres que les couleurs couchees sont imbeues il reste quelque<br/> partye lui
 > *at left middle margin*
 > 
 > 
->   On ne peult<br/> point coucher<br/> a <span class="m">huile</span> sur un<br/> <span class="m">papier</span> coupe<br/> & patronner<br/> co<span class="exp">mm</span>e a destrempe<br/> Car la couleur<br/> couleroit Ainsy<br/> pour dorer d<span class="m">or</span> mat<br/> il fault poncer &<br/> puys coucher l<span class="m">or couleurs</span><br/> avecq le pinceau
+>   On ne peult<br/> point coucher<br/> a <span class="m">huile</span> sur un<br/> <span class="m">papier</span> coupe<br/> & patronner<br/> co<span class="exp">mm</span>e a destrempe<br/> Car la couleur<br/> couleroit Ainsy<br/> pour dorer d<span class="m">or</span> mat<br/> il fault poncer &<br/> puys coucher l<span class="m">or couleur</span><br/> avecq le pinceau.
  
 > *at left bottom margin*
 > 

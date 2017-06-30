@@ -8,13 +8,13 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [sand, water, soiled, coarse grains, troubled water, porphyry, salts,, burned cloth,, felt, paper ashes, Potters' clay, salt water, wood, soil]
+materials: [porphyry, Terre fondue, water, salt water, wood, soil]
 tools: []
 measurements: []
 bodyparts: []
 places: []
 plants: []
-professions: [Potter]
+professions: [Potters]
 environments: []
 animals: []
 ---
@@ -23,15 +23,15 @@ animals: []
  
 *[continued]*
   
-and will be good & will mold cleanly. Because the <span class="m">sand</span> is coarse and dry, filter it through a sieve. If it is not fine enough, wash it. & when the <span class="m">water</span> has settled a little, pour the <span class="m">soiled</span> <span class="m">water</span> into another pot. The <span class="m">coarse grains</span> will quickly fall to the bottom of the first pot. But the <span class="m">sand</span> from the <span class="m">troubled water</span> pot, having settled, will be much finer. If this <span class="m">sand</span> does not bind enough, dry crush it on the <span class="m">porphyry</span>, & thus making it impalpable, & it will bind as chalk does. If you wish you can reheat it, & straight after crush it & blend it with <span class="m">salts,</span> or <span class="m">burned cloth,</span> or <span class="m">felt</span>, or <span class="m">paper ashes</span>, & similar material.
+good & proper for molding. For if it is big, pass it through a sieve, and if it is not yet fine enough, wash it, & when the water will be a little rested, empty the one which is still troubled in some separate vessel. The big ones will fall down quickly to the bottom of the first vessel, but the one which will have come from the troubled water, placed separately, having taken residence, will be very fine. And then, if it does not have enough bond, grind it well dry on <span class="m">porphyry</span>, & you will render it impalpable, & which will have bond just like chalk. Then, if it seems to need it, you will reheat it, & will crush it again & mix it with salts, or linen, <span class="add">or</span> burned felt or ashes of paper & similarly washed things.
  
  
   
 
-## <span class="m"><span class="pro">Potter</span>s' clay</span>
+## <span class="m">Terre fondue</span> of <span class="pro">Potters</span>
 
  
-Grind it in a <span class="del">mortar</span> mustard mill with <span class="m">water</span>, <span class="sup">&</span> it will become as impalpable as possible. Dry it, & then moisten it with <span class="m">salt water</span>, which give force to <span class="del"></span> all sands in order to allow several castings.
+Grind it in a <span class="del">mortar</span> mustard mill with some <span class="m">water</span>, & and render it impalpable, dry it & next moisten it with <span class="m">salt water</span>, which gives strength to <span class="del">u</span> all sands to withstands several casts.
  
  
   

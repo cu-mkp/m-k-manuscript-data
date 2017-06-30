@@ -8,14 +8,14 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [latten, sand, carton, Sand]
-tools: []
+materials: [latten, copper, metal, carton, earth, fine casting sand, Sand from Thoulouse, the one which is found in a vineyard near Puy David, the one is from Touch, near Sainct Michel & near Blagnac, in a vineyard that is high up]
+tools: [frame, crucible, bellows furnace, four à vent, mold, carton, finger]
 measurements: []
-bodyparts: []
-places: [Thoulouse, Touch, Sainct Michel, Blagnac]
+bodyparts: [finger]
+places: [Thoulouse, Puy David, Touch, Sainct Michel, Blagnac]
 plants: []
-professions: [founder, Founders]
-environments: []
+professions: [founders, Founders]
+environments: [vineyard, vineyard that is high up]
 animals: []
 ---
 
@@ -23,25 +23,25 @@ animals: []
  
 *[continued]*
   
-In order to mold well, one ought in a big frame several medals together, for when there is a lot of substance, & the crucible is almost full, it heats more, & then, if one medal does not come out well, the other will be good.
+In order to mold well, one ought in a big <span class="tl">frame</span> several medals together, for when there is a lot of substance, & the <span class="tl">crucible</span> is almost full, it heats more, & then, if one medal does not come out well, the other will be good.
  
-It is better to melt in a bellows furnace than in a four à vent, because it gives a more vigorous heat. It is true that <span class="m">latten</span> melts well in the four à vent, because it is easier to melt than copper, being more brittle.
+It is better to melt in a <span class="tl">bellows furnace</span> than in a <span class="tl">four à vent</span>, because it gives a more vigorous heat. It is true that <span class="m">latten</span> melts well in the <span class="tl">four à vent</span>, because it is easier to melt than <span class="m">copper</span>, being more brittle.
  
-Some of the <span class="pro">founder</span>s have this superstition, that only three days a week are good for melting, namely Tuesdays, <span class="del">Wednesdays</span> Thursdays, and Saturdays. The others, for them, are unlucky.
+Some of the <span class="pro">founders</span> have this superstition, that only <span class="tmp">three days a week</span> are good for melting, namely <span class="tmp">Tuesdays</span>, <span class="del"><span class="tmp">Wednesdays</span></span> <span class="tmp">Thursdays</span>, and <span class="tmp">Saturdays</span>. The others, for them, are unlucky.
  
-When you mold, do not knock excessively on the medal, which is in the <span class="m">sand</span>, because it prevents it from releasing very neatly, & shakes loose the mold.
+When you mold, do not knock excessively on the medal, which is in the sand, because it prevents it from releasing very neatly, & shakes loose the <span class="tl">mold</span>.
  
-Take heed also that the <span class="m">sand</span> does not surpass the edges of the frame, for it makes the molded medal higher than the cast, & in this way, metal will never enter the mold. Therefore, always make sure that the surface of your casted object directly lines up with the mold, and to make this effect, if you wish, put a lump of <span class="m">carton</span> of whatever thickness you wish.
+Take heed also that the sand does not surpass the edges of the <span class="tl">frame</span>, for it makes the molded medal higher than the cast, & in this way, <span class="m">metal</span> will never enter the mold. Therefore, always make sure that the surface of your casted object directly lines up with the <span class="tl">mold</span>, and to make this effect, if you wish, put a lump of <span class="tl"><span class="m">carton</span></span> of whatever thickness you wish.
  
-<span class="pro">Founders</span>, in order to prevent their large cast works from becoming porous, are careful to well reheat their molds. And to know if they have been reheated enough, they knock against it with their finger, & if they ring like a pot, then they are.
+<span class="pro">Founders</span>, in order to prevent their large cast works from becoming porous, are careful to well reheat their molds. And to know if they have been reheated enough, they knock against it with their <span class="tl"><span class="bp">finger</span></span>, & if they <span class="sn">ring</span> like a pot, then they are.
  
-To cast their canons neatly, they mix their earth with some fine casting <span class="m">sand</span>, if they can get any.
+To cast their canons neatly, they mix their <span class="m">earth</span> with some <span class="m">fine casting sand</span>, if they can get any.
  
  
   
 
-## <span class="m">Sand</span> from <span class="pl">Thoulouse</span>
+## <span class="m">Sand from <span class="pl">Thoulouse</span></span>
 
  
-<span class="del"></span>The usual <span class="del">bo</span> good one is the one which is found in a vineyard near Puy David, but the one which is most excellent is the one is from <span class="pl">Touch</span>, near <span class="pl">Sainct Michel</span> & near <span class="pl">Blagnac</span>, in a vineyard that is high up. The latter is thinner, & a little fatter than the other, & better for small works. It does not want to be too reheated.
+The usual <span class="del">bo</span> good one is <span class="m">the one which is found in a <span class="env">vineyard</span> near <span class="pl">Puy David</span></span>, but the one which is most excellent is <span class="m">the one is from <span class="pl">Touch</span>, near <span class="pl">Sainct Michel</span> & near <span class="pl">Blagnac</span>, in a <span class="env">vineyard that is high up</span></span>. The latter is thinner, & a little fatter than the other, & better for small works. It does not want to be too reheated.
  

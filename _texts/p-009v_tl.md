@@ -36,7 +36,7 @@ They completely melt <span class="m">orpiment</span> in a <span class="tl"><span
 The order that <span class="pro">merchants</span> are accustomed to keep in their books, which are the waste book, the sales book, and the ledger, also called the account book.
  
  
- 
+  
 Waste book
  
 First, François du Cros owes from 2 September 1581, for 1 canne of <span class="m">batiste</span> at 8 livres per canne, total —— 8 livres tournois

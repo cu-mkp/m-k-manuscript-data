@@ -52,15 +52,15 @@ Attache au bout dun <span class="tl">baston</span> du <span class="m">foye</span
 Silz couchent aulx pailles co<span class="exp">mm</span>e ilz font co<span class="exp">mmun</span>em<span class="exp">ent</span> pres<br/> de la maison Laisses la plus proche fenestre ouverte<br/> & i mectes de la <span class="tl">chandelle</span> allumee Mays que la <span class="tl">chandelle</span><br/> soit cachee & que sa lueur seulement paroisse par la<br/> chambre & par la fenestre Et touls @ sencofreront dans<br/> la chambre Mays il fault que la nuit soict obscure<br/> & ne fasse point de ☾
  
  
-> *at left top margin*
-> 
-> 
->   
+  
 
-** Prendre oiseaulx **
+## Prendre oiseaulx
 
  
 En hyver lors que les oiseaulx ont mue escorche les & les<br/> remplis de <span class="m">toile</span> de <span class="m">bourre</span> <span class="del">&</span> <span class="add">ou bien</span> @seiche les au <span class="tl">four</span> # Puys<br/> disposes les sur les <span class="pa">abres</span> & en ayes quelquun qui chante<br/> & en assembleras & prendras force
-  @
-au <span class="tl">four</span> qui<br/> ne soict gueres<br/> chault <span class="del">Lhiver</span><br/> Et @ leste cela<br/> faict pource que<br/> plustost quilz<br/> ne fussent secs la <span class="al">mouche</span> se mectroit dans les yeulx <span class="add">et feroit des <span class="al">vers</span></span> @ lhiver il sacoustrent<br/> mieulx & se seichent eulx mesmes
+ 
+> *at left top margin*
+> 
+> 
+> @au <span class="tl">four</span> qui<br/> ne soict gueres<br/> chault <span class="del">Lhiver</span><br/> Et @ leste cela<br/> faict pource que<br/> plustost quilz<br/> ne fussent secs la <span class="al">mouche</span> se mectroit dans les yeulx <span class="add">et feroit des <span class="al">vers</span></span> @ lhiver il sacoustrent<br/> mieulx & se seichent eulx mesmes
  

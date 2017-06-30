@@ -39,10 +39,8 @@ Que quand les premieres fleurs tombent <span class="del">les suiv</span> & se pe
  
  
   
-I
- 
 
-## Hantes
+## <span class="del">I</span>Hantes
 
  
 Il ne fault pas que le greffe soict de <span class="m">vieulx bois</span> car il nest<br/> jamais bel abre

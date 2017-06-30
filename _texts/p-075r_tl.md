@@ -8,9 +8,9 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [gum, red wax, Bronze, copper, verdet, clear glue, wood, pin filings, marble, water, tin, looking-glass tin, quicksilver, glue, clear water, aqua fortis, vinegar, verdigris, copperas, solle, gold, saltpetre, ammonia salt]
-tools: []
-measurements: []
+materials: [gum, red wax, vermillion, resins resin pitch, Bronze, copper, verdet, clear glue, wood, pin filings, marble, water, tin, looking-glass tin, quicksilver, quickaiantsilver, glue, clear water, aqua fortis, vinegar, verdigris, copperas, solle, gold, saltpetre, ammonia salt]
+tools: [marble, pot]
+measurements: [ounces]
 bodyparts: []
 places: []
 plants: []
@@ -25,7 +25,7 @@ animals: []
 ## Red <span class="m">gum</span>
 
  
- Take <span class="m">red wax</span>, vermillion, & a little of <span class="add">resin</span> pitch, as above.
+ Take <span class="m">red wax</span>, <span class="m">vermillion</span>, & a little of <span class="m"><span class="del">resins</span> <span class="add">resin</span> pitch</span>, as above.
  
  
   
@@ -33,7 +33,7 @@ animals: []
 ## <span class="m">Bronze</span> of <span class="m">copper</span>
 
  
- Take some <span class="add"><span class="m">verdet</span></span> & <span class="m">clear glue</span>, & grind it together. Then make a layer on your <span class="m">wood</span>, and take <span class="m">pin filings</span>, and grind it on <span class="m">marble</span> with <span class="m">water</span>, then pour it on the <span class="m">wood</span> & polish it with <span class="m">copper</span>.
+ Take <span class="del">da</span> some <span class="m">verdet</span> & <span class="m">clear glue</span>, & grind it together. Then make a layer on your <span class="m">wood</span>, and take <span class="m">pin filings</span>, and grind it on <span class="tl"><span class="m">marble</span></span> with <span class="m">water</span>, then pour it on the <span class="m">wood</span> & polish it with <span class="m">copper</span>.
  
  
   
@@ -41,7 +41,7 @@ animals: []
 ## <span class="m">Bronze</span> like <span class="m">tin</span>
 
  
- Take <span class="m">looking—glass tin</span>, two ounces of <span class="m">quicksilver</span>, & melt the <span class="m">looking—glass tin</span> into a new pot. And <span class="add">whenever</span> it is all melted, put in the <span class="del"></span> <span class="m">quick<span class="add">silver</span></span>, & remove it from the fire, & let the said <span class="m">glue</span> dry. Then take a piece of <span class="m">tin</span> & burnish it on <span class="m">marble</span> with <span class="m">clear water</span>, and then coat it on the <span class="m">wood</span>, and polish it with a piece of <span class="m">tin</span>.
+ Take <span class="m">looking—glass tin</span>, two <span class="ms">ounces</span> of <span class="m">quicksilver</span>, & melt the <span class="m">looking—glass tin</span> into a new <span class="tl">pot</span>. And <span class="del">difiant</span> <span class="add">whenever</span> it is all melted, put in the <span class="del"></span> <span class="m">quick<span class="del">aiant</span><span class="add">silver</span></span>, & remove it from the fire, & let the said <span class="m">glue</span> dry. Then take a piece of <span class="m">tin</span> & burnish it on <span class="tl"><span class="m">marble</span></span> with <span class="m">clear water</span>, and then coat it on the <span class="m">wood</span>, and polish it with a piece of <span class="m">tin</span>.
  
  
   

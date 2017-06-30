@@ -16,7 +16,7 @@ places: [acre]
 plants: []
 professions: []
 environments: []
-animals: []
+animals: [dragon]
 ---
 
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-102v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f210.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>102v</a> - - - - - </div>  
@@ -25,7 +25,7 @@ animals: []
 ## Paindre sur <span class="m">cristal</span> ou <span class="m">verre</span>
 
  
-Ils peignent sans traicts a <span class="m">huile</span> si ce nest aulx visaiges<br/> ou ilz marquent le nez & la bouche en petit ouvraige avecq du<br/> noir puys ilz font les touches & rehaulsements de blanc<br/> apres ilz couchent tout de <span class="m">carnation</span> Et quand aul fonds ilz<br/> le font d<span class="m">azur d<span class="pl">acre</span></span> pour plus beau ou de <span class="m">laque</span> pour rouge<br/> plus tost faict ou de <span class="m">sang de dragon</span> pour le plus beau<br/> mays il le fault coucher peu a peu affin quil se monstre uny<br/> & tout dune couleur & ainsy des aultres couleurs Apres<br/> ilz mectent dessoubs une foeille de <span class="m">topasse</span> ou une d<span class="m">or</span><br/> ou d<span class="m">argent</span>
+Ils peignent sans traicts a <span class="m">huile</span> si ce nest aulx visaiges<br/> ou ilz marquent le nez & la bouche en petit ouvraige avecq du<br/> noir puys ilz font les touches & rehaulsements de blanc<br/> apres ilz couchent tout de <span class="m">carnation</span> Et quand aul fonds ilz<br/> le font d<span class="m">azur d<span class="pl">acre</span></span> pour plus beau ou de <span class="m">laque</span> pour rouge<br/> plus tost faict ou de <span class="m">sang de <span class="al">dragon</span></span> pour le plus beau<br/> mays il le fault coucher peu a peu affin quil se monstre uny<br/> & tout dune couleur & ainsy des aultres couleurs Apres<br/> ilz mectent dessoubs une foeille de <span class="m">topasse</span> ou une d<span class="m">or</span><br/> ou d<span class="m">argent</span>
  
  
   

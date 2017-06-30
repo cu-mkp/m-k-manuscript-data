@@ -60,7 +60,7 @@ The hardest <span class="m">plaster</span>, as was said, is the best, being take
 > *at left top margin*
 > 
 > 
->   <span class="m">Plaster </span>When you have it in stone form, choose the hardest pieces and those which do not easily break into small pieces with your nail, and clean it well of powder & filth rather than crushing them with it.
+>   <span class="m">Plaster</span> When you have it in stone form, choose the hardest pieces and those which do not easily break into small pieces with your nail, and clean it well of powder & filth rather than crushing them with it.
  
 > *at left middle margin*
 > 

@@ -24,11 +24,11 @@ animals: []
 @Practica cioe nova inventione<br/>di contegiare stampata in <span class="pl">brescia</span><br/>per vincenzo sabio
  
  
-  <span class="add">
+  
 
-## @<span class="m">esmeraldes<br/>de Brissac</span>
+## <span class="add">@<span class="m">esmeraldes<br/>de Brissac</span></span>
 
-</span> 
+ 
 Jai prins <span class="m">miniu<span class="exp">m</span></span> 26 ℥@ <span class="m"><span class="exp">christ</span>al</span>@<span class="add"><span class="ill"></span> et broie sur le <span class="m">marbre</span></span> 12 ℥ <span class="m">v<span class="exp">er</span>det</span> 3 |ʒ| Incorpores le tout ensemble<br/> mis dans un <span class="exp">crois</span>et couvert d'un a<span class="exp">ultr</span>e bien lute qui ait un trou dans<br/> le hault fuzion 7 heures sans soufler la mace a este dun beau<br/> v<span class="exp">er</span>t
  
 Jai prins <span class="m">miniu<span class="exp">m</span></span> 12 ℥ <span class="m"><span class="exp">christ</span>al</span> 6 ℥ <span class="m">v<span class="exp">er</span>det</span> 2 grains fuzion doulce<br/> vi heures recuicte 24 heures la mace a este de v<span class="exp">er</span>t Jaulne<br/> & rouge

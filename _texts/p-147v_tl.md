@@ -22,9 +22,9 @@ animals: []
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-147v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f300.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>147v</a> - - - - - </div>  
  
 *[continued]*
-  \+ 
+  
 
-## Casting with <span class="m">copper</span> alloyed with <span class="m">☾</span>, which is like very low <span class="m">solder</span> and ard<span class="x">...</span>es and <span class="m">old K</span> and some Re out of xii
+## \+Casting with <span class="m">copper</span> alloyed with <span class="m">☾</span>, which is like very low <span class="m">solder</span> and ard<span class="x">...</span>es and <span class="m">old K</span> and some Re out of xii
 
  
 I have cast the cleanest I have ever seen, making very small figures as thin as paper. I have cast extremely hot in the very red mold, and have put into the melted mixture the two compositions which makes <span class="m">silver</span> runny, and have done as if I wanted to throw with <span class="m">pure silver</span>. This <span class="m">league</span> is white when it boils, as with every other alloy which contains even just a small bit of <span class="m">silver</span>. To cast something very delicate, use this.

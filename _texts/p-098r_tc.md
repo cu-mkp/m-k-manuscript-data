@@ -16,7 +16,7 @@ places: []
 plants: [aspic, rosmarin, linge]
 professions: [Sarrurier, plombeurs]
 environments: []
-animals: [lesard]
+animals: [dragon, lesard]
 ---
 
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-098r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f201.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>098r</a> - - - - - </div>  
@@ -25,7 +25,7 @@ animals: [lesard]
 ## <span class="m">Vernis</span> pour les luts
 
  
-Ils prenent un peu de <span class="m">tormentine</span> & <span class="m">huile de tormentine ou d<span class="pa">aspic</span></span> & de<br/> l<span class="m">ambre pulverise</span> & passe fort subtillem<span class="exp">ent</span> & font co<span class="exp">mm</span>e celuy de <span class="m">mastic</span> & y<br/> adjoustent pour le colorer un peu de <span class="m">sang de dragon</span> pour le faire<br/> rougeastre Et aultres de la <span class="m">terra merita</span> pour iaulne
+Ils prenent un peu de <span class="m">tormentine</span> & <span class="m">huile de tormentine ou d<span class="pa">aspic</span></span> & de<br/> l<span class="m">ambre pulverise</span> & passe fort subtillem<span class="exp">ent</span> & font co<span class="exp">mm</span>e celuy de <span class="m">mastic</span> & y<br/> adjoustent pour le colorer un peu de <span class="m">sang de <span class="al">dragon</span></span> pour le faire<br/> rougeastre Et aultres de la <span class="m">terra merita</span> pour iaulne
  
  
   

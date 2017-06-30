@@ -7,10 +7,10 @@
 6|lorraine
 6|florence
 5|allemans
+5|Thoulouse
 4|thoulouse
 4|flamens
 4|allemands
-4|Thoulouse
 4|France
 3|montpellier
 3|lyon
@@ -37,6 +37,7 @@
 1|turquie
 1|turcs
 1|toulouse
+1|touch
 1|tholose
 1|serment
 1|sainct Jacques de la
@@ -45,6 +46,7 @@
 1|romme
 1|rhodés
 1|rheim
+1|puy
 1|portugal
 1|portugais
 1|phoeniciens
@@ -65,6 +67,7 @@
 1|lorrain
 1|lombardie
 1|levantins
+1|levant
 1|languedoc
 1|langlois
 1|la rochelle
@@ -83,6 +86,7 @@
 1|delphos
 1|delphis
 1|delphe
+1|david
 1|daulphine
 1|coustance
 1|colchos
@@ -96,6 +100,7 @@
 1|bonnes villes
 1|bolvenes
 1|bolvene
+1|blagnac
 1|bayonne
 1|aurignac
 1|auraigne
@@ -105,7 +110,6 @@
 1|armen
 1|argos
 1|argel
-1|allemand
 1|albigeois
 1|aegipte
 1|Tyanee
@@ -113,6 +117,7 @@
 1|Syracuse
 1|Siciliens
 1|Saint denis
+1|Sainct Michel
 1|Sainct Antonin
 1|Romae
 1|Ox
@@ -129,10 +134,12 @@
 1|Cataloigne
 1|Cardonne
 1|Carcassonne
+1|Capitale
 1|Auguste
 1|Argel
 1|Anglois
 1|Allemands
+1|Allemand
 1|Alby
 1|Aegiptiens
 1|

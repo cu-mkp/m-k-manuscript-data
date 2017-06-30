@@ -40,10 +40,12 @@ animals: [Tortues, Celles deau, celles de garrigue, celles deau, tortue]
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5emg1MXZLREtSRk0" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
  
+ 
 > *at left bottom margin*
 > 
 > 
->   yeulx<br/> danimaulx<br/> de mon<br/> invention 
+> yeulx<br/> danimaulx<br/> de mon<br/> invention
+ 
  
 > *at left bottom margin*
 > 

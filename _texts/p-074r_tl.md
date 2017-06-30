@@ -8,8 +8,8 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [looking-glass tin, gum water, marble, vermillion, sulphur, mercury, leaded, vermillon, varnish, linseed oil, earthen, crust of bread, onions, charcoal, colle farine, well-pounded sandarac, mastic & arrabeic, two ounces each, which will both be well ground, mastic, arrabeic, d’araucq rock alum, arabic]
-tools: [earthen pot, spoon]
+materials: [bronzing, looking-glass tin, gum water, marble, vermillion, sulphur, mercury, leaded, vermillon, varnish, linseed oil, earthen, crust of bread, onions, charcoal, colle farine, well-pounded sandarac, mastic & arrabeic, two ounces each, which will both be well ground, mastic, arrabeic, d’araucq rock alum, arabic]
+tools: [mortar, marble, earthen pot, spoon]
 measurements: [pound, hours, half an ounce, ounces]
 bodyparts: []
 places: []
@@ -22,10 +22,10 @@ animals: []
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-074r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f153.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>074r</a> - - - - - </div>  
   
 
-## For bronzing white
+## For <span class="m">bronzing</span> white
 
  
-Take <span class="m">looking—glass tin</span> & put it to soak in <span class="m">gum water</span> & pound it in a mortar. And next, you will put it on <span class="m">marble</span>.
+Take <span class="m">looking—glass tin</span> & put it to soak in <span class="m">gum water</span> & pound it in a <span class="tl">mortar</span>. And next, you will put it on <span class="tl"><span class="m">marble</span></span>.
  
  
   

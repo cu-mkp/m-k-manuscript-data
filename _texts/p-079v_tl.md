@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [earthenware, ashes, varnish, mastic, sang daRage darac, gum arabic, spike lavender oil, glue quite clear, metals, toast, butter, antimony, pig's bladder, Tin, common tin, fine lead, tin, fine tin, latten, metal scrapings, iron, lead]
+materials: [earthen, ashes, varnish, mastic, sang daRage darac, gum arabic, spike lavender oil, glue quite clear, metals, toast, butter, antimony, pig's bladder, Tin, common tin, fine lead, tin, fine tin, latten, metal scrapings, iron, lead]
 tools: []
 measurements: [lb, quintal]
 bodyparts: []
@@ -23,7 +23,7 @@ animals: [pig]
  
 *[continued]*
   
-and put in an <span class="m">earthenware</span>pot, and <span class="sup">make it</span> that very hot <span class="m">ashes</span> are underneath. Little by little, make the fire underneath grow bigger and bigger, and the pot must not be moved. And when it is cooked, and if it takes up to six hours, mind that the smoke does not make you ill because it is bad.
+and put it into an <span class="m">earthen</span>pot, & it should have many hot <span class="m">ashes</span> underneath, & little by little you will make the fire underneath bigger and bigger, & one ought not move it, & when it will be cooked, & it needs to be for six hours, mind that the smoke does not harm you for it is bad.
 
  
   

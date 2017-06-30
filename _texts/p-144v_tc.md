@@ -51,10 +51,12 @@ estant ainsy disposee & bien nettoyee avecq les <span class="tl">broisses</span>
 > 
 >   \+ Sil y a du <span class="m">crocum</span><br/> dans le sable les<br/> joinctures des<br/> <span class="tl">molles</span> ne se<br/> cognoissent presque<br/> point
  
+ 
 > *at bottom margin*
 > 
 > 
->  @ Tourne au second foeillet. 
+> @Tourne au second foeillet.
+ 
  
 *[continued]*
  

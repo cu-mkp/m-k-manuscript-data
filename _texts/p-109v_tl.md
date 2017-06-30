@@ -23,7 +23,7 @@ animals: []
  
 *[continued]*
   
-when they want to bite or to eat something, they <span class="x">snakes</span> do not go at it head on, but sideways and by sinuous coiling, as do Satan and his henchmen. The snake has a small head, but a very large body; the entryway to sin seems small and inconsequential, but the consequences are great indeed. A snake can abstain from eating for seven or eight days, once he has swallowed a frog, and can swallow three or four frogs, one after the other, and what it has devoured does not rot and is not digested all at once in its stomach, but each part little by little, i.e. the bones and everything. The rest is just as fresh as when the snake ate it, such that when one bothers and torments it, it spits out what it swallowed up, which, in part, is totally digested, with the other part as fresh as if the frog were alive. It can hold a swallowed frog down for two or three hours and spit it out alive.
+when they want to bite or to eat something, they <span class="x">snakes</span> do not go at it head on, but sideways & by sinuous coiling, as do Satan & his henchmen. The snake has a small head, but a very large body; the entryway to sin seems small & inconsequential, but the consequences are great indeed. A snake can abstain from eating for seven or eight days, once he has swallowed a frog, and can swallow three or four frogs, one after the other, and what it has devoured does not rot & is not digested all at once in its stomach, but each part little by little, i.e. the bones and everything. The rest is just as fresh as when the snake ate it, such that when one bothers & torments it, it spits out what it swallowed up, which, in part, is totally digested, & with the other part as fresh as if the frog were alive. It can hold a swallowed frog down for two or three hours & spit it out alive.
  
  
   
@@ -31,7 +31,7 @@ when they want to bite or to eat something, they <span class="x">snakes</span> d
 ## Toad
 
  
-If by chance you want to mold this ugly animal and if it should piss in your hand, it will sting your hand and cause it to itch, as if you had been holding nettles. But the very best remedy for this is to put your hand into fresh <span class="m">dirt</span>, and to cover it as if you wanted to bury it. Frogs are not so beautiful when molded because they have shiny skin, and toads have lumpy skin.
+If by chance you want to mold this ugly animal & if it should piss in your hand, it will sting your hand & cause it to itch, as if you had been holding nettles. But the very best remedy for this is to put your hand into fresh <span class="m">dirt</span>, & to cover it as if you wanted to bury it. Frogs are not so beautiful when molded because they have shiny skin, & toads have lumpy skin.
  
 > *at left middle margin*
 > 
@@ -41,7 +41,7 @@ If by chance you want to mold this ugly animal and if it should piss in your han
 > *at right middle margin*
 > 
 > 
->   If it is big, mold hollow, and if you want to mold it with its mouth open, put some <span class="m">cotton</span> therein, and then put some melted <span class="m">wax</span> on the <span class="m">cotton</span>.
+>   If it is big, mold hollow, & if you want to mold it with its mouth open, put some <span class="m">cotton</span> therein, & then put some melted <span class="m">wax</span> on the <span class="m">cotton</span>.
  
  
   
@@ -49,10 +49,10 @@ If by chance you want to mold this ugly animal and if it should piss in your han
 ## Killing snakes for molding
 
  
-Some put a drop of <span class="m">aqua fortis</span> into their mouths, which stupefies them, so that the head and the body look dead. But the head is still alive, and when you stick it with a needle in order to fix it to your mold, it moves and spoils and undoes everything. Therefore, to kill your snake, put it into a bottle filled with good <span class="m">vinegar</span> and some <span class="m">spirits</span>. Do the same with lizards and other similar animals.
+Some put a drop of <span class="m">aqua fortis</span> into their mouths, which stupefies them, so that the head & the body look dead. But the head is still alive, and when you stick it with a needle in order to fix it to your mold, it moves & spoils & undoes everything. Therefore, to kill your snake, put it into a bottle filled with good <span class="m">vinegar</span> & some <span class="m">spirits</span>. Do the same with lizards & other similar animals.
  
 > *at left bottom margin*
 > 
 > 
->   If you want to keep them, you can put them in a pipe full of <span class="m">dirt</span> in a garden outdoors, but it is necessary that the pipe be covered with <span class="m">latten wire</span>, because otherwise, the snakes will crawl and climb up quite high.
+>   If you want to keep them, you can put them in a pipe full of <span class="m">dirt</span> in a garden outdoors, but it is necessary that the pipe be covered with <span class="m">latten wire</span>, because otherwise, the snakes will crawl & climb up quite high.
  

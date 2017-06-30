@@ -8,9 +8,9 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [sulphur, wood, Wood, white vinegar, rock alum, leaded, manure, old urine, madder, urine, alum, sal ammoniac, woad, fustet]
+materials: [wood, white vinegar, alun de glace, leaded, dung heap, old urine, madder, alung de glace, urine, alum, sal ammoniac, pastel flowers, lake, woad, fustet]
 tools: []
-measurements: []
+measurements: [dram]
 bodyparts: []
 places: []
 plants: []
@@ -23,45 +23,45 @@ animals: []
  
 *[continued]*
   
-<span class="sup"><span class="m">sulphur</span></span>. Cover the aforementioned <span class="m">wood</span> with this powder, until it cools, and bring it back to a boil. Upon boiling one will see whether or not it is black enough. If it is not, take the aforementioned powder and apply some over the <span class="m">wood</span> and boil it.
+if you cannot find it, and cover the said <span class="m">wood</span> with this powder, until it is cool, & you will make it boil again, & boiling it, one will see if it is black enough or not. If it is not enough, you take the said powder & put it on the said <span class="m">wood</span> while boiling.
  
  
   
 
-## Making <span class="m">Wood</span> Green
+## For making <span class="m">wood</span> green
 
  
- Take one quart of <span class="m">white vinegar</span>, one ounce of green, and one ounce of <span class="m">rock alum</span>. Mix them together and pour all your ingredients into a <span class="m">leaded</span> pot over fire without taking any air. Then put the pot in <span class="m">manure</span> for 15 days, after which time you shall remove and boil your materials for three hours.
+ One needs to take one quart of <span class="m">white vinegar</span> & one ounce of green & one ounce of <span class="m">alun de glace</span>, all mixed together, and you will put your substances into a <span class="m">leaded</span> pot over the fire without taking air, &then put the pot in a<span class="m">dung heap</span> for fifteen days, and once it is out, you will boil your substances for the space of three hours.
  
  
   
 
-## Making <span class="m">Wood</span> Red
+## For making <span class="m">wood</span> red
 
  
- Take one quart of <span class="m">old urine</span>, three ounces of <span class="m">madder</span>, and one ounce of <span class="m">rock alum</span>, put all of the ingredients into your pot. Then follow the previously described green technique.
+ Take one quart of <span class="m">old urine</span> and three ounces of <span class="m">madder</span> & one ounce of <span class="m">alung de glace</span>, and you will put all in your pot, & and do as with green.
  
  
   
 
-## Making <span class="m">Wood</span> Blue
+## For making it blue
 
  
- Take one quart of <span class="m">urine</span>, as above, one ounce of <span class="m">alum</span>, and two drams of <span class="m">sal ammoniac</span>, and half an ounce of <span class="m">woad</span>, grind it all to powder. Then follow the previously described green technique.
+ Take one quart of <span class="m">urine</span> as above and one ounce of <span class="m">alum</span> & two <span class="ms">dram</span>s of <span class="m">sal ammoniac</span> & half an ounce of <span class="m">pastel flowers</span>, the whole made into powder, and do as with green.
  
  
   
 
-## For <span class="sup">Making</span> Purple <span class="m">Wood</span>
+## For making it violet 
 
  
- Take one quart of <span class="m">urine</span> and one ounce of <span class="m">alum</span> and ten drams of <span class="m">sal ammoniac</span> and one <span class="sup">dram</span> of lacquer, then do as previously described.
+ Take one quart of <span class="m">urine</span> & one ounce of <span class="m">alum</span> & two drams of <span class="m">sal ammoniac</span> & one of <span class="m">lake</span>, & do as above.
  
  
   
 
-## For <span class="sup">Making</span> Yellow <span class="m">Wood</span>
+## For making it yellow
 
  
- Take urine, as above, and two ounces of <span class="m">woad</span>, one ounce of <span class="m">fustet</span> and two <span class="del">ounces</span>drams of <span class="m">sal ammoniac</span>, then do as previously described.
+ Take urine as above and two ounces of <span class="m">woad</span> & one ounce of <span class="m">fustet</span> and two <span class="del">ounces</span> drams of <span class="m">sal ammoniac</span>, & do as above.
  

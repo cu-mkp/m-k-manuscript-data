@@ -16,7 +16,7 @@ places: []
 plants: []
 professions: []
 environments: []
-animals: []
+animals: [dragon]
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-038v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f82.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>038v</a> - - - - - </div>  
@@ -33,7 +33,7 @@ Take <span class="m">lye made from quicklime</span> and <span class="m">white le
 ## Against nose bleeding and for dyeing
 
  
-Pound some of the kind of <span class="m">vinete</span> or <span class="m">lapathum acutum</span> that is red—veined, which is called <span class="m">dragon's blood</span>, and apply it on the bleeding person's forehead. This herb is a strong dye & makes beautiful violet.
+Pound some of the kind of <span class="m">vinete</span> or <span class="m">lapathum acutum</span> that is red—veined, which is called <span class="m"><span class="al">dragon</span>'s blood</span>, and apply it on the bleeding person's forehead. This herb is a strong dye & makes beautiful violet.
  
  
   

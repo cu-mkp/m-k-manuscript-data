@@ -16,7 +16,7 @@ places: []
 plants: [spike lavender, linen]
 professions: [Locksmith, Leadsmiths]
 environments: []
-animals: [lizard]
+animals: [dragon, lizard]
 ---
 
 .<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-098r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f201.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>098r</a> - - - - - </div>  
@@ -25,7 +25,7 @@ animals: [lizard]
 ## <span class="m">Varnish</span> for lutes
 
  
-They take a little <span class="m">turpentine</span> & <span class="m">oil of turpentine or of <span class="pa">spike lavender</span></span> & <span class="m">amber pulverized</span> & passed very subtly & make as that of <span class="m">mastic</span>, & add in to color it a little <span class="m">dragon's blood</span> and make it reddish, and others some <span class="m">terra merita</span> for yellow.
+They take a little <span class="m">turpentine</span> & <span class="m">oil of turpentine or of <span class="pa">spike lavender</span></span> & <span class="m">amber pulverized</span> & passed very subtly & make as that of <span class="m">mastic</span>, & add in to color it a little <span class="m"><span class="al">dragon</span>'s blood</span> and make it reddish, and others some <span class="m">terra merita</span> for yellow.
  
  
   

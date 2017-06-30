@@ -33,17 +33,15 @@ Volontiers les corniches pelues quelle ha dessoubs<br/> le bec <span class="del"
 >  Nespargne point<br/> les pointes pour en<br/> mectre non seulem<span class="exp">ent</span><br/> au milieu du corps<br/> Mays au pates<br/> grosses Et a la<br/> queue deulx ou trois<br/> selon le plant que<br/> tu luy vouldras<br/> donnas @
  
  
-> *at left middle margin*
-> 
-> 
->   
+  
 
-** <span class="m">Crocum</span> **
+## <span class="m">Crocum</span>
 
  
 Celuy qui est rouille de soy mesme estant arrouse<br/> d<span class="m">eau</span> <span class="m">sel</span> ou <span class="m">vinaigre</span> ou <span class="m">urine</span> et puys <span class="add">fort</span> @ deseche<br/> <span class="add">et rougy au foeu</span> @ est fort rouge broye sur le <span class="m">porphire</span> et est de<br/> couleur de bol de levant & aprochant du <span class="m">minium</span><br/> Mays celuy qui est arrouse d<span class="m">urine</span> & deseche<br/> adquiert plus haulte taincture & aproche a l<span class="m">aes ustum</span><br/> broye ou au <span class="m">vermeillon</span> Mays le premier subtilem<span class="exp">ent</span><br/> broye adquiert une vive couleur rouge <span class="del">dans le</span> co<span class="exp">mm</span>e<br/> <span class="m">cinabre</span> dans l<span class="m">eau de vye</span> Et les uns et les aultres<br/> prepares co<span class="exp">mm</span>e dict est et subtilies & rendus fort<br/> chaults rendent une fumee rouge co<span class="exp">mm</span>e un esprit<br/> volatil si estants ainsy chaults et subtils on gecte<br/> dessus du <span class="m">vinaigre</span> <span class="m">urine</span> ou <span class="m">eau de vye</span> L<span class="m">urine</span><br/> donne beaucoup de taincture Et l<span class="m">eau de vye</span> aussy
-  
+ 
 > *Figure*
+> *at left middle margin*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5anJvd0FQQ3BkRFE" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
  

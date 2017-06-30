@@ -27,10 +27,12 @@ animals: []
  
 Moule les a deulx ou trois gects Qui estant recuit souvrira<br/> & il te sera plus aise a retirer le <span class="m">charbon</span> de dedans
  
+ 
 > *at left top margin*
 > 
 > 
->   Essay
+> Essay
+
  
  
   
@@ -67,7 +69,12 @@ Les figures de <span class="m">cire</span> composee de <span class="m">ceruse</s
 > *at left bottom margin*
 > 
 > 
->   \+ Nota La <span class="m">cire blanche</span><br/> est plus delicate<br/> que laultre &<br/> ne laisse point<br/> de <span class="m">crasse</span> quand<br/> tu veulx faire<br/> noyau et mouler<br/> creulx
+>   \+ 
+> *at left bottom margin*
+> 
+> 
+> Nota
+ La <span class="m">cire blanche</span><br/> est plus delicate<br/> que laultre &<br/> ne laisse point<br/> de <span class="m">crasse</span> quand<br/> tu veulx faire<br/> noyau et mouler<br/> creulx
  
 *[continued]*
  

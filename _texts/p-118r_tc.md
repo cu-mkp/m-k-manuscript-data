@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [eau fort, nacre de perle, plastre, cendre, seps de vigne, stuf, charbon, estain, letton, papier, verre, liege, parchemin chaufe, corail blanc, bois, estain de glace, marchasites, terre, colle, mines, marchasites sulfurees, rosette, Estaim de glace, estaim fin, estaim de glace, Sel armoniac, Eau de sel armoniac, or, argent]
+materials: [eau fort, nacre de perle, plastre, cendre, seps de vigne, stuf, charbon, estaim, letton, papier, verre, liege, parchemin chaufe, corail blanc, bois, estaim de glace, marchasites, terre, colle, mines, marchasites sulfurees, estain de glace, rosette, Estaim de glace, estaim fin, Sel armoniac, Eau de sel armoniac, or, argent]
 tools: [moules, presses, tables, vaisseau, burin, chaple, ciseau, marteau]
 measurements: [once, ℥, lb]
 bodyparts: []
@@ -33,7 +33,7 @@ animals: [Escargots, Ceulx qui se trouvent dans la mer, ceulx dans lesquels cert
 ## Pour oster les baves ou barbes<br/> des choses moulées à noyau
 
  
-Si tes <span class="tl">moules</span> sont de bon <span class="m">plastre</span> qui soustienent bien le foeu <span class="del">&</span><br/> ilz ne se fendront point Mesmement si avecq des <span class="tl">presses</span> ilz sont bien<br/> serres entre deulx <span class="tl">tables</span> Ou dans ung <span class="tl">vaisseau</span> plein de <span class="m">cendre</span> ou<br/> sable & par ainsy ne feront poinct de baves Mays sils en font tu les<br/> peulx oster avecq un <span class="tl">burin</span> quon appelle <span class="tl">chaple</span> qui ha le bout co<span class="exp">mm</span>e un petit<br/> <span class="tl">ciseau</span>
+Si tes <span class="tl">moules</span> sont de bon <span class="m">plastre</span> qui soubstienent bien le foeu <span class="del">&</span><br/> ilz ne se fendront point Mesmement si avecq des <span class="tl">presses</span> ilz sont bien<br/> serres entre deulx <span class="tl">tables</span> Ou dans ung <span class="tl">vaisseau</span> plein de <span class="m">cendre</span> ou<br/> sable & par ainsy ne feront poinct de baves Mays sils en font tu les<br/> peulx oster avecq un <span class="tl">burin</span> quon appelle <span class="tl">chaple</span> qui ha le bout co<span class="exp">mm</span>e un petit<br/> <span class="tl">ciseau</span>
  
 > *at left middle margin*
 > 
@@ -46,7 +46,7 @@ Si tes <span class="tl">moules</span> sont de bon <span class="m">plastre</span>
 ## Pour grottes
 
  
-Les pierres faictes deau appellees <span class="m">stuf</span> Le <span class="m">charbon</span> La composition<br/> d<span class="m">estain</span> & de <span class="m">letton</span> fin Le <span class="m">papier</span> pille & mesle de <span class="m">verre</span> pille Le <span class="m">liege</span><br/> Le <span class="m">parchemin chaufe</span> le <span class="m">corail blanc</span> sont propres pour faire grottes<br/> Mays les lopins de <span class="m">bois</span> fantasque qui se trouvent parmy les<br/> forests & les funges & potirons des arbres estant secs sont<br/> meilleurs que tout pourcequilz sont legers On y mesle de petits<br/> lopins d<span class="m">estain de glace</span> qui ha une lueur esclatante On y pile<br/> menu diverse sorte de <span class="m">marchasites</span> quon lave pour les purifier<br/> de la <span class="m">terre</span> & on en saulpouldre louvrage qui est tresbeau<br/> Sil ny ha point de fontaine en la grotte On colle tout <span class="del"><span class="ill"></span></span> cela<br/> de <span class="m">colle</span> forte <span class="del">qu</span> et est bien tost faict <span class="add">@Ayes montrer de toutes sortes<br/> de <span class="m">mines</span> Les <span class="m">marchasites sulfurees</span> qui nont point de grain mays<br/> sont unies comme l<span class="m">estain de glace</span> sont tresbelles</span>
+Les pierres faictes deau appellees <span class="m">stuf</span> Le <span class="m">charbon</span> La composition<br/> d<span class="m">estaim</span> & de <span class="m">letton</span> fin Le <span class="m">papier</span> pille & mesle de <span class="m">verre</span> pille Le <span class="m">liege</span><br/> Le <span class="m">parchemin chaufe</span> le <span class="m">corail blanc</span> sont propres pour faire grottes<br/> Mays les lopins de <span class="m">bois</span> fantasques qui se trouvent parmy les<br/> forests & les funges & potirons des arbres estants secs sont<br/> meilleurs que tout pourcequilz sont legers On y mesle de petits<br/> lopins d<span class="m">estaim de glace</span> qui ha une lueur esclatante On y pile<br/> menu diverse sorte de <span class="m">marchasites</span> quon lave pour les purifier<br/> de la <span class="m">terre</span> & on en saulpouldre louvrage qui est tresbeau<br/> Sil ny ha point de fontaine en la grotte On colle tout <span class="del">al</span> cela<br/> de <span class="m">colle</span> forte <span class="del">qui</span> et est bien tost faict <span class="add">@Ayes montres de toutes sortes<br/> de <span class="m">mines</span> Les <span class="m">marchasites sulfurees</span> qui nont point de grain mays<br/> sont unies comme l<span class="m">estain de glace</span> sont tresbelles</span>
  
 > *at left middle margin*
 > 
@@ -59,7 +59,7 @@ Les pierres faictes deau appellees <span class="m">stuf</span> Le <span class="m
 ## <span class="m">Estaim de glace</span>
 
  
-Il blanchise & rend ferme l<span class="m">estaim fin</span> si <span class="del">en <span class="ill"></span></span> on en mect<br/> <span class="del">parmy</span> une <span class="ms">once</span> parmy cest ascavoir i <span class="ms">℥</span> d<span class="m">estaim de glace</span><br/> dans une <span class="ms">lb</span> d<span class="m">estaim fin</span>
+Il blanchist & rend ferme l<span class="m">estaim fin</span> si <span class="del">en on</span> on en mect<br/> <span class="del">parmy</span> une <span class="ms">once</span> parmy cest ascavoir i <span class="ms">℥</span> d<span class="m">estaim de glace</span><br/> dans une <span class="ms">lb</span> d<span class="m">estaim fin</span>
  
  
   

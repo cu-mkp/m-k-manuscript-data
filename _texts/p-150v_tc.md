@@ -8,10 +8,10 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [fer, ardille, moule, cire, eau, molle, moules, suif, cire noir, plomb]
-tools: [moule, moules]
-measurements: []
-bodyparts: []
+materials: [fil de fer, ardille, cire, eau, suif, cire noir, plomb, souldure, eau chaulde]
+tools: [poincte de fil de fer, moule, table, cercle dardille, moules, doigt, poincte, molle, luthe, poinctes]
+measurements: [doigts, moitie, moictie]
+bodyparts: [doigts, doigt]
 places: []
 plants: []
 professions: []
@@ -25,12 +25,12 @@ animals: [tortue]
 ## Mouler creux
 
  
-Ceste poincte de fil de <span class="m">fer</span> qui se mect ainsy <span class="del">bie</span> par le trou<br/> est pour tenir mieulx le noyau & garder quil ne<br/> varie Tout cela estant Ainsy dispose Couche ton<br/> <span class="tl">moule</span> sur une table le trou en hault ainsy quil<br/> est icy a coste marque & puys adapte un cercle d<span class="m">ardille</span><br/> molle <span class="del">aultre</span> de deulx doigts de haut aultour du trou<br/> co<span class="exp">mm</span>e aulx aultres <span class="tl">moules</span> Et puys destrempe de ton sable<br/> a mouler mediocrem<span class="exp">ent</span> espes & le gecte par le trou<br/> iusques a ce quil soict bien bien plain iusques a<br/> la supperficie du cercle d<span class="m">ardille</span> Mays advise de ne<br/> gecter pa<span class="del">r</span>s par le milieu du trou Ains par le coste<br/> Car a cause que le <span class="m">moule</span> deija faict boit & succe<br/> lhumeur <span class="del">du nouveau</span> Le nouveau que tu gectes <span class="del">qui</span><br/> <span class="del">est bientost sec</span> sur le bort du <span class="m">moule</span> estant bien tost sec<br/> boucheroit le <span class="m">moule</span> et nacheveroit pas de semplir<br/> Et quand tu gectes au coste si tu cognois quil se bouche<br/> tu y peulx faire voye Ayant gecte soufle sur le<br/> <span class="del">f</span> le gect destrempe & mects quelques fois le bout<br/> du doigt dans le trou <span class="del">po</span> ou quelque petite poincte<br/> pour le destremper & faire que la <span class="m">cire</span> creuse semplisse<br/> gecte a la fin le sable destrempe un peu espes pour<br/> donner force au <span class="m">moule</span> Car l<span class="m">eau</span> venant a la<br/> superficie du <span class="m">molle</span> la faict tousiours plus molle Ayant<br/> faict prise rase le cercle d<span class="m">ardille</span> et leminence<br/> qui est sur le trou par ou tu as gecte le noyau<br/> & il ne sy cognoistra rien Quand ton <span class="m">moule</span> est ainsy<br/> praepare luthe le tout aultour avec du mesme sable<br/> qui ha servi aulx <span class="m">moules</span> Apres fais le recuire<br/> a foeu lent au commencem<span class="exp">ent</span> et la gueule du gect en bas<br/> affin que la <span class="m">cire</span> sescoule doulcem<span class="exp">ent</span> Car si tu luy<br/> donnois grande chaleur iusques a ce que la <span class="m">cire</span><br/> en soit sortie elle bouilleroit la dedans & y laisseroit<br/> quelque pustules & choses grumeleuses combien que
+Ceste <span class="tl">poincte de <span class="m">fil de fer</span></span> qui se mect ainsy <span class="del">bie</span> par le trou<br/> est pour tenir mieulx le noyau & garder quil ne<br/> varie Tout cela estant Ainsy dispose Couche ton<br/> <span class="tl">moule</span> sur une <span class="tl">table</span> le trou en hault ainsy quil<br/> est icy a coste marque & puys adapte un <span class="tl">cercle d<span class="m">ardille</span></span><br/> molle <span class="del">aultre</span> de deulx <span class="ms"><span class="bp">doigts</span></span> de haut aultour du trou<br/> co<span class="exp">mm</span>e aulx aultres <span class="tl">moules</span> Et puys destrempe de ton sable<br/> a mouler mediocrem<span class="exp">ent</span> espes & le gecte par le trou<br/> iusques a ce quil soict bien bien plain iusques a<br/> la supperficie du <span class="tl">cercle d<span class="m">ardille</span></span> Mays advise de ne<br/> gecter pa<span class="del">r</span>s par le milieu du trou Ains par le coste<br/> Car a cause que le <span class="tl">moule</span> deija faict boit & succe<br/> lhumeur <span class="del">du nouveau</span> Le nouveau que tu gectes <span class="del">qui</span><br/> <span class="del">est bientost sec</span> sur le bort du <span class="tl">moule</span> estant bien tost sec<br/> boucheroit le <span class="tl">moule</span> et nacheveroit pas de semplir<br/> Et quand tu gectes au coste si tu cognois quil se bouche<br/> tu y peulx faire voye Ayant gecte soufle sur le<br/> <span class="del">f</span> le gect destrempe & mects quelques fois le bout<br/> du <span class="tl"><span class="bp">doigt</span></span> dans le trou <span class="del">po</span> ou quelque petite <span class="tl">poincte</span><br/> pour le destremper & faire que la <span class="m">cire</span> creuse semplisse<br/> gecte a la fin le sable destrempe un peu espes pour<br/> donner force au <span class="tl">moule</span> Car l<span class="m">eau</span> venant a la<br/> superficie du <span class="tl">molle</span> la faict tousiours plus molle Ayant<br/> faict prise rase le <span class="tl">cercle d<span class="m">ardille</span></span> et leminence<br/> qui est sur le trou par ou tu as gecte le noyau<br/> & il ne sy cognoistra rien Quand ton <span class="tl">moule</span> est ainsy<br/> praepare <span class="tl">luthe</span> le tout aultour avec du mesme sable<br/> qui ha servi aulx <span class="tl">moules</span> Apres fais le recuire<br/> a foeu lent au commencem<span class="exp">ent</span> et la gueule du gect en bas<br/> affin que la <span class="m">cire</span> sescoule doulcem<span class="exp">ent</span> Car si tu luy<br/> donnois grande chaleur iusques a ce que la <span class="m">cire</span><br/> en soit sortie elle bouilleroit la dedans & y laisseroit<br/> quelque pustules & choses grumeleuses combien que
  
 > *at left top margin*
 > 
 > 
-> Ceste poincte se mect au milieu & par le<br/> trou du gect quand<br/> le <span class="m">moule</span> est de plu<br/> sieurs pieces co<span class="exp">mm</span>e dune<br/> <span class="al">tortue</span> et ce fait affin<br/> que le noyau ne branle<br/> point Mays quand le<br/> <span class="m">moule</span> est de deulx pieces<br/> seulem<span class="exp">ent</span><br/> il nest<br/> point necessaire<br/> dy mectre<br/> de poinctes<br/> au milieu 
+>   Ceste <span class="tl">poincte</span> se mect au milieu & par le<br/> trou du gect quand<br/> le <span class="tl">moule</span> est de plu<br/> sieurs pieces co<span class="exp">mm</span>e dune<br/> <span class="al">tortue</span> et ce fait affin<br/> que le noyau ne branle<br/> point Mays quand le<br/> <span class="tl">moule</span> est de deulx pieces<br/> seulem<span class="exp">ent</span><br/> il nest<br/> point necessaire<br/> dy mectre<br/> de <span class="tl">poinctes</span><br/> au milieu 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5eVVJSjUwSFhpUzg" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
@@ -41,32 +41,32 @@ Ceste poincte de fil de <span class="m">fer</span> qui se mect ainsy <span class
 > *at left top margin*
 > 
 > 
->  Plustost que gecter le<br/> noyau fays des coches<br/> tout aultour du trou par ou<br/> tu le vouldras gecter<br/> affin de tousiours mieulx<br/> asseurer le <span class="m">moule</span>
+>   Plustost que gecter le<br/> noyau fays des coches<br/> tout aultour du trou par ou<br/> tu le vouldras gecter<br/> affin de tousiours mieulx<br/> asseurer le <span class="tl">moule</span>
  
 > *at left top margin*
 > 
 > 
-> Le <span class="m">suif</span> mesle<br/> est cause que en<br/> vuidant la <span class="m">cire</span><br/> le trou ne se<br/> bouche poinct
+>   Le <span class="m">suif</span> mesle<br/> est cause que en<br/> vuidant la <span class="m">cire</span><br/> le trou ne se<br/> bouche poinct
  
 > *at left middle margin*
 > 
 > 
-> il fault<br/> moitie <span class="m">suif</span> & moictie<br/> <span class="m">cire noir</span>
+>   il fault<br/> <span class="ms">moitie</span> <span class="m">suif</span> & <span class="ms">moictie</span><br/> <span class="m">cire noir</span>
  
 > *at left middle margin*
 > 
 > 
->  Toutes pieces fort<br/> espesses viennent<br/> mieulx en creux pourceq<span class="exp">ue</span><br/> une masse espesse<br/> de <span class="m">plomb</span> principallem<span class="exp">ent</span> <br/> demeure long temps<br/> chauldes & mange le<br/> <span class="m">moule</span>
+>   Toutes pieces fort<br/> espesses viennent<br/> mieulx en creux pourceq<span class="exp">ue</span><br/> une masse espesse<br/> de <span class="m">plomb</span> principallem<span class="exp">ent</span> <br/> demeure long temps<br/> chauldes & mange le<br/> <span class="tl">moule</span>
  
 > *at left bottom margin*
 > 
 > 
->  Tu peulx apres le<br/> gect faict mouler<br/> <span class="del">une</span> la partie de la<br/> coquille du ventre<br/> ou tu as faict le<br/> trou sur le naturel<br/> et le raporter avec<br/> souldure
+>  Tu peulx apres le<br/> gect faict mouler<br/> <span class="del">une</span> la partie de la<br/> coquille du ventre<br/> ou tu as faict le<br/> trou sur le naturel<br/> et le raporter avec<br/> <span class="m">souldure</span>
  
 > *at left bottom margin*
 > 
 > 
->  X @ Note quapres que ton<br/> noyau est gecte il est<br/> mieulx de mectre ton <span class="m">moule</span><br/> dans l<span class="m">eau</span> chaulde pour louvrir affin doster le plus de <span class="m">cire</span> que tu pourras Tousiours la<br/> remollissant dans l<span class="m">eau</span> chaulde Car le moings de <span class="m">cire</span> quil y pourra demeurer cest le mieulx <br/> Affin @ quen rebouillant dans le <span class="m">moule</span> en grande qua<span class="exp">n</span>tite quand tu le recuits il ne sy face des <br/> pustules ou grumeleures Et puys sil ny ha gueres de <span class="m">cire</span> il ne te le fauldra pas tant recuire <br/> En ouvrant le <span class="m">moule</span> le gect se rompra Mays il se peult reparer aysement Encore que tu ne gectes A 
+>   X @ Note quapres que ton<br/> noyau est gecte il est<br/> mieulx de mectre ton <span class="tl">moule</span><br/> dans l<span class="m">eau chaulde</span> pour louvrir affin doster le plus de <span class="m">cire</span> que tu pourras Tousiours la<br/> remollissant dans l<span class="m">eau chaulde</span> Car le moings de <span class="m">cire</span> quil y pourra demeurer cest le mieulx <br/> Affin @ quen rebouillant dans le <span class="tl">moule</span> en grande qua<span class="exp">n</span>tite quand tu le recuits il ne sy face des <br/> pustules ou grumeleures Et puys sil ny ha gueres de <span class="m">cire</span> il ne te le fauldra pas tant recuire <br/> En ouvrant le <span class="tl">moule</span> le gect se rompra Mays il se peult reparer aysement Encore que tu ne gectes A 
  
 *[continued]*
  

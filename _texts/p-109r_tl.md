@@ -33,7 +33,7 @@ When the <span class="m">wax</span> is too hard, one mixes in some <span class="
 ## <span class="m">Wax</span> for molding
 
  
-Since the <span class="m">wax</span> is molten, they have some <span class="m">sulphur</span> in a spoon or crucible and pour it in the molten <span class="m">wax</span>. And with the <span class="m">sulphur</span> going to the bottom or staying on top, it stays where it is and mixes only its substance in the <span class="m">wax</span>, and renders it more meltable when warming it, in such a way that having molded it, <span class="sup">the <span class="m">wax</span></span> gently melts in the mold like <span class="m">butter</span>, without leaving any blister or boil. Also be warned to not give it too much heat.
+Since the <span class="m">wax</span> is molten, they have some <span class="m">sulphur</span> in a spoon or crucible & pour it in the molten <span class="m">wax</span>. And with the <span class="m">sulphur</span> going to the bottom or staying on top, it stays where it is & mixes only its substance in the <span class="m">wax</span>, & renders it more meltable when warming it, in such a way that having molded it, <span class="sup">the <span class="m">wax</span></span> gently melts in the mold like <span class="m">butter</span>, without leaving any blister or boil. Also be warned to not give it too much heat.
  
 > *at left top margin*
 > 
@@ -46,7 +46,7 @@ Since the <span class="m">wax</span> is molten, they have some <span class="m">s
 ## Molding <span class="m">wax</span>
 
  
-So that your mold takes hold without repelling any surface on a form or figure in <span class="m">wax</span><span class="m">,</span> it is necessary to rub the <span class="m">wax</span> with <span class="m">oil</span> and soak your sand in lukewarm <span class="m">water</span>, because cold <span class="m">water</span> repels <span class="m">oil</span> even more and will not make a good layer on the <span class="m">wax</span>.
+So that your mold takes hold without repelling any surface on a form or figure in <span class="m">wax</span><span class="m">,</span> it is necessary to rub the <span class="m">wax</span> with <span class="m">oil</span> and soak your sand in lukewarm <span class="m">water</span>, because cold <span class="m">water</span> repels <span class="m">oil</span> even more & will not make a good layer on the <span class="m">wax</span>.
  
 > *at left middle margin*
 > 
@@ -67,7 +67,7 @@ It is better that at the end with the air chamber the bellows be set in some kin
 ## Molding <span class="al">snakes</span>
 
  
-When you get them for molding, if it is possible, do not remove their teeth if you <span class="x">think you might</span> want to keep them, because having had their teeth removed, it hurts their gums and mouths, and they can no longer eat. You can keep <span class="x">the snakes</span> in a barrel full of <span class="m">bran</span> or even better of <span class="m">earth</span>, in a cool place, or in a <span class="m">glass</span> bottle. And give them some live frog or other live animal because they do not eat anything <span class="sup">that is</span> dead. Also I have noticed that
+When you get them for molding, if it is possible, do not remove their teeth if you <span class="x">think you might</span> want to keep them, because having had their teeth removed, it hurts their gums & mouths, & they can no longer eat. You can keep <span class="x">the snakes</span> in a barrel full of <span class="m">bran</span> or even better of <span class="m">earth</span>, in a cool place, or in a <span class="m">glass</span> bottle. And give them some live frog or other live animal because they do not eat anything <span class="sup">that is</span> dead. Also I have noticed that
  
 *[continued]*
  

@@ -16,7 +16,7 @@ places: [malte, inde, flandres]
 plants: []
 professions: [commandeurs de malte, painctres, ceulx qui font les foeilles de pierrerie, orfevres, fondeurs]
 environments: []
-animals: []
+animals: [dragon]
 ---
 
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-040v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>040v</a> - - - - - </div>  
@@ -25,7 +25,7 @@ animals: []
 ## Croix des <span class="pro">commandeurs<br/> de <span class="pl">malte</span></span>
 
  
-Ce beau <span class="m">rouge clair</span> qui faict le champ de la croix<br/> blanche d<span class="m">esmail</span> est <span class="del">sang</span> larme fine de <span class="m">sang de dragon</span><br/> destrempe en <span class="m">eau de vye</span> Ou bien <span class="m">laque platte d<span class="pl">inde</span></span><br/> qui a mon advis se faict en <span class="pl">flandres</span> Destrempee avecq<br/> <span class="m">tormentine claire</span> & <span class="m">larme de mastic</span> & posee sur une foeille<br/> d<span class="m">argent</span> non pas de celle dont usent les <span class="pro">painctres</span> Mays<br/> de celle plus espesse qui est brunie par <span class="pro">ceulx qui font les<br/> foeilles de pierrerie</span> <span class="del">Av</span> ou par les <span class="pro">orfevres</span> & cella luy<br/> donne ce bel esclat
+Ce beau <span class="m">rouge clair</span> qui faict le champ de la croix<br/> blanche d<span class="m">esmail</span> est <span class="del">sang</span> larme fine de <span class="m">sang de <span class="al">dragon</span></span><br/> destrempe en <span class="m">eau de vye</span> Ou bien <span class="m">laque platte d<span class="pl">inde</span></span><br/> qui a mon advis se faict en <span class="pl">flandres</span> Destrempee avecq<br/> <span class="m">tormentine claire</span> & <span class="m">larme de mastic</span> & posee sur une foeille<br/> d<span class="m">argent</span> non pas de celle dont usent les <span class="pro">painctres</span> Mays<br/> de celle plus espesse qui est brunie par <span class="pro">ceulx qui font les<br/> foeilles de pierrerie</span> <span class="del">Av</span> ou par les <span class="pro">orfevres</span> & cella luy<br/> donne ce bel esclat
 
  
   

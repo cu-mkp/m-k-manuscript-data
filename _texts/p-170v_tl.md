@@ -20,7 +20,7 @@ animals: []
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-170v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f346.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>170v</a> - - - - - </div>  
- 
+  
 In the year fifteen hundred seventy—eight, the second of July, the heirs of the late Sr. Ouvryer received (two hundred and five ecus), the rent of Saint—Frajou, amounting to twelve hundred and thirty livres.
  
 They have also received, as part of the revenue of the year fifteen hundred seventy nine, three hundred forty three and one third ecus.

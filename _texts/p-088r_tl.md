@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [copper, iron, metal, Varnish, Turpentine oil, turpentine, good eau de vye, Dust, ashes, wheat, rough cloth, canvas, Looking-glass tin, material]
+materials: [copper, iron, metal, Varnish, Turpentine oil, turpentine, good eau de vye, Dust, ashes, wheat, rough cloth, canvas, Looking-glass tin]
 tools: [chafing dish, knife]
 measurements: []
 bodyparts: []
@@ -65,5 +65,5 @@ One knows from experience that the young shoot that <span class="del">is</span> 
 ## <span class="m">Looking—glass tin</span>
 
  
-It makes <span class="m">material</span> whiter.
+It makes the substance whiter.
  

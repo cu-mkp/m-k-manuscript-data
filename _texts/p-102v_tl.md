@@ -16,7 +16,7 @@ places: [Acre]
 plants: []
 professions: []
 environments: []
-animals: []
+animals: [dragon]
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-102v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f210.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>102v</a> - - - - - </div>  
@@ -25,7 +25,7 @@ animals: []
 ## Painting on <span class="m">crystal</span> or <span class="m">glass</span>
 
  
-They paint without any traces of <span class="m">oil</span>, except for faces where they outline the nose & the mouth in very fine black work. Then they make strokes & highlight them in white, and then they apply a coat of <span class="m">flesh—tinted color</span>. As for the background, they do it in natural <span class="m">azur</span> from <span class="pl">Acre</span> to make it more beautiful, or <span class="m">lacquer</span> for a quickly—done red, or for a finer red, <span class="m">dragon's blood</span>. But it is necessary to apply it little by little so that it is smooth & of one color, & in the same way for other colors. Then they apply underneath it, a leaf of <span class="m">topaz</span>, <span class="m">gold</span> or <span class="m">silver</span>.
+They paint without any traces of <span class="m">oil</span>, except for faces where they outline the nose & the mouth in very fine black work. Then they make strokes & highlight them in white, and then they apply a coat of <span class="m">flesh—tinted color</span>. As for the background, they do it in natural <span class="m">azur</span> from <span class="pl">Acre</span> to make it more beautiful, or <span class="m">lacquer</span> for a quickly—done red, or for a finer red, <span class="m"><span class="al">dragon</span>'s blood</span>. But it is necessary to apply it little by little so that it is smooth & of one color, & in the same way for other colors. Then they apply underneath it, a leaf of <span class="m">topaz</span>, <span class="m">gold</span> or <span class="m">silver</span>.
  
  
   

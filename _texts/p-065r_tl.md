@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [oil, jet, yellow ocher, white lead, sap green, bistre, grain, umber, paper, gild, gold, crystal, soap, ceruse, minium, massicot, ochre, water, glass, lake]
+materials: [oil, jet, yellow ochre, lead white, sap-green, bistre, grain, umber, cristallin, soap, paper, gild, or mat, gold color, ceruse, minium, massicot, ochre, gold, water, glass, lake]
 tools: []
 measurements: []
 bodyparts: []
@@ -25,12 +25,12 @@ animals: []
 ## Shadows
 
  
- Because blacks appear in different hues, some reddish black, others bluish, and others greenish, choose those verging on yellow in order to obtain beautiful shadows in <span class="m">oil</span>, for shadows are yellowish, especially those of men. And for this effect use very strongly crushed <span class="m">jet</span>, which you mix with a bit of <span class="m">yellow ocher</span> and <span class="m">white lead</span>. Or else, after you have crushed your <span class="m">white lead</span> and gathered it with the , crush the <span class="m">jet</span> into it. Thus it <span class="sup">the black</span> will be more desiccative, and a yellowish black on its own. When mixed with a bit of white, it will be perfect for men's shadows. Blacks which appear greenish black are appropriate for women's shadows. Take then some black of , a little <span class="m">sap green</span> and some <span class="m">bistre</span>, and you will have a perfect shading for <span class="x">flesh tone</span> in distemper for a woman.
+ Because blacks make in different colors, some a reddish black, others tend towards blue, and others towards green, choose those which tend towards yellow to make beautiful shadows in <span class="m">oil</span>, for shadow, especially that of men, is yellowish. And for this effect use very strongly crushed <span class="m">jet</span>, which you will mix with a little <span class="m">yellow ochre</span> & <span class="m">lead white</span>. Or else, after you have crushed your <span class="m">lead white</span> <span class="del">bro</span> and <span class="del">clean p</span> gathered it with the , crush the <span class="m">jet</span> into it. Thus it will be more desiccative, & making on its own a yellowish black. A little white mixed in renders it perfect for men's shadows. Blacks which make a greenish black are appropriate for women's shadows. Take, then, some black of , a little <span class="m">sap—green</span> & <span class="m">bistre</span>, & you will have a perfect shadow for women in distemper.
  
 > *at left top margin*
 > 
 > 
->   The powder of orberé <span class="m">grain</span> is duller than <span class="m">umber</span> and when you lack <span class="m">umber</span>, the aforesaid powder may be used, but it lacks body.
+>   The powder of orberé <span class="m">grain</span> is darker than <span class="m">umber</span> & when you lack <span class="m">umber</span>, the said powder will do, but it does not have body.
  
  
   
@@ -38,15 +38,10 @@ animals: []
 ## Flesh color
 
  
-You must know how to mix the colors and the appropriate shadows well, but above all make sure to soften them well. And note and observe that an object that appears flat needs to be softened in straight lines, such as from right to left like 
+You must know well the mixing of colors & the appropriate shadows, but above all make sure to soften them well. And note & observe that a thing which appears flat needs to be softened lengthwise, as if going from <span class="del">l<span class="exp">ett</span>re a ga</span> right to left like 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5eUhrRmdpaWNCZlk" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
- , and whatever needs to be represented round must be softened in circles.
- 
-> *at left middle margin*
-> 
-> 
->   One cannot lay down <span class="m">oil</span> on cut <span class="m">paper</span> or make a stencil as in distemper because the colour will run. Thus, in order to <span class="m">gild</span> with matte <span class="m">gold</span>, one has to pounce and then lay in the colors with the brush.
+ , and whatever ought to appear round must be softened in circles.
  
  
   
@@ -54,7 +49,7 @@ You must know how to mix the colors and the appropriate shadows well, but above 
 ## Mirror
 
  
-When you paint flesh, it is useful to have a <span class="m">crystal</span> mirror, which represents a lifelike image, and in which you will see if your shadows are soft enough or too crude. But do not look at it using a candle, because the light of the flame will make the shadows look reddish. The painter also learns for himself with a mirror, because he sees in it what a lifelike image can produce.
+When you make flesh colors, it is good to have a <span class="m">cristallin</span> mirror, which represents well after nature, and in which <span class="del">it</span> you will see if your shadows are soft enough or too crude. But do not look at it with a candle, for firelight will make the shadows reddish. The painter also teacher himself with the mirror, for he sees in it what the natural can do.
  
  
   
@@ -62,15 +57,20 @@ When you paint flesh, it is useful to have a <span class="m">crystal</span> mirr
 ## Greasy colors
 
  
-After the laid—down colors are absorbed, if some part remains shiny and does not seem dry, it means that this part is greasy, and that the second colors you lay down would not adhere either, unless you scrub this part with <span class="m">soap</span> or breathe on it, because humidity will make the colors adhere.
+If some part remains shiny and does not seem dry after the layered colors have penetrated, it means that this part is greasy, & that the second colors one layers on would not take on the dry <span class="sup">layer</span>, unless you rub this part with <span class="m">soap</span> or breathe on it, because the humidity will make the colors take.
+ 
+> *at left middle margin*
+> 
+> 
+>   One cannot layer <span class="m">oil</span> on cut <span class="m">paper</span> & model as in distemper because the colour would run. Thus, to <span class="m">gild</span> with <span class="m">or mat</span>, one needs to pounce & then layer the <span class="m">gold color</span> with the pinceau.
  
 > *at left bottom margin*
 > 
 > 
->   All greasy colors, such as <span class="m">ceruse</span>, <span class="m">minium</span>, <span class="m">massicot</span>, <span class="m">ochre</span>, and <span class="m">white lead</span> are good for making <span class="m">gold</span> color.
+>   All greasy colors, such as <span class="m">ceruse</span> and <span class="m">minium</span>, <span class="m">massicot</span>, <span class="m">ochre</span>, <span class="m">lead white</span> are good for making <span class="m">gold</span> color.
  
 > *at left bottom margin*
 > 
 > 
->   Any color or thing that thickens when mixed with <span class="m">water</span>, while being crushed has body. But those that lack it, such as crushed <span class="m">glass</span> and <span class="m">lake</span> etc., become clear.
+>   Any color or thing that thickens when <span class="m">water</span> is put with it when it is being crushed has body. But those that lack it, such as crushed <span class="m">glass</span>, <span class="m">lake</span> & become clear.
  

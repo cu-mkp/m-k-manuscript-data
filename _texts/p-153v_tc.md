@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [farine, paste, coston, oingts, beurre, Oincts, huile dolive, ardille, plomb, cuivre, carton, huile, eau, or, ciment, antymoine, verdet]
-tools: [baston, roulleau, moule, pinceau, rolleaux, rolleau]
+materials: [paste, coston, beurre fondu, huile dolive, ardille, plomb, cuivre, carton, huile, beurre, eau chaulde, or, ciment, antymoine, verdet]
+tools: [baston de buys, roulleau, moule, pinceau, contour dardille, rolleaux, planches de plomb & cuivre de diverses espesseur ou de carton, rolleau]
 measurements: []
 bodyparts: []
 places: []
-plants: [buys]
+plants: [buys, olive]
 professions: []
 environments: []
 animals: []
@@ -23,7 +23,7 @@ animals: []
  
 *[continued]*
   
-<span class="m">farine</span> Et pour laplatir ayes un petit <span class="tl">baston</span> de <span class="pa">buys</span><br/> bien rond & de mesme grosseur par tout qui aye aulx<br/> deulx bouts un petit cercle plus esleve que le reste pour<br/> donner lespesseur necessaire a la <span class="m">paste</span> Et puys<br/> avecq ce <span class="tl">roulleau</span> aplatis la en sorte quelle soit asses<br/> delie & tanvre Puys aplique la sur le cave de <br/> ton <span class="tl">moule</span> Et presse dessus avecq du <span class="m">coston</span> & ta<br/> figure simprimera en la <span class="m">paste</span> de relief dun coste<br/> & en cave de laultre Ce faict <span class="m">oingts</span> avecq un<br/> <span class="tl">pinceau</span> trempe dans un peu de <span class="m">beurre</span> fondu la<br/> partie de la <span class="m">paste</span> qui est cave Puys coupe le<br/> surperflu de la <span class="m">paste</span> qui surpasse le cave du<br/> <span class="tl">moule</span> <span class="del">h</span> <span class="m">Oincts</span> aussy d<span class="m">huile dolive</span> ton <span class="tl">moule</span><br/> co<span class="exp">mm</span>e aulx aultres tu as faict Mects le contour<br/> d<span class="m">ardille</span> & gecte <span class="del">s</span> ton second <span class="tl">moule</span> Et tu auras<br/> ta medaille aussy tanvre & creuse dun coste que<br/> tu vouldras Tu peulx avoyr divers <span class="tl">rolleaux</span><br/> qui auront les bords plus esleves les uns que les<br/> aultres pour faire diverses espesseurs Ou te<br/> servir de planches de <span class="m">plomb</span> & <span class="m">cuivre</span> de diverses<br/> espesseur ou de <span class="m">carton</span> coupees avecq le <span class="tl">rolleau</span>
+farine Et pour laplatir ayes un petit <span class="tl">baston de <span class="pa">buys</span></span><br/> bien rond & de mesme grosseur par tout qui aye aulx<br/> deulx bouts un petit cercle plus esleve que le reste pour<br/> donner lespesseur necessaire a la <span class="m">paste</span> Et puys<br/> avecq ce <span class="tl">roulleau</span> aplatis la en sorte quelle soit asses<br/> delie & tanvre Puys aplique la sur le cave de <br/> ton <span class="tl">moule</span> Et presse dessus avecq du <span class="m">coston</span> & ta<br/> figure simprimera en la <span class="m">paste</span> de relief dun coste<br/> & en cave de laultre Ce faict oingts avecq un<br/> <span class="tl">pinceau</span> trempe dans un peu de <span class="m">beurre fondu</span> la<br/> partie de la <span class="m">paste</span> qui est cave Puys coupe le<br/> surperflu de la <span class="m">paste</span> qui surpasse le cave du<br/> <span class="tl">moule</span> <span class="del">h</span> Oincts aussy d<span class="m">huile d<span class="pa">olive</span></span> ton <span class="tl">moule</span><br/> co<span class="exp">mm</span>e aulx aultres tu as faict Mects le <span class="tl">contour<br/> d<span class="m">ardille</span></span> & gecte <span class="del">s</span> ton second moule Et tu auras<br/> ta medaille aussy tanvre & creuse dun coste que<br/> tu vouldras Tu peulx avoyr divers <span class="tl">rolleaux</span><br/> qui auront les bords plus esleves les uns que les<br/> aultres pour faire diverses espesseurs Ou te<br/> servir de <span class="tl">planches de <span class="m">plomb</span> & <span class="m">cuivre</span> de diverses<br/> espesseur ou de <span class="m">carton</span></span> coupees avecq le <span class="tl">rolleau</span>
  
 > *Figure*
 > *at left top margin*
@@ -32,7 +32,7 @@ animals: []
 > *at left top margin*
 > 
 > 
->  Si tu frottois<br/> d<span class="m">huile</span> ta <span class="m">paste</span><br/> elle boiroit l<span class="m">huile</span><br/> & penetreroit iusques<br/> au <span class="tl">moule</span> auquel elle<br/> sattaqueroit Mays<br/> le <span class="m">beurre</span> demeure<br/> sur la superficie<br/> de la <span class="m">paste</span> & ne<br/> semboit point<br/> Il ne fault point<br/> pour ces revers<br/> destremper ton<br/> sable avecq <span class="m">eau</span><br/> chaulde car elle<br/> feroit<br/> fondre<br/> le <span class="m">beurre</span> 
+>  Si tu frottois<br/> d<span class="m">huile</span> ta <span class="m">paste</span><br/> elle boiroit l<span class="m">huile</span><br/> & penetreroit iusques<br/> au <span class="tl">moule</span> auquel elle<br/> sattaqueroit Mays<br/> le <span class="m">beurre</span> demeure<br/> sur la superficie<br/> de la <span class="m">paste</span> & ne<br/> semboit point<br/> Il ne fault point<br/> pour ces revers<br/> destremper ton<br/> sable avecq <span class="m">eau<br/> chaulde</span> car elle<br/> feroit<br/> fondre<br/> le <span class="m">beurre</span> 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5c3FRZnZSMnU1Njg" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  

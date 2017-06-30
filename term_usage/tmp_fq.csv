@@ -1,14 +1,20 @@
-19|jour
-13|jours
-13|heure
-11|heures
+21|jour
+16|jours
+14|heure
+13|heures
 7|nuict
 6|lendemain
 4|moys
+4|hiver
 3|tous les ans
+3|nuit
 3|matin
+3|long temps
 3|iours
 3|hora
+3|este
+3|ans
+3|Jours
 2|ung quart dheure
 2|un bon quart dheure
 2|tout lan
@@ -16,12 +22,8 @@
 2|temps
 2|soir
 2|plusieurs jours
-2|nuit
-2|long temps
-2|hiver
-2|este
+2|hyver
 2|en este
-2|ans
 2|an
 2|Jour
 2|
@@ -30,6 +32,7 @@
 1|un iour
 1|un demy 
 1|trois jours en trois jours
+1|trois jours en la sepmaine
 1|tout un jour
 1|temps serain &amp; s bien sec
 1|temps humide
@@ -39,12 +42,15 @@
 1|seconde annee
 1|saison
 1|saint Anthoine de
+1|sabmedy
 1|quand
 1|premier jour
 1|pauses
 1|on en tire le pain
 1|nuicts
 1|moys de may
+1|mercredy
+1|mardy
 1|lyver
 1|lune
 1|long
@@ -56,8 +62,8 @@
 1|jour naturel
 1|jour de Saint paul
 1|jour au lendemain
+1|jeudy
 1|iour
-1|hyver
 1|fort long temps
 1|fin de la
 1|espace dun pater noster
@@ -80,7 +86,6 @@
 1|an suivant
 1|advents de noël
 1|advents de Noel
-1|Jours
 1|Janvier
 1|Chasque matin
 1|Au printemps

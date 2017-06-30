@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Cire, rousine, bol, Ligues, estain, plomb, plastre, charbon, brique, metal, fer]
+materials: [Cire, rousine, bol, estain, plomb, plomb fin, estain fin, plastre, charbon, brique, metal, escaille de fer]
 tools: [Moules, moule, moules]
-measurements: [lb]
+measurements: [moictie, moitie, lb, ℥, doigt]
 bodyparts: [doigt]
 places: []
-plants: [fleurs]
+plants: []
 professions: []
 environments: []
 animals: [tortues, lesards]
@@ -30,14 +30,14 @@ Mesle avec icelle de la <span class="m">rousine</span> et du <span class="m">bol
  
   
 
-## <span class="m">Ligues</span> diverses d<span class="m">estain</span> et <span class="m">plomb</span>
+## Ligues diverses d<span class="m">estain</span> et <span class="m">plomb</span>
 
  @ 
-Pour choses creuses co<span class="exp">mm</span>e <span class="al">tortues</span> moictie <span class="m">plomb</span> fin et moitie<br/> <span class="m">estain</span>
+Pour choses creuses co<span class="exp">mm</span>e <span class="al">tortues</span> <span class="ms">moictie</span> <span class="m">plomb fin</span> et <span class="ms">moitie</span><br/> <span class="m">estain</span>
  
- Pour <span class="pa">fleurs</span> presque tout <span class="m">estain</span> sçavoir une <span class="ms">lb</span>. d<span class="m">estain</span> fin<br/> et deux ℥ de <span class="m">plomb</span> fin 
+ Pour fleurs presque tout <span class="m">estain</span> sçavoir une <span class="ms">lb</span> d<span class="m">estain fin</span><br/> et deux <span class="ms">℥</span> de <span class="m">plomb fin</span>
  
-Pour <span class="al">lesards</span> qui sont espes dun <span class="bp">doigt</span> ou deux presque<br/> tout <span class="m">plomb</span> sçavoir une <span class="ms">lb</span> de <span class="m">plomb</span> fin et 4 ℥ <span class="del">es</span> d<span class="m">estain</span><br/> fin
+Pour <span class="al">lesards</span> qui sont espes dun <span class="ms"><span class="bp">doigt</span></span> ou deux presque<br/> tout <span class="m">plomb</span> sçavoir une <span class="ms">lb</span> de <span class="m">plomb fin</span> et 4 <span class="ms">℥</span> <span class="del">es</span> d<span class="m">estain<br/> fin</span>
 
  
   
@@ -58,10 +58,10 @@ La <span class="m">brique</span> refroidist le <span class="m">metal</span> & si
 > *at left middle margin*
 > 
 > 
-> Les <span class="tl">moules</span> recuits ne peuvent soubstenir<br/> plusieurs gects Mays ceulx dans lesquels<br/> on ne veult gecter que <span class="m">plomb</span> ou <span class="m">estain</span> et<br/> medailles plattes nestant que seches<br/> en soubstiennent<br/> beaucoup
+>   Les <span class="tl">moules</span> recuits ne peuvent soubstenir<br/> plusieurs gects Mays ceulx dans lesquels<br/> on ne veult gecter que <span class="m">plomb</span> ou <span class="m">estain</span> et<br/> medailles plattes nestant que seches<br/> en soubstiennent<br/> beaucoup
  
 > *at left middle margin*
 > 
 > 
->  lescaille<br/> de <span class="m">fer</span> fort<br/> subtillem<span class="exp">ent</span><br/> broyee<br/> les rend<br/> bien ferme<br/> & forts
+>   l<span class="m">escaille<br/> de fer</span> fort<br/> subtillem<span class="exp">ent</span><br/> broyee<br/> les rend<br/> bien ferme<br/> & forts
 

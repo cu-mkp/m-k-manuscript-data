@@ -44,8 +44,8 @@ Take <span class="m">vermillion</span> & soak it with <span class="m">gum water<
  
   
 
-## To make green <span class="m">wood</span>
+## For making <span class="del">tr</span> green <span class="m"><span class="add">w</span>ood</span>
 
  
-Take very strong <span class="m">vinegar</span>, <span class="m">salt</span>, and <span class="m">rainwater</span>, and mix it together with <span class="m">verdigris</span>, and put it with your <span class="m">wood</span> in a new earthenware vessel, and lay it in some very warm <span class="m">horse dung</span> for eight or nine days.
+Take very strong <span class="m">vinegar</span>, <span class="m">salt</span>, & <span class="m">rainwater</span>, and one needs to put it all together with <span class="m">verdigris</span>, and put it in a new earthen vessel with your <span class="m">wood</span>, & put it in some very warm <span class="m">horse dung</span> for the space of eight or nine days.
  

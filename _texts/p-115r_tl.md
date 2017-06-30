@@ -25,7 +25,9 @@ animals: []
 > 
 >  
 *[continued]*
-  First cast the tail or the back of your animal, make a cut from the head to the middle to the tail where you cast, and which is the end of the mandore. After casting do not forget to make holes, and to notch your casted <span class="m">metal</span>. That way <span class="m">metal</span> will run better than if do not notch it. Indeed <span class="m">metal</span> get damaged into notches, do not run too much and does not swell as much as if you do not make any notch. Put small clamps made of <span class="m">wire</span> to the joints separating both molds it will reinforce the joints of your mold. Clamps prevent molds from distorting and from getting damaged while heating.
+   
+ First cast the tail or the back of your animal, make a cut from the head to the middle to the tail where you cast, and which is the end of the mandore. After casting do not forget to make holes, and to notch your casted <span class="m">metal</span>. That way <span class="m">metal</span> will run better than if do not notch it. Indeed <span class="m">metal</span> get damaged into notches, do not run too much and does not swell as much as if you do not make any notch. Put small clamps made of <span class="m">wire</span> to the joints separating both molds it will reinforce the joints of your mold. Clamps prevent molds from distorting and from getting damaged while heating.
+ 
   
   
 

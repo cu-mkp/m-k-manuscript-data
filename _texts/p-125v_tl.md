@@ -41,15 +41,15 @@ animals: []
  Casting snakes & herbs and flowers is a strange matter, since the cavities that are between the two shells require several pieces. To cast in <span class="m">sugar</span> without making a casting, they are molded from plaster, as works for anything you like.
  
  
-> *at left bottom margin*
-> 
-> 
->   
+  
 
-** <span class="m">Plaster</span> to cast with <span class="m">wax</span> **
+## <span class="m">Plaster</span> to cast with <span class="m">wax</span>
 
  
  When you want to cast in <span class="m">wax</span> in a <span class="m">plaster</span> mold, you must know this secret, that there is need that your mold be in <span class="m">hot water</span>. The animal will never come out as clean as in metal, because <span class="m">wax</span> grips. But to rough out an animal as close to natural as possible in order to fix it afterwards, you have to remove all the scales, because the <span class="m">wax</span> will permeate them & will not be able to be stripped off. In molding the animal, take off the scales for <span class="m">wax</span>, but on the contrary <span class="x">when not molding with wax</span> rub them against their grain so that they raise up, because then these animals <span class="x">sc. those not molded in wax and prepared in this way</span> will show better. Do not wait to strip off your wax until it is cooled down at all. But while it is a bit hot, after you have molded the first casting of the animal, uncover it halfway so that it be stripped in so doing. And having as much in one mold as in the other, make very many large castings holding on to the animal in order to fortify them <span class="x">...</span> stripping, & afterwards you'll cut it.
-  
- \+ <span class="m">Alabaster</span> <span class="x">...</span> which is <span class="m">plaster</span> in any case, is very hard, but it shrinks quite a bit. It is good for making medals. But it must be very finely strained.
+ 
+> *at left bottom margin*
+> 
+> 
+>   \+ <span class="m">Alabaster</span> <span class="x">...</span> which is <span class="m">plaster</span> in any case, is very hard, but it shrinks quite a bit. It is good for making medals. But it must be very finely strained.
  

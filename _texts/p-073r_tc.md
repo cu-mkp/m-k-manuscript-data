@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [vernys pers, pers de fleurs de fleurée ou de Flandres, chault vifve, eau, chault, pers, boys, terroy merita, os, corne, chault vive, Cendre de serment, eau des orfevres, vert de gris, alung, eau de Riviere, son, limailhe de Fer, souffre, verd de Gris, boys derable, eaue dalung, eaue despuis, Grais, or, sel armoniac, fer, soufre]
-tools: []
-measurements: [doigts, Jour]
+materials: [vernys pers, pers de fleurs de fleurée ou de Flandres, chault vifve, eau, chault, pers, boys, terroy merita, os, corne, chault vive, Cendre de serment, eau des orfevres, vert de gris, alung, eau de Riviere, son, limailhe de Fer, souffre, verd de Gris, moullee, boys derable, eaue dalung, eaue despuis, Grais, bronze, sel armoniac, fer, soufre]
+tools: [casse, pot, pot de eau des orfevres, mortier de fer]
+measurements: [doigts, Jour, once]
 bodyparts: [doigts]
-places: [Flandres]
-plants: []
+places: [Flandres, serment]
+plants: [erable]
 professions: [orfevres]
 environments: []
 animals: []
@@ -41,7 +41,7 @@ Prenes de l<span class="m">eau</span> ou la <span class="m">chault</span> aura t
 ## Pour desgresser <span class="m">os</span> ou <span class="m">corne</span>
 
  
-Il les fault faire bouillir dans la <span class="m">chault vive</span> Et quil y ayt<br/> tousjours de l<span class="m">eau</span> Et prenes une casse bien necte Et quand Ilz seront<br/> laves les feres bouilhir dans de la <span class="m">Cendre de serment</span> / et les<br/> mectres dedans un pot le plus chault q<span class="exp">ue</span> pourres et mectres dedans<br/> le pot de l<span class="m">eau des <span class="pro">orfevres</span></span> du <span class="m">vert de gris</span> Et laisser Lespace de<br/> quelque temps et verres une Fort belle coulleur de verd
+Il les fault faire bouillir dans la <span class="m">chault vive</span> Et quil y ayt<br/> tousjours de l<span class="m">eau</span> Et prenes une <span class="tl">casse</span> bien necte Et quand Ilz seront<br/> laves les feres bouilhir dans de la <span class="m">Cendre de <span class="pl">serment</span></span> et les<br/> mectres dedans un <span class="tl">pot</span> le plus chault q<span class="exp">ue</span> pourres et mectres dedans<br/> le <span class="tl">pot de <span class="m">eau des <span class="pro">orfevres</span></span></span> du <span class="m">vert de gris</span> Et laisser Lespace de<br/> quelque temps et verres une Fort belle coulleur de verd
  
  
   
@@ -49,15 +49,15 @@ Il les fault faire bouillir dans la <span class="m">chault vive</span> Et quil y
 ## Pour faire <span class="m">boys</span> gris
 
  
-Prenes de l<span class="m">alung</span> avecques de l<span class="m">eau de Riviere</span> Faictes bouilhir<br/> ensemble puis prenes <span class="m">eau de Riviere</span> aveq du <span class="m">son</span> et coules le <span class="m">son</span><br/> Et le bouttes ensemble prenes <span class="m">limailhe de Fer</span> & du <span class="m">souffre</span> & du<br/> <span class="m">verd de Gris</span> Et de la <span class="add">@ moullee</span>  Et faictes tout boulhir<br/> ensemble Et bouttes <span class="m">boys derable</span> q<span class="exp">ui</span> aura trempe dedans l<span class="m">eaue<br/> dalung</span> et l<span class="m">eaue despuis</span> & le mectres bouillir ensemble <span class="add">@Le tout se<br/> Fera mieulx dedans ung <span class="m">Grais</span> Cruze</span>
+Prenes de l<span class="m">alung</span> avecques de l<span class="m">eau de Riviere</span> Faictes bouilhir<br/> ensemble puis prenes <span class="m">eau de Riviere</span> aveq du <span class="m">son</span> et coules le <span class="m">son</span><br/> Et le bouttes ensemble prenes <span class="m">limailhe de Fer</span> & du <span class="m">souffre</span> & du<br/> <span class="m">verd de Gris</span> Et de la <span class="add">@ <span class="m">moullee</span></span>  Et faictes tout boulhir<br/> ensemble Et bouttes <span class="m">boys d<span class="pa">erable</span></span> q<span class="exp">ui</span> aura trempe dedans l<span class="m">eaue<br/> dalung</span> et l<span class="m">eaue despuis</span> & le mectres bouillir ensemble <span class="add">@Le tout se<br/> Fera mieulx dedans ung <span class="m">Grais</span> Cruze</span>
  
  
   
 
-## Pour faire bronze a couleur d<span class="m">or</span>
+## Pour faire <span class="m">bronze</span> a couleur dor
 
  
-Prenes une once de <span class="m">sel armoniac</span> Et les broyes dans ung<br/> mortier de <span class="m">fer</span> Estant bien broye prenes une once de <span class="m">soufre</span> Et le
+Prenes une <span class="ms">once</span> de <span class="m">sel armoniac</span> Et les broyes dans ung<br/> <span class="tl">mortier de <span class="m">fer</span></span> Estant bien broye prenes une <span class="ms">once</span> de <span class="m">soufre</span> Et le
  
 *[continued]*
  

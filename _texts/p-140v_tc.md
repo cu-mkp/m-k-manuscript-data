@@ -25,10 +25,12 @@ animals: []
   
  graver sur l<span class="m">argent</span> & <span class="m">cuivre</span> avecq l<span class="m">eau fort</span> Avecq icelle<br/> aussy on prend le cave dun relief & puys on gecte dans ce<br/> cave du sable destrempe qui represente derechef le relief<br/> fort nettem<span class="exp">ent</span> Et puys tu peulx sur iceluy gecter le cave<br/> diceluy en <span class="m">cuivre</span> <span class="m">or</span> et <span class="m">argent</span> Et fayre des cachets de<br/> grande singularite
  
+ 
 > *at left top margin*
 > 
 > 
->   Cachets 
+> Cachets
+ 
  
  
   
@@ -62,7 +64,12 @@ animals: []
 > *at left middle margin*
 > 
 > 
->   Jay essaye le<br/> <span class="m">plastre</span> & <span class="m">brique</span> seuls<br/> et en ay moule en noyau<br/> co<span class="exp">mm</span>e des aultres mon<br/> moule a este fort net<br/> ayant legerem<span class="exp">ent</span> <span class="m">huile</span> &<br/> frotte d<span class="m">eau de vye</span> ma<br/> medaille Jay faict<br/> mon gect ample a lentree<br/> allant en se subtiliant<br/> jusques a la medaille qui<br/> estoit fort tanvre Jay<br/> encoché le gect qui<br/> embrassoit bien la<br/> medaille Jay bien<br/> desseiche le <span class="tl">moule</span> a<br/> foeu lent & sur la fin<br/> lay bien chaufe sans<br/> le rougir Je lay laisse froidir <span class="sn">de telle sorte<br/> que je pouvois tenir le <span class="tl"><span class="bp">doigt</span></span> sans me brusler</span><br/> Jay faict ligue de 4 <span class="ms">℥</span> d<span class="m">estain</span> & six <span class="ms">deniers</span><br/> de <span class="m">plomb</span> Jay gecte rouge il est tres bien venu<br/> Jay apres mis sur 4 <span class="ms">℥</span><br/> d<span class="m">estain</span> xii <span class="ms">deniers</span> de <span class="m">plomb</span> il est<br/> tres bien venu
+>   
+> *at left middle margin*
+> 
+> 
+> Jay essaye
+ le<br/> <span class="m">plastre</span> & <span class="m">brique</span> seuls<br/> et en ay moule en noyau<br/> co<span class="exp">mm</span>e des aultres mon<br/> moule a este fort net<br/> ayant legerem<span class="exp">ent</span> <span class="m">huile</span> &<br/> frotte d<span class="m">eau de vye</span> ma<br/> medaille Jay faict<br/> mon gect ample a lentree<br/> allant en se subtiliant<br/> jusques a la medaille qui<br/> estoit fort tanvre Jay<br/> encoché le gect qui<br/> embrassoit bien la<br/> medaille Jay bien<br/> desseiche le <span class="tl">moule</span> a<br/> foeu lent & sur la fin<br/> lay bien chaufe sans<br/> le rougir Je lay laisse froidir <span class="sn">de telle sorte<br/> que je pouvois tenir le <span class="tl"><span class="bp">doigt</span></span> sans me brusler</span><br/> Jay faict ligue de 4 <span class="ms">℥</span> d<span class="m">estain</span> & six <span class="ms">deniers</span><br/> de <span class="m">plomb</span> Jay gecte rouge il est tres bien venu<br/> Jay apres mis sur 4 <span class="ms">℥</span><br/> d<span class="m">estain</span> xii <span class="ms">deniers</span> de <span class="m">plomb</span> il est<br/> tres bien venu
  
 > *at left bottom margin*
 > 

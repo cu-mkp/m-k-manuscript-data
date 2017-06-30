@@ -54,12 +54,12 @@ Il fault escorcher lanimal & le faire bouillir Ou bien<br/> lescorcher & le mect
  
 <span class="del">Si cest pour grand ouvrage L<span class="m">arsenic & le tartre pulverises</span><br/> & gectes sur l<span class="m">argent</span> fondu le font courre Si <span class="del">cest pou</span> et<br/> suffist Mays pour ouvrage subtil Il y fault de l<span class="m">aes<br/> ustum</span> de la <span class="m">limaille <span class="del">de letton</span> <span class="add">cuivre menue</span> d<span class="del">u</span><span class="add">e</span> lantimoyne du sublime Subtilem<span class="exp">ent</span><br/> pulverises</span> <span class="del">Cela</span> <span class="add">De</span> cela se faict une masse qui naigrist point<br/> Si le <span class="del">s</span> <span class="m">plastre</span> est bon il ny fault point de <span class="m">crocum</span> pour<br/> l<span class="m">argent</span> Mays on mect plus d<span class="m">alum de plume</span><br/> <span class="add">@Il y fault aussy du <span class="m">sel commun fondu</span> & du <span class="m">salpestre</span> avecq les<br/> drogues susdictes <span class="m">arsenic</span> <span class="m">tartre</span> <span class="m">aes ustum</span> <span class="m">limaille de cuivre</span><br/> <span class="m">antimoyne</span> &.</span></span>
  
-
+ <span class="del">
 > *at left middle margin*
 > 
 > 
->   Siscitatio<br/> dubia 
-
+>  Siscitatio<br/> dubia
+ </span>
  
 > *at left middle margin*
 > 

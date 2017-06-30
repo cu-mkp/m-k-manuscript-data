@@ -68,7 +68,12 @@ Le <span class="m">crocum ferri</span> est propre pour l<span class="m">or</span
 > *at left top margin*
 > 
 > 
->   <span class="m">Plastre</span><br/> Quant tu las en<br/> pierre choisis les<br/> plus durs morceaulx<br/> et qui ne sesmient<br/> point aisem<span class="exp">ent</span> avecq<br/> l<span class="tl"><span class="bp">ongle</span></span> et nettoye le<br/> bien de pouldre &<br/> ordure plustost que<br/> le piler
+>   
+> *at left top margin*
+> 
+> 
+> <span class="m">Plastre</span>
+<br/> Quant tu las en<br/> pierre choisis les<br/> plus durs morceaulx<br/> et qui ne sesmient<br/> point aisem<span class="exp">ent</span> avecq<br/> l<span class="tl"><span class="bp">ongle</span></span> et nettoye le<br/> bien de pouldre &<br/> ordure plustost que<br/> le piler
  
 > *at left middle margin*
 > 

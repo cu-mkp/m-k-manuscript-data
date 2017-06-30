@@ -27,10 +27,12 @@ animals: [sernailles, grenoille, iraigne]
  
  <span class="m">Verdegris</span> & <span class="m">sel armoniac</span> <span class="ms">autant dun que daultre <br/> & aussi gros quune febve de <span class="m">salpestre</span></span> Car si tu en mectois <br/> quantite il feroit bouillir tellement le tout quil se reverseroit <br/> le <span class="m">salpestre</span> ne se mect que pour faire bouillir affin <br/> quon cognoisse quand la matiere a asses bouillye <br/> Ceste couleur mise sur l<span class="m">or aigre fondu</span> le rend doux <br/> incontinent 
  
+ 
 > *at left top margin*
 > 
 > 
->   Adoulcir l<span class="m">or</span> 
+> Adoulcir l<span class="m">or</span>
+ 
  
  
   

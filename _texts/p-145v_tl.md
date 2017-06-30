@@ -37,11 +37,11 @@ You do not need thin sheets of <span class="m">clay</span>, because the herbs an
 > *at left top margin*
 > 
 > 
->    \+ 
+>    
 
 ** Flowers **
 
- 
+ \+ 
  When you mold them, if they are not strong enough to hold themselves upright, run a thread through the mold to keep them lest they do not hoist themselves up. & cast the sand little by little & continuously and blow on it strongly and constantly so that it covers everywhere. Otherwise, it will become lumpy. Since you won't put anything in thin sheets of <span class="m">clay</span>, the mold sometimes sticks to the table on which you mold. To release it, strike a great blow on the side of the table with a hammer.
  
 > *Figure*

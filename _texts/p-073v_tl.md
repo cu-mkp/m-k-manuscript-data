@@ -8,12 +8,12 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [sal ammoniac, tin, quicksilver, glue, parchment, white of one egg, saffron, vinegar, milk of a fig tree, bronze, Varnish, spike lavender oil, sandarac, drugs, wood, varnish, varnishVenice turpentine, perolle petroleum oil, spike lavender oil., copper, Armenian bole, copper filings, sulfur, charcoal]
-tools: [pot, vial]
-measurements: [ounces, ounce, quarter ounce, setier]
+materials: [sal ammoniac, soft tin, quicksilver, tin, glue of Partenay or parchment, white of one egg, saffron, vinegar, milk of a fig tree, bronze, Varnish, spike lavender oil, sandarac, drugs, wood, varnish, varnishVenice turpentine, perolle petroleum oil, spike lavender oil., Armenian bole, copper filings, sulfur, charcoal]
+tools: [pot, vial, small oven of tiles, oven]
+measurements: [ounce, ounces, quarter ounce, half a sestier, day]
 bodyparts: []
 places: [Partenay, Venice, Armenian]
-plants: [spike lavender]
+plants: [fig tree, spike lavender]
 professions: []
 environments: []
 animals: []
@@ -23,15 +23,15 @@ animals: []
  
 *[continued]*
   
-crush it separately. When it is well—crushed, take the <span class="m">sal ammoniac</span> & crush it together again. Then take one ounce of soft <span class="m">tin</span> & one ounce of <span class="m">quicksilver</span>, then melt your <span class="m">tin</span> & put your <span class="m">quicksilver</span> drop by drop into your <span class="m">tin</span> while melting, & stir with force until it is powder.
+crush it separately. When it is well—crushed, take the <span class="m">sal ammoniac</span> & crush it together again. Then take one <span class="ms">ounce</span> of <span class="m">soft tin</span> & one <span class="ms">ounce</span> of <span class="m">quicksilver</span>, then melt your <span class="m">tin</span> & put your <span class="m">quicksilver</span> drop by drop into your <span class="m">tin</span> while melting, & stir with force until it is powder.
  
  
   
 
-## For coating it
+## For <span class="del">c</span> coating it
 
  
-Take some <span class="m">glue</span> of <span class="pl">Partenay</span> <span class="add">or <span class="m">parchment</span></span> and apply it with the <span class="m">white of one egg</span>, then take a little <span class="m">saffron</span> and <span class="m">vinegar</span> and the <span class="m">milk of a fig tree</span>, and do a coat again. Then take the <span class="m">bronze</span> and apply it on top.
+Take some <span class="m">glue of <span class="pl">Partenay</span> <span class="add">or parchment</span></span> and apply it with the <span class="m">white of one egg</span>, then take a little <span class="m">saffron</span> and <span class="m">vinegar</span> and the <span class="m">milk of a <span class="pa">fig tree</span></span>, and do a coat again. Then take the <span class="m">bronze</span> and apply it on top.
  
  
   
@@ -52,8 +52,8 @@ Take one <span class="ms">ounce</span> of <span class="m"><span class="del">varn
  
   
 
-## Color of burnished <span class="m">copper</span>
+## Color of burnished copper
 
  
-Take one ounce of <span class="m">sal ammoniac</span> with one ounce of <span class="m"><span class="pl">Armenian</span> bole</span> and half of <span class="m">copper filings</span> with one ounce of <span class="m">sulfur</span> & half a <span class="ms">setier</span> of <span class="m">vinegar</span>. Crush all into a small oven of tiles and make a small <span class="m">charcoal</span> fire around it, and put your pot into the said small oven for the whole day.
+Take one <span class="ms">ounce</span> of <span class="m">sal ammoniac</span> with one <span class="ms">ounce</span> of <span class="m"><span class="pl">Armenian</span> bole</span> and half of <span class="m">copper filings</span> with one <span class="ms">ounce</span> of <span class="m">sulfur</span> & <span class="ms">half a sestier</span> of <span class="m">vinegar</span>. Beat all into a <span class="tl">small oven of tiles</span> and make a small <span class="m">charcoal</span> fire around it, and put your <span class="tl">pot</span> into the said <span class="tl">oven</span> for the whole <span class="ms"><span class="tmp">day</span></span>.
  

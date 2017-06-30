@@ -8,8 +8,8 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [egg, charcoal, azure enamel, oil, Distempered colors, distempered colors, oil colors]
-tools: []
+materials: [egg, charcoal, azur d’esmail, oil, distemper, Distemper]
+tools: [pinceau, palette, ruler]
 measurements: []
 bodyparts: []
 places: []
@@ -25,7 +25,7 @@ animals: []
 ## Apprenticeship of the <span class="pro">painter</span>
 
  
-First, one gives him an <span class="m">egg</span> to do in which one has him make half a face, then a whole one with the ears, next the neck, then the parts of the body separately, next joined, then one figure, then two & three, finally a history, teaching him how to hold the <span class="m">charcoal</span> by the end, & also the pinceau. Once he knows how to draw, one teaches him how to layer colors.
+First, one gives him an <span class="m">egg</span> to do in which one has him make half a face, then a whole one with the ears, next the neck, then the parts of the body separately, next joined, then one figure, then two & three, finally a history, teaching him how to hold the <span class="m">charcoal</span> by the end, & also the <span class="tl">pinceau</span>. Once he knows how to draw, one teaches him how to layer colors.
  
  
   
@@ -33,23 +33,23 @@ First, one gives him an <span class="m">egg</span> to do in which one has him ma
 ## One also presents him with these strokes & lines
 
  
-The figure of the <span class="m">egg</span> is the main pattern for faces <span class="add">and for bent bodies</span>, as the cross is the model for a full, straight figure. Without these strokes you will never do anything well.
- 
+<span class="del">C</span> <span class="add">T</span>he figure of the <span class="m">egg</span> is the main pattern for faces <span class="add">and for bent bodies</span>, as the cross is the model for a straight & whole figure. Without these strokes you will never do well.
  
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5NmZDTmZwc1Jqb2M" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+ 
  
   
 
 ## Softening
 
  
-To soften well, you must not lay the colors thick, but rather lay them twice, except for <span class="m">azure enamel</span>.
+To soften well, one ought not to layer the colors thickly, but rather layer them twice, except for <span class="m">azur d’esmail</span>.
  
 > *at left middle margin*
 > 
 > 
->   All colors that lack body in <span class="m">oil</span> also lack body in distemper. In distemper they even sink to the bottom. <span class="m">Distempered colors</span> need to be fat, which you can tell when they stick to the palette after being distempered in <span class="m">oil</span>.
+>   All colors that have no body in <span class="m">oil</span> have none in <span class="m">distemper</span>, <span class="del">and</span> but in <span class="m">distemper</span> they sink to the bottom. <span class="m">Distemper</span> colors want to be greasy, which is recognised when they gel on the <span class="tl">palette</span> once distempered in <span class="m">oil</span>.
  
  
   
@@ -57,13 +57,13 @@ To soften well, you must not lay the colors thick, but rather lay them twice, ex
 ## Straight lines
 
  
-You can use the ruler, but do not lay it flat on the painting, but somewhat lifted and resting on the edges of the panel. Otherwise you would smudge everything, and also you would not see the strokes well.
+You can use the <span class="tl">ruler</span>, but do not lay it flat on the panel, but as if lifted off, & resting on the edges of the panel. Otherwise you would smudge everything, & also you would not see the stroke well.
  
  
   
 
-## Distemper
+## <span class="m">Distemper</span>
 
  
-It is necessary that <span class="m">distempered colors</span> are kept darker while you distemper them, because they become lighter when they dry. But <span class="m">oil colors</span> remain the same colors.
+<span class="m">Distemper</span> colors need to be <span class="add">kept</span> darker <span class="del">pr</span> while you temper them, <span class="add">because they whiten while drying</span>. But <span class="m">oil</span> colors remain the same in color.
  

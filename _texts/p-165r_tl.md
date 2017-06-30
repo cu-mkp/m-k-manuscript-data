@@ -16,7 +16,7 @@ places: []
 plants: []
 professions: []
 environments: []
-animals: [Dragon's, snakes, lizards]
+animals: [Dragon, snakes, lizards]
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-165r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f336.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>165r</a> - - - - - </div>  
@@ -59,7 +59,7 @@ When it is long to set and dry, it means that it is too fat and moist, which is 
  
   
 
-## <span class="m"><span class="al">Dragon's</span> blood</span>
+## <span class="m"><span class="al">Dragon</span>'s blood</span>
 
  
 It is imitated with <span class="m">lake</span> that surpasses it in beauty if, with this distempered in <span class="m">oil</span>, you glaze on <span class="m">gold</span> or <span class="m">silver</span>. Distempered in <span class="m">varnish</span>, it dies.

@@ -1,29 +1,26 @@
 33|aspic
 24|noix
-19|froment
-16|rose
+21|froment
+17|rose
 15|bled
 12|vigne
 10|saule
 9|orme
-8|olif
+9|olif
 8|lin
+7|figuier
 6|pensee
-6|figuier
+6|pastel
 5|raisin
-5|pastel
-5|abres
 5|abre
 4|sauge
 4|olive
 4|millet
-4|fleurs
-4|fleur
 4|cotton
-3|herbe
-3|foeille
+4|abres
 3|asperge
 2|tim
+2|soulcy
 2|soucy
 2|safran
 2|rosmarin
@@ -39,8 +36,7 @@
 2|havets
 2|fromant
 2|fraisiers
-2|foeuille
-2|espinette
+2|fleurs
 2|coings
 2|chastaignes
 2|buys
@@ -61,7 +57,6 @@
 1|vignes
 1|vesse
 1|terra merita
-1|soulcy
 1|soulci
 1|solcy
 1|seigle
@@ -70,7 +65,6 @@
 1|sarment
 1|sapin
 1|rosiers
-1|rose soulcy
 1|ronce
 1|rheubarbe des moynes
 1|ranunculus
@@ -78,6 +72,7 @@
 1|queues de pourrceaulx
 1|queue de cheval
 1|pruneaux
+1|provenche
 1|prele
 1|poys
 1|pomole
@@ -97,6 +92,7 @@
 1|paille
 1|orties
 1|orenge
+1|oranges
 1|orangers
 1|orange
 1|oignon
@@ -119,11 +115,13 @@
 1|herbes potaigeres
 1|herbes bulbeuses
 1|herbes
+1|herbe
 1|hayes
 1|guindoles
 1|guimave
 1|grand passevelours
 1|genest
+1|fustict
 1|fraises
 1|foeuilles de
 1|foeilles de lierre
@@ -135,7 +133,6 @@
 1|febve
 1|fayan
 1|erable
-1|despinette
 1|dent
 1|de Lyon
 1|cucurme
@@ -150,8 +147,8 @@
 1|canelle
 1|buy
 1|bruiere
-1|branche de provenche
 1|boufain
+1|bled orbere
 1|bled de froment
 1|avelane
 1|artichaulx
@@ -173,7 +170,7 @@
 1|Oeillets
 1|Oeillet
 1|Marguerites
+1|Guesdre
 1|Eschervis
 1|Eleusines
-1|Boys
 1|

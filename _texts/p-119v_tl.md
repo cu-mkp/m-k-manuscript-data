@@ -30,7 +30,7 @@ You find an earth in <span class="pl">Germany</span>, the color of cooked plaste
 > *at left top margin*
 > 
 > 
->   See gesnerus de lapidibus 
+>   See Gesnerus, De lapidibus 
  
 > *at left top margin*
 > 

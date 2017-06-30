@@ -37,6 +37,8 @@ Le <span class="m">cuivre rouge pur de chaudron ou dautres ouvrages<br/> tanvres
 > 
 >   Ostant ton <span class="tl">moule</span><br/> du feu plante<br/> le dans des brases<br/> duquel soict<br/> remply un <span class="tl">pot</span><br/> ou <span class="tl">vaisseau</span>@
  
+ 
+  
 
 ## <span class="m">Huile tingente</span> pour fayre<br/> courre les <span class="m">metaux</span>
 
@@ -48,6 +50,8 @@ Le <span class="m">cuivre rouge pur de chaudron ou dautres ouvrages<br/> tanvres
 > 
 >   Les <span class="pro">fondeurs<br/> de grand gect</span><br/> pour statues<br/> y gectent force<br/> <span class="m">tartre</span> pour le<br/> nettoyer de sa<br/> <span class="m">crasse</span> & <span class="m">ordure</span><br/> & force <span class="m">sel<br/> armoniac</span> pour le rendre clair & net<br/> Et quand ilz veulent gecter ilz y<br/> mectent force <span class="m">estain</span> Le froid &<br/> humidite luy est fort contraire<br/> ce qui rend<br/> dangereulx lestat<br/> du fondeur<br/> car il ne fault<br/> qun sourdis<br/> d<span class="m">eau</span> dans la<br/> fosse pour<br/> perdre tout
  
+ 
+  
 
 ## <span class="tl">Crampons</span>
 

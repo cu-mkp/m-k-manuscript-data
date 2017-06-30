@@ -35,5 +35,3 @@ Be warned to make an edge of <span class="m">wax</span> melted with a warm <span
 > 
 > To prevent breaking while releasing, be advised to uncover up to the point where it can still hold.
  
-*[continued]*
- 

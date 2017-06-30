@@ -35,7 +35,7 @@ Cela ainsy præpare pose ton <span class="del">de</span> premier demy <span clas
 > *at left top margin*
 > 
 > 
-> \+  Note que quand tu as<br/> faict ton second <span class="add">gect</span> si tu<br/> laissois un <span class="ms"><span class="tmp">jour</span></span> ou une<br/> <span class="ms"><span class="tmp">nuict</span></span> ton <span class="tl">moule</span> sans<br/> louvrir Il te le fauldroit<br/> apres tremper dans<br/> l<span class="m">eau</span> chaulde ou bien<br/> le recuire plustost que<br/> louvrir co<span class="exp">mm</span>e pour les<br/> <span class="al">chancres</span>
+>   \+ Note que quand tu as<br/> faict ton second <span class="add">gect</span> si tu<br/> laissois un <span class="ms"><span class="tmp">jour</span></span> ou une<br/> <span class="ms"><span class="tmp">nuict</span></span> ton <span class="tl">moule</span> sans<br/> louvrir Il te le fauldroit<br/> apres tremper dans<br/> l<span class="m">eau</span> chaulde ou bien<br/> le recuire plustost que<br/> louvrir co<span class="exp">mm</span>e pour les<br/> <span class="al">chancres</span>
  
 > *at left top margin*
 > 

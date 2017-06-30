@@ -1,37 +1,40 @@
 93|lb
 44|℥
 39|quintal
-36|moictie
-20|once
+37|moictie
+27|once
+22|onces
 18|pan
-17|onces
-15|heure
-14|doigts
-13|jours
-13|jour
-13|heures
+16|jours
+16|heure
+15|jour
+15|heures
+15|doigts
 12|pas
 12|partye
 12|pans
 11|quintals
 8|deniers
+7|pars
 6|doigt
 5|nuict
 5|ligne
 4|quart
 4|poix
 4|pied
+4|carte
 4|aulne
 3|unces
 3|pieds
 3|parties
 3|partie
-3|pars
 3|moys
 3|moitie
 3|lien
 3|lanterne
 3|hora
+3|dragmes
+3|Jours
 2|un bon quart dheure
 2|seau
 2|quintalz
@@ -48,11 +51,13 @@
 2|grain
 2|gabions
 2|fois le jour
+2|denier
 2|demye ℥
 2|demy sestier
 2|demy
 2|boisseaulx
 2|aultant dun que dautre
+2|ana
 2|
 1|œufs
 1|verre
@@ -86,6 +91,7 @@
 1|sans te brusler
 1|sans lallumer il est en bonne chaleur Mays sil le brusle &amp; y mect
 1|roy
+1|repliee en canule
 1|quintaulx
 1|que
 1|quarts
@@ -112,7 +118,9 @@
 1|pinte
 1|pieds de
 1|pied de roy
+1|petite joinctee
 1|pauses
+1|part
 1|paniers
 1|panier
 1|pan de montpellier
@@ -182,12 +190,12 @@
 1|doitgts
 1|doitgs
 1|doigt dans le gect
+1|deux foys aultant
 1|deux fois que la saulcice
 1|deux doits en deulx doigts
 1|deulx pointes de doigt
 1|deulx jours
 1|deulx foys aultant
-1|denier
 1|demye once
 1|demye
 1|demy once
@@ -205,7 +213,6 @@
 1|cinquiesme
 1|chaleur trempe dedans un petit papier retors Sil le noircist
 1|ce que tu puisses
-1|carte
 1|carats
 1|caques
 1|canes
@@ -220,14 +227,16 @@
 1|aussy gros
 1|aultant quune grosse noix
 1|aultant que tu vouldras faire longue une cartuche
+1|aultant en une prise comme il en peult tenir en une quarte 
 1|aultant dun que daultre
 1|aultant
 1|asses chault comme quand
 1|ans
 1|an
 1|a la langue
-1|Jours
 1|Jour
+1|Carte
 1|Aultant quil pourroit tenir dans un œuf
+1|4 doigts et le poulse
 1|&amp; une nuict
 1|&amp; aussi gros quune febve de salpestre

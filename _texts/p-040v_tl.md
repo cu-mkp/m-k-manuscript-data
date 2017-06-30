@@ -16,7 +16,7 @@ places: [Malta, Indian, Flanders]
 plants: []
 professions: [commanders of Malta, painters, those who make foil backings for gemstones, goldsmiths, Founders]
 environments: []
-animals: []
+animals: [dragon]
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-040v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>040v</a> - - - - - </div>  
@@ -25,7 +25,7 @@ animals: []
 ## Cross of the <span class="pro">commanders of <span class="pl">Malta</span></span>
 
  
-This beautiful <span class="m">rouge clair</span> which makes the field of the white <span class="m">enamel</span> cross is <span class="del">blood</span> of fine tear of <span class="m">dragon's blood</span> tempered with <span class="m">eau de vie</span> or else <span class="m"><span class="pl">Indian</span> laque plate</span>, which in my opinion is made in <span class="pl">Flanders</span>, tempered with <span class="m">clear turpentine</span> & tear of <span class="m">mastic</span> & laid down on a <span class="m">silver</span> leaf, not the kind which the <span class="pro">painters</span> use, but a thicker kind, which is burnished by <span class="pro">those who make foil backings for gemstones</span> <span class="del">Av</span> or by <span class="pro">goldsmiths</span>, & that gives it this beautiful brilliance.
+This beautiful <span class="m">rouge clair</span> which makes the field of the white <span class="m">enamel</span> cross is <span class="del">blood</span> of fine tear of <span class="m"><span class="al">dragon</span>'s blood</span> tempered with <span class="m">eau de vie</span> or else <span class="m"><span class="pl">Indian</span> laque plate</span>, which in my opinion is made in <span class="pl">Flanders</span>, tempered with <span class="m">clear turpentine</span> & tear of <span class="m">mastic</span> & laid down on a <span class="m">silver</span> leaf, not the kind which the <span class="pro">painters</span> use, but a thicker kind, which is burnished by <span class="pro">those who make foil backings for gemstones</span> <span class="del">Av</span> or by <span class="pro">goldsmiths</span>, & that gives it this beautiful brilliance.
 
  
   

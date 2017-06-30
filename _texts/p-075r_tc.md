@@ -9,8 +9,8 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [Goume, sire Rouge, Vernilhon, poix resins resine, Bronze, Cuyvre, verdet, colle claire, boys, limaille despingle, marbre, eau, cuyvre, Estaing, estaing de Glasse, argent vif, estaing de Glace, vitf aiantargent, colle, estaing, eaue claire, Eaue fort, vinaigre, verd de gris, copperouse, solle, Or Moulu, or, eaue fort, selpestre, sel armonial]
-tools: []
-measurements: []
+tools: [marbre, pot]
+measurements: [onces]
 bodyparts: []
 places: []
 plants: []
@@ -33,7 +33,7 @@ animals: []
 ## <span class="m">Bronze</span> de <span class="m">Cuyvre</span>
 
  
- Prenes da <span class="add">de <span class="m">verdet</span></span> & de la <span class="m">colle claire</span> & le broyes ensemble<br/> puys faictes une couche sur v<span class="exp">ost</span>re <span class="m">boys</span> Et prenes de la <span class="m">limaille<br/> despingle</span> Et le broyes sur ung <span class="m">marbre</span> aveq de l<span class="m">eau</span> puys le<br/> verches sur le <span class="m">boys</span> & le polisses aveq du <span class="m">cuyvre</span>
+Prenes <span class="del">da</span> de <span class="m">verdet</span> & de la <span class="m">colle claire</span> & le broyes ensemble<br/> puys faictes une couche sur v<span class="exp">ost</span>re <span class="m">boys</span> Et prenes de la <span class="m">limaille<br/> despingle</span> Et le broyes sur ung <span class="tl"><span class="m">marbre</span></span> aveq de l<span class="m">eau</span> puys le<br/> verches sur le <span class="m">boys</span> & le polisses aveq du <span class="m">cuyvre</span>
  
  
   
@@ -41,7 +41,7 @@ animals: []
 ## <span class="m">Bronze</span> Comme <span class="m">Estaing</span>
 
  
- Prenes de L<span class="m">estaing de Glasse</span> deux onces d<span class="m">argent vif</span> &<br/> faictes fondre L<span class="m">estaing de Glace</span> dedans ung pot neuf et<br/> <span class="del">difiant</span> <span class="add">deslors</span> quil soit tout fondu mectes le <span class="m">vi<span class="del">t</span><span class="add">f</span> <span class="del">aiant</span><span class="add">argent</span></span> dedans &<br/> lostes du foeu & laisses secher lad<span class="exp">icte</span> <span class="m">colle</span> puys prenes ung<br/> morceau d<span class="m">estaing</span> & le brunises sur ung <span class="m">marbre</span> aveq de l<span class="m">eaue<br/> claire</span> et puys le coucher sur le <span class="m">boys</span> Et le polisses aveq ung<br/> morceau d<span class="m">estaing</span>
+Prenes de L<span class="m">estaing de Glasse</span> deux <span class="ms">onces</span> d<span class="m">argent vif</span> &<br/> faictes fondre L<span class="m">estaing de Glace</span> dedans ung <span class="tl">pot</span> neuf et<br/> <span class="del">difiant</span> <span class="add">deslors</span> quil soit tout fondu mectes le <span class="m">vi<span class="del">t</span><span class="add">f</span> <span class="del">aiant</span><span class="add">argent</span></span> dedans &<br/> lostes du foeu & laisses secher lad<span class="exp">icte</span> <span class="m">colle</span> puys prenes ung<br/> morceau d<span class="m">estaing</span> & le brunises sur ung <span class="tl"><span class="m">marbre</span></span> aveq de l<span class="m">eaue<br/> claire</span> et puys le coucher sur le <span class="m">boys</span> Et le polisses aveq ung<br/> morceau d<span class="m">estaing</span>
  
  
   

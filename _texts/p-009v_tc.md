@@ -36,7 +36,7 @@ Ils font parfondre l<span class="m">orpiment</span> dans une <span class="tl">bo
 Le Raiglement que les <span class="pro">Marchans</span> ont accoustumé<br/> tenir en leurs livres Scavoir le livre Brouillart<br/> livre de vantes Et le livre Maige aultrement<br/> appelle le livre de Raisons
  
  
- 
+  
 Brouillart
  
 Et premierement francois du Cros doibt du iisuperscript e de<br/> Septembre 1581 / po<span class="exp">ur</span> i cane <span class="m">toille babtiste</span> a 8 livres<br/> Canne Jedis —— 8 l.<span class="x">t</span>. 

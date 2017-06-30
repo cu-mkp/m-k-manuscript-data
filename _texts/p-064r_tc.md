@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Huile gras, azur desmail, huile de noix, Vermeillon, eau, huile, vermeillon blanchastre, obscur, noirastre, vermeillon, laque, minium, cristallin, lopin de foeille d, ceruse blanc de plomb, massicot, vermeillon azur, vert de gris, Ocre jaulne, papier huile, bois, toile]
-tools: []
+materials: [Huile gras, azur desmail, plus cler huile de noix, Vermeillon, eau, huile, vermeillon, laque, minium, cristallin calciné, foeille destain, ceruse blanc de plomb, massicot, vermeillon azur, vert de gris, Ocre jaulne, papier huile, bois, toile]
+tools: [compas]
 measurements: []
 bodyparts: []
 places: []
-plants: []
+plants: [noix]
 professions: []
 environments: []
 animals: []
@@ -33,7 +33,7 @@ Ne poses jamays si tu peulx deulx couleurs lune sur laultre<br/> Mays apres curi
 ## <span class="m">Huile gras</span>
 
  
-Il nest pas bon a travailler de couleurs pourcequils les<br/> rend espesses & aussy difficilles a travailler que l<span class="m">azur<br/> desmail</span> Use doncq du plus cler <span class="m">huile de noix</span> que tu pourras<br/> & du plus frais
+Il nest pas bon a travailler de couleurs pourcequils les<br/> rend espesses & aussy difficilles a travailler que l<span class="m">azur<br/> desmail</span> Use doncq du <span class="m">plus cler huile de <span class="pa">noix</span></span> que tu pourras<br/> & du plus frais
  
  
   
@@ -41,7 +41,7 @@ Il nest pas bon a travailler de couleurs pourcequils les<br/> rend espesses & au
 ## <span class="m">Vermeillon</span>
 
  
-Il ne le fault pas tenir en l<span class="m">eau</span> estant <span class="del">tremper</span> <span class="add">broye</span> a <span class="m">huile</span> car<br/> il pert sa couleur Il est mieulx de choisir du <span class="m">vermeillon<br/> blanchastre</span> que <span class="m">obscur</span> & <span class="m">noirastre</span> Car co<span class="exp">mmun</span>em<span class="exp">ent</span> le <span class="m">vermeillon</span> se<br/> mesle avecq un peu de <span class="m">laque</span> sans laquelle il ne seroict gueres<br/> different du <span class="m">minium</span> Mays le pasle jecte plus de vivacite que<br/> lobscur Il nest pas desiccatif & pour ceste occasion, on y mesle<br/> du <span class="m">cristallin</span> calciné
+Il ne le fault pas tenir en l<span class="m">eau</span> estant <span class="del">tremper</span> <span class="add">broye</span> a <span class="m">huile</span> car<br/> il pert sa couleur Il est mieulx de choisir du <span class="m">vermeillon</span><br/> blanchastre que obscur & noirastre Car co<span class="exp">mmun</span>em<span class="exp">ent</span> le <span class="m">vermeillon</span> se<br/> mesle avecq un peu de <span class="m">laque</span> sans laquelle il ne seroict gueres<br/> different du <span class="m">minium</span> Mays le pasle jecte plus de vivacite que<br/> lobscur Il nest pas desiccatif & pour ceste occasion, on y mesle<br/> du <span class="m">cristallin calciné</span>
  
  
   
@@ -49,7 +49,7 @@ Il ne le fault pas tenir en l<span class="m">eau</span> estant <span class="del"
 ## Couleurs a <span class="m">huile</span> dans l<span class="m">eau</span>
 
  
-Communem<span class="exp">ent</span> apres les avoyr broyees on mect une <span class="del">fo</span> <span class="m">lopin de<br/> foeille d</span>estain dessus & on les mect dans l<span class="m">eau</span> pour les garder<br/> de seicher mays cela est plus propre pour la <span class="m">ceruse blanc de<br/> plomb</span> <span class="m">minium</span> & <span class="m">massicot</span> que pour les aultres Car la <span class="m">laque</span><br/> y meurt & perd sa couleur le <span class="m">vermeillon azur</span> aussy
+Communem<span class="exp">ent</span> apres les avoyr broyees on mect une <span class="del">fo</span> lopin de<br/> <span class="m">foeille destain</span> dessus & on les mect dans l<span class="m">eau</span> pour les garder<br/> de seicher mays cela est plus propre pour la <span class="m">ceruse blanc de<br/> plomb</span> <span class="m">minium</span> & <span class="m">massicot</span> que pour les aultres Car la <span class="m">laque</span><br/> y meurt & perd sa couleur le <span class="m">vermeillon azur</span> aussy
  
  
   
@@ -90,5 +90,5 @@ Le <span class="m">vert <span class="add">de gris</span></span> ne se meurt poin
 ** Oeil **
 
  
- Tout oeil doibt<br/> suivre le rond<br/> du compas & non pas<br/> estre plat & quarre
+ Tout oeil doibt<br/> suivre le rond<br/> du <span class="tl">compas</span> & non pas<br/> estre plat & quarre
  

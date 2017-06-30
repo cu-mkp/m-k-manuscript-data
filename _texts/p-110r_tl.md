@@ -30,10 +30,10 @@ You could cast from already casted things and animals, but it never works as wel
  
   
 
-## Rock and grotto
+## Rock & grotto
 
  
-You need to grind white and yellow <span class="m">marcasites</span> & various kinds of <span class="m">mines</span>. Wash them thoroughly, so the soiled and chalky end will be clean, in order that only the lustrous grain of the <span class="m">mine</span> will be left, from which you will powder your rock previously covered with <span class="m">colle forte</span>, if your grotto is not used as a fountain and touches water. You will thus obtain a nice work.
+You need to grind white & yellow <span class="m">marcasites</span> & various kinds of <span class="m">mines</span>. & wash them thoroughly, so the soiled & chalky end will be clean, & in order that only the lustrous grain of the <span class="m">mine</span> will be left, from which you will powder your rock previously covered with <span class="m">colle forte</span>, if your grotto is not used as a fountain & touches water. You will thus obtain a nice work.
  
  
   
@@ -41,7 +41,7 @@ You need to grind white and yellow <span class="m">marcasites</span> & various k
 ## Snakes
 
  
-When they feel trapped, they seldom bite, and cannot really hurt unless they are really big snakes. The most important thing is to avoid being bitten before capturing them. Having put your foot as close as possible from the neck, you holds it as close to the head as possible. That way, it will not bite if it cannot stretch its neck and do a sinuous turn, it will not be able to hurt from a frontal attack, nor will it be able to twist into an S. I have found out that the person who taught me how to mold them was little afraid of snakes. He would catch one and pull it quickly, grabbed it by the neck and, putting it under his shoe, flattened it so it would eject from the behind, which is five or six fingers from the tail, everything that is bad and venomous in the belly. After that, the snake has no strength to bite and, if by chance it still bites and ejects from its behind some garbage, he <span class="x">the man</span> would dig in the soil with a knife and bury his hand in the fresh and humid soil which, applied to the infected part of the hand, would suck all the venom, without doing anything else. It was the same with toad venom, as I have seen experimented.
+When they feel trapped, they seldom bite, & cannot really hurt unless they are really big snakes. The most important thing is to avoid being bitten before capturing them. Having put your foot as close as possible from the neck, you holds it as close to the head as possible. That way, it will not bite if it cannot stretch its neck & do a sinuous turn, it will not be able to hurt from a frontal attack, nor will it be able to twist into an S. I have found out that the person who taught me how to mold them was little afraid of snakes. & he would catch one and pull it quickly, & grabbed it by the neck &, putting it under his shoe, flattened it so it would eject from the behind, which is five or six fingers from the tail, everything that is bad and venomous in the belly. After that, the snake has no strength to bite and, if by chance it still bites and ejects from its behind some garbage, he <span class="x">the man</span> would dig in the soil with a knife & bury his hand in the fresh & humid soil which, applied to the infected part of the hand, would suck all the venom, without doing anything else. It was the same with toad venom, as I have seen experimented.
  
 > *at left middle margin*
 > 

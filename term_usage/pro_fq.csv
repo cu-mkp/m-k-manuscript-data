@@ -1,5 +1,5 @@
-24|orfevres
-16|fondeurs
+26|orfevres
+19|fondeurs
 15|painctres
 8|verriers
 7|pintiers
@@ -10,13 +10,14 @@
 5|Painctre
 4|ouvrier
 4|fourbisseur
+4|artiste
 3|pionniers
 3|ouvriers
 3|orfevre
 3|mareschaulx
+3|maistres
 3|imprimeurs
 3|canoniers
-3|artiste
 3|artisans
 3|apotiquaires
 3|Vitrier
@@ -27,13 +28,14 @@
 2|sarruriers
 2|quiterniers
 2|pionners
+2|painctre
 2|moissonneur
 2|minerons
 2|menusiers
-2|maistres
 2|imprimeur
 2|garson
 2|courroieur
+2|aprentis
 2|apothiquaires
 2|Pintiers
 2|Pintier
@@ -69,12 +71,12 @@
 1|petits 
 1|pelerin
 1|paysant
+1|paysans
 1|pauvres paysans
 1|pastissiers
 1|parfumeurs
 1|parayres
 1|paintre
-1|painctre
 1|ouvriers de fer
 1|orfevres qui travaillent de grosserie et vaisselle
 1|orfevres qui travaillent de grosserie
@@ -99,6 +101,7 @@
 1|forbisseurs
 1|forbisseur
 1|fondeurs de grands ouvraiges
+1|fondeurs de grand gect
 1|fondeurs dartiglerie &amp; de cloches
 1|fondeurs dartiglerie
 1|fondeur
@@ -138,6 +141,7 @@
 1|bimbalotiers
 1|bergiers
 1|barbiers
+1|ayes quelquun qui chante
 1|aultres qui travaillent aulx champs
 1|assistant
 1|artisans qui travaillent en grands ouvraiges
@@ -145,7 +149,7 @@
 1|artisans de metaulx dor &amp; dargent &amp; aultres
 1|argentiers
 1|archiers
-1|aprentis
+1|aprentif
 1|aprantis
 1|apoticquaire
 1|apothicaires
