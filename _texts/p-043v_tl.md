@@ -8,8 +8,8 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [wine, Brazilwood, clear water, tinted water, lemon, orange, Pearls, talc, powder, felt, leather, paper]
-tools: []
+materials: [wine, Brazilwood, clear water, tinted water, lemon, orange, Pearls, pulverised talc, powder, felt, leather, paper]
+tools: [lamp]
 measurements: []
 bodyparts: []
 places: [Brazilwood]
@@ -33,7 +33,7 @@ Grate <span class="m"><span class="pl">Brazilwood</span></span> very fine, let i
 ## <span class="m">Pearls</span>
 
  
-It is said that pulverised <span class="m">talc</span> blown into a lamp makes them so. 
+It is said that <span class="m">pulverised talc</span> blown into a <span class="tl">lamp</span> renders them thus. 
  
  
   

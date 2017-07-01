@@ -8,8 +8,8 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [balas ruby, tripoli, marcasite powder, oil, Or moulu, argent moulu, fine gold, ☿, mercury, marble, gum water, silver, aqua fortis, copper, stones, tin, lead, diamond, ruby, sapphire, jacinth, emeralds, amethysts, fine tin, latten filings, stoneware, water, urc, ☾, ☼, ♀]
-tools: [marble, copper blade]
+materials: [balas ruby, tripoli, marcasite powder, oil, Or moulu, argent moulu, fine gold, ☿, mercury, marble, gum water, silver, aqua fortis, copper, stones, tin, lead, fine copper, diamond, ruby, sapphire, oriental jacinth, emerald, amethyst, fine tin, latten filings, stoneware, water, urc, ☾, ☼, ♀]
+tools: [marble, copper blade, wheels for doing this, one of tin, one of lead, & one of fine copper, copper wheel, tin wheel]
 measurements: [half, eighth part]
 bodyparts: []
 places: []
@@ -33,7 +33,7 @@ It is not polished with <span class="m">tripoli</span> <span class="del">but</sp
 ## <span class="m">Or <span class="sup">moulu</span></span> et <span class="m">argent moulu</span>
 
  
-You need to calcine your <span class="m">fine gold</span> with <span class="m">☿</span> and then wipe your amalgam well & make the said <span class="m">mercury</span> fly off. Next crush it on <span class="tl"><span class="m">marble</span></span> with <span class="m">gum water</span>. As for <span class="m">silver</span> one needs to take it as is & eat away at it with <span class="m">aqua fortis</span>, then take it out with a <span class="tl"><span class="m">copper</span> blade</span> & rinse it thoroughly and next grind it with <span class="m">gum water</span>.
+You need to calcine your <span class="m">fine gold</span> with <span class="m">☿</span> and then wipe your amalgam well & make the said <span class="m">mercury</span> fly off. Next grind it on <span class="tl"><span class="m">marble</span></span> with <span class="m">gum water</span>. As for <span class="m">silver</span> one needs to take it as is & eat away at it with <span class="m">aqua fortis</span>, then take it out with a <span class="tl"><span class="m">copper</span> blade</span> & rinse it thoroughly and next grind it with <span class="m">gum water</span>.
  
  
   
@@ -41,7 +41,7 @@ You need to calcine your <span class="m">fine gold</span> with <span class="m">�
 ## Polishing <span class="m">stones</span>
 
  
-There are three wheels for doing this, one of <span class="m">tin</span>, one of <span class="m">lead</span>, & one of fine <span class="m">copper</span>, on the <span class="del">cu</span><span class="m">copper</span> wheel one does not commonly cut <span class="del">co</span> or polish but the <span class="m">diamond</span>, the <span class="m">ruby</span>, <span class="m">sapphire</span>, & oriental <span class="m">jacinth</span>. The <span class="m">tin</span> wheel is for more tender stones like <span class="m">emeralds</span>, <span class="m">amethysts</span>, & others.
+There are three <span class="tl">wheels for doing this, one of <span class="m">tin</span>, one of <span class="m">lead</span>, & one of <span class="m">fine copper</span></span>, on the <span class="del">cu</span> <span class="tl"><span class="m">copper</span> wheel</span> one does not commonly cut <span class="del">co</span> or polish but the <span class="m">diamond</span>, the <span class="m">ruby</span>, <span class="m">sapphire</span>, & <span class="m">oriental jacinth</span>. The <span class="tl"><span class="m">tin</span> wheel</span> is for more tender stones like <span class="m">emerald</span>, <span class="m">amethyst</span>, & others.
 
  
   

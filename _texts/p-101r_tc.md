@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Minium, charbon, minium, or, antimoine, Topasse, pierreries, caillous, cuivre, esmeraulde, fer, topasse, ambre, ruby, pierre ponce, pierre a foeu, emaulx, vitre, esmaulx, tartre, arene, Sel, salpestre, sel commun, mabre, metal]
+materials: [Minium, charbon, minium, or, antimoine, Topasse, pierreries, caillous, cuivre, esmeraulde, fer, topasse, ambre, ruby, pierre ponce, pierre a foeu, emaulx, vitre, esmaulx, tartre, arene, Sel, salpestre, sel commun, cuivre fondu, mabre, metal]
 tools: [crusol, tuile, grille, fourneau, carreau, four de charbon, four, tuiles, mortier de cuivre, mortier de fer, pilons, mortiers, four a vent, mabre]
 measurements: [℥, jour, poix, heure, aultant]
 bodyparts: [gueule]
@@ -53,7 +53,7 @@ La mesme doze sobserve en toutes <span class="m">pierreries</span> scavoir un<br
 ## <span class="m">Sel</span> a fayre fondre
 
  
-Mesle <span class="m">salpestre</span> & <span class="m">sel commun</span> et fais fondre ensemble<br/> & jecte sur le <span class="m">cuivre</span> fondu ou <span class="del">ch</span> en bain & il le purifie<br/> & faict courre merveilleusement Premierem<span class="exp">ent</span> il fault decrepiter<br/> le <span class="m">sel commun</span> cest a dire le tenir dans bon foeu jusques a<br/> ce quil ne petille plus Ou pour le mieulx le fondre dans<br/> un <span class="tl">four a vent</span> Et le jecter nettem<span class="exp">ent</span> sur un <span class="tl"><span class="m">mabre</span></span> puys le piler<br/> & broyer fort subtillem<span class="exp">ent</span> puys le mectre dans un <span class="tl">crusol</span> sur <span class="ms">aulta<span class="exp">n</span>t</span><br/> de <span class="m">salpestre</span> & le laisser bouillir & mesler ensemble jusques a ce
+Mesle <span class="m">salpestre</span> & <span class="m">sel commun</span> et fais fondre ensemble<br/> & jecte sur le <span class="m">cuivre fondu</span> ou <span class="del">ch</span> en bain & il le purifie<br/> & faict courre merveilleusement Premierem<span class="exp">ent</span> il fault decrepiter<br/> le <span class="m">sel commun</span> cest a dire le tenir dans bon foeu jusques a<br/> ce quil ne petille plus Ou pour le mieulx le fondre dans<br/> un <span class="tl">four a vent</span> Et le jecter nettem<span class="exp">ent</span> sur un <span class="tl"><span class="m">mabre</span></span> puys le piler<br/> & broyer fort subtillem<span class="exp">ent</span> puys le mectre dans un <span class="tl">crusol</span> sur <span class="ms">aulta<span class="exp">n</span>t</span><br/> de <span class="m">salpestre</span> & le laisser bouillir & mesler ensemble jusques a ce
  
 > *at left bottom margin*
 > 

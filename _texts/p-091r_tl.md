@@ -8,15 +8,15 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [bark, old wood, young wood, cuttlefish bone, bones, counter bone, willow charcoal, metal, lead]
-tools: []
+materials: [bark, old wood, young wood, cuttlefish bone, bone, rooftile, pulverized willow charcoal, bones, willow charcoal, brick, metal, lead]
+tools: [cuttlefish bone, knife, hooked rooftile, bones, counter bone, bone, hammered, chisel, mold, pen-knife]
 measurements: []
 bodyparts: []
 places: []
-plants: []
+plants: [willow]
 professions: []
-environments: []
-animals: []
+environments: [in a damp place]
+animals: [cuttlefish]
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-091r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f187.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>091r</a> - - - - - </div>  
@@ -36,15 +36,15 @@ One must use <span class="m">old wood</span> to graft, if one wants to graft on 
  
   
 
-## Molding with <span class="m">cuttlefish bone</span>
+## Molding with <span class="tl"><span class="m"><span class="al">cuttlefish</span> bone</span></span>
 
  
-Guard against keeping them in a damp place, for they are well prone to getting moist. If your medal is small, cut the bone in two then even it out with a knife. And on a hooked rooftile, well dry &well smooth & covered with pulverized willow charcoal, rub & smooth the two half <span class="m">bones</span>. Thus they absorb this willow charcoal, which makes them release them, guard against removing anything. Then on a <span class="m">counter bone</span>, that is to say a lump of brick, smoothed to the size of your bone, place your medal, & then on this one, place the bone, & press well with some other piece of the same size above. And for the second time, mold it, but before, ponce on top with <span class="m">willow charcoal</span> & blow gently, then press as before, and it will come out neatly. If it is for a spoon handle, one needs two whole <span class="m">bones</span>. All cast work is brittle & subject to breaking, because the <span class="m">metal</span> expands when cast, & retracts & condenses when hammered. That is why, one ought to retraxe the cast thing with a chisel, & in this way the <span class="m">metal</span> retracts, and let it thus escrouir. If the piece for molding is of high relief, first trace the mold & the cavity with a pen—knife, to make way for the medal & then mold. And if the medal has two sides
+Guard against keeping them <span class="env">in a damp place</span>, for they are well prone to getting moist. If your medal is small, cut the <span class="m">bone</span> in two then even it out with a <span class="tl">knife</span>. And on a <span class="tl">hooked <span class="m">rooftile</span></span>, well dry &well smooth & covered with <span class="m">pulverized <span class="pa">willow</span> charcoal</span>, rub & smooth the two half <span class="tl"><span class="m">bones</span></span>. Thus they absorb this <span class="m"><span class="pa">willow</span> charcoal</span>, which makes them release them, guard against removing anything. Then on a <span class="tl">counter bone</span>, that is to say a lump of <span class="m">brick</span>, smoothed to the size of your <span class="tl"><span class="m">bone</span></span>, place your medal, & then on this one, place the <span class="tl"><span class="m">bone</span></span>, & press well with some other piece of the same size above. And for the second time, mold it, but before, ponce on top with <span class="m"><span class="pa">willow</span> charcoal</span> & blow gently, then press as before, and it will come out neatly. If it is for a spoon handle, one needs two whole <span class="tl"><span class="m">bones</span></span>. All cast work is brittle & subject to breaking, because the <span class="m">metal</span> expands when cast, & retracts & condenses when <span class="tl">hammered</span>. That is why, one ought to retrace the cast thing with a <span class="tl">chisel</span>, & in this way the <span class="m">metal</span> retracts, and let it thus escrouir. If the piece for molding is of high relief, first trace the <span class="tl">mold</span> & the cavity with a <span class="tl">pen—knife</span>, to make way for the medal & then mold. And if the medal has two sides
  
 > *at left bottom margin*
 > 
 > 
-> Before casting, heat the <span class="m">bones</span> in order to make them lose only the coldness & dampness.
+> Before casting, heat the <span class="tl"><span class="m">bones</span></span> in order to make them lose only the coldness & dampness.
  
 > *at left bottom margin*
 > 

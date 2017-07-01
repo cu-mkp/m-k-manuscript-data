@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [drogues, terre, drappeau, verny, huille daspic, charbons, sang dea Raiec, verre, colle bien clere, erny Rouge, vermilhon, eau de goume, eau, bois, vinaigre bien fort, sel, eau de pluye, verd de Grys, boys, fian de cheval]
+materials: [drogues, terre, drappeau, verny, huille daspic, charbons, sang dea Raiec, verre, colle bien clere, erny Rouge, vermilhon, eau de goume, eau, trbois, vinaigre bien fort, sel, eau de pluye, verd de Grys, boys, fian de cheval]
 tools: [pot de terre, drappeau, baston, fiolle de verre, pinceau, vaisseau de terre]
 measurements: [once, demye once, Jours]
 bodyparts: []
@@ -44,7 +44,7 @@ Prens du <span class="m">vermilhon</span> & le fais tremper aveq de l<span class
  
   
 
-## Pour faire <span class="del">tr</span><span class="m"><span class="add">b</span>ois</span> verd
+## Pour faire <span class="m"><span class="del">tr</span>bois</span> verd
 
  
 Prenes du <span class="m">vinaigre bien fort</span> du <span class="m">sel</span> & de l<span class="m">eau de pluye</span><br/> et fault mectre le tout ensemble aveq du <span class="m">verd de Grys</span><br/> et le mectz dedans ung <span class="tl">vaisseau de <span class="m">terre</span></span> neuf aveq ton<br/> <span class="m">boys</span> & le mectz en du <span class="m">fian de <span class="al">cheval</span></span> bien chault lespace<br/> de huict ou neuf <span class="ms"><span class="tmp">Jours</span></span>

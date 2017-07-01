@@ -8,10 +8,10 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Black varnish, galipot, Gilding, gild, silver, bloodstone, pottée, gold, iron, linen, file, gilded, sanguine]
-tools: [soft file]
-measurements: []
-bodyparts: []
+materials: [Black varnish, galipot, silver, gold, bloodstone, pottée, ashes, iron, white linen, leaf of silver, leaf]
+tools: [soft file, tweezers, iron rod, white linen, file, knife, burnisher]
+measurements: [quarter]
+bodyparts: [nose, fingers]
 places: []
 plants: []
 professions: [painters]
@@ -30,16 +30,16 @@ It is said, at the beginning of the book where you can see it, that it is made w
  
   
 
-## <span class="m">Gilding</span>
+## Gilding
 
  
-One prepares the guards thoroughly with a soft, very <span class="tl">soft file</span> such that there is nothing black left on any of the guards, and next heat them, & pass them as said. But to <span class="m">gild</span> & <span class="m">gild</span> with <span class="m">silver</span>, they ought not to pass, except maybe a little towards blue. Then while the guards are hot, one attaches them to a wood block & with some tweezers one layers the gold & one makes it sit with <span class="m">bloodstone</span>,which is quite clean & rubbed with <span class="m">pottée</span>. And as soon as the guards are cold, one reheats them, then one layers the <span class="m">gold</span> as above. And first one gives <span class="del">de</span> two layers, until the entire guard is well—adorned. And next one reheats as at the beginning, & one gives the third covering of <span class="m">gold</span>. Then one burnishes very thoroughly and with great force with a large <span class="m">bloodstone</span>. <span class="del">And</span> But note that <span class="add">to</span> burnish well, the guard always needs to be warm. And to know this, one smells it & brings it close to the nose. For one ought not to touch with the fingers, but one <span class="del">grasps </span> picks it up from on top of the warm ashes with a small <span class="m">iron</span> rod, which has been purposely made to fit into the eye of the hilt. And when you have finished burnishing it well, rub it well with a piece of white <span class="m">linen</span>, and make sure your <span class="m">gold</span> is thicker and stronger than the ones <span class="pro">painters</span> use. A quarter of a pound is worth fifty or lx s<span class="exp">ols</span>.
+One prepares the guards thoroughly with a soft, very <span class="tl">soft file</span> such that there is nothing black left on any of the guards, and next heat them, & pass them as said. But to gild & gild with <span class="m">silver</span>, they ought not to pass, except maybe a little towards blue. Then while the guards are hot, one attaches them to a wood block & with some <span class="tl">tweezers</span> one layers the <span class="m">gold</span> & one makes it sit with <span class="m">bloodstone</span>,which is quite clean & rubbed with <span class="m">pottée</span>. And when the guards are cold, one reheats them, then one layers the <span class="m">gold</span> as above. And first one gives <span class="del">de</span> two layers, until the entire guard is well—adorned. And next one reheats as at the beginning, & one gives the third covering of <span class="m">gold</span>. Then one burnishes very thoroughly and with great force with a large <span class="m">bloodstone</span>. <span class="del">And</span> But note that <span class="add">to</span> burnish well, the guard always needs to be warm. And to know this, <span class="sn">one smells it & brings it close to the <span class="bp">nose</span></span>. For one ought not to touch with the <span class="bp">fingers</span>, but one <span class="del">grasps</span> picks it up from on top of the warm <span class="m">ashes</span> with a small <span class="tl"><span class="m">iron</span> rod</span>, which has been purposely made to go into the eye of the guard. And when it is entirely well—polished, one rubs it very well with a <span class="tl"><span class="m">white linen</span></span>, and the <span class="m">gold</span> needs to be thicker & stronger than for <span class="pro">painters</span>. A <span class="ms">quarter</span> is worth fifty or LX <span class="cn">s<span class="exp">ols</span></span>.
  
  
   
 
-## <span class="m">Gilding</span> with <span class="m">silver</span>
+## Gilding with <span class="m">silver</span>
 
  
-You must prepare the hilts and whiten them with a <span class="m">file</span>, coarser than the one used for <span class="m">gold</span>. And you want to pass them <span class="sup">change their color</span> to grey, as you have done for the <span class="m">gold</span>. And since they are warm, you must double the leaves of <span class="m">silver</span> and then divide them with a knife, and then apply them to the hilt with tweezers and a burnisher. And then heat them again, and apply <span class="sup">the silver</span>, until they are all <span class="m">gilded</span> in <span class="m">silver</span>. Then you must apply, for the third time, your doubled leaf as has been said, then burnish them very strongly and with good strength, not with the <span class="m">sanguine</span>, but with a strong burnisher, just as you would not use a burnisher on <span class="m">gold</span>.
+One needs to prepare the guards & whiten them with a <span class="del">lince </span> <span class="tl">file</span>, a little coarser <span class="del">for</span> than for <span class="m">gold</span>. And one makes them pass to grey, as for gilding. And when they are warm, one needs to double the <span class="m">leaf of silver</span>, then divide it with a <span class="tl">knife</span>, next cover the guard with it, with <span class="del">un petit</span> <span class="tl">tweezers</span> & a small <span class="tl">burnisher</span>. And then reheat & apply them, until they are all gilded in <span class="m">silver</span>. Next one needs to cover them for the third time, with the <span class="m">leaf</span> doubled as has been said, then burnish them very strongly & with good strength, not with the <span class="m">bloodstone</span>, but with a strong <span class="tl">burnisher</span>, just as the <span class="tl">burnisher</span> ought not to burnish <span class="m">gold</span>.
  

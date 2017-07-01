@@ -9,7 +9,7 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [metal, estaing, crasse, cuivre, salpestre, absinthe, pouldre, cirop, capilli veneris, confitures, ostie, vin, poyvre, escorce, pierreries, fer, eau, son, farine]
-tools: [marteau]
+tools: [marteau, caisse de fer ne de metal]
 measurements: []
 bodyparts: [estomach, estomac]
 places: []
@@ -41,7 +41,7 @@ Le <span class="m">metal</span> se blanchist tant plus il est refondu pourceque<
 ## Foeilles pour <span class="del">le <span class="ill"></span></span> les <span class="m">pierreries</span>
 
  
-Estant faictes il ne les fault pas tenir dans aulcune caisse de <span class="m">fer</span><br/> ne de <span class="m">metal</span> car cela les faict tacher Mays en quelque boicte de
+Estant faictes il ne les fault pas tenir dans aulcune <span class="tl">caisse de <span class="m">fer</span><br/> ne de <span class="m">metal</span></span> car cela les faict tacher Mays en quelque boicte de
  
  
   

@@ -8,9 +8,9 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [alabaster, Jacinth, rubies, gold, Rubies, antimony, jacinth, Topaz, pumice stone, minium, pumice, fire-stone, Varnish, linseed oil, varnish, very pulverized yellow amber, Ammoniacum, vinegar, gums]
-tools: []
-measurements: []
+materials: [marble, alabaster, Jacinth, ruby, gold, rubified antimony, jacinth, Topaz, pumice stone, minium, pumice, fire-stone, Varnish, linseed oil, varnish, very pulverized yellow amber, Gum ammoniac, vinegar, medicinal gums]
+tools: [crucible, marble, crucibles, cloth strainer]
+measurements: [day]
 bodyparts: []
 places: [Germans]
 plants: [linseed]
@@ -23,7 +23,7 @@ animals: []
  
 *[continued]*
   
-the crucible is red. Next, throw it on a marble, and you will have a white, hard & uniform matter, like <span class="m">alabaster</span>, from which you will be able to cast medals which will look like marble; but guard them from humidity.
+the <span class="tl">crucible</span> is red. Next, throw it on <span class="tl"><span class="m">marble</span></span>, and you will have a substance white, hard & even, like <span class="m">alabaster</span>, with which you will be able to cast medals which will resemble <span class="m">marble</span>, but keep them out of the humidity.
  
  
   
@@ -31,17 +31,17 @@ the crucible is red. Next, throw it on a marble, and you will have a white, hard
 ## <span class="m">Jacinth</span>
 
  
-It is made, like <span class="m">rubies</span>, with <span class="m">gold</span>; but you do not need such a great fire. <span class="m">Rubies</span> want fire for a whole day, and if there is not enough fire, it will only have red veins.
+Is made like <span class="m">ruby</span>, with <span class="m">gold</span>; but one does not need such a great fire. The <span class="m">ruby</span> wants fire for a whole <span class="ms"><span class="tmp">day</span></span>, and if it does not have enough fire, it will only have red veins.
  
 > *at left top margin*
 > 
 > 
->   Always heat up your crucibles. 
+>   Always heat up your <span class="tl">crucibles</span>. 
  
 > *at left top margin*
 > 
 > 
->   One holds that rubified <span class="m">antimony</span> makes <span class="m">jacinth</span>. 
+>   One holds that <span class="m">rubified antimony</span> makes <span class="m">jacinth</span>. 
  
  
   
@@ -62,8 +62,8 @@ The <span class="pl">Germans</span> make <span class="m">minium</span> boil a lo
  
   
 
-## <span class="m">Ammoniacum</span>
+## <span class="m">Gum ammoniac</span>
 
  
-One puts it by small lumps into a bit of good <span class="m">vinegar</span>, & heats it, then passes it through a cloth strainer. All medicinal <span class="m">gums</span> dissolve in <span class="m">vinegar</span>.
+One puts it by small pieces into a little good <span class="m">vinegar</span>, & one heats, then one passes it through a <span class="tl">cloth strainer</span>. All <span class="m">medicinal gums</span> dissolve in <span class="m">vinegar</span>.
  

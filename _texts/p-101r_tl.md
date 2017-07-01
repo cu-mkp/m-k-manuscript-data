@@ -8,9 +8,9 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [minium, charcoal, gold, antimony, tiles, Topaz, gemstones, pebbles, copper, emeralds, iron, topazes, amber, Emerald, topaz, Ruby, pumice stone, fire-stone, ruby, enamels, glass, tartar, Arene, Salt, saltpeter, common salt, ordinary salt, marble]
-tools: [crucible, tile, grill, furnace, tiles, charcoal furnace, copper mortar, iron mortar, pestles, mortars, four à vent]
-measurements: [℥, day, part, parts, hour]
+materials: [minium, charcoal, gold, antimony, tiles, Topaz, gemstones, pebbles, copper, emeralds, iron, topazes, amber, Emerald, topaz, Ruby, pumice stone, fire-stone, ruby, enamels, glass, tartar, Arene, Salt, saltpeter, common salt, melted copper, marble, metal]
+tools: [crucible, tile, grill, furnace, tiles, charcoal furnace, copper mortar, iron mortar, pestles, mortars, four à vent, marble]
+measurements: [℥, day, part, parts, hour, as much]
 bodyparts: [mouth]
 places: []
 plants: []
@@ -53,12 +53,12 @@ The same dose can be observed for all <span class="m">gemstones</span>, which is
 ## <span class="m">Salt</span> for melting
 
  
-Mix <span class="m">saltpeter</span> & <span class="m">common salt</span> and melt them together & throw them onto <span class="m">copper</span>, molten or in a bain, & it will purify it & makes it run marvellously. First, <span class="m">ordinary salt</span> needs to be decrepitated, which is to say holding it over good heat until it crackles no more; or to melt it better, in an <span class="tl">four à vent</span>. Throw it neatly onto a <span class="m">marble</span> <span class="sup">slab</span>, then pestle it & crush it very finely, then put it in a <span class="tl">crucible</span>on as much <span class="m">saltpeter</span>. & Let it boil & mix them together until
+Mix <span class="m">saltpeter</span> & <span class="m">common salt</span> and melt them together & cast on <span class="m">melted copper</span> or <span class="del">ch</span> in a bain, & it purifies & makes it run marvellously. First, one ought to decrepitate the <span class="m">common salt</span>, that is to say holding it over a good fire until it no longer crackles or, to melt it better, in an <span class="tl">four à vent</span>. And throw it neatly on <span class="tl"><span class="m">marble</span></span>, then crush it & grind it very finely, then put it in a <span class="tl">crucible</span> on <span class="ms">as much</span> <span class="m">saltpeter</span> & let it boil, & mix them together until
  
 > *at left bottom margin*
 > 
 > 
->   It cleans & purifies metal well.
+>   It cleans & purifies <span class="m">metal</span> well.
  
 *[continued]*
  

@@ -8,14 +8,14 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [stuc, brique, bol armen, sanguine, cire, plastre, papier pile, terre chimolee, bol, perles jaulnes, tripoly, cuir, pouldre dudict tripoly, perle, enilanroc, ceruse, esmail, arsenic, mabre, fer, charbons, plomb, destaing, agathe]
-tools: [medaille de relief, bouteure dorfevres, mabre, cassete, forge dorfevre, roue de plomb]
+materials: [stuc, brique, bol armen, sanguine, cire, plastre, papier pile, terre chimolee, bol, perles jaulnes, tripoly, cuir, pouldre dudict tripoly, perle, enilanroc, ceruse, esmail recuit, arsenic, mabre, fer, charbons, plomb, destaing, agathe]
+tools: [medaille de relief, bouteure dorfevres, mabre, cassete de fer, forge dorfevre, roue de plomb]
 measurements: []
-bodyparts: []
+bodyparts: [bouche]
 places: [armen]
 plants: []
-professions: [orfevres, lapidaires, orfevre]
-environments: []
+professions: [orfevres, anciens lapidaires, orfevre]
+environments: [pres du feu]
 animals: []
 ---
 
@@ -46,7 +46,7 @@ Fais les doulcement bouillir dans la <span class="tl">bouteure d<span class="pro
 ## Pour blanchir <span class="m">enilanroc</span>
 
  
-Aulcuns pensent que la crouste de couleur de <span class="m">ceruse</span> qui<br/> est dessus soict naturelle aultres disent que cest un secret<br/> des anciens <span class="pro">lapidaires</span> qui sest perdu aultres disent que cest<br/> <span class="m">esmail</span> recuit Et par le moyen de ladicte crouste plusieurs<br/> chifres l<span class="exp">ett</span>res cercles <span class="del">st</span> & aultres bisarries se peuvent former<br/> Quand au moyen je lay practique ainsy Javoys une fois<br/> volonte de luy donner une couche d<span class="m">arsenic</span> broye sur le <span class="m"><span class="tl">mabre</span></span><br/> Toutesfois je lexperimentay sans iceluy Et mis la chose susdicte<br/> <span class="m">enilanroc</span> dans une petite <span class="tl">cassete</span> de <span class="m">fer</span> au feu de ma <span class="tl">forge d<span class="pro">orfevre</span></span><br/> avecq trois ou quattre petits <span class="m">charbons</span> a demy brusles Et ne souflay<br/> quavecq la bouche Et touteffois la chose vint a <span class="del">rougir &</span> prendre<br/> ignition & se fit toute blanche non seulem<span class="exp">ent</span> en la superficie mays<br/> par dedans & lors je la laissay de soymesmes refroidir pres<br/> du feu car aultrem<span class="exp">ent</span> lexposant tout a coup a lair froict elle se<br/> fust esclatee Estant toute blanche je la passay par ma <span class="tl">roue<br/> <span class="add">de <span class="m">plomb</span></span></span> <span class="del"><span class="m">destaing</span></span> ou je la trouvay aussy dure quauparava<span class="exp">n</span>t & descouvra<span class="exp">n</span>t<br/> un peu le blanc je la trouvay de couleur de carnation candide<br/> en fin je la polis & vis quelle prenoit fort beau poliment &<br/> se pouvoict paragonner a une fort belle <span class="m">agathe</span> pour en tailler<br/> quelque beau visaige & le raporter sur <span class="del">la</span> une table dune<br/> 
+Aulcuns pensent que la crouste de couleur de <span class="m">ceruse</span> qui<br/> est dessus soict naturelle aultres disent que cest un secret<br/> des <span class="pro">anciens lapidaires</span> qui sest perdu aultres disent que cest<br/> <span class="m">esmail recuit</span> Et par le moyen de ladicte crouste plusieurs<br/> chifres l<span class="exp">ett</span>res cercles <span class="del">st</span> & aultres bisarries se peuvent former<br/> Quand au moyen je lay practique ainsy Javoys une fois<br/> volonte de luy donner une couche d<span class="m">arsenic</span> broye sur le <span class="tl"><span class="m">mabre</span></span><br/> Toutesfois je lexperimentay sans iceluy Et mis la chose susdicte<br/> <span class="m">enilanroc</span> dans une petite <span class="tl">cassete de <span class="m">fer</span></span> au feu de ma <span class="tl">forge d<span class="pro">orfevre</span></span><br/> avecq trois ou quattre petits <span class="m">charbons</span> a demy brusles Et ne souflay<br/> quavecq la <span class="bp">bouche</span> Et touteffois la chose vint a <span class="del">rougir &</span> prendre<br/> ignition & se fit toute blanche non seulem<span class="exp">ent</span> en la superficie mays<br/> par dedans & lors je la laissay de soymesmes refroidir <span class="env">pres<br/> du feu</span> car aultrem<span class="exp">ent</span> lexposant tout a coup a lair froict elle se<br/> fust esclatee Estant toute blanche je la passay par ma <span class="tl">roue<br/> <span class="add">de <span class="m">plomb</span></span></span> <span class="del"><span class="m">destaing</span></span> ou je la trouvay aussy dure quauparava<span class="exp">n</span>t & descouvra<span class="exp">n</span>t<br/> un peu le blanc je la trouvay de couleur de carnation candide<br/> en fin je la polis & vis quelle prenoit fort beau poliment &<br/> se pouvoict paragonner a une fort belle <span class="m">agathe</span> pour en tailler<br/> quelque beau visaige & le raporter sur <span class="del">la</span> une table dune<br/> 
  
 *[continued]*
  

@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [boys, espine, resine, vermeillon, huile de noix, laque platte de venise, charbon, colophonie, rousine, plombe, eau, caneva, estamine, vinaigre, coral, mastic, soufre, desmail de gueule, ciment, verre, brique, esmail, de gueule, esmails, Vernis, tourmentine de venise, huile de tormentine, huile, tormentine, tourmentine, huile de tourmentine, vernis, vernist, vernis de mastic, Gros vernis, huile de lin, aux, bled, grosse tourmentine commune]
-tools: [pot, doigt]
-measurements: [lb]
+materials: [Coral contrefaict, boys, branche despine, poix resine claire, vermeillon broye, huile de noix, laque platte de venise, resine, charbon, colophonie, rousine, plombe, eau, gros caneva, estamine bien claire, vinaigre, coral, mastic, rousine purifiee, soufre, vermeillon, desmail de gueule, ciment, mesle de verre, brique, esmail de gueule, esmails, Vernis, tourmentine de venise, huile de tormentine, huile, tormentine, tourmentine, huile de tourmentine, vernis, vernist, vernis de mastic, Gros vernis, huile de lin, aux, bled, grosse tourmentine commune]
+tools: [pot plombe, brasier, baston, gros caneva, estamine bien claire, lime, pot, doigt]
+measurements: [lb, once, heure, quarte partie]
 bodyparts: [doigt]
 places: [venise]
-plants: []
+plants: [noix]
 professions: []
 environments: [a lombre, au soleil, pluye]
 animals: []
@@ -22,15 +22,15 @@ animals: []
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-003r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148//f11.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>003r</a> - - - - - </div>  
   
 
-## Coral contrefaict
+## <span class="m">Coral contrefaict</span>
 
  \+ 
-Il fault premierement faire les branches de <span class="m">boys</span> ou<br/> prendre une branche d<span class="m">espine</span> bisarre puys fondre une<br/> lb de poix <span class="m">resine</span> claire de la plus belle et y mectre<br/> une once de <span class="m">vermeillon</span> broye subtillem<span class="exp">ent</span> avecq <span class="m">huile de noix</span><br/> Et si tu y adjoustes un peu de <span class="m">laque platte de venise</span><br/> la couleur en sera plus vive et remuer le tout dans la<br/> <span class="m">resine</span> fondue sur foeu de <span class="m">charbon</span> et non de flamme de<br/> peur que le feu ne sy prenne Apres trempe en tournoya<span class="exp">n</span>t <br/> tes branches dedans & sil y restoit quelque filament<br/> tourne la branche sur la chaleur du <span class="m">charbon</span>
+Il fault premierement faire les branches de <span class="m">boys</span> ou<br/> prendre une <span class="m">branche despine</span> bisarre puys fondre une<br/> <span class="ms">lb</span> de <span class="m">poix resine claire</span> de la plus belle et y mectre<br/> une <span class="ms">once</span> de <span class="m">vermeillon broye</span> subtillem<span class="exp">ent</span> avecq <span class="m">huile de <span class="pa">noix</span></span><br/> Et si tu y adjoustes un peu de <span class="m">laque platte de <span class="pl">venise</span></span><br/> la couleur en sera plus vive et remuer le tout dans la<br/> <span class="m">resine</span> fondue sur foeu de <span class="m">charbon</span> et non de flamme de<br/> peur que le feu ne sy prenne Apres trempe en tournoya<span class="exp">n</span>t <br/> tes branches dedans & sil y restoit quelque filament<br/> tourne la branche sur la chaleur du <span class="m">charbon</span>
  
 > *at left top margin*
 > 
 > 
->   La <span class="m">colophonie</span> nest aultre chose que<br/> <span class="m">rousine</span> recuite Pour bien la faire<br/> Ayes un <span class="tl">pot</span> <span class="m">plombe</span> & fais fondre la<br/> <span class="m">resine</span> & bouillir sur brasier une bonne<br/> heure & jusques a ce quelle ne demonstre<br/> estre poinct espesse ains<br/> claire & liquide co<span class="exp">mm</span>e<br/> <span class="m">eau</span> & que facillement<br/> elle coule & file au bout<br/> dun baston avecq lequel tu la broyes & en fais<br/> lessay Lors coule la<br/> par quelque gros <span class="m">caneva</span><br/> ou <span class="m">estamine</span> bien claire<br/> de sorte quen coulant<br/> elle tombe dans du<br/> <span class="m">vinaigre</span> le plus fort<br/> que tu pourras Car le <span class="m">vinaigre</span> luy donne<br/> force & lempesche destre<br/> si frangible Reitere<br/> cela deulx ou trois<br/> fois & elle sera belle<br/> & bien purifiee pour<br/> contrefaire ton <span class="m">coral</span><br/> Tu peulx mesler la<br/> quarte partie de <span class="m">mastic</span><br/> parmy ta <span class="m">rousine</span> purifiee<br/> pour la rendre plus ferme<br/> et plus belle & si tu prenois<br/> la seule larme du <span class="m">mastic</span><br/> tant mieulx seroit mais<br/> il seroit trop long
+>   La <span class="m">colophonie</span> nest aultre chose que<br/> <span class="m">rousine</span> recuite Pour bien la faire<br/> Ayes un <span class="tl">pot <span class="m">plombe</span></span> & fais fondre la<br/> <span class="m">resine</span> & bouillir sur <span class="tl">brasier</span> une bonne<br/> <span class="ms"><span class="tmp">heure</span></span> & jusques a ce quelle ne demonstre<br/> estre poinct espesse ains<br/> claire & liquide co<span class="exp">mm</span>e<br/> <span class="m">eau</span> & que facillement<br/> elle coule & file au bout<br/> dun <span class="tl">baston</span> avecq lequel tu la broyes & en fais<br/> lessay Lors coule la<br/> par quelque <span class="tl"><span class="m">gros caneva</span></span><br/> ou <span class="tl"><span class="m">estamine bien claire</span></span><br/> de sorte quen coulant<br/> elle tombe dans du<br/> <span class="m">vinaigre</span> le plus fort<br/> que tu pourras Car le <span class="m">vinaigre</span> luy donne<br/> force & lempesche destre<br/> si frangible Reitere<br/> cela deulx ou trois<br/> fois & elle sera belle<br/> & bien purifiee pour<br/> contrefaire ton <span class="m">coral</span><br/> Tu peulx mesler la<br/> <span class="ms">quarte partie</span> de <span class="m">mastic</span><br/> parmy ta <span class="m">rousine purifiee</span><br/> pour la rendre plus ferme<br/> et plus belle & si tu prenois<br/> la seule larme du <span class="m">mastic</span><br/> tant mieulx seroit mais<br/> il seroit trop long
  
 > *at left middle margin*
 > 
@@ -40,12 +40,12 @@ Il fault premierement faire les branches de <span class="m">boys</span> ou<br/> 
 > *at top margin*
 > 
 > 
->   Le <span class="m">coral</span> faict <span class="m">desmail de gueule</span> endure la lime et le polissem<span class="exp">ent</span>
+>   Le <span class="m">coral</span> faict <span class="m">desmail de gueule</span> endure la <span class="tl">lime</span> et le polissem<span class="exp">ent</span>
  
 > *at right top margin*
 > 
 > 
->   Il se faict co<span class="exp">mm</span>e le <span class="m">ciment</span> qui est<br/> plus fort mesle de <span class="m">verre</span> <span class="del">que de</span><br/> pile que de <span class="m">brique</span> Ainsy on y<br/> mesle avecq le <span class="m">vermeillon</span> de l<span class="m">esmail</span><br/> <span class="m">de gueule</span> qui est rouge en corps bien<br/> pile Ainsy de toutes couleurs d<span class="m">esmails</span>
+>   Il se faict co<span class="exp">mm</span>e le <span class="m">ciment</span> qui est<br/> plus fort <span class="m">mesle de verre</span> <span class="del">que de</span><br/> pile que de <span class="m">brique</span> Ainsy on y<br/> mesle avecq le <span class="m">vermeillon</span> de l<span class="m">esmail<br/> de gueule</span> qui est rouge en corps bien<br/> pile Ainsy de toutes couleurs d<span class="m">esmails</span>
  
  
   

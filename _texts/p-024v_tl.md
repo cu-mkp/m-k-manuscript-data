@@ -44,31 +44,19 @@ animals: []
 > 
 > 
 >    
-
-** Lined cannons **
-
- 
-are those with a lining in the powder container space. The bullet rolls only up to the opening of this chamber. These ones are not so efficient and are not easy to load but they do not light up so quickly.
+Lined cannonsare those with a lining in the powder container space. The bullet rolls only up to the opening of this chamber. These ones are not so efficient and are not easy to load but they do not light up so quickly.
 
  
 > *at left middle margin*
 > 
 > 
 >    
-
-** <span class="m">Steel</span> touch—hole **
-
- 
-is to be put as an anchor in the canons so it will not be damaged during the shooting unlike the others very quickly did. But these anchors are prone to jump off and injure the canonner. The only thing is to use an appropriate touch—hole.
+<span class="m">Steel</span> touch—holeis to be put as an anchor in the canons so it will not be damaged during the shooting unlike the others very quickly did. But these anchors are prone to jump off and injure the canonner. The only thing is to use an appropriate touch—hole.
 
  
 > *at left middle margin*
 > 
 > 
 >    
-
-
-## A touch—hole at
-
-the bottom level is the best. That way the cannon does not come backwards.
+A touch—hole atthe bottom level is the best. That way the cannon does not come backwards.
 

@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [drugs, earthen, cloth, varnish, spike lavender oil, coals, sang dea Raiec, glass, glue very clear, red varnish, vermillion, gum water, water, wood, very strong vinegar, salt, rainwater, verdigris, horse dung]
+materials: [drugs, earthen, cloth, varnish, spike lavender oil, coals, sang dea Raiec, glass, glue very clear, red varnish, vermillion, gum water, water, trwood, very strong vinegar, salt, rainwater, verdigris, wood, horse dung]
 tools: [earthen pot, cloth, stick, glass vial, pinceau, earthen vessel]
 measurements: [ounce, half ounce, days]
 bodyparts: []
@@ -44,7 +44,7 @@ Take <span class="m">vermillion</span> & soak it with <span class="m">gum water<
  
   
 
-## For making <span class="del">tr</span> green <span class="m"><span class="add">w</span>ood</span>
+## For making green <span class="m"><span class="del">tr</span>wood</span>
 
  
 Take <span class="m">very strong vinegar</span>, <span class="m">salt</span>, & <span class="m">rainwater</span>, and one needs to put it all together with <span class="m">verdigris</span>, and put it in a new <span class="tl"><span class="m">earthen</span> vessel</span> with your <span class="m">wood</span>, & put it in some very warm <span class="m"><span class="al">horse</span> dung</span> for the space of eight or nine <span class="ms"><span class="tmp">days</span></span>.

@@ -8,11 +8,11 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [esmeraldesde Brissac, minium, christal, marbre, verdet, safir, Caillous, sel de febvre, coryal]
-tools: []
-measurements: []
+materials: [esmeraldes de Brissac, minium, christal, marbre, verdet, lute, safir, Caillous, sel de febvre, coryal]
+tools: [marbre, croiset couvert d'un aultre bien lute qui ait un trou dans le hault]
+measurements: [℥, |ʒ|, heures, grains]
 bodyparts: []
-places: [brescia]
+places: [brescia, Brissac]
 plants: []
 professions: [febvre]
 environments: []
@@ -26,12 +26,12 @@ animals: []
  
   
 
-## <span class="add">@<span class="m">esmeraldes<br/>de Brissac</span></span>
+## <span class="add">@<span class="m">esmeraldes<br/> de <span class="pl">Brissac</span></span></span>
 
  
-Jai prins <span class="m">miniu<span class="exp">m</span></span> 26 ℥@ <span class="m"><span class="exp">christ</span>al</span>@<span class="add"><span class="ill"></span> et broie sur le <span class="m">marbre</span></span> 12 ℥ <span class="m">v<span class="exp">er</span>det</span> 3 |ʒ| Incorpores le tout ensemble<br/> mis dans un <span class="exp">crois</span>et couvert d'un a<span class="exp">ultr</span>e bien lute qui ait un trou dans<br/> le hault fuzion 7 heures sans soufler la mace a este dun beau<br/> v<span class="exp">er</span>t
+Jai prins <span class="m">miniu<span class="exp">m</span></span> 26 <span class="ms">℥</span>@ <span class="m"><span class="exp">christ</span>al</span>@<span class="add"><span class="ill"></span> et broie sur le <span class="tl"><span class="m">marbre</span></span></span> 12 <span class="ms">℥</span> <span class="m">v<span class="exp">er</span>det</span> 3 <span class="ms">|ʒ|</span> Incorpore<span class="add">s</span> le tout ensemble<br/> mis dans un <span class="tl"><span class="exp">crois</span>et couvert d'un a<span class="exp">ultr</span>e bien <span class="m">lute</span> qui ai<span class="add">t</span> un trou dans<br/> le hault</span> fuzion 7 <span class="ms"><span class="tmp">heures</span></span> sans soufler la mace a este dun beau<br/> v<span class="exp">er</span>t
  
-Jai prins <span class="m">miniu<span class="exp">m</span></span> 12 ℥ <span class="m"><span class="exp">christ</span>al</span> 6 ℥ <span class="m">v<span class="exp">er</span>det</span> 2 grains fuzion doulce<br/> vi heures recuicte 24 heures la mace a este de v<span class="exp">er</span>t Jaulne<br/> & rouge
+Jai prins <span class="m">miniu<span class="exp">m</span></span> 12 <span class="ms">℥</span> <span class="m"><span class="exp">christ</span>al</span> 6 <span class="ms">℥</span> <span class="m">v<span class="exp">er</span>det</span> 2 <span class="ms">grains</span> fuzion doulce<br/> vi <span class="ms"><span class="tmp">heures</span></span> recuicte 24 <span class="ms"><span class="tmp">heures</span></span> la mace a este de v<span class="exp">er</span>t Jaulne<br/> & rouge
  
  
   
@@ -39,5 +39,5 @@ Jai prins <span class="m">miniu<span class="exp">m</span></span> 12 ℥ <span cl
 ## <span class="m">safir</span>
 
  
-<span class="m">Caillous</span> ou <span class="m"><span class="exp">christ</span>al</span> 8 ℥ <span class="m">miniu<span class="exp">m</span></span> 16 ℥ <span class="m">sel de <span class="pro">febvre</span></span> 4 ℥<br/> <span class="m">coryal</span> <span class="x">?</span> extincellent 4 grains fuzion 6 <span class="x">?</span> heures
+<span class="m">Caillous</span> ou <span class="m"><span class="exp">christ</span>al</span> 8 <span class="ms">℥</span> <span class="m">miniu<span class="exp">m</span></span> 16 <span class="ms">℥</span> <span class="m">sel de <span class="pro">febvre</span></span> 4 <span class="ms">℥</span><br/> <span class="unc"><span class="m">coryal</span></span> extincellent 4 <span class="ms">grains</span> fuzion <span class="unc">6</span> <span class="ms"><span class="tmp">heures</span></span>
  

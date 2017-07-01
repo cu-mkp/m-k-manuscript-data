@@ -8,24 +8,24 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Gold, or surmat, canvas, oil, walnut oil, lead, ceruse, massicot, mine, vert-de-gris, orpiment, gold, Gemstones, glass, mastic, wooden, Glass, saltpeter, pebbles, coals, alkali salt]
+materials: [or sur mat, canvas, oil panel, walnut oil, lead, ceruse, massicot, mine, verdet, orpiment, gold, Gemstones, glass, mastic, wooden, Glass, saltpeter, pebbles, coals, alkali salt]
 tools: [mortar, pestle, table, paddle, oven]
 measurements: []
-bodyparts: [eyes, nose, beard, hands]
+bodyparts: [hands]
 places: []
 plants: [walnut]
 professions: [perfumers]
-environments: []
+environments: [in the sun, on the fire, weather is not clear & dry, weather is damp & humid]
 animals: []
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-100r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f205.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>100r</a> - - - - - </div>  
   
 
-## <span class="m">Gold</span> color
+## Gold color
 
  
-To very quickly make a layer of <span class="m">or <span class="del">sur</span>mat</span> on <span class="m">canvas</span> or on other <span class="m">oil</span> panel, one <span class="x">exposes</span> <span class="m"><span class="pa">walnut</span> oil</span> under the sun or on the fire to make it fatty, as previously mentioned, for it thickens by itself in this way, despite having neither <span class="m">lead</span>, nor <span class="m">ceruse</span>. And with it, crush <span class="m">massicot</span>, <span class="m">mine</span>, & other desiccants, but not <span class="m">vert—de—gris</span> nor <span class="m">orpiment</span>, for they make the <span class="m">gold</span> die. It will quickly be dry. However, if the weather is not serain and dry, do not shade it, for if the weather is dewy & humid, it will turn black.
+To quickly make a layer of <span class="m">or <span class="del">sur</span> mat</span> on <span class="m">canvas</span> or other <span class="m">oil panel</span>, one makes fatty <span class="m"><span class="pa">walnut</span> oil</span> <span class="env">in the sun</span> or <span class="env">on the fire</span>, as said above, for it thickens by itself in this way, although there is neither <span class="m">lead</span>, nor <span class="m">ceruse</span>. And with this, grind <span class="m">massicot</span>, <span class="m">mine</span>, & other desiccatives, not <span class="m">verdet</span> nor <span class="m">orpiment</span>, for they cause the <span class="m">gold</span> to die. It will be dry soon. However, if the <span class="env"><span class="tmp">weather is not clear & dry</span></span>, do not shade it, for if the <span class="env"><span class="tmp">weather is damp & humid</span></span>, it would turn black.
  
  
   
@@ -33,7 +33,7 @@ To very quickly make a layer of <span class="m">or <span class="del">sur</span>m
 ## Portrait—painting from nature
 
  
-One must carefully <span class="sn">observe </span>the <span class="bp">eyes</span>, the <span class="bp">nose</span>, and the <span class="bp">beard</span>, since these three things contribute much to the resemblance.
+One needs to carefully <span class="sn">observe</span> the eyes, the nose, & the beard, for these three things make strong resemblance.
  
  
   
@@ -41,7 +41,7 @@ One must carefully <span class="sn">observe </span>the <span class="bp">eyes</sp
 ## <span class="m">Gemstones</span>
 
  
-Your materials need to be pounded in a thick <span class="m">glass</span> <span class="tl">mortar</span> coated with <span class="m">mastic</span> & encased into another <span class="m">wooden</span> <span class="tl">mortar</span>, so that it does not break; this can be useful to <span class="pro">perfumers</span>. & use a <span class="m">glass</span> <span class="tl">pestle</span> too.
+One needs to pound your materials in a thick <span class="m">glass</span> <span class="tl">mortar</span> coated with <span class="m">mastic</span>, & encased & into another <span class="m">wooden</span> <span class="tl">mortar</span>, so that it does not break, this can be useful to <span class="pro">perfumers</span>, & <span class="del">la t</span> use a <span class="m">glass</span> <span class="tl">pestle</span> too.
  
  
 > *at left middle margin*

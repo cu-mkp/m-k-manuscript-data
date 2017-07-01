@@ -23,7 +23,7 @@ animals: []
  
 *[continued]*
   
-crush it separately. When it is well—crushed, take the <span class="m">sal ammoniac</span> & crush it together again. Then take one <span class="ms">ounce</span> of <span class="m">soft tin</span> & one <span class="ms">ounce</span> of <span class="m">quicksilver</span>, then melt your <span class="m">tin</span> & put your <span class="m">quicksilver</span> drop by drop into your <span class="m">tin</span> while melting, & stir with force until it is powder.
+grind it separately. When it is well—ground, take the <span class="m">sal ammoniac</span> & grind it together again. Then take one <span class="ms">ounce</span> of <span class="m">soft tin</span> & one <span class="ms">ounce</span> of <span class="m">quicksilver</span>, then melt your <span class="m">tin</span> & put your <span class="m">quicksilver</span> drop by drop into your <span class="m">tin</span> while melting, & stir with force until it is powder.
  
  
   

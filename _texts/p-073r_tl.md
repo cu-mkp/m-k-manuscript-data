@@ -57,7 +57,7 @@ Take <span class="m">alum</span> with <span class="m">river water</span>, make t
 ## For making <span class="m">bronze</span> in gold color
 
  
-Take one <span class="ms">ounce</span> of <span class="m">sal ammoniac</span> and crush them in an <span class="tl"><span class="m">iron</span> mortar</span>. Once well crushed, take one <span class="ms">ounce</span> of <span class="m">sulfur</span>, and 
+Take one <span class="ms">ounce</span> of <span class="m">sal ammoniac</span> and grind it in an <span class="tl"><span class="m">iron</span> mortar</span>. Once well ground, take one <span class="ms">ounce</span> of <span class="m">sulfur</span>, and 
  
 *[continued]*
  

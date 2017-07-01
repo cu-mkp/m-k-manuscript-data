@@ -9,12 +9,12 @@ mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [cloth, oil, red varnish, vermillion, gum water quite clear, yellow varnish, gum arabic, water, well beaten saffron, gum, varnish, white wax, ceruse, fine pitch, wood, green wax, verdigris]
-tools: [cloth that is woven tight enough, palm, pot]
+tools: [cloth that is woven tight enough, palm, pot, palette of wood]
 measurements: []
 bodyparts: [hands, palm]
 places: []
 plants: []
-professions: []
+professions: [apothecary]
 environments: []
 animals: []
 ---
@@ -39,7 +39,7 @@ Take <span class="m">vermillion</span> and make it soak in <span class="m">gum w
 ## For making <span class="m">yellow varnish</span>
 
  
-Take some <span class="m">gum arabic</span> & make it <span class="del">tr</span> soak with <span class="m">water</span>, then take some <span class="m">well beaten saffron</span>, & soak the said <span class="m">gum</span>, and make it quite clear, then make your ground layer on that which you want to varnish, & let it dry, & when it is dry give another ground layer of the same, & let it dry as before until it is dry enough. Then take <span class="m">varnish</span> from an apothecary. Crush by blows one far enough from the other. Then wash your <span class="bp">hands</span> quite well & with your <span class="tl"><span class="bp">palm</span></span> spread your <span class="m">varnish</span>. 
+Take some <span class="m">gum arabic</span> & make it <span class="del">tr</span> soak with <span class="m">water</span>, then take some <span class="m">well beaten saffron</span>, & soak the said <span class="m">gum</span>, and make it quite clear, then make your ground layer on that which you want to varnish, & let it dry, & when it is dry give another ground layer of the same, & let it dry as before until it is dry enough. Then take <span class="m">varnish</span> from an <span class="pro">apothecary</span>. Crush by blows one far enough from the other. Then wash your <span class="bp">hands</span> quite well & with your <span class="tl"><span class="bp">palm</span></span> spread your <span class="m">varnish</span>. 
  
  
   
@@ -47,7 +47,7 @@ Take some <span class="m">gum arabic</span> & make it <span class="del">tr</span
 ## Recipe for white <span class="m">gum</span>
 
  
-Take <span class="m">white wax</span> & <span class="m">ceruse</span> & a little of <span class="m">fine pitch</span> very well pounded together, & put it in a small new <span class="tl">pot</span> & make it melt. And when it will be melted you will make a palette of <span class="m">wood</span> <span class="del">of</span> <span class="add">&</span> burnish what you want. 
+Take <span class="m">white wax</span> & <span class="m">ceruse</span> & a little of <span class="m">fine pitch</span> very well pounded together, & put it in a small new <span class="tl">pot</span> & make it melt. And when it will be melted you will make a <span class="tl">palette of <span class="m">wood</span></span> <span class="del">of</span> <span class="add">&</span> burnish what you want. 
  
  
   

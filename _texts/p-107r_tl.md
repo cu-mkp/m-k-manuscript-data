@@ -8,21 +8,24 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [sand, lizards, snakes, plaster, tiles, stone alum, tile, metal, gold, crocum ferri, filings, sands, marble, Crocum ferri]
+materials: [sand, lizards, snakes, plaster, tile, alum de plume, marble, Crocum ferri]
 tools: []
 measurements: []
 bodyparts: []
 places: []
 plants: []
-professions: [crayfish catchers, apothecaries, glassworker']
+professions: [apothecaries, glassworker]
 environments: []
 animals: [lizards, snakes]
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-107r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f219.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>107r</a> - - - - - </div>  
- 
+> *at left top margin*
+> 
+> 
+>  
 *[continued]*
- 
+   
  
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5RFFFT3hSbnlGaVU" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
@@ -34,15 +37,15 @@ animals: [lizards, snakes]
 ## Catching <span class="m"><span class="al">lizards</span></span> and <span class="m"><span class="al">snakes</span></span>
 
  
-Take a stick, pin a net with a slipknot to the top. Whistle, and move the net nearer to the head of the lizard, and pull when it put it's head inside the net. It is more difficult to take a lizard with your hands than a snake, & because lizards bite without letting go, & bite as strong as pincers.
+Take a stick and attach a string at the end, with has an <span class="del">knot</span> <span class="del">eyelet</span> <span class="add">eyelet</span> that slips at the end. And, being two to three, to distract the lizard while whistling, approach him with the noose of the eyelet, and when he has his head inside, pull. The lizard is more tedious to catch by hand than the serpent & bites without letting go & grips like pincers.
  
-You can take snakes with your hand, but cover your handle with a woollen cloth, because the teeth of the snake could go through a common cloth. You can recognize dangerous snakes by their blue eyes. They do not bite into water, as it is known by <span class="pro">crayfish catchers</span>.
+Snakes can be caught by hand, provided that it is covered by a thick woollen cloth, for the teeth of the snake stay in the cloth, & and cannot pierce like they would with a linen. The dangerous ones are recognisable by their blue eyes & <span class="del">asses</span> deep azur. They hardly ever bite in water, which crayfish catchers have experienced.
  
-The <span class="m">sand</span> mixture is made of two thirds of ground <span class="m">plaster</span>, & reheated as it is said before, & of one part of reddened <span class="m">tiles</span> which are finely ground afterwards. Use also <span class="m">stone alum</span>, half of the quantity of the <span class="m">tiles</span>. Use two full pots of <span class="m">plaster</span>, one pot of <span class="m">tile</span> & half a pot of <span class="m">stone alum</span>. Do not use too much <span class="m">stone alum</span> because that binds the <span class="m">sand</span>, and allow <span class="m">sand</span> to withstand fire without cracking & breaking. Without it <span class="x"><span class="m">stone alum</span></span> <span class="m">sand</span> would not withstand fire, you can use it for all kind of <span class="m">metal</span>, but for <span class="m">gold</span> add a bigger quantity of <span class="m">stone alum</span>, & add also <span class="m">crocum ferri</span>, because they <span class="x">these <span class="m">filings</span></span> attract <span class="m">gold</span>.
+The <span class="m">sand</span> mixture is of two thirds of <span class="m">plaster</span>, pulverized & reheated as it is said, & one part of <span class="m">tile</span>, reddened <span class="del">et p pre</span> <span class="add">in a good fire</span>, after the first cooking & then finely pulverized, and of <span class="m">alum de plume</span>, half of brick, namely two full crucibles of plaster, one of brick & a half of alum de plume. There can never be too much alum de plume,<span class="del">s</span> for this is what gives bond to the sand, and because it does not burn, it makes sand withstand the fire without cracking and bursting. Otherwise, without it, the sand would not withstand. This sand, thus composed, is appropriate for all metals, but if you want to use it for gold, it needs more alum de plume <span class="del">&</span>,than the above mentioned composition, and mix in some crocum ferri, and for it is this one that attracts gold.
  
-All the <span class="m">sands</span> you will cast, must withstand fire very well, it must withstand high temperature without spoiling anything.
+It is necessary that all <span class="m">sand</span> with which you want to cast, withstands the fire well, that is to say that it withstands <span class="del">abon</span> <span class="del">c</span> a great firing without getting spoiled.
  
-It is difficult to grind <span class="m">stone alum</span>, and it cannot be sieved, you must grind it on a <span class="m">marble</span> slab. The white <span class="x"><span class="m">stone alum</span></span> powder the <span class="pro">apothecaries</span> sell is good, it is easy to crush it into a mortar, & use the pestle slowly, that way you will make it <span class="x">the <span class="m">stone alum</span></span> very fine.
+Alum de plume is troublesome to crush, and it does not pass through the sieve. Thusly one ought to grind it finely on <span class="m">marble</span>. And the one, white <span class="del">que v</span> in powder form, that <span class="pro">apothecaries</span> sell, is good. It is finely ground better <span class="del">su</span> in the mortar by crushing &dragging the pinon, thus you will render it very fine.
  
-<span class="m">Crocum ferri</span> must be heated into a <span class="pro">glassworker'</span>s furnace during four days.
+<span class="m">Crocum ferri</span> must be set ablaze in a <span class="pro">glassworker</span>’s furnace for four days.
  

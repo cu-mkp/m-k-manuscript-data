@@ -8,14 +8,14 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [salt water, old wood, Sand, white ash, woods, wood, ashes, tallow, quicklime, flint]
-tools: []
+materials: [salt water, old wood, white ash of all woods, wood, Ashes, well pulverized tallow, Finely pulverized quicklime, flint]
+tools: [hearth]
 measurements: []
 bodyparts: []
 places: []
 plants: []
 professions: []
-environments: []
+environments: [hearth, kitchens, big kitchens]
 animals: []
 ---
 
@@ -54,18 +54,18 @@ All grafts must not be done earlier than the sap flows up, otherwise they dry.
  
   
 
-## <span class="m">Sand</span>
+## Sand
 
  
-The <span class="m">white ash</span> of all <span class="m">woods</span>, which still sticks to the <span class="m">wood</span> that burns, and which has not fallen into the hearth, molds very neatly.
+The <span class="m">white ash of all woods</span>, which still sticks to the <span class="m">wood</span> that burns, and which has not fallen into the <span class="del">bo</span> <span class="env"><span class="tl">hearth</span></span>, molds very neatly.
  
  
   
 
-## <span class="m">Sand</span>
+## Sand
 
  
-Well pulverized <span class="del"><span class="m">ashes</span></span> <span class="m">tallow</span> molds & releases very neatly.The one from the kitchens, which is fat & shiny, from the big kitchens, is better.
+ <span class="del"><span class="m">Ashes</span></span> <span class="m">well pulverized tallow</span> molds & releases very neatly. The one from the <span class="env">kitchens</span>, which is fat & shiny, from the <span class="env">big kitchens</span>, is better.
  
-Finely pulverized <span class="m">quicklime</span> works. The same for broken up <span class="m">flint</span>,which works better in the cavity.
+<span class="m">Finely pulverized quicklime</span> works. The same for broken up <span class="m">flint</span>,which works better in the cavity.
  

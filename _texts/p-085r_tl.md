@@ -20,10 +20,7 @@ animals: [pork]
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-085r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f175.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>085r</a> - - - - - </div>  
-> *at left top margin*
-> 
-> 
->  
+ 
 *[continued]*
   
 to rest on a <span class="tl">very clean & smooth table</span>, & since it is desiccative, I knew it would dry out <span class="del">lor</span>, what I let it do in order to reduce it to powder, & molding it with sand, once broken up with my <span class="tl"><span class="bp">fingers</span></span> & the sharp edge of a <span class="tl">knife</span>. I <span class="m">oiled</span> my medal because <span class="m">oil</span> cleans it without spoiling it. <span class="del">And</span> And having dried it & cleaned it with a <span class="tl"><span class="m">linen</span></span>, & <span class="tl">small bristle brushes of <span class="al">pork</span></span>, I once again lightly <span class="m">oiled</span> it with <span class="m">clear <span class="pa">walnut</span> oil</span>, & gently passed a <span class="tl"><span class="m">linen</span></span> over it, so that it does not remain too <span class="m">oiled</span>, and I noted that, in this way, it would come out better in release, because the <span class="m">ceruse</span>, once moistened with <span class="m">water of egg glair</span>, would not attach to the <span class="m">oil</span>. This worked very well and I molded a medal of high relief very neatly, without making any stickiness, which a lot of good sands, such as <span class="m">felt</span>, <span class="m">burnt bone</span> & <span class="m">iron dross</span>, had failed to do on the first try. I reheated it & my <span class="tl">mold</span> became hard like <span class="m">marble</span>, and I realized with this, that sands for molding high relief should be well moistened with some <span class="m">water</span>, which gives them body & compactness, like <span class="m">egg glair</span>, <span class="m">gummed water</span>, <span class="del">ea</span> <span class="m">wine boiled with <span class="pa">elm root</span></span>, & and lightly <span class="m">oil</span> the medal, it withstands as many castings as you wish, for it is as hard as <span class="m">glass</span>. But even <span class="m">soft lead</span> & <span class="m">brittle tin</span> <span class="del">v</span> want to be cast very hot.
@@ -34,7 +31,11 @@ Since then I have realized that this sand, even though it is excellent & endures
 > 
 > 
 >   Try to mix <span class="m">ceruse</span> or <span class="m">minium</span> with other sands.
- X 
+ 
+> *Figure*
+> *at left top margin*
+> <a href="" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+ 
 > *at left top margin*
 > 
 > 

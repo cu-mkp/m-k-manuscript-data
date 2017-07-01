@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [estaim doux, plomb fin, estaim de glace, argent vif arreste, souldure, estaim fin, estain fin, noir de lampe, eau, cuivre, argent, plomb, estaim, estain, estain doulx, Potin, potin, terre bourre dont usent les fondeurs, terre ardille]
+materials: [estaim doux, plomb fin, estaim de glace, argent vif arreste, souldure, estaim fin, estain fin, noir de lampe, eau, cuivre, argent, plomb, estaim, estain, estain doulx, Potin, potin, verd, terre bourre dont usent les fondeurs, terre ardille]
 tools: [plat destaim fin, chassis, pinceau, grille]
 measurements: [℥, partye, partie, moictie]
 bodyparts: []
@@ -47,7 +47,7 @@ L<span class="m">estain doulx</span> qui est le meilleur pour le gect est celuy 
 ## <span class="m">Potin</span>
 
  
-Le <span class="m">potin</span> estant gecte chault court & coule co<span class="exp">mm</span>e <span class="m">estaim</span> Mays la<br/> medaille en est blanchastre et jecte incontinent le verd Ce que ne faict<br/> la bonne matiere
+Le <span class="m">potin</span> estant gecte chault court & coule co<span class="exp">mm</span>e <span class="m">estaim</span> Mays la<br/> medaille en est blanchastre et jecte incontinent le <span class="m">verd</span> Ce que ne faict<br/> la bonne matiere
  
  
   

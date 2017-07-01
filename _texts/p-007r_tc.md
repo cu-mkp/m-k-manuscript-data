@@ -13,7 +13,7 @@ tools: [bouche]
 measurements: [jours]
 bodyparts: [bouche]
 places: []
-plants: [cormier]
+plants: [cormier, safran]
 professions: [menusiers, quiterniers]
 environments: [au soleil, a la pluye]
 animals: [dragon, poisson, moulue]
@@ -41,7 +41,7 @@ La stampe de <span class="m">lamine de cuivre ou letton</span> se faict sur du <
 ## Doublets
 
  
-Le bon <span class="m">sang de <span class="al">dragon</span></span> destrempe en <span class="m">eau de vye</span> porte son<br/> <span class="m">mastic</span> ou <span class="m">colle</span> soy mesme comme aussi faict le <span class="m">verd de vessie</span> & le<br/> <span class="m">safran</span>
+Le bon <span class="m">sang de <span class="al">dragon</span></span> destrempe en <span class="m">eau de vye</span> porte son<br/> <span class="m">mastic</span> ou <span class="m">colle</span> soy mesme comme aussi faict le <span class="m">verd de vessie</span> & le<br/> <span class="m"><span class="pa">safran</span></span>
  
  
   

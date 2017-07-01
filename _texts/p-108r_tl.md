@@ -22,7 +22,7 @@ animals: []
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-108r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f221.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>108r</a> - - - - - </div>  
  
 *[continued]*
- 
+  
 To hold the cores, some <span class="x">people</span> use <span class="m">wire</span> made of the same <span class="m">metal</span> as that to be cast because it boils down & is made similarly, but when it is melted or pliant the core varies. Other <span class="x">people</span> find it serves them better to use sharpened <span class="m">iron wire</span> about the borders because it holds more firmly, & having fine points it does not rise up any more than the point of a needle and one can apply <span class="m">gold</span> or <span class="m">silver</span> on this rather than putting it in works <span class="x">where</span> one makes a hole in the work with a small chisel.
  
 <span class="m">Spirits</span> prevent the sand from bubbling & do not make little holes on the borders of the mold if the thing to be molded is very damp, the holes & farts & bubbling does not make it in the place of the mold which is thick but at the borders which are more delicate.

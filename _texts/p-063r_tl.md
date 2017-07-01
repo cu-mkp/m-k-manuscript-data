@@ -54,7 +54,7 @@ The <span class="pl">Germans</span> use <span class="m">lead from <span class="p
 ## Shadows
 
  
-<span class="pl">German</span> <span class="pro">painters</span> make their shadows on flesh colour of people with crushed <span class="m">jet</span>, <span class="m">stil de grain yellow</span> & <span class="m">ochre</span>.
+<span class="pl">German</span> <span class="pro">painters</span> make their shadows on flesh colour of people with ground <span class="m">jet</span>, <span class="m">stil de grain yellow</span> & <span class="m">ochre</span>.
  
  
   
@@ -70,5 +70,5 @@ It is only used in <span class="m">distemper</span>, & with this wood color is m
 ## <span class="m">Verdigris</span> and another very beautiful bright green
 
  
-One ought not to crush it with <span class="m">water</span> alone, for that makes it die. To render it beautiful in <span class="m">distemper</span>, some crush it with <span class="m">vinegar</span>, but that makes it turn pale & become whitish. To render it beautiful, crush it with <span class="m">urine</span> & leave to dry. Then, whenever you like, crush it with <span class="m">oil</span>. And after you have collected it with the <span class="tl">spatula</span>, before finishing to clean the <span class="tl"><span class="m">marble</span></span>, crush <span class="m">stil de grain yellow</span> on it. And you will have a very beautiful green.
+One ought not to grind it with <span class="m">water</span> alone, for that makes it die. To render it beautiful in <span class="m">distemper</span>, some grind it with <span class="m">vinegar</span>, but that makes it turn pale & become whitish. To render it beautiful, grind it with <span class="m">urine</span> & leave to dry. Then, whenever you like, grind it with <span class="m">oil</span>. And after you have collected it with the <span class="tl">spatula</span>, before finishing to clean the <span class="tl"><span class="m">marble</span></span>, grind <span class="m">stil de grain yellow</span> on it. And you will have a very beautiful green.
  

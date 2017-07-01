@@ -49,8 +49,3 @@ It is necessary to pick them in full bloom and color, and only pick them, if it 
 > *at left bottom margin*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5dVB5bzVUWWJuS0U" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
-> *at left middle margin*
-> 
-> 
->   This is a core mold.
- 

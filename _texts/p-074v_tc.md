@@ -9,7 +9,7 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [toille, huille, vernys Rouge, vermilhon, eaue de gaulme bien clair, vernys Jaulne, Gaulme arrabic, eaue, saffran bien baptu, Gaulme, verny, Sire blanche, seruze, poix fine, boys, Gorime, cire verte, vert de Gris]
-tools: [toille qui soit asses serree, paulme, pot]
+tools: [toille qui soit asses serree, paulme, pot, palette de boys]
 measurements: []
 bodyparts: [main, paulme]
 places: []
@@ -47,7 +47,7 @@ Prenes dela <span class="m">Gaulme arrabic</span> & la faictes <span class="del"
 ## Recepte pour <span class="m">Gaulme</span> blanche
 
  
-Prenes <span class="m">Sire blanche</span> & dela <span class="m">seruze</span> & ung petict de <span class="m">poix<br/> fine</span> tresbien pillee Ensemble & la mectes dedans ung petict<br/> <span class="tl">pot</span> neuf & la faictes fondre Et quand elle sera fondue vous<br/> feres une palette de <span class="m">boys</span> <span class="del">de</span> <span class="add">&</span> brunises ce q<span class="exp">ue</span> vouldres
+Prenes <span class="m">Sire blanche</span> & dela <span class="m">seruze</span> & ung petict de <span class="m">poix<br/> fine</span> tresbien pillee Ensemble & la mectes dedans ung petict<br/> <span class="tl">pot</span> neuf & la faictes fondre Et quand elle sera fondue vous<br/> feres une <span class="tl">palette de <span class="m">boys</span></span> <span class="del">de</span> <span class="add">&</span> brunises ce q<span class="exp">ue</span> vouldres
  
  
   

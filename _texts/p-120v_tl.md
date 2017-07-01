@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-120v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>120v</a> - - - - - </div>  
+<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-120v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>120v</a> - - - - - </div>  
   
 eat by itself. And so that he likes it better, you can add to the meat and the egg some mealworm, because nightingales love them.
  
@@ -75,6 +75,8 @@ See the second folio following <span class="x">this</span>
 > 
 >  Flowers can also be kept in their same beauty in distilled <span class="m">vinegar</span> in a vase, well—sealed so it takes no draft, well—sealed with <span class="m">wax</span> and <span class="m">mastic</span>. Carnations and roses, the residue of common <span class="m">vinegar</span> makes them rot. If the <span class="m">sand</span> makes dust, and sticks to the flowers and hardly comes off with a brush, it is no good. The most lean is the best.
  
+ 
+  
 
 ## Keeping dried flowers in the same condition all year
 

@@ -9,7 +9,7 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [plomb, estaim, estaim fin, plomb naeif &non sophistique, metaulx, charbon, rousine, crasse, estain de glace, metal fondu, metal, estain fin, plomb neuf, cuivre, cendres, os de seiche, papier, estain, cartons, or, boys, carton]
-tools: [doigt, crusol, souflets, raclouer, souflet, moule, molle, moules, presses, planches de cuivre, papier, cartons, poincte dor ou de boys, carton]
+tools: [doigt, crusol, souflets, raclouer, souflet, moule, molle, moules, presses, planches de cuivre, os de seiche, papier, cartons, poincte dor ou de boys, carton]
 measurements: [℥, lb, aussy gros quune ferve, moictie]
 bodyparts: [doigt]
 places: []
@@ -37,7 +37,7 @@ La ligne que jay pratiquee pour <span class="al">lesards</span> & <span class="a
 > *at left top margin*
 > 
 > 
->   \+ Note que si tu<br/> les veulx gecter<br/> en <span class="m">os de <span class="al">seiche</span></span><br/> il ne fault pas<br/> quilz soient gueres<br/> chaulx pourcequilz<br/> brusleroient l<span class="m">os<br/> de <span class="al">seiche</span></span> <span class="sn">Essaye<br/> pour cet effect<br/> avecq du <span class="tl"><span class="m">papier</span></span><br/> sil roussist<br/> le <span class="tl"><span class="m">papier</span></span> cest<br/> asses il est bon<br/> a gecter mays<br/> sil noircist le<br/> <span class="tl"><span class="m">papier</span></span> il est<br/> trop chault</span>
+>   \+ Note que si tu<br/> les veulx gecter<br/> en <span class="tl"><span class="m">os de <span class="al">seiche</span></span></span><br/> il ne fault pas<br/> quilz soient gueres<br/> chaulx pourcequilz<br/> brusleroient l<span class="tl"><span class="m">os<br/> de <span class="al">seiche</span></span></span> <span class="sn">Essaye<br/> pour cet effect<br/> avecq du <span class="tl"><span class="m">papier</span></span><br/> sil roussist<br/> le <span class="tl"><span class="m">papier</span></span> cest<br/> asses il est bon<br/> a gecter mays<br/> sil noircist le<br/> <span class="tl"><span class="m">papier</span></span> il est<br/> trop chault</span>
  
 > *at left bottom margin*
 > 

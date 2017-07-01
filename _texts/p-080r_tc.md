@@ -12,7 +12,7 @@ materials: [cuivre, pouldre, Stuc, Cire blanche, tormentine de venise, coquille 
 tools: []
 measurements: []
 bodyparts: []
-places: []
+places: [venise]
 plants: []
 professions: []
 environments: []
@@ -33,7 +33,7 @@ Ils en font de fine matiere & de fin <span class="m">cuivre</span> qui soict cap
 ## <span class="m">Stuc</span> blanc fort dur
 
  
-<span class="m">Cire blanche</span> <span class="m">tormentine de venise</span> <span class="m">coquille doeuf</span> & <span class="m">ceruse</span>
+<span class="m">Cire blanche</span> <span class="m">tormentine de <span class="pl">venise</span></span> <span class="m">coquille doeuf</span> & <span class="m">ceruse</span>
  
  
   

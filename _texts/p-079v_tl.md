@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [earthen, ashes, varnish, mastic, sang daRage darac, gum arabic, spike lavender oil, glue quite clear, metals, toast, butter, antimony, pig's bladder, Tin, common tin, fine lead, tin, fine tin, latten, metal scrapings, iron, lead]
+materials: [earthen, ashes, smoke, varnish, mastic, sang daRage darac, gum arabic, spike lavender oil, glue quite clear, smoke of metals, toast, butter, antimony, pig's bladder, Tin, common tin, fine lead, tin, fine tin, latten, metal scrapings, iron, lead]
 tools: [earthenpot]
 measurements: [hours, lb, quintal]
 bodyparts: []
@@ -23,7 +23,7 @@ animals: [pig]
  
 *[continued]*
   
-and put it into an <span class="tl"><span class="m">earthen</span>pot</span>, & it should have many hot <span class="m">ashes</span> underneath, & little by little you will make the fire underneath bigger and bigger, & one ought not move it, & when it will be cooked, & it needs to be for six <span class="ms"><span class="tmp">hours</span></span>, mind that the smoke does not harm you for it is bad.
+and put it into an <span class="tl"><span class="m">earthen</span>pot</span>, & it should have many hot <span class="m">ashes</span> underneath, & little by little you will make the fire underneath bigger and bigger, & one ought not move it, & when it will be cooked, & it needs to be for six <span class="ms"><span class="tmp">hours</span></span>, mind that the <span class="m">smoke</span> does not harm you for it is bad.
 
  
   
@@ -36,7 +36,7 @@ Take some <span class="m">mastic</span>, <span class="m">sang <span class="del">
  
   
 
-## Antidote against the smoke of <span class="m">metals</span>
+## Antidote against the <span class="m">smoke of metals</span>
 
  
 In the morning, take a piece of thin <span class="m">toast</span> with <span class="m">butter</span>, neither <span class="m">antimony</span> nor any other vapors will harm you. Or put half a <span class="m"><span class="al">pig</span>'s bladder</span> in front of your face.

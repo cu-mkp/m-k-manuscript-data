@@ -8,13 +8,13 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [porphyry, Terre fondue, water, salt water, wood, soil]
-tools: []
+materials: [water, porphyry, chalk, salts, linen, or burned felt, ashes of paper, Terre fondue of potters, salt water, wood, soil]
+tools: [sieve, vessel, porphyry, mortar, mustard mill]
 measurements: []
 bodyparts: []
 places: []
 plants: []
-professions: [Potters]
+professions: [potters]
 environments: []
 animals: []
 ---
@@ -23,15 +23,15 @@ animals: []
  
 *[continued]*
   
-good & proper for molding. For if it is big, pass it through a sieve, and if it is not yet fine enough, wash it, & when the water will be a little rested, empty the one which is still troubled in some separate vessel. The big ones will fall down quickly to the bottom of the first vessel, but the one which will have come from the troubled water, placed separately, having taken residence, will be very fine. And then, if it does not have enough bond, grind it well dry on <span class="m">porphyry</span>, & you will render it impalpable, & which will have bond just like chalk. Then, if it seems to need it, you will reheat it, & will crush it again & mix it with salts, or linen, <span class="add">or</span> burned felt or ashes of paper & similarly washed things.
+good & proper for molding. For if it is big, pass it through a <span class="tl">sieve</span>, and if it is not yet fine enough, wash it, & when the <span class="m">water</span> will be a little rested, empty the one which is still troubled in some separate <span class="tl">vessel</span>. The big ones will fall down quickly to the bottom of the first <span class="tl">vessel</span>, but the one which will have come from the troubled <span class="m">water</span>, placed separately, having taken residence, will be very fine. And then, if it does not have enough bond, grind it well dry on <span class="tl"><span class="m">porphyry</span></span>, & you will render it impalpable, & which will have bond just like <span class="m">chalk</span>. Then, if it seems to need it, you will reheat it, & will crush it again & mix it with <span class="m">salts</span>, or <span class="m">linen, <span class="add">or</span> burned felt</span> or <span class="m">ashes of paper</span> & similarly washed things.
  
  
   
 
-## <span class="m">Terre fondue</span> of <span class="pro">Potters</span>
+## <span class="m">Terre fondue of <span class="pro">potters</span></span>
 
  
-Grind it in a <span class="del">mortar</span> mustard mill with some <span class="m">water</span>, & and render it impalpable, dry it & next moisten it with <span class="m">salt water</span>, which gives strength to <span class="del">u</span> all sands to withstands several casts.
+Grind it in a <span class="del"><span class="tl">mortar</span></span> <span class="add"><span class="tl">mustard mill</span></span> with some <span class="m">water</span>, & and render it impalpable, dry it & next moisten it with <span class="m">salt water</span>, which gives strength to <span class="del">u</span> all sands to withstands several casts.
  
  
   

@@ -8,8 +8,8 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [metal, tin, filth, copper, saltpeter, wormwood powder, capilli veneris syrup, preserves, bread, wine, pepper, rinds, iron, water, bran, flour]
-tools: [hammer]
+materials: [metal, tin, filth, copper, saltpeter, wormwood powder, capilli veneris syrup, preserves, bread, wine, pepper, rinds, gemstones, iron, water, bran, flour]
+tools: [hammer, case of iron or metal]
 measurements: []
 bodyparts: []
 places: []
@@ -38,10 +38,10 @@ Have some <span class="m">wormwood powder</span>, dissolve it in some <span clas
  
   
 
-## Leaves for the gemstones
+## Leaves for <span class="del">the <span class="ill"></span></span> <span class="m">gemstones</span>
 
  
-Once made, one ought not to keep them in any case or <span class="m">iron</span> or <span class="m">metal</span>, for this stains them, but in some box of
+Once made, one ought not to keep them in any <span class="tl">case of <span class="m">iron</span> or <span class="m">metal</span></span>, for this stains them, but in some box of
  
  
   

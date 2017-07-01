@@ -22,7 +22,7 @@ animals: [cat]
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-019v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f44.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>019v</a> - - - - - </div>  
   
 
-##  Mathematical figures without a <span class="tl">ruler</span> or <span class="tl">compass</span>
+##  Mathematical figures without <span class="tl">ruler</span> or <span class="tl">compass</span>
 
  
  You know how to draw a circle correctly with the <span class="tl">quill</span> & or else with the <span class="tl"><span class="bp">nail of your right thumb</span></span> & the bent <span class="tl"><span class="bp">big finger</span></span>. If you do not have a <span class="tl">ruler</span>, fold <span class="m">paper</span> in two five or six times to use it. And if you want to draw a column, arch, oval, escutcheon correctly without a <span class="tl">compass</span>, fold your <span class="m">paper</span> such that the fold <span class="del">e</span> gives you a straight line, at the required distance from which, trace a point <span class="del">& a</span> or a line & saturate it well with <span class="m">ink</span>. Then fold again the <span class="m">paper</span> & rub it on the back & it will stamp however much you have made. In that way <span class="del">la l</span>, A is the line without <span class="m">ink</span> which the <span class="m">paper</span> fold gives you, B is the line you have traced, C is the one which is stamped. 

@@ -8,11 +8,11 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Emeralds of Brissac, minium, crystal, verdet, Sapphire, Pebbles, blacksmith's salt, coryal]
-tools: []
-measurements: []
+materials: [Emeralds of Brissac, minium, crystal, marble, verdet, luted, Sapphire, Pebbles, blacksmith's salt, coryal]
+tools: [marble, crucible covered by another well luted that has a hole in the top]
+measurements: [℥, |ʒ|, hours, grains]
 bodyparts: []
-places: [Brescia]
+places: [Brescia, Brissac]
 plants: []
 professions: [blacksmith]
 environments: []
@@ -26,12 +26,12 @@ Practica, cioè nova inventione di contegiare, stampata in <span class="pl">Bres
  
   
 
-## <span class="add"><span class="m">Emeralds of Brissac</span></span>
+## <span class="add"><span class="m">Emeralds of <span class="pl">Brissac</span></span></span>
 
  
-I have taken <span class="m">minium</span>, 26 ℥, <span class="m">crystal</span> <span class="add"><span class="ill"></span> and ground on marble</span> 12 ℥, <span class="m">verdet</span> 3 |ʒ|. Incorporate all together, put in a crucible covered by another well luted that has a hole in the top. Fusion 7 hours without blowing. The mass has been of a beautiful green.
+I have taken <span class="m">minium</span>, 26 <span class="ms">℥</span>, <span class="m">crystal</span> <span class="add"><span class="ill"></span> and ground on <span class="tl"><span class="m">marble</span></span></span> 12 <span class="ms">℥</span>, <span class="m">verdet</span> 3 <span class="ms">|ʒ|</span>. Incorporate all together, put in a <span class="tl">crucible covered by another well <span class="m">luted</span> that has a hole in the top</span>. Fusion 7 <span class="ms"><span class="tmp">hours</span></span> without blowing. The mass has been of a beautiful green.
  
-I have taken <span class="m">minium</span> 12 ℥, <span class="m">crystal</span> 6 ℥, <span class="m">verdet</span> 2 grains. Fusion soft vi hours, cooked again 24 hours. The mass has been of green, yellow, & red.
+I have taken <span class="m">minium</span> 12 <span class="ms">℥</span>, <span class="m">crystal</span> 6 <span class="ms">℥</span>, <span class="m">verdet</span> 2 <span class="ms">grains</span>. Fusion soft vi <span class="ms"><span class="tmp">hours</span></span>, cooked again 24 <span class="ms"><span class="tmp">hours</span></span>. The mass has been of green, yellow, & red.
  
  
   
@@ -39,5 +39,5 @@ I have taken <span class="m">minium</span> 12 ℥, <span class="m">crystal</span
 ## <span class="m">Sapphire</span>
 
  
-<span class="m">Pebbles</span> or <span class="m">crystal</span> 8 ℥, <span class="m">minium</span> 16 ℥, <span class="m"><span class="pro">blacksmith</span>'s salt</span> 4 ℥, sparkling <span class="m">coryal</span> 4 grains. Fusion 6 <span class="x">?</span> hours.
+<span class="m">Pebbles</span> or <span class="m">crystal</span> 8 <span class="ms">℥</span>, <span class="m">minium</span> 16 <span class="ms">℥</span>, <span class="m"><span class="pro">blacksmith</span>'s salt</span> 4 <span class="ms">℥</span>, sparkling <span class="unc"><span class="m">coryal</span></span> 4 <span class="ms">grains</span>. Fusion <span class="unc">6</span> <span class="ms"><span class="tmp">hours</span></span>.
  

@@ -8,9 +8,9 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [chicken entrail, Tin, taffeta, vinegar, bile, glass, salt, Earwax, urine, Enamels, crystal, water]
-tools: []
-measurements: []
+materials: [chicken entrail, Tin, solder, taffeta, vinegar, bile, glass, salt, Earwax, urine, Enamels, crystal, water]
+tools: [sieve]
+measurements: [thickness of a teston]
 bodyparts: []
 places: []
 plants: []
@@ -30,10 +30,10 @@ animals: []
  
   
 
-## Casting
+## Cast
 
  
- <span class="m">Tin</span> recoils if thick, therefore it is better to cast it thin & from one piece, to make two and then solder them together, if necessary. One makes use of a strong piece of <span class="m">taffeta</span> to sieve the fine sand with which one first covers the medal, which is of the thickness of a teston.
+ <span class="m">Tin</span> retracts once thick, thusly it is best to cast it thin & to make two pieces out of one, then <span class="m">solder</span> <span class="add">them</span> if needs be. One uses a strong piece of <span class="m">taffeta</span> to <span class="tl">sieve</span> the fine sand, with which one first covers the medal, the <span class="ms">thickness of a <span class="cn">teston</span></span>.
  
  
   

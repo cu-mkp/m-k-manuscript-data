@@ -41,7 +41,7 @@ It is not good for working with colors because it makes them thick, & as difficu
 ## <span class="m">Vermilion</span>
 
  
-One ought not to keep it in <span class="m">water</span> when <span class="del">soaked</span> <span class="add">crushed</span> with <span class="m">oil</span> for it loses its color. It is better to choose whitish <span class="m">vermilion</span> than dark & blackish. For <span class="m">vermilion</span> is usually mixed with a little <span class="m">lake</span>, without which it would hardly be different from <span class="m">minium</span>. But the pale kind one casts more vivacity than the dark one. It is not desiccative, & for this reason one mixes in <span class="m">calcined cristallin</span>.
+One ought not to keep it in <span class="m">water</span> when <span class="del">soaked</span> <span class="add">ground</span> with <span class="m">oil</span> for it loses its color. It is better to choose whitish <span class="m">vermilion</span> than dark & blackish. For <span class="m">vermilion</span> is usually mixed with a little <span class="m">lake</span>, without which it would hardly be different from <span class="m">minium</span>. But the pale kind one casts more vivacity than the dark one. It is not desiccative, & for this reason one mixes in <span class="m">calcined cristallin</span>.
  
  
   
@@ -49,7 +49,7 @@ One ought not to keep it in <span class="m">water</span> when <span class="del">
 ## <span class="m">Oil</span> colors in <span class="m">water</span>
 
  
-Usually, after crushing them one puts a <span class="del">fo</span> piece of <span class="m">tin leaf</span> on top, & one puts them in <span class="m">water</span> to prevent them from drying out. But this is more appropriate for <span class="m">ceruse</span>, <span class="m">lead white</span>, <span class="m">minium</span> & <span class="m">massicot</span> than for the others, for <span class="m">lake</span> dies there & loses its color, as does <span class="m">azure vermilion</span>.
+Usually, after grinding them one puts a <span class="del">fo</span> piece of <span class="m">tin leaf</span> on top, & one puts them in <span class="m">water</span> to prevent them from drying out. But this is more appropriate for <span class="m">ceruse</span>, <span class="m">lead white</span>, <span class="m">minium</span> & <span class="m">massicot</span> than for the others, for <span class="m">lake</span> dies there & loses its color, as does <span class="m">azure vermilion</span>.
  
  
   

@@ -8,11 +8,11 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [White wax, turpentine of Venice, eggshell, ceruse, water]
+materials: [stucco, White wax, Venice turpentine, eggshell, ceruse, water]
 tools: []
 measurements: []
 bodyparts: []
-places: []
+places: [Venice]
 plants: []
 professions: []
 environments: []
@@ -30,10 +30,10 @@ They make them of fine material and fine copper in the shape of reinforced barre
  
   
 
-## Very hard white stucco
+## Very hard white <span class="m">stucco</span>
 
  
-<span class="m">White wax</span>, <span class="m">turpentine of Venice</span>, <span class="m">eggshell</span>, and <span class="m">ceruse</span>.
+<span class="m">White wax</span>, <span class="m"><span class="pl">Venice</span> turpentine</span>, <span class="m">eggshell</span>, & <span class="m">ceruse</span>.
  
  
   

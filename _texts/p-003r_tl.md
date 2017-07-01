@@ -8,12 +8,12 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [wood, thorn branch, pitch resin, vermilion, walnut oil, Venice lake platte, resin, charcoal, Colophony, leaded, water, canvas, tammy cloth, vinegar, coral, mastic, Sulfur, gules red enamel, cement, glass, brick, enamels, Varnish, Venice turpentine, turpentine oil, oil, turpentine, varnish, Mastic varnish, rosin, Thick varnish, linseed oil, garlic, wheat, common thick turpentine]
-tools: [pot, finger]
-measurements: [lb]
+materials: [Counterfeit coral, wood, thorn branch, clear pitch resin, subtly ground vermilion, walnut oil, Venice lake platte, resin, charcoal, Colophony, leaded, water, coarse canvas, very light tammy cloth, vinegar, coral, mastic, purified resin, Sulfur, vermilion, gules red enamel, cement, crushed than of glass, brick, enamels, Varnish, Venice turpentine, turpentine oil, oil, turpentine, varnish, Mastic varnish, rosin, Thick varnish, linseed oil, garlic, wheat, common thick turpentine]
+tools: [leaded pot, brazier, stick, coarse canvas, very light tammy cloth, file, pot, finger]
+measurements: [lb, ounce, hour, quarter part]
 bodyparts: [finger]
 places: [Venice]
-plants: []
+plants: [walnut]
 professions: []
 environments: [in the shade, in the sun, rain]
 animals: []
@@ -22,15 +22,15 @@ animals: []
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-003r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f11.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>003r</a> - - - - - </div>  
   
 
-## Counterfeit coral
+## <span class="m">Counterfeit coral</span>
 
  \+ 
-One needs to first make the branches of <span class="m">wood</span> or take a bizarre <span class="m">thorn branch</span>, then melt a lb of the most beautiful clear<span class="m">pitch resin</span> and put in one ounce of subtly ground <span class="m">vermilion</span> with <span class="m">walnut oil</span>, and if you add in a little <span class="m"><span class="pl">Venice</span> lake platte</span>, the color will be more vivid, and stir everything in the <span class="m">resin</span> melted over a <span class="m">charcoal</span> fire and not of flame, for fear that the fire catches within. Next dip in your branches while turning, & if there should remain any filaments, turn the branch over the heat of the <span class="m">charcoal</span>.
+One needs to first make the branches of <span class="m">wood</span> or take a bizarre <span class="m">thorn branch</span>, then melt a <span class="ms">lb</span> of the most beautiful<span class="m">clear pitch resin</span> and put in one <span class="ms">ounce</span> of <span class="m">subtly ground vermilion</span> with <span class="m"><span class="pa">walnut</span> oil</span>, and if you add in a little <span class="m"><span class="pl">Venice</span> lake platte</span>, the color will be more vivid, and stir everything in the <span class="m">resin</span> melted over a <span class="m">charcoal</span> fire and not of flame, for fear that the fire catches within. Next dip in your branches while turning, & if there should remain any filaments, turn the branch over the heat of the <span class="m">charcoal</span>.
  
 > *at left top margin*
 > 
 > 
->   <span class="m">Colophony</span> is nothing other than <span class="m">resin</span> cooked again. To do it well, take a <span class="m">leaded</span> <span class="tl">pot</span> & melt the <span class="m">resin</span>, & boil it over the brazier a good hour, & until it appears not to be thick, but clear & liquid like <span class="m">water</span> & it easily runs & flows from the tip of a stick with which you crush it, & try it. Then pour it through a coarse <span class="m">canvas</span> or a very light <span class="m">tammy cloth</span>, in the manner that when pouring it falls into the strongest <span class="m">vinegar</span> that you can find, for the <span class="m">vinegar</span> gives it strength & prevents it from being so fragile. Reiterate this two or three times & it will be beautiful & well purified. For imitating your <span class="m">coral</span>, you can mix a quarter part of <span class="m">mastic</span> within your purified <span class="m">resin</span> to render it more firm and more beautiful, & if you should take only a tear of <span class="m">mastic</span>, it would be all the better, but it would be too long. 
+>   <span class="m">Colophony</span> is nothing other than <span class="m">resin</span> cooked again. To do it well, take a <span class="tl"><span class="m">leaded</span> pot</span> & melt the <span class="m">resin</span>, & boil it over the <span class="tl">brazier</span> a good <span class="ms"><span class="tmp">hour</span></span>, & until it appears not to be thick, but clear & liquid like <span class="m">water</span> & it easily runs & flows from the tip of a <span class="tl">stick</span> with which you grind it, & try it. Then pour it through a <span class="tl"><span class="m">coarse canvas</span></span> or a <span class="tl"><span class="m">very light tammy cloth</span></span>, in the manner that when pouring it falls into the strongest <span class="m">vinegar</span> that you can find, for the <span class="m">vinegar</span> gives it strength & prevents it from being so fragile. Reiterate this two or three times & it will be beautiful & well purified. For imitating your <span class="m">coral</span>, you can mix a <span class="ms">quarter part</span> of <span class="m">mastic</span> within your <span class="m">purified resin</span> to render it more firm and more beautiful, & if you should take only a tear of <span class="m">mastic</span>, it would be all the better, but it would be too long. 
  
 > *at left middle margin*
 > 
@@ -40,12 +40,12 @@ One needs to first make the branches of <span class="m">wood</span> or take a bi
 > *at top margin*
 > 
 > 
->   The <span class="m">coral</span> made of <span class="m">gules red enamel</span> endures filing and polishing.
+>   The <span class="m">coral</span> made of <span class="m">gules red enamel</span> endures the <span class="tl">file</span> and polishing.
  
 > *at right top margin*
 > 
 > 
->   It is made like <span class="m">cement</span> that is stronger mixed with crushed <span class="del">que de</span> <span class="m">glass</span> rather than with <span class="m">brick</span>. Thus one mixes here with the <span class="m">vermilion</span> the <span class="m">gules red enamel</span>, which is red in body, well ground. Thus with all colors of <span class="m">enamels</span>.
+>   It is made like <span class="m">cement</span> that is stronger mixed with <span class="m">crushed <span class="del">than of</span> glass</span> rather than with <span class="m">brick</span>. Thus one mixes here with the <span class="m">vermilion</span> the <span class="m">gules red enamel</span>, which is red in body, well ground. Thus with all colors of <span class="m">enamels</span>.
  
  
   

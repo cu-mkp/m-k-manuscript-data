@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [staphisagrie, blanc dhuile doeufs, huile, cire, eau, ardille fort doulce, plomb, estaim, argent, argent dore, plumes]
+materials: [staphisagrie, blanc dhuile doeufs, huile, cire, cire fondue, eau chaulde, ardille fort doulce, plomb, estaim, argent, argent dore, plumes]
 tools: [moule]
 measurements: []
 bodyparts: []
@@ -33,7 +33,7 @@ Une demy ℥ de <span class="m">staphisagrie</span> pour les <span class="al">ch
 ## Pour gect
 
  
-Si tu as quelque piece qui ne soict point de despouille &<br/> grande moule la avec de la <span class="m">cire</span> soict cave ou relief pourceque<br/> elle preste estant molle & obeist et ainsy se separe de la piece<br/> sans y rien laisser mays advise que la <span class="m">cire</span> fondue ne soict<br/> ne trop chaulde ne trop froide Aulcuns moulent avec de la<br/> <span class="m">cire</span> eschaufee dans de l<span class="m">eau</span> chaulde Mays en pressant le<br/> <span class="tl">moule</span> se gaulchist & se faict faulx Quand tu as le cave de<br/> <span class="m">cire</span> tu y peulx gecter de l<span class="m">ardille fort doulce</span> & fort destrempee<br/> & claire & laisse secher a laise Puys tu feras un cave<br/> la dessus <span class="del">ave</span> de <span class="m">plomb</span> ou <span class="m">estaim</span> dans <span class="del">tu</span> lequel ce que tu<br/> formeras sera de bonne despouille
+Si tu as quelque piece qui ne soict point de despouille &<br/> grande moule la avec de la <span class="m">cire</span> soict cave ou relief pourceque<br/> elle preste estant molle & obeist et ainsy se separe de la piece<br/> sans y rien laisser mays advise que la <span class="m">cire fondue</span> ne soict<br/> ne trop chaulde ne trop froide Aulcuns moulent avec de la<br/> <span class="m">cire</span> eschaufee dans de l<span class="m">eau chaulde</span> Mays en pressant le<br/> <span class="tl">moule</span> se gaulchist & se faict faulx Quand tu as le cave de<br/> <span class="m">cire</span> tu y peulx gecter de l<span class="m">ardille fort doulce</span> & fort destrempee<br/> & claire & laisse secher a laise Puys tu feras un cave<br/> la dessus <span class="del">ave</span> de <span class="m">plomb</span> ou <span class="m">estaim</span> dans <span class="del">tu</span> lequel ce que tu<br/> formeras sera de bonne despouille
  
  
   

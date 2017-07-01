@@ -13,7 +13,7 @@ tools: [mouth]
 measurements: [days]
 bodyparts: [mouth]
 places: []
-plants: [service tree]
+plants: [service tree, saffron]
 professions: [Joiners, guitar makers]
 environments: [in the sun, in the rain]
 animals: [dragon, Fish, codfish]
@@ -41,7 +41,7 @@ The stamp of <span class="m">sheets of copper or latten</span> is made on <span 
 ## Doublets
 
  
-Good <span class="m"><span class="al">dragon</span>'s blood</span> soaked in <span class="m">eau de vye</span> carries its <span class="m">mastic</span> or <span class="m">glue</span> in itself, so do <span class="m">sap—green</span> & <span class="m">saffron</span>.
+Good <span class="m"><span class="al">dragon</span>'s blood</span> soaked in <span class="m">eau de vye</span> carries its <span class="m">mastic</span> or <span class="m">glue</span> in itself, so do <span class="m">sap—green</span> & <span class="m"><span class="pa">saffron</span></span>.
  
  
   

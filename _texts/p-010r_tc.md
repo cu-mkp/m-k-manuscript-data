@@ -8,12 +8,12 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Jaspe, corne, jaspe, cornalines, pierres, verre, rose, tourmentine claire, aspic, huiler, huile daspic, limaille de talc, espingle, ciment, gomme armoniac, vinaigre, jaspe grumeleux, laines a gros poil, or & argent en foeille, tourmentine, argent, foeille destaing, colle forte, Scudegrun, suc de gaulde, croye, ceruse, destrempe, huile, corne de lanternes, parchemin, azur commun, azur desmail, laque, alum, rouille, plomb, sel commun, pierre, terre, sel, mabre, eau]
-tools: [rabot, mabre, tamis]
+materials: [Jaspe contrefaict, corne, jaspe, cornalines, pierres, verre, roses, tourmentine claire, vernis daspic, huiler, huile daspic, limaille de talc ou despingle, ciment, gomme armoniac, vinaigre, jaspe grumeleux, laines a gros poil, or & argent en foeille, tourmentine, argent, foeille destaing, colle forte, Scudegrun, suc de gaulde, croye, ceruse, destrempe, huile, corne de lanternes, parchemin, azur commun, azur desmail, laque, alum, rouille, plomb, sel commun, pierre, terre, sel, mabre, eau]
+tools: [limer, rabot, mabre, tamis]
 measurements: []
 bodyparts: []
 places: [lyon]
-plants: [rose, Roses]
+plants: [roses, aspic, Roses]
 professions: [painctres]
 environments: []
 animals: []
@@ -22,12 +22,12 @@ animals: []
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-010r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f25.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>010r</a> - - - - - </div>  
   
 
-## <span class="m">Jaspe</span> contrefaict
+## <span class="m">Jaspe contrefaict</span>
 
  
 Ayes de la <span class="m">corne</span> dequoy on faict les lanternes bien deliee & dessoubs<br/> fais la figure de ton <span class="m">jaspe</span> de <span class="m">cornalines</span> & aultres <span class="m">pierres</span><br/> qui sera ouvrage plus propre que dessus le <span class="m">verre</span> qui est trop luisant<br/> Et la <span class="m">corne</span> represente un lustre & polyment gras co<span class="exp">mm</span>e le <span class="m">jaspe</span>
  
-Tu scais co<span class="exp">mm</span>e avecq la raclure de ladicte <span class="m">corne</span> les <span class="m"><span class="pa">rose</span></span>s se peuvent<br/> imiter Les <span class="del">corne</span> couleurs pour ce <span class="m">jaspe</span> veulent avoyr fonds avecq<br/> la <span class="m">tourmentine claire</span> ou vernis d<span class="m">aspic</span> <span class="add">Et les couleurs mattes en corps<br/> ni sont pas si propres combien quelle soiect fort belles</span> <span class="add">Il fault<br/> <span class="m">huiler</span> d<span class="m">huile daspic</span> le revers non painct</span>
+Tu scais co<span class="exp">mm</span>e avecq la raclure de ladicte <span class="m">corne</span> les <span class="m"><span class="pa">roses</span></span> se peuvent<br/> imiter Les <span class="del">corne</span> couleurs pour ce <span class="m">jaspe</span> veulent avoyr fonds avecq<br/> la <span class="m">tourmentine claire</span> ou <span class="m">vernis d<span class="pa">aspic</span></span> <span class="add">Et les couleurs mattes en corps<br/> ni sont pas si propres combien quelle soiect fort belles</span> <span class="add">Il fault<br/> <span class="m">huiler</span> d<span class="m">huile d<span class="pa">aspic</span></span> le revers non painct</span>
  
 > *at top margin*
 > 
@@ -37,7 +37,7 @@ Tu scais co<span class="exp">mm</span>e avecq la raclure de ladicte <span class=
 > *at left top margin*
 > 
 > 
->  Tu en peulx incruster<br/> des licts & y peulx<br/> sur les joinctures<br/> jecter de la <span class="m">limaille<br/> de talc</span> ou d<span class="m">espingle</span><br/> sur le <span class="m">ciment</span><br/> frais desdictes joinctures Il les<br/> fault joindre<br/> avecq de la <span class="m">gomme<br/> armoniac</span><br/> destrempee en<br/> <span class="m">vinaigre</span> pour<br/> mieulx contrefaire<br/> <span class="m">jaspe grumeleux</span><br/> aplique des <span class="m">laines<br/> a gros poil</span> tainctes<br/> de diverses couleurs<br/> & entresmeslees<br/> Apres que tu as<br/> couche toutes les<br/> couleurs esgratigne<br/> sur icelles des<br/> lignes obliques<br/> puys couche<br/> de l<span class="m">or & argent<br/> en foeille</span><br/> Si tu couches<br/> sur la <span class="m">corne</span><br/> des couleurs de <span class="m">tourmentine</span><br/> donnes y un<br/> fonds d<span class="m">argent</span><br/> ou de <span class="m">foeille<br/> destaing</span> Tu peulx<br/> aussy limer<br/> de la <span class="m">corne</span> & la<br/> mesler avecq <span class="m">colle<br/> forte</span> & la coucher<br/> sur les joinctures<br/> de la piece de<br/> <span class="m">corne</span> puys lunir<br/> avecq le <span class="tl">rabot</span>
+>  Tu en peulx incruster<br/> des licts & y peulx<br/> sur les joinctures<br/> jecter de la <span class="m">limaille<br/> de talc ou despingle</span><br/> sur le <span class="m">ciment</span><br/> frais desdictes joinctures Il les<br/> fault joindre<br/> avecq de la <span class="m">gomme<br/> armoniac</span><br/> destrempee en<br/> <span class="m">vinaigre</span> pour<br/> mieulx contrefaire<br/> <span class="m">jaspe grumeleux</span><br/> aplique des <span class="m">laines<br/> a gros poil</span> tainctes<br/> de diverses couleurs<br/> & entresmeslees<br/> Apres que tu as<br/> couche toutes les<br/> couleurs esgratigne<br/> sur icelles des<br/> lignes obliques<br/> puys couche<br/> de l<span class="m">or & argent<br/> en foeille</span><br/> Si tu couches<br/> sur la <span class="m">corne</span><br/> des couleurs de <span class="m">tourmentine</span><br/> donnes y un<br/> fonds d<span class="m">argent</span><br/> ou de <span class="m">foeille<br/> destaing</span> Tu peulx<br/> aussy <span class="tl">limer</span><br/> de la <span class="m">corne</span> & la<br/> mesler avecq <span class="m">colle<br/> forte</span> & la coucher<br/> sur les joinctures<br/> de la piece de<br/> <span class="m">corne</span> puys lunir<br/> avecq le <span class="tl">rabot</span>
  
  
   

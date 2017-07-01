@@ -9,7 +9,7 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [fer, Cuivre, plomb, estain, sublime, os de seiche, papier, cendres, cotton, eau fort, sel ammoniac, eau regale, eau gommee, cuivre, estaim, croye blanche, os de cheval brusles & calcines, moele des cornes des boeufs, mouton, os spongieulx, os, metal aigre vient mieulx que le gras, sable maigre le recoit mieulx & le suppe que le dense]
-tools: []
+tools: [os de seiche]
 measurements: [moictie]
 bodyparts: []
 places: [champaigne, lyon]
@@ -41,7 +41,7 @@ Si au foeu & a la fonte il touche le <span class="m">fer</span> Ce <span class="
 ## Gect de <span class="m">plomb</span>
 
  
-On le mesle selon aulcuns <span class="ms">moictie</span> d<span class="m">estain</span> & <span class="ms">moictie</span> <span class="m">plomb</span><br/> et pour lesch<span class="del"><span class="ill"></span></span><span class="add">afer</span> on y mesle un peu de <span class="m">sublime</span> Il se gecte bien<br/> en petit dans l<span class="m">os de <span class="al">seiche</span></span> pourveu quil soict bon
+On le mesle selon aulcuns <span class="ms">moictie</span> d<span class="m">estain</span> & <span class="ms">moictie</span> <span class="m">plomb</span><br/> et pour lesch<span class="del"><span class="ill"></span></span><span class="add">afer</span> on y mesle un peu de <span class="m">sublime</span> Il se gecte bien<br/> en petit dans l<span class="tl"><span class="m">os de <span class="al">seiche</span></span></span> pourveu quil soict bon
  
  
   

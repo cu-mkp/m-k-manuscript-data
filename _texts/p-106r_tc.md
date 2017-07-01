@@ -9,7 +9,7 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [aspalte est qui se trouve en Allemaigne, argent, or, Or, sublime, sel armoniac, verdet, borras, salpestre, plomb, or fin, plastre cru broye, brique, alum de plume, eau de vye, eau de sel armoniac, eau, fer, crocum ferri, plastre de paris, pierre, sucre]
-tools: [marteau]
+tools: [chassis, marteau]
 measurements: []
 bodyparts: []
 places: [Allemaigne, paris]
@@ -25,7 +25,7 @@ animals: [serpens, lesards]
 ## Pour gect
 
  
-L<span class="m">aspalte <span class="del">est</span> qui se trouve en <span class="pl">Allemaigne</span></span> est le plus excellent<br/> sable pour mouler en chassis qui se puisse trouver Car il est<br/> propre pour l<span class="m">argent</span> & pour l<span class="m">or</span> & tant plus il sert et est vieulx<br/> il est meilleur On y moule fort tanvre & subtil
+L<span class="m">aspalte <span class="del">est</span> qui se trouve en <span class="pl">Allemaigne</span></span> est le plus excellent<br/> sable pour mouler en <span class="tl">chassis</span> qui se puisse trouver Car il est<br/> propre pour l<span class="m">argent</span> & pour l<span class="m">or</span> & tant plus il sert et est vieulx<br/> il est meilleur On y moule fort tanvre & subtil
  
  
   
@@ -37,7 +37,7 @@ Pourceque l<span class="m">or</span> se froidist bien tost il luy fault donner u
  
 Pour sable a mouler fleurs & feuilles & choses delicates<br/> mesle <span class="m">plastre cru broye</span> <span class="m">brique</span> & <span class="m">alum de plume</span>
  
-Pour moiller les sables l<span class="m">eau de vye</span> est excellente car elle subtilie le<br/> sable & sen va en exalation <span class="del">que</span> quand on recuist les chassis
+Pour moiller les sables l<span class="m">eau de vye</span> est excellente car elle subtilie le<br/> sable & sen va en exalation <span class="del">que</span> quand on recuist les <span class="tl">chassis</span>
  
 L<span class="m">eau de sel armoniac</span> est tres bonne est excellente pour humecter les<br/> sables mays en beaucoup d<span class="m">eau</span> il ne fault quun peu de <span class="m">sel armoniac</span>
  

@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Amber, wax, grease, Bois madre, elm, root of the maple, wood, maple, Sugared, mulled wine, wine, tin, paper, eau panée, cloves, sugar, Eau de vie, spirits]
+materials: [Amber, paste, wax, fat of a young goat, Bois madre, elm, root of the maple, wood, maple, Sugared, mulled wine, wine, tin, paper, eau panée, cloves, sugar, Eau de vie, spirits]
 tools: []
 measurements: []
 bodyparts: []
@@ -16,7 +16,7 @@ places: [English]
 plants: [elm, maple]
 professions: []
 environments: []
-animals: [kid, goat, horses, horse, Irish]
+animals: [goat, horses, horse, Irish]
 ---
 
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-071r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f147.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>071r</a> - - - - - </div>  
@@ -25,7 +25,7 @@ animals: [kid, goat, horses, horse, Irish]
 ## <span class="m">Amber</span>
 
  
-It softens like a paste when it is boiled in molten <span class="m">wax</span>, and colors when boiled with the <span class="m">grease</span> of a young <span class="al">kid</span>, since that <span class="sup">the grease</span> of a <span class="al">goat</span> would break it, especially if it is glazed.
+It softens like <span class="m">paste</span> when boiled in melted <span class="m">wax</span>, and takes color boiled with <span class="m">fat of a young <span class="al">goat</span></span>, for that of a <span class="al">goat</span> would make it break, principally if it is glazed.
  
  
   

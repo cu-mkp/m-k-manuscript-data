@@ -8,8 +8,8 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [acier de damas, eau fort, acier, eau, cendre, or, argent, cher de mouton cru, or mat, diamants, diamant, pouldre de pierre ponce, plomb, pierre, verre, saphir, ongle, cuivre, cuir]
-tools: [costeaulx, pierre de touche, pierre ponce, roue de plomb, pierre, verre, Roue de cuivre, roue]
+materials: [acier de damas, eau fort, acier, eau, cendre, or, argent, cher de mouton cru, or mat, diamants, pierres, diamant, pouldre de pierre ponce, plomb, pierre, verre, vernis, saphir, ongle, cuivre, cuir]
+tools: [costeaulx, pierre de touche, poinctes de diamants, poinctes, pouldre de pierre ponce, roue de plomb, Roue de cuivre, roue]
 measurements: []
 bodyparts: [yeulx]
 places: [damas]
@@ -46,10 +46,10 @@ Il ny a rien mieulx que le vernis noir des <span class="pro">espasiers</span> po
  
   
 
-## Pour poinctes de <span class="m">diamants</span> a graver
+## Pour <span class="tl">poinctes de <span class="m">diamants</span></span> a graver
 
  
-Elles sont pour trasser ce que tu veulx desseigner sur les<br/> pierres & graver & quand ces poinctes sont grasses & ne<br/> peuvent mordre il les fault frotter <span class="m">diama<span class="exp">n</span>t</span> contre <span class="m">diama<span class="exp">n</span>t</span><br/> on les frotte avecq <span class="del">diamant</span> <span class="m">pouldre de <span class="tl">pierre ponce</span></span> Il fault<br/> aussi despolir sur la <span class="tl">roue de <span class="m">plomb</span></span> ou la <span class="m"><span class="tl">pierre</span></span> ou le <span class="m"><span class="tl">verre</span></span><br/> sur quoy tu veulx graver car le poliment qui est comme vernis au<br/> <span class="m">verre</span> empesche le <span class="m">diamant</span> ou <span class="m">saphir</span> de bien mordre <span class="del">Mays</span> Cest<br/> pourquoy il ne mord pas facillem<span class="exp">ent</span> sur l<span class="m">ongle</span> qui est polie &<br/> grasse Mays quand le poliment est une fois oste il mord<br/> aysement
+Elles sont pour trasser ce que tu veulx desseigner sur les<br/> <span class="m">pierres</span> & graver & quand ces <span class="tl">poinctes</span> sont grasses & ne<br/> peuvent mordre il les fault frotter <span class="m">diama<span class="exp">n</span>t</span> contre <span class="m">diama<span class="exp">n</span>t</span><br/> on les frotte avecq <span class="del">diamant</span> <span class="tl"><span class="m">pouldre de pierre ponce</span></span> Il fault<br/> aussi despolir sur la <span class="tl">roue de <span class="m">plomb</span></span> ou la <span class="m">pierre</span> ou le <span class="m">verre</span><br/> sur quoy tu veulx graver car le poliment qui est comme <span class="m">vernis</span> au<br/> <span class="m">verre</span> empesche le <span class="m">diamant</span> ou <span class="m">saphir</span> de bien mordre <span class="del">Mays</span> Cest<br/> pourquoy il ne mord pas facillem<span class="exp">ent</span> sur l<span class="m">ongle</span> qui est polie &<br/> grasse Mays quand le poliment est une fois oste il mord<br/> aysement
 
  
   

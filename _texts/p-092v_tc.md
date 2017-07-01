@@ -8,13 +8,13 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Sable des telines et moules de riviere, coquilles, mercure, fer, ☿, verdet, vitriol de salpestre, eau vielle des mareschaulx, estaim, crasse, eau fort, argent, estain, plomb, Estaim fin, estaim de glace, plomb fin, souldeure]
+materials: [Sable des telines et moules de riviere, coquilles, mercure, fer, ☿, verdet, vitriol de salpestre, eau vielle des mareschaulx, estaim, crasse, eau fort, argent, estain, plomb, Estaim fin, mercure congelle, estaim de glace, plomb fin, souldeure]
 tools: [cassolle de fer, palle, cuellere, creuset creux]
-measurements: [heure, ℥, ana]
+measurements: [heure, ℥, ana, aultant dun que daultre]
 bodyparts: []
 places: []
 plants: []
-professions: []
+professions: [mareschaulx]
 environments: [riviere, rivieres deau doulce]
 animals: [telines, moules, coquilles]
 ---
@@ -33,7 +33,7 @@ Les <span class="al"><span class="m">coquilles</span></span> longues qui se trou
 ## Congellation de <span class="m">mercure</span>
 
  
-Il se congelle co<span class="exp">mm</span>e jay essaye le faisant bouillir une<br/> <span class="ms"><span class="tmp">heure</span></span> ou deulx dans une asses grande <span class="tl">cassolle de <span class="m">fer</span></span> y mecta<span class="exp">n</span>t<br/> pour <span class="ms">℥</span> de <span class="m">☿</span> ii <span class="ms">℥</span> de <span class="m">verdet</span> <span class="del">de</span> Et de <span class="m">vitriol de salpestre</span><br/> <span class="ms">ana</span> Avecq suffisante quantite d<span class="m">eau vielle des mareschaulx</span>
+Il se congelle co<span class="exp">mm</span>e jay essaye le faisant bouillir une<br/> <span class="ms"><span class="tmp">heure</span></span> ou deulx dans une asses grande <span class="tl">cassolle de <span class="m">fer</span></span> y mecta<span class="exp">n</span>t<br/> pour <span class="ms">℥</span> de <span class="m">☿</span> ii <span class="ms">℥</span> de <span class="m">verdet</span> <span class="del">de</span> Et de <span class="m">vitriol de salpestre</span><br/> <span class="ms">ana</span> Avecq suffisante quantite d<span class="m">eau vielle des <span class="pro">mareschaulx</span></span>
  
 Ou bien fondre 4 <span class="ms">℥</span> d<span class="m">estaim</span> & co<span class="exp">mm</span>e il se froidist le<br/> purifier de sa <span class="m">crasse</span> qui est dessus puys y faire un trou<br/> & la dedans mectre i <span class="ms">℥</span> de <span class="m">☿</span> & il viendra co<span class="exp">mm</span>e <span class="m">estaim</span> si tu<br/> le refonds Mays il sera frangible Et si tu veulx esprouver<br/> si cest <span class="m">estaim</span> ou <span class="m">☿</span> fais rougir une <span class="tl">palle</span> & mects un petit<br/> lopin de ton lingot dessus Si cest <span class="m">estaim</span> il se fondra & demeurera<br/> Mays si cest <span class="m">☿</span> il sera incontinent fondu puys en petillant bien<br/> fort senvolera Il le fault congeller dans une <span class="tl">cuellere</span><br/> ou <span class="tl">creuset creux</span> & faire le trou mediocre
  
@@ -45,5 +45,5 @@ Il se congelle aussy co<span class="exp">mm</span>e jay esprouve dans de l<span 
 ## Mixture
 
  
-<span class="m">Estaim fin</span> <span class="m">mercure</span> congelle a lodeur de l<span class="m">estaim</span> <span class="m">estaim de glace</span><br/> <span class="m">plomb fin</span> aultant dun que daultre faict une matiere fort<br/> promptem<span class="exp">ent</span> fondue Mays frangible & blanche Je pense quelle<br/> seroit bonne pour <span class="m">souldeure</span> Longue a se froidir
+<span class="m">Estaim fin</span> <span class="m">mercure congelle</span> a lodeur de l<span class="m">estaim</span> <span class="m">estaim de glace</span><br/> <span class="m">plomb fin</span> <span class="ms">aultant dun que daultre</span> faict une matiere fort<br/> promptem<span class="exp">ent</span> fondue Mays frangible & blanche Je pense quelle<br/> seroit bonne pour <span class="m">souldeure</span> Longue a se froidir
  

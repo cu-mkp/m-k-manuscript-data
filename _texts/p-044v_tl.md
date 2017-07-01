@@ -8,9 +8,9 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Horsehair sieves, horsetail hairy, water, thread, hair, silk, theriac rue, vinegar, glass, White soporific oil, Mandragore apples, olive oil, oil, black rosin, rosin, sulphur, wax, brick, chalk, stone]
+materials: [Horsehair sieves, horsetail hairy, water, thread, hair, silk, theriac rue, vinegar, glass, White soporific oil, Mandragore apples, olive oil, oil, Stucco, glueing, stone, resin, black pitch resin, rosin, sulphur, wax, crushed brick, white chalk, crushed & pulverized & sieved white stone]
 tools: []
-measurements: []
+measurements: [as much as of one as the other]
 bodyparts: []
 places: [Normandy, Toulouse, Spain]
 plants: []
@@ -46,8 +46,8 @@ Have x or 12 <span class="m">Mandragore apples</span>, put them in quarters toge
  
   
 
-## Stucco
+## <span class="m">Stucco</span>
 
  
-To stick stones, some do not use gem and pitch <span class="m">black rosin</span> because it is too greasy, but they use as much <span class="m">rosin</span> and <span class="m">sulphur</span> and the same quantity of <span class="m">wax</span> and then add finely ground <span class="m">brick</span>. Others some white <span class="m">chalk</span> and crushed and powdered and sieved white <span class="m">stone</span>.
+For <span class="m">glueing</span> <span class="m">stone</span>, some do not use <span class="del">poi</span> <span class="m">resin</span> & <span class="m">black pitch resin</span> because it is too fatty, but take <span class="m">rosin</span> & <span class="m">sulphur</span>, <span class="ms">as much <span class="del">as</span> of one as the other</span>, & as much of <span class="m">wax</span> as the two, and mix it with <span class="m">crushed brick</span> for greater strength. Others, <span class="m">white chalk</span> or <span class="m">crushed & pulverized & sieved white stone</span>.
 

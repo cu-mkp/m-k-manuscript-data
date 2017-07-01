@@ -66,8 +66,8 @@ Because you always have to make the gate by the tail, and that it is so delicate
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5dWU4UEtpX0hBV0k" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  and apply some with the hot <span class="m">wire</span>, as said, one at the end of the tail & others that correspond in the same way, from one <span class="del">end</span> <span class="add">side</span> of the tail to the other, as you see depicted. But take heed to do it with the end of the <span class="tl">hot iron</span> so that the end of the <span class="m">wax</span> scarcely touches the animal, for the sand of the second gate will not touch this part. But make the end of the <span class="m">wax</span> arranges itself only at the end of the empty part of the first mold. Make as well channels of <span class="m">wax</span> around the legs &, around the contours of the body, which are a little long & they will serve as a trough for the molded thing.
- 
 *[continued]*
+
  
 > *at right bottom margin*
 > 
@@ -76,8 +76,8 @@ Because you always have to make the gate by the tail, and that it is so delicate
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5STY2ZEpOSXFVWXc" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
- 
 *[continued]*
+ 
  
 > *at left bottom margin*
 > 

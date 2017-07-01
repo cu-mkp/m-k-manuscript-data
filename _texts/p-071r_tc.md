@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Ambre, cire, graise, Bois madre, orme, racine dherable, bois, herable, Vin, sucre, vin, estain, papier, eau panee, cloux de girofle, Eau de vye, eau de vye]
+materials: [Ambre, paste, cire, graise de jeune chevreau, Bois madre, orme, racine dherable, bois, herable, Vin, sucre, vin, estain, papier, eau panee, cloux de girofle, Eau de vye, eau de vye]
 tools: []
 measurements: []
 bodyparts: []
@@ -25,7 +25,7 @@ animals: [chevreau, bouc, Chevaulx, cheval]
 ## <span class="m">Ambre</span>
 
  
-Il se ramollist co<span class="exp">mm</span>e paste estant bouilly en <span class="m">cire</span> fondue<br/> Et prend couleur bouilly avecq <span class="del">ceru</span> <span class="m">graise</span> de jeune <span class="al">chevreau</span><br/> car celle du <span class="al">bouc</span> le feroit rompre principallem<span class="exp">ent</span> sil est glace
+Il se ramollist co<span class="exp">mm</span>e <span class="m">paste</span> estant bouilly en <span class="m">cire</span> fondue<br/> Et prend couleur bouilly avecq <span class="del">ceru</span> <span class="m">graise de jeune <span class="al">chevreau</span></span><br/> car celle du <span class="al">bouc</span> le feroit rompre principallem<span class="exp">ent</span> sil est glace
  
  
   

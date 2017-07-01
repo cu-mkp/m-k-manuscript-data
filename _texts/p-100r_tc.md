@@ -8,24 +8,24 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Or, or, toile, huile, huile de noix, plomb, ceruse, massicot, mine, verdet, orpiment, verre, mastique, bois, salpestre, caillous, caillou, charbons, sel alchali]
+materials: [or sur mat, toile, tableau a huile, huile de noix, plomb, ceruse, massicot, mine, verdet, orpiment, or, verre, mastique, bois, salpestre, caillous, caillou, charbons, sel alchali]
 tools: [mortier, pilon, Mortier, table, tuile, palle, fourneau]
 measurements: []
 bodyparts: [mains]
 places: []
-plants: []
+plants: [noix]
 professions: [parfumeurs]
-environments: []
+environments: [au soleil, au feu, temps nest serain & sec, temps est relent & humide]
 animals: []
 ---
 
 <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-100r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f205.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>100r</a> - - - - - </div>  
   
 
-## <span class="m">Or</span> couleur
+## Or couleur
 
  
-Pour avoyr bien tost faict couche d<span class="m">or</span> <span class="del">sur</span> mat sur <span class="m">toile</span><br/> ou aultre tableau a <span class="m">huile</span> on faict au soleil ou au feu de<br/> l<span class="m">huile de noix</span> gras co<span class="exp">mm</span>e cy devant dict car il sespessist de soy<br/> mesmes en ceste sorte encores quil ny aye point de <span class="m">plomb</span> ne <span class="m">ceruse</span><br/> Et avec iceluy broye du <span class="m">massicot</span> <span class="m">mine</span> & aultres dessiccatifs<br/> non pas <span class="m">verdet</span> ne <span class="m">orpiment</span> car ilz font mourir l<span class="m">or</span> Il sera<br/> sec bien tost Touteffoys si le temps nest serain & sec ne l’adonbre<br/> pas car si le temps est relent & humide il se rendroit noir
+Pour avoyr bien tost faict couche d<span class="m">or <span class="del">sur</span> mat</span> sur <span class="m">toile</span><br/> ou aultre <span class="m">tableau a huile</span> on faict <span class="env">au soleil</span> ou <span class="env">au feu</span> de<br/> l<span class="m">huile de <span class="pa">noix</span></span> gras co<span class="exp">mm</span>e cy devant dict car il sespessist de soy<br/> mesmes en ceste sorte encores quil ny aye point de <span class="m">plomb</span> ne <span class="m">ceruse</span><br/> Et avec iceluy broye du <span class="m">massicot</span> <span class="m">mine</span> & aultres dessiccatifs<br/> non pas <span class="m">verdet</span> ne <span class="m">orpiment</span> car ilz font mourir l<span class="m">or</span> Il sera<br/> sec bien tost Touteffoys si le <span class="env"><span class="tmp">temps nest serain & sec</span></span> ne l’adonbre<br/> pas car si le <span class="env"><span class="tmp">temps est relent & humide</span></span> il se rendroit noir
  
  
   
@@ -33,7 +33,7 @@ Pour avoyr bien tost faict couche d<span class="m">or</span> <span class="del">s
 ## Pourtraire au naturel
 
  
-Il fault curieusement observer les yeulx le nes & la<br/> barbe car ces trois choses font fort resembler
+Il fault curieusement <span class="sn">observer</span> les yeulx le nes & la<br/> barbe car ces trois choses font fort resembler
  
  
   

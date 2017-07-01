@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Plomb, metal, grais, terre ardille blanche, fiente de cheval, bourre, terre, fer]
+materials: [Plomb, metal, grais, terre ardille blanche, fiente de cheval, bourre, terre, souldure, fer]
 tools: [moules, moule, moule de grais, moules de metal, moules de grais, marteler, roue de fer]
 measurements: [bras, doigts]
 bodyparts: [bras, doigts]
@@ -37,7 +37,7 @@ Ils font leurs <span class="tl">moules</span> aussy de <span class="m">metal</sp
  
 Pour les pintes les <span class="tl">moules</span> se font de <span class="m">terre ardille blanche</span><br/> meslee de <span class="m">fiente de <span class="al">cheval</span></span> & <span class="m">bourre</span> & fort battue pourceque<br/> les pintes estant a demy rond enfoncees elles ne se pourroient<br/> pas bien despouiller dans le <span class="tl">moule de <span class="m">grais</span></span> co<span class="exp">mm</span>e dans la <span class="m">terre</span><br/> qui est doulce On faict bien le noyau du <span class="tl">moule</span> desdictes<br/> pinctes de <span class="m">grais</span>
  
-Aulx <span class="tl">moules de <span class="m">metal</span></span> on faict des souspirails et on gecte<br/> a un coup qui est cause quau milieu du plat il ne se faict<br/> poinct une ligne noire enfumee qui vient de la vapeur<br/> & fumee du <span class="m">metal</span> qui se gecte Qui est cause quen cet endroict<br/> louvraige est grumeleux & bien souvent perce Toutesfois<br/> ilz le reparent par la souldure <span class="del">du n</span> co<span class="exp">mm</span>e dict est Ceste<br/> fumee se faict sur le milieu au droit du gect & aulx <span class="tl">moules<br/> de <span class="m">grais</span></span>
+Aulx <span class="tl">moules de <span class="m">metal</span></span> on faict des souspirails et on gecte<br/> a un coup qui est cause quau milieu du plat il ne se faict<br/> poinct une ligne noire enfumee qui vient de la vapeur<br/> & fumee du <span class="m">metal</span> qui se gecte Qui est cause quen cet endroict<br/> louvraige est grumeleux & bien souvent perce Toutesfois<br/> ilz le reparent par la <span class="m">souldure</span> <span class="del">du n</span> co<span class="exp">mm</span>e dict est Ceste<br/> fumee se faict sur le milieu au droit du gect & aulx <span class="tl">moules<br/> de <span class="m">grais</span></span>
  
 La vaisselle se peult <span class="tl">marteler</span> <span class="del">mar</span> pour estre plus<br/> vendable Mays elle nen dure pas tant
  

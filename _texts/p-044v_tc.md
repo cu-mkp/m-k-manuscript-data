@@ -8,9 +8,9 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [poil de cheval, poil, lessive, poils, soye, eau, Theriaque, rue, dictam, vinaigre, verre, Huile blanc, pommes de Mandragore, huile dolif, huile, Stuc, pierre, gemme, poix, resine noire, rousine, soufre, cire, brique pilee, croye blanche, pierre blanche]
+materials: [poil de cheval, poil, lessive, poils, soye, eau, Theriaque, rue, dictam, vinaigre, verre, Huile blanc, pommes de Mandragore, huile dolif, huile, Stuc, coller, pierre, gemme, poix, resine noire, rousine, soufre, cire, brique pilee, croye blanche, pierre blanche pilee & pulverisee & tamisee]
 tools: [baston plat, tamis, bouteille de verre]
-measurements: [large de ii ou trois doitgs, trois ou 4 jours, deulx jours]
+measurements: [large de ii ou trois doitgs, trois ou 4 jours, deulx jours, aultant que dun que daultre &]
 bodyparts: [bouche, doitgs, plante des pieds]
 places: [coustance, normandie, Tholose, espaigne]
 plants: []
@@ -49,5 +49,5 @@ Prens x ou 12 <span class="m">pommes de Mandragore</span> mects les a<br/> quart
 ## <span class="m">Stuc</span>
 
  
-Aulcuns pour coller <span class="m">pierre</span> nemployent pas la <span class="del">poi</span> <span class="m">gemme</span> &<br/> <span class="m">poix</span> <span class="m">resine noire</span> pourcequelle est trop grasse Mays prenent<br/> de la <span class="m">rousine</span> & du <span class="m">soufre</span> aultant <span class="del">que</span> dun que daultre &<br/> aultant de <span class="m">cire</span> que de tous deulx Et y meslent de la <span class="m">brique<br/> pilee</span> pour le plus fort Aultres de la <span class="m">croye blanche</span> ou <span class="m">pierre<br/> blanche</span> pilee & pulverisee & tamisee
+Aulcuns pour <span class="m">coller</span> <span class="m">pierre</span> nemployent pas la <span class="del">poi</span> <span class="m">gemme</span> &<br/> <span class="m">poix</span> <span class="m">resine noire</span> pourcequelle est trop grasse Mays prenent<br/> de la <span class="m">rousine</span> & du <span class="m">soufre</span> <span class="ms">aultant <span class="del">que</span> dun que daultre &</span><br/> aultant de <span class="m">cire</span> que de tous deulx Et y meslent de la <span class="m">brique<br/> pilee</span> pour le plus fort Aultres de la <span class="m">croye blanche</span> ou <span class="m">pierre<br/> blanche pilee & pulverisee & tamisee</span>
 

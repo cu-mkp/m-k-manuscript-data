@@ -9,7 +9,7 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [sel, plomb, plombes, vinaigre, cotton, pierre, terre, fer blanc, Huile de graine de navete, Ciment royal, vitriol, salpestre, alum de roche, verre, plume dholande]
-tools: [cornues, alembics, lampes, ciseaulx, four, costeau]
+tools: [cornues, alembics, lampes, ciseaulx, four, cofre, boictes, pots de terre avecq un couvercle, tuyaulx de fer blanc, fusil, costeau]
 measurements: [pousses en quarre, pied]
 bodyparts: [pousses, pied]
 places: [holande]
@@ -33,7 +33,7 @@ animals: []
 ## Pour le <span class="tl">four</span>
 
  
-Un cofre avecq une <span class="m">pierre</span> large de dix <span class="ms"><span class="bp">pousses</span> en quarre</span><br/> Et espesse dun <span class="ms"><span class="bp">pied</span></span> persee par le milieu<br/> 2 boictes ou pots de <span class="m">terre</span> avecq un couvercle<br/> 2 petits tuyaulx de <span class="m">fer blanc</span> pour evacuer la fumee du <span class="tl">four</span><br/> <span class="m">Huile de graine de <span class="pa">navete</span></span> pour les lampes a chaufer le <span class="tl">four</span><br/> un fusil
+Un <span class="tl">cofre</span> avecq une <span class="m">pierre</span> large de dix <span class="ms"><span class="bp">pousses</span> en quarre</span><br/> Et espesse dun <span class="ms"><span class="bp">pied</span></span> persee par le milieu<br/> 2 <span class="tl">boictes</span> ou <span class="tl">pots de <span class="m">terre</span> avecq un couvercle</span><br/> 2 petits <span class="tl">tuyaulx de <span class="m">fer blanc</span></span> pour evacuer la fumee du <span class="tl">four</span><br/> <span class="m">Huile de graine de <span class="pa">navete</span></span> pour les <span class="tl">lampes</span> a chaufer le <span class="tl">four</span><br/> un <span class="tl">fusil</span>
  
  
   

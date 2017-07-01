@@ -8,8 +8,8 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [terre, eau, letton de chandelier, limaille, potin, letton, cuivre, metaulx alies, fer, charbon, charbons, Sable blanc maigre, porphire, vinaigre, eau sel, sel, matiere de poelonne, sable blanc, soufre, plombe, sel armoniac, soulder]
-tools: [crusol, fourneau de briques, fourneau, porphire, moule]
+materials: [terre, eau, letton de chandelier, limaille, potin, letton, cuivre, metaulx alies, fer, charbon, charbons, briques, Sable blanc maigre, porphire, vinaigre, eau sel, sel, matiere de poelonne, sable blanc, soufre, plombe, sel armoniac, soulder]
+tools: [chassis, crusol, fourneau, briques, porphire, moule]
 measurements: [heures]
 bodyparts: []
 places: []
@@ -33,12 +33,12 @@ Il ne fault pas pour gecter curieusem<span class="exp">ent</span> prendre tous<b
  
 Le <span class="m">fer</span> ne saccorde gueres a gecter dans lung du <span class="m">cuivre</span><br/> ou <span class="m">letton</span>
  
- Il est mieulx de mouler tout dun sable soict en chassis<br/> ou noyau quen divers mesles
+ Il est mieulx de mouler tout dun sable soict en <span class="tl">chassis</span><br/> ou noyau quen divers mesles
  
 > *at left top margin*
 > 
 > 
->   Il fault recuire<br/> a foeu <span class="add"><span class="del">qui</span>de</span> <span class="m">charbon</span><br/> qui sallume de<br/> soy mesme le <span class="tl">crusol</span><br/> une ou deulx <span class="ms"><span class="tmp">heures</span></span><br/> <span class="del">et p</span> avecq la<br/> matiere dedans<br/> Et puys soufler<br/> & couvrir le <span class="tl">crusol</span><br/> de gros <span class="m">charbons</span><br/> & la gueule du<br/> <span class="tl">fourneau de briques</span><br/> Et laisser consumer<br/> deulx ou trois<br/> mises de <span class="m">charbon</span><br/> qui <span class="del">se</span> remplissent<br/> le <span class="tl">fourneau</span> par<br/> dessus le <span class="tl">crusol</span><br/> en fin donner foeu<br/> de chasse & co<span class="exp">mm</span>e<br/> la flame sera fort<br/> blanche & que la<br/> matiere sera en<br/> bain liquide co<span class="exp">mm</span>e<br/> <span class="m">eau</span> & gectant des<br/> flammes de bleu<br/> pasle gecte<br/> Le secret est de<br/> gecter bien <span class="add">fort</span> chault<br/> & a coup
+>   Il fault recuire<br/> a foeu <span class="add"><span class="del">qui</span>de</span> <span class="m">charbon</span><br/> qui sallume de<br/> soy mesme le <span class="tl">crusol</span><br/> une ou deulx <span class="ms"><span class="tmp">heures</span></span><br/> <span class="del">et p</span> avecq la<br/> matiere dedans<br/> Et puys soufler<br/> & couvrir le <span class="tl">crusol</span><br/> de gros <span class="m">charbons</span><br/> & la gueule du<br/> <span class="tl">fourneau</span> de <span class="tl"><span class="m">briques</span></span><br/> Et laisser consumer<br/> deulx ou trois<br/> mises de <span class="m">charbon</span><br/> qui <span class="del">se</span> remplissent<br/> le <span class="tl">fourneau</span> par<br/> dessus le <span class="tl">crusol</span><br/> en fin donner foeu<br/> de chasse & co<span class="exp">mm</span>e<br/> la flame sera fort<br/> blanche & que la<br/> matiere sera en<br/> bain liquide co<span class="exp">mm</span>e<br/> <span class="m">eau</span> & gectant des<br/> flammes de bleu<br/> pasle gecte<br/> Le secret est de<br/> gecter bien <span class="add">fort</span> chault<br/> & a coup
  
  
   
@@ -59,5 +59,5 @@ sans liaison se rend fort<br/> propre pour le gect & ayant corps se tu le broyes
 ## Anses de cloches
 
  
-Elles se peuvent bien remectre sans refaire la cloche<br/> laquelle il fault remectre dans la fosse & le <span class="tl">moule</span> dedans<br/> Mays <span class="m">soulder</span> la cloche <span class="del">ref</span> fendue il est estime impossible<br/> pour luy donner sa premiere voix
+Elles se peuvent bien remectre sans refaire la cloche<br/> laquelle il fault remectre dans la fosse & le moule dedans<br/> Mays <span class="m">soulder</span> la cloche <span class="del">ref</span> fendue il est estime impossible<br/> pour luy donner sa premiere voix
  

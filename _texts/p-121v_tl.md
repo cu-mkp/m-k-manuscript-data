@@ -26,12 +26,10 @@ animals: []
 
  
 You need to place the animals as said, and make up the same sand out of <span class="ms">four parts</span> <span class="m">plaster</span>, <span class="ms">two parts</span> refired<span class="m">brick</span>, and <span class="ms">one part</span> annealed <span class="m">stone alum</span>. Mix it well, and once it is ready and you wish to mold, take <span class="ms">three parts</span> of the aforementioned sand in the earthenware <span class="tl">dish</span> from which the peasants eat their soup. Add pure annealed <span class="m">stone alum</span> that has been pulverized in the <span class="m">mortar</span>, as much as you can grab with your <span class="ms">four <span class="bp">finger</span>s and <span class="bp">thumb</span></span>, or a <span class="ms">small double handful</span>. Then, mix well and mix in a little of <span class="m">sal ammoniac</span> and the remainder with <span class="m">common water</span>\+ 
-
 > *at left middle margin*
 > 
 > 
-> Which needs to be placed in the <span class="tl">dish</span> rather than in the sand, which is put in the <span class="m">water</span>, and not the <span class="m">water</span> in the sand
-
+> <span class="add">Which needs to be placed in the <span class="tl">dish</span> rather than in the sand, which is put in the <span class="m">water</span>, and not the <span class="m">water</span> in the sand</span>
  And stir it with your <span class="tl">spatula</span> so that it all becomes like a thick sauce or clear <span class="m">mustard</span>. And having rubbed spirits on the animal with the <span class="tl">brush</span>, cast and blow, and beat the table to shake the <span class="tl">mold</span> and do as with the others. Do not forget to put in <span class="m">crocum</span>, because it prevents <span class="tl">molds</span> from cracking, and it is appropriate for all <span class="m">metals</span>.
  
 > *at left top margin*

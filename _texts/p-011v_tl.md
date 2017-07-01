@@ -8,8 +8,8 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Damascene steel, steel, common aquis fortis, earth, ashes, sand, gold, silver, raw mutton flesh, or mat, diamond, stones, pumice stone powder, lead, stone, glass, sapphire, hoof, copper, leather]
-tools: [knives, touchstone, diamond points, points, pumice stone, lead wheel, stone, glass, copper wheel, wheel]
+materials: [Damascene steel, steel, common aquis fortis, earth, ashes, sand, gold, silver, raw mutton flesh, or mat, diamond, stones, pumice stone powder, lead, stone, glass, varnish, sapphire, hoof, copper, leather]
+tools: [knives, touchstone, diamond points, points, pumice stone powder, lead wheel, copper wheel, wheel]
 measurements: []
 bodyparts: [eyes]
 places: [Damascene]
@@ -49,7 +49,7 @@ There is nothing better than the black varnish of <span class="pro">sword—make
 ## For <span class="tl"><span class="m">diamond</span> points</span> for engraving
 
  
-These are for tracing what you want to draw & engrave on <span class="m">stones</span>, & when these <span class="tl">points</span> are fatty & cannot bite, one needs to rub them <span class="m">diamond</span> against <span class="m">diamond</span>. One rubs them with <span class="del">diamond</span> <span class="m"><span class="tl">pumice stone</span> powder</span>. One needs also to unpolish on a <span class="tl"><span class="m">lead</span> wheel</span> either the <span class="m"><span class="tl">stone</span> </span> or the <span class="m"><span class="tl">glass</span></span> on which you want to engrave, for the polish, which is like varnish on <span class="m">glass</span>, prevents the <span class="m">diamond</span> or <span class="m">sapphire</span> from biting well. <span class="del">But</span> This is why it does not bite easily on the <span class="m">hoof</span>, which is polished & fatty. But when the polish is taken off, it bites easily.
+These are for tracing what you want to draw on <span class="m">stones</span> & engrave, & when these <span class="tl">points</span> are fatty & cannot bite, one needs to rub them <span class="m">diamond</span> against <span class="m">diamond</span>. One rubs them with <span class="del">diamond</span> <span class="tl"><span class="m">pumice stone powder</span></span>. One needs also to unpolish on a <span class="tl"><span class="m">lead</span> wheel</span> either the <span class="m">stone</span> or the <span class="m">glass</span> on which you want to engrave, for the polish, which is like <span class="m">varnish</span> on <span class="m">glass</span>, prevents the <span class="m">diamond</span> or <span class="m">sapphire</span> from biting well. <span class="del">But</span> This is why it does not bite easily on the <span class="m">hoof</span>, which is polished & fatty. But when the polish is taken off, it bites easily.
 
  
   

@@ -31,7 +31,7 @@ but it should not be too small, then take <span class="del"><span class="ill"></
 ## Another approved <span class="m">varnish</span>
 
  
-Take two <span class="ms">ounces</span> of <span class="m"><span class="pa">linseed</span> oil</span> & two <span class="ms">ounces</span> of <span class="m">huille petrolle</span> and two <span class="ms">ounces</span> of <span class="m">mastic</span>, the whitest you can find, and of <span class="m">alung de glace</span>, & crush it, and take a little bit of <span class="m">white copperas</span>, and put all these <span class="m">drugs</span> together into an <span class="tl"><span class="m">earthen</span> pot</span> that should be new, and lay it on hot <span class="m">ashes</span> for a bit, and you will see a beautiful <span class="m">varnish</span>.
+Take two <span class="ms">ounces</span> of <span class="m"><span class="pa">linseed</span> oil</span> & two <span class="ms">ounces</span> of <span class="m">huille petrolle</span> and two <span class="ms">ounces</span> of <span class="m">mastic</span>, the whitest you can find, and of <span class="m">alung de glace</span>, & grind it, and take a little bit of <span class="m">white copperas</span>, and put all these <span class="m">drugs</span> together into an <span class="tl"><span class="m">earthen</span> pot</span> that should be new, and lay it on hot <span class="m">ashes</span> for a bit, and you will see a beautiful <span class="m">varnish</span>.
  
  
   

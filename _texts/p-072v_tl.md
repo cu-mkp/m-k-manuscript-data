@@ -9,7 +9,7 @@ mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [Lead, tin, Straw, solder, looking glass tin, soft tin, lead, quicksilver, leads, wax, cuttlefish bone, bones, Cuttlefish bone, marrow, bone marrow, shell, iron filings, pins]
-tools: [tin dish, fingers, shirt sleeve, box mold, finger, well smooth table, pegs, hammer, wirebrush, molds]
+tools: [tin dish, fingers, shirt sleeve, box mold, finger, well smooth table, pegs, Cuttlefish bone, hammer, wirebrush, molds]
 measurements: [part, lb]
 bodyparts: [fingers, finger]
 places: [Germans]
@@ -48,7 +48,7 @@ The alloy good for running <span class="m">lead</span> & <span class="m">tin</sp
 > *at left top margin*
 > 
 > 
->   <span class="m"><span class="al">Cuttlefish</span> bone</span> molds <span class="m">lead</span> better than anything else. But try it to see if it needs reheating. <span class="del">One ought to mold on the back of the <span class="m">bones</span> & from this side for the <span class="m">marrow</span> is more delicate there.</span>
+>   <span class="tl"><span class="m"><span class="al">Cuttlefish</span> bone</span></span> molds <span class="m">lead</span> better than anything else. But try it to see if it needs reheating. <span class="del">One ought to mold on the back of the <span class="m">bones</span> & from this side for the <span class="m">marrow</span> is more delicate there.</span>
  
 > *at left middle margin*
 > 

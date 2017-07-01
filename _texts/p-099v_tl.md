@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [metal, oil, gold, orpiment, arsenic, Varnish, mastic, clear & white turpentine oil, eau de vye, ashes]
+materials: [metal, oil, gold, orpiment in leaf form, orpiment, ground metals, ground cristallin, touchstone, Orpiment, arsenic, Varnish, mastic, clear & white turpentine oil, eau de vye, ashes]
 tools: [vessel]
 measurements: [ounces]
 bodyparts: []
@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-099v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f204.image.r=Recueil%20de%20recettes%20et%20secrets%20concernant%20l'art%20du%20mouleur,%20de%20l'artificier%20et%20du%20peintre " target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>099v</a> - - - - - </div>  
+<p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-099v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f204.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>099v</a> - - - - - </div>  
   
 
 ## Quince trees
@@ -46,23 +46,23 @@ They are very difficult to drill when they are made of <span class="m">metal</sp
 ## Bells
 
  
-They are not made in a pit if they do not fit
+One does not make them in the pit if they do not fit.
  
  
   
 
-## To gilt frames paintings without <span class="m">gold</span>
+## Gilding <span class="del">your</span> molding for panels without <span class="m">gold</span>
 
  
-Some use some leaved <span class="m">orpiment</span> and then powder it and make the leaves look Moorish, burnish them, and the <span class="m">orpiment</span> shines like gold. However, ground metals or ground crystalline or touchstone are the best.
+Some take <span class="m">orpiment in leaf form</span> & pulverize it & make moresque leaves & burnish it, and it is this <span class="m">orpiment</span> which is shiny like <span class="m">gold</span>. However, <span class="m">ground metals</span> or <span class="m">ground cristallin</span> or <span class="m">touchstone</span> are better.
  
  
   
 
-## Orange Orpiment
+## <span class="m">Orpiment</span> orange
 
  
-Mix it with <span class="m">arsenic</span> and grind it. Some prefer to melt it and then add a little <span class="m">arsenic</span>.
+One sublimates it & one grinds it & some put in a little <span class="m">arsenic</span> to make it melt instead.
  
  
   

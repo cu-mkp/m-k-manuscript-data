@@ -54,7 +54,7 @@ When you are making a painting with several persons, just as the flesh colors ha
 > *at left middle margin*
 > 
 > 
->   <span class="m">Azur d’esmail</span> hates more than any other to be crushed, especially with <span class="m">water</span>, for it dies & loses all its color. However, because it cannot be worked if it is coarse, crush not with <span class="m">water</span> but with <span class="m">oil</span> & crush it coarsely, and in this way it will not die as much.
+>   <span class="m">Azur d’esmail</span> hates more than any other to be ground, especially with <span class="m">water</span>, for it dies & loses all its color. However, because it cannot be worked if it is coarse, grind not with <span class="m">water</span> but with <span class="m">oil</span> & grind it coarsely, and in this way it will not die as much.
  
 > *at left middle margin*
 > 

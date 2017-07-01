@@ -8,9 +8,9 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [mabre, albastre, Jacinthe, ruby, or, antimoine, jacinthe, Topasse, pierre ponce, minium, pierre, acier, ponce, verre, caillou a foeu, Vernis, huile de lin, vernis, ambre jaulne fort pulverise, Gomme armoniac, vinaigre, gommes]
+materials: [mabre, albastre, Jacinthe, ruby, or, antimoine rubifie, jacinthe, Topasse, pierre ponce, minium, pierre, acier, ponce, verre, caillou a foeu, Vernis, huile de lin, vernis, ambre jaulne fort pulverise, Gomme armoniac, vinaigre, gommes de medecine]
 tools: [crusol, mabre, creusets, mortier de ver f acier, mortier de verre, estamine]
-measurements: []
+measurements: [jour]
 bodyparts: []
 places: [allemands]
 plants: [lin]
@@ -31,7 +31,7 @@ que le <span class="tl">crusol</span> soict rouge Apres jecte le sur un <span cl
 ## <span class="m">Jacinthe</span>
 
  
-Se faict co<span class="exp">mm</span>e le <span class="m">ruby</span> avecq de l<span class="m">or</span> mays il ny<br/> fault pas si grand foeu Le <span class="m">ruby</span> veult foeu tout<br/> un jour Et sil nha pas asses de foeu il naura<br/> que des veines rouges
+Se faict co<span class="exp">mm</span>e le <span class="m">ruby</span> avecq de l<span class="m">or</span> mays il ny<br/> fault pas si grand foeu Le <span class="m">ruby</span> veult foeu tout<br/> un <span class="ms"><span class="tmp">jour</span></span> Et sil nha pas asses de foeu il naura<br/> que des veines rouges
  
 > *at left top margin*
 > 
@@ -41,7 +41,7 @@ Se faict co<span class="exp">mm</span>e le <span class="m">ruby</span> avecq de 
 > *at left top margin*
 > 
 > 
->   On tient que<br/> l'<span class="m">antimoine</span> rubifie<br/> faict <span class="m">jacinthe</span> 
+>   On tient que<br/> l'<span class="m">antimoine rubifie</span><br/> faict <span class="m">jacinthe</span> 
  
  
   
@@ -65,5 +65,5 @@ Les <span class="pl">allemands</span> font fort bouillir le <span class="m">mini
 ## <span class="m">Gomme armoniac</span>
 
  
-On la mects a petits lopins dans un peu de bon<br/> <span class="m">vinaigre</span> & on faict chaufer puys on le passe par<br/> une <span class="tl">estamine</span> Toutes <span class="m">gommes</span> de medecine se dissolvent<br/> en <span class="m">vinaigre</span>
+On la mects a petits lopins dans un peu de bon<br/> <span class="m">vinaigre</span> & on faict chaufer puys on le passe par<br/> une <span class="tl">estamine</span> Toutes <span class="m">gommes de medecine</span> se dissolvent<br/> en <span class="m">vinaigre</span>
  

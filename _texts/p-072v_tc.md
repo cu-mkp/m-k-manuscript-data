@@ -9,7 +9,7 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [plomb, estaim, paille, souldure, estain, estain de glace, estain doulx, estaimg, argent vif, plombs, cire, plomb le plus noir se disent aulcuns est le meilleur & le plus doulx & qui coule mieulx, os de seiche, os, moelle, moelle de los, coquille, limaille de fer, espingle]
-tools: [plat destain, doigts, manche de chemise, chassis, doigt, table bien unie, chevilles, marteau, gratte broisse, moules]
+tools: [plat destain, doigts, manche de chemise, chassis, doigt, table bien unie, chevilles, os de seiche, marteau, gratte broisse, moules]
 measurements: [partye, lb]
 bodyparts: [doigts, doigt]
 places: [Allemands]
@@ -48,7 +48,7 @@ Lalliage bon pour couler de <span class="m">plomb</span> & d<span class="m">esta
 > *at left top margin*
 > 
 > 
->   L<span class="m">os de <span class="al">seiche</span></span><br/> moule mieulx<br/> le <span class="m">plomb</span> que chose<br/> qui soit Mays<br/> essaye sil le fault<br/> recuire <span class="del">Il fault<br/> mouler derriere<br/> l<span class="m">os</span> & du coste diceluy<br/> Car la <span class="m">moelle</span> y<br/> est plus delicate</span>
+>   L<span class="tl"><span class="m">os de <span class="al">seiche</span></span></span><br/> moule mieulx<br/> le <span class="m">plomb</span> que chose<br/> qui soit Mays<br/> essaye sil le fault<br/> recuire <span class="del">Il fault<br/> mouler derriere<br/> l<span class="m">os</span> & du coste diceluy<br/> Car la <span class="m">moelle</span> y<br/> est plus delicate</span>
  
 > *at left middle margin*
 > 

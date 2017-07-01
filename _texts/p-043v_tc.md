@@ -9,7 +9,7 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [Vin, bresil, eau claire, eau taincte, vin, just de citron, orange, Perles, talc pulverise, pouldre, feultre, cuir, papier]
-tools: [porte piece]
+tools: [lampe, porte piece]
 measurements: [une ou deux heures]
 bodyparts: []
 places: []
@@ -33,7 +33,7 @@ Racles du <span class="m">bresil</span> bien menu mectes le tremper <span class=
 ## <span class="m">Perles</span>
 
  
-On dict que le <span class="m">talc pulverise</span> soufle dedans a la lampe<br/> les rend ainsy 
+On dict que le <span class="m">talc pulverise</span> soufle dedans a la <span class="tl">lampe</span><br/> les rend ainsy 
  
  
   

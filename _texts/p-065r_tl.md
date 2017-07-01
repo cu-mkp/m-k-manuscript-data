@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [oil, jet, yellow ochre, lead white, sap-green, bistre, distemper, orberégrain, umber, cristallin, soap, paper, gild, or mat, gold color, ceruse, minium, massicot, ochre, water, crushed glass, lake]
+materials: [oil, jet, yellow ochre, lead white, sap-green, bistre, distemper, orberégrain, umber, cristallin, soap, paper, gild, or mat, gold color, ceruse, minium, massicot, ochre, water, lake]
 tools: [Mirror, cristallin mirror, mirror, candle, pinceau]
 measurements: []
 bodyparts: []
@@ -25,7 +25,10 @@ animals: []
 ## Shadows
 
  
- Because blacks make in different colors, some a reddish black, others tend towards blue, and others towards green, choose those which tend towards yellow to make beautiful shadows in <span class="m">oil</span>, for shadow, especially that of men, is yellowish. And for this effect use very strongly crushed <span class="m">jet</span>, which you will mix with a little <span class="m"><span class="add">yellow</span> ochre</span> & <span class="m">lead white</span>. Or else, after you have crushed your <span class="m">lead white</span> <span class="del">bro</span> and <span class="del">clean p</span> gathered it with the , crush the <span class="m">jet</span> into it. Thus it will be more desiccative, & making on its own a yellowish black. A little white mixed in renders it perfect for men's shadows. Blacks which make a greenish black are appropriate for women's shadows. Take, then, some black of , a little <span class="m">sap—green</span> & <span class="m">bistre</span>, & you will have a perfect shadow for women in <span class="m">distemper</span>.
+ Because blacks make in different colors, some a reddish black, others tend towards blue, and others towards green, choose those which tend towards yellow to make beautiful shadows in <span class="m">oil</span>, for shadow, especially that of men, is yellowish. And for this effect use very strongly ground <span class="m">jet</span>, which you will mix with a little <span class="m"><span class="add">yellow</span> ochre</span> & <span class="m">lead white</span>. Or else, after you have ground your <span class="m">lead white</span> <span class="del">bro</span> and <span class="del">clean p</span> gathered it with the 
+> *Figure*
+> <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5UFZyOUNKU3pqVXc" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+, grind the <span class="m">jet</span> into it. Thus it will be more desiccative, & making on its own a yellowish black. A little white mixed in renders it perfect for men's shadows. Blacks which make a greenish black are appropriate for women's shadows. Take, then, some black of , a little <span class="m">sap—green</span> & <span class="m">bistre</span>, & you will have a perfect shadow for women in <span class="m">distemper</span>.
  
 > *at left top margin*
 > 
@@ -72,5 +75,5 @@ If some part remains shiny and does not seem dry after the layered colors have p
 > *at left bottom margin*
 > 
 > 
->   Any color or thing that thickens when <span class="m">water</span> is put with it when it is being crushed has body. But those that lack it, such as <span class="m">crushed glass</span>, <span class="m">lake</span> & become clear.
+>   Any color or thing that thickens when <span class="m">water</span> is put with it when it is being ground has body. But those that lack it, such as <span class="m">cristallin</span>, <span class="m">lake</span> & become clear.
  

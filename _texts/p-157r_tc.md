@@ -9,7 +9,7 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [os de seiche, cire, plomb, os, papier, or, argent, souldent, estain, lessive, cendres, suif, gresse, cendre, colle, colle de poisson, poil de porc, corde despinette, dardille]
-tools: [papier, chaple, moule, platene dardille, poinctes, poincte]
+tools: [os de seiche, os, papier, chaple, moule, platene dardille, poinctes, poincte]
 measurements: []
 bodyparts: []
 places: []
@@ -25,7 +25,7 @@ animals: [seiche, Mousches, mouche, poisson, porc]
 ## Moyen des <span class="pro">orfevres</span> pour mouler<br/> creux
 
  
-Ils moulent en deulx <span class="m">os de <span class="al">seiche</span></span> leur animal ou aultre<br/> ouvrage solide quilz ont ou desia faict ou esbauche en <span class="m">cire</span><br/> & gecte en <span class="m">plomb</span> Comme il est bien emprainct dans les deulx<br/> <span class="m">os de <span class="al">seiche</span></span> ilz mectent entre ces deulx <span class="m">os</span> un <span class="tl"><span class="m">papier</span></span><br/> & ioignent les <span class="m">os</span> et gectent Louvrage vient party par<br/> moictié Et puys avecq <span class="del">ch</span> un <span class="tl">chaple</span> ils cavent aussy<br/> subtils quilz leur plaist les deulx moities gectees d<span class="m">or</span> ou<br/> d<span class="m">argent</span> Et puys les <span class="m">souldent</span> ou brasent
+Ils moulent en deulx <span class="tl"><span class="m">os de <span class="al">seiche</span></span></span> leur animal ou aultre<br/> ouvrage solide quilz ont ou desia faict ou esbauche en <span class="m">cire</span><br/> & gecte en <span class="m">plomb</span> Comme il est bien emprainct dans les deulx<br/> <span class="tl"><span class="m">os de <span class="al">seiche</span></span></span> ilz mectent entre ces deulx <span class="tl"><span class="m">os</span></span> un <span class="tl"><span class="m">papier</span></span><br/> & ioignent les <span class="tl"><span class="m">os</span></span> et gectent Louvrage vient party par<br/> moictié Et puys avecq <span class="del">ch</span> un <span class="tl">chaple</span> ils cavent aussy<br/> subtils quilz leur plaist les deulx moities gectees d<span class="m">or</span> ou<br/> d<span class="m">argent</span> Et puys les <span class="m">souldent</span> ou brasent
  
  
   

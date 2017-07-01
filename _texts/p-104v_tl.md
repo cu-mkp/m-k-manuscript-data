@@ -8,8 +8,8 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [stavesacre, egg whites, oil, wax, boiled water, clay, lead, tin, silver, silver-gilt]
-tools: []
+materials: [stavesacre, egg whites, oil, wax, melted wax, hot water, very soft clay, lead, tin, silver, silver-gilt]
+tools: [mold]
 measurements: []
 bodyparts: []
 places: []
@@ -33,7 +33,7 @@ For normal—sized dogs, take half an ℥ of <span class="m">stavesacre</span>, 
 ## For casting
 
  
-If you've got a big piece which does not allow an easy stripping of casting, mold it with some <span class="m">wax</span>, either on the hollow side or in relief, because it is soft & hollow and so can easily be separated from the piece without leaving anything. But be sure that the melted <span class="m">wax</span> is neither too hot nor too cold. Some people use for molding some <span class="m">wax</span> warmed in <span class="m">boiled water</span>, but while pressing the mold it bends & becomes unusable. Once you have made your <span class="m">wax</span> cavity, you can cast in some very soft & clear <span class="m">clay</span>, & let it dry. Then, upon it you will make a <span class="m">lead</span> or <span class="m">tin</span> cavity, in which what you will make will easily be stripped.
+If you have some piece which does not want to release, & is big, mold it with <span class="m">wax</span>, either in cavity or in relief, because it is malleable once soft & obeys, and thus separates itself from the piece without leaving anything. But take heed that the <span class="m">melted wax</span> be neither too hot nor too cold. Some mold with <span class="m">wax</span> heated in <span class="m">hot water</span>, but in pressing the <span class="tl">mold</span>, it becomes gauche & becomes fake. Once your cavity in <span class="m">wax</span>, you can cast in some <span class="m">very soft clay</span> & very moistened & clear, & let it dry at ease. Then you will make a cavity on it <span class="del">ave</span> of <span class="m">lead</span> or <span class="m">tin</span>, in <span class="del">tu</span> which what you will form will be of good release.
  
  
   

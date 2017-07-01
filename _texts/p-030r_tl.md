@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Lead, metal, grais, white clay, horse dung, cloth waste, earth, iron]
+materials: [Lead, metal, grais, white clay, horse dung, cloth waste, earth, soldering, iron]
 tools: [molds, mold, grais mould, metal molds, molds of grais, hammered, iron wheels]
 measurements: [arm, fingers]
 bodyparts: [arm, fingers]
@@ -37,7 +37,7 @@ They also make their <span class="tl">molds</span> out of <span class="m">metal<
  
 For pints, <span class="tl">molds</span> are made with <span class="m">white clay</span> mixed with <span class="m"><span class="al">horse</span> dung</span> & <span class="m">cloth waste</span> & well beaten, because the pints, being deep half—circles, would not easily release from the <span class="tl"><span class="m">grais</span> mould</span>, unlike the <span class="m">earth</span> ones, which are soft. One makes the noyau of the <span class="tl">mold</span> of the said pints in grais.
  
-In <span class="tl">metal molds</span>, one makes vents and casts all at once, which is the cause that in the middle of the dish, no smoky black line which comes from the vapor & smoke of the <span class="m">metal</span> that is cast, which is the cause that in that spot, the work is lumpy & very often pierced. However they repair it with soldering <span class="del">du n</span>, as is said. This smoke is made right in the middle of the cast, & in <span class="tl"> molds of <span class="m">grais</span></span>.
+In <span class="tl">metal molds</span>, one makes vents and casts all at once, which is the cause that in the middle of the dish, no smoky black line which comes from the vapor & smoke of the <span class="m">metal</span> that is cast, which is the cause that in that spot, the work is lumpy & very often pierced. However they repair it with <span class="m">soldering</span> <span class="del">du n</span>, as is said. This smoke is made right in the middle of the cast, & in <span class="tl"> molds of <span class="m">grais</span></span>.
  
 The vessel can be <span class="tl">hammered</span> <span class="del">mar</span> to make it more vendable. But it will not last as long.
  

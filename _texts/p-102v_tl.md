@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [crystal, glass, oil, flesh-tinted color, azur, lacquer, dragon's blood, topaz, gold, silver, anthos, rosemary, wine, water, white wine, Tin, tin]
+materials: [crystal, glass, oil, flesh-tinted color, azur, lacquer, dragon's blood, topaz, gold, silver, anthos, rosemary, wine, water, white wine, Tin, tin, solder]
 tools: []
 measurements: []
 bodyparts: []
@@ -38,10 +38,10 @@ It is better to cook the flower in August & more suited to <span class="m">oil</
  
   
 
-## Casting
+## Cast
 
  
-<span class="m">Tin</span> casts better when it is thin & delicate, than when it is thick, because when it is thick & in high heat, it contracts. So if you want to mold a thick piece in <span class="m">tin</span>, mold it only one one side, & if it is possible, make it hollow on the other side. In this way your piece will be neater. And then you can solder two half pieces together. But if you have no choice but to mold it thick, make the shape of it & mold force abreuvouers around the figure in this way. 
+<span class="m">Tin</span> comes out better being thin & fine, rather than thick, because being thick & in great heat, it retracts. Therefore, if you want to mold a thick piece in <span class="m">tin</span>, mold it only one one side, & with a cavity or one side, if it is possible, in that way you will have it more neat, and then you will be able to <span class="m">solder</span> two halves together. But if you have to mold it thick, make the in the form & mold a lot of abreuvouers around the figure, in this way. 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5SjZwV0ZHdW93ZEk" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  

@@ -9,7 +9,7 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [ruby balay, tripoly, pouldre de marchasite, huile, Or et argent moulu, or fin, ☿, mercure, mabre, eau gommee, argent, eau fort, cuivre, pierres, estain, plomb, cuivre fin, diamant, rubi, saphir, jacinthe orientale, esmeraulde, ametiste, fin estaing, estaing, limaille de letton, grais, eau, urc, ☾, ☼, ♀]
-tools: [mabre, lame de cuivre]
+tools: [mabre, lame de cuivre, roues une destain de plomb & de cuivre fin, roue de cuivre, roue destain]
 measurements: [moictie, huictiesme partye]
 bodyparts: []
 places: []
@@ -41,7 +41,7 @@ Il fault calciner ton <span class="m">or fin</span> avecq le <span class="m">☿
 ## Polissement de <span class="m">pierres</span>
 
  
-Il y a pour ce faire trois roues une d<span class="m">estain</span> de <span class="m">plomb</span> & de<br/> <span class="m">cuivre fin</span> sur la <span class="del">cu</span> roue de <span class="m">cuivre</span> ne se taille <span class="del">co</span> ou polist<br/> communement que le <span class="m">diamant</span> le <span class="m">rubi</span> <span class="m">saphir</span> & <span class="m">jacinthe orientale</span><br/> La roue d<span class="m">estain</span> est pour les <span class="m">pierres</span> plus tendres comme<br/> l<span class="m">esmeraulde</span> l<span class="m">ametiste</span> & aultres
+Il y a pour ce faire trois <span class="tl">roues une d<span class="m">estain</span> de <span class="m">plomb</span> & de<br/> <span class="m">cuivre fin</span></span> sur la <span class="del">cu</span> <span class="tl">roue de <span class="m">cuivre</span></span> ne se taille <span class="del">co</span> ou polist<br/> communement que le <span class="m">diamant</span> le <span class="m">rubi</span> <span class="m">saphir</span> & <span class="m">jacinthe orientale</span><br/> La <span class="tl">roue d<span class="m">estain</span></span> est pour les <span class="m">pierres</span> plus tendres comme<br/> l<span class="m">esmeraulde</span> l<span class="m">ametiste</span> & aultres
 
  
   

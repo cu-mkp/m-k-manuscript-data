@@ -9,11 +9,11 @@ mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [glasse, ☿, salt, unleaded, earthenware, vinegar, cotton, stone, white iron, Turnipseed oil, Royal cement, vitriol, saltpeter, rock alum, Glass, glass, Dutch feather]
-tools: []
-measurements: []
-bodyparts: []
+tools: [furnace, coffer, boxes, earthenware pots with a lid, pipes of white iron, lamps, fire-steel]
+measurements: [square pousses, pied]
+bodyparts: [pousses]
 places: [Dutch]
-plants: []
+plants: [Turnip]
 professions: []
 environments: []
 animals: []
@@ -30,10 +30,10 @@ animals: []
  
   
 
-## For the furnace
+## For the <span class="tl">furnace</span>
 
  
-A chest with a ten inch wide square <span class="m">stone</span>, and of a one—foot thickness, pierced in the middle 2 boxes or two <span class="m">earthenware</span> pots with a lid 2 small pipes of <span class="m">white iron</span> to evacuate the smoke of the furnace <span class="m">Turnipseed oil</span> for the lamps to heat the furnace A fire—steel
+A <span class="tl">coffer</span> with a wide <span class="m">stone</span> of ten <span class="ms">square <span class="bp">pousses</span></span>, and a thickness of one <span class="ms">pied</span>, pierced in the middle 2 <span class="tl">boxes</span> or <span class="tl"><span class="m">earthenware</span> pots with a lid</span> 2 small <span class="tl">pipes of <span class="m">white iron</span></span> to evacuate the smoke from the <span class="tl">furnace</span> <span class="m"><span class="pa">Turnip</span>seed oil</span> for the <span class="tl">lamps</span> to heat the <span class="tl">furnace</span> A <span class="tl">fire—steel</span>
  
  
   

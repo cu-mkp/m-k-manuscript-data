@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [metal, huile, or, orpiment, metaulx broyes, cristallin broye, pierre de touche, arsenic, Vernis, mastic, huile de tourmentine claire & blanche, eau de vye, cendres]
+materials: [metal, huile, or, orpiment en foeille, orpiment, metaulx broyes, cristallin broye, pierre de touche, arsenic, Vernis, mastic, huile de tourmentine claire & blanche, eau de vye, cendres]
 tools: [foret, foreter, vaisseau]
 measurements: [onces]
 bodyparts: []
@@ -54,7 +54,7 @@ On ne les faict poinct dans la fosse si elles ne passent@
 ## Dorer <span class="del">ta</span> moleures de tableaux <br/> sans <span class="m">or</span>
 
  
-Aulcuns prennent l<span class="m">orpiment</span> en foeille & le pulverisent<br/> & en font les foeilles moresques & le brunissent Et cest<br/> l<span class="m">orpiment</span> qui est luysant co<span class="exp">mm</span>e <span class="m">or</span> Touteffois les <span class="m">metaulx<br/> broyes</span> ou le <span class="m">cristallin broye</span> ou la <span class="m">pierre de touche</span><br/> sont meilleurs
+Aulcuns prennent l<span class="m">orpiment en foeille</span> & le pulverisent<br/> & en font les foeilles moresques & le brunissent Et cest<br/> l<span class="m">orpiment</span> qui est luysant co<span class="exp">mm</span>e <span class="m">or</span> Touteffois les <span class="m">metaulx<br/> broyes</span> ou le <span class="m">cristallin broye</span> ou la <span class="m">pierre de touche</span><br/> sont meilleurs
  
  
   

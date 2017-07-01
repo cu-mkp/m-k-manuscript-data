@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [wax, turpentine, butter, tallow, box wood, antler, Wax, sulphur, ,, oil, water, spirits, bran, earth, glass]
+materials: [wax, turpentine, butter, tallow, box wood, bone of hart, Wax, sulphur, ,, oil, water, spirits, bran, earth, glass]
 tools: []
 measurements: []
 bodyparts: []
@@ -22,10 +22,10 @@ animals: [snakes]
 <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-109r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f223.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>109r</a> - - - - - </div>  
   
 
-## Working in rough with <span class="m">wax</span>
+## Modelling with <span class="m">wax</span>
 
  
-When the <span class="m">wax</span> is too hard, one mixes in some <span class="m">turpentine</span> or a bit of <span class="m">butter</span>, which renders the <span class="m">wax</span> malleable, and cleaner than <span class="m">tallow</span>, which the <span class="pl">Italians</span> mix in, because oftentimes, it is necessary to put the tools into the mouth, <span class="sup">tools</span> which are better when made from <span class="m">box wood</span> or <span class="m">antler</span>.
+When <span class="m">wax</span> is too hard, one mixes in <span class="m">turpentine</span> or a little <span class="m">butter</span>, which <span class="del">sont pl</span> renders the <span class="m">wax</span> more amiable, and more appropriate than the<span class="m">tallow</span> that the <span class="pl">Italians</span> put in, because one has to, often, put the tools in the mouth, which are better in <span class="m">box wood</span> or <span class="m">bone of hart</span>.
  
  
   

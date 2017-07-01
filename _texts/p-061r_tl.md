@@ -36,7 +36,7 @@ You need to make two kinds of it, one more red to make the main layer, the other
 > *at left top margin*
 > 
 > 
->   Certain colors do not want to be crushed like <span class="m">minium</span> and <span class="m">massicot</span>. The <span class="m">ashes</span> do not want to be crushed at all.
+>   Certain colors do not want to be ground like <span class="m">minium</span> and <span class="m">massicot</span>. The <span class="m">ashes</span> do not want to be ground at all.
  
  
   

@@ -66,5 +66,5 @@ Be careful that your cast is not too thick, and do not forget to make 2 or 3 hol
 > *at left middle margin*
 > 
 > 
->  🜊  🜊 When the wax is cool, scrape away the superfluous parts with the point of a penknife, that way the end of the legs will stay neat. Then arrange the disc of earth around the spider, and cast your soaked sand, as you did for others. In this fashion you will have to burn the vine leaf in the mold. Otherwise, you will not have to. To cast your <span class="al">spider</span> more easily, make sure the animal is dead, avoiding the entanglement of its legs while agonizing. When you have done your first cast, peel this side of the leaf, then do the second cast. 
+>   🜊 🜊 When the wax is cool, scrape away the superfluous parts with the point of a penknife, that way the end of the legs will stay neat. Then arrange the disc of earth around the spider, and cast your soaked sand, as you did for others. In this fashion you will have to burn the vine leaf in the mold. Otherwise, you will not have to. To cast your <span class="al">spider</span> more easily, make sure the animal is dead, avoiding the entanglement of its legs while agonizing. When you have done your first cast, peel this side of the leaf, then do the second cast. 
  

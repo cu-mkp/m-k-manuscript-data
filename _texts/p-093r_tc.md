@@ -15,7 +15,7 @@ bodyparts: []
 places: []
 plants: []
 professions: [rustiques]
-environments: [cuisines, grandes cuisines]
+environments: [foyer, cuisines, grandes cuisines]
 animals: []
 ---
 
@@ -57,7 +57,7 @@ Toutes hantes ne se doibvent faire plustost que leur abre<br/> ne soict en sabe 
 ## Sable
 
  
-La <span class="m">cendre blanche de tout boys</span> qui se tient encores au <span class="m">boys</span><br/> qui brusle et nest point tombee au <span class="del">bo</span> <span class="tl">foyer</span> moule fort net
+La <span class="m">cendre blanche de tout boys</span> qui se tient encores au <span class="m">boys</span><br/> qui brusle et nest point tombee au <span class="del">bo</span> <span class="env"><span class="tl">foyer</span></span> moule fort net
  
  
   

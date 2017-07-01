@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Mericoton, pavis, plaster, distemper glue, English point, lead, gum, glue, cotton, minium, quicksilver, Purpurine, tin, ☿, porphyry, sal ammoniac, sulfur, glass, soot black, varnish, purpurine, mine d'Angleterre, mine]
+materials: [Mericoton, pavis, plaster, glue, mine d’Angleterre, lead, gum, cotton, minium, quicksilver, Purpurine, tin, ☿, porphyry, sal ammoniac, sulfur, glass, soot black, varnish, purpurine, mine d'Angleterre, mine]
 tools: [spoon, glass sublimatorium, finger, pinceau]
 measurements: [half an ounce, ℥, hour]
 bodyparts: [finger]
@@ -33,7 +33,7 @@ One should graft them before Christmas so that they will not freeze too much.
 ## White bronzing on <span class="m">plaster</span>
 
  
-One must apply four layers of <span class="pro">painters</span>' <span class="m">distemper glue</span> onto the <span class="m">plaster</span> portrait, leaving one layer to dry at a time. Then apply gently some burnt <span class="m">English point</span> ground on a marble slab, or some <span class="m">lead</span> burnt, ground and distempered with a bit of <span class="m">gum</span> or <span class="m">glue</span>. When dry, rub gently with a little <span class="m">cotton</span> and the <span class="m">plaster</span> portrait will look like <span class="m">lead</span>. Others grind <span class="m">minium</span> with <span class="m">quicksilver</span>.
+One needs to give four layers of <span class="pro">painters</span>' <span class="m">glue</span> in distemper on the <span class="m">plaster</span> portrait, always leaving each layer to dry. Next, with <span class="m">mine d’<span class="pl">Angleterre</span></span> ground on a marble, or burnt <span class="m">lead</span>, grind <span class="del">av</span> & distemper with a bit of <span class="m">gum</span> or <span class="del">go</span> <span class="m">glue</span>, lay down lightly. Once dry, rub lightly with a little <span class="m">cotton</span> and the <span class="m">plaster</span> portrait will seem to be of <span class="m">lead</span>. Others grind <span class="m">minium</span> with <span class="m">quicksilver</span>.
  
  
   
