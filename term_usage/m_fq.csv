@@ -1,17 +1,17 @@
 238|eau
 231|plomb
 224|cire
-218|or
-197|huile
-161|fer
-161|argent
+217|or
+196|huile
+162|fer
+160|argent
 136|estain
 113|cuivre
 111|metal
 102|terre
 88|plastre
 88|papier
-75|verre
+76|verre
 72|pouldre
 72|charbon
 69|vinaigre
@@ -21,16 +21,16 @@
 57|ardille
 55|letton
 45|bois
+42|vernis
 42|mabre
-41|vernis
 40|charbons
 39|vin
-38|os
+39|os
 38|cendre
 37|sel armoniac
-37|fil de fer
 37|colle
 37|ceruse
+36|fil de fer
 36|brique
 34|laque
 33|soufre
@@ -60,14 +60,14 @@
 20|alum
 19|☿
 19|rosette
-19|esmail
-19|eau fort
+18|metaulx
+18|eau fort
 18|croye
 18|crasse
 18|cotton
 17|verdet
-17|metaulx
 17|estaing
+17|esmail
 17|calamine
 16|tartre
 16|mastic
@@ -88,7 +88,6 @@
 14|azur desmail
 13|verny
 13|plume
-13|orpiment
 13|limaille
 13|huiler
 13|estaim fin
@@ -98,8 +97,8 @@
 13|ancre
 12|sanguine
 12|pierres
+12|orpiment
 12|estain de glace
-12|ambre
 11|verdegris
 11|tripoly
 11|plomb fin
@@ -108,9 +107,11 @@
 11|corne
 11|cire fondue
 11|carton
+11|ambre
 11|Vernis
 10|velours
 10|soulder
+10|paste
 10|mortier
 10|luter
 10|cuivre rouge
@@ -121,7 +122,6 @@
 9|sublime
 9|sel commun
 9|poix
-9|paste
 9|os de seiche
 9|or mat
 9|noir
@@ -142,6 +142,7 @@
 8|eau froide
 8|dorer
 8|cire blanche
+8|blanc
 8|Plastre
 7|savon
 7|sang de dragon
@@ -158,12 +159,10 @@
 7|caillous
 7|bourre
 7|bol
-7|blanc
 7|bistre
 7|arsenic
 7|armoniac
 7|arene
-7|antimoine
 7|albastre
 6|☾
 6|soulde
@@ -181,6 +180,7 @@
 6|huile de tourmentine
 6|grais
 6|fondu
+6|drogues
 6|doulx
 6|de vye
 6|chair
@@ -189,6 +189,7 @@
 6|aspic
 6|ardile
 6|antimoyne
+6|antimoine
 6|alung
 6|Sel armoniac
 6|Cire
@@ -216,12 +217,12 @@
 5|huile gras
 5|gomme dragant
 5|fil de letton
+5|fient
 5|fer blanc
 5|esmailler
 5|escaille de fer
 5|eaulx
 5|eau commune
-5|drogues
 5|dragee
 5|dore
 5|diamant
@@ -257,14 +258,16 @@
 4|magistra
 4|huiles
 4|graisse
+4|fumee
 4|foing
 4|fisselle
 4|filet
+4|fil de
 4|fil
 4|fiente de cheval
-4|fient
 4|esmeraulde
 4|esmaulx
+4|esmail dazur
 4|eau de savon
 4|cuyvre
 4|chaulde
@@ -275,7 +278,6 @@
 4|bois vieulx
 4|argenter
 4|aes ustum
-4|Or
 4|Lute
 3|vye
 3|vin bouilly avecq racine dorme
@@ -296,6 +298,7 @@
 3|ponce
 3|poil de cheval
 3|plomb pur
+3|pierreries
 3|pierre ponce
 3|pate
 3|pailles
@@ -305,7 +308,6 @@
 3|mortier sec
 3|millas
 3|mil
-3|metaux
 3|metal fondu
 3|mastic pulverise
 3|larme de mastic
@@ -315,16 +317,14 @@
 3|grain
 3|fumier
 3|fumee de lampe
-3|fumee
 3|froment
 3|froide
+3|foeille
 3|floree
-3|fil de
 3|fil darchal
 3|estain doulx
 3|esmery
 3|esmaille
-3|esmail dazur
 3|escaille
 3|drap
 3|doreure
@@ -333,10 +333,12 @@
 3|de saule
 3|de noix
 3|de glace
+3|dargent
 3|cuyr
 3|cristallin
 3|cristal
 3|commun
+3|coller
 3|colle bien clere
 3|clou
 3|cirop
@@ -346,7 +348,6 @@
 3|chandelle
 3|bresil
 3|boeurre
-3|blanche
 3|aulx
 3|asur
 3|argentees
@@ -357,6 +358,7 @@
 3|Stuc
 3|Scudegrun
 3|Plomb
+3|Or
 3|Luth
 3|Lutes
 3|Huile de froment
@@ -429,7 +431,6 @@
 2|poil de
 2|pluye
 2|plombee
-2|pierreries
 2|pierre ponce calcinee
 2|pierre de touche
 2|perles
@@ -452,6 +453,7 @@
 2|mine dangleterre
 2|miel rosat
 2|mie de
+2|metaux
 2|metalline
 2|metail
 2|mellis
@@ -487,7 +489,6 @@
 2|graine de lettue
 2|graine
 2|goume
-2|gommes
 2|glaire doeufs
 2|geyct
 2|gemme
@@ -530,7 +531,6 @@
 2|de fer
 2|de destrempe
 2|de cheval
-2|dargent
 2|dardille
 2|cuivre 
 2|cuir blanc
@@ -541,7 +541,6 @@
 2|coral
 2|coquilles
 2|consolida maior
-2|coller
 2|colle de retaille
 2|colle bien claire
 2|cole
@@ -567,6 +566,7 @@
 2|bois dous
 2|bois de buy
 2|bled orbere
+2|blanche
 2|betjoin
 2|beril
 2|batture
@@ -619,6 +619,7 @@
 1|zedoaire
 1|vrnies
 1|vive
+1|vittres
 1|vitriol de salpestre
 1|vitriol calcine
 1|vitre
@@ -691,6 +692,7 @@
 1|verd 
 1|verd
 1|vase
+1|vapeur deau fort
 1|ustum
 1|usent les painctres
 1|usblac
@@ -765,6 +767,7 @@
 1|taincture de bresil
 1|tainct
 1|taffre
+1|tableau a huile
 1|table de verre
 1|table
 1|symphitum
@@ -825,6 +828,7 @@
 1|sel blanc
 1|sel armonial
 1|sel armo
+1|sel appelle de langlois de armonic
 1|sel ammoniac
 1|segle
 1|se servent pour braser ou soulder
@@ -853,7 +857,6 @@
 1|sales
 1|sal armoniaco
 1|sal armoniac
-1|safre
 1|safir
 1|saffran bien baptu
 1|saffran
@@ -1058,11 +1061,13 @@
 1|os de cheval
 1|os de cerf
 1|os calcines de lanimal
+1|orpiment en foeille
 1|orme
 1|orge
 1|ore Jaulne
 1|oranges
 1|orange
+1|or sur mat
 1|or moulu
 1|or fin non alie
 1|or et largent fondus
@@ -1308,7 +1313,7 @@
 1|grands metaux
 1|grands
 1|graisse de 
-1|graise
+1|graise de jeune chevreau
 1|graine de grand passevelours
 1|graine de coings
 1|graine de chou navette
@@ -1319,6 +1324,8 @@
 1|grain de bled
 1|grain de
 1|gousses
+1|gommes de medecine
+1|gommes
 1|gommee
 1|gomme de sandaraque en pouldre
 1|gomme armoniac
@@ -1339,7 +1346,9 @@
 1|gaulde
 1|gallipot
 1|fustict
+1|fumer
 1|fumees 
+1|fumee du safre
 1|fumee des metaulx
 1|fumee de perdrix
 1|fumee calaminayre
@@ -1363,7 +1372,6 @@
 1|foeilles &amp; lames dargent
 1|foeille destain
 1|foeille de sauge
-1|foeille
 1|flin
 1|fleurs de 
 1|fleur seiche
@@ -1450,7 +1458,8 @@
 1|esmails
 1|esmailer
 1|esmail rouge cler
-1|esmail azure
+1|esmail recuit
+1|esmail azure fort cler
 1|escume
 1|escuelle
 1|escrevisse
@@ -1813,6 +1822,7 @@
 1|bled en farine
 1|bled de froment
 1|blanches
+1|blanche pilee &amp; pulverisee &amp; tamisee
 1|blanc dung œuf
 1|blanc dhuile doeufs
 1|blanc 
@@ -1879,6 +1889,8 @@
 1|arcenic jaulne
 1|arabic
 1|antymoine
+1|antiques
+1|antimoine rubifie
 1|anthos
 1|anthimoyne
 1|ancre bien gommee
@@ -1886,6 +1898,7 @@
 1|ametiste
 1|amendes pelees
 1|amendes
+1|ambre transparent
 1|ambre pulverise
 1|ambre jaulne fort pulverise
 1|ambre gris

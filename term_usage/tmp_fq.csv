@@ -1,4 +1,4 @@
-21|jour
+22|jour
 17|heures
 16|jours
 15|heure
@@ -36,7 +36,9 @@
 1|trois jours en la sepmaine
 1|tout un jour
 1|temps serain &amp; s bien sec
+1|temps nest serain &amp; sec
 1|temps humide
+1|temps est relent &amp; humide
 1|temps de pluye
 1|sont longues
 1|serain de la nuit
@@ -80,6 +82,7 @@
 1|de longue duree
 1|bon matin
 1|avecq le temps
+1|aujourdhuy
 1|au soir
 1|apres un temps pluvieulx
 1|apres que le pain est tire

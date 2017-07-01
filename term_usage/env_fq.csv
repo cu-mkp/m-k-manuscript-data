@@ -2,7 +2,7 @@
 11|eau
 9|a la pluye
 7|cave
-6|au soleil
+7|au soleil
 5|garrigue
 4|vent
 4|lieu humide
@@ -38,6 +38,8 @@
 1|terriers
 1|terrier
 1|terre fresche &amp; humide
+1|temps nest serain &amp; sec
+1|temps est relent &amp; humide
 1|temps de pluye
 1|temps
 1|sur les maisons
@@ -53,6 +55,7 @@
 1|pres des rochers aulx pays
 1|pres de mon sol
 1|pres de leur demeure
+1|pres
 1|pierrieres qu grisastres
 1|pierriere
 1|pierreriesrieres
@@ -98,6 +101,7 @@
 1|en la cave ou
 1|en hault
 1|eau ou les
+1|du feu
 1|doulce
 1|descouvert
 1|de rochers
@@ -126,6 +130,7 @@
 1|au profond de la sablonniere
 1|au froid
 1|au froict
+1|au feu
 1|au costau de puy david bien
 1|au
 1|apres un temps pluvieulx

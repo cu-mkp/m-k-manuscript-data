@@ -10,6 +10,7 @@
 30|costeau
 26|fourneau
 25|forge
+24|os
 24|molle
 22|tamis
 22|pot
@@ -21,24 +22,22 @@
 18|poincte
 17|poinctes
 17|papier
-17|os
-17|fil de fer
-16|lime
+17|lime
+16|fil de fer
 16|burin
 16|boicte
 14|marteau
+14|linge
 13|souflets
-13|linge
 12|esponge
-12|escuelle
 12|doigts
 12|creuset
+11|escuelle
 11|chaple
 11|broisse
 10|trancheplume
 10|table
 10|bouteille
-9|verre
 9|regle
 9|pilon
 9|ongle
@@ -46,7 +45,9 @@
 9|main
 9|gabions
 9|four a vent
+9|fer
 9|chandelle
+8|verre
 8|presse
 8|plume
 8|pallete
@@ -57,14 +58,13 @@
 8|corde
 8|chevilles
 8|Moules
+7|roue
 7|poincte de fer
 7|molles
 7|marbre
 7|filet
-7|fer
 7|compas
 7|ciselet
-6|roue
 6|platine dardille
 6|plane
 6|cheville
@@ -79,6 +79,7 @@
 5|poinctes de fer
 5|poincte de fil de fer
 5|plaste
+5|pincettes
 5|moulle
 5|four de reverberation
 5|espingle
@@ -91,7 +92,6 @@
 4|pots
 4|pot de terre
 4|plaste dardille
-4|pincettes
 4|pied
 4|mortier de fer
 4|molletes
@@ -106,6 +106,7 @@
 4|ciseaulx
 4|chauldron
 4|bullitoyre
+4|brunisson
 4|bouteille de verre
 4|boicte de cuir
 3|vis
@@ -133,6 +134,7 @@
 3|creusol
 3|chapeau
 3|cercle
+3|caisse de fer
 3|brasier
 3|bouche
 3|boisseau
@@ -147,6 +149,7 @@
 2|toile
 2|tenailles
 2|sayettes de pourceau
+2|sayes de porceau
 2|sayes
 2|queue de fer
 2|quarton
@@ -158,7 +161,6 @@
 2|pinsettes
 2|pinceaulx a
 2|piliers
-2|pierre
 2|petit baston
 2|papier colle
 2|panier
@@ -178,6 +180,7 @@
 2|linge rude
 2|lime doulce
 2|lampes
+2|lampe
 2|lames de fer
 2|huile
 2|grattebroissa
@@ -189,6 +192,7 @@
 2|foreter
 2|fiolle de verre
 2|fiolle
+2|fil de
 2|fil darchal
 2|esgrusouer
 2|eguille
@@ -212,7 +216,6 @@
 2|cierge
 2|chaulderon
 2|cercle de terre
-2|caisse de fer
 2|cage
 2|cabats
 2|bullitoire
@@ -228,6 +231,7 @@
 2|Moule
 1|verre ou
 1|vergettes
+1|vergette de
 1|vase
 1|vaisseau plombe
 1|vaisseau destaing
@@ -238,6 +242,7 @@
 1|tuiles
 1|tuile a crochet
 1|truelle
+1|tripoly
 1|tripoli de bretaigne
 1|triboulet
 1|trepies de fer
@@ -273,7 +278,6 @@
 1|seau
 1|sayettes
 1|sayetes de poil de pourceau
-1|sayet de porceau
 1|salpestre ou sel armoniac
 1|sacs
 1|roulleau
@@ -282,6 +286,7 @@
 1|roue de plomb
 1|roue de fer
 1|roue de cuivre
+1|roue de bois dous
 1|roue de
 1|rolleaux
 1|rolleau
@@ -374,6 +379,7 @@
 1|piliers de fer
 1|pierre noire
 1|pierre de touche
+1|pierre
 1|pied de cire
 1|pieces 
 1|picquet de fer
@@ -397,6 +403,7 @@
 1|oreille
 1|ongle du poulce droict
 1|oeil
+1|ne de metal
 1|moulles
 1|moulle de cuivre
 1|moulins deau
@@ -463,7 +470,6 @@
 1|le hault
 1|lanternes
 1|langue
-1|lampe
 1|lamines de fer
 1|lamines
 1|lames dargent
@@ -523,7 +529,6 @@
 1|fil du propre
 1|fil delie de letton
 1|fil de letton
-1|fil de
 1|feu de reverberation
 1|fermouer dardille
 1|fer tranchant
@@ -546,6 +551,7 @@
 1|entonnouer
 1|enclumes
 1|en terre
+1|eau enscuelle
 1|eau de roche
 1|eau coloree
 1|eau 
@@ -643,7 +649,7 @@
 1|cassolle dest
 1|cassolle de fer ou metal
 1|cassolle de fer
-1|cassete
+1|cassete de fer
 1|casse platte
 1|casse
 1|cartons
@@ -651,7 +657,6 @@
 1|cane
 1|burins &amp;
 1|burin ordinayre a tailler
-1|brunisson
 1|broche de boys
 1|broc
 1|briques
@@ -667,12 +672,13 @@
 1|boictes de verre
 1|bocals
 1|bocal
+1|blanc
 1|billots
 1|billot
 1|bien unye
 1|bien unie
 1|bastons
-1|bastoneau
+1|bastonceau
 1|baston rond duquel
 1|baston plat
 1|baston fendu
