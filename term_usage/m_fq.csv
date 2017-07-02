@@ -1,28 +1,28 @@
-238|eau
+239|eau
 231|plomb
 224|cire
 217|or
-196|huile
+197|huile
 162|fer
 160|argent
-136|estain
+123|estain
 113|cuivre
 111|metal
 102|terre
 88|plastre
 88|papier
 76|verre
+74|estaim
 72|pouldre
 72|charbon
 69|vinaigre
-61|estaim
 59|eau de vye
 58|boys
 57|ardille
 55|letton
 45|bois
+43|mabre
 42|vernis
-42|mabre
 40|charbons
 39|vin
 39|os
@@ -60,7 +60,7 @@
 20|alum
 19|☿
 19|rosette
-18|metaulx
+19|metaulx
 18|eau fort
 18|croye
 18|crasse
@@ -79,18 +79,17 @@
 15|massicot
 15|gomme
 15|glaire
+15|estaim fin
+15|estaim de glace
 15|bronze
 15|bled
 15|beurre
 14|huile de froment
-14|estaim de glace
 14|eau claire
 14|azur desmail
 13|verny
 13|plume
 13|limaille
-13|huiler
-13|estaim fin
 13|eau de sel armoniac
 13|borras
 13|argent vif
@@ -98,12 +97,13 @@
 12|sanguine
 12|pierres
 12|orpiment
-12|estain de glace
+12|huiler
 11|verdegris
 11|tripoly
 11|plomb fin
 11|luth
 11|feultre
+11|estain de glace
 11|corne
 11|cire fondue
 11|carton
@@ -126,16 +126,15 @@
 9|or mat
 9|noir
 9|miel
-9|marbre
 9|huile dolif
 9|huile de lin
 9|glaire doeuf
-9|estain fin
 9|ardoise
 8|verre pile
 8|vernis de tourmentine
 8|or bruny
 8|mine
+8|marbre
 8|lute
 8|huile de soufre
 8|fiens
@@ -148,9 +147,11 @@
 7|sang de dragon
 7|potee
 7|parchemin
+7|laicton
 7|huilee
 7|huile de
 7|fin
+7|estain fin
 7|eau sel
 7|eau gommee
 7|eau de
@@ -175,7 +176,6 @@
 6|liege
 6|lessive
 6|laitton
-6|laicton
 6|jaulne doeuf
 6|huile de tourmentine
 6|grais
@@ -198,6 +198,7 @@
 5|terre grasse
 5|taffetas
 5|souffre
+5|scudegrun
 5|sang
 5|safran
 5|sable
@@ -214,6 +215,7 @@
 5|jaulne
 5|huille daspic
 5|huille
+5|huiles
 5|huile gras
 5|gomme dragant
 5|fil de letton
@@ -242,7 +244,6 @@
 4|vert de gris
 4|tuile
 4|sels
-4|scudegrun
 4|saphir
 4|sandaraque
 4|sable de mine
@@ -256,7 +257,6 @@
 4|millet
 4|mercure
 4|magistra
-4|huiles
 4|graisse
 4|fumee
 4|foing
@@ -385,7 +385,7 @@
 2|vermeilles
 2|verd de gris
 2|verd de Gris
-2|tuthie praeparee
+2|tuthie præparee
 2|tuf
 2|tripoli
 2|tourmentine de venise
@@ -453,7 +453,6 @@
 2|mine dangleterre
 2|miel rosat
 2|mie de
-2|metaux
 2|metalline
 2|metail
 2|mellis
@@ -468,6 +467,7 @@
 2|limaille despingle
 2|limaille de fer
 2|limaille dargent
+2|limaille daiguilles
 2|limailhe de cuyvre
 2|lexive
 2|lettre
@@ -480,6 +480,7 @@
 2|lacque
 2|jaulnes doeufs
 2|huille de lin
+2|huilent
 2|huile de noix ou de lin
 2|huile de fromant
 2|grotte
@@ -833,7 +834,6 @@
 1|segle
 1|se servent pour braser ou soulder
 1|se font les coulx ou filieres des barbiers
-1|scudegrin
 1|sayettes de pourceau
 1|sayes de porceau
 1|sayes
@@ -976,7 +976,7 @@
 1|plomberies dorees
 1|plomb qui est doulx
 1|plomb noir de saulmon
-1|plomb naeif &amp;non
+1|plomb noeuf &amp;non
 1|plomb lime
 1|plomb le plus noir se disent aulcuns est le meilleur &amp;
 1|plomb de flandres
@@ -1125,6 +1125,7 @@
 1|miette
 1|mie de pain
 1|mie
+1|metaux
 1|metaulx alies
 1|metal qui est
 1|metal gras
@@ -1173,7 +1174,6 @@
 1|linge ou foeultre brusle
 1|linge 
 1|limes
-1|limailles daiguilles
 1|limailles
 1|limaille rouillee
 1|limaille dor
@@ -1181,7 +1181,6 @@
 1|limaille de letton cuivre menue due lantimoyne du sublime Subtilement
 1|limaille de letton
 1|limaille de cuivre
-1|limaille daiguilles
 1|limailhe de fer
 1|limailhe de Fer
 1|ligue de teston
@@ -1193,12 +1192,12 @@
 1|letton fondu
 1|letton fin
 1|letton estame
+1|letton de refondu
 1|letton de poilons ou lon faict la bouillye des petits 
 1|letton de chandelier
 1|letton de bassine
 1|letton de
 1|letton aigre de chandelier
-1|letton refondu
 1|letton 
 1|lessive de chaulx vive
 1|lessive de chaulx
@@ -1226,7 +1225,6 @@
 1|laitton fin de cassole
 1|laitton doulx
 1|laitton de potin
-1|laiton
 1|laines
 1|laictues
 1|laicton aigry par la
@@ -1256,14 +1254,12 @@
 1|hurinne
 1|hurine
 1|huitres bruslees
-1|huillent
 1|huille petrolle
 1|huille dolive
 1|huille de perolle petrolle
 1|huille de noix
 1|huille damendes
 1|huille 
-1|huilent
 1|huilees
 1|huile tingente
 1|huile sur le
@@ -1496,7 +1492,6 @@
 1|eau quelque fois froide
 1|eau panee
 1|eau nette
-1|eau huillee
 1|eau gommee ou pure
 1|eau du bullitoyre
 1|eau dfort

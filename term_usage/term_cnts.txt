@@ -2,7 +2,7 @@
       69 term_usage/bp_fq.csv
       23 term_usage/cn_fq.csv
      142 term_usage/env_fq.csv
-    2101 term_usage/m_fq.csv
+    2096 term_usage/m_fq.csv
       15 term_usage/md_fq.csv
      245 term_usage/ms_fq.csv
        7 term_usage/mu_fq.csv
@@ -11,5 +11,5 @@
       45 term_usage/pn_fq.csv
      181 term_usage/pro_fq.csv
       57 term_usage/sn_fq.csv
-     726 term_usage/tl_fq.csv
+     725 term_usage/tl_fq.csv
       97 term_usage/tmp_fq.csv

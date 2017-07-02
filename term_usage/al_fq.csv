@@ -3,13 +3,13 @@
 22|tortue
 22|escrevisse
 18|cheval
-13|lesard
+14|lesard
 12|vers
 12|seiche
 12|mouche
+12|lesards
 12|escrevisses
 11|mouton
-11|lesards
 11|iraigne
 10|tortues
 10|rat
@@ -20,29 +20,27 @@
 7|bœuf
 6|veau
 6|dragon
-6|chancre
 5|serpens
 5|oiseau
 5|lesardes
 5|chien
+5|chancre
 4|vache
 4|rats
 4|pourceau
 4|mousche
 4|mouches
 4|loup
-4|lezard
 4|crapault
+4|chancres
 3|vipere
 3|porceau
 3|porc
 3|oyseaulx
 3|oiseaulx
-3|lezards
-3|chancres
+3|lezard
 3|boeuf
 3|benarris
-3|angroise
 3|Rossignol
 3|Oyseaulx
 3|Celles deau
@@ -56,7 +54,9 @@
 2|mulots
 2|moutons
 2|moules
+2|lezards
 2|lezardes
+2|lesarde
 2|gris
 2|garrigue
 2|fourmis
@@ -67,6 +67,7 @@
 2|celles deau
 2|celles
 2|calendres
+2|angroisse
 2|Tortues
 2|Serpens
 2|Crapault
@@ -105,8 +106,6 @@
 1|lucerta
 1|linotte
 1|lievre
-1|lezarde
-1|lesarde
 1|laisards
 1|iraignee
 1|huitres
@@ -151,7 +150,8 @@
 1|aspic cornu
 1|animaulx
 1|animal
-1|angroisse
+1|angroissee
+1|angroise
 1|alouetes
 1|aigle
 1|Yraigne

@@ -1,17 +1,17 @@
-304|moule
-118|moules
+302|moule
+119|moules
 82|chassis
 54|pinceau
 43|crusol
 39|mortier
-38|mabre
+39|mabre
 31|four
 31|baston
 30|costeau
 26|fourneau
+25|molle
 25|forge
 24|os
-24|molle
 22|tamis
 22|pot
 22|porphire
@@ -61,12 +61,13 @@
 7|roue
 7|poincte de fer
 7|molles
-7|marbre
 7|filet
 7|compas
 7|ciselet
 6|platine dardille
 6|plane
+6|moulle
+6|marbre
 6|cheville
 6|cercle dardille
 6|carton
@@ -80,7 +81,6 @@
 5|poincte de fil de fer
 5|plaste
 5|pincettes
-5|moulle
 5|four de reverberation
 5|espingle
 5|dent
@@ -156,6 +156,7 @@
 2|pot plombe
 2|pointes
 2|poincte dun costeau
+2|platene dardille
 2|platene
 2|planche
 2|pinsettes
@@ -206,6 +207,7 @@
 2|cuilliere
 2|crusols
 2|cruset
+2|cramponer
 2|couvercle
 2|costeaulx
 2|cornue
@@ -347,9 +349,7 @@
 1|poches de cuir
 1|platte de fer
 1|platine
-1|plates dardille
 1|platene de terre
-1|platene dardille
 1|plateines dardiles
 1|plat destain
 1|plat destaim fin
@@ -408,6 +408,7 @@
 1|moulle de cuivre
 1|moulins deau
 1|moulin de moustarde
+1|moulets
 1|moules plats
 1|moules froids
 1|moules destain
@@ -609,9 +610,7 @@
 1|cristalin
 1|creuset creux
 1|creusel
-1|cramponé
 1|cramponne
-1|cramponer
 1|crampone
 1|couvercle de cuir
 1|coutoien
