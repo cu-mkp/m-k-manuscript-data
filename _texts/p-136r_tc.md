@@ -8,8 +8,8 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [eau, or, estain, letton, sol, laitton, laiton, plomb, eau fort, Esmailler, esmail]
-tools: [souflet, moule, crusol, fourneau a vent, burin]
+materials: [eau, or, estaim, letton, sol, laitton, laicton, plomb, eau fort, Esmailler, esmail]
+tools: [souflet, moule, moulets, crusol, fourneau a vent, burin]
 measurements: []
 bodyparts: []
 places: []
@@ -23,7 +23,7 @@ animals: []
  
 *[continued]*
   
-en mirouer Et co<span class="exp">mm</span>e tu vouldras @ gecter mects encor un peu<br/> de la couleur & laisse reposer un petit tousjours souflant<br/> du petit & grand <span class="tl">souflet</span> En fin adapte ton <span class="tl">moule</span> tout<br/> rouge entre les moulets ou dans un <span class="tl">crusol</span> plein de sable bien<br/> chault & gete Et co<span class="exp">mm</span>e il aura faict prise gecte si tu veulx<br/> dans l<span class="m">eau</span> Car l<span class="m">or</span> ne fait point de domaige co<span class="exp">mm</span>e l<span class="m">estain</span><br/> qui saulte
+en mirouer Et co<span class="exp">mm</span>e tu vouldras <span class="del">gecter</span> gecter mects encor un peu<br/> de la couleur & laisse reposer un petit tousjours souflant<br/> du petit & grand <span class="tl">souflet</span> En fin adapte ton <span class="tl">moule</span> tout<br/> rouge entre les <span class="tl">moulets</span> ou dans un <span class="tl">crusol</span> plein de sable bien<br/> chault & gete Et co<span class="exp">mm</span>e il aura faict prise gecte si tu veulx<br/> dans l<span class="m">eau</span> Car l<span class="m">or</span> ne fait point de domaige co<span class="exp">mm</span>e l<span class="m">estaim</span><br/> qui saulte
  
 Pour fondre l<span class="m">or</span> en lingot nimporte poinct de <span class="del">gec</span> soufler<br/> par dessus avecq le petit <span class="tl">souflet</span>
  
@@ -31,14 +31,14 @@ En grand ouvraige le <span class="tl">crusol</span> de sable se doit mectre<br/>
  
 L<span class="m">or</span> que le vent touche ou quon forge vient noir Mays<br/> un peu d<span class="m">eau</span> fort le descouvre soubdain
  
-Si tu as a forger quelque ouvraige de <span class="del"><span class="m">letton</span></span><span class="add"><span class="m">sol</span></span> sur le <span class="m">laitton</span><br/> co<span class="exp">mm</span>e on faict les petites statues Mects entre l<span class="m">or</span> & le <span class="m">laiton</span><br/> une lame de <span class="m">plomb</span> Et plustost que recuire l<span class="m">or</span> & le remectre<br/> au foeu Trempe dans l<span class="m">eau fort</span> & il sera douls
+Si tu as a forger quelque ouvraige de <span class="del"><span class="m">letton</span></span><span class="add"><span class="m">sol</span></span> sur le <span class="m">laitton</span><br/> co<span class="exp">mm</span>e on faict les petites statues Mects entre l<span class="m">or</span> & le <span class="m">laicton</span><br/> une lame de <span class="m">plomb</span> Et plustost que recuire l<span class="m">or</span> & le remectre<br/> au foeu Trempe dans l<span class="m">eau fort</span> & il sera douls
  
-Cest asses que le gect soict de lespesseur <span class="del"><span class="ill"></span></span><br/> de la medaille scavoir depuys le milieu du gect jusque<br/> a la medaille Mays si la medaille est fort espesse il ne<br/> fault pas espessir pour cela le gect Car le gect fort<br/> espes ne vient jamays bien <span class="del">Mai</span> Bien se pelt il faire<br/> large pour embrasser la medaille le plus que faire<br/> se pourra
+Cest asses que le gect soict de lespesseur <span class="del"><span class="ill"></span></span><br/> de la medaille scavoir depuys le milieu du gect jusques<br/> a la medaille Mays si la medaille est fort espesse il ne<br/> fault pas espessir pour cela le gect Car le gect fort<br/> espes ne vient jamays bien <span class="del">Mai</span> Bien se peult il faire<br/> large pour embrasser la medaille le plus que faire<br/> se pourra
  
  
   
 
-## <span class="del">Esm</span> <span class="m">Esmailler</span> ouvraiges tanvres
+## <span class="del">D</span><span class="del">Esm</span> <span class="m">Esmailler</span> ouvraiges<br/> tanvres
 
  
 Les <span class="pro">orfevres</span> rasclent avecq laisle du <span class="tl">burin</span> la foeille<br/> d<span class="m">or</span> & puys y assoient l<span class="m">esmail</span>

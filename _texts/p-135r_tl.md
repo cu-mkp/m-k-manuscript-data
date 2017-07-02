@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [gold, verdigris, sal ammoniac, saltpetre, Saltpeter, metal, leaf, scudegrun, verd de terre, Vine leaf, frog, vine leaves, herbs, flowers, vine, leaves, clay plaster, wax]
+materials: [gold, verdigris, sal ammoniac, saltpetre, Saltpeter, metal, Vine leaf, frog, vine leaves, herbs, flowers, vine, leaves, leaf, clay plaster, wax, scudegrun, verd de terre]
 tools: []
 measurements: []
 bodyparts: []
@@ -27,12 +27,10 @@ animals: []
  
  Take as much <span class="m">verdigris</span> as <span class="m">sal ammoniac</span>, & <span class="m">saltpetre</span> the size of a bean. Because if you put in too much, it would make the whole thing boil so much that it would all pour out. <span class="m">Saltpeter</span> is only put in to make it boil, so that you know when the material has boiled enough. This color put on sour melted <span class="m">gold</span> makes it soft instantly.
  
- 
 > *at left top margin*
 > 
 > 
 > Softening <span class="m">gold</span>
- 
  
  
   
@@ -53,11 +51,6 @@ animals: []
 > *at left middle margin*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5U3BqOGxwTHNPeVk" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
-> *at left middle margin*
-> 
-> 
->   Vine <span class="m">leaf</span> is painted with a green made of <span class="m">scudegrun</span> & <span class="m">verd de terre</span>.
- 
  
   
 
@@ -65,6 +58,11 @@ animals: []
 
  
  To mold, take <span class="m">vine leaves</span> as they are blooming, just as with all <span class="m">herbs</span> & <span class="m">flowers</span>, or a young <span class="m">vine</span> regrowing after it has been cut or when the leaves come off in autumn, because new <span class="m">leaves</span> are knottier & have more evident veins. By contrast, old <span class="m">leaves</span> are smooth all the way through & full of holes in many places. Place therefore your <span class="m">leaf</span>, its back behind it against the <span class="m">clay plaster</span>, and fasten it with little pins. Leave it nevertheless with its natural curling. And make a notch in the clay to hide the stem for the first cast. And when it's done and dry, take out the stem of the <span class="m">leaf</span> and clean it well with your jacket and press it with a little scoop of clay. Afterwards, make many castings around the <span class="m">leaf</span> with <span class="m">wax</span>, as you know well, & make a slender casting & with many lines & knots.
+ 
+> *at left middle margin*
+> 
+> 
+>   Vine <span class="m">leaf</span> is painted with a green made of <span class="m">scudegrun</span> & <span class="m">verd de terre</span>.
  
 > *at left bottom margin*
 > 

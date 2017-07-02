@@ -25,20 +25,20 @@ animals: [lezardes, lesards]
 ## <span class="m">Cire</span> dure pour empraindre<br/> cachets
 
  
- Elle se faict de <span class="m">cire</span> blanche qui est plus dure que laultre<br/> & on y mesle de la <span class="m">ceruse</span> ou <span class="m">blanc de plomb</span> fort subtillem<span class="exp">ent</span><br/> broyé tant quelle soict assés dure a ta fantasie <span class="del"><span class="ill"></span></span> y mectant<br/> une goutte de <span class="m">tourmentine</span> pour la lier Apres mesles y telle<br/> couleur que tu vouldras C'est la <span class="m">cire</span> dont les <span class="pro">orfevres</span> se<br/> servent pour esbaucher
+ Elle se faict de <span class="m">cire</span> blanche qui est plus dure que laultre<br/> & on y mesle de la <span class="m">ceruse</span> ou <span class="m">blanc de plomb</span> fort subtillem<span class="exp">ent</span><br/> broyé tant quelle soict assés dure a ta fantasie <span class="del">u</span> y mectant<br/> une goutte de <span class="m">tourmentine</span> pour la lier Apres mesles y telle<br/> couleur que tu vouldras C'est la <span class="m">cire</span> dont les <span class="pro">orfevres</span> se<br/> servent pour esbaucher
  
  
   
 
-## Pieds de petites <span class="al">lezardes</span><br/> pour <span class="m">or</span> et <span class="m">argent</span>
+## Pieds de petit<span class="del">s</span>es <span class="al">lezardes</span><br/> pour <span class="m">or</span> et <span class="m">argent</span>
 
  
- Pourceque les pieds de celles qui sont fort petites sont<br/> fort subtils co<span class="exp">mm</span>e tu as moule le dessus Et que tu descouvres<br/> le ventre & le dessoubs des pieds couvre les legerem<span class="exp">ent</span> de <span class="m">cire</span><br/> & puys gecte le second moule Et la <span class="m">cire</span> sostant elle laissera<br/> un petit gect pour lesdicts pieds Et encores que le dessoubs<br/> diceulx vienne dune piece tu le peux bien reparer Et les escailles<br/> de dessus les orteils viendront bien.
+ Pourceque les pieds de celles qui sont fort petites sont<br/> fort subtils co<span class="exp">mm</span>e tu as moule le dessus Et que <span class="del">d</span>tu descouvres<br/> le ventre & le dessoubs des pieds couvre les legerem<span class="exp">ent</span> de <span class="m">cire</span><br/> & puys gecte le second moule Et la <span class="m">cire</span> sostant elle laissera<br/> un <span class="del">g</span>petit gect pour lesdicts pieds Et encores que le dessoubs<br/> diceulx vienne dune piece tu le peulx bien reparer Et les escailles<br/> de dessus les orteils viendront bien.
  
 > *at left top margin*
 > 
 > 
->   Aulx bouts des ongles<br/> grands <span class="al">lesards</span> pose<br/> <span class="del">fais</span> a chascune<br/> un petit rond de<br/> <span class="m">cire</span> pour faire<br/> le gect ainsy
+>   Aulx bouts des ongles<br/> des grands <span class="al">lesards</span> <span class="add">pose</span><br/> <span class="del">fais</span> a chascune<br/> un petit rond de<br/> <span class="m">cire</span> pour faire<br/> le gect ainsy
  
 > *Figure*
 > *at left middle margin*
@@ -50,7 +50,7 @@ animals: [lezardes, lesards]
 ##  Marques des <span class="tl">poinctes de <span class="m">fil de fer</span></span><br/> qui se trouvent en la teste de lanimal
 
  
- Avecq les <span class="tl">poinctes</span> on ha plustost dresse le plant Mesmement<br/> celuy de la teste Mays la teste estant percee il demeure aultour de<br/> la piqueure certaine humeur et petite exudation qui empeche que le<br/> sable ne peut bien revestir la <span class="tl">poincte</span> & y demeure tousjours quelque<br/> petits pertuis <span class="del">g</span> Mays pour eviter cela Tu pourrois planter <span class="add">da<span class="exp">n</span>s la plase de la <span class="ill"></span></span> une<br/> <span class="tl">poincte de <span class="m">fer</span></span> <span class="del">arro</span> esmoussee & arrondie par le hault bout & sur ce bout<br/> y poser un peu de <span class="m">cire</span> dure ou <span class="del">du</span> un peu de <span class="m">mastic</span> ou <span class="m">ciment</span> Et par<br/> le moyen du <span class="tl"><span class="m">fil de fer</span></span> chault y faire tenir la gorge de lanimal<br/> qui se pourroit oster quand tu viendrois a descouvrir le ventre<br/> et la gorge pour faire le second gect
+ <span class="del">L</span>Avecq les <span class="tl">poinctes</span> on ha plustost dresse le plant Mesmement<br/> celuy de la teste Mays la teste estant percee il demeure aultour de<br/> la piqueure certaine humeur et petite exudation qui empesche que le<br/> sable ne peult bien revestir la <span class="tl">poincte</span> & y demeure tousjours quelque<br/> petits pertuis <span class="del">g</span> Mays pour eviter cela Tu pourrois planter <span class="add">da<span class="exp">n</span>s la plaste de la <span class="ill"></span></span> une<br/> <span class="tl">poincte de <span class="m">fer</span></span> <span class="del">arro</span> esmoussee & arrondie par le hault bout & sur ce bout<br/> y poser un peu de <span class="m">cire</span> dure ou <span class="del">du</span> un peu de <span class="m">mastic</span> ou <span class="m">ciment</span> Et par<br/> le moyen du <span class="tl"><span class="m">fil de fer</span></span> chault y faire tenir la gorge de lanimal<br/> qui se pourroit oster quand tu viendrois a descouvrir le ventre &<br/> la gorge pour faire le second gect
  
  
   
