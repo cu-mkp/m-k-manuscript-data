@@ -17,7 +17,7 @@
 22|porphire
 21|vaisseau
 21|doigt
-19|souflet
+20|souflet
 19|crampons
 18|poincte
 17|poinctes
@@ -28,7 +28,7 @@
 16|boicte
 14|marteau
 14|linge
-13|souflets
+12|souflets
 12|esponge
 12|doigts
 12|creuset
@@ -158,6 +158,7 @@
 2|poincte dun costeau
 2|platene dardille
 2|platene
+2|planches de cuivre
 2|planche
 2|pinsettes
 2|pinceaulx a
@@ -365,8 +366,6 @@
 1|plaste dargille
 1|plaste dardile
 1|planches de plomb &amp; cuivre de diverses
-1|planches de cuivre &amp; lestric ou une de fer
-1|planches de cuivre
 1|place du fouye
 1|piquet
 1|pippe
@@ -496,13 +495,13 @@
 1|gands
 1|fusil
 1|fumier
+1|froid
 1|fraiser
 1|foyer
 1|fours de barbiers
 1|fourneau des fourbisseurs
 1|fourneau a souflets
 1|fournaise
-1|fourd
 1|fourchettes
 1|four du tuilier
 1|four de charbon
@@ -538,16 +537,17 @@
 1|fer coupant
 1|feille de papier
 1|estrier
+1|estrie ou vis de fer
 1|estoupes
 1|estamine bien claire
 1|estamine
 1|estamiere
 1|espesseur ou de carton
-1|escuelles a oreille
 1|escuelles
 1|escuelle vernissee
 1|escuelle plombee
 1|escuelle de terre plombee
+1|escuelle a oreille
 1|escaille
 1|entonnouer
 1|enclumes

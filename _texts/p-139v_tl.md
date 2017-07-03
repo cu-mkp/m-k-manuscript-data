@@ -23,7 +23,7 @@ animals: []
  
 *[continued]*
   
- are made of earth or <span class="m">blades of copper</span>, or <span class="m">iron</span>, or <span class="m">wood</span> covered with <span class="m">white iron</span>, in order to bury more easily these aforementioned molds between the thin sheets of <span class="m">copper</span>, estric or one of <span class="m">iron</span>.
+ are made of earth or <span class="m">blades of copper</span>, or <span class="m">iron</span>, or <span class="m">wood</span> covered with <span class="m">white iron</span>, in order to bury more easily these aforementioned molds between the thin sheets of <span class="m">copper</span>, and the stirrup or screw of <span class="m">iron</span>.
  
  
   
@@ -38,7 +38,7 @@ Take some <span class="m">white wax</span> which is much more appropriate for th
 > *at left top margin*
 > 
 > 
->   This black sulphured <span class="m">wax</span> is for fashioning round figures that do not come out of the mold. And they need to be burned in the moule au noyau rather than be opened like the ones that have something jutting out or an intertwining of legs and arms. And this <span class="m">wax</span>, thanks to the <span class="m">sulphur,</span> will melt with little heat and leave without leaving any filth. If by some misfortune the crushed <span class="m">charcoal</span> remains in ashes, when you open the mold and blow on it, it will come clean.
+>   This black sulphured <span class="m">wax</span> is for fashioning round figures that do not come out of the mold. And they need to be burned in the moule au noyau rather than be opened like the ones that have something jutting out or an intertwining of legs and arms. And this <span class="m">wax</span>, thanks to the <span class="m">sulphur,</span> melts with little heat and leaves without leaving any filth. If by some misfortune the crushed <span class="m">charcoal</span> remains in ashes, when you open the mold and blow on it, it will come clean.
  
 > *at left bottom margin*
 > 

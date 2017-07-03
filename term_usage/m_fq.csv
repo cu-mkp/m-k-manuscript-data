@@ -5,14 +5,14 @@
 197|huile
 162|fer
 160|argent
-123|estain
+117|estain
 113|cuivre
 111|metal
 102|terre
 88|plastre
 88|papier
+80|estaim
 76|verre
-74|estaim
 72|pouldre
 72|charbon
 69|vinaigre
@@ -89,13 +89,13 @@
 14|azur desmail
 13|verny
 13|plume
+13|pierres
 13|limaille
 13|eau de sel armoniac
 13|borras
 13|argent vif
 13|ancre
 12|sanguine
-12|pierres
 12|orpiment
 12|huiler
 11|verdegris
@@ -183,6 +183,7 @@
 6|drogues
 6|doulx
 6|de vye
+6|cire noire
 6|chair
 6|buys
 6|beurre fondu
@@ -232,7 +233,6 @@
 5|daspic
 5|colle forte
 5|colle de poisson
-5|cire noire
 5|charbon de saule
 5|argent fondu
 5|amydon
@@ -618,7 +618,6 @@
 1|☉
 1|☀
 1|zedoaire
-1|vrnies
 1|vive
 1|vittres
 1|vitriol de salpestre
@@ -995,7 +994,6 @@
 1|pituite
 1|pissast
 1|pilee
-1|pierrres
 1|pierrete de borras pulverisee
 1|pierres dequoy
 1|pierres de tuf
@@ -1419,7 +1417,6 @@
 1|farine de Segle
 1|et sal gemme
 1|et moules
-1|estric
 1|estoupes
 1|estamure faycte de foeille
 1|estamure
@@ -1699,7 +1696,6 @@
 1|ciree
 1|cire verte
 1|cire transparente
-1|cire noir
 1|cire grise ou noire
 1|cire gommee a esbaucher
 1|cire gommee
@@ -1721,7 +1717,7 @@
 1|chastaignes
 1|chassis
 1|charrette
-1|charbon susdicts pulverise
+1|charbon susdict pulverise
 1|charbon pour poncer
 1|charbon fort allume
 1|charbon de saule pulverise
@@ -1780,6 +1776,7 @@
 1|buglose
 1|buee
 1|brusles &amp; calcines
+1|bruies
 1|broyes
 1|broyee
 1|broye
@@ -1816,7 +1813,7 @@
 1|bleu
 1|bled en farine
 1|bled de froment
-1|blanches
+1|blanches faulces
 1|blanche pilee &amp; pulverisee &amp; tamisee
 1|blanc dung œuf
 1|blanc dhuile doeufs
