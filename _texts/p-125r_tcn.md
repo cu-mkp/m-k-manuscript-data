@@ -1,0 +1,81 @@
+---
+layout: narrative
+title: 125r
+identifier: p-125r
+folio: 125r
+annotation: no
+author:
+mode: tcn
+editor: GR8975 Seminar Participants
+rights: Public Domain
+materials: [cire, metal, Plastre, plastre, pierre, plastre gris transparent, celuy est bon qui estant destrempé est blanc, huiler, eau, eau chaulde, eau froide, fer, acier, terre]
+tools: [moule, mortier, moules de plastre]
+measurements: []
+bodyparts: [oreille]
+places: [Allemaigne, Damas, Hongrie, Turcs]
+plants: []
+professions: [ouvriers]
+environments: [maisons]
+animals: []
+---
+
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-125r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f255.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>125r</a> - - - - - </div>  
+ 
+*[continued]*
+  
+& de ses conduicts & abrevouers, tu y peulx mectre aussy de<br/> petits fils de <span class="m">cire</span> qui se raportent au corps, affin que<br/> le <span class="m">metal</span> aille plus aysem<span class="exp">ent</span> d’une partye a l’aultre & coure<br/> promptement par tout. Et de ses conduicts tu peulx mener<br/> ton gect & tes souspirails sans gaster aulcune chose.
+ 
+> *at left top margin*
+> 
+> 
+>  
+*[continued]*
+  
+> *Figure*
+> <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5ZHJJRXJlU2RFZlk" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+ des petits rouleaulx, tu fais tes gects et souspirails sans danger d’escrouster & enlever<br/> rien du <span class="tl">moule</span> pource que la <span class="m">cire</span> s’ostant laisse la place vuide toute faicte. Fais tes souspirails<br/> venant de la teste,<br/> qui est en bas, vers<br/> le gect. Fais aussy<br/> ton gect qui ne soit<br/> pas <span class="del">trop</span> <span class="add">gueres</span> espés, et<br/> fais dedans son<br/> cours deulx ou trois<br/> coches, car cela corrompt<br/> la furie du <span class="m">metal</span>,<br/> et le faict couler à son ayse sans soufler ne faire trop grand fumée qui empesche le cours.<br/> Tu le peulx diviser aussy en deulx ou troys branches ainsy: 
+> *Figure*
+> <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5bDlqQzJZemktSFk" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+ quand il aproche<br/> de la chose moulée, et fais tousjours des trous dans le gect.
+ \+ 
+ 
+  
+
+## <span class="m">Plastre</span>
+
+ 
+Quand tu <span class="del">v</span> moules quelque chose pour y gecter de la<br/> <span class="m">cire</span>, tu moules de <span class="m">plastre</span> seul recuit aprés estre pulverisé.<br/> Car esta<span class="exp">n</span>t recuit en <span class="m">pierre</span>, la superficie se cuist & le dedans<br/> demeure presque crud. Le <span class="m">plastre gris transparent</span> n’est<br/> pas fort, mays <span class="m">celuy est bon qui esta<span class="exp">n</span>t destrempé est blanc</span><br/> & faict bien tost prise. Toutesfoys le gris ay je trouvé bien<br/> ferme & dur aprés avoyr faict prise, mays il y est plus<br/> long. Il fault cognoistre le naturel de chascun. <span class="del">Si tu</span> Tu<br/> ne mouleras jamays bien net, si <span class="del">ne</span> tu ne destrempes bien clair<br/> & liquide ton <span class="m">plastre</span> ou sable de noyau. Destrempe le<span class="del"><span class="tl">mortier</span></span><br/> bien tost aprés qu’il ha esté recuit.
+ 
+> *at left middle margin*
+> 
+> 
+>   \+ Si tu moules de<br/> <span class="m">plastre</span> <span class="del">crud</span> seul,<br/> recuit toutesfoys<br/> co<span class="exp">mm</span>e dit est, il fault bien <span class="m">huiler</span><br/> le premier<br/> <span class="tl">moule</span>. Et qua<span class="exp">n</span>d<br/> le second aura<br/> faict bonne prise<br/> et que l’auras<br/> paré, trempe<br/> long temps dans<br/> l’<span class="m">eau</span>. Et s’il ne se<br/> veult despouiller,<br/> trempe le dans<br/> l’<span class="m">eau chaulde</span>, car<br/> l’<span class="m">eau<br/> froide</span><br/> le durcit, et l’<span class="m">eau chaulde</span><br/> le remollist<br/> dadvantage.<br/> L<span class="m">eau froide</span><br/> ne le penetre pas<br/> co<span class="exp">mm</span>e le mixtionné,<br/> pource qu’il est<br/> plus dur & le<br/> mixtionné est<br/> plus spongieulx.<br/> De ce <span class="m">plastre</span><br/> ainsy recuit en pouldre<br/> il s’en gecte des medailles<br/> qu’il ne craignent point les<br/> pluyes, mesmem<span class="exp">en</span>t si elles sont<br/> vernies. On les tient en <span class="pl">Allemaigne</span><br/> sur les <span class="env">maisons</span>. Mays advise que l’<span class="m">eau</span> soict fort chaulde, & si elle est<br/> bouillante il n’y ha point de danger. Tous <span class="tl">moules de <span class="m">plastre</span></span> seulx ou mixtionné s’y<br/> despouillent.
+ 
+ 
+  
+
+## Symeterres
+
+ 
+> *at left middle margin*
+> 
+> 
+>   A Sçavoir 
+ 
+Les <span class="pro">ouvriers</span> de <span class="pl">Damas</span> ou d’<span class="pl">Hongrie</span>, voisins des <span class="pl">Turcs</span>,<br/> separent aulx mines le <span class="m">fer</span> d’avecq l’<span class="m">acier</span>. Et de ce premier<br/> <span class="m">acier</span> fondu premierem<span class="exp">ent</span> de sa mine, ilz gectent en sable des<br/> <span class="del">sab</span> lames de cimeterre qui couppent aprés l’aultre <span class="m">fer</span><br/> sans grande difficulté, pource que tout <span class="m">fer</span> fondu est plus<br/> dur que le <span class="m">fer</span> douls battu en gueuses & barres. Ainsy est<br/> de l’<span class="m">acier</span> des cimeterres, mays il est fort brusc. Quand on<br/> des<span class="del">b</span>manche un cimeterre, on cognoist bien par la queue<br/> qui entre dans le manche qu’il est gecté en sable.
+ 
+ 
+  
+
+## <span class="sn">Ouyr</span> de loing
+
+ 
+Fais un petit trou en <span class="m">terre</span>, & y pose de <span class="tmp">nuict</span> ou en temps de<br/> silence l’<span class="bp">oreille</span> justem<span class="exp">ent</span>, & tu <span class="sn">entendras</span> aysem<span class="exp">ent</span> la rumeur.
+ 
+ 
+  
+
+## Secret
+
+ 
+ 

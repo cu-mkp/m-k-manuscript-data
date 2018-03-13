@@ -1,0 +1,72 @@
+---
+layout: narrative
+title: 060v
+identifier: p-060v
+folio: 060v
+annotation: no
+author:
+mode: tcn
+editor: GR8975 Seminar Participants
+rights: Public Domain
+materials: [Vernis, huile @ de tourmentine blanc, termentine, mastic pulverisé & passé subtillement par un tamis, eau de vye, mastic, tourmentine, huile blanc de tourmentine, mastic pulverisé, eau de savon, urine, vin blanc, @ Huile d'aspic, huile, huile sur le d'aspic, boys, bois, bistre, vernis, poil]
+tools: [tamis, baston, costeau, pinceaulx à huile, poincte du pinceau, pinceau]
+measurements: [heure, liards]
+bodyparts: []
+places: [Flamens]
+plants: [aspic]
+professions: [painctres, enlumineurs]
+environments: [au vent]
+animals: []
+---
+
+ <p><a href="{{ site.baseurl }}/normalized/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-060v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f126.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>060v</a> - - - - - </div>  
+  
+
+## <span class="m">Vernis</span> sec en une <span class="ms"><span class="tmp">heure</span></span>
+
+ 
+P<span class="exp">rens</span><span class="m">huile <span class="add">@ de tourmentine</span> blanc</span> <span class="add">@ &</span> <span class="m">termentine</span> & <span class="m">mastic pulverisé & passé<br/> subtillem<span class="exp">ent</span> par un <span class="tl">tamis</span></span>, & fais bouillir ensemble, remua<span class="exp">n</span>t<br/> tousjours avecq un <span class="tl">baston</span> jusques à ce qu'il soict sec. Et<br/> mects parmy pour deulx <span class="ms">liards</span> de bonne <span class="m">eau de vye</span>.<br/> Et si tu tires la larme de <span class="m">mastic</span>, il sera plus blanc &<br/> plus cler. @ Il n'est point besoing d'y mectre de la <span class="m">tourmentine</span>,<br/> mays seulem<span class="exp">ent</span> de son <span class="m">huile blanc de tourmentine</span> & du <span class="m">mastic pulverisé</span><br/> à discretion, jusques à ce qu'il aye assés de corps\+
+ 
+> *at left top margin*
+> 
+> 
+>   \+ Ce qu’on cognoist quand estant mis<br/> sur un <span class="tl">costeau</span>, <span class="env">au vent</span> il ne coule point.<br/> Cestuy cy est excellent pour tableaulx<br/> et est sec en une <span class="ms"><span class="tmp">heure</span></span><br/> et ne grippe point<br/> co<span class="exp">mm</span>e celuy de <span class="m"><span class="sup">tourmentine</span></span> tour<br/> mentine.
+ 
+ 
+  
+
+## @ Laver les tableaulx
+
+ 
+Aulcuns les lavent avecq <span class="m">eau de savon</span>, aultres avecq<br/> <span class="m">urine</span>, aultres avecq <span class="m">vin blanc</span>, car la pouldre gaste les<br/> couleurs.
+ 
+ 
+> *at left middle margin*
+> 
+> 
+>    
+
+** <span class="m">@ Huile d'<span class="pa">aspic</span></span> **
+
+ 
+Il n'en fault pas<br/> mectre parmy les<br/> couleurs, car il est si<br/> brusc et penetrant<br/> qu'il faict escailler<br/> les couleurs, qui aprés<br/> se deffont. Et pour<br/> ceste cause les <span class="pro">painctres</span><br/> l'employent à nettoyer<br/> leurs <span class="tl">pinceaulx à<br/> <span class="m">huile</span></span> quand ilz se sont<br/> faicts durs, car il les<br/> rend mols & nets incontinent,<br/> penetrant la couleur seiche<br/> qui les empaste. Les <span class="pro">painctres</span><br/> aussy, envieulx quelque fois<br/> de la besoigne entreprise<br/> par un aultre, secretement<br/> <span class="tmp">le soir</span> versent quelques<br/> gouttes d'<span class="m">huile <span class="del">sur le</span><br/> d'<span class="pa">aspic</span></span> sur le bord d'en<br/> hault du tableau, de<br/> sorte que coulant en bas<br/> il faict une tache<br/> qui penetre jusques<br/> au <span class="m">boys</span> & faict<br/> deffaire les couleurs,<br/> de sorte que pour faire<br/> l'ouvrage uny & d'un<br/> mesme contexte ilz sont<br/> contraincts de reffaire<br/> tout et ainsy perdent<br/> a leur besoigne
+ 
+ 
+  
+
+## @ Couleur de <span class="m">bois</span>
+
+ 
+On donne une couche de <span class="m">bistre</span>, puys une main de<br/> <span class="m">vernis</span>.
+ 
+ 
+  
+
+## Labeur des <span class="pl">Flamens</span>
+
+ 
+Ils font tous leurs ouvrages à <span class="m">huile</span> avecq la <span class="tl">poincte du<br/> pinceau</span> à <span class="del">f</span> la façon des bons <span class="pro">enlumineurs</span> et broyent leurs<br/> couleurs fort subtillement, se gardent de la poulsiere et nettoyent<br/> souvent leur <span class="tl">pinceau</span> des bouts de <span class="m">poil</span> que quelque fois ilz<br/> laissent, pource que cela demeurant sur l'ouvrage <span class="del">il cela</span> il<br/> empescheroit de travailler nettement, de quoy il sont fort curieux.<br/> En ceste sorte leur labeur se monstre fort adoulcy, mesmem<span class="exp">ent</span><br/> en petit ouvrage, en quoy il fault employer plus de diligence<br/> pource qu'il se voict de plus pres. Ils achevent communement le front<br/> puys les yeulx, aprés le nes, enfin la bouche et le reste.<br/> Mays ilz ne font pas comme quelques uns qui <span class="del">fo</span> couchent<br/> deulx ou trois carnations differentes, l'une jaulnastre & l'autre<br/> obscure, pource que les couleurs tousjours se meslent & enfin<br/> se meurent. Seulement ilz <span class="del"><span class="ill"></span></span> font proprement leur impression.
+ 
+*[continued]*
+ 
+ 
