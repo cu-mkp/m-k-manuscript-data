@@ -1,142 +1,178 @@
-13|mine
-11|eau
-9|a la pluye
-7|cave
-7|au soleil
-5|garrigue
-4|vent
-4|lieu humide
-4|en terre
-4|en lieu humide
-3|soleil
-3|muraille
-3|au serain
-3|a lair
-2|terre
-2|temps humide
-2|sec
-2|rochers
-2|riviere
-2|pluye
-2|mer
-2|maisons
-2|lieu sec
-2|fontaine
-2|en
-2|eglises
-2|boutique
-2|au vent
-2|a lombre
-2|a lhumide
-1|villes fortes
-1|villes
-1|ville
-1|vigne qui est bien haulte
-1|vigne
-1|vent dune fenestre
-1|veines de la montaigne
-1|terriers
-1|terrier
-1|terre fresche &amp; humide
+28|
+26|mine
+22|eau
+15|a la pluye
+14|cave
+13|soleil
+11|au soleil
+10|garrigue
+9|en terre
+8|vent
+8|en lieu humide
+7|pluye
+7|lieu humide
+6|sec
+6|muraille
+6|au serain
+6|a lair
+5|lieu sec
+5|au
+5|a la
+4|terre
+4|temps
+4|rochers
+4|riviere
+4|mer
+4|maisons
+4|fontaine
+4|en
+4|eglises
+4|boutique
+4|au vent
+4|a lombre
+4|a lhumide
+3|villes
+3|temps humide
+3|pres
+3|pays
+3|lieu
+3|grottes
+3|grotte
+3|en lieu
+3|champs
+2|villes fortes
+2|ville
+2|vigne qui est bien haulte
+2|vigne
+2|vent dune fenestre
+2|veines de la montaigne
+2|terriers
+2|terrier
+2|terre fresche &amp; humide
+2|temps est relent &amp; humide
+2|temps de pluye
+2|sur les maisons
+2|soubs
+2|soleil de juin
+2|soleil chault
+2|serain de la nuit
+2|roche
+2|rivieres deau
+2|rivieres
+2|puys
+2|profond en terre
+2|pres de mon sol
+2|pierrieres qu grisastres
+2|pierriere
+2|pierreriesrieres
+2|pierrerer
+2|piererie
+2|pailles
+2|ou sont les Maistres jures
+2|obscur
+2|nuit soict obscure
+2|nature
+2|montueulx
+2|montaigne
+2|maison
+2|maigre &amp; seche
+2|maigre
+2|lieu mouille
+2|lieu clos
+2|la premiere pluye
+2|jour
+2|humidite
+2|humide
+2|humeur de la cave
+2|hors du vent
+2|haultan
+2|grandes escailles vers les montaignes
+2|grandes cuisines
+2|gardemangers
+2|foyer
+2|formillere
+2|fontaines
+2|escrevisses se nourrissent
+2|en temps humide
+2|en lieu frais
+2|en lieu aire
+2|en hault
+2|eau ou les
+2|du feu
+2|doulce
+2|descouvert
+2|de rochers
+2|dans leau
+2|dans la
+2|dans de la terre fresche
+2|cuisines
+2|chemins sablonneulx
+2|cheminees des grandes cuisines
+2|cheminee
+2|chauld
+2|chambre
+2|cavernes
+2|bonnes villes
+2|bled ou fumier
+2|biquoques
+2|basse court
+2|bas en terre
+2|aulx territoires maigres
+2|aultre lieu humide
+2|au soleil 
+2|au profond de la sablonniere
+2|au froid
+2|au froict
+2|au feu
+2|au costau de puy david bien
+2|apres un temps pluvieulx
+2|air
+2|&amp; ne fasse point de ☾
+2|&amp; humide
+1|un champ
+1|tonnerres
 1|temps nest serain &amp; sec
-1|temps est relent &amp; humide
-1|temps de pluye
-1|temps
-1|sur les maisons
-1|soubs
-1|soleil de juin
-1|soleil chault
-1|serain de la nuit
-1|roche
-1|rivieres deau
-1|rivieres
-1|puys
-1|profond en terre
+1|temps nest serain &amp;
+1|si fertil
+1|qui est proche
 1|pres des rochers aulx pays
-1|pres de mon sol
+1|pres des rochers aulx
 1|pres de leur demeure
-1|pres
-1|pierrieres qu grisastres
-1|pierriere
-1|pierreriesrieres
-1|pierrerer
-1|piererie
-1|pays
-1|pailles
-1|ou sont les Maistres jures
-1|obscur
-1|nuit soict obscure
-1|nature
-1|montueulx
-1|montaigne
+1|porter domaige
+1|pluyes
+1|ou lieu humide
+1|ou le fonds de la terre est
+1|ne puisse
 1|mine de Thoulouse
-1|maison
-1|maigre &amp; seche
-1|maigre
+1|mine de
 1|lumiere du foeu
-1|lieu mouille
-1|lieu clos
-1|lieu
-1|la premiere pluye
-1|jour
-1|humidite
-1|humeur de la cave
-1|hors du vent
-1|haultan
-1|grandes escailles vers les montaignes
-1|grandes cuisines
-1|gardemangers
-1|foyer
-1|formillere
-1|fontaines
+1|lumiere du
+1|lieu vuide
+1|lieu ou la flamme
+1|lieu descouvert
+1|lair
+1|forests
+1|foeu
 1|expose au soleil
-1|escrevisses se nourrissent
+1|expose au
+1|en un jardin A lair
 1|en un jardin
 1|en terre 
-1|en temps humide
-1|en lieu frais
 1|en lieu bien
-1|en lieu aire
-1|en lieu
 1|en la cave ou
-1|en hault
-1|eau ou les
-1|du feu
-1|doulce
-1|descouvert
-1|de rochers
+1|en la
+1|de leur demeure
 1|de la balle de 
-1|dans leau
-1|dans la
-1|dans de la terre fresche
-1|cuisines
-1|chemins sablonneulx
-1|cheminees des grandes cuisines
-1|cheminee
-1|chauld
-1|champs
-1|chambre
-1|cavernes
-1|bonnes villes
-1|bled ou fumier
-1|biquoques
-1|basse court
-1|bas en terre
-1|aulx territoires maigres
+1|de la balle de
+1|celuy
+1|cave ou
+1|bien
 1|aulx environs de toutes les bonnes villes
+1|aulx environs de toutes les bonnes
 1|aulx champs
-1|aultre lieu humide
-1|au soleil 
-1|au profond de la sablonniere
-1|au froid
-1|au froict
-1|au feu
-1|au costau de puy david bien
-1|au
-1|apres un temps pluvieulx
-1|air
-1|a la
+1|aulx
+1|au plus chault soleil
+1|a
+1|Thoulouse
+1|Grottes
 1|A lair
-1|&amp; ne fasse point de ☾
-1|&amp; humide
-1|

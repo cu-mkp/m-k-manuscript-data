@@ -19,7 +19,7 @@ environments: [a la pluye]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-066r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f137.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>066r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-066r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f137.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>066r</a> - - - - - </div>  
   
 
 ## Doubles couches
@@ -82,4 +82,5 @@ Halene sur lor couleur et sil ternist<br/> il est asses sec mays sil ne recoit p
 Il ne fault<br/> pas dorer d<span class="m">or<br/> mat</span> apres <span class="del">avecq</span><br/> avoyr <span class="m">dore</span><br/> Mays attendre<br/> <span class="tmp">un jour ou une<br/> nuit</span> <span class="del">Mays advise<br/> quil ne</span> Et lors<br/> estant co<span class="exp">mm</span>e sec il<br/> grippe l<span class="m">or</span> apres<br/> on vernit
  
 *[continued]*
+ 
  

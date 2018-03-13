@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-163r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f331.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>163r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-163r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f331.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>163r</a> - - - - - </div>  
   
 
 ## <span class="pro">Parfumeur</span>
@@ -38,4 +38,5 @@ Pour parfumer d<span class="m">ambre blanc</span> a la facon de<br/> <span class
 
  
 Elle est excellente a fayre mouler net de sorte quau lieu<br/> ou tu nen mectras point le sable communem<span class="x"><span class="exp">ent</span></span> sattaquera a<br/> la figure Mays elle veult estre de trois passes Et pource<br/> elle ne prend pas aysem<span class="x"><span class="exp">ent</span></span> sur les choses <span class="m">huilees</span> je croy<br/> quil seroit bon den mectre parmy l<span class="m">eau</span> dans laquelle tu<br/> destrempes ton sable
+ 
  

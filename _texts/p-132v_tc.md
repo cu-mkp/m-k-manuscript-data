@@ -19,7 +19,7 @@ environments: [mine]
 animals: [lesarde]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-132v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f270.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>132v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-132v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f270.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>132v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -68,4 +68,5 @@ Layant <span class="del">d</span>passe par le <span class="m">vinaigre</span> & 
 
  
 Tu les peulx <span class="m">dorer</span> d<span class="m">amalgame</span> sans que les traicts<br/> aulcunem<span class="exp">ent</span> se gastent silz sont d<span class="m">argent</span>
+ 
  

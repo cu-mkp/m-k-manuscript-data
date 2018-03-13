@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-062v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f130.item." target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>062v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-062v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f130.item." target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>062v</a> - - - - - </div>  
   
 
 ## Portraire
@@ -58,4 +58,5 @@ Pour faire aussy les <span class="tl">lignes a<span class="m">plomb</span></span
 
  
 Il fault pour pourtraire & coucher les couleurs mesmem<span class="exp">ent</span> a<br/> <span class="m">huile</span> que tu tiennes ton tableau le plus droict sur le <span class="tl">chevalet</span><br/> quil te sera possible car sil est panche il y a danger que quelque<br/> poulsiere & ordure ne si attache Tiens net & sans poulsiere<br/> Le lieu ou tu pains
+ 
  

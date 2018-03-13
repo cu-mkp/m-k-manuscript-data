@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-095v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f196.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>095v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-095v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f196.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>095v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -40,4 +40,5 @@ Ces <span class="m">boys</span> sappellent ainssy Estelles qui doibvent estre bi
 Puys le <span class="pro">fourbisseur</span> les mect sur un petit banc appele le<br/> banc des fourreaulx Et avecq ung <span class="del">plane</span> petit <span class="m">fer</span> co<span class="exp">mm</span>e celuy<br/> du banc des <span class="pro">menusiers</span> ilz le font tenir ferme Puys avecq<br/> une <span class="del">plane</span> plane qui est co<span class="exp">mm</span>e un costeau a deulx manches<br/> on esbauche le <span class="m">boys</span> par dessus apres on y passe le rabot pour<br/> mieulx laplanir Apres par le dedans on le recure avecq une
  
 *[continued]*
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-090v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f186.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>090v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-090v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f186.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>090v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -40,4 +40,5 @@ Broye le dans un <span class="del"><span class="tl">mortier</span></span> <span 
 
  
 En <span class="pl">Italie</span> ceulx qui sont aulx pays plus froids co<span class="exp">mm</span>e la<br/> <span class="pl">lombardie</span> font des caisses quarrees de <span class="m">bois</span> un peu plus<br/> larges au fonds quau hault Et y apliquent des boucles<br/> aulx costes pour les transporter avecq des leniers ainsy<br/> quon porte les gouteus A cause que les roues avecq lesquelles<br/> on les pourroit faire rouler gastent les allees des jardins<br/> Et de deulx ans en deulx ans ilz noublient pas douvrir les<br/> costes des caisses pour roigner & couper dextrement avecq la <span class="m">terre</span><br/> Les extremites des racines des <span class="pa">orangers</span> pourceque aultrem<span class="exp">ent</span><br/> co<span class="exp">mm</span>e elles trouvent le <span class="m">boys</span> elles se reserrent & replient en elles<br/> mesmes & se deseichent par les bouts & feroient mourir labre<br/> Mays co<span class="exp">mm</span>e elles sont roignees il leur demeure espace nouveau<br/> <span class="del">cos</span> pour sestandre sans trouver la resistance du <span class="m">boys</span> qui les<br/> gehenne Et croy que pour cet effect il seroit bon de joindre<br/> les costes des caisses avecq des vis & non avecq clous affin<br/> de nesbranler point la <span class="m">terre</span> quand on les ouvre
+ 
  

@@ -10,7 +10,7 @@ editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [charbon, letton, gcrasse jaulne, cuivre rouge, estaing fin, Terre ardille, eau, plomb, Fil de fer, fil de fer, celuy de letton]
 tools: [moules, chassis, moules de noyau, moules de chassis, moules a gecter letton, mains, aiguilles]
-measurements: [gros comme ffisselle de moing …, delie p comme grosse corde despinette pour les petits ouvrages]
+measurements: [gros comme ffisselle de moing, delie p comme grosse corde despinette pour les petits ouvrages]
 bodyparts: [mains]
 places: []
 plants: []
@@ -19,7 +19,7 @@ environments: [en lieu humide]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-111r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f227.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>111r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-111r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f227.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>111r</a> - - - - - </div>  
   
 
 ## Recuire les <span class="tl">moules</span>
@@ -75,5 +75,6 @@ Ceste cy humectee & bien battue & pestrie co<span class="exp">mm</span>e tu scai
 ## <span class="m">Fil de fer</span>
 
  
-Il ten fault avoyr aussy provision de diverses grosseurs<br/> selon les <span class="tl">moules</span> que tu veulx faire de <span class="ms">gros co<span class="exp">mm</span>e ffisselle de moing …</span><br/> & du <span class="ms">delie <span class="del">p</span> co<span class="exp">mm</span>e grosse corde d<span class="mu">espinette</span> pour les petits ouvrages</span><br/> Tu en fais estant <span class="del">de</span> recuit des crampons pour fermer les<br/> <span class="tl">moules</span> & des poinctes co<span class="exp">mm</span>e aiguilles de diverses longueurs selon<br/> ton besoing pour piquer sur lanimal a mouler & le tenir subgect<br/> Les <span class="tl">aiguilles</span> ny seroient pas bonnes pource quil fault que ses<br/> poinctes soient vuides & de mesme grosseur par tout si ce nest a<br/> la poincte Et puys il les fault faire longues co<span class="exp">mm</span>e tu en as<br/> affaire Le <span class="m">fil de fer</span> est plus ferme que <span class="m">celuy de letton</span>
+Il ten fault avoyr aussy provision de diverses grosseurs<br/> selon les <span class="tl">moules</span> que tu veulx faire de <span class="ms">gros co<span class="exp">mm</span>e ffisselle de moing<span class="ill"></span></span><br/> & du <span class="ms">delie <span class="del">p</span> co<span class="exp">mm</span>e grosse corde d<span class="mu">espinette</span> pour les petits ouvrages</span><br/> Tu en fais estant <span class="del">de</span> recuit des crampons pour fermer les<br/> <span class="tl">moules</span> & des poinctes co<span class="exp">mm</span>e aiguilles de diverses longueurs selon<br/> ton besoing pour piquer sur lanimal a mouler & le tenir subgect<br/> Les <span class="tl">aiguilles</span> ny seroient pas bonnes pource quil fault que ses<br/> poinctes soient vuides & de mesme grosseur par tout si ce nest a<br/> la poincte Et puys il les fault faire longues co<span class="exp">mm</span>e tu en as<br/> affaire Le <span class="m">fil de fer</span> est plus ferme que <span class="m">celuy de letton</span>
+ 
  

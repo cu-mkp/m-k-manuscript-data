@@ -19,7 +19,7 @@ environments: [muraille]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-033v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f72.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>033v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-033v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f72.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>033v</a> - - - - - </div>  
   
 
 ## Pour fayre sembler <span class="del">que</span> a quelquu<span class="exp">n</span><br/> quil aura une piece d<span class="m">argent</span> au <span class="bp">fro<span class="exp">n</span>t</span>
@@ -43,4 +43,5 @@ Ayes un <span class="tl">ambu</span> ou <span class="tl">entonnouer</span> de <s
 > 
 > 
 >   # <span class="bp">front</span> puys ostant le<br/> <span class="bp">poulce</span> de dessus le<br/> pertuis du bord den<br/> hault l<span class="m">air</span> estant libre<br/> fera que le <span class="m">vin</span> sortira<br/> de la doubleure par le<br/> pertuis marque B & tumbera<br/> par le bout marque C<br/> dans le <span class="tl">verre</span> Mays<br/> il fault bien faire<br/> baisser la <span class="bp">teste</span> au<br/> <span class="pro">pelerin</span> pour bien faire
+ 
  

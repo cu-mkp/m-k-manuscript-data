@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-153r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f311.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>153r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-153r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f311.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>153r</a> - - - - - </div>  
   
 
 ## Mouler en cave pour cachets<br/> ou aultre
@@ -46,4 +46,5 @@ Esbauche premierem<span class="exp">ent</span> ta figure en <span class="m">cire
  Ayant gecte ton premier <span class="m">moule</span> mesle <span class="del">de</span> <span class="m">crocum</span> ou <span class="m">escaille<br/> de fer fort broyee</span> pour laffermir Et ayant faict<br/> prise & rendu ton cave fort net Ayes de la <span class="m">pate de fine <span class="sup">farine</span></span>
  
 *[continued]*
+ 
  

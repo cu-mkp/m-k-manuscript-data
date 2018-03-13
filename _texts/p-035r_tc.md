@@ -19,7 +19,7 @@ environments: [terrier, terriers]
 animals: [connils]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-035r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f75.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>035r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-035r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f75.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>035r</a> - - - - - </div>  
   
 
 ## Pour dire a quelquun que tu luy <span class="del">monstreras</span><br/> enseigneras une chose quil ne scait pas<br/> ne toy aussy
@@ -53,4 +53,5 @@ Vuides un <span class="m">œuf</span> par les deulx bouts si bien quil ne demeur
 
  
 Prenes du <span class="m">brassier</span> dans un <span class="tl">pot</span> & ayant mis du <span class="m">soufre</span> dessus<br/> mettes le dans les <span class="env">terriers</span> & le bouches de quelque legiere chose
+ 
  

@@ -19,7 +19,7 @@ environments: [en terre maigre]
 animals: [dragon, serpents, lesards, poisson]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-165r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f335.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>165r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-165r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f335.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>165r</a> - - - - - </div>  
   
 
 ## Reparer
@@ -71,4 +71,5 @@ Il se peult imiter avecq la <span class="m">laque</span> qui le surpasse en beau
 
  
 Tu pourrois bien faire des poincons selon la forme de<br/> leurs escailles & en faire de plus grands & plus petits<br/> selon la forme du col du corps & de la queue Sil y ha<br/> quelque chose rompu tu le peulx hanter avecq de petites <span class="del">pieces</span><br/> <span class="tl">poinctes de <span class="m">fil de fer ou dacier</span></span> & <span class="m">coller</span> avecq <span class="m">colle de <span class="al">poisson</span></span><br/> & puys couvrir tout avecq <span class="m">cire grise ou noire</span> Mays il fault<br/> laisser seicher la <span class="m">colle</span> un <span class="ms"><span class="tmp">jour</span></span> sans y toucher
+ 
  

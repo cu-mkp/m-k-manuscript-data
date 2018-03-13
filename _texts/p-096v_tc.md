@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-096v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f198.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>096v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-096v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f198.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>096v</a> - - - - - </div>  
   
 
 ## Gardes grises
@@ -42,4 +42,5 @@ Il ne les fault estant blanches que <span class="del">bi</span> les bien nettoye
 
  
 On blanchist bien fort & on nettoye bien les gardes Apres<br/> on les charge a froid avec une <span class="tl">plume</span> toutes d<span class="m">huile <span class="del">d<span class="pa">olive</span></span> de<br/> <span class="pa">noix</span></span> Et apres les tourner sur un bon foeu de <span class="m">charbon</span> qui est sur<br/> le <span class="tl">fourneau des <span class="pro">fourbisseurs</span></span> sans quelles touchent au <span class="m">charbon</span><br/> ne a la <span class="m">cendre</span> Et quand elles ne fument plus cest faict
+ 
  

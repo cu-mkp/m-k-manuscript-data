@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-029v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f64.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>029v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-029v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f64.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>029v</a> - - - - - </div>  
   
 
 ## Couleur dor sans <span class="m">or</span> sur l<span class="m">argent</span>
@@ -87,4 +87,5 @@ Ayes de la larme diceluy bien choisie qui demonstre son<br/> rouge transparent E
 > 
 > 
 >   Le posant sur l<span class="m">or bruny</span><br/> il est subgect a sesclater<br/> Et pour ceste occasion<br/> aulcuns couchent dessus<br/> du <span class="m">vernis de tourmentine</span><br/> @ Le froid retarde que<br/> l<span class="m">eau</span> nopere et face extraction<br/> de la couleur Et pour ceste occasion on la peult tenir aupres du foeu
+ 
  

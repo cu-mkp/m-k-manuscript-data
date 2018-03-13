@@ -8,18 +8,18 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [metal duquel les cloches se font, letton, calamine, boys, Verre, verre de bien, cendre de feugiere, caillous, verre de plat, salicor, verre]
-tools: [four a vent, creuset, four a boys, four a souflets, souflets, Four a vent, tenailles, four]
+materials: [metal duquel les cloches se font, letton, calamine, boys, Verre de vitriers, verre de bien, cendre de feugiere, caillous, pierre, fer, verre de plat, salicor, verre]
+tools: [four a vent, creuset, four a boys, four a souflets, souflets, Four a vent, tenailles, pierre, platene, four, verge de fer, chandelle, plan, fer chault]
 measurements: []
 bodyparts: []
 places: [lorraine, flandres, angleterre, rouan, France]
-plants: []
+plants: [feugiere, salicor]
 professions: [Fondeur, fondableseurs, vitriers, ouvrier]
 environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-036v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f78.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>036v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-036v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f78.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>036v</a> - - - - - </div>  
   
 
 ## <span class="pro">Fondeur</span>
@@ -40,13 +40,14 @@ Il fault quil soict plus estroit a la gueule quau fonds<br/> Et cest asses que l
  
   
 
-## <span class="m">Verre</span> de <span class="pro">vitriers</span>
+## <span class="m">Verre de <span class="pro">vitriers</span></span>
 
  
-On dict quen <span class="pl">lorraine</span> & en <span class="pl">flandres</span> le <span class="m">verre de bien</span><br/> se faict de <span class="m">cendre de feugiere</span> & de <span class="m">caillous</span> Et que<br/> premierement ilz souflent une longue vessie laquelle<br/> un aultre <span class="pro">ouvrier</span> avecq de longues forces fend & couppe<br/> tout du long Puys ayant pose ceste longue vessie fendue<br/> sur une pierre ou platene large qui est dans le <span class="tl">four</span><br/> un peu moings chault que de la fonte Elle se laisse<br/> dilater Et encores oultre ce ilz laplanissent avecq une<br/> longue & grosse verge de fer ronde Puys la retirent<br/> au <span class="tl">four</span> a recuire Il sen faict de mesme en <span class="pl">angleterre</span><br/> de plus beau Aupres de <span class="pl">rouan</span> en <span class="pl">France</span> Le <span class="m">verre de<br/> plat</span> se faict avecq <span class="del">sel de</span> <span class="m">salicor</span> et <span class="m">caillous</span> qui est plus<br/> blanc & plus tendre que cestuy de <span class="pl">lorraine</span> Car le verre<br/> de plat se peult fondre a la chandelle & non pas cestuy de<br/> <span class="pl">lorraine</span> Celuy de plat se soufle en longue vessie de<br/> laquelle un aultre coupe le bout puys le soufleur en<br/> tournant laplatise & en touchant sur un plan qui est a terre<br/> <span class="del">A</span> puys la met a recuire Ainsy le milieu par ou elle se<br/> commance demeure tousjours
+On dict quen <span class="pl">lorraine</span> & en <span class="pl">flandres</span> le <span class="m">verre de bien</span><br/> se faict de <span class="m">cendre de <span class="pa">feugiere</span></span> & de <span class="m">caillous</span> Et que<br/> premierement ilz souflent une longue vessie laquelle<br/> un aultre <span class="pro">ouvrier</span> avecq de longues forces fend & couppe<br/> tout du long Puys ayant pose ceste longue vessie fendue<br/> sur une <span class="tl"><span class="m">pierre</span></span> ou <span class="tl">platene</span> large qui est dans le <span class="tl">four</span><br/> un peu moings chault que de la fonte Elle se laisse<br/> dilater Et encores oultre ce ilz laplanissent avecq une<br/> longue & grosse <span class="tl">verge de <span class="m">fer</span></span> ronde Puys la retirent<br/> au <span class="tl">four</span> a recuire Il sen faict de mesme en <span class="pl">angleterre</span><br/> de plus beau Aupres de <span class="pl">rouan</span> en <span class="pl">France</span> Le <span class="m">verre de<br/> plat</span> se faict avecq <span class="del">sel de</span> <span class="m"><span class="pa">salicor</span></span> & <span class="m">caillous</span> qui est plus<br/> blanc & plus tendre que cestuy de <span class="pl">lorraine</span> Car le <span class="m">verre<br/> de plat</span> se peult fondre a la <span class="tl">chandelle</span> & non pas cestuy de<br/> <span class="pl">lorraine</span> Celuy de plat se soufle en longue vessie de<br/> laquelle un aultre coupe le bout puys le soufleur en<br/> tournant laplatise & en touchant sur un <span class="tl">plan</span> qui est a terre<br/> <span class="del">A</span> puys la met a recuire Ainsy le milieu par ou elle se<br/> commance demeure tousjours
  
 > *at left middle margin*
 > 
 > 
->  Le <span class="m">verre</span> se peult<br/> refendre avecq la<br/> lumiere dune chandelle<br/> en mouillant Mays<br/> non pas si justement<br/> quavecq le fer chault
+>  Le <span class="m">verre</span> se peult<br/> refendre avecq la<br/> lumiere dune <span class="tl">chandelle</span><br/> en mouillant Mays<br/> non pas si justement<br/> quavecq le <span class="tl"><span class="m">fer</span> chault</span>
+ 
  

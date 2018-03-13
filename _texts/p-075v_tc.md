@@ -19,7 +19,7 @@ environments: []
 animals: [perdris, loup]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-075v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f156.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>075v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-075v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f156.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>075v</a> - - - - - </div>  
   
 
 ## Pour f<span class="exp">air</span>e du <span class="m">boys</span> gris
@@ -54,4 +54,5 @@ Fault prandre une <span class="ms">coquille</span> d<span class="m">or</span> et
  Pour le faire noir Il le fault tremper en <span class="m">huille d<span class="pa">olive</span></span> Et<br/> la <span class="m">Carne</span> au cas semblablement quatre ou Cinq <span class="ms"><span class="tmp">Jours</span></span> & puys<br/> le bouilhir la ou Il aura trempe lespace dune <span class="ms"><span class="tmp">heure</span></span> & la<br/> tirer hors de l<span class="m">huille</span> Et prandre du <span class="m">souffre vif</span> ou dau<span class="exp">ltr</span>e
  
 *[continued]*
+ 
  

@@ -7,11 +7,11 @@
 
 <cont/>
 
-<id>p106v_2</id>
-
-<margin>left-top</margin>
+<id>p106v_1</id>
 
 <ab>
+
+<margin>left-top</margin>
 
 <figure>
 
@@ -120,7 +120,7 @@ la teste dedans tire <add>Le <al>lezard</al> est plus fascheux a prendre
 a la <tl><bp>main</bp></tl><lb/>
 
 que le <al>serpend</al> &amp; mort sans laisser &amp; sarre
-co<exp>mm</exp>e une tenaille</add></ab>
+co<exp>mm</exp>e une <tl>tenaille</tl></add></ab>
 
 <ab>Les <al>serpents</al> se peuvent prendre avecq la
 <tl><bp>main</bp></tl> pourveu quelle<lb/>
@@ -141,7 +141,7 @@ les <pro>preneurs d<al>escrevisses</al></pro></ab>
 
 <ab>La mixtion du sable est de deulx <ms>parties</ms> de <m>plastre<lb/>
 
-pulverise</m> &amp; recuit co<exp>mm</exp>e dict est &amp; dune
+pulverise &amp; recuit</m> co<exp>mm</exp>e dict est &amp; dune
 <ms>partie</ms> de <m>tuile</m> rougie<lb/>
 
 <del>et p pre</del> <add>a bon foeu</add> apres la premiere cuicte &amp;

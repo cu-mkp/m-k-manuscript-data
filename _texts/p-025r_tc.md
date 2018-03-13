@@ -19,7 +19,7 @@ environments: []
 animals: [chevaulx]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-025r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f55.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>025r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-025r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f55.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>025r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -31,4 +31,5 @@ cent <span class="ms">pas</span> loing de la batterie & on les entourne de barri
 > 
 > 
 >   Aulcuns mettent des petites roues dune piece & de quelque table espece au bout<br/> de lafust de la piece affin quelle se tire plus tost & sans faire bruit<br/> Aultres mectent du <span class="m">cuir</span> tout aultour des <span class="del">la</span> roues & mectent aussy aulx<br/> pieds de <span class="al">chevaulx</span> des soles ou souliers de <span class="m">cuir</span> affin quon ne<br/> les entende point
+ 
  

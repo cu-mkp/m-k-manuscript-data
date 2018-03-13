@@ -19,7 +19,7 @@ environments: []
 animals: [lesards, serpents, seiche]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-139r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f283.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>139r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-139r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f283.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>139r</a> - - - - - </div>  
   
 
 ## Gect de <span class="m">plomb</span> et d<span class="m">estaim</span>
@@ -45,4 +45,5 @@ La ligue que jay pratiquee pour <span class="al">lesards</span> & <span class="a
 >   @Si tu veulx<br/> gecter un foeillet<br/> escript Fais ta<br/> ligne de <span class="del">plom</span><br/> <span class="ms">moictie</span> <span class="m">plomb</span> &<br/> <span class="ms">moictie</span> <span class="m">estain</span> &<br/> aussy tost quil<br/> sera fondu gecte<br/> entre deulx <span class="tl"><span class="m">carton<span class="add">s</span></span></span><br/> en lieu fort plain<br/> & au niveau & avecq<br/> une <span class="tl">poincte d<span class="m">or</span><br/> ou de <span class="m">boys</span></span> dur<br/> grave a gaulche<br/> lescripture quil<br/> te plaist Et<br/> ayant verse<br/> le <span class="m">plomb</span> sur<br/> un <span class="tl"><span class="m">carton</span></span> presse<br/> dessus avecq<br/> laultre <span class="tl"><span class="m">carton</span></span><br/> adapte
  
 *[continued]*
+ 
  

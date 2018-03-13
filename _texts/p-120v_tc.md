@@ -19,7 +19,7 @@ environments: []
 animals: [ver de farine]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-120v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>120v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-120v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>120v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -107,4 +107,5 @@ Cest un rare secret & qui donne du plaisir pour orner<br/> les tables chambres &
 >   Advise bien de ne coeuillir pas tes fleurs<br/> <span class="del">q</span> en temps de pluye et humide Mays lors<br/> que le soleil aura passe dessus
  
 *[continued]*
+ 
  

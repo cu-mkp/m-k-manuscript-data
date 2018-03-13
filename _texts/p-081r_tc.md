@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-081r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f167.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>081r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-081r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f167.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>081r</a> - - - - - </div>  
   
 
 ## Sable
@@ -60,4 +60,5 @@ Il fault quil soit bien cuict ce que tu cognoistras quand le cuisant<br/> en que
 
  
 Il fault prendre du <span class="m">papier de <span class="pl">florence</span></span> qui est le plus fin & le piler &<br/> faire tremper plusieurs fois & changer d<span class="m">eau</span> <span class="tmp">tous les jours</span> affin quil ne<br/> sente point mal & co<span class="exp">mm</span>e tu lauras moule dans le cave pose ung <span class="tl"><span class="m">linge</span></span> dessus &<br/> par derriere frotte avecq une <span class="tl">dent</span> co<span class="exp">mm</span>e si tu voulois brunir Et il se<br/> moulera fort net puys <span class="m">colle</span> par derriere de la <span class="m">toile</span> avecq <span class="m">colle forte</span>
+ 
  

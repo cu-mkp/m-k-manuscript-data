@@ -19,7 +19,7 @@ environments: []
 animals: [chiens]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-103r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f211.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>103r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-103r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f211.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>103r</a> - - - - - </div>  
   
 
 ## Contre bruslure excellent
@@ -34,4 +34,5 @@ Chaufe de l<span class="m">huile de lin</span> a foeu doulx, sans quil bouille &
 
  
 Les <span class="pl">Anglois</span> qui caressent fort les <span class="al">chiens</span> pour la<br/> soin quils ont de leur bestail ont des penseurs diceulx<br/> qui <span class="del">non</span> ont particuierem<span class="exp">ent</span> cet office Et faisant fondre de<br/> la <span class="m">pegue</span> dans de leau & ly laissant tremper frottent les<br/> <span class="al">chiens</span> de ceste eau ou bien avecq de l<span class="m">eau de sublime</span>
+ 
  

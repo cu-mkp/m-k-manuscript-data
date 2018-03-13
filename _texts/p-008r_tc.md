@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-008r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f21.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>008r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-008r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f21.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>008r</a> - - - - - </div>  
   
 
 ## L<span class="exp">ett</span>re d<span class="m">or</span> sur <span class="m">papier</span>
@@ -50,4 +50,5 @@ Chaufe la balle de <span class="m">plomb</span> le plus que tu pourras sans<br/>
 
  
 Ayant faict trou dans la muraille comme tu scais mects<br/> un mortier dedans charge de pouldre qui soict quasi comme<br/> couche & laultre droict puys bouche le trou et donne foeu
+ 
  

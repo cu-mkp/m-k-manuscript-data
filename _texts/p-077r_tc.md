@@ -19,7 +19,7 @@ environments: [a lombre]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-077r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f159.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>077r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-077r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f159.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>077r</a> - - - - - </div>  
   
 
 ## Contre les rougeurs du visage
@@ -57,4 +57,5 @@ Pour faire <span class="m">vernys</span> excellant d<span class="m">eaue claire<
 Premierement tu prandras Cinq <span class="ms">onces</span> d<span class="m">eau de vye</span> et une <span class="ms">once</span><br/> de <span class="m">betjoin</span> pillez entre deux <span class="m">pappiers</span> ou <span class="m">cartes</span> ou en ung <span class="tl">mortier</span>
  
 *[continued]*
+ 
  

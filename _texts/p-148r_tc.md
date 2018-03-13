@@ -19,7 +19,7 @@ environments: []
 animals: [butor, aigle, oyseaulx]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-148r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f301.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>148r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-148r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f301.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>148r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -61,4 +61,5 @@ On moule communement le pied & la jambe jusques au jarret<br/> Et pour cet effec
 
  @ 
 Pour le faire bien tost rougis la <span class="m">limaille</span> dans une <span class="tl">caisse de <span class="m">fer</span></span><br/> le remuant souvant puys arrouse le de bon <span class="m">vinaigre</span> & le laisse evaporer<br/> & sans loster de dessus le foeu laisse le rougir & enflammer. esta<span class="exp">n</span>t froid<br/> pulverise le sur le <span class="tl"><span class="m">mabre</span></span> & le retourne au foeu <span class="del">rou</span> arrouse de <span class="m">vinaigre</span><br/> Et puys enflamme Ainsy il sera bien tost colore & subtilie
+ 
  

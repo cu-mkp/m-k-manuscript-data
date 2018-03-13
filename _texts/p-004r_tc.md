@@ -19,7 +19,7 @@ environments: [au soleil]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-004r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f13.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>004r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-004r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f13.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>004r</a> - - - - - </div>  
   
 
 ## <span class="m">Vernis dhuile daspic</span>
@@ -29,7 +29,7 @@ Il fault faire chaufer l<span class="m">huile daspic</span> & comme il comma<spa
  
 Si tu veulx vernir sur le <span class="m">plastre</span> ou muraille donne<br/> premierement ta <span class="m">colle de retaille</span> bien chaulde car si elle<br/> estoict refroidie elle nentreroit poinct dans la muraille<br/> & quand tu y aurois mis ton <span class="m">vernis </span> elle senleveroit
  
-> *at left top margin*
+> *at left middle margin*
 > 
 > 
 >   Le <span class="m">vernis dhuile<br/> daspic</span> nest pas si<br/> propre pour les couleurs<br/> que celuy de <span class="m">tourmentine</span><br/> car l<span class="m">huile daspic</span><br/> <span class="del">faict mourir</span> <span class="add">mange</span> les couleurs<br/> pour estre trop penetra<span class="exp">n</span>t
@@ -42,8 +42,9 @@ Si tu veulx vernir sur le <span class="m">plastre</span> ou muraille donne<br/> 
  
 Prens du <span class="m">savon blanc</span> & de la <span class="m">cendree <span class="tl">tamisee</span></span> & le tout<br/> destremper dans de l<span class="m">eau</span> Et avecq une <span class="tl">esponge</span> prens de<br/> ladicte <span class="m">cendre</span> & <span class="m">savon</span> & en frotte le tableau Et comme<br/> tu verras que le vieulx <span class="m">vernis</span> sera oste Jecte un <span class="tl"><span class="ms">seau</span></span><br/> d<span class="m">eau</span> contre le tableau pour le nettoyer Apres mects le<br/> <span class="ms"><span class="tmp">un quart dheure</span></span> <span class="env">au soleil</span> pour le faire seicher et revenir<br/> les couleurs Apres estant le tableau sec tu y peulx<br/> estandre ton <span class="m">vernis de tourmentine</span>
  
-> *at left bottom margin*
+> *at left middle margin*
 > 
 > 
 >   Garde que les<br/> couleurs ne senlevent
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: [mouton]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-011v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f28.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>011v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-011v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f28.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>011v</a> - - - - - </div>  
   
 
 ## Couleur d<span class="m">acier de <span class="pl">damas</span></span> sur <span class="tl">costeaulx</span>
@@ -59,3 +59,4 @@ Elles sont pour trasser ce que tu veulx desseigner sur les<br/> <span class="m">
  
 Il fault plustost qui polir ta <span class="m">pierre</span> la <span class="del">ter</span> desgraisser bien<br/> la frottant dun lopin de <span class="m">cuir</span> <span class="del">en tour</span> du coste de la chair<br/> en tourna<span class="exp">n</span>t ta <span class="tl">roue</span> Sil y a long temps que tu ny as<br/> travaille
 
+ 

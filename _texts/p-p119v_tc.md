@@ -19,7 +19,7 @@ environments: [en terre]
 animals: [lesarde]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-p119v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f244.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>p119v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-p119v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f244.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>p119v</a> - - - - - </div>  
   
 
 ## Facon dacoustrer l<span class="del">aspalt</span><span class="add">e spat</span>
@@ -49,4 +49,5 @@ Il se trouve <span class="env">en terre</span> en <span class="pl">Allemaigne</s
 
  
 Jecte avec ton sable susdict ton animal et <span class="al">lesarde</span> ou aultre<br/> chose avec <span class="m">argent de billon</span> & il viendra fort net <span class="del">E</span> Mays<br/> advise de le mouler creux ou dy laisser a tout le moins un trou<br/> dans laquelle ou aultre endroit Apres <span class="m">dore</span> le d<span class="m">or fin</span> le plus<br/> uniment quil te sera possible trois ou quattre ou cinq fois<br/> & jusques a ce que ton <span class="m">or</span> puisse avoir l<span class="ms">espesseur dun <span class="m">papier</span></span><br/> ou aultre suffisante & toutes les escailes se monstrero<span class="exp">n</span>t tousjours<br/> esgalles Apres mects le dans l<span class="m">eau fort</span> bonne qui par ce trou<br/> corrodera le <span class="m">billon</span> & l<span class="m">or</span> demeurera creux & legier & admirable
+ 
  

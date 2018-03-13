@@ -19,7 +19,7 @@ environments: [riviere]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-081v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f168.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>081v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-081v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f168.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>081v</a> - - - - - </div>  
   
 
 ## Sable
@@ -56,4 +56,5 @@ Le <span class="m">laitton</span> court mieulx
 
  
 Il est bon de le faire avecq du <span class="m">bois de <span class="pa">buy</span></span> tourne affin quil se<br/> fasse uny Car cela importe pour le gect <span class="m">Lute</span> aussy ou couvre de<br/> sable la bouche du <span class="tl">chassis</span> affin que le <span class="m">metal</span> fondu ou <span class="m">plomb</span> ou<br/> <span class="m">cuivre</span> ne touche point le <span class="m">fer</span> ou <span class="m">letton</span> du <span class="tl">chassis</span> Car cela laigrist<br/> & le faict soufler Fais aussy que le gect soit tousjours plus hault<br/> que le <span class="tl">moule</span> Garde aussy que le gect ne soit point trop large ne<br/> profond Car le plus estroit est le meilleur Car quand il est grand<br/> la pesanteur de la matiere qui court romp & estonne le <span class="tl">moule</span> &<br/> faict soufler Quand tu as gecte frappe doulcem<span class="exp">ent</span> le <span class="tl">chassis</span><br/> affin que la matiere sespande mieulx Le <span class="m">plomb noir de saulmon</span><br/> de la premiere fonte faict fort net
+ 
  

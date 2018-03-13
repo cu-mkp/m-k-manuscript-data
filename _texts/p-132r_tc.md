@@ -19,7 +19,7 @@ environments: [vent dune fenestre]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-132r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f269.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>132r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-132r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f269.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>132r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -57,4 +57,5 @@ Allume des <span class="m">charbons</span> a la <span class="tl">forge</span> & 
 >   @Si ton <span class="tl">moule</span> est<br/> petit il ne le fault<br/> pas laisser <span class="del">reposer</span> tant<br/> au foeu car il sy<br/> corrompt et se fend<br/> car il est plustost recuict qu'un grand
  
 *[continued]*
+ 
  

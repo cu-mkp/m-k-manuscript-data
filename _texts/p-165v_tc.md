@@ -19,7 +19,7 @@ environments: []
 animals: [animaulx, mousche, poisson]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-165v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f336.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>165v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-165v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f336.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>165v</a> - - - - - </div>  
   
 
 ## Plant danimaulx
@@ -88,4 +88,5 @@ Affin quelles viennent mieulx mects despuys le gect<br/> jusques aulx bout dicel
 
  
 Elle se<br/> raporte avecq <span class="m">colle de <span class="al">poisson</span></span><br/> destrempee avecq <span class="m">eau de vye</span> sur foeu lent faisa<span class="exp">n</span>t aussy<br/> chaufer louvrage puys cela se couvre avecq de la <span class="m">cire<br/> a esbaucher</span> qui soit grise
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: [oiseau]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-157v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f320.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>157v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-157v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f320.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>157v</a> - - - - - </div>  
   
 
 ## <span class="m">Cendre</span> dans les <span class="tl">moules</span>
@@ -47,4 +47,5 @@ Il fault luy donner son plant Et pour ce faire le mectre<br/> de coste sur la <s
 
  @ 
 Prenez un chausson du pied droid <span class="add">t</span>@ qui ait este porte et le faictes<br/> <span class="del">boyre au</span> tremper en <span class="m">eau</span> et de l<span class="m">eau</span> q<span class="exp">u</span>i en sortira la f<span class="exp">air</span>e boyre au mesme<br/> ou autre @ et v<span class="exp">er</span>rez merveilles @
+ 
  

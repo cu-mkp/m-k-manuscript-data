@@ -19,7 +19,7 @@ environments: []
 animals: [escrevisses, chancres, cerf volant]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-138r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f281.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>138r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-138r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f281.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>138r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -39,4 +39,5 @@ Il ne fault pas mouler sur la <span class="m">brique</span> ou <span class="m">b
 > 
 > 
 >   Pour medailles<br/> et choses plattes<br/> il fault que le<br/> sable soict<br/> asses espes<br/> destrempe pource<br/> quil faict<br/> plustost prise<br/> Et quand le<br/> sable est ainsy<br/> espes on peult<br/> bien fraper et<br/> branler la <span class="tl">table</span><br/> ou est pose le<br/> <span class="tl">mole</span> pour le<br/> faire courre<br/> par tout Mays<br/> quand le sable<br/> est clair co<span class="exp">mm</span>e<br/> pour fleurs<br/> et herbes il ne<br/> fault poinct<br/> fraper ne pareillem<span class="exp">ent</span><br/> quand il y a<br/> quelque chose<br/> attachee avecq<br/> la <span class="m">cire</span> ou<br/> aultre chose<br/> qui est subgecte<br/> a senlever co<span class="exp">mm</span>e<br/> jambes d<span class="al">escrevisses</span><br/> ou semblables<br/> choses Et si le<br/> sable est par<br/> cas fortuit trop<br/> espes tu y mects<br/> promptem<span class="exp">ent</span> <span class="del">verser</span><br/> de l<span class="m">eau</span><br/> Ayant mis<br/> le sable dans<br/> l<span class="m">eau</span> <span class="del">le</span> considere<br/> quil soict espes<br/> au fonds &<br/> clair au dessus<br/> Le plus clair se gecte au comma<span class="exp">n</span>cem<span class="exp">ent</span><br/> et puys soufler & le plus espes sur la<br/> fin affin de fortifier le <span class="tl">molle</span>
+ 
  

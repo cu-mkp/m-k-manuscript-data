@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-052v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f110.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>052v</a> - - - - - </div>  cc 
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-052v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f110.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>052v</a> - - - - - </div>  cc 
  
 *[continued]*
   
@@ -40,4 +40,5 @@ Qui le veult avoyr beau & <span class="del">p</span> fort delie il le fault cuei
 
  
 Si tu les veulx garder a <span class="m">gomme</span> belles et quelles ne perdent<br/> poinct de leur naifve couleur Mects du <span class="m">vin blanc</span> le plus blanc<br/> & cler que tu pourras dans une <span class="tl">bouteille</span> avecq un peu de <span class="m">gomme<br/> dragant</span> Et ayant <span class="tl">bouche</span> la <span class="tl">bouteille</span> brouille & debats cela bien<br/> fort ensemble & laisse reposer jusques a ce que la <span class="m">dragant</span> soit<br/> dissoubte Mects y aussy un peu de <span class="m">sol blanc</span> menu pour esclarcir<br/> le tout Aulcuns meslent de l<span class="m">eau claire</span> avecq le <span class="m">vin blanc</span> Et<br/> avecq ceste composition ilz destrempent les couleurs sans broyer Et<br/> elles se monstrent fort belles en œuvre <span class="pro">denlumineure</span>
+ 
  

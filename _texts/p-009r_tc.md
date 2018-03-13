@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-009r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f23.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>009r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-009r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f23.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>009r</a> - - - - - </div>  
   
 
 ## Laboureur
@@ -42,4 +42,5 @@ Aulcuns apres avoyr couche leur couleur adoulcissent avecq<br/> le plat dune <sp
 
  
 Ilz ont communement quattre livres Le tyrant qui est un<br/> formulayre pour les aprentifs par lequel ilz peuvent scavoir<br/> ce que chasque piece de marchandise tire & <span class="del">co</span> a combien elle se<br/> doit vendre Le second est le broillart ou grossierem<span class="exp">ent</span> ilz mectent<br/> ce quilz vendent journellem<span class="exp">ent</span> Le tiers est le livre de vente ou<br/> ilz reduisent au net et mectent le compte par le menu de ce qui est<br/> contenu au broillart Le quatriesme est le livre de raisons<br/> qui faict mention de la vente du compte arreste de la cedulle<br/> & du terme du payement & a cestuy cy <span class="del">l</span> il est adjouxte foy en<br/> jugement
+ 
  

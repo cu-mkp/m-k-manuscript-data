@@ -19,7 +19,7 @@ environments: [en terre]
 animals: [serpents, serpent, mulots]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-116v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f238.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>116v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-116v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f238.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>116v</a> - - - - - </div>  
   
 
 ## Mouler <span class="al">serpents</span> <span class="tmp">en tout temps</span>
@@ -52,4 +52,5 @@ Pour herbes subtiles & autres fleurs ou feuillages tanvres<br/> Il fault que l<s
 
  
 Pour le <span class="m">cuivre rouge</span> il fault mectre du <span class="m">sel armoniac</span> qui<br/> le nettoye & repurge de toute sa crouste quand il est bien fondu<br/> Il en y a qui y mectent des lopins de <span class="del"><span class="m">vieulx cuir</span></span> gros <span class="m">cuir noeuf</span><br/> Aultres des <span class="m">pareures des pieds de <span class="al">mulots</span></span> Aultres du <span class="m">sel commu<span class="exp">n</span></span><br/> fondu seul ou bien fondu avecq du <span class="m">salpestre</span> Le principal est<br/> le <span class="m">sel armoniac</span> & un peu d<span class="m">estaim fin</span> co<span class="exp">mm</span>e tu veulx gecter Le <span class="m">cuivre<br/> rouge</span> est plus fascheus a fondre <span class="del">M</span> que le <span class="m">letton</span> Mays qua<span class="exp">n</span>d il est<br/> bien fondu il coule mieulx mesmement sil est allie <span class="del">dun</span> de <span class="m">letton</span> Le <span class="m">letton</span><br/> sallie dun <span class="ms">quart</span> de <span class="m">cuivre</span> Et on y mect co<span class="exp">mm</span>e au <span class="m">cuivre</span> Mays particulierem<span class="exp">ent</span><br/> un peu de <span class="m">calamine</span> le fait bien<br/> courre
+ 
  

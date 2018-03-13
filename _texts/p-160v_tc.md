@@ -19,7 +19,7 @@ environments: [eau ou les escrevisses se nourrissent, eau, pailles, maison, nuit
 animals: [mouches, escrevisses, boeuf, moutton, passereaulx, oiseaulx, mouche, vers]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-160v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f326.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>160v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-160v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f326.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>160v</a> - - - - - </div>  
   
 
 ## Mouler un pied ou main
@@ -63,4 +63,5 @@ En <span class="tmp">hyver</span> lors que les <span class="al">oiseaulx</span> 
 > 
 > 
 > @au <span class="tl">four</span> qui<br/> ne soict gueres<br/> chault <span class="del">L<span class="tmp">hiver</span></span><br/> <span class="del">il</span> <span class="add">Et</span> l<span class="tmp">este</span> cela<br/> faict pource que<br/> plustost quilz<br/> ne fussent secs la <span class="al">mouche</span> se mectroit dans les yeulx <span class="add">et feroit des <span class="al">vers</span></span> l<span class="tmp">hiver</span> il sacoustrent<br/> mieulx & se seichent eulx mesmes
+ 
  

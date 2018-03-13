@@ -19,7 +19,7 @@ environments: []
 animals: [chevaulx]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-017r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f39.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>017r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-017r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f39.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>017r</a> - - - - - </div>  
   
 
 ## Du <span class="pro">canonier</span>
@@ -58,4 +58,5 @@ animals: [chevaulx]
 >   Il fault pour bien <span class="del">un</span> pointer une piece quelle soict aussy haulte du bort de la gueule que la<br/> culasse Aultrement on ne pointe pas bien
  
 *[continued]*
+ 
  

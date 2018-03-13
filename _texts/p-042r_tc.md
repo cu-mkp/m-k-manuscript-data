@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-042r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f89.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>042r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-042r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f89.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>042r</a> - - - - - </div>  
   
 
 ## <span class="pro">Fondeur</span>
@@ -42,4 +42,5 @@ Pour les grands seaulx de <span class="m">cire</span> Il fault avoir de<br/> l<s
 
  
 Fays fondre de la <span class="m">cire</span> & avecq une grosse <span class="tl">broisse</span> induis en le<br/> relief dont tu veulx avoyr le cave comme si le voulois paindre<br/> Et il se fera une crouste legere <span class="del">sur laquele qu</span> sur laquelle<br/> tu gecteras <span class="del">tu</span> du <span class="m">plastre</span> pour luy donner corps et force Apres<br/> dans le cave de la <span class="m">cire</span> tu gecteras aussy ton <span class="m">plastre</span> pour<br/> avoyr le relief & il se despouillera fort facillem<span class="exp">ent</span> a cause<br/> de la <span class="m">cire</span> Cela se practique plus pour les grands pieces<br/> de relief entier que pour les aultres
+ 
  

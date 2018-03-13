@@ -19,7 +19,7 @@ environments: [au froid]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-164v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f334.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>164v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-164v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f334.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>164v</a> - - - - - </div>  
   
 
 ## <span class="tl">Moules</span>
@@ -47,4 +47,5 @@ animals: []
 
  
  Encores que tu gectes en <span class="m">plomb</span> les <span class="tl">moules</span> veulent estre<br/> bien desseiches mesmem<span class="x"><span class="exp">ent</span></span> quand ils sont grands et les<br/> fault rougir dehors & les tenir en continuelle chaleur<br/> jusques a ce quilz ne fument plus par dedans Ne les<br/> mets pas a recuire a diverse foys Mays continue<br/> quand tu as commance Et ne les mects pas a refroidir<br/> <span class="env">au froid</span> <span class="del">Avecq</span> car ilz se fenderoient Mays laisse<br/> les atiedir pres du foeu & co<span class="exp">mm</span>e ilz sont encores en telle<br/> chaleur que tu as cy deva<span class="exp">n</span>t remarque mecta<span class="exp">n</span>t le <span class="tl"><span class="bp">doigt</span></span> au<br/> trou gecte Et quand le <span class="tl">moule</span> est grand il veut plus<br/> de temps a recuire & deseicher & fault gecter plus chault
+ 
  

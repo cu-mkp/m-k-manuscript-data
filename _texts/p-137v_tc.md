@@ -19,7 +19,7 @@ environments: []
 animals: [lesards]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-137v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f280.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>137v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-137v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f280.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>137v</a> - - - - - </div>  
   
 
 ## Destremper sable pour moule de<br/> medailles plattes
@@ -38,4 +38,5 @@ Les medailles plattes de <span class="m">cire</span> ou de <span class="m">metal
 >   Sur tout fais<br/> que le gect soict<br/> le plus large<br/> que tu pourras<br/> <span class="del">p</span>vers la medaille<br/> & lembrasse bien<br/> Que lentree du<br/> gect soict ample<br/> allant tousjours<br/> en apettissant<br/> vers la medaille<br/> Noublie pas<br/> aussy dencocher<br/> lentree du gect
  
 *[continued]*
+ 
  

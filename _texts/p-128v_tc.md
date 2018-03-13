@@ -19,7 +19,7 @@ environments: []
 animals: [lesard]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-128v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f262.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>128v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-128v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f262.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>128v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -57,4 +57,5 @@ animals: [lesard]
 > 
 > 
 >   Il observoit de ne<br/> laisser pas tant<br/> bouillir son <span class="m">eau de<br/> tartre</span> quelle reversast<br/> par dessus pource que<br/> lors sa force sen<br/> va doncq quand ceste<br/> premiere furie de bouillir<br/> viendra oste la du foeu<br/> & luy remects Il tenoit<br/> pour secret ce <span class="m">tartre<br/> brusle</span> mis dessus pour<br/> l<span class="m">argent</span> bas. 
+ 
  

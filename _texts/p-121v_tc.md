@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-121v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f248.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>121v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-121v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f248.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>121v</a> - - - - - </div>  
   
 
 ## Pour gecter en <span class="m">argent</span>
@@ -75,4 +75,5 @@ Plustost que te disposer a gecter <span class="add">en <span class="m">argent</s
 > 
 > 
 >   Plustost que<br/> <span class="del">lier</span> <span class="m">luter</span> &<br/> fortifier tes <span class="tl">moules</span> pour <span class="m">or</span> &<br/> <span class="m">argent</span> avecq la<br/> susdicte <span class="m">terre</span><br/> il fault que le<br/> gect soict faict &<br/> les souspirails<br/> & que les <span class="tl">moules</span><br/> ayent este recuits<br/> <span class="del">de</span> bien rouges pour<br/> brusler les<br/> animaulx fleurs<br/> et herbes qui sont dedans<br/> & les bien nettoyer des<br/> <span class="m">cendres</span> Estant bien<br/> nets & praepares <span class="m">Lutes</span><br/> les & lies de <span class="tl"><span class="m">fil de fer</span></span><br/> et les recuises derechef<br/> jusques a ce quil soient<br/> bien rouges
+ 
  

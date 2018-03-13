@@ -19,7 +19,7 @@ environments: [au soleil, a la pluye]
 animals: [dragon, poisson, moulue]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-007r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f19.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>007r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-007r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f19.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>007r</a> - - - - - </div>  
   
 
 ## Pour dorer d<span class="m">or couleur</span> et d<span class="m">or bel</span>
@@ -53,9 +53,9 @@ Elle se faict avecq <span class="m">peau de <span class="al">moulue</span></span
  
 La <span class="m">colle de bouche</span> se faict de ratisseures de <span class="m">parchemin</span> et on sen<br/> sert sans feu pour coller <span class="m">papier</span> ou choses semblables la mouilla<span class="exp">n</span>t<br/> avecq la <span class="tl"><span class="bp">bouche</span></span>
  
-> *at left bottom margin*
+> *at left middle margin*
 > 
 > 
 >   On la bat et faict<br/> tremper <span class="del">en eau de vye</span><br/> <span class="del">de vinaigre</span> en <span class="m">vin</span><br/> <span class="m">blanc</span> une nuict puys<br/> on la faict fondre<br/> a feu lent Aultres<br/> la destrempent en<br/> <span class="m">eau de vye</span>
  
- ________________
+ 

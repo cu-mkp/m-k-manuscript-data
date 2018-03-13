@@ -10,7 +10,7 @@ editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [or, crocum ferri, alum de plume, fer, escaille des chancres & escrevisses, Tuiles, terre aulcunement areneuse, tuilles, pierres, gravier, plastre, poulssiere, pierre, eau, brique, ardille, Plastre, charbon]
 tools: [moule, presses de fer, tamis, manche, chauldron, poelonne, chauderon, baston, chaulderon, ongle]
-measurements: [heure, moys]
+measurements: [heure, en bonne quantite, moys]
 bodyparts: [ongle]
 places: []
 plants: []
@@ -19,7 +19,7 @@ environments: [maisons, en lieu sec, en temps de pluye]
 animals: [chancres, escrevisses, rats, oyseaulx, tortues]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-106v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f218.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>106v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-106v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f218.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>106v</a> - - - - - </div>  
   
 
 ## Gecter en <span class="m">or</span>
@@ -31,11 +31,7 @@ L<span class="m">escaille des <span class="al">chancres</span> & <span class="al
  
 Les <span class="al">rats</span> & <span class="al">oyseaulx</span> se moulent Et les pieds sont<br/> malaises de retirer estant brusles pourcequilz sont petits<br/> & delies Les corps se retirent plus aisem<span class="exp">ent</span> du <span class="tl">moule</span><br/> Les pieds se gectent a plusieurs <span class="del">foys</span> pieces
  
- 
-  
-
-## <span class="m">Tuiles</span>
-
+<span class="m">Tuiles</span>
  
 > *at right middle margin*
 > 
@@ -48,7 +44,7 @@ Les petites <span class="al">tortues</span> estant sorties de loeuf sont bien<br
  
  <span class="add">Si le <span class="m">plastre</span> est mesle de quelque <span class="m">poulssiere</span> ou nest du fort il se creve au<br/> foeu & faict faire des baves</span>
  
-Le <span class="m">plastre</span> co<span class="exp">mm</span>e dict est le plus dur est le meilleur estant en<br/> <span class="m">pierre</span> prens le doncq tout cru en telle sorte Pile le <span class="del">bien</span> <span class="add">plus</span><br/> subtillement quil te sera possible Et le passe par le plus<br/> delie <span class="tl">tamis</span> ou <span class="tl">manche</span> que tu pourras Estant ainsy <span class="del">p</span><span class="add">b</span>ien<br/> subtil mects le <span class="add">en bonne quantite</span> dans un <span class="tl">chauldron</span> ou <span class="tl">poelonne</span> sur foeu de<br/> flamme & co<span class="exp">mm</span>e il commancera a seschaufer remue toujours Et de<br/> poesant & grossier quil est Il deviendra si leger & si maniable<br/> quil te semblera navoyr non plus dempeschement a le <span class="del">manier</span> <span class="add">remuer</span> que<br/> si cestoit de l<span class="m">eau</span> continue a le mouvoir tousjours jusques a ce<br/> quil retourne encores poesant & grave Et lors cest signe quil<br/> est cuict <span class="add">Mays ne le recuits point que ta <span class="m">brique</span> <span class="m">alum de plume</span> de plume<br/> ne soient recuits & que les cercles d<span class="m">ardille</span> ne soient faicts Car il fault que ce<br/> soict le dernier recuit & quand tout le reste est prest Car le moings que le <span class="m">plastre</span> #</span><br/> 
+Le <span class="m">plastre</span> co<span class="exp">mm</span>e dict est le plus dur est le meilleur estant en<br/> <span class="m">pierre</span> prens le doncq tout cru en telle sorte Pile le <span class="del">bien</span> <span class="add">plus</span><br/> subtillement quil te sera possible Et le passe par le plus<br/> delie <span class="tl">tamis</span> ou <span class="tl">manche</span> que tu pourras Estant ainsy <span class="del">p</span><span class="add">b</span>ien<br/> subtil mects le <span class="add"><span class="ms">en bonne quantite</span></span> dans un <span class="tl">chauldron</span> ou <span class="tl">poelonne</span> sur foeu de<br/> flamme & co<span class="exp">mm</span>e il commancera a seschaufer remue toujours Et de<br/> poesant & grossier quil est Il deviendra si leger & si maniable<br/> quil te semblera navoyr non plus dempeschement a le <span class="del">manier</span> <span class="add">remuer</span> que<br/> si cestoit de l<span class="m">eau</span> continue a le mouvoir tousjours jusques a ce<br/> quil retourne encores poesant & grave Et lors cest signe quil<br/> est cuict <span class="add">Mays ne le recuits point que ta <span class="m">brique</span> <span class="m">alum de plume</span> de plume<br/> ne soient recuits & que les cercles d<span class="m">ardille</span> ne soient faicts Car il fault que ce<br/> soict le dernier recuit & quand tout le reste est prest Car le moings que le <span class="m">plastre</span> #</span> 
  
 > *at left bottom margin*
 > 
@@ -70,7 +66,7 @@ Le <span class="m">crocum ferri</span> est propre pour l<span class="m">or</span
 > 
 > 
 > <span class="m">Plastre</span>
-<br/> Quant tu las en<br/> pierre choisis les<br/> plus durs morceaulx<br/> et qui ne sesmient<br/> point aisem<span class="exp">ent</span> avecq<br/> l<span class="tl"><span class="bp">ongle</span></span> et nettoye le<br/> bien de pouldre &<br/> ordure plustost que<br/> le piler
+<br/> Quant tu las en<br/> <span class="m">pierre</span> choisis les<br/> plus durs morceaulx<br/> et qui ne sesmient<br/> point aisem<span class="exp">ent</span> avecq<br/> l<span class="tl"><span class="bp">ongle</span></span> et nettoye le<br/> bien de pouldre &<br/> ordure plustost que<br/> le piler
  
 > *at left middle margin*
 > 
@@ -86,4 +82,7 @@ Le <span class="m">crocum ferri</span> est propre pour l<span class="m">or</span
 > 
 > 
 >   Il fault quil<br/> soubstienne le foeu<br/> & se rougisse<br/> comme un <span class="m">charbon</span><br/> allume
+ 
+*[continued]*
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-099r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f203.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>099r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-099r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f203.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>099r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -60,4 +60,5 @@ sans liaison se rend fort<br/> propre pour le gect & ayant corps se tu le broyes
 
  
 Elles se peuvent bien remectre sans refaire la cloche<br/> laquelle il fault remectre dans la fosse & le moule dedans<br/> Mays <span class="m">soulder</span> la cloche <span class="del">ref</span> fendue il est estime impossible<br/> pour luy donner sa premiere voix
+ 
  

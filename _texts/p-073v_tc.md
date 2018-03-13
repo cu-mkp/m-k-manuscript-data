@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-073v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f152.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>073v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-073v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f152.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>073v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -56,4 +56,5 @@ Prenes une <span class="ms">once</span> de <span class="m">tormentine de <span c
 
  
 Prenes une <span class="ms">once</span> de <span class="m">sel armoniac</span> avecq une <span class="ms">once</span> de<br/> <span class="m">broullaminy</span> et demye de <span class="m">limailhe de cuyvre</span> aveq une <span class="ms">once</span> de<br/> <span class="m">souffre</span> & <span class="ms">demy sestier</span> de <span class="m">vinaigre</span> bouttes tout dedans ung<br/> <span class="tl">petict fourneau de carreaulx</span> Et faictes ung petict foeu de<br/> <span class="m">charbon</span> au tour Et Mectes v<span class="exp">ost</span>re <span class="tl">pot</span> dedans led<span class="exp">ict</span> <span class="tl">fourneau</span><br/> toute la <span class="ms"><span class="tmp">journee</span></span>
+ 
  

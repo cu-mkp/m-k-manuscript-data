@@ -1,245 +1,319 @@
-94|lb
-51|℥
-39|quintal
-38|moictie
-28|once
-21|onces
-19|heures
-18|pan
-17|heure
-16|jours
-16|jour
-15|doigts
-12|pas
-12|partye
-12|pans
-11|quintals
-8|deniers
-7|pars
-6|doigt
-5|nuict
-5|ligne
-4|unces
-4|quart
-4|poix
-4|pied
-4|grains
-4|carte
-4|aulne
-3|quarte partie
-3|pieds
-3|parties
-3|partie
-3|moys
-3|lien
-3|lanterne
-3|hora
-3|dragmes
-3|aultant dun que daultre
-3|Jours
-2|un bon quart dheure
-2|seau
-2|quintalz
-2|poulsses
-2|poulces
-2|plusieurs jours
-2|petit doigt
-2|patenostres
-2|pan de roy
-2|moitie
-2|lignes
-2|gros
-2|grain
-2|gabions
-2|fois le jour
-2|denier
-2|demye ℥
-2|demy sestier
-2|demy
-2|boisseaulx
-2|ana
-2|
-1|œufs
-1||ʒ|
-1|verre
+190|lb
+103|℥
+78|quintal
+77|moictie
+56|once
+44|
+42|onces
+38|heures
+37|pan
+35|jours
+34|jour
+34|heure
+31|doigts
+26|partye
+24|pas
+24|pans
+22|quintals
+16|deniers
+14|pars
+12|doigt
+10|nuict
+10|ligne
+8|unces
+8|quart
+8|poix
+8|pied
+8|grains
+8|carte
+8|aulne
+7|partie
+6|quarte partie
+6|pieds
+6|parties
+6|moys
+6|lien
+6|lanterne
+6|hora
+6|dragmes
+6|aultant dun que daultre
+6|Jours
+5|gros
+5|demy
+4|seau
+4|quintalz
+4|poulsses
+4|poulces
+4|plusieurs jours
+4|petit doigt
+4|patenostres
+4|pan de roy
+4|moitie
+4|lignes
+4|grain
+4|gabions
+4|fois le jour
+4|denier
+4|boisseaulx
+4|ana
+3|un bon quart dheure
+3|un
+3|travers de doigt
+3|tierce
+3|quarte
+3|montpellier
+3|joinctee
+3|espesseur dun
+3|demye ℥
+3|demye
+3|demy sestier
+3|Jour
+2|œufs
+2||ʒ|
+2|verre
+2|une nuict
+2|une heure &amp; demye
+2|une demy coquille de
+2|un quart dheure
+2|un pan
+2|un jour et
+2|un iour
+2|tu trouve leau mediocrement salee
+2|trois pars
+2|trois ou 4
+2|trois
+2|travers dun grain de bled
+2|tout un jour
+2|tout
+2|tierce partye
+2|teston
+2|tenir le bout du
+2|tables
+2|soleil de juin
+2|seau en heure
+2|sans te brusler
+2|roy
+2|repliee en canule
+2|quintaulx
+2|que
+2|quarts
+2|quarteron
+2|quarte partye
+2|quarte ou cinquiesme partye
+2|quart plus pesant
+2|quart de
+2|puisse presque entrer
+2|proportion
+2|presque autant dun que daultre
+2|pousses en quarre
+2|pousses
+2|poulse
+2|poulce
+2|pot
+2|poignees
+2|pleine escuelle a oreille
+2|plats
+2|pinte
+2|pieds de
+2|pied de roy
+2|pauses
+2|part
+2|paniers
+2|panier
+2|pan de
+2|palle
+2|pailles
+2|ou 5 doigts
+2|on en tire le pain
+2|nuit
+2|nois
+2|mil
+2|meza onca
+2|mains
+2|longuement
+2|livre
+2|liards
+2|le foeu il est trop chault
+2|large
+2|la grosseur dune avelane avecq sa coquille
+2|jusques a
+2|journee
+2|iours
+2|iour
+2|huictiesme partye
+2|horologe de sable
+2|hault de trois doits
+2|grosseur dune noix
+2|grosseur dune noisette
+2|grosseur dune febve
+2|grosseur dun pois
+2|grosseur de deulx chastaignes
+2|grains comme pois
+2|gouttes
+2|febve
+2|et trois nuicts
+2|espoisse dun verre poulce
+2|espesseur dune piece de quarante sols
+2|espesseur dun costeau
+2|espesseur
+2|empan
+2|dune noix
+2|du dos de costeau
+2|douziesme partye
+2|dour
+2|double liard
+2|dos de cousteau
+2|doitgts
+2|doitgs
+2|doigt dans le gect
+2|deux foys aultant
+2|deux fois que la saulcice
+2|deulx pointes de doigt
+2|deulx
+2|demye once
+2|demy once
+2|demy lb
+2|demy balle dharquebus
+2|de telle capacite que le bout du petit doigt y
+2|de sel armoniac comme deulx noix
+2|cueillerees dargent
+2|crusols
+2|creusets
+2|costeau
+2|coquille
+2|comme la chaleur du
+2|cinquiesme
+2|ce que tu puisses
+2|carats
+2|caques
+2|canes
+2|cane
+2|bras
+2|bonne heure
+2|bon foeu iusques au matin
+2|balles
+2|aussy gros quune febve
+2|aussy gros
+2|aultant que tu vouldras faire longue une cartuche
+2|aultant dun que dautre
+2|aultant
+2|asses chault comme quand
+2|ans
+2|an
+2|a la langue
+2|Carte
+2|Aultant quil pourroit tenir dans un œuf
+2|4 doigts et le poulse
+2|&amp; une nuict
+2|&amp; aussi gros quune febve de salpestre
 1|une ou deux
-1|une nuict
-1|une heure &amp; demye
-1|une demy coquille de
-1|un quart dheure
-1|un pan
-1|un jour et
-1|un iour
+1|une ou
 1|un demy 
-1|un
-1|tu trouve leau mediocrement salee
+1|un demy
+1|un bon quart
 1|troisiesme partye
-1|trois pars
+1|troisiesme
 1|trois ou 4 jours et trois iours
 1|trois ou 4 jours
-1|trois
-1|travers dun grain de bled
-1|travers de doigt
-1|tout un jour
-1|tout
-1|tierce partye
-1|tierce
-1|teston
-1|tenir le bout du
-1|tables
-1|soleil de juin
-1|seau en heure
-1|sans te brusler
+1|trois doitgs
+1|sestier
 1|sans lallumer il est en bonne chaleur Mays sil le brusle &amp; y mect
-1|roy
-1|repliee en canule
-1|quintaulx
-1|que
-1|quarts
-1|quarteron
-1|quarte partye
-1|quarte ou cinquiesme partye
-1|quarte
-1|quart plus pesant
-1|quart de
-1|puisse presque entrer
-1|proportion
+1|sans lallumer il est en bonne chaleur Mays sil le brusle &amp; y
+1|quart dheure
 1|presque moictie
-1|presque autant dun que daultre
-1|pousses en quarre
-1|pousses
+1|presque
 1|pour scavoir quand il sera en bonne
-1|poulse
-1|poulce
-1|pot
-1|poignees
+1|pour scavoir quand
+1|pots
 1|plusieurs foys chasque 
+1|plusieurs
+1|plume dholande
 1|plume de cigne
-1|pleine escuelle a oreille
-1|plats
-1|pinte
-1|pieds de
-1|pied de roy
+1|plume de
 1|petite joinctee
-1|pauses
-1|part
-1|paniers
-1|panier
+1|petite
+1|petit dos de costeau
+1|papier
 1|pan de montpellier
-1|pan de
-1|palle
-1|pailles
-1|ou 5 doigts
-1|on en tire le pain
-1|nuit
-1|nois
-1|montpellier
+1|noix
+1|noircist
+1|naturel
 1|moictie du jour
-1|mil
-1|meza onca
-1|mains
-1|longuement
+1|moictie du
+1|mect
 1|long comme la largeur de 4
-1|livre
-1|liards
+1|long comme la largeur de
 1|lespesseur dun
+1|lespesseur
 1|lespace dung Jour
+1|lespace dung
 1|le soir dans un
-1|le foeu il est trop chault
+1|le soir dans
+1|lb &amp; demye
 1|large de ii ou trois doitgs
-1|large
-1|la grosseur dune avelane avecq sa coquille
+1|large de ii ou
 1|la grosseur
-1|jusques a
-1|journee
+1|la
+1|jours et trois iours
 1|jour naturel
-1|joinctee
-1|iours
-1|iour
-1|huictiesme partye
+1|imprimes
+1|il sera en bonne
 1|huict en huict jours
-1|horologe de sable
-1|hault de trois doits
-1|grosseur dune noix
-1|grosseur dune noisette
-1|grosseur dune febve
-1|grosseur dun pois
-1|grosseur de deulx chastaignes
+1|huict en huict
+1|grosseur
 1|gros comme un curedent
+1|gros comme un
 1|gros comme ffisselle de moing …
-1|grains comme pois
-1|gouttes
+1|grain de
+1|goutte
+1|foys chasque 
+1|foys aultant
 1|fort comme de grands livres imprimes
-1|febve
-1|et trois nuicts
-1|espoisse dun verre poulce
+1|fort comme de grands livres
+1|floquets
 1|espesseurs de papier
-1|espesseur dune piece de quarante sols
+1|espesseurs
 1|espesseur dun papier
-1|espesseur dun costeau
-1|espesseur dun
-1|espesseur
 1|espace dun pater noster
-1|empan
-1|dune noix
-1|du dos de costeau
-1|douziesme partye
-1|dour
-1|double liard
+1|espace
+1|en bonne quantite
+1|dun que daultre &amp;
+1|dun pater noster
+1|dun
 1|dos dun costeau
-1|dos de cousteau
+1|dos dun
 1|dos de costeau
-1|doitgts
-1|doitgs
-1|doigt dans le gect
-1|deux foys aultant
-1|deux fois que la saulcice
+1|dos de
+1|dheure
 1|deux doits en deulx doigts
-1|deulx pointes de doigt
+1|deux doits en deulx
+1|deux
 1|deulx jours
 1|deulx foys aultant
-1|demye once
-1|demye
-1|demy once
-1|demy lb
-1|demy balle dharquebus
+1|despinette pour les petits ouvrages
 1|delie p comme grosse corde despinette pour les petits ouvrages
+1|delie p comme grosse corde
 1|degre de chaleur
-1|de telle capacite que le bout du petit doigt y
-1|de sel armoniac comme deulx noix
-1|cueillerees dargent
-1|crusols
-1|creusets
-1|coquille
-1|comme la chaleur du
-1|cinquiesme
+1|degre de
+1|de papier
+1|de
+1|daultre
+1|curedent
+1|comme ffisselle de moing
+1|cigne
 1|chaleur trempe dedans un petit papier retors Sil le noircist
-1|ce que tu puisses
-1|carats
-1|caques
-1|canes
-1|cane
-1|bras
-1|bonne heure
-1|bon foeu iusques au matin
-1|balles
+1|chaleur trempe dedans un petit papier retors Sil le
+1|chaleur
+1|bonnes heures
 1|autant dun que daultre 
-1|aussy gros quune febve
+1|autant dun que daultre
 1|aussy gros de cire quun grain de
-1|aussy gros
+1|aussy gros de cire quun
 1|aultant quune grosse noix
-1|aultant que tu vouldras faire longue une cartuche
+1|aultant quune grosse
 1|aultant que dun que daultre &amp;
+1|aultant que
 1|aultant en une prise comme il en peult tenir en une quarte 
-1|aultant dun que dautre
-1|aultant
-1|asses chault comme quand
-1|ans
-1|an
-1|a la langue
-1|Jour
-1|Carte
-1|Aultant quil pourroit tenir dans un œuf
-1|4 doigts et le poulse
-1|&amp; une nuict
-1|&amp; aussi gros quune febve de salpestre
+1|aultant en une prise comme il en peult tenir en une
+1|aultant dun que
+1|4

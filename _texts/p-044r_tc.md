@@ -19,7 +19,7 @@ environments: [villes ou sont les Maistres jures]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-044r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f93.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>044r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-044r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f93.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>044r</a> - - - - - </div>  
   
 
 ## Portee dharquebus
@@ -63,4 +63,5 @@ Pour lesprouver destrempe la & laplique sur du <span class="m">papier</span> & s
 
  
 Le <span class="pa">pavot rouge</span> qui croist par les <span class="pa">bleds</span> faict sur le <span class="m">cuir blanc</span><br/> un tresbeau colombin Le <span class="m">boufain</span> faict un fort beau bleu Une <span class="pa">herbe</span><br/> qui croist par les <span class="pa">hayes</span> qui ha la tige semblable au <span class="pa">lin</span> la foeuille<br/> longue & large comme menue <span class="pa">buglose</span> qui ha la fleur violette tirant<br/> au bleu & faicte co<span class="exp">mm</span>e la fleur du <span class="pa">lys</span> faict un tresbeau turquin<br/> surpassant lazur Une aultre fleur <span class="pa">colombine</span> de la forme &<br/> grandeur de la fleur de <span class="pa">buglose</span> qui ha la foeille retirant a celle<br/> de <span class="pa">pensee</span> faict aussy un tresbeau turquin elle croist dans les <span class="pa">bleds</span><br/> aulx terres legeres
+ 
  

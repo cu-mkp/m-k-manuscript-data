@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-162r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f329.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>162r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-162r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f329.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>162r</a> - - - - - </div>  
   
 
 ## Pour la boutique
@@ -70,4 +70,5 @@ Estant pulverise subtillem<span class="exp">ent</span> il moule tresnet & ha une
 
  
 <span class="m">Celuy qui est blanc leger comme une esponge estant brusle</span><br/> a foeu clos peult servir en <span class="tl">chassis</span> pour le <span class="m">plomb</span> et moule<br/> fort net Mays telles choses nendurent pas le foeu
+ 
  

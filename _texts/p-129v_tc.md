@@ -19,7 +19,7 @@ environments: [soleil de juin]
 animals: [serpents, oyseaulx, Yraigne, poisson, iraigne]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-129v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f264.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>129v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-129v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f264.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>129v</a> - - - - - </div>  
   
 
 ## Animaulx seiches au <span class="tl">four</span><br/> <span class="tmp">de longue duree</span>
@@ -73,4 +73,5 @@ Essaye <span class="del">d</span>les ayans jectes en <span class="m">cuivre</spa
 > 
 > 
 >   🜊 La <span class="m">cire</span> estant froide<br/> racle le superflu avecq<br/> la poincte dun<br/> <span class="tl">trancheplume</span> affin que<br/> le bout des pattes<br/> demeure net Apres<br/> pose le <span class="tl">cercle de <span class="m">terre</span></span><br/> aultour & gecte ton<br/> sable destrempe comme<br/> des aultres En ceste<br/> maniere il te fauldra<br/> brusler la foeille de<br/> <span class="pa">vigne</span> dans le <span class="tl">moule</span><br/> Aultrem<span class="exp">ent</span> non Et pour<br/> plus facillem<span class="exp">ent</span> gecter<br/> laisse bien mourir<br/> lanimal affin que<br/> se tourmentant il ne<br/> mesle ses pattes<br/> Ayant faict ton<br/> premier gect descouvre<br/> le revers de la foeille<br/> et fais le second gect
+ 
  

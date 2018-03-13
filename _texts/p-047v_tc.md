@@ -19,7 +19,7 @@ environments: [temps humide]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-047v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f100.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>047v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-047v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f100.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>047v</a> - - - - - </div>  
   
 
 ## Boisson <span class="sn">ayant goust de vin</span>
@@ -50,4 +50,5 @@ Ceulx qui se font <span class="tmp">en hyver</span> & <span class="env"><span cl
 
  
 La <span class="m">pierre ponce calcinee</span> subtillem<span class="exp">ent</span> gecte l<span class="m">or</span> de 22 <span class="ms">carats</span><br/> sans reparer Mays il fault quelle soict enflamme et rouge<br/> co<span class="exp">mm</span>e le <span class="m">metal</span> Et elle endure plusieurs gects
+ 
  

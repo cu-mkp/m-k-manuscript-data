@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-056r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f117.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>056r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-056r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f117.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>056r</a> - - - - - </div>  
   
 
 ## Trempe excellente pour corps de<br/> cuirasse
@@ -36,4 +36,5 @@ Apres prenes un grand chaulderon de ladicte <span class="m">eau de<br/> riviere<
 
  
 Tu peulx fayre du <span class="m">mabre</span> a <span class="m">destrempe</span> de <span class="m">laque</span> ou <span class="m">rose<br/> de <span class="pl">gand</span></span> & de <span class="m">croye</span> Estant sec glacer de <span class="m">laque</span> destrempee<br/> en <span class="m">vin</span> car la <span class="m">colle</span> la faict mourir & noircir Et tout se mo<span class="exp">n</span>strera apres<br/> rouge Mays le <span class="m">vernis</span> que tu y mettras qui penetrera fera<br/> monstres obscur & clair ce qui le debvra estre Le <span class="m">vernis</span><br/> se faict ainsy mesle avecq <span class="m">tourmentine claire de venise</span><br/> de l<span class="m">huile d<span class="pa">aspic</span></span> <span class="del">&</span> jusques a ce que le tout soit asses cler<br/> & liquide & il se faict sans feu Cestuy <span class="del">es</span> cy est pour<br/> les choses a <span class="m">destrempe</span> Et le <span class="m">vernis de tourmentine</span> que<br/> tu scais pour les tableaux Le <span class="m">vernis pur d<span class="pa">aspic</span></span> nest<br/> pas bon pour les tableaulx car l<span class="m">huile d<span class="pa">aspic</span></span> est trop<br/> penetrante & faict petiller les couleurs sil nest de long temps<br/> faict
+ 
  

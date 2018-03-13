@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-154r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f313.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>154r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-154r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f313.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>154r</a> - - - - - </div>  
   
 
 ## L<span class="m">or</span> nestre fixe
@@ -70,4 +70,5 @@ Estant bien pulverise & subtiliee sur le <span class="tl"><span class="m">mabre<
 
  
 Elle ne se font pas delle mesme si elle nest aydee de<br/> quelque portion de <span class="m">metal</span> semblable fondu pour<br/> lassembler & mectre en bain Car elle est plus tost<br/> bruslee que fondue La <span class="m">limaille destain et plomb</span><br/> se font avecq du <span class="m">suif</span> <span class="m">Celle dor</span> avecq du <span class="m">salpestre</span><br/> <span class="m">Celle dargent</span> avecq du <span class="m">suin de verre</span>
+ 
  

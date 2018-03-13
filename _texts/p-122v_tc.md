@@ -19,7 +19,7 @@ environments: []
 animals: [escrevisses]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-122v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f250.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>122v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-122v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f250.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>122v</a> - - - - - </div>  
   
 
 ## Nettoyer l<span class="tl">escuelle</span> et la <span class="tl">cueillere</span><br/> dequoy on destrempe le sable
@@ -53,4 +53,5 @@ Tu nes point astrainct de faire le gect a pattes ainsy<br/>
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5WFBpaEV5Ti1hRUU" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  quil enbrasse bien la medaille<br/> Car laultre fasson en patte ne se fait que pour<br/> sacommoder aulx ouvrages subtils Et laultre <span class="add">qui est large et uny</span> vient mieulx<br/> en medailles plattes Mays advise quil faut que tout<br/> gect soit fort delie vers la medaille & quasi pas si espes<br/> que la medaille si elle nest fort tanvre co<span class="exp">mm</span>e <span class="m">papier</span> Et puys<br/> de la medaille tirant au gect le conduire tousjours en<br/> sespessissant Car il vient mieulx ainsy Si le gect est espes<br/> a lentree de la medaille louvrage ne vient jamays bien Fais<br/> que <span class="del">desp</span> despuys la moictie du gect en haut il soict moyen<span class="exp">nement</span><br/> espes & despuys la mesme moictie en bas fort tanvre Noublie<br/> pas de faire des coches <span class="del">au hau</span> dans le hault du gect<br/> pour empescher que le <span class="m">metal</span> ne coure de furie
+ 
  

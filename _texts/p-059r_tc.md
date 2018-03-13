@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-059r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f123.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>059r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-059r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f123.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>059r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -52,4 +52,5 @@ L<span class="m">asur</span> est plus beau estant inbu sur le tableau <span clas
 L<span class="m">azur desmail</span> <span class="del">imbu a <span class="m">huile</span></span> destrempe a <span class="m">huile</span> la laisse & revient<br/> a son premier naturel si tu le trempes dans l<span class="m">eau</span>
  
 Les couleurs pour travailler en petit veulent estre fort broyees &<br/> en travailler avecq la poincte du <span class="tl">pinceau</span> si tu veulx que la besoigne soict<br/> bien adoulcie
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: [serpents]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-139v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f284.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>139v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-139v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f284.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>139v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -44,4 +44,5 @@ P<span class="exp">rens</span> <span class="m">cire blanche</span> qui est plus 
 >   @Pour fayre<br/> <span class="al">serpents</span> de <span class="m">cire</span><br/> ou aultre chose<br/> pour apliquer<br/> sur un <span class="tl">cierge</span> il<br/> les fault gecter de <span class="m">cire</span> a esbaucher de toutes couleurs
  
 *[continued]*
+ 
  

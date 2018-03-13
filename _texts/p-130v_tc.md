@@ -19,7 +19,7 @@ environments: []
 animals: [chancre, serpents, escrevisse, Cerf volant]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-130v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f266.item.r=.zoom" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>130v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-130v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f266.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>130v</a> - - - - - </div>  
   
 
 ## Mouler un <span class="al">chancre</span>
@@ -57,4 +57,5 @@ Il est aussy difficille a brusler comme le <span class="al">chancre</span> parta
 
  
 Apres que tu as moule en noyau l<span class="del">a</span>e premier<span class="del">e figure</span> <span class="tl">molle</span><br/> laisse le bien seicher plustost que retirer la figure de <span class="m">cire</span><br/> <span class="del">affin</span> affin que le <span class="tl">moule</span> ne se corrompe Apres fais une petite<br/> lasagne de <span class="m">paste</span> de telle espesseur que tu vouldras et ayant oingt<br/> de <span class="m">beurre</span> <span class="del">ton</span> le cave de ton premier <span class="tl">moule</span> cave adaptes y la <span class="m">paste</span><br/> Et puys fais dessus le second <span class="tl">moule</span> Si tu oignois d<span class="m">huile</span> il<br/> semboiroit & ne seroit pas si propre que le <span class="m">beurre</span>
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-016v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f38.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>016v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-016v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f38.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>016v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -64,4 +64,5 @@ Il les fault choisir bien entieres sans estre machees & les mectre<br/> & en emp
 
  
 Elles se gardent bien dans le <span class="m">son</span> qui les faict blanches & de<br/> bonne duree ce disent aulcuns Touteffois je croy que cest asses de<br/> les tenir en lieu frais & sec de telle sorte quelles ne soient point pressees<br/> Il est mieulx que parmy le lumignon il y aye un fil de <span class="m">chanvre</span> qui luy donne<br/> plus de clarte & faict tenir le lumignon plus droict Aultrem<span class="exp">ent</span> sil est tout de<br/> <span class="m">cotton</span> co<span class="exp">mme</span> font ceulx de <span class="pl">montauban</span> il le fault moucher souvent car apres quil<br/> ha un peu brusle <span class="del">il</span> le <span class="m">cotton</span> sabaisse & faict desgouter la chandelle
+ 
  

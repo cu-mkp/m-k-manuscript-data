@@ -19,7 +19,7 @@ environments: []
 animals: [chevaulx, cheval]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-018v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f42.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>018v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-018v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f42.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>018v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -37,4 +37,5 @@ animals: [chevaulx, cheval]
  Le faulconneau poise 4 <span class="ms">quintal</span>s ha de long x <span class="ms">pan</span>xs<br/> sa balle poise une lb & un quart sa charge est demy lb<br/> de <span class="m">pouldre</span> A la culasse trois balles au devant deulx pour<br/> le mener deux <span class="al">chevaulx</span> combien que telles pieces ne se meuvent<br/> gueres daultant que il ne servent que pour les maisons<br/> Celles qui se charrient ou pour batterie ou pour combat,<br/> assigie sont canons colevrines bastardes moyennes & pieces
  
 *[continued]*
+ 
  

@@ -19,7 +19,7 @@ environments: [cheminees des grandes cuisines]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-093v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f192.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>093v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-093v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f192.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>093v</a> - - - - - </div>  
   
 
 ## Visaige a <span class="m">destrempe</span>
@@ -42,4 +42,5 @@ L<span class="m">azur desmail</span> veult estre tousjours lave pourceque les<br
 
  
 Il se faict d<span class="m">azur</span> & de <span class="m">laque</span> laquelle sesprouve aussy<br/> sur la <span class="tl">pallete</span> avecq le blanc Celle est estimee belle qui sur<br/> un <span class="tl">costeau poly</span> ou sur un <span class="tl"><span class="m">verre</span></span> <span class="del">u</span><span class="add">d</span>onne une couleur claire<br/> de <span class="del">rouge</span> rose rouge tirant un peu sur le violet Celle qui est<br/> dun <span class="del">noi</span> rouge obscur nest pas si agreable
+ 
  

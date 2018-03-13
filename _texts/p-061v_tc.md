@@ -19,7 +19,7 @@ environments: []
 animals: [rat]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-061v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f128.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>061v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-061v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f128.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>061v</a> - - - - - </div>  
   
 
 ## <span class="m">Eau</span> pour donner jour au<br/> <span class="pro">painctre</span>
@@ -55,4 +55,5 @@ Il fault choisir le plus <span class="del">beau</span> deslie quil sera possible
 
  
 Une table de <span class="del"><span class="m">mabre</span> & p</span> <span class="m">verre</span> <span class="ms">espoisse dun <span class="del"><span class="m">verre</span></span> <span class="bp">poulce</span></span><br/> est plus propre pour broyer nettem<span class="exp">ent</span> les couleurs que chose qui<br/> soict mesmem<span class="exp">ent</span> pour la <span class="m">laque</span> & pour les blancs
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-092r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f189.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>092r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-092r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f189.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>092r</a> - - - - - </div>  
   
 
 ## <span class="del">Sable</span> Mixture aysee a fondre
@@ -56,4 +56,5 @@ Le <span class="m">potin</span> estant gecte chault court & coule co<span class=
 
  
 La <span class="ms">moictie</span> de <span class="m">terre bourre dont usent les <span class="pro">fondeurs</span></span> & <span class="ms">moictie</span><br/> <span class="m">terre ardille</span> <span class="del">g</span> rend fort net
+ 
  

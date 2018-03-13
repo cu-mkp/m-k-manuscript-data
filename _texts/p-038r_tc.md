@@ -8,18 +8,18 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Saphir, saphirs, pierreries, taffre, esmail azure fort cler, saphir, beril, vittres antiques, esmery, esmail dazur, argent, eaulx marines, verre blanc, verre, Ambre, ambre transparent, saul, bois dous, eau, tripoly de bretaigne, suye, fumee, fient, os, fumer, fumee du safre, manganese, drogues, urine, vinaigre distille, vapeur deau fort, cuivre, eau fort, sel armoniac, ambre, potee, jayet, sel appelle de langlois de armonic, sel mineral, pierre de mabre, lexive, eau corrosive, sapin, boix douls]
+materials: [Saphir, saphirs, pierreries, taffre, esmail azure fort cler, saphir, beril, Safran, foeilles de soucy, fil, vittres antiques, esmery, esmail dazur, argent, eaulx marines, verre blanc, verre, Ambre, ambre transparent, saul, bois dous, eau, tripoly de bretaigne, suye, fumee, fient, os, fumer, fumee du safre, manganese, drogues, urine, vinaigre distille, vapeur deau fort, cuivre, eau fort, sel armoniac, ambre, potee, jayet, sel appelle de langlois de armonic, sel mineral, pierre de mabre, lexive, eau corrosive, sapin, boix douls]
 tools: [lime, roue, baston de saul, roue de bois dous]
 measurements: []
 bodyparts: []
 places: [Saint denis, saul, bretaigne, langlois, cardonne, monserrat]
 plants: [Safran, soucy, sapin]
 professions: [roy, tailleurs de pierre]
-environments: [eglises, cheminee, lieu clos]
+environments: [au plus chault soleil, eglises, cheminee, lieu clos]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-038r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f81.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>038r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-038r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f81.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>038r</a> - - - - - </div>  
   
 
 ## <span class="m">Saphir</span>
@@ -30,10 +30,10 @@ Il se trouve des <span class="m">saphirs</span> quon appelle de treille pource q
  
   
 
-## <span class="pa">Safran</span>
+## <span class="m"><span class="pa">Safran</span></span>
 
  
-Il se contrefaict & saugmente avecq des foeilles de <span class="pa">soucy</span> a demy seiches<br/> & retorses co<span class="exp">mm</span>e un fil & mises a seicher au plus chault soleil & se mesle<br/> & ledict <span class="pa">soucy</span> donne mesme quelque taincture
+Il se contrefaict & saugmente avecq des <span class="m">foeilles de <span class="pa">soucy</span></span> a demy seiches<br/> & retorses co<span class="exp">mm</span>e un <span class="m">fil</span> & mises a seicher <span class="env">au plus chault soleil</span> & se mesle<br/> & ledict <span class="pa">soucy</span> donne mesme quelque taincture
 
  
   
@@ -55,4 +55,5 @@ La couleur orangee qui est a l<span class="m">ambre transparent</span> et a laul
 > 
 > 
 >   Jay experimente<br/> que le faisant<br/> bouillir en <span class="m">lexive</span><br/> ou <span class="m">eau corrosive</span><br/> il devient roux<br/> en la superficie<br/> Et sil est frotte<br/> contre du <span class="m"><span class="pa">sapin</span></span> &<br/> <span class="m">boix douls</span> plustost<br/> questre refroidi<br/> il se taille aysem<span class="exp">ent</span>
+ 
  

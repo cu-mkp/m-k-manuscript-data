@@ -19,7 +19,7 @@ environments: [cave, au serain, lieu humide, a lhumide, mine, ville]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-089v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f184.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>089v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-089v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f184.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>089v</a> - - - - - </div>  
   
 
 ## <span class="m">Sel armoniac</span> et <span class="m">albastre</span>
@@ -39,4 +39,5 @@ Le <span class="m">sel armoniac</span> bien pulverise <span class="del">mou</spa
 
  
 Il se trouve en <span class="pl">Cominge</span> pres de la <span class="env">ville</span> d<span class="pl">aurignac</span> un sable blanc<br/> <span class="del">mai</span> co<span class="exp">mm</span>e du <span class="m">sel</span> et maigre dont les <span class="pro">verriers</span> & <span class="pro">potiers</span> se servent<br/> qui se rend impalpable broye sur le <span class="tl"><span class="m">porphire</span></span> & est aise a broyer<br/> Et lestant il semble <span class="m">albastre calcine</span> Il moule tresnet Et<br/> nen ay point trouve qui moule plus delicat que cestuy la en bas<br/> relief Il est excellent a mouler en noyau sans chassis layant broye<br/> impalpable avecq de l<span class="m">eau gommee ou pure</span> sur le <span class="tl"><span class="m">porphire</span></span> puys le<br/> posant espes comme <span class="m">moustarde</span> ou un peu plus sur la medaille legerement<br/> oincte d<span class="m">huile ou d<span class="pa">olive</span> <span class="pa">noix</span> ou pour mieulx d<span class="pa">aspic</span></span> Mays pour<br/> mieulx faire <span class="del">mo</span> laisse seicher de soy mesme sans foeu un <span class="ms"><span class="tmp">jour</span></span> ou<br/> deulx Combien que si tu as haste tu le peulx bien chaufer & il ne<br/> se fendra point sil nest pose trop cler Il est vray questant ainsy<br/> surpris du chault a coup Il faict quelques trous & pustules<br/> Ce quil ne faict pas estant seiche a froit ou A layse plustost<br/> questre recuit Estant sec recuits le & il soubstiendra plusieurs<br/> gects
+ 
  

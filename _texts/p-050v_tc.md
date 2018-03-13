@@ -19,7 +19,7 @@ environments: []
 animals: [Oysillons, benarris, pincons, chardonnerets, passe solitaire, iraigne, calandre, oisillons, coquu, verdaule, linotte]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-050v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f106.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>050v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-050v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f106.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>050v</a> - - - - - </div>  
   
 
 ## <span class="al">Oysillons</span>
@@ -44,4 +44,5 @@ L<span class="m">acier</span> dont communem<span class="exp">ent</span> les <spa
 > 
 > 
 >   Les <span class="pl">levantins</span> raffinent<br/> no<span class="exp">st</span>re <span class="m">acier</span> car leur pays<br/> ne leur en porte point Et<br/> le font recuire dans un<br/> pot avecq du <span class="m">bitum</span> &
+ 
  

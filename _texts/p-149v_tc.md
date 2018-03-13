@@ -19,7 +19,7 @@ environments: []
 animals: [mousche, mouches, papillons, cygales, saulterelles, Chauve souris]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-149v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f304.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>149v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-149v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f304.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>149v</a> - - - - - </div>  
   
 
 ## Mouler vases de plusieurs pieces 
@@ -55,4 +55,5 @@ Les grosses <span class="al">mouches</span> se peuvent mouler & <span class="del
 
  
 Elles ont les aisles fort tanvres & si elles sont<br/> grandes & seiches et les aisles estendues il<br/> fauldroit un fort grand <span class="tl">moule</span> & ne seroit pas<br/> certain que le <span class="m">metal</span> courust tant Ainsy quand<br/> tu en vouldras mouler Choisis des mediocres<br/> & fais le plan <span class="del">qu</span> en sorte quelles ayent les aisles<br/> a demy repliees pourceque en ceste sorte elles<br/> viendront mieulx mays munis le bort des aisles<br/> de <span class="m">cire</span> co<span class="exp">mm</span>e tu scais pour bien abreuver le gect
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-016r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f37.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>016r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-016r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f37.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>016r</a> - - - - - </div>  
   
 
 ## Fonte de <span class="m">fer doux</span>
@@ -49,4 +49,5 @@ Il fault aussy que la tuelle entre jusques au milieu de la gueule du <span class
 >   Aulcuns font<br/> un moule du<br/> calibre de la<br/> piece & le trempent<br/> puys y frappent<br/> un loppin de <span class="m">fer<br/> doulx</span> couppe de<br/> mesure & comme<br/> ce loppin est bien<br/> rouge ilz le<br/> frappent dans le<br/> moule & larrondissent<br/> avecq une grosse<br/> <span class="tl">lime</span> Estimant<br/> ces balles estre<br/> plus fortes que<br/> les fondues qui<br/> estant <span class="m">aigre</span>s<br/> sont plus subgectes<br/> a rompre
  
 *[continued]*
+ 
  

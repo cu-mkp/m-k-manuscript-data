@@ -19,7 +19,7 @@ environments: []
 animals: [escrevisse, escrevisses, cerf volant, chancre, tortues]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-141r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>141r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-141r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>141r</a> - - - - - </div>  
   
 
 ## Mouler une <span class="al">escrevisse</span>
@@ -58,7 +58,7 @@ L<span class="al">escrevisse</span> est des plus fantasques a mouler Mays aussy<
 > 
 > 
 >   Quand tu ouvres<br/> ton <span class="tl">moule</span> tu<br/> trouveras l<span class="al">escrevisse</span><br/> en <span class="m">os</span> blanc mays<br/> non en pouldre<br/> Et sans louvrir<br/> le <span class="m">☿</span> ny feroit rien 
- 
+   
 > *at bottom margin*
 > 
 > 
@@ -70,4 +70,5 @@ L<span class="al">escrevisse</span> est des plus fantasques a mouler Mays aussy<
 >   Pour la paindre fais la bouillir avecq du <span class="m">vin</span> & un<br/> peu de <span class="m">sel</span> affin quelles viennent bien rouges & prens y patron<br/> pains le dos de <span class="m">vermeillon</span> mesle de <span class="m">laque</span> & les costes & dessoubs<br/> du ventre & des jambes avecq du <span class="m">vermiellon</span> & de l<span class="m">ocre jaulne</span><br/> et du blanc 
  
 *[continued]*
+ 
  

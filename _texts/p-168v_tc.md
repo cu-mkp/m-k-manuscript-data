@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-168v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f342.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>168v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-168v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f342.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>168v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -40,4 +40,5 @@ N sont grands taraires & virons de faiseur de roues<br/> pour couper doulcem<spa
 O potences de la haulteur dun homme quil fault porter<br/> pour mectre soubs une sarrasine incontinent que le mortier<br/> a donne & empescher que la sarrasine ne tombe
  
 P sont petites tenailles de fer pour mectre quelque mortier<br/> bas au droit du verroil ou vertuelle de la porte
+ 
  

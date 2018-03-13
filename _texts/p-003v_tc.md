@@ -19,10 +19,10 @@ environments: [au soleil]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-003v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f12.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>003v</a> - - - - - </div>  
- 
-*[continued]*
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-003v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f12.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>003v</a> - - - - - </div>  
   
+*[continued]*
+ 
 au lieu de <span class="m">tourmentine fine</span> Et tu pourras mectre sur<br/> deulx <span class="ms">lb</span> de <span class="m">tourmentine commune</span> une <span class="ms">lb</span> de <span class="del">tou</span> <span class="m">huile de<br/> tourmentine fine</span> & faire tout comme laultre Cestuy cy ne<br/> reviendra qua cinq ou six <span class="cn">sols</span> la <span class="ms">lb</span> & se vend 40 <span class="cn">s<span class="exp">ols</span></span> la <span class="ms">lb</span>
  
 > *Figure*
@@ -30,7 +30,7 @@ au lieu de <span class="m">tourmentine fine</span> Et tu pourras mectre sur<br/>
  
 Ce <span class="tl">vaisseau</span> est pour faire grande quantite d<span class="m">huile de<br/> tourmentine</span> scavoir un <span class="ms"><span class="ms">seau</span> <span class="tmp">en heure</span></span> Et nimporte quelle<br/> <span class="m">tourmentine ce soict ou fine ou grossiere</span> Il fault donner<br/> comme tu scais petit foeu au commencem<span class="exp">ent</span> Et tenir toujours<br/> l<span class="m">eau froide</span> au refreschissouer den hault La <span class="ms">lb</span> sen vent<br/> xii <span class="cn">s<span class="exp">ols</span></span> & au fonds du <span class="tl">vaisseau</span> demeure la <span class="m">colophoine</span> aultrem<span class="exp">ent</span><br/> <span class="m">pix græca</span> Dans ce <span class="tl">vaisseau</span> se fait bien aussi l<span class="m">eau<br/> de vye</span> et nest besoin de la repasser Il ne te fault poinct<br/> de <span class="tl">fourneau</span> pour ce <span class="tl">vaisseau de <span class="m">cuivre</span></span> Ains seulement du<br/> <span class="m">charbon</span> aultour sil a le cul plat Mays sil est rond tu le<br/> mectras sur un <span class="tl">trepier</span>
  
-> *at left top margin*
+> *at left middle margin*
 > 
 > 
 >   @ Il est mieulx de chaufer<br/> un peu le <span class="m">vernis</span><br/> que le coucher <span class="env">au<br/> soleil</span> pourceque<br/> cela faict enveler <br/> le tableau
@@ -48,4 +48,4 @@ Ce <span class="tl">vaisseau</span> est pour faire grande quantite d<span class=
  
 Le <span class="m">vernis de tourmentine</span> na que faire de <span class="m">cole</span> pourcequil<br/> est gras & visqueulx & ne semboit pas dans le <span class="m">bois</span> comme celuy<br/> d<span class="m">aspic</span> & de <span class="m">sandaraque</span> celuy aussy d<span class="m">aspic</span> ne veult poinct<br/> de <span class="m">cole</span> sur le <span class="m">fer</span> & semblables choses qui ne semboivent poinct<br/> mays sur le <span class="m">bois</span> & sur les couleurs qui <span class="del">ont</span> <span class="add">nont point</span> <span class="m">gomme</span> ou <span class="m">colle<br/> de destrempe</span> Il est besoing de donner une couche de ladicte <span class="m">colle<br/> de retailles</span> & laisser seicher & vernir
  
- ________________
+ 

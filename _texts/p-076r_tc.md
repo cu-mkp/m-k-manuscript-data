@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-076r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f157.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>076r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-076r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f157.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>076r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -64,4 +64,5 @@ sy nen trouves Et en couvrir dicell<span class="exp">e</span> pouldre led<span c
 
  
  Prenes <span class="m">hurinne</span> comme dessus Et <span class="m"><span class="pa">Guesdre</span></span> deux <span class="ms">onces</span> & une<br/> <span class="ms">once</span> de <span class="m"><span class="pa">fustict</span></span> Et deux <span class="del"><span class="ms">onces</span></span> <span class="ms">dragmes</span> de <span class="m">sel armoniac</span> & f<span class="exp">air</span>e<br/> comme dessus
+ 
  

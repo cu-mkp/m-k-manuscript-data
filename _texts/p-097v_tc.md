@@ -19,7 +19,7 @@ environments: []
 animals: [pulces]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-097v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f200.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>097v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-097v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f200.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>097v</a> - - - - - </div>  
   
 
 ## <span class="m">Vernis de mastic</span> sec en <span class="ms"><span class="tmp">demye<br/> heure</span></span>
@@ -64,4 +64,5 @@ Aulcuns prenent 2 <span class="ms">℥</span> de <span class="m">mastic</span> <
 
  
 Cest une chose estrange que les ouvriers de cest art ne<br/> peuvent bien travailler sils nont bonne halene Car sils lont<br/> mauvaise leur ouvrage se rompt au foeu en recuisant
+ 
  

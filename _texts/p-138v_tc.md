@@ -19,7 +19,7 @@ environments: []
 animals: [lesards]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-138v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f282.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>138v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-138v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f282.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>138v</a> - - - - - </div>  
   
 
 ## <span class="m">Talc</span> mesle aulx moules
@@ -48,4 +48,5 @@ Et aultres foeilles deliees mays que la branche ne soit<br/> pas grande et les f
 
  
 Donne une legere couche au dedans du chatton de <span class="m">cire noire</span><br/> pour esbaucher Puys oings ce dedans ainsy <span class="m">cire</span> d<span class="m">huile de<br/> froment</span> & puys pouldre cela de <span class="m">fumee de lampe</span> Car il ne<br/> fault pas que <span class="del">ceste</span> ce tainct aye lustre pour pierres faulces<br/> Cela faict poses y ta pierre <span class="del">& puys</span> avecq un bout de <span class="m">cire</span><br/> puys avecq une poincte d<span class="m">acier</span> & un martelet a tatiner joincts<br/> les bords du chatton a la pierre affin que le jour ny entre point<br/> Mays garde de frapper la pierre qui se romproit
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: [bœufs, porc espic, gris, rats, rats lirons, fouines, bellettes]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-058v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f122.item." target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>058v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-058v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f122.item." target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>058v</a> - - - - - </div>  
   
 
 ## Noirs
@@ -75,4 +75,5 @@ Quand la couleur sest seichee dedans & que tu les veulx<br/> nettoyer trempe les
 >   Pour travailler bien<br/> en petit ilz <span class="del">font</span>fault des<br/> <span class="tl">pinceaulx fort delies qui<br/> ayent la poincte ferme</span><br/> Et pource que le <span class="m">poil de<br/> queue de <span class="al">gris</span></span> est mollesin<br/> Les plus curieulx prenent<br/> les <span class="m">barbes des plus<br/> vieulx <span class="al">rats</span></span> mesmem<span class="exp">ent</span><br/> des <span class="al">rats lirons</span> Silz<br/> en peuvent trouver & en<br/> mectent deulx ou trois<br/> au milieu du <span class="tl">pinceau</span> ceulx la<br/> font le traict droict comme une<br/> <span class="tl"><span class="m">plume</span></span> & tous les aultres <span class="m">poils</span><br/> du <span class="tl">pinceau</span> se raportent a ceulx la<br/> co<span class="exp">mm</span>e a la poincte La <span class="m">barbe des <span class="al">fouines</span> & <span class="al">bellettes</span> & petits animaulx qui font le <span class="m">musc</span></span> sont encores meilleurs<br/> car un seul <span class="m">poil</span> dans un <span class="tl">pinceau</span> suffist
  
 *[continued]*
+ 
  

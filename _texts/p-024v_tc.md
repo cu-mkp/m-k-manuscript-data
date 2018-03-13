@@ -19,7 +19,7 @@ environments: [pays, villes fortes, biquoques]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-024v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f54.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>024v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-024v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f54.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>024v</a> - - - - - </div>  
   
 
 ## Pour mener le canon en <span class="env">pays</span>
@@ -60,3 +60,4 @@ Lumiere d<span class="m">acier</span> se pose en Ancrau dans<br/> les canons pou
 >    
 Lumiere a rasde<br/> la culasse est la meilleure<br/> pourcequen en ceste sorte<br/> le canon ne repousse gueres
 
+ 

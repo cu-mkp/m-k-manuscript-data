@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-058r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f121.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>058r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-058r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f121.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>058r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -32,4 +32,5 @@ Le <span class="m">cristallin</span> estant broye a <span class="m">eau</span> s
 L<span class="m">huile d<span class="pa">aspic</span></span> se mect communement avecq le <span class="m">blanc de plomb</span> <span class="del">d</span>non<br/> pas tout pur mays mesle avecq un peu daultre <span class="m">huile de <span class="pa">noix</span></span><br/> Ladicte <span class="m">huile d<span class="pa">aspic</span></span> ne seroit pas bonne avecq la <span class="m">laque</span> &<br/> couleurs qui nont point de corps <span class="add">car elle les feroit esclater</span> Mays avecq ceulx qui hont corps<br/> & sont aulcunem<span class="exp">ent</span> grasses elle est bien propre
  
 Le <span class="m">verd de gris</span> et l<span class="m">orpiment</span> se doibvent premierem<span class="exp">ent</span> broyer avecq <span class="m">urine</span><br/> plustost que les delayer a <span class="m">huile</span> Ainsy ilz sont beaulx & ne se meurent<br/> poinct
+ 
  

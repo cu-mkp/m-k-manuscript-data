@@ -19,7 +19,7 @@ environments: [boutique]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-056v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f118.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>056v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-056v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f118.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>056v</a> - - - - - </div>  
   
 
 ## Painctre
@@ -62,4 +62,5 @@ Pour <span class="tl">palettes</span> a paindre L<span class="m">yvoire</span> e
 >   A <span class="m">destrempe</span> ne<br/> mesle point tes<br/> couleurs diverses<br/> ensemble <span class="del">Mays</span><br/> car cela les faict<br/> mourir Mays<br/> employes les chascune<br/> a part Et affin<br/> quelles ne seichent<br/> & que tu ayes<br/> loisir dadoulcir<br/> mouille le revers<br/> de la <span class="m">toile</span>
  
 *[continued]*
+ 
  

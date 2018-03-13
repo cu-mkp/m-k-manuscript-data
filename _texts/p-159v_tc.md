@@ -19,7 +19,7 @@ environments: [en terre maigre & seche, fontaines, eau]
 animals: [escrevisses]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-159v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f324.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>159v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-159v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f324.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>159v</a> - - - - - </div>  
   
 
 ## Nettoyer <span class="m">limes</span>
@@ -69,4 +69,5 @@ Fais que des deulx endroicts ilz soient <span class="del">es</span> sil est poss
 > 
 > 
 >   L<span class="m">eau froide</span> faict<br/> retirer l<span class="m">huile</span> a la<br/> superficie du <span class="m">plastre</span><br/> qui lha succee & ainsy<br/> il se despouille
+ 
  

@@ -19,7 +19,7 @@ environments: [eglises]
 animals: [huitre, seiche]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-049r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f103.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>049r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-049r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f103.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>049r</a> - - - - - </div>  
   
 
 ## Gect de <span class="m">plomb</span>
@@ -59,4 +59,5 @@ Loppe de <span class="m">fer</span><br/> <span class="m">Coquille de <span class
 Ils mectent sur un <span class="ms">quintal</span> d<span class="m">estaim fin</span> une <span class="ms">lb</span> d<span class="m">estaim de glace</span> qui<br/> rend l<span class="m">estaim</span> plus espes Il y a de deulx sortes d<span class="m">estain</span> lun deulx<br/> presque co<span class="exp">mm</span>e <span class="m">plomb</span> qui coule mieulx Laultre Aigre qui se rend<br/> plus espes Ils gectent en <span class="tl">moules d<span class="m">estaim</span></span> massif & espes ou pour<br/> faire plus nect en <span class="tl">moules de <span class="m">cuivre</span> graves au <span class="tl">burin</span> ou en <span class="m">pierre</span> ou<br/> en <span class="m">terre</span></span> Les retailles de <span class="m">letton</span> meslees ne rendain l<span class="m">estain</span> que plus<br/> rompant & plus dur & difficille a travailler Ils gectent <span class="add">dans</span> leurs <span class="tl">moules</span><br/> fort chaults <span class="del">& co<span class="exp">mm</span>e roug</span> & l<span class="m">estain</span> fort chaulx Ils parfument<br/> leurs <span class="tl">moules d<span class="m">estain</span></span> de <span class="m">chandelle de rousine</span>
  
 L<span class="m">estain <span class="del">dou</span> aigre</span> se trouve mesle parmy les saulmons ayse<br/> a couper Mays difficille a mectre en œuvre & fonte sil nest mesle<br/> parmy laultre doulx Et sans cela il viendroit a deschet
+ 
  

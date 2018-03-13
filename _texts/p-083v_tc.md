@@ -19,7 +19,7 @@ environments: [en lieu humide, en lieu aire, vent]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-083v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f172.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>083v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-083v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f172.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>083v</a> - - - - - </div>  
   
 
 ## Forme de mouler excellente<br/> avecq <span class="m">eau</span>
@@ -55,4 +55,5 @@ Il en fault gecter deulx pieces de <span class="m">cuivre</span> <span class="m"
 
  
  Pour fondre a <span class="tl">souflets</span> &<br/> advancer ta fonte & gecter aussy plus chault<br/> <span class="del">po</span> ne pose pas tes<br/> <span class="tl">souflets</span> bas vers<br/> le pied du <span class="tl">fourneau</span><br/> de peur que quelque<br/> <span class="m">charbon</span> ny <span class="del">tu</span> entre<br/> Mets les presque<br/> dessoubs la <span class="tl">grille</span><br/> Il est bon que ton<br/> <span class="tl">four a vent</span> soit<br/> <span class="env">en lieu aire</span> affin<br/> que le <span class="env">vent</span> fasse<br/> mieulx chaufer<br/> & quil soict bien<br/> essuit & recuit<br/> Il fault bien<br/> boucher les portes<br/> du <span class="tl">four</span> & quil<br/> ny aye que lentree<br/> de la tuelle des<br/> <span class="tl">souflets</span> Et<br/> sur la fin il<br/> fault donner fort<br/> de chasse co<span class="exp">mm</span>e au<br/> commancem<span class="exp">ent</span> tu<br/> soufleras lentem<span class="exp">ent</span>
+ 
  

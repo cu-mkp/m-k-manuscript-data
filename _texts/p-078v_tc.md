@@ -19,7 +19,7 @@ environments: []
 animals: [loup, chien]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-078v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f162.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>078v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-078v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f162.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>078v</a> - - - - - </div>  
   
 
 ## Pour faire <span class="m">bronze</span> en<br/> couleur dassier
@@ -52,4 +52,5 @@ Prens <span class="m">verd de Gris</span> & le destrampe aveq <span class="m">fo
 Prens <span class="m">Limailhe despaingle</span> & au<span class="exp">ltr</span>e de <span class="m">leton</span> & le<br/> mectz ensemble & le broye sur ung <span class="tl"><span class="m">marbre</span></span> bien broyez<br/> aveq de l<span class="m">eau</span> peu a peu Jusques ace q<span class="exp">uil</span>z soient distilez<br/> puys les mectz dedans q<span class="exp">ue</span>lque <span class="tl">vaisseau</span> noeuf Et
  
 *[continued]*
+ 
  

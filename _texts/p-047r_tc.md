@@ -19,7 +19,7 @@ environments: []
 animals: [boeuf]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-047r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f99.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>047r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-047r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f99.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>047r</a> - - - - - </div>  
   
 
 ## Pour les dents
@@ -58,4 +58,5 @@ Ceulx de <span class="pl">bayonne</span> qui semblent estre de <span class="m">g
 
  
 Contre la diarrhœe il est tresbon duser de la conserve<br/> de <span class="m">symphitum</span> aultrem<span class="exp">ent</span> <span class="m">consolida maior</span> Et si cest contre<br/> la dissenterie tu peulx avecq cella frotter les temples le creulx<br/> des mains & la plante des pieds d<span class="m">huile de cire</span> & en prendre<br/> une goutte ou deulx avecq une cuelleree de <span class="m">bouillon</span> La racine<br/> de <span class="m">consolida maior</span> pilee & mise entre des <span class="del">pieces</span> coupeures en<br/> une piece de <span class="m"><span class="al">boeuf</span></span> puys bouillie les reunist a ce quon dict 
+ 
  

@@ -19,7 +19,7 @@ environments: [lieu sec, cave, mine de Thoulouse, au costau de puy david bien pr
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-084r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f173.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>084r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-084r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f173.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>084r</a> - - - - - </div>  
   
 
 ## Masque in promptu
@@ -57,4 +57,5 @@ Le <span class="m">sable de <span class="pl">th<span class="exp">ou</span>l<span
 > 
 > 
 >   Il le fault<br/> recuire plus<br/> tost que sen<br/> servir Il se<br/> rend meilleur<br/> au gect pour<br/> ce quil se<br/> recuist Mays<br/> quand il ha<br/> beaucoup servy<br/> il le fault<br/> rafreschir avecq<br/> du nouveau
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: [iraigne]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-134v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f274.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>134v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-134v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f274.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>134v</a> - - - - - </div>  
   
 
 ## Faire courre le <span class="m">☀</span>
@@ -62,4 +62,5 @@ animals: [iraigne]
 
  
  Si quelque bout de petite pate ne vient pas bien<br/> en <span class="m">or</span> ou <span class="m">argent</span> par faulte de navoir pas faict par<br/> dessoubs un gect de <span class="m">cire</span> Bas de l<span class="m">or</span> de <span class="m">souldure</span> fort<br/> tanvre puys couppe le en si menues paillettes que tu as besoing<br/> Prens de ceste <span class="m">pituite</span> ou <span class="m">salive espesse <span class="del">qui</span>et blanche<br/> qui se tient aulx <span class="bp">dents</span></span> & avec la poincte du <span class="tl">burin</span> aplique<br/> la au lieu que tu veulx <span class="m">soulder</span> & y pose une petite paillete d<span class="m">or</span><br/> & apres avecq un peu de <span class="m">terre grasse</span> destrempee avecq la<br/> <span class="m">salive</span> fais une petite couche a loposite pour mieulx tenir<br/> la <span class="m">souldure</span> Apres pulverise dessus un peu de <span class="m">borras</span> &<br/> mects au foeu L<span class="m">eau de graine de <span class="pa">coings</span> bouillie</span> & les<br/> aultres aussy
+ 
  

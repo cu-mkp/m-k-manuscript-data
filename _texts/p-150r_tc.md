@@ -19,7 +19,7 @@ environments: []
 animals: [tortues, lesards]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-150r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f305.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>150r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-150r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f305.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>150r</a> - - - - - </div>  
   
 
 ## <span class="m">Cire</span> fort dure
@@ -65,3 +65,4 @@ La <span class="m">brique</span> refroidist le <span class="m">metal</span> & si
 > 
 >   L<span class="m">escaille<br/> de fer</span> fort<br/> subtillem<span class="exp">ent</span><br/> broyee<br/> les rend<br/> bien fermes<br/> & forts
 
+ 

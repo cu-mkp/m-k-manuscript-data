@@ -19,7 +19,7 @@ environments: [mine]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-063r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f131.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>063r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-063r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f131.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>063r</a> - - - - - </div>  
   
 
 ## Couleur d<span class="pa">amaranthe</span>
@@ -71,4 +71,5 @@ Il ne semploye qua <span class="m">destrempe</span> & diceluy il se faict couleu
 
  
 Il ne le fault pas broyer avecq l<span class="m">eau</span> seule car cela le<br/> faict mourir Aulcuns pour le rendre beau a <span class="m">destrempe</span><br/> le broyent avecq du <span class="m">vinaigre</span> Mays cela le faict pallir<br/> & venir blanchastre Pour le rendre beau broyes le avecq<br/> <span class="m">urine</span> & laisses seicher Puys quand vous vouldres broyes<br/> le a <span class="m">huile</span> Et apres que vous laures recuilly avecq la <span class="tl">pallete</span><br/> Plustost quachever de nettoyer le <span class="tl"><span class="m">mabre</span></span> Broyes y du<br/> <span class="m">Scudegrun</span> Et vous aures un tresbeau vert
+ 
  

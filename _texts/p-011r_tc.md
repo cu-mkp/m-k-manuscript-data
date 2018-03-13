@@ -19,7 +19,7 @@ environments: [veines de la montaigne]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-011r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f27.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>011r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-011r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f27.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>011r</a> - - - - - </div>  
   
 
 ## Paindre a <span class="m">huile</span> d<span class="m">esmail dazur</span>
@@ -30,4 +30,5 @@ Cest un secret qui nest gueres cogneu des <span class="pro">communs painctres</s
 Pour faire les <span class="m">azurs</span> beaulx ilz les lavent ou destrempent<br/> avecq un <span class="tl"><span class="m">eau de roche</span></span> quilz appellent cest une <span class="m">eau</span> distillee<br/> des mines ou l<span class="m">azur</span> ou <span class="m">vert dazur</span> se trouve qui naturellem<span class="exp">ent</span><br/> distille par les <span class="env">veines de la montaigne</span> Ou qui est par<br/> <span class="tl">alambic</span> distillee <span class="del">par</span> des pierres mineralles d<span class="m">azur</span> ou<br/> <span class="m">cuivre</span>
  
 Les <span class="m">cendres <span class="add">dazur</span></span> ne sont bonnes que pour les paisages car elles<br/> se meurent a <span class="m">huile</span> Il ny a que l<span class="m">azur</span> vray qui tienne L<span class="m">azur desmail</span><br/> sil est trop gros ne se peut travailler Essaye le doncq sur l<span class="tl"><span class="bp">ongle</span></span><br/> ou sur la <span class="tl">pallette a <span class="m">huile</span></span> sil se <span class="del"><span class="ill"></span></span> trouve areneus Ne le broye pas<br/> sinon avecq le <span class="m">jaulne doeuf</span> Ou pour mieulx lave le en <span class="tl"><span class="m">eau<br/> claire</span></span> & avecq une <span class="tl">esponge</span> retire l<span class="tl"><span class="m">eau coloree</span></span> apres quil coma<span class="exp">n</span>ce<br/> daller a fonds Et en ceste sorte tu retireras la fleur fort deliee<br/> qui sera aysee a travailler
+ 
  

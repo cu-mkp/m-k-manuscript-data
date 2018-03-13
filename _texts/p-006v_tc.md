@@ -8,8 +8,8 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [canulles, esmail, fil darchal, fer, bois, charbon, cendre, cuivre, eau fort, estain, doulx, marbre, plomb, estaim, feultre]
-tools: [lime, lampe, fourneau, four de reverberation, pincettes, four, burin, ciseau, presse a rouleaux, marteau]
+materials: [canulles, esmail, fil darchal, fer, bois, charbon, cendre, cuivre, eau fort, estain doulx, marbre poly, plomb, estain, estaim, feultre, dore]
+tools: [lime, lampe, fourneau, four de reverberation, pincettes, four, burin, ciseau, marbre poly, planche de bois, table, presse a rouleaux, piece de feultre, marteau]
 measurements: []
 bodyparts: []
 places: []
@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-006v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f18.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>006v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-006v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f18.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>006v</a> - - - - - </div>  
   
 
 ## Pour <span class="del">ga cach</span> cages
@@ -30,7 +30,7 @@ Tu les peulx embellir avecq des <span class="m">canulles</span> d<span class="m"
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5eVFRYjVCTmczcmM" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
-> *at right middle margin*
+> *at right bottom margin*
 > 
 > 
 >   soubs la porte y a<br/> une grille qui soubstient<br/> le <span class="m">charbon</span> allume<br/> & la <span class="m">cendre</span> se vuies<br/> tournant du <span class="tl">four</span> ce<br/> dessus dessoubs
@@ -41,5 +41,6 @@ Tu les peulx embellir avecq des <span class="m">canulles</span> d<span class="m"
 ## Pour stampes a embellir et incruster<br/> ou revestir le bord des mirouers ou dessus<br/> de coffres ou frises des pantes de lict
 
  
-Grave sur <span class="m">fer</span> ou <span class="m">cuivre</span> avecq de l<span class="m">eau fort</span> ce que tu<br/> y auras ponce et desseigne apres nettye le avecq le <span class="tl">burin</span><br/> ou <span class="tl">ciseau</span> puys gecte de l<span class="m">estain</span> <span class="m">doulx</span> qui na poinct servi<br/> sur du <span class="m">marbre</span> poly & avecq une planche de <span class="m">bois</span> laplatis<br/> bien tanvre Ou bien gecte le en table comme le <span class="m">plomb</span> ou le<br/> passe par la <span class="tl">presse a rouleaux</span> Apres pose ta planche<br/> d<span class="m">estain</span> sur la chose gravee & sur la planche d<span class="m">estaim</span> pose<br/> une piece de <span class="m">feultre</span> & frappe avecq un <span class="tl">marteau</span> dessus puys<br/> le dore en ceste sorte
+Grave sur <span class="m">fer</span> ou <span class="m">cuivre</span> avecq de l<span class="m">eau fort</span> ce que tu<br/> y auras ponce et desseigne apres nettye le avecq le <span class="tl">burin</span><br/> ou <span class="tl">ciseau</span> puys gecte de l<span class="m">estain doulx</span> qui na poinct servi<br/> sur du <span class="tl"><span class="m">marbre poly</span></span> & avecq une <span class="tl">planche de <span class="m">bois</span></span> laplatis<br/> bien tanvre Ou bien gecte le en <span class="tl">table</span> comme le <span class="m">plomb</span> ou le<br/> passe par la <span class="tl">presse a rouleaux</span> Apres pose ta planche<br/> d<span class="m">estain</span> sur la chose gravee & sur la planche d<span class="m">estaim</span> pose<br/> une <span class="tl">piece de <span class="m">feultre</span></span> & frappe avecq un <span class="tl">marteau</span> dessus puys<br/> le <span class="m">dore</span> en ceste sorte
+ 
  

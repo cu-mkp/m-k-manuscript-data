@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-168r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f341.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>168r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-168r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f341.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>168r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -42,4 +42,5 @@ E <span class="del">Ce</span> <span class="tl">Fourchette</span> de <span class=
 F cest une aultre <span class="tl">fourchette</span> de <span class="m">fer</span> de mesme haulteur qui<br/> apuye la <span class="tl">fourchette</span> faicte en tenaille & soubstient aussi le<br/> <span class="tl">mortier</span> et avecq sa griffe basse empeche que la <span class="tl">tenaille</span><br/> ne recule
  
 *[continued]*
+ 
  

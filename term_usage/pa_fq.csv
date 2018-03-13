@@ -1,176 +1,190 @@
-35|aspic
-26|noix
-21|froment
-16|rose
-15|bled
-12|vigne
-10|saule
-9|orme
-9|olif
-8|lin
-7|figuier
-6|pensee
-6|pastel
-5|raisin
-5|abre
-4|sauge
-4|olive
-4|millet
-4|cotton
-4|abres
-3|safran
-3|roses
-3|asperge
-2|tim
-2|soulcy
-2|soucy
-2|sapin
-2|rosmarin
-2|rosier
-2|poix
-2|pois
-2|oignons
-2|noyer
-2|mil
-2|linge
-2|herable
-2|havets
-2|fromant
-2|fraisiers
-2|fleurs
-2|coings
-2|chastaignes
-2|buys
-2|buglose
-2|bruyeres
-2|bresil
-2|bleds
-2|aulx
-2|amendes
-2|amaranthe
-2|ail
-2|absinthe
-2|Roses
-1|zedoaire
-1|viole
-1|vini
-1|vinette
-1|vignes
-1|vesse
-1|terra merita
-1|soulci
-1|solcy
-1|seigle
-1|sauvignons
-1|saulge
-1|sarment
-1|rosiers
-1|ronce
-1|rheubarbe des moynes
-1|ranunculus
-1|raisins
-1|queues de pourrceaulx
+71|aspic
+56|noix
+42|froment
+32|rose
+30|bled
+24|vigne
+20|saule
+20|lin
+18|orme
+18|olif
+15|figuier
+12|pensee
+12|pastel
+10|raisin
+10|abres
+10|abre
+8|sauge
+8|olive
+8|millet
+8|cotton
+6|safran
+6|roses
+6|asperge
+5|soulcy
+5|coings
+5|aulx
+4|tim
+4|soucy
+4|sapin
+4|rosmarin
+4|rosier
+4|poix
+4|pois
+4|oignons
+4|noyer
+4|mil
+4|linge
+4|herable
+4|havets
+4|fromant
+4|fraisiers
+4|fleurs
+4|chastaignes
+4|buys
+4|buglose
+4|bruyeres
+4|bresil
+4|bleds
+4|amendes
+4|amaranthe
+4|ail
+4|absinthe
+4|Roses
+4|
+3|fleur de
+2|zedoaire
+2|viole
+2|vini
+2|vinette
+2|vignes
+2|vesse
+2|terra merita
+2|soulci
+2|solcy
+2|seigle
+2|sauvignons
+2|saulge
+2|sarment
+2|rosiers
+2|ronce
+2|rheubarbe des moynes
+2|ranunculus
+2|raisins
+2|queues de pourrceaulx
+2|pruneaux
+2|provenche
+2|prele
+2|poys
+2|pomole
+2|pommes
+2|poirier
+2|poires
+2|petit
+2|peschier
+2|pesches
+2|persicaire
+2|perces mericotons
+2|pensees
+2|peche
+2|pavot rouge
+2|papus
+2|palta lupina
+2|paille
+2|orties
+2|orenge
+2|oranges
+2|orangers
+2|orange
+2|oignon
+2|ognions
+2|noyau
+2|noisettes
+2|noisette
+2|nois
+2|navete
+2|musc
+2|mil jaulne
+2|mericotons
+2|melons
+2|mauves
+2|lys
+2|linges
+2|lapasses
+2|hiebles
+2|herbes potaigeres
+2|herbes bulbeuses
+2|herbes
+2|herbe
+2|hayes
+2|guindoles
+2|guimave
+2|grand passevelours
+2|genest
+2|fustict
+2|fraises
+2|foeuilles de
+2|foeilles de lierre
+2|fleur de genest
+2|figier
+2|festus
+2|febve
+2|fayan
+2|erable
+2|dent
+2|de Lyon
+2|cucurme
+2|coutoien
+2|cormier
+2|colombine
+2|choux
+2|chou navette
+2|chauches
+2|chaisne
+2|caprier
+2|canelle
+2|buy
+2|bruiere
+2|boufain
+2|bled orbere
+2|bled de froment
+2|avelane
+2|artichaulx
+2|armols
+2|arbres
+2|amendiers
+2|amande
+2|abricots
+2|abres de noyau
+2|Visme
+2|Segle
+2|Santonique
+2|Safran
+2|Rose
+2|Peschers
+2|Pastel
+2|Orangers
+2|Oliviers
+2|Oeillets
+2|Oeillet
+2|Marguerites
+2|Guesdre
+2|Eschervis
+2|Eleusines
+1|sumach
+1|salicor
 1|queue de cheval
-1|pruneaux
-1|provenche
-1|prele
-1|poys
-1|pomole
-1|pommes
-1|poirier
-1|poires
-1|petit
-1|peschier
-1|pesches
-1|persicaire
-1|perces mericotons
-1|pensees
-1|peche
-1|pavot rouge
-1|papus
-1|palta lupina
-1|paille
-1|orties
-1|orenge
-1|oranges
-1|orangers
-1|orange
-1|oignon
-1|ognions
-1|noyau
-1|noisettes
-1|noisette
-1|nois
-1|navete
-1|musc
-1|mil jaulne
-1|mericotons
-1|melons
-1|mauves
-1|lys
-1|linges
+1|queue
+1|prunelles
+1|potirons
+1|pescher
+1|olivier
+1|maius
 1|lapathium acutum maius
-1|lapasses
-1|hiebles
-1|herbes potaigeres
-1|herbes bulbeuses
-1|herbes
-1|herbe
-1|hayes
-1|guindoles
-1|guimave
-1|grand passevelours
-1|genest
-1|fustict
-1|fraises
-1|foeuilles de
-1|foeilles de lierre
+1|lapathium acutum
+1|funges
+1|forment
 1|fleur de soulcy
-1|fleur de genest
-1|fleur de
-1|figier
-1|festus
-1|febve
-1|fayan
-1|erable
-1|dent
-1|de Lyon
-1|cucurme
-1|coutoien
-1|cormier
-1|colombine
-1|choux
-1|chou navette
-1|chauches
-1|chaisne
-1|caprier
-1|canelle
-1|buy
-1|bruiere
-1|boufain
-1|bled orbere
-1|bled de froment
-1|avelane
-1|artichaulx
-1|armols
-1|arbres
-1|amendiers
-1|amande
-1|abricots
-1|abres de noyau
-1|Visme
-1|Segle
-1|Santonique
-1|Safran
-1|Rose
-1|Peschers
-1|Pastel
-1|Orangers
-1|Oliviers
-1|Oeillets
-1|Oeillet
-1|Marguerites
-1|Guesdre
-1|Eschervis
-1|Eleusines
-1|
+1|feugiere
+1|de cheval
+1|balaustes

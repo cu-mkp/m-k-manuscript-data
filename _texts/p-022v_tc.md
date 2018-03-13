@@ -19,7 +19,7 @@ environments: []
 animals: [chevaulx]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-022v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f52.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>022v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-022v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f50.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>022v</a> - - - - - </div>  
 > *Figure*
 > *at left top margin*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5NkNrYkVZTlVnbDQ" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
@@ -37,4 +37,5 @@ Puys on les affuste sur une table moyennem<span class="exp">ent</span> espesse<b
 Petite harquebus a croc poise 40 <span class="ms">lb</span> ha de long<br/> quattre <span class="ms">pans</span> se charge jusques a lescusson ha trois<br/> balles a la cullasse @ & deux devant
  
 Le double canon nest rien different du grand canon<br/> ordinayre sinon quil porte <span class="del"><span class="ill"></span></span> sa balle <span class="del"><span class="ill"></span></span><br/> qui ha une <span class="ms">ligne</span> despesseur ou de diametre dadva<span class="exp">n</span>tage<br/> La <span class="ms">ligne</span> est la <span class="ms">douziesme partye</span> de la balle du<br/> canon A la culasse il ha une <span class="ms">ligne</span> despesseur<br/> plus que le canon & demye au devant Sa charge est<br/> de six ou sept <span class="ms">lb</span> de <span class="m">pouldre</span> plus que le canon<br/> scavoir de deulx grands lanternes Sa balle poise<br/> 56 <span class="ms">lb</span> Il fault trente <span class="al">chevaulx</span> pour le conduire<br/> ll faict bien plus <span class="m">destonnem<span class="exp">ent</span></span> a la muraille que le<br/> canon Mays il est fort fascheux a conduire<br/> Cest pour ceste cause quauiourdhuy on nen use guere<br/> et est plus pour mener en quelque prochain lieu &<br/> battre de pres ou pour une entree @ que pour execution<br/> ordinaire On les aporte @ basilics qui sont pieces<br/> faictes a plaisir
+ 
  

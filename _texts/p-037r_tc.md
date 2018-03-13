@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-037r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f79.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>037r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-037r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f79.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>037r</a> - - - - - </div>  
   
 
 ## <span class="pro">Fondeur</span>
@@ -50,4 +50,5 @@ Estant faictes il ne les fault pas tenir dans aulcune <span class="tl">caisse de
 
  
 Les ayant faictes Mects dans le moule de l<span class="m">eau</span> fresche bien<br/> battue avecq du <span class="m">son</span> qui ne soict pas du tout repurge de la <span class="m">farine</span><br/> de sorte que l<span class="m">eau</span> soit blanche Et trempe tes chandelles la<br/> dedans puys les laisse seicher Et fais ainsy deulx ou trois<br/> fois
+ 
  

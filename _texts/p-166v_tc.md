@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [cire, bougie, rousine, or, caput mortuum, vinaigre, sel, ☉, sol, eau, vitriol]
+materials: [cire, bougie, rousine, or, caput mortuum, vinaigre, sel, ☉, sol, eau fort de vitriol, fumee espesse]
 tools: [tuile, bouteille]
 measurements: []
 bodyparts: []
@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-166v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f338.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>166v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-166v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f338.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>166v</a> - - - - - </div>  
   @
 Aulx exemplaires <span class="pl">grecs</span> il sadjouste un psalme de <span class="pn">david</span><br/> duquel <span class="pn">s<span class="exp">ainc</span>t Athanase</span> faict mention <span class="del">en</span> in Sinopsi il se comma<span class="exp">n</span>ce<br/> parvus eram & au second verset le prophete royal dict<br/> <span class="del">Manus meӕ</span> @Manus meӕ fecerunt organum et digiti<br/> mei aptarunt psalterium
   
@@ -53,5 +53,6 @@ Aulx exemplaires <span class="pl">grecs</span> il sadjouste un psalme de <span c
 ## Augmenter la couleur du <span class="m">sol</span>
 
  
- Mects sur les cendres chauldes <span class="m">eau</span> fort de <span class="m">vitriol</span><br/> couvre dun <span class="tl">tuile</span> la <span class="tl">bouteille</span> cest a dire la gueule puys<br/> destoupe & il sortira une fumee espesse sur laquelle<br/> mects l<span class="m">or</span> et il recepvra haulte taincture 
+ Mects sur les cendres chauldes <span class="m">eau fort de vitriol</span><br/> couvre dun <span class="tl">tuile</span> la <span class="tl">bouteille</span> cest a dire la gueule puys<br/> destoupe & il sortira une <span class="m">fumee espesse</span> sur laquelle<br/> mects l<span class="m">or</span> et il recepvra haulte taincture 
+ 
  

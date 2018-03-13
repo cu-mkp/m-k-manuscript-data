@@ -19,7 +19,7 @@ environments: []
 animals: [chats, rats, escrevisses, yraigne, iraigne, yraignes]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-130r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f265.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>130r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-130r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f265.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>130r</a> - - - - - </div>  
   
 
 ## Animaulx seches au four
@@ -63,4 +63,5 @@ Il la faut planter sur la <span class="tl">plaste d<span class="m">argille</span
 
  
 Plante la avec les <span class="tl">poinctes de <span class="m">fil de <span class="del">fer</span> letton</span></span> subtil &<br/> pose de biais sur la <span class="tl">plaste d<span class="m">ardille</span></span> puys gecte le premier<br/> moule Ayant faict prise descouvre le <span class="del">dos</span> revers & fais<br/> le second gect lequel estant prix tu peulx retirer la foeille<br/> Et ne te faudra recuire ton <span class="tl">moule</span> quune fois pource quil ny aura<br/> rien a brusler
+ 
  

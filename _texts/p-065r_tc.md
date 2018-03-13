@@ -19,7 +19,7 @@ environments: [lumiere du foeu]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-065r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f135.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>065r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-065r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f135.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>065r</a> - - - - - </div>  
   
 
 ## Umbres
@@ -76,4 +76,5 @@ Si apres que les couleurs couchees sont imbeues il reste quelque<br/> partye lui
 > 
 > 
 >   Toute couleur ou chose<br/> qui se rend espesse<br/> y mectant de l<span class="m">eau</span><br/> en broyant a<br/> corps Mays celles<br/> qui nen ont point<br/> co<span class="exp">mm</span>e le <span class="m">verre pile</span><br/> la <span class="m">laque</span> & se<br/> rendent claires
+ 
  

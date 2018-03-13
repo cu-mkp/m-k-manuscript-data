@@ -19,7 +19,7 @@ environments: []
 animals: [vache, cheval]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-063v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f132.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>063v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-063v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f132.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>063v</a> - - - - - </div>  
   
 
 ## <span class="m">Velours</span> @et noirs
@@ -74,4 +74,5 @@ Il ne sy employe que trois couleurs le blanc le noir<br/> & le <span class="m">b
 
  
 Si tu as travaille & faict ton assiete de quelque couleur desiccative<br/> co<span class="exp">mm</span>e le <span class="m">mine</span> & semblable acheve dadoulcir pendant que louvraige est<br/> frais Car si tu attendois au <span class="tmp">lendemain</span> il seroit sec & tu ne pourrois<br/> nettem<span class="exp">ent</span> achever
+ 
  

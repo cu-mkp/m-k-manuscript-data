@@ -19,7 +19,7 @@ environments: [au soleil]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-070v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f146.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>070v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-070v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f146.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>070v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -30,4 +30,5 @@ Aulcuns gectent en <span class="m">ceruse fort broyee</span> <span class="del">p
 Aultres pour gecter en <span class="m">plomb</span> des <span class="m">vieilles l<span class="exp">ett</span>res des<br/> <span class="pro">imprimeurs</span></span> ou de la <span class="m">composition dicelles</span>
  
 Aultres mectent parmy l<span class="m">estaing</span> ou <span class="m">plomb</span> une matiere<br/> d<span class="m">argent vif</span> arreste qui faict couler
+ 
  

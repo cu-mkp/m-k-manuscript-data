@@ -19,7 +19,7 @@ environments: []
 animals: [tortue]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-147r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f299.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>147r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-147r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f299.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>147r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -29,4 +29,5 @@ Advise bien de fayre un bort de <span class="m">cire fondue</span> avecq le <spa
 > 
 > 
 >  Pour eviter<br/> de rompre en<br/> despouillant<br/> advise de bien<br/> descouvrir<br/> iusques a ce<br/> qui peult tenir
+ 
  

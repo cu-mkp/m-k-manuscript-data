@@ -19,7 +19,7 @@ environments: []
 animals: [lezard]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-131v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f268.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>131v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-131v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f268.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>131v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -54,4 +54,5 @@ Si ton ouvraige gecte a soufle il se peult reparer<br/> avec de la <span class="
 >   Le <span class="m">plomb</span> veult<br/> estre non seulem<span class="exp">ent</span> rouge<br/> Mays bien vif &<br/> courant & liquide<br/> co<span class="exp">mm</span>e <span class="m">eau</span> qui est signe<br/> de sa parfaicte<br/> chaleur & le <span class="tl">moule</span><br/> <span class="del">ch</span><span class="del">f</span> tellem<span class="exp">ent</span> chault que<br/> tu puisses soufrir<br/> le <span class="bp">doigt</span> dedans<br/> Ne louvre pas quil<br/> ne soit refroidy<br/> Cest signe de bon gect<br/> tant pour luy que l<span class="m">or</span><br/> & <span class="m">argent</span> quand il sort par les souspirails
  
 *[continued]*
+ 
  

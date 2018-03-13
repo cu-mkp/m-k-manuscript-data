@@ -19,7 +19,7 @@ environments: [rivieres, eau]
 animals: [cheval]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-149r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f303.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>149r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-149r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f303.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>149r</a> - - - - - </div>  
   
 
 ## Ramollir le <span class="m">fer</span> @ et le rendre fort<br/> doux
@@ -50,4 +50,5 @@ Ils saydent fort des <span class="tl">moulins d<span class="env">eau</span></spa
 
  
 Si tu veulx mouler quelque medaille pour te servir de patron<br/> & pour ceste occasion la reparer iecte la la @ pluspart d<span class="m">estain</span><br/> & y mects abondamment de l<span class="m">estain de glace</span> pour lendurcir
+ 
  

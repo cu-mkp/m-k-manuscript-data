@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-020v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f46.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>020v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-020v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f46.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>020v</a> - - - - - </div>  
   
 
 ## Blanchir la <span class="bp">face</span>
@@ -66,4 +66,5 @@ Clocher de <span class="pl">rhodés</span> Eglise d<span class="pl">Alby</span> 
 
  
 <span class="tmp">Chasque matin</span> prens deulx ou trois <span class="m">oeufs</span> ponds dun ou<br/> deulx <span class="tmp">jour</span>s fais les chaufer <span class="del">jusques</span> & non cuire prens les<br/> moyeulx bien saulpouldres de <span class="m">sucre</span> Et apres bois un <span class="ms"><span class="bp">doigt</span></span><br/> de <span class="m">vin</span> Et oultre ce que cela est nourrissant il faict bon <span class="bp">ventre</span> 
+ 
  

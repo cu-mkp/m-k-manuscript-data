@@ -19,7 +19,7 @@ environments: [en la cave ou aultre lieu humide]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-076v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f158.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>076v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-076v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f158.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>076v</a> - - - - - </div>  
   
 
 ## Pour faire couleur dor fort belle<br/> & de peu de despance
@@ -50,4 +50,5 @@ Fault prandre de la <span class="m">Cire blanche</span> aveq de la <span class="
 
  
 Premierement Il fault laver ce q<span class="exp">ue</span> lon veuld dorer<br/> dedans <span class="m">lye de vin</span> Et puis de Rechief le laver avecq du <span class="m">vin<br/> blanc</span> Et prandre trois onces <span class="m">terra merita</span> & choppine de<br/> <span class="m">vin blanc</span> Et faire bouillir les matieres lespace de demye<br/> heure & poser vos couleurs sur v<span class="exp">ost</span>re <span class="m">fer</span> ou <span class="m">Estaing</span> ou au<span class="exp">ltr</span>e<br/> Et puys le laisses secher sur un <span class="m">pappier</span> & ne mectre<br/> poinct la main en vos matieres
+ 
  

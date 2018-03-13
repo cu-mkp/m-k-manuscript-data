@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-065v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f136.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>065v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-065v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f136.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>065v</a> - - - - - </div>  
   
 
 ## Couleurs mi vives
@@ -95,4 +95,5 @@ Il en fault estre<br/> bien curieulx & ne la<br/> faire pas co<span class="exp">
 > 
 > 
 >   avecq de la <span class="m">ceruse</span> de l<span class="m">ocre <span class="del">& un peu de</span> jaulne</span> & un peu<br/> de <span class="m">massicot</span> & ne la faire pas gueres espesse affin quelle<br/> ne sesclate point
+ 
  

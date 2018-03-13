@@ -19,7 +19,7 @@ environments: [au soleil]
 animals: [escrevisse]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-141v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f288.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>141v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-141v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f288.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>141v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -60,4 +60,5 @@ animals: [escrevisse]
 >   Advise bien <span class="del">d</span>en moulant de disposer tellement les jambes<br/> quelles ne passent point le ventre de l<span class="al">escrevisse</span> <span class="del">Aultr</span> et que<br/> les posant elles sassoyent bien sur le ventre Aultrement les<br/> <span class="ill"></span> remuroient.
  
 *[continued]*
+ 
  

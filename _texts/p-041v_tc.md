@@ -19,7 +19,7 @@ environments: []
 animals: [Brebis, brebis, moutons]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-041v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f88.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>041v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-041v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f88.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>041v</a> - - - - - </div>  
   
 
 ## <span class="m">Noir</span> des <span class="pro">vitriers</span>
@@ -47,4 +47,5 @@ Si le <span class="pro">tondeur</span> quelque foys les blesse il y mect <span c
 
  
 Il ne fault pas donner l<span class="m">eau gommee</span> si forte sur le<br/> <span class="m">verre</span> pour la couche de <span class="del">lor que de</span> l<span class="m">argent</span> que de l<span class="m">or</span> pourceq<span class="exp">ue</span><br/> une foeille d<span class="m">argent</span> est deulx foys plus forte quune foeille<br/> d<span class="m">or</span> L<span class="m">argent</span> aussy est plus dur Et par ainsy ne sesgratigne<br/> pas si aysem<span class="exp">ent</span> <span class="del">Q</span> Et si la <span class="m">gomme</span> nestoit pour l<span class="m">argent</span> un peu<br/> forte il ne se refendroit pas si nettem<span class="exp">ent</span> Quand tu travailles<br/> <span class="del">lhumid</span> lexalation de ton <span class="bp">halene</span> humecte la foeille couchee<br/> sur le <span class="m">verre</span> & par ainsy il sera bon en travaillant de<br/> le chaufer quelque foys Il te fault bien estre curieulx<br/> de nettoyer ce que tu veulx estre vuide & servir de champ<br/> painct de couleurs Car sil nestoit bien net de la graisse<br/> & viscosite de la <span class="m">gomme</span> <span class="del">les</span> & aultres choses les couleurs<br/> ni seroient pas si nettes Pour advancer besoignes tu<br/> peulx poncer Ou pour mieulx coucher de <span class="m">gomme</span> & de foeille<br/> sur un <span class="m">papier</span> couppe En ceste sorte il ne te fauldra<br/> que bien peu reparer Si tu y veulx faire couleur d<span class="m">or</span><br/> sans <span class="m">or</span> mesle du <span class="m"><span class="pa">safran</span></span> sec destrempe avecq un peu de<br/> <span class="m">massicot</span> 
+ 
  

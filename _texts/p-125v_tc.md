@@ -19,7 +19,7 @@ environments: []
 animals: [Viperes, serpens, vipere, serpent, aspic cornu, cochon, chien, serpents, tortues]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-125v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f256.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>125v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-125v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f256.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>125v</a> - - - - - </div>  
   
 
 ## <span class="al">Viperes</span> et <span class="al">serpens</span>
@@ -52,4 +52,5 @@ animals: [Viperes, serpens, vipere, serpent, aspic cornu, cochon, chien, serpent
 > 
 > 
 >   \+<br/> L<span class="m">albastre</span><br/> co<span class="exp">mmun</span>ement apelle qui<br/> touteffois est<br/> <span class="m">plastre</span> est bien<br/> dur mays il se<br/> retire fort Il est<br/> bien bon pour en<br/> fayre medaille<br/> Mays il veult<br/> estre fort subtillem<span class="exp">ent</span><br/> passe
+ 
  

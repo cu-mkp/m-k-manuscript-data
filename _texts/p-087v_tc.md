@@ -19,7 +19,7 @@ environments: [mine, bas en terre, en hault]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-087v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f180.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>087v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-087v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f180.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>087v</a> - - - - - </div>  
   
 
 ## Sable <span class="m">ardoise</span> et <span class="m">terre bruslee</span>
@@ -61,4 +61,5 @@ Pour bien mouler apres avoyr tes sables præpares<br/> moule en un <span class="
 > 
 > 
 >   Jen ay moule de<br/> <span class="m">plomb pur</span> gecte fort<br/> <span class="del">net</span> chault & en ay<br/> eu lexemple co<span class="exp">mm</span>e le<br/> principal tresnet<br/> mays le <span class="m">vinaigre</span><br/> ne luy donne gueres<br/> de liaison & ainsy<br/> il nha soubstenu<br/> quun gect
+ 
  

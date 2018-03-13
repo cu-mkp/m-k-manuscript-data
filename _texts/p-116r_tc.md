@@ -9,7 +9,7 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [eau de vye, cendre, charbons, briques, cire, plomb, huile dolif, huile, eau vye, huilee, eau, plastre, matton, alum, ardile, shuilent, or, argent, esmailler, souldes, lames dargent, esmail, esmaille, eau dfort]
-tools: [moule, moules, moules a noyau, moules a chassis, grille, molle, lames dargent]
+tools: [moule, moules, moules a noyau, moules a chassis, grille, molle]
 measurements: []
 bodyparts: []
 places: []
@@ -19,7 +19,7 @@ environments: []
 animals: [serpents]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-116r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f237.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>116r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-116r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f237.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>116r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -61,8 +61,9 @@ animals: [serpents]
  
   
 
-## Moyen <span class="del">desmouler</span> d<span class="m">esmailler</span> des foeilles<br/> d<span class="del">or</span>e <span class="pa">roses</span> d<span class="m">or</span> fort subtilles et aultres
+## Moyen <span class="del">desmouler</span> d<span class="m">esmailler</span> des foeilles<br/> d<span class="m"><span class="del">or</span></span>e <span class="pa">roses</span> d<span class="m">or</span> fort subtilles et aultres
 
  
- Apres que tu as gecte ou battu en <span class="m">or</span> les foeilles tanvres dune <span class="pa">rose</span><br/> ou aultres choses si tu les veulx <span class="m">esmailler</span> Il faut que tu <span class="m">souldes</span><br/> ou brases tes foeilles d<span class="m">or</span> subtilles sur des <span class="tl"><span class="m">lames dargent</span></span> qui l<span class="del">uy</span>eur<br/> donneront force pour soubstenir l<span class="m">esmail</span> Apres la chose estant <span class="m">esmaille</span><br/> mects louvraige dans l<span class="m">eau <span class="del">d</span>fort</span> qui mangera l<span class="m">argent</span> & laissera l<span class="m">or</span><br/> entier avecq son <span class="m">esmail</span> Il fault que l<span class="m">or</span> pour cecy soict este passe <span class="ill"></span> 
+ Apres que tu as gecte ou battu en <span class="m">or</span> les foeilles tanvres dune <span class="pa">rose</span><br/> ou aultres choses si tu les veulx <span class="m">esmailler</span> Il faut que tu <span class="m">souldes</span><br/> ou brases tes foeilles d<span class="m">or</span> subtilles sur des <span class="m">lames dargent</span> qui l<span class="del">uy</span>eur<br/> donneront force pour soubstenir l<span class="m">esmail</span> Apres la chose estant <span class="m">esmaille</span><br/> mects louvraige dans l<span class="m">eau <span class="del">d</span>fort</span> qui mangera l<span class="m">argent</span> & laissera l<span class="m">or</span><br/> entier avecq son <span class="m">esmail</span> Il fault que l<span class="m">or</span> pour cecy soict este passe <span class="ill"></span> 
+ 
  

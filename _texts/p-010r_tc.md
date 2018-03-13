@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-010r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f25.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>010r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-010r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f25.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>010r</a> - - - - - </div>  
   
 
 ## <span class="m">Jaspe contrefaict</span>
@@ -70,4 +70,5 @@ Les <span class="pro">painctres</span> la font belle faisant la premiere assiett
 
  
 Elle se faict fort subtille & sans estre subgecte a la <span class="m">rouille</span> & par sa pesanteur<br/> coulante prenante du <span class="m">plomb</span> i lb et le faire fondre et lescumer et<br/> purifier de sa crasse puys verse dedans quattre ℥ de <span class="m">sel commun</span><br/> pulverise subtilement et prends bien garde quil ny aye ni <span class="m">pierre</span><br/> ne <span class="m">terre</span> Et incontinent que tu lauras verse mesle tousjours<br/> tres bien avecq un fer jusques a ce que le <span class="m">plomb</span> et le <span class="m">sel</span> soict bien<br/> incorpore et leve le incontinent du feu tousjours meslant Et sil te<br/> semble trop grossier broye le sur le <span class="m"><span class="tl">mabre</span></span> et le passe par un <span class="tl">tamis</span> fin<br/> puys lave le tant de fois que l<span class="m">eau</span> <span class="del">sembl</span> soict claire jecta<span class="exp">n</span>t ceste petite<br/> pouldre qui nagera renovant ta<span class="exp">n</span>t de fois l<span class="m">eau</span> quelle demeure toute unie
+ 
  

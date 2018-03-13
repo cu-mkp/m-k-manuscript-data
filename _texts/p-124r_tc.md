@@ -19,7 +19,7 @@ environments: [aulx champs]
 animals: [papillons, iraignee, iraigne]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-124r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f253.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>124r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-124r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f253.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>124r</a> - - - - - </div>  
   
 
 ## Animaulx a poil et fleurs foibles<br/> et fort tanvres
@@ -50,4 +50,5 @@ Elle se deffaict dans l<span class="m">eau</span> & par ainsy ne se peult mouler
 
  
 Il y a une nature d<span class="m">or</span> quencores quil soict fin & sans alliage<br/> & passe par l<span class="m">eau fort</span> & l<span class="m">antimoyne</span> Est toutesfoys si aigre<br/> quil nendure presque pas le <span class="tl">marteau</span> Et la composition du<br/> <span class="m">verdet</span> cy dessus descripte pour fayre courre l<span class="m">or</span> le rend si doux<br/> co<span class="exp">mm</span>e <span class="m">plomb</span>
+ 
  

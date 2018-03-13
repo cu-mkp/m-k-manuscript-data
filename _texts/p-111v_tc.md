@@ -19,7 +19,7 @@ environments: []
 animals: [Chancre, escrevisse, Lesards, lesards, lesardes]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-111v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f228.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>111v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-111v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f228.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>111v</a> - - - - - </div>  
   
 
 ## <span class="m">Eeau de sel armoniac</span>
@@ -73,4 +73,5 @@ Tout estant recuit co<span class="exp">mm</span>e il est dit cy dessus Prens<br/
 > 
 > 
 >   Tu peulx bien<br/> quelques fois diminuer<br/> la quantite du <span class="m">plastre</span><br/> si tu ne le trouves asser<br/> fort pour resister au<br/> foeu & sil se fend<br/> <span class="del">&</span>Affin que la partie<br/> des <span class="m">tuiles pilees</span><br/> soubstienne avecq l<span class="m">alum<br/> de plume</span> que tu<br/> pourras augmenter<br/> aussy affin quil<br/> fasse meilleure<br/> liaison
+ 
  

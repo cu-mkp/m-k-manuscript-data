@@ -19,7 +19,7 @@ environments: [temps humide]
 animals: [daigneaulx, chevreaulx]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-057v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f120.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>057v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-057v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f120.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>057v</a> - - - - - </div>  
   
 
 ## <span class="pro">Gainier</span>
@@ -44,4 +44,5 @@ Les <span class="pl">flamens</span> nemploient poinct aultre blanc aux carna<spa
 L<span class="m">huille de <span class="pa">noix</span></span> de 4 ou 5 <span class="tmp">ans</span> qui est Cler est la meilheure couleur<br/> garde de poulsiere Celuy qui est recentem<span class="exp">ent</span> tire avecq la presse<br/> en forme d<span class="m">huille d<span class="pa">amendes</span></span> est blanc mesmem<span class="exp">ent</span> si la <span class="m">peau des <span class="pa">noix</span></span><br/> est tiree
  
 *[continued]*
+ 
  

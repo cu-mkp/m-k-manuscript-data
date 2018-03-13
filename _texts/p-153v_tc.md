@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-153v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f312.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>153v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-153v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f312.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>153v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -52,4 +52,5 @@ Apres quil ha faict prise il se doibt trouver<br/> doulx & ayse au couper & non 
 
  
 Quelque fois il y ha de l<span class="m">or</span> si sec qu<span class="del">il</span>e le <span class="m">ciment</span><br/> ne <span class="m">antymoine</span> ne le peuvent adoulcir Mays le seul<br/> <span class="m">verdet</span> le rend doulx
+ 
  

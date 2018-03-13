@@ -19,7 +19,7 @@ environments: []
 animals: [cheval]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-015r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f35.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>015r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-015r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f35.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>015r</a> - - - - - </div>  
   
 
 ## <span class="m">Drap damasse</span>
@@ -47,4 +47,5 @@ On gecte les chandeliers et petits ouvraiges en <span class="tl">chassis</span> 
 
  
 Il fault que le sable soict de chose fort seiche & aride & bien<br/> recuite au <span class="tl">chassis</span> car si elle estoit humide comme le <span class="m">sable des<br/> <span class="pro">fondeurs</span></span> l<span class="m">or</span> ou l<span class="m">argent</span> saulteroient & porteroient dommaige Il est<br/> besoing aussy que la <span class="m">terre</span> suppe le <span class="m">metal</span> Car l<span class="m">or</span> ou l<span class="m">argent</span> gecte<br/> <span class="del">est</span> se rend fort spongieulx cest pourquoy il le fault rebattre aultrement<br/> il est frangible co<span class="exp">mm</span>e on voict aulx manches de cuilleres
+ 
  

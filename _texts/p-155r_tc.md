@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-155r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f315.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>155r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-155r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f315.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>155r</a> - - - - - </div>  
   
 
 ## Mouler une <span class="pa">rose</span>
@@ -45,4 +45,5 @@ Pource que les branchetes <span class="add">du <span class="pa">rosier</span></s
 > 
 > 
 >  @Mouille la <span class="pa">rose</span> d<span class="m">eau de vye</span> plustost que la mectre dans<br/> le <span class="tl">cercle d<span class="m">ardille</span></span> Noublye pas <span class="m">d'huiler</span> le gect de <span class="m">cire</span><br/> Et quand tu auras gecte ton sable destrempe soufle fort<br/> iusques a ce quil commance a faire prise La <span class="pa">rose</span> est<br/> bien venue Mays pource que le sable se trouve mesle parmy les<br/> foeuilles fais long temps tremper ton ouvrage dans l<span class="m">eau</span> affin que<br/> le secouant dans l<span class="m">eau</span> la <span class="m">terre</span> sen aille
+ 
  

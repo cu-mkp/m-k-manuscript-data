@@ -19,7 +19,7 @@ environments: [a lair]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-170r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f345.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>170r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-170r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f345.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>170r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -83,4 +83,5 @@ Il les fault laisser froidir plustost que soufler dedans pour les<br/> nettoyer 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5S3FNaEt0QmN1alU" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
 & raporte & <span class="m">soulde</span> une queue de <span class="m">fil de letton</span> par <span class="m">souldure</span> Les grumeleures dune fleur cest peu<br/> de chose car cella se peult oster avecq le <span class="tl">chaple</span> mays que les foeuilles viennent bien puys la paincture<br/> couvre tout
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: [cheval]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-078r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f161.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>078r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-078r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f161.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>078r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -48,4 +48,5 @@ Prens du <span class="m">vermilhon</span> & le fais tremper aveq de l<span class
 
  
 Prenes du <span class="m">vinaigre bien fort</span> du <span class="m">sel</span> & de l<span class="m">eau de pluye</span><br/> et fault mectre le tout ensemble aveq du <span class="m">verd de Grys</span><br/> et le mectz dedans ung <span class="tl">vaisseau de <span class="m">terre</span></span> neuf aveq ton<br/> <span class="m">boys</span> & le mectz en du <span class="m">fian de <span class="al">cheval</span></span> bien chault lespace<br/> de huict ou neuf <span class="ms"><span class="tmp">Jours</span></span>
+ 
  

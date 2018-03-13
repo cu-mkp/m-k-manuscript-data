@@ -19,7 +19,7 @@ environments: [au vent]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-060v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f126.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>060v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-060v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f126.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>060v</a> - - - - - </div>  
   
 
 ## <span class="m">Vernis</span> sec en une <span class="ms"><span class="tmp">heure</span></span>
@@ -68,4 +68,5 @@ On donne une couche de <span class="m">bistre</span> puys une main de<br/> <span
 Ils font tous leurs ouvrages a <span class="m">huile</span> avecq la <span class="tl">poincte du<br/> pinceau</span> a <span class="del">f</span> la facon des bons <span class="pro">enlumineurs</span> et broyent leurs<br/> couleurs fort subtillement se gardent de la poulsiere et nettoyent<br/> souvent leur <span class="tl">pinceau</span> des bouts de <span class="m">poil</span> que quelque fois ilz<br/> laissent pource que cela demeurant sur louvrage <span class="del">il cela</span> il<br/> empescheroit de travailler nettement dequoy il sont fort curieux<br/> En ceste sorte leur labeur se monstre fort adoulcy Mesmem<span class="exp">ent</span><br/> en petit ouvrage en quoy il fault employer plus de diligence<br/> pource quil se voict de plus pres Ils achevent communem le front<br/> puys les yeulx apres le nes en fin la bouche et le reste<br/> Mays ilz ne font pas comme quelques uns qui <span class="del">fo</span> couchent<br/> deulx ou trois carnations differentes lune jaulnastre & lautre<br/> obscure pourceque les couleurs tousjours se meslent & en fin<br/> se meurent Seulement ilz <span class="del"><span class="ill"></span></span> font proprem leur impression
  
 *[continued]*
+ 
  

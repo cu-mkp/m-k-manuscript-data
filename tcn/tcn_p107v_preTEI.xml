@@ -5,6 +5,8 @@
 
 <div>
 
+<cont/>
+
 <id>p107v_1</id>
 
 <ab>Les <tl>moules</tl> ne servent qu'une foys pource qu'es choses<lb/>
@@ -22,8 +24,8 @@ pourroys <del>f</del> pas aysem<exp>ent</exp> despouiller<lb/>
 
 ton ouvrage sans danger de le gaster.</ab>
 
-<ab> Le bon <m>alum de plume</m> est blanc et a lustre comme de <m>soye
-<del>c</del><lb/>
+<ab> Le <m><df>bon alum de plume</df></m> est blanc et a lustre comme de
+<m>soye <del>c</del><lb/>
 
 blanche</m>. Il est en longues pieces comme le <ms><bp>doigt</bp></ms>
 &amp; fort frangible &amp;<lb/>
@@ -56,12 +58,10 @@ ceste<lb/>
 <m>tondure</m> &amp; <m>bourre</m> se brusle et l'<m>alum de plume</m>
 <del>ne</del> resiste au foeu.</ab>
 
-</div>
-
-<ab>Pour entourner les <tl>moules</tl>, quand tu <del>em</del> jectes
+<ab>Pour entourner les <tl>moules</tl> quand tu <del>em</del> jectes
 dessus les choses à<lb/>
 
-mouler ton sable liquide, <del>ton</del> fais un cercle &amp; entour de
+mouler ton sable liquide, fais <del>ton</del> un cercle &amp; entour de
 <m>terre grasse</m><lb/>
 
 fort battue.</ab>
@@ -78,7 +78,7 @@ aprime rectificatam, deinde pulvere composito aspergatur<lb/>
 
 sive illinatur (si pulvis in formam pultis redactus sit, ut<lb/>
 
-assolet.</la></ab>
+assolet<sup>)</sup>.</la></ab>
 
 <ab>Quand tu veulx mouler creux, il fault que le noyau soict<lb/>
 
@@ -159,4 +159,6 @@ de <m>brique</m> et est<lb/>
 rouget, il en est plus<lb/>
 
 ferme.</ab>
+
+</div>
 </root>

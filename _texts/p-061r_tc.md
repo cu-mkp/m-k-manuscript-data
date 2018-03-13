@@ -19,7 +19,7 @@ environments: [jour]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-061r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f127.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>061r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-061r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f127.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>061r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -67,4 +67,5 @@ Ton <span class="tl">pinceau</span> te le monstre faisant ombre qui doibt tousjo
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5a0g1a0hvTUdHRFE" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  Il fault que le<br/> tableau ne soict pas de front contre le <span class="env">jour</span> Mays<br/> a demy tourne contre iceluy Et sur tout <br/> cherche le jour doulx Car il faict lombre & ouvrage doulx co<span class="exp">mm</span>e le jour<br/> rude louvrage rude
+ 
  

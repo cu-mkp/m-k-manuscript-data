@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-145v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f296.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>145v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-145v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f296.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>145v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -62,3 +62,4 @@ Quand tu les moules<br/> si elles ne sont asses<br/> fortes pour se tenir<br/> d
 > 
 > 
 >  @ Gecte bien rouge ton <span class="m">estaim</span> dans<br/> le <span class="tl">moule</span> <span class="sn">tellem<span class="exp">ent</span> chault que tu y<br/> puisses tenir le <span class="tl"><span class="bp">doigt</span></span> sans læsion dans le pertuis</span>
+ 

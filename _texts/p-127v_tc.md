@@ -19,7 +19,7 @@ environments: [a lair]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-127v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f260.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>127v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-127v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f260.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>127v</a> - - - - - </div>  
   
 
 ## <span class="m">Terre des <span class="pro">fondeurs</span></span>
@@ -71,4 +71,5 @@ Allume les <span class="m">charbons</span> premierem<span class="exp">ent</span>
 > 
 > 
 >   Pour essayer si ta<br/> <span class="m">terre</span> est bonne plustost<br/> que la mectre sur tes<br/> <span class="tl">molles</span> <span class="m">Lutes</span> <span class="add">en</span> cet<br/> endroict de la <span class="del">fo</span> muraille<br/> de la <span class="tl">forge</span> qui est<br/> aultour de la <span class="tl">tuelle</span><br/> & canon du <span class="tl">souflet</span><br/> & allume le foeu & si elle soubstient sans se fendre<br/> elle sera bonne
+ 
  

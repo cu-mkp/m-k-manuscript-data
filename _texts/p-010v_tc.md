@@ -19,7 +19,7 @@ environments: []
 animals: [cheval]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-010v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f26.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>010v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-010v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f26.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>010v</a> - - - - - </div>  
   
 
 ## Pour paindre a <span class="m">huile</span> sur<br/> <span class="m">taffetas</span> <span class="add">sans que l<span class="m">huile</span> coure</span>
@@ -50,4 +50,5 @@ Frotte tes armes ou aultres pieces dorees de <span class="m">fiente<br/> de <spa
 
  
 Fais durcir des <span class="m">œufs partis les par moictie & oste le<br/> jaulne & entre les deulx moicties du blanc</span> mects un lopin<br/> de <span class="m">ceruse</span> & les lie avecq du <span class="tl">filet</span> puys fais bouillir da<span class="exp">n</span>s<br/> <span class="m">eau claire</span> & elle deviendra toute noire & ainsy la <span class="m">ceruse</span><br/> demeurra bien purifiee Aulcuns la font recuire au feu<br/> & devient fort blanche
+ 
  

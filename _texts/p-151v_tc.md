@@ -19,7 +19,7 @@ environments: []
 animals: [tortue, tortues, serpent, lesard, mouche]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-151v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f308.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>151v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-151v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f308.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>151v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -46,4 +46,5 @@ Il fault le faire entre deulx <span class="tl">lames de <span class="m">fer</spa
 > 
 > 
 >  Il nest pas<br/> pour en oindre<br/> les animaulx a<br/> poil car il est<br/> trop fort &<br/> roide Mays<br/> bien pour en<br/> donner un trait<br/> a un pied de petit<br/> animal co<span class="exp">mm</span>e <span class="al">mouche</span> & semblables Il est aussy excellent pour le taint des <span class="m">pierres<br/> blanches faulces</span><span class="ill"></span>
+ 
  

@@ -19,7 +19,7 @@ environments: [la premiere pluye]
 animals: [rat, menue gris, canard, corbeau]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-067r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f139.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>067r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-067r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f139.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>067r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -56,4 +56,5 @@ Plustost qui mectre le <span class="m">metal</span> il fault quil soit<br/> roug
 
  
 Les <span class="pl">allemands</span> font des boictes <span class="del">p</span> couvertes de <span class="m">papier</span> painct & le vernissent<br/> de <span class="m">glaire doeuf</span> meslee de <span class="m">gomme</span> & dun peu d<span class="m"><span class="m">huile</span> non d<span class="m"><span class="pa">aspic</span></span> mays<br/> dun aultre <span class="sn">odorant</span> qui semble <span class="m">huile d<span class="pa">olif</span></span></span> Tout ouvrage faict avecq<br/> <span class="m">glaire</span> soubstient l<span class="m">huile</span> Cest avecq cela que les <span class="pro">painctres</span> trompent les<br/> <span class="pro">pauvres paysans</span> paignant leurs bandes de <span class="m">taffetas</span> avecq ceste <span class="m">glaire</span><br/> pour avoyr plustost faict Mays <span class="env">la premiere pluye</span> emporte tout
+ 
  

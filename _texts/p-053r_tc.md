@@ -19,7 +19,7 @@ environments: []
 animals: [seiche, cheval, boeufs, mouton]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-053r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f111.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>053r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-053r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f111.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>053r</a> - - - - - </div>  
   
 
 ## Soulder un estoc
@@ -76,4 +76,5 @@ Le <span class="m">plomb</span> & <span class="m">estaim</span> vient bien en <s
 > 
 > 
 >   Note que tout <span class="m">metal aigre vient mieulx que le gras</span> Aussy<br/> le <span class="m">sable maigre le recoit mieulx & le suppe que le dense</span>
+ 
  

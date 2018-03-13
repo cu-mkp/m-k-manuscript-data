@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-057r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f119.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>057r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-057r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f119.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>057r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -36,4 +36,5 @@ animals: []
  Le <span class="m">vermillon</span> broye de soymesme est blaffart et palle Mays broye<br/> apres la <span class="m">laque</span> il est plus beau
  
  Pour desgraisser les <span class="tl"><span class="m">mabres</span></span> on y broye de la <span class="m">cendre commune</span><br/> laquelle est bonne apres pour faire la premiere impression<br/> dun tableau qui se præpare a <span class="m">huile</span> affin de boucher les fissures<br/> & rimes du <span class="m">boys</span> Elle ha plus de corps que la <span class="m">croye</span> & ha<br/> certaine <span class="del"><span class="m">croye</span></span> graisse On la mesle avecq ladicte <span class="m">croye</span> ou<br/> <span class="del">ra</span> avecq les couleurs ramassees du <span class="tl">vaisseau</span> ou lon nettoye les<br/> <span class="tl">pinceaulx</span> Elle est desiccative et espargne des couleurs <span class="del">Sur</span><br/> ceste premiere impression faicte sur le <span class="m">boys</span> on racle avecq<br/> un <span class="tl">costeau</span> pour lunir Apres on y faict une seconde impression<br/> de <span class="m">cerusse</span> ou <span class="add">meschantes</span> couleurs meslees En un tableau a <span class="m">huile</span> <span class="add">sur <span class="m">toile</span></span> on ne<br/> faict quune impression et la mesme <span class="m">cendre</span> y peult servir<br/> Apres aussy quon ha broye une couleur on y broye de la <span class="m">mie de<br/> gros pain</span> pour desgraisser le <span class="tl"><span class="m">mabre</span></span>
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: [porceau, animal]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-013r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f31.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>013r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-013r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f31.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>013r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -58,4 +58,5 @@ Les <span class="m">pierres</span> <span class="del">eai</span> gravees ne se po
 On faict de lestamine de <span class="m">soye</span> crue au telier pour fayre de fins &<br/> subtils <span class="tl">tamis</span> Et pour cet effect il ne fault pas choisir la <span class="m">soye</span> crue<br/> blanchie a la fumee du <span class="m">soufre</span> qui rend la <span class="m">soye</span> <span class="del">chas</span> chargee dune<br/> vapeur glua<span class="exp">n</span>te qui retiendroit la <span class="m">farine</span> & enfin empescheroit quelle ne<br/> 
  
 *[continued]*
+ 
  

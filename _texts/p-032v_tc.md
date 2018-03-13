@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-032v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f70.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>032v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-032v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f70.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>032v</a> - - - - - </div>  
   
 
 ## <span class="pro">Faiseur de natte</span>
@@ -33,7 +33,7 @@ Ils en font a <span class="pl">th<span class="exp">ou</span>l<span class="exp">o
 ## <span class="pro">Vitrier</span>
 
  
-Ils nont poinct linvention de faire un rouge parfaict en<br/> besoigne quil fault recuire Toutesfois essaye le <span class="m">rouge<br/> dallemaigne</span> qui est rouge descaille Ils font leur rouge<br/> commun avecq de la <span class="m">sanguine</span> <span class="m">estain de glace</span> <span class="m">rocaille</span> <span class="m">litharge</span><br/> & un peu d<span class="m">escaille de fer</span>. @ Ledict rouge se charge dun coste<br/> & daultre du <span class="m">verre</span> affin quil aye plus de couleur sil nestoit<br/> charge que dun coste il seroit trop orange pasle
+Ils nont poinct linvention de faire un rouge parfaict en<br/> besoigne quil fault recuire Toutesfois essaye le <span class="m">rouge<br/> d<span class="pl">allemaigne</span></span> qui est rouge descaille Ils font leur rouge<br/> commun avecq de la <span class="m">sanguine</span> <span class="m">estain de glace</span> <span class="m">rocaille</span> <span class="m">litharge</span><br/> & un peu d<span class="m">escaille de fer</span>. @ Ledict rouge se charge dun coste<br/> & daultre du <span class="m">verre</span> affin quil aye plus de couleur sil nestoit<br/> charge que dun coste il seroit trop orange pasle
  
  
   
@@ -47,4 +47,5 @@ Ils acheptent xx <span class="cn">lb</span> le <span class="ms">quintal</span> d
 > 
 > 
 >   # <span class="m">Or</span> <span class="m">argent</span> <span class="m">cuivre</span><br/> <span class="m">leton</span> <span class="m">fer</span>
+ 
  

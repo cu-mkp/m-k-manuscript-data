@@ -9,7 +9,7 @@ mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [eau, vin, cire, fil de fer, ardille, eau de vye, fer, terre, eau de sel armoniac, la commune, alum de plume]
-tools: [bouteille, moule, pinceau, queue de fer, pied de cire, bastons, quille de cire, filet, esguille]
+tools: [bouteille, moule, pinceau, queue de fer, pied de cire, bastons, quille de cire, fil et, esguille]
 measurements: [doigts]
 bodyparts: [doigts]
 places: []
@@ -19,7 +19,7 @@ environments: []
 animals: [serpens, serpents, serpent]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-117r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f239.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>117r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-117r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f239.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>117r</a> - - - - - </div>  
   
 
 ## Moyen de mouler les fleurs et herbes
@@ -30,7 +30,7 @@ Il les fault choisir en leur entiere verdure & vivacite & <span class="del">les 
 > *at left top margin*
 > 
 > 
->   Si les herbes sont si delicates<br/> quelles seslevent en hault<br/> quand on gecte le sable destrempe<br/> on les peult arrester & contenir aveclq du <span class="tl">filet</span> passe parmy le cercle du <span class="tl">moule</span> avecq une <span class="tl">esguille</span>
+>   Si les herbes sont si delicates<br/> quelles seslevent en hault<br/> quand on gecte le sable destrempe<br/> on les peult arrester & contenir aveclq du <span class="tl">fil et</span> passe parmy le cercle du <span class="tl">moule</span> avecq une <span class="tl">esguille</span>
  
 > *Figure*
 > *at left top margin*
@@ -48,4 +48,5 @@ Il les fault choisir en leur entiere verdure & vivacite & <span class="del">les 
 > *Figure*
 > *at left bottom margin*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5dVB5bzVUWWJuS0U" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+ 
  

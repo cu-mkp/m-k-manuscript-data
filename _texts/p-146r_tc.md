@@ -19,7 +19,7 @@ environments: [fontaine]
 animals: [porceau]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-146r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f297.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>146r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-146r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f297.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>146r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -45,3 +45,4 @@ affin quelle se mouille par tout sinon mouille la<br/> avecq un gros <span class
 > 
 > 
 > @ Advise de natacher<br/> pas trop la queue<br/> de la fleur au gect<br/> de <span class="m">cire</span> de peur de<br/> gaster quelque chose<br/> quand tu retireras<br/> le gect de <span class="m">cire</span><br/> Pour le retirer il<br/> le fault un peu<br/> deschausser tout<br/> aultour & puys le<br/> tirer avecq tes petits<br/> <span class="tl">molets</span> par la <span class="tl">queue<br/> de <span class="m">fer</span></span>
+ 

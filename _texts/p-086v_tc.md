@@ -19,7 +19,7 @@ environments: [hors du vent, mine]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-086v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f178.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>086v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-086v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f178.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>086v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -43,4 +43,5 @@ Quand tu moules fais certains traicts aultour de ton<br/> <span class="tl">moule
 Le <span class="m">potin de seringue</span> & aultres <span class="del">co</span> ouvrages court mieulx<br/> encores que le <span class="m">fin laitton</span> Mays je croy quil est mieulx <span class="ms">moictie</span><br/> <span class="m">cuivre</span> & <span class="ms">moictie</span> <span class="m">letton</span> qui ont servi & ont este en ouvrage fort<br/> tanvre co<span class="exp">mm</span>e de poelonne & semblables Jay veu bien venir ceste<br/> mixture de <span class="ms">moictie</span>
  
 *[continued]*
+ 
  

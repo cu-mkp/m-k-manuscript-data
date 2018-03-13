@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-021v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f48.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>021v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-021v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f48.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>021v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -41,4 +41,4 @@ Aulcuns disent quon doibt oster la balle si le canon est charge<br/> & donner fe
  
 Il ny ha rien qui fasse plus dexecution a la deffence<br/> dune bresche que les mortiers qui sont disposes aulx<br/> advenues des lassault ilz portent beaucoup de munition<br/> <span class="del">be</span> on les emplist de <span class="m">cloux</span> de charrette de gros dets<br/> d<span class="m">acier</span> bouts de <span class="m">chesne</span> & choses semblables Et quand<br/> on sent les ennemys pres on donne foeu a tous Les<br/> grenades aussy bien faictes et jectees a propos font<br/> grand domaige Et pour les empirer on mect du <span class="m">verre</span><br/> grossierem<span class="exp">ent</span> <span class="del">pillem<span class="exp">ent</span></span> pille ou dans les molles ou dans le<br/> crusol quand on les veult gecter cela empire les blesseures<br/> Il ne fault pas que les grenades soient si aigres Mays<br/> il est bon quelles soient un peu alliees de la matiere des<br/> pieces affin que tenant un peu coup plustost que se rompre<br/> elles ayent plus de violence
 
- ________________
+ 

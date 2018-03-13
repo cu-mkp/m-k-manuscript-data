@@ -19,7 +19,7 @@ environments: []
 animals: [chat]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-019v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f44.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>019v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-019v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f44.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>019v</a> - - - - - </div>  
   
 
 ##  Figures de mathematique sans<br/> <span class="tl">regle</span> et <span class="tl">compas</span>
@@ -54,4 +54,5 @@ animals: [chat]
 
  
  On les souloict donner avecq <span class="tl">manches</span> ou <span class="tl">poches de <span class="m">cuir</span></span> qui<br/> pour le mieulx <span class="del">est</span> doibt estre de <span class="m">peau de <span class="al">chat</span></span> qui est plus<br/> moufle que nulle aultre Et lors on commancoit a replier la<br/> <span class="tl">manche</span> par un bout & on continuoit de la replier & entortiller<br/> en soy mesme & en ceste sorte le clistere couloit doulcem<span class="exp">ent</span> Mays<br/> ceste facon est plus longue & moings commode que la <span class="tl">syringue</span><br/> qui despuys a este trouvee Avecq laquelle un homme seul donne<br/> aysem<span class="exp">ent</span> le clistere. Il est vray quelle faict tousjours du vent<br/> a la fin
+ 
  

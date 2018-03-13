@@ -19,7 +19,7 @@ environments: [vigne, vigne qui est bien haulte]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-087r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f179.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>087r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-087r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f179.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>087r</a> - - - - - </div>  
  
 *[continued]*
   
@@ -44,4 +44,5 @@ Pour gecter net leurs canons ilz meslent parmy<br/> leur <span class="m">terre</
 
  
 Le <span class="del">bo</span> communem<span class="exp">ent</span> bon est <span class="m">celuy qui se trouve en une <span class="env">vigne</span> de <span class="pl">puy<br/> david</span>></span> Mays celuy qui est le plus excellent est <span class="m">celuy du <span class="pl">touch</span> pres<br/> de <span class="pl">S<span class="exp">ainc</span>t Michel</span> & vers <span class="pl">blagnac</span> En une <span class="env">vigne qui est bien haulte</span></span><br/> Cestuy est plus delie & un peu plus gras que laultre & meilleur pour<br/> petits ouvrages Il ne veult pas estre trop recuit
+ 
  

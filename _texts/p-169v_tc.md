@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-169v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f344.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>169v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-169v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f344.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>169v</a> - - - - - </div>  
   
 
 ## Mouler fort tanvre<br/> co<span class="exp">mm</span>e font les <span class="pro">bimbalotiers</span>
@@ -55,4 +55,5 @@ Il te la fault premierem<span class="exp">ent</span> mouler avecq du <span class
 >  Comme tu as<br/> moule avecq <span class="m">plastre</span><br/> & <span class="m">cire</span> une<br/> moictie tu peulx<br/> mouler laultre<br/> de mesme 
  
 *[continued]*
+ 
  

@@ -19,7 +19,7 @@ environments: [riviere, rivieres deau doulce]
 animals: [telines, moules, coquilles]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-092v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f190.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>092v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-092v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f190.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>092v</a> - - - - - </div>  
   
 
 ## <span class="m">Sable des <span class="al">telines</span> et <span class="al">moules</span> de <span class="env">riviere</span></span>
@@ -46,4 +46,5 @@ Il se congelle aussy co<span class="exp">mm</span>e jay esprouve dans de l<span 
 
  
 <span class="m">Estaim fin</span> <span class="m">mercure congelle</span> a lodeur de l<span class="m">estaim</span> <span class="m">estaim de glace</span><br/> <span class="m">plomb fin</span> <span class="ms">aultant dun que daultre</span> faict une matiere fort<br/> promptem<span class="exp">ent</span> fondue Mays frangible & blanche Je pense quelle<br/> seroit bonne pour <span class="m">souldeure</span> Longue a se froidir
+ 
  

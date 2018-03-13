@@ -19,7 +19,7 @@ environments: []
 animals: [poisson]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-159r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f323.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>159r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-159r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f323.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>159r</a> - - - - - </div>  
   
 
 ## Portraicts de <span class="m">cire</span>
@@ -50,4 +50,5 @@ Bats la fort subtille & tanvre sur une <span class="tl">enclume</span> bien nett
 
  
 Ils se battent fort tanvre <span class="del">sans se</span> Et l<span class="m">estaim</span> ne saigrist &<br/> fend poinct si faict bien le <span class="m">plomb</span> <span class="del">Ma</span> encores quil soict plus gras<br/> Mays on le recuit soubs la <span class="m">cendre</span> chaulde Et les fault battre<br/> plusieurs foeuilles ensemble
+ 
  

@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-050r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f105.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>050r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-050r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f105.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>050r</a> - - - - - </div>  
   
 
 ## Garder fruict tout lan
@@ -39,4 +39,5 @@ Si promptement tu veulx mouler quelque chose de demy relief<br/> qui te vient en
 > 
 > 
 >  Le <span class="tl"><span class="m">carton</span></span> poly<br/> guere espes & un<br/> peu humecte est<br/> propre puys si tu<br/> veulx fortifie le<br/> de <span class="tl"><span class="m">papier colle</span></span><br/> par derriere
+ 
  

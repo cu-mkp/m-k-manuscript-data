@@ -19,7 +19,7 @@ environments: [mine]
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-085v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f176.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>085v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-085v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f176.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>085v</a> - - - - - </div>  
   
 
 ## <span class="pro">Fondeur</span>
@@ -68,4 +68,5 @@ Jay experimente le <span class="m">sable de <span class="pl">Th<span class="exp"
 >   Le <span class="m">sable de <span class="env">mine</span></span><br/> bien choisy & bien<br/> recuit est le plus<br/> excellent de tous sans<br/> chercher toutes aultres<br/> mixtions pourcequil<br/> recoit tout <span class="m">metal</span> Il<br/> ne veult pas estre<br/> employe chault pourceq<span class="exp">ue</span><br/> il soufle Le plus<br/> subtil pour grand<br/> ouvrage nest pas le<br/> meilleur pourcequil<br/> nha pas asses de corps<br/> pour soubstenir
  
 *[continued]*
+ 
  

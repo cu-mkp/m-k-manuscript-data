@@ -19,7 +19,7 @@ environments: [air, vent]
 animals: [porc]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-136v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f278.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>136v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-136v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f278.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>136v</a> - - - - - </div>  
   
 
 ##  Pour gecter en <span class="m">letton</span>
@@ -31,4 +31,5 @@ animals: [porc]
 > 
 > 
 >   Ce <span class="m">metal</span> est fort<br/> fantasque a gecter<br/> a cause des <span class="m">fumees<br/> de la calamine</span><br/> Et ne le fault<br/> pas laisser <span class="del">pass</span><br/> reposer tant soit<br/> peu hors du foeu<br/> co<span class="exp">mm</span>e aucuns font<br/> l<span class="m">argent</span> Car il est<br/> incontinent froit<br/> quand il sent l<span class="env">air</span><br/> et le <span class="env">vent</span> Il laisse<br/> tousjours quelque<br/> queue co<span class="exp">mm</span>e le <span class="m">verre</span><br/> quand tu le gectes<br/> Les <span class="pro">gecteurs</span> ne<br/> prenent pas co<span class="exp">mmun</span>em<span class="exp">ent</span><br/> de ce <span class="m">laicton</span> tant<br/> jaulne a cause de<br/> la <span class="m">calamine</span> passee<br/> par le foeu<br/> Mays en voula<span class="exp">n</span>t<br/> gecter le <span class="m">cuivre<br/> rouge</span> le jaulnissent<br/> ou avecq de la<br/> <span class="m">calamine</span> fresche<br/> ou avecq de la<br/> <span class="m">tuthie præparee</span><br/> Voulant gecter<br/> on le purifie bien<br/> des <span class="m">charbons</span><br/> avecq une <span class="tl">queue<br/> de <span class="m">cuivre</span> ou de<br/> <span class="m">fer</span></span> Et on le<br/> couvre dun <span class="tl"><span class="m">linge</span><br/> trempe dans de<br/> la <span class="m">graisse de<br/> <span class="al">porc</span></span> meslee de<br/> <span class="m">salpestre</span> ou <span class="m">sel armoniac</span></span><br/> pour le garder du <span class="env">vent</span> & de<br/> froidir
+ 
  

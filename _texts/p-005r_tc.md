@@ -19,10 +19,10 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-005r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f15.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>005r</a> - - - - - </div>  
- 
-*[continued]*
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-005r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f15.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>005r</a> - - - - - </div>  
   
+*[continued]*
+ 
 ou <span class="m"><span class="pa">linge</span></span> & le laisser ainsy xx4 <span class="ms"><span class="tmp">heures</span></span> & il sera grave<br/> Mays si tu voulois promptement graver vernisses tout v<span class="exp">ost</span>re<br/> besoigne & la faictes bouillir dans ladicte liqueur & elle<br/> gravera promptement
  
  
@@ -46,4 +46,5 @@ Enchasses en un dans du <span class="m">plastre</span> affin quil tienne ferme<b
 Le mirouer concave compose de la forme susdicte rend une<br/> infinite de gentilesses qui sembleroient magie Si quelquun<br/> se veult voir derriere il fault mectre le mirouer concave<br/> a terre sur son pied & quil soict en panchant Apres regarder<br/> dun pas Mays si tu regardes de pres il te represente a lendroit<br/> mays le visaige fort grand & le poil de la barbe gros comme
  
 *[continued]*
+ 
  

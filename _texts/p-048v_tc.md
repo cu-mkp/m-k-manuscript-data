@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-048v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f102.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>048v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-048v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f102.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>048v</a> - - - - - </div>  
   
 
 ## Extraction de regulus
@@ -41,4 +41,5 @@ Ilz sesgrissent estant souvent ou long temps remis a fondre<br/> et se spessisse
 > 
 > 
 >   Pour bien allier l<span class="m">estain</span> & le <span class="m">plomb</span> Il en fault fondre un tout seul<br/> Et puys y mesler laultre a petits lopins a chasque foys et le<br/> gecter souvent sur le <span class="tl"><span class="m">mabre</span></span> ou <span class="tl"><span class="m">quarreau</span></span> Et lors que tu le verras<br/> venir bien uny <span class="del">co<span class="exp">mm</span>e</span> & luisant co<span class="exp">mm</span>e sil estoit bruny il est bien Car<br/> quelque foys il vient tache pour trop de <span class="m">plomb</span> & quelque foys pour<br/> trop d<span class="m">estaim</span> Il y a de l<span class="m">estain</span> qui porte plus de <span class="m">plomb</span> lung que laultre<br/> L<span class="m">estaim commun</span> est celuy qui est mesle de <span class="m">plomb</span>
+ 
  

@@ -19,7 +19,7 @@ environments: [lieu mouille & humide]
 animals: [sernailles, grenoille, iraigne]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-135r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f275.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>135r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-135r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f275.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>135r</a> - - - - - </div>  
   
 
 ## Couleurs pour <span class="m">or</span> ou saulce 
@@ -68,4 +68,5 @@ animals: [sernailles, grenoille, iraigne]
 > 
 > 
 >   Tu peulx<br/> gecter sur<br/> la foeille<br/> une <span class="al">iraigne</span><br/> ou <span class="al">grenoille</span><br/> & ce quil te<br/> plaira
+ 
  

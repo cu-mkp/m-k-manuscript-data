@@ -19,7 +19,7 @@ environments: []
 animals: [cheval]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-072r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f149.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>072r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-072r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f149.item" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>072r</a> - - - - - </div>  
   
 
 ## L<span class="exp">ett</span>res d<span class="pro">imprimeur</span>
@@ -40,3 +40,4 @@ Il fault que le <span class="tl">chassis</span> soict bien uny & quil sadiouxte<
 > 
 >   On tient pour grand<br/> secret dy mectre de<br/> la <span class="m"><span class="pa">persicaire</span></span><br/> qui les rend doulx<br/> co<span class="exp">mm</span>e <span class="m">plomb</span>. Essaye<br/> den tirer le <span class="m">sel</span>
 
+ 

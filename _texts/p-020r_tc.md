@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-020r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f45.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>020r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-020r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f45.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>020r</a> - - - - - </div>  
   
 
 ## @Pour faire les <span class="m">millas</span>
@@ -41,4 +41,5 @@ animals: []
 > 
 > 
 >   Le <span class="m">verre de plat</span><br/> se vent a <span class="ms">paniers</span><br/> Le <span class="ms">panier</span> contient<br/> 24 <span class="ms">plats</span> qui se<br/> vendent communem<span class="exp">ent</span><br/> x ou douze <span class="cn">lb</span>
+ 
  

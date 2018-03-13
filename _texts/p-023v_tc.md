@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-023v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f52.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>023v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-023v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f52.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>023v</a> - - - - - </div>  
  
 *[continued]*
   
@@ -34,4 +34,5 @@ pouldre Estant pleine la saulssisse trempe la <span class="del">bien dans</span>
 Les <span class="m">mortiers</span> quon veult poser aulx portes ou grilles de<br/> <span class="m">fer</span> sont suffisants silz poisent 40 ou 50 <span class="ms">lb</span> Au reste<br/> quand a la charge balle & facon de proceder il fault faire<br/> tout co<span class="exp">mm</span>e il est desja dict cy devant de celuy de 3 <span class="ms">quintals</span><br/> Un homme le peult porter
  
 Il fault que la balle soict ronde dun coste & platte de<br/> laultre co<span class="exp">mm</span>e <span class="del">une demy balle</span> la <span class="ms">moictie</span> dune balle couppee<br/> Il fault aussy que la croix se tienne a la balle et quelle<br/> la balle se fondant si tu la fais de <span class="m">metal</span> senveloppe<br/> avecq le milieu de la croix
+ 
  

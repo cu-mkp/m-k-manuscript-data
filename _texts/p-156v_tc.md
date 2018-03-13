@@ -19,7 +19,7 @@ environments: [gardemangers]
 animals: [mousche, mouches, porceau, mouche, poisson]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-156v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f318.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>156v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-156v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f318.item.r=" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>156v</a> - - - - - </div>  
   
 
 ## Mouler une <span class="al">mousche</span>
@@ -56,4 +56,5 @@ Ie ne laissay pas beaucoup seicher l<span class="m">huile de <span class="pa">fr
 > 
 > 
 >   \+ Sil vient quelque<br/> default aulx aisles<br/> de ta <span class="al">mouche</span> bas de<br/> l<span class="m">estain</span> fort tanvre<br/> ou d<span class="del">&</span><span class="m"><span class="add">o</span>r</span> ou d<span class="m">argent</span><br/> si tu len as gectee<br/> & <span class="del">avecq</span> taille avecq<br/> des <span class="tl">ciseaulx</span> ce quil<br/> y fault raporter &<br/> apres aplique le avecq<br/> tes <span class="tl">pincettes</span> & le <span class="m">colle</span><br/> avecq <span class="m">colle de <span class="al">poisson</span></span><br/> acoustree co<span class="exp">mm</span>e cy dessoubs<br/> est mis Et plustost<br/> chaufe legerem<span class="exp">ent</span> ton<br/> ouvrage affin que sa<br/> froideur ne refuse<br/> point la <span class="m">colle</span> qui sera<br/> bien tost seche la<br/> chaufant de loing<br/> Apres couvre legerem<span class="x"><span class="exp">ent</span></span><br/> les ioinctures de la chose raportee avecq de la <span class="m">cire a esbaucher</span> qui est <span class="m">cire blanche</span> meslee<br/> de beaucoup de <span class="m">ceruse</span> ou <span class="m">blanc de plomb</span> la parfondant avecq une <span class="tl">poincte de <span class="m">fer</span></span> chaulde Tu couperas<br/> aussy de petits bouts de <span class="m">corde d<span class="mu">espinette</span></span> & les <span class="m">colleras</span> avecq ladicte <span class="m">colle</span> & estants secs Cest a scavoir<br/> les pieds repares de cela tu les engrossiras avecq de ceste mesme <span class="m">cire fondue</span> pour les rendre esgaulx
+ 
  

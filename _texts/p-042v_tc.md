@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-042v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f90.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>042v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-042v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f90.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>042v</a> - - - - - </div>  
   
 
 ## Poncis pour esgratigner sur le<br/> <span class="m">satin</span>
@@ -66,4 +66,5 @@ Suis les traicts avecq de la <span class="m">laque</span> broyee avecq<br/> <spa
 
  
 Donne deulx ou trois <span class="ms"><span class="bp">mains</span></span> de <span class="m">colle bien blanche</span> pour<br/> paindre Apres vernis de <span class="m">vernis de <span class="m">sandarache</span> <span class="m">huile<br/> d<span class="pa">aspic</span></span> et un peu de <span class="m">mastic</span></span> Et le mectre <span class="tmp">au soir</span> dedans<br/> un <span class="tl">vaisseau</span> tout ensemble bien pile sans foeu qui le<br/> feroit venir jaulne puys avecq un <span class="tl">pinceau</span> il est sec<br/> incontinent Coule l<span class="m">huile</span> qui aura pris la substa<span class="exp">n</span>ce
+ 
  

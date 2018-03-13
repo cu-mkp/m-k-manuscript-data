@@ -19,7 +19,7 @@ environments: []
 animals: [dragon]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-040v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>040v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-040v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>040v</a> - - - - - </div>  
   
 
 ## Croix des <span class="pro">commandeurs<br/> de <span class="pl">malte</span></span>
@@ -50,4 +50,5 @@ L<span class="m">estaim doibt estre pur</span> Car sil y a du <span class="m">pl
 
  
 Si ta cornue est bien <span class="m">lutee</span> il ne la fault poinct entourner<br/> de <span class="m">cendres</span> qui ne feroient quempescher de bien chasser les<br/> espricts Mays quand tu luy donneras sur la fin feu de<br/> chasse entourne la de <span class="m">charbons</span> qui plustost soient allumes ailleurs<br/> co<span class="x">mm</span>e doibvent estre ceulx du <span class="tl">fourneau</span> affin quilz ne petillent<br/> poinct & ne fassent poinct de fumee Mects lesdicts <span class="m">charbons</span><br/> allumes aultour le corps de la cornue & non pas pres du col<br/> qui na poinct besoing destre si vivement chaufe La grille<br/> haulte ou tu assois ta cornue est asses distante dun <span class="ms">dour</span> ou<br/> demy <span class="ms">pied</span> de la grille basse ou se mect le <span class="m">charbon</span> Car en ce<br/> faisant il ne sen gaste pas tant
+ 
  

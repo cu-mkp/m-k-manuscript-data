@@ -19,7 +19,7 @@ environments: []
 animals: []
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-009v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f24.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>009v</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-009v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f24.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>009v</a> - - - - - </div>  
   
 
 ## <span class="pro">Painctre</span>
@@ -54,4 +54,5 @@ Francois du Cros doibt du iisuperscript e de septembre 1581 / pour<br/> i Canne 
 >   Mudat au livre<br/> de raisons a r.<br/> 55 /
  
 Francois du Cros doibt du iisuperscript e de septembre 1581 / pour<br/> marchandise que luy mesmes a prise expeciffiée par le<br/> menu au livre de vantes n° 7 / a r. 55 / La somme de 8 livres / <br/> delaquelle led<span class="exp">ict</span> du Cros en a faict Cedulle le dict Jour a<br/> payer a la feste de la s<span class="exp">ainc</span>t andre prochainne parce dis —— 8 l.t r. 
+ 
  

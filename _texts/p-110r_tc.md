@@ -8,18 +8,18 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Rocher, grotte, marchasites, mines, mine, colle forte, terre]
+materials: [Rocher, marchasites blanches & jaulnes, mines, mine, roche, colle forte, terre]
 tools: [pied, costeau]
 measurements: [doitgts, heure]
 bodyparts: [pied, doitgts, main]
 places: []
 plants: []
 professions: []
-environments: [terre, dans la terre fresche & humide]
+environments: [grotte, terre, dans la terre fresche & humide]
 animals: [Serpens, serpens, crapault]
 ---
 
-<p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-110r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f225.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>110r</a> - - - - - </div>  
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-110r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f225.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>110r</a> - - - - - </div>  
   
 
 ## Mouler
@@ -30,10 +30,10 @@ Tu pourrois bien mouler sur la chose <span class="add">et animal</span> desja ge
  
   
 
-## <span class="m">Rocher</span> & <span class="m">grotte</span>
+## <span class="m">Rocher</span> & <span class="env">grotte</span>
 
  
-Il fault piler des <span class="m">marchasites</span> blanches & jaulnes & diverses<br/> sortes de <span class="m">mines</span> & puys les bien laver affin que la partye<br/> terrestre & pouldreuse se nettoye & quil ne demeure que le<br/> grain luisant de la <span class="m">mine</span> de laquelle tu saulpoudreras<br/> ta roche premierem<span class="exp">ent</span> couchee de <span class="m">colle forte</span> Si ta <span class="del">grasse</span><br/> <span class="m">grotte</span> nest<span class="del">r</span> point pour fontaine & pour toucher eau Et<br/> tu auras un bel ouvrage
+Il fault piler des <span class="m">marchasites blanches & jaulnes</span> & diverses<br/> sortes de <span class="m">mines</span> & puys les bien laver affin que la partye<br/> terrestre & pouldreuse se nettoye & quil ne demeure que le<br/> grain luisant de la <span class="m">mine</span> de laquelle tu saulpoudreras<br/> ta <span class="m">roche</span> premierem<span class="exp">ent</span> couchee de <span class="m">colle forte</span> Si ta <span class="del">grasse</span><br/> <span class="env">grotte</span> nest<span class="del">r</span> point pour fontaine & pour toucher eau Et<br/> tu auras un bel ouvrage
  
  
   
@@ -49,4 +49,5 @@ Quand ils se sentent pris ils ne mordent gueres & nont pas<br/> grand vertu de n
 >   Dans trois<br/> il est presque<br/> aultant<br/> maigre quil<br/> sera apres sil<br/> ne mange poinct<br/> Le mouler le<br/> plustost apres<br/> quil est pre<br/> est les meilleur<br/> deva<span class="exp">n</span>t quil<br/> samaigrisse<br/> Il ne le fault<br/> faire mourir<br/> quun quart<br/> d<span class="ms">heure</span> deva<span class="exp">n</span>t<br/> que tu veulx<br/> mouler
  
 *[continued]*
+ 
  
