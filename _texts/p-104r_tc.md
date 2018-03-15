@@ -8,14 +8,14 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [or, sel commun, eau fort, argent, fer, verdet, gros sel, sublime, massicot, huile de lin, sel armoniac, eau, Soufre, gravelle, sel, terra merita, soufre, Argenter, cuivre, letton, huile de noix, boutteure, Esmailler, cornaline, fleur de forment, vin blanc]
+materials: [or, sel commun, eau fort, argent, fer, verdet, gros sel, sublime, massicot, huile de lin, fer bien net & poly, eau, sel armoniac, Soufre, gravelle, sel, terra merita, soufre, Argenter, cuivre, letton, huile de noix, boutteure, Esmailler, cornaline, fleur de forment, vin blanc]
 tools: [matras]
-measurements: [aultant dun que daultre, tierce partie, heure]
+measurements: [liard, fois aultant, grains, aultant dun que daultre, tierce partie, heure]
 bodyparts: []
 places: []
-plants: [forment]
+plants: [lin, forment]
 professions: []
-environments: []
+environments: [au foeu, au soleil]
 animals: []
 ---
 
@@ -33,7 +33,7 @@ R<span class="exp">ecipe</span> mects du <span class="m">sel commun</span> dans 
 ## Pour graver sur <span class="m">fer</span>
 
  
-Une ℥ de <span class="m">verdet</span> ii ℥ de <span class="m">gros sel</span> et un peu de <span class="m">sublime</span><br/> Ou aultrement broye du <span class="m">massicot</span> avecq <span class="m">huile de lin</span> et<br/> <span class="del">u</span> en couvre <span class="del">ce</span> la lame ou <span class="m">fer</span> bien net & poly & laisse seicher<br/> au foeu ou au soleil Et tire dessus ce quil te plaira<br/> Puys pour le graver et faire leau prens pour un liard<br/> de <span class="m">verdet</span> & mects deulx fois aultant de <span class="m">gros sel</span> &environ<br/> quattre grains de <span class="m">sel armoniac</span> & six grains de <span class="m">sublime</span><br/> & fault que l<span class="m">eau</span> ne soict pas chaulde
+Une ℥ de <span class="m">verdet</span> ii ℥ de <span class="m">gros sel</span> et un peu de <span class="m">sublime</span><br/> Ou aultrement broye du <span class="m">massicot</span> avecq <span class="m">huile de <span class="pa">lin</span></span> et<br/> <span class="del">u</span> en couvre <span class="del">ce</span> la lame ou <span class="m">fer bien net & poly</span> & laisse seicher<br/> <span class="env">au foeu</span> ou <span class="env">au soleil</span> Et tire dessus ce quil te plaira<br/> Puys pour le graver & faire l<span class="m">eau</span> prens pour un <span class="ms"><span class="cn">liard</span></span><br/> de <span class="m">verdet</span> & mects deulx <span class="ms">fois aultant</span> de <span class="m">gros sel</span> &environ<br/> quattre <span class="ms">grains</span> de <span class="m">sel armoniac</span> & six <span class="ms">grains</span> de <span class="m">sublime</span><br/> & fault que l<span class="m">eau</span> ne soict pas chaulde
  
  
   

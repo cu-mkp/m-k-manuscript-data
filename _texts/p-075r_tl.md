@@ -8,9 +8,9 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [gum, red wax, vermillion, resins resin pitch, Bronze, copper, verdet, clear glue, wood, pin filings, marble, water, tin, looking-glass tin, quicksilver, quickaiantsilver, glue, clear water, aqua fortis, vinegar, verdigris, copperas, solle, Or moulu, fine gold, saltpetre, sal ammoniac]
-tools: [marble, pot, shell]
-measurements: [ounces]
+materials: [gum, red wax, vermillion, resins resin pitch, Bronze, copper, verdet, clear glue, wood, pin filings, marble, water, tin, looking-glass tin, quicksilver, quickaiantsilver, glue, clear water, aquafortis, vinegar, verdigris, copperas, solle, glass, Or moulu, fine gold, aqua fortis, saltpetre, sal ammoniac]
+tools: [marble, pot, glass vial, shell]
+measurements: [ounces, demi-setier, ounce]
 bodyparts: []
 places: []
 plants: []
@@ -46,10 +46,10 @@ animals: []
  
   
 
-## Making <span class="m">aqua fortis</span>
+## For making <span class="m">aquafortis</span>
 
  
- Take a demi—sestier of <span class="m">vinegar</span> with one ounce of <span class="m">verdigris</span>, one ounce of <span class="m">copperas</span> and one ounce of <span class="m">solle</span>, then pour all the ingredients into a glass vial.
+ Take a <span class="ms">demi—setier</span> of <span class="m">vinegar</span> with one <span class="ms">ounce</span> of <span class="m">verdigris</span>, & one <span class="ms">ounce</span> of <span class="m">copperas</span> & one <span class="ms">ounce</span> of <span class="m">solle</span>, then put them together in a <span class="tl"><span class="m">glass</span> vial</span>.
  
  
   

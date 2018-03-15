@@ -8,8 +8,8 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [iron, Copper, Lead, tin, lead, sublimate, cuttlefish bone, Paper, ashes, cotton, aqua fortis, sal ammoniac, aqua regia, gummed water, copper, white chalk, Burnt & calcined horse bones, marrow from the horns of oxen, sheep, spongy bone, bone, brittle metal comes out better than fat, lean sand, dense one]
-tools: [cuttlefish bone]
+materials: [Soldering, solder, iron strip, Copper, iron, Lead, tin, lead, sublimate, cuttlefish bone, Paper, ashes, cotton, aqua fortis, sal ammoniac, aqua regia, gummed water, copper, white chalk, Burnt & calcined horse bones, marrow from the horns of oxen, sheep, spongy bone, bone, brittle metal comes out better than fat, lean sand, dense one]
+tools: [vise, nut, bolt, hammer, cuttlefish bone]
 measurements: [half]
 bodyparts: []
 places: [Champaigne, Lyon]
@@ -22,10 +22,10 @@ animals: [cuttlefish, horse, oxen, sheep]
  <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-053r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f111.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>053r</a> - - - - - </div>  
   
 
-## Soldering a vise
+## <span class="m">Soldering</span> a <span class="tl">vise</span>
 
  
-It is good that the jaws of the vise should be high for use in making a long piece, and that they join well to clamp a thin object. In order to solder the nut, after you have made the bolt, you will make a long <span class="m">iron</span> strip of the right thickness to fit into the notch of the bolt when red hot, and you will bend it all around <span class="x">the bolt</span> by striking it with a hammer. Once it is well wrapped around, you will insert the bolt around which the nut is wrapped.
+It is good that the jaws of the <span class="tl">vise</span> should be high to make a long piece in it, and that the jaws join well to clamp a delicate object. To <span class="m">solder</span> the <span class="tl">nut</span>, after you have forged the <span class="tl">bolt</span>, you <span class="del">will make</span> will forge a long <span class="m">iron strip</span> <span class="del">quar</span> of such thickness that it can fit into the notch of the <span class="tl">bolt</span> when red hot, & you will bend it <span class="del">po</span> all around, striking it with a <span class="tl">hammer</span>. Once it is well <span class="del">jo</span> wrapped around, you will insert <span class="del">it</span> the <span class="tl">bolt</span> <span class="del">o</span> around which <span class="del">is</span> it is wrapped.
  
  
   

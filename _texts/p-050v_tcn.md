@@ -8,14 +8,14 @@ author:
 mode: tcn
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [graine de lettue, gluons, chenevi, mortier sec, chaulx, amendes, mie, pain, graine de chenevi, navette, Acier, acier, fer, fer fondu, eau, bitum]
-tools: []
-measurements: []
+materials: [graine de lettue, gluons, chenevi, mortier sec, chaulx, amendes, mie, pain, graine de chenevi, navette, Acier, acier, fer, fer fondu, barres de fer, fer commun, fer fort, acier purifié, eau, acier fin, le plus fin acier, fer fort doulx, bitum]
+tools: [limes, pot]
+measurements: [petites billes]
 bodyparts: []
 places: [Allemaigne, Biscaye, Foix, Allemans, levantins]
 plants: []
 professions: [mareschaulx, ouvriers de fer, ouvriers]
-environments: []
+environments: [forges de Foix, mine]
 animals: [Oysillons, benarris, pinçons, chardonnerets, passe solitaire, iraigne, calandre, coquu, verdaule, linotte]
 ---
 
@@ -30,19 +30,19 @@ Les <span class="al">benarris</span> chantent la nuict si on les laisse au serai
  
   
 
-## <span class="m">Acier</span> corroye et limes
+## <span class="m">Acier</span> corroyé et <span class="tl">limes</span>
 
  
-L'<span class="m">acier</span> dont communem<span class="exp">ent</span> les <span class="pro">mareschaulx</span> & <span class="pro">ouvriers de <span class="m">fer</span></span> se servent<br/> n'est pas affiné co<span class="exp">mm</span>e celuy d'<span class="pl">Allemaigne</span> ne celuy de <span class="pl">Biscaye</span>, qui est reduict en<br/> durté <span class="del">p</span> dans le bain d'un <span class="m">fer fondu</span>, mays <span class="del">seulem<span class="exp">ent</span></span> aulx barres de <span class="m">fer</span><br/> qui se portent en platte des forges de <span class="pl">Foix</span> & ailleurs il y en ha de<br/> plus dur & plus blanc & plus fin que l'aultre, venant ainsy de la<br/> mine. Et les <span class="pro">ouvriers</span> le choisissent & l'apliquent co<span class="exp">mm</span>e l'aultre <span class="m">acier</span>. Et<br/> pource qu'il procede du <span class="m">fer</span> commun, ilz l'appellent <span class="m">fer</span>. Mays il<br/> n'est point si excellent que l'<span class="m">acier</span> purifié co<span class="exp">mm</span>e celuy d'<span class="pl">Allemaigne</span> & <span class="pl">Biscaye</span><br/> qui se vend en petites billes. Aulcuns corroyent l'<span class="m">acier</span>, luy donnant<br/> une chaulde, puys le trempent <span class="del">& <span class="ill"></span></span> en grande quantité d'<span class="m">eau</span>, puys le<br/> forgent; & l'<span class="m">acier</span> fin qui est brusc se rompt et esmie, & le <span class="m">fer</span> se laisse<br/> estendre. Ainsy ilz separent le plus fin <span class="m">acier</span> <span class="del">&</span> lequel avecq une<br/> aultre chaulde ilz reduisent en masse. Les <span class="pl">Allemans</span> font leur limes<br/> de <span class="m">fer</span> fort.
+L'<span class="m">acier</span>, dont communem<span class="exp">ent</span> les <span class="pro">mareschaulx</span> & <span class="pro">ouvriers de <span class="m">fer</span></span> se servent,<br/> n'est pas affiné co<span class="exp">mm</span>e celuy d'<span class="pl">Allemaigne</span> ne celuy de <span class="pl">Biscaye</span>, qui est reduict en<br/> durté <span class="del">p</span> dans le bain d'un <span class="m">fer fondu</span>, mays <span class="del">seulem<span class="exp">ent</span></span> aulx <span class="m">barres de fer</span><br/> qui se portent en platte des <span class="env">forges de <span class="pl">Foix</span></span> & ailleurs il y en ha de<br/> plus dur & plus blanc & plus fin que l'aultre, venant ainsy de la<br/> <span class="env">mine</span>. Et les <span class="pro">ouvriers</span> le choisissent & l'apliquent co<span class="exp">mm</span>e l'aultre <span class="m">acier</span>. Et<br/> pource qu'il procede du <span class="m">fer commun</span>, ilz l'appellent <span class="m">fer fort</span>. Mays il<br/> n'est point si excellent que l'<span class="m">acier purifié</span> co<span class="exp">mm</span>e celuy d'<span class="pl">Allemaigne</span> & <span class="pl">Biscaye</span><br/> qui se vend en <span class="ms">petites billes</span>. Aulcuns corroyent l'<span class="m">acier</span>, luy donnant<br/> une chaulde, puys le trempent <span class="del">& <span class="m">eau</span></span> en grande quantité d'<span class="m">eau</span>, puys le<br/> forgent. & l'<span class="m">acier fin</span> qui est brusc se rompt et esmie, & le <span class="m">fer</span> se laisse<br/> estendre. Ainsy ilz separent <span class="m">le plus fin acier</span> <span class="del">&</span> lequel avecq une<br/> aultre chaulde ilz reduisent en masse. Les <span class="pl">Allemans</span> font leur <span class="tl">limes</span><br/> de <span class="m">fer fort</span>.
  
 > *at left bottom margin*
 > 
 > 
-> On aplique l'<span class="m">acier</span><br/> aulx houtils <span class="del">dest</span> non<br/> pas des deulx costés<br/> mays dessoubs l'endroit<br/> ou l'on les affuste &<br/> aiguise, & de ceste part<br/> ilz doibvent estre de <span class="m">fer</span><br/> fort doulx.
+> On aplique l'<span class="m">acier</span><br/> aulx houtils <span class="del">dess</span> non<br/> pas des deulx costés<br/> mays dessoubs l'endroit<br/> où l'on les affuste &<br/> aiguise. & de ceste part,<br/> ilz doibvent estre de <span class="m">fer<br/> fort doulx</span>.
  
 > *at left bottom margin*
 > 
 > 
-> Les <span class="pl">levantins</span> raffinent<br/> no<span class="exp">str</span>e <span class="m">acier</span>, car leur pays<br/> ne leur en porte point. Et<br/> le font recuire dans un<br/> pot avecq du <span class="m">bitum</span> &.
+> Les <span class="pl">levantins</span> raffinent<br/> n<span class="exp">ost</span>re <span class="m">acier</span>, car leur pays<br/> ne leur en porte point. Et<br/> le font recuire dans un<br/> <span class="tl">pot</span> avecq du <span class="m">bitum</span> &<span class="sup">c</span>.
 
  

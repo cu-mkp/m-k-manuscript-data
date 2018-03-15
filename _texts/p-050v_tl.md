@@ -8,14 +8,14 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [lettuce seeds, lime-twigs, hemp-seed, dry mortar, lime, almonds, breadcrumbs, hemp seeds, rapeseed, steel, iron, molten iron, common iron, water, Steel, bitumen]
-tools: []
-measurements: []
+materials: [lettuce seeds, lime-twigs, hemp-seed, dry mortar, lime, almonds, breadcrumbs, hemp seeds, rapeseed, steel, iron, molten iron, iron bars, common iron, strong iron, purified steel, water, fine steel, the finest steel, very doulx iron, bitumen]
+tools: [files, pot]
+measurements: [small beads]
 bodyparts: []
 places: [Germany, Biscay, Foix, Biscaye, Germans, Levantines]
 plants: []
 professions: [blacksmiths, iron workers, workers]
-environments: []
+environments: [forges of Foix, mine]
 animals: [Little Birds, Buntings, Chaffinches, Goldfinches, owsell, spider, lark, cuckoo, bunting, verdaule, goldfinches, linnets]
 ---
 
@@ -30,19 +30,19 @@ animals: [Little Birds, Buntings, Chaffinches, Goldfinches, owsell, spider, lark
  
   
 
-## Hot—worked <span class="m">steel</span> and files
+## Curried <span class="m">steel</span> and <span class="tl">files</span>
 
  
-The <span class="m">steel</span> that <span class="pro">blacksmiths</span> and other <span class="pro"><span class="m">iron</span> workers</span> commonly use is not refined like that from <span class="pl">Germany</span> or <span class="pl">Biscay</span>, which is hardened in a <span class="m">molten iron</span> bath, but among the <span class="m">iron</span> in bars which is transported by flatboat from the forges of <span class="pl">Foix</span> and elsewhere, some is harder, whiter and more refined than the rest, as it comes from the mine. And the <span class="pro">workers</span> choose it and use it like the other <span class="m">steel</span>. And because it consists of <span class="m">common iron</span>, they call it strong <span class="m">iron</span>. But it is not of such good quality as purified <span class="m">steel</span> like that from <span class="pl">Germany</span> and <span class="pl">Biscaye</span>, which is sold in small beads. Some hot—work their <span class="m">steel</span>, giving it a heating and then dipping it into a large quantity of <span class="m">water</span>, then forging it. And fine <span class="m">steel</span>, which is brittle, does break and crumble, whereas <span class="m">iron</span> can be pulled out. Thus they separate the finest <span class="m">steel</span>, which with another heating they make into a mass. The <span class="pl">Germans</span> make their files from strong <span class="m">iron</span>.
+The <span class="m">steel</span> that <span class="pro">blacksmiths</span> & <span class="pro"><span class="m">iron</span> workers</span> commonly use is not refined like that from <span class="pl">Germany</span> or <span class="pl">Biscay</span>, which is reduced in hardness <span class="del">p</span> in a bath of a <span class="m">molten iron</span>, but <span class="del">only</span> among the <span class="m">iron bars</span> which are transported in flat ingots from the <span class="env">forges of <span class="pl">Foix</span></span> & elsewhere, there is a harder & whiter & finer kind than the other, as it comes from the <span class="env">mine</span>. And the <span class="pro">workers</span> choose it & use it like the other <span class="m">steel</span>. And because it comes from <span class="m">common iron</span>, they call it <span class="m">strong iron</span>. But it is not as excellent as <span class="m">purified steel</span> like that from <span class="pl">Germany</span> & <span class="pl">Biscaye</span>, which is sold in <span class="ms">small beads</span>. Some curry <span class="m">steel</span>, giving it a heating, then temper it <span class="del">& <span class="m">water</span></span> in a large quantity of <span class="m">water</span>, then forge it. & <span class="m">fine steel</span>, which is brittle, breaks and crumbles, & <span class="m">iron</span> allows itself to be stretched. Thus they separate <span class="m">the finest steel</span> <span class="del">&</span>, which with another heating they reduce to a mass. The <span class="pl">Germans</span> make their <span class="tl">files</span> from <span class="m">strong iron</span>.
  
 > *at left bottom margin*
 > 
 > 
-> <span class="m">Steel</span> is applied to tools not on both sides, but underneath the part where one sharpens and whets them, and this part must be made of very soft <span class="m">iron</span>.
+> One applies <span class="m">steel</span> to tools <span class="del">dess</span> not on both sides, but underneath the part where one sharpens & whets them. & in this part, they must be of <span class="m">very doulx iron</span>.
  
 > *at left bottom margin*
 > 
 > 
-> <span class="pl">Levantines</span> refine our own <span class="m">steel</span> because their country provides them with none, and they reheat it in a pot with <span class="m">bitumen</span> etc.
+> <span class="pl">Levantines</span> refine our <span class="m">steel</span> because their country does not provide them with any. And they reheat it in a <span class="tl">pot</span> with <span class="m">bitumen</span>, &c.
 
  

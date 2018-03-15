@@ -8,9 +8,9 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [water, oil, wax, iron]
-tools: []
-measurements: []
+materials: [swine fur, saliva, clear water, water, oil, cittern strings, wax, iron wire]
+tools: [mold, knife, pen-knife, cloths of swine fur, pinceau, delicates points of fil cist cittern strings, flat pincers, points, point, point of a hot iron wire]
+measurements: [length of a pater noster]
 bodyparts: []
 places: []
 plants: []
@@ -22,18 +22,18 @@ animals: [lizard, snake, swine]
  <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-114r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f233.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>114r</a> - - - - - </div>  
   
 
-## Second Casting
+## Second Cast
 
  
-When you have well molded the first part of the animal, that is to say the back, the spine, and the entire top part, and when the half—mold where the part is encased is hard enough 
+When you have well molded the first part of the animal, that is the back, the backbone, and the entire top part, and the <span class="del">len</span> half—<span class="tl">mold</span> where it is enclosed has set and is hard enough 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5SWVndzB0aEk5MWs" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
- turn over the bottom & the sides of the belly, sometimes using a knife <span class="del">& tanto</span> for the thicker parts, & then with a pen—knife for the places where the more fragile parts are encased, like legs, tail, & similar things. Because the head is higher, you will have to dig deeper to expose it & do a deeper notch that has to be well exposed, by enlarging it from the outside, in order for the second mold that you cast on top of it releases well. A process for which the animal himself can be useful because his nature so permits. However, make sure that you reveal the <span class="al">lizard</span>'s throat more than you would do a <span class="al">snake</span>, because the <span class="al">lizard</span> has big jaws & big bones that do not cast as easily, and has deep ears in which the wet sand is not as easy to remove. But you will avoid all of this if you expose half of the head and those things that you know do not release easily. When everything is well exposed, blow over it & wipe each part again with a cloth made of <span class="al">swine</span> hair, slightly dampened into salt <span class="m">water</span> or clear <span class="m">water</span>, do that gently, that way the lower part of your uncovered animal will be very neat. # 🝋 Once it is done, dip the covered side of your mold into <span class="m">water</span> for a pater noster. It will suck water inside, that way when you'll rub with <span class="m">oil</span> the uncovered side, the <span class="m">oil</span> will remain on the top, & to prevent the second cast which you will cast on top from sticking. Dip your mold into <span class="m">water</span>, take a particularly fine brush & rub with <span class="m">oil</span> the entire mold but the animal; it should not be touched with <span class="m">oil</span>. & Make sure to use you brush between the parts & on all the fragile parts. And if by mistake <span class="m">oil</span> is soaked, dip the mold into <span class="m">water</span>, as it is said above, & drop by drop the <span class="m">oil</span> will come back to the top.
+ uncover the whole bottom part & side of the belly, <span class="del">#</span> first with a <span class="tl">knife</span> <span class="del">& tant</span> at the thickest places, & then with a <span class="tl">pen—knife</span>, where the most delicate parts are enclosed, such as the legs, the tail, & similar things, and because the head is higher, you will also need to look for it & uncover deeper, and made a deeper notch there which ought to release easily. That is to say widening by the outside, so that the second <span class="tl">mold</span> that you will cast on it can come out well, which even the animal can help with, which is malleable and obedient, having naturalness. However <span class="del">ad</span>, be more scrupulous when uncovering the throat of the <span class="al">lizard</span> rather than the <span class="al">snake</span>, for the <span class="al">lizard</span> has big jaws & big bones that are not malleable, and has hollow ears, where the wet sand has entered, is not <span class="del">aff</span> easy to release. But you will avoid all of this, if you uncover half of the head and those things that you know do not release easily. Once everything is uncovered well, blow on top & wipe each part, by wiping with little <span class="tl">cloths of <span class="m"><span class="al">swine</span> fur</span></span>, slightly moistened by the end, with a little <span class="m">saliva</span>, <span class="add">or with <span class="m">clear water</span>, as you dissolve it</span>, so that <span class="del">your</span> the uncovered lower part of your animal will be very neat. <span class="add">#</span> <span class="add">🝋</span> With this done, dip <span class="del">le rev</span> <span class="del">your mold</span> your mold, for the <span class="ms"><span class="tmp">length of a pater noster</span></span> in <span class="m">water</span>, not <span class="del">du</span> <span class="add">le</span> the uncovered side but opposite, & the reverse of the uncovered thing. And this is so that, by sucking the <span class="m">water</span> <span class="add">inside</span>, the <span class="m">oil</span> with which you smear after the other side <span class="del">pour eviter</span>, is not imbibed at all, but remains on the surface & prevents the second cast that you will cast on it from attacking it. Having therefore thusly dipped <span class="add">the reverse of</span> your <span class="tl">mold</span> in the <span class="m">water</span>, take a <span class="tl">pinceau</span> especially dedicated to this, & <span class="del">en oings</span> with it smear some <span class="m">oil</span> the whole surface of the <span class="tl">mold</span>, except the animal, which must in no way touch the <span class="m">oil</span>, & take head to retrace & smear well with the point of a <span class="tl">pinceau</span> between the parts & through all the delicate parts. And if by chance the <span class="m">oil</span> is imbibed, dip the <span class="del">mo</span> reverse of the <span class="tl">mold</span> as mentioned in <span class="m">water</span>, & you will see the <span class="m">oil</span> return to the surface in little drops.
  
 > *at left top margin*
 > 
 > 
->   Mold small animals as big ones, however, for small animals, use very fine tacks made of cords of cittern, short & long ones.
+>   Mold small animals like big ones, except that you need to make <span class="tl">delicates points of <span class="del">fil</span> <span class="del">cist</span> <span class="m"><span class="mu">cittern</span> strings</span></span>, both long & short.
  
 > *at left top margin*
 > 
@@ -41,19 +41,22 @@ When you have well molded the first part of the animal, that is to say the back,
 >   
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5NVR5Y2FtZHM0ck0" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
- remove all the little tacks with the help of very small flat pincers.
+ Remove with your small <span class="tl">flat pincers</span>, all the <span class="tl">points</span>.
  
 > *at left top margin*
 > 
 > 
->   # then \+<span class="del"><span class="ill"></span></span>
+>   # and then \+<span class="del">tantost avecq</span>
  
 > *at left bottom margin*
 > 
 > 
->   #However, leave the tack which is pinned into the throat so that it will help you to turn the head over, because it is sunk deeper than any other part, because when you drew the plan, you put higher up. It is at the level of the head that you must make the biggest notch & you should start at that notch to expose and then keep following by looking at the traces left by the tacks. 
+>   # However, leave the <span class="tl">point</span> of the throat, so that it serves as a clue to find the head, which is deeper down than any other part, because when making the arrangement you arranged it higher. It is also at the level of the head that you should make the biggest notch & start with this one to uncover, and follow the rest through the trace of the <span class="tl">points</span>.
  
-# and if a small piece of nail, or piece of tail, or other fine things separate from the mold, put a little piece of <span class="m">wax</span>between them, & join them with the tip of a hot <span class="m">iron</span> wire, then smooth it in your mold with a knife, & make notches on the sides in order for the other half of the mold to adhere to it. 🝋 
+> *at left bottom margin*
+> 
+> 
+>   # And if some bit of nail from a leg, or from a tail, or from another should separate from the <span class="tl">mold</span>, put <span class="del">y</span> between but a small grain of <span class="m">wax</span>, & with the <span class="tl">point of a hot <span class="m">iron wire</span></span>, join it then adapt your <span class="tl">mold</span> with a <span class="tl">knife</span>, & make there notches at the sides, so that the other half binds to it.🝋 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5TTRuWU8yVktnc3M" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  

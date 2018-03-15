@@ -8,7 +8,7 @@ author:
 mode: tcn
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [acier de damas, eau fort, acier, eau, cendre, sable, or, argent, cher de mouton cru, or mat, diamants, pierres, diamant, pouldre de pierre ponce, plomb, pierre, verre, vernis, saphir, ongle, cuivre, cuir]
+materials: [acier de damas, eau fort commune, acier, eau, terre, cendre, sable, or, argent, pierre de touche, cher de mouton cru, or mat, diamants, pierres, diamant, pouldre de pierre ponce, plomb, pierre, verre, vernis, saphir, ongle, cuivre, cuir]
 tools: [costeaulx, pierre de touche, poinctes de diamants, poinctes, pouldre de pierre ponce, roue de plomb, Roue de cuivre, roue]
 measurements: []
 bodyparts: [yeulx]
@@ -25,7 +25,7 @@ animals: [mouton]
 ## Couleur d<span class="m">acier de <span class="pl">damas</span></span> sur <span class="tl">costeaulx</span>
 
  
-Frotte d'<span class="m">eau fort</span> commune l'<span class="m">acier</span>, meslant avecq ladicte <span class="m">eau</span> de<br/> la terre,  & aprés frotte le tout avecq de la <span class="m">cendre</span><br/> ou <span class="m">sable</span>, & l'<span class="m">or</span> touchera & l'<span class="m">argent</span> co<span class="exp">mm</span>e sur une <span class="tl">pierre de touche</span>.
+Frotte d'<span class="m">eau fort commune</span> l'<span class="m">acier</span>, meslant avecq ladicte <span class="m">eau</span> de<br/> la <span class="m">terre</span>,  & aprés frotte le tout avecq de la <span class="m">cendre</span><br/> ou <span class="m">sable</span>, & l'<span class="m">or</span> touchera & l'<span class="m">argent</span> co<span class="exp">mm</span>e sur une <span class="tl"><span class="m">pierre de touche</span></span>.
 
  
   

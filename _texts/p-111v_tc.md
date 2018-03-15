@@ -10,7 +10,7 @@ editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [Eeau de sel armoniac, chastaignes, sel armoniac pulverise, eau, salee, Sanguine, plomb, estaim, sanguine, argent, or, metal, plastre, brique, alum de plume, alum, tuiles pilees]
 tools: [pot, langue, sayes, doigts, ongle, crusols, tamis, mains, moules]
-measurements: [grosseur de deulx chastaignes, pot, a la langue tu trouve leau mediocrement salee, crusols]
+measurements: [grosseur de deulx chastaignes, pot, crusols]
 bodyparts: [langue, doigts, ongle, chair, mains]
 places: []
 plants: [chastaignes]
@@ -25,7 +25,7 @@ animals: [Chancre, escrevisse, Lesards, lesards, lesardes]
 ## <span class="m">Eeau de sel armoniac</span>
 
  
-Il suffist la <span class="ms">grosseur de deulx <span class="m"><span class="pa">chastaignes</span></span></span> de <span class="m">sel<br/> armoniac pulverise</span> dans un <span class="ms"><span class="tl">pot</span></span> d<span class="m">eau</span> Et qu<span class="ms">a la <span class="tl"><span class="bp">langue</span></span><br/> tu trouve l<span class="m">eau</span> mediocrement <span class="m">salee</span></span> Car trop nest pas bon
+Il suffist la <span class="ms">grosseur de deulx <span class="m"><span class="pa">chastaignes</span></span></span> de <span class="m">sel<br/> armoniac pulverise</span> dans un <span class="ms"><span class="tl">pot</span></span> d<span class="m">eau</span> Et qu<span class="sn">a la <span class="tl"><span class="bp">langue</span></span><br/> tu trouve l<span class="m">eau</span> mediocrement <span class="m">salee</span></span> Car trop nest pas bon
  
  
   
@@ -49,7 +49,7 @@ Pour nettoyer les diverses couleurs du <span class="m">plomb</span> & de l<span 
 ## <span class="al">Lesards</span>
 
  
-Quand on les prend avecq les deulx <span class="tl"><span class="bp">doigts</span></span> par les costes de<br/> la teste au droict des oreilles on luy faict ouvrir la <span class="del">g</span> gueule<br/> <span class="add">avecq le bout de l<span class="tl"><span class="bp">ongle</span></span></span><br/> puys on luy prend le bout de la mandibulle basse & apres de celle<br/> de dessus il serre l<span class="tl"><span class="bp">ongle</span></span> mays il ne la peult pas passer mays<br/> il serre bien fort Et sil mordoit la <span class="bp">chair</span> vive il ne scauroit<br/> <span class="del">au</span> laisser la prise & ny auroit meilleur remede que de luy<br/> couper promptem<span class="exp">ent</span> la teste <span class="tmp">Au printemps</span> co<span class="exp">mm</span>e ilz ont change de<br/> peau ilz sont plus beaus
+Quand on les prend avecq les deulx <span class="tl"><span class="bp">doigts</span></span> par les costes de<br/> la teste au droict des oreilles on luy faict ouvrir la <span class="del">g</span> gueule<br/> puys on luy prend le bout de la mandibulle basse <span class="add">avecq le bout de l<span class="tl"><span class="bp">ongle</span></span></span> & apres de celle<br/> de dessus il serre l<span class="tl"><span class="bp">ongle</span></span> mays il ne la peult pas passer mays<br/> il serre bien fort Et sil mordoit la <span class="bp">chair</span> vive il ne scauroit<br/> <span class="del">au</span> laisser la prise & ny auroit meilleur remede que de luy<br/> couper promptem<span class="exp">ent</span> la teste <span class="tmp">Au printemps</span> co<span class="exp">mm</span>e ilz ont change de<br/> peau ilz sont plus beaus
  
 > *at left middle margin*
 > 

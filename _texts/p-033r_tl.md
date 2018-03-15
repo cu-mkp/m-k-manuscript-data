@@ -9,12 +9,12 @@ mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [brazilwood rosette, black cherry juice, wicker]
-tools: []
-measurements: []
-bodyparts: []
+tools: [Knife, well-furbished knife, nailed, handle, knife, nail]
+measurements: [the back of a knife]
+bodyparts: [nose, finger, thigh, hand, face, hands]
 places: []
 plants: []
-professions: []
+professions: [conjuror, spectators]
 environments: []
 animals: []
 ---
@@ -22,19 +22,19 @@ animals: []
  <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-033r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f71.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>033r</a> - - - - - </div>  
   
 
-## Knife to cut a nose or a finger
+## <span class="tl">Knife</span> for cutting the <span class="bp">nose</span> or a <span class="bp">finger</span>
 
  
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5RWlDQlc4cU5HN3M" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
-This is a well—furbished knife, assembled with a nail in the middle so that it can easily swivel to one side or the other and be hidden, alternately on side A or on side B, inside its handle marked C. The two stops you see on the tips of the knife are used to block it on one side or the other against a nail which is at the butt of the aforesaid handle, so that when one wants to press hard on something in order to cut it, it does not move from the handle. You might as well allow the side marked B to cut, only not during your performance, but the side that is notched and marked A must not be sharp, it should only be furbished. And the notch must also be as wide as the edge of a knife so that it cannot hurt. And you will only show the part where the knife is not notched, for the side with the notch must be hidden inside the handle. And when you want to cut a nose or a finger, pretend to sharpen your knife on your thigh and at the same time turn it deftly, and the part with the notch, which you will cover with one finger, will come into your hand, and you will place the notch, colored with <span class="m">brazilwood rosette</span> or <span class="m">black cherry juice</span>, upon the nose.
- 
+This is a <span class="tl">well—furbished knife</span>, <span class="tl">nailed</span> through the middle in such a way that it easily moves to one side & the other & the side <span class="del"><span class="ill"></span></span> A, is hidden inside its <span class="tl">handle</span> marked C as readily as the side B. The two tenons you see at the tip of the <span class="tl">knife</span> are for locking it on one side or the other against a <span class="tl">nail</span> which is at the butt of the aforesaid <span class="tl">handle</span>, so that when one wants to press hard <span class="add">on</span> something in order to cut it, it does not come out from the <span class="tl">handle</span>. You may allow the side marked B to cut for demonstration purposes, <span class="add">but not much</span>, but the side that is notched <span class="del">A</span> and marked A must not cut. <span class="del">It</span> It is sufficient that it be furbished well. And also the notch needs to be as thick as <span class="ms">the back of a <span class="tl">knife</span></span> so that it cannot cause pain. And you will only show the part of the <span class="tl">knife</span> which is not notched, for the side with the notch needs to be <span class="del">mar</span> hidden inside the <span class="tl">handle</span>. And when you want to cut the <span class="bp">nose</span> or a <span class="bp">finger</span>, pretend to sharpen your <span class="tl">knife</span> on the <span class="bp">thigh</span> and, while <span class="del">while</span> doing this, turn the <span class="tl">knife</span> deftly. & the part with the notch, which you will cover <span class="del">l</span> with one <span class="bp">finger</span>, will come into your <span class="bp">hand</span>, and you will place the notch, colored with <span class="m">brazilwood rosette</span> or <span class="m">black cherry juice</span>, upon the <span class="bp">nose</span>.
  
 > *at left middle margin*
 > 
 > 
->   The conjuror must not amuse himself by watching what he is doing, but must look at the spectators while entertaining them with hocus—pocus words to make them look at his face and not his hands.
+>   The <span class="pro">conjuror</span> ought not to amuse himself by watching what he is doing, but look at the <span class="pro">spectators</span> and give them plenty of good hocus—pocus words so that they look at his <span class="bp">face</span> & not at his <span class="bp">hands</span>.
+ 
  
   
 

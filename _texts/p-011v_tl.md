@@ -8,11 +8,11 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Damascene steel, steel, common aquis fortis, earth, ashes, sand, gold, silver, raw mutton flesh, or mat, diamond, stones, pumice stone powder, lead, stone, glass, varnish, sapphire, hoof, copper, leather]
+materials: [damascene steel, steel, common aquafortis, water, earth, ashes, sand, gold, silver, touchstone, raw mutton flesh, or mat, diamond, stones, pumice stone powder, lead, stone, glass, varnish, sapphire, hoof, copper, leather]
 tools: [knives, touchstone, diamond points, points, pumice stone powder, lead wheel, copper wheel, wheel]
 measurements: []
 bodyparts: [eyes]
-places: [Damascene]
+places: [damascene]
 plants: []
 professions: [sword-makers]
 environments: []
@@ -22,10 +22,10 @@ animals: [mutton]
  <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-011v_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f28.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>011v</a> - - - - - </div>  
   
 
-## Applying the color of <span class="m"><span class="pl">Damascene</span> steel</span> on <span class="tl">knives</span>
+## Color of <span class="m"><span class="pl">damascene</span> steel</span> on <span class="tl">knives</span>
 
  
-Rub the <span class="m">steel</span> with <span class="m">common aquis fortis</span> mixed with <span class="m">earth</span>. After, rub everything with <span class="m">ashes</span> or <span class="m">sand</span>. Do with the <span class="m">gold</span> and <span class="m">silver</span> as you would do on a <span class="tl">touchstone</span>.
+Rub the <span class="m">steel</span> with <span class="m">common aquafortis</span>, mixing the said <span class="m">water</span> with <span class="m">earth</span>  & next rub the whole with <span class="m">ashes</span> or <span class="m">sand</span>. & the <span class="m">gold</span>will touch & the <span class="m">silver</span> as on a <span class="tl"><span class="m">touchstone</span></span>.
 
  
   

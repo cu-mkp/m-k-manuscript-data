@@ -8,7 +8,7 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [fil de fer, cordes despinettes, celuy de latton, cire, grain de mil, terre, eau de vye, plastre de terre, ardille, eau, cotton, plombee]
+materials: [fil de fer, cordes despinettes, celuy de latton, cire, grain de mil, terre, eau de vye, ardille, eau, cotton, plombee]
 tools: [poinctes, poincte, costeau, petit instrument recourbe, moule, pinceau, escuelle de terre plombee]
 measurements: [aussy gros de cire quun grain de mil, poulces]
 bodyparts: [poulces]
@@ -23,7 +23,7 @@ animals: [commun serpent, serpent]
  
 *[continued]*
   
-bout <span class="del">qua</span> pour les <span class="del">t</span>en retirer au besoing Et advise quil fault que ces<br/> <span class="tl">poinctes</span> soient de <span class="m">fil de fer</span> le plus delie que pourra comporter la grandeur<br/> de lanimal Car tant plus il est delie tant moings paroist le trou quil<br/> laisse Touteffoys il en fault de diverses grosseurs pource qu<span class="del">il</span>e <span class="del">de</span> les<br/> <span class="tl">poinctes</span> qui sen mectent au corps & en lieu plus espes co<span class="exp">mm</span>e sous la gorge<br/> doibvent estre plus longues & plus fortes que celles des pates & parties<br/> tanvres ou les <span class="tl">poinctes</span> doivent estre subtiles & deliees quasi comme<br/> les plus grosses <span class="m">cordes d<span class="mu">espinettes</span></span> Et est mieulx quelles soient de <span class="m">fil de<br/> fer</span> qui est plus ferme que <span class="m">celuy de latton</span> Et si le bout dune queue ou bout<br/> dongle ou de pate se doibt joindre au corps Ni mects pas de <span class="tl">poincte</span><br/> pour ne le corrompre Mays pose <span class="ms">aussy gros de <span class="m">cire</span> quun <span class="m">grain de<br/> <span class="pa">mil</span></span></span> entre le corps & <span class="del">ce</span>le <span class="del">qui</span> bout de queue Puys avecq un bout<br/> de <span class="m">fil de fer</span> aplaty & chault touche ceste <span class="m">cire</span> & joingts en pressant<br/> legerement Ainsy ton animal estant bien pose sur la tourtelle<br/> faicte en forme de <span class="mu">mandorre</span> pose tout aultour un entour de mesme<br/> 
+bout <span class="del">qua</span> pour les <span class="del">t</span>en retirer au besoing Et advise quil fault que ces<br/> <span class="tl">poinctes</span> soient de <span class="m">fil de fer</span> le plus delie que pourra comporter la grandeur<br/> de lanimal Car tant plus il est delie tant moings paroist le trou quil<br/> laisse Touteffoys il en fault de diverses grosseurs pource qu<span class="del">il</span>e <span class="del">de</span> les<br/> <span class="tl">poinctes</span> qui sen mectent au corps & en lieu plus espes co<span class="exp">mm</span>e sous la gorge<br/> doibvent estre plus longues & plus fortes que celles des pates & parties<br/> tanvres ou les <span class="tl">poinctes</span> doivent estre subtiles & delies quasi comme<br/> les plus grosses <span class="m">cordes d<span class="mu">espinettes</span></span> Et est mieulx quelles soient de <span class="m">fil de<br/> fer</span> qui est plus ferme que <span class="m">celuy de latton</span> Et si le bout dune queue ou bout<br/> dongle ou de pate se doibt joindre au corps Ni mects pas de <span class="tl">poincte</span><br/> pour ne le corrompre Mays pose <span class="ms">aussy gros de <span class="m">cire</span> quun <span class="m">grain de<br/> <span class="pa">mil</span></span></span> entre le corps & <span class="del">ce</span>le <span class="del">qui</span> bout de queue Puys avecq un bout<br/> de <span class="m">fil de fer</span> aplaty & chault touche ceste <span class="m">cire</span> & joingts en pressant<br/> legerement Ainsy ton animal estant bien pose sur la tourtelle<br/> faicte en forme de <span class="mu">mandorre</span> pose tout aultour un entour de mesme<br/> 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5YkE1Vm1ZMmRoVm8" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  <span class="m">terre</span> en ceste sorte 
@@ -37,17 +37,17 @@ bout <span class="del">qua</span> pour les <span class="del">t</span>en retirer 
 >   
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5MDEzX0RhXzJGcXc" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
-<br/> et fais que la<br/> <span class="tl">poincte</span> soict<br/> longuette selon<br/> que tu veulx<br/> haulsser la<br/> teste et quelle<br/> soict poinctue<br/> par les deulx<br/> bouts Estant<br/> ainsy posee <br/> plante le<br/> <span class="al">serpent</span> sur<br/> le <span class="m">plastre<br/> de terre</span> & y<br/> dispose premi<br/> erem<span class="exp">ent</span> la teste<br/> puys le reste
+<br/> et fais que la<br/> <span class="tl">poincte</span> soict<br/> longuette selon<br/> que tu veulx<br/> haulsser la<br/> teste et quelle<br/> soict poinctue<br/> par les deulx<br/> bouts Estant<br/> ainsy posee <br/> plante le<br/> <span class="al">serpent</span> sur<br/> le plastre<br/> de <span class="m">terre</span> & y<br/> dispose premi<br/> erem<span class="exp">ent</span> la teste<br/> puys le reste
  
 > *at left middle margin*
 > 
 > 
->   Leau de vye<br/> de trois passes
+>   L<span class="m">eau de vye</span><br/> de trois passes
  
 > *at left middle margin*
 > 
 > 
->  Si apres que<br/> tu as pose ton<br/> animal sur la<br/> tourtelle d<span class="m">ardille</span><br/> tu diverty<br/> en quelque<br/> ocupation Frotte<br/> ton animal d<span class="m">eau<br/> de vye</span> & dessoubs<br/> le ventre affin<br/> quil ne se<br/> seche & se<br/> preigne a la<br/> <span class="m">terre</span> 
+>  Si apres que<br/> tu as pose ton<br/> animal sur la<br/> tourtelle d<span class="m">ardille</span><br/> tu est diverty<br/> en quelque<br/> ocupation Frotte<br/> ton animal d<span class="m">eau<br/> de vye</span> & dessoubs<br/> le ventre affin<br/> quil ne se<br/> seche & se<br/> preigne a la<br/> <span class="m">terre</span> 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5Qm8wSlJPOWxfZWM" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
@@ -55,7 +55,7 @@ bout <span class="del">qua</span> pour les <span class="del">t</span>en retirer 
 > *at left bottom margin*
 > 
 > 
->  Si quand tu<br/> perses lanimal<br/> il rend de l<span class="m">eau</span><br/> par bas du<br/> coste du ventre<br/> Sur la <span class="m">plastre<br/> de terre</span> nettoye<br/> bien avecq du<br/> <span class="m">cotton</span> car le<br/> sable qui y<br/> toucheroit seroit<br/> grumeleux si cest dessus lanimal<br/> netoye le plus curieusement<br/> et le touche<br/> & mouille fort<br/> d<span class="m">eau de vye</span>
+>  Si quand tu<br/> perses lanimal<br/> il rend de l<span class="m">eau</span><br/> par bas du<br/> coste du ventre<br/> Sur la plastre<br/> de <span class="m">terre</span> nettoye<br/> bien avecq du<br/> <span class="m">cotton</span> car le<br/> sable qui y<br/> toucheroit seroit<br/> grumeleux si cest dessus lanimal<br/> netoye le plus curieusement<br/> et le touche<br/> & mouille fort<br/> d<span class="m">eau de vye</span>
  
  
   

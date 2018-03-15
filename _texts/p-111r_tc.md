@@ -8,8 +8,8 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [charbon, letton, gcrasse jaulne, cuivre rouge, estaing fin, Terre ardille, eau, plomb, Fil de fer, fil de fer, celuy de letton]
-tools: [moules, chassis, moules de noyau, moules de chassis, moules a gecter letton, mains, aiguilles]
+materials: [Fumee de letton, letton, gcrasse jaulne, cuivre rouge, estaing fin, Terre ardille, eau, plomb, Fil de fer, fil de fer, celuy de letton]
+tools: [moules, chassis, moules de noyau, moules de chassis, moules a gecter letton, mains, lame de plomb, aiguilles]
 measurements: [gros comme ffisselle de moing, delie p comme grosse corde despinette pour les petits ouvrages]
 bodyparts: [mains]
 places: []
@@ -25,12 +25,12 @@ animals: []
 ## Recuire les <span class="tl">moules</span>
 
  
-Volontiers les <span class="tl">chassis</span> se deseichent & non recuisent<br/> car recuire est proprem<span class="exp">ent</span> faire <span class="del">pour la seconde fois</span> rougir<br/> & enflamber au foeu les <span class="tl">moules</span> Et deseicher est laisser<br/> seicher les <span class="tl">moules</span> deulx mesmes Ou leur faire evaporer leur<br/> humidite les presentant devant foeu de flamme ou de <span class="m">charbon</span><br/> Volontiers les <span class="tl">moules de noyau</span> se recuisent & les <span class="tl">moules<br/> de chassis</span> se deseichent
+Volontiers les <span class="tl">chassis</span> se deseichent & non recuisent<br/> car recuire est proprem<span class="exp">ent</span> faire <span class="del">pour la seconde fois</span> rougir<br/> & enflamber au foeu les <span class="tl">moules</span> Et deseicher est laisser<br/> seicher les <span class="tl">moules</span> deulx mesmes Ou leur faire evaporer leur<br/> humidite les presentant devant foeu de flamme ou de charbon<br/> Volontiers les <span class="tl">moules de noyau</span> se recuisent & les <span class="tl">moules<br/> de chassis</span> se deseichent
  
  
   
 
-## Fumee de <span class="m">letton</span>
+## <span class="m">Fumee de <span class="m">letton</span></span>
 
  
 Il est bon dy recuire les <span class="tl">moules a gecter <span class="m">letton</span></span> car ceste <span class="m"><span class="del">g</span><span class="add">c</span>rasse<br/> jaulne</span> qui semble neantmoins remplir les <span class="tl">moules</span> fait gecter<br/> fort net co<span class="exp">mm</span>e esta<span class="exp">n</span>t de mesme nature
@@ -49,7 +49,7 @@ Quand il est fondu il est bon dy gecter un peu d<span class="m">estaing fin</spa
 ## <span class="m">Terre ardille</span>
 
  
-Ceste cy humectee & bien battue & pestrie co<span class="exp">mm</span>e tu scais test<br/> necessaire pour faire le contour pour contennir tes <span class="tl">moules</span><br/> Mays advise qu<span class="del">i</span><span class="add">e</span>l<span class="add">le</span> ne soit pas trop molle Ains co<span class="exp">mm</span>e a demy<br/> seiche quelle <span class="sn">ne sattaque point aulx <span class="tl"><span class="bp">mains</span></span></span> pour ce que autrem<span class="exp">ent</span><br/> elle sattaqueroit a la besoigne Tiens la tousjours <span class="env">en<br/> lieu humide</span> et fais y des trous et les emplys d<span class="m">eau</span> pour la tenir<br/> fraische
+Ceste cy humectee & bien battue & pestrie co<span class="exp">mm</span>e tu scais test<br/> necessaire pour faire le contour pour contenir tes <span class="tl">moules</span><br/> Mays advise quelle ne soit pas trop molle Ains co<span class="exp">mm</span>e a demy<br/> seiche qu<span class="del">i</span><span class="add">e</span>l<span class="add">le</span> <span class="sn">ne sattaque point aulx <span class="tl"><span class="bp">mains</span></span></span> pour ce que autrem<span class="exp">ent</span><br/> elle sattaqueroit a la besoigne Tiens la tousjours <span class="env">en<br/> lieu humide</span> et fais y des trous et les emplys d<span class="m">eau</span> pour la tenir<br/> fraische
  
 > *at left middle margin*
 > 
@@ -59,7 +59,7 @@ Ceste cy humectee & bien battue & pestrie co<span class="exp">mm</span>e tu scai
 > *at left middle margin*
 > 
 > 
->   Elle est plus propre que lame de <span class="m">plomb</span>
+>   Elle est plus propre que <span class="tl">lame de <span class="m">plomb</span></span>
  
 > *at left middle margin*
 > 

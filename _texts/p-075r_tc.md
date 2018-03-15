@@ -8,9 +8,9 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Goume, sire Rouge, Vernilhon, poix resins resine, Bronze, Cuyvre, verdet, colle claire, boys, limaille despingle, marbre, eau, cuyvre, Estaing, estaing de Glasse, argent vif, estaing de Glace, vitf aiantargent, colle, estaing, eaue claire, Eaue fort, vinaigre, verd de gris, copperouse, solle, Or Moulu, fin or, eaue fort, selpestre, sel armonial]
-tools: [marbre, pot, coquille]
-measurements: [onces]
+materials: [Goume, sire Rouge, Vernilhon, poix resins resine, Bronze, Cuyvre, verdet, colle claire, boys, limaille despingle, marbre, eau, cuyvre, Estaing, estaing de Glasse, argent vif, estaing de Glace, vitf aiantargent, colle, estaing, eaue claire, Eaue fort, vinaigre, verd de gris, copperouse, solle, voyrre, Or Moulu, fin or, eaue fort, selpestre, sel armonial]
+tools: [marbre, pot, fiolle de voyrre, coquille]
+measurements: [onces, demy sestier, once]
 bodyparts: []
 places: []
 plants: []
@@ -49,7 +49,7 @@ Prenes de L<span class="m">estaing de Glasse</span> deux <span class="ms">onces<
 ## Pour faire <span class="m">Eaue fort</span>
 
  
- Prenes ung demy sestier de <span class="m">vinaigre</span> avecq une once de <span class="m">verd<br/> de gris</span> & une once de <span class="m">copperouse</span> & une once de <span class="m">solle</span> puys les<br/> mectes ensemble dans une fiolle de voyrre
+ Prenes ung <span class="ms">demy sestier</span> de <span class="m">vinaigre</span> avecq une <span class="ms">once</span> de <span class="m">verd<br/> de gris</span> & une <span class="ms">once</span> de <span class="m">copperouse</span> & une <span class="ms">once</span> de <span class="m">solle</span> puys les<br/> mectes ensemble dans une <span class="tl">fiolle de <span class="m">voyrre</span></span>
  
  
   

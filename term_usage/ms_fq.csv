@@ -2,15 +2,15 @@
 103|℥
 78|quintal
 77|moictie
-56|once
+59|once
 44|
 42|onces
 38|heures
 37|pan
 35|jours
 34|jour
-34|heure
 31|doigts
+30|heure
 26|partye
 24|pas
 24|pans
@@ -18,17 +18,16 @@
 16|deniers
 14|pars
 12|doigt
+10|quart
 10|nuict
 10|ligne
+10|grains
 8|unces
-8|quart
 8|poix
-8|pied
-8|grains
 8|carte
 8|aulne
+7|pied
 7|partie
-6|quarte partie
 6|pieds
 6|parties
 6|moys
@@ -38,6 +37,7 @@
 6|dragmes
 6|aultant dun que daultre
 6|Jours
+5|quarte partie
 5|gros
 5|demy
 4|seau
@@ -54,6 +54,7 @@
 4|gabions
 4|fois le jour
 4|denier
+4|demy sestier
 4|boisseaulx
 4|ana
 3|un bon quart dheure
@@ -64,9 +65,9 @@
 3|montpellier
 3|joinctee
 3|espesseur dun
+3|dheure
 3|demye ℥
 3|demye
-3|demy sestier
 3|Jour
 2|œufs
 2||ʒ|
@@ -78,10 +79,8 @@
 2|un pan
 2|un jour et
 2|un iour
-2|tu trouve leau mediocrement salee
 2|trois pars
 2|trois ou 4
-2|trois
 2|travers dun grain de bled
 2|tout un jour
 2|tout
@@ -101,6 +100,7 @@
 2|quarte partye
 2|quarte ou cinquiesme partye
 2|quart plus pesant
+2|quart dheure
 2|quart de
 2|puisse presque entrer
 2|proportion
@@ -200,7 +200,6 @@
 2|asses chault comme quand
 2|ans
 2|an
-2|a la langue
 2|Carte
 2|Aultant quil pourroit tenir dans un œuf
 2|4 doigts et le poulse
@@ -211,15 +210,17 @@
 1|un demy 
 1|un demy
 1|un bon quart
+1|tu trouve leau mediocrement salee
 1|troisiesme partye
 1|troisiesme
 1|trois ou 4 jours et trois iours
 1|trois ou 4 jours
 1|trois doitgs
+1|trois
 1|sestier
 1|sans lallumer il est en bonne chaleur Mays sil le brusle &amp; y mect
 1|sans lallumer il est en bonne chaleur Mays sil le brusle &amp; y
-1|quart dheure
+1|quarte partie de plomb sur trois destaim
 1|presque moictie
 1|presque
 1|pour scavoir quand il sera en bonne
@@ -230,6 +231,7 @@
 1|plume dholande
 1|plume de cigne
 1|plume de
+1|petites billes
 1|petite joinctee
 1|petite
 1|petit dos de costeau
@@ -243,6 +245,7 @@
 1|mect
 1|long comme la largeur de 4
 1|long comme la largeur de
+1|liard
 1|lespesseur dun
 1|lespesseur
 1|lespace dung Jour
@@ -266,10 +269,12 @@
 1|gros comme ffisselle de moing …
 1|grain de
 1|goutte
+1|goutes
 1|foys chasque 
 1|foys aultant
 1|fort comme de grands livres imprimes
 1|fort comme de grands livres
+1|fois aultant
 1|floquets
 1|espesseurs de papier
 1|espesseurs
@@ -284,13 +289,14 @@
 1|dos dun
 1|dos de costeau
 1|dos de
-1|dheure
 1|deux doits en deulx doigts
 1|deux doits en deulx
 1|deux
 1|deulx jours
 1|deulx foys aultant
 1|despinette pour les petits ouvrages
+1|demye heure
+1|demy pied
 1|delie p comme grosse corde despinette pour les petits ouvrages
 1|delie p comme grosse corde
 1|degre de chaleur
@@ -299,6 +305,7 @@
 1|de
 1|daultre
 1|curedent
+1|coquille de noix
 1|comme ffisselle de moing
 1|cigne
 1|chaleur trempe dedans un petit papier retors Sil le noircist
@@ -316,4 +323,5 @@
 1|aultant en une prise comme il en peult tenir en une quarte 
 1|aultant en une prise comme il en peult tenir en une
 1|aultant dun que
+1|a la langue
 1|4

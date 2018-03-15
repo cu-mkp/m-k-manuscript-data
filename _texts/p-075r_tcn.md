@@ -8,9 +8,9 @@ author:
 mode: tcn
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Goume, sire rouge, vernilhon, poix resins resine, Bronze, cuyvre, verdet, colle claire, boys, limaille d'espingle, marbre, eau, estaing, estaing de glasse, argent vif, estaing de glace, vitf aiantargent, colle, eaue claire, eau fort, vinaigre, verd de gris, copperouse, solle, Or moulu, fin or, eaue fort, selpestre, sel armonial]
-tools: [marbre, pot, coquille]
-measurements: [onces]
+materials: [Goume, sire rouge, vernilhon, poix resins resine, Bronze, cuyvre, verdet, colle claire, boys, limaille d'espingle, marbre, eau, estaing, estaing de glasse, argent vif, estaing de glace, vitf aiantargent, colle, eaue claire, eau fort, vinaigre, verd de gris, copperouse, solle, voyrre, Or moulu, fin or, eaue fort, selpestre, sel armonial]
+tools: [marbre, pot, fiolle de voyrre, coquille]
+measurements: [onces, demy sestier, once]
 bodyparts: []
 places: []
 plants: []
@@ -49,7 +49,7 @@ animals: []
 ## Pour faire <span class="m">eau fort</span>
 
  
- Prenés ung demy sestier de <span class="m">vinaigre</span> avecq une once de <span class="m">verd<br/> de gris</span> & une once de <span class="m">copperouse</span> & une once de <span class="m">solle</span>, puys les<br/> mectés ensemble dans une fiolle de voyrre.
+ Prenés ung <span class="ms">demy sestier</span> de <span class="m">vinaigre</span> avecq une <span class="ms">once</span> de <span class="m">verd<br/> de gris</span> & une <span class="ms">once</span> de <span class="m">copperouse</span> & une <span class="ms">once</span> de <span class="m">solle</span>, puys les<br/> mectés ensemble dans une <span class="tl">fiolle de <span class="m">voyrre</span></span>.
  
  
   

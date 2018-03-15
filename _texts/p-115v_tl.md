@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Tin, herbage, flower, tin, lead, ,, bismuth, clay, fire, bricks, charcoal, coals, silver]
+materials: [Tin, plant, flower, tin, lead, looking-glass tin]
 tools: []
 measurements: []
 bodyparts: []
@@ -25,33 +25,33 @@ animals: []
 ## <span class="m">Tin</span> casting
 
  
-If the <span class="m">herbage</span> or <span class="m">flower</span> you want to cast is delicate and fine, <span class="m">tin</span> must exceed <span class="m">lead</span> in your mixture; on the contrary, if it the flower or herbage is thick, you must add into your mixture more <span class="m">lead</span> than <span class="m">tin</span>. For a fine thing<span class="m">,</span> put to the <span class="m">tin</span> not quite the fourth part of <span class="m">lead</span>. Your mold must not be too hot, so you can hold it with your hand when you cast. Your alloyed <span class="m">tin</span> must be very hot and almost red for casting, and that way it will enter all the small parts of the mold. Otherwise, your tin will cool down before reaching the thin parts of your <span class="m">herbage</span>. Do not forget to mix a little <span class="m">bismuth</span> in your mixture; that way, your tin will run better and be firmer.
+If the <span class="m">plant</span> or <span class="m">flower</span> that you want to cast is delicate & fine, it is necessary that the <span class="m">tin</span> exceeds <span class="m">lead</span> in the mixture & on the contrary, if it is thick, it is necessary that lead exceed. Therefore for the fine thing, put in some fine tin, not all the quarter part of lead. And make sure that your mold is hottish, such that you can hold it in your hand, when you want to cast. As for the alloyed <span class="m">tin</span>,the same as mentioned, it is necessary that it is very hot & almost red for casting, so that it penetrates. Otherwise, having to run the length of the fine branches of the plant, it will get cold before arriving there. And no forget to mix in it a little <span class="m">looking—glass tin</span>, which makes it run better & firms it up.
  
 > *at left top margin*
 > 
 > 
->   With your <span class="m">lead</span> allied with <span class="m">tin</span>, or <span class="m">tin</span> allied with <span class="m">lead</span>, you can add a very little quantity of <span class="m">bismuth</span> and it will look silvery. But do not put too much, because if hardens the matter and makes it sour, and if your work on fine things —— like legs and similar things —— it will not cast properly.
+>   In the <span class="m">lead</span> alloyed with <span class="m">tin</span>, or <span class="m">tin</span> alloyed with <span class="m">lead</span>, you can put a little bit of <span class="m">looking—glass tin</span> & it will seem silver. But do not put too much, for this hardens the substance & sours it also, so that for a delicate thing like legs & similar things, it would not be appropriate.
  
  
   
 
-## Giving ventilation to your mold
+## Venting molds
 
  
-If your herbage is very fine, in addition to vents, you can pass a thread through the <span class="m">clay</span> contour instead of casting with a needle, and ensure that it also passes through the herbage. As the thread burns like the herbage, the hole will remain, which will give air and wind to help clean.
+In addition to your vents, if your plant is very fine, you can pass a thread through the clay circle, rather than casting with a needle, & make sure it passes through the plant. And with thread, burning like the plant, a hole will remain, which will create air & venting, to help clean.
  
 > *at left middle margin*
 > 
 > 
->   Do not remove your annealed molds out of the <span class="m">fire</span> before they have cooled down by themselves. Also make sure that your very hot molds do not come into contact with wind or coldness otherwise they would burst. Do not reheat your molds before they are drained and firm again, otherwise they would cast before the vent holes are made and the clamps are fixed.
+>   Do not pull out your reheated molds from the fire, before they have cooled themselves & take care that neither the wind or the cold hits them while very hot, for this would make them burst. One must not reheat them before they are dry and firmed up for they would cast in a different way, and it is necessary before hand to make gates & vents & place clamps.
  
  
   
 
-## Annealing core molds
+## Reheating noyau molds
 
  
-After your molds have their cast vents and clamps, fix the clamps as above mentioned. Then make a round, made of <span class="m">bricks</span>, at the edge of your forge, or in a clean place. Fill this round with big, half—lighted pieces of <span class="m">charcoal</span>. Put your molds on the round, and leave it during half an hour, that way it will gently heat up and not all at once. Finally, when <span class="m">coals</span> start being white, add big half—lighted big pieces of <span class="m">charcoal</span> and blow with your small bellows until hot. Do as such, slowly, until the molds redden inside and out. If you want to cast a herbage or an animal which are difficult to strip, and you need to burn what is in the mold, look into the cast and see if it is molds are quite red and inflamed inside; this will be a sign that they are properly annealed. If it is not so, increase the heat and keep at it until it becomes thus. If there is nothing inside the mold to be burnt, this heat is good for <span class="m">tin</span> casting. The molds for <span class="m">tin</span> casting are much better annealed in a reverberatory furnace.
+After your molds have their gate, vents & clamps, as mentioned, make at the end of the forge, or in some clean place, a surrounding of bricks, and fill it with large half lit charcoal. And place your molds on top, and leave the charcoals thusly to light by themselves for a half hour, so that they heat little by little and not all at once. Finally as they begin to become white, beat the thusly half—lit large charcoals on top & blow with your little bellows, until they are warmed. And thusly, little by little, invigorate the fire, without haste, until you molds are well red on the outside & the inside. If it is for casting some plant or some animal which does not release well & in this case, one needs to burn it in the mold & when you look through the gate & through it you see the molds are very red & inflamed inside,this will be your signal that they are reheated enough. But if you do not see this signal, increase &continue the fire until it is the case. If there is nothing in the mold that needs burning, it will be enough that they are dried well on the same fire, if it is for casting tin, they reheat better in a reverberatory furnace.
  <span class="x">image</span> 
 > *at left bottom margin*
 > 
@@ -59,17 +59,17 @@ After your molds have their cast vents and clamps, fix the clamps as above menti
 >   
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5dHVja3NnV0dmMlk" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
- Do not heat too much at first otherwise your molds could break
+ Take care to not heat the fire in one go, for fear that you molds crack inside.
  
 > *at left bottom margin*
 > 
 > 
->   You know that your molds are annealed enough if the hole in the cast is red, on the contrary if the hole is black the molds are not annealed enough.
+>   They are reheated enough when the entire hole of the gate is red. When it is black, it is not enough.
  
 > *at left bottom margin*
 > 
 > 
->   If you want to cast <span class="m">silver</span>, do not anneal twice, and if something stays in the mold and that must be burnt because no good <span class="x">…</span>
+>   For casting in silver, one must not reheat two times, if there is nothing in the mold that needs burning, simply because it does not release well. All the molds of farriers are reheated two times, first for
  
 *[continued]*
  

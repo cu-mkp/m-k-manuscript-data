@@ -8,8 +8,8 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [fer, Cuivre, plomb, estain, sublime, os de seiche, papier, cendres, cotton, eau fort, sel ammoniac, eau regale, eau gommee, cuivre, estaim, croye blanche, os de cheval brusles & calcines, moele des cornes des boeufs, mouton, os spongieulx, os, metal aigre vient mieulx que le gras, sable maigre le recoit mieulx & le suppe que le dense]
-tools: [os de seiche]
+materials: [Soulder, soulder, liste de fer, Cuivre, fer, plomb, estain, sublime, os de seiche, papier, cendres, cotton, eau fort, sel ammoniac, eau regale, eau gommee, cuivre, estaim, croye blanche, os de cheval brusles & calcines, moele des cornes des boeufs, mouton, os spongieulx, os, metal aigre vient mieulx que le gras, sable maigre le recoit mieulx & le suppe que le dense]
+tools: [estoc, ancrou, vis, marteau, os de seiche]
 measurements: [moictie]
 bodyparts: []
 places: [champaigne, lyon]
@@ -22,10 +22,10 @@ animals: [seiche, cheval, boeufs, mouton]
  <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-053r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f111.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>053r</a> - - - - - </div>  
   
 
-## Soulder un estoc
+## <span class="m">Soulder</span> un <span class="tl">estoc</span>
 
  
-Il est bon que les joues de lestoc soient haultes pour y former une<br/> longue piece Et que les joues joignent bien affin de serrer une chose<br/> subtile Pour soulder lancrou Apres que tu as forge la vis tu <span class="del">feras</span><br/> forgeras une longue liste de <span class="m">fer</span> <span class="del">quar</span> de telle grosseur quelle puisse entrer dans<br/> lencochement de la vis estant rougie & luy <span class="del">po</span> feras plier tout aultour<br/> la frapant du marteau Y estant bien <span class="del">jo</span> entourne Tu <span class="del">la</span> feras<br/> entrer la vis <span class="del">o</span> sur laquelle <span class="del">est</span> elle est entournee
+Il est bon que les joues de l<span class="tl">estoc</span> soient haultes pour y former une<br/> longue piece Et que les joues joignent bien affin de serrer une chose<br/> subtile Pour <span class="m">soulder</span> l<span class="tl">ancrou</span> Apres que tu as forge la <span class="tl">vis</span> tu <span class="del">feras</span><br/> forgeras une longue <span class="m">liste de fer</span> <span class="del">quar</span> de telle grosseur quelle puisse entrer dans<br/> lencochement de la <span class="tl">vis</span> estant rougie & luy <span class="del">po</span> feras plier tout aultour<br/> la frapant du <span class="tl">marteau</span> Y estant bien <span class="del">jo</span> entourne Tu <span class="del">la</span> feras<br/> entrer la <span class="tl">vis</span> <span class="del">o</span> sur laquelle <span class="del">est</span> elle est entournee
  
  
   

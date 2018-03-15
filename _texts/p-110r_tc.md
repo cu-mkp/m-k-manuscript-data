@@ -8,9 +8,9 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [Rocher, marchasites blanches & jaulnes, mines, mine, roche, colle forte, terre]
+materials: [Rocher, marchasites blanches & jaulnes, mines, mine, roche, colle forte, terre, terre fresche & humide]
 tools: [pied, costeau]
-measurements: [doitgts, heure]
+measurements: [doitgts, quart dheure]
 bodyparts: [pied, doitgts, main]
 places: []
 plants: []
@@ -41,12 +41,12 @@ Il fault piler des <span class="m">marchasites blanches & jaulnes</span> & diver
 ## <span class="al">Serpens</span>
 
  
-Quand ils se sentent pris ils ne mordent gueres & nont pas<br/> grand vertu de nuire si ce ne sont fort grans <span class="al">serpens</span> Le<br/> principal est de se garder destre mordu plustost que lavoir<br/> prins Et luy ayant mis le <span class="tl"><span class="bp">pied</span></span> dessus au plus pres du col<br/> quon peult il le fault prendre le plus pres de la teste car<br/> il ne scauroit mordre sil na moyen dalonger le col & faire un<br/> tour sinueulx & oblique & ne <span class="del">s</span> peult nuire de droicte attaque<br/> co<span class="exp">mm</span>e aussy il ne scauroit marcher de droict aller ains entortile<br/> en forme de S Jay veu que celuy qui maprist a les mouler<br/> nen faisoict aucun compte & masseuroit ny faire aultre subtilite<br/> sinon quen le prenant il le tiroit un peu presse & acache par<br/> le col & le faisant passer soubs le soulier il laplatissoit de telle<br/> sorte quil rendoit <span class="del">soubs</span> par le fondem<span class="exp">ent</span> qui est a cinq ou six<br/> <span class="ms"><span class="bp">doitgts</span></span> du bout de la queue tout ce quil avoit de meschant<br/> et veneneux dans le ventre quapres cela il nha point force<br/> de mordre Et si par cas fortuit il mordoit ou rejectoit<br/> par le fondem<span class="exp">ent</span> quelque ordure Il ne faisoit que creuser<br/> la <span class="env"><span class="m">terre</span></span> avecq un <span class="tl">costeau</span> & y ensepvelir sa <span class="bp">main</span> <span class="env">dans la<br/> <span class="m">terre</span> fresche & humide</span> Laquelle aplique fresche <span class="del">en</span> sur<br/> la <span class="md">partie infectee</span> en tire tout le venin sans aultre chose<br/> Aultant est il du venin du <span class="al">crapault</span> que jay veu experimenter
+Quand ils se sentent pris ils ne mordent gueres & nont pas<br/> grand vertu de nuire si ce ne sont fort grans <span class="al">serpens</span> Le<br/> principal est de se garder destre mordu plustost que lavoir<br/> prins Et luy ayant mis le <span class="tl"><span class="bp">pied</span></span> dessus au plus pres du col<br/> quon peult il le fault prendre le plus pres de la teste car<br/> il ne scauroit mordre sil na moyen dalonger le col & faire un<br/> tour sinueulx & oblique & ne <span class="del">s</span> peult nuire de droicte attaque<br/> co<span class="exp">mm</span>e aussy il ne scauroit marcher de droict aller ains entortile<br/> en forme de S Jay veu que <span class="pn">celuy qui maprist a les mouler</span><br/> nen faisoict aucun compte & masseuroit ny faire aultre subtilite<br/> sinon quen le prenant il le tiroit un peu presse & acache par<br/> le col & le faisant passer soubs le soulier il laplatissoit de telle<br/> sorte quil rendoit <span class="del">soubs</span> par le fondem<span class="exp">ent</span> qui est a cinq ou six<br/> <span class="ms"><span class="bp">doitgts</span></span> du bout de la queue tout ce quil avoit de meschant<br/> et veneneux dans le ventre quapres cela il nha point force<br/> de mordre Et si par cas fortuit il mordoit ou rejectoit<br/> par le fondem<span class="exp">ent</span> quelque ordure Il ne faisoit que creuser<br/> la <span class="env"><span class="m">terre</span></span> avecq un <span class="tl">costeau</span> & y ensepvelir sa <span class="bp">main</span> <span class="env">dans la<br/> <span class="m">terre fresche & humide</span></span> Laquelle aplique fresche <span class="del">en</span> sur<br/> la <span class="md">partie infectee</span> en tire tout le venin sans aultre chose<br/> Aultant est il du venin du <span class="al">crapault</span> que jay veu experimenter
  
 > *at left middle margin*
 > 
 > 
->   Dans trois<br/> il est presque<br/> aultant<br/> maigre quil<br/> sera apres sil<br/> ne mange poinct<br/> Le mouler le<br/> plustost apres<br/> quil est pre<br/> est les meilleur<br/> deva<span class="exp">n</span>t quil<br/> samaigrisse<br/> Il ne le fault<br/> faire mourir<br/> quun quart<br/> d<span class="ms">heure</span> deva<span class="exp">n</span>t<br/> que tu veulx<br/> mouler
+>   Dans trois<br/> il est presque<br/> aultant<br/> maigre quil<br/> sera apres sil<br/> ne mange poinct<br/> Le mouler le<br/> plustost apres<br/> quil est pre<br/> est les meilleur<br/> deva<span class="exp">n</span>t quil<br/> samaigrisse<br/> Il ne le fault<br/> faire mourir<br/> quun <span class="ms"><span class="tmp">quart<br/> dheure</span></span> deva<span class="exp">n</span>t<br/> que tu veulx<br/> mouler
  
 *[continued]*
  

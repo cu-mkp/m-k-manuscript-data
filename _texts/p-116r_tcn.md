@@ -48,7 +48,7 @@ animals: [serpents]
 > *at left middle margin*
 > 
 > 
->   Quand tu as<br/> destrempé<br/> ton sable,<br/> ne gecte pas<br/> sur le milieu<br/> du <span class="tl">moule</span><br/> mays sur le<br/> bord, affin<br/> que le sable<br/> descende<br/> doulcement.<br/> Que le co<span class="exp">m</span>ma<span class="exp">n</span>—<br/> cement soict<br/> cler & aprés<br/> espés. Si ton<br/> sable destrempé<br/> crie co<span class="exp">mm</span>e <span class="m">eau</span><br/> tumbant<br/> dans le <span class="tl">molle</span>,<br/> c'est signe qu'il<br/> est trop cler.<br/> Fais le<br/> doncq de<br/> moyenne<br/> espesseur. 
+>   Quand tu as<br/> destrempé<br/> ton sable,<br/> ne gecte pas<br/> sur le milieu<br/> du <span class="tl">moule</span><br/> mays sur le<br/> bord, affin<br/> que le sable<br/> descende<br/> doulcement,<br/> que le co<span class="exp">m</span>ma<span class="exp">n</span>—<br/> cement soict<br/> cler & aprés<br/> espés. Si ton<br/> sable destrempé<br/> crie co<span class="exp">mm</span>e <span class="m">eau</span><br/> tumbant<br/> dans le <span class="tl">molle</span>,<br/> c'est signe qu'il<br/> est trop cler.<br/> Fais le<br/> doncq de<br/> moyenne<br/> espesseur. 
  
  
   
@@ -56,7 +56,7 @@ animals: [serpents]
 ## Gect pour <span class="m">or</span> et <span class="m">arge<span class="exp">n</span>t</span>
 
  
- Il fault que les <span class="tl">moules</span> soient rouges de foeu & embrasés<br/> quand tu y gectes <span class="m">or</span> & <span class="m">argent</span> ou que tu fais brusler les<br/> fleurs & bouquets. Le gect ne doibt poinct estre beaucoup espés sur<br/> l'entree de la chose moulée, pource que la matiere va mieulx à son aise,<br/> sans estonner le <span class="tl">moule</span>, &<br/> ne soufle pas tant. 
+ Il fault que les <span class="tl">moules</span> soient rouges de foeu & embrasés<br/> quand tu y gectes <span class="m">or</span> & <span class="m">argent</span> ou que tu fais brusler les<br/> fleurs & bouquets. Le gect ne doibt poinct estre beaucoup espés sur<br/> l'entree de la chose moulée, pource que la matiere va mieulx à son aise<br/> sans estonner le <span class="tl">moule</span>, &<br/> ne soufle pas tant. 
  
  
   

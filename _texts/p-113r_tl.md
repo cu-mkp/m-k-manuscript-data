@@ -8,38 +8,46 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [iron, latten, wax, grain of millet, clay, spirits, clay earth, earth, water, plaster, cotton, leaded earth]
-tools: []
-measurements: []
-bodyparts: []
+materials: [iron wire, strings of spinets, the one of latten, wax, grain of millet, earth, eau de vye, Eau de vye, clay, water, cotton, leaded]
+tools: [points, needles, point, knife, small curved instrument, mold, pinceau, bowl of leaded earth]
+measurements: [as big as a grain of millet, poulces]
+bodyparts: [poulces]
 places: []
-plants: []
+plants: [millet]
 professions: []
 environments: []
-animals: [serpent, clay]
+animals: [common snake, snake]
 ---
 
  <p><a href="{{ site.baseurl }}/translation/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-113r_tc/" target="_blank">[diplomatic]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f231.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>113r</a> - - - - - </div>  
  
 *[continued]*
   
-a bit so that you can take it out if you need to. And be advised that these needle points must be of the thinnest kind of <span class="m">iron</span> wire, with a length that is suitable to the animal; because the smaller your needle is, the smaller the leftover hole will be. However, you must have different sized ones because there are some needles that go on the body & in places that are thicker, like under the throat, and some <span class="sup">needles</span> must be longer & stronger than the ones used on legs & thin places, where the needles must be subtle & thin, almost like the biggest harpsichord strings. And it would be better if they were of <span class="m">iron</span> wire, which is firmer than the one made of <span class="m">latten</span>. And if piece of a tail, a piece of nail or a piece of leg to the body needs to be joined to the body, do not use the needle; it would damage these parts. But apply a bit of <span class="m">wax</span>, as big as a <span class="m">grain of millet</span>, between the body & the end of the tail. Then with a bit of <span class="m">iron</span> wire, flattened & warm, touch the <span class="m">wax</span> & join the two pieces by applying a bit of pressure. In this way, after your animal has been well—placed on the lute—shaped pancake <span class="sup">of clay earth</span>, 
+bit <span class="del">qua</span> so that <span class="del">t</span> you can take it out if you need to. And take heed that it is necessary that these <span class="tl">points</span> be of the most delicate <span class="m">iron wire</span> possible to bear the size of the animals. For, the more delicate it is, the smaller the hole that it leaves appears. However, one needs some of different thicknesses, because <span class="del">il</span> <span class="del">de</span> the <span class="tl">points</span> which are put in the body & in thicker places, like under the throat, ought to be longer & stronger than the ones of the legs & thin parts, where the <span class="tl">needles</span> ought to be subtle & delicate, almost like the biggest <span class="m">strings of <span class="mu">spinets</span></span>. And it is better that they be of <span class="m">iron wire</span>, which is firmer than <span class="m">the one of latten</span>. And if the end of the tail, or the end of a nail or a leg ought to be joined to the body, do not put the <span class="tl">point</span> there, not to corrupt it. But place a piece of <span class="m">wax</span>, <span class="ms">as big as a <span class="m">grain of <span class="pa">millet</span></span></span>, between the body & <span class="del">ce</span> <span class="del">qui</span> the end of the tail, then with a bit of flattened & hot <span class="m">iron wire</span>, touch this <span class="m">wax</span> & join by lightly pressing. Thus having placed your animal on the tourtelle shaped like a <span class="mu">mandore</span>, place all around a circle of the same 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5YkE1Vm1ZMmRoVm8" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
- build around it a wall of the same <span class="m">clay</span> 
+ <span class="m">earth</span>, in this way 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5aW1sekxQWGJJY0E" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
- in this way. & join everything together. And then with a big knife, with which you have cut the <span class="m">clay</span>, take away the extraneous <span class="sup">clay</span> surrounding the pancake. & place on a piece at the end of the mold to close it off, as you see in B. Then, with a small curved instrument, mark on the inside of your mold the thickness you wish, which for a common <span class="al">serpent</span> must be two inches thick; so that when you put in your wet sand, you will see when it is thick enough. When all of this is neatly set out, moisten well the shaped body of the animal everywhere, with good <span class="m">spirits</span>, with a brush. For this is the best—kept secret: because everything that is touched by <span class="m">spirits</span> will come out very neatly & without any small eyes or holes that we call bubbles, which usually come not at the back & in the thick sides of the mold, but on the edges. And as soon as you have thusly moistened everything with <span class="m">spirits</span>, put in your wet sand without letting the <span class="m">spirits</span> evaporate, which they do quickly. And soak it thusly.
+ & join everything well together in a circle, then, with a big <span class="tl">knife</span>, with which you have cut your tourtelle to the right size, pare the outside which exceeds it, & place there a piece to close it as you see in b. Then, with a <span class="tl">small curved instrument</span>, mark on the inside of the circle the thickness you want to give to the <span class="tl">mold</span>, which will be for a <span class="al">common snake</span> as thick as two <span class="ms"><span class="bp">poulces</span></span>, so that when you throw in your wet sand, you will see when it is thick enough. All of this scrupulously arranged, moisten well everywhere with good <span class="m">eau de vye</span> with a <span class="tl">pinceau</span> the body of the animal which is uncovered. For this the secret <span class="del">de la plus</span> kept well hidden, because everything that is <span class="del">v</span> touched by <span class="m">eau de vye</span> will undoubtedly come out very neatly & without <span class="del">bubbles</span> any small eyes or holes that we call bubbles, which usually come not at the back & in the thick sides of the <span class="tl">mold</span>, but on the edges. And as soon as you have thusly moistened everything with <span class="m">eau de vye</span>, throw in your wet sand without letting the <span class="m">eau de vye</span> dry, which evaporates promptly. And wet it thusly.
  
- 
+> *at left top margin*
+> 
+> 
+>   
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5MDEzX0RhXzJGcXc" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
- and make sure the needle is as long as you need according to how much you want to raise the head, and that both ends are sharp. Having been arranged thusly, affix your <span class="al">serpent</span> on the <span class="m">clay earth</span>, & place the head first and then the rest. 
+ and make sure that the <span class="tl">point</span> is long according to the height you want the head, and that it be pointed on both ends. Once placed thusly, plant your <span class="al">snake</span> on the slab of <span class="m">earth</span>, & arrange the head first and then the rest. 
  
 > *at left middle margin*
 > 
 > 
->   If, once you have placed you animal on sheet of <span class="m">clay</span>, you are distracted with other occupations, rub your animal with <span class="m">spirits</span> & under the belly so that it does not stick & attach itself to the <span class="sup"><span class="al">clay</span></span> <span class="m">earth</span>. 
+>   <span class="m">Eau de vye</span> in three goes. 
+ 
+> *at left middle margin*
+> 
+> 
+>   If after you have placed you animal on your <span class="m">clay</span> tourtelle, you are distracted with other occupations, rub your animal with <span class="m">eau de vye</span> & under the belly so that it does not dry & attach itself to the <span class="m">earth</span> 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5Qm8wSlJPOWxfZWM" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  
@@ -47,7 +55,7 @@ a bit so that you can take it out if you need to. And be advised that these need
 > *at left bottom margin*
 > 
 > 
-> If, when you pierce the belly of your animal, it releases <span class="m">water</span> on the <span class="m">plaster</span>, clean it well with <span class="m">cotton</span> because the sand that was wet will become lumpy. If it is on top of the animal, clean it very carefully and very neatly and touch it & strongly wet it with <span class="m">spirits</span>.
+>   If, when you pierce your animal, it renders <span class="m">water</span> from the bottom of the side of the belly, on the slab of <span class="m">earth</span>, clean it well with <span class="m">cotton</span> for the sand that would touch it would be lumpy. If it is on top of the animal, clean it very scrupulously and touch it &moisten well with <span class="m">eau de vye</span>. 
  
  
   
@@ -55,7 +63,7 @@ a bit so that you can take it out if you need to. And be advised that these need
 ## Wetting sand and molding the first cast
 
  
-Have a porringer of <span class="m">leaded earth</span> of such a size that it can hold the wet sand which will be needed to fill your mold in one go, which is better than in two gos, because if you do not throw the second load of sand in very quickly, there is a risk that while you are preparing it, the first one will take & become solid,
+Take a <span class="tl">bowl of <span class="m">leaded</span> <span class="m">earth</span></span> of such size that it can hold the wet sand, which will be needed <span class="del">de</span> to fill your <span class="tl">mold</span> in one go, which is <span class="del">mei</span> better than in two gos, because if you do not throw the second wet batch very promptly, there is a risk that while you are preparing it, the first one will set & become solid,
  
 *[continued]*
  

@@ -8,8 +8,8 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [poil de pourceau, salive, eau claire, eau, huile, cordes de cistre, cire, fil de fer]
-tools: [moule, costeau, trancheplume, molle, sayetes de poil de pourceau, pinceau, poinctes delicates de fil de cist cordes de cistre, tenailles, poinctes, poincte]
+materials: [poil de pourceau, salive, eau claire, eau, huile, cordes de cistre, cire, fil de fer chault]
+tools: [moule, costeau, trancheplume, molle, sayetes de poil de pourceau, pinceau, poinctes delicates de fil de cist cordes de cistre, tenailles plattes, poinctes, poincte]
 measurements: [espace dun pater noster]
 bodyparts: []
 places: []
@@ -41,7 +41,7 @@ Quand tu as bien moule la premiere partye de lanimal qui est<br/> le dos et esch
 >   
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5NVR5Y2FtZHM0ck0" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
-<br/> retire avecq tes<br/> petites <span class="tl">tenailles</span><br/> plattes toutes<br/> tes <span class="tl">poinctes</span>
+<br/> retire avecq tes<br/> petites <span class="tl">tenailles<br/> plattes</span> toutes<br/> tes <span class="tl">poinctes</span>
  
 > *at left top margin*
 > 
@@ -56,7 +56,7 @@ Quand tu as bien moule la premiere partye de lanimal qui est<br/> le dos et esch
 > *at left bottom margin*
 > 
 > 
->  #<br/> Et si quelque bout<br/> dongle de paste<br/> ou de queue ou daultre<br/> chose subtile se<br/> separoit du <span class="tl">moule</span><br/> mets <span class="del">y</span> entre deulx<br/> un petit grain de<br/> <span class="m">cire</span> & avecq la<br/> <span class="tl">poincte</span> dun <span class="m">fil de<br/> fer</span> chault conjoints<br/> le puys adapte<br/> ton <span class="tl">moule</span> avecq un<br/> <span class="tl">costeau</span> & y fais<br/> des coches par<br/> les costets affin<br/> que laultre<br/> moictie sy lie 🝋<br/> 
+>  #<br/> Et si quelque bout<br/> dongle de paste<br/> ou de queue ou daultre<br/> chose subtile se<br/> separoit du <span class="tl">moule</span><br/> mets <span class="del">y</span> entre deulx<br/> un petit grain de<br/> <span class="m">cire</span> & avecq la<br/> <span class="tl">poincte</span> dun <span class="m">fil de<br/> fer chault</span> conjoints<br/> le puys adapte<br/> ton <span class="tl">moule</span> avecq un<br/> <span class="tl">costeau</span> & y fais<br/> des coches par<br/> les costets affin<br/> que laultre<br/> moictie sy lie 🝋<br/> 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5TTRuWU8yVktnc3M" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
  

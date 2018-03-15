@@ -8,9 +8,9 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [rouge clair, esmail, sang de dragon, eau de vye, laque platte dinde, tormentine claire, larme de mastic, argent, Letton, calamine, letton, charbons, Metal, estaim doibt estre pur, plomb, estain, cendree, Eau fort, lutee, cendres, charbon]
-tools: [four a ventde souflets, creusets, four a vent souflets, fourneau]
-measurements: [dour, pied]
+materials: [rouge clair, esmail, sang de dragon, eau de vye, laque platte dinde, tormentine claire, larme de mastic, argent, Letton, calamine, letton, charbons, Metal, estaim doibt estre pur, plomb, estain, cendree, Eau fort, lutee, cendres, espricts]
+tools: [four a ventde souflets, creusets, four a vent souflets, cornue, lutee, cendres, fourneau, grille haulte, grille basse]
+measurements: [dour, demy pied]
 bodyparts: []
 places: [malte, inde, flandres]
 plants: []
@@ -49,6 +49,6 @@ L<span class="m">estaim doibt estre pur</span> Car sil y a du <span class="m">pl
 ## <span class="m">Eau fort</span>
 
  
-Si ta cornue est bien <span class="m">lutee</span> il ne la fault poinct entourner<br/> de <span class="m">cendres</span> qui ne feroient quempescher de bien chasser les<br/> espricts Mays quand tu luy donneras sur la fin feu de<br/> chasse entourne la de <span class="m">charbons</span> qui plustost soient allumes ailleurs<br/> co<span class="x">mm</span>e doibvent estre ceulx du <span class="tl">fourneau</span> affin quilz ne petillent<br/> poinct & ne fassent poinct de fumee Mects lesdicts <span class="m">charbons</span><br/> allumes aultour le corps de la cornue & non pas pres du col<br/> qui na poinct besoing destre si vivement chaufe La grille<br/> haulte ou tu assois ta cornue est asses distante dun <span class="ms">dour</span> ou<br/> demy <span class="ms">pied</span> de la grille basse ou se mect le <span class="m">charbon</span> Car en ce<br/> faisant il ne sen gaste pas tant
+Si ta <span class="tl">cornue</span> est bien <span class="tl"><span class="m">lutee</span></span> il ne la fault poinct entourner<br/> de <span class="tl"><span class="m">cendres</span></span> qui ne feroient quempescher de bien chasser les<br/> <span class="m">espricts</span> Mays quand tu luy donneras sur la fin feu de<br/> chasse entourne la de charbons qui plustost soient allumes ailleurs<br/> co<span class="exp">mm</span>e doibvent estre ceulx du <span class="tl">fourneau</span> affin quilz ne petillent<br/> poinct & ne fassent poinct de fumee Mects lesdicts charbons<br/> allumes aultour le corps de la <span class="tl">cornue</span> & non pas pres du col<br/> qui na poinct besoing destre si vivement chaufe La <span class="tl">grille<br/> haulte</span> ou tu assois ta <span class="tl">cornue</span> est asses distante dun <span class="ms">dour</span> ou<br/> <span class="ms">demy pied</span> de la <span class="tl">grille basse</span> ou se mect le charbon Car en ce<br/> faisant il ne sen gaste pas tant
  
  

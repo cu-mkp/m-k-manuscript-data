@@ -43,9 +43,9 @@ Il fault laisser froidir le <span class="tl">moule</span> plustost que<br/> souf
  
   
 
-## Po<span class="exp">ur</span> f<span class="exp">air</span>e h<span class="exp">…</span> vin f<span class="exp">…</span>rs <span class="ill"></span>
+## Po<span class="exp">ur</span> f<span class="exp">air</span>e h<span class="exp">…</span> un f<span class="exp">…</span>rs
 
  
-Prenez un chausson du pied droid <span class="add">t</span> qui ait esté porté et le faictes<br/> tremper en <span class="m">eau</span>, et de l'<span class="m">eau</span> q<span class="exp">u</span>i en sortira la f<span class="exp">air</span>e boyre au mesme<br/> ou autre et v<span class="exp">er</span>rez merveilles.
+Prenez un chausson du pied droi<span class="del">d</span><span class="add">t</span> qui ait esté porté et le faictes<br/> tremper en <span class="m">eau</span>, et de l'<span class="m">eau</span> q<span class="exp">u</span>i en sortira la f<span class="exp">air</span>e boyre au mesme<br/> ou au au<span class="exp">tr</span>e et v<span class="exp">er</span>rez merveilles.
  
  

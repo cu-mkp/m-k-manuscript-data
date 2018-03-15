@@ -8,9 +8,9 @@ author:
 mode: tc
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [eau, eau commune, plombee, boys, huile, plume, plastre, alum de plume, brique, verre, son, terre, vinaigre, urine]
-tools: [conche, moules, broc, escuelle plombee, cueillere de boys, escuelle, pinceaulx a huile, tamis, mains, mortier, bouteille de verre, barrique, bouteille, vaisseau]
-measurements: [parties, heure]
+materials: [eau, eau commune, plombee, boys, huile, plume, plastre, alum de plume, brique, verre, son, terre fresche & humide, bon vinaigre, urine, vinaigre]
+tools: [conche, moules, broc, escuelle plombee, cueillere de boys, escuelle, pinceaulx a huile, tuiaulx de plume, tamis, mains, mortier, bouteille de verre, barrique, bouteille ou vaisseau nect]
+measurements: [parties, demye heure]
 bodyparts: [mains]
 places: []
 plants: []
@@ -30,7 +30,7 @@ Il te fault avoir une grande <span class="tl">conche</span> pleine d<span class=
 > *at left top margin*
 > 
 > 
->   pour mancher tes gros<br/> <span class="tl">pinceaulx a <span class="m">huile</span></span> si tu nas<br/> dasses gros tuiaulx de <span class="m">plume</span><br/> prens en deulx & les fends & joints ensemble 
+>   pour mancher tes gros<br/> <span class="tl">pinceaulx a <span class="m">huile</span></span> si tu nas<br/> dasses gros <span class="tl">tuiaulx de <span class="m">plume</span></span><br/> prens en deulx & les fends & joints ensemble 
  
 > *Figure*
 > *at left top margin*
@@ -42,7 +42,7 @@ Il te fault avoir une grande <span class="tl">conche</span> pleine d<span class=
 ## Decoction des sables
 
  
-Desja dicte.
+Desja dicte
  
  
   
@@ -63,7 +63,7 @@ Ayant recuict ton sable scavoir le <span class="m">plastre</span> l<span class="
 ## Fayre mourir lanimal a mouler
 
  
-Il fault que tu ayes este curieulx de ne le blesser poinct en le<br/> prenant et layant mis dans une <span class="tl">bouteille de <span class="m">verre</span></span> <span class="del">d</span> avecq du<br/> <span class="m">son</span> ou dans un <span class="tl">barrique</span> <span class="del">pleine</span> demy pleine de <span class="m">terre</span> fresche<br/> & humide si tu en as provision ou que tu les veuilles garder long<br/> temps Que tu leur donnes des <span class="al">grenoilles</span> vives & non mortes<br/> pour manger Car si tu les gardes sans quils se paissent<br/> ilz se flaitrissent & amaigrissent & ont de longues peaulx ridees<br/> Ainsy pour le mieulx tu le mouleras le plustost <span class="del">apres</span> quil se sera<br/> possible <span class="del">apre</span> apres quil aura este prins Mays plustost fais<br/> le mourir en ceste sorte Mects le dans une <span class="tl">bouteille</span> ou <span class="tl">vaisseau</span><br/> nect affin quil ne se charge daulcune poulsiere Et mects dedans<br/> telle quantite de bon <span class="m">vinaigre</span> & d<span class="m">urine</span> quil en puisse estre couvert<br/> Et remue le & le tourmente la dedans jusques a ce quil soict<br/> mort ce qui sera en une ou demye <span class="ms"><span class="tmp">heure</span></span> Mays si tu est presse
+Il fault que tu ayes este curieulx de ne le blesser poinct en le<br/> prenant et layant mis dans une <span class="tl">bouteille de <span class="m">verre</span></span> <span class="del">d</span> avecq du<br/> <span class="m">son</span> ou dans un <span class="tl">barrique</span> <span class="del">pleine</span> demy pleine de <span class="m">terre fresche<br/> & humide</span> si tu en as provision ou que tu les veuilles garder <span class="tmp">long<br/> temps</span> Que tu leur donnes des <span class="al">grenoilles</span> vives & non mortes<br/> pour manger Car si tu les gardes sans quils se paissent<br/> ilz se flaitrissent & amaigrissent & ont de longues peaulx ridees<br/> Ainsy pour le mieulx tu le mouleras le plustost <span class="del">apres</span> quil se sera<br/> possible <span class="del">apre</span> apres quil aura este prins Mays plustost fais<br/> le mourir en ceste sorte Mects le dans une <span class="tl">bouteille ou vaisseau<br/> nect</span> affin quil ne se charge daulcune poulsiere Et mects dedans<br/> telle quantite de <span class="m">bon vinaigre</span> & d<span class="m">urine</span> quil en puisse estre couvert<br/> Et remue le & le tourmente la dedans jusques a ce quil soict<br/> mort ce qui sera en une ou <span class="ms"><span class="tmp">demye heure</span></span> Mays si tu est presse
  
 > *at left bottom margin*
 > 

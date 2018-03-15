@@ -1,9 +1,9 @@
-604|moule
-238|moules
+603|moule
+240|moules
 165|chassis
 109|pinceau
+92|
 88|crusol
-88|
 79|mortier
 78|mabre
 65|four
@@ -13,35 +13,36 @@
 50|molle
 50|forge
 48|os
+46|pot
 45|tamis
-45|pot
 44|porphire
 44|doigt
 43|vaisseau
 40|souflet
+40|poincte
 40|papier
-39|poincte
 38|crampons
 35|poinctes
 34|lime
 34|boicte
-32|burin
+33|burin
 31|linge
 30|fil de fer
-28|marteau
+29|marteau
 25|souflets
+25|esponge
 24|fer
-24|esponge
 24|doigts
 24|creuset
 23|escuelle
 22|chaple
 22|broisse
-21|table
 20|trancheplume
+20|table
+20|plume
 20|chandelle
-20|bouteille
 19|four a vent
+19|bouteille
 18|verre
 18|regle
 18|pilon
@@ -49,22 +50,22 @@
 18|mortiers
 18|main
 18|gabions
-17|plume
 17|mains
+17|grille
 16|presse
 16|pallete
-16|grille
-16|cousteau
 16|corde
 16|chevilles
 16|Moules
 15|os de seiche
+15|cousteau
 14|roue
 14|poincte de fer
 14|molles
 14|compas
 14|ciselet
 13|marbre
+13|manche
 13|filet
 12|plane
 12|moulle
@@ -81,7 +82,6 @@
 10|serviette
 10|poinctes de fer
 10|poincte de fil de fer
-10|planche
 10|pincettes
 10|espingle
 10|de fer
@@ -89,10 +89,11 @@
 10|ciseau
 10|charbon
 10|carte
+9|vis
 9|pots
 9|poinctes de fil de fer
+9|planche
 9|pied
-9|manche
 8|presses
 8|pot de terre
 8|plaste dardille
@@ -112,8 +113,8 @@
 8|bouteille de verre
 7|fil
 7|dardille
+7|cornue
 7|cercle
-6|vis
 6|verge
 6|tuelle
 6|terrine
@@ -122,6 +123,7 @@
 6|pinceaulx
 6|paille
 6|medaille
+6|limes
 6|grattebroisse
 6|fourchette
 6|foret
@@ -155,6 +157,7 @@
 5|eau
 5|cuir
 5|couvercle
+5|cloue
 5|caisse de fer
 5|bouteille de
 4|vaisseau de terre
@@ -172,6 +175,7 @@
 4|platene dardille
 4|pinsettes
 4|piliers
+4|petit
 4|papier colle
 4|panier
 4|pallette
@@ -186,7 +190,6 @@
 4|mole
 4|manche de chemise
 4|linge rude
-4|limes
 4|lime doulce
 4|letton
 4|lampes
@@ -208,16 +211,13 @@
 4|de chien
 4|dardile
 4|dan de loup ou
-4|dacier
 4|cuilliere
 4|crusols
 4|cruset
 4|cramponer
 4|costeaulx
-4|cornue
 4|contour
 4|conche
-4|cloue
 4|cloches
 4|cierge
 4|chaulderon
@@ -245,7 +245,6 @@
 3|plastre
 3|pierre
 3|petit baston
-3|petit
 3|moules de plastre
 3|moules a chassis
 3|mirouer
@@ -254,7 +253,9 @@
 3|fornaise
 3|fil darchal
 3|de fil de fer
+3|dacier
 3|cueillere
+3|clou
 3|briques
 3|blanc
 3|a vent
@@ -455,7 +456,6 @@
 2|lamines
 2|lames
 2|lame subtile de plomb
-2|lame de fer
 2|lame de cuivre
 2|instrument recourbe
 2|horologe de sable
@@ -508,6 +508,7 @@
 2|estrier
 2|estrie ou vis de fer
 2|estoupes
+2|estoc
 2|estamine bien claire
 2|estamine
 2|estamiere
@@ -583,7 +584,6 @@
 2|coings
 2|cofre
 2|cochiaro
-2|clou
 2|clochettes
 2|claire
 2|ciseaux
@@ -671,6 +671,7 @@
 1|vaisseau plombe
 1|vaisseau de verre
 1|unye
+1|tuiaulx de plume
 1|tripoli de bretaigne
 1|tripoli de
 1|trempe dans de 
@@ -721,15 +722,19 @@
 1|poches de cuir
 1|poches de
 1|plume dholande
+1|plume a escripre
+1|plume a
 1|plombee
 1|plombe
 1|plomb &amp; de
+1|plattes
 1|plastre dardille
 1|plaste destain
 1|plaste de terre
 1|plaste de cire terre
 1|planches de plomb &amp; cuivre de diverses
 1|planches de plomb &amp; cuivre de
+1|planche ou table solide
 1|planche de boys
 1|planche de
 1|plan
@@ -742,6 +747,7 @@
 1|ou en pierre ou
 1|os de
 1|orfevres
+1|nect
 1|moustarde
 1|moulin de moustarde
 1|moulin de
@@ -760,6 +766,7 @@
 1|mains joinctes entre
 1|mail de bois
 1|mail
+1|lutee
 1|lute qui ait un trou dans
 1|long verre
 1|long
@@ -768,11 +775,16 @@
 1|limes quarrees
 1|limes doulces
 1|lames dargent
+1|lame de plomb
+1|lame de fer rougie au foeu
+1|lame de fer
 1|la graisse de 
 1|la graisse de
 1|jugement de loeil
 1|jugement de
 1|joinctes entre
+1|haulte
+1|grille basse
 1|grattebroisse de letton
 1|grattebroisse de
 1|grand doigt
@@ -789,6 +801,7 @@
 1|foeultre
 1|foeilles de papier
 1|foeille de papier blanc
+1|fiolle de voyrre
 1|fil et
 1|fil du propre
 1|fil du
@@ -797,6 +810,7 @@
 1|fer chault
 1|f
 1|escuelle plombee
+1|escripre
 1|enscuelle
 1|eau enscuelle
 1|eau coloree
@@ -819,6 +833,7 @@
 1|darchal
 1|dan de loup ou de chien
 1|dan de loup ou de
+1|dacier fine
 1|cuve des
 1|cuve
 1|cul
@@ -827,6 +842,7 @@
 1|cueillere de
 1|croiset couvert dun aultre bien
 1|croiset couvert d'un aultre bien lute qui ait un trou dans
+1|cousteau bien fourby
 1|countour de
 1|coloree
 1|cloche de boys
@@ -836,6 +852,7 @@
 1|chien
 1|charbons allumes
 1|charbons
+1|cendres
 1|cassolle dest
 1|cassolle de fer
 1|cassolle de
@@ -846,12 +863,14 @@
 1|bretaigne
 1|bouteure dorfevres
 1|bouteure
+1|bouteille ou
 1|bout du
 1|baston rond duquel
 1|baston de buys
 1|baston de
 1|apothiquaires
 1|aplati
+1|ancrou
 1|ampoulles
 1|aleine dacier
 1|aleine

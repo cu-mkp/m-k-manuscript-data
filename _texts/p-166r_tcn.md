@@ -27,7 +27,7 @@ animals: [poulle, poulsins]
  
 Si quelque chose est obmis: le <span class="pro">moissonneur</span> pour laisser quelques<br/> espis n'est pas repris.<br/> Si quelques <span class="pro">artisans</span> se plaignent qu'on descouvre les secrets<br/> des arts et que les de<span class="x">e</span>sses <span class="pl">eleusines</span> se plaignent co<span class="exp">mm</span>e à <span class="pn">N.</span><br/> pytagorien de ce que on ha divulgué leurs mysteres, excuse<br/> toy sur le dire des anciens <span class="pl">Hebrieulx</span> recité par <span class="pn">Josephe</span>.
  
- Comme la <span class="al">poulle</span> cherche curieusement, parmy les bourriers<br/> dejectés d'une mayson, une miette ou quelque grain qu'elle<br/> depart à ses <span class="al">poulsins</span>, ainsy aulx orphelins distribue on<br/> ce qui a esté cherché parmy les arts estimés villes & abjects.
+ Comme la <span class="al">poulle</span> cherche curieusement, parmy les bourriers<br/> dejectés d'une mayson, une miette ou quelque grain qu'elle<br/> depart à ses <span class="al">poulsins</span>, ainsy aulx orphelins distribue on<br/> ce qui a esté cherché parmy les arts estimés villes & abjectes.
  
  Table de <span class="pn">Cebés</span>, oysive. Mays La Boutique represente<br/> toutes choses actives. 
  

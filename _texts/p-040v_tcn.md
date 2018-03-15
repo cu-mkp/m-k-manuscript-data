@@ -8,9 +8,9 @@ author:
 mode: tcn
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [rouge clair, esmail, sang de dragon, eau de vye, laque platte d'Inde, tormentine claire, larme de mastic, argent, Letton, calamine, letton, charbons, Metal, estaim doibt estre pur, plomb, estain, cendrée, Eau fort, lutée, cendres, charbon]
-tools: [four a ventde souflets, creusets, four à vent souflets, cendrée, fourneau]
-measurements: [dour, pied]
+materials: [rouge clair, esmail, sang de dragon, eau de vye, laque platte d'Inde, tormentine claire, larme de mastic, argent, Letton, calamine, letton, charbons, Metal, estaim doibt estre pur, plomb, estain, cendrée, Eau fort, lutée, cendres, espricts]
+tools: [four a ventde souflets, creusets, four à vent souflets, cendrée, cornue, lutée, cendres, fourneau, grille haulte, grille basse]
+measurements: [dour, demy pied]
 bodyparts: []
 places: [Malte, Inde, Flandres]
 plants: []
@@ -49,6 +49,6 @@ L'<span class="m">estaim doibt estre pur</span> car s’il y a du <span class="m
 ## <span class="m">Eau fort</span>
 
  
-Si ta cornue est bien <span class="m">lutée</span> il ne la fault poinct entourner<br/> de <span class="m">cendres</span>, qui ne feroient qu'empescher de bien chasser les<br/> espricts. Mays quand tu luy donneras sur la fin feu de<br/> chasse, entourne la de <span class="m">charbons</span> qui plustost soient allumés ailleurs,<br/> co<span class="x">mm</span>e doibvent estre ceulx du <span class="tl">fourneau</span>, affin qu'ilz ne petillent<br/> poinct & ne fassent poinct de fumée. Mects lesdicts <span class="m">charbons</span><br/> allumés aultour le corps de la cornue & non pas pres du col,<br/> qui n'a poinct besoing d'estre si vivement chaufé. La grille<br/> haulte où tu assois ta cornue est assés distante d'un <span class="ms">dour</span> ou<br/> demy <span class="ms">pied</span> de la grille basse où se mect le <span class="m">charbon</span>, car en ce<br/> faisant il ne s'en gaste pas tant.
+Si ta <span class="tl">cornue</span> est bien <span class="tl"><span class="m">lutée</span></span> il ne la fault poinct entourner<br/> de <span class="tl"><span class="m">cendres</span></span>, qui ne feroient qu'empescher de bien chasser les<br/> <span class="m">espricts</span>. Mays quand tu luy donneras sur la fin feu de<br/> chasse, entourne la de charbons qui plustost soient allumés ailleurs,<br/> co<span class="exp">mm</span>e doibvent estre ceulx du <span class="tl">fourneau</span>, affin qu'ilz ne petillent<br/> poinct & ne fassent poinct de fumée. Mects lesdicts charbons<br/> allumés aultour le corps de la <span class="tl">cornue</span> & non pas pres du col,<br/> qui n'a poinct besoing d'estre si vivement chaufé. La <span class="tl">grille<br/> haulte</span> où tu assois ta <span class="tl">cornue</span> est assés distante d'un <span class="ms">dour</span> ou<br/> <span class="ms">demy pied</span> de la <span class="tl">grille basse</span> où se mect le charbon, car en ce<br/> faisant il ne s'en gaste pas tant.
  
  

@@ -8,14 +8,14 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [fountain water & mix into it as much as an egg # can hold of sal ammoniac water, mixed as described. If you want to cast lead or tin - because one would need more for casting gold & silver - having the water in your dish, add the sand & not the other way around by adding the water to the sand, & adjust it with such attentiveness that, while mixing it vigorously & wetting it quickly with a wooden, water, sal ammoniac water, lead, tin, gold, silver, sand, wood, clay, eggs, starch water, starch]
-tools: []
-measurements: []
+materials: [common fountain water, essence of sal ammoniac, egg, lead, tin, gold, silver, essence, wooden, clear mustard, clay, earth, eggs, eau, broth of juices, starchy water, starch, water, Essence of sal ammoniac]
+tools: [bowls of different size, which have a lip, bowl, wooden spoon, mold, knife, spoon, spatula, molds]
+measurements: [as much essence of sal ammoniac as can be held in an egg, quarter of an hour, or two eggs]
 bodyparts: []
 places: []
 plants: []
-professions: []
-environments: []
+professions: [women]
+environments: [fountain]
 animals: []
 ---
 
@@ -23,28 +23,28 @@ animals: []
  
 *[continued]*
   
-and this way, while heating it again, the two casts will dissolve. Therefore, have several dishes of various sizes with a pouring beak in order to cast better. In these, pour some regular <span class="m">fountain <span class="m">water</span> & mix into it as much as an egg # can hold of <span class="m">sal ammoniac water</span>, mixed as described. If you want to cast <span class="m">lead</span> or <span class="m">tin</span> — because one would need more for casting <span class="m">gold</span> & <span class="m">silver</span> — having the <span class="m">water</span> in your dish, add the <span class="m">sand</span> & not the other way around <span class="x">by adding the water to the sand</span>, & adjust it with such attentiveness that, while mixing it vigorously & wetting it quickly with a <span class="m">wood</span>en</span> spoon, it does not become thicker than mustard. And in such a way cast <span class="x">i.e., pour</span> first the clearest part, as is always at the surface, by shaking it & a little higher in your mold. And doing so, since your animal is nearly covered, Once your animal is covered, blow on it very strongly to eliminate the small bubbles from your soaked <span class="m">sand</span>. & then pour immediately the rest which is at the bottom & which is thicker than the upper part, fill your mold to the thickness mark you have made. 
+such that while reheating the two casts will disjoin. <span class="del">Et pour pl</span> Therefore, for this effect, take several <span class="tl">bowls of different size, which have a lip</span>, to cast better. In these pour some <span class="m">common <span class="env">fountain</span> water</span>, & mix into it <span class="ms">as much <span class="m">essence of sal ammoniac</span> as can be held in an <span class="m">egg</span></span>, <span class="add">#</span> composed as mentionned. If you want to cast in <span class="m">lead</span> or <span class="m">tin</span> — because one would need more for casting <span class="m">gold</span> & <span class="m">silver</span> — the <span class="m">essence</span> once in your <span class="tl">bowl</span>, <span class="del">mesles</span> put <span class="del">y</span> your sand in it & not the <span class="m">essence</span> in the sand & add it <span class="del">a dista dista</span>with such discretion that <span class="del">il</span>, while stirring & mixing it promptly with a <span class="tl"><span class="m">wooden</span> spoon</span>, it does not become thicker than <span class="m"><span class="del">clear</span> mustard</span>. And thus throw <span class="del">le</span> first the non—thick part, <span class="del">qui es</span> as is always at the surface, in shakes & <span class="del">da</span> at the top of your <span class="tl">mold</span>. And doing so, since your animal is nearly covered, blow strongly everywhere in order to dissipate the small and big bubbles that the wet sand makes & continue without delay to put all the rest which is at the bottom, & a little thicker than the top, until everything is filled, up to the mark for thickness that you made. 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5bEE5QmFaQWxUYm8" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
- And while casting do not forget to shake your mold, that way your soaked sand runs & get in through every parts. Also tip your mold up on the side of the head, which is higher than the body. That way the contents of your mold will have the same thickness, & you'll spare <span class="m">sand</span>. This being done with care, your <span class="m">sand</span> will harden within a quarter of an hour. Then peel the <span class="m">clay</span> contour which can be used later. Let it dry a little bit, & separate your mold from the slab of earth, and you can mold properly straight after. Cut away the extra parts with a knife, and make it mandore shaped. You can reuse the <span class="m">clay</span> frame. Scrape & cut away what's on the back of the mold, because this part is the weakest; do not forget to make notches around it, that way the second cast would bind much better 
+ And do not forget to shake the <span class="tl">mold</span> <span class="del">affin</span> while throwing, so that the wet sand runs & enters well everywhere. Also tip your <span class="tl">mold</span> up on the side of the head, which is higher than the body, and thus your <span class="tl">mold</span> will have the same thickness, & you will spare sand. All of this being done scrupulously <span class="del">fai</span>, let it set, which will take a <span class="ms"><span class="tmp">quarter of an hour</span></span>. Then release the <span class="m">clay</span> circle, which can be used another time. And leave it to dry a little bit, & separate your <span class="tl">mold</span> from the tourtelle <span class="m">earth</span>, which also <span class="del">de</span> will be appropriate for molding right away, and pare the excess with a big <span class="tl">knife</span>, giving to it the long shape of a <span class="mu">mandore</span>. <span class="del">Rasche</span> Scrape & cut also away the back <span class="add">of the <span class="tl">mold</span></span>, which is always the weakest, and adapt it cleanly thusly. And do not forget to make notches around, so that the second cast fixes & binds better 
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5V29QdUxZVmxCUDQ" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
- and would not move.
+ without changing.
  
 > *at left top margin*
 > 
 > 
->   Your half mold, in one shot & one mix is the best.
+>   <span class="del">If you can, fill</span> your half <span class="tl">mold</span> in one go & with <span class="del">la pre</span> one wet batch it is the best.
  
 > *at left top margin*
 > 
 > 
->   # or two <span class="m">eggs</span>, because there is no danger if there is more. If you cast twice, just add <span class="m">sal ammoniac water</span> into the first pouring.
+>   # <span class="ms">or two <span class="m">eggs</span></span>, because there is no risk if there is more. <span class="del">Et l’<span class="m">eau</span></span>If you cast in two goes, it is enough to put <span class="m">essence of sal ammoniac</span> at the first bowlful. 
  
 > *at left top margin*
 > 
 > 
->   Make your mixture as clear as a pureed broth, or <span class="m">starch water</span>, the one women use make their <span class="m">starch</span>. It is not a problem if the mixture is very thin because sand settles in the bottom & <span class="m">water</span> stays on top of it, which we scape as too weak & soft. It will not take long to harden, because burned things dry rapidly.
+>   Make it clear like a <span class="m">broth of juices</span>, or like <span class="m">starchy water</span>, that <span class="pro">women</span> use to make their <span class="m">starch</span>. For there is no risk in it being very clear, because sand always settles in the bottom & <span class="m">water</span> separates & remains on top. The same that one scrapes since it is too weak & soft. And it will not let itself set quickly, for all things calcined dry out promptly from mixed <span class="m">water</span>.
  
 > *at left bottom margin*
 > 
@@ -52,8 +52,17 @@ and this way, while heating it again, the two casts will dissolve. Therefore, ha
 >   
 > *Figure*
 > <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5dEdzS040X3RjbkU" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
- If you don't fill your mold with soaked <span class="m">sand</span> at one go, do mix your second cast with the top part of the first cast, stir with a spoon, or the stick you had took to soak your sand.
+ If you don't fill in one go your <span class="tl">mold</span> <span class="del">destrempe</span> with wet sand, take head to stir your second cast with the <span class="del">e p</span> surface of the first, <span class="del">p</span> by mixing with the <span class="tl">spoon</span> or a <span class="tl">spatula</span> with which you wet it.
  
-You do not need to add <span class="m">sal ammoniac water</span> if you cast small molds which do not need to be reheated too long. However it is better to add some.
+> *at left bottom margin*
+> 
+> 
+>   <span class="m">Essence of sal ammoniac</span> is not necessary for small <span class="tl">molds</span>, which do not require neither a big nor a long fire to be reheated, however, when you put some in it will only be better. <span class="ill"></span> 
+ 
+ 
+  
+
+## <span class="del">Second cast</span>
+
  
  

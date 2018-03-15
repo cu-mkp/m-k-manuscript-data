@@ -8,9 +8,9 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [rouge clair, enamel, dragon's blood, eau de vie, Indian laque plate, clear turpentine, mastic, silver, Latten, calamine, latten, charcoals, Metal, Tin, lead, tin, cendrée, Aqua fortis, ashes, charcoal]
-tools: [airbellow furnace, crucibles, bellow furnace, cendrée]
-measurements: [dour]
+materials: [rouge clair, enamel, dragon's blood, eau de vie, Indian laque plate, clear turpentine, mastic, silver, Latten, calamine, latten, charcoals, Metal, Tin, lead, tin, cendrée, Aquafortis, luted, ashes, spirits]
+tools: [airbellow furnace, crucibles, bellow furnace, cendrée, retort, luted, ashes, furnace, top grate, bottom grate]
+measurements: [dour, half a foot]
 bodyparts: []
 places: [Malta, Indian, Flanders]
 plants: []
@@ -46,9 +46,9 @@ This beautiful <span class="m">rouge clair</span> which makes the field of the w
  
   
 
-## <span class="m">Aqua fortis</span>
+## <span class="m">Aquafortis</span>
 
  
-If your retort is well luted you should not surround it with <span class="m">ashes</span>, which would only prevent the vapors from escaping properly. But when, towards the end, you fire it intensely, surround it with <span class="m">charcoals</span> lit elsewhere beforehand, such as those in the furnace should be, so they do not crackle or smoke. Place said lit <span class="m">charcoals</span> around the body of the retort, not close to the neck, which does not need to be heated as much. The top grate, on which you place your retort, should be sufficiently far, one <span class="ms">dour</span> or half a foot, from the bottom grate where the <span class="m">charcoal</span> is placed, since thus you will not waste as much <span class="sup">aqua fortis</span>.
+If your <span class="tl">retort</span> is well <span class="tl"><span class="m">luted</span></span> one ought not to surround it with <span class="tl"><span class="m">ashes</span></span>, which would only get in the way of chasing the <span class="m">spirits</span> properly. But when, towards the end, you give it violent fire, surround it with coals lit elsewhere beforehand, as those in the <span class="tl">furnace</span> should be, so they do not crackle & do not make smoke. Put the said lit coals around the body of the <span class="tl">retort</span>, & not close to the neck, which does not need to be heated as vigorously. The <span class="tl">top grate</span>, where you place your <span class="tl">retort</span>, is sufficiently far from the <span class="tl">bottom grate</span> where the charcoal is placed, one <span class="ms">dour</span> or <span class="ms">half a foot</span>, for by doing this you will not waste as much of it.
 
  

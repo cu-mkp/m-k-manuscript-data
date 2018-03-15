@@ -8,14 +8,14 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [gold, salt, aqua fortis, tenuous gold, silver, iron, verdigris, coarse salt, sublimate, ocher, linseed oil, ammoniac, water, Sulphur, gravel, terra merita, sulphur, copper, latten, gilt, walnut oil, Enameling, cornaline, wheat flower, white wine]
+materials: [gold, salt, aqua fortis, tenuous gold, silver, iron, verdet, coarse salt, sublimate, massicot, linseed oil, quite clean & polished iron, water, sal ammoniac, Sulphur, gravel, terra merita, sulphur, copper, latten, gilt, walnut oil, Enameling, cornaline, wheat flower, white wine]
 tools: []
-measurements: [as much of one as of the other, third part, hours]
+measurements: [liard’s worth, as much, grains, as much of one as of the other, third part, hours]
 bodyparts: []
 places: []
-plants: [wheat]
+plants: [linseed, wheat]
 professions: [silversmiths]
-environments: []
+environments: [in the fire, in the sun]
 animals: []
 ---
 
@@ -30,10 +30,10 @@ Put it regular <span class="m">salt</span> with <span class="m">aqua fortis</spa
  
   
 
-## Engraving on <span class="m">iron</span>
+## For Engraving on <span class="m">iron</span>
 
  
-One ℥ of <span class="m">verdigris</span> and 2 ℥ of <span class="m">coarse salt</span> & a bit of <span class="m">sublimate</span>, or crush some <span class="m">ocher</span> with <span class="m">linseed oil</span>, and use it to cover the blade or the very neat & polished <span class="m">iron</span>. & let it dry on the fire or in the sun. Then, to engrave & make it beautiful, take a small coin's worth of <span class="m">verdigris</span> & twice that quantity of <span class="m">coarse salt</span> & about four grains of <span class="m">ammoniac</span>, & six grains of <span class="m">sublimate</span>, & the <span class="m">water</span> must not be hot.
+One ℥ of <span class="m">verdet</span> and ii ℥ of <span class="m">coarse salt</span> & a little <span class="m">sublimate</span>. Or else grind <span class="m">massicot</span> with <span class="m"><span class="pa">linseed</span> oil</span>, and <span class="del">u</span> cover the blade or <span class="m">quite clean & polished iron</span> with it & leave to dry <span class="env">in the fire</span> or <span class="env">in the sun</span>. And draw on it what you please. Then, to engrave & make the <span class="m">water</span>, take a <span class="ms"><span class="cn">liard</span>’s worth</span> of <span class="m">verdet</span> & put in twice <span class="ms">as much</span> <span class="m">coarse salt</span> & about four <span class="ms">grains</span> of <span class="m">sal ammoniac</span>, & six <span class="ms">grains</span> of <span class="m">sublimate</span>, & the <span class="m">water</span> must not be hot.
  
  
   

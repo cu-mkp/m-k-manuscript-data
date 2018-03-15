@@ -1,33 +1,33 @@
-495|eau
+496|eau
 468|plomb
 447|cire
 432|or
 400|huile
-334|
-330|fer
+335|
 326|argent
+324|fer
 236|estain
 227|cuivre
 223|metal
-206|terre
-176|plastre
+208|terre
 174|papier
+173|plastre
 161|estaim
 158|verre
-147|charbon
+145|charbon
 144|pouldre
-135|vinaigre
+134|vinaigre
 116|letton
 116|boys
 115|ardille
-109|eau de vye
+110|eau de vye
 90|bois
 87|vernis
 86|mabre
 80|vin
 79|os
-78|charbons
 77|cendre
+76|charbons
 74|colle
 74|ceruse
 72|brique
@@ -36,14 +36,14 @@
 68|fil de fer
 66|soufre
 64|tourmentine
-63|cuir
 62|pierre
-60|acier
+62|cuir
+57|sel
 57|crocum
+57|acier
 56|urine
 56|toile
 56|souldure
-56|sel
 55|salpestre
 55|linge
 55|azur
@@ -56,7 +56,7 @@
 48|alum de plume
 44|rousine
 44|porphire
-43|eau chaulde
+44|eau chaulde
 41|farine
 41|alum
 40|☿
@@ -110,18 +110,18 @@
 22|corne
 22|ambre
 22|Vernis
+21|soulder
 21|carton
 20|velours
-20|soulder
-20|plomb fin
 20|paste
 20|mortier
 20|luter
+20|huile de
 20|cuivre rouge
 19|sublime
 19|poix
+19|plomb fin
 19|noir
-19|huile de
 19|crocum ferri
 18|vermeillon
 18|or mat
@@ -135,13 +135,13 @@
 17|os de seiche
 17|mine
 17|huile dolif
-17|huile de lin
+17|huile de soufre
 17|dorer
 16|vye
 16|vin blanc
 16|sel commun
 16|lute
-16|huile de soufre
+16|huile de lin
 16|fondu
 16|fiens
 16|cire blanche
@@ -150,13 +150,13 @@
 15|verre pile
 15|vernis de tourmentine
 15|savon
+15|sable
+15|parchemin
 15|marbre
 15|fil de
 15|arene
 15|albastre
-14|sable
 14|potee
-14|parchemin
 14|or bruny
 14|laicton
 14|huille
@@ -191,6 +191,7 @@
 12|jaulne
 12|huile de tourmentine
 12|grais
+12|fort
 12|drogues
 12|doulx
 12|chair
@@ -204,7 +205,7 @@
 11|sang
 11|peau
 11|noix
-11|fort
+11|huiles
 11|fil
 11|de plume
 11|de
@@ -226,7 +227,6 @@
 10|or fin
 10|musc
 10|mache de fer
-10|huiles
 10|huile gras
 10|fient
 10|fer blanc
@@ -285,6 +285,7 @@
 7|vitriol
 7|vert de gris
 7|terres
+7|rouille
 7|ponce
 7|plomb doux
 7|noire
@@ -309,7 +310,6 @@
 6|soubdure
 6|saphirs
 6|rubis
-6|rouille
 6|poil de cheval
 6|plomb pur
 6|pierreries
@@ -321,6 +321,7 @@
 6|millas
 6|mil
 6|mastic pulverise
+6|lin
 6|laque de florence
 6|jaspe
 6|huile de girofle
@@ -335,7 +336,6 @@
 6|eaue
 6|drap
 6|doreure
-6|de terre
 6|de soufre
 6|de saule
 6|de plomb
@@ -376,13 +376,13 @@
 6|Aes ustum
 5|vin bouilly avecq racine dorme
 5|suin
+5|miel rosat
 5|metal fondu
-5|lin
 5|larme de mastic
-5|gros sel
 5|graine
 5|fil darchal
 5|fiente de
+5|eau tiede
 5|dragant
 5|de fer
 5|de cheval
@@ -445,6 +445,7 @@
 4|pluye
 4|plombee
 4|pierre ponce calcinee
+4|pierre de touche
 4|perles
 4|pelure de figuier
 4|pappier
@@ -461,7 +462,6 @@
 4|moelle
 4|mines
 4|mine de plomb
-4|miel rosat
 4|mie de
 4|metalline
 4|metail
@@ -485,6 +485,7 @@
 4|huille de lin
 4|huilent
 4|huile de fromant
+4|gros sel
 4|grands metaulx
 4|grains
 4|graine de lettue
@@ -506,7 +507,6 @@
 4|estaim commun
 4|esmerauldes
 4|enilanroc
-4|eau tiede
 4|eau de sel
 4|eau de riviere
 4|eau de Riviere
@@ -548,6 +548,7 @@
 4|broyee
 4|bourras
 4|bouquaran
+4|bon vinaigre
 4|bois de buy
 4|bled orbere
 4|betjoin
@@ -603,7 +604,6 @@
 3|riviere
 3|pulverises
 3|poil de
-3|pierre de touche
 3|pierre de
 3|perle
 3|papier blanc
@@ -637,6 +637,7 @@
 3|dor
 3|doeuf
 3|despingle
+3|de terre
 3|de plat
 3|croye blanche
 3|couleurs a
@@ -647,7 +648,6 @@
 3|brusles &amp; calcines
 3|bruny
 3|broye
-3|bon vinaigre
 3|bois dous
 3|boeuf
 3|blanc de
@@ -1425,7 +1425,6 @@
 2|des fondeurs
 2|des boeufs
 2|dent
-2|deau fort
 2|de vie
 2|de vers de soye femelle
 2|de verre
@@ -1909,6 +1908,7 @@
 1|☿ sublime de venise vray
 1|☿ sublime de venise
 1|vray
+1|voyrre
 1|vitf aiantargent
 1|vitf
 1|violette
@@ -1956,6 +1956,8 @@
 1|terre susdicte
 1|terre maigre de laquelle les
 1|terre maigre de laquelle
+1|terre fresche &amp; humide
+1|terre fresche
 1|terre fiens ou terre bourre
 1|terre fiens ou terre
 1|terre emerita
@@ -2024,6 +2026,7 @@
 1|resins resine
 1|refondu
 1|recuit recuit
+1|recent
 1|rappe aigrie
 1|racine de jeune orme
 1|racine de jeune
@@ -2046,6 +2049,7 @@
 1|pou vif
 1|potirons
 1|potiers font un blanchiment
+1|poly
 1|poix resins resine
 1|poils de barbe 
 1|poils de barbe
@@ -2062,6 +2066,7 @@
 1|plomb noeuf &amp;non
 1|plomb le plus noir se disent aulcuns est le meilleur &amp;
 1|plomb le plus noir se disent aulcuns est le meilleur
+1|plomb fin et
 1|platte
 1|plastre qui ha
 1|plastre qui
@@ -2111,6 +2116,7 @@
 1|noyr
 1|noir de
 1|noeuf &amp;non
+1|noeuf
 1|nacre de perle
 1|nacre de
 1|molee des gros ciseaulx &amp; grands cousteaulx
@@ -2131,6 +2137,7 @@
 1|marbre poly
 1|mache de fer pulverisee &amp; subtiliee
 1|mache de fer pulverisee &amp;
+1|liste de fer
 1|lingot dor
 1|linge ou foeultre brusle
 1|linge ou
@@ -2146,6 +2153,7 @@
 1|les tuiles
 1|les
 1|le soleil
+1|le plus fin acier
 1|latton
 1|lateribus
 1|larme de
@@ -2182,6 +2190,7 @@
 1|huile de iacob
 1|huile de ben @
 1|ha
+1|gros
 1|grasse
 1|grands metaux
 1|graisse de 
@@ -2202,6 +2211,7 @@
 1|foye ou poulmon de boeuf
 1|foye ou poulmon de
 1|fort vinaigre
+1|fort doulx
 1|fort bon vinaigre
 1|fontayne
 1|font la premiere couche de la chappe de pieces &amp; cloches &amp; toutes
@@ -2228,10 +2238,15 @@
 1|fil du
 1|fil de fer letton
 1|fiente de vache
+1|fer fort
+1|fer commun
+1|fer chault
+1|fer bien net &amp;
 1|fer aigre
 1|farine de Segle
 1|farine de
 1|estaing doulz
+1|espricts
 1|escorce de figuier
 1|escorce de
 1|escailles ou lames de fer
@@ -2246,6 +2261,7 @@
 1|eau trouble
 1|eau panee
 1|eau fort de vitriol
+1|eau fort commune
 1|eau du bullitoyre
 1|eau du
 1|eau de sublime
@@ -2273,6 +2289,7 @@
 1|des chemins sablonneulx deseiches par le soleil
 1|des chemins sablonneulx deseiches par
 1|des
+1|deau fort
 1|dea
 1|de verre subtilement
 1|de pluye
@@ -2288,6 +2305,7 @@
 1|daigneaulx
 1|cuivre que font les chaudroniers
 1|cuivre et latton fondu
+1|cuir noir
 1|cuir dore
 1|cru
 1|croye broyee
@@ -2359,6 +2377,7 @@
 1|bien
 1|bellettes &amp; petits animaulx qui font le musc
 1|battu tanvre
+1|barres de fer
 1|barbe des fouines &amp; bellettes &amp; petits animaulx qui font le musc
 1|barbe des fouines &amp;
 1|balottes
@@ -2386,10 +2405,13 @@
 1|alung de
 1|albastre 
 1|aiantargent
+1|acier purifie
+1|acier fin
 1|a noircir
 1|Verre de vitriers
 1|Verre
 1|Subtilement
+1|Soulder
 1|Segle
 1|Safran
 1|Sable dos de bœuf brusle
@@ -2401,10 +2423,13 @@
 1|Raiec
 1|Os de seiche brusles &amp; calcines
 1|Glace
+1|Fumee de letton
 1|Flandres
 1|Esmail Rouge clair
 1|Celuy qui est blanc leger comme une esponge estant brusle
 1|Celuy qui est blanc leger comme une esponge estant
 1|&amp; pulverise
 1|&amp; ou de tourmentine
+1|&amp; humide
+1|&amp; bon
 1|&amp;

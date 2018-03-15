@@ -1,14 +1,14 @@
 46|jour
 34|jours
 34|heures
-30|heure
+28|heure
+17|
 15|nuict
-15|
 12|lendemain
+8|temps
 8|moys
 8|long temps
 8|hiver
-7|temps
 7|nuit
 7|matin
 6|tous les ans
@@ -18,10 +18,10 @@
 6|ans
 6|Jours
 5|soir
+5|long
 4|ung quart dheure
 4|serain
 4|plusieurs jours
-4|long
 4|hyver
 4|en este
 4|an
@@ -29,6 +29,7 @@
 3|un bon quart dheure
 3|tout lan
 3|tous les jours
+3|dheure
 2|un quart dheure
 2|un jour ou une
 2|un iour
@@ -44,6 +45,8 @@
 2|saison
 2|saint Anthoine de
 2|sabmedy
+2|quart dheure
+2|quart
 2|quand
 2|premier jour
 2|pauses
@@ -94,7 +97,6 @@
 1|temps nest serain &amp; sec
 1|temps nest serain &amp;
 1|temps humide
-1|quart dheure
 1|naturel
 1|lan
 1|jour naturel
@@ -108,7 +110,7 @@
 1|espace dun pater noster
 1|espace
 1|dun pater noster
-1|dheure
+1|demye heure
 1|de nuict
 1|de la
 1|de

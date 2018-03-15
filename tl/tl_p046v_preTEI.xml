@@ -7,12 +7,12 @@
 
 <id>p046v_1</id>
 
-<head><m>Scribe, Oil of sulfur</m></head>
+<head><pro>Scribe</pro>, <m>Oil of sulfur</m></head>
 
-<ab>If the writer wants to clean his quill quickly of the layer of the
-<m>ink</m> which has dried on it, one only needs to soak in <m>oil of
-sulfur</m>. And it will immediately be white &amp; clean.
-<fr>Urb.</fr></ab>
+<ab>If the <pro>writer</pro> wants to clean his <tl>quill</tl> quickly
+of the layer of the <m>ink</m> which has dried on it, one only needs to
+soak in <m>oil of sulfur</m>. And it will immediately be white &amp;
+clean. <fr>Urb.</fr></ab>
 
 </div>
 
@@ -22,10 +22,10 @@ sulfur</m>. And it will immediately be white &amp; clean.
 
 <head><pro>Shoemaker</pro></head>
 
-<ab>If he wants to do some tanned work on black <m>leather</m> shoes, he
-can dip a writing quill in <m>oil of sulfur</m> and paint with it what
-he would like on shoes, boots, and collars. And he will obtain a reddish
-color which will not disappear by any effort. Urb.
+<ab>If he wants to do some tanned work on <m>black leather</m> shoes, he
+can dip a <tl>writing quill</tl> in <m>oil of sulfur</m> and paint with
+it what he would like on shoes, boots, and collars. And he will obtain a
+reddish color which will not disappear by any effort. <fr>Urb.</fr>
 
 </ab>
 
@@ -39,9 +39,9 @@ color which will not disappear by any effort. Urb.
 
 <ab>
 
-Dip a writing quill in fresh &amp; good <m>oil of sulfur</m> &amp; thus
-retrace all the letters with the dipped quill and they will disappear on
-parchment. <fr>Urb.</fr>
+Dip a <tl>writing quill</tl> in <m>fresh &amp; good oil of sulfur</m>
+&amp; thus retrace all the letters with the dipped <tl>quill</tl> and
+they will disappear on <m>parchment</m>. <fr>Urb.</fr>
 
 </ab>
 
@@ -60,20 +60,38 @@ black as this one. <fr>Urb.</fr>
 
 </ab>
 
+<ab>
+
+<margin>right-middle</margin>
+
+<!-- we think this mark may be made by the oil of sulfur described in
+p046v_4, as it bleeds through to the other side of the folio. Or is this
+related to a compass mark? See also p046r_1.png -->
+
+<figure>
+
+<link>https://drive.google.com/file/d/1denrfxQE_oWyKP04zuMTk0s2P7WG4TeK/view?usp=sharing</link>
+
+</figure>
+
+</ab>
+
 </div>
 
 <div>
 
 <id>p046v_5</id>
 
-<head>Making à jour letters in <m>paper</m> and other work</head>
+<head>Making <fr>letters à jour</fr> on <m>paper</m> and other
+work</head>
 
 <ab>
 
-If you write <del>d</del> or trace something on the <m>paper</m> and
-heat it soon after, and immediately it will become black; then by
-rubbing with a sponge, the letter will be cut out because it will be
-burned. Urb. Or retrace the letter with a wiped quill <del>of</del>.
+If you write <del><fr>d</fr></del> or trace something on the
+<m>paper</m> &amp; heat it soon after, &amp; immediately it will turn
+black; then by rubbing with a <tl>sponge</tl>, the letter will be cut
+because it will be burned. <fr>Urb.</fr> Or retrace the letter with a
+dry <tl>quill</tl> <del>of</del>.
 
 </ab>
 
@@ -87,8 +105,8 @@ burned. Urb. Or retrace the letter with a wiped quill <del>of</del>.
 
 <ab>
 
-Rub the abovementioned <m>oil</m>, and as he warms himself they will
-burn without a flame.Urb.
+Rub the aforesaid <m>oil<sup>of sulfur</sup></m>, &amp; as it becomes
+warm, they will burn without a flame.<fr>Urb.</fr>
 
 </ab>
 
@@ -98,12 +116,12 @@ burn without a flame.Urb.
 
 <id>p046v_7</id>
 
-<head>Black letters on <m>stone</m></head>
+<head>On <m>stone</m> black letters</head>
 
 <ab>
 
-The same <m>oil</m> on letters engraved in <m>stone</m>, once heated,
-becomes black and penetrates.</ab>
+The same <m>oil<sup>of sulfur</sup></m> on letters engraved in
+<m>stone</m> &amp; heated turns black &amp; penetrates.</ab>
 
 </div>
 </root>
