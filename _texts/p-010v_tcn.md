@@ -8,7 +8,7 @@ author:
 mode: tcn
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [huile, taffetas, batture, tourmentine, colle forte, eau, miel, or, eau d'alum, or de foeuille, parchemin, papier, colle d'amydon, or de foeille, fer, fiente de cheval seche, ceruse, œufs, partis les par moictie & oste le jaulne & entre les deulx moictiés du blanc, eau claire]
+materials: [huile, taffetas, batture, tourmentine, colle forte, eau, miel, or, eau d'alum, or de foeuille, parchemin, papier, colle d'amydon, or de foeille, fer, fiente de cheval seche, ceruse, œufs, partis les par moictie \& oste le jaulne \& entre les deulx moictiés du blanc, eau claire]
 tools: [fi]
 measurements: [heures]
 bodyparts: []

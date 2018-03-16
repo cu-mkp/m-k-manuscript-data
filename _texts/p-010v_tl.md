@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [oil, taffeta, batture, turpentine, colle forte, water, honey, gold, Water of alum, gold leaf, parchment, paper, starch glue, iron, dry horse dung, ceruse, eggs, divide them in half & take the yolk out, & between the two halves of the white, clear water]
+materials: [oil, taffeta, batture, turpentine, colle forte, water, honey, gold, Water of alum, gold leaf, parchment, paper, starch glue, iron, dry horse dung, ceruse, eggs, divide them in half \& take the yolk out, \& between the two halves of the white, clear water]
 tools: [thread]
 measurements: [hours]
 bodyparts: []

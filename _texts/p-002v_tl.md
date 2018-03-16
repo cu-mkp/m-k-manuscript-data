@@ -10,7 +10,7 @@ editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [Emeralds of Brissac, minium, crystal, marble, verdet, luted, Sapphire, Pebbles, blacksmith's salt, coryal]
 tools: [marble, crucible covered by another well luted that has a hole in the top]
-measurements: [℥, |ʒ|, hours, grains]
+measurements: [hours, grains]
 bodyparts: []
 places: [Brescia, Brissac]
 plants: []
