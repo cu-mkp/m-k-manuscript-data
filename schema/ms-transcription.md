@@ -295,6 +295,13 @@ e.mu = element mu { m.phrase }
 ```
 e.md = element md { m.phrase }
 ```
+#df
+
+## Definition:
+```
+e.df = element df { m.phrase }
+```
+
 # PHRASE MODEL
 
 # m.phrase
@@ -307,6 +314,7 @@ m.phrase =
    | e.bp
    | e.cn
    | e.del
+   | e.df
    | e.env
    | e.figure
    | e.fr
