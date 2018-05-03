@@ -225,6 +225,9 @@ e.mu = element mu { m.phrase }
 
 ## Medical Term: medical and health-related terms or phrases, such as disease terms, as plague and mange, or medical advice, if possible
 e.md = element md { m.phrase }
+
+## Definition:
+e.df = element df { m.phrase }
 # PHRASE MODEL
 
 # m.phrase
@@ -236,6 +239,7 @@ m.phrase =
    | e.bp
    | e.cn
    | e.del
+   | e.df
    | e.env
    | e.figure
    | e.fr
