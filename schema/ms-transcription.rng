@@ -430,6 +430,13 @@
     </element>
   </define>
 
+  <define name="e.df">
+    <a:documentation>Definition:</a:documentation>
+    <element name="df">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+
 
   <!-- PHRASE MODEL -->
 
@@ -444,6 +451,7 @@
         <ref name="e.bp"/>
         <ref name="e.cn"/>
         <ref name="e.del"/>
+        <ref name="e.df"/>
         <ref name="e.env"/>
         <ref name="e.figure"/>
         <ref name="e.fr"/>
