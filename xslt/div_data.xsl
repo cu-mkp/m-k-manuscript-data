@@ -3,7 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs"
     version="1.0">
-    <xsl:output method="text"/>
+    <xsl:output method="text" encoding="UTF-8"/>
     
     <xsl:template match="/">
 <!--        <xsl:text>folio</xsl:text>
@@ -23,13 +23,13 @@
     
     <xsl:template match="div">
         <xsl:value-of select="preceding::page"/>
-        <xsl:text>:</xsl:text>
+        <xsl:text>|</xsl:text>
         <xsl:value-of select="child::id"/>
-        <xsl:text>:</xsl:text>
+        <xsl:text>|</xsl:text>
         <xsl:value-of select="normalize-space(child::margin)"/>
-        <xsl:text>:</xsl:text>
+        <xsl:text>|</xsl:text>
         <xsl:value-of select="normalize-space(child::head)"/>
-        <xsl:text>:</xsl:text>
+        <xsl:text>|</xsl:text>
         <xsl:if test="child::cont">
         <xsl:text>continued</xsl:text>
         </xsl:if>
