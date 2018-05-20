@@ -1,185 +1,182 @@
-59|serpent
-46|serpents
-44|tortue
-44|escrevisse
-36|cheval
-28|lesard
-24|vers
-24|seiche
-24|mouche
-24|lesards
-24|escrevisses
-22|mouton
-22|iraigne
-20|tortues
-20|rat
-20|chevaulx
-18|poisson
-15|bœuf
-14|grenoille
-14|chiens
-12|veau
-12|dragon
-10|serpens
-10|oiseau
-10|lesardes
-10|chien
-10|chancre
-8|vache
-8|rats
-8|pourceau
-8|mousche
-8|mouches
-8|loup
-8|crapault
-8|chancres
-6|vipere
-6|porceau
-6|porc
-6|oyseaulx
-6|oiseaulx
-6|lezard
-6|boeuf
-6|benarris
-6|Rossignol
-6|Oyseaulx
-6|Celles deau
+30|serpent
+23|serpents
+22|tortue
+22|escrevisse
+18|cheval
+14|lesard
+12|vers
+12|seiche
+12|mouche
+12|lesards
+12|escrevisses
+11|mouton
+11|iraigne
+10|tortues
+10|rat
+10|chevaulx
+9|poisson
+8|bœuf
+7|grenoille
+7|chiens
+6|veau
+6|dragon
 6|
-5|celles
-4|souris
-4|saulterelles
-4|rossignols
-4|poulet
-4|pigeons
-4|papillons
-4|papillon
-4|mulots
-4|moutons
-4|lezards
-4|lezardes
-4|lesarde
-4|gris
-4|garrigue
-4|fourmis
-4|escargots
-4|de garrigue
-4|chardonnerets
-4|cerf volant
-4|calendres
-4|angroisse
-4|Tortues
-4|Serpens
-4|Crapault
-3|moules
-3|celles deau
-2|yraignes
-2|yraigne
-2|vers de farine
-2|verdaule
-2|ver
-2|venatione
-2|tourterelles
-2|tortue deau
-2|telines
-2|tarins
-2|serpents deau
-2|serpend
-2|sernailles
-2|saulterelle
-2|rossignol
-2|rats lirons
-2|pulces
-2|poulsins
-2|pouls
-2|poulle
-2|poulain
-2|porc espic
-2|pincons
-2|pigeon
-2|perdris
-2|passereaulx
-2|passe solitaire
-2|oisillons
-2|moutton
-2|moulue
-2|menue gris
-2|lucerta
-2|linotte
-2|lievre
-2|laisards
-2|iraignee
-2|huitres
-2|huitre
-2|huistres
-2|homme
-2|grenoilles
-2|fouines
-2|formis
-2|daigneaulx
-2|cygales
-2|corbeau
-2|coquu
-2|coquilles
-2|connils
-2|cochon
-2|cigne
-2|chevreaulx
-2|chevreau
-2|chevaux
-2|chats
-2|chat
-2|ceulx dans lesquels
-2|certains petits chancres se logent
-2|cerf
-2|celles de
-2|celle de
-2|canard
-2|calendre
-2|calandres
-2|calandre
-2|bœufs
-2|butor
-2|brebis
-2|bouc
-2|boeufs
-2|beuf
-2|benarrins
-2|bellettes
-2|aucupio
-2|animaulx
-2|animal
-2|angroissee
-2|angroise
-2|alouetes
-2|aigle
-2|Yraigne
-2|Viperes
-2|Vers de soye
-2|Tuaparc
-2|Serpents
-2|Oysillons
-2|Mousches
-2|Lesards
-2|Escrevisse
-2|Escargots
-2|Chevaulx
-2|Chauve souris
-2|Chancre
-2|Ceulx qui se trouvent dans la mer
-2|Cerf volant
-2|Celles de garrigue
-2|Canards
-2|Butor
-2|Brebis
-2|Araigne
-2|Aquatilium animalium
-1|ver de farine
+5|serpens
+5|oiseau
+5|lesardes
+5|chien
+5|chancre
+4|vache
+4|rats
+4|pourceau
+4|mousche
+4|mouches
+4|loup
+4|crapault
+4|chancres
+3|vipere
+3|porceau
+3|porc
+3|oyseaulx
+3|oiseaulx
+3|lezard
+3|celles
+3|boeuf
+3|benarris
+3|Rossignol
+3|Oyseaulx
+3|Celles deau
+2|souris
+2|saulterelles
+2|rossignols
+2|poulet
+2|pigeons
+2|papillons
+2|papillon
+2|mulots
+2|moutons
+2|lezards
+2|lezardes
+2|lesarde
+2|gris
+2|garrigue
+2|fourmis
+2|escargots
+2|de garrigue
+2|chardonnerets
+2|cerf volant
+2|calendres
+2|angroisse
+2|Tortues
+2|Serpens
+2|Crapault
+1|yraignes
+1|yraigne
+1|vers de farine
+1|verdaule
 1|ver de
+1|ver
+1|venatione
+1|tourterelles
+1|tortue deau
+1|telines
+1|tarins
+1|serpents deau
+1|serpend
+1|sernailles
+1|saulterelle
+1|rossignol
+1|rats lirons
+1|pulces
+1|poulsins
+1|pouls
+1|poulle
+1|poulain
+1|porc espic
 1|poissons
+1|pincons
+1|pigeon
+1|perdris
+1|passereaulx
+1|passe solitaire
+1|oisillons
+1|moutton
+1|moulue
+1|moules
+1|menue gris
+1|lucerta
+1|linotte
+1|lievre
+1|laisards
+1|iraignee
+1|huitres
+1|huitre
+1|huistres
+1|homme
+1|grenoilles
+1|fouines
+1|formis
 1|farine
 1|deau
+1|daigneaulx
+1|cygales
 1|cornu
-1|commun serpent
+1|corbeau
+1|coquu
+1|coquilles
+1|connils
 1|commun
-1|aspic cornu
+1|cochon
+1|cigne
+1|chevreaulx
+1|chevreau
+1|chevaux
+1|chats
+1|chat
+1|ceulx dans lesquels
+1|certains petits chancres se logent
+1|cerf
+1|celles deau
+1|celles de
+1|celle de
+1|canard
+1|calendre
+1|calandres
+1|calandre
+1|bœufs
+1|butor
+1|brebis
+1|bouc
+1|boeufs
+1|beuf
+1|benarrins
+1|bellettes
+1|aucupio
 1|aspic
+1|animaulx
+1|animal
+1|angroissee
+1|angroise
+1|alouetes
+1|aigle
+1|Yraigne
+1|Viperes
+1|Vers de soye
+1|Tuaparc
+1|Serpents
+1|Oysillons
+1|Mousches
+1|Lesards
+1|Escrevisse
+1|Escargots
+1|Chevaulx
+1|Chauve souris
+1|Chancre
+1|Ceulx qui se trouvent dans la mer
+1|Cerf volant
+1|Celles de garrigue
+1|Canards
+1|Butor
+1|Brebis
+1|Araigne
+1|Aquatilium animalium

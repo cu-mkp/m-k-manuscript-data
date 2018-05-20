@@ -20,9 +20,9 @@ animals: []
 ---
 
  <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-003v_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f12.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>003v</a> - - - - - </div>  
-  
-*[continued]*
  
+*[continued]*
+  
 au lieu de <span class="m">tourmentine fine</span> Et tu pourras mectre sur<br/> deulx <span class="ms">lb</span> de <span class="m">tourmentine commune</span> une <span class="ms">lb</span> de <span class="del">tou</span> <span class="m">huile de<br/> tourmentine fine</span> & faire tout comme laultre Cestuy cy ne<br/> reviendra qua cinq ou six <span class="cn">sols</span> la <span class="ms">lb</span> & se vend 40 <span class="cn">s<span class="exp">ols</span></span> la <span class="ms">lb</span>
  
 > *Figure*

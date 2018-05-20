@@ -53,7 +53,10 @@ When <span class="pro">goldsmiths</span> who work on a large scale have forged t
 > 
 >   <span class="pro">Goldsmiths</span> do not work with <span class="m">silver</span> from <span class="m">real</span> because it is rich in <span class="m">lead</span> and becomes sour when forged.
  
-For small works and things that need to go only once to the fire, some weld with some old <span class="m">sol</span> or <span class="m">carolus</span> reheated and beaten. However if the <span class="m">sol</span> is not quite good <span class="x">enough</span>, the welding will not hold as there is too much <span class="m">copper</span> and one will have to weld twice. Others weld with <span class="x">an alloy made of</span> half <span class="m">silver</span> and half fine <span class="m">copper</span>.
+> *at left middle margin*
+> 
+> 
+>  For small works and things that need to go only once to the fire, some weld with some old <span class="m">sol</span> or <span class="m">carolus</span> reheated and beaten. However if the <span class="m">sol</span> is not quite good <span class="x">enough</span>, the welding will not hold as there is too much <span class="m">copper</span> and one will have to weld twice. Others weld with <span class="x">an alloy made of</span> half <span class="m">silver</span> and half fine <span class="m">copper</span>.
  
  
   

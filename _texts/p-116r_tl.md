@@ -8,7 +8,7 @@ author:
 mode: tl
 editor: GR8975 Seminar Participants
 rights: Public Domain
-materials: [eau de vye, charcoals, bricks, wax, lead, oiled, water, oil, plaster, matton, alum, gold, silver, enamel, solder, silver strips, enameled, aqua dfortis]
+materials: [freau de vye, charcoals, bricks, wax, lead, eau de vye, oiled, water, oil, plaster, matton, alum, gold, silver, enamel, solder, silver strips, enameled, aqua dfortis]
 tools: [Molding, sand, mold, Frame molds, grill, molding, Casting, molds]
 measurements: [gold]
 bodyparts: [bone]
@@ -25,7 +25,7 @@ animals: [snakes, animal]
 ## <span class="tl">Molding</span> bouquets, plants and flowers
 
  
- One needs to mold them as soon as they are picked because they wilt and dry out. Dip them, therefore, immediately in good <span class="m">eau de vye</span> & then put them in your wet <span class="tl">sand</span>, like <span class="al">snakes</span>. For which one needs no release, for while the <span class="tl">mold</span>s being reheated, the <span class="pa">plant</span> burns, which does not happen with animals, which have <span class="bp">bone</span>s. It is necessary that for bouquets, the sand be not as thick as for <span class="al">snakes</span> because, if it were thick, it would crush the <span class="pa">flower</span>. 
+ One needs to mold them as soon as they are picked because they wilt and dry out. Dip them, therefore, immediately in good <span class="m">freau de vye</span> & then put them in your wet <span class="tl">sand</span>, like <span class="al">snakes</span>. For which one needs no release, for while the <span class="tl">mold</span>s being reheated, the <span class="pa">plant</span> burns, which does not happen with animals, which have <span class="bp">bone</span>s. It is necessary that for bouquets, the sand be not as thick as for <span class="al">snakes</span> because, if it were thick, it would crush the <span class="pa">flower</span>. 
  
 > *at left top margin*
 > 

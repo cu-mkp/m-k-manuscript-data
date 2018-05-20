@@ -53,7 +53,10 @@ Quand les <span class="pro">orfevres qui travaillent de grosserie</span> ont<br/
 > 
 >   Les <span class="pro">orfevres</span> ne travaillent<br/> point d'<span class="m">argent de <span class="cn">real</span></span><br/> qui ne soict allié<br/> pource qu'il est<br/> <span class="m">plombeus</span> & en<br/> forgeant il s'aigrist.
  
-Aulcuns <span class="m">souldent</span><br/> pour petit ouvrage<br/> & choses qui ne vont<br/> qu'une fois au foeu<br/> avecq quelque vieulx <span class="cn">sol</span><br/> & <span class="cn">carolus</span> recuit & battu.<br/> Touteffois si le <span class="cn">sol</span><br/> n'est bien bon, la<br/> <span class="m">souldure</span> mange<br/> & y fault <span class="m">soulder</span><br/> deulx fois & s'y<br/> trouve trop de <span class="m">cuivre</span>.<br/> Aultres souldent<br/> avecq <span class="ms">moictié</span> <span class="m">argent</span><br/> & <span class="ms">moictié</span> <span class="m">cuivre fin</span>.
+> *at left middle margin*
+> 
+> 
+>  Aulcuns <span class="m">souldent</span><br/> pour petit ouvrage<br/> & choses qui ne vont<br/> qu'une fois au foeu<br/> avecq quelque vieulx <span class="cn">sol</span><br/> & <span class="cn">carolus</span> recuit & battu.<br/> Touteffois si le <span class="cn">sol</span><br/> n'est bien bon, la<br/> <span class="m">souldure</span> mange<br/> & y fault <span class="m">soulder</span><br/> deulx fois & s'y<br/> trouve trop de <span class="m">cuivre</span>.<br/> Aultres souldent<br/> avecq <span class="ms">moictié</span> <span class="m">argent</span><br/> & <span class="ms">moictié</span> <span class="m">cuivre fin</span>.
  
  
   

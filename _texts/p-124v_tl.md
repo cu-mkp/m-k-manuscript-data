@@ -25,7 +25,7 @@ animals: [lizards, snake]
 ## <span class="m">Rouge clair</span> @ <span class="add"><span class="m">enamel</span></span>
 
  
-<span class="m">Fine gold</span> is opposed to it, for <span class="del"><span class="ill"></span></span> on this it remains yellowish. But alloyed <span class="m">gold</span> is more appropriate to it, such as that of <span class="cn">escu</span> & <span class="cn">pistolet</span>. <span class="del">If</span> <span class="m">Gold</span> <span class="del">f</span> <span class="del">is not put back on the fire</span> with its own pale color turns the <span class="m">enamel</span> a dead colour. <span class="del">Ma></span> And for this occasion, once cut, one puts it back on the fire to give it a reddish color to make the <span class="m">enamels</span> beautiful. <span class="add">Otherwise, they are subdued.</span>
+<span class="m">Fine gold</span> is opposed to it, for <span class="del"><span class="ill"></span></span> on this it remains yellowish. But alloyed <span class="m">gold</span> is more appropriate to it, such as that of <span class="cn">escu</span> & <span class="cn">pistolet</span>. <span class="del">If</span> <span class="m">Gold</span> <span class="del">f</span> <span class="del">is not put back on the fire</span> with its own pale color turns the <span class="m">enamel</span> a dead colour. <span class="del">Ma</span> And for this occasion, once cut, one puts it back on the fire to give it a reddish color to make the <span class="m">enamels</span> beautiful. <span class="add">Otherwise, they are subdued.</span>
  
 There is <span class="m">rouge clair</span> which, once it is worn down with <span class="m">arene</span>, loses its beauty.
  

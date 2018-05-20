@@ -53,7 +53,10 @@ Quand les <span class="pro">orfevres qui travaillent de grosserie</span> ont<br/
 > 
 >  @Les <span class="pro">orfevres</span> ne<br/> travaillent point<br/> d<span class="m">argent de <span class="cn">real</span></span><br/> qui ne soict allie<br/> pource quil est<br/> <span class="m">plombeus</span> & en<br/> forgeant il saigrist 
  
-Aulcuns souldent<br/> pour petit ouvrage<br/> & choses qui ne vont<br/> quune fois au foeu<br/> avecq quelque vieulx <span class="cn">sol</span><br/> & <span class="cn">carolus</span> recuit & battu<br/> Touteffois si le <span class="cn">sol</span><br/> nest bien bon la<br/> <span class="m">souldure</span> mange<br/> & y fault <span class="m">soulder</span><br/> deulx fois & sy<br/> trouve trop de <span class="m">cuivre</span><br/> Aultres souldent<br/> avecq <span class="ms">moictie</span> <span class="m">argent</span><br/> & <span class="ms">moictie</span> <span class="m">cuivre<br/> fin</span>
+> *at left middle margin*
+> 
+> 
+>  Aulcuns souldent<br/> pour petit ouvrage<br/> & choses qui ne vont<br/> quune fois au foeu<br/> avecq quelque vieulx <span class="cn">sol</span><br/> & <span class="cn">carolus</span> recuit & battu<br/> Touteffois si le <span class="cn">sol</span><br/> nest bien bon la<br/> <span class="m">souldure</span> mange<br/> & y fault <span class="m">soulder</span><br/> deulx fois & sy<br/> trouve trop de <span class="m">cuivre</span><br/> Aultres souldent<br/> avecq <span class="ms">moictie</span> <span class="m">argent</span><br/> & <span class="ms">moictie</span> <span class="m">cuivre<br/> fin</span>
  
  
   

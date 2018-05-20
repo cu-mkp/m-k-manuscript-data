@@ -10,7 +10,7 @@ editor: GR8975 Seminar Participants
 rights: Public Domain
 materials: [esmeraldes de Brissac, minium, christal, marbre, verdet, lute, safir, Caillous, sel de febvre, coryal]
 tools: [marbre, croiset couvert dun aultre bien lute qui ait un trou dans le hault]
-measurements:[heures, grains]
+measurements: [℥, |ʒ|, heures, grains]
 bodyparts: []
 places: [brescia, Brissac]
 plants: []
