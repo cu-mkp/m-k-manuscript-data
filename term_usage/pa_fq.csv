@@ -1,49 +1,54 @@
 36|aspic
-30|noix
-21|froment
+32|noix
+22|froment
 16|rose
 15|bled
 13|lin
-12|vigne
+11|vigne
 10|saule
+10|olif
 9|orme
-9|olif
 8|figuier
-6|pensee
 6|pastel
 6|abres
 5|raisin
+5|pensee
+5|millet
 5|abre
 4|sauge
 4|olive
-4|millet
 4|cotton
-4|
-3|soulcy
 3|safran
 3|roses
+3|girofle
 3|coings
 3|aulx
 3|asperge
+3|ail
+3|absinthe
 2|tim
+2|soulcy
 2|soucy
 2|sapin
+2|salicor
 2|rosmarin
 2|rosier
 2|poix
 2|pois
+2|paille
 2|oignons
 2|noyer
 2|mil
 2|linge
 2|herable
 2|havets
-2|girofle
 2|fromant
 2|fraisiers
 2|fleurs
-2|fleur de
+2|feugiere
+2|consolida maior
 2|chastaignes
+2|canelle
 2|buys
 2|buglose
 2|bruyeres
@@ -51,16 +56,16 @@
 2|bleds
 2|amendes
 2|amaranthe
-2|ail
-2|absinthe
 2|Roses
 1|zedoaire
+1|visaube
 1|viole
 1|vini
 1|vinette
 1|vignes
 1|vesse
 1|terra merita
+1|symphitum
 1|sumach
 1|soulci
 1|solcy
@@ -68,18 +73,20 @@
 1|sauvignons
 1|saulge
 1|sarment
-1|salicor
+1|rue
 1|rosiers
 1|ronce
 1|rheubarbe des moynes
 1|ranunculus
 1|raisins
 1|queues de pourrceaulx
-1|queue
+1|queue de cheval
+1|pæonia
 1|prunelles
 1|pruneaux
 1|provenche
 1|prele
+1|poyvre
 1|poys
 1|potirons
 1|pomole
@@ -97,7 +104,6 @@
 1|pavot rouge
 1|papus
 1|palta lupina
-1|paille
 1|orties
 1|orenge
 1|oranges
@@ -111,15 +117,13 @@
 1|noisette
 1|nois
 1|navete
-1|musc
 1|mil jaulne
 1|mericotons
 1|melons
 1|mauves
-1|maius
 1|lys
 1|linges
-1|lapathium acutum
+1|lapathium acutum maius
 1|lapasses
 1|hiebles
 1|herbes potaigeres
@@ -130,23 +134,25 @@
 1|guindoles
 1|guimave
 1|grand passevelours
+1|gentiane
 1|genest
+1|gayac
 1|fustict
 1|funges
 1|fraises
 1|forment
-1|foeuilles de
+1|foeuilles de vigne
 1|foeilles de lierre
+1|fleur de soulcy
+1|fleur de pensee
 1|fleur de genest
 1|figier
-1|feugiere
 1|festus
 1|febve
 1|fayan
 1|erable
-1|dent
-1|de cheval
-1|de Lyon
+1|dictam
+1|dent de Lyon
 1|cucurme
 1|coutoien
 1|cormier
@@ -156,7 +162,7 @@
 1|chauches
 1|chaisne
 1|caprier
-1|canelle
+1|capilli veneris
 1|buy
 1|bruiere
 1|boufain
@@ -183,6 +189,8 @@
 1|Oeillets
 1|Oeillet
 1|Marguerites
+1|Mandragore
 1|Guesdre
 1|Eschervis
 1|Eleusines
+1|

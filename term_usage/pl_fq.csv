@@ -1,17 +1,19 @@
 16|allemaigne
+11|lorraine
 10|venise
+9|flandres
 8|france
-8|flandres
 8|espaigne
-7|angleterre
-6|lorraine
+8|angleterre
 6|florence
+6|France
+5|thoulouse
 5|allemans
 5|Thoulouse
-4|thoulouse
 4|flamens
 4|allemands
-4|France
+3|rouan
+3|puy david
 3|montpellier
 3|lyon
 3|grecs
@@ -19,39 +21,37 @@
 3|flaments
 3|champaigne
 3|anglois
+3|Lyon
 3|Italiens
 3|Allemaigne
-3|
 2|vienne
-2|rouan
-2|puy david
+2|urb. rom.
+2|sainct Jaques de la boucherie
+2|rue des escrivains
+2|rue de la heaumerie a limage sainct claude
 2|paris
+2|lorrain
+2|levant
 2|lauragues
 2|gand
+2|faulxbourgs de sainct germain
 2|espaignolles
 2|damas
 2|bretaigne
 2|biscaye
 2|acre
-2|Lyon
-1|villes
-1|urb. rom.
+2|Romæ
+2|Normandie
+2|Italiene
 1|turquie
 1|turcs
 1|toulouse
 1|touch
-1|tholose
 1|serment
 1|saul
-1|sainct germain
-1|sainct claude
-1|sainct Jaques de la
-1|rue des escrivains
-1|rue de la heaumerie a limage
 1|romme
 1|rhodés
 1|rheim
-1|puy
 1|portugal
 1|portugais
 1|phoeniciens
@@ -69,10 +69,8 @@
 1|mende
 1|mans
 1|malte
-1|lorrain
 1|lombardie
 1|levantins
-1|levant
 1|languedoc
 1|langlois
 1|la rochelle
@@ -87,11 +85,9 @@
 1|fosseret
 1|flendres
 1|flamans
-1|faulxbourgs de
 1|delphos
 1|delphis
 1|delphe
-1|david
 1|daulphine
 1|coustance
 1|colchos
@@ -101,8 +97,7 @@
 1|cambray
 1|brescia
 1|bourgoigne
-1|boucherie
-1|bonnes
+1|bonnes villes
 1|bolvenes
 1|bolvene
 1|blagnac
@@ -110,7 +105,6 @@
 1|aurignac
 1|auraigne
 1|assyrie
-1|armeniae
 1|armeni
 1|armen
 1|argos
@@ -124,12 +118,9 @@
 1|Saint denis
 1|Sainct Michel
 1|Sainct Antonin
-1|Romæ
 1|Ox
-1|Normandie
 1|Noremberg
 1|Latins
-1|Italiene
 1|Italie
 1|Istre
 1|Irois
@@ -148,3 +139,4 @@
 1|Allemand
 1|Alby
 1|Aegiptiens
+1|

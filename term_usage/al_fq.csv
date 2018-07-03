@@ -1,8 +1,8 @@
-30|serpent
+29|serpent
 23|serpents
 22|tortue
 22|escrevisse
-18|cheval
+19|cheval
 14|lesard
 12|vers
 12|seiche
@@ -13,22 +13,21 @@
 11|iraigne
 10|tortues
 10|rat
+10|dragon
 10|chevaulx
 9|poisson
 8|bœuf
 7|grenoille
 7|chiens
 6|veau
-6|dragon
-6|
 5|serpens
+5|pourceau
 5|oiseau
 5|lesardes
 5|chien
 5|chancre
 4|vache
 4|rats
-4|pourceau
 4|mousche
 4|mouches
 4|loup
@@ -40,12 +39,13 @@
 3|oyseaulx
 3|oiseaulx
 3|lezard
-3|celles
+3|celles de garrigue
 3|boeuf
 3|benarris
 3|Rossignol
 3|Oyseaulx
 3|Celles deau
+2|venatione
 2|souris
 2|saulterelles
 2|rossignols
@@ -59,24 +59,26 @@
 2|lezardes
 2|lesarde
 2|gris
-2|garrigue
 2|fourmis
 2|escargots
-2|de garrigue
+2|corbeau
 2|chardonnerets
 2|cerf volant
+2|celles deau
 2|calendres
+2|aucupio
 2|angroisse
 2|Tortues
 2|Serpens
+2|Escrevisse
 2|Crapault
+2|Aquatilium animalium
 1|yraignes
 1|yraigne
 1|vers de farine
 1|verdaule
-1|ver de
+1|ver de farine
 1|ver
-1|venatione
 1|tourterelles
 1|tortue deau
 1|telines
@@ -116,16 +118,12 @@
 1|grenoilles
 1|fouines
 1|formis
-1|farine
-1|deau
 1|daigneaulx
 1|cygales
-1|cornu
-1|corbeau
 1|coquu
 1|coquilles
 1|connils
-1|commun
+1|commun serpent
 1|cochon
 1|cigne
 1|chevreaulx
@@ -133,12 +131,9 @@
 1|chevaux
 1|chats
 1|chat
-1|ceulx dans lesquels
-1|certains petits chancres se logent
+1|ceulx dans lesquels certains petits chancres se logent
 1|cerf
-1|celles deau
-1|celles de
-1|celle de
+1|celle de garrigue
 1|canard
 1|calendre
 1|calandres
@@ -151,8 +146,7 @@
 1|beuf
 1|benarrins
 1|bellettes
-1|aucupio
-1|aspic
+1|aspic cornu
 1|animaulx
 1|animal
 1|angroissee
@@ -167,7 +161,6 @@
 1|Oysillons
 1|Mousches
 1|Lesards
-1|Escrevisse
 1|Escargots
 1|Chevaulx
 1|Chauve souris
@@ -179,4 +172,4 @@
 1|Butor
 1|Brebis
 1|Araigne
-1|Aquatilium animalium
+1|

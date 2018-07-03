@@ -1,28 +1,27 @@
 27|orfevres
 19|fondeurs
-16|painctres
-12|
-8|verriers
-7|pintiers
+15|painctres
+9|verriers
+8|pintiers
+7|vitriers
 7|canonier
+7|Fondeur
 6|Painctre
-6|Fondeur
-5|vitriers
 5|potiers
-4|ouvrier
+5|ouvrier
 4|mareschaulx
 4|imprimeurs
 4|fourbisseur
 4|artiste
+4|Vitrier
 3|pionniers
 3|ouvriers
 3|orfevre
+3|moissonneur
 3|maistres
 3|canoniers
 3|artisans
 3|apotiquaires
-3|Vitrier
-3|Maistre
 2|vitrier
 2|tondeur
 2|scribes
@@ -30,30 +29,29 @@
 2|quiterniers
 2|pionners
 2|painctre
-2|moissonneur
 2|minerons
 2|menusiers
+2|inventeur
 2|imprimeur
-2|garson
+2|fondeurs de grand gect
+2|fondableseurs
+2|courroyeur
 2|courroieur
-2|ceulx qui
+2|bergiers
 2|aprentis
 2|apothiquaires
 2|Pintiers
 2|Pintier
 2|Orfevre
 2|Marchant
+2|Maistre
 2|Horlogeurs
 2|Canonier
 1|villageois
 1|verrier
 1|vendangeurs
 1|vallet
-1|vaisselle
-1|vaissele &amp; grosserie
 1|tuilier
-1|travaillent de
-1|travaillent
 1|tinturiers
 1|taneurs
 1|tailleurs de pierre
@@ -72,7 +70,7 @@
 1|potier
 1|plombeurs
 1|pintori
-1|petits
+1|petits enffans
 1|pelerin
 1|paysant
 1|paysans
@@ -82,7 +80,7 @@
 1|parayres
 1|paintre
 1|ouvriers de fer
-1|orfevres qui travaillent de grosserie et
+1|orfevres qui travaillent de grosserie et vaisselle
 1|orfevres qui travaillent de grosserie
 1|moynes
 1|mouleurs
@@ -94,67 +92,53 @@
 1|masson
 1|larrons
 1|jardiners
-1|inventeur
-1|huile
 1|grossiers
-1|graveurs sur le
-1|gonnin
+1|graveurs sur le fer
 1|gecteurs
+1|garson de boutique
+1|garson
 1|gainiers
 1|fourbisseurs
 1|forbisseurs
 1|forbisseur
 1|fondeurs de grands ouvraiges
-1|fondeurs de grand gect
 1|fondeurs dartiglerie &amp; de cloches
 1|fondeurs dartiglerie
 1|fondeur
-1|fondableseurs
-1|foeilles de pierrerie
 1|ferriers
-1|fer
 1|femmes
 1|febvre
-1|faiseurs de cuir
+1|faiseurs de cuir dore
 1|espasiers
 1|escrivain
 1|enlumineurs
 1|enleumineurs
-1|enffans
-1|en grand ouvrage
-1|dore
 1|denlumineure
-1|de malte
-1|de grand gect
-1|de boutique
 1|cousteliers
-1|courroyeur
 1|corroyeurs
 1|cordonniers
 1|contreporteurs
-1|communs
-1|commandeurs
+1|communs painctres
+1|commandeurs de malte
 1|chauldronier
 1|chaudroniers
-1|chante
 1|chandeliers
-1|champs
-1|ceulx qui font les
+1|ceulx qui travaillent de vaissele &amp; grosserie
+1|ceulx qui font les foeilles de pierrerie
 1|ceulx qui font des pots
+1|ceulx qui aguisent
 1|cavallerie
 1|canonnier
 1|boutonniers aussi de verre
 1|blanchisseurs
 1|bimbalotiers
-1|bergiers
 1|barbiers
-1|ayes quelquun qui
-1|aultres qui travaillent aulx
-1|aultres
+1|ayes quelquun qui chante
+1|aultres qui travaillent aulx champs
 1|assistant
 1|artisans qui travaillent en grands ouvraiges
-1|artisans qui
-1|artisans de metaulx dor &amp; dargent &amp;
+1|artisans qui travaillent en grand ouvrage
+1|artisans de metaulx dor &amp; dargent &amp; aultres
 1|argentiers
 1|archiers
 1|aprentif
@@ -163,7 +147,6 @@
 1|apothicaires
 1|anciens lapidaires
 1|alchemistes
-1|aguisent
 1|Tisserant
 1|Tailleurs en planches
 1|Sarrurier
@@ -174,17 +157,18 @@
 1|Maistres pintiers jures
 1|Maistres jures
 1|Maistres
+1|Maistre gonnin
 1|Maistre gonin
 1|Jardinier
 1|Harquebusier
 1|Gainiers
 1|Gainier
 1|Fourbisseur
-1|Fondeurs de menus ouvrages
+1|Fondeurs de menus ouvrages @destaim
 1|Faiseur de natte
 1|Cordonnier
 1|Chirurgiens
 1|Ceulx qui font les gardes despees
-1|Celuy qui faict profession de travailler a
+1|Celuy qui faict profession de travailler a huile
 1|Boulangier
-1|@destaim
+1|
