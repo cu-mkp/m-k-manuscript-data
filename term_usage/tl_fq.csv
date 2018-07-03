@@ -35,11 +35,11 @@
 12|four a vent
 12|doigts
 12|chaple
+12|bouteille
 11|plume
 11|escuelle
 10|trancheplume
 10|broisse
-10|bouteille
 9|table
 9|regle
 9|pilon
@@ -72,6 +72,7 @@
 6|plane
 6|four de reverberation
 6|filet
+6|espingle
 6|dent
 6|cornue
 6|cheville
@@ -92,7 +93,6 @@
 5|pincettes
 5|pinceaulx a huile
 5|limes
-5|espingle
 5|double tamis
 5|cloche
 5|ciseau
@@ -128,6 +128,7 @@
 3|plaste dardile
 3|pinceaulx
 3|pierre
+3|panier
 3|paille
 3|onglet
 3|moule de plastre
@@ -185,7 +186,6 @@
 2|piece de feultre
 2|papier enflamme
 2|papier colle
-2|panier
 2|pallette
 2|palle
 2|moules de plastre
@@ -239,6 +239,7 @@
 2|cabats
 2|bullitoire
 2|bruny
+2|bouteilles
 2|bout du doigt
 2|boictes
 2|barre
@@ -293,6 +294,7 @@
 1|table des orfevres
 1|table bien unie
 1|table bien nette &amp; unie
+1|table &amp; bien unie
 1|syringue
 1|sur le rechault
 1|subtil tamis
@@ -341,6 +343,7 @@
 1|pot de eau des orfevres
 1|portepiece
 1|porte piece
+1|pone pleine deau
 1|pointe dun fil de fer
 1|pointe de fer
 1|poinctes delicates de fil de cist cordes de cistre
@@ -363,6 +366,7 @@
 1|poilonne
 1|poelonne
 1|plume dholande
+1|plume bien poinctue
 1|platte de fer
 1|platine
 1|platene de terre
@@ -393,6 +397,7 @@
 1|pinceaulx composes de deulx ou trois poils de barbe de rat
 1|pilons
 1|piliers de fer
+1|piler
 1|pierre noire
 1|pierre de touche
 1|pied de cire
@@ -512,6 +517,7 @@
 1|gratte broisse
 1|grand doigt
 1|godet
+1|gluons
 1|globe ou bocal de verre
 1|gibessiere
 1|gibbessiere
@@ -665,6 +671,7 @@
 1|canon
 1|cane
 1|caisse de fer ne de metal
+1|cages
 1|burins &amp;
 1|burin ordinayre a tailler
 1|brunissouer
@@ -700,6 +707,8 @@
 1|anneaulx
 1|ancrou
 1|ampoulles
+1|ampoulle
+1|ampoule de verre
 1|amande
 1|alenbic
 1|alembics

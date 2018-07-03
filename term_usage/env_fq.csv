@@ -2,12 +2,12 @@
 11|eau
 11|au soleil
 10|a la pluye
-7|cave
+8|cave
 5|soleil
 5|garrigue
 5|en lieu humide
+5|au serain
 4|vent
-4|au serain
 3|riviere
 3|muraille
 3|lieu sec
@@ -35,7 +35,6 @@
 1|vigne
 1|vent dune fenestre
 1|veines de la montaigne
-1|un champ
 1|tonnerres
 1|terriers
 1|terrier
@@ -51,6 +50,7 @@
 1|roche
 1|rivieres deau doulce
 1|rivieres
+1|puys profond
 1|puys
 1|pres du feu
 1|pres des rochers aulx pays montueulx
@@ -68,6 +68,7 @@
 1|ou le fonds de la terre est si fertil
 1|nuit soict obscure &amp; ne fasse point de ☾
 1|nature
+1|montaignes
 1|montaigne
 1|mine de Thoulouse
 1|maison
@@ -78,6 +79,7 @@
 1|lieu clos
 1|la premiere pluye
 1|jour
+1|jardins
 1|humidite
 1|humeur de la cave
 1|hors du vent
@@ -93,17 +95,21 @@
 1|fontaines
 1|expose au soleil
 1|en un jardin A lair
+1|en un champ &amp; en celuy qui est proche
 1|en terre maigre &amp; seche
 1|en terre maigre
 1|en temps humide
 1|en temps de pluye
 1|en lieu sec
 1|en lieu frais
+1|en lieu fort humide ou tel quavecq puys rodier ou fontayne on le puysse souvent arroser
 1|en lieu bien sec
 1|en lieu aire
 1|en la cave ou aultre lieu humide
 1|en hault
 1|eau ou les escrevisses se nourrissent
+1|dans une chambre ou il ny aye aulcune goutte dair &amp; de vent
+1|dans une cave
 1|dans leau
 1|dans la terre fresche &amp; humide
 1|dans de la terre fresche
@@ -112,8 +118,8 @@
 1|cheminees des grandes cuisines
 1|cheminee
 1|champs
+1|chambre bien close ou il ny entre point de vent ne dair
 1|chambre
-1|celuy qui est proche
 1|cavernes de rochers
 1|bonnes villes
 1|biquoques

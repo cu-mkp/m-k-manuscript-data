@@ -14,10 +14,10 @@
 12|pas
 12|pans
 11|quintals
+8|moys
 8|grains
 8|deniers
 7|pars
-7|moys
 7|doigt
 6|lien
 5|quart
@@ -29,6 +29,7 @@
 4|carte
 4|aultant dun que daultre
 4|aulne
+3|tous les ans
 3|pieds
 3|pied
 3|pater noster
@@ -76,6 +77,7 @@
 2|demy lb
 2|boisseaulx
 2|ana
+2|an
 1|œufs
 1|ʒ
 1||ʒ|
@@ -83,6 +85,7 @@
 1|une ou deux heures
 1|une heure &amp; demye
 1|une foys la sepmaine
+1|une fois la sepmaine
 1|une demy coquille de nois
 1|un quart plus pesant que
 1|un quart dheure
@@ -96,6 +99,7 @@
 1|tout un jour
 1|tierce partye
 1|sepmaine
+1|seconde annee
 1|seau en heure
 1|quintaulx
 1|quarts
@@ -176,12 +180,14 @@
 1|espesseurs de papier
 1|espesseur dune piece de quarante sols
 1|espesseur dun teston
+1|espesseur dun pousse
 1|espesseur dun papier
 1|espesseur dun costeau
 1|espesseur du dos de costeau
 1|espace que tu diras 8 pater noster
 1|espace dun pater noster
 1|espace de quinze jours
+1|espace de deux heures
 1|espace de 9 jours
 1|espace de 4 ou cinq matins
 1|en bonne quantite
@@ -197,12 +203,14 @@
 1|doitgts
 1|doitgs
 1|distance necessaire
+1|devant la sainct Michel
 1|deux foys aultant
 1|deux fois que la saulcice
 1|deux doits en deulx doigts
 1|deulx pointes de doigt
 1|deulx foys le jour
 1|deulx foys aultant
+1|despuys la toussaints jusques a Noël
 1|demye once
 1|demy pied
 1|demy balle dharquebus
@@ -236,8 +244,9 @@
 1|aultant dun que dautre
 1|aultant
 1|asses chault comme quand on en tire le pain
+1|apres la my Juillet jusques a la sainct Michel
 1|ans
-1|an
+1|an suivant
 1|aiguillee
 1|Jour
 1|Carte

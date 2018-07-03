@@ -4,28 +4,30 @@
 16|rose
 16|bled
 14|lin
-11|vigne
+12|vigne
 10|saule
 10|olif
 9|orme
 8|figuier
 6|pastel
-6|abres
 5|raisin
 5|pensee
 5|millet
-5|abre
+5|abres
 4|sauge
 4|rosmarin
 4|olive
+4|mil
 4|girofle
 4|cotton
+4|abre
 3|safran
 3|roses
 3|coings
 3|buglose
 3|aulx
 3|asperge
+3|amendes
 3|ail
 3|absinthe
 2|tim
@@ -41,22 +43,21 @@
 2|oranges
 2|oignons
 2|noyer
-2|mil
 2|linge
+2|lettue
 2|herable
-2|havets
 2|fromant
 2|fraisiers
 2|fleurs
 2|feugiere
 2|consolida maior
+2|chenevi
 2|chastaignes
 2|canelle
 2|buys
 2|bruyeres
 2|bresil
 2|bleds
-2|amendes
 2|amaranthe
 2|Roses
 1|zedoaire
@@ -86,6 +87,7 @@
 1|queues de pourrceaulx
 1|queue de cheval
 1|pæonia
+1|prunes
 1|prunelles
 1|pruneaux
 1|provenche
@@ -106,6 +108,7 @@
 1|pensees
 1|peche
 1|pavot rouge
+1|pavis
 1|papus
 1|palta lupina
 1|orties
@@ -119,6 +122,7 @@
 1|noisettes
 1|noisette
 1|nois
+1|navette
 1|navete
 1|mil jaulne
 1|mericotons
@@ -128,6 +132,8 @@
 1|linges
 1|lapathium acutum maius
 1|lapasses
+1|laictues grainees
+1|laictues
 1|hiebles
 1|herbes potaigeres
 1|herbes bulbeuses
@@ -166,6 +172,7 @@
 1|chou navette
 1|chauches
 1|chaisne
+1|cerises
 1|caprier
 1|capilli veneris
 1|buy
@@ -176,6 +183,7 @@
 1|balaustes
 1|baillard
 1|baccis juniperi
+1|avoyne
 1|avelane
 1|artichaulx
 1|armols
@@ -196,8 +204,10 @@
 1|Oliviers
 1|Oeillets
 1|Oeillet
+1|Mericotons
 1|Marguerites
 1|Mandragore
+1|Lis de jardin
 1|Guesdre
 1|Eschervis
 1|Eleusines

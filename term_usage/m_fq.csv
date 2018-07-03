@@ -1,6 +1,6 @@
 230|plomb
-220|eau
-217|cire
+218|eau
+216|cire
 214|or
 191|huile
 159|argent
@@ -8,7 +8,7 @@
 115|cuivre
 114|estain
 113|metal
-105|terre
+104|terre
 83|plastre
 81|papier
 77|verre
@@ -40,13 +40,13 @@
 29|pierre
 29|colle
 28|tourmentine
-28|toile
 28|souldure
 28|destrempe
 28|crocum
+27|toile
 27|salpestre
+27|eau chaulde
 27|acier
-26|eau chaulde
 26|cendres
 25|sucre
 25|minium
@@ -92,7 +92,6 @@
 13|argent vif
 13|ancre
 12|sanguine
-12|pain
 12|orpiment
 12|huiler
 12|esmail
@@ -100,6 +99,7 @@
 11|verdegris
 11|tripoly
 11|soulder
+11|pain
 11|luth
 11|glaire
 11|estain de glace
@@ -112,7 +112,6 @@
 10|vermeillon
 10|velours
 10|plomb fin
-10|pastel
 10|os de seiche
 10|or mat
 10|mortier
@@ -136,7 +135,6 @@
 9|ardoise
 8|verre pile
 8|vernis de tourmentine
-8|plume
 8|or bruny
 8|mine
 8|miel
@@ -150,6 +148,7 @@
 8|Plastre
 7|potee
 7|poix
+7|plume
 7|parchemin
 7|or fin
 7|marbre
@@ -215,6 +214,7 @@
 5|potin
 5|plombe
 5|peau
+5|pastel
 5|noir de lampe
 5|noir a noircir
 5|lessive
@@ -381,7 +381,6 @@
 2|verd de vessie
 2|verd de Gris
 2|urine chaulde
-2|urc
 2|tuthie præparee
 2|tuf
 2|tripoli
@@ -434,7 +433,6 @@
 2|pouldre de marchasite
 2|poix noire
 2|poils de barbe de rat
-2|pluye
 2|plombee
 2|pierre ponce calcinee
 2|pierre de fouldre
@@ -489,15 +487,14 @@
 2|huile de noix ou de lin
 2|huile de girofle
 2|huile de fromant
-2|graine de lettue
 2|graine de coings
-2|grain de mil
 2|gomme armoniac
 2|glaire doeuf battue
 2|geyct
 2|gemme
 2|gectons dallemaigne
 2|fumee de chandelle
+2|fruit
 2|fonte
 2|foeultre
 2|foeille
@@ -548,7 +545,6 @@
 2|cirop
 2|cire a esbaucher
 2|chimolee
-2|chenevi
 2|chault
 2|charbon pile
 2|charbon commun
@@ -692,6 +688,7 @@
 1|vapeur deau fort
 1|usblac
 1|urine vieilhe
+1|urc
 1|uille daspic
 1|tuyle
 1|tuyaulx des souflets
@@ -712,6 +709,7 @@
 1|tormentine de venise
 1|tormentine claire
 1|tondure de draps
+1|toile enciree
 1|toile de cambray
 1|toile de bourre
 1|toile cottonee
@@ -726,6 +724,7 @@
 1|terre maigre de laquelle les fondeurs dartiglerie &amp; de cloches font leur trusseaulx et moules
 1|terre grise
 1|terre grasse rouge
+1|terre fort deliee
 1|terre fiens ou terre bourre de laquelle les fondeurs dartiglerie se servent
 1|terre emerita
 1|terre dumbre
@@ -1001,7 +1000,6 @@
 1|peau de lievre
 1|peau de chien de mer
 1|peau de chat
-1|pavis
 1|pate de fine farine
 1|pastes
 1|paste desmail broye
@@ -1100,7 +1098,6 @@
 1|moele des cornes des boeufs
 1|mitraille
 1|minium peu broye
-1|mil
 1|miette de pain
 1|miette
 1|mie de gros pain
@@ -1203,7 +1200,7 @@
 1|laitton doulx
 1|laitton de potin
 1|laines a gros poil
-1|laictues
+1|laictues fort hachees
 1|laicton aigry par la calamine
 1|laict de femme
 1|la paste du pain
@@ -1221,6 +1218,7 @@
 1|jaspe grumeleux
 1|jacinthe
 1|ivoyre brusle
+1|iraigne
 1|incarnadine
 1|iaune doeuf
 1|iaulne doeuf
@@ -1288,11 +1286,14 @@
 1|grains de poyvre
 1|grains
 1|graine de vers de soye femelle
+1|graine de lettue
 1|graine de grand passevelours
 1|graine de chou navette
 1|graine de chenevi
 1|graine
 1|grain de mil jaulne
+1|grain de mil bouilly
+1|grain de mil
 1|grain de bled
 1|gousses dail pelees
 1|gousse dail
@@ -1302,7 +1303,6 @@
 1|gommee
 1|gomme de sandaraque en pouldre
 1|gome
-1|gluons
 1|glaire dœuf battue
 1|glaire doeufs bien battue
 1|glaire doeufs
@@ -1330,12 +1330,12 @@
 1|fumee de perdrix
 1|fumee calaminayre
 1|fruits
-1|fruit
 1|froment
 1|fromage
 1|fresil
 1|foye ou poulmon de boeuf ou moutton
 1|fort vinaigre
+1|fort petit de mie de pain
 1|fort bon vinaigre
 1|foeus artificiels
 1|foeilles dolivier
@@ -1370,11 +1370,10 @@
 1|fil de fer ou dacier
 1|fil de fer letton
 1|fil de fer chault
+1|fiente mesme de brebis
 1|fiente de vache
 1|fiente de cheval seche
 1|fiente de cheval bruslee
-1|fiente de bœuf
-1|fiente
 1|fiel
 1|fiante de cheval
 1|fian de cheval
@@ -1449,7 +1448,6 @@
 1|erny Rouge
 1|enthimoyne
 1|encre dimprimeur
-1|enciree
 1|encens
 1|embouer
 1|emaulx
@@ -1495,6 +1493,7 @@
 1|eau de ruche de miel
 1|eau de roche
 1|eau de pluye
+1|eau de la pone
 1|eau de graine de coings bouillie
 1|eau de goume
 1|eau de glaire doeuf
@@ -1531,6 +1530,7 @@
 1|desmail de gueule
 1|des chemins sablonneulx deseiches par le soleil
 1|dent
+1|decoction dabsinthe
 1|de venise
 1|de soufre
 1|de laitton
@@ -1619,6 +1619,7 @@
 1|ciree
 1|cire verte
 1|cire transparente
+1|cire noeufve
 1|cire grise ou noire
 1|cire gommee a esbaucher
 1|cire gommee
@@ -1632,6 +1633,7 @@
 1|chevilles de fer
 1|chesne
 1|cher de mouton cru
+1|chenevi
 1|chaulx vive subtillement pulverisee
 1|chaulx diceulx
 1|chault vive
@@ -1747,13 +1749,11 @@
 1|barbes des plus vieulx rats
 1|barbe des fouines &amp; bellettes &amp; petits animaulx qui font le musc
 1|balottes
-1|balles
 1|balle
 1|balaustes
 1|baccis juniperi
 1|azur commun
 1|axunge
-1|avoyne
 1|aux
 1|aureas
 1|aspalthe
@@ -1821,7 +1821,6 @@
 1|acier de damas
 1|aceto
 1|absinthe en pouldre
-1|absinthe
 1|Vinaigre
 1|Vin brusle
 1|Vin
@@ -1901,7 +1900,6 @@
 1|Mortier
 1|Minium
 1|Metal
-1|Mericotons
 1|Mercure
 1|Masticq
 1|Magistra
@@ -1940,7 +1938,6 @@
 1|Galipot
 1|Fumee de letton
 1|Fumee de chandelle
-1|Fleurs dabres
 1|Farine
 1|Estain de glace
 1|Estaim fin
@@ -1948,7 +1945,6 @@
 1|Esmeraulde
 1|Esmauls
 1|Escorce doranges
-1|Eschervis racine
 1|Escaille de fer
 1|Eaulx
 1|Eaue fort

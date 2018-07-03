@@ -16,24 +16,24 @@
 10|dragon
 10|chevaulx
 9|poisson
-8|bœuf
+9|bœuf
 7|grenoille
 7|chiens
 6|veau
+6|oiseau
 5|serpens
 5|pourceau
-5|oiseau
 5|lesardes
 5|chien
 5|chancre
 4|vache
-4|rats
 4|mousche
 4|mouches
 4|loup
 4|crapault
 4|chancres
 3|vipere
+3|rats
 3|poulet
 3|porceau
 3|porc
@@ -53,7 +53,6 @@
 2|pigeons
 2|papillons
 2|papillon
-2|mulots
 2|moutons
 2|lezards
 2|lezardes
@@ -88,6 +87,7 @@
 1|sernailles
 1|saulterelle
 1|rossignol
+1|rats mulots
 1|rats lirons
 1|pulces
 1|poulsins
@@ -102,6 +102,7 @@
 1|passereaulx
 1|passe solitaire
 1|oisillons
+1|mulots
 1|moutton
 1|moulue
 1|moules
