@@ -1,49 +1,53 @@
 98|lb
-54|℥
+56|℥
 40|moictie
 39|quintal
 30|once
 21|onces
+20|jours
 19|heures
 18|pan
-18|jours
+15|jour
 15|doigts
-14|jour
 13|partye
+13|heure
 12|pas
 12|pans
-12|heure
 11|quintals
+8|grains
 8|deniers
 7|pars
-7|grains
+7|moys
 7|doigt
 6|lien
+5|quart
 5|nuict
 5|ligne
 4|unces
 4|quart dheure
-4|quart
 4|poix
-4|moys
 4|carte
 4|aultant dun que daultre
 4|aulne
 3|pieds
 3|pied
+3|pater noster
 3|parties
 3|lanterne
 3|hora
 3|goutte
 3|dragmes
 3|demy sestier
+3|demy
 3|Jours
 2|un bon quart dheure
 2|travers de doigt
 2|tierce partie
 2|tables
+2|suffisante quantite
 2|seau
 2|quintalz
+2|quarteron
 2|quarte partie
 2|poulsses
 2|poulces
@@ -57,17 +61,19 @@
 2|pan de roy
 2|pan de montpellier
 2|moitie
+2|mois
 2|huictiesme partye
 2|gros
 2|grain
 2|gabions
 2|fois le jour
+2|espace de quinze iours
 2|denier
 2|demye ℥
 2|demye heure
+2|demy ℥
 2|demy once
 2|demy lb
-2|demy
 2|boisseaulx
 2|ana
 1|œufs
@@ -89,11 +95,10 @@
 1|tout un jour et une nuict
 1|tout un jour
 1|tierce partye
-1|suffisante quantite
+1|sepmaine
 1|seau en heure
 1|quintaulx
 1|quarts
-1|quarteron
 1|quarte partye
 1|quarte partie de plomb sur trois destaim
 1|quarte ou cinquiesme partye
@@ -109,6 +114,7 @@
 1|poulce
 1|pots
 1|pot
+1|poix dun escues
 1|poignees
 1|plusieurs foys chasque jour
 1|plume dholande
@@ -148,6 +154,7 @@
 1|joinctee
 1|iours
 1|iour
+1|infusions
 1|huict en huict jours
 1|horologe de sable
 1|hault de trois doits
@@ -172,7 +179,10 @@
 1|espesseur dun papier
 1|espesseur dun costeau
 1|espesseur du dos de costeau
+1|espace que tu diras 8 pater noster
 1|espace dun pater noster
+1|espace de quinze jours
+1|espace de 9 jours
 1|espace de 4 ou cinq matins
 1|en bonne quantite
 1|empan
@@ -191,14 +201,16 @@
 1|deux fois que la saulcice
 1|deux doits en deulx doigts
 1|deulx pointes de doigt
+1|deulx foys le jour
 1|deulx foys aultant
 1|demye once
-1|demy ℥
 1|demy pied
 1|demy balle dharquebus
 1|delie p comme grosse corde despinette pour les petits ouvrages
 1|degre de chaleur
 1|de telle capacite que le bout du petit doigt y puisse presque entrer
+1|cuillerees
+1|cuelleree
 1|cueillerees dargent
 1|crusols
 1|creusets
@@ -226,6 +238,7 @@
 1|asses chault comme quand on en tire le pain
 1|ans
 1|an
+1|aiguillee
 1|Jour
 1|Carte
 1|Aultant quil pourroit tenir dans un œuf

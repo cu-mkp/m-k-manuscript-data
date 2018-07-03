@@ -1,9 +1,9 @@
 36|aspic
-32|noix
+33|noix
 22|froment
 16|rose
-15|bled
-13|lin
+16|bled
+14|lin
 11|vigne
 10|saule
 10|olif
@@ -16,12 +16,14 @@
 5|millet
 5|abre
 4|sauge
+4|rosmarin
 4|olive
+4|girofle
 4|cotton
 3|safran
 3|roses
-3|girofle
 3|coings
+3|buglose
 3|aulx
 3|asperge
 3|ail
@@ -31,11 +33,12 @@
 2|soucy
 2|sapin
 2|salicor
-2|rosmarin
+2|rue
 2|rosier
 2|poix
 2|pois
 2|paille
+2|oranges
 2|oignons
 2|noyer
 2|mil
@@ -50,7 +53,6 @@
 2|chastaignes
 2|canelle
 2|buys
-2|buglose
 2|bruyeres
 2|bresil
 2|bleds
@@ -64,16 +66,18 @@
 1|vinette
 1|vignes
 1|vesse
+1|vermicularis
 1|terra merita
 1|symphitum
 1|sumach
 1|soulci
 1|solcy
+1|semperviva
 1|seigle
 1|sauvignons
 1|saulge
 1|sarment
-1|rue
+1|ruta
 1|rosiers
 1|ronce
 1|rheubarbe des moynes
@@ -106,7 +110,6 @@
 1|palta lupina
 1|orties
 1|orenge
-1|oranges
 1|orangers
 1|orange
 1|olivier
@@ -134,6 +137,7 @@
 1|guindoles
 1|guimave
 1|grand passevelours
+1|grains
 1|gentiane
 1|genest
 1|gayac
@@ -148,6 +152,7 @@
 1|fleur de genest
 1|figier
 1|festus
+1|febves
 1|febve
 1|fayan
 1|erable
@@ -169,10 +174,13 @@
 1|bled orbere
 1|bled de froment
 1|balaustes
+1|baillard
+1|baccis juniperi
 1|avelane
 1|artichaulx
 1|armols
 1|arbres
+1|anthos
 1|amendiers
 1|amande
 1|abricots

@@ -12,11 +12,11 @@
 25|pot
 25|molle
 25|forge
+23|vaisseau
 23|porphire
 23|os
+23|doigt
 22|papier
-22|doigt
-20|vaisseau
 20|souflet
 19|tamis
 19|crampons
@@ -39,6 +39,7 @@
 11|escuelle
 10|trancheplume
 10|broisse
+10|bouteille
 9|table
 9|regle
 9|pilon
@@ -48,14 +49,13 @@
 9|mortiers
 9|main
 9|gabions
+9|bouteille de verre
 8|presse
 8|pallete
 8|manche
 8|mains
 8|grille
 8|chevilles
-8|bouteille de verre
-8|bouteille
 8|Moules
 7|poincte de fer
 7|planche
@@ -183,6 +183,7 @@
 2|pinsettes
 2|piliers
 2|piece de feultre
+2|papier enflamme
 2|papier colle
 2|panier
 2|pallette
@@ -219,6 +220,7 @@
 2|estoc
 2|esgrusouer
 2|eguille
+2|drappeau
 2|desgrusouer
 2|cuilliere
 2|crusols
@@ -249,11 +251,12 @@
 2|Four a vent
 1|verre ou ardoise unie
 1|verre de bon vin
+1|verre bien nect
 1|vergettes pour sapuyer la main quand ilz paignent
 1|vergette de fer
 1|vase
 1|vaisseau plombe
-1|vaisseau destaing
+1|vaisseau destaing et bien clos
 1|vaisseau de verre
 1|vaisse
 1|un peu de liege
@@ -294,6 +297,7 @@
 1|sur le rechault
 1|subtil tamis
 1|sublimatorio di vetro
+1|spatule de bois noeuf
 1|souldouers de vitrier
 1|souldouer
 1|servietes mouillees
@@ -333,6 +337,7 @@
 1|pots non plombes
 1|pots de terre avecq un couvercle
 1|pots de terre
+1|pot destain
 1|pot de eau des orfevres
 1|portepiece
 1|porte piece
@@ -357,7 +362,6 @@
 1|poin
 1|poilonne
 1|poelonne
-1|poches de cuir
 1|plume dholande
 1|platte de fer
 1|platine
@@ -395,6 +399,7 @@
 1|pieces de feutre moufle
 1|picquet de fer
 1|phiole
+1|phiol
 1|petite table unye
 1|petit instrument recourbe
 1|petit burin
@@ -464,7 +469,7 @@
 1|marteler
 1|marteaulx
 1|marbre poly
-1|manches
+1|manches ou poches de cuir
 1|manche des pinceaulx
 1|manche de linge
 1|mains joinctes entre les deulx genoux
@@ -476,8 +481,11 @@
 1|lopin de verre
 1|longs pinceaux
 1|long verre
+1|long baston
 1|linge trempe dans de la graisse de porc meslee de salpestre ou sel armoniac
+1|linge mouille
 1|linge fort subtil
+1|linge deslie
 1|linge blanc
 1|limes quarrees
 1|limes doulces
@@ -503,6 +511,7 @@
 1|grattebroisse de letton
 1|gratte broisse
 1|grand doigt
+1|godet
 1|globe ou bocal de verre
 1|gibessiere
 1|gibbessiere
@@ -575,7 +584,7 @@
 1|eau claire
 1|eau
 1|drapt vert
-1|drappeau
+1|drappeau blanc
 1|drap de laine
 1|double tamys
 1|double des apothiquaires
@@ -589,6 +598,7 @@
 1|cureaureille
 1|cul de verre
 1|cuir
+1|cuillerees
 1|cuelleree
 1|cuellere
 1|cueillerees dargent
@@ -616,6 +626,7 @@
 1|cordon retors de la sye
 1|cordette
 1|corde despinette
+1|coquille de noix
 1|coquille
 1|copelle
 1|contre os
@@ -638,6 +649,7 @@
 1|chauderon
 1|charbons allumes
 1|charbons
+1|charbon allume
 1|chaples
 1|chandelle de suif
 1|chandelle de cire
@@ -650,6 +662,7 @@
 1|casse
 1|cartons
 1|carreau
+1|canon
 1|cane
 1|caisse de fer ne de metal
 1|burins &amp;
@@ -688,6 +701,7 @@
 1|ancrou
 1|ampoulles
 1|amande
+1|alenbic
 1|alembics
 1|alembic bien lute &amp; couvert dun chapiteau de cuivre
 1|alembic

@@ -1,19 +1,20 @@
-21|jour
-20|jours
+22|jours
+22|jour
 18|heures
 12|heure
 9|nuict
 8|long temps
+5|nuit
+5|moys
 5|lendemain
 4|quart dheure
-4|moys
 4|hiver
+4|ans
 3|tous les ans
-3|nuit
+3|matin
 3|iours
 3|hora
 3|este
-3|ans
 3|Jours
 2|ung quart dheure
 2|un bon quart dheure
@@ -22,9 +23,10 @@
 2|soir
 2|serain
 2|plusieurs jours
-2|matin
+2|moys de may
 2|lendemain matin
 2|hyver
+2|espace de quinze iours
 2|en este
 2|demye heure
 2|de nuict
@@ -44,7 +46,9 @@
 1|temps est relent &amp; humide
 1|temps
 1|sont longues
+1|soleil ne soit vers le midy
 1|serain de la nuit
+1|sepmaine
 1|seconde annee
 1|saison
 1|saint Anthoine de Janvier
@@ -53,12 +57,14 @@
 1|premier jour
 1|pauses
 1|nuicts
-1|moys de may
+1|moys de juing &amp; juillet
+1|mois
 1|mercredy
 1|matins
 1|mardy
 1|lyver
 1|longuement
+1|long traict de la mer
 1|long
 1|leste
 1|le soir
@@ -72,6 +78,8 @@
 1|fort long temps
 1|fin de la lune
 1|espace dun pater noster
+1|espace de quinze jours
+1|espace de 9 jours
 1|en tout temps
 1|en temps de pluye
 1|en hyver
@@ -79,6 +87,8 @@
 1|en heure
 1|en automne
 1|du temps passe
+1|deulx foys le jour
+1|de nuict a la frescheur &amp; aux rays de la lune
 1|de longue duree
 1|bonnes heures
 1|bon matin
@@ -94,6 +104,9 @@
 1|an suivant
 1|advents de noël
 1|advents de Noel
+1|a toute heure
+1|a la prochaine semence
 1|Chasque matin
 1|Au printemps
+1|Au mois daougst
 1|

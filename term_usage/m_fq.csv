@@ -1,8 +1,8 @@
 230|plomb
-218|eau
-218|cire
+220|eau
+217|cire
 214|or
-190|huile
+191|huile
 159|argent
 149|fer
 115|cuivre
@@ -10,19 +10,19 @@
 113|metal
 105|terre
 83|plastre
-83|papier
-76|verre
+81|papier
+77|verre
 72|estaim
 72|eau de vye
 69|pouldre
 69|charbon
-63|vinaigre
+62|vinaigre
 59|boys
 57|ardille
 56|letton
 45|vernis
 43|mabre
-43|bois
+42|bois
 39|sel armoniac
 39|fil de fer
 39|cendre
@@ -30,12 +30,12 @@
 37|ceruse
 36|charbons
 36|alum de plume
-35|vin
 35|brique
 33|laque
-31|urine
+31|vin
 31|soufre
 31|blanc de plomb
+30|urine
 30|cuir
 29|pierre
 29|colle
@@ -46,12 +46,12 @@
 28|crocum
 27|salpestre
 27|acier
-26|linge
 26|eau chaulde
 26|cendres
 25|sucre
-25|soye
 25|minium
+25|linge
+24|soye
 24|farine
 23|☿
 23|porphire
@@ -64,13 +64,13 @@
 18|estaing
 18|estaim de glace
 18|crasse
-18|cotton
 17|verdet
 17|metaulx
 17|huile de froment
 17|huile daspic
 17|estaim fin
 17|croye
+17|cotton
 17|calamine
 16|paille
 16|mastic
@@ -81,7 +81,6 @@
 15|eau de sel armoniac
 15|eau claire
 15|bronze
-15|bled
 15|beurre
 15|alum
 14|tartre
@@ -89,6 +88,7 @@
 13|gomme
 13|cire fondue
 13|borras
+13|bled
 13|argent vif
 13|ancre
 12|sanguine
@@ -196,6 +196,7 @@
 6|ciment
 6|chair
 6|buys
+6|bon vinaigre
 6|bol
 6|argent fondu
 6|ardile
@@ -216,7 +217,6 @@
 5|peau
 5|noir de lampe
 5|noir a noircir
-5|millet
 5|lessive
 5|huile gras
 5|graisse
@@ -228,7 +228,6 @@
 5|eaulx
 5|drap
 5|dragee
-5|bon vinaigre
 5|aspic
 5|antimoine
 5|Crocum ferri
@@ -343,7 +342,6 @@
 3|charbon pulverise
 3|chandelle
 3|bresil
-3|boeurre
 3|blanc
 3|aulx
 3|asur
@@ -423,6 +421,7 @@
 2|sables maigres
 2|sable dos
 2|sable des fondeurs
+2|rue
 2|ruby balay
 2|rubi
 2|rouge clair
@@ -444,6 +443,7 @@
 2|peau de chien
 2|pappier
 2|papier huile
+2|papier enflamme
 2|papier colle
 2|osier
 2|os de pied de bœuf
@@ -453,14 +453,13 @@
 2|or allie
 2|oignons
 2|oeufs
-2|noix
 2|noir a huile
 2|moustarde claire
 2|moelle
 2|mines
 2|mine de plomb
 2|mine dangleterre
-2|mil
+2|millet
 2|mie de pain
 2|metalline
 2|metal duquel les cloches se font
@@ -490,7 +489,6 @@
 2|huile de noix ou de lin
 2|huile de girofle
 2|huile de fromant
-2|grains
 2|graine de lettue
 2|graine de coings
 2|grain de mil
@@ -566,6 +564,7 @@
 2|bol de levant
 2|bois dous
 2|bois de buy
+2|boeurre
 2|bled orbere
 2|bignetz
 2|betjoin
@@ -587,7 +586,6 @@
 2|aigre
 2|agathe
 2|aes ustum broye
-2|Vin
 2|Verre de vitriers
 2|Vernis noir
 2|Topasse
@@ -607,6 +605,7 @@
 2|Eau magistra
 2|Eau fort
 2|Eau de vye
+2|Eau de sel armoniac
 2|Eau
 2|Drap damasse
 2|Colle de poisson
@@ -634,8 +633,11 @@
 1|vinete
 1|vinaigre Blanc
 1|vinagre
+1|vin trempe suffisamment
 1|vin pur
+1|vin fort trempe
 1|vin escumant
+1|vin douls nouveau
 1|vin boully avecq racine dorme
 1|vin bouilly avecq de la racine dorme
 1|vigne
@@ -768,6 +770,7 @@
 1|suc de gaulde
 1|suc
 1|subtile pouldre de chaulx vive
+1|substance de vin
 1|stuf
 1|storax
 1|staphisagrie
@@ -775,6 +778,7 @@
 1|spat dallemaigne
 1|spalt
 1|soyes
+1|soye deliee
 1|soye c blanche
 1|souldre
 1|souldeure
@@ -793,7 +797,6 @@
 1|shuilent
 1|seruze
 1|senegre
-1|semperviva
 1|sels sublimes
 1|sels propres aulx metaulx
 1|sel tire de la cendre de choux
@@ -856,14 +859,13 @@
 1|sable blanc
 1|sabe
 1|ruta
-1|rue
 1|rousine purifiee
 1|rousine fondue fort delayee et claire
 1|rouille de fer
 1|rouges de mine
 1|rouge dallemaigne
 1|rouge cler
-1|rostie
+1|rostie au boeurre
 1|rosine
 1|rosette liquide de bresil
 1|rosette de gand
@@ -897,8 +899,9 @@
 1|pulverin
 1|prunelles
 1|pruneaux de Sainct Antonin
+1|premiere substance de vin
+1|premiere eau
 1|prele
-1|poyvre
 1|poys
 1|poulssiere
 1|poulsiere
@@ -921,7 +924,6 @@
 1|porfidio
 1|porceau
 1|ponce pulverisee
-1|pomole
 1|pommes de Mandragore
 1|poix resins resine
 1|poix resine claire
@@ -937,6 +939,7 @@
 1|poil de la queue de gris
 1|poil de bourre subtil
 1|plus obscur sang de dragon
+1|plus noeufve cire
 1|plus cler huile de noix
 1|plumes de porc espic
 1|plumes
@@ -1064,7 +1067,9 @@
 1|ocre &amp; un peu de jaulne
 1|noyer
 1|noyaux de pesches
+1|nouvelle eau
 1|noix communes seiches
+1|noix
 1|noisettes
 1|noir mediocrement espes
 1|noir de couperose
@@ -1078,6 +1083,7 @@
 1|navette
 1|naturel
 1|nacre de perle
+1|moyeulx
 1|mouton
 1|moullee du grais
 1|moullee
@@ -1094,6 +1100,7 @@
 1|moele des cornes des boeufs
 1|mitraille
 1|minium peu broye
+1|mil
 1|miette de pain
 1|miette
 1|mie de gros pain
@@ -1104,11 +1111,11 @@
 1|metal qui est matiere de cloche
 1|metal gras
 1|metal aigre vient mieulx que le gras
-1|mestiviers
 1|mesle de verre
 1|mercure congelle
 1|mercure arreste
 1|mercure amalgame avecq argent
+1|menus brins de cotton
 1|mellis communis
 1|mellis
 1|medaille
@@ -1257,7 +1264,7 @@
 1|huile blanc de tourmentine
 1|huile @ de tourmentine blanc
 1|hiebles
-1|herbe
+1|herbe pillee qui sappelle semperviva
 1|herba
 1|herable
 1|hebene
@@ -1278,6 +1285,8 @@
 1|graisse de porc
 1|graise de jeune chevreau
 1|grains dor
+1|grains de poyvre
+1|grains
 1|graine de vers de soye femelle
 1|graine de grand passevelours
 1|graine de chou navette
@@ -1386,7 +1395,6 @@
 1|fer commun
 1|fer bien net &amp; poly
 1|fer aigre
-1|febves
 1|febve
 1|fayan
 1|farines
@@ -1429,10 +1437,12 @@
 1|esmail colombin
 1|esmail azure fort cler
 1|escume du vin
+1|escume de lurine
+1|escume
 1|escuelle de terre ou les paysans mangent leurs souppes
 1|escrevisse
 1|escorce de figuier
-1|escorce
+1|escorce aussi confite
 1|escaille des chancres &amp; escrevisses
 1|escaille de fer fort broyee
 1|escaille
@@ -1717,6 +1727,7 @@
 1|boli armeniae
 1|bol armen
 1|boix douls
+1|bois noeuf
 1|bois fantasques
 1|bois de cormier
 1|boeuf
@@ -1812,6 +1823,8 @@
 1|absinthe en pouldre
 1|absinthe
 1|Vinaigre
+1|Vin brusle
+1|Vin
 1|Verny
 1|Vernis vert
 1|Vernis jaulne
@@ -1825,7 +1838,7 @@
 1|Tuiles
 1|Tormentine
 1|Toile d'iraignee
-1|Theriaque rue
+1|Theriaque
 1|Terre graisse
 1|Terre fondue des potiers
 1|Terre des fondeurs
@@ -1890,7 +1903,6 @@
 1|Metal
 1|Mericotons
 1|Mercure
-1|Medecine
 1|Masticq
 1|Magistra
 1|Lutte
@@ -1938,10 +1950,8 @@
 1|Escorce doranges
 1|Eschervis racine
 1|Escaille de fer
-1|Eeau de sel armoniac
 1|Eaulx
 1|Eaue fort
-1|Eau de sel armoniac
 1|Dorer
 1|Dore
 1|Diamants

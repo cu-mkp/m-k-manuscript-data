@@ -1,24 +1,24 @@
 14|mine
 11|eau
-10|au soleil
+11|au soleil
 10|a la pluye
 7|cave
 5|soleil
 5|garrigue
 5|en lieu humide
 4|vent
+4|au serain
+3|riviere
 3|muraille
 3|lieu sec
 3|lieu humide
 3|grottes
 3|grotte
 3|en terre
-3|au serain
 3|a lair
 2|terre
 2|temps humide
 2|rochers
-2|riviere
 2|mer
 2|maisons
 2|lieu descouvert
@@ -89,6 +89,7 @@
 1|formillere
 1|forges de foix
 1|forests
+1|fontayne
 1|fontaines
 1|expose au soleil
 1|en un jardin A lair
@@ -121,6 +122,7 @@
 1|aulx territoires maigres
 1|aulx environs de toutes les bonnes villes
 1|aulx champs
+1|au soleil bien fort
 1|au profond de la sablonniere
 1|au plus chault soleil
 1|au froid
@@ -130,6 +132,8 @@
 1|au costau de puy david bien profond en terre
 1|apres un temps pluvieulx
 1|air
+1|abre ou herbe qui soict au bort
 1|a lair ou lieu humide
+1|a la frescheur &amp; aux rays de la lune
 1|Grottes
 1|
