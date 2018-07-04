@@ -1480,9 +1480,7 @@ un creuseau &amp; premiere<exp>ment</exp> fais bien fondre le
 
 estant bien fondu mects l<m>estain</m> dedans Et mesle ensemble<lb/>
 
-puys gecte dans le moule de <m>pierre</m> 
-            <m>blanche</m> poinct
-oeilletee<lb/>
+puys gecte dans le moule de <m>pierre blanche</m> poinct oeilletee<lb/>
 
 &amp; oints le moule d<m>huile</m> &amp; quil soict mediocrement
 chault<lb/>
@@ -3927,16 +3925,16 @@ sen yra si l<al>animal</al> ne mue @<la>non bona</la>
 
          <id>p013r_3</id>
 
-         <head>Polisseme<exp>n</exp>t de <m>pierres</m>
-         </head>
+         <head>Polisseme<exp>n</exp>t de pierres</head>
 
-         <ab>Les <m>pierres</m> 
-            <del>tai</del> gravees ne se polissent pas sur la
+         <ab>Les pierres <del>tai</del> gravees ne se polissent pas sur la
 <tl>roue de<lb/>
 
                <m>cuivre</m>
-            </tl> Ains avecq les <tl>broisses</tl> et le <m>tripoly</m>
-Mays les pierres<lb/>
+            </tl> Ains avecq les <tl>broisses</tl> et le
+<tl>
+               <m>tripoly</m>
+            </tl> Mays les pierres<lb/>
 
 taillees a faces et a plain se polissent sur la <tl>roue</tl>
 susdicte</ab>
@@ -4405,8 +4403,9 @@ plaira puys tu faulfileras de la <m>fisselle</m> ou plus grosse
 <m>cordette</m>
             <lb/>
 
-sur le poncis et le boutte en la <m>teincture de guesde ou pastel</m>
-&amp; il<lb/>
+sur le poncis et le boutte en la <m>teincture de <pa>guesde</pa> ou
+<pa>pastel</pa>
+            </m> &amp; il<lb/>
 
 se fera vert hormis ce qui est dessoubs la <m>fisselle</m> qui
 demourera<lb/>
@@ -4418,8 +4417,8 @@ pourras tu fayre des aultres couleurs Et au lieu de <m>corde</m> ou
 <m>fisselle</m>
             <lb/>
 
-adjoustes sur la premiere couleur<del>s</del> des pieces de meschant
-<m>drap</m> taillees<lb/>
+adjoustes sur la premiere couleur<del>s</del> des pieces de <m>meschant
+drap</m> taillees<lb/>
 
 en forme de moresque En ceste sorte tu auras de la broderie abon<lb/>
 
@@ -11266,13 +11265,13 @@ mort co<exp>mm</exp>e sur le <m>beril</m>
          </head>
 
          <ab>Il se contrefaict &amp; saugmente avecq des <m>foeilles de
-<pa>soucy</pa>
-            </m> a demy seiches<lb/>
+<pa>soucy</pa> a demy seiches<lb/>
 
-&amp; retorses co<exp>mm</exp>e un <m>fil</m> &amp; mises a seicher
-<env>au plus chault soleil</env> &amp; se mesle<lb/>
+&amp; retorses co<exp>mm</exp>e un fil</m> &amp; mises a seicher <env>au
+plus chault soleil</env> &amp; se mesle<lb/>
 
 &amp; ledict <pa>soucy</pa> donne mesme quelque taincture</ab>
+
       </div>
 
       <div>
@@ -11430,13 +11429,15 @@ il se taille aysem<exp>ent</exp>
 
          <id>p038v_1</id>
 
-         <head>Couleur noire pour taindre</head>
+         <head>Couleur noire pour <m>taindre</m>
+         </head>
 
          <ab>P<exp>rens</exp> 
             <m>lessive de chaulx vive</m> &amp; <m>litharge</m>
 mesle &amp; destrempe<lb/>
 
-&amp; tu feras taincture tanee &amp; la reiterant tu feras noir<lb/>
+&amp; tu feras <m>taincture tanee</m> &amp; la reiterant tu feras
+noir<lb/>
 
 Essaye daultres couleurs avecq la <m>lessive de chaulx</m>
          </ab>
@@ -11447,20 +11448,30 @@ Essaye daultres couleurs avecq la <m>lessive de chaulx</m>
 
          <id>p038v_2</id>
 
-         <head>Contre seignee du <bp>nes</bp>
+         <head>Contre <md>seignee du <bp>nes</bp>
+            </md>
             <lb/>
 
-et pour taincture</head>
+et pour <m>taincture</m>
+         </head>
 
-         <ab>Pile de ceste espece de <m>vinete</m> ou <m>lapathum acutum</m> qui
-est vene<lb/>
+         <ab>
+            <tl>Pile</tl> de ceste espece de <m>
+               <pa>vinete</pa>
+            </m> ou
+<m>
+               <pa>
+                  <la>lapathum acutum</la>
+               </pa>
+            </m> qui est vene<lb/>
 
 de rouge quon appelle <m>sang de <al>dragon</al>
             </m> Et laplique
 <del>de</del> sur le<lb/>
 
-            <bp>front</bp> de celuy qui seigne Ceste herbe a force taincture &amp;
-faict<lb/>
+            <md>
+               <bp>front</bp> de celuy qui seigne</md> Ceste herbe a force
+<m>taincture</m> &amp; faict<lb/>
 
 beau violet</ab>
 
@@ -11541,18 +11552,23 @@ ont double livre</ab>
 
          <head>Escarlates</head>
 
-         <ab>Pource que l<ms>aulne</ms> couste a taindre sept ou huict lb<lb/>
+         <ab>Pource que l<ms>aulne</ms> couste a <m>taindre</m> sept ou huict
+<cn>lb</cn>
+            <lb/>
 
-Ils y employent des draps de sept ou huict frans l<ms>aulne</ms>
+Ils y employent des <m>draps</m> de sept ou huict <cn>frans</cn>
+l<ms>aulne</ms>
             <lb/>
 
 Mays qui en veult avoir de belle <del>se la</del> quil achepte du<lb/>
 
-            <m>drap blanc</m> de quinze frans l<ms>aulne</ms> &amp; la face
-taindre<lb/>
+            <m>drap blanc</m> de quinze <cn>frans</cn> l<ms>aulne</ms> &amp; la face
+<m>taindre</m>
+            <lb/>
 
-avecq <m>pastel</m> pur descarlatte &amp; un peu de <m>cochenille</m> Le
-<lb/>
+avecq <m>
+               <pa>pastel</pa> pur descarlatte</m> &amp; un peu de
+<m>cochenille</m> Le <lb/>
 
             <m>drap noir</m> se trouve fort fin pource que la <m>taincture</m> est
 <lb/>
@@ -11872,18 +11888,26 @@ le quarreau puys pose ta foeille d<m>estain</m>
 
          <id>p040r_1</id>
 
-         <head>Taincture</head>
+         <head>
+            <m>Taincture</m>
+         </head>
 
-         <ab>Aulcuns prenent la racine de <pa>
-               <la>lapathium acutum
+         <ab>Aulcuns prenent la <m>racine de <pa>
+                  <la>lapathium acutum
 maius</la>
-            </pa> qui semble<lb/>
+               </pa>
+            </m> qui semble<lb/>
 
-la <pa>rheubarbe des <pro>moynes</pro>
-            </pa> ou <pa>vinette</pa> &amp; de
-la racine qui est jaune<lb/>
+la <m>
+               <pa>rheubarbe des <pro>moynes</pro>
+               </pa>
+            </m> ou
+<m>
+               <pa>vinette</pa>
+            </m> &amp; de la racine qui est jaune<lb/>
 
-l<tmp>este</tmp> ilz en taignent du filet &amp; choses semblables</ab>
+l<tmp>este</tmp> ilz en <m>taignent</m> du <m>filet</m> &amp; choses
+semblables</ab>
 
       </div>
 
@@ -13002,34 +13026,44 @@ bonne</ab>
 
       <div>
          <id>p044r_5</id>
-         <head>Taincture de <pa>fleurs</pa>
+         <head>
+            <m>Taincture de fleurs</m>
          </head>
 
-         <ab>Le <pa>pavot rouge</pa> qui croist par les <pa>bleds</pa> faict sur
-le <m>cuir blanc</m>
+         <ab>Le <m>
+               <pa>pavot rouge</pa>
+            </m> qui croist par les <pa>bleds</pa>
+faict sur le <m>cuir blanc</m>
             <lb/>
 
-un tresbeau colombin Le <m>boufain</m> faict un fort beau bleu Une
-<pa>herbe</pa>
-            <lb/>
+un tresbeau colombin Le <m>
+               <pa>boufain</pa>
+            </m> faict un fort beau bleu
+Une <m>herbe<lb/>
 
-qui croist par les <pa>hayes</pa> qui ha la tige semblable au
-<pa>lin</pa> la foeuille<lb/>
+qui croist par les hayes qui ha la tige semblable au <pa>lin</pa> la
+foeuille<lb/>
 
 longue &amp; large comme menue <pa>buglose</pa> qui ha la fleur violette
 tirant<lb/>
 
-au bleu &amp; faicte co<exp>mm</exp>e la fleur du <pa>lys</pa> faict un
-tresbeau turquin<lb/>
+au bleu &amp; faicte co<exp>mm</exp>e la fleur du <pa>lys</pa>
+            </m> faict
+un tresbeau turquin<lb/>
 
-surpassant lazur Une aultre fleur <pa>colombine</pa> de la forme
+surpassant lazur Une aultre fleur <m>
+               <pa>colombine</pa>
+            </m> de la forme
 &amp;<lb/>
 
-grandeur de la fleur de <pa>buglose</pa> qui ha la foeille retirant a
-celle<lb/>
+grandeur de la <m>fleur de <pa>buglose</pa>
+            </m> qui ha la foeille
+retirant a celle<lb/>
 
-de <pa>pensee</pa> faict aussy un tresbeau turquin elle croist dans les
-<pa>bleds</pa>
+de <m>
+               <pa>pensee</pa>
+            </m> faict aussy un tresbeau turquin elle croist
+dans les <pa>bleds</pa>
             <lb/>
 
 aulx terres legeres</ab>
@@ -13968,7 +14002,8 @@ Pour un <tl>four</tl> a fondre grande quantite de <m>metal</m>
 
 galle</head>
 
-         <ab>Donne leur une pilulle de præcipite scavoir iii ou 4 ou jusques<lb/>
+         <ab>Donne leur une <m>pilulle de præcipite</m> scavoir iii ou 4 ou
+jusques<lb/>
 
 a cinq <ms>grains</ms> mesle parmy leur <m>viande</m> Et leur en
 ayant<lb/>
@@ -15396,7 +15431,7 @@ jusques au 25 dapvril</ab>
          <id>p052v_1</id>
 
          <head>
-            <m>Lin</m>
+            <pa>Lin</pa>
          </head>
 
          <ab>Qui le veult avoyr beau &amp; <del>p</del> fort delie il le fault
@@ -15542,14 +15577,20 @@ delicat</ab>
 
       <div>
          <id>p053r_a5</id>
-         <head>Amendiers abricots</head>
+         <head>
+            <pa>Amendiers</pa> 
+            <pa>abricots</pa>
+         </head>
 
          <ab>Ils viennent bien droicts si on les hante Et touts arbres<lb/>
 
-de noyau co<exp>mm</exp>e pavis mericotons alberges <del>vie</del>
-abricots &amp; viennent<lb/>
+de noyau co<exp>mm</exp>e <pa>pavis</pa> 
+            <pa>mericotons</pa>
+            <pa>alberges</pa> 
+            <del>vie</del> 
+            <pa>abricots</pa> &amp; viennent<lb/>
 
-mieulx hantes sur lamendier en escusson</ab>
+mieulx hantes sur l<pa>amendier</pa> en escusson</ab>
 
       </div>
 
@@ -15610,70 +15651,85 @@ le <m>sable maigre le recoit mieulx &amp; le suppe que le dense</m>
          <id>p053v_1</id>
 
          <head>
-            <al>Vers de <m>soye</m>
-            </al>
+            <al>Vers de soye</al>
          </head>
 
          <ab>Ils se produisent de grene cest a dire doeufs laquelle se vent<lb/>
 
-a lonce qui communem<exp>ent</exp> se vent en <pl>languedoc</pl> iii lb
-v s Celle d<pl>espaigne</pl>
+a l<ms>once</ms> qui communem<exp>ent</exp> se vent en
+<pl>languedoc</pl> iii <ms>lb</ms> v <cn>s</cn> Celle
+d<pl>espaigne</pl>
             <lb/>
 
-que les marchans y aportent est estimee la meilleure pourceque les<lb/>
+que les <pro>marchans</pro> y aportent est estimee la meilleure
+pourceque les<lb/>
 
             <al>vers</al> qui en proviennent ne sont pas si subgects a
 malladies<lb/>
 
-&amp; font plus de <m>soye</m> En <pl>espaigne</pl> dune once de
-<del>
+&amp; font plus de <m>soye</m> En <pl>espaigne</pl> dune <ms>once</ms>
+de <del>
                <m>soye</m>
             </del> grene<lb/>
 
-ilz sen produict des vers qui raportent <del>ord</del>
+ilz sen produict des <al>vers</al> qui raportent <del>ord</del>
 co<exp>mmun</exp>em<corr>
                <exp>ent</exp>
-            </corr> xv lb de <m>soye</m>
+            </corr> xv <ms>lb</ms> de
+<m>soye</m>
             <lb/>
 
-Mays <del>lonce</del> dune once de grene produicte en <pl>France</pl> il
-nen revient que<lb/>
+Mays <del>l<ms>once</ms>
+            </del> dune <ms>once</ms> de grene produicte en
+<pl>France</pl> il nen revient que<lb/>
 
-x ou xii Troys onces de grene sont pour produire telle
+x ou xii Troys <ms>onces</ms> de grene sont pour produire telle
 qua<exp>n</exp>tite<lb/>
 
-de <al>vers</al> que tu en pourras fournir une chambre acommodee de
+de <al>vers</al> que tu en pourras fournir une <env>chambre acommodee de
 trois<lb/>
 
-ou 4 estages de tables larges Volontiers ilz comancent a<lb/>
+ou 4 estages de tables larges</env> Volontiers ilz comancent a<lb/>
 
-sespelir vers la sepmaine saincte Et pour ce faire on les mect<lb/>
+sespelir <tmp>vers la sepmaine saincte</tmp> Et pour ce faire on les
+mect<lb/>
 
-dans une boite de <m>sapin</m> co<exp>mm</exp>e celles ou lon mect la
-<m>dragee</m> Entre<lb/>
+dans une <tl>boite de <pa>sapin</pa>
+            </tl> co<exp>mm</exp>e celles ou lon
+mect la dragee Entre<lb/>
 
-des coissins de <m>plume</m> chauldem<exp>ent</exp> Et au
+des <tl>coissins de plume</tl> chauldem<exp>ent</exp> Et au
 commancem<exp>ent</exp> ilz sespellissent<lb/>
 
-co<exp>mm</exp>e <del>f</del> petites <al>formis</al> noires &amp; aussy
+co<exp>mm</exp>e <del>f</del> petites <al>formis noires</al> &amp; aussy
 tost quil y en ha deulx ou<lb/>
 
-trois espelis il leur fault donner des foeilles de moeurier blanc<lb/>
+trois espelis il leur fault donner des <m>foeilles de <pa>moeurier
+blanc</pa>
+            </m>
+            <lb/>
 
-Et puys les ranger sur les tables Et trois fois le jour il<lb/>
+Et puys les ranger sur les <tl>tables</tl> Et trois <ms>fois le
+<tmp>jour</tmp>
+            </ms> il<lb/>
 
-leur fault changer des foeilles fresches Et sil faict sur jour<lb/>
+leur fault changer des <m>foeilles fresches</m> Et sil faict <tmp>sur
+jour</tmp>
+            <lb/>
 
-quelque tonnerre <add>ou temps pluvieulx couvert &amp; frais</add> il
-fault tenir dans la chambre trois ou 4<lb/>
+quelque <env>tonnerre <add>ou temps pluvieulx couvert &amp;
+frais</add>
+            </env> il fault tenir dans la <env>chambre</env> trois ou
+4<lb/>
 
-rechauls <del>&amp;</del> avecq <m>charbon</m> allume &amp; y mectre de
-l<m>encens</m> jusques<lb/>
+            <tl>rechauls <del>&amp;</del> avecq charbon allume</tl> &amp; y mectre
+de l<m>encens</m> jusques<lb/>
 
-a ce que toute la chambre soict remplye de fumee Et quand le<lb/>
+a ce que toute la <env>chambre</env> soict remplye de <m>fumee</m> Et
+quand le<lb/>
 
-temps se porte chault &amp; serain la <m>soye</m> abonde plus &amp; en
-est meilleure<lb/>
+            <env>temps se porte chault &amp; serain</env> la <m>soye</m> abonde plus
+&amp; en est meilleure<lb/>
 
 Aulcuns <al>vers</al> la font plus blanche aultres plus jaunastre
 Et<lb/>
@@ -15681,14 +15737,21 @@ Et<lb/>
 encores quelle soict blanche elle se jaulnist quand on la tire
 avecq<lb/>
 
-l<m>eau</m> chaulde <del>Despuys</del> Les <al>vers</al> despuys leur
-naissance jusques<lb/>
+l<tl>
+               <m>eau chaulde</m>
+            </tl> 
+            <del>Despuys</del> Les <al>vers</al>
+            <tmp>despuys leur naissance jusques<lb/>
 
 a<add>u</add> 
-            <del>leur</del> temps quilz font leur coquons &amp; leur
-prison dorment &amp;<lb/>
+               <del>leur</del> temps quilz font leur coquons &amp; leur
+prison</tmp> dorment &amp;<lb/>
 
-sassopissent 4 fois &amp; a chasque fois demeurent 4 ou cinq jours<lb/>
+sassopissent 4 fois &amp; a chasque fois demeurent 4 ou cinq
+<ms>
+               <tmp>jours</tmp>
+            </ms>
+            <lb/>
 
 assopis sans manger co<exp>mm</exp>e silz mouroient pour renaistre une
 aultre<lb/>
@@ -15696,8 +15759,8 @@ aultre<lb/>
 fois Car a chascune ilz changent de peau &amp; commancent a
 despoiller<lb/>
 
-la teste puys consequem<exp>ent</exp> a divers jours le<del>s</del>
-reste du corps, &amp; de<lb/>
+la teste puys consequem<exp>ent</exp> a divers <tmp>jours</tmp>
+le<del>s</del> reste du corps, &amp; de<lb/>
 
 blanc viennent grisastres &amp; de grisastres blans <del>En fin</del>
 Et<lb/>
@@ -15708,23 +15771,31 @@ fault ayder &amp; se garder de la crever Car lors rendant une<lb/>
 
 liqueur jaulne elle ne vauldroit plus rien Et mesmes ne proffictent<lb/>
 
-elles guere despuys quon la maniee de la main Vers la<lb/>
+elles guere despuys quon la maniee de la <tl>
+               <bp>main</bp>
+            </tl>
+            <tmp>Vers la<lb/>
 
-pentecoste elles comancent a vouloir monster a des branches<lb/>
+pentecoste</tmp> elles comancent a vouloir monster a des branches<lb/>
 
-seiches de brande ou bruyere quon leur prepare <del>en</del> &amp;
-attache</ab>
+seiches de <pa>brande</pa> ou <pa>bruyere</pa> quon leur prepare
+<del>en</del> &amp; attache</ab>
 
          <ab>
 
             <margin>left-top</margin>
 
-Voy <la>Hieronymus<lb/>
-Vida Albensis <add>ep<exp>iscop</exp>us</add>
+Voy <la>
+               <pn>Hieronymus<lb/>
+Vida <pl>Albensis</pl> 
+                  <add>ep<exp>iscop</exp>us</add>
+                  <lb/>
+                  <del>de b</del> 
+                  <pl>cremonensis</pl>
+               </pn>
                <lb/>
-               <del>de b</del> cremonensis<lb/>
 scripsit carmine<lb/>
-de bombicum natura
+de <al>bombicum</al> natura
 
 </la>
          </ab>
@@ -15753,18 +15824,20 @@ remue
 
          <id>p053v_1</id>
 
-         <ab>sur quelques tables haultes &amp; a cella cognoist on quand elles
-veulent<lb/>
+         <ab>sur quelques <tl>tables haultes</tl> &amp; a cella cognoist on quand
+elles veulent<lb/>
 
 monter quand sur la foeille elles <del>hau</del> salongent &amp;
 haulsent la teste &amp;<lb/>
 
-une partie du corps lors on les porte aulx branches de brandes ou<lb/>
+une partie du corps lors on les porte aulx branches de <pa>brandes</pa>
+ou<lb/>
 
 elles sarrestent &amp; commancent a filer leur prison quon appelle
 coquon<lb/>
 
-de la grandeur dun oeuf de pigeon
+de la <ms>grandeur dun oeuf de <al>pigeon</al>
+            </ms>
 co<exp>mmun</exp>em<corr>
                <exp>ent</exp>
             </corr> combien quil sen
@@ -15776,37 +15849,48 @@ mect deulx ou trois &amp; jusques a xi <al>vers</al> dans un coquon qui
 est<lb/>
 
 bourru &amp; lanugineulx a lentour <del>&amp;</del> de laquelle bourre
-est la filoselle<lb/>
+est la <m>filoselle</m>
+            <lb/>
 
-ou floret &amp; du coquon qui est une peau blanche solide continue
-&amp;<lb/>
+ou <m>floret</m> &amp; du coquon qui est une peau blanche solide
+continue &amp;<lb/>
 
 ferme se faict la <m>soye</m> Le coquon est si dure que
 malaisem<exp>ent</exp> on le<lb/>
 
-coupe avelq longle Et toutesfois pour sortir de sa prison
-<del>elle</del>
+coupe avelq l<tl>
+               <bp>ongle</bp>
+            </tl> Et toutesfois pour sortir de sa
+prison <del>elle</del>
             <lb/>
 
 le <al>ver</al> la ronge par un bout &amp; apres <add>avoyr</add>
 demeure dedans vivant de son<lb/>
 
-propre suc <del>il</del> trois sepmaines Il sort amoindry de la
-moictie<lb/>
+propre suc <del>il</del> trois <ms>
+               <tmp>sepmaines</tmp>
+            </ms> Il sort
+amoindry <ms>de la moictie</ms>
+            <lb/>
 
-Car quand il commance a filer il est long comme le doigt annulaire<lb/>
+Car quand il commance a filer il est <ms>long comme le <bp>doigt
+annulaire</bp>
+            </ms>
+            <lb/>
 
-&amp; ha huict pieds &amp; au sortir il est plus court de la moictie
-&amp; nha<lb/>
+&amp; ha huict pieds &amp; au sortir il est plus <ms>court de la
+moictie</ms> &amp; nha<lb/>
 
-que 4 pieds En revanche il est devenu papillon &amp; ha des aisles<lb/>
+que 4 pieds En revanche il est devenu <al>papillon</al> &amp; ha des
+aisles<lb/>
 
 sans voler toutesfois Et y a ha masle &amp; femelle Aussy tost
 quilz<lb/>
 
 sont sortis du coquon le masle charge la femelle &amp; on les mect<lb/>
 
-sur un linge blanc la ou ilz font leurs oeufs lesquels la femelle<lb/>
+sur un <tl>linge blanc</tl> la ou ilz font leurs oeufs lesquels la
+femelle<lb/>
 
 ne feroict pas bons &amp; proffictables si le masle ne luy estoict
 done<lb/>
@@ -15816,13 +15900,20 @@ gecter car<lb/>
 
 il ne seroit pas bon de le donner a une aultre Ils ont acheve de<lb/>
 
-filer &amp; faire leurs oeufs en trois sepmaines &amp; vers la
-s<exp>ain</exp>t Jehan<lb/>
+filer &amp; faire leurs oeufs en trois <ms>
+               <tmp>sepmaines</tmp>
+            </ms>
+&amp; <tmp>vers la <pn>s<exp>ain</exp>t Jehan</pn>
+            </tmp>
+            <lb/>
 
-Et lors on garde leurs oeufs &amp; grene jusques a la sepmaine<lb/>
+Et lors on garde leurs oeufs &amp; grene <ms>
+               <tmp>jusques a la
+sepmaine<lb/>
 
-saincte co<exp>mm</exp>e <del>on</del> dict est Aulcuns filent parmy la
-foeille &amp; y font<lb/>
+saincte</tmp>
+            </ms> co<exp>mm</exp>e <del>on</del> dict est Aulcuns
+filent parmy la foeille &amp; y font<lb/>
 
 leur coquon sans monter hault</ab>
 
@@ -15876,7 +15967,8 @@ avecq un linceulx en double</ab>
 
          <id>p054v_2</id>
 
-         <head>Pour fayre suivre un cheval</head>
+         <head>Pour fayre suivre un <al>cheval</al>
+         </head>
 
          <ab>
             <figure>+</figure>Il luy fault donner du <m>pain sucre</m> &amp; il
@@ -15899,14 +15991,16 @@ continue</ab>
 
          <id>p054v_3</id>
 
-         <head>Chiens</head>
+         <head>
+            <al>Chiens</al>
+         </head>
 
-         <ab>Pour les garder de mordre il est bon davoir des pelottes<lb/>
+         <ab>Pour les garder de mordre il est bon davoir des <m>pelottes<lb/>
 
-de <m>gemme</m> acoustree co<exp>mm</exp>e celle des
-<pro>cordonniers</pro> &amp; leur gecter co<exp>mm</exp>e ilz<lb/>
+de gemme</m> acoustree co<exp>mm</exp>e celle des <pro>cordonniers</pro>
+&amp; leur gecter co<exp>mm</exp>e ilz<lb/>
 
-te jappent &amp; ilz mordront tellement les pelottes quilz
+te jappent &amp; ilz mordront tellement les <m>pelottes</m> quilz
 sempasteront<lb/>
 
 les dents &amp; ne te pourront nuire</ab>
@@ -16064,8 +16158,8 @@ en fin il sen fera un onguent blanc Lequel sans descouper la<lb/>
             <del>tu mec</del> que sur toutes choses pour ta
 seurte tu <del>b</del>tiendras<lb/>
 
-bien bouchee tu mectras <env>au soleil bien fort</env> &amp; <env>au
-serain</env> l<ms>
+bien bouchee tu mectras <env>au soleil bien fort &amp; au serain</env>
+l<ms>
                <tmp>espace <sup>de quinze iours</sup>
                </tmp>
             </ms>
@@ -19983,16 +20077,21 @@ L<m>or bruny</m> sesclate<lb/>
             <del>d</del>@<add>ou diminuer les trop grands</add>
          </head>
 
-         <ab>Ayes de grands <m>pains</m> nouvellement tires du <tl>four</tl>
+         <ab>Ayes de <m>grands pains nouvellement tires du <tl>four</tl>
+            </m>
 &amp; les<lb/>
 
-partes par moictie &amp; le plus chauld que fere se pourra<lb/>
+partes <ms>par moictie</ms> &amp; le plus chauld que fere se pourra<lb/>
 
-apliques les dessus <del>&amp; ilz</del> &amp; faictes cela 3 fois le
-<tmp>jour</tmp>
+apliques les dessus <del>&amp; ilz</del> &amp; faictes cela 3 <ms>fois
+le <tmp>jour</tmp>
+            </ms>
             <lb/>
 
-&amp; continues 4 ou 5 <tmp>jours</tmp> apres faictes emplastre de<lb/>
+&amp; continues 4 ou 5 <ms>
+               <tmp>jours</tmp>
+            </ms> apres faictes emplastre
+de<lb/>
 
             <m>tourmentine de <pl>venise</pl>
             </m> ou pour mieulx de <m>tourmentine
@@ -20002,9 +20101,8 @@ commune</m>
 mesles y du <m>
                <pa>sumach</pa>
             </m> des <m>
-               <pa>prunelles</pa>
-            </m> de
-buissons de la <m>graine<lb/>
+               <pa>prunelles</pa> de
+buissons</m> de la <m>graine<lb/>
 
 de <pa>coings</pa>
             </m> 
@@ -20017,13 +20115,14 @@ d<pa>olivier</pa>
 
 decuits &amp; mesles avecq la <m>tourmentine</m> Mays joublyois<lb/>
 
-quil fault apres avoir aplique le <m>pain</m> chault qui ramolist<lb/>
+quil fault apres avoir aplique le <m>pain chault</m> qui ramolist<lb/>
 
-&amp; faict suer mectre dessus des <tl>linges</tl> trempes en <m>eau de
-ruche de<lb/>
+&amp; faict suer mectre dessus des <tl>linges trempes en <m>eau de ruche
+de<lb/>
 
-miel</m> cest a scavoir de <m>miel</m> &amp; <m>cire</m> extraicts tout
-ensemble du<lb/>
+miel</m>
+            </tl> cest a scavoir de <m>miel</m> &amp; <m>cire</m> extraicts
+tout ensemble du<lb/>
 
             <oc>bornat</oc>
          </ab>
@@ -20038,7 +20137,9 @@ ensemble du<lb/>
          </head>
 
          <ab>Fais fricasser en la <tl>poile</tl> avecq de l<m>huile</m> du
-<m>chenevi</m>
+<m>
+               <pa>chenevi</pa>
+            </m>
             <lb/>
 
 &amp; en donne aulx <al>pigeons</al>
@@ -20397,8 +20498,7 @@ ouvraiges</ab>
 
       <div>
          <id>p068r_2</id>
-         <head>Planter <pa>abres</pa>
-         </head>
+         <head>Planter abres</head>
 
          <ab>Il les fault planter en <del>
                <env>lieu sec</env>
@@ -20406,12 +20506,11 @@ ouvraiges</ab>
             <env>temps
 sec</env> &amp; assembler force<lb/>
 
-terre au pied tout aultour co<exp>mm</exp>e une motte affin que les
-<env>pluyes</env>
+            <m>terre</m> au pied tout aultour co<exp>mm</exp>e une motte affin que
+les <env>pluyes</env>
             <lb/>
 
-ne remplissent les fosses &amp; ne nyent les <pa>abres</pa> 
-         </ab>
+ne remplissent les fosses &amp; ne nyent les abres</ab>
 
       </div>
 
@@ -21240,8 +21339,7 @@ on le vernist</ab>
          <id>p071r_3</id>
 
          <head>
-            <m>Vin brusle</m> et <m>sucre</m>
-         </head>
+            <m>Vin</m> brusle et sucre</head>
 
          <ab>Les <pl>anglois</pl> se sentant morfondus font brusler du <m>vin</m>
 en ceste<lb/>
@@ -21256,8 +21354,10 @@ du</del> lallument<lb/>
 
 avecq du <tl>
                <m>papier enflamme</m>
-            </tl> pour scavoir sil est asses
-chault<lb/>
+            </tl> 
+            <ms>pour scavoir sil est asses
+chault</ms>
+            <lb/>
 
 Apres pour lenflammer du tout Ils le versent dun <tl>vaisseau</tl>
             <lb/>
@@ -21335,7 +21435,8 @@ leur pays
 <m>vin</m>
             <lb/>
 
-susdict par une corne Et il se trouve dispose pour faire encore<lb/>
+susdict par une <tl>corne</tl> Et il se trouve dispose pour faire
+encore<lb/>
 
 plus grande courvee</ab>
 
@@ -21422,15 +21523,13 @@ sinon il est gras</ab>
 
          <id>p071v_2</id>
 
-         <head>
-            <m>Graisse de <al>mouton</al>
-            </m>
+         <head>Graisse de <al>mouton</al>
          </head>
 
          <ab>En certaine contree d<pl>angleterre</pl> les <al>moutons</al> qui
 y<lb/>
 
-paissent ont la <m>graisse</m> fort jaulne Et sont neantmoings<lb/>
+paissent ont la graisse fort jaulne Et sont neantmoings<lb/>
 
 aussy bons que les aultres</ab>
 
@@ -21447,14 +21546,18 @@ aussy bons que les aultres</ab>
          <ab>En <pl>hibernie</pl> il ne sen trouve poinct &amp; si on les
 touche<lb/>
 
-dun <m>bois</m> quil y a elles meurent Cest pourquoy aulcuns<lb/>
+dun <tl>
+               <m>bois</m>
+            </tl> quil y a elles meurent Cest pourquoy
+aulcuns<lb/>
 
-riches d<pl>angleterre</pl> font leurs planchers de ce <m>boys</m>
-&amp;<lb/>
+            <pro>riches</pro> d<pl>angleterre</pl> font leurs planchers de ce
+<m>boys</m> &amp;<lb/>
 
 par ce moyen ils nont jamays darantelles &amp; toiles<lb/>
 
-diraignee</ab>
+d<al>iraignee</al>
+         </ab>
 
       </div>
 
@@ -22973,7 +23076,8 @@ may</tmp> puys emplis ce <tl>godet</tl>
             <lb/>
 
 de <m>pouldre</m> diceluy Et mects un <tl>
-               <m>charbon</m> allume</tl>
+               <m>charbon allume</m>
+            </tl>
 dessus Et<lb/>
 
 recois la <m>fumee</m> par la <bp>bouche</bp> bien serree Et une
@@ -23580,7 +23684,7 @@ couche de <m>colle bien clere</m> &amp; le laisses seicher</ab>
          <ab>Prens le <tmp>matin</tmp> une <m>rostie au boeurre</m> &amp;
 l<m>antimoine</m> ne<lb/>
 
-aultre vapeur ne te pourra nuire Ou mects une <ms>demy</ms>
+            <m>aultre vapeur</m> ne te pourra nuire Ou mects une <ms>demy</ms>
             <m>vessie<lb/>
 
 de <al>porc</al>
@@ -26355,6 +26459,7 @@ dans linsition du coste du soleil prend bien peu souvent Quand il<lb/>
 est aussy tortu</ab>
 
       </div>
+
       <div>
          <id>p088r_a5</id>
          <head>
@@ -27008,6 +27113,7 @@ soubstenir<lb/>
 plusieurs gects</ab>
 
       </div>
+
       <div>
          <id>p090v_a2</id>
          <head>
@@ -27017,28 +27123,33 @@ plusieurs gects</ab>
          <ab>En <pl>Italie</pl> ceulx qui sont aulx pays plus froids
 co<exp>mm</exp>e la<lb/>
 
-            <pl>lombardie</pl> font des caisses quarrees de <m>bois</m> un peu
+            <pl>lombardie</pl> font des <tl>caisses quarrees de bois</tl> un peu
 plus<lb/>
 
-larges au fonds quau hault Et y apliquent des boucles<lb/>
+larges au fonds quau hault Et y apliquent des <tl>boucles</tl>
+            <lb/>
 
-aulx costes pour les transporter avecq des leniers ainsy<lb/>
+aulx costes pour les transporter avecq des <tl>leniers</tl> ainsy<lb/>
 
 quon porte les gouteus A cause que les roues avecq lesquelles<lb/>
 
-on les pourroit faire rouler gastent les allees des jardins<lb/>
-
-Et de deulx ans en deulx ans ilz noublient pas douvrir les<lb/>
-
-costes des caisses pour roigner &amp; couper dextrement avecq la
-<m>terre</m>
+on les pourroit faire rouler gastent les allees des
+<env>jardins</env>
             <lb/>
+
+Et <ms>
+               <tmp>de deulx ans en deulx ans</tmp>
+            </ms> ilz noublient pas
+douvrir les<lb/>
+
+costes des <tl>caisses</tl> pour roigner &amp; couper dextrement avecq
+la terre<lb/>
 
 Les extremites des racines des <pa>orangers</pa> pourceque
 aultrem<exp>ent</exp>
             <lb/>
 
-co<exp>mm</exp>e elles trouvent le <m>boys</m> elles se reserrent &amp;
+co<exp>mm</exp>e elles trouvent le boys elles se reserrent &amp;
 replient en elles<lb/>
 
 mesmes &amp; se deseichent par les bouts &amp; feroient mourir
@@ -27047,12 +27158,13 @@ labre<lb/>
 Mays co<exp>mm</exp>e elles sont roignees il leur demeure espace
 nouveau<lb/>
 
-            <del>cos</del> pour sestandre sans trouver la resistance du <m>boys</m>
-qui les<lb/>
+            <del>cos</del> pour sestandre sans trouver la resistance du boys qui
+les<lb/>
 
 gehenne Et croy que pour cet effect il seroit bon de joindre<lb/>
 
-les costes des caisses avecq des vis &amp; non avecq clous affin<lb/>
+les costes des <tl>caisses</tl> avecq des <tl>vis</tl> &amp; non avecq
+<tl>clous</tl> affin<lb/>
 
 de nesbranler point la <m>terre</m> quand on les ouvre</ab>
 
@@ -27077,44 +27189,47 @@ pourcequil y a dangier doffenser la moelle &amp; si elle est
 offensee<lb/>
 
 a droict la joincture malaisem<exp>ent</exp> prend il co<exp>mm</exp>e
-de la vigne de touts persees<lb/>
+de la <pa>vigne</pa> de touts <pa>persees</pa>
+            <lb/>
 
-&amp; des abricots</ab>
+&amp; des <pa>abricots</pa>
+         </ab>
 
-         <ab>Les abricots ont lescorce fort deliee &amp; par ainsy il les
-fault<lb/>
+         <ab>Les <pa>abricots</pa> ont lescorce fort deliee &amp; par ainsy il
+les fault<lb/>
 
 enter sur jeunes abres qui ne layent poinct encores espesse
 co<exp>mm</exp>e sur<lb/>
 
-gectes de prunier &amp; amendiers</ab>
+gectes de <pa>prunier</pa> &amp; <pa>amendiers</pa>
+         </ab>
 
          <ab>Les greffes ne <del>
                <ill/>
             </del> prenent gueres si la taille de
 labre se mouille<lb/>
 
-il fault doncq hanter En temps serain &amp; doulx &amp; non trop froid
-&amp;<lb/>
+il fault doncq hanter <env>En temps serain &amp; doulx &amp; non trop
+froid &amp;<lb/>
 
-venteulx</ab>
+venteulx</env>
+         </ab>
 
-         <ab>Le <m>bois vieulx</m> quon laisse au greffe est necessaire si on
-ente sur<lb/>
+         <ab>Le bois vieulx quon laisse au greffe est necessaire si on ente
+sur<lb/>
 
 un abre qui est desja faict &amp; de bonne grosseur pourceque estant
 tel<lb/>
 
-il serre plus le greffe &amp; sil est de <m>jeune bois</m> il est si
-comprime quil<lb/>
+il serre plus le greffe &amp; sil est de jeune bois il est si comprime
+quil<lb/>
 
-ne peult profficter Mays le <m>bois vieulx</m> resiste mieulx a la<lb/>
+ne peult profficter Mays le bois vieulx resiste mieulx a la<lb/>
 
-compression du <m>bois vieulx</m> 
-            <del>que le jeune</del> a cause quil
-est plus dur que<lb/>
+compression du bois vieulx <del>que le jeune</del> a cause quil est plus
+dur que<lb/>
 
-le jeune @Mays si le greffe est tout de <m>bois vieulx</m> jamays il ne
+le jeune @Mays si le greffe est tout de bois vieulx jamays il ne
 faict<lb/>
 
 belle mise ains vient caduc &amp; court &amp; long a croistre</ab>
@@ -27607,13 +27722,17 @@ seroit bonne pour <m>souldeure</m> Longue a se froidir</ab>
 
       <div>
          <id>p093r_a1</id>
-         <head>Olives</head>
+         <head>
+            <pa>Olives</pa>
+         </head>
 
-         <ab>Elles se gastent si une foys le moys on ne leur rafreschist
-leur<lb/>
+         <ab>Elles se gastent si <ms>
+               <tmp>une foys le moys</tmp>
+            </ms> on ne leur
+rafreschist leur<lb/>
 
-            <m>eau sel</m> quil ne fault pas toucher des mains car cela les
-faict<lb/>
+            <m>eau sel</m> quil ne fault pas <sn>toucher</sn> des <bp>mains</bp> car
+cela les faict<lb/>
 
 gaster</ab>
 
@@ -27623,14 +27742,19 @@ gaster</ab>
          <head>Observation des <pro>rustiques</pro>
          </head>
 
-         <ab>Que quand il gele le jour des rameaulx il gele tous les moys<lb/>
+         <ab>Que quand <env>il gele</env> le <tmp>jour des rameaulx</tmp> 
+            <env>il
+gele</env> 
+            <tmp>tous les moys<lb/>
 
-de lan</ab>
+de lan</tmp>
+         </ab>
 
          <ab>Que quand les premieres fleurs tombent <del>les suiv</del> &amp; se
 perdent<lb/>
 
-de la gelee les aultres co<exp>mmun</exp>ement se perdent aussy</ab>
+de la <env>gelee</env> les aultres co<exp>mmun</exp>ement se perdent
+aussy</ab>
 
       </div>
       <div>
@@ -27640,8 +27764,7 @@ de la gelee les aultres co<exp>mmun</exp>ement se perdent aussy</ab>
                <del>I</del>
             </corr>Hantes</head>
 
-         <ab>Il ne fault pas que le greffe soict de <m>vieulx bois</m> car il
-nest<lb/>
+         <ab>Il ne fault pas que le greffe soict de vieulx bois car il nest<lb/>
 
 jamais bel abre</ab>
 
@@ -27651,12 +27774,13 @@ car quand il ha dadvantaige sa force est afoiblie le vent<lb/>
 
 le tourmente &amp; nha pas tant de force pour bouter</ab>
 
-         <ab>Les abres qui hont grosse moelle co<exp>mm</exp>e les peschiers
-&amp; tout<lb/>
+         <ab>Les abres qui hont grosse moelle co<exp>mm</exp>e les
+<pa>peschiers</pa> &amp; tout<lb/>
 
-leur genrre &amp; les pruniers ne veulent point hantes en temps<lb/>
+leur genrre &amp; les <pa>pruniers</pa> ne veulent point hantes <env>en
+temps<lb/>
 
-de gelee pourceque le froid corrompt leur moelle laquelle<lb/>
+de gelee</env> pourceque le froid corrompt leur moelle laquelle<lb/>
 
 il se fault bien aussi garder doffenser en coupant le pied du<lb/>
 
@@ -27664,12 +27788,12 @@ greffe</ab>
 
          <ab>Toutes hantes ne se doibvent faire plustost que leur abre<lb/>
 
-ne soict en sabe car lhumeur les pousse bien tost
+ne soict en sabe car l<md>humeur</md> les pousse bien tost
 Aultrem<exp>ent</exp>
             <lb/>
 
-            <del>au</del>ilz se seichent plustost que lhumeur de la sabe ne les
-pousse</ab>
+            <del>au</del> ilz se seichent plustost que l<md>humeur</md> de la sabe
+ne les pousse</ab>
 
       </div>
       <div>
@@ -29010,7 +29134,8 @@ rougeastre Et aultres de la <m>terra merita</m> pour iaulne</ab>
 
       <div>
          <id>p098r_2</id>
-         <head>Bords de Jardin</head>
+         <head>Bords de <env>Jardin</env>
+         </head>
 
          <ab>Il fault labourer la terre puys la subtilier avec le <tl>rateau</tl>
 Et apres<lb/>
@@ -29023,11 +29148,12 @@ tout au ras Et fraper sur tout le long du <tl>cordeau</tl>
             <del>as</del>
 avecq le dos<lb/>
 
-de la tranche Affin que le <tl>cordeau</tl> marque une ligne droicte
-Le<lb/>
+de la <tl>tranche</tl> Affin que le <tl>cordeau</tl> marque une ligne
+droicte Le<lb/>
 
-long de laquelle tu feras <del>un bord</del> des trous avecq le
-<tl>picquet de fer</tl>
+            <ms>long</ms> de laquelle tu feras <del>un bord</del> des trous avecq le
+<tl>picquet de <m>fer</m>
+            </tl>
             <lb/>
 
 ou tu planteras ton <pa>rosmarin</pa> esteste &amp; coupe de mesure et
@@ -29141,13 +29267,17 @@ a ce quilz ont le moeufle plus gros que les aultres</ab>
       <div>
          <id>p098v_2</id>
          <head>
-            <m>Artichauts</m> 
-            <m>sales</m>
-         </head>
+            <pa>Artichauts</pa> sales</head>
 
-         <ab>On les mect entiers &amp; non trop faicts en un barricot<lb/>
+         <ab>On les mect entiers &amp; non trop faicts en un
+<tl>barricot</tl>
+            <lb/>
 
-quon emplist de <m>saulmure</m> Puys on les sert tout lan<lb/>
+quon emplist de <m>saulmure</m> Puys on les sert <ms>
+               <tmp>tout
+lan</tmp>
+            </ms>
+            <lb/>
 
 parmy les salades crus avecq <m>huile</m> &amp; <m>vinaigre</m> car
 esta<exp>n</exp>t<lb/>
@@ -29168,7 +29298,7 @@ pas asses forte et ne conserveroit pas les <m>fruits</m>
          <id>p098v_3</id>
          <head>Abres</head>
 
-         <ab>Qui portent bien tost <m>fruit</m> se viellessent et ne durent<lb/>
+         <ab>Qui portent bien tost fruit se viellessent et ne durent<lb/>
 
 gueres</ab>
 
@@ -29180,7 +29310,8 @@ gueres</ab>
             <al>Oyseaulx</al>
          </head>
 
-         <ab>Qui ont este nourris a la broche ne siflent pas parmy les<lb/>
+         <ab>Qui ont este nourris a la <tl>broche</tl> ne siflent pas parmy
+les<lb/>
 
 aultres en compaignee silz ne sont en une cage a part<lb/>
 
@@ -29443,12 +29574,13 @@ pour luy donner sa premiere voix</ab>
    <root>
       <page>099v</page>
 
-      <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f204.image
-</image>
+      <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f204.image</image>
 
       <div>
          <id>p099v_1</id>
-         <head>Coigniers</head>
+         <head>
+            <pa>Coigniers</pa>
+         </head>
 
          <ab>Ils veulent estre souvent esmondes aultrem<exp>ent</exp> ilz se
 meurent<lb/>
@@ -30582,10 +30714,10 @@ a fayre <m>huile</m> prens en telle quantite quil te plaira<lb/>
 Et la mects dans une <tl>bouteille</tl> bien <add>@apres</add> bouchee
 &amp; laisse<lb/>
 
-fanir a lombre la dedans un <ms>
+fanir <env>a lombre</env> la dedans un <ms>
                <tmp>jour</tmp>
-            </ms> puys mects y
-de<lb/>
+            </ms> puys
+mects y de<lb/>
 
 la <m>premiere substance de vin</m> &amp; la laisse reposer trois
 ou<lb/>
@@ -30601,10 +30733,10 @@ sept<lb/>
 ou huict <ms>infusions</ms> de nouvelles fleurs Apres laisse
 <env>au<lb/>
 
-soleil</env> la derniere infusion un <ms>
+soleil</env> la derniere <ms>infusion</ms> un <ms>
                <tmp>moys</tmp>
-            </ms> Apres
-distiille la<lb/>
+            </ms>
+Apres distiille la<lb/>
 
 par <tl>alenbic</tl> 
             <del>Ap</del> Et de ceste <m>eau</m> prens en ii
@@ -30612,12 +30744,12 @@ par <tl>alenbic</tl>
                <figure>℥</figure>
             </ms> dans<lb/>
 
-deulx ou trois <ms>
-               <tl>cuillerees</tl>
-            </ms> de <m>vin blanc</m> Mays
+deulx ou trois <tl>
+               <ms>cuillerees</ms>
+            </tl> de <m>vin blanc</m> Mays
 cest pour<lb/>
 
-les vieulx. <pn>Paul tiers</pn>@ en usoit.</ab>
+les <pro>vieulx</pro>. <pn>Paul tiers</pn>@ en usoit.</ab>
 
       </div>
 
@@ -30710,15 +30842,15 @@ co<exp>mm</exp>e dessus jusques<lb/>
 au dernier &amp; seul <ms>pater noster</ms> de noeuf Lors tu auras
 un<lb/>
 
-onguent blanc &amp; doulx duquel tu oingdras la brusleure<lb/>
+            <m>onguent blanc &amp; doulx</m> duquel tu oingdras la brusleure<lb/>
 
 l<ms>
                <tmp>espace de 9 jours</tmp>
             </ms> Mays ny en mects pas
 dadvantage<lb/>
 
-Car il te f<del>a</del>eroit surcroistre la chair Tu <del>p</del> te
-penseras<lb/>
+Car il te f<del>a</del>eroit surcroistre la <bp>chair</bp> Tu
+<del>p</del> te penseras<lb/>
 
             <ms>
                <tmp>deulx foys le jour</tmp>
@@ -30733,11 +30865,15 @@ Mays co<exp>mm</exp>e le pressant avecq un <tl>linge mouille</tl> Et tu
 lessuyeras<lb/>
 
 de mesme <del>aff</del> avecq un <tl>linge deslie</tl> &amp; apres mects
-lunguent<lb/>
+l<m>unguent</m>
+            <lb/>
 
-Sur lequel tu pourras mectre des <pa>foeilles de lierre</pa> Cecy<lb/>
+Sur lequel tu pourras mectre des <m>foeilles de <pa>lierre</pa>
+            </m>
+Cecy<lb/>
 
-faict renaistre le poil &amp; ne laisse poinct cicatrice Un<lb/>
+faict renaistre le <bp>poil</bp> &amp; ne laisse poinct cicatrice
+Un<lb/>
 
             <pro>pouldrier</pro> qui sestoit presque tout brusle <del>ma</del> &amp;
 qui navoict<lb/>
@@ -30785,7 +30921,8 @@ sublime</m>
 
 Affin que le tuyau noffense poinct co<exp>mm</exp>e les enfans<lb/>
 
-ou ceulx qui <del>se</del> ont les veines hemorroidales eminentes<lb/>
+ou ceulx qui <del>se</del> ont les <bp>veines</bp> hemorroidales
+eminentes<lb/>
 
 ou enflees On revest le bout du <tl>canon</tl> dun lopin de
 <m>boyau<lb/>
@@ -31198,8 +31335,10 @@ Autrem<exp>ent</exp> sur la muraille</ab>
 
          <ab>Pour hanter en escusson, il fault prendre de la nouvelle mise<lb/>
 
-que l<pa>abre</pa> que tu veulx hanter a faict <add>de lannee
-mesme</add> &amp; en couper une branche<lb/>
+que labre que tu veulx hanter a faict <add>
+               <tmp>de lannee
+mesme</tmp>
+            </add> &amp; en couper une branche<lb/>
 
 dans laquelle tu voys quaupres de la <del>raci</del> naissance des
 foeilles<lb/>
@@ -31211,7 +31350,8 @@ comma<exp>n</exp>ce<exp>ment</exp>
 de germes Il fault dextrem<corr>
                <exp>ent</exp>
             </corr> avecq un
-<tl>trancheplume</tl> bien tranchant<lb/>
+<tl>trancheplume bien tranchant</tl>
+            <lb/>
 
 couper en forme descusson une petite portion de peau <del>avec</del> qui
 contient<lb/>
@@ -31246,15 +31386,25 @@ quil nen<lb/>
 sorte rien dehors que le germe lie le bien &amp; lenvelope tout avecq
 du<lb/>
 
-brin de <m>lin</m> ou <m>filasse</m> bien doulce en facon quil ny aye
-rien<lb/>
+            <tl>
+               <m>brin de <pa>lin</pa>
+               </m>
+            </tl> ou <tl>
+               <m>filasse bien
+doulce</m>
+            </tl> en facon quil ny aye rien<lb/>
 
-descouvert que la foeille qui dans trois ou 4 jours te donnera<lb/>
+descouvert que la foeille qui dans trois ou 4 <ms>
+               <tmp>jours</tmp>
+            </ms>
+te donnera<lb/>
 
 indice si lescusson doibt prendre selon quelle sera verte Laisse<lb/>
 
-ton hante sept ou huict jours ainsy Puys le deslie &amp; joincts
-bien<lb/>
+ton hante sept ou huict <ms>
+               <tmp>jours</tmp>
+            </ms> ainsy Puys le deslie
+&amp; joincts bien<lb/>
 
 lescorce mesmem<exp>ent</exp> a droict le germe &amp; puys le relie tout
 doulcem<exp>ent</exp>
@@ -56070,23 +56220,26 @@ prinse il se fault faire suer</ab>
 juniperi</pa>
                </m> simul tusis Eo<lb/>
 
-               <m>aceto</m> extinguantur <m>lateres</m> igniti Et vapor excipiatur ore
-&amp;<lb/>
+               <m>aceto</m> 
+               <m>extinguantur lateres</m> igniti Et vapor excipiatur
+<bp>ore</bp> &amp;<lb/>
 
-naribus</la> Cest pour preserver qua<exp>n</exp>d on va en aer
+               <bp>naribus</bp>
+            </la> Cest pour preserver qua<exp>n</exp>d on va en aer
 infaict<lb/>
 
 Un acoustrement se peult parfumer ainsy &amp; <add>en</add> oster
 linfection<lb/>
 
-la chambre maison &amp; Si tu te trouves en lieu ou nayes<lb/>
+la <env>chambre maison &amp;</env> Si tu te trouves en lieu ou
+nayes<lb/>
 
 ceste preparation porte <m>
                <pa>rue</pa>
             </m> &amp; <m>
                <pa>grains</pa>
             </m>
-piles ensemble<lb/>
+            <tl>piles</tl> ensemble<lb/>
 
 puys a ton besoin fais bouillir en <m>vinaigre</m> et en use
 co<exp>mm</exp>e<lb/>
