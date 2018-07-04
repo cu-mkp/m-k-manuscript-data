@@ -1,12 +1,11 @@
 <root>
 <page>099v</page>
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f204.image
-</image>
+<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f204.image</image>
 
 <div>
 <id>p099v_1</id>
-<head>Coigniers</head>
+<head><pa>Coigniers</pa></head>
 
 <ab>Ils veulent estre souvent esmondes aultrem<exp>ent</exp> ilz se
 meurent<lb/>

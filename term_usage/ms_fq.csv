@@ -1,10 +1,10 @@
-98|lb
+100|lb
 56|℥
 40|moictie
 39|quintal
-30|once
-21|onces
-20|jours
+34|once
+24|jours
+22|onces
 19|heures
 18|pan
 15|jour
@@ -26,6 +26,7 @@
 4|unces
 4|quart dheure
 4|poix
+4|fois le jour
 4|carte
 4|aultant dun que daultre
 4|aulne
@@ -46,6 +47,7 @@
 2|tierce partie
 2|tables
 2|suffisante quantite
+2|sepmaines
 2|seau
 2|quintalz
 2|quarteron
@@ -67,7 +69,6 @@
 2|gros
 2|grain
 2|gabions
-2|fois le jour
 2|espace de quinze iours
 2|denier
 2|demye ℥
@@ -84,6 +85,7 @@
 1|verre
 1|une ou deux heures
 1|une heure &amp; demye
+1|une foys le moys
 1|une foys la sepmaine
 1|une fois la sepmaine
 1|une demy coquille de nois
@@ -97,6 +99,7 @@
 1|trois ou 4 jours et trois iours et trois nuicts
 1|tout un jour et une nuict
 1|tout un jour
+1|tout lan
 1|tierce partye
 1|sepmaine
 1|seconde annee
@@ -113,6 +116,7 @@
 1|presque autant dun que daultre
 1|pousses en quarre
 1|pousses
+1|pour scavoir sil est asses chault
 1|pour scavoir quand il sera en bonne chaleur trempe dedans un petit papier retors Sil le noircist sans lallumer il est en bonne chaleur Mays sil le brusle &amp; y mect le foeu il est trop chault
 1|poulse
 1|poulce
@@ -131,6 +135,7 @@
 1|petit dos de costeau
 1|pauses
 1|part
+1|par moictie
 1|palle
 1|pailles
 1|nuit
@@ -138,7 +143,9 @@
 1|meza onca
 1|mains
 1|longuement
+1|long comme le doigt annulaire
 1|long comme la largeur de 4 ou 5 doigts
+1|long
 1|livre
 1|lignes pied de roy
 1|lignes
@@ -152,6 +159,7 @@
 1|large aultant que tu vouldras faire longue une cartuche
 1|la grosseur dune noix
 1|la grosseur dune avelane avecq sa coquille
+1|jusques a la sepmaine saincte
 1|jusques a ce que tu puisses tenir le bout du doigt dans le gect sans te brusler
 1|journee
 1|jour naturel
@@ -159,6 +167,7 @@
 1|iours
 1|iour
 1|infusions
+1|infusion
 1|huict en huict jours
 1|horologe de sable
 1|hault de trois doits
@@ -169,6 +178,7 @@
 1|grosseur de deulx chastaignes
 1|gros comme un curedent
 1|gros comme ffisselle de moing
+1|grandeur dun oeuf de pigeon
 1|grains comme pois
 1|gouttes
 1|goutes
@@ -217,11 +227,14 @@
 1|delie p comme grosse corde despinette pour les petits ouvrages
 1|degre de chaleur
 1|de telle capacite que le bout du petit doigt y puisse presque entrer
+1|de la moictie
+1|de deulx ans en deulx ans
 1|cuillerees
 1|cuelleree
 1|cueillerees dargent
 1|crusols
 1|creusets
+1|court de la moictie
 1|coquille de noix
 1|coquille
 1|comme la chaleur du soleil de juin

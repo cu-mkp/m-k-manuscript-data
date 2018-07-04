@@ -38,16 +38,16 @@
 12|bouteille
 11|plume
 11|escuelle
-10|trancheplume
+10|ongle
+10|main
 10|broisse
+9|trancheplume
 9|table
 9|regle
 9|pilon
 9|os de seiche
-9|ongle
 9|moulle
 9|mortiers
-9|main
 9|gabions
 9|bouteille de verre
 8|presse
@@ -57,6 +57,7 @@
 8|grille
 8|chevilles
 8|Moules
+7|vis
 7|poincte de fer
 7|planche
 7|molles
@@ -65,7 +66,6 @@
 7|corde
 7|compas
 7|ciselet
-6|vis
 6|roue
 6|poincte de fil de fer
 6|platine dardille
@@ -159,11 +159,13 @@
 2|verge
 2|vaisseau de terre
 2|vaisseau de cuivre
+2|tripoly
 2|tour
 2|toile
 2|tenailles plattes
 2|tenailles
 2|tenaille
+2|tables
 2|sayes de porceau
 2|sayes
 2|rouleaus
@@ -198,8 +200,8 @@
 2|mole
 2|medaille
 2|manche de chemise
-2|linges
 2|linge rude
+2|linge blanc
 2|lime doulce
 2|lampes
 2|lampe
@@ -234,6 +236,7 @@
 2|cierge
 2|chaulderon
 2|cercle de terre
+2|caisses
 2|caisse de fer
 2|cage
 2|cabats
@@ -269,7 +272,6 @@
 1|tuile a crochet
 1|tuiaulx de plume
 1|truelle
-1|tripoly
 1|tripoli de bretaigne
 1|triboulet
 1|trepies de fer
@@ -277,7 +279,9 @@
 1|trepan
 1|trencheplume
 1|trancheplumes
+1|trancheplume bien tranchant
 1|tranche plume
+1|tranche
 1|toille qui soit asses serree
 1|toile de cambray
 1|tige de fil de letton
@@ -289,7 +293,7 @@
 1|tamisent
 1|tamis fort subtil
 1|tamis double
-1|tables
+1|tables haultes
 1|table soit bien unye
 1|table des orfevres
 1|table bien unie
@@ -319,6 +323,7 @@
 1|ribot
 1|regles
 1|recipient
+1|rechauls &amp; avecq charbon allume
 1|rateau
 1|rasteaulx
 1|raspe
@@ -397,6 +402,7 @@
 1|pinceaulx composes de deulx ou trois poils de barbe de rat
 1|pilons
 1|piliers de fer
+1|piles
 1|piler
 1|pierre noire
 1|pierre de touche
@@ -487,17 +493,19 @@
 1|longs pinceaux
 1|long verre
 1|long baston
+1|linges trempes en eau de ruche de miel
+1|linges
 1|linge trempe dans de la graisse de porc meslee de salpestre ou sel armoniac
 1|linge mouille
 1|linge fort subtil
 1|linge deslie
-1|linge blanc
 1|limes quarrees
 1|limes doulces
 1|limer
 1|liment
 1|limee quarree
 1|lignes aplomb
+1|leniers
 1|lanternes
 1|langue
 1|lamines de fer
@@ -558,6 +566,7 @@
 1|fils de fer
 1|filiere
 1|filets
+1|filasse bien doulce
 1|fil et
 1|fil du propre metal dont ils gectent
 1|fil delie de letton
@@ -588,6 +597,7 @@
 1|eau de roche
 1|eau coloree
 1|eau claire
+1|eau chaulde
 1|eau
 1|drapt vert
 1|drappeau blanc
@@ -629,6 +639,7 @@
 1|couges
 1|costeau poly
 1|cornues
+1|corne
 1|cordon retors de la sye
 1|cordette
 1|corde despinette
@@ -639,11 +650,13 @@
 1|contour
 1|commun bullitoyre
 1|colle
+1|coissins de plume
 1|coissinet
 1|coisinet @ de cuir
 1|coings
 1|cofre
 1|cochiaro
+1|clous
 1|clochettes
 1|cloche de boys
 1|ciseaux
@@ -670,22 +683,28 @@
 1|carreau
 1|canon
 1|cane
+1|caisses quarrees de bois
 1|caisse de fer ne de metal
 1|cages
 1|burins &amp;
 1|burin ordinayre a tailler
 1|brunissouer
 1|broche de boys
+1|broche
 1|broc
 1|briques
+1|brin de lin
 1|bouteure dorfevres
 1|bouteilles de verre
 1|bouteille ou vaisseau nect
 1|bougie
+1|boucles
 1|boitte de buys
 1|boitte
+1|boite de sapin
 1|boite
 1|bois uny
+1|bois
 1|boictes de verre
 1|bocals
 1|billots
@@ -699,6 +718,7 @@
 1|baston de buys
 1|barriquet
 1|barriques
+1|barricot
 1|bandes
 1|bandeau
 1|assiette
@@ -725,6 +745,7 @@
 1|Tamis
 1|Roue de cuivre
 1|Presse
+1|Pile
 1|Os de seiche
 1|Moule de plastre
 1|Mortier

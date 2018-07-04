@@ -1,11 +1,11 @@
 42|doigt
 35|doigts
-23|main
-17|mains
+24|main
+18|mains
 13|front
 11|bouche
+10|ongle
 10|nes
-9|ongle
 7|oreille
 6|pied
 5|yeulx
@@ -26,7 +26,9 @@
 2|pieds
 2|gueule
 2|foye
+2|chair
 2|bout du doigt
+1|veines
 1|tetins
 1|teston
 1|temples
@@ -36,13 +38,16 @@
 1|poulse
 1|poulces
 1|poin
+1|poil
 1|poignees
 1|petit doit
 1|paulmes
 1|paulme
 1|oreilles
+1|ore
 1|ongle du poulce droict
 1|narine
+1|naribus
 1|matrice
 1|main nue
 1|main droite
@@ -60,6 +65,7 @@
 1|doitgts
 1|doitgs
 1|doit
+1|doigt annulaire
 1|doict
 1|doibs
 1|ditto
@@ -69,7 +75,6 @@
 1|coulde
 1|colet
 1|col
-1|chair
 1|bras
 1|bout des ongles
 1|bout des doigts

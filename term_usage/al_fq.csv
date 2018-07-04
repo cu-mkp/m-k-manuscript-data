@@ -2,9 +2,9 @@
 23|serpents
 22|tortue
 22|escrevisse
-19|cheval
+20|cheval
 14|lesard
-12|vers
+13|vers
 12|seiche
 12|mouche
 12|lesards
@@ -37,6 +37,7 @@
 3|poulet
 3|porceau
 3|porc
+3|papillon
 3|oyseaulx
 3|oiseaulx
 3|lezard
@@ -51,12 +52,13 @@
 2|saulterelles
 2|rossignols
 2|pigeons
+2|pigeon
 2|papillons
-2|papillon
 2|moutons
 2|lezards
 2|lezardes
 2|lesarde
+2|iraignee
 2|gris
 2|fourmis
 2|escargots
@@ -97,7 +99,6 @@
 1|porc espic
 1|poissons
 1|pincons
-1|pigeon
 1|perdris
 1|passereaulx
 1|passe solitaire
@@ -111,14 +112,13 @@
 1|linotte
 1|lievre
 1|laisards
-1|iraignee
 1|huitres
 1|huitre
 1|huistres
 1|homme
 1|grenoilles
 1|fouines
-1|formis
+1|formis noires
 1|daigneaulx
 1|cygales
 1|coquu
@@ -144,6 +144,7 @@
 1|butor
 1|brebis
 1|bouc
+1|bombicum
 1|boeufs
 1|beuf
 1|benarrins
@@ -164,6 +165,7 @@
 1|Mousches
 1|Lesards
 1|Escargots
+1|Chiens
 1|Chevaulx
 1|Chauve souris
 1|Chancre

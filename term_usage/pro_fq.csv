@@ -26,6 +26,7 @@
 2|tondeur
 2|scribes
 2|sarruriers
+2|riches
 2|quiterniers
 2|pionners
 2|painctre
@@ -48,6 +49,7 @@
 2|Horlogeurs
 2|Canonier
 1|villageois
+1|vieulx
 1|verrier
 1|vendangeurs
 1|vallet
@@ -62,7 +64,6 @@
 1|rustiques
 1|rustique
 1|roy
-1|riches
 1|quadraniers
 1|preneurs descrevisses
 1|pouldriers
@@ -91,6 +92,7 @@
 1|menusier
 1|medicari
 1|masson
+1|marchans
 1|larrons
 1|jardiners
 1|grossiers

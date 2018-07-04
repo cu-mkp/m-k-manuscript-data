@@ -3,61 +3,65 @@
 22|froment
 16|rose
 16|bled
-14|lin
-12|vigne
+15|lin
+13|vigne
 10|saule
 10|olif
 9|orme
+8|pastel
 8|figuier
-6|pastel
 5|raisin
 5|pensee
 5|millet
-5|abres
+5|abricots
 4|sauge
 4|rosmarin
 4|olive
 4|mil
 4|girofle
 4|cotton
-4|abre
+3|sapin
 3|safran
 3|roses
 3|coings
+3|chenevi
 3|buglose
 3|aulx
 3|asperge
 3|amendes
 3|ail
 3|absinthe
+3|abres
+3|abre
 2|tim
 2|soulcy
 2|soucy
-2|sapin
 2|salicor
 2|rue
 2|rosier
 2|poix
 2|pois
+2|pavis
 2|paille
 2|oranges
 2|oignons
 2|noyer
+2|mericotons
 2|linge
 2|lettue
 2|herable
 2|fromant
 2|fraisiers
-2|fleurs
 2|feugiere
 2|consolida maior
-2|chenevi
 2|chastaignes
 2|canelle
 2|buys
 2|bruyeres
 2|bresil
+2|boufain
 2|bleds
+2|amendiers
 2|amaranthe
 2|Roses
 1|zedoaire
@@ -65,6 +69,7 @@
 1|viole
 1|vini
 1|vinette
+1|vinete
 1|vignes
 1|vesse
 1|vermicularis
@@ -87,6 +92,8 @@
 1|queues de pourrceaulx
 1|queue de cheval
 1|pæonia
+1|pruniers
+1|prunier
 1|prunes
 1|prunelles
 1|pruneaux
@@ -100,15 +107,16 @@
 1|poirier
 1|poires
 1|petit
+1|peschiers
 1|peschier
 1|pesches
 1|pescher
 1|persicaire
+1|persees
 1|perces mericotons
 1|pensees
 1|peche
 1|pavot rouge
-1|pavis
 1|papus
 1|palta lupina
 1|orties
@@ -124,12 +132,14 @@
 1|nois
 1|navette
 1|navete
+1|moeurier blanc
 1|mil jaulne
-1|mericotons
 1|melons
 1|mauves
 1|lys
 1|linges
+1|lierre
+1|lapathum acutum
 1|lapathium acutum maius
 1|lapasses
 1|laictues grainees
@@ -138,10 +148,9 @@
 1|herbes potaigeres
 1|herbes bulbeuses
 1|herbes
-1|herbe
-1|hayes
 1|guindoles
 1|guimave
+1|guesde
 1|grand passevelours
 1|grains
 1|gentiane
@@ -152,7 +161,7 @@
 1|fraises
 1|forment
 1|foeuilles de vigne
-1|foeilles de lierre
+1|fleurs
 1|fleur de soulcy
 1|fleur de pensee
 1|fleur de genest
@@ -176,8 +185,10 @@
 1|caprier
 1|capilli veneris
 1|buy
+1|bruyere
 1|bruiere
-1|boufain
+1|brandes
+1|brande
 1|bled orbere
 1|bled de froment
 1|balaustes
@@ -189,9 +200,9 @@
 1|armols
 1|arbres
 1|anthos
-1|amendiers
+1|amendier
 1|amande
-1|abricots
+1|alberges
 1|abres de noyau
 1|Visme
 1|Segle
@@ -202,13 +213,18 @@
 1|Pastel
 1|Orangers
 1|Oliviers
+1|Olives
 1|Oeillets
 1|Oeillet
 1|Mericotons
 1|Marguerites
 1|Mandragore
 1|Lis de jardin
+1|Lin
 1|Guesdre
 1|Eschervis
 1|Eleusines
+1|Coigniers
+1|Artichauts
+1|Amendiers
 1|

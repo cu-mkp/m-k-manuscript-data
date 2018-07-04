@@ -6,8 +6,8 @@
 5|soleil
 5|garrigue
 5|en lieu humide
-5|au serain
 4|vent
+4|au serain
 3|riviere
 3|muraille
 3|lieu sec
@@ -15,6 +15,8 @@
 3|grottes
 3|grotte
 3|en terre
+3|chambre
+3|a lombre
 3|a lair
 2|terre
 2|temps humide
@@ -22,11 +24,12 @@
 2|mer
 2|maisons
 2|lieu descouvert
+2|jardins
+2|il gele
 2|fontaine
 2|eglises
 2|boutique
 2|au vent
-2|a lombre
 2|a lhumide
 1|villes ou sont les Maistres jures
 1|villes fortes
@@ -36,9 +39,11 @@
 1|vent dune fenestre
 1|veines de la montaigne
 1|tonnerres
+1|tonnerre ou temps pluvieulx couvert &amp; frais
 1|terriers
 1|terrier
 1|temps sec
+1|temps se porte chault &amp; serain
 1|temps obscur
 1|temps nest serain &amp; sec
 1|temps est relent &amp; humide
@@ -79,13 +84,13 @@
 1|lieu clos
 1|la premiere pluye
 1|jour
-1|jardins
 1|humidite
 1|humeur de la cave
 1|hors du vent
 1|haultan
 1|grandes escailles vers les montaignes
 1|grandes cuisines
+1|gelee
 1|gardemangers
 1|foyer
 1|formillere
@@ -100,6 +105,7 @@
 1|en terre maigre
 1|en temps humide
 1|en temps de pluye
+1|en temps de gelee
 1|en lieu sec
 1|en lieu frais
 1|en lieu fort humide ou tel quavecq puys rodier ou fontayne on le puysse souvent arroser
@@ -118,8 +124,9 @@
 1|cheminees des grandes cuisines
 1|cheminee
 1|champs
+1|chambre maison &amp;
 1|chambre bien close ou il ny entre point de vent ne dair
-1|chambre
+1|chambre acommodee de trois ou 4 estages de tables larges
 1|cavernes de rochers
 1|bonnes villes
 1|biquoques
@@ -128,7 +135,7 @@
 1|aulx territoires maigres
 1|aulx environs de toutes les bonnes villes
 1|aulx champs
-1|au soleil bien fort
+1|au soleil bien fort &amp; au serain
 1|au profond de la sablonniere
 1|au plus chault soleil
 1|au froid
@@ -141,5 +148,7 @@
 1|abre ou herbe qui soict au bort
 1|a lair ou lieu humide
 1|a la frescheur &amp; aux rays de la lune
+1|Jardin
 1|Grottes
+1|En temps serain &amp; doulx &amp; non trop froid &amp; venteulx
 1|
