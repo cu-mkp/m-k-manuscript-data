@@ -12,11 +12,11 @@
 8|figuier
 5|raisin
 5|pensee
-5|millet
 5|abricots
 4|sauge
 4|rosmarin
 4|olive
+4|millet
 4|mil
 4|girofle
 4|cotton
@@ -36,13 +36,11 @@
 2|tim
 2|soulcy
 2|soucy
-2|salicor
 2|rue
 2|rosier
 2|poix
 2|pois
 2|pavis
-2|paille
 2|oranges
 2|oignons
 2|noyer
@@ -52,7 +50,6 @@
 2|herable
 2|fromant
 2|fraisiers
-2|feugiere
 2|consolida maior
 2|chastaignes
 2|canelle
@@ -83,6 +80,7 @@
 1|sauvignons
 1|saulge
 1|sarment
+1|salicor
 1|ruta
 1|rosiers
 1|ronce
@@ -119,6 +117,7 @@
 1|pavot rouge
 1|papus
 1|palta lupina
+1|paille
 1|orties
 1|orenge
 1|orangers
@@ -166,6 +165,7 @@
 1|fleur de pensee
 1|fleur de genest
 1|figier
+1|feugiere
 1|festus
 1|febves
 1|febve

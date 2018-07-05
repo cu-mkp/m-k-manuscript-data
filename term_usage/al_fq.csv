@@ -2,7 +2,7 @@
 23|serpents
 22|tortue
 22|escrevisse
-20|cheval
+19|cheval
 14|lesard
 13|vers
 12|seiche
@@ -22,11 +22,11 @@
 6|veau
 6|oiseau
 5|serpens
-5|pourceau
 5|lesardes
 5|chien
 5|chancre
 4|vache
+4|pourceau
 4|mousche
 4|mouches
 4|loup
@@ -47,7 +47,6 @@
 3|Rossignol
 3|Oyseaulx
 3|Celles deau
-2|venatione
 2|souris
 2|saulterelles
 2|rossignols
@@ -67,19 +66,17 @@
 2|cerf volant
 2|celles deau
 2|calendres
-2|aucupio
 2|angroisse
 2|Tortues
 2|Serpens
-2|Escrevisse
 2|Crapault
-2|Aquatilium animalium
 1|yraignes
 1|yraigne
 1|vers de farine
 1|verdaule
 1|ver de farine
 1|ver
+1|venatione
 1|tourterelles
 1|tortue deau
 1|telines
@@ -149,6 +146,7 @@
 1|beuf
 1|benarrins
 1|bellettes
+1|aucupio
 1|aspic cornu
 1|animaulx
 1|animal
@@ -164,6 +162,7 @@
 1|Oysillons
 1|Mousches
 1|Lesards
+1|Escrevisse
 1|Escargots
 1|Chiens
 1|Chevaulx
@@ -176,4 +175,5 @@
 1|Butor
 1|Brebis
 1|Araigne
+1|Aquatilium animalium
 1|

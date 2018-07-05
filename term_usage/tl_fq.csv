@@ -1,43 +1,43 @@
-304|moule
+301|moule
 119|moules
-84|chassis
+82|chassis
 54|pinceau
 45|crusol
-40|mabre
+39|mabre
 38|mortier
-32|four
-31|baston
+30|four
 30|costeau
+30|baston
 26|fourneau
 25|pot
 25|molle
 25|forge
 23|vaisseau
-23|porphire
 23|os
 23|doigt
+22|porphire
 22|papier
 20|souflet
 19|tamis
 19|crampons
 18|poincte
-18|lime
 17|linge
+17|lime
 17|fil de fer
-17|burin
 16|poinctes
+16|burin
 16|boicte
 15|marteau
-14|creuset
-14|chandelle
-13|souflets
 13|esponge
-12|four a vent
+12|souflets
 12|doigts
-12|chaple
+12|creuset
+12|chandelle
 12|bouteille
 11|plume
+11|four a vent
 11|escuelle
+11|chaple
 10|ongle
 10|main
 10|broisse
@@ -46,7 +46,6 @@
 9|regle
 9|pilon
 9|os de seiche
-9|moulle
 9|mortiers
 9|gabions
 9|bouteille de verre
@@ -70,6 +69,7 @@
 6|poincte de fil de fer
 6|platine dardille
 6|plane
+6|moulle
 6|four de reverberation
 6|filet
 6|espingle
@@ -99,7 +99,6 @@
 5|charbon
 5|carte
 4|pot de terre
-4|platene
 4|planches
 4|pied
 4|mortier de fer
@@ -108,29 +107,23 @@
 4|guimbelet
 4|fiolle de verre
 4|creusets
-4|couvercle
 4|cotton
 4|cordeau
 4|ciselets
 4|ciseaulx
 4|bullitoyre
 4|brunisson
-3|verge de fer
 3|tuelle
 3|terrine
-3|sayettes de pourceau
 3|sac
-3|roue de cuivre
 3|reigle
 3|queue de fer
 3|presses
-3|pointes
+3|platene
 3|plaste dardile
 3|pinceaulx
-3|pierre
 3|panier
 3|paille
-3|onglet
 3|moule de plastre
 3|mortier de bronze
 3|grattebroisse
@@ -156,6 +149,7 @@
 3|barrique
 3|Mortiers
 3|Crampons
+2|verge de fer
 2|verge
 2|vaisseau de terre
 2|vaisseau de cuivre
@@ -163,33 +157,33 @@
 2|tour
 2|toile
 2|tenailles plattes
-2|tenailles
 2|tenaille
 2|tables
+2|sayettes de pourceau
 2|sayes de porceau
 2|sayes
 2|rouleaus
-2|roues une destain de plomb &amp; de cuivre fin
-2|roue destain
 2|roue de plomb
+2|roue de cuivre
 2|quarton
 2|pot plombe
 2|pointes de bois
+2|pointes
 2|poincte dun costeau
 2|poincte du pinceau
 2|poile
 2|plume a escripre
 2|platene dardille
 2|plaste
-2|plan
-2|place du fouye
 2|pinsettes
 2|piliers
+2|pierre
 2|piece de feultre
 2|papier enflamme
 2|papier colle
 2|pallette
 2|palle
+2|onglet
 2|moules de plastre
 2|moules de noyau
 2|moules a noyau
@@ -206,19 +200,14 @@
 2|lampes
 2|lampe
 2|lames de fer
-2|lame de cuivre
 2|houtils
 2|grattebroissa
 2|gouge
 2|gand
-2|fraiser
 2|fourneau a vent
-2|four a souflets
-2|four a boys
 2|forges
 2|foreter
 2|fil darchal
-2|fer chault
 2|estoc
 2|esgrusouer
 2|eguille
@@ -228,6 +217,7 @@
 2|crusols
 2|cruset
 2|cramponer
+2|couvercle
 2|costeaulx
 2|contour dardille
 2|conche
@@ -252,7 +242,6 @@
 2|Souflets
 2|Pinceaulx
 2|Moule
-2|Four a vent
 1|verre ou ardoise unie
 1|verre de bon vin
 1|verre bien nect
@@ -287,6 +276,7 @@
 1|tige de fil de letton
 1|teste du clou
 1|terrines sans plomb
+1|tenailles
 1|tapon de la bouteille
 1|tapon
 1|tamiser
@@ -315,6 +305,8 @@
 1|sacs
 1|roulleau
 1|rouleaux
+1|roues une destain de plomb &amp; de cuivre fin
+1|roue destain
 1|roue de fer
 1|roue de bois dous
 1|rolleaux
@@ -393,6 +385,8 @@
 1|planche ou table solide
 1|planche de boys
 1|planche de bois
+1|plan
+1|place du fouye
 1|piquet
 1|pippe
 1|pipe
@@ -408,6 +402,7 @@
 1|pierre de touche
 1|pied de cire
 1|pieces de feutre moufle
+1|piece dargent
 1|picquet de fer
 1|phiole
 1|phiol
@@ -514,6 +509,7 @@
 1|lame subtile de plomb
 1|lame de plomb
 1|lame de fer rougie au foeu
+1|lame de cuivre
 1|jugement de loeil
 1|horologe de sable
 1|guinbelet
@@ -530,10 +526,12 @@
 1|gibessiere
 1|gibbessiere
 1|genoul
+1|gecton
 1|gands
 1|fusil
 1|fumier
 1|froid
+1|fraiser
 1|foyer
 1|fours de barbiers
 1|fourneau des fourbisseurs
@@ -545,7 +543,9 @@
 1|four couvert
 1|four a ventde souflets
 1|four a vent souflets
+1|four a souflets
 1|four a pain
+1|four a boys
 1|fosse
 1|forneau
 1|fornaise des verriers
@@ -577,6 +577,7 @@
 1|fer tranchant
 1|fer crochu
 1|fer coupant
+1|fer chault
 1|fer acerre
 1|feille de papier
 1|estrier
@@ -714,6 +715,7 @@
 1|baston rond duquel les pastissiers se servent
 1|baston plat
 1|baston fendu
+1|baston douzier entre bien sec
 1|baston de saul
 1|baston de buys
 1|barriquet
@@ -752,6 +754,7 @@
 1|Mirouer
 1|Limes
 1|Fourchette
+1|Four a vent
 1|Four a souflets
 1|Fil de fer
 1|Crusol

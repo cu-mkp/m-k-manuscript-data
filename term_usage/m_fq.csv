@@ -1,33 +1,33 @@
-230|plomb
-217|eau
-216|cire
-214|or
-191|huile
-159|argent
-150|fer
-115|cuivre
-114|estain
-113|metal
-104|terre
+227|plomb
+216|eau
+215|cire
+211|or
+190|huile
+155|argent
+148|fer
+112|estain
+110|metal
+110|cuivre
+99|terre
 83|plastre
 81|papier
-77|verre
+76|verre
 72|estaim
-72|eau de vye
 69|pouldre
-67|charbon
-62|vinaigre
-57|boys
+69|eau de vye
+66|charbon
+60|vinaigre
 57|ardille
-56|letton
-45|vernis
-43|mabre
+56|boys
+52|letton
+44|vernis
+42|mabre
 41|bois
 39|sel armoniac
 39|fil de fer
-39|cendre
 38|os
 37|ceruse
+37|cendre
 36|charbons
 36|alum de plume
 35|brique
@@ -35,56 +35,55 @@
 31|vin
 31|soufre
 31|blanc de plomb
-30|urine
 30|cuir
 29|colle
 28|tourmentine
 28|souldure
-28|pierre
 28|eau chaulde
 28|destrempe
 28|crocum
 27|toile
 27|salpestre
+27|pierre
 27|acier
+26|urine
 26|cendres
-25|minium
 25|linge
 24|sucre
-24|farine
-23|☿
+24|minium
 23|soye
-23|porphire
 23|azur
 22|rousine
-22|eau fort
-21|sel
+22|porphire
+21|☿
+20|sel
+20|farine
+20|eau fort
 19|rosette
 19|huile de noix
-18|estaing
 18|estaim de glace
 18|crasse
 17|verdet
 17|metaulx
 17|huile de froment
 17|huile daspic
+17|estaing
 17|estaim fin
 17|croye
 17|cotton
-17|calamine
-16|paille
 16|mastic
+16|calamine
 16|azur desmail
 15|suif
+15|paille
 15|massicot
 15|eau de sel armoniac
 15|eau claire
 15|bronze
-15|beurre
 15|alum
 14|tartre
+14|beurre
 13|verny
-13|pierres
 13|gomme
 13|cire fondue
 13|borras
@@ -97,8 +96,8 @@
 12|esmail
 12|cuivre rouge
 11|verdegris
-11|tripoly
 11|soulder
+11|pierres
 11|luth
 11|glaire
 11|estain de glace
@@ -107,9 +106,8 @@
 11|ambre
 11|Vernis
 10|vin blanc
-10|verre de plat
-10|vermeillon
 10|velours
+10|tripoly
 10|plomb fin
 10|pain
 10|os de seiche
@@ -120,18 +118,16 @@
 10|huile de soufre
 10|glaire doeuf
 10|crocum ferri
-9|☾
 9|vif argent
+9|vermeillon
 9|sublime
 9|sel commun
 9|paste
 9|huile dolif
 9|huile de lin
 9|estain fin
-9|eau gommee
 9|dorer
 9|carton
-9|caillous
 9|ardoise
 8|verre pile
 8|vernis de tourmentine
@@ -141,56 +137,53 @@
 8|lute
 8|huile de tourmentine
 8|feultre
-8|eau sel
 8|cire blanche
-8|bourre
 8|arene
 8|Plastre
 7|potee
 7|poix
 7|parchemin
-7|or fin
 7|marbre
 7|laicton
 7|huilee
-7|grais
-7|fisselle
 7|fiens
-7|drogues
+7|eau sel
+7|eau gommee
 7|dore
 7|colle forte
 7|colle de poisson
 7|chaulx vive
 7|charbon de saule
+7|caillous
+7|bourre
 7|bistre
 7|beurre fondu
 7|arsenic
 7|albastre
-6|☼
+6|☾
 6|soulde
 6|son
 6|savon
 6|sang de dragon
 6|salive
-6|safran
 6|poil
 6|plume
-6|pate
 6|ordure
+6|or fin
 6|ocre jaulne
 6|musc
-6|millas
 6|mache de fer
 6|liege
 6|laitton
 6|jaulne doeuf
 6|huille daspic
 6|huiles
+6|grais
 6|gomme dragant
 6|estain doulx
 6|escaille de fer
 6|eau commune
-6|diamant
+6|drogues
 6|cire noire
 6|ciment
 6|chair
@@ -204,12 +197,13 @@
 6|alung
 6|Sel armoniac
 6|Cire
+5|verre de plat
 5|tormentine
 5|toile ciree
 5|terre grasse
 5|taffetas
 5|scudegrun
-5|saphir
+5|safran
 5|ruby
 5|potin
 5|plombe
@@ -220,24 +214,23 @@
 5|huile gras
 5|filet
 5|fil de letton
-5|fiente de cheval
 5|fer blanc
-5|esmeraulde
 5|esmailler
 5|eaulx
+5|diamant
 5|aspic
 5|antimoine
 5|Crocum ferri
 4|œuf
-4|♀
+4|☼
 4|vinaigre distille
 4|vin bouilly avecq racine dorme
 4|vert de gris
-4|verre de lorraine
 4|tuile
 4|taincture
 4|souffre
 4|sels
+4|saphir
 4|sang
 4|sandaraque
 4|sable de mine
@@ -251,20 +244,21 @@
 4|ocre
 4|noir descaille
 4|moustarde
-4|mercure
 4|magistra
 4|huille
 4|graisse
 4|fumee de lampe
 4|fumee
 4|foing
+4|fisselle
+4|fiente de cheval
 4|fient
 4|feultre brusle
+4|esmeraulde
 4|esmaulx
 4|esmail dazur
 4|eau tiede
 4|eau de savon
-4|drap
 4|dragee
 4|cuyvre
 4|carte
@@ -286,8 +280,6 @@
 3|soufre fondu
 3|soubdure
 3|saphirs
-3|salicor
-3|sables artificiels
 3|sable maigre
 3|sable gras
 3|sable
@@ -298,14 +290,17 @@
 3|pierreries
 3|pierre ponce
 3|pierre de touche
+3|pate
 3|pailles
 3|or bel
 3|ocre de ru
 3|noir de charbon
 3|noir
 3|mortier sec
+3|millas
 3|miel rosat
 3|metal fondu
+3|mercure
 3|matiere de poelonne
 3|mastic pulverise
 3|linge brusle
@@ -314,13 +309,11 @@
 3|larme de mastic
 3|laque de florence
 3|laict de figuier
-3|laict
 3|jaspe
 3|gros sel
 3|grands metaulx
 3|grain
 3|fumier
-3|foin
 3|floree
 3|fil darchal
 3|fil
@@ -331,14 +324,12 @@
 3|draps
 3|doreure
 3|cuyr
-3|cuivre fin
 3|cristallin
 3|cristal
 3|coller
 3|colle bien clere
 3|clou
 3|cire noire soufree
-3|cinabre
 3|christal
 3|chaulx
 3|charbon pulverise
@@ -363,15 +354,15 @@
 3|Estaim
 3|Esmailler
 3|Esmail
-3|Crocum
 3|Azur
 3|Argent
 3|Aes ustum
+2|♀
 2|yvoire
 2|vinaigre bien fort
 2|vieulx K
 2|verre fondu
-2|verre de bien
+2|verre de lorraine
 2|vernis noir
 2|vernis dhuile daspic
 2|vernis de flandres
@@ -395,9 +386,6 @@
 2|terre fresche &amp; humide
 2|terre dombre
 2|terre chimolee
-2|teincture de guesde ou pastel
-2|taincture verte
-2|tainct
 2|table de verre
 2|suye
 2|suin de verre
@@ -416,13 +404,12 @@
 2|saulmure
 2|satin
 2|sandrax
+2|salicor
 2|salee
 2|sables maigres
+2|sables artificiels
 2|sable dos
-2|sable des fondeurs
 2|rue
-2|ruby balay
-2|rubi
 2|rouge clair
 2|rosmarin
 2|rocaille
@@ -430,7 +417,6 @@
 2|quarton
 2|quarreau
 2|pur aspalte
-2|pouldre de marchasite
 2|poix noire
 2|poils de barbe de rat
 2|plombee
@@ -457,16 +443,13 @@
 2|mines
 2|mine de plomb
 2|mine dangleterre
-2|millet
 2|mie de pain
 2|metalline
-2|metal duquel les cloches se font
 2|metail
 2|lutte
 2|luthe
 2|luth commun
 2|litharge
-2|limaille de letton
 2|limaille de fer
 2|limaille dargent
 2|limaille daiguilles
@@ -477,10 +460,10 @@
 2|leton
 2|laque platte de venise
 2|laine
+2|laict
 2|lacque
 2|jaulnes doeufs
 2|jaulne
-2|jacinthe orientale
 2|huille petrolle
 2|huille de lin
 2|huilent
@@ -494,10 +477,9 @@
 2|gectons dallemaigne
 2|fumee de chandelle
 2|fonte
+2|foin
 2|foeultre
 2|foeille
-2|fleur de pastel
-2|fin estaing
 2|fiente de pigeon
 2|fient de cheval
 2|fiens de cheval
@@ -519,16 +501,15 @@
 2|eau dalum
 2|eau bouillante
 2|duvet
+2|drap
 2|dardille
+2|cuivre fin
 2|cuir blanc
 2|croye broyee
 2|croye blanche
-2|croutte
 2|crespe
 2|cornaline
-2|cordette
 2|corde despinette
-2|corde
 2|coral
 2|colle de retailles
 2|colle de retaille
@@ -541,26 +522,23 @@
 2|civette
 2|cirop
 2|cire a esbaucher
+2|cinabre
 2|chimolee
 2|chault
 2|charbon pile
 2|charbon commun
 2|charbon allume
 2|chandelle de rousine
-2|cendre de feugiere
 2|cartons
-2|cartels
 2|cailloux
 2|bruyeres
 2|brique pilee
 2|bourras
 2|bouquaran
-2|bol de levant
 2|bois dous
 2|bois de buy
 2|boeurre
 2|bled orbere
-2|bignetz
 2|betjoin
 2|beril
 2|batture
@@ -574,25 +552,18 @@
 2|areneuse
 2|areneulx
 2|ardoise calcinee
-2|ardille sabloneuse
-2|ametiste
 2|amalgame
 2|aigre
 2|agathe
-2|aes ustum broye
 2|Vin
-2|Verre de vitriers
 2|Vernis noir
 2|Topasse
 2|Saphir
 2|Sang de dragon
 2|Sable de mine de Thoulouse
 2|Rosette
-2|Or et argent moulu
 2|Letton
 2|Laque
-2|Jaulnes doeuf
-2|Jaulnes deouf
 2|Huile
 2|Gaulme
 2|Fil de fer
@@ -602,7 +573,7 @@
 2|Eau de vye
 2|Eau de sel armoniac
 2|Eau
-2|Drap damasse
+2|Crocum
 2|Colle de poisson
 2|Cire blanche
 2|Carton
@@ -656,6 +627,7 @@
 1|verre dore
 1|verre de vitre de lorraine
 1|verre de plomb
+1|verre de bien
 1|verre blanc
 1|vernys pers
 1|vernys Rouge
@@ -687,7 +659,6 @@
 1|vapeur deau fort
 1|usblac
 1|urine vieilhe
-1|urc
 1|unguent
 1|uille daspic
 1|tuyle
@@ -747,6 +718,7 @@
 1|terre Jaulne de potier
 1|terra emerita
 1|termentine
+1|teincture de guesde ou pastel
 1|tartre pulverise
 1|tartre de montpellier
 1|tartre crud
@@ -754,8 +726,10 @@
 1|tarte
 1|tanvre
 1|talc pulverise
+1|taincture verte
 1|taincture tanee
 1|taincture de bresil
+1|tainct
 1|taignent
 1|taffre
 1|tableau a huile
@@ -850,6 +824,7 @@
 1|sable maigre le recoit mieulx &amp; le suppe que le dense
 1|sable grossier
 1|sable doulx &amp; subtil
+1|sable des fondeurs
 1|sable de verre commun touteffois le cristallin
 1|sable de verre calcine
 1|sable de thoulouse
@@ -860,6 +835,8 @@
 1|sable blanc
 1|sabe
 1|ruta
+1|ruby balay
+1|rubi
 1|rousine purifiee
 1|rousine fondue fort delayee et claire
 1|rouille de fer
@@ -918,6 +895,7 @@
 1|pouldre decharbon
 1|pouldre de plastre
 1|pouldre de pierre ponce
+1|pouldre de marchasite
 1|pouldre de croye
 1|pouldre de charbon de saule
 1|pottee
@@ -1110,6 +1088,7 @@
 1|moele des cornes des boeufs
 1|mitraille
 1|minium peu broye
+1|millet
 1|miette de pain
 1|miette
 1|mie de gros pain
@@ -1119,6 +1098,7 @@
 1|metaulx alies
 1|metal qui est matiere de cloche
 1|metal gras
+1|metal duquel les cloches se font
 1|metal aigre vient mieulx que le gras
 1|mesle de verre
 1|meschant drap
@@ -1170,6 +1150,7 @@
 1|limaille destain et plomb
 1|limaille de talc ou despingle
 1|limaille de letton cuivre menue due lantimoyne du sublime Subtilement pulverises
+1|limaille de letton
 1|limaille de cuivre
 1|limaille dacier &amp; daiguilles
 1|limailhe de fer
@@ -1226,6 +1207,7 @@
 1|jaulne doeufs
 1|jaulne doeuf dur
 1|jaspe grumeleux
+1|jacinthe orientale
 1|jacinthe
 1|ivoyre brusle
 1|iraigne
@@ -1370,6 +1352,7 @@
 1|fleurs de pastel
 1|fleur seiche
 1|fleur ou foeille naturelle
+1|fleur de pastel
 1|fleur de genest
 1|fleur de forment
 1|fleur de buglose
@@ -1379,6 +1362,7 @@
 1|fin sable de gect
 1|fin or
 1|fin laitton
+1|fin estaing
 1|fin boli armeni
 1|fils de fer
 1|filoselle
@@ -1575,6 +1559,7 @@
 1|cuir du velours
 1|cuir dore
 1|croye de champaigne
+1|croutte
 1|croute de pin
 1|croustes de pain
 1|crostes de pain
@@ -1599,9 +1584,11 @@
 1|corne de lanternes
 1|corne de lanterne bien claire
 1|cornalines
+1|cordette
 1|cordes despinettes
 1|cordes de cistre
 1|cordelle
+1|corde
 1|corail blanc
 1|coquilles dhuistres calcinees
 1|coquilles
@@ -1683,6 +1670,7 @@
 1|cendree dazur
 1|cendree
 1|cendre de la cire
+1|cendre de feugiere
 1|cendre dazur
 1|cendre commune
 1|cendre blanche de tout boys
@@ -1705,6 +1693,8 @@
 1|carton simple
 1|carton commun
 1|cartes
+1|cartels
+1|cartel
 1|carreau
 1|caput mortuum
 1|capilli veneris
@@ -1749,6 +1739,7 @@
 1|bon sang de dragon
 1|bon alum de plume
 1|boli armeniae
+1|bol de levant
 1|bol armen
 1|boix douls
 1|bois noeuf
@@ -1764,6 +1755,7 @@
 1|blanc de ceruse
 1|bitum
 1|billon
+1|bignetz
 1|basane
 1|barres de fer
 1|barre
@@ -1808,6 +1800,7 @@
 1|argent allie est meilleur pour gecter que le fin
 1|ardoise subtillement pillee
 1|ardoise pilee
+1|ardille sabloneuse
 1|ardille fort doulce
 1|ardiles
 1|ardides
@@ -1821,6 +1814,7 @@
 1|anthimoyne
 1|ancre bien gommee
 1|amydon dangleterre
+1|ametiste
 1|amendes pelees
 1|amendes
 1|ambre transparent
@@ -1837,6 +1831,7 @@
 1|aloe fin comme sont les vieulx douzains
 1|aloe
 1|albastre pulverise
+1|aes ustum broye
 1|acier purifie
 1|acier non trempe
 1|acier fin
@@ -1844,6 +1839,7 @@
 1|aceto
 1|absinthe en pouldre
 1|Vinaigre
+1|Verre de vitriers
 1|Verny
 1|Vernis vert
 1|Vernis jaulne
@@ -1914,6 +1910,7 @@
 1|Orpiment
 1|Or mat
 1|Or fin
+1|Or et argent moulu
 1|Or bas dallemaigne
 1|Or Moulu
 1|Ocre jaulne
@@ -1932,6 +1929,8 @@
 1|Limailhe despaingle
 1|Lescaille de fer
 1|La jaulne
+1|Jaulnes doeuf
+1|Jaulnes deouf
 1|Jaspe contrefaict
 1|Jacinthe
 1|Huille daspic
@@ -1968,6 +1967,7 @@
 1|Escaille de fer
 1|Eaulx
 1|Eaue fort
+1|Drap damasse
 1|Dorer
 1|Dore
 1|Diamants

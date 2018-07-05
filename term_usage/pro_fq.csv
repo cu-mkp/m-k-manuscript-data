@@ -1,27 +1,26 @@
 27|orfevres
-19|fondeurs
+18|fondeurs
 15|painctres
-9|verriers
-8|pintiers
-7|vitriers
+8|verriers
+7|pintiers
 7|canonier
-7|Fondeur
 6|Painctre
+6|Fondeur
+5|vitriers
 5|potiers
-5|ouvrier
+4|ouvrier
 4|mareschaulx
 4|imprimeurs
 4|fourbisseur
 4|artiste
-4|Vitrier
 3|pionniers
 3|ouvriers
 3|orfevre
-3|moissonneur
 3|maistres
 3|canoniers
 3|artisans
 3|apotiquaires
+3|Vitrier
 2|vitrier
 2|tondeur
 2|scribes
@@ -30,15 +29,12 @@
 2|quiterniers
 2|pionners
 2|painctre
+2|moissonneur
 2|minerons
 2|menusiers
-2|inventeur
 2|imprimeur
 2|fondeurs de grand gect
-2|fondableseurs
-2|courroyeur
 2|courroieur
-2|bergiers
 2|aprentis
 2|apothiquaires
 2|Pintiers
@@ -95,6 +91,7 @@
 1|marchans
 1|larrons
 1|jardiners
+1|inventeur
 1|grossiers
 1|graveurs sur le fer
 1|gecteurs
@@ -108,6 +105,7 @@
 1|fondeurs dartiglerie &amp; de cloches
 1|fondeurs dartiglerie
 1|fondeur
+1|fondableseurs
 1|ferriers
 1|femmes
 1|febvre
@@ -118,6 +116,7 @@
 1|enleumineurs
 1|denlumineure
 1|cousteliers
+1|courroyeur
 1|corroyeurs
 1|cordonniers
 1|contreporteurs
@@ -135,6 +134,7 @@
 1|boutonniers aussi de verre
 1|blanchisseurs
 1|bimbalotiers
+1|bergiers
 1|barbiers
 1|ayes quelquun qui chante
 1|aultres qui travaillent aulx champs

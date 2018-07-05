@@ -1,7 +1,7 @@
 100|lb
 56|℥
-40|moictie
 39|quintal
+39|moictie
 34|once
 24|jours
 22|onces
@@ -14,12 +14,11 @@
 12|pas
 12|pans
 11|quintals
-8|moys
 8|grains
 8|deniers
 7|pars
+7|moys
 7|doigt
-6|lien
 5|quart
 5|nuict
 5|ligne
@@ -35,6 +34,7 @@
 3|pied
 3|pater noster
 3|parties
+3|lien
 3|lanterne
 3|hora
 3|goutte
@@ -45,7 +45,6 @@
 2|un bon quart dheure
 2|travers de doigt
 2|tierce partie
-2|tables
 2|suffisante quantite
 2|sepmaines
 2|seau
@@ -55,17 +54,13 @@
 2|poulsses
 2|poulces
 2|plusieurs jours
-2|plats
 2|petit doigt
 2|patenostres
 2|partie
-2|paniers
-2|panier
 2|pan de roy
 2|pan de montpellier
 2|moitie
 2|mois
-2|huictiesme partye
 2|gros
 2|grain
 2|gabions
@@ -101,6 +96,7 @@
 1|tout un jour
 1|tout lan
 1|tierce partye
+1|tables
 1|sepmaine
 1|seconde annee
 1|seau en heure
@@ -128,6 +124,7 @@
 1|plume dholande
 1|plume de cigne
 1|pleine escuelle a oreille
+1|plats
 1|pinte
 1|pieds de roy
 1|petites billes
@@ -136,6 +133,8 @@
 1|pauses
 1|part
 1|par moictie
+1|paniers
+1|panier
 1|palle
 1|pailles
 1|nuit
@@ -168,6 +167,7 @@
 1|iour
 1|infusions
 1|infusion
+1|huictiesme partye
 1|huict en huict jours
 1|horologe de sable
 1|hault de trois doits
