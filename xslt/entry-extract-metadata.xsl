@@ -10,7 +10,9 @@
         <xsl:value-of select="$fieldSep"/>
         <xsl:text>div_id</xsl:text>
         <xsl:value-of select="$fieldSep"/>
-        <xsl:text>heading</xsl:text>
+        <xsl:text>heading_tc</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:text>heading_tl</xsl:text>
         <xsl:value-of select="$fieldSep"/>
         <xsl:text>margin</xsl:text>
         <xsl:value-of select="$fieldSep"/>
