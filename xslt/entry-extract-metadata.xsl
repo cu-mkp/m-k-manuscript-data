@@ -5,17 +5,44 @@
     <xsl:param name="fieldSep"><xsl:text>	</xsl:text></xsl:param>
 
     <xsl:template match="/">
-        <!--        <xsl:text>folio</xsl:text>
-        <xsl:text>:</xsl:text>
+        <xsl:text>folio</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
         <xsl:text>div_id</xsl:text>
-        <xsl:text>:</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
         <xsl:text>margin</xsl:text>
-        <xsl:text>:</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
         <xsl:text>heading</xsl:text>
-        <xsl:text>:</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
         <xsl:text>continued</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:text>al</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:text>bp</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:text>cn</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:text>env</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:text>m</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:text>ms</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:text>pa</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:text>pl</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:text>pn</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:text>pro</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:text>sn</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:text>tl</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:text>md</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:text>mu</xsl:text>
         <xsl:text>&#10;</xsl:text>
--->
         <xsl:apply-templates select="//div"/>
 
     </xsl:template>
