@@ -16,6 +16,8 @@
         <xsl:value-of select="$fieldSep"/>
         <xsl:text>margin</xsl:text>
         <xsl:value-of select="$fieldSep"/>
+        <xsl:text>margin</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
         <xsl:text>continued</xsl:text>
         <xsl:value-of select="$fieldSep"/>
         <xsl:text>al</xsl:text>
