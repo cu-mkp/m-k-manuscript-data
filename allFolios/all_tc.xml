@@ -220,225 +220,6 @@ Flavius Vopiscus<la/>
 </div>
    </root>
    <root>
-      <page>001r</page>
-
-      <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f7.image</image>
-
-      <div>
-
-         <id>p001r_1</id>
-
-         <ab>
-
-M<exp>estr</exp>e Nicolas Coste a la <pl>rue de la heaumerie a limage
-s<exp>ainc</exp>t claude</pl> 
-            <figure>/</figure> mirouers<lb/>
-
-M<exp>estr</exp>e Jehan Cousin qui demeure au <pl>faulxbourgs de
-s<exp>ainc</exp>t germain</pl> scaict du<lb/>
-
-mestre<lb/>
-
-M<exp>estr</exp>e Jehan Garnier a la <pl>rue des escrivains</pl> pres
-<pl>s<exp>ainc</exp>t Jaques de la<lb/>
-
-boucherie</pl> 
-            <pro>courroyeur</pro> essayer <m>fleur de pastel</m>
-
-         </ab>
-
-      </div>
-
-      <div>
-
-         <id>p001r_2</id>
-
-         <ab>Le <pro>moissonneur</pro> laissant quelques espis nest repris<lb/>
-
-            <la>Sacra Eleusinæ deæ propalare nefas</la>
-            <lb/>
-
-Trompettes voy le livre des funerailles
-
-</ab>
-
-      </div>
-
-      <div>
-
-         <id>p001r_3</id>
-
-@
-
-<ab>
-            <la/>@Vuolfangus lazius<lb/>
-
-Petrus appianus Mathemat<exp>icus</exp>
-            <lb/>
-
-Ingolstadiensis Comment. <pl>urb. rom.</pl>
-         </ab>
-
-         <ab>
-            <la/>Hieronimo Ruscelli<lb/>
-
-Hermolaus barbarus<lb/>
-
-Angelius Bargæus de <al>aucupio</al> et <al>venatione</al>
-            <lb/>
-
-Nicolaus Damascenus</ab>
-
-         <ab>
-            <la/>Cares<exp>ariensis</exp>@ de rebus persarum<lb/>
-
-Isidorus</ab>
-
-         <ab>
-            <la/>Osorius@<lb/>
-
-Eupolemus historicus gentilis<lb/>
-
-qui de rebus davidis &amp; salomonis<lb/>
-
-scripsit</ab>
-
-         <ab>
-            <figure>-</figure>@Cathalogue des villes<lb/>
-
-Calendrier des <pro>bergiers</pro>
-            <lb/>
-
-Grammaire <pl>Italiene</pl>
-            <lb/>
-
-Arithmetique de Savonne<lb/>
-
-Instruction pour le faict des fina<exp>n</exp>ces<lb/>
-
-Questions Aenigmatiques<lb/>
-
-Des præceptes dagriculture<lb/>
-
-            <figure>+</figure>Le secret des finances a <pl>Lyon</pl>
-            <lb/>
-
-Synesius<lb/>
-
-Olaus Magnus<lb/>
-
-            <figure>+</figure>M<exp>estr</exp>e Bernard palissi <pro>inventeur</pro>
-des rustiques figulines du roy<lb/>
-
-et de la royne mere</ab>
-
-      </div>
-
-      <div>
-
-         <id>p001r_4</id>
-
-         <ab>
-            <la/>@<al>Aquatilium animalium</al> historiæ hypolito<lb/>
-
-salviano typhernate @ authore <pl>Romæ</pl> 1554</ab>
-
-      </div>
-
-      <div>
-
-         <id>p001r_5</id>
-
-         <ab>@Les Annales de <pl>Normandie</pl>
-         </ab>
-
-         <ab>@<la/>Alexander Aphrodisæus<lb/>
-
-Polydorus verg<exp>ilius</exp>
-            <lb/>
-
-Appianus<lb/>
-
-Athenæus<lb/>
-
-Pausanias<lb/>
-
-Statius Thebaidos<lb/>
-
-Servius in Aeneid<exp>em</exp>
-            <lb/>
-
-Macrobius<lb/>
-
-Aulus Gellius<lb/>
-
-Alexander ab Alex<exp>andria</exp>
-            <lb/>
-
-Festus<lb/>
-
-Nonius<lb/>
-
-Magius miscell<exp>anea</exp>
-            <lb/>
-
-Pollux onomast<exp>icon</exp>
-            <lb/>
-
-Higinus<lb/>
-
-Berosus<lb/>
-
-Suetonius<lb/>
-
-Valerius max<exp>imus</exp>
-            <lb/>
-
-Cornelius tacitu<exp>s</exp>
-            <lb/>
-
-Xenophon<lb/>
-
-Seneca<lb/>
-
-Dionisius Halicarnassensis<lb/>
-
-Sabellicus<lb/>
-
-Iulius Capitollin<exp>us</exp> @<add>cum permultis<lb/>aliis </add>
-            <lb/>
-
-Budæus<lb/>
-
-Spartianus<lb/>
-
-Blondus<lb/>
-
-Volaterranus<lb/>
-
-Herodotus<lb/>
-
-Paulus Manutius<lb/>
-
-Strabo<lb/>
-
-Iulius firmicus<lb/>
-
-Quintus Curtius<lb/>
-
-Dion<lb/>
-
-Cornelius Nepos<lb/>
-
-Flavius Vopiscus<la/>
-         </ab>
-
-@<ab>mons<exp>ieur</exp>
-         </ab>@
-
-</div>
-   </root>
-   <root>
       <page>001v</page>
 
       <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f8.image</image>
@@ -1063,7 +844,7 @@ comma<exp>n</exp>ce<lb/>
 a fremir mects dedans la <m>gomme de sandaraque en pouldre</m>
             <lb/>
 
-affin quil soict bien tost fondu Et remue tousjours jusque<lb/>
+affin quil soict bien tost fondu Et remue tousjours jusques<lb/>
 
 la <m>sandaraque</m> soict bien fondue sur foeu de <m>charbon</m>
 Ce<lb/>
@@ -1150,8 +931,8 @@ vieulx tableau qui est jaunastre<lb/>
 
 &amp; le vernir de nouveau</head>
 
-         <ab>Prens du <m>savon blanc</m> &amp; de la <m>cendree
-<tl>tamisee</tl>
+         <ab>Prens du <m>savon blanc</m> &amp; de la <m>cendre<del>e</del>
+               <tl>tamisee</tl>
             </m> &amp; le tout<lb/>
 
 destremper dans de l<m>eau</m> Et avecq une <tl>esponge</tl> prens
@@ -1473,7 +1254,7 @@ diverses formes</ab>
          <ab>Prens doncq moictie <m>cuivre de rosette</m> &amp; moictie
 <m>estain</m> doux<lb/>
 
-cest a dire fin qui n'a poinct encores servi Et les mects dans<lb/>
+cest a dire fin qui na poinct encores servi Et les mects dans<lb/>
 
 un creuseau &amp; premiere<exp>ment</exp> fais bien fondre le
 <m>cuivre</m> Et<lb/>
@@ -1491,9 +1272,9 @@ sorte</ab>
 
          <ab>Enchasses en un dans du <m>plastre</m> affin quil tienne ferme<lb/>
 
-&amp; puys mects laultre par dessus auecq du <m>sable</m> menu<lb/>
+&amp; puys mectes laultre par dessus auecq du <m>sable</m> menu<lb/>
 
-entre deulx &amp; frottes lung contre lautre soict cave ou plat<lb/>
+entre deulx &amp; frottes lung contre laultre soict cave ou plat<lb/>
 
 &amp; ainsi tu en poliras deux ensemble Et si tu les veulx<lb/>
 
@@ -1526,7 +1307,9 @@ infinite de gentilesses qui sembleroient magie Si quelquun<lb/>
 
 se veult voir derriere il fault mectre le mirouer concave<lb/>
 
-a terre sur son pied &amp; quil soict en panchant Apres regarder<lb/>
+a terre sur son pied &amp; quil soict en panchant Apres
+regarde<add>r</add>
+            <lb/>
 
 dun pas Mays si tu regardes de pres il te represente a lendroit<lb/>
 
@@ -1577,7 +1360,7 @@ table &amp; une chandelle dessus il te representera deulx<lb/>
 
 lumieres sur la table Pour voir ce qui se faict en une<lb/>
 
-rue ferme une fenestre ou le plus que tu en fermeras sera<lb/>
+rue Ferme une fenestre ou le plus que tu en fermeras sera<lb/>
 
 le meilleur Fais a celle dembas un trou gros comme le<lb/>
 
@@ -1831,8 +1614,8 @@ dun pot doeillets devant luy la rond &amp; continue Cest pour<lb/>
 
 faire canulles pour cappes qui se couppent comme dict est avecq<lb/>
 
-la <tl>lime</tl> Les <pro>boutonniers aussi de verre</pro> saident dudit
-<tl>fourneau</tl>
+la <tl>lime</tl> Les <pro>boutonniers aussi de verre</pro> saident
+dudict <tl>fourneau</tl>
          </ab>
 
          <figure>
@@ -1851,7 +1634,7 @@ une grille qui soubstient<lb/>
 
 le <m>charbon</m> allume<lb/>
 
-&amp; la <m>cendre</m> se vuies<lb/>
+&amp; la <m>cendre</m> se vuide<lb/>
 
 tournant du <tl>four</tl> ce<lb/>
 
@@ -1974,7 +1757,7 @@ puys y apliquer les stampes dorees dessus avecq <m>colle forte</m>
 <m>bois<lb/>
 
 de <pa>cormier</pa>
-            </m> grave &amp; taille qui veult espaigner Et apres
+            </m> grave &amp; taille qui veult espargner Et apres
 la<lb/>
 
 chose stampee se colore avecq les susdictes couleurs de
@@ -1986,7 +1769,7 @@ chose stampee se colore avecq les susdictes couleurs de
 tourmentine</m>
             <lb/>
 
-Mais au lieu que tu vouldras azurer pose tu <m>fer blanc</m> qui<lb/>
+Mais au lieu que tu vouldras azurer pose du <m>fer blanc</m> qui<lb/>
 
 est plus propre pour le fonds d<m>azur</m>
          </ab>
@@ -2278,158 +2061,6 @@ un mortier dedans charge de pouldre qui soict quasi comme<lb/>
 
 couche &amp; laultre droict puys bouche le trou et donne foeu</ab>
 
-      </div>
-   </root>
-   <root>
-      <page>008v</page>
-
-      <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f22.image</image>
-
-      <div>
-
-         <id>p008v_1</id>
-
-         <head>Polissement du <m>ruby balay</m>
-         </head>
-
-         <ab>Il ne se polist poinct avecq <m>tripoly</m> 
-            <del>may</del> comme les
-aultres<lb/>
-
-mays avecq de la <m>pouldre de marchasite</m> &amp; de
-l<m>huile</m>
-         </ab>
-      </div>
-
-      <div>
-
-         <id>p008v_2</id>
-
-         <head>
-            <m>Or et argent moulu</m>
-         </head>
-
-         <ab>Il fault calciner ton <m>or fin</m> avecq le
-<m>
-               <figure>☿</figure>
-            </m> puys fayre bien<lb/>
-
-essuyer ton amalgame &amp; fayre voler ledict <m>mercure</m> Apres<lb/>
-
-le broyer sur le <tl>
-               <m>mabre</m>
-            </tl> avecq <m>eau gommee</m> Quand a
-l<m>argent</m>
-            <lb/>
-
-il le fault prendre de depart &amp; le faire manger a l<m>eau
-fort</m>
-            <lb/>
-
-puys le retirer avecq la <tl>lame de <m>cuivre</m>
-            </tl> &amp; le laver
-bien fort<lb/>
-
-apres le mouldre avecq <m>eau gommee</m>
-         </ab>
-      </div>
-
-      <div>
-
-         <id>p008v_3</id>
-
-         <head>Polissement de <m>pierres</m>
-         </head>
-
-         <ab>Il y a pour ce faire trois <tl>roues une d<m>estain</m> de
-<m>plomb</m> &amp; de<lb/>
-
-               <m>cuivre fin</m>
-            </tl> sur la <del>cu</del> 
-            <tl>roue de
-<m>cuivre</m>
-            </tl> ne se taille <del>co</del> ou polist<lb/>
-
-communement que le <m>diamant</m> le <m>rubi</m> 
-            <m>saphir</m> &amp;
-<m>jacinthe orientale</m>
-            <lb/>
-
-La <tl>roue d<m>estain</m>
-            </tl> est pour les <m>pierres</m> plus tendres
-comme<lb/>
-
-l<m>esmeraulde</m> l<m>ametiste</m> &amp; aultres</ab>
-      </div>
-
-      <div>
-
-         <id>p008v_4</id>
-
-         <head>M<del>
-               <ill/>
-            </del>ixtion des <pro>pintiers</pro>
-         </head>
-
-         <ab>Pourceque parmy le <m>fin estaing</m> ilz meslent bien souvent
-la<lb/>
-
-            <ms>moictie</ms> de <m>plomb</m> qui rend l<m>estaing</m> sourd pour
-corriger<lb/>
-
-cela ilz meslent de la <m>limaille de letton</m> parmy pour le<lb/>
-
-rendre <sn>sonnant</sn>
-         </ab>
-      </div>
-
-      <div>
-
-         <id>p008v_5</id>
-
-         <head>Amalgame parfaict</head>
-
-         <ab>Ayes un <m>grais</m> le plus delie que tu pourras &amp; le cave<lb/>
-
-au milieu Mectes y la <ms>huictiesme partye</ms> de
-<figure>
-               <m>☿</m>
-            </figure> 
-            <del>au</del> &amp; la<lb/>
-
-dedans frottes &amp; uses y adjoustant de l<m>eau</m> 
-            <m>urc</m>
-            <figure>
-               <m>☾</m>
-            </figure> ou <figure>
-               <m>☼</m>
-            </figure>
-            <lb/>
-
-jusques a ce que la matiere viendra comme paste &amp; encores plus<lb/>
-
-dur Apres si vous voules faictes le manger avecq de bon<lb/>
-
-            <m>eau fort</m> si cest <figure>
-               <m>☾</m>
-            </figure> ou
-<figure>
-               <m>♀</m>
-            </figure> puys refondre layant retire<lb/>
-
-comme vous scaves La <figure>
-               <m>☾</m>
-            </figure> aura taincture et
-laissera esta<exp>n</exp>t<lb/>
-
-fondue quelque grain de <figure>
-               <m>☼</m>
-            </figure> &amp; le
-<figure>
-               <m>♀</m>
-            </figure> sera fort beau &amp; naura<lb/>
-
-presque poinct de chappe</ab>
       </div>
    </root>
    <root>
@@ -3037,7 +2668,7 @@ donne taincture violette selon la quantite que tu en mesles</ab>
          <ab>Elle se faict fort subtille &amp; sans estre subgecte a la
 <m>rouille</m> &amp; par sa pesanteur<lb/>
 
-coulante prenante du <m>plomb</m> i lb et le faire fondre et lescumer
+coulante prenant du <m>plomb</m> i lb et le faire fondre et lescumer
 et<lb/>
 
 purifier de sa crasse puys verse dedans quattre <figure>℥</figure> de
@@ -3102,7 +2733,7 @@ ceste couche qui sera bien tost seiche tu pourras paindre a<lb/>
             <m>huile</m> qui adoulcira encores davantage la couche qui te<lb/>
 
 peult aussi servir a faire assiete d<m>or</m> L<m>eau dalum</m>
-gardee<lb/>
+garde<lb/>
 
 aussi l<m>huile</m> de courir</ab>
 
@@ -3642,13 +3273,13 @@ mectre en besoigne Il le fault broyer subtillem<exp>ent</exp> sur le
 Apres avoyr præpare ton cave de <m>soufre</m> ou aultre &amp;
 lavoir<lb/>
 
-            <m>huile</m> &amp; entourne dun siecle destrempe non trop espes ton
+            <m>huile</m> &amp; entourne dun cercle destrempe non trop espes ton
 <m>plastre</m> en<lb/>
 
             <m>eau</m> &amp; desmelle bien avecq le <tl>
                <bp>doigt</bp>
             </tl> et sil
-faict des pustulles jectes y dessus<lb/>
+faict des pustules jectes y dessus<lb/>
 
 de la <m>pouldre dudict plastre</m> &amp; <del>
                <ill/>
@@ -3664,7 +3295,7 @@ le <tl>
 
             <figure>+</figure> quil ne fasse plus<lb/>
 
-de pustulles puys<lb/>
+de pustules puys<lb/>
 
 gecte &amp; saulpoudre<lb/>
 
@@ -3773,7 +3404,7 @@ volonte de luy donner une couche d<m>arsenic</m> broye sur le
             </tl>
             <lb/>
 
-Toutesfois je lexperimentay sans iceluy Et mis la chose susdicte<lb/>
+Touteffois je lexperimentay sans iceluy Et mis la chose susdicte<lb/>
 
             <m>enilanroc</m> dans une petite <tl>cassete de <m>fer</m>
             </tl> au feu
@@ -4001,7 +3632,7 @@ la<lb/>
             <m>cendree dazur</m> a <m>huile</m>
          </head>
 
-         <ab>Celle qui samoncelle en pettites mattes et est grumeleuse<lb/>
+         <ab>Celle qui samoncelle en pettites mottes et est grumeleuse<lb/>
 
 est la meilleure car elle est plus subtille celle qui est aussy
 fort<lb/>
@@ -4033,7 +3664,7 @@ est entiere elle sera unie &amp; dune couleur
          <head>Blanchiment de <m>perles</m>
          </head>
 
-         <ab>Quand elles ont este apliquees enbroderie sur quelque<lb/>
+         <ab>Quand elles ont este apliquees en broderie sur quelque<lb/>
 
 acoustrement elles sont grasses &amp; se nettoyent en <m>eau de
 savon</m>
@@ -4170,8 +3801,8 @@ bord diceulx dune part &amp; daultre de grands <del>ch</del>
 pour apuyer des tables entre lesquelles il gectent la <m>terre</m>
 faisant<lb/>
 
-chasque couche dun pied ou environ lentremeslant
-comme<figure>S.S.S</figure> de<lb/>
+chasque couche dun pied ou environ lentremeslant comme
+<figure>S.S.S</figure> de<lb/>
 
 branches de <m>
                <pa>bruyeres</pa>
@@ -4209,7 +3840,7 @@ jusques a ce que la muraille est parfaicte laquelle on couvre de<lb/>
             <m>
                <pa>bruyeres</pa>
             </m> &amp; puys de <m>terre</m> Aulcuns <del>m</del>
-entremeslent en la dicte muraille<lb/>
+entremeslent en ladicte muraille<lb/>
 
 des rengs de <m>brique</m> Ils font aussi la muraille en talluant<lb/>
 
@@ -4269,140 +3900,6 @@ plaira puys tu faulfileras de la <m>fisselle</m> ou plus grosse
 <m>cordette</m>
             <lb/>
 
-sur le poncis et le boutte en la <m>teincture de guesde ou pastel</m>
-&amp; il<lb/>
-
-se fera vert hormis ce qui est dessoubs la <m>fisselle</m> qui
-demourera<lb/>
-
-jaulne a cause que la <m>taincture verte</m> ny aura poinct penetre
-Ainsy<lb/>
-
-pourras tu fayre des aultres couleurs Et au lieu de <m>corde</m> ou
-<m>fisselle</m>
-            <lb/>
-
-adjoustes sur la premiere couleur<del>s</del> des pieces de meschant
-<m>drap</m> taillees<lb/>
-
-en forme de moresque En ceste sorte tu auras de la broderie abon<lb/>
-
-marche</ab>
-
-      </div>
-
-      <div>
-         <id>p015r_2</id>
-         <head>Gecter en fonte</head>
-
-         <ab>On gecte les chandeliers et petits ouvraiges en <tl>chassis</tl>
-avecq<lb/>
-
-du sable Et apres avoir emprainct louvraige on le saulpouldre<lb/>
-
-de <m>farine</m> affin de mieulx faire courre la<del>e metal</del>
-            <m>cuivre</m> ou <m>letton</m>
-            <lb/>
-
-Quand le sable a servi un <ms>moys</ms> il en fault prendre de
-recent<lb/>
-
-pourceque celuy qui a servy se recuisant <del>au
-feu</del>
-            <figure>+</figure> se desseiche &amp;<lb/>
-
-perd sa lyaison Touteffois il sert a mesler parmy le nouveau<lb/>
-
-car il faict que la besoigne ne soufle pas tant On gecte en
-<m>terre</m>
-            <lb/>
-
-les grands ouvraiges comme artiglerie cloches &amp; choses
-semblables<lb/>
-
-&amp; le <m>cuivre</m> gecte en <m>terre</m> ne faict pas tant de chappe
-et est plus<lb/>
-
-blanc que celuy qui est gecte en sable La <m>terre</m> est <m>ardille
-sabloneuse</m>
-            <lb/>
-
-meslee de <m>fiente de <al>cheval</al>
-            </m> &amp; de <m>bourre</m> Celle
-qui <del>est</del> a servi a la fonte<lb/>
-
-qui est noire cuicte &amp; comme bruslee se <del>gecte</del> mesle parmy
-les <m>sables<lb/>
-
-artificiels</m> &amp; est fort bonne / <add>pour adoulcir &amp; faire
-courre le <m>cuivre</m> on y<lb/>
-
-gecte esta<exp>n</exp>t fondu un peu de <m>plomb</m> qui ne salie pas
-mays se trouve a la<lb/>
-
-superficie du gect</add>
-         </ab>
-
-         <ab>
-            <margin>left-middle</margin>
-            <figure>+</figure>
-            <lb/>
-
-a la chaleur<lb/>
-
-du <m>metal</m> fondu</ab>
-
-      </div>
-
-      <div>
-         <id>p015r_3</id>
-         <head>Gecter <m>or</m> et <m>argent</m>
-         </head>
-
-         <ab>Il fault que le sable soict de chose fort seiche &amp; aride &amp;
-bien<lb/>
-
-recuite au <tl>chassis</tl> car si elle estoit humide comme le <m>sable
-des<lb/>
-
-               <pro>fondeurs</pro>
-            </m> l<m>or</m> ou l<m>argent</m> saulteroient &amp;
-porteroient dommaige Il est<lb/>
-
-besoing aussy que la <m>terre</m> suppe le <m>metal</m> Car l<m>or</m>
-ou l<m>argent</m> gecte<lb/>
-
-            <del>est</del> se rend fort spongieulx cest pourquoy il le fault
-rebattre aultrement<lb/>
-
-il est frangible co<exp>mm</exp>e on voict aulx manches de
-cuilleres</ab>
-
-      </div>
-   </root>
-   <root>
-      <page>015r</page>
-
-      <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f35.image</image>
-
-      <div>
-         <id>p015r_1</id>
-         <head>
-            <m>Drap damasse</m>
-         </head>
-
-         <ab>Tu peulx damasser un <m>drap</m> de deux differentes couleurs<lb/>
-
-et imiter la broderie sans adjouster aulcune chose a iceluy en
-ceste<lb/>
-
-sorte Co<exp>mm</exp>e il est <m>tainct</m> en jaulne ponce dessus tel
-patron quil te<lb/>
-
-plaira puys tu faulfileras de la <m>fisselle</m> ou plus grosse
-<m>cordette</m>
-            <lb/>
-
 sur le poncis et le boutte en la <m>teincture de <pa>guesde</pa> ou
 <pa>pastel</pa>
             </m> &amp; il<lb/>
@@ -4420,7 +3917,7 @@ pourras tu fayre des aultres couleurs Et au lieu de <m>corde</m> ou
 adjoustes sur la premiere couleur<del>s</del> des pieces de <m>meschant
 drap</m> taillees<lb/>
 
-en forme de moresque En ceste sorte tu auras de la broderie abon<lb/>
+en forme de moresque En ceste sorte tu auras de la broderie a bon<lb/>
 
 marche</ab>
 
@@ -4707,7 +4204,7 @@ de gueule de four<lb/>
 
 en quarre contient<lb/>
 
-            <ms>quintal</ms> &amp; demy<lb/>
+un <ms>quintal</ms> &amp; demy<lb/>
 
 &amp; le <ms>pan</ms> du <tl>fourneau</tl>
             <lb/>
@@ -5055,7 +4552,7 @@ deux balles &amp; un quart de balle Le devant ne porte que<lb/>
 
 lespesseur dune balle &amp; la troisiesme partye dune balle Sa<lb/>
 
-charge est semblable a celle des plus grands sçavoir de 20
+charge est semblable a celle des plus grands scavoir de xx
 <ms>lb</ms>
             <lb/>
 
@@ -5483,7 +4980,7 @@ aigre &amp; le grain enleve<lb/>
 
 du burin se trouve mesle de<lb/>
 
-iaulne &amp; de blanc</ab>
+jaulne &amp; de blanc</ab>
 
          <cont/>
 
@@ -5785,7 +5282,7 @@ toutes pieces despuys<lb/>
 
 le canon<lb/>
 
-iusques a la<lb/>
+jusques a la<lb/>
 
 piece de quattre<lb/>
 
@@ -5875,8 +5372,7 @@ pour rompre un reng de cavallerie</ab>
 
          <ab>
 
-Le faulconneau poise 4 <ms>quintal</ms>s ha de long x
-<ms>pan</ms>xs<lb/>
+Le faulconneau poise 4 <ms>quintal</ms>s ha de long x <ms>pan</ms>s<lb/>
 
 sa balle poise une lb &amp; un quart sa charge est demy lb<lb/>
 
@@ -5910,7 +5406,7 @@ assigie sont canons colevrines bastardes moyennes &amp; pieces</ab>
 
 de campaigne Le faulconeau se charge avecq lanterne<lb/>
 
-Et ne luy donne lon communem<exp>ent</exp> qune lanterne<lb/>
+Et ne luy donne lon communem<exp>ent</exp> quune lanterne<lb/>
 
 Aussy y a il daultres faulconeaulx de trois <ms>quintal</ms>s<lb/>
 
@@ -6216,16 +5712,14 @@ bien qua la droicte</head>
 Escripts le mieulx que tu pourras avecq <m>ancre bien gommee</m>
             <lb/>
 
-sur aultant de petits <m>cartels</m> que tu vouldras <del>
-               <ill/>
-            </del>
+sur aultant de petits <m>cartels</m> que tu vouldras <del>in</del>
 escripre de<lb/>
 
 mots &amp; estant chasque le<exp>tt</exp>re bien chargee d<m>ancre</m>
 pose sur ton<lb/>
 
             <m>papier</m> &amp; frotte avecq une <tl>dent</tl> le dos du
-<m>cartels</m>
+<m>cartel</m>
          </ab>
 
       </div>
@@ -6295,7 +5789,7 @@ ung cedar bien delie ce faict Il fault detremper la <m>farine</m> avec
 du<lb/>
 
             <m>beurre</m> frais fondu et du <m>laict</m> Et quil y ait aultant dung
-comme dautre<lb/>
+comme daultre<lb/>
 
 de maniere quil soit fort clair comme <m>pate</m> po<exp>ur</exp> faire
 <m>bignetz</m> Et y<lb/>
@@ -6315,11 +5809,11 @@ Il fault apres avoir des <tl>moulle</tl>s Et fault quil soient de
 <m>terre</m>
             <lb/>
 
-de la facon dung fond de chappeau a la catholicque mais Il<lb/>
+de la facon dung fons de chappeau a la catholicque mais Il<lb/>
 
 fault quil soit ouvert par les deux boutz Et puis ayant faict<lb/>
 
-bon feu vous nettoyeres la place du fouyé ou vous voules<lb/>
+bon feu vous nettoyeres la place du fouye ou vous voules<lb/>
 
 mettre voz <m>millas</m> Et puis vous prandres voz <tl>moulle</tl>s et
 les gresseres<lb/>
@@ -6345,171 +5839,7 @@ par dessus puis ayant faict cela vous mettres ung peu de
 <m>foin</m>
             <lb/>
 
-sur le<exp>dict</exp> 
-            <tl>couvercle</tl> Et force rachaulx Et y feres
-bon feu<lb/>
-
-tout au tour de <m>charbon</m> cela faict vous en descouvrires<lb/>
-
-ung de la a peu de temps Et verres quant Il sera cuit Il<lb/>
-
-faudra quil soit dur</ab>
-
-      </div>
-
-      <div>
-
-         <id>p020r_2</id>
-
-         <head>@<pro>Vitrier</pro>
-         </head>
-
-         <ab>
-
-Le <m>verre de <pl>lorraine</pl>
-            </m> est plus plain &amp; plus uny que
-le <m>verre<lb/>
-
-de plat</m> et plus fort &amp; de plus de duree Mays
-co<exp>mmun</exp>ement il est<lb/>
-
-tasche par venes co<exp>mm</exp>e lignes droictes co<exp>mm</exp>e
-tanees ce qui advient<lb/>
-
-pourceque les <pro>verriers</pro> layant faict le mectent tout
-chault<lb/>
-
-sur la <m>
-               <pa>paille</pa>
-            </m> qui le tache de ceste sorte Cela
-neantmoings<lb/>
-
-sefface avecq du <m>vernis</m> &amp; du <m>sel</m> &amp; aultres
-<m>drogues</m> que les<lb/>
-
-            <pro>vitriers</pro> y mettent Le <m>verre de <pl>lorraine</pl>
-            </m> se
-vent a <ms>lien</ms> &amp;<lb/>
-
-a chasque <ms>lien</ms> il y a trois <ms>tables</ms> le <ms>lien</ms>
-coste co<exp>mmun</exp>ement x <cn>s<exp>ous</exp>
-            </cn>
-            <lb/>
-
-Le <m>verre de plat</m> se <del>vent en</del> faict en <pl>France</pl>
-il est plus blanc &amp; plus clair<lb/>
-
-mays il nest pas aussy de telle duree que le <pl>lorrain</pl> Il est
-aussy co<exp>mmun</exp>ement<lb/>
-
-envelle &amp; pour ceste occasion il est meilleur a faire petites
-losanges que<lb/>
-
-grandes pieces quarrees en forme de chassis pourceque elles ne se
-peuvent bonnem<exp>ent</exp>
-            <lb/>
-
-bien assoir uniment</ab>
-
-         <ab>
-
-            <margin>left-bottom</margin>
-
-Le <m>verre de plat</m>
-            <lb/>
-
-se vent a <ms>paniers</ms>
-            <lb/>
-
-Le <ms>panier</ms> contient<lb/>
-
-24 <ms>plats</ms> qui se<lb/>
-
-vendent communem<exp>ent</exp>
-            <lb/>
-
-x ou douze <cn>lb</cn>
-         </ab>
-
-      </div>
-   </root>
-   <root>
-      <page>020r</page>
-
-      <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f45.image</image>
-
-      <div>
-
-         <id>p020r_1</id>
-
-         <head>@Pour faire les <m>millas</m>
-         </head>
-
-         <ab>
-
-Il fault faire <tl>fraiser</tl> du <m>
-               <pa>millet</pa>
-            </m>
-po<exp>ur</exp> en tirer la <m>croutte</m> Et puis le<lb/>
-
-netoyeres bien apres Il fault le remouldre bien delie Et le passer
-par<lb/>
-
-ung cedar bien delie ce faict Il fault detremper la <m>farine</m> avec
-du<lb/>
-
-            <m>beurre</m> frais fondu et du <m>laict</m> Et quil y ait aultant dung
-comme dautre<lb/>
-
-de maniere quil soit fort clair comme <m>pate</m> po<exp>ur</exp> faire
-<m>bignetz</m> Et y<lb/>
-
-mettres des <m>Jaulnes doeuf</m> selon la quantite de la <m>farine</m>
-de sorte<lb/>
-
-quil revienne deux <m>Jaulnes deouf</m> po<exp>ur</exp> chaique
-<m>millas</m> puis y mettres<lb/>
-
-du <m>safran</m> si vous voules po<exp>ur</exp> leur donner ung peu de
-couleur</ab>
-
-         <ab>
-
-Il fault apres avoir des <tl>moulle</tl>s Et fault quil soient de
-<m>terre</m>
-            <lb/>
-
-de la facon dung fond de chappeau a la catholicque mais Il<lb/>
-
-fault quil soit ouvert par les deux boutz Et puis ayant faict<lb/>
-
-bon feu vous nettoyeres la place du fouyé ou vous voules<lb/>
-
-mettre voz <m>millas</m> Et puis vous prandres voz <tl>moulle</tl>s et
-les gresseres<lb/>
-
-bien fort affin que la <m>pate</m> ne se tienne pas quant elle sera
-cuitte<lb/>
-
-ayant faict cela vous mettres voz d<exp>ictz</exp> 
-            <tl>moule</tl>s sur
-la <tl>place du fouye</tl>
-            <lb/>
-
-bien nettoyee Et mettres ung peu de <m>farine</m> au fondz Et les<lb/>
-
-emplires de la <m>pate</m> cy dessus dicte apres vous couvrires les<lb/>
-
-dictz <tl>moule</tl>s dung <tl>couvercle</tl> qui sera faict comme le
-<tl>moulle</tl> mais<lb/>
-
-Il fault quil soit plus grand Et quil ne soit pas ouvert<lb/>
-
-par dessus puis ayant faict cela vous mettres ung peu de
-<m>foin</m>
-            <lb/>
-
-sur le<exp>dict</exp> 
+sur le d<exp>ict</exp> 
             <tl>couvercle</tl> Et force rachaulx Et y feres
 bon feu<lb/>
 
@@ -6650,7 +5980,7 @@ l<m>escume du vin</m> qui<lb/>
 
 ne provient que de vapeur &amp; vent Et tu verras quincontinent<lb/>
 
-lescume s'esperdra Si tu exprimes aussi du <m>just</m> contre la<lb/>
+lescume sesperdra Si tu exprimes aussi du <m>just</m> contre la<lb/>
 
             <tl>chandelle</tl> elle ardra dadvantaige
 
@@ -9796,7 +9126,7 @@ pas a ses<lb/>
 
             </figure>Pour rallumer une chandelle estainte<lb/>
 
-entre les mains sans soufler</head>
+entre les <bp>mains</bp> sans soufler</head>
 
          <figure>
 
@@ -9816,12 +9146,12 @@ entre les mains sans soufler</head>
 
          </figure>
 
-         <ab>Ayes un petit <tl>baston</tl> d<m>ouzier</m> 
-            <del>entre</del> bien
-sec et en couppe une petite piece<lb/>
+         <ab>Ayes un petit <tl>baston d<m>ouzier</m> 
+               <del>entre</del> bien
+sec</tl> et en couppe une petite piece<lb/>
 
 comme un curedant &amp; <del>la m</del> mects lun bout entre
-l<bp>indice</bp> &amp; le grand <bp>doigt</bp>
+l<bp>indice</bp> &amp; le <bp>grand doigt</bp>
             <lb/>
 
 et enlasse les deulx <bp>mains</bp> les <bp>doigts</bp> bien ioincts et
@@ -9865,7 +9195,9 @@ secrettem<exp>ent</exp>
 quil aura une piece d<m>argent</m> au <bp>fro<exp>n</exp>t</bp>
          </head>
 
-         <ab>Ayes un gecton ou piece d<m>argent</m> et la mouille et te la<lb/>
+         <ab>Ayes un <tl>gecton</tl> ou <tl>piece d<m>argent</m>
+            </tl> et la
+mouille et te la<lb/>
 
 fais tenir contre le <bp>front</bp> Puys dis a
 l<pro>assistant</pro>
@@ -10616,159 +9948,6 @@ levant lestuy en pressant tu enleveras quand &amp; quand la boule<lb/>
 en sa place un de pour les dames a qui le cul faict mal<lb/>
 
 cest a dire le cul de lesguille</ab>
-
-      </div>
-   </root>
-   <root>
-      <page>036v</page>
-
-      <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f78.image</image>
-
-      <div>
-
-         <id>p036v_1</id>
-
-         <head>
-            <pro>Fondeur</pro>
-         </head>
-
-         <ab>Les pots de cuisine se font bons pour ne donner poinct<lb/>
-
-            <sn>mauvays goust a la viande</sn> avecq du mesme <m>metal duquel<lb/>
-
-les cloches se font</m> Il est vray que pour les rendre plus<lb/>
-
-vendables les <pro>fond<del>ables</del>
-               <add>eurs</add>
-            </pro> y meslent
-plus de <m>letton</m> pourcequilz<lb/>
-
-sont plus jaulnes Mays le <m>letton</m> de soymesme &amp; a son
-seul<lb/>
-
-attouchem<exp>ent</exp> est <sn>puant</sn> &amp; de <sn>mauvaise
-odeur</sn>
-         </ab>
-
-         <ab>Le <m>letton</m> ne perd point ou bien peu sa <m>calamine</m> au
-<tl>four a vent</tl>
-            <lb/>
-
-quand il se fond au <tl>creuset</tl> ne gueres au <tl>four a
-<m>boys</m>
-            </tl> Mays<lb/>
-
-bien au <tl>four a souflets</tl> pourceque les <tl>souflets</tl>
-donnent<lb/>
-
-feu de chasse</ab>
-
-      </div>
-
-      <div>
-
-         <id>p036v_2</id>
-
-         <head>
-            <tl>Four a vent</tl>
-         </head>
-
-         <ab>Il fault quil soict plus estroit a la gueule quau fonds<lb/>
-
-Et cest asses que le <tl>creuset</tl> puisse entrer dedans &amp; quil
-y<lb/>
-
-aye espasse pour le retirer &amp; prendre avecq les
-<tl>tenailles</tl>
-         </ab>
-
-      </div>
-
-      <div>
-
-         <id>p036v_3</id>
-
-         <head>
-            <m>Verre de <pro>vitriers</pro>
-            </m>
-         </head>
-
-         <ab>On dict quen <pl>lorraine</pl> &amp; en <pl>flandres</pl> le
-<m>verre de bien</m>
-            <lb/>
-
-se faict de <m>cendre de <pa>feugiere</pa>
-            </m> &amp; de <m>caillous</m>
-Et que<lb/>
-
-premierement ilz souflent une longue vessie laquelle<lb/>
-
-un aultre <pro>ouvrier</pro> avecq de longues forces fend &amp;
-couppe<lb/>
-
-tout du long Puys ayant pose ceste longue vessie fendue<lb/>
-
-sur une <tl>
-               <m>pierre</m>
-            </tl> ou <tl>platene</tl> large qui est dans le
-<tl>four</tl>
-            <lb/>
-
-un peu moings chault que de la fonte Elle se laisse<lb/>
-
-dilater Et encores oultre ce ilz laplanissent avecq une<lb/>
-
-longue &amp; grosse <tl>verge de <m>fer</m>
-            </tl> ronde Puys la
-retirent<lb/>
-
-au <tl>four</tl> a recuire Il sen faict de mesme en
-<pl>angleterre</pl>
-            <lb/>
-
-de plus beau Aupres de <pl>rouan</pl> en <pl>France</pl> Le <m>verre
-de<lb/>
-
-plat</m> se faict avecq <del>sel de</del> 
-            <m>
-               <pa>salicor</pa>
-            </m> &amp;
-<m>caillous</m> qui est plus<lb/>
-
-blanc &amp; plus tendre que cestuy de <pl>lorraine</pl> Car le
-<m>verre<lb/>
-
-de plat</m> se peult fondre a la <tl>chandelle</tl> &amp; non pas cestuy
-de<lb/>
-
-            <pl>lorraine</pl> Celuy de plat se soufle en longue vessie de<lb/>
-
-laquelle un aultre coupe le bout puys le soufleur en<lb/>
-
-tournant laplatise &amp; en touchant sur un <tl>plan</tl> qui est a
-terre<lb/>
-
-            <del>A</del> puys la met a recuire Ainsy le milieu par ou elle se<lb/>
-
-commance demeure tousjours</ab>
-
-         <ab>
-            <margin>left-middle</margin>
-
-Le <m>verre</m> se peult<lb/>
-
-refendre avecq la<lb/>
-
-lumiere dune <tl>chandelle</tl>
-            <lb/>
-
-en mouillant Mays<lb/>
-
-non pas si justement<lb/>
-
-quavecq le <tl>
-               <m>fer</m> chault</tl>
-         </ab>
 
       </div>
    </root>
@@ -29128,7 +28307,7 @@ adjoustent pour le colorer un peu de <m>sang de <al>dragon</al>
             </m> pour
 le faire<lb/>
 
-rougeastre Et aultres de la <m>terra merita</m> pour iaulne</ab>
+rougeastre Et aultres de la <m>terra merita</m> pour jaulne</ab>
 
       </div>
 
@@ -53971,162 +53150,6 @@ elle ne prend pas aysem<x>
 quil seroit bon den mectre parmy l<m>eau</m> dans laquelle tu<lb/>
 
 destrempes ton sable</ab>
-
-      </div>
-   </root>
-   <root>
-      <page>163v</page>
-
-      <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f332.image</image>
-
-      <div>
-
-         <id>p163v_1</id>
-
-         <head>
-            <al>Escrevisse</al>
-         </head>
-
-         <ab>Volontiers les corniches pelues quelle ha dessoubs<lb/>
-
-le bec <del>coe</del> viennent grumeleuses &amp; mal nettes
-pourceque<lb/>
-
-estant brusler elles sont difficiles a oster &amp; nettoyer<lb/>
-
-leur <m>cendre</m> qui demeurant dans le <tl>moule</tl> 
-            <del>le</del>
-empeschent<lb/>
-
-que le <m>metal</m> ny peult bien courir &amp; pour ceste ocasion<lb/>
-
-on faict au bout dicelles un petit gect de fil de <m>cire</m>
-            <lb/>
-
-tant pour les soubstenir que pour soufler la dedans<lb/>
-
-la <m>cendre</m> qui empesche</ab>
-
-         <ab>
-            <margin>left-top</margin>
-
-Nespargne point<lb/>
-
-les <tl>pointes</tl> pour en<lb/>
-
-mectre non seulem<x>
-               <exp>ent</exp>
-            </x>
-            <lb/>
-
-au milieu du corps<lb/>
-
-Mays au pates<lb/>
-
-grosses Et a la<lb/>
-
-queue deulx ou trois<lb/>
-
-selon le plant que<lb/>
-
-tu luy vouldras<lb/>
-
-donnas</ab>
-
-      </div>
-
-      <div>
-
-         <id>p163v_2</id>
-
-         <head>
-            <m>
-               <la>Crocum</la>
-            </m>
-         </head>
-
-         <ab>Celuy qui est rouille de soy mesme estant arrouse<lb/>
-
-d<m>eau sel</m> ou <m>vinaigre</m> ou <m>urine</m> et puys
-<add>fort</add> deseche<lb/>
-
-            <add>et rougy au foeu</add> @ est fort rouge broye sur le
-<tl>
-               <m>porphire</m>
-            </tl> et est de<lb/>
-
-couleur de <m>bol de <pl>levant</pl>
-            </m> &amp; aprochant du
-<m>minium</m>
-            <lb/>
-
-Mays celuy qui est arrouse d<m>urine</m> &amp; deseche<lb/>
-
-adquiert plus haulte taincture &amp; aproche a l<m>
-               <la>aes
-ustum</la>
-               <lb/>
-
-broye</m> ou au <m>vermeillon</m> Mays le premier
-subtilem<x>
-               <exp>ent</exp>
-            </x>
-            <lb/>
-
-broye adquiert une vive couleur rouge <del>dans le</del>
-co<exp>mm</exp>e<lb/>
-
-            <m>cinabre</m> dans l<m>eau de vye</m> Et les uns et les aultres<lb/>
-
-prepares co<exp>mm</exp>e dict est et subtilies &amp; rendus fort<lb/>
-
-chaults rendent une fumee rouge co<exp>mm</exp>e un esprit<lb/>
-
-volatil si estants ainsy chaults et subtils on gecte<lb/>
-
-dessus du <m>vinaigre</m> 
-            <m>urine</m> ou <m>eau de vye</m>
-L<m>urine</m>
-            <lb/>
-
-donne beaucoup de taincture Et l<m>eau de vye</m> aussy</ab>
-
-         <figure>
-
-            <id>fig_p163v_1</id>
-
-            <margin>left-middle</margin>
-
-            <link>https://drive.google.com/open?id=0B9-oNrvWdlO5anJvd0FQQ3BkRFE</link>
-
-         </figure>
-
-      </div>
-
-      <div>
-
-         <id>p163v_3</id>
-
-         <head>Reparer</head>
-
-         <ab>Il est mieulx de reparer peu avecq le <tl>burin</tl> apelle
-<tl>onglet</tl>
-            <lb/>
-
-ou avecq celuy quon apelle <tl>chaple</tl> ou quelque petite
-<tl>lime</tl>
-            <lb/>
-
-Mays sur tout evite de toucher a ton ouvrage ains
-seulem<exp>ent</exp>
-            <lb/>
-
-a la bave ou grumeleure qui sera survenue au gect Et en<lb/>
-
-reparant mouille &amp; frotte avecq tes petites <tl>sayettes de
-<al>pourceau</al>
-            </tl>
-         </ab>
 
       </div>
    </root>
