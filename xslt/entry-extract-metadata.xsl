@@ -3,15 +3,16 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
     <xsl:output method="text" encoding="UTF-8"/>
     <xsl:param name="fieldSep"><xsl:text>	</xsl:text></xsl:param>
+    <xsl:param name="tlFile"><xsl:text>file:///Users/terry/Github/ms-xml/allFolios/all_tl.xml</xsl:text></xsl:param>
 
     <xsl:template match="/">
         <xsl:text>folio</xsl:text>
         <xsl:value-of select="$fieldSep"/>
         <xsl:text>div_id</xsl:text>
         <xsl:value-of select="$fieldSep"/>
-        <xsl:text>margin</xsl:text>
-        <xsl:value-of select="$fieldSep"/>
         <xsl:text>heading</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:text>margin</xsl:text>
         <xsl:value-of select="$fieldSep"/>
         <xsl:text>continued</xsl:text>
         <xsl:value-of select="$fieldSep"/>
@@ -48,11 +49,13 @@
     </xsl:template>
 
     <xsl:template match="div">
+        <xsl:value-of select="ancestor::root/page"/>
+        <xsl:value-of select="$fieldSep"/>
         <xsl:value-of select="child::id"/>
         <xsl:value-of select="$fieldSep"/>
         <xsl:value-of select="normalize-space(child::head)"/>
         <xsl:value-of select="$fieldSep"/>
-        <xsl:value-of select="ancestor::root/page"/>
+        <xsl:value-of select="document($tlFile)//div[id = current()/child::id]/head/normalize-space()"/>
         <xsl:value-of select="$fieldSep"/>
         <xsl:value-of select="normalize-space(child::margin)"/>
         <xsl:value-of select="$fieldSep"/>
