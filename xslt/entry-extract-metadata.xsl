@@ -16,10 +16,13 @@
         <xsl:value-of select="$fieldSep"/>
         <xsl:text>margin</xsl:text>
         <xsl:value-of select="$fieldSep"/>
-        <xsl:text>margin</xsl:text>
+        <xsl:text>has_figures</xsl:text>
         <xsl:value-of select="$fieldSep"/>
         <xsl:text>continued</xsl:text>
         <xsl:value-of select="$fieldSep"/>
+        <xsl:text>continues</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        
         <xsl:text>al</xsl:text>
         <xsl:value-of select="$fieldSep"/>
         <xsl:text>bp</xsl:text>
@@ -67,8 +70,12 @@
             <xsl:text>CONTAINS FIGURE</xsl:text>
         </xsl:if>
         <xsl:value-of select="$fieldSep"/>
-        <xsl:if test="child::cont">
+        <xsl:if test="child::cont[not(following-sibling::*)]">
             <xsl:text>continued</xsl:text>
+        </xsl:if>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:if test="child::cont[following-sibling::*]">
+            <xsl:text>continues</xsl:text>
         </xsl:if>
         <xsl:value-of select="$fieldSep"/>
         <xsl:for-each select="distinct-values(.//al/normalize-space())">
