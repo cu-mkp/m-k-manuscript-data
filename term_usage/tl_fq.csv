@@ -12,27 +12,27 @@
 25|pot
 25|molle
 25|forge
-23|vaisseau
+24|vaisseau
 23|os
 23|doigt
 22|porphire
 22|papier
 20|souflet
-19|tamis
 19|crampons
+18|tamis
 18|poincte
 17|linge
 17|lime
 17|fil de fer
+17|chandelle
 16|poinctes
 16|burin
-16|boicte
 15|marteau
 13|esponge
+12|table
 12|souflets
 12|doigts
 12|creuset
-12|chandelle
 12|bouteille
 11|plume
 11|four a vent
@@ -42,26 +42,27 @@
 10|main
 10|broisse
 9|trancheplume
-9|table
 9|regle
 9|pilon
 9|os de seiche
 9|mortiers
 9|gabions
 9|bouteille de verre
+9|boicte
 8|presse
 8|pallete
 8|manche
 8|mains
 8|grille
+8|cousteau
 8|chevilles
 8|Moules
 7|vis
+7|verre
 7|poincte de fer
 7|planche
 7|molles
 7|marbre
-7|cousteau
 7|corde
 7|compas
 7|ciselet
@@ -75,12 +76,12 @@
 6|espingle
 6|dent
 6|cornue
+6|cloche
 6|cheville
 6|cercle dardille
 6|carton
 6|broisses
 6|boicte de cuir
-5|verre
 5|tuile
 5|tamisee
 5|tamise
@@ -92,12 +93,13 @@
 5|planches de cuivre
 5|pincettes
 5|pinceaulx a huile
+5|petite boicte
 5|limes
 5|double tamis
-5|cloche
 5|ciseau
 5|charbon
 5|carte
+5|bague
 4|pot de terre
 4|planches
 4|pied
@@ -147,6 +149,7 @@
 3|bouche
 3|boisseau
 3|barrique
+3|ambu
 3|Mortiers
 3|Crampons
 2|verge de fer
@@ -159,6 +162,7 @@
 2|tenailles plattes
 2|tenaille
 2|tables
+2|seau
 2|sayettes de pourceau
 2|sayes de porceau
 2|sayes
@@ -179,6 +183,7 @@
 2|piliers
 2|pierre
 2|piece de feultre
+2|piece dargent
 2|papier enflamme
 2|papier colle
 2|pallette
@@ -201,7 +206,9 @@
 2|lampe
 2|lames de fer
 2|houtils
+2|gros baston
 2|grattebroissa
+2|grande boicte
 2|gouge
 2|gand
 2|fourneau a vent
@@ -218,11 +225,9 @@
 2|cruset
 2|cramponer
 2|couvercle
-2|costeaulx
 2|contour dardille
 2|conche
 2|clou
-2|cloches
 2|cierge
 2|chaulderon
 2|cercle de terre
@@ -230,6 +235,7 @@
 2|caisse de fer
 2|cage
 2|cabats
+2|busche
 2|bullitoire
 2|bruny
 2|bouteilles
@@ -237,7 +243,6 @@
 2|boictes
 2|barre
 2|aneau
-2|ambu
 2|aiguille
 2|Souflets
 2|Pinceaulx
@@ -277,6 +282,7 @@
 1|teste du clou
 1|terrines sans plomb
 1|tenailles
+1|telier
 1|tapon de la bouteille
 1|tapon
 1|tamiser
@@ -299,7 +305,6 @@
 1|servietes mouillees
 1|serviete
 1|semal
-1|seau
 1|sayettes
 1|sayetes de poil de pourceau
 1|sacs
@@ -324,6 +329,7 @@
 1|rabot
 1|quille de cire
 1|queue de cuivre ou de fer
+1|quenoille du lict
 1|quarreau rouge enflamme
 1|quarreau
 1|quaisse
@@ -337,7 +343,7 @@
 1|pots de terre avecq un couvercle
 1|pots de terre
 1|pot destain
-1|pot de eau des orfevres
+1|pot de leaue des orfevres
 1|portepiece
 1|porte piece
 1|pone pleine deau
@@ -358,7 +364,7 @@
 1|poincte dargent
 1|poincte dacier
 1|poincons
-1|poincon
+1|poincon arrondy par le bout &amp; qui entre dans son manche
 1|poin
 1|poilonne
 1|poelonne
@@ -388,6 +394,7 @@
 1|plan
 1|place du fouye
 1|piquet
+1|piques avecq des soliveaulx
 1|pippe
 1|pipe
 1|pinsseau
@@ -402,10 +409,11 @@
 1|pierre de touche
 1|pied de cire
 1|pieces de feutre moufle
-1|piece dargent
+1|piece de cuir
 1|picquet de fer
 1|phiole
 1|phiol
+1|petits boisseaulx de boys
 1|petite table unye
 1|petit instrument recourbe
 1|petit burin
@@ -429,7 +437,6 @@
 1|oreille
 1|ongle du poulce droict
 1|oeil
-1|moulles de pierre
 1|moulle de cuivre
 1|moulins deau
 1|moulin de moustarde
@@ -438,6 +445,7 @@
 1|moules froids
 1|moules destain
 1|moules destaim
+1|moules de pierre
 1|moules de metal
 1|moules de grais
 1|moules de cuivre graves au burin ou en pierre ou en terre
@@ -453,8 +461,8 @@
 1|moule clos
 1|moule au chassis
 1|moule a noyau
+1|mouchouer plie
 1|mouchouer mouille
-1|mouchouer
 1|mortier de ver f acier
 1|mortier de pierre
 1|mortier de metal ou de fer
@@ -499,7 +507,7 @@
 1|limer
 1|liment
 1|limee quarree
-1|lignes aplomb
+1|lignes a plomb
 1|leniers
 1|lanternes
 1|langue
@@ -512,6 +520,7 @@
 1|lame de cuivre
 1|jugement de loeil
 1|horologe de sable
+1|halebarde
 1|guinbelet
 1|gros caneva
 1|grille haulte
@@ -520,10 +529,11 @@
 1|grattebroisse de letton
 1|gratte broisse
 1|grand doigt
+1|grand boite
 1|godet
 1|gluons
 1|globe ou bocal de verre
-1|gibessiere
+1|gibessiere de Maistre gonin
 1|gibbessiere
 1|genoul
 1|gecton
@@ -562,6 +572,7 @@
 1|fiolle de voyrre
 1|fiolle
 1|fiole
+1|fins &amp; subtils tamis
 1|filtre
 1|fils de fer
 1|filiere
@@ -592,7 +603,7 @@
 1|escuelle de terre plombee
 1|escuelle a oreille
 1|escaille
-1|entonnouer
+1|entonnouer de fer blanc
 1|enclumes
 1|eau enscuelle
 1|eau de roche
@@ -612,6 +623,7 @@
 1|cuve des tinturiers
 1|cuve
 1|curedent
+1|curedant
 1|cureaureille
 1|cul de verre
 1|cuir
@@ -631,13 +643,15 @@
 1|creusel
 1|cramponne
 1|crampone
-1|couvercle de cuir
+1|couvercle de cuir rond de la longueur de la boicte
 1|coutoien
 1|couteau
 1|cousteaulx
 1|cousteau bien fourby
 1|countour de briques
 1|couges
+1|costeaulx ou de cuisine ou de table
+1|costeaulx
 1|costeau poly
 1|cornues
 1|corne
@@ -659,18 +673,21 @@
 1|cochiaro
 1|clous
 1|clochettes
+1|cloches
 1|cloche de boys
 1|ciseaux
 1|choffrette
 1|chevrons
 1|chevalet
-1|chauldron de pur cuivre
+1|chemisse de grosse toile
 1|chauldiere de cuivre
+1|chaulderon de pur cuivre
 1|chauderon
 1|charbons allumes
 1|charbons
 1|charbon allume
 1|chaples
+1|chandellier
 1|chandelle de suif
 1|chandelle de cire
 1|cendres
@@ -700,10 +717,9 @@
 1|bouteille ou vaisseau nect
 1|bougie
 1|boucles
-1|boitte de buys
+1|boitte de buys rayee a cercles
 1|boitte
 1|boite de sapin
-1|boite
 1|bois uny
 1|bois
 1|boictes de verre
@@ -744,7 +760,7 @@
 1|aiguille du filet
 1|aiguille dacier fine
 1|Vaisseaulx de verre
-1|Tamis
+1|Tamis fins de soye creue
 1|Roue de cuivre
 1|Presse
 1|Pile
@@ -763,6 +779,7 @@
 1|Cousteau
 1|Ciseller
 1|Ciseler
+1|Chandelles
 1|Ceulx de noyau
 1|Broisses
 1|

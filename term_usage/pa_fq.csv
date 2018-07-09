@@ -2,8 +2,8 @@
 33|noix
 22|froment
 16|rose
-16|bled
 15|lin
+15|bled
 13|vigne
 10|saule
 10|olif
@@ -23,6 +23,7 @@
 3|sapin
 3|safran
 3|roses
+3|grain
 3|coings
 3|chenevi
 3|buglose
@@ -52,12 +53,14 @@
 2|fraisiers
 2|consolida maior
 2|chastaignes
+2|cerises noires
 2|canelle
 2|buys
 2|bruyeres
 2|bresil
 2|boufain
 2|bleds
+2|bled orbere
 2|amendiers
 2|amaranthe
 2|Roses
@@ -104,6 +107,7 @@
 1|pommes
 1|poirier
 1|poires
+1|pied de veau
 1|petit
 1|peschiers
 1|peschier
@@ -143,6 +147,7 @@
 1|lapasses
 1|laictues grainees
 1|laictues
+1|jarus
 1|hiebles
 1|herbes potaigeres
 1|herbes bulbeuses
@@ -189,7 +194,6 @@
 1|bruiere
 1|brandes
 1|brande
-1|bled orbere
 1|bled de froment
 1|balaustes
 1|baillard

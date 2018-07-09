@@ -1,9 +1,9 @@
 227|plomb
-216|eau
+215|eau
 215|cire
 211|or
 190|huile
-155|argent
+156|argent
 148|fer
 112|estain
 110|metal
@@ -11,10 +11,10 @@
 99|terre
 83|plastre
 81|papier
-76|verre
+80|verre
 72|estaim
-69|pouldre
 69|eau de vye
+68|pouldre
 66|charbon
 60|vinaigre
 57|ardille
@@ -33,8 +33,8 @@
 35|brique
 33|laque
 31|vin
-31|soufre
 31|blanc de plomb
+30|soufre
 30|cuir
 29|colle
 28|tourmentine
@@ -42,16 +42,15 @@
 28|eau chaulde
 28|destrempe
 28|crocum
-27|toile
 27|salpestre
 27|pierre
 27|acier
 26|urine
+26|toile
 26|cendres
 25|linge
 24|sucre
 24|minium
-23|soye
 23|azur
 22|rousine
 22|porphire
@@ -59,6 +58,7 @@
 20|sel
 20|farine
 20|eau fort
+19|soye
 19|rosette
 19|huile de noix
 18|estaim de glace
@@ -87,7 +87,6 @@
 13|gomme
 13|cire fondue
 13|borras
-13|bled
 13|argent vif
 13|ancre
 12|sanguine
@@ -95,6 +94,7 @@
 12|huiler
 12|esmail
 12|cuivre rouge
+12|bled
 11|verdegris
 11|soulder
 11|pierres
@@ -142,9 +142,9 @@
 8|Plastre
 7|potee
 7|poix
-7|parchemin
 7|marbre
 7|laicton
+7|jaulne doeuf
 7|huilee
 7|fiens
 7|eau sel
@@ -168,6 +168,7 @@
 6|salive
 6|poil
 6|plume
+6|parchemin
 6|ordure
 6|or fin
 6|ocre jaulne
@@ -175,13 +176,11 @@
 6|mache de fer
 6|liege
 6|laitton
-6|jaulne doeuf
 6|huille daspic
 6|huiles
 6|grais
 6|gomme dragant
 6|estain doulx
-6|escaille de fer
 6|eau commune
 6|drogues
 6|cire noire
@@ -216,6 +215,7 @@
 5|fil de letton
 5|fer blanc
 5|esmailler
+5|escaille de fer
 5|eaulx
 5|diamant
 5|aspic
@@ -244,6 +244,7 @@
 4|ocre
 4|noir descaille
 4|moustarde
+4|mercure
 4|magistra
 4|huille
 4|graisse
@@ -300,7 +301,6 @@
 3|millas
 3|miel rosat
 3|metal fondu
-3|mercure
 3|matiere de poelonne
 3|mastic pulverise
 3|linge brusle
@@ -313,6 +313,7 @@
 3|gros sel
 3|grands metaulx
 3|grain
+3|glaire doeuf battue
 3|fumier
 3|floree
 3|fil darchal
@@ -400,6 +401,7 @@
 2|sel mineral
 2|sel gemme
 2|sel de verre
+2|sel blanc
 2|sel alchali
 2|saulmure
 2|satin
@@ -472,7 +474,6 @@
 2|huile de fromant
 2|graine de coings
 2|gomme armoniac
-2|glaire doeuf battue
 2|geyct
 2|gectons dallemaigne
 2|fumee de chandelle
@@ -552,7 +553,6 @@
 2|areneuse
 2|areneulx
 2|ardoise calcinee
-2|amalgame
 2|aigre
 2|agathe
 2|Vin
@@ -565,6 +565,7 @@
 2|Letton
 2|Laque
 2|Huile
+2|Goume
 2|Gaulme
 2|Fil de fer
 2|Electre
@@ -754,6 +755,10 @@
 1|spalt
 1|soyes
 1|soye deliee
+1|soye crue jaulne &amp; naturelle
+1|soye crue blanchie a la fumee du soufre
+1|soye crue
+1|soye creue
 1|soye c blanche
 1|souldre
 1|souldeure
@@ -767,7 +772,6 @@
 1|sols de france
 1|solle
 1|solfo
-1|sol blanc
 1|sire Rouge
 1|shuilent
 1|seruze
@@ -782,7 +786,6 @@
 1|sel de Cardonne
 1|sel commun pulverise
 1|sel commun fondu
-1|sel blanc
 1|sel armonial
 1|sel armoniac pulverise
 1|sel armo
@@ -892,12 +895,12 @@
 1|pouldre dor ou dargent
 1|pouldre dor
 1|pouldre desmery
-1|pouldre decharbon
 1|pouldre de plastre
 1|pouldre de pierre ponce
 1|pouldre de marchasite
 1|pouldre de croye
 1|pouldre de charbon de saule
+1|pouldre de charbon
 1|pottee
 1|potirons
 1|potin de seringue
@@ -972,7 +975,7 @@
 1|pieces dor
 1|petit
 1|persicaire
-1|pers de fleurs de fleurée ou de Flandres
+1|pers de fleurs de fleuree ou de Flandres
 1|pers
 1|perles jaulnes
 1|perle
@@ -994,6 +997,7 @@
 1|paste desmail broye
 1|paste de farine
 1|pareures des pieds de mulots
+1|parchemin subtil
 1|parchemin espes
 1|parchemin chaufe
 1|pappiers
@@ -1010,7 +1014,7 @@
 1|pain sucre
 1|pain chault
 1|ozier
-1|ouzier
+1|ouzier entre bien sec
 1|otnegra
 1|ostie trempee de vin
 1|os spongieulx
@@ -1104,7 +1108,6 @@
 1|meschant drap
 1|mercure congelle
 1|mercure arreste
-1|mercure amalgame avecq argent
 1|menus brins de cotton
 1|mellis communis
 1|mellis
@@ -1207,14 +1210,13 @@
 1|jaulne doeufs
 1|jaulne doeuf dur
 1|jaspe grumeleux
+1|jarus
 1|jacinthe orientale
 1|jacinthe
 1|ivoyre brusle
 1|iraigne
 1|incarnadine
 1|iaune doeuf
-1|iaulne doeuf
-1|iarus
 1|hurinne
 1|hurine
 1|huitres bruslees
@@ -1262,6 +1264,7 @@
 1|gueuse
 1|grossier
 1|grosse tourmentine commune
+1|grosse toile
 1|gros drap
 1|gros caneva
 1|gris descaille
@@ -1278,6 +1281,7 @@
 1|graise de jeune chevreau
 1|grains dor
 1|grains de poyvre
+1|grains de bled
 1|grains
 1|graine de vers de soye femelle
 1|graine de lettue
@@ -1297,13 +1301,12 @@
 1|gommee
 1|gomme de sandaraque en pouldre
 1|gome
-1|glaire dœuf battue
 1|glaire doeufs bien battue
+1|glaire doeufs battue
 1|glaire doeufs
 1|glaire doeuf sechee
 1|glaire doeuf passe par lesponge
 1|glaire doeuf fort battue
-1|glaire d'oeufs battue
 1|gip mat
 1|gip de lateribus
 1|gentiane en pouldre
@@ -1320,6 +1323,7 @@
 1|fumer
 1|fumees de la calamine
 1|fumee espesse
+1|fumee du soufre
 1|fumee du safre
 1|fumee des metaulx
 1|fumee de perdrix
@@ -1406,6 +1410,7 @@
 1|estoupes
 1|estamure faycte de foeille
 1|estamure
+1|estamine de soye crue
 1|estamine bien claire
 1|estamine
 1|estamer
@@ -1427,6 +1432,7 @@
 1|estaim est bas
 1|estaim doux
 1|estaim doibt estre pur
+1|estaille de fer
 1|espricts
 1|espingle
 1|esmeril
@@ -1463,6 +1469,7 @@
 1|eaulx de vye
 1|eaue fort
 1|eaue despuis
+1|eaue des orfevres
 1|eaue de pluye
 1|eaue de gomme
 1|eaue de gaulme bien clair
@@ -1487,7 +1494,6 @@
 1|eau fort commune
 1|eau du bullitoyre
 1|eau dfort
-1|eau des orfevres
 1|eau de vye commune
 1|eau de viye
 1|eau de vigne
@@ -1564,8 +1570,8 @@
 1|croustes de pain
 1|crostes de pain
 1|crocum ferry
-1|cristallin calciné
 1|cristallin calcine &amp; broye
+1|cristallin calcine
 1|cristallin broye
 1|cristalin
 1|cramoisi
@@ -1823,6 +1829,7 @@
 1|ambre gris
 1|ambre blanc
 1|amande
+1|amalgame
 1|alung de Glace
 1|alung daraucqde Roc
 1|alun de glace
@@ -1947,8 +1954,6 @@
 1|Gros vernis
 1|Grais
 1|Goumiche noyre
-1|Goume
-1|Gorime
 1|Gomme armoniac
 1|Gomme aRabic
 1|Glaire doeufs
