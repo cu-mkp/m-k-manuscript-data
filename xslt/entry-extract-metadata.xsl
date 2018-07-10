@@ -3,6 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
     <xsl:output method="text" encoding="UTF-8"/>
     <xsl:param name="fieldSep"><xsl:text>	</xsl:text></xsl:param>
+    <xsl:param name="tcnFile"><xsl:text>file:///Users/terry/Github/ms-xml/allFolios/all_tcn.xml</xsl:text></xsl:param>
     <xsl:param name="tlFile"><xsl:text>file:///Users/terry/Github/ms-xml/allFolios/all_tl.xml</xsl:text></xsl:param>
 
     <xsl:template match="/">
@@ -11,6 +12,8 @@
         <xsl:text>div_id</xsl:text>
         <xsl:value-of select="$fieldSep"/>
         <xsl:text>heading_tc</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:text>heading_tcn</xsl:text>
         <xsl:value-of select="$fieldSep"/>
         <xsl:text>heading_tl</xsl:text>
         <xsl:value-of select="$fieldSep"/>
@@ -22,7 +25,6 @@
         <xsl:value-of select="$fieldSep"/>
         <xsl:text>continues</xsl:text>
         <xsl:value-of select="$fieldSep"/>
-        
         <xsl:text>al</xsl:text>
         <xsl:value-of select="$fieldSep"/>
         <xsl:text>bp</xsl:text>
@@ -61,6 +63,8 @@
         <xsl:value-of select="child::id"/>
         <xsl:value-of select="$fieldSep"/>
         <xsl:value-of select="normalize-space(child::head)"/>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:value-of select="document($tcnFile)//div[id = current()/child::id]/head/normalize-space()"/>
         <xsl:value-of select="$fieldSep"/>
         <xsl:value-of select="document($tlFile)//div[id = current()/child::id]/head/normalize-space()"/>
         <xsl:value-of select="$fieldSep"/>

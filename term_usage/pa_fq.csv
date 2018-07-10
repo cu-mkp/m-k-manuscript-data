@@ -1,14 +1,14 @@
 36|aspic
-33|noix
-22|froment
+34|noix
+23|froment
 16|rose
 15|lin
 15|bled
 13|vigne
 10|saule
 10|olif
+9|pastel
 9|orme
-8|pastel
 8|figuier
 5|raisin
 5|pensee
@@ -26,14 +26,13 @@
 3|grain
 3|coings
 3|chenevi
+3|buys
 3|buglose
 3|aulx
 3|asperge
 3|amendes
 3|ail
 3|absinthe
-3|abres
-3|abre
 2|tim
 2|soulcy
 2|soucy
@@ -55,7 +54,6 @@
 2|chastaignes
 2|cerises noires
 2|canelle
-2|buys
 2|bruyeres
 2|bresil
 2|boufain
@@ -88,6 +86,7 @@
 1|rosiers
 1|ronce
 1|rheubarbe des moynes
+1|reforts
 1|ranunculus
 1|raisins
 1|queues de pourrceaulx
@@ -129,7 +128,6 @@
 1|olivier
 1|oignon
 1|ognions
-1|noyau
 1|noisettes
 1|noisette
 1|nois
@@ -160,6 +158,7 @@
 1|gentiane
 1|genest
 1|gayac
+1|gaulde
 1|fustict
 1|funges
 1|fraises
@@ -202,12 +201,11 @@
 1|avelane
 1|artichaulx
 1|armols
-1|arbres
 1|anthos
 1|amendier
 1|amande
 1|alberges
-1|abres de noyau
+1|abres
 1|Visme
 1|Segle
 1|Santonique

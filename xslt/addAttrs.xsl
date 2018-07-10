@@ -48,4 +48,10 @@
         <xsl:attribute name="continues"><xsl:text>yes</xsl:text></xsl:attribute>
     </xsl:template>
     
+    <xsl:template match="figure[not(child::link)][normalize-space()]">
+        <xsl:element name="mark">
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+    
 </xsl:stylesheet>

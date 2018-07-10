@@ -9,19 +9,19 @@
 
 <ab>
 
-M<exp>estr</exp>e Nicolas Costé, à la <pl>rue de la Heaumerie à l'image
-S<exp>ainc</exp>t Claude</pl> <figure>/</figure> Mirouers.<lb/>
+<pn>M<exp>estr</exp>e Nicolas Costé</pn>, à la <pl>rue de la Heaumerie à
+l'image S<exp>ainc</exp>t Claude</pl> <figure>/</figure> Mirouers.<lb/>
 
-M<exp>estr</exp>e Jehan Cousin, qui demeure au <pl>faulxbourgs de
-S<exp>ainc</exp>t Germain</pl>, sçaict du<lb/>
+<pn>M<exp>estr</exp>e Jehan Cousin</pn>, qui demeure au <pl>faulxbourgs
+de S<exp>ainc</exp>t Germain</pl>, sçaict du<lb/>
 
-mestre.<lb/>
+<pro>mestre</pro>.<lb/>
 
-M<exp>estr</exp>e Jehan Garnier, à la <pl>rue des Escrivains</pl> pres
-<pl>S<exp>ainc</exp>t Jaques de la<lb/>
+<pn>M<exp>estr</exp>e Jehan Garnier</pn>, à la <pl>rue des
+Escrivains</pl> pres <pl>S<exp>ainc</exp>t Jaques de la<lb/>
 
 Boucherie</pl>, <pro>courroyeur</pro>. Essayer <m>fleur de
-pastel</m>.</ab>
+<pa>pastel</pa></m>.</ab>
 
 </div>
 
@@ -69,11 +69,11 @@ scripsit.</ab>
 
 <ab><figure>-</figure>Cathalogue des villes.<lb/>
 
-Calendrier des <pro>bergiers.</pro><lb/>
+Calendrier des <pro>bergiers</pro>.<lb/>
 
-Grammaire <pl>italiene.</pl><lb/>
+Grammaire <pl>italiene</pl>.<lb/>
 
-Arithmetique de Savonne.<lb/>
+Arithmetique de <pn>Savonne</pn>.<lb/>
 
 Instruction pour le faict des fina<exp>n</exp>ces.<lb/>
 
@@ -83,14 +83,15 @@ Des præceptes dagriculture.<lb/>
 
 <figure>+</figure>Le secret des finances à <pl>Lyon</pl>.<lb/>
 
-Synesius.<lb/>
+<pn>Synesius</pn>.<lb/>
 
-Olaus Magnus.<lb/>
+<pn>Olaus Magnus</pn>.<lb/>
 
-<figure>+</figure>M<exp>estr</exp>e Bernard Palissi, inventeur des
-rustiques figulines du roy.<lb/>
+<figure>+</figure><pn>M<exp>estr</exp>e Bernard Palissi</pn>,
+<pro>inventeur des rustiques figulines</pro> du
+<pro><pn>roy</pn></pro>.<lb/>
 
-et de la royne mere.</ab>
+et de la <pro><pn>royne mere</pn></pro>.</ab>
 
 </div>
 
@@ -110,35 +111,35 @@ Salviano Typhernate authore, <pl>Romæ</pl> 1554.</ab>
 
 <ab>Les Annales de <pl>Normandie</pl>.</ab>
 
-<la/><ab>Alexander Aphrodisæus.<lb/>
+<la/><ab><pn>Alexander Aphrodisæus</pn>.<lb/>
 
-Polydorus Verg<exp>ilius</exp>.<lb/>
+<pn>Polydorus Verg<exp>ilius</exp></pn>.<lb/>
 
-Appianus.<lb/>
+<pn>Appianus</pn>.<lb/>
 
-Athenæus.<lb/>
+<pn>Athenæus</pn>.<lb/>
 
 Pausanias.<lb/>
 
 Statius Thebaidos.<lb/>
 
-Servius in Aeneid<exp>em</exp>.<lb/>
+<pn>Servius</pn> in Aeneid<exp>em</exp>.<lb/>
 
-Macrobius.<lb/>
+<pn>Macrobius</pn>.<lb/>
 
 Aulus Gellius.<lb/>
 
-Alexander ab Alex<exp>andria</exp>.<lb/>
+Alexander ab <pl>Alex<exp>andria</exp></pl>.<lb/>
 
-Festus.<lb/>
+<pn>Festus</pn>.<lb/>
 
-Nonius.<lb/>
+<pn>Nonius</pn>.<lb/>
 
-Magius, Miscell<exp>anea</exp>.<lb/>
+<pn>Magius</pn>, Miscell<exp>anea</exp>.<lb/>
 
-Pollux, Onomast<exp>icon</exp>.<lb/>
+<pn>Pollux</pn>, Onomast<exp>icon</exp>.<lb/>
 
-Higinus.<lb/>
+<pn>Higinus</pn>.<lb/>
 
 Berosus.<lb/>
 
@@ -150,39 +151,41 @@ Cornelius Tacitu<exp>s</exp>.<lb/>
 
 Xenophon.<lb/>
 
-Seneca.<lb/>
+<pn>Seneca</pn>.<lb/>
 
-Dionisius Halicarnassensis.<lb/>
+<pn>Dionisius Halicarnassensis</pn>.<lb/>
 
-Sabellicus.<lb/>
+<pn>Sabellicus</pn>.<lb/>
 
-Iulius Capitollin<exp>us</exp> <add>cum permultis<lb/>aliis </add>.<lb/>
+<pn>Iulius Capitollin<exp>us</exp></pn> <add>cum permultis<lb/>
 
-Budæus.<lb/>
+aliis </add>.<lb/>
 
-Spartianus.<lb/>
+<pn>Budæus</pn>.<lb/>
 
-Blondus.<lb/>
+<pn>Spartianus</pn>.<lb/>
 
-Volaterranus.<lb/>
+<pn>Blondus</pn>.<lb/>
 
-Herodotus.<lb/>
+<pn>Volaterranus</pn>.<lb/>
 
-Paulus Manutius.<lb/>
+<pn>Herodotus</pn>.<lb/>
+
+<pn>Paulus Manutius</pn>.<lb/>
 
 Strabo.<lb/>
 
-Iulius Firmicus.<lb/>
+<pn>Iulius Firmicus</pn>.<lb/>
 
-Quintus Curtius.<lb/>
+<pn>Quintus Curtius</pn>.<lb/>
 
-Dion.<lb/>
+<pn>Dion</pn>.<lb/>
 
-Cornelius Nepos.<lb/>
+<pn>Cornelius Nepos</pn>.<lb/>
 
-Flavius Vopiscus.</ab>
+<pn>Flavius Vopiscus</pn>.</ab>
 
-<ab>Mons<exp>ieur</exp></ab>
+<ab><rub>Mons<exp>ieur</exp></rub></ab>
 
 </div>
 </root>

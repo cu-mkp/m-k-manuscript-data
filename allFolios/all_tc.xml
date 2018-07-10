@@ -11,20 +11,23 @@
 
          <ab>
 
-M<exp>estr</exp>e Nicolas Coste a la <pl>rue de la heaumerie a limage
-s<exp>ainc</exp>t claude</pl> 
+            <pn>M<exp>estr</exp>e Nicolas Coste</pn> a la <pl>rue de la heaumerie a
+limage s<exp>ainc</exp>t claude</pl> 
             <figure>/</figure> mirouers<lb/>
 
-M<exp>estr</exp>e Jehan Cousin qui demeure au <pl>faulxbourgs de
-s<exp>ainc</exp>t germain</pl> scaict du<lb/>
+            <pn>M<exp>estr</exp>e Jehan Cousin</pn> qui demeure au <pl>faulxbourgs
+de s<exp>ainc</exp>t germain</pl> scaict du<lb/>
 
-mestre<lb/>
+            <pro>mestre</pro>
+            <lb/>
 
-M<exp>estr</exp>e Jehan Garnier a la <pl>rue des escrivains</pl> pres
-<pl>s<exp>ainc</exp>t Jaques de la<lb/>
+            <pn>M<exp>estr</exp>e Jehan Garnier</pn> a la <pl>rue des
+escrivains</pl> pres <pl>s<exp>ainc</exp>t Jaques de la<lb/>
 
 boucherie</pl> 
-            <pro>courroyeur</pro> essayer <m>fleur de pastel</m>
+            <pro>courroyeur</pro> essayer <m>fleur de
+<pa>pastel</pa>
+            </m>
 
          </ab>
 
@@ -93,7 +96,8 @@ Calendrier des <pro>bergiers</pro>
 Grammaire <pl>Italiene</pl>
             <lb/>
 
-Arithmetique de Savonne<lb/>
+Arithmetique de <pn>Savonne</pn>
+            <lb/>
 
 Instruction pour le faict des fina<exp>n</exp>ces<lb/>
 
@@ -104,14 +108,24 @@ Des præceptes dagriculture<lb/>
             <figure>+</figure>Le secret des finances a <pl>Lyon</pl>
             <lb/>
 
-Synesius<lb/>
+            <pn>Synesius</pn>
+            <lb/>
 
-Olaus Magnus<lb/>
+            <pn>Olaus Magnus</pn>
+            <lb/>
 
-            <figure>+</figure>M<exp>estr</exp>e Bernard palissi <pro>inventeur</pro>
-des rustiques figulines du roy<lb/>
+            <figure>+</figure>
+            <pn>M<exp>estr</exp>e Bernard palissi</pn>
+            <pro>inventeur des rustiques figulines</pro> du
+<pro>
+               <pn>roy</pn>
+            </pro>
+            <lb/>
 
-et de la royne mere</ab>
+et de la <pro>
+               <pn>royne mere</pn>
+            </pro>
+         </ab>
 
       </div>
 
@@ -133,40 +147,50 @@ salviano typhernate @ authore <pl>Romæ</pl> 1554</ab>
          <ab>@Les Annales de <pl>Normandie</pl>
          </ab>
 
-         <ab>@<la/>Alexander Aphrodisæus<lb/>
-
-Polydorus verg<exp>ilius</exp>
+         <ab>@<la/>
+            <pn>Alexander Aphrodisæus</pn>
             <lb/>
 
-Appianus<lb/>
+            <pn>Polydorus verg<exp>ilius</exp>
+            </pn>
+            <lb/>
 
-Athenæus<lb/>
+            <pn>Appianus</pn>
+            <lb/>
+
+            <pn>Athenæus</pn>
+            <lb/>
 
 Pausanias<lb/>
 
 Statius Thebaidos<lb/>
 
-Servius in Aeneid<exp>em</exp>
+            <pn>Servius</pn> in Aeneid<exp>em</exp>
             <lb/>
 
-Macrobius<lb/>
+            <pn>Macrobius</pn>
+            <lb/>
 
 Aulus Gellius<lb/>
 
-Alexander ab Alex<exp>andria</exp>
+Alexander ab <pl>Alex<exp>andria</exp>
+            </pl>
             <lb/>
 
-Festus<lb/>
-
-Nonius<lb/>
-
-Magius miscell<exp>anea</exp>
+            <pn>Festus</pn>
             <lb/>
 
-Pollux onomast<exp>icon</exp>
+            <pn>Nonius</pn>
             <lb/>
 
-Higinus<lb/>
+            <pn>Magius</pn> miscell<exp>anea</exp>
+            <lb/>
+
+            <pn>Pollux</pn> onomast<exp>icon</exp>
+            <lb/>
+
+            <pn>Higinus</pn>
+            <lb/>
 
 Berosus<lb/>
 
@@ -180,41 +204,58 @@ Cornelius tacitu<exp>s</exp>
 
 Xenophon<lb/>
 
-Seneca<lb/>
+            <pn>Seneca</pn>
+            <lb/>
 
-Dionisius Halicarnassensis<lb/>
+            <pn>Dionisius Halicarnassensis</pn>
+            <lb/>
 
 Sabellicus<lb/>
 
-Iulius Capitollin<exp>us</exp> @<add>cum permultis<lb/>aliis </add>
+            <pn>Iulius Capitollin<exp>us</exp>
+            </pn> @<add>cum permultis<lb/>
+
+aliis </add>
             <lb/>
 
-Budæus<lb/>
+            <pn>Budæus</pn>
+            <lb/>
 
-Spartianus<lb/>
+            <pn>Spartianus</pn>
+            <lb/>
 
-Blondus<lb/>
+            <pn>Blondus</pn>
+            <lb/>
 
-Volaterranus<lb/>
+            <pn>Volaterranus</pn>
+            <lb/>
 
-Herodotus<lb/>
+            <pn>Herodotus</pn>
+            <lb/>
 
-Paulus Manutius<lb/>
+            <pn>Paulus Manutius</pn>
+            <lb/>
 
 Strabo<lb/>
 
-Iulius firmicus<lb/>
+            <pn>Iulius firmicus</pn>
+            <lb/>
 
-Quintus Curtius<lb/>
+            <pn>Quintus Curtius</pn>
+            <lb/>
 
-Dion<lb/>
+            <pn>Dion</pn>
+            <lb/>
 
-Cornelius Nepos<lb/>
+            <pn>Cornelius Nepos</pn>
+            <lb/>
 
-Flavius Vopiscus<la/>
+            <pn>Flavius Vopiscus</pn>
          </ab>
 
-@<ab>mons<exp>ieur</exp>
+@<ab>
+            <rub>mons<exp>ieur</exp>
+            </rub>
          </ab>@
 
 </div>
@@ -2964,9 +3005,7 @@ qui sera aysee a travailler</ab>
 
          <id>p011v_1</id>
 
-         <head>Couleur d<m>acier de <pl>damas</pl>
-            </m> sur
-<tl>costeaulx</tl>
+         <head>Couleur d<m>acier de damas</m> sur <tl>costeaulx</tl>
          </head>
 
          <ab>Frotte d<m>eau fort commune</m> l<m>acier</m> meslant avecq ladicte
@@ -2974,13 +3013,15 @@ qui sera aysee a travailler</ab>
 
 la <m>terre</m> 
             <gap/> &amp; apres frotte le tout avecq de la
-<m>cendre</m>
+<tl>
+               <m>cendre</m>
+            </tl>
             <lb/>
 
-ou <m>sable</m> &amp; l<m>or</m> touchera &amp; l<m>argent</m>
-co<exp>mm</exp>e sur une <tl>
-               <m>pierre de touche</m>
-            </tl>
+ou <tl>
+               <m>sable</m>
+            </tl> &amp; l<m>or</m> touchera &amp; l<m>argent</m>
+co<exp>mm</exp>e sur une <tl>pierre de touche</tl>
          </ab>
       </div>
 
@@ -3558,18 +3599,19 @@ sen yra si l<al>animal</al> ne mue @<la>non bona</la>
 
          <id>p013r_3</id>
 
-         <head>Polisseme<exp>n</exp>t de pierres</head>
+         <head>Polisseme<exp>n</exp>t de <m>pierres</m>
+         </head>
 
-         <ab>Les pierres <del>tai</del> gravees ne se polissent pas sur la
+         <ab>Les <m>pierres <del>tai</del> gravees</m> ne se polissent pas sur la
 <tl>roue de<lb/>
 
                <m>cuivre</m>
             </tl> Ains avecq les <tl>broisses</tl> et le
 <tl>
                <m>tripoly</m>
-            </tl> Mays les pierres<lb/>
+            </tl> Mays les <m>pierres<lb/>
 
-taillees a faces et a plain se polissent sur la <tl>roue</tl>
+taillees a faces et a plain</m> se polissent sur la <tl>roue</tl>
 susdicte</ab>
 
       </div>
@@ -4168,55 +4210,55 @@ la grise qui semble sarment</ab>
          <head>Fonte de <m>fer doux</m>
          </head>
 
-         <ab>Le commun estime que le <m>fer</m> une fois fondu ne se peult
-refondre pourceque<lb/>
+         <ab>Le <pro>commun</pro> estime que le <m>fer</m> une fois fondu ne se
+peult refondre pourceque<lb/>
 
-ilz ne le chaufent qua petites <tl>forges</tl> ou il ne faict que
+ilz ne le chaufent qua <tl>petites forges</tl> ou il ne faict que
 prendre ignition<lb/>
 
 Les <pro>alchemistes</pro> se promectent de le faire fondre avecq du
 <m>realgar</m> ou du<lb/>
 
-            <m>plomb</m> ou de l<m>orpiment</m> mesle Mays sans tout cela Aulcuns
+            <m>plomb</m> ou de l<m>orpiment mesle</m> Mays sans tout cela Aulcuns
 ont trouve<lb/>
 
 la maniere de <del>le</del> faire fondre non seulement le <m>fer
-aigre</m> comme celuy de <tl>pots</tl>
-            <lb/>
+aigre</m> comme celuy de <tl>pots<lb/>
 
-de <m>fer</m> Mays le <m>fer douls</m> co<exp>mm</exp>e <del>d</del>
-celuy de <m>gueuse</m> &amp; de <m>barre</m> qui est le plus<lb/>
+de <m>fer</m>
+            </tl> Mays le <m>fer douls</m> co<exp>mm</exp>e
+<del>d</del> celuy de gueuse &amp; de barre qui est le plus<lb/>
 
 malaise Et pour cet effect ilz font un <tl>fourneau</tl> en ceste sorte
 qui ha un<lb/>
 
-            <ms>pan</ms> &amp; demy de large &amp; <del>un <ms>pan</ms> &amp; demy
-de</del>deulx <ms>pans</ms> de profond Et la<lb/>
+            <ms>pan &amp; demy</ms> de large &amp; <del>un <ms>pan &amp; demy</ms>
+de</del> deulx <ms>pans</ms> de profond Et la<lb/>
 
-tuelle qui est le canon <del>par</del> marque A par ou les <m>tuyaulx
-des souflets</m> semboictent<lb/>
+tuelle qui est le canon <del>par</del> marque A par ou les tuyaulx des
+souflets semboictent<lb/>
 
 doibt estre posee au milieu de la profondeur du <tl>fourneau</tl> de
 sorte<lb/>
 
-quil y aye <ms>un pan</ms> de gueule de four sur la tuelle &amp; un
-<ms>pan</ms> dessouls</ab>
+quil y aye <ms>un pan</ms> de gueule de <tl>four</tl> sur la tuelle
+&amp; un <ms>pan</ms> dessouls</ab>
 
          <ab>
             <margin>left-top</margin>
 Chasque <ms>pan</ms>
             <lb/>
 
-de gueule de four<lb/>
+de gueule de <tl>four<lb/>
 
-en quarre contient<lb/>
+en quarre</tl> contient<lb/>
 
-un <ms>quintal</ms> &amp; demy<lb/>
-
-&amp; le <ms>pan</ms> du <tl>fourneau</tl>
+un <ms>quintal &amp; demy</ms>
             <lb/>
 
-rond en tient deulx<lb/>
+&amp; le <ms>pan</ms> du <tl>fourneau<lb/>
+
+rond</tl> en tient deulx<lb/>
 
             <ms>quintals</ms>
          </ab>
@@ -4240,11 +4282,14 @@ Les <pro>minerons</pro> pour fayre<lb/>
 
 courre le <m>fer</m> mectent a la<lb/>
 
-bouche de leur fonte deulx ou<lb/>
+bouche de leur <tl>fonte</tl> deulx ou<lb/>
 
-trois poignees d<m>
+trois <ms>
+               <bp>poignees</bp>
+            </ms> d<m>
                <pa>hiebles</pa>
-            </m> co<exp>mm</exp>e ilz<lb/>
+            </m>
+co<exp>mm</exp>e ilz<lb/>
 
 veulent faire courre la <m>fonte</m>
             <lb/>
@@ -4264,24 +4309,23 @@ sur le<lb/>
 bord &amp; muraille qui faict le ventre du <tl>fourneau</tl> &amp; par
 ce moyen se repand<lb/>
 
-esgallement par tout &amp; en hault comme la flamme dans un
-<tl>fourneau</tl> de<lb/>
+esgallement par tout &amp; en hault comme la flamme dans un <tl>fourneau
+de<lb/>
 
-reverberation &amp; parce moyen eschaufe beaucoup plus Car si le vent
-battoit<lb/>
+reverberation</tl> &amp; parce moyen eschaufe beaucoup plus Car si le
+vent battoit<lb/>
 
 a plomb la matiere fondue ou preste a se fondre il la refroidiroict
 &amp;<lb/>
 
 empescheroit de courre &amp; de se fondre Il fault aussy que les
-<tl>souflets</tl>
-            <lb/>
+souflets<lb/>
 
-soict conduicts par le sault &amp; <m>cours de leau</m> co<exp>mm</exp>e
+soict conduicts par le sault &amp; cours de l<m>eau</m> co<exp>mm</exp>e
 aulx <tl>forges</tl> pourceque en<lb/>
 
-ceste sorte les <m>souflets</m> vont par mesure &amp; compas &amp; dune
-grande vistesse<lb/>
+ceste sorte les souflets vont par mesure &amp; compas &amp; dune grande
+vistesse<lb/>
 
 Ce que ne pourroit <del>f</del> pas faire la force des
 <pro>ouvriers</pro> On dresse doncq<lb/>
@@ -4289,11 +4333,11 @@ Ce que ne pourroit <del>f</del> pas faire la force des
 la muraille comme tu vois &amp; le <tl>fourneau</tl> a la superficie de
 la terre Au<lb/>
 
-bord duquel tu fais une fosse co<exp>mm</exp>e aulx aultres fontes Affin
-de mectre<lb/>
+bord duquel tu fais une fosse co<exp>mm</exp>e aulx aultres
+<tl>fontes</tl> Affin de mectre<lb/>
 
-les moules de ce que tu veulx gecter &amp; pour ce faire tu destouppes
-le pertuis<lb/>
+les <tl>moules</tl> de ce que tu veulx gecter &amp; pour ce faire tu
+destouppes le pertuis<lb/>
 
 que tu avois fais au fonds du <tl>fourneau</tl> pour faire couler la
 matiere<lb/>
@@ -4301,11 +4345,12 @@ matiere<lb/>
 fondue Tu y pourras fondre deulx <ms>quintals</ms> de <m>fer</m> a
 chasque fois<lb/>
 
-Et pource faire tu choisiras le plus gros <m>charbon</m> que tu pourras
-trouver<lb/>
+Et pource faire tu choisiras le <tl>
+               <ms>plus gros</ms> charbon</tl> que
+tu pourras trouver<lb/>
 
-&amp; en poses une charge au fonds sur le plan et superficie du four
-&amp; le<lb/>
+&amp; en poses une charge au fonds sur le plan et superficie du
+<tl>four</tl> &amp; le<lb/>
 
 bas amoncellant en hault <del>comme</del> en poincte jusques au hault de
 la muraille</ab>
@@ -4314,7 +4359,7 @@ la muraille</ab>
             <margin>left-bottom</margin>
 Aulcuns font<lb/>
 
-un moule du<lb/>
+un <tl>moule</tl> du<lb/>
 
 calibre de la<lb/>
 
@@ -4334,11 +4379,11 @@ rouge ilz le<lb/>
 
 frappent dans le<lb/>
 
-moule &amp; larrondissent<lb/>
+            <tl>moule</tl> &amp; larrondissent<lb/>
 
-avecq une grosse<lb/>
+avecq une <tl>grosse<lb/>
 
-            <tl>lime</tl> Estimant<lb/>
+lime</tl> Estimant<lb/>
 
 ces balles estre<lb/>
 
@@ -4346,7 +4391,7 @@ plus fortes que<lb/>
 
 les fondues qui<lb/>
 
-estant <m>aigre</m>s<lb/>
+estant aigres<lb/>
 
 sont plus subgectes<lb/>
 
@@ -4368,19 +4413,19 @@ a rompre</ab>
          <id>p016r_a1</id>
 
          <ab>qui est commune<exp>ment</exp> de la haulteur de <del>d</del> trois
-<ms>pans</ms>
+<ms>pans</ms> 
             <del>&amp; fera bien<lb/>
 
 recuire le</del> Mays premierem<exp>ent</exp> il fault que tu ayes faict
 recuire ton<lb/>
 
             <tl>fourneau</tl> 
-            <del>avecq</del> avecq quelque peu de gros
-<m>charbons</m> de sorte que<lb/>
+            <del>avecq</del> avecq quelque peu de <tl>gros
+charbons</tl> de sorte que<lb/>
 
 le fonds soict rouge et lors tu y mectras la susdicte charge de<lb/>
 
-            <m>charbon</m> au milieu duquel tu mectras ton <m>fer</m> non pas tout
+            <tl>charbon</tl> au milieu duquel tu mectras ton <m>fer</m> non pas tout
 au coup<lb/>
 
 Mays dix ou quinze <ms>lb</ms> a chasque fois Et co<exp>mm</exp>e celuy
@@ -4389,8 +4434,8 @@ sera avalle <lb/>
             <del>&amp;</del> au fonds du <tl>fourneau</tl> remects en tousjours
 aultant Et charge<lb/>
 
-de trois ou quattre <ms>palle</ms>s de <m>charbon</m> nouveau qui soict
-du plus<lb/>
+de trois ou quattre <ms>palles</ms> de <tl>charbon nouveau</tl> qui
+soict du plus<lb/>
 
 gros &amp; remoille affin quil aye plus de chaleur &amp; ne se gaste
 pas<lb/>
@@ -4398,22 +4443,23 @@ pas<lb/>
 si tost Et quand tu cognoistras que ton <tl>fourneau</tl> sera plein
 de<lb/>
 
-matiere co<exp>mm</exp>e de deulx <ms>quintal</ms>s ou de moings si tu
+matiere co<exp>mm</exp>e de deulx <ms>quintals</ms> ou de moings si tu
 nen en pas tant<lb/>
 
-Tu laisseras consommer le <m>charbon</m> de soy mesme Et
-co<exp>mm</exp>e le <m>charbon</m>
+Tu laisseras consommer le <tl>charbon</tl> de soy mesme Et
+co<exp>mm</exp>e le <tl>charbon</tl>
             <lb/>
 
 sera comme abatu au ras du <tl>fourneau</tl> Tu pourras couler dans<lb/>
 
-des moules &amp; coquilles de <m>fer</m> ou de <m>metail</m> qui est
-encores meilleur<lb/>
+des <tl>moules</tl> &amp; <tl>coquilles de <m>fer</m> ou de
+<m>metail</m>
+            </tl> qui est encores meilleur<lb/>
 
 pourceque un <m>fer</m> sattaque a laultre Et fault que le dedans
 des<lb/>
 
-moules soient bien cendres avecq de la <m>cendre</m> destrempee
+            <tl>moules</tl> soient bien cendres avecq de la <m>cendre destrempee</m>
 affin<lb/>
 
 quil ne sarrape pas</ab>
@@ -5792,7 +5838,7 @@ po<exp>ur</exp> en tirer la <m>croutte</m> Et puis le<lb/>
 netoyeres bien apres Il fault le remouldre bien delie Et le passer
 par<lb/>
 
-ung cedar bien delie ce faict Il fault detremper la <m>farine</m> avec
+ung cedas bien delie ce faict Il fault detremper la <m>farine</m> avec
 du<lb/>
 
             <m>beurre</m> frais fondu et du <m>laict</m> Et quil y ait aultant dung
@@ -5812,7 +5858,7 @@ couleur</ab>
 
          <ab>
 
-Il fault apres avoir des <tl>moulle</tl>s Et fault quil soient de
+Il fault apres avoir des <tl>moulles</tl> Et fault quil soient de
 <m>terre</m>
             <lb/>
 
@@ -5822,14 +5868,14 @@ fault quil soit ouvert par les deux boutz Et puis ayant faict<lb/>
 
 bon feu vous nettoyeres la place du fouye ou vous voules<lb/>
 
-mettre voz <m>millas</m> Et puis vous prandres voz <tl>moulle</tl>s et
+mettre voz <m>millas</m> Et puis vous prandres voz <tl>moulles</tl> et
 les gresseres<lb/>
 
 bien fort affin que la <m>pate</m> ne se tienne pas quant elle sera
 cuitte<lb/>
 
 ayant faict cela vous mettres voz d<exp>ictz</exp> 
-            <tl>moule</tl>s sur
+            <tl>moules</tl> sur
 la <tl>place du fouye</tl>
             <lb/>
 
@@ -5837,7 +5883,7 @@ bien nettoyee Et mettres ung peu de <m>farine</m> au fondz Et les<lb/>
 
 emplires de la <m>pate</m> cy dessus dicte apres vous couvrires les<lb/>
 
-dictz <tl>moule</tl>s dung <tl>couvercle</tl> qui sera faict comme le
+dictz <tl>moules</tl> dung <tl>couvercle</tl> qui sera faict comme le
 <tl>moulle</tl> mais<lb/>
 
 Il fault quil soit plus grand Et quil ne soit pas ouvert<lb/>
@@ -8575,16 +8621,18 @@ deulx <ms>poignees</ms> de <m>fiente de <al>pigeon</al>
 
          <id>p031r_2</id>
 
-         <head>
-            <m>Eaulx</m> coulourees</head>
+         <head>Eaulx coulourees</head>
 
-         <ab>L<m>urine</m> distillee Le <m>vinaigre</m> distille et l<m>eau
+         <ab>L<m>urine distillee</m> Le <m>vinaigre distille</m> et l<m>eau
 de<lb/>
 
-vye</m> prenent taincture caerulee &amp; verte de l<m>aes ustum</m>
-            <lb/>
+vye</m> prenent taincture caerulee &amp; verte de l<m>
+               <la>aes
+ustum</la>
+               <lb/>
 
-pulverise et subtilem<exp>ent</exp> broye Et ceste taincture est<lb/>
+pulverise et subtilem<exp>ent</exp> broye</m> Et ceste taincture
+est<lb/>
 
             <m>cuivre rouge</m> en sa resideue Si tu distilles les susdictes<lb/>
 
@@ -9664,9 +9712,8 @@ sans toucher a terre</head>
 
          </figure>
 
-         <ab>Selon la force de tes <tl>costeaulx ou <env>de cuisine ou de
-table</env>
-            </tl> tu feras<lb/>
+         <ab>Selon la force de tes <tl>costeaulx ou <env>de cuisine</env> ou de
+table</tl> tu feras<lb/>
 
 soubstenir un grand pois sur leur poincte couchee &amp; disposee en<lb/>
 
@@ -9853,34 +9900,39 @@ que ce soict le premier remply de <m>
 un<lb/>
 
             <tl>chapeau</tl> &amp; pose doulcem<exp>ent</exp> la <tl>cloche</tl> sur
-la table pour la<lb/>
+la <tl>table</tl> pour la<lb/>
 
 premiere foys Et si tu veulx monstre promptem<exp>ent</exp> &amp;
 sans<lb/>
 
-arrester le fonds qui sera couvert de <m>cuir blanc</m> de la
+arrester le fonds qui sera couvert de <tl>
+               <m>cuir blanc</m> de la
 couleur<lb/>
 
-du <m>boys</m> Puys faisant semblant de monstrer le<lb/>
+du <m>boys</m>
+            </tl> Puys faisant semblant de monstrer le<lb/>
 
             <tl>boisseau</tl> qui est soubs le <tl>chapeau</tl> tu le tourneras<lb/>
 
 dextrem<exp>ent</exp> du coste quil est vuyde &amp; le laisseras
 couvert<lb/>
 
-puys commanderas que par invisibilium le <m>
+puys commanderas que par <la>invisibilium</la> le <m>
                <pa>bled</pa>
-            </m> passe<lb/>
+            </m>
+passe<lb/>
 
 dans la <tl>cloche</tl> de laquelle tu fraperas un peu
 auparava<exp>n</exp>t<lb/>
 
-sur la table un peu fort &amp; le <m>
+sur la <tl>table</tl> un peu fort &amp; le <m>
                <pa>bled</pa>
-            </m> tumbera au fonds
-&amp;<lb/>
+            </m> tumbera
+au fonds &amp;<lb/>
 
-couvrira la piece de <m>cuir</m> Puys leve le <tl>chapeau</tl>
+couvrira la <tl>piece de <m>cuir</m>
+            </tl> Puys leve le
+<tl>chapeau</tl>
             <lb/>
 
 le <tl>boisseau</tl> 
@@ -9890,7 +9942,8 @@ le <tl>boisseau</tl>
 de <m>
                <pa>bled</pa>
             </m> que tu racleras dextrem<exp>ent</exp> avecq la
-piece de <m>cuir</m>
+<tl>piece de <m>cuir</m>
+            </tl>
 
          </ab>
 
@@ -9923,9 +9976,10 @@ dans le <tl>sac</tl> ou <tl>gibbessiere</tl>
 
          <id>p036r_1</id>
 
-         <head>Pour fayre transmuer une boule<lb/>
+         <head>Pour fayre transmuer une <tl>boule</tl>
+            <lb/>
 
-en un de a couldre subtil</head>
+en un <tl>de a couldre</tl> subtil</head>
 
          <figure>
 
@@ -9935,78 +9989,105 @@ en un de a couldre subtil</head>
 
             <link>https://drive.google.com/open?id=0B9-oNrvWdlO5UmZaWjV2VE82QjQ</link>
 
-            <caption>de cuir</caption>
+            <caption>de <m>cuir</m>
+            </caption>
 
          </figure>
 
-         <ab>Fais un petit estuy de <m>cuyr</m> simple co<exp>mm</exp>e de
-<al>vache</al> ou <m>marroquin</m>
+         <ab>Fais un <tl>petit estuy de <m>cuyr simple co<exp>mm</exp>e de
+<al>vache</al> ou marroquin</m>
+            </tl>
             <lb/>
 
 asses espois <ms>hault de trois <bp>doits</bp>
             </ms> cousu comme le doigt
 dun gand<lb/>
 
-&amp; de telle largeur que <ms>deulx pointes de <bp>doigt</bp>
+&amp; <ms>de telle largeur que deulx pointes de <bp>doigt</bp>
             </ms> y
 puyssent entrer<lb/>
 
-&amp; qui au bout qui est un peu fronsse a un trou rond de la
+&amp; qui au bout qui est un peu fronsse a un trou rond <ms>de la
 largeur<lb/>
 
-dun <ms>double <cn>liard</cn>
-            </ms> Ayes <del>un</del> deulx boules de
-<m>buys</m> semblables &amp;<lb/>
+dun double <cn>liard</cn>
+            </ms> Ayes <del>un</del> deulx <tl>boules de
+<m>
+                  <pa>buys</pa>
+               </m>
+            </tl> semblables &amp;<lb/>
 
 que lune soict creuse &amp; ouverte dun trou rond
 seulem<corr>
                <exp>ent</exp>
             </corr> par un coste<lb/>
 
-de sorte que le de a couldre y puysse entrer Doncq quand<lb/>
+de sorte que le <tl>de a couldre</tl> y puysse entrer Doncq quand<lb/>
 
-tu vouldras jouer Tu mectras ton estuy de <m>cuir</m> sur la table<lb/>
-
-avecq la pillotte qui nest poinct creuse Passe le <tl>baston</tl> par
-dedans<lb/>
-
-lestuy de <m>cuir</m> pour monstrer quil ny a rien monstre aussy la
-pelotte<lb/>
-
-ronde Et tiens celle qui est creuse &amp; qui ha dedans soy le de a<lb/>
-
-couldre entre le <bp>petit doit</bp> &amp; l<bp>annulaire</bp> Et ce de
-la <bp>main droite</bp>
+tu vouldras jouer Tu mectras ton <tl>estuy de <m>cuir</m>
+            </tl> sur la
+<tl>table</tl>
             <lb/>
 
-de laquelle tu tiens le <tl>baston</tl> Apres tu prens ton estuy de<lb/>
+avecq la <tl>pillotte</tl> qui nest poinct creuse Passe le
+<tl>baston</tl> par dedans<lb/>
 
-            <m>cuir</m> &amp; le pose sur la pelotte creuse qui est entre les
-<bp>doits</bp> &amp;<lb/>
+l<tl>estuy de <m>cuir</m>
+            </tl> pour monstrer quil ny a rien monstre
+aussy la <tl>pelotte</tl>
+            <lb/>
 
-faisant semblant dy mettre de la <m>pouldre doribus</m> dessus tu<lb/>
+ronde Et tiens celle qui est creuse &amp; qui ha dedans soy le <tl>de
+a<lb/>
 
-remects le moule de <m>cuir</m> qui contient la pelotte du de sur
-la<lb/>
+couldre</tl> entre le <tl>
+               <bp>petit doit</bp>
+            </tl> &amp;
+l<tl>
+               <bp>annulaire</bp>
+            </tl> Et ce de la <tl>
+               <bp>main
+droite</bp>
+            </tl>
+            <lb/>
 
-table Puys tu prens la pelotte ronde &amp; massive demeuree<lb/>
+de laquelle tu tiens le <tl>baston</tl> Apres tu prens ton <tl>estuy
+de<lb/>
 
-sur la table Et luy commandes de entrer par dessoubs la<lb/>
+               <m>cuir</m>
+            </tl> &amp; le pose sur la <tl>pelotte</tl> creuse qui est
+entre les <bp>doits</bp> &amp;<lb/>
 
-table dans lestuy de <m>cuir</m> Puys levant le <m>cuir</m> elle
-semble<lb/>
+faisant semblant dy mettre de la <m>pouldre d<la>oribus</la>
+            </m> dessus
+tu<lb/>
+
+remects le <tl>moule de <m>cuir</m>
+            </tl> qui contient la
+<tl>pelotte</tl> du <tl>de</tl> sur la<lb/>
+
+            <tl>table</tl> Puys tu prens la <tl>pelotte</tl> ronde &amp; massive
+demeuree<lb/>
+
+sur la <tl>table</tl> Et luy commandes de entrer par dessoubs la<lb/>
+
+            <tl>table</tl> dans l<tl>estuy de <m>cuir</m>
+            </tl> Puys levant le
+<m>cuir</m> elle semble<lb/>
 
 estre celle mesme combien que ce soit la creuse Puys tu la<lb/>
 
 recouvres &amp; luy commandes quelle se fasse invisible Et lors<lb/>
 
-levant lestuy en pressant tu enleveras quand &amp; quand la boule<lb/>
+levant l<tl>estuy</tl> en pressant tu enleveras quand &amp; quand la
+<tl>boule</tl>
+            <lb/>
 
-&amp; <del>l</del> la remectant avecq lestuy a part <del>&amp; a
-<ill/>
+&amp; <del>l</del> la remectant avecq l<tl>estuy</tl> a part <del>&amp;
+a <ill/>
             </del> Il se trouvera<lb/>
 
-en sa place un de pour les dames a qui le cul faict mal<lb/>
+en sa place un <tl>de</tl> pour les dames a qui le cul faict mal<lb/>
 
 cest a dire le cul de lesguille</ab>
 
@@ -13103,12 +13184,12 @@ dict
 
       <div>
          <id>p047v_a1</id>
-         <head>Boisson <sn>ayant goust de vin</sn>
+         <head>Boisson ayant <sn>goust</sn> de <m>vin</m>
          </head>
 
-         <ab>Ayes du <m>tartre</m> des grands vaisseaulx &amp; les destrempe<lb/>
+         <ab>Ayes du <m>tartre des grands vaisseaulx</m> &amp; les destrempe<lb/>
 
-en <m>eau</m> &amp; il aura <sn>goust de vin</sn>
+en <m>eau</m> &amp; il aura <sn>goust</sn> de <m>vin</m>
          </ab>
 
       </div>
@@ -13281,7 +13362,7 @@ par l<m>estamine</m> estant bien pile &amp; lincorpore avecq ta
 
       <div>
          <id>p048r_a4</id>
-         <head>Garder oiseaulx et<lb/>
+         <head>Garder <al>oiseaulx</al> et<lb/>
 
 animaulx</head>
 
@@ -13291,29 +13372,36 @@ animaulx</head>
 
 Prens la mesure de leur corps qui est charnu &amp; le plus<lb/>
 
-subgect a putrefaction avecq de la <m>toille</m> que tu coupperas<lb/>
+subgect a putrefaction avecq de la <tl>
+               <m>toille</m>
+            </tl> que tu
+coupperas<lb/>
 
 de leur grandeur &amp; grosseur et layant <del>cou</del> remplye de
 <m>cotton</m>
             <lb/>
 
-&amp; cousue Escorche les <del>oiseaulx</del> Laissant neantmoings la
-teste<lb/>
+&amp; cousue Escorche les <del>
+               <al>oiseaulx</al>
+            </del> Laissant
+neantmoings la teste<lb/>
 
-le col les aisles &amp; les pieds aulx oiseaulx &amp; la teste les
-cuisses<lb/>
+le col les aisles &amp; les pieds aulx <al>oiseaulx</al> &amp; la teste
+les cuisses<lb/>
 
 &amp; pieds &amp; queue aulx animaulx a cause que facillem<exp>ent</exp>
 cela se<lb/>
 
 deseiche puys adapte ceste <m>peau</m> sur l<del>a</del>e <del>to</del>
-moule faict de<lb/>
+            <tl>moule faict de<lb/>
 
-            <m>toile</m> Les petits se sechent au four ou acoustrent avecq
-<m>sel</m>
-            <lb/>
+               <m>toile</m>
+            </tl> Les petits se sechent au <tl>four</tl> ou acoustrent
+avecq <m>sel<lb/>
 
-            <m>armoniac</m> &amp; <ill/>
+armoniac</m> &amp; <m>
+               <ill/>
+            </m>
          </ab>
 
       </div>
@@ -13325,45 +13413,52 @@ moule faict de<lb/>
 
       <div>
          <id>p048v_a1</id>
-         <head>Extraction de regulus</head>
+         <head>Extraction de <m>regulus</m>
+         </head>
 
-         <ab>R<exp>ecipe</exp> une lb d<m>antimoyne</m> demy lb <m>savon noer</m>
-et demy lb<lb/>
+         <ab>R<exp>ecipe</exp> une <ms>lb</ms> d<m>antimoyne</m> 
+            <ms>demy lb</ms>
+            <m>savon noer</m> et <ms>demy lb</ms>
+            <lb/>
 
-de <m>tartre de montpellier</m> Le tout pulverise fault faire<lb/>
+de <m>tartre de <pl>montpellier</pl>
+            </m> Le tout pulverise fault
+faire<lb/>
 
-bouillir dans un pot de <m>terre</m> verny a grand foeu en
+bouillir dans un <tl>pot de terre verny</tl> a grand foeu en
 remua<exp>n</exp>t<lb/>
 
-le tout souvent avecq une <tl>broche de <m>boys</m>
-            </tl> ou de
-<m>fer</m> &amp; ledict<lb/>
+le tout souvent avecq une <tl>broche de <m>boys</m> ou de
+<m>fer</m>
+            </tl> &amp; ledict<lb/>
 
             <m>savon</m> se consumera et bruslera Et le restant demeurera
 co<exp>mm</exp>e rouge<lb/>
 
-Et fauldra que cella se diminue pour un tiers Puys fault<lb/>
+Et fauldra que cella se diminue pour un <ms>tiers</ms> Puys fault<lb/>
 
-gecter cella sur le <m>carreau</m> Et sera noirastre Ce quil
+gecter cella sur le <tl>carreau</tl> Et sera noirastre Ce quil
 fauldra<lb/>
 
-par quattre ou cinq foys fondre et verser sur le <m>quarreau</m>
-            <lb/>
+par quattre ou cinq foys fondre et verser sur le <tl>quarreau<lb/>
 
-en platte Et lors aures le <m>regulus</m> tire de l<m>antimoine</m>
+en platte</tl> Et lors aures le <m>regulus</m> tire de
+l<m>antimoine</m>
          </ab>
 
          <ab>Aultres pulverisent l<m>antimoine</m> &amp; le meslent avecq
 <m>salpestre</m>
             <lb/>
 
-&amp; <m>tartre</m> pulverise aultant dun que daultre &amp; ayant faict
-rougir<lb/>
+&amp; <m>tartre pulverise</m> 
+            <ms>aultant dun que daultre</ms> &amp;
+ayant faict rougir<lb/>
 
 un <tl>pot</tl> ou <tl>crusol</tl> en mectent un peu a chasque fois
 &amp; <del>se</del> tournent<lb/>
 
-le dos de peur de la fumee Et continuent ainsy jusques a ce que<lb/>
+le <bp>dos</bp> de peur de la fumee Et continuent ainsy jusques a ce
+que<lb/>
 
 tout y soict mis Et fortifient le foeu jusques a ce que tout soit<lb/>
 
@@ -15249,13 +15344,16 @@ les dents &amp; ne te pourront nuire</ab>
 
          <id>p054v_4</id>
 
-         <head>Pour desguiser un cheval</head>
+         <head>Pour desguiser un <al>cheval</al>
+         </head>
 
          <ab>Luy coupper les oreilles &amp; la queue &amp; avecq de la
-<m>paille</m>
-            <lb/>
+<tl>
+               <m>paille<lb/>
 
-allumee luy faire griller le poil de la teste &amp; ailleurs</ab>
+allumee</m>
+            </tl> luy faire griller le poil de la teste &amp;
+ailleurs</ab>
 
       </div>
 
@@ -15457,13 +15555,19 @@ tout ceste pouldre apres &amp;</ab>
          <id>p055v_2</id>
 
          <head>
-            <m>Acier</m> de damas</head>
+            <m>Acier de damas</m>
+         </head>
 
-         <ab>Distille des <m>lumbris</m> a part &amp; de la foeille de<lb/>
+         <ab>Distille des <m>
+               <al>lumbris</al>
+            </m> a part &amp; de la <m>foeille
+de<lb/>
 
-reforts a part &amp; mesle ces deulx <m>eaulx</m> aultant<lb/>
+               <pa>reforts</pa>
+            </m> a part &amp; mesle ces deulx <m>eaulx</m>
+            <ms>aultant<lb/>
 
-dune que daultre &amp; la dedans trempe</ab>
+dune que daultre</ms> &amp; la dedans trempe</ab>
 
       </div>
 
@@ -15528,41 +15632,65 @@ deulx<lb/>
 
 cuirasse</head>
 
-         <ab>Ayes <m>eau de riviere</m> la plus claire &amp; la plus
+         <ab>Ayes <m>eau de <env>riviere</env>
+            </m> la plus claire &amp; la plus
 courante<lb/>
 
 quil sera possible &amp; fais la chaufer un peu plus que tiede<lb/>
 
-Puys ayes une botte de <m>gaulde</m> &amp; en prens la <m>grene</m>
+Puys ayes une botte de <m>
+               <pa>gaulde</pa>
+            </m> &amp; en prens la grene
 &amp; la<lb/>
 
 mects dans ladicte <m>eau</m> &amp; la fais fort bouillir la
 remuant<lb/>
 
-avecq un baston puys verse la dans un muy ou aultre<lb/>
+avecq un <tl>baston</tl> puys verse la dans un <tl>muy</tl> ou
+aultre<lb/>
 
-vaisseau puys gectes dedans deulx picotins de <m>sel</m>
+            <tl>vaisseau</tl> puys gectes dedans deulx <ms>picotins</ms> de
+<m>sel</m>
          </ab>
 
-         <ab>Apres prenes un grand chaulderon de ladicte <m>eau de<lb/>
+         <ab>Apres prenes un <ms>
+               <tl>grand chaulderon</tl> de ladicte <m>eau
+de<lb/>
 
-riviere</m> &amp; la faictes chaufer un peu plus que tiede &amp;<lb/>
+                  <env>riviere</env>
+               </m>
+            </ms> &amp; la faictes chaufer un peu plus que
+tiede &amp;<lb/>
 
-prenes de la <m>terre grasse rouge</m> trois ou quattre joinctees<lb/>
+prenes de la <m>terre grasse rouge</m> trois ou quattre
+<ms>
+               <bp>joinctees</bp>
+            </ms>
+            <lb/>
 
-destrempes la &amp; la gectes dans le chaulderon avecq ladicte<lb/>
+destrempes la &amp; la gectes dans le <tl>chaulderon</tl> avecq
+ladicte<lb/>
 
-eau Prenes aultant de <m>fiente de pigeon</m> que de ladicte<lb/>
+            <m>eau</m> Prenes <ms>aultant de <m>fiente de <al>pigeon</al>
+               </m> que de
+ladicte<lb/>
 
-            <m>terre</m> &amp; aultant de <m>fiante de cheval</m> &amp; aultant de
-limaille<lb/>
+               <m>terre</m>
+            </ms> &amp; <ms>aultant de <m>fiante de
+<al>cheval</al>
+               </m>
+            </ms> &amp; <ms>aultant de <m>limaille<lb/>
 
-de <m>fer</m> &amp; le tout destrempes separem<exp>ent</exp> &amp; le
+de fer</m>
+            </ms> &amp; le tout destrempes separem<exp>ent</exp> &amp; le
 gectes dans le<lb/>
 
-chaulderon &amp; la laisses deulx ou trois jours puys la gectes<lb/>
+            <tl>chaulderon</tl> &amp; la laisses deulx ou trois
+<ms>
+               <tmp>jours</tmp>
+            </ms> puys la gectes<lb/>
 
-apres dans ledict muy Et remues le tout fort ensemble<lb/>
+apres dans ledict <tl>muy</tl> Et remues le tout fort ensemble<lb/>
 
 Et tant plus ceste trempe sera vielle tant mieulx vauldra</ab>
 
@@ -22262,17 +22390,23 @@ au<exp>ltr</exp>e chose</ab>
 
 dedans <m>lye de vin</m> Et puis de Rechief le laver aveq du <m>vin<lb/>
 
-blanc</m> Et prandre trois onces <m>terra merita</m> &amp; choppine
-de<lb/>
+blanc</m> Et prandre trois <ms>onces</ms> 
+            <m>terra merita</m> &amp;
+<ms>choppine</ms> de<lb/>
 
-            <m>vin blanc</m> Et faire bouillir les matieres lespace de demye<lb/>
+            <m>vin blanc</m> Et faire bouillir les matieres l<ms>espace de
+<tmp>demye<lb/>
 
-heure &amp; poser vos couleurs sur v<exp>ost</exp>re <m>fer</m> ou
-<m>Estaing</m> ou au<exp>ltr</exp>e<lb/>
+heure</tmp>
+            </ms> &amp; poser vos couleurs sur v<exp>ost</exp>re
+<m>fer</m> ou <m>Estaing</m> ou au<exp>ltr</exp>e<lb/>
 
-Et puys le laisses secher sur un <m>pappier</m> &amp; ne mectre<lb/>
+Et puys le laisses secher sur un <tl>
+               <m>pappier</m>
+            </tl> &amp; ne
+mectre<lb/>
 
-poinct la main en vos matieres</ab>
+poinct la <bp>main</bp> en vos matieres</ab>
 
       </div>
    </root>
@@ -29029,13 +29163,18 @@ barbe car ces trois choses font fort resembler</ab>
 
          <id>p100r_3</id>
 
-         <head>Pierreries</head>
+         <head>
+            <m>Pierreries</m>
+         </head>
 
-         <ab>Il fault piler tes materiaulx en un <tl>mortier</tl> de <m>verre</m>
-espes<lb/>
+         <ab>Il fault <tl>piler</tl> tes materiaulx en un <tl>mortier de <m>verre
+espes</m>
+            </tl>
+            <lb/>
 
-&amp; enchasse &amp; <m>mastique</m> dans un aultre <tl>mortier</tl> de
-<m>bois</m> affin<lb/>
+&amp; enchasse &amp; <m>mastique</m> dans un aultre <tl>mortier de
+<m>bois</m>
+            </tl> affin<lb/>
 
 quil ne se rompe point Cela peult servir aulx <pro>parfumeurs</pro>
             <lb/>
@@ -29053,16 +29192,16 @@ quil ne se rompe point Cela peult servir aulx <pro>parfumeurs</pro>
 
          <man>
             <margin>left-middle</margin>
-            <tl>Mortier</tl>
-            <lb/>
+            <tl>Mortier<lb/>
 
 de <m>verre</m>
+            </tl>
             <lb/>
 
-et <tl>table</tl>
-            <lb/>
+et <tl>table<lb/>
 
 de <m>verre</m>
+            </tl>
             <lb/>
 
 a broyer</man>
@@ -29078,18 +29217,18 @@ a broyer</man>
          <ab>Estant fondu avec les <m>caillous</m> il faict le <m>verre</m> fort
 blanc<lb/>
 
-Mays il le fault plustost calciner sur une <tl>tuile</tl> ou
-<tl>palle</tl>
+Mays il le fault plustost calciner sur une <tl>tuile ou palle<lb/>
+
+chaulde</tl> Et ce qui restera de la vapeur Mesle le avec
+<ms>aulta<exp>n</exp>t<lb/>
+
+de <m>caillou blanc calcine</m>
+            </ms> Il est vray quau <tl>petit
+fourneau</tl>
             <lb/>
 
-chaulde Et ce qui restera de la vapeur Mesle le avec
-aulta<exp>n</exp>t<lb/>
-
-de <m>caillou</m> blanc calcine Il est vray quau petit
-<tl>fourneau</tl>
+Il ne se clarifie pas bien Mays aulx grandes <m>verrieres</m>
             <lb/>
-
-Il ne se clarifie pas bien Mays aulx grandes verrieres<lb/>
 
 il faict le <m>verre</m> fort cler &amp; blanc &amp; net</ab>
 
@@ -29154,11 +29293,12 @@ pour nettoyer les<lb/>
             <m>Pierrerie</m>
          </head>
 
-         <ab>Prens des <m>caillous</m> blancs qui se trouvent par<lb/>
+         <ab>Prens des <m>caillous blancs qui se trouvent par<lb/>
 
-les rivieres &amp; parmy le sablon &amp; les chemins qui sont<lb/>
+les <env>rivieres</env> &amp; parmy le <env>sablon</env> &amp; les
+<env>chemins</env> qui sont<lb/>
 
-aulcunem<exp>ent</exp> transparents &amp; sils le sont
+aulcunem<exp>ent</exp> transparents</m> &amp; sils le sont
 parfaictem<exp>ent</exp> ce<lb/>
 
 sera mieulx Sinon use des meilleurs &amp; plus blancs<lb/>
@@ -29169,16 +29309,18 @@ dans ton <tl>four a vent</tl> &amp; les estaints dans de
 l<m>eau</m>
             <lb/>
 
-ou <m>vinaigre</m> Apres prens en une <figure>
-               <ms>℥</ms>
-            </figure> et les
-pile<lb/>
-
-dans un <tl>mortier</tl> tout pur de <m>cuivre</m> &amp; avecq un
-<tl>pilon</tl>
+ou <m>vinaigre</m> Apres prens en une <ms>
+               <figure>℥</figure>
+            </ms> et les
+<tl>pile</tl>
             <lb/>
 
-de pur <m>cuivre</m> Et les broye jusques a ce quils<lb/>
+dans un <tl>mortier tout pur de <m>cuivre</m>
+            </tl> &amp; avecq un
+<tl>pilon<lb/>
+
+de pur <m>cuivre</m>
+            </tl> Et les broye jusques a ce quils<lb/>
 
 soient en pouldre fort subtile &amp; doulce et cela est<lb/>
 
@@ -29186,17 +29328,17 @@ un signe quils ont prins de la substance du <m>cuivre</m>
             <lb/>
 
 asses pour leur donner verdeur Lors sur ton
-<figure>
-               <ms>℥</ms>
-            </figure>
+<ms>
+               <figure>℥</figure>
+            </ms>
             <lb/>
 
-de <m>caillou</m> mects y trois <figure>
-               <ms>℥</ms>
-            </figure> de bon
-<m>minium</m> non sophistique<lb/>
+de <m>caillou</m> mects y trois <ms>
+               <figure>℥</figure>
+            </ms> de <m>bon
+minium non sophistique<lb/>
 
-de <m>brique</m> &amp; daultre chose Et broye encores bien<lb/>
+de brique</m> &amp; daultre chose Et broye encores bien<lb/>
 
 fort tout ensemble dans le <tl>mortier de <m>bronze</m>
             </tl>
@@ -29205,15 +29347,15 @@ fort tout ensemble dans le <tl>mortier de <m>bronze</m>
 Et sur tout cela mets y un <ms>gros</ms> 
             <add>
                <del>pour
-<figure>
-                     <ms>℥</ms>
-                  </figure>
+<ms>
+                     <figure>℥</figure>
+                  </ms>
                </del>
             </add> de <m>sel de verre</m>
             <lb/>
 
-&amp; aulcuns &amp; le commun y mect d<del>e</del>u <m>suin de
-verre</m>
+&amp; aulcuns &amp; le <pro>commun</pro> y mect d<del>e</del>u <m>suin
+de verre</m>
             <lb/>
 
 quilz trouvent ches les <pro>verriers</pro> ou
@@ -29222,12 +29364,7 @@ quilz trouvent ches les <pro>verriers</pro> ou
 
 Mays le <m>sel alchali</m> co<exp>mm</exp>e tu scais est meilleur<lb/>
 
-            <man>
-               <margin>left-middle</margin>
-               <m>Esmeraulde</m>
-            </man>
-
-En ceste sorte le vulgaire faict des <m>esmerauldes</m>
+En ceste sorte le <pro>vulgaire</pro> faict des <m>esmerauldes</m>
             <lb/>
 
 &amp; en gectent en sable si tu nas point de <tl>mortier<lb/>
@@ -29238,6 +29375,11 @@ de <m>bronze</m>
 
 de pur <m>cuivre</m>
             </tl>
+
+            <man>
+               <margin>left-middle</margin>
+               <m>Esmeraulde</m>
+            </man>
 
          </ab>
 
@@ -29279,7 +29421,9 @@ le foeu
 
 Elles sont faictes<lb/>
 
-en <ms>une heure &amp; demye</ms>
+en une <ms>
+               <tmp>heure &amp; demye</tmp>
+            </ms>
 
          </ab>
 
@@ -29290,22 +29434,24 @@ en <ms>une heure &amp; demye</ms>
 Un <ms>gros</ms> de <m>sel</m>
             <lb/>
 
-sur les quattre <figure>
-               <ms>℥</ms>
-            </figure>
+sur les quattre <ms>
+               <figure>℥</figure>
+            </ms>
             <lb/>
 
 de <m>caillou</m> &amp; <m>minium</m>
             <lb/>
 
-quand on dict pour <figure>
-               <ms>℥</ms>
-            </figure>
+quand on dict pour <ms>
+               <figure>℥</figure>
+            </ms>
             <lb/>
 
 cela sentend sur une<lb/>
 
-            <figure>℥</figure> du corps &amp; non pas<lb/>
+            <ms>
+               <figure>℥</figure>
+            </ms> du corps &amp; non pas<lb/>
 
 des <m>sels</m> &amp; du <m>minium</m>
 
@@ -29317,30 +29463,36 @@ des <m>sels</m> &amp; du <m>minium</m>
 
          <id>p100v_2</id>
 
-         <head>Pour <m>ruby</m> prens de l<m>or</m>
-            <lb/>en foeille</head>
+         <head>Pour <m>ruby</m> prens de l<m>or<lb/>
 
-         <ab>Haulsse ton <tl>four</tl> de deulx tuiles tout aultour
-pourcequil<lb/>
+en foeille</m>
+         </head>
+
+         <ab>Haulsse ton <tl>four</tl> 
+            <ms>de deulx <tl>tuiles</tl>
+            </ms> tout
+aultour pourcequil<lb/>
 
 fault plus de chaleur pour fayre <m>rubis</m> que pour
 <m>esmerauldes</m>
             <lb/>
 
-Et prens une <figure>
-               <ms>℥</ms>
-            </figure> de <m>caillou</m> blanc calcine
+Et prens une <ms>
+               <figure>℥</figure>
+            </ms> de <m>caillou blanc calcine</m>
 et la mects dans<lb/>
 
 un <tl>mortier de <m>verre</m>
             </tl> &amp; layant grossierement
 broye<lb/>
 
-avecq le <tl>pilon</tl> de mesme Mesles y <del>un grain</del> le poix
-dun<lb/>
+avecq le <tl>pilon</tl> de mesme Mesles y <del>
+               <ms>un grain</ms>
+            </del>
+            <ms>le poix dun<lb/>
 
-            <ms>grain</ms> d<m>or</m> en foeille de quoy les <pro>painctres</pro>
-dorent &amp; broye</ab>
+grain</ms> d<m>or en foeille</m> de quoy les <pro>painctres</pro>
+            <m>dorent</m> &amp; broye</ab>
 
          <ab>
 
@@ -29390,7 +29542,8 @@ puys battu en foeille</ab>
          <ab>encores bien fort puys adjoustes y iii <ms>
                <figure>℥</figure>
             </ms>
-de <m>Minium</m> &amp; pilles<lb/>
+de <m>Minium</m> &amp; <tl>pilles</tl>
+            <lb/>
 
 encores bien tout ensemble &amp; le mectes dans le <tl>crusol</tl>
 lequel<lb/>
@@ -29401,33 +29554,34 @@ que<lb/>
 la chaleur y reverbere mieulx Puys pose le sur la <tl>grille</tl>
             <lb/>
 
-de ton <tl>fourneau</tl> ayant mis dessoubs quelque
-<tl>carreau</tl>
-            <lb/>
+de ton <tl>fourneau</tl> ayant mis dessoubs quelque <tl>carreau<lb/>
 
-arrondy espes Apres emplis ton <tl>four de <m>charbon</m>
-            </tl>
+arrondy espes</tl> Apres emplis ton <tl>four</tl> de <tl>charbon</tl>
 jusques<lb/>
 
-a la <bp>gueule</bp> quil soict comble et laisse allumer Et
-entretiens<lb/>
+a la gueule quil soict comble et laisse allumer Et entretiens<lb/>
 
-toujours la chaleur esgalle sans laisser abaisser le <m>charbon</m>
+toujours la chaleur esgalle sans laisser abaisser le
+<tl>charbon</tl>
             <lb/>
 
 Et pour cest effect fais que tousjours le <tl>four</tl> soict
 comble<lb/>
 
-&amp; ras de <m>charbon</m> Et lentretiens ainsy un <ms>jour</ms> La
-premiere<lb/>
+&amp; ras de <tl>charbon</tl> Et lentretiens ainsy un
+<ms>
+               <tmp>jour</tmp>
+            </ms> La premiere<lb/>
 
 experience que jen ay faicte il nest venu quune masse jaulne
 co<exp>mm</exp>e est<lb/>
 
-le <m>minium</m> seul vitrifie &amp; quelque grains d<m>or</m> en masse
-au fonds<lb/>
+le <m>minium seul vitrifie</m> &amp; quelque <ms>grains</ms> d<m>or</m>
+en masse au fonds<lb/>
 
-@Essaye l<m>or</m> cimente et acompaigne de l<m>antimoine</m>
+            <rub>Essaye l<m>or</m> cimente et acompaigne de
+l<m>antimoine</m>
+            </rub>
          </ab>
 
          <ab>
@@ -29445,7 +29599,7 @@ mects sur le<lb/>
 
 bort de la<lb/>
 
-            <bp>gueule</bp> du<lb/>
+gueule du<lb/>
 
             <tl>four</tl> allume<lb/>
 
@@ -29480,10 +29634,12 @@ la chaleur</ab>
             <m>Topasse</m>
          </head>
 
-         <ab>La mesme doze sobserve en toutes <m>pierreries</m> scavoir un<lb/>
+         <ab>La mesme <ms>doze</ms> sobserve en toutes <m>pierreries</m> scavoir
+<ms>un<lb/>
 
-            <ms>poix</ms> de <m>caillous</m> calcines sur trois de <m>minium</m>
-pilant le<lb/>
+poix de <m>caillous calcines</m> sur trois de <m>minium</m>
+            </ms>
+            <tl>pilant</tl> le<lb/>
 
 tout separem<exp>ent</exp> dans un <tl>mortier de <m>cuivre</m>
             </tl>
@@ -29501,21 +29657,25 @@ d<m>ambre</m> Avecq les <tl>pilons</tl> semblables aulx
 L<m>esmeraulde</m> &amp; la <m>topasse</m> sont de meme chaleur &amp;
 pour<lb/>
 
-une <ms>heure</ms> &amp; demye de foeu Car elles se pourroient<lb/>
+une <ms>
+               <tmp>heure &amp; demye</tmp>
+            </ms> de foeu Car elles se
+pourroient<lb/>
 
 brusler Le <m>ruby</m> 
             <del>en</del> veult dadvantage de temps<lb/>
 
-&amp; plus de foeu &amp; colore d<m>or</m> en foeille Je croy que<lb/>
+&amp; plus de foeu &amp; colore d<m>or en foeille</m> Je croy que<lb/>
 
 la <m>pierre ponce</m> ou <m>pierre a foeu</m> pour le <m>ruby</m>
 seroit<lb/>
 
 meilleur Voy les <m>emaulx</m> Essaye aussy de mesler<lb/>
 
-au lieu de <m>caillous</m> des pieces de <m>vitre</m> de couleur ou<lb/>
+au lieu de <m>caillous</m> des pieces de <m>vitre de couleur</m> ou<lb/>
 
-des <m>esmaulx</m> Si la masse nest asses coloree pile la davantage<lb/>
+des <m>esmaulx</m> Si la masse nest asses coloree <tl>pile</tl> la
+davantage<lb/>
 
 dans le <tl>mortier de <m>fer</m>
             </tl>
@@ -29525,10 +29685,10 @@ dans le <tl>mortier de <m>fer</m>
 
             <margin>left-middle</margin>
 
-Le <m>tartre</m>
-            <lb/>
+Le <m>tartre<lb/>
 
-un peu brusle<lb/>
+un peu brusle</m>
+            <lb/>
 
 mesle parmy<lb/>
 
@@ -29675,12 +29835,15 @@ faict <m>jacinthe</m>
             <m>Topasse</m>
          </head>
 
-         <ab>Jay fondu une part de <m>pierre ponce</m> calcinee &amp;<lb/>
+         <ab>Jay fondu <ms>une part de <m>pierre ponce calcinee &amp;<lb/>
 
-pulverisee <del>&amp; tr</del> avecq trois pars de <m>minium</m>
+pulverisee</m> 
+               <del>&amp; tr</del> avecq trois pars de
+<m>minium</m>
+            </ms>
             <lb/>
 
-et la <m>pierre</m> pulverisee dans un <tl>mortier de <del>ver
+et la <m>pierre pulverisee</m> dans un <tl>mortier de <del>ver
 f</del>
                <lb/>
 
@@ -30298,7 +30461,10 @@ du <env>soleil</env>
 fort</m> en un <tl>matras</tl>
             <lb/>
 
-Et le laisse reposer deux heures sans le mectre sur le foeu<lb/>
+Et le laisse reposer deux <ms>
+               <tmp>heures</tmp>
+            </ms> sans le mectre sur
+le foeu<lb/>
 
 Mectes y l<m>or</m> fort tanvre et le tires co<exp>mm</exp>e sil avoict
 este<lb/>
@@ -30313,8 +30479,13 @@ desparty d<m>argent</m>
          <head>Pour graver sur <m>fer</m>
          </head>
 
-         <ab>Une <figure>℥</figure> de <m>verdet</m> ii <figure>℥</figure> de
-<m>gros sel</m> et un peu de <m>sublime</m>
+         <ab>Une <ms>
+               <figure>℥</figure>
+            </ms> de <m>verdet</m> ii
+<ms>
+               <figure>℥</figure>
+            </ms> de <m>gros sel</m> et un peu de
+<m>sublime</m>
             <lb/>
 
 Ou aultrement broye du <m>massicot</m> avecq <m>huile de
@@ -30333,7 +30504,7 @@ Puys pour le graver &amp; faire l<m>eau</m> prens pour un
             </ms>
             <lb/>
 
-de <m>verdet</m> &amp; mects deulx <ms>fois aultant</ms> de <m>gros
+de <m>verdet</m> &amp; mects <ms>deulx fois aultant</ms> de <m>gros
 sel</m> &amp;environ<lb/>
 
 quattre <ms>grains</ms> de <m>sel armoniac</m> &amp; six <ms>grains</ms>
@@ -30371,16 +30542,17 @@ merita</m> que de <lb/>
          <ab>Molles l<m>argent</m> co<exp>mm</exp>e l<m>or</m> &amp; le charges
 co<exp>mm</exp>e si vous voulies<lb/>
 
-dorer Et ne le laisse chaufe<x>r</x> que l<m>argent</m> ne se
+            <m>dorer</m> Et ne le laisse chaufe que l<m>argent</m> ne se
 ternisse<lb/>
 
 point Et apres quil sera bien charge bouilles le en <m>huile<lb/>
 
-de noix</m> &amp; apres chaufes le un peu &amp; le bouttes en
-<m>boutteure</m>
-            <lb/>
+de <pa>noix</pa>
+            </m> &amp; apres chaufes le un peu &amp; le bouttes en
+<m>boutteure<lb/>
 
-doulce</ab>
+doulce</m>
+         </ab>
 
       </div>
 
@@ -30690,12 +30862,12 @@ fois.</ab>
          <id>p105r_4</id>
 
          <ab>Apres quand il sera bien <del>b</del>pris coupe le dessus de
-l<pa>abre</pa>
-            <lb/>
+labre<lb/>
 
-qui excede ton <pa>abre</pa> 
-            <del>Ne</del> trois ou 4 doigts au dessus
-de<lb/>
+qui excede ton abre <del>Ne</del> trois ou 4 <ms>
+               <bp>doigts</bp>
+            </ms> au
+dessus de<lb/>
 
 lescusson pour la premiere foys Et <del>apr</del> puys au plus pres<lb/>
 
@@ -30707,32 +30879,37 @@ le germe car cela te signifieroit que sa racine seroit rompue<lb/>
 
 &amp; jamays ton hante ne prendroit Ains fais que le revers<lb/>
 
-soict comble Ceste sorte dhanter se practique despuys la<lb/>
+soict comble Ceste sorte dhanter se practique <ms>
+               <tmp>despuys la<lb/>
 
-my may que les <pa>arbres</pa> ont desja boute &amp; faict nouvelle<lb/>
+my may</tmp>
+            </ms> que les arbres ont desja boute &amp; faict
+nouvelle<lb/>
 
-mise jusques au commancem<exp>ent</exp> daougst Et que les
-<pa>abres</pa> sont<lb/>
+mise <ms>
+               <tmp>jusques au commancem<exp>ent</exp> daougst</tmp>
+            </ms> Et
+que les abres sont<lb/>
 
 en sabe Les <pa>amendiers</pa> qui de leur naturel sont plus<lb/>
 
-secs perdent plustost leur <m>sabe</m> partant qui y veult
+secs perdent plustost leur sabe partant qui y veult
 ha<exp>n</exp>ter<lb/>
 
             <pa>mericotons</pa> 
-            <pa>abricots</pa> &amp; hantes de <pa>noyau</pa> qui
-y sont les<lb/>
+            <pa>abricots</pa> &amp; hantes de noyau qui y sont
+les<lb/>
 
-meilleurs quils se hastent Au moys de Janvier
+meilleurs quils se hastent <ms>
+               <tmp>Au moys de Janvier</tmp>
+            </ms>
 co<exp>mmun</exp>em<exp>ent</exp>
             <lb/>
 
-les <pa>abres de noyau</pa> co<exp>mm</exp>e <pa>perces mericotons</pa>
-se hantent en<lb/>
+les abres de noyau co<exp>mm</exp>e <pa>perces mericotons</pa> se
+hantent en<lb/>
 
-fente On dict que les <pa>abres</pa> 
-            <del>de</del> hantes en piolet
-ou<lb/>
+fente On dict que les abres <del>de</del> hantes en piolet ou<lb/>
 
 escusson sont plus tardifs a porter fruict quen fente</ab>
 
@@ -30746,8 +30923,10 @@ escusson sont plus tardifs a porter fruict quen fente</ab>
 
          <ab>Il ne doibt pas estre fort curieulx de cultiver en son<lb/>
 
-jardin des <pa>armols</pa> pource <add>que</add> quand le potaige &amp;
-bouillon sen<lb/>
+            <env>jardin</env> des <pa>
+               <oc>armols</oc>
+            </pa> pource <add>que</add>
+quand le potaige &amp; bouillon sen<lb/>
 
 garde quelque peu froit il sy engendre des <al>vers</al>
          </ab>
@@ -30783,7 +30962,7 @@ cy apres</add>
 
          <ab>Pour les attraper il fault observer leur naturel la viande<lb/>
 
-quilz aiment le plus &amp; le temps de leur volupte Le
+quilz aiment le plus &amp; le <tmp>temps de leur volupte</tmp> Le
 <al>rossignol</al>
             <lb/>
 
@@ -30792,20 +30971,22 @@ aultant quil chante mainctient un quartier pour luy tout seul<lb/>
 Aproche doncq faisant semblant de chercher en terre quelque<lb/>
 
 chose Et ayant des <al>vers</al> qui viennent dans les vielles
-<m>farines</m>
-            <lb/>
+farines<lb/>
 
 ou dessoubs les mects a pestrir ou aulx moulins dou il est fort<lb/>
 
-friand Mects en sur ton chapeau quelquun attache avecq un espingle<lb/>
+friand Mects en sur ton <tl>chapeau</tl> quelquun attache avecq un
+<tl>espingle</tl>
+            <lb/>
 
-ou aultrem<exp>ent</exp> affin quil se remue Et a cinq ou six pas de la
-haye<lb/>
+ou aultrem<exp>ent</exp> affin quil se remue Et a cinq ou six
+<ms>pas</ms> de la haye<lb/>
 
 ou il chante fais un trou en terre &amp; y mects des <al>vers</al> Et
-ton engin<lb/>
+ton <tl>engin<lb/>
 
-de petits bastons en croix Il luy tardera que tu ne sois hors de la<lb/>
+de petits bastons en croix</tl> Il luy tardera que tu ne sois hors de
+la<lb/>
 
 pour aller voir ce que tu auras faict Et voya<exp>n</exp>t des
 <al>vers</al> il entrera</ab>
@@ -30817,19 +30998,20 @@ Aulcuns les<lb/>
 
 vendent sur<lb/>
 
-l<pa>abre</pa>
-         </ab>
+labre</ab>
 
          <ab>
             <margin>left-bottom</margin>
 
-Le soir et le<lb/>
+            <env>
+               <tmp>Le soir et le<lb/>
 
-matin a la fraischeur<lb/>
+matin</tmp> a la fraischeur<lb/>
 
 vers les fontaines<lb/>
 
-&amp; lieulx ombrageulx<lb/>
+&amp; lieulx ombrageulx</env>
+            <lb/>
 
 est plus propre<lb/>
 
@@ -30859,13 +31041,18 @@ au coma<exp>n</exp>cem<corr>
                <exp>ent</exp>
             </corr> quil est<lb/>
 
-pris sa cage de toile<lb/>
+pris sa cage de <tl>toile</tl>
+            <lb/>
 
-Il le fault paistre le premier jour par co<exp>n</exp>traincte
-l<del>uy</del>e <del>donnant</del> prenant hors de la cage dans la<lb/>
+Il le fault paistre le premier <ms>
+               <tmp>jour</tmp>
+            </ms> par
+co<exp>n</exp>traincte l<del>uy</del>e <del>donnant</del> prenant hors
+de la cage dans la<lb/>
 
-main &amp; luy ouvrir le bec &amp; avecq une petite poincte de
-<m>bois</m> luy mectre dans la gorge &amp; luy faire<lb/>
+            <bp>main</bp> &amp; luy ouvrir le bec &amp; avecq une <tl>petite poincte
+de <m>bois</m>
+            </tl> luy mectre dans la gorge &amp; luy faire<lb/>
 
 avaller Et co<exp>n</exp>tinuer ainsy jusques a ce<lb/>
 
@@ -30897,25 +31084,29 @@ il mourroit</ab>
 
          <ab>Il luy fault une cage<lb/>
 
-faicte en gra<exp>n</exp>ge<lb/>
+faicte en <env>gra<exp>n</exp>ge</env>
+            <lb/>
 
 co<exp>mm</exp>e celle des <al>calandres</al>
             <lb/>
 
-double de drap vert<lb/>
-
-pourcequil craint le froid et pour lacoustumer<lb/>
-
-a manger au commancem<exp>ent</exp> quil est prins en <lb/>
-
-cage Il luy fault donner des <al>fourmis</al>
+double de <tl>drap vert</tl>
             <lb/>
 
-avecq de la terre<lb/>
+pourcequil craint le <env>froid</env> et pour lacoustumer<lb/>
+
+a manger au commancem<exp>ent</exp> quil est prins en<lb/>
+
+            <tl>cage</tl> Il luy fault donner des <m>
+               <al>fourmis</al>
+               <lb/>
+
+avecq de la terre</m>
+            <lb/>
 
 au fonds de sa<lb/>
 
-cage pour lacoustumer<lb/>
+            <tl>cage</tl> pour lacoustumer<lb/>
 
 de picoter <del>Puys luy</del>
             <lb/>
@@ -30924,9 +31115,12 @@ Et luy donner dun<lb/>
 
 cœur de <al>mouton</al> hache<lb/>
 
-&amp; tantost des oeufs<lb/>
+&amp; tantost des <m>oeufs</m>
+            <lb/>
 
-&amp; des <al>vers de farine</al>
+&amp; des <m>
+               <al>vers de farine</al>
+            </m>
          </ab>
 
       </div>
@@ -44660,10 +44854,11 @@ peuvent<lb/>
             <m>soubder</m>.</ab>
 
       </div>
+
       <div>
          <id>p138v_3</id>
          <head>
-            <m>Diamants</m> contrefaicts mis en<lb/>
+            <m>Diamants contrefaicts</m> mis en<lb/>
 
 oeuvre</head>
 
@@ -44673,22 +44868,27 @@ noire</m>
 
 pour esbaucher Puys oings ce dedans ainsy <m>cire</m> d<m>huile de<lb/>
 
-froment</m> &amp; puys pouldre cela de <m>fumee de lampe</m> Car il
-ne<lb/>
+               <pa>froment</pa>
+            </m> &amp; puys pouldre cela de <m>fumee de lampe</m>
+Car il ne<lb/>
 
-fault pas que <del>ceste</del> ce tainct aye lustre pour pierres
-faulces<lb/>
-
-Cela faict poses y ta pierre <del>&amp; puys</del> avecq un bout de
-<m>cire</m>
+fault pas que <del>ceste</del> ce tainct aye lustre pour <m>pierres
+faulce</m>
             <lb/>
 
-puys avecq une poincte d<m>acier</m> &amp; un martelet a tatiner
-joincts<lb/>
+Cela faict poses y ta <m>pierre</m> 
+            <del>&amp; puys</del> avecq un bout
+de <m>cire</m>
+            <lb/>
 
-les bords du chatton a la pierre affin que le jour ny entre point<lb/>
+puys avecq une <tl>poincte d<m>acier</m>
+            </tl> &amp; un <tl>martelet a
+tatiner</tl> joincts<lb/>
 
-Mays garde de frapper la pierre qui se romproit</ab>
+les bords du chatton a la <m>pierre</m> affin que le <env>jour</env> ny
+entre point<lb/>
+
+Mays garde de frapper la <m>pierre</m> qui se romproit</ab>
 
       </div>
    </root>
@@ -53007,10 +53207,21 @@ fort net Mays telles choses nendurent pas le foeu</ab>
 
          <ab>Pourceque ils jectent &amp; florissent des premiers &amp; par<lb/>
 
-ainsy sont atrapes de la <del>ch</del> gelee On les deschausse<lb/>
+ainsy sont atrapes de la <del>ch</del> 
+            <env>
+               <tmp>gelee</tmp>
+            </env> On
+les deschausse<lb/>
 
-lhiver affin que <del>lhyver</del> le froid les retarde Et que
-<del>le</del>
+            <ms>
+               <tmp>lhiver</tmp>
+            </ms> affin que
+<del>
+               <ms>
+                  <tmp>lhyver</tmp>
+               </ms>
+            </del> le <env>froid</env> les retarde Et
+que <del>le</del>
             <lb/>
 
 florissant plus tard les fleurs viennent a proffict</ab>
@@ -53025,8 +53236,12 @@ florissant plus tard les fleurs viennent a proffict</ab>
             <pa>Oliviers</pa>
          </head>
 
-         <ab>En <pl>espaigne</pl> on les deschausse lhiver &amp; leste on
-les<lb/>
+         <ab>En <pl>espaigne</pl> on les deschausse <ms>
+               <tmp>lhiver</tmp>
+            </ms>
+&amp; <ms>
+               <tmp>leste</tmp>
+            </ms> on les<lb/>
 
 chausse fort de <m>terre</m>.</ab>
 
@@ -54230,7 +54445,8 @@ Il les fault laisser dans leur coquille herissonnee jusques<lb/>
 
 a ce quon les veuille manger Et avec cella les laisser en<lb/>
 
-lieu humide ou alagout de quelque toict</ab>
+            <env>lieu humide</env> ou al<env>agout de quelque toict</env>
+         </ab>
 
       </div>
 
@@ -54266,11 +54482,13 @@ Ils parfument aussy le lumignon et meche</ab>
 
          <ab>
 
-Dissouldre du <m>caput mortuum</m> dans <m>vinaigre</m>
-            <lb/>
+Dissouldre du <m>
+               <la>caput mortuum</la>
+            </m> dans <m>vinaigre<lb/>
 
-distille filtrer &amp; congeler en <m>sel</m> &amp; diceluy cementer
-<m>
+distille</m> 
+            <tl>filtrer</tl> &amp; congeler en <m>sel</m> &amp; diceluy
+cementer <m>
                <figure>☉</figure>
             </m>
             <lb/>

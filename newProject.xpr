@@ -18,7 +18,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>strip-tags-tc</String>
+                                        <String>extract-div-metadata</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -29,11 +29,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>allFolios/all_tl.xml</String>
+                                    <String>tl/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>strip-tags-tl.xsl</String>
+                                        <String>addAttrs</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -49,21 +49,6 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>strip-tags_tcn</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>tc/</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>strip-tags-tc</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -93,7 +78,37 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tl/</String>
+                                    <String>tc/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>addAttrs</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xslt/figure_data.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>figure_data</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XML</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>allFolios/all_tl.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -118,21 +133,6 @@
                                 <field name="scenarioTypes">
                                     <list>
                                         <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>xslt/figure_data.xsl</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>figure_data</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XML</String>
                                     </list>
                                 </field>
                             </scenarioAssociation>
@@ -251,7 +251,7 @@
                                     <String-array/>
                                 </field>
                                 <field name="xslTransformer">
-                                    <String>Xalan</String>
+                                    <String>Saxon-HE</String>
                                 </field>
                                 <field name="extensionURLs">
                                     <String-array/>

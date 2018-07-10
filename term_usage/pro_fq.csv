@@ -25,6 +25,7 @@
 2|tondeur
 2|scribes
 2|sarruriers
+2|roy
 2|riches
 2|quiterniers
 2|pionners
@@ -35,6 +36,7 @@
 2|imprimeur
 2|fondeurs de grand gect
 2|courroieur
+2|commun
 2|aprentis
 2|apothiquaires
 2|Pintiers
@@ -44,6 +46,7 @@
 2|Maistre
 2|Horlogeurs
 2|Canonier
+1|vulgaire
 1|villageois
 1|vieulx
 1|verrier
@@ -59,7 +62,7 @@
 1|serruriers
 1|rustiques
 1|rustique
-1|roy
+1|royne mere
 1|quadraniers
 1|preneurs descrevisses
 1|pouldriers
@@ -83,6 +86,7 @@
 1|moynes
 1|mouleurs
 1|mouleur
+1|mestre
 1|mestiviers
 1|messager
 1|menusier
@@ -91,7 +95,7 @@
 1|marchans
 1|larrons
 1|jardiners
-1|inventeur
+1|inventeur des rustiques figulines
 1|grossiers
 1|graveurs sur le fer
 1|gecteurs

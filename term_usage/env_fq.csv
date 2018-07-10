@@ -4,14 +4,14 @@
 10|a la pluye
 8|cave
 5|soleil
+5|riviere
 5|garrigue
 5|en lieu humide
 4|vent
+4|lieu humide
 4|au serain
-3|riviere
 3|muraille
 3|lieu sec
-3|lieu humide
 3|grottes
 3|grotte
 3|en terre
@@ -21,11 +21,15 @@
 2|terre
 2|temps humide
 2|rochers
+2|rivieres
 2|mer
 2|maisons
 2|lieu descouvert
+2|jour
 2|jardins
 2|il gele
+2|gelee
+2|froid
 2|fontaine
 2|eglises
 2|boutique
@@ -53,9 +57,9 @@
 1|soleil de juin
 1|soleil chault
 1|serain de la nuit
+1|sablon
 1|roche
 1|rivieres deau doulce
-1|rivieres
 1|puys profond
 1|puys
 1|pres du feu
@@ -84,13 +88,13 @@
 1|lieu mouille &amp; humide
 1|lieu clos
 1|la premiere pluye
-1|jour
+1|jardin
 1|humidite
 1|humeur de la cave
 1|hors du vent
+1|grange
 1|grandes escailles vers les montaignes
 1|grandes cuisines
-1|gelee
 1|gardemangers
 1|foyer
 1|formillere
@@ -114,7 +118,7 @@
 1|en la cave ou aultre lieu humide
 1|en hault
 1|eau ou les escrevisses se nourrissent
-1|de cuisine ou de table
+1|de cuisine
 1|dans une chambre ou il ny aye aulcune goutte dair &amp; de vent
 1|dans une cave
 1|dans leau
@@ -122,6 +126,7 @@
 1|dans de la terre fresche
 1|cuisines
 1|chemins sablonneulx
+1|chemins
 1|cheminees des grandes cuisines
 1|cheminee
 1|champs
@@ -146,9 +151,11 @@
 1|au costau de puy david bien profond en terre
 1|apres un temps pluvieulx
 1|air
+1|agout de quelque toict
 1|abre ou herbe qui soict au bort
 1|a lair ou lieu humide
 1|a la frescheur &amp; aux rays de la lune
+1|Le soir et le matin a la fraischeur vers les fontaines &amp; lieulx ombrageulx
 1|Jardin
 1|Grottes
 1|En temps serain &amp; doulx &amp; non trop froid &amp; venteulx

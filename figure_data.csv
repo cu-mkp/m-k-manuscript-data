@@ -3,10 +3,6 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 001r	p001r_3		-				MARK
 001r	p001r_3		+				MARK
 001r	p001r_3		+				MARK
-001r	p001r_1		/				MARK
-001r	p001r_3		-				MARK
-001r	p001r_3		+				MARK
-001r	p001r_3		+				MARK
 002r			------------------------				MARK
 002v	p002v_2	@esmeraldes de Brissac	℥				MARK
 002v	p002v_2	@esmeraldes de Brissac	℥				MARK
@@ -32,15 +28,6 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 008v	p008v_5	Amalgame parfaict	 ☾				MARK
 008v	p008v_5	Amalgame parfaict	 ☼				MARK
 008v	p008v_5	Amalgame parfaict	 ♀				MARK
-008v	p008v_2	Or et argent moulu	☿				MARK
-008v	p008v_5	Amalgame parfaict	 ☿				MARK
-008v	p008v_5	Amalgame parfaict	 ☾				MARK
-008v	p008v_5	Amalgame parfaict	 ☼				MARK
-008v	p008v_5	Amalgame parfaict	 ☾				MARK
-008v	p008v_5	Amalgame parfaict	 ♀				MARK
-008v	p008v_5	Amalgame parfaict	 ☾				MARK
-008v	p008v_5	Amalgame parfaict	 ☼				MARK
-008v	p008v_5	Amalgame parfaict	 ♀				MARK
 009v	p009v_3		superscript e				MARK
 009v	p009v_3		--				MARK
 009v	p009v_3		superscript e				MARK
@@ -51,8 +38,6 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 012r	p012r_4	Plastre	+				MARK
 014r	p014r_1	Pour murailles de terre et bastiment rustique	S.S.S				MARK
 014r	p014r_1	Pour murailles de terre et bastiment rustique	     	fig_p014r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5b2lVN19SU1Z6UkU		GRAPHIC
-015r	p015r_2	Gecter en fonte	+				MARK
-015r	p015r_2	Gecter en fonte	+				MARK
 015r	p015r_2	Gecter en fonte	+				MARK
 015r	p015r_2	Gecter en fonte	+				MARK
 016r	p016r_a1	Fonte de fer doux	    	fig_p016r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5aUw0eThJNEVTelk		GRAPHIC
@@ -97,12 +82,12 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 033v	p033v_2	Pour fayre sortir du front de quelquun du sang ou du vin ou dune muraille	   	fig_p033v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5MXk2RzNQdF9aeDg		GRAPHIC
 033v	p033v_2	Pour fayre sortir du front de quelquun du sang ou du vin ou dune muraille	#				MARK
 033v	p033v_2	Pour fayre sortir du front de quelquun du sang ou du vin ou dune muraille	#				MARK
-034r	p034r_1	Pour dire a quelquun que mettant tenant le doit tousiours au front tu lempescheras de sortir dune chambre	X				MARK
-034r	p034r_2	XGaiger a quelquleun que se promenant jusques a tel lieu et en revenir il ne dira point quattre fois de suite botte sans esperon	X				MARK
-034r	p034r_2	XGaiger a quelquleun que se promenant jusques a tel lieu et en revenir il ne dira point quattre fois de suite botte sans esperon	X				MARK
+034r	p034r_1	Pour dire a quelquun que mettant tenant le doit tousjours au front tu lempescheras de sortir dune chambre	X				MARK
+034r	p034r_2	XGaiger a quelqueun que se promenant jusques a tel lieu et en revenir il ne dira point quattre fois de suite botte sans esperon	X				MARK
+034r	p034r_2	XGaiger a quelqueun que se promenant jusques a tel lieu et en revenir il ne dira point quattre fois de suite botte sans esperon	X				MARK
 034r	p034r_3	Faire tenir un chandellier contre la muraille sans y fayre trou	X				MARK
-034r	p034r_4	Ne casser point un verre dune busche ou dun gros baston	X				MARK
-034r	p034r_4	Ne casser point un verre dune busche ou dun gros baston	X				MARK
+034r	p034r_4	XNe casser point un verre dune busche ou dun gros baston	X				MARK
+034r	p034r_4	XNe casser point un verre dune busche ou dun gros baston	X				MARK
 034v	p034v_1	Pour fayre fondre ou transmuer une bague mise dans une boitte	  	fig_p034v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5VTA5cWtrWktEajQ		GRAPHIC
 035r	p035r_2	Pour fayre soubstenir un seau deau sur la poincte couchee de trois cousteaulx sans toucher a terre	  	fig_p035r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5SGstUTZ6TFRnUjg		GRAPHIC
 035v	p035v_2	Pour fayre transmuer du bled dun vaisseau a aultre	   	fig_p035v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5WEY2UUhMRTg4Y00		GRAPHIC
@@ -367,7 +352,6 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 161r	p161r_1	Praeparation du sable pour chassis	#				MARK
 162r	p162r_1	Pour la boutique					MARK
 162r	p162r_2	Aes ustum	|				MARK
-163v	p163v_2	Crocum	   	fig_p163v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5anJvd0FQQ3BkRFE		GRAPHIC
 163v	p163v_2	Crocum	   	fig_p163v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5anJvd0FQQ3BkRFE		GRAPHIC
 165v	p165v_6	Aisle de mousche	   	fig_p165v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5UmhqY1RkWFRhYzg		GRAPHIC
 166v	p166v_1						MARK

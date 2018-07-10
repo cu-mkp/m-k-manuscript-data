@@ -1,6 +1,6 @@
-27|jours
-24|jour
-18|heures
+28|jours
+26|jour
+19|heures
 12|heure
 9|nuict
 8|long temps
@@ -9,13 +9,16 @@
 5|lendemain
 4|tout lan
 4|quart dheure
+4|lhiver
 4|hiver
 4|ans
 3|tous les ans
 3|matin
+3|leste
 3|hora
 3|este
 3|espace de quinze jours
+3|demye heure
 3|an
 3|Jours
 2|ung quart dheure
@@ -26,14 +29,12 @@
 2|sepmaines
 2|plusieurs jours
 2|moys de may
-2|lhiver
-2|leste
 2|lendemain matin
 2|la nuict
 2|iours
 2|hyver
+2|heure &amp; demye
 2|en este
-2|demye heure
 2|de nuict
 2|Jour
 1|vers la sepmaine saincte
@@ -53,6 +54,7 @@
 1|temps nest serain &amp; sec
 1|temps humide
 1|temps est relent &amp; humide
+1|temps de leur volupte
 1|temps
 1|sur jour
 1|sont longues
@@ -75,7 +77,9 @@
 1|longuement
 1|long traict de la mer
 1|long
+1|lhyver
 1|le soir
+1|jusques au commancement daougst
 1|jusques a la sepmaine saincte
 1|juin
 1|journee
@@ -84,6 +88,7 @@
 1|jour de Saint paul
 1|jour au lendemain
 1|jeudy
+1|gelee
 1|fort long temps
 1|fin de la lune
 1|espace dun pater noster
@@ -102,6 +107,7 @@
 1|deulx foys le jour
 1|despuys leur naissance jusques au leur temps quilz font leur coquons &amp; leur prison
 1|despuys la toussaints jusques a Noël
+1|despuys la my may
 1|de trois jours en trois jours
 1|de nuict a la frescheur &amp; aux rays de la lune
 1|de longue duree
@@ -130,7 +136,9 @@
 1|a divers jours
 1|Vers la pentecoste
 1|Mars
+1|Le soir et le matin
 1|Chasque matin
 1|Au printemps
+1|Au moys de Janvier
 1|Au mois daougst
 1|

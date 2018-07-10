@@ -1,6 +1,6 @@
 41|doigt
-35|doigts
-24|main
+36|doigts
+26|main
 19|mains
 13|front
 11|bouche
@@ -23,9 +23,9 @@
 2|yeux
 2|visaige
 2|salive
+2|poignees
 2|plante des pieds
 2|pieds
-2|gueule
 2|grand doigt
 2|foye
 2|chair
@@ -43,7 +43,6 @@
 1|poulces
 1|poin
 1|poil
-1|poignees
 1|petit doit
 1|paulmes
 1|paulme
@@ -58,6 +57,7 @@
 1|langue
 1|joues
 1|joue
+1|joinctees
 1|indice
 1|halene
 1|genoux
@@ -66,6 +66,7 @@
 1|face
 1|estomach
 1|embrasser
+1|dos
 1|doitgts
 1|doitgs
 1|doit

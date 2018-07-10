@@ -1,19 +1,19 @@
 301|moule
-119|moules
+124|moules
 82|chassis
 54|pinceau
 45|crusol
 39|mabre
-38|mortier
-30|four
+35|mortier
+34|four
+31|baston
 30|costeau
-30|baston
-26|fourneau
+25|vaisseau
 25|pot
 25|molle
 25|forge
-24|vaisseau
 23|os
+23|fourneau
 23|doigt
 22|porphire
 22|papier
@@ -21,35 +21,36 @@
 19|crampons
 18|tamis
 18|poincte
+17|table
 17|linge
-17|lime
 17|fil de fer
 17|chandelle
 16|poinctes
+16|lime
 16|burin
 15|marteau
 13|esponge
-12|table
-12|souflets
 12|doigts
 12|creuset
 12|bouteille
+11|souflets
 11|plume
 11|four a vent
 11|escuelle
+11|charbon
 11|chaple
 10|ongle
 10|main
 10|broisse
 9|trancheplume
 9|regle
-9|pilon
 9|os de seiche
 9|mortiers
 9|gabions
 9|bouteille de verre
 9|boicte
 8|presse
+8|pilon
 8|pallete
 8|manche
 8|mains
@@ -63,6 +64,7 @@
 7|planche
 7|molles
 7|marbre
+7|espingle
 7|corde
 7|compas
 7|ciselet
@@ -70,10 +72,8 @@
 6|poincte de fil de fer
 6|platine dardille
 6|plane
-6|moulle
 6|four de reverberation
 6|filet
-6|espingle
 6|dent
 6|cornue
 6|cloche
@@ -82,11 +82,9 @@
 6|carton
 6|broisses
 6|boicte de cuir
-5|tuile
 5|tamisee
 5|tamise
 5|serviette
-5|pots
 5|poinctes de fil de fer
 5|poinctes de fer
 5|plaste dardille
@@ -97,25 +95,33 @@
 5|limes
 5|double tamis
 5|ciseau
-5|charbon
 5|carte
 5|bague
+4|tuile
+4|pots
 4|pot de terre
 4|planches
 4|pied
+4|pelotte
+4|moulle
 4|mortier de fer
 4|molletes
 4|lanterne
 4|guimbelet
 4|fiolle de verre
+4|estuy de cuir
 4|creusets
 4|cotton
 4|cordeau
 4|ciselets
 4|ciseaulx
+4|chaulderon
+4|chapeau
+4|cage
 4|bullitoyre
 4|brunisson
 3|tuelle
+3|toile
 3|terrine
 3|sac
 3|reigle
@@ -124,6 +130,7 @@
 3|platene
 3|plaste dardile
 3|pinceaulx
+3|piece de cuir
 3|panier
 3|paille
 3|moule de plastre
@@ -138,12 +145,12 @@
 3|enclume
 3|eaulx
 3|drap
+3|de a couldre
 3|dan de loup ou de chien
 3|cuillere
 3|creusol
 3|cloue
 3|chauldron
-3|chapeau
 3|cercle
 3|brasier
 3|bouche
@@ -156,9 +163,9 @@
 2|verge
 2|vaisseau de terre
 2|vaisseau de cuivre
+2|tuiles
 2|tripoly
 2|tour
-2|toile
 2|tenailles plattes
 2|tenaille
 2|tables
@@ -175,20 +182,24 @@
 2|pointes
 2|poincte dun costeau
 2|poincte du pinceau
+2|poincte dacier
 2|poile
 2|plume a escripre
 2|platene dardille
 2|plaste
 2|pinsettes
 2|piliers
+2|piler
+2|pile
 2|pierre
 2|piece de feultre
 2|piece dargent
 2|papier enflamme
 2|papier colle
 2|pallette
-2|palle
 2|onglet
+2|muy
+2|moulles
 2|moules de plastre
 2|moules de noyau
 2|moules a noyau
@@ -212,14 +223,15 @@
 2|gouge
 2|gand
 2|fourneau a vent
-2|forges
 2|foreter
 2|fil darchal
+2|estuy
 2|estoc
 2|esgrusouer
 2|eguille
 2|drappeau
 2|desgrusouer
+2|de
 2|cuilliere
 2|crusols
 2|cruset
@@ -229,17 +241,16 @@
 2|conche
 2|clou
 2|cierge
-2|chaulderon
 2|cercle de terre
 2|caisses
 2|caisse de fer
-2|cage
 2|cabats
 2|busche
 2|bullitoire
 2|bruny
 2|bouteilles
 2|bout du doigt
+2|boule
 2|boictes
 2|barre
 2|aneau
@@ -262,7 +273,7 @@
 1|tuyaulx de fer blanc
 1|tuyau de plume
 1|tuyau
-1|tuiles
+1|tuile ou palle chaulde
 1|tuile a crochet
 1|tuiaulx de plume
 1|truelle
@@ -277,6 +288,7 @@
 1|tranche plume
 1|tranche
 1|toille qui soit asses serree
+1|toille
 1|toile de cambray
 1|tige de fil de letton
 1|teste du clou
@@ -292,6 +304,7 @@
 1|tables haultes
 1|table soit bien unye
 1|table des orfevres
+1|table de verre
 1|table bien unie
 1|table bien nette &amp; unie
 1|table &amp; bien unie
@@ -308,6 +321,7 @@
 1|sayettes
 1|sayetes de poil de pourceau
 1|sacs
+1|sable
 1|roulleau
 1|rouleaux
 1|roues une destain de plomb &amp; de cuivre fin
@@ -331,6 +345,7 @@
 1|queue de cuivre ou de fer
 1|quenoille du lict
 1|quarreau rouge enflamme
+1|quarreau en platte
 1|quarreau
 1|quaisse
 1|presses de fer
@@ -342,7 +357,9 @@
 1|pots non plombes
 1|pots de terre avecq un couvercle
 1|pots de terre
+1|pots de fer
 1|pot destain
+1|pot de terre verny
 1|pot de leaue des orfevres
 1|portepiece
 1|porte piece
@@ -362,12 +379,12 @@
 1|poincte de fil de fer ou de letton
 1|poincte de diamant
 1|poincte dargent
-1|poincte dacier
 1|poincons
 1|poincon arrondy par le bout &amp; qui entre dans son manche
 1|poin
 1|poilonne
 1|poelonne
+1|plus gros charbon
 1|plume dholande
 1|plume bien poinctue
 1|platte de fer
@@ -402,20 +419,27 @@
 1|pinceaulx fort delies qui ayent la poincte ferme
 1|pinceaulx composes de deulx ou trois poils de barbe de rat
 1|pilons
+1|pilon de pur cuivre
+1|pillotte
+1|pilles
 1|piliers de fer
 1|piles
-1|piler
+1|pilant
 1|pierre noire
 1|pierre de touche
 1|pied de cire
 1|pieces de feutre moufle
-1|piece de cuir
 1|picquet de fer
 1|phiole
 1|phiol
 1|petits boisseaulx de boys
+1|petites forges
 1|petite table unye
+1|petite poincte de bois
 1|petit instrument recourbe
+1|petit fourneau
+1|petit estuy de cuyr simple comme de vache ou marroquin
+1|petit doit
 1|petit burin
 1|petit baston refendu et escartele par le bout
 1|petit baston entourne destoupes
@@ -424,16 +448,19 @@
 1|perches
 1|peigne
 1|paulme
+1|pappier
 1|papier blanc
 1|pallette a huile
 1|palles fer
 1|palle de fer
 1|palle baisse
+1|palle
 1|palettes
 1|palette de boys
 1|palette
 1|pales
 1|painceau
+1|paille allumee
 1|oreille
 1|ongle du poulce droict
 1|oeil
@@ -453,20 +480,25 @@
 1|moules clos
 1|moules a gecter letton
 1|moule qui est de plastre blanc pulverise
+1|moule faict de toile
 1|moule en noyau
 1|moule de terre
 1|moule de plomb
 1|moule de grais
 1|moule de cuivre
+1|moule de cuir
 1|moule clos
 1|moule au chassis
 1|moule a noyau
 1|mouchouer plie
 1|mouchouer mouille
+1|mortier tout pur de cuivre
+1|mortier de verre espes
 1|mortier de ver f acier
 1|mortier de pierre
 1|mortier de metal ou de fer
 1|mortier de cuivre
+1|mortier de bois
 1|mortier dacier
 1|mollettes
 1|molets
@@ -480,6 +512,7 @@
 1|matrices
 1|matras
 1|martinets
+1|martelet a tatiner
 1|marteler
 1|marteaulx
 1|marbre poly
@@ -487,6 +520,7 @@
 1|manche des pinceaulx
 1|manche de linge
 1|mains joinctes entre les deulx genoux
+1|main droite
 1|mail de bois
 1|mabres
 1|mable
@@ -522,6 +556,8 @@
 1|horologe de sable
 1|halebarde
 1|guinbelet
+1|grosse lime
+1|gros charbons
 1|gros caneva
 1|grille haulte
 1|grille basse
@@ -529,6 +565,7 @@
 1|grattebroisse de letton
 1|gratte broisse
 1|grand doigt
+1|grand chaulderon
 1|grand boite
 1|godet
 1|gluons
@@ -544,12 +581,14 @@
 1|fraiser
 1|foyer
 1|fours de barbiers
+1|fourneau rond
 1|fourneau des fourbisseurs
+1|fourneau de reverberation
 1|fourneau a souflets
 1|fournaise des verriers
 1|fourchettes
+1|four en quarre
 1|four du tuilier
-1|four de charbon
 1|four couvert
 1|four a ventde souflets
 1|four a vent souflets
@@ -563,9 +602,12 @@
 1|fornaise de ceulx qui font des pots
 1|fornaise
 1|formes de fer &amp; de cuivre
+1|forges
 1|forge dorfevre
 1|forge des orfevres
 1|forchettes
+1|fontes
+1|fonte
 1|foeultre
 1|foeilles de papier
 1|foeille de papier blanc
@@ -573,6 +615,7 @@
 1|fiolle
 1|fiole
 1|fins &amp; subtils tamis
+1|filtrer
 1|filtre
 1|fils de fer
 1|filiere
@@ -604,6 +647,7 @@
 1|escuelle a oreille
 1|escaille
 1|entonnouer de fer blanc
+1|engin de petits bastons en croix
 1|enclumes
 1|eau enscuelle
 1|eau de roche
@@ -613,6 +657,7 @@
 1|eau
 1|drapt vert
 1|drappeau blanc
+1|drap vert
 1|drap de laine
 1|double tamys
 1|double des apothiquaires
@@ -626,6 +671,7 @@
 1|curedant
 1|cureaureille
 1|cul de verre
+1|cuir blanc de la couleur du boys
 1|cuir
 1|cuillerees
 1|cuelleree
@@ -658,6 +704,7 @@
 1|cordon retors de la sye
 1|cordette
 1|corde despinette
+1|coquilles de fer ou de metail
 1|coquille de noix
 1|coquille
 1|copelle
@@ -685,12 +732,14 @@
 1|chauderon
 1|charbons allumes
 1|charbons
+1|charbon nouveau
 1|charbon allume
 1|chaples
 1|chandellier
 1|chandelle de suif
 1|chandelle de cire
 1|cendres
+1|cendre
 1|cassolle dest de fer
 1|cassolle de fer ou metal
 1|cassolle de fer
@@ -698,6 +747,7 @@
 1|casse platte
 1|casse
 1|cartons
+1|carreau arrondy espes
 1|carreau
 1|canon
 1|cane
@@ -707,7 +757,7 @@
 1|burins &amp;
 1|burin ordinayre a tailler
 1|brunissouer
-1|broche de boys
+1|broche de boys ou de fer
 1|broche
 1|broc
 1|briques
@@ -715,6 +765,7 @@
 1|bouteure dorfevres
 1|bouteilles de verre
 1|bouteille ou vaisseau nect
+1|boules de buys
 1|bougie
 1|boucles
 1|boitte de buys rayee a cercles
@@ -742,6 +793,7 @@
 1|assiette
 1|asses gros pinceau
 1|ardoise
+1|annulaire
 1|anneaulx
 1|ancrou
 1|ampoulles
@@ -766,7 +818,7 @@
 1|Pile
 1|Os de seiche
 1|Moule de plastre
-1|Mortier
+1|Mortier de verre
 1|Mirouer
 1|Limes
 1|Fourchette
