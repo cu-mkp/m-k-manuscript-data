@@ -9,16 +9,34 @@
         <xsl:apply-templates/>
     </xsl:template>
     <xsl:template match="id | margin | image | link"/>
-    <xsl:template match="head | ab | div | lb |page">
+<!--    <xsl:template match="head | ab | div | lb |page" mode="default">
         <xsl:apply-templates/>
         <xsl:text>&#10;</xsl:text>
     </xsl:template>
 
+    -->
     <xsl:template match="head | ab |page">
         <xsl:apply-templates/>
     <xsl:text>&#10;</xsl:text>
     </xsl:template>
-
+    
+    <xsl:template match="div |corr | add">
+        <xsl:text>&lt;</xsl:text>
+        <xsl:value-of select="local-name()"/>
+        <xsl:text>&gt;</xsl:text>
+            <xsl:apply-templates/>
+        <xsl:text>&lt;/</xsl:text>
+        <xsl:value-of select="local-name()"/>
+        <xsl:text>&gt;</xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="lb">
+        <xsl:text>&lt;</xsl:text>
+        <xsl:value-of select="'lb/'"/>
+        <xsl:text>&gt;</xsl:text>
+        <xsl:apply-templates/>
+        <xsl:text>&#10;</xsl:text>
+    </xsl:template>
     
     <xsl:template match="*">
         <xsl:apply-templates/><xsl:text> </xsl:text>
