@@ -27,16 +27,17 @@ subtille 2 <ms><figure>℥</figure></ms><lb/>
 
 <m>Suin de verre</m> 2 <ms><figure>℥</figure></ms><lb/>
 
-<m>Salpestre</m> la moictie scavoir 1 <ms><figure>℥</figure></ms><lb/>
-
-<m>Sel gros commun <add>fondu</add></m> la moictie 1
+<m>Salpestre</m> la <ms>moictie</ms> scavoir 1
 <ms><figure>℥</figure></ms><lb/>
 
-<m>Sublime</m> la moitie 1 <ms><figure>℥</figure></ms><lb/>
+<m>Sel gros commun <add>fondu</add></m> la <ms>moictie</ms> 1
+<ms><figure>℥</figure></ms><lb/>
 
-<m>Borras</m> la moictie 1 <ms><figure>℥</figure></ms><lb/>
+<m>Sublime</m> la <ms>moitie</ms> 1 <ms><figure>℥</figure></ms><lb/>
 
-<m>Sel armoniac</m> aultant que de <m>borras</m> scavoir 1
+<m>Borras</m> la <ms>moictie</ms> 1 <ms><figure>℥</figure></ms><lb/>
+
+<m>Sel armoniac</m> <ms>aultant que de <m>borras</m></ms> scavoir 1
 <ms><figure>℥</figure></ms></ab>
 
 <ab> P<exp>rens</exp>. de ces materiaulx des meilleurs que tu pourras
@@ -59,14 +60,13 @@ avoir<lb/>
 de vuyde la <ms>quarte ou cinquiesme partye</ms> Couvres le
 <tl>crusol</tl><lb/>
 
-dun bon <tl><m>tuyle</m></tl> adapte en rond justement sur son ouverture
+dun bon <tl>tuyle</tl> adapte en rond justement sur son ouverture
 Et<lb/>
 
 layant lie de hault en bas et par les costes de <tl><m>fil de
 fer</m></tl><lb/>
 
-asses fort <m>Lutes</m> le avecq de la <m>terre fiens ou terre
-bourre<lb/>
+asses fort Lutes le avecq de la <m>terre fiens ou terre bourre<lb/>
 
 de laquelle les <pro>fondeurs dartiglerie</pro> se servent</m> Et en
 cela<lb/>
@@ -86,7 +86,7 @@ sexhaleroient </ab>
 <margin>right-top</margin>
 Note quil te fault<lb/>
 
-bien <m>luter</m> ton <tl>creuset</tl><lb/>
+bien luter ton <tl>creuset</tl><lb/>
 
 affin que les matieres<lb/>
 
@@ -96,7 +96,7 @@ elles sexalleroient </ab>
 
 <ab>
 <margin>right-middle</margin>
-<m>Lute</m> bien ton <tl>crusol</tl><lb/>
+Lute bien ton <tl>crusol</tl><lb/>
 
 affin quil ne se rompe<lb/>
 
@@ -126,7 +126,7 @@ matiere vendent<lb/>
 
 le <ms>denier</ms> dicelle<lb/>
 
-cinq <cn>sols</cn> aulx<lb/>
+cinq <ms><cn>sols</cn></ms> aulx<lb/>
 
 aultres <pro>orfevres</pro><lb/>
 
@@ -176,7 +176,7 @@ point abuse</ab>
 <margin>left-bottom</margin>
 <lb/>Le grain est co<exp>mm</exp>e<lb/>
 
-de l<m>acier</m> rompu</ab>
+de l<m>acier rompu</m></ab>
 
 <cont/>
 
