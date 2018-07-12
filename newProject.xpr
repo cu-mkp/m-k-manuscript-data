@@ -14,11 +14,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>allFolios/all_tl.xml</String>
+                                    <String>allFolios/all_tcn.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>strip-tags-tl.xsl</String>
+                                        <String>strip-tags_tcn_mhs</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -29,11 +29,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>allFolios/all_tcn.xml</String>
+                                    <String>allFolios/all_tl.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>strip-tags_tcn</String>
+                                        <String>strip-tags-tl.xsl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -113,21 +113,6 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>addAttrs</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>tcn/</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>strip-tags_tcn</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -930,7 +915,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>strip-tags_tcn</String>
+                                    <String>strip-tags_tcn_mhs</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -948,7 +933,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xslt/strip_tags.xsl</String>
+                                    <String>${pdu}/xslt/strip_tags_mhs.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
