@@ -3,59 +3,64 @@
 
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f343.item</image>
 
-<ab><underline>Molding a turtle</underline></ab>
+<div>
+
+<id>p169r_1</id>
+
+<ab><underline>Molding a <al>turtle</al></underline></ab>
 
 <ab><underline>Furry animals</underline></ab>
 
-<ab><underline>Birds</underline></ab>
+<ab><underline><al>Birds</al></underline></ab>
 
-<ab><underline>Leaf of a vine - put</underline></ab>
+<ab><underline>Leaf of a <pa>vine</pa> - put</underline></ab>
 
-<ab>Of strawberries</ab>
+<ab>Of <pa>strawberries</pa></ab>
 
 <ab><underline>Molding diverse pieces</underline></ab>
 
-<ab>Molding a vase in a frame</ab>
+<ab>Molding a vase in a <tl>frame</tl></ab>
 
-<ab>Molding <la>capilli veneris</la><lb/>
+<ab>Molding <la><pa>capilli veneris</pa></la><lb/>
 
 &amp; plants that need<lb/>
 
-<underline>threads for their support</underline></ab>
+<underline><tl>threads</tl> for their support</underline></ab>
 
 <ab>Molding a bouquet</ab>
 
-<ab><underline>Rose carnations</underline></ab>
+<ab><underline><pa>Rose</pa> <pa>carnations</pa></underline></ab>
 
 <ab><underline>Hollow molding</underline></ab>
 
-<ab>Hollow gilded <m>silver</m></ab>
+<ab>Hollow <m>gilded silver</m></ab>
 
-<ab><underline>Molding crab - put</underline></ab>
+<ab><underline>Molding <al>crab</al> - put</underline></ab>
 
-<ab><figure>+</figure> <underline>Crayfish put and seen</underline></ab>
+<ab><figure>+</figure> <underline><al>Crayfish</al> put and
+seen</underline></ab>
 
-<ab>Grasshoppers</ab>
+<ab><al>Grasshoppers</al></ab>
 
-<ab>Barbels</ab>
+<ab><al>Barbels</al></ab>
 
-<ab>Butterflies</ab>
+<ab><al>Butterflies</al></ab>
 
-<ab><underline>Flies</underline></ab>
+<ab><underline><al>Flies</al></underline></ab>
 
-<ab>Bats</ab>
+<ab><al>Bats</al></ab>
 
-<ab>Enameling very thin <m>gold</m></ab>
+<ab><m>Enameling</m> very thin <m>gold</m></ab>
 
 <ab>Molding in <m>sugar</m></ab>
 
-<ab>Molding fish</ab>
+<ab>Molding <al>fish</al></ab>
 
 <ab><underline>Casting in <m>sulfur</m> - put</underline></ab>
 
-<ab><m><fr>Carton</fr></m></ab>
+<ab><fr><m>Carton</m></fr></ab>
 
-<ab><underline><figure>+</figure> <del>P</del> <m>Wax</m>
+<ab><underline><figure>+</figure> <del><fr>P</fr></del> <m>Wax</m>
 put</underline></ab>
 
 <ab>Roughing out</ab>
@@ -67,16 +72,16 @@ put</underline></ab>
 <ab><underline>Molding and making cavities of <m>metal</m>
 animals</underline></ab>
 
-<ab><figure>+</figure> <underline><m>Wheat oil</m> put and
+<ab><figure>+</figure> <underline><m><pa>Wheat</pa> oil</m> put and
 seen</underline></ab>
 
-<ab><underline>Stag beetle</underline></ab>
+<ab><underline><al>Stag beetle</al></underline></ab>
 
 <ab>Foot of a <al>bittern</al> molded</ab>
 
 <ab><underline>Thickness of a medal</underline></ab>
 
-<ab><underline>Very hard <m>wax</m></underline></ab>
+<ab><underline><m>Very hard wax</m></underline></ab>
 
 <ab><underline>Molding a ring which is engraved</underline></ab>
 
@@ -86,18 +91,25 @@ seen</underline></ab>
 
 <ab>Fountains</ab>
 
-<ab>Grottoes</ab>
+<ab><env>Grottos</env></ab>
 
-<ab>Diverse mosses applied</ab>
+<ab>Diverse <pa>mosses</pa> applied</ab>
 
-<ab><underline>Molding in three frames</underline></ab>
+<ab><underline>Molding in three <tl>frames</tl></underline></ab>
 
 <ab>Softening <m>iron</m> to engrave it</ab>
 
-<ab>Engraving with aquafortis on <m>silver</m> and <m>copper</m></ab>
+<ab>Engraving with <m>aquafortis</m> on <m>silver</m><lb/>
+
+and <m>copper</m></ab>
 
 <ab>Stamping</ab>
 
-<ab>White <m>enamel</m>, making it tender with black calcined <m>river
+<ab><m>White enamel</m>, making it tender<lb/>
+
+with <m>black calcined <env>river</env><lb/>
+
 pebbles</m></ab>
+
+</div>
 </root>

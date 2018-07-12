@@ -5,7 +5,7 @@
 
 <div>
 <id>p162r_1</id>
-<head>Pour la boutique</head>
+<head>Pour la <env>boutique</env></head>
 
 <ab>Il se peult colliger par le dire d<pn>herodote</pn> que la
 navigation<lb/>
@@ -18,40 +18,63 @@ ventent Au comancem<corr><exp>ent</exp></corr> du premier livre intitule
 
 que les <pl>phoeniciens</pl> venoient de la <pl>mer rouge</pl> par
 continuelles<lb/>
-navigations en la coste de <pl>graece</pl> principalle<exp>ment</exp> a
+navigations en la <pl>coste de graece</pl> principalle<exp>ment</exp> a
 <pl>argos</pl> ou ilz<lb/>
 
 portoient des marchandises d<pl>aegipte</pl> &amp; d<pl>assyrie</pl> que
-co<exp>mmun</exp>em<x><exp>ent</exp></x><lb/>
+co<exp>mmun</exp>em<corr><exp>ent</exp></corr><lb/>
 
-en six jours il avoient debite</ab>
+en six <tmp>jours</tmp> il avoient debite</ab>
+
+<ab>
 
 <man>
 <margin>left-top</margin>
-Navigatio<exp>n</exp><lb/>marchandise</man>
+Navigatio<exp>n</exp><lb/>
 
-<ab><pl>Herodote</pl> au premier foeuillet de <gk>Clio</gk> dict que les
+marchandise</man>
+
+</ab>
+
+<ab>
+
+<pn>Herodote</pn> au premier foeuillet de <gk>Clio</gk> dict que les
 <pl>grecs</pl> furent<lb/>
 
-dans un long vaisseau en la coste de <pl>colchos</pl> &amp; au fleuve
-<pl>phasis</pl><lb/>
+dans un long vaisseau en la <pl>coste de colchos</pl> &amp; au
+<pl>fleuve phasis</pl><lb/>
 
-ou ilz ravirent <pn>Medee</pn> </ab>
+ou ilz ravirent <pn>Medee</pn>
+
+</ab>
+
+<ab>
 
 <man>
 <margin>left-top</margin>
 Galeres</man>
 
-<ab><pn>Herod<exp>ote</exp></pn> au 3 foeuillet dict que <pn>Gyges</pn>
+</ab>
+
+<ab>
+
+<pn>Herod<exp>ote</exp></pn> au 3 foeuillet dict que <pn>Gyges</pn>
 presenta au temple de <pl>delphe</pl><lb/>
 
-<la>pateras <m>aureas</m> sex pondo 30 <cn>talentorum</cn></la></ab>
+<la>pateras <m>aureas</m> sex pondo 30
+<ms><cn>talentorum</cn></ms></la></ab>
+
+<ab>
 
 <man>
 <margin>left-middle</margin>
 Vases d<m>or</m></man>
 
-<ab><pn>Herod<exp>ote</exp></pn>. <pn>Halyattes</pn> pere de
+</ab>
+
+<ab>
+
+<pn>Herod<exp>ote</exp></pn>. <pn>Halyattes</pn> pere de
 <pn>croesus</pn> <la><rub>pateram ex <m>ferro</m><lb/>
 
 compactilem apud <pl>delphos</pl> dedicavit spectatu dignam<lb/>
@@ -61,12 +84,19 @@ inter omnia quae sunt <pl>delphis</pl> donaria opus <pn>Glauci<lb/>
 Chii</pn> qui solus omnium compactionem <m>ferri</m>
 excogitavit</rub><lb/>
 
-compactile <m>ferrum</m></la> qui est fait dassemblage &amp; choses
+<m>compactile ferrum</m></la> qui est fait dassemblage &amp; choses
 raportees</ab>
 
+<ab>
+
 <man>
+
 <margin>left-middle</margin>
-Vase de <m>fer</m><lb/>raporte et soulde</man>
+Vase de <m>fer</m><lb/>
+
+raporte et <m>soulde</m></man>
+
+</ab>
 
 <ab>
 
@@ -77,10 +107,10 @@ pour en achepter de plus riches &amp; proficter de plus en plus<lb/>
 
 Aussy pour le desir d'aprendre jexpose ce peu qui est de ma<lb/>
 
-boutique pour <del>avoyr en</del> recepvoir en commu<exp>n</exp>
-commerce des l<exp>ett</exp>res<lb/>
+<env>boutique</env> pour <del>avoyr en</del> recepvoir en
+commu<exp>n</exp> commerce des l<exp>ett</exp>res<lb/>
 
-beaucoup plus rares secrets des benevoles lecteurs</ab>
+beaucoup plus rares secrets des benevoles <pro>lecteurs</pro></ab>
 
 <figure/>
 

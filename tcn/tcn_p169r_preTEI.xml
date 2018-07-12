@@ -5,53 +5,53 @@
 
 <div>
 <id>p169r_1</id>
-<underline>
-<ab><underline>Mouler tortue</underline></ab>
+<ab><underline>Mouler <al>tortue</al></underline></ab>
 
 <ab><underline>Animaulx a poil</underline></ab>
 
-<ab><underline>Oiseaulx</underline></ab>
+<ab><underline><al>Oiseaulx</al></underline></ab>
 
-<ab><underline>Foeille de vigne - mis</underline></ab>
+<ab><underline>Foeille de <pa>vigne</pa> - mis</underline></ab>
 
-<ab>De fraises</ab>
+<ab>De <pa>fraises</pa></ab>
 
 <ab><underline>Mouler a diverses pieces</underline></ab>
 
-<ab>Mouler un vase en chassis</ab>
+<ab>Mouler un vase en <tl>chassis</tl></ab>
 
-<ab>Mouler du <m>capilli veneris</m><lb/>
+<ab>Mouler du <pa><la>capilli veneris</la></pa><lb/>
 
 &amp; herbes qui ont besoing de<lb/>
-<underline>filets pour les soubstenir</underline></ab>
+<underline><tl>filets</tl> pour les soubstenir</underline></ab>
 
 <ab>Mouler un bouquet</ab>
 
-<ab><underline>Rose oeillets</underline></ab>
+<ab><underline><pa>Rose</pa> <pa>oeillets</pa></underline></ab>
 
 <ab><underline>Mouler creux</underline></ab>
 
-<ab><m>Argent</m> <m>doré</m> creux</ab>
+<ab><m>Argent doré</m> creux</ab>
 
-<ab><underline>Mouler chancre - mis</underline></ab>
+<ab><underline>Mouler <al>chancre</al> - mis</underline></ab>
 
-<ab><figure>+</figure> <underline>Escrevisse mis et veu</underline></ab>
+<ab><figure>+</figure> <underline><al>Escrevisse</al> mis et
+veu</underline></ab>
 
-<ab>Sauterelles</ab>
+<ab><al>Sauterelles</al></ab>
 
-<ab>Barbots</ab>
+<ab><al>Barbots</al></ab>
 
-<ab>Papillons</ab>
+<ab><al>Papillons</al></ab>
 
-<ab><underline>Mousches</underline></ab>
+<ab><underline><al>Mousches</al></underline></ab>
 
-<ab>Chauvesouris</ab>
+<ab><al>Chauvesouris</al></ab>
 
 <ab><m>Esmailler</m> <m>or</m> fort tanvre</ab>
 
 <ab>Mouler en <m>sucre</m></ab>
 
-<ab>Mouler poissons</ab>
+<ab>Mouler <al>poissons</al></ab>
 
 <ab><underline>Gecter en <m>soufre</m> - mis</underline></ab>
 
@@ -69,16 +69,16 @@ mis</underline></ab>
 <ab><underline>Mouler et faire caves d'animaulx de
 <m>metal</m></underline></ab>
 
-<ab><underline><figure>+</figure> <m>Huile de froment</m> mis et
-veu</underline></ab>
+<ab><figure>+</figure> <underline><m>Huile de <pa>froment</pa></m> mis
+et veu</underline></ab>
 
-<ab><underline>Cef volant</underline></ab>
+<ab><underline><al>Cef volant</al></underline></ab>
 
-<ab>Pied de butor moulé</ab>
+<ab>Pied de <al>butor</al> moulé</ab>
 
 <ab><underline>Espesseur d'une medaille</underline></ab>
 
-<ab><underline><m>Cire</m> fort dure</underline></ab>
+<ab><underline><m>Cire fort dure</m></underline></ab>
 
 <ab><underline>Mouler une bague de ce qui est gravé</underline></ab>
 
@@ -88,23 +88,23 @@ veu</underline></ab>
 
 <ab>Fontaines</ab>
 
-<ab>Grottes</ab>
+<ab><env>Grottes</env></ab>
 
-<ab>Diverses mousses apliquées</ab>
+<ab>Diverses <pa>mousses</pa> apliquées</ab>
 
-<ab><underline>Mouler en trois chassis</underline></ab>
+<ab><underline>Mouler en trois <tl>chassis</tl></underline></ab>
 
 <ab>Adoulcir le <m>fer</m> pour y graver</ab>
 
-<ab>Graver d'<m>eau fort</m> sur l'<m>argent</m> <lb/>et
-<m>cuivre</m></ab>
+<ab>Graver d'<m>eau fort</m> sur l'<m>argent</m><lb/>
+
+et <m>cuivre</m></ab>
 
 <ab>Stamper</ab>
 
-<ab><m>Esmail</m> blanc, l'attendrir <lb/>avecq <m>cailloux de
-riviere</m> noirs<lb/>
-calcinés</ab>
+<ab><m>Esmail blanc</m>, l'attendrir<lb/>
 
-</underline>
+avecq <m>cailloux de <env>riviere</env> noirs<lb/>
+calcinés</m></ab>
 </div>
 </root>

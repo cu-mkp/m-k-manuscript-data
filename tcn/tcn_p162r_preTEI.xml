@@ -5,7 +5,7 @@
 
 <div>
 <id>p162r_1</id>
-<head>Pour la boutique</head>
+<head>Pour la <env>boutique</env></head>
 
 <ab>Il se peult colliger par le dire d'<pn>Herodote</pn> que la
 navigation<lb/>
@@ -18,48 +18,63 @@ intitule <gk>Clio</gk>, il dict<lb/>
 
 que les <pl>Phoeniciens</pl> venoient de la <pl>mer Rouge</pl> par
 continuelles<lb/>
-navigations en la coste de <pl>Graece</pl>, principalle<exp>ment</exp> à
+navigations en la <pl>coste de Graece</pl>, principalle<exp>ment</exp> à
 <pl>Argos</pl>, où ilz<lb/>
 
 portoient des marchandises d'<pl>Aegipte</pl> &amp; d'<pl>Assyrie</pl>,
 que co<exp>mmun</exp>em<corr><exp>ent</exp></corr><lb/>
 
-en six jours il avoient debité.</ab>
+en six <tmp>jours</tmp> il avoient debité.</ab>
 
 <ab>
 
 <man>
 <margin>left-top</margin>
-Navigatio<exp>n</exp>,<lb/>marchandise.</man></ab>
+Navigatio<exp>n</exp>,<lb/>
 
-<ab><pn>Herodote</pn>, au premier foeuillet de <gk>Clio</gk>, dict que
-les <pl>Grecs</pl> furent<lb/>
+marchandise.</man>
 
-dans un long vaisseau en la coste de <pl>Colchos</pl> &amp; au fleuve
-<pl>Phasis</pl>,<lb/>
+</ab>
 
-où ilz ravirent <pn>Medée</pn>.</ab>
+<ab>
+
+<pn>Herodote</pn>, au premier foeuillet de <gk>Clio</gk>, dict que les
+<pl>Grecs</pl> furent<lb/>
+
+dans un long vaisseau en la <pl>coste de Colchos</pl> &amp; au
+<pl>fleuve Phasis</pl>,<lb/>
+
+où ilz ravirent <pn>Medée</pn>.
+
+</ab>
 
 <ab>
 
 <man>
 <margin>left-top</margin>
-Galeres</man></ab>
+Galeres</man>
+
+</ab>
 
 <ab>
 
 <pn>Herod<exp>ote</exp></pn> au 3 foeuillet dict que <pn>Gyges</pn>
 presenta au temple de <pl>Delphe</pl><lb/>
 
-<la>pateras <m>aureas</m> sex pondo 30 <cn>talentorum</cn></la>.</ab>
+<la>pateras <m>aureas</m> sex pondo 30
+<ms><cn>talentorum</cn></ms></la>.</ab>
 
 <ab>
 
 <man>
 <margin>left-middle</margin>
-Vases d'<m>or</m>.</man></ab>
+Vases d'<m>or</m>.</man>
 
-<ab><pn>Herod<exp>ote</exp></pn>. <pn>Halyattes</pn>, pere de
+</ab>
+
+<ab>
+
+<pn>Herod<exp>ote</exp></pn>. <pn>Halyattes</pn>, pere de
 <pn>Croesus</pn>, <la><rub>pateram ex <m>ferro</m><lb/>
 
 compactilem apud <pl>Delphos</pl> dedicavit spectatu dignam<lb/>
@@ -69,14 +84,18 @@ inter omnia quae sunt <pl>Delphis</pl> donaria, opus <pn>Glauci<lb/>
 Chii</pn> qui solus omnium compactionem <m>ferri</m>
 excogitavit.</rub><lb/>
 
-Compactile <m>ferrum</m></la>, qui est fait d'assemblage &amp; choses
+<m>Compactile ferrum</m></la>, qui est fait d'assemblage &amp; choses
 raportées.</ab>
 
 <ab>
 
 <man>
 <margin>left-middle</margin>
-Vase de <m>fer</m><lb/>raporté et souldé.</man></ab>
+Vase de <m>fer</m><lb/>
+
+raporté et <m>souldé</m>.</man>
+
+</ab>
 
 <ab>
 
@@ -87,14 +106,15 @@ pour en achepter de plus riches &amp; proficter de plus en plus,<lb/>
 
 aussy pour le desir d'aprendre j'expose ce peu qui est de ma<lb/>
 
-boutique pour recepvoir en commu<exp>n</exp> commerce des
+<env>boutique</env> pour recepvoir en commu<exp>n</exp> commerce des
 l<exp>ett</exp>res<lb/>
 
-beaucoup plus rares secrets des benevoles lecteurs.</ab>
+beaucoup plus rares secrets des benevoles <pro>lecteurs</pro>.</ab>
 
 <figure/>
 
 </div>
+
 <div>
 <id>p162r_2</id>
 <head><m><la>Aes ustum</la></m></head>
