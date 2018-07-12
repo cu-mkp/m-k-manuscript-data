@@ -2,9 +2,15 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
     <xsl:output method="text" encoding="UTF-8"/>
-    <xsl:param name="fieldSep"><xsl:text>	</xsl:text></xsl:param>
-    <xsl:param name="tcnFile"><xsl:text>file:///Users/terry/Github/ms-xml/allFolios/all_tcn.xml</xsl:text></xsl:param>
-    <xsl:param name="tlFile"><xsl:text>file:///Users/terry/Github/ms-xml/allFolios/all_tl.xml</xsl:text></xsl:param>
+    <xsl:param name="fieldSep">
+        <xsl:text>	</xsl:text>
+    </xsl:param>
+    <xsl:param name="tcnFile">
+        <xsl:text>file:///Users/terry/Github/ms-xml/allFolios/all_tcn.xml</xsl:text>
+    </xsl:param>
+    <xsl:param name="tlFile">
+        <xsl:text>file:///Users/terry/Github/ms-xml/allFolios/all_tl.xml</xsl:text>
+    </xsl:param>
 
     <xsl:template match="/">
         <xsl:text>folio</xsl:text>
@@ -64,9 +70,21 @@
         <xsl:value-of select="$fieldSep"/>
         <xsl:value-of select="normalize-space(child::head)"/>
         <xsl:value-of select="$fieldSep"/>
-        <xsl:value-of select="document($tcnFile)//div[id = current()/child::id]/head/normalize-space()"/>
-        <xsl:value-of select="$fieldSep"/>
-        <xsl:value-of select="document($tlFile)//div[id = current()/child::id]/head/normalize-space()"/>
+        <xsl:choose>
+            <xsl:when test="not(child::cont[following-sibling::*])">
+                <xsl:value-of
+                    select="document($tcnFile)//div[id = current()/child::id]/head/normalize-space()"/>
+                <xsl:value-of select="$fieldSep"/>
+                <xsl:value-of
+                    select="document($tlFile)//div[id = current()/child::id]/head/normalize-space()"
+                />
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:text/>
+                <xsl:value-of select="$fieldSep"/>
+                <xsl:text/>
+            </xsl:otherwise>
+        </xsl:choose>
         <xsl:value-of select="$fieldSep"/>
         <xsl:value-of select="normalize-space(child::margin)"/>
         <xsl:value-of select="$fieldSep"/>
@@ -90,10 +108,10 @@
         </xsl:for-each>
         <xsl:value-of select="$fieldSep"/>
         <xsl:for-each select="distinct-values(.//bp/normalize-space())">
-        <xsl:value-of select="."/>
-        <xsl:if test="position() != last()">
-            <xsl:text>;</xsl:text>
-        </xsl:if>
+            <xsl:value-of select="."/>
+            <xsl:if test="position() != last()">
+                <xsl:text>;</xsl:text>
+            </xsl:if>
         </xsl:for-each>
         <xsl:value-of select="$fieldSep"/>
         <xsl:for-each select="distinct-values(.//cn/normalize-space())">
@@ -104,10 +122,10 @@
         </xsl:for-each>
         <xsl:value-of select="$fieldSep"/>
         <xsl:for-each select="distinct-values(.//env/normalize-space())">
-        <xsl:value-of select="."/>
-        <xsl:if test="position() != last()">
-            <xsl:text>;</xsl:text>
-        </xsl:if>
+            <xsl:value-of select="."/>
+            <xsl:if test="position() != last()">
+                <xsl:text>;</xsl:text>
+            </xsl:if>
         </xsl:for-each>
         <xsl:value-of select="$fieldSep"/>
         <xsl:for-each select="distinct-values(.//m/normalize-space())">
@@ -118,10 +136,10 @@
         </xsl:for-each>
         <xsl:value-of select="$fieldSep"/>
         <xsl:for-each select="distinct-values(.//ms/normalize-space())">
-        <xsl:value-of select="."/>
-        <xsl:if test="position() != last()">
-            <xsl:text>;</xsl:text>
-        </xsl:if>
+            <xsl:value-of select="."/>
+            <xsl:if test="position() != last()">
+                <xsl:text>;</xsl:text>
+            </xsl:if>
         </xsl:for-each>
         <xsl:value-of select="$fieldSep"/>
         <xsl:for-each select="distinct-values(.//pa/normalize-space())">
@@ -132,10 +150,10 @@
         </xsl:for-each>
         <xsl:value-of select="$fieldSep"/>
         <xsl:for-each select="distinct-values(.//pl/normalize-space())">
-        <xsl:value-of select="."/>
-        <xsl:if test="position() != last()">
-            <xsl:text>;</xsl:text>
-        </xsl:if>
+            <xsl:value-of select="."/>
+            <xsl:if test="position() != last()">
+                <xsl:text>;</xsl:text>
+            </xsl:if>
         </xsl:for-each>
         <xsl:value-of select="$fieldSep"/>
         <xsl:for-each select="distinct-values(.//pn/normalize-space())">
@@ -146,10 +164,10 @@
         </xsl:for-each>
         <xsl:value-of select="$fieldSep"/>
         <xsl:for-each select="distinct-values(.//pro/normalize-space())">
-        <xsl:value-of select="."/>
-        <xsl:if test="position() != last()">
-            <xsl:text>;</xsl:text>
-        </xsl:if>
+            <xsl:value-of select="."/>
+            <xsl:if test="position() != last()">
+                <xsl:text>;</xsl:text>
+            </xsl:if>
         </xsl:for-each>
         <xsl:value-of select="$fieldSep"/>
         <xsl:for-each select="distinct-values(.//sn/normalize-space())">
@@ -160,17 +178,17 @@
         </xsl:for-each>
         <xsl:value-of select="$fieldSep"/>
         <xsl:for-each select="distinct-values(.//tl/normalize-space())">
-        <xsl:value-of select="."/>
-        <xsl:if test="position() != last()">
-            <xsl:text>;</xsl:text>
-        </xsl:if>
+            <xsl:value-of select="."/>
+            <xsl:if test="position() != last()">
+                <xsl:text>;</xsl:text>
+            </xsl:if>
         </xsl:for-each>
         <xsl:value-of select="$fieldSep"/>
         <xsl:for-each select="distinct-values(.//md/normalize-space())">
-        <xsl:value-of select="."/>
-        <xsl:if test="position() != last()">
-            <xsl:text>;</xsl:text>
-        </xsl:if>
+            <xsl:value-of select="."/>
+            <xsl:if test="position() != last()">
+                <xsl:text>;</xsl:text>
+            </xsl:if>
         </xsl:for-each>
         <xsl:value-of select="$fieldSep"/>
         <xsl:for-each select="distinct-values(.//mu/normalize-space())">
