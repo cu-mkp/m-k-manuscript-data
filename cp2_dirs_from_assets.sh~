@@ -1,9 +1,0 @@
-DOCX_DIR="/Users/terry/Github/making-knowing-assetserver/scripts/content_import/TEMP/input"
-
-for DOCX in `find $DOCX_DIR -iname '*.docx' | xargs -L1 -0 echo` 
-
-do
-
-    basename ${DOCX}
-    
-done
