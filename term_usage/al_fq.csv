@@ -1,5 +1,5 @@
-29|serpent
-23|serpents
+28|serpent
+24|serpents
 22|tortue
 22|escrevisse
 21|cheval
@@ -9,9 +9,9 @@
 12|mouche
 12|lesards
 12|escrevisses
+11|tortues
 11|mouton
 11|iraigne
-10|tortues
 10|rat
 10|dragon
 10|chevaulx
@@ -19,13 +19,13 @@
 9|bœuf
 7|grenoille
 7|chiens
+7|chien
 6|oiseaulx
 6|oiseau
+6|chancre
 5|veau
 5|serpens
 5|lesardes
-5|chien
-5|chancre
 4|vache
 4|pourceau
 4|mousche
@@ -51,6 +51,7 @@
 2|souris
 2|saulterelles
 2|rossignols
+2|poissons
 2|pigeons
 2|papillons
 2|moutons
@@ -66,9 +67,12 @@
 2|cerf volant
 2|celles deau
 2|calendres
+2|butor
 2|angroisse
 2|Tortues
 2|Serpens
+2|Mousches
+2|Escrevisse
 2|Crapault
 1|yraignes
 1|yraigne
@@ -94,7 +98,6 @@
 1|poulle
 1|poulain
 1|porc espic
-1|poissons
 1|pincons
 1|perdris
 1|passereaulx
@@ -114,6 +117,7 @@
 1|huitre
 1|huistres
 1|homme
+1|hirondelles
 1|grenoilles
 1|fouines
 1|formis noires
@@ -126,12 +130,13 @@
 1|cochon
 1|cigne
 1|chiens communs
+1|chien de mer
 1|chevreaulx
 1|chevreau
 1|chevaux
+1|cheiien
 1|chats
 1|chat
-1|ceulx dans lesquels certains petits chancres se logent
 1|cerf
 1|celle de garrigue
 1|canard
@@ -139,7 +144,6 @@
 1|calandres
 1|calandre
 1|bœufs
-1|butor
 1|brebis
 1|bouc
 1|bombicum
@@ -160,21 +164,24 @@
 1|Vers de soye
 1|Tuaparc
 1|Serpents
+1|Sauterelles
+1|Papillons
 1|Oysillons
-1|Mousches
+1|Oiseaulx
 1|Lesards
-1|Escrevisse
 1|Escargots
 1|Chiens
 1|Chevaulx
+1|Chauvesouris
 1|Chauve souris
 1|Chancre
-1|Ceulx qui se trouvent dans la mer
 1|Cerf volant
 1|Celles de garrigue
+1|Cef volant
 1|Canards
 1|Butor
 1|Brebis
+1|Barbots
 1|Araigne
 1|Aquatilium animalium
 1|

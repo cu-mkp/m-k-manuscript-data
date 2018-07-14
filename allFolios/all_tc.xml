@@ -2122,12 +2122,16 @@ demeurera</ab>
 
 violence aux artifices de foeu</head>
 
-         <ab>Mects parmy la pouldre <del>six fois autant de <m>vif
-argent</m>
+         <ab>Mects parmy la <m>pouldre</m> 
+            <del>
+               <ms>six fois autant</ms> de
+<m>vif argent</m>
             </del>
             <lb/>
 
-            <del>et</del> la sixiesme partye dicelle de <m>vif argent</m>
+            <del>et</del> 
+            <ms>la sixiesme partye</ms> dicelle de <m>vif
+argent</m>
          </ab>
 
       </div>
@@ -2144,7 +2148,7 @@ armes a preuve</head>
 
 fondre et comme elle sera bien chaulde trempe la dans le<lb/>
 
-plus fort <m>vinaigre</m> que tu pourras et fais cela quattre<lb/>
+            <m>plus fort vinaigre</m> que tu pourras et fais cela quattre<lb/>
 
 ou cinq fois Apres hache du <m>lard</m> bien menu &amp; du
 <m>linge</m>
@@ -2152,8 +2156,7 @@ ou cinq fois Apres hache du <m>lard</m> bien menu &amp; du
 
 aussi bien subtilement mesle tout ensemble &amp; ten sers comme<lb/>
 
-de <m>bourre</m> et le fais entrer un peu a force &amp; fort
-justement<lb/>
+de bourre et le fais entrer un peu a force &amp; fort justement<lb/>
 
 dans lharquebuse ou pistole Et plustost que tirer <del>cha</del>
 fais<lb/>
@@ -2166,13 +2169,15 @@ sil est possible que la balle soict chaulde</ab>
 
          <id>p008r_4</id>
 
-         <head>Pour de nuict fayre bresche<lb/>
+         <head>Pour <tmp>de nuict</tmp> fayre bresche<lb/>
 
-en une muraille</head>
+en <env>une muraille</env>
+         </head>
 
-         <ab>Ayant faict trou dans la muraille comme tu scais mects<lb/>
+         <ab>Ayant faict trou dans la <env>muraille</env> comme tu scais
+mects<lb/>
 
-un mortier dedans charge de pouldre qui soict quasi comme<lb/>
+un mortier dedans charge de <m>pouldre</m> qui soict quasi comme<lb/>
 
 couche &amp; laultre droict puys bouche le trou et donne foeu</ab>
 
@@ -4696,28 +4701,33 @@ que de deulx cens <ms>pas</ms> ou trois cens <del>
             </del>
 pour le plus Et ne doit estre plus<lb/>
 
-loing Sa balle poise co<exp>mmun</exp>ement du qualibre du roy 40
-<ms>lb</ms> Il y a canon<lb/>
+loing Sa balle poise co<exp>mmun</exp>ement du <ms>qualibre du
+<pro>
+                  <pn>roy</pn>
+               </pro>
+            </ms> 40 <ms>lb</ms> Il y a <df>canon<lb/>
 
-perrier qui poyse xxv <ms>quintal</ms>s qui sont petits canons
+perrier</df> qui poyse xxv <ms>quintals</ms> qui sont petits canons
 court<lb/>
 
 cest pour battre les cassemattes des fosses &amp; pour battre de
 pres<lb/>
 
-il porte grand balle de qualibre de roy co<exp>mm</exp>e les
-aultres<lb/>
+il porte grand balle de <ms>qualibre de <pro>
+                  <pn>roy</pn>
+               </pro>
+            </ms>
+co<exp>mm</exp>e les aultres<lb/>
 
-scavoir de 40 <ms>lb</ms> Il ne porte a la culasse que lespesseur
+scavoir de 40 <ms>lb</ms> Il ne porte a la culasse que l<ms>espesseur
 de<lb/>
 
-deux balles &amp; un quart de balle Le devant ne porte que<lb/>
+deux balles &amp; un quart de balle</ms> Le devant ne porte que<lb/>
 
-lespesseur dune balle &amp; la troisiesme partye dune balle Sa<lb/>
+l<ms>espesseur dune balle &amp; la troisiesme partye dune balle</ms>
+Sa<lb/>
 
-charge est semblable a celle des plus grands scavoir de xx
-<ms>lb</ms>
-            <lb/>
+charge est semblable a celle des plus grands scavoir de xx<lb/>
 
 Et quand on les veult essayer <del>
                <ill/>
@@ -4733,18 +4743,20 @@ est mieulx de ne luy donner pas sa charge entiere Car la piece<lb/>
 
 sasseure Et lessay quon peult fayre cest de luy donner<lb/>
 
-sa charge de xx <ms>lb</ms> de fine <m>pouldre</m> dharquebus au lieu
+sa charge de xx <ms>lb</ms> de <m>fine pouldre dharquebus</m> au lieu
 de<lb/>
 
-            <m>pouldre</m> ordinayre de canon Et quattre bons <al>chevaulx</al>
+            <m>pouldre ordinayre de canon</m> Et quattre bons <al>chevaulx</al>
 sont<lb/>
 
 suffisans pour les trainer Ils sont ayses &amp; de pres ilz font<lb/>
 
-aultant de force co<exp>mm</exp>e les grands mesmement aulx maysons<lb/>
+aultant de force co<exp>mm</exp>e les grands mesmement aulx
+<env>maysons<lb/>
 
-particulieres &amp; petites villates &amp; forteresses de peu
-dimporta<exp>n</exp>ce<lb/>
+particulieres</env> &amp; <env>petites villates</env> &amp;
+<env>forteresses de peu dimporta<exp>n</exp>ce</env>
+            <lb/>
 
 Ils ne sont poinct plus subgects a se crever que les aultres<lb/>
 
@@ -4765,12 +4777,15 @@ longue piece quen une <del>gr</del> courte Le canon perrier est
 co<exp>mmun</exp>em<exp>ent</exp>
             <lb/>
 
-de Sept a huict <ms>pan</ms>s de long Il est vray que cest <ms>pan
+de Sept a huict <ms>pans</ms> de long Il est vray que cest <ms>pan
 de<lb/>
 
                <pl>montpellier</pl>
-            </ms> &amp; non pas <ms>pan de roy</ms> qui nest pas
-usite en la fonte<lb/>
+            </ms> &amp; non pas <ms>pan de
+<pro>
+                  <pn>roy</pn>
+               </pro>
+            </ms> qui nest pas usite en la fonte<lb/>
 
 de canons pour les faire bons Car le <ms>pan de
 <pl>montpellier</pl>
@@ -4783,8 +4798,11 @@ proportiones<lb/>
 sont plus courts aussy &amp; recompensent en espesseur <del>ce</del> la
 longueur<lb/>
 
-quilz auroyent au <ms>pan de roy</ms> a quelle mesure ilz se
-trouveront<lb/>
+quilz auroyent au <ms>pan de <pro>
+                  <pn>roy</pn>
+               </pro>
+            </ms> a quelle
+mesure ilz se trouveront<lb/>
 
 plus longs Mays aussy ilz seroient plus tanvres L<del>e</del>a
 <del>grand</del>
@@ -4849,11 +4867,11 @@ sont composees de<lb/>
 
 suffisante quantite<lb/>
 
-de rosette Sinon<lb/>
+de <m>rosette</m> Sinon<lb/>
 
 elles ne sont que de<lb/>
 
-metal qui se demo<exp>n</exp>stre<lb/>
+            <m>metal</m> qui se demo<exp>n</exp>stre<lb/>
 
 blanchastre Si<lb/>
 
@@ -4869,23 +4887,27 @@ racle &amp; tu verras</ab>
 
 La bonne ligue de<lb/>
 
-pieces est de <ms>trois pars</ms>
+pieces est de <ms>trois pars<lb/>
+
+de <m>rosette</m> &amp; une de <m>metal<lb/>
+
+fin de <del>la</del> grosse cloche</m>
+            </ms>
             <lb/>
-
-de rosette &amp; une de metal<lb/>
-
-fin de <del>la</del> grosse cloche<lb/>
 
 ou il y ha plus de<lb/>
 
-rosette quen metal de<lb/>
+            <m>rosette</m> quen <m>metal de<lb/>
 
-petites cloches Le<lb/>
+petites cloches</m> Le<lb/>
 
-metal coste communem<exp>ent</exp>
+            <m>metal</m> coste communem<exp>ent</exp>
             <lb/>
 
-xv <cn>lb</cn> &amp; la rosette fine<lb/>
+xv <ms>
+               <cn>lb</cn>
+            </ms> &amp; la <m>rosette fine</m>
+            <lb/>
 
 xv ou xvi</ab>
 
@@ -4893,12 +4915,18 @@ xv ou xvi</ab>
 
             <margin>left-bottom</margin>
 
-Le pan de <pl>montpellier</pl>
+Le <ms>
+               <df>pan de <pl>montpellier</pl>
+               </df>
+            </ms>
             <lb/>
 
-est de six poulces<lb/>
+est de six <ms>poulces<lb/>
 
-de roy qui en<lb/>
+de <pro>
+                  <pn>roy</pn>
+               </pro>
+            </ms> qui en<lb/>
 
 en emporte deulx<lb/>
 
@@ -4930,17 +4958,20 @@ culasse Aultrement on ne pointe pas bien</ab>
 
          <ab>Le grand canon qui est pour grandes batteries poise<lb/>
 
-commune<exp>ment</exp> cinquante cinq ou lx <ms>quintal</ms>s Sur la
+commune<exp>ment</exp> cinquante cinq ou lx <ms>quintals</ms> Sur la
 culasse<lb/>
 
-il porte lespesseur de <del>b</del> deulx balles &amp; <del>l</del> des
-trois parties dune<lb/>
+il porte l<ms>espesseur de <del>b</del> deulx balles &amp; <del>l</del>
+des trois parties dune<lb/>
 
-balle <add>lune</add> Au devant il porte <del>ba</del> lespesseur dune
-balle &amp; de <del>deulx</del>
+balle <add>lune</add>
+            </ms> Au devant il porte <del>ba</del>
+l<ms>espesseur dune balle &amp; de <del>deulx</del>
+               <lb/>
+
+trois parties les deulx</ms> Il est de treze ou quatorze
+<ms>pans</ms>
             <lb/>
-
-trois parties les deulx Il est de treze ou quatorze <ms>pan</ms>s<lb/>
 
 de long Mays ilz sont fort fascheux a conduire La droicte<lb/>
 
@@ -4960,13 +4991,13 @@ de 40 <ms>lb</ms>
 
 Il fault xxv <al>chevaulx</al> pour le tirer. Quand on tire plus<lb/>
 
-que la portee ordinayre on y mect demy <ms>
-               <tl>lanterne</tl>
+que la portee ordinayre on y mect <ms>demy <tl>lanterne</tl>
             </ms> de
-<m>pouldre</m>
-            <lb/>
+<m>pouldre<lb/>
 
-de canon dadvantaige Un canon peult tirer par jour 4xx<lb/>
+de canon</m> dadvantaige Un canon peult tirer <ms>par
+<tmp>jour</tmp>
+            </ms> 4xx<lb/>
 
 ou cent coups Mays il le fault refraischir a chasque<lb/>
 
@@ -4975,11 +5006,11 @@ batterie<lb/>
 
 est roidement continuee Car sil y a intermission il ne fault<lb/>
 
-pas le refraischir si souvent Sur deulx <ms>quintal</ms>s de
+pas le refraischir si souvent Sur deulx <ms>quintals</ms> de
 <m>cuivre</m>
             <lb/>
 
-ou deulx <ms>quintal</ms>s &amp; demy si cest pour grands canons on
+ou deulx <ms>quintals &amp; demy</ms> si cest pour grands canons on
 mect<lb/>
 
 un <ms>quintal</ms> de <m>metal</m> 
@@ -4992,47 +5023,56 @@ un <ms>quintal</ms> de <m>metal</m>
 de huict <ms>lb</ms> d<m>estain</m> sur un <ms>quintal</ms> de
 <m>rosette</m> et encores<lb/>
 
-aulx grosses cloches on ne mect que six <ms>lb</ms> d<m>estain</m> fin
+aulx grosses cloches on ne mect que six <ms>lb</ms> d<m>estain fin</m>
 sur<lb/>
 
 un <ms>quintal</ms> de <m>rosette</m> pour luy donner plus grosse
 voix<lb/>
 
-Car tant plus il y a d<m>estaing</m> tant plus le son est clair<lb/>
+Car tant plus il y a d<m>estaing</m> tant plus le <sn>son</sn> est
+clair<lb/>
 
             <del>Sa</del> Pour la fonte du canon si on fournist la matiere &amp;
-<m>charb<exp>on</exp>
-            </m>
+charb<exp>on</exp>
             <lb/>
 
 co<exp>mm</exp>e on faict co<exp>mmun</exp>ement car les
 <pro>M<exp>aistre</exp>s</pro> nont pas le moyen On donne<lb/>
 
-x ou xii <ms>lb</ms> pour <ms>quintal</ms> Et <del>pour la mat</del>
+x ou xii <ms>
+               <cn>lb</cn> pour quintal</ms> Et <del>pour la mat</del>
 quand le <pro>M<exp>aistr</exp>e</pro>
             <lb/>
 
-fournist tout on luy donne 40 <ms>lb</ms> 
-            <add>selon
-lordonna<exp>n</exp>ce du roy</add> pour <ms>quintal</ms> de
-grandes<lb/>
+fournist tout on luy donne 40 <ms>
+               <cn>lb</cn> 
+               <add>selon
+lordonna<exp>n</exp>ce du <pro>
+                     <pn>roy</pn>
+                  </pro>
+               </add> pour
+quintal</ms> de grandes<lb/>
 
 pieces <del>&amp;</del> co<exp>mm</exp>e canons Et pour petites pieces l
-<ms>lb</ms> 
+<ms>
+               <cn>lb</cn>
+            </ms> 
             <del>T</del> Car<lb/>
 
 tant plus yl y a de matiere tant plus le <pro>M<exp>aistr</exp>e</pro> y
 a proffit<lb/>
 
-On fond un aultre sorte de canons perriers de xxx <ms>quintal</ms>s<lb/>
+On fond un aultre sorte de canons perriers de xxx <ms>quintals</ms>
+            <lb/>
 
 qui sont plus longs que les aultres et sont volontiers de huict<lb/>
 
-            <ms>pan</ms>s de long &amp; sont pour battre les deffences &amp;
+            <ms>pans</ms> de long &amp; sont pour battre les deffences &amp;
 cassemattes<lb/>
 
-            <del>s</del> les logeant par trenchees sur le bort du fosse de
-nuict</ab>
+            <del>s</del> les logeant par trenchees sur le bort du fosse <tmp>de
+nuict</tmp>
+         </ab>
 
          <figure>◯</figure>
 
@@ -5046,9 +5086,10 @@ chasque coste de<lb/>
 
 louverture de la<lb/>
 
-culasse lespesseur<lb/>
+culasse l<ms>espesseur<lb/>
 
-dune demy bale<lb/>
+dune demy bale</ms>
+            <lb/>
 
 Et puys ilz<lb/>
 
@@ -5056,9 +5097,10 @@ adjoustent aussy<lb/>
 
 de chasque<lb/>
 
-coste la troisiesme<lb/>
+coste la <ms>troisiesme<lb/>
 
-partye dune balle</ab>
+partye dune balle</ms>
+         </ab>
 
          <ab>
 
@@ -5069,17 +5111,18 @@ partye dune balle</ab>
 
 On luy donne deulx<lb/>
 
-lanternes de <m>pouldre</m>
-            <lb/>
+            <tl>
+               <ms>lanternes</ms>
+            </tl> de <m>pouldre<lb/>
 
-a canon pour sa<lb/>
+a canon</m> pour sa<lb/>
 
-charge &amp; une &amp;<lb/>
+charge &amp; <ms>une &amp;<lb/>
 
-demye de <m>pouldre</m>
-            <lb/>
+demye de</ms> 
+            <m>pouldre<lb/>
 
-dharquebus &amp; aulx<lb/>
+dharquebus</m> &amp; aulx<lb/>
 
 aultres le mesme</ab>
 
@@ -5093,17 +5136,20 @@ La composition des<lb/>
 
 canons de <pl>france</pl> est<lb/>
 
-dun quintal de metal<lb/>
+d<ms>un quintal de <m>metal</m>
+               <lb/>
 
 sur deulx de <m>rosette</m>
+            </ms>
             <lb/>
 
 Mays ceulx de <pl>t<exp>ou</exp>l<exp>ou</exp>se</pl> &amp;<lb/>
 
-            <pn>Poncet</pn> mect 3 de <m>rosette</m>
+            <pn>Poncet</pn> mect iii de <m>rosette</m>
             <lb/>
 
-&amp; un de metal</ab>
+&amp; un de <m>metal</m>
+         </ab>
 
          <ab>
 
@@ -5127,21 +5173,22 @@ Les pieces ancienes<lb/>
 
 sont composees presque<lb/>
 
-            <del>de dem</del>daultant dun<lb/>
+            <del>de dem</del>d<ms>aultant dun<lb/>
 
-que daultre scavoir dune<lb/>
+que daultre</ms> scavoir dune<lb/>
 
-partye de <m>rosette</m> &amp; dune<lb/>
+            <ms>partye</ms> de <m>rosette</m> &amp; dune<lb/>
 
-de metal On cognoist<lb/>
+de <m>metal</m> On cognoist<lb/>
 
-Ceste composition au burin<lb/>
+Ceste composition au <tl>burin</tl>
+            <lb/>
 
 Car la matiere si trouve<lb/>
 
 aigre &amp; le grain enleve<lb/>
 
-du burin se trouve mesle de<lb/>
+du <tl>burin</tl> se trouve mesle de<lb/>
 
 jaulne &amp; de blanc</ab>
 
@@ -9870,10 +9917,10 @@ cella a aultre usage avecq des <tl>piques avecq des soliveaulx</tl>
             <lb/>
 
 ou faire promptem<exp>ent</exp> un trepied au camp avecq trois
-poinctes<lb/>
+<tl>poinctes<lb/>
 
-d<tl>halebarde</tl> Si le tranchant du <tl>costeau</tl> marque A regarde
-de la<lb/>
+dhalebarde</tl> Si le tranchant du <tl>costeau</tl> marque A regarde de
+la<lb/>
 
 droicte a gaulche le bout des manches se leveront Mays si<lb/>
 
@@ -15830,9 +15877,7 @@ de<lb/>
 tiede &amp;<lb/>
 
 prenes de la <m>terre grasse rouge</m> trois ou quattre
-<ms>
-               <bp>joinctees</bp>
-            </ms>
+<ms>joinctees</ms>
             <lb/>
 
 destrempes la &amp; la gectes dans le <tl>chaulderon</tl> avecq
@@ -24694,7 +24739,7 @@ lan</tmp>
       </div>
 
       <div>
-         <id>p084r_6</id>
+         <id>p084r_5</id>
          <head>
             <m>Sable de <env>mine de
 <pl>Th<exp>ou</exp>l<exp>ous</exp>e</pl>
@@ -27545,8 +27590,9 @@ dun <del>noi</del> rouge obscur nest pas si agreable</ab>
             <pro>Fourbisseur</pro>
          </head>
 
-         <ab>Les parties dune espee sont <add>la ribleure</add> la queue de
-lespee ce qui vient<lb/>
+         <ab>Les parties dune espee sont <add>la <df>ribleure</df>
+            </add> la queue
+de lespee ce qui vient<lb/>
 
 apres est le talon le reste est le <del>c</del>lame les costes sont le
 tranchant<lb/>
@@ -27556,7 +27602,7 @@ une seule<lb/>
 
 coste eslevee au milieu &amp; tout du long Et sont aisees a rompre<lb/>
 
-Les aultres lames sapellent a trois mouleures ou trois<lb/>
+Les aultres <df>lames</df> sapellent a trois mouleures ou trois<lb/>
 
 monteures qui ont bien une elevation au milieu mays elle est<lb/>
 
@@ -27577,22 +27623,25 @@ en faict une expres qui est estroicte</ab>
 
          <ab>De la garde de lespee est le pommeau les branches de la garde<lb/>
 
-&amp; le pontet qui est ceste lame de <m>fer</m> qui ferme la branche
-qui<lb/>
+&amp; le <df>pontet</df> qui est ceste lame de <m>fer</m> qui ferme la
+branche qui<lb/>
 
 est au bout du talon pour empescher que les estocades ne glissent<lb/>
 
-dans la garde Les aneaulx sont ces deulx branches en demy rond<lb/>
+dans la garde Les <df>aneaulx</df> sont ces deulx branches en demy
+rond<lb/>
 
 qui prenent despuys loeil de la garde jusques a la branche du
 pontet<lb/>
 
-La branche qui croise la garde sappelle le corps Et cest escusson<lb/>
+La branche qui croise la garde sappelle le <df>corps</df> Et cest
+escusson<lb/>
 
 par ou entre la queue de lespee et auquel se rendent &amp; tiennent
 toutes<lb/>
 
-les branches sapelle loeil de la garde</ab>
+les branches sapelle l<df>oeil de la garde</df>
+         </ab>
 
          <ab>Il sensuict le <m>bois</m> de la poignee lequel on <m>colle</m> ou
 selon les<lb/>
@@ -27603,61 +27652,76 @@ plus propres de la <m>cire gommee</m> qui est <m>cire</m> &amp;
             <m>rousine</m> seroit trop dure Il la chaufent legerement puys en
 frottent<lb/>
 
-le <m>bois</m> de la poignee affin que la <m>soye</m> si grippe ou le
-fil aultrement<lb/>
+le <m>bois</m> de la poignee affin que la soye si grippe ou le fil
+aultrement<lb/>
 
 quand un fil se defferoit tout se <del>d</del> romproit incontinent Au
-fil de<lb/>
+<tl>
+               <m>fil de<lb/>
 
-            <m>fer</m> ou <m>peau de chien</m> on y mect aussy de la <m>colle</m> La
-garniture<lb/>
+fer</m>
+            </tl> ou <tl>
+               <m>peau de <al>chien</al>
+               </m>
+            </tl> on y mect aussy
+de la <m>colle</m> La garniture<lb/>
 
             <del>de</del> qui se mect sur le <m>bois</m> 
             <del>de</del> qui est de
 <m>soye</m> ou de <m>filet</m> sapelle<lb/>
 
-le cordon qui se faict a deulx <del>tro</del> ou trois <m>filets</m>
+le <df>cordon</df> qui se faict a deulx <del>tro</del> ou trois
+<m>filets</m> 
             <del>tournes</del> retors au<lb/>
 
-rouet ou 4 si la <m>soye</m> est deliee Le cordon un peu grosset
-tient<lb/>
+            <tl>rouet</tl> ou 4 si la <m>soye</m> est deliee Le cordon un peu
+grosset tient<lb/>
 
 mieulx Larrest qui se faict aussy de <m>soye</m> aulx deulx bouts de
 la<lb/>
 
-poignee sappellent les boutons</ab>
+poignee sappellent les <df>boutons</df>
+         </ab>
 
-         <ab>Il se faict des poignees de <m>soye</m> de <m>peau de chien de
-mer</m> de fil de <m>fer</m>
-            <lb/>
+         <ab>Il se faict des poignees de <m>soye</m> de <m>peau de <al>chien de
+mer</al>
+            </m> de <m>fil de fer<lb/>
 
-recuit de fil d<m>or</m> &amp; d<m>argent</m> fin &amp; faulx &amp; de
-<m>velours</m> Le fil de<lb/>
+recuit</m> de <m>fil dor &amp; dargent fin &amp; faulx</m> &amp; de
+<m>velours</m> Le <m>fil de<lb/>
 
-            <m>fer</m> est de moindre prix &amp; le plus durable Apres est celle de
+fer</m> est de moindre prix &amp; le plus durable Apres est celle de
 <m>soye</m>
             <lb/>
 
-si on nest en commodite pres de la mer pour recouvrer de la <m>peau
-de<lb/>
+si on nest en commodite pres de la <env>mer</env> pour recouvrer de la
+<m>peau de<lb/>
 
-chien</m> qui est bien commode <del>Pou</del> La belle <m>peau</m> coste
-cinquante ou lx s<exp>ous</exp>
+               <al>chien</al>
+            </m> qui est bien commode <del>Pou</del> La belle
+<m>peau</m> coste cinquante ou lx <ms>
+               <cn>s<exp>ous</exp>
+               </cn>
+            </ms>
             <lb/>
 
-&amp; sen faict 4 ou cinq douzaines de poignees Ceste cy donne
+&amp; sen faict 4 ou cinq <ms>douzaines</ms> de poignees Ceste cy donne
 bonne<lb/>
 
-prise encores que la main sue Pour la mectre en besoigne si elle<lb/>
+prise encores que la <bp>main</bp> 
+            <bp>sue</bp> Pour la mectre en
+besoigne si elle<lb/>
 
-est trop dure On la faict tremper une heure ou deux en <m>eau
-fort</m>
-            <lb/>
+est trop dure On la faict tremper une <ms>
+               <tmp>heure</tmp>
+            </ms> ou deux
+en <m>eau fort<lb/>
 
-peu tiede Car si elle estoit trop chaulde elle cuiroit &amp; gasteroit
-la<lb/>
+peu tiede</m> Car si elle estoit trop chaulde elle cuiroit &amp;
+gasteroit la<lb/>
 
-            <m>peau</m> Elle se coust avecq fil noir</ab>
+            <m>peau</m> Elle se coust avecq <m>fil noir</m>
+         </ab>
          <figure>
 
             <id>fig_p094r_1</id>
@@ -27682,19 +27746,20 @@ la<lb/>
 
          <id>p094r_1</id>
 
-         <ab>Les poignees d<m>or</m> se font y mectant dessoubs de la
-<m>toile</m>deliee<lb/>
+         <ab>Les poignees d<m>or</m> se font y mectant dessoubs de la <m>toile
+deliee<lb/>
 
-jaulne ou aultre jaulnye avecq de la <m>croye</m> Et ceste <m>toile</m>
-se pose<lb/>
+jaulne ou aultre jaulnye avecq de la croye</m> Et ceste <m>toile</m> se
+pose<lb/>
 
-avecq <m>colle</m> ou <m>gome</m> susdicte Cest affin que le fil tienne
-mieulx<lb/>
+avecq <m>colle</m> ou <m>gome</m> susdicte Cest affin que le <m>fil</m>
+tienne mieulx<lb/>
 
 dessus Ceulx si se font a cordons co<exp>mm</exp>e celles de <m>soye</m>
 &amp; entre deulx<lb/>
 
-cordons on y mect un fil ou deulx pour la faire mieulx monstrer<lb/>
+cordons on y mect un <m>fil</m> ou deulx pour la faire mieulx
+monstrer<lb/>
 
 Celle d<m>argent</m> se faict de mesme Et y a aulta<exp>n</exp>t de
 peyne qua la<lb/>
@@ -27704,54 +27769,83 @@ tordre<lb/>
 
 a cause quil la fault tordre a deulx revers Une poignee<lb/>
 
-d<m>or</m> fin vault 18 ou 20 s<exp>ols</exp>
+d<m>or fin</m> vault 18 ou 20 <ms>
+               <cn>s<exp>ols</exp>
+               </cn>
+            </ms>
          </ab>
 
-         <ab>La meilleure pointe despee est a <m>foeille de sauge</m>
+         <ab>La meilleure pointe despee est a <m>foeille de
+<pa>sauge</pa>
+            </m>
          </ab>
 
          <ab>Ce long baston sur laquelle sattache &amp; couche<lb/>
 
-lespee pour la fourbir sappelle le chameau<lb/>
+lespee pour la fourbir sappelle le <tl>
+               <df>chameau</df>
+            </tl>
+            <lb/>
 
-il est communem<exp>ent</exp> de <m>sorbier</m> qui est dur &amp;
-uny</ab>
+il est communem<exp>ent</exp> de <m>
+               <pa>sorbier</pa>
+            </m> qui est dur
+&amp; uny</ab>
 
          <ab>Le baston de dessoubs qui est plie en arc<lb/>
 
-sappelle larson</ab>
+sappelle l<tl>
+               <df>arson</df>
+            </tl>
+         </ab>
 
-         <ab>Le baston de dessus sappelle le baston<lb/>
+         <ab>Le baston de dessus sappelle le <tl>
+               <df>baston<lb/>
 
-de la fustee</ab>
+de la fustee</df>
+            </tl>
+         </ab>
 
          <ab>Et ceste piece carree qui port<del>
                <ill/>
             </del>e <del>l</del>sur
 lespee<lb/>
 
-pour la brunir sappelle fustee</ab>
+pour la <tl>brunir</tl> sappelle <tl>
+               <df>fustee</df>
+            </tl>
+         </ab>
 
-         <ab>Il y ha deulx cornes lun sappelle le cornet<lb/>
+         <ab>Il y ha deulx cornes lun sappelle le <df>cornet<lb/>
 
-a <m>huile</m> laultre le cornet de l<m>esmery</m>
+a <m>huile</m>
+            </df> laultre le <df>cornet de l<m>esmery</m>
+            </df>
          </ab>
 
          <ab>Il y ha un <m>fer</m> qui est faict co<exp>mm</exp>e une
-poincte<lb/>
+<tl>poincte<lb/>
 
-dhalebarde quarre &amp; d<m>acier</m> fort uny &amp; bien<lb/>
+dhalebarde</tl> quarre &amp; d<m>acier fort uny &amp; bien<lb/>
 
-lime Qui sappelle le grateau Qui sert a<lb/>
+               <tl>lime</tl>
+            </m> Qui sappelle le <tl>
+               <df>grateau</df>
+            </tl> Qui sert
+a<lb/>
 
-a adoulcir les traicts de la lime sur les gardes<lb/>
+a adoulcir les traicts de la <tl>lime</tl> sur les gardes<lb/>
 
 despee &amp; a donner le fil aulx espees apres quelles<lb/>
 
-sont esmoulues qui est mieulx quavecq la <m>pierre</m>
+sont esmoulues qui est mieulx quavecq la <tl>
+               <m>pierre</m>
+            </tl>
             <lb/>
 
-ou <m>coux</m> qui faict bien souvent des rayeures</ab>
+ou <tl>
+               <m>coux</m>
+            </tl> qui faict bien souvent des rayeures</ab>
 
          <ab>Pour mieulx faire <del>coupp</del> trancher les espees on leur donne
 le fil<lb/>
@@ -27770,21 +27864,33 @@ tirant de la pointe en sus</ab>
 B cest la <m>sanguine</m>
          </ab>
 
-         <ab>La fustee cest un <m>boys</m> quarre despesseur de trois doigts<lb/>
+         <ab>La <tl>
+               <df>fustee</df>
+            </tl> cest un <m>boys</m> quarre
+d<ms>espesseur de trois <bp>doigts</bp>
+            </ms>
+            <lb/>
 
-de <m>boys de buy</m> qui semboicte au milieu du baston <add>de fustee
-pour<lb/>
+de <m>boys de <pa>buy</pa>
+            </m> qui semboicte au milieu du baston <add>de
+<tl>fustee</tl> pour<lb/>
 
 fourbir</add>
          </ab>
 
-         <ab>Le baston a fresiller est de <m>saule</m> qui est pour desrouiller
-les<lb/>
+         <ab>Le <tl>baston a <m>fresiller</m>
+            </tl> est de <m>
+               <pa>saule</pa>
+            </m>
+qui est pour desrouiller les<lb/>
 
-armes avecq du <m>fresil</m> qui est ceste <m>escaille de fer</m>
-tombant a la<lb/>
+armes avecq du <m>
+               <df>fresil</df>
+            </m> qui est ceste <m>escaille de
+fer</m> tombant a la<lb/>
 
-forge des <pro>mareschaulx</pro>
+            <tl>forge des <pro>mareschaulx</pro>
+            </tl>
          </ab>
          <figure>
 
@@ -27794,9 +27900,10 @@ forge des <pro>mareschaulx</pro>
 
             <link>https://drive.google.com/open?id=0B9-oNrvWdlO5Q29MTEVLUGE5RGs</link>
 
-            <caption>le banc <lb/>
+            <caption>le <tl>banc <lb/>
 
-des fourreaux</caption>
+des fourreaux</tl>
+            </caption>
 
          </figure>
 
@@ -27820,18 +27927,23 @@ D<lb/>
             <figure/>
             <lb/>
 
-le baston <lb/>
+le <tl>baston<lb/>
 
-a felinder<lb/>
+a felinder</tl>
+            <lb/>
 
             <figure/>
             <lb/>
 
 c<lb/>
 
-le <m>flin</m> ou <m>pierre<lb/>
+le <tl>
+               <m>flin</m>
+            </tl> ou <tl>
+               <m>pierre<lb/>
 
 de fouldre</m>
+            </tl>
          </ab>
 
          <cont/>
@@ -27849,32 +27961,35 @@ de fouldre</m>
 
          <id>p094r_1</id>
 
-         <ab>Le <pro>fourbisseur</pro> achepte ses lames a douzaine qui ne sont
-pas<lb/>
+         <ab>Le <pro>fourbisseur</pro> achepte ses lames a <ms>douzaine</ms> qui
+ne sont pas<lb/>
 
 achevees destre tirees par la queue pourcequil faict cela luy mesme<lb/>
 
 pour les bien adjouster au <del>l</del> pommeau &amp; gardes</ab>
 
          <ab>Les <pl>espaignolles</pl> sont estimees meilleures pour estre de
-meillleur <m>acier</m>
-            <lb/>
+<m>meillleur acier<lb/>
 
-&amp; <m>fer</m> Mays elles ne sont pas si bien forgees que les espees
-de <pl>vienne</pl>
+&amp; fer</m> Mays elles ne sont pas si bien <tl>forgees</tl> que les
+espees de <pl>vienne</pl>
             <lb/>
 
 en <del>pro</del> 
             <pl>daulphine</pl> Les <pl>espaignolles</pl> ne sont
 pas aussy bien esmoulues<lb/>
 
-venant de la forge pour ce quils les esmoulent avecq le pied &amp;
-cest<lb/>
+venant de la <tl>forge</tl> pour ce quils les esmoulent avecq le
+<tl>
+               <bp>pied</bp>
+            </tl> &amp; cest<lb/>
 
 ce qui les faict trouver ondees</ab>
 
          <ab>Les lames de <pl>vienne</pl> costent communem<exp>ent</exp> xviii ou
-19 lb la douzaine</ab>
+19 <ms>
+               <cn>lb</cn> la douzaine</ms>
+         </ab>
 
          <ab>La premiere chose que faict le <pro>forbisseur</pro> ayant ses lames
 neufves<lb/>
@@ -27882,45 +27997,65 @@ neufves<lb/>
 cest de luy estirer la queue ce quil faict ou faict faire aulx<lb/>
 
             <pro>serruriers</pro> ou <pro>mareschaulx</pro> luy donnant quelque
-liart pour son<lb/>
+<cn>liart</cn> pour son<lb/>
 
-            <m>charbon</m> Apres ilz la passent par la meule pour la faire<lb/>
+charbon Apres ilz la passent par la <tl>meule</tl> pour la faire<lb/>
 
-trancher Puys lestendent sur le chameau Et <add>avecq</add> de
-<m>lesmeril</m> pulverise<lb/>
+trancher Puys lestendent sur le <tl>chameau</tl> Et <add>avecq</add> de
+l<m>esmeril pulverise</m>
+            <lb/>
 
 subtil &amp; doulx c<exp>omm</exp>e <m>farine</m> &amp; destrempe
 d<m>huile</m> pour le faire tenir<lb/>
 
-ilz fourbissent lespee avecq le baston pour oster les traicts de<lb/>
+ilz fourbissent lespee avecq le <tl>baston</tl> pour oster les traicts
+de<lb/>
 
-la meule et puys <del>le</del> nettoyent <del>po</del>bien lespee de
-l<m>esmeril</m> Et luy donnent<lb/>
+la <tl>meule</tl> et puys <del>le</del> nettoyent
+<del>po</del>
+            <add>bien</add> lespee de l<m>esmeril</m> Et luy
+donnent<lb/>
 
-une goute ou deulx d<m>huile</m> quilz estandent avecq le doigt pour
-luy<lb/>
+une <ms>goute</ms> ou deulx d<m>huile</m> quilz estandent avecq le
+<tl>
+               <bp>doigt</bp>
+            </tl> pour luy<lb/>
 
 donner lustre Et ayant mis l<m>huile</m> Ils fourbissent encores
 lespee<lb/>
 
-sur le chameau avecq le felin qui est une <m>pierre de fouldre</m>
+sur le <tl>chameau</tl> avecq le <tl>
+               <m>
+                  <df>felin</df>
+               </m>
+            </tl> qui est
+une <tl>
+               <m>pierre de fouldre</m>
+            </tl>
             <lb/>
 
-manchee au milieu dun baston c<exp>omm</exp>e la fustee Et ce
+manchee au milieu dun baston c<exp>omm</exp>e la <tl>fustee</tl> Et ce
 baston<lb/>
 
-sappelle le baston a felinder Apres layant passe par le felin<lb/>
+sappelle le <tl>
+               <df>baston a <m>felinder</m>
+               </df>
+            </tl> Apres layant
+passe par le <tl>
+               <m>felin</m>
+            </tl>
+            <lb/>
 
 ilz la fourbissent avecq de la <m>croye</m> &amp; l<m>huile</m> qui est
 dessus lespee<lb/>
 
 Apres lessuyent &amp; la repassent &amp; fourbissent avecq de la
-<m>croye</m>
-            <lb/>
+<m>croye<lb/>
 
-seiche Et a la fin quand elles sont achevees de monter on leur<lb/>
+seiche</m> Et a la fin quand elles sont achevees de monter on leur<lb/>
 
-donne le fil avec le gratteau <del>Ai</del>
+donne le fil avec le <tl>gratteau</tl> 
+            <del>Ai</del>
          </ab>
 
          <ab>Estant fourbye on la monte sur les gardes lesquelles on
@@ -27928,32 +28063,38 @@ presente<lb/>
 
 pour scavoir si elles conviendront bien Et empoignant une lame<lb/>
 
-de sorte que tout le talon soict compris dans la main on conjecture<lb/>
+de sorte que tout le talon soict compris dans la <tl>
+               <bp>main</bp>
+            </tl>
+on conjecture<lb/>
 
 quelle sera aussy poisante estant montee</ab>
 
-         <ab>On mect la lame dans un estoc entre deulx morceaulx de
+         <ab>On mect la lame dans un <tl>estoc</tl> entre deulx morceaulx de
 <m>boys</m>
             <lb/>
 
-puys avecq une lime ilz agrandissent si besoing est lentree de la<lb/>
+puys avecq une <tl>lime</tl> ilz agrandissent si besoing est lentree de
+la<lb/>
 
 garde Puys pour la river, on pose sur la ribeure <del>un lopin
 de</del>
             <lb/>
 
-&amp; pommeau un lopin de <m>bois</m> &amp; avecq un marteau on frappe
-dessus<lb/>
+&amp; pommeau un lopin de <m>bois</m> &amp; avecq un <tl>marteau</tl> on
+frappe dessus<lb/>
 
 pour faire bien aplomber &amp; asseurer le pommeau Puys avecq le<lb/>
 
-marteau on acheve la ribeure quand le marteau est bien asseure
-&amp;<lb/>
+            <tl>marteau</tl> on acheve la ribeure quand le <tl>marteau</tl> est bien
+asseure &amp;<lb/>
 
 ne bransle point Le <m>bois</m> si mect pour ne gaster point le
 pommeau<lb/>
 
-Apres on acommode la riveure avecq la lime ou avec un ciseau<lb/>
+Apres on acommode la riveure avecq la <tl>lime</tl> ou avec un
+<tl>ciseau</tl>
+            <lb/>
 
 Et aulcuns font <del>le b</del> la riveure en table de diamant quarre
 mays<lb/>
@@ -27977,16 +28118,24 @@ couppe</ab>
 
          <id>p094r_1</id>
 
-         <ab>Le bout sachepte tout faict a douzaine qui couste six sols<lb/>
+         <ab>Le bout sachepte tout faict a <ms>douzaine</ms> qui couste six
+<ms>
+               <cn>sols</cn>
+            </ms>
+            <lb/>
 
-des petits Mays des grands ii carolus Le bout <del>ce</del> se mect<lb/>
+des petits Mays des grands ii <ms>
+               <cn>carolus</cn>
+            </ms> Le bout
+<del>ce</del> se mect<lb/>
 
-ou avecq des cloux qui se mectent aulx costes du tranchant Mays<lb/>
+ou avecq des <tl>cloux</tl> qui se mectent aulx costes du tranchant
+Mays<lb/>
 
 cela ne faict que gaster lespee &amp; corrompre le fourreau
 pourceque<lb/>
 
-l<m>eau</m> entre par la joincture du clou Le mieulx est de
+l<m>eau</m> entre par la joincture du <tl>clou</tl> Le mieulx est de
 lapliquer<lb/>
 
 avecq de la <m>rousine</m> ou <m>colle</m> Mays la <m>rousine</m> est
@@ -27994,7 +28143,7 @@ meilleure<lb/>
 
 Et est mieulx que le bout soict fort just &amp; si chault pose que<lb/>
 
-la <m>rousine</m> pulverisee sur le bout se fonde en ceste sorte<lb/>
+la <m>rousine pulverisee</m> sur le bout se fonde en ceste sorte<lb/>
 
 il ne tombe point et ne se peult deffaire sil nest mis au foeu</ab>
 
@@ -28011,15 +28160,24 @@ A escharpe quand les bandes sont de travers<lb/>
 
 A oignon qui est teste platte<lb/>
 
-A mode de roy qui sont plaines</ab>
+A mode de <pro>
+               <pn>roy</pn>
+            </pro> qui sont plaines</ab>
 
-         <ab>Les <pro>forbisseurs</pro> les achaptent a douzaines la
-douzaine<lb/>
+         <ab>Les <pro>forbisseurs</pro> les achaptent a <ms>douzaines</ms> la
+<ms>douzaine</ms>
+            <lb/>
 
 des pleines coste co<exp>mmun</exp>em<corr>
                <exp>ent</exp>
-            </corr> x lb La
-piece douvraige 30 s<exp>ols</exp> ou<lb/>
+            </corr> x
+<ms>
+               <cn>lb</cn>
+            </ms> La piece douvraige 30
+<ms>
+               <cn>s<exp>ols</exp>
+               </cn>
+            </ms> ou<lb/>
 
 selon sa facon</ab>
 
@@ -28033,32 +28191,52 @@ co<exp>mm</exp>e dict est</ab>
 le parfait de lart</ab>
 
          <ab>Ils acheptent les <m>boys</m> des fourreaulx qui sont de
-<m>fayan</m> touts<lb/>
+<m>
+               <pa>fayan</pa>
+            </m> touts<lb/>
 
-faicts Le cent pour xv ou xx ou 30 s<exp>ols</exp> selon la
-distance<lb/>
+faicts Le cent pour xv ou xx ou 30 <ms>
+               <cn>s<exp>ols</exp>
+               </cn>
+            </ms>
+selon la distance<lb/>
 
 du lieu ou ilz se font</ab>
 
-         <ab>Ces <m>boys</m> sappellent ainssy Estelles qui doibvent estre bien
-nettes<lb/>
+         <ab>Ces <m>boys</m> sappellent ainssy <df>Estelles</df> qui doibvent
+estre bien nettes<lb/>
 
-&amp; sans noeuds &amp; ont un travers de doigt despes</ab>
+&amp; sans noeuds &amp; ont un <ms>travers de <bp>doigt</bp>
+despes</ms>
+         </ab>
 
          <ab>Puys le <pro>fourbisseur</pro> les mect sur un petit banc appele
 le<lb/>
 
-banc des fourreaulx Et avecq un<del>e</del>
+            <tl>
+               <df>banc des fourreaulx</df>
+            </tl> Et avecq
+un<del>e</del>
             <add>g</add> 
-            <del>plane</del>
-petit <m>fer</m> co<exp>mm</exp>e celuy<lb/>
+            <del>
+               <tl>plane</tl>
+            </del> 
+            <tl>petit
+<m>fer</m>
+            </tl> co<exp>mm</exp>e celuy<lb/>
 
-du banc des <pro>menusiers</pro> ilz le font tenir ferme Puys avecq<lb/>
+du <tl>banc des <pro>menusiers</pro>
+            </tl> ilz le font tenir ferme Puys
+avecq<lb/>
 
-une <del>plane</del> plane qui est co<exp>mm</exp>e un costeau a deulx
-manches<lb/>
+une <del>
+               <tl>plane</tl>
+            </del> 
+            <tl>plane</tl> qui est co<exp>mm</exp>e un
+<tl>costeau a deulx manches</tl>
+            <lb/>
 
-on esbauche le <m>boys</m> par dessus apres on y passe le rabot
+on esbauche le <m>boys</m> par dessus apres on y passe le <tl>rabot</tl>
 pour<lb/>
 
 mieulx laplanir Apres par le dedans on le recure avecq une</ab>
@@ -28079,10 +28257,11 @@ mieulx laplanir Apres par le dedans on le recure avecq une</ab>
          <id>p094r_1</id>
 
          <ab>
-            <tl>plane</tl> ronde manchee aussy a deulx manches puys avecq<lb/>
+            <tl>plane ronde manchee aussy a deulx manches</tl> puys avecq<lb/>
 
-une petite <tl>plane</tl> estroicte on la cave &amp; recure demy pied
-vers<lb/>
+une <tl>petite plane estroicte</tl> on la cave &amp; recure <ms>demy
+<bp>pied</bp>
+            </ms> vers<lb/>
 
 le bout du talan Et le plus court est le meilleur sans ce<lb/>
 
@@ -28098,7 +28277,10 @@ forme du costeau se faict pour arrester les pendants</ab>
 
          <ab>Quand les estelles sont bien aplanies on couche lespee<lb/>
 
-dessus &amp; avecq de la <tl>pierre noire</tl> on marque la largeur<lb/>
+dessus &amp; avecq de la <tl>
+               <m>pierre noire</m>
+            </tl> on marque la
+largeur<lb/>
 
 de la lame &amp; la longeur &amp; puys avecq un <tl>ciseau</tl> on
 coppe<lb/>
@@ -28118,13 +28300,15 @@ tenir le <m>cuir</m> ou <m>velours</m> du fourreau</ab>
 
 lenchassent dans le fourreau qui est tout cousu Et frottent<lb/>
 
-ce qui est colle a droit la forme du costeau avec du <m>suif</m>
+ce qui est <m>colle</m> a droit la forme du costeau avec du
+<m>suif</m>
             <lb/>
 
 pour le faire couler dans le fourreau</ab>
 
-         <ab>Le fourreau se faict de <m>cuir</m> de <al>veau</al> ou de
-<al>mouton</al> tout dune<lb/>
+         <ab>Le fourreau se faict de <m>cuir de <al>veau</al> ou de
+<al>mouton</al>
+            </m> tout dune<lb/>
 
 piece celles de <al>veau</al> Mays celles de <al>mouton</al> nenny ains
 quand<lb/>
@@ -28134,59 +28318,87 @@ les espees sont longues on les faict de pieces qui se cousent<lb/>
 entre <m>cuir</m> &amp; <m>chair</m> &amp; puys frottent fort la
 cousture avecq un<lb/>
 
-loppin de <m>buys</m> pour la couvrir &amp; unir Dune belle <m>peau</m>
-de <al>veau</al>
+            <tl>loppin de <m>
+                  <pa>buys</pa>
+               </m>
+            </tl> pour la couvrir &amp; unir Dune
+<m>belle peau de <al>veau</al>
+            </m>
             <lb/>
 
-il se tire viii ou noeuf ou x fourreaulx <add>dune peau de<lb/>
+il se tire viii ou noeuf ou x fourreaulx Un <pro>ouvrier</pro> en
+peult<lb/>
 
-               <al>mouton</al> v ou vi</add> Un <pro>ouvrier</pro> en peult<lb/>
-
-aysement faire vi par jour. Silz sont trop espes on les pare<lb/>
+aysement faire vi <ms>par <tmp>jour</tmp>
+            </ms>. Silz sont trop espes on
+les pare<lb/>
 
 un peu avecq la <tl>plane</tl> Et si la <m>peau</m> est dure on la
 trempe<lb/>
 
-dans de l<m>eau</m> tiede legerem<exp>ent</exp> Et on ne luy laisse
+dans de l<m>eau tiede legerem<exp>ent</exp>
+            </m> Et on ne luy laisse
 gueres Apres<lb/>
 
-celuy mesme qui ha faict le <m>boys</m> doibt adapter le fourreau
-pour<lb/>
+            <pro>celuy mesme qui ha faict le <m>boys</m>
+            </pro> doibt adapter le
+fourreau pour<lb/>
 
-estre bien faict Il est vray que pour communes gens on en tient<lb/>
+estre bien faict Il est vray que pour <pro>communes gens</pro> on en
+tient<lb/>
 
 bien de touts faicts Mays ils ne se portent jamays si bien<lb/>
 
-@Quand le fourreau est faict &amp; cousu de <m>filet</m> noir on le
+@Quand le fourreau est faict &amp; cousu de <m>filet noir</m> on le
 frotte avecq<lb/>
 
-un <m>bois de buy</m> ou avec un linge layant un peu induict
-d<m>huile</m>
+un <tl>
+               <m>bois de <pa>buy</pa>
+               </m>
+            </tl> ou avec un <tl>linge</tl> layant
+un peu induict d<m>huile</m>
             <lb/>
 
 Le fourreau de bonne <al>vache</al> est meilleur que tous et couste plus
 aussy<lb/>
 
 excepte le <m>velours</m> Sous le <m>velours</m> on mect
-communem<exp>ent</exp> une simple <m>toile</m>
+communem<exp>ent</exp> une <m>simple toile</m>
             <lb/>
 
 ou un fourreau de <al>mouton</al> ou une couverture de <m>parchemin</m>
 Mays<lb/>
 
-le meilleur fourreau de tous est un fourreau encire soict de
+le meilleur fourreau de tous est un fourreau <m>encire</m> soict de
 <m>velours</m>
             <lb/>
 
-ou de <al>veau</al> Cest quon couvre le <m>boys</m> dune <m>toile</m>
-deliee laquelle apres<lb/>
+ou de <al>veau</al> Cest quon couvre le <m>boys</m> dune <m>toile
+deliee</m> laquelle apres<lb/>
 
 on <m>cire</m> puys on la couvre de <m>velours</m> ou de <al>veau</al>
-Un fourreau en<m>cire</m>
+Un fourreau <m>encire</m>
             <lb/>
 
-vault bien xxx s<exp>ols</exp> un de <al>vache</al> xx
-s<exp>ols</exp>.</ab>
+vault bien xxx <ms>
+               <cn>s<exp>ols</exp>
+               </cn>
+            </ms> un de <al>vache</al> xx
+<ms>
+               <cn>s<exp>ols</exp>
+               </cn>
+            </ms>.</ab>
+
+         <ab>
+
+            <margin>left-bottom</margin>
+
+            <add>dune <m>peau de<lb/>
+
+                  <al>mouton</al>
+               </m> v ou vi</add>
+
+         </ab>
 
       </div>
    </root>
@@ -37069,15 +37281,11 @@ retire plus</ab>
 
          </ab>
 
-         <cont/>
+         <man>
 
-      </div>
+            <margin>left-top</margin>
 
-      <div>
-
-         <margin>left-top</margin>
-
-         <head>Excellent sable</head>
+Excellent sable</man>
 
          <ab>Ayes un peu du<lb/>
 
@@ -37178,6 +37386,8 @@ bien chaults</ab>
             <df>Recuire</df> est rougir le <tl>chassis</tl> ce qui se faict pour
 l<m>or</m> &amp; pour l<m>argent</m>
          </ab>
+
+         <cont/>
 
       </div>
    </root>
@@ -38402,8 +38612,7 @@ avecq<lb/>
 
 les 4 <bp>doigts</bp> et le <bp>poulse</bp>
             </ms> ou une <ms>petite
-<bp>joinctee</bp>
-            </ms> puys mesle<lb/>
+joinctee</ms> puys mesle<lb/>
 
 mesle bien &amp; destrempe avecq un peu de <m>sel armoniac</m> &amp;
 le<lb/>
@@ -39174,7 +39383,7 @@ de l<m>acier rompu</m>
 
          <cont/>
 
-         <id>p123r_2</id>
+         <id>p123r_1</id>
 
          <ab>V<exp>ost</exp>re <m>luth</m> estant sec mectes de <ms>
                <tmp>bon
@@ -39276,7 +39485,7 @@ foeu<lb/>
             <del>doulx</del> doulx au commancement &amp; vigore de degre en degre
 jusques<lb/>
 
-a la fin Lors ayant faict une charge de <m>charbon</m> laisse<lb/>
+a la fin Lors ayant faict une charge de charbon laisse<lb/>
 
 le consumer de soymesme &amp; refroidir ton <tl>crusol</tl> Apres<lb/>
 
@@ -39287,24 +39496,24 @@ dans le <tl>crusol</tl> La superieure est co<exp>mm</exp>e lapidee
 
 des <m>sels sublimes</m> &amp; mesles ensemble Celle du fonds est<lb/>
 
-metallique compose de <m>limailles</m> 
+            <m>metallique</m> compose de <m>limailles</m> 
             <m>
                <la>aes ustum</la>
-            </m> &amp;
-<m>antimoyne</m> aya<exp>n</exp>t<lb/>
+            </m>
+&amp; <m>antimoyne</m> aya<exp>n</exp>t<lb/>
 
 le grain fort menu Pulverise la tourtelle superieure faicte<lb/>
 
 de <m>sels</m> &amp; en mects pour esclarcir &amp; nettoyer
 l<m>argent</m> Et le<lb/>
 
-grain metallic te servira pour mectre dans le <m>metal fondu</m>
+            <m>grain metallic</m> te servira pour mectre dans le <m>metal
+fondu</m>
          </ab>
 
          <ab>
             <margin>left-top</margin>
-foeu de <m>charbon</m>
-         </ab>
+foeu de charbon</ab>
 
          <ab>
             <margin>left-middle</margin>
@@ -39323,7 +39532,7 @@ disposes dans ton<lb/>
 
             <tl>crusol</tl> &amp; iceluy<lb/>
 
-            <m>luthe</m> &amp; sec co<exp>mm</exp>e dict<lb/>
+luthe &amp; sec co<exp>mm</exp>e dict<lb/>
 
 &amp; dispose dans le<lb/>
 
@@ -39336,8 +39545,7 @@ par quelque <pro>garson<lb/>
 de <env>boutique</env>
             </pro> acoustume<lb/>
 
-au <m>charbon</m> 
-         </ab>
+au charbon</ab>
 
          <ab>
             <margin>left-middle</margin>
@@ -39345,7 +39553,7 @@ On vend bien aulx<lb/>
 
             <pro>orfevres</pro> ceste masse<lb/>
 
-metallique pour<lb/>
+            <m>metallique</m> pour<lb/>
 
 attandrir leur<lb/>
 
@@ -39408,15 +39616,19 @@ foeille fort delicate &amp; tanvre car l<m>huile de
 Et si quelquun se vante de mouler ce qui luy sera
 p<exp>rese</exp>nte<lb/>
 
-donne luy a mouler la teste bourrue de lherbe appellee <pa>dent<lb/>
+donne luy a mouler la teste bourrue de lherbe appellee <pa>
+               <df>dent<lb/>
 
-de Lyon</pa> ou un <pa>papus</pa> qui vient des graines de
+de Lyon</df>
+            </pa> ou un <pa>papus</pa> qui vient des graines de
 <pa>lapasses</pa>
             <lb/>
 
-&amp; vole de soymesme au moindre souspir de vent quil fasse</ab>
+&amp; vole de soymesme au moindre souspir de <env>vent</env> quil
+fasse</ab>
 
       </div>
+
       <div>
          <id>p124r_2</id>
          <head>Noyaulx pour mouler creus</head>
@@ -39431,11 +39643,10 @@ bien petits Mays pour faire lame &amp; le noyau il fault que<lb/>
 le <tl>moule</tl> soit fraichement moule &amp; non sec</ab>
 
       </div>
+
       <div>
          <id>p124r_3</id>
-         <head>
-            <m>Toile d'<al>iraignee</al>
-            </m>
+         <head>Toile d'<al>iraignee</al>
          </head>
 
          <ab>Elle se deffaict dans l<m>eau</m> &amp; par ainsy ne se peult
@@ -39453,16 +39664,15 @@ sur du <tl>
 aultour un bort<lb/>
 
 de <tl>
-               <m>papier colle</m>
-            </tl> sur le <tl>
-               <m>quarton</m>
-            </tl> &amp; on
-gecte d<m>estaim</m> bien peu allie<lb/>
+               <m>papier colle sur le quarton</m>
+            </tl> &amp; on gecte d<m>estaim
+bien peu allie<lb/>
 
-de <m>plomb</m>
+de plomb</m>
          </ab>
 
       </div>
+
       <div>
          <id>p124r_4</id>
          <head>
@@ -39663,8 +39873,7 @@ Roule de la <m>cire</m> a petits filets de ceste grosseur
 et<lb/>
 
 apliques en avecq le <tl>
-               <m>fil de fer</m>
-            </tl> chault co<exp>mm</exp>e
+               <m>fil de fer</m> chault</tl> co<exp>mm</exp>e
 dict est un au bout<lb/>
 
 de la queue &amp; des aultres qui se raportent par mesme facon<lb/>
@@ -39673,9 +39882,7 @@ dun <del>bort</del>
             <add>coste</add> de queue a laultre co<exp>mm</exp>e
 tu vois despainct Mays advise<lb/>
 
-de faire avecq le bout du <tl>
-               <m>fil de fer</m>
-            </tl> chault que le bout
+de faire avecq le <tl>bout du <m>fil de fer</m> chault</tl> que le bout
 de la <m>cire</m>
             <lb/>
 
@@ -39692,7 +39899,9 @@ corps<lb/>
 
 qui sont un peu longs &amp; ilz serviront dabreuvoirs a la chose
 moulee<lb/>
+
             <cont/>
+
          </ab>
 
          <ab>
@@ -39775,23 +39984,10 @@ lentree de lanimal<lb/>
          <cont/>
 
          <id>p124v_3</id>
-
-         <ab>&amp; de ses conduicts &amp; abrevouers tu y peulx mectre aussy
-de<lb/>
-
-petits fils de <m>cire</m> qui se raportent au corps Affin que<lb/>
-
-le <m>metal</m> aille plus aysem<exp>ent</exp> dune partye a laultre
-&amp; coure<lb/>
-
-promptement par tout Et de ses conduicts tu peulx mener<lb/>
-
-ton gect &amp; tes souspirails sans gaster aulcune chose</ab>
-
          <ab>
 
-            <cont/>
             <margin>left-top</margin>
+
             <figure>
 
                <id>fig_p125r_1</id>
@@ -39841,7 +40037,17 @@ Tu le peulx diviser aussy en deulx ou troys branches ainsy
 
 de la chose moulee et fais tousjours des trous dans le gect</ab>
 
-         <figure>+</figure>
+         <ab>&amp; de ses conduicts &amp; abrevouers tu y peulx mectre aussy
+de<lb/>
+
+petits fils de <m>cire</m> qui se raportent au corps Affin que<lb/>
+
+le <m>metal</m> aille plus aysem<exp>ent</exp> dune partye a laultre
+&amp; coure<lb/>
+
+promptement par tout Et de ses conduicts tu peulx mener<lb/>
+
+ton gect &amp; tes souspirails sans gaster aulcune chose</ab>
 
       </div>
 
@@ -39883,6 +40089,9 @@ bien tost apres quil ha este recuit</ab>
 
          <ab>
             <margin>left-middle</margin>
+
+            <figure>+</figure>
+
 Si tu moules de<lb/>
 
             <m>plastre</m> 
@@ -39987,21 +40196,21 @@ A Scavoir
 voisins des <pl>turcs</pl>
             <lb/>
 
-separent aulx mines le <m>fer</m> davecq l<m>acier</m> Et de ce
-premier<lb/>
+separent aulx <env>mines</env> le <m>fer</m> davecq l<m>acier</m> Et de
+ce premier<lb/>
 
             <m>acier</m> fondu premierem<corr>
                <exp>ent</exp>
-            </corr> de sa mine ilz
-gectent en sable des<lb/>
+            </corr> de sa
+<env>mine</env> ilz gectent en sable des<lb/>
 
             <del>sab</del> lames de cimeterre qui couppent apres laultre
 <m>fer</m>
             <lb/>
 
-sans grande difficulte pourceque tout <m>fer</m> fondu est plus<lb/>
+sans grande difficulte pourceque tout <m>fer fondu</m> est plus<lb/>
 
-dur que le <m>fer</m> douls battu en gueuses &amp; barres Ainsy est<lb/>
+dur que le <m>fer douls</m> battu en gueuses &amp; barres Ainsy est<lb/>
 
 de l<m>acier</m> des cimeterres Mays il est fort brusc Quand on<lb/>
 
@@ -40075,7 +40284,6 @@ reng de dents</ab>
 
          <ab>
             <margin>left-top</margin>
-
 Si tu veulx <del>couper</del>
             <lb/>
 
@@ -40095,6 +40303,7 @@ ne seroit pas en<lb/>
 despouille</ab>
 
       </div>
+
       <div>
          <id>p125v_2</id>
          <head>Mouler <al>tortues</al>
@@ -40114,6 +40323,7 @@ gect<lb/>
 co<exp>mm</exp>e font toutes choses que tu vouldras</ab>
 
       </div>
+
       <div>
          <id>p125v_3</id>
          <head>
@@ -40141,8 +40351,8 @@ cest pour esbaucher animal au plus pres du naturel <del>Et</del>
 pour apres le reparer Il en fault bien oster toutes les<lb/>
 
 escailles <del>Quand</del> 
-            <add>Car</add> la cire y entreroit &amp; ne
-se despouilleroit<lb/>
+            <add>Car</add> la <m>cire</m> y entreroit
+&amp; ne se despouilleroit<lb/>
 
 pas En moulant aussy lanimal Abas les escaille pour <m>cire</m>
             <lb/>
@@ -47453,8 +47663,8 @@ animalets avecq de la <m>graine de <pa>grand passevelours</pa>
             </m> et la<lb/>
 
             <m>graine de <pa>chou navette</pa>
-            </m> &amp;<exp>c</exp> Ce faict tu
-disposeras les pates les<lb/>
+            </m> &amp; Ce faict tu disposeras les
+pates les<lb/>
 
 asseurant avecq des <tl>poinctes de <m>fer</m>
             </tl> Et puys avecq de
@@ -47886,7 +48096,12 @@ l<tl>
             </tl> par le milieu Et la partie la plus mousse et qui
 nha<lb/>
 
-pas des demy cercles <figure/> est la plus delicate et plus unye<lb/>
+pas des demy cercles
+<figure>
+               <id>fig_p145r_2</id>
+               <link>https://drive.google.com/file/d/1-NGCS8NDm7NI4xFQ9ZF058I9vEhQRBuQ/view?usp=sharing</link>
+            </figure>
+est la plus delicate et plus unye<lb/>
 
 pour mouler &amp; par ainsy on y empraint tousjours le principal<lb/>
 
@@ -48667,7 +48882,7 @@ qui peult tenir</ab>
 
       <div>
 
-         <id>p146v_1</id>
+         <id>p147v_1</id>
 
          <head>
             <figure>+</figure> Gect de <m>cuivre</m> allie de
@@ -48711,7 +48926,7 @@ de ceste cy</ab>
 
       <div>
 
-         <id>p147v_1</id>
+         <id>p147v_2</id>
 
          <head>
             <m>Luth</m>
@@ -48727,7 +48942,7 @@ choisir des mieulx recuits</ab>
 
       <div>
 
-         <id>p147v_2</id>
+         <id>p147v_3</id>
 
          <head>
             <tl>Crusol</tl>
@@ -48746,7 +48961,7 @@ dess<del>us</del>oubs le cul du<lb/>
 
       <div>
 
-         <id>p147v_3</id>
+         <id>p147v_4</id>
 
          <head>Gect de <m>letton</m>
          </head>
@@ -48834,7 +49049,7 @@ Mays le <m>letton aigre de chandelier</m> vient jaulne &amp; la
 
          <cont/>
 
-         <id>p147v_3</id>
+         <id>p147v_4</id>
 
          <ab>pas venu si cler que ie desirois ie lay encore recuit<lb/>
 
@@ -52834,7 +53049,7 @@ que tu craignes nestre<lb/>
 pas bien en despouille</ab>
 
          <ab>
-            <margin>left-middle</margin>
+            <margin>left-bottom</margin>
 
 L<m>eau froide</m> faict<lb/>
 
@@ -53895,7 +54110,7 @@ co<exp>mm</exp>e<lb/>
 
             <m>cinabre</m> dans l<m>eau de vye</m> Et les uns et les aultres<lb/>
 
-prepares co<exp>mm</exp>e dict est et subtilies &amp; rendus fort<lb/>
+præpares co<exp>mm</exp>e dict est et subtilies &amp; rendus fort<lb/>
 
 chaults rendent une fumee rouge co<exp>mm</exp>e un esprit<lb/>
 

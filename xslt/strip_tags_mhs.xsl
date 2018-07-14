@@ -20,7 +20,7 @@
     <xsl:text>&#10;</xsl:text>
     </xsl:template>
     
-    <xsl:template match="div |corr | add">
+    <xsl:template match="div |corr | del | add">
         <xsl:text>&lt;</xsl:text>
         <xsl:value-of select="local-name()"/>
         <xsl:text>&gt;</xsl:text>

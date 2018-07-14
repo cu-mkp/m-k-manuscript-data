@@ -1,42 +1,45 @@
-28|jours
-26|jour
-19|heures
-12|heure
+29|jours
+28|jour
+20|heures
+13|heure
 9|nuict
 8|long temps
 6|moys
+5|tout lan
 5|nuit
+5|lhiver
 5|lendemain
-4|tout lan
+5|de nuict
 4|quart dheure
-4|lhiver
-4|hiver
+4|leste
+4|demye heure
 4|ans
 3|tous les ans
 3|matin
-3|leste
 3|hora
+3|hiver
 3|este
 3|espace de quinze jours
-3|demye heure
-3|an
 3|Jours
+3|Jour
 2|ung quart dheure
 2|un bon quart dheure
 2|tous les jours
 2|soir
 2|serain
 2|sepmaines
+2|saison
 2|plusieurs jours
 2|moys de may
+2|lhyver
 2|lendemain matin
 2|la nuict
 2|iours
-2|hyver
+2|iisuperscript e de septembre 1581
 2|heure &amp; demye
 2|en este
-2|de nuict
-2|Jour
+2|aujourdhuy
+2|an
 1|vers la sepmaine saincte
 1|vers la saint Jehan
 1|une foys le moys
@@ -47,10 +50,10 @@
 1|un iour &amp; une nuict
 1|un demy jour
 1|trois jours en la sepmaine
+1|toute lannee
 1|tout un jour
 1|tout leste
 1|tous les moys de lan
-1|temps serain &amp; s bien sec
 1|temps nest serain &amp; sec
 1|temps humide
 1|temps est relent &amp; humide
@@ -62,11 +65,11 @@
 1|serain de la nuit
 1|sepmaine
 1|seconde annee
-1|saison
 1|sabmedy
 1|quand on en tire le pain
 1|premier jour
 1|pauses
+1|par lespace de vingt quatre heures
 1|nuicts
 1|moys de juing &amp; juillet
 1|mois
@@ -75,27 +78,32 @@
 1|mardy
 1|lyver
 1|longuement
+1|longue duree
 1|long traict de la mer
 1|long
-1|lhyver
 1|le soir
 1|jusques au commancement daougst
 1|jusques a la sepmaine saincte
 1|juin
 1|journee
+1|jour precedent
 1|jour naturel
 1|jour des rameaulx
 1|jour de Saint paul
 1|jour au lendemain
 1|jeudy
+1|iisuperscript e de Septembre 1581
+1|hyver
+1|hors de saison quand lhiver desnie des fleurs
 1|gelee
 1|fort long temps
 1|fin de la lune
+1|feste de la sainct andre
 1|espace dun pater noster
+1|espace de mille ans
 1|espace de deux heures
 1|espace de 9 jours
 1|en toutess les renouveaulx de ☾
-1|en tout temps
 1|en temps de pluye
 1|en jour chault &amp; sec
 1|en hyver
@@ -109,6 +117,7 @@
 1|despuys la toussaints jusques a Noël
 1|despuys la my may
 1|de trois jours en trois jours
+1|de nuict ou en temps de Silence
 1|de nuict a la frescheur &amp; aux rays de la lune
 1|de longue duree
 1|de lannee mesme
@@ -117,7 +126,6 @@
 1|bonnes heures
 1|bon matin
 1|avecq le temps
-1|aujourdhuy
 1|au soir
 1|au matin
 1|au descroissant de la lune
@@ -141,4 +149,5 @@
 1|Au printemps
 1|Au moys de Janvier
 1|Au mois daougst
+1|Ancienement
 1|
