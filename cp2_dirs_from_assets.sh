@@ -18,7 +18,7 @@ for VERSION in tc tcn tl
 
 do	       
 # Loop over all downloaded DOCX files by version	       
-    for DOCX_PATH in `find TEMP -name '*.docx' | grep "$VERSION"_ `
+    for DOCX_PATH in `find TEMP -name '*.txt' | grep "$VERSION"_ `
 	    
     do
 # Get basename of docx file
@@ -29,7 +29,10 @@ do
 # create root element start tag for xml of folio file
 	echo "<root>" > "$VERSION"/"$BASENAME""_preTEI.xml"
 # convert docx to plain text using pandoc, output as body of xml folio file
-	pandoc -t plain -f docx "$DOCX_PATH" >> "$VERSION"/"$BASENAME""_preTEI.xml"
+	#	pandoc -t plain -f docx "$DOCX_PATH" >> "$VERSION"/"$BASENAME""_preTEI.xml"
+
+	cat "$DOCX_PATH" >> "$VERSION"/"$BASENAME""_preTEI.xml"
+	
 # append root close tag to xml folio file	
 	echo "</root>" >> "$VERSION"/"$BASENAME""_preTEI.xml"
     done
