@@ -6,22 +6,18 @@ RCLONE_SOURCE_NAME=google
 RCLONE_CONFIG_FILE=/Users/$USER/.config/rclone/rclone.conf
 
 
-# wipe INFOLDER dir contents
+# INFOLDER dir contents
 
 #rm -fr TEMP/*
 
 
 # do rclone sync from Google Drive
 
-#rclone --drive-formats docx --include *.docx --config="$RCLONE_CONFIG_FILE" -v -v --drive-shared-with-me copy "$RCLONE_SOURCE_NAME":"$GOOGLE_SHARE_NAME" "$INFOLDER"
-
-# copy DOCX dir of rclone downloaded google drive folio files
-
-#cp -r $DOCX_DIR TEMP
+# rclone --drive-formats docx --include *.docx --config="$RCLONE_CONFIG_FILE" -v --fast-list --drive-shared-with-me sync "$RCLONE_SOURCE_NAME":"$GOOGLE_SHARE_NAME" "$INFOLDER"
 
 # sanitize paths of copied docx files
 
-detox -r TEMP
+# detox -r TEMP
 
 # Loop over each folio version type
 
@@ -38,14 +34,14 @@ do
 	BASENAME="${FILE%%.*}"
 	echo $BASENAME
 # create root element start tag for xml of folio file
-	echo "<root>" > "$VERSION"/"$BASENAME""_preTEI.xml"
+	echo "<root>" > ms-xml/"$VERSION"/"$BASENAME""_preTEI.xml"
 # convert docx to plain text using pandoc, output as body of xml folio file
-       	pandoc -t plain -f docx "$DOCX_PATH" >> "$VERSION"/"$BASENAME""_preTEI.xml"
+      	pandoc -t plain -f docx "$DOCX_PATH" >> ms-xml/"$VERSION"/"$BASENAME""_preTEI.xml"
 
-#	cat "$DOCX_PATH" >> "$VERSION"/"$BASENAME""_preTEI.xml"
+#	cat "$DOCX_PATH" >> ms-xml/"$VERSION"/"$BASENAME""_preTEI.xml"
 	
 # append root close tag to xml folio file	
-	echo "</root>" >> "$VERSION"/"$BASENAME""_preTEI.xml"
+	echo "</root>" >> ms-xml/"$VERSION"/"$BASENAME""_preTEI.xml"
     done
 
 done
