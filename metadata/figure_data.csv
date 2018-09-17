@@ -1,8 +1,8 @@
 folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 001r	p001r_1		/				MARK
-001r	p001r_3		-				MARK
-001r	p001r_3		+				MARK
-001r	p001r_3		+				MARK
+001r	p001r_2		-				MARK
+001r	p001r_2		+				MARK
+001r	p001r_2		+				MARK
 002r			------------------------				MARK
 002v	p002v_2	@esmeraldes de Brissac	℥				MARK
 002v	p002v_2	@esmeraldes de Brissac	℥				MARK
@@ -16,7 +16,7 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 003v	p003r_3		  	fig_p003v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5ZUY4SkZBblA5MjA		GRAPHIC
 004v	p004v_1	Vernis noir pour garde despee bandes de bahus &c	+				MARK
 005r	p005r_1	Mirouers dacier	+				MARK
-006v	p006v_1	Pour ga cach cages	  	fig_p006v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5eVFRYjVCTmczcmM		GRAPHIC
+006v			  	fig_p006v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5eVFRYjVCTmczcmM		GRAPHIC
 007v	p007v_4	Contre gonhorrea	℥				MARK
 007v	p007v_4	Contre gonhorrea	ʒ				MARK
 008v	p008v_2	Or et argent moulu	☿				MARK
@@ -28,8 +28,8 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 008v	p008v_5	Amalgame parfaict	 ☾				MARK
 008v	p008v_5	Amalgame parfaict	 ☼				MARK
 008v	p008v_5	Amalgame parfaict	 ♀				MARK
-009v	p009v_3		--				MARK
-009v	p009v_3		--				MARK
+009v	p009v_3	Brouillart	--				MARK
+009v	p009v_3	Brouillart	--				MARK
 010r	p010r_5	Pouldre dhorloges de sable	℥				MARK
 012r	p012r_4	Plastre	+				MARK
 012r	p012r_4	Plastre	+				MARK
@@ -37,7 +37,7 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 014r	p014r_1	Pour murailles de terre et bastiment rustique	     	fig_p014r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5b2lVN19SU1Z6UkU		GRAPHIC
 015r	p015r_2	Gecter en fonte	+				MARK
 015r	p015r_2	Gecter en fonte	+				MARK
-016r	p016r_1	Fonte de fer doux	    	fig_p016r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5aUw0eThJNEVTelk		GRAPHIC
+016r			     	fig_p016r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5aUw0eThJNEVTelk		GRAPHIC
 017v	p017r_1		#				MARK
 017v	p017r_1		◯				MARK
 017v	p017r_1		#				MARK
@@ -55,9 +55,9 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 026r	p026r_1		   	fig_p026r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5SHVaaE9oQjRySlE	Balle de canon	GRAPHIC
 026r	p026r_2	Mortier	   	fig_p026r_2	https://drive.google.com/open?id=0B9-oNrvWdlO5UGxoanZwVEw2akE		GRAPHIC
 026v	p026r_1		   	fig_p026v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5TmZXTkNLdDFjWms	Balle de colevrine	GRAPHIC
-027r	p026r_1		    	fig_p027r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5S3loampQRU55UjQ	Balle de bastarde	GRAPHIC
-027r	p026r_1		    	fig_p027r_2	https://drive.google.com/open?id=0B9-oNrvWdlO5cE1VQlVlV2ZWakE	Balle de moyene	GRAPHIC
-027r	p026r_1		    	fig_p027r_3	https://drive.google.com/open?id=0B9-oNrvWdlO5M2Ftb2g0bG1FQ3c	Piece de campagne	GRAPHIC
+027r	p026r_1		   	fig_p027r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5S3loampQRU55UjQ	Balle de bastarde	GRAPHIC
+027r			   	fig_p027r_2	https://drive.google.com/open?id=0B9-oNrvWdlO5cE1VQlVlV2ZWakE	Balle de moyene	GRAPHIC
+027r			    	fig_p027r_3	https://drive.google.com/open?id=0B9-oNrvWdlO5M2Ftb2g0bG1FQ3c	Piece de campagne	GRAPHIC
 027v	p026r_1		    	fig_p027v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5bW1tdUg0czEzTjg	Faulconeau	GRAPHIC
 027v	p026r_1		    	fig_p027v_2	https://drive.google.com/open?id=0B9-oNrvWdlO5OVloUjZocVpuVTg	Faulconeau de 4 quintals autrement passevo lants tire 8 pan s	GRAPHIC
 027v	p026r_1		    	fig_p027v_3	https://drive.google.com/open?id=0B9-oNrvWdlO5OGJ5MXhrMVFtVTA	3 quintals tire de long 9 pans	GRAPHIC
@@ -73,9 +73,9 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 032v	p032v_3	Fondeur	#				MARK
 032v	p032v_3	Fondeur	#				MARK
 033r	p033r_1	Cousteau pour couper le nes ou un doict	  	fig_p033r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5RWlDQlc4cU5HN3M		GRAPHIC
-033r	p033r_2	fig_p033r_3 https://drive.google.com/open?id=0B9-oNrvWdlO5TXhGbkNoNTFHZ0E Pour rallumer une chandelle estainte entre les mains sans soufler	  	fig_p033r_3	https://drive.google.com/open?id=0B9-oNrvWdlO5TXhGbkNoNTFHZ0E		GRAPHIC
-033r	p033r_2	fig_p033r_3 https://drive.google.com/open?id=0B9-oNrvWdlO5TXhGbkNoNTFHZ0E Pour rallumer une chandelle estainte entre les mains sans soufler	   	fig_p033r_2	https://drive.google.com/open?id=0B9-oNrvWdlO5SFNtME0xWURubzA		GRAPHIC
-033r	p033r_2	fig_p033r_3 https://drive.google.com/open?id=0B9-oNrvWdlO5TXhGbkNoNTFHZ0E Pour rallumer une chandelle estainte entre les mains sans soufler	  	fig_p033r_4	https://drive.google.com/open?id=0B9-oNrvWdlO5Mm1OS0lQRUpVZGs		GRAPHIC
+033r	p033r_2	Pour rallumer une chandelle estainte entre les mains sans soufler	  	fig_p033r_3	https://drive.google.com/open?id=0B9-oNrvWdlO5TXhGbkNoNTFHZ0E		GRAPHIC
+033r	p033r_2	Pour rallumer une chandelle estainte entre les mains sans soufler	   	fig_p033r_4	https://drive.google.com/open?id=0B9-oNrvWdlO5Mm1OS0lQRUpVZGs		GRAPHIC
+033r	p033r_2	Pour rallumer une chandelle estainte entre les mains sans soufler	   	fig_p033r_2	https://drive.google.com/open?id=0B9-oNrvWdlO5SFNtME0xWURubzA		GRAPHIC
 033v	p033v_2	Pour fayre sortir du front de quelquun du sang ou du vin ou dune muraille	   	fig_p033v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5MXk2RzNQdF9aeDg		GRAPHIC
 033v	p033v_2	Pour fayre sortir du front de quelquun du sang ou du vin ou dune muraille	#				MARK
 033v	p033v_2	Pour fayre sortir du front de quelquun du sang ou du vin ou dune muraille	#				MARK
@@ -95,14 +95,14 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 045v	p045v_1	Charger arquebus	  	fig_p045v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5ZlVWTkcyU2FfanM		GRAPHIC
 046r			 		https://drive.google.com/file/d/1G9nfjlsULz9521ia7VptfkJ_AjsSPO5H/view?usp=sharing		MARK
 046r	p046r_5	Go Fleurs dabres	☾				MARK
-046v	p046v_4	Escripre sans ancre	 		https://drive.google.com/file/d/1denrfxQE_oWyKP04zuMTk0s2P7WG4TeK/view?usp=sharing		MARK
+046v	p046v_4	Escripre sans ancre	    	fig_p046v_1	https://drive.google.com/file/d/1denrfxQE_oWyKP04zuMTk0s2P7WG4TeK/view?usp=sharing		GRAPHIC
 047r	p047r_1	Pour les dents	℥				MARK
 047r	p047r_1	Pour les dents	℥				MARK
 047r	p047r_1	Pour les dents	℥				MARK
 048r	p048r_1	Fondeur	  	fig_p048r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5YXhXTUJpMk44eTQ		GRAPHIC
 054v	p054v_1		  	fig_p054v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5N1FlRklFdzIxUzQ		GRAPHIC
 054v	p054v_2	Pour fayre suivre un cheval	+				MARK
-059r	p059r_1	Ombres	  	fig_p059r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5QWJmbC1RaG8zTGM		GRAPHIC
+059r	p059r_1	Ombres	   	fig_p059r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5QWJmbC1RaG8zTGM		GRAPHIC
 060v	p060v_1	Vernis sec en une heure	+				MARK
 060v	p060v_1	Vernis sec en une heure	+				MARK
 061r	p061r_4	Jours	  	fig_p061r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5LVgyaXJ0Rl8wMjA		GRAPHIC
@@ -112,10 +112,10 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 064v	p064v_2		  	fig_p064v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5NmZDTmZwc1Jqb2M		GRAPHIC
 065r	p065r_1	Umbres	  	fig_p065r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5UFZyOUNKU3pqVXc		GRAPHIC
 065r	p065r_2	Carnation	  	fig_p065r_2	https://drive.google.com/open?id=0B9-oNrvWdlO5eUhrRmdpaWNCZlk		GRAPHIC
+066r	p066r_5	Dorer mouleure de tableaulx dor mat	* 				MARK
+066r	p066r_5	Dorer mouleure de tableaulx dor mat	* 				MARK
 066r	p066r_5	Dorer mouleure de tableaulx dor mat	*				MARK
-066r	p066r_5	Dorer mouleure de tableaulx dor mat	*				MARK
-066r	p066r_5	Dorer mouleure de tableaulx dor mat	*				MARK
-066v	p066r_5		*				MARK
+066v	p066r_5		* 				MARK
 071v	p071v_1	Vernis	℥				MARK
 077r	p077r_2	Medecine des orientaulx contre toutes maladies	  	fig_p077r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5ckxxXzJIeWhnMDg		GRAPHIC
 080r	p080r_3	Fontaines	  	fig_p080r_2	https://drive.google.com/open?id=0B9-oNrvWdlO5c3dLNVNsem9nTjQ		GRAPHIC
