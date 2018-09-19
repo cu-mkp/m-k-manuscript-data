@@ -1915,7 +1915,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tcn/</String>
+                                    <String>tc/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -1945,7 +1945,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>tc/</String>
+                                    <String>tcn/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
