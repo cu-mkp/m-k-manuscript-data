@@ -5,7 +5,7 @@
 
 <div>
 <id>p131r_1</id>
-<head>Herbes qui sont malaisees<lb/>
+<head><m>Herbes</m> qui sont malaisees<lb/>
 
 a brusler dans le <tl>moule</tl></head>
 
@@ -14,7 +14,7 @@ a brusler dans le <tl>moule</tl></head>
 &amp; il te sera plus aise a retirer le <m>charbon</m> de dedans</ab>
 
 <ab>
-<man><margin>left-top</margin>Essay</man></ab>
+<margin>left-middle</margin>Essay</ab>
 
 </div>
 
@@ -101,10 +101,10 @@ de <m>ceruse</m> ou aultre couleur metallique sattaque au
 Et pour ceste raison si tu veulx esbaucher quelque chose </ab>
 
 <ab>
-<margin>left-bottom</margin>
+<margin>left-middle</margin>
 
-<figure>+</figure>
-<man><margin>left-bottom</margin><la>Nota</la></man>
+<figure>+</figure><lb/>
+<la>Nota</la><lb/>
 
 La <m>cire blanche</m><lb/>
 
