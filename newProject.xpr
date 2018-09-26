@@ -14,21 +14,6 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xslt/figure_data.xsl</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>figure_data</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XML</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>allFolios/all_tc.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -49,6 +34,25 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>mk_single_file-tc</String>
+                                        <String>mk_single_file-tcn</String>
+                                        <String>mk_single_file_tl</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XML</String>
+                                        <String>XML</String>
+                                        <String>XML</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xslt/figure_data.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>figure_data</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">

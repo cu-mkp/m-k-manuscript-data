@@ -7,13 +7,13 @@
 
 <cont/>
 
-<id>p145v_2</id>
+<id>p145v_1</id>
 
 <ab>affin qu’elle se mouille partout, sinon mouille la<lb/>
 
-avecq un gros <tl>pinceau</tl> dedié à cela. Puys passe<lb/>
+avecq un <tl>gros pinceau</tl> dedié à cela. Puys passe<lb/>
 
-par le bout du <tl>moule</tl> qui clost le cercle ton bout<lb/>
+par le bout du <tl>moule</tl> qui clost le <tl>cercle</tl> ton bout<lb/>
 
 de <tl><m>fil de fer</m></tl> qui tient le gect de <m>cire</m> et en
 fends<lb/>
@@ -29,17 +29,17 @@ sable destrempé haulse tousjours l’herbe ou fleur.<lb/>
 
 Ainsy si elle n’est roide d’elle mesme, passe avecq<lb/>
 
-une <tl>aiguille du filet</tl> delié <del>po</del> sur la fleur
+une <tl>aiguille</tl> du <tl>filet delié</tl> <del>po</del> sur la fleur
 pour<lb/>
 
 la garder d’enlever. Ou si tu t’en oublioys, bais<corr>s</corr>e <lb/>
 
-la fleur avecques quelque <del>b</del>petit <tl>bastonceau</tl>
+la fleur avecques quelque <del>b</del> <tl>petit bastonceau</tl>
 jusques<lb/>
 
 à ce que le sable gecté se commance à <del>d</del>espaissir.<lb/>
 
-Ta fleur estant bien disposée, <del>d</del>choisis une<lb/>
+Ta fleur estant bien disposée, <del>d</del> choisis une<lb/>
 
 <tl>escuelle</tl> assés grande pour y destremper aultant<lb/>
 
@@ -88,9 +88,9 @@ mesme sable<lb/>
 
 qui ha servi et est le plus excellent de tous.</ab>
 
-</div>
-
 <ab><margin>left-top</margin>
+
+<render>wide</render>
 
 La ligue dont j’ay gecté une grande branche de <pa>soulcy</pa> qui avecq
 sa fleur ses boutons<lb/>
@@ -99,13 +99,13 @@ et ses foeilles est venue<lb/>
 
 nect co<exp>mm</exp>e le naturel,<lb/>
 
-escrit d’une <ms>lb</ms> d’<m>estain<lb/>
+estoict d’une <ms>lb</ms> d’<m>estain<lb/>
 
 fin</m> meslé de deulx<lb/>
 
 <ms>unces</ms> de <m>plomb</m>.</ab>
 
-<ab><margin>left-top</margin>
+<ab><margin>left-middle</margin>
 
 S’il y a quelques<lb/>
 
@@ -113,7 +113,7 @@ baves repare<lb/>
 
 avecq un <tl>trancheplume</tl>.</ab>
 
-<ab><margin>left-top</margin>
+<ab><margin>left-middle</margin>
 
 Descouvre la<lb/>
 
@@ -121,21 +121,21 @@ fleur moulée en<lb/>
 
 deffaisant doulcem<exp>ent</exp><lb/>
 
-avecq la poincte<lb/>
+avecq la <tl>poincte<lb/>
 
-d’un <tl>cousteau</tl> le<lb/>
+d’un cousteau</tl> le<lb/>
 
-<tl>moule</tl>, &amp; pour mieulx<lb/>
+<tl>moule</tl>, &amp; pour mieulx,<lb/>
 
 trempe le bien dans<lb/>
 
 l’<m>eau</m>. Aprés use<lb/>
 
-de <tl>sayes de <al>porceau,</al></tl>,<lb/>
+de <tl>sayes de <al>porceau</al></tl>,<lb/>
 
 d’un bout de <tl><m>fil de<lb/>
 
-fer</m></tl> &amp;<exp>c.</exp><lb/>
+fer</m></tl> &amp;<lb/>
 
 Quand le <tl>moule</tl><lb/>
 
@@ -167,7 +167,7 @@ pour faire tout sortir,<lb/>
 
 attire avecq la <tl><bp>bouche</bp></tl>.</ab>
 
-<ab><margin>left-bottom</margin>
+<ab><margin>left-middle</margin>
 
 Advise de n’atacher<lb/>
 
@@ -193,7 +193,9 @@ aultour, &amp; puys le<lb/>
 
 tirer avecq tes petits<lb/>
 
-<tl>molets</tl> par la <tl>queue<lb/>
+<tl>molets</tl> par la queue<lb/>
 
-de <m>fer</m></tl>.</ab>
+de <m>fer</m>.</ab>
+
+</div>
 </root>
