@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="18.1">
+<project version="20.1">
     <meta>
         <filters directoryPatterns="" filePatterns="newProject.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="18.1" xml:space="preserve">
+            <serialized version="20.1" xml:space="preserve">
                 <serializableOrderedMap>
-                    <entry>
-                        <String>enable.project.master.files.support</String>
-                        <Boolean>true</Boolean>
-                    </entry>
                     <entry>
                         <String>scenario.associations</String>
                         <scenarioAssociation-array>
@@ -1352,6 +1348,9 @@
                                                 <field name="registerSaxonCEExtensions">
                                                     <Boolean>true</Boolean>
                                                 </field>
+                                                <field name="enableAssertions">
+                                                    <Boolean>false</Boolean>
+                                                </field>
                                                 <field name="showVersionWarnings">
                                                     <Boolean>false</Boolean>
                                                 </field>
@@ -1382,8 +1381,8 @@
                                                 <field name="stripWS">
                                                     <String>saxon.strip.ws.none</String>
                                                 </field>
-                                                <field name="optimizationLevel">
-                                                    <String>10</String>
+                                                <field name="optimizationEnabled">
+                                                    <Boolean>true</Boolean>
                                                 </field>
                                                 <field name="useConfigFile">
                                                     <Boolean>false</Boolean>
@@ -1514,6 +1513,9 @@
                                                 <field name="registerSaxonCEExtensions">
                                                     <Boolean>true</Boolean>
                                                 </field>
+                                                <field name="enableAssertions">
+                                                    <Boolean>false</Boolean>
+                                                </field>
                                                 <field name="showVersionWarnings">
                                                     <Boolean>false</Boolean>
                                                 </field>
@@ -1544,8 +1546,8 @@
                                                 <field name="stripWS">
                                                     <String>saxon.strip.ws.none</String>
                                                 </field>
-                                                <field name="optimizationLevel">
-                                                    <String>10</String>
+                                                <field name="optimizationEnabled">
+                                                    <Boolean>true</Boolean>
                                                 </field>
                                                 <field name="useConfigFile">
                                                     <Boolean>false</Boolean>
@@ -1676,6 +1678,9 @@
                                                 <field name="registerSaxonCEExtensions">
                                                     <Boolean>true</Boolean>
                                                 </field>
+                                                <field name="enableAssertions">
+                                                    <Boolean>false</Boolean>
+                                                </field>
                                                 <field name="showVersionWarnings">
                                                     <Boolean>false</Boolean>
                                                 </field>
@@ -1706,8 +1711,8 @@
                                                 <field name="stripWS">
                                                     <String>saxon.strip.ws.none</String>
                                                 </field>
-                                                <field name="optimizationLevel">
-                                                    <String>10</String>
+                                                <field name="optimizationEnabled">
+                                                    <Boolean>true</Boolean>
                                                 </field>
                                                 <field name="useConfigFile">
                                                     <Boolean>false</Boolean>
