@@ -1,21 +1,21 @@
-101|lb
+114|lb
 60|℥
-46|moictie
+47|moictie
 34|once
-31|quintal
-25|jours
+27|quintal
+26|jours
+23|quintals
+23|pans
 23|onces
 21|heures
 17|jour
-17|doigts
-16|quintals
-15|pans
-14|pas
+16|pas
+16|doigts
 14|partye
-13|pan
-13|heure
+14|heure
+10|sols
+9|pan
 9|grains
-8|sols
 8|deniers
 7|pars
 7|moys
@@ -28,6 +28,7 @@
 4|unces
 4|quart dheure
 4|pied
+4|livres
 4|goutte
 4|fois le jour
 4|douzaine
@@ -39,14 +40,11 @@
 3|pater noster
 3|parties
 3|pan de montpellier
-3|moitie
-3|livres
 3|lien
 3|hora
 3|espace de quinze jours
 3|dragmes
 3|douzaines
-3|demye heure
 3|demy sestier
 3|demy once
 3|demy
@@ -57,8 +55,10 @@
 2|suffisante quantite
 2|sepmaines
 2|seau
+2|quintaulx
 2|quarteron
 2|quarte partie
+2|qualibre de roy
 2|poulsses
 2|poulces
 2|poignees
@@ -74,21 +74,24 @@
 2|lhyver
 2|lhiver
 2|leste
-2|lanterne
+2|lanternes
 2|heure &amp; demye
 2|grosseur dune febve
 2|gros
 2|goute
 2|gabions
 2|demye ℥
+2|demye heure
 2|demy ℥
 2|demy pied
 2|cane
+2|aultant
 2|ana
 1|œufs
 1|ʒ
 1||ʒ|
 1|une part de pierre ponce calcinee &amp; pulverisee &amp; tr avecq trois pars de minium
+1|une ou demye heure
 1|une foys le moys
 1|une foys la sepmaine
 1|une fois la sepmaine
@@ -99,14 +102,14 @@
 1|un quart dheure
 1|un poix de caillous calcines sur trois de minium
 1|un pan
-1|un iour &amp; une nuict
+1|un jour &amp; une nuict
 1|un grain
 1|un demy jour
 1|troisiesme partye dune balle
 1|troisiesme partye
 1|troisiesme partie en tant de distances quil est necessaires en esgard a la totale division du cercle
 1|trois pars de rosette &amp; une de metal fin de la grosse cloche
-1|trois ou 4 jours et trois iours et trois nuicts
+1|trois balles despesseur
 1|travers de doigt despes
 1|tout un jour et une nuict
 1|tout un jour
@@ -115,7 +118,7 @@
 1|tierce partye
 1|talentorum
 1|tables
-1|sous
+1|t.
 1|sols le denier
 1|six fois autant
 1|si petites distances comme celles des petites roues
@@ -123,10 +126,10 @@
 1|seconde annee
 1|seau en heure
 1|saulmon
-1|quintaulx
 1|quintalz
 1|quintals &amp; demy
 1|quintal &amp; demy
+1|que la moitie des aultres
 1|quarts
 1|quarte partye
 1|quarte partie de plomb sur trois destaim
@@ -134,15 +137,17 @@
 1|quarte
 1|quart de once
 1|quand leur saison passe
+1|quand elle ne fume plus
+1|quand
 1|qualibre du roy
-1|qualibre de roy
+1|qualibre
 1|proportion
 1|presque moictie
 1|presque autant dun que daultre
 1|pousses en quarre
 1|pousses
 1|pour scavoir sil est asses chault
-1|pour scavoir quand il sera en bonne chaleur trempe dedans un petit papier retors Sil le noircist sans lallumer il est en bonne chaleur Mays sil le brusle &amp; y mect le foeu il est trop chault
+1|pour scavoir quand il sera en bonne chaleur trempe dedans un petit papierretors Sil le noircist sans lallumer il est en bonne chaleur Mays sil le brusle &amp; y mect le foeu il est trop chault
 1|poulse
 1|poulces de roy
 1|poulce
@@ -169,6 +174,7 @@
 1|panier
 1|palles
 1|nuit
+1|moitie
 1|moictie du jour
 1|milieu de la foeille
 1|meza onca
@@ -182,12 +188,14 @@
 1|lignes pied de roy
 1|lignes
 1|lieux
+1|lieue
 1|liards
 1|liard
 1|lespesseur dun travers dun grain de bled
 1|lespace dung Jour
-1|le soir dans un bon foeu iusques au matin
+1|le soir dans un bon foeu jusques au matin
 1|le poix dun grain
+1|lb t.
 1|lb selon lordonnance du roy pour quintal
 1|lb pour quintal
 1|lb la douzaine
@@ -197,18 +205,18 @@
 1|largeur de dix b pailles
 1|large de ii ou trois doitgs
 1|large aultant que tu vouldras faire longue une cartuche
-1|lanternes
+1|lanterne
 1|la sixiesme partye
 1|la grosseur dune noix
 1|la grosseur dune avelane avecq sa coquille
 1|jusques au commancement daougst
+1|jusques a lescusson
 1|jusques a la sepmaine saincte
 1|jusques a ce que tu puisses tenir le bout du doigt dans le gect sans te brusler
 1|journee
 1|jour naturel
 1|joinctees
 1|joinctee
-1|iours
 1|infusions
 1|infusion
 1|huictiesme partye
@@ -221,7 +229,7 @@
 1|grosseur dun pois
 1|grosseur dun pinon
 1|grosseur de deulx chastaignes
-1|gros comme ffisselle de moing
+1|gros comme fisselle de moingdre
 1|grandeur dun pot doeillets
 1|grandeur dun oeuf de pigeon
 1|grand chaulderon de ladicte eau de riviere
@@ -229,13 +237,18 @@
 1|grain
 1|gouttes
 1|goutes
+1|froidir de telle sorte que je pouvois tenir le doigt sans me brusler
 1|fort comme de grands livres imprimes
 1|floquets
+1|espoisseur de trois balles a la culasse &amp; au devant de deulx balles
 1|espoisse dun verre poulce
+1|espoiseur de trois balles
 1|espesseurs de papier
 1|espesseur dune piece de quarante sols
 1|espesseur dune demy bale
 1|espesseur dune balle &amp; la troisiesme partye dune balle
+1|espesseur dune balle &amp; de trois parties les deux
+1|espesseur dune balle &amp; de trois parties les deulx
 1|espesseur dune balle &amp; de deulx trois parties les deulx
 1|espesseur dun teston
 1|espesseur dun pousse
@@ -243,7 +256,10 @@
 1|espesseur dun costeau
 1|espesseur du dos de costeau
 1|espesseur de trois doigts
+1|espesseur de deux de ses balles &amp; lesa trois troisiesme parties dune balle
 1|espesseur de deux balles &amp; un quart de balle
+1|espesseur de deulx de ses balles &amp; dune balle
+1|espesseur de deulx balles
 1|espesseur de b deulx balles &amp; l des trois parties dune balle lune
 1|espace que tu diras 8 pater noster
 1|espace dun pater noster
@@ -256,6 +272,7 @@
 1|en la capacite dun des boisseaulx
 1|en bonne quantite
 1|empan
+1|elle faict de grands traicts se retirants aulx borts &amp; non meus
 1|doze
 1|douziesme partye
 1|dour
@@ -265,6 +282,7 @@
 1|doitgts
 1|doitgs
 1|distance necessaire
+1|diametre dune balle &amp; demye
 1|devant la sainct Michel
 1|deux foys aultant
 1|deux fois que la saulcice
@@ -278,7 +296,9 @@
 1|despuys la my may
 1|denier
 1|demye once
+1|demye lieue
 1|demy verre
+1|demy lieue
 1|demy lanterne
 1|demy balle dharquebus
 1|delie p comme grosse corde despinette pour les petits ouvrages
@@ -310,15 +330,16 @@
 1|caques
 1|canes
 1|bras
+1|bons doigts
 1|bonnes heures
-1|bonne heure
 1|bon matin
 1|balles
-1|autant dun que daultre &amp; aussi gros quune febve de salpestre
+1|autant dun que daultre
 1|aussy longue
 1|aussy gros quune febve
 1|aussy gros de sel armoniac comme deulx noix
 1|aussy gros de cire quun grain de mil
+1|aussi gros quune febve
 1|aultant quune grosse noix
 1|aultant que tu en pourras prendre avecq les 4 doigts et le poulse
 1|aultant que dun que daultre &amp;
@@ -331,18 +352,20 @@
 1|aultant de fiente de pigeon que de ladicte terre
 1|aultant de fiante de cheval
 1|aultant de caillou blanc calcine
-1|aultant
 1|au bout de la table
 1|asses chault comme quand on en tire le pain
+1|apres que le pain est tire
 1|apres la my Juillet jusques a la sainct Michel
 1|ans
 1|an suivant
 1|an
 1|aiguillee
 1|Jour
+1|Essaye pour cet effect avecq du papier sil roussist le papier cest asses il est bon a gecter mays sil noircist le papier il est trop chault
 1|Carte
 1|Canne
 1|Aultant quil pourroit tenir dans un œuf
 1|Aultant dun que daultre
 1|Au moys de Janvier
+1|4trois ou 4 jours et trois jours et trois nuicts
 1|

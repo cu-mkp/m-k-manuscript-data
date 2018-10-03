@@ -1,36 +1,35 @@
 28|serpent
 24|serpents
-22|tortue
 22|escrevisse
+21|tortue
 21|cheval
-14|lesard
 13|vers
+13|lesard
+12|tortues
 12|seiche
 12|mouche
-12|lesards
 12|escrevisses
-11|tortues
 11|mouton
+11|lesards
 11|iraigne
-10|rat
 10|dragon
-10|chevaulx
+9|rat
 9|poisson
+9|chevaulx
 9|bœuf
-7|grenoille
 7|chiens
 7|chien
 6|oiseaulx
-6|oiseau
+6|grenoille
 6|chancre
 5|veau
 5|serpens
-5|lesardes
+5|oiseau
 4|vache
 4|pourceau
 4|mousche
-4|mouches
 4|loup
+4|lesardes
 4|crapault
 4|chancres
 3|vipere
@@ -41,23 +40,21 @@
 3|pigeon
 3|papillon
 3|oyseaulx
-3|lezard
 3|celles de garrigue
 3|boeuf
 3|benarris
 3|Rossignol
 3|Oyseaulx
 3|Celles deau
-2|souris
 2|saulterelles
 2|rossignols
 2|poissons
 2|pigeons
 2|papillons
 2|moutons
+2|mouches
 2|lezards
-2|lezardes
-2|lesarde
+2|lezard
 2|iraignee
 2|gris
 2|fourmis
@@ -68,7 +65,6 @@
 2|celles deau
 2|calendres
 2|butor
-2|angroisse
 2|Tortues
 2|Serpens
 2|Mousches
@@ -85,6 +81,7 @@
 1|tortue deau
 1|telines
 1|tarins
+1|souris
 1|serpents deau
 1|serpend
 1|sernailles
@@ -99,10 +96,17 @@
 1|poulain
 1|porc espic
 1|pincons
+1|petitses lezardes
+1|petites lesardes
+1|petite souris
+1|petite grenoille
+1|petite angroisse
+1|petit lesard
 1|perdris
 1|passereaulx
 1|passe solitaire
 1|oisillons
+1|oiseau massif
 1|mulots
 1|moutton
 1|moulue
@@ -112,14 +116,22 @@
 1|lucerta
 1|linotte
 1|lievre
+1|lezardes
+1|lesarde
 1|laisards
 1|huitres
 1|huitre
 1|huistres
 1|homme
 1|hirondelles
+1|grosses vomouches
+1|grosses mouches
 1|grenoilles
+1|grands lesards
+1|grand rat
+1|grand lezard
 1|fouines
+1|fort petite lesarde
 1|formis noires
 1|daigneaulx
 1|cygales
@@ -146,6 +158,7 @@
 1|bœufs
 1|brebis
 1|bouc
+1|bons chevaulx
 1|bombicum
 1|boeufs
 1|beuf
@@ -156,6 +169,7 @@
 1|animaulx
 1|animal
 1|angroissee
+1|angroisse
 1|angroise
 1|alouetes
 1|aigle
@@ -168,6 +182,7 @@
 1|Papillons
 1|Oysillons
 1|Oiseaulx
+1|Moules
 1|Lesards
 1|Escargots
 1|Chiens

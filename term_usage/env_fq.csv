@@ -1,57 +1,63 @@
 15|mine
 13|eau
 13|au soleil
-10|muraille
+11|muraille
 10|a la pluye
 8|cave
 7|soleil
 7|riviere
 6|boutique
 5|vent
+5|maisons
 5|garrigue
-5|en lieu humide
 4|lieu sec
 4|lieu humide
 4|grottes
+4|en lieu humide
 4|au serain
 3|mer
 3|grotte
+3|froid
 3|fenestre
 3|chambre
 3|a lombre
-3|a lair
+2|villes
+2|ville
 2|terre
 2|temps humide
 2|rue
 2|rochers
 2|rivieres
+2|pluyes
 2|pluye
-2|maisons
+2|murailles
 2|maison
 2|lieu descouvert
 2|jour
 2|jardins
 2|il gele
+2|humidite
 2|grange
 2|gelee
-2|froid
 2|fouye
 2|fontaine
 2|eglises
 2|cheminee
 2|au vent
+2|au froid
 2|a lhumide
+2|a lair
 2|Grottes
 1|villes ou sont les Maistres jures
 1|villes fortes
-1|ville
 1|vigne qui est bien haulte
 1|vigne
 1|vent ou froid
 1|vent dune fenestre
 1|vent dhaultan
 1|veines de la montaigne
-1|une muraille
+1|trenchees
+1|tour
 1|tonnerres
 1|tonnerre ou temps pluvieulx couvert &amp; frais
 1|terriers
@@ -64,6 +70,7 @@
 1|temps est relent &amp; humide
 1|temps de pluye et humide
 1|sur les maisons
+1|sourdis
 1|soubs de la balle de bled ou fumier chauld
 1|soleil de juin
 1|soleil chault
@@ -79,12 +86,11 @@
 1|pres de mon sol
 1|pres de leur demeure
 1|porte percee dune chambre fermee
-1|pluyes
 1|pierrieres qu grisastres
 1|pierriere
 1|pierreriesrieres
+1|pierrerie
 1|pierrerer
-1|piererie
 1|petites villates
 1|pays
 1|paroy des chambres
@@ -92,7 +98,6 @@
 1|ou le fonds de la terre est si fertil
 1|nuit soict obscure &amp; ne fasse point de ☾
 1|nature
-1|murailles
 1|montaignes
 1|montaigne
 1|mirouers
@@ -100,22 +105,27 @@
 1|mine de Thoulouse
 1|maysons particulieres
 1|mayson
+1|maison ou ailleurs
 1|lumiere du foeu
 1|lieux humides
 1|lieu ou la flamme ne puisse porter domaige
 1|lieu mouille &amp; humide
+1|lieu humide ne enclos
 1|lieu clos
 1|licts
 1|la premiere pluye
 1|jugement
 1|jardin
-1|humidite
 1|humeur de la cave
 1|hors du vent
 1|grandes escailles vers les montaignes
 1|grandes cuisines
+1|garites couvertes dune tour
 1|gardemangers
+1|gabions
+1|froid &amp;
 1|foyer
+1|fosse
 1|forteresses de peu dimportance
 1|formillere
 1|forges de foix
@@ -151,7 +161,7 @@
 1|cuisines
 1|cuillere dargent quon sert a table
 1|courant des eaulx
-1|chemins sablonneulx
+1|chemins sablonneulxc_69r_01
 1|chemins
 1|cheminees des grandes cuisines
 1|champs
@@ -160,19 +170,23 @@
 1|chambre bien close ou il ny entre point de vent ne dair
 1|chambre acommodee de trois ou 4 estages de tables larges
 1|cavernes de rochers
+1|cassemattes des fosses
+1|cassemattes
 1|cabinets
+1|c_105v_01Le soir et le matin a la fraischeur vers les fontaines &amp; lieulx ombrageulx
+1|bort du fosse
 1|bonnes villes
 1|bon &amp; fertile territoire
 1|biquoques
 1|basse court
 1|bas en terre
+1|barricade
 1|aulx territoires maigres
 1|aulx environs de toutes les bonnes villes
 1|aulx champs
 1|au soleil bien fort &amp; au serain
 1|au profond de la sablonniere
 1|au plus chault soleil
-1|au froid
 1|au froict
 1|au foeu
 1|au feu
@@ -183,8 +197,8 @@
 1|abre ou herbe qui soict au bort
 1|a lair ou lieu humide
 1|a la frescheur &amp; aux rays de la lune
-1|Le soir et le matin a la fraischeur vers les fontaines &amp; lieulx ombrageulx
 1|Jardin
 1|En temps serain &amp; doulx &amp; non trop froid &amp; venteulx
 1|Eglise
+1|&amp; au niveau
 1|

@@ -1,8 +1,8 @@
 28|orfevres
-18|fondeurs
+19|fondeurs
 15|painctres
+10|roy
 9|verriers
-9|roy
 7|pintiers
 7|canonier
 6|Painctre
@@ -37,10 +37,11 @@
 2|minerons
 2|menusiers
 2|imprimeur
-2|fondeurs de grand gect
+2|fondeur
 2|femmes
 2|courroieur
 2|commun
+2|cavallerie
 2|apothiquaires
 2|Pintiers
 2|Pintier
@@ -100,6 +101,7 @@
 1|inventeurs
 1|inventeur des rustiques figulines
 1|inventeur
+1|infanterie
 1|grossiers
 1|graveurs sur le fer
 1|gecteurs
@@ -110,9 +112,9 @@
 1|forbisseurs
 1|forbisseur
 1|fondeurs de grands ouvraiges
+1|fondeurs de grand gect
 1|fondeurs dartiglerie &amp; de cloches
 1|fondeurs dartiglerie
-1|fondeur
 1|fondableseurs
 1|ferriers
 1|febvre
@@ -138,7 +140,6 @@
 1|ceulx qui font des pots
 1|ceulx qui aguisent
 1|celuy mesme qui ha faict le boys
-1|cavallerie
 1|canonnier
 1|boutonniers aussi de verre
 1|blanchisseurs

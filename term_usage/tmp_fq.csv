@@ -1,7 +1,7 @@
-29|jours
-28|jour
+30|jours
+27|jour
 20|heures
-13|heure
+12|heure
 9|nuict
 8|long temps
 6|moys
@@ -12,7 +12,6 @@
 5|de nuict
 4|quart dheure
 4|leste
-4|demye heure
 4|ans
 3|tous les ans
 3|matin
@@ -20,6 +19,7 @@
 3|hiver
 3|este
 3|espace de quinze jours
+3|demye heure
 3|Jours
 3|Jour
 2|ung quart dheure
@@ -34,22 +34,24 @@
 2|lhyver
 2|lendemain matin
 2|la nuict
-2|iours
-2|iisuperscript e de septembre 1581
 2|heure &amp; demye
 2|en este
 2|aujourdhuy
 2|an
+2|11e de septembre 1581
 1|vers la sepmaine saincte
 1|vers la saint Jehan
+1|une ou demye heure
 1|une foys le moys
 1|une foys la sepmaine
 1|une fois la sepmaine
 1|un quart dheure
 1|un jour ou une nuit
-1|un iour &amp; une nuict
+1|un jour ou deulx
+1|un jour &amp; une nuict
 1|un demy jour
 1|trois jours en la sepmaine
+1|trois jours
 1|toute lannee
 1|tout un jour
 1|tout leste
@@ -66,22 +68,24 @@
 1|sepmaine
 1|seconde annee
 1|sabmedy
-1|quand on en tire le pain
 1|premier jour
 1|pauses
 1|par lespace de vingt quatre heures
 1|nuicts
 1|moys de juing &amp; juillet
 1|mois
+1|moings aultant
 1|mercredy
 1|matins
 1|mardy
+1|main
 1|lyver
 1|longuement
 1|longue duree
 1|long traict de la mer
 1|long
 1|le soir
+1|le
 1|jusques au commancement daougst
 1|jusques a la sepmaine saincte
 1|juin
@@ -92,7 +96,6 @@
 1|jour de Saint paul
 1|jour au lendemain
 1|jeudy
-1|iisuperscript e de Septembre 1581
 1|hyver
 1|hors de saison quand lhiver desnie des fleurs
 1|gelee
@@ -120,10 +123,13 @@
 1|de nuict ou en temps de Silence
 1|de nuict a la frescheur &amp; aux rays de la lune
 1|de longue duree
+1|de longue
 1|de lannee mesme
 1|de deulx ans en deulx ans
 1|commancement daougst
+1|c_105v_01Le soir et le matin
 1|bonnes heures
+1|bonne heure
 1|bon matin
 1|avecq le temps
 1|au soir
@@ -131,7 +137,6 @@
 1|au descroissant de la lune
 1|asses long temps
 1|apres un temps pluvieulx
-1|apres que le pain est tire
 1|apres que le pain en est tire
 1|apres la my Juillet jusques a la sainct Michel
 1|an suivant
@@ -144,10 +149,10 @@
 1|a divers jours
 1|Vers la pentecoste
 1|Mars
-1|Le soir et le matin
 1|Chasque matin
 1|Au printemps
 1|Au moys de Janvier
 1|Au mois daougst
 1|Ancienement
+1|11e de Septembre 1581
 1|

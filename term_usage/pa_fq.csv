@@ -1,6 +1,6 @@
 36|aspic
 34|noix
-24|froment
+25|froment
 18|bled
 16|rose
 15|vigne
@@ -13,6 +13,7 @@
 5|sauge
 5|raisin
 5|girofle
+5|febve
 5|abricots
 4|safran
 4|rosmarin
@@ -56,7 +57,6 @@
 2|herable
 2|fromant
 2|fraisiers
-2|febve
 2|fayan
 2|consolida maior
 2|chastaignes
@@ -64,7 +64,6 @@
 2|capilli veneris
 2|canelle
 2|bruyeres
-2|boufain
 2|bleds
 2|bled orbere
 2|amendiers
@@ -84,7 +83,7 @@
 1|terra merita
 1|symphitum
 1|sumach
-1|soulci
+1|soulcis
 1|sorbier
 1|solcy
 1|semperviva
@@ -152,7 +151,7 @@
 1|linges
 1|lierre
 1|lapathum acutum
-1|lapathium acutum maius
+1|lapathium acutum majus
 1|lapasses
 1|laictues grainees
 1|laictues
@@ -173,7 +172,6 @@
 1|funges
 1|fraises
 1|fraise
-1|forment
 1|fleur de soulcy
 1|fleur de pensee
 1|fleur de genest
@@ -200,6 +198,8 @@
 1|bruiere
 1|brandes
 1|brande
+1|boufains
+1|boufain
 1|bled de froment
 1|balaustes
 1|baillard
