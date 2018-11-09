@@ -1,7 +1,7 @@
 <root>
 <page>160r</page>
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f325.item.r=.zoom</image>
+<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f325.item.r=</image>
 
 <div>
 <id>p160r_1</id>
@@ -19,18 +19,17 @@
 
 <id>fig_p160r_2</id>
 
-<margin>right-top</margin>
+<margin>right-middle</margin>
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5MEUzMjhxUVl1ZTA</link>
 
 </figure>
 
 <ab>Ce sont deulx <tl>lamines de <m>fer</m></tl> attachees par quattre
-petits<lb/>
+<tl>petits<lb/>
 
-<tl>piliers de <m>fer</m></tl> de telle sorte toutes foys
-que<del>lles</del> <add>la superieure</add> puysse<del>nt</del>
-librem<exp>ent</exp><lb/>
+piliers de <m>fer</m></tl> de telle sorte toutes foys que<del>lles</del>
+<add>la superieure</add> puysse<del>nt</del> librem<exp>ent</exp><lb/>
 
 jouer &amp; courir le long des <tl>piliers</tl> &amp; que celle de bas
 soict<lb/>
@@ -51,7 +50,7 @@ mis les <tl>moules</tl> entre deulx <tl>lames de <m>fer</m></tl> on
 
 le <tl>chassis</tl> avecq des <tl>coings</tl><lb/>
 
-Les grandes <tl>presses de <m>bois</m> faictes a vis</tl> oultre ce
+Les <tl>grandes presses de <m>bois</m> faictes a vis</tl> oultre ce
 quelles<lb/>
 
 sont lourdes a mectre aupres de la <tl>forge</tl> pour gecter On ne
@@ -62,7 +61,7 @@ pas cognoistre quand elle sarrent trop &amp; bien souvent elles<lb/>
 rompent le <tl>moule</tl></ab>
 
 <ab>
-<margin>left-top</margin>
+<margin>left-middle</margin>
 La <tl>vis</tl> est rivee<lb/>
 
 a cest <tl>estrier</tl> qui<lb/>
@@ -78,6 +77,7 @@ la haulsse &amp; la<lb/>
 <tl>presse</tl></ab>
 
 </div>
+
 <div>
 <id>p160r_2</id>
 <head>Sable pour fleurs</head>

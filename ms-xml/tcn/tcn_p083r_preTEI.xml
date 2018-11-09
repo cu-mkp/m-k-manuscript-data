@@ -5,13 +5,13 @@
 
 <div>
 <id>p083r_1</id>
-<head>Sable @ pour le <m>plomb</m></head>
+<head>Sable @ <comment>c_083r_02</comment>pour le <m>plomb</m></head>
 
 <ab><la>R<exp>ecipe</exp></la> <m>suye grise du fourneau des
 <pro>argentiers</pro></m>, <m>chaulx vive</m>, et<lb/>
 
-<m>farine</m> <m><gk>ana</gk></m>, humecté selon l'art, estant le plus
-subtilié qu'il te sera<lb/>
+<m>farine</m> <m><gk>ana</gk></m><comment>c_083r_03</comment>, humecté
+selon l'art, estant le plus subtilié qu'il te sera<lb/>
 
 possible.</ab>
 
@@ -47,7 +47,7 @@ croy que separem<corr><exp>ent</exp></corr> chascun<lb/>
 
 est fort bon. Le <m>feultre bruslé</m> moule fort net et despose<lb/>
 
-fort net.</add></ab>
+fort net.</add><comment>c_083r_01</comment></ab>
 
 <ab>
 <margin>left-top</margin>
