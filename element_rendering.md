@@ -43,6 +43,6 @@
 * sup
 * tl
 * tmp
-* unc
+* unc => wrap in curly braces with question mark (e.g. {ai?}
 * underline
 * x
