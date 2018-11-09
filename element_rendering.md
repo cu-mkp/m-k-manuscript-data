@@ -21,8 +21,8 @@
 * id => do not display
 * ill => "illegible" inside square brackets (e.g., [illegible])
 * image => do not display
-* it => italics ?)
-* la => italics ?)
+* it => (italics ?)
+* la => (italics ?)
 * lb => line break
 * link => do not display
 * m => ? (semantic term)
