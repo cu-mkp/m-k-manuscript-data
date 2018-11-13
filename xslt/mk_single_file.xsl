@@ -3,7 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/xpath-functions" exclude-result-prefixes="#all" >
     <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
     <xsl:param name="mode"/>
-    <xsl:param name="source_dir" select="concat('file:////Users/terry/Github/ms-xml/ms-xml/',$mode,'/')"/>
+    <xsl:param name="source_dir" select="concat('file:////Users/terry/Github/m-k-manuscript-data/ms-xml/',$mode,'/')"/>
     <xsl:template match="/" name="it">
         <all>
         <xsl:variable name="folderURI" select="resolve-uri($source_dir)"/>
