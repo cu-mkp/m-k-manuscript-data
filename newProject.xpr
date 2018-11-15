@@ -29,11 +29,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>allFolios/all_tl.xml</String>
+                                    <String>allFolios/all_tcn.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>strip-tags-tl.xsl</String>
+                                        <String>strip-tags_tcn</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -44,11 +44,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>allFolios/all_tcn.xml</String>
+                                    <String>allFolios/all_tl.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>strip-tags_tcn</String>
+                                        <String>strip-tags-tl.xsl</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
