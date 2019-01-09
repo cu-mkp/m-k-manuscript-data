@@ -4,13 +4,7 @@ The repository contains the text of the manuscript in multiple formats
 https://www.makingandknowing.org/
 
 
-> Throughout:
-
-> tc = transcription
-
-> tcn = normalized transcription
-
-> tl = translation
+> Throughout: **tc** = transcription; **tcn** = normalized transcription **tl** = translation
 
 
 ## Directories
