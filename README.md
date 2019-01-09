@@ -5,8 +5,11 @@ https://www.makingandknowing.org/
 
 
 > Throughout:
+
 > tc = transcription
+
 > tcn = normalized transcription
+
 > tl = translation
 
 
