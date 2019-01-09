@@ -2,7 +2,6 @@ Working files and data for the XML transcription and translation of Making and K
 
 https://www.makingandknowing.org/
 
-https://edition.makingandknowing.org/
 
 
 > Throughout: **tc** = transcription; **tcn** = normalized transcription **tl** = translation
