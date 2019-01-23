@@ -1,36 +1,36 @@
-**Tagset and definitions** (partial)
+**Tag and definitions** (partial)
 
-al = animal
+- al = animal
 
-bp = body part
+- bp = body part
 
-cn = coins, currency
+- cn = coins, currency
 
-def = author-practitioner defintion
+- def = author-practitioner defintion
 
-env = environment or physical space
+- env = environment or physical space
 
-m = materials
+- m = materials
 
-md = medical
+- md = medical
 
-ms = measurement
+- ms = measurement
 
-mu = music
+- mu = music
 
-pa = plant
+- pa = plant
 
-pl = place 
+- pl = place 
 
-pn = personal name
+- pn = personal name
 
-pro = profession
+- pro = profession
 
-sn = sensory
+- sn = sensory
 
-tl = tool
+- tl = tool
 
-tmp = time, temporal
+- tmp = time, temporal
 
 
 =====================================================
@@ -40,94 +40,94 @@ As of 1/14/19, these are all the tags potentially in use:
 
 **Semantic markup**
 
-ab
+- ab
 
-cont
+- cont
 
-div
+- div
 
-figure
+- figure
 
-head
+- head
 
-id
+- id
 
-image
+- image
 
-lb
+- lb
 
-man
+- man
 
-add><man
+- add><man
 
-margin
+- margin
 
-page
+- page
 
-rub
+- rub
 
 
 
 **Phrase-level tags**
 
-al
+- al
 
-bp
+- bp
 
-cn
+- cn
 
-df
+- df
 
-env
+- env
 
-fr
+- fr
 
-gk
+- gk
 
-it
+- it
 
-la
+- la
 
-m
+- m
 
-md
+- md
 
-ms
+- ms
 
-mu
+- mu
 
-oc
+- oc
 
-pa
+- pa
 
-pl
+- pl
 
-pn
+- pn
 
-po
+- po
 
-pro
+- pro
 
-sn
+- sn
 
-tl
+- tl
 
-tmp
+- tmp
 
 
 
 **Editorial markup**
 
-add
+- add
 
-corr
+- corr
 
-del
+- del
 
-exp
+- exp
 
-gap
+- gap
 
-sup
+- sup
 
-unc
+- unc
