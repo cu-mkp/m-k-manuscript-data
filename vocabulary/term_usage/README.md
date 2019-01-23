@@ -6,8 +6,8 @@ Frequency counts and term usage lists and tables of tagged terms in BnF Ms. Fr. 
 Lists are generally of the format:
 
 **(number of times term has been tagged with element) | (term that has been tagged)**
+For example:
 
->For example:
 `210 | Lead`
 
 
