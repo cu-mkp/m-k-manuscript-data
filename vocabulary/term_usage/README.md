@@ -1,25 +1,29 @@
 Frequency counts and term usage lists and tables of tagged terms in BnF Ms. Fr. 640. Lists are generated separately for each tag element (e.g., animal, material) and for each version of the manuscript (tc, tcn, tl).
 
+> Fq = frequency
+
 
 Lists are generally of the format:
-(number of times term has been tagged with element) | (term that has been tagged)
 
-For example:
+**(number of times term has been tagged with element) | (term that has been tagged)**
+
+>For example:
 210 | Lead
 
 
-NOTE: counts are sensitive to capitalization, pluralization, and alternate spelling. For example, the following are all counted separately: 
-Lead
+**NOTE:** counts are sensitive to capitalization, pluralization, and alternate spelling. For example, the following are all counted separately: 
 
-Leads
+>Lead
 
-lead
+>Leads
 
-leads
+>lead
+
+>leads
 
 
 
-Fq = frequency
+
 
 
 
