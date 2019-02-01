@@ -124,7 +124,7 @@
     <xsl:template match="root">
         <xsl:message select="$folio_id"></xsl:message>
         <xsl:message select="$materials"/>
-        <xsl:result-document encoding="utf-8" href="../_texts/{$folio_id}_{$mode}.md">
+        <xsl:result-document encoding="utf-8" href="../../TEMP/md/{$folio_id}_{$mode}.md">
             <!-- YAML for Ed -->
             <xsl:text>---&#x0A;layout: narrative&#x0A;</xsl:text>
             <xsl:text>title: </xsl:text>

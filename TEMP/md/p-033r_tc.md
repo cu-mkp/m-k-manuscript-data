@@ -1,0 +1,57 @@
+---
+layout: narrative
+title: 033r
+identifier: p-033r
+folio: 033r
+annotation: no
+author:
+mode: tc
+editor: GR8975 Seminar Participants
+rights: Public Domain
+materials: [rosette de bresil, jus de cerises noires, ouzier entre bien sec, osier, ozier]
+tools: [Cousteau, cousteau bien fourby, cloue, manche, cousteau, clou, costeau, chandelle, baston douzier entre bien sec, curedant]
+measurements: [dos dun costeau, comme un curedant]
+bodyparts: [nes, doict, doigt, cuisse, main, visage, mains, indice, grand doigt, doigts, paulmes]
+places: []
+plants: [cerises noires]
+professions: [Maistre gonnin, spectateurs]
+environments: []
+animals: []
+---
+
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-033r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f71.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>033r</a> - - - - - </div>  
+  
+
+## <span class="tl">Cousteau</span> pour couper le <span class="bp">nes</span> ou<br/> un <span class="bp">doict</span>
+
+ 
+> *Figure*
+> <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5RWlDQlc4cU5HN3M" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+ 
+Cest un <span class="tl">cousteau bien fourby</span> <span class="tl">cloue</span> de telle sorte par le milieu quil joue<br/> aysement dun coste & daultre & se cache tantost du coste de <span class="del"><span class="ill"></span></span> A tantost<br/> du coste de B dans son <span class="tl">manche</span> marque C Les deulx tenons que tu<br/> voys au bout du <span class="tl">cousteau</span> servent a le faire arrester dun coste ou daultre<br/> a un <span class="tl">clou</span> qui est au bout dudict <span class="tl">manche</span> Affin que quand on veult<br/> pousser fort <span class="add">sur</span> quelque chose pour la couper il ne passe pas hors du<br/> <span class="tl">manche</span> Tu peulx bien faire couper <span class="add">mays non guere</span> pour faire monstre le coste<br/> marque B Mays il ne fault pas que le coste qui est encoche <span class="del">A</span> et<br/> marque A tranche <span class="del">il</span> cest asses quil soict bien fourby Et fault aussy<br/> que la coche soict espesse co<span class="exp">mm</span>e le <span class="ms">dos dun <span class="tl">costeau</span></span> affin quelle ne puysse<br/> fayre <span class="sn">mal</span> Et tu monstreras seulement lendroict du <span class="tl">cousteau</span> qui nest<br/> pas encoche Car il fault que le coste de la coche soict <span class="del">mar</span> cache<br/> dans le <span class="tl">manche</span> Et quand tu vouldras coupper le <span class="bp">nes</span> ou le <span class="bp">doigt</span><br/> fais semblant desguiser ton <span class="tl">cousteau</span> sur la <span class="bp">cuisse</span> Et en <span class="del">en</span> ce faisant<br/> tu tourneras le <span class="tl">cousteau</span> dextrem<span class="exp">ent</span> & lendroict de la coche que tu<br/> couvriras <span class="del">l</span> dun <span class="bp">doigt</span> te viendra en <span class="bp">main</span> Et tu poseras la coche<br/> coloree de <span class="m">rosette de bresil</span> ou du <span class="m">jus de <span class="pa">cerises noires</span></span> sur le <span class="bp">nes</span>
+ 
+> *at left middle margin*
+> 
+> 
+>   Il ne fault<br/> pas que le <span class="pro">M<span class="exp">aistr</span>e<br/> gonnin</span> samuse<br/> a regarder ce<br/> quil faict<br/> Mays regarde<br/> les <span class="pro">spectateurs</span><br/> leur donna<span class="exp">n</span>t<br/> force bons mots<br/> de passe passe<br/> affin quilz le<br/> regardent au<br/> <span class="bp">visage</span> & non<br/> pas a ses<br/> <span class="bp">mains</span>
+ 
+ 
+  
+> *Figure*
+> <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5TXhGbkNoNTFHZ0E" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+ 
+
+##  Pour rallumer une <span class="tl">chandelle</span> estainte<br/> entre les <span class="bp">mains</span> sans soufler
+
+ 
+> *Figure*
+> *at left middle margin*
+> <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5Mm1OS0lQRUpVZGs" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+ 
+> *Figure*
+> *at left middle margin*
+> <a href="https://drive.google.com/open?id=0B9-oNrvWdlO5SFNtME0xWURubzA" target="_blank"><img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/></a>
+ 
+Ayes un petit <span class="tl">baston d<span class="m">ouzier <span class="del">entre</span> bien sec</span></span> et en couppe une petite piece<br/> <span class="ms">comme un <span class="tl">curedant</span></span> & <span class="del">la m</span> mects lun bout entre l<span class="bp">indice</span> & le <span class="bp">grand doigt</span><br/> et enlasse les deulx <span class="bp">mains</span> les <span class="bp">doigts</span> bien joincts et les passe dextrement<br/> aultour de la <span class="tl">chandelle</span> allumee comme si tu len voulois couvrir & ton<br/> <span class="m">osier</span> sallumera & soubdain retire les <span class="bp">mains</span> <span class="del">jo</span> ainsy enlassees & soubdain<br/> tue la <span class="tl">chandelle</span> Et puys remects tes <span class="bp">mains</span> aultour co<span class="exp">mm</span>e si tu la<br/> voulois couvrir & ta petite lumiere de lumiere <span class="del">p</span>de l<span class="m">osier</span> par le<br/> moyen de la fumee que tu retiens avecq les deulx <span class="bp">paulmes</span> la <span class="tl">cha<span class="exp">n</span>delle</span><br/> sallumera puys soubdain estains ton <span class="m">ozier</span> & le jecte secrettem<span class="exp">ent</span>
+ 
+ 

@@ -1,0 +1,56 @@
+---
+layout: narrative
+title: 091r
+identifier: p-091r
+folio: 091r
+annotation: no
+author:
+mode: tc
+editor: GR8975 Seminar Participants
+rights: Public Domain
+materials: [os de seiche, os, tuile, charbon de saule pulverise, charbon de saule, brique, metal, plomb]
+tools: [os de seiche, costeau, tuile a crochet, os, contre os, marteau, ciselet, moule, trancheplume]
+measurements: []
+bodyparts: []
+places: []
+plants: [vigne, persees, abricots, prunier, amendiers, saule]
+professions: []
+environments: [En temps serain & doulx & non trop froid & venteulx, en lieu humide]
+animals: [seiche]
+---
+
+ <p><a href="{{ site.baseurl }}/diplomatic/">[TOC]</a> | <a href="{{ site.baseurl }}/texts/p-091r_tl/" target="_blank">[translation]</a></p><div class="folio" align="center">- - - - - <a href="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f187.image" target="_blank"><img src="https://cu-mkp.github.io/2017-workshop-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/>091r</a> - - - - - </div>  
+  
+
+## Hanter
+
+ 
+De Tout abre qui ha plus grosse moelle <span class="add">le greffe</span> est malaise a <span class="del">estre</span> <span class="add">bien</span> tailler<br/> pourcequil y a dangier doffenser la moelle & si elle est offensee<br/> a droict la joincture malaisem<span class="exp">ent</span> prend il co<span class="exp">mm</span>e de la <span class="pa">vigne</span> de touts <span class="pa">persees</span><br/> & des <span class="pa">abricots</span>
+ 
+Les <span class="pa">abricots</span> ont lescorce fort deliee & par ainsy il les fault<br/> enter sur jeunes abres qui ne layent poinct encores espesse co<span class="exp">mm</span>e sur<br/> gectes de <span class="pa">prunier</span> & <span class="pa">amendiers</span>
+ 
+Les greffes ne <span class="del"><span class="ill"></span></span> prenent gueres si la taille de labre se mouille<br/> il fault doncq hanter <span class="env">En temps serain & doulx & non trop froid &<br/> venteulx</span>
+ 
+Le bois vieulx quon laisse au greffe est necessaire si on ente sur<br/> un abre qui est desja faict & de bonne grosseur pourceque estant tel<br/> il serre plus le greffe & sil est de jeune bois il est si comprime quil<br/> ne peult profficter Mays le bois vieulx resiste mieulx a la<br/> compression du bois vieulxc_091r_01 <span class="del">que le jeune</span> a cause quil est plus dur que<br/> le jeune @c_091r_02Mays si le greffe est tout de bois vieulx jamays il ne faict<br/> belle mise ains vient caduc & court & long a croistre
+
+ 
+  
+
+## Mouler en <span class="tl"><span class="m">os de <span class="al">seiche</span></span></span>
+
+ 
+Garde bien de ne les tenir <span class="env">en lieu humide</span> car ilz sont<br/> fort subgects a shumecter Si ta medaille est petite couppe l<span class="m">os</span><br/> en deulx puys unis le avec un <span class="tl">costeau</span> Et sur une <span class="tl"><span class="m">tuile</span> a crochet</span><br/> bien seiche & bien unie & couverte de <span class="m">charbon de <span class="pa">saule</span> pulverise</span><br/> frotte & unis les moicties des <span class="tl"><span class="m">os</span></span> Ainsy ilz sabreuvent de ce<br/> <span class="m">charbon de <span class="pa">saule</span></span> qui les faict bien despouiller & garde de rien<br/> enlever Puys sur un <span class="tl">contre os</span> cest a dire un lopin de<br/> <span class="m">brique</span> unye de la grandeur de ton <span class="tl"><span class="m">os</span></span> pose ta medaille & puys<br/> sur icelle pose l<span class="tl"><span class="m">os</span></span> & presse bien avecq quelque aultre piece de<br/> la grandeur par dessus Et pour la seconde fois moule le<br/> mays plustost ponce dessus du <span class="m">charbon de <span class="pa">saule</span></span> & soufle<br/> legerement puys presse co<span class="exp">mm</span>e au paravant Et il viendra net<br/> Si cest pour un manche de cuiller il fault deulx <span class="tl"><span class="m">os</span></span> entiers<br/> Tout ouvrage gecte est aigre & subgect a rompre pourceque<br/> le <span class="m">metal</span> se dilate au gect & se reserre & condense au <span class="tl">marteau</span><br/> Cest pourquoy il fault resuivre la chose gectee avec le <span class="tl">ciselet</span><br/> & en ceste sorte le <span class="m">metal</span> se resserre Laisse le ainsy escrouir<br/> Si la piece a mouler est de grand relief trasse premierem<span class="exp">ent</span> le<br/> <span class="tl">moule</span> & le cave avecq un <span class="tl">trancheplume</span> pour faire voye a la<br/> medaille & puys moule Et si la medaille est a deulx envers
+ 
+> *at left bottom margin*
+> 
+> 
+>  plustost que<br/> geter chaufe<br/> les <span class="tl"><span class="m">os</span></span> affin de<br/> leur faire<br/> perdre seulem<span class="exp">ent</span><br/> la froideur<br/> & humeur
+ 
+> *at left bottom margin*
+> 
+> 
+>  Quand le<br/> <span class="m">plomb</span> chaufe<br/> trop il se<br/> calcine
+ 
+*[continued]*
+ 
+ 
