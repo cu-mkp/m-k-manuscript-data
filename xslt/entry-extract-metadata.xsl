@@ -6,10 +6,10 @@
         <xsl:text>	</xsl:text>
     </xsl:param>
     <xsl:param name="tcnFile">
-        <xsl:text>file:///Users/terry/Github/ms-xml/allFolios/all_tcn.xml</xsl:text>
+        <xsl:text>../allFolios/xml/all_tcn.xml</xsl:text>
     </xsl:param>
     <xsl:param name="tlFile">
-        <xsl:text>file:///Users/terry/Github/ms-xml/allFolios/all_tl.xml</xsl:text>
+        <xsl:text>../allFolios/xml/all_tl.xml</xsl:text>
     </xsl:param>
 
     <xsl:template match="/">
