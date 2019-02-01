@@ -20,14 +20,6 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 007v	p007v_4	Contre gonhorrea	℥				MARK
 007v	p007v_4	Contre gonhorrea	ʒ				MARK
 008v	p008v_2	Or et argent moulu	☿				MARK
-008v	p008v_5	Amalgame parfaict	 ☿				MARK
-008v	p008v_5	Amalgame parfaict	 ☾				MARK
-008v	p008v_5	Amalgame parfaict	 ☼				MARK
-008v	p008v_5	Amalgame parfaict	 ☾				MARK
-008v	p008v_5	Amalgame parfaict	 ♀				MARK
-008v	p008v_5	Amalgame parfaict	 ☾				MARK
-008v	p008v_5	Amalgame parfaict	 ☼				MARK
-008v	p008v_5	Amalgame parfaict	 ♀				MARK
 009v	p009v_3	Brouillart	--				MARK
 009v	p009v_3	Brouillart	--				MARK
 010r	p010r_5	Pouldre dhorloges de sable	℥				MARK
@@ -48,7 +40,7 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 019v	p019v_1	Figures de mathematique sans regle et compas	  	fig_p019v_4	https://drive.google.com/open?id=0B9-oNrvWdlO5TGJOZGVvTmV1LW8		GRAPHIC
 022r	p022r_1		    	fig_p022r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5dWtBam9HWEpiaHc	Un peu trop grande voy celle de qui suictBalle de canon poisant 40 lb ayant 12 lignes pied de roy	GRAPHIC
 022v			   	fig_p022v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5NkNrYkVZTlVnbDQ		GRAPHIC
-022v	p022v_1	Orgues	  	fig_p022v_2	https://drive.google.com/open?id=0B9-oNrvWdlO5RnQ2Ri1PenA1aDA		GRAPHIC
+022v	p022v_1	Orgues		fig_p022v_2	https://drive.google.com/open?id=0B9-oNrvWdlO5RnQ2Ri1PenA1aDA		GRAPHIC
 023r	p023r_1		   	fig_p023r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5RzRNM284T3Q0eTQ		GRAPHIC
 023v	p023r_1		   	fig_p023v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5Tm4ySC1wcUx6Yzg		GRAPHIC
 025r	p024v_1		----------------------------------------				MARK
@@ -59,14 +51,14 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 027r			   	fig_p027r_2	https://drive.google.com/open?id=0B9-oNrvWdlO5cE1VQlVlV2ZWakE	Balle de moyene	GRAPHIC
 027r			    	fig_p027r_3	https://drive.google.com/open?id=0B9-oNrvWdlO5M2Ftb2g0bG1FQ3c	Piece de campagne	GRAPHIC
 027v	p026r_1		    	fig_p027v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5bW1tdUg0czEzTjg	Faulconeau	GRAPHIC
-027v	p026r_1		    	fig_p027v_2	https://drive.google.com/open?id=0B9-oNrvWdlO5OVloUjZocVpuVTg	Faulconeau de 4 quintals autrement passevo lants tire 8 pan s	GRAPHIC
+027v	p026r_1		    	fig_p027v_2	https://drive.google.com/open?id=0B9-oNrvWdlO5OVloUjZocVpuVTg	Faulconeau de 4 quintals autrement passevo lants tire 8 pans	GRAPHIC
 027v	p026r_1		    	fig_p027v_3	https://drive.google.com/open?id=0B9-oNrvWdlO5OGJ5MXhrMVFtVTA	3 quintals tire de long 9 pans	GRAPHIC
 027v	p026r_1		   	fig_p027v_4	https://drive.google.com/open?id=0B9-oNrvWdlO5OWVRTXVjNTljRnM	2 quintals tire de long une cane qui sont 8 pans de monpelier	GRAPHIC
 027v	p026r_1		    	fig_p027v_5	https://drive.google.com/open?id=0B9-oNrvWdlO5T2k5QjJ0ZGtfc1U	1 quintal tire six pans et demy	GRAPHIC
 027v	p026r_1		    	fig_p027v_6	https://drive.google.com/open?id=0B9-oNrvWdlO5WmlyWDktZUhka1E	1 quintal et demy tire 7 pans et demy	GRAPHIC
 027v	p026r_1		    	fig_p027v_7	https://drive.google.com/open?id=0B9-oNrvWdlO5Z3BiOF9jTFlzdzA	mousquet de 60 lb tire 5 pans et demy ou 6	GRAPHIC
 027v	p026r_1		    	fig_p027v_8	https://drive.google.com/open?id=0B9-oNrvWdlO5MVh1MEdHdDZLWmc	5 quintals tire onze pans et demy	GRAPHIC
-028r	p028r_1	La mesure du qualibre des pieces	    	fig_p028r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5eUZXU293VGlmdVU	right-top Le chifre et les poincts demonstrent combien de quintals poise la piece qui porte le qualibre marque	GRAPHIC
+028r	p028r_1	La mesure du qualibre des pieces	  	fig_p028r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5eUZXU293VGlmdVU		GRAPHIC
 028v	p028v_1	Pintiers	+				MARK
 028v	p028v_1	Pintiers	+				MARK
 029v	p029v_6	Sang de dragon	   	fig_p029v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5cXJfWVlSSGlKOGs		GRAPHIC
@@ -105,17 +97,17 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 059r	p059r_1	Ombres	   	fig_p059r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5QWJmbC1RaG8zTGM		GRAPHIC
 060v	p060v_1	Vernis sec en une heure	+				MARK
 060v	p060v_1	Vernis sec en une heure	+				MARK
-061r	p061r_4	Jours	  	fig_p061r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5LVgyaXJ0Rl8wMjA		GRAPHIC
-061r	p061r_4	Jours	  	fig_p061r_2	https://drive.google.com/open?id=0B9-oNrvWdlO5a0g1a0hvTUdHRFE		GRAPHIC
+061r	p061r_4	Jours		fig_p061r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5LVgyaXJ0Rl8wMjA		GRAPHIC
+061r	p061r_4	Jours		fig_p061r_2	https://drive.google.com/open?id=0B9-oNrvWdlO5a0g1a0hvTUdHRFE		GRAPHIC
 062v	p062v_2	Perspective	  	fig_p062v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5ZkRNOG9hZmpMT2M		GRAPHIC
 062v	p062v_2	Perspective	   	fig_p062v_2	https://drive.google.com/open?id=0B9-oNrvWdlO5X0hKa0FueWdjMFk		GRAPHIC
 064v	p064v_2		  	fig_p064v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5NmZDTmZwc1Jqb2M		GRAPHIC
 065r	p065r_1	Umbres	  	fig_p065r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5UFZyOUNKU3pqVXc		GRAPHIC
 065r	p065r_2	Carnation	  	fig_p065r_2	https://drive.google.com/open?id=0B9-oNrvWdlO5eUhrRmdpaWNCZlk		GRAPHIC
-066r	p066r_5	Dorer mouleure de tableaulx dor mat	* 				MARK
-066r	p066r_5	Dorer mouleure de tableaulx dor mat	* 				MARK
 066r	p066r_5	Dorer mouleure de tableaulx dor mat	*				MARK
-066v	p066r_5		* 				MARK
+066r	p066r_5	Dorer mouleure de tableaulx dor mat	*				MARK
+066r	p066r_5	Dorer mouleure de tableaulx dor mat	*				MARK
+066v	p066r_5		*				MARK
 071v	p071v_1	Vernis	℥				MARK
 077r	p077r_2	Medecine des orientaulx contre toutes maladies	  	fig_p077r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5ckxxXzJIeWhnMDg		GRAPHIC
 080r	p080r_3	Fontaines	  	fig_p080r_2	https://drive.google.com/open?id=0B9-oNrvWdlO5c3dLNVNsem9nTjQ		GRAPHIC
@@ -167,10 +159,10 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 100v	p100v_2	Pour ruby prens de lor en foeille	℥				MARK
 101r	p100v_2		℥				MARK
 101r	p100v_2		   	fig_p101r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5dnlodmJvNkRMaWM		GRAPHIC
-102r	p102r_1	Provisions pour loeuvre de colchos	 				MARK
-102r	p102r_1	Provisions pour loeuvre de colchos	 ☿				MARK
+102r	p102r_1	Provisions pour loeuvre de colchos					MARK
+102r	p102r_1	Provisions pour loeuvre de colchos	☿				MARK
 102r	p102r_4	Vaisseaulx de verre	   	fig_p102r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5MVhNYTRzOXJzR2M		GRAPHIC
-102v	p102v_2	Infusion d anthos ou rosmarin	℥				MARK
+102v	p102v_2	Infusion danthos ou rosmarin	℥				MARK
 102v	p102v_3	Gect	  	fig_p102v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5SjZwV0ZHdW93ZEk		GRAPHIC
 104r	p104r_2	Pour graver sur fer	℥				MARK
 104r	p104r_2	Pour graver sur fer	℥				MARK
@@ -180,7 +172,7 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 105r	p105r_4	Jardinier					MARK
 105r	p105r_4	Jardinier	  	fig_p105r_2	https://drive.google.com/open?id=0B9-oNrvWdlO5T1FZYTdOT1U4Qzg		GRAPHIC
 105r	p105r_4	Jardinier	   	fig_p105r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5UWpzdGVweGVvQTg		GRAPHIC
-106r	p106r_2	Faire courre l Or pour gect	+				MARK
+106r	p106r_2	Faire courre lOr pour gect	+				MARK
 106v	p106v_1	Gecter en or	#				MARK
 106v	p106v_1	Gecter en or	#				MARK
 106v	p106v_1	Gecter en or	  	fig_p106v_3	https://drive.google.com/open?id=0B9-oNrvWdlO5Uy11NEVSUG0wTkk		GRAPHIC
@@ -243,19 +235,19 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 122r	p122r_2	Fleur en la bouche du serpent	   	fig_p122r_4	https://drive.google.com/open?id=0B9-oNrvWdlO5elo4VzJZRUppOWc		GRAPHIC
 122v	p122v_3	Mouler medailles et choses plattes	  	fig_p122v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5aTlRdkx2eVdtZXM		GRAPHIC
 122v	p122v_3	Mouler medailles et choses plattes	  	fig_p122v_2	https://drive.google.com/open?id=0B9-oNrvWdlO5WFBpaEV5Ti1hRUU		GRAPHIC
-123r	p123r_1	Moyen di far correr lotnegra	℥				MARK
-123r	p123r_1	Moyen di far correr lotnegra	℥				MARK
-123r	p123r_1	Moyen di far correr lotnegra	℥				MARK
-123r	p123r_1	Moyen di far correr lotnegra	℥				MARK
-123r	p123r_1	Moyen di far correr lotnegra	℥				MARK
-123r	p123r_1	Moyen di far correr lotnegra	℥				MARK
-123r	p123r_1	Moyen di far correr lotnegra	℥				MARK
-123r	p123r_1	Moyen di far correr lotnegra	℥				MARK
-123r	p123r_1	Moyen di far correr lotnegra	℥				MARK
-123r	p123r_1	Moyen di far correr lotnegra	℥				MARK
-123r	p123r_1	Moyen di far correr lotnegra	℥				MARK
-123r	p123r_1	Moyen di far correr lotnegra	℥				MARK
-123r	p123r_1	Moyen di far correr lotnegra	℥				MARK
+123r	p123r_1	Moyen di far correr lotnegrac_123r_01	℥				MARK
+123r	p123r_1	Moyen di far correr lotnegrac_123r_01	℥				MARK
+123r	p123r_1	Moyen di far correr lotnegrac_123r_01	℥				MARK
+123r	p123r_1	Moyen di far correr lotnegrac_123r_01	℥				MARK
+123r	p123r_1	Moyen di far correr lotnegrac_123r_01	℥				MARK
+123r	p123r_1	Moyen di far correr lotnegrac_123r_01	℥				MARK
+123r	p123r_1	Moyen di far correr lotnegrac_123r_01	℥				MARK
+123r	p123r_1	Moyen di far correr lotnegrac_123r_01	℥				MARK
+123r	p123r_1	Moyen di far correr lotnegrac_123r_01	℥				MARK
+123r	p123r_1	Moyen di far correr lotnegrac_123r_01	℥				MARK
+123r	p123r_1	Moyen di far correr lotnegrac_123r_01	℥				MARK
+123r	p123r_1	Moyen di far correr lotnegrac_123r_01	℥				MARK
+123r	p123r_1	Moyen di far correr lotnegrac_123r_01	℥				MARK
 124v	p124v_3	Moyen de fayre le gect pour petites lezardes	  	fig_p124v_2	https://drive.google.com/open?id=0B9-oNrvWdlO5dWU4UEtpX0hBV0k		GRAPHIC
 124v	p124v_3	Moyen de fayre le gect pour petites lezardes	  	fig_p124v_3	https://drive.google.com/open?id=0B9-oNrvWdlO5STY2ZEpOSXFVWXc		GRAPHIC
 124v	p124v_3	Moyen de fayre le gect pour petites lezardes	   	fig_p124v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5aGQ0OTFCTklrQ0k		GRAPHIC
@@ -304,16 +296,16 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 144v	p144r_1		   	fig_p144v_2	https://drive.google.com/open?id=0B9-oNrvWdlO5SlhGM2FYLUUteXc		GRAPHIC
 144v	p144r_1		+				MARK
 145r	p145r_1	Gecter en trois chassis	  	fig_p145r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5MXRaSldvRzY2UTg		GRAPHIC
-145r	p145r_2	Os de seiche	  	fig_p145r_2	https://drive.google.com/file/d/1-NGCS8NDm7NI4xFQ9ZF058I9vEhQRBuQ/view?usp=sharing		GRAPHIC
+145r	p145r_2	Os de seiche		fig_p145r_2	https://drive.google.com/file/d/1-NGCS8NDm7NI4xFQ9ZF058I9vEhQRBuQ/view?usp=sharing		GRAPHIC
 145v	p145v_1	Mouler herbes et fleurs	   	fig_p145v_2	https://drive.google.com/open?id=0B9-oNrvWdlO5b1FOQ1Z5b1J3TWc		GRAPHIC
 145v	p145v_2	fleurs	+				MARK
 146v	p146v_1	Mouler tortues	#				MARK
 146v	p146v_1	Mouler tortues	   	fig_p146v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5bUk2c1E3LWtOTDA		GRAPHIC
 146v	p146v_1	Mouler tortues	   	fig_p146v_2	https://drive.google.com/open?id=0B9-oNrvWdlO5WGEzek5peHJ6VDA		GRAPHIC
-147v	p147v_1	+ Gect de cuivre allie de ☾ qui est comme soubdure fort basse / ard et vieulx K et quelque R sur xii	+				MARK
-147v	p147v_1	+ Gect de cuivre allie de ☾ qui est comme soubdure fort basse / ard et vieulx K et quelque R sur xii	☾				MARK
-147v	p147v_1	+ Gect de cuivre allie de ☾ qui est comme soubdure fort basse / ard et vieulx K et quelque R sur xii	/				MARK
-147v	p147v_1	+ Gect de cuivre allie de ☾ qui est comme soubdure fort basse / ard et vieulx K et quelque R sur xii	☾				MARK
+147v	p147v_1	+ Gect de cuivre allie de ☾ qui est comme soubdure fort basse / ardc_147v_01 et vieulx K et quelque Rc_147v_01 sur xii	+				MARK
+147v	p147v_1	+ Gect de cuivre allie de ☾ qui est comme soubdure fort basse / ardc_147v_01 et vieulx K et quelque Rc_147v_01 sur xii	☾				MARK
+147v	p147v_1	+ Gect de cuivre allie de ☾ qui est comme soubdure fort basse / ardc_147v_01 et vieulx K et quelque Rc_147v_01 sur xii	/				MARK
+147v	p147v_1	+ Gect de cuivre allie de ☾ qui est comme soubdure fort basse / ardc_147v_01 et vieulx K et quelque Rc_147v_01 sur xii	☾				MARK
 150r	p150r_2	Ligues diverses destain et plomb	℥				MARK
 150r	p150r_2	Ligues diverses destain et plomb	℥				MARK
 150v	p150v_1	Mouler creux	  	fig_p150v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5eVVJSjUwSFhpUzg		GRAPHIC
@@ -334,13 +326,13 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 155r	p155r_1	Mouler une rose	   	fig_p155r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5b3lFZ18wbGducEk		GRAPHIC
 156v	p156v_1	Mouler une mousche	  	fig_p156v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5VjFPeWlJc05CbDQ		GRAPHIC
 156v	p156v_1	Mouler une mousche	+				MARK
-158r	p158r_1	Mercure dans les moules a nettoyer	☿				MARK
-158r	p158r_1	Mercure dans les moules a nettoyer	☿				MARK
-158r	p158r_1	Mercure dans les moules a nettoyer	☿				MARK
-158r	p158r_1	Mercure dans les moules a nettoyer	☿				MARK
-158r	p158r_1	Mercure dans les moules a nettoyer	☿				MARK
-158r	p158r_1	Mercure dans les moules a nettoyer	☿				MARK
-158r	p158r_1	Mercure dans les moules a nettoyer	☿				MARK
+158r	p158r_1	C_158r_01Mercure dans les moules a nettoyer	☿				MARK
+158r	p158r_1	C_158r_01Mercure dans les moules a nettoyer	☿				MARK
+158r	p158r_1	C_158r_01Mercure dans les moules a nettoyer	☿				MARK
+158r	p158r_1	C_158r_01Mercure dans les moules a nettoyer	☿				MARK
+158r	p158r_1	C_158r_01Mercure dans les moules a nettoyer	☿				MARK
+158r	p158r_1	C_158r_01Mercure dans les moules a nettoyer	☿				MARK
+158r	p158r_1	C_158r_01Mercure dans les moules a nettoyer	☿				MARK
 159v	p159v_2	Oeillet	   	fig_p159v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5LXNkdWdBLXZ1RVk		GRAPHIC
 160r	p160r_1	Presse pour les grands moules	  	fig_p160r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5ZDNJT25PWjlUbGM		GRAPHIC
 160r	p160r_1	Presse pour les grands moules	   	fig_p160r_2	https://drive.google.com/open?id=0B9-oNrvWdlO5MEUzMjhxUVl1ZTA		GRAPHIC
