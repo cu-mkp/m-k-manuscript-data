@@ -127,7 +127,6 @@
 9|cloth
 9|carton
 9|Gold
-8|soft tin
 8|smoke
 8|slate
 8|sandarac
@@ -148,6 +147,7 @@
 8|Crocum ferri
 7|sublimate
 7|soot black
+7|soft tin
 7|pebbles
 7|melted silver
 7|melted butter
@@ -335,6 +335,7 @@
 3|egg white
 3|dust
 3|dry mortar
+3|doux tin
 3|doulx iron
 3|cristallin
 3|copper filings
@@ -510,7 +511,6 @@
 2|earthenware
 2|dyed
 2|down
-2|doux tin
 2|doux iron
 2|dough
 2|dog skin

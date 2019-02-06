@@ -1,23 +1,22 @@
 30|jours
 27|jour
 20|heures
-12|heure
+13|heure
 9|nuict
+8|moys
 8|long temps
-6|moys
+6|lhiver
 5|tout lan
 5|nuit
-5|lhiver
+5|leste
 5|lendemain
 5|de nuict
 4|quart dheure
-4|leste
 4|ans
 3|tous les ans
+3|sepmaines
 3|matin
 3|hora
-3|hiver
-3|este
 3|espace de quinze jours
 3|demye heure
 3|Jours
@@ -27,7 +26,6 @@
 2|tous les jours
 2|soir
 2|serain
-2|sepmaines
 2|saison
 2|plusieurs jours
 2|moys de may
@@ -35,12 +33,14 @@
 2|lendemain matin
 2|la nuict
 2|heure &amp; demye
+2|este
 2|en este
 2|aujourdhuy
 2|an
 2|11e de septembre 1581
 1|vers la sepmaine saincte
 1|vers la saint Jehan
+1|vers la Sainct Jehan
 1|une ou demye heure
 1|une foys le moys
 1|une foys la sepmaine
@@ -71,6 +71,7 @@
 1|premier jour
 1|pauses
 1|par lespace de vingt quatre heures
+1|ordinairement par intervalle de jour &amp; de nuit
 1|nuicts
 1|moys de juing &amp; juillet
 1|mois
@@ -96,8 +97,8 @@
 1|jour de Saint paul
 1|jour au lendemain
 1|jeudy
-1|hyver
 1|hors de saison quand lhiver desnie des fleurs
+1|hiver
 1|gelee
 1|fort long temps
 1|fin de la lune
@@ -114,10 +115,12 @@
 1|en heure
 1|en automne
 1|du temps passe
+1|diverse foys Mays continue quand tu as commance
 1|devant la sainct Michel
 1|deulx foys le jour
 1|despuys leur naissance jusques au leur temps quilz font leur coquons &amp; leur prison
 1|despuys la toussaints jusques a Noël
+1|despuys la sainct Jehan jusques au 25 dapvril
 1|despuys la my may
 1|de trois jours en trois jours
 1|de nuict ou en temps de Silence
@@ -131,6 +134,7 @@
 1|bonnes heures
 1|bonne heure
 1|bon matin
+1|bon espace de temps
 1|avecq le temps
 1|au soir
 1|au matin
@@ -149,6 +153,8 @@
 1|a divers jours
 1|Vers la pentecoste
 1|Mars
+1|Lhiver
+1|En hyver
 1|Chasque matin
 1|Au printemps
 1|Au moys de Janvier

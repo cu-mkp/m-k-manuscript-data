@@ -27,15 +27,14 @@
 5|oiseau
 4|vache
 4|pourceau
+4|porceau
 4|mousche
 4|loup
 4|lesardes
 4|crapault
 4|chancres
-3|vipere
 3|rats
 3|poulet
-3|porceau
 3|porc
 3|pigeon
 3|papillon
@@ -46,6 +45,7 @@
 3|Rossignol
 3|Oyseaulx
 3|Celles deau
+2|vipere
 2|saulterelles
 2|rossignols
 2|poissons
@@ -64,6 +64,7 @@
 2|cerf volant
 2|celles deau
 2|calendres
+2|bœufs
 2|butor
 2|Tortues
 2|Serpens
@@ -72,6 +73,7 @@
 2|Crapault
 1|yraignes
 1|yraigne
+1|vers de soye femelle
 1|vers de farine
 1|verdaule
 1|ver de farine
@@ -98,6 +100,7 @@
 1|pincons
 1|petitses lezardes
 1|petites lesardes
+1|petite vipere
 1|petite souris
 1|petite grenoille
 1|petite angroisse
@@ -108,6 +111,7 @@
 1|oisillons
 1|oiseau massif
 1|mulots
+1|mulets
 1|moutton
 1|moulue
 1|moules
@@ -155,7 +159,6 @@
 1|calendre
 1|calandres
 1|calandre
-1|bœufs
 1|brebis
 1|bouc
 1|bons chevaulx
@@ -182,7 +185,6 @@
 1|Papillons
 1|Oysillons
 1|Oiseaulx
-1|Moules
 1|Lesards
 1|Escargots
 1|Chiens

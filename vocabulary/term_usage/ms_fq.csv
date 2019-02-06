@@ -1,39 +1,41 @@
-114|lb
-60|℥
+120|lb
+61|℥
 47|moictie
 34|once
 27|quintal
 26|jours
 23|quintals
-23|pans
 23|onces
+22|pans
 21|heures
 17|jour
+17|doigts
 16|pas
-16|doigts
 14|partye
 14|heure
 10|sols
-9|pan
+10|pan
 9|grains
+9|doigt
+9|balles
 8|deniers
 7|pars
 7|moys
-7|doigt
+7|ligne
 6|nuict
+6|demy lb
 6|aultant dun que daultre
 5|quart
-5|ligne
-5|demy lb
 4|unces
 4|quart dheure
 4|pied
 4|livres
+4|lignes
 4|goutte
 4|fois le jour
 4|douzaine
+4|demy once
 4|carte
-4|aulne
 3|tous les ans
 3|poix
 3|pieds
@@ -41,13 +43,14 @@
 3|parties
 3|pan de montpellier
 3|lien
+3|lanternes
 3|hora
 3|espace de quinze jours
+3|empan
 3|dragmes
 3|douzaines
 3|demy sestier
-3|demy once
-3|demy
+3|aulne
 3|Jours
 2|un bon quart dheure
 2|travers de doigt
@@ -74,12 +77,13 @@
 2|lhyver
 2|lhiver
 2|leste
-2|lanternes
+2|lanterne
+2|jusques a lescusson
 2|heure &amp; demye
+2|haulteur dun homme
 2|grosseur dune febve
 2|gros
 2|goute
-2|gabions
 2|demye ℥
 2|demye heure
 2|demy ℥
@@ -120,12 +124,15 @@
 1|tables
 1|t.
 1|sols le denier
+1|sols despaigne
+1|sols de france
 1|six fois autant
 1|si petites distances comme celles des petites roues
 1|sepmaine
 1|seconde annee
 1|seau en heure
 1|saulmon
+1|realles
 1|quintalz
 1|quintals &amp; demy
 1|quintal &amp; demy
@@ -157,7 +164,6 @@
 1|plusieurs foys chasque jour
 1|plus gros
 1|plume dholande
-1|plume de cigne
 1|pleine escuelle a oreille
 1|plats
 1|pinte
@@ -167,15 +173,18 @@
 1|petite joinctee
 1|petit dos de costeau
 1|pauses
+1|partie dune balle
 1|part
 1|par moictie
 1|par lespace de vingt quatre heures
+1|pans de monpelier
 1|paniers
 1|panier
 1|palles
 1|nuit
 1|moitie
 1|moictie du jour
+1|moictie de son espesseur
 1|milieu de la foeille
 1|meza onca
 1|matin
@@ -186,7 +195,6 @@
 1|long
 1|livre
 1|lignes pied de roy
-1|lignes
 1|lieux
 1|lieue
 1|liards
@@ -195,26 +203,26 @@
 1|lespace dung Jour
 1|le soir dans un bon foeu jusques au matin
 1|le poix dun grain
+1|lbc_095r_01 la douzaine
 1|lb t.
 1|lb selon lordonnance du roy pour quintal
 1|lb pour quintal
-1|lb la douzaine
 1|lb &amp; demye ou deulx
 1|lb &amp; demye
 1|lattes
 1|largeur de dix b pailles
 1|large de ii ou trois doitgs
 1|large aultant que tu vouldras faire longue une cartuche
-1|lanterne
 1|la sixiesme partye
+1|la largeur de deulx gabions
 1|la grosseur dune noix
 1|la grosseur dune avelane avecq sa coquille
 1|jusques au commancement daougst
-1|jusques a lescusson
 1|jusques a la sepmaine saincte
 1|jusques a ce que tu puisses tenir le bout du doigt dans le gect sans te brusler
 1|journee
 1|jour naturel
+1|joincture du petit doigt
 1|joinctees
 1|joinctee
 1|infusions
@@ -232,13 +240,13 @@
 1|gros comme fisselle de moingdre
 1|grandeur dun pot doeillets
 1|grandeur dun oeuf de pigeon
+1|grand comme la grosseur dune plume de cigne
 1|grand chaulderon de ladicte eau de riviere
 1|grains comme pois
 1|grain
 1|gouttes
 1|goutes
 1|froidir de telle sorte que je pouvois tenir le doigt sans me brusler
-1|fort comme de grands livres imprimes
 1|floquets
 1|espoisseur de trois balles a la culasse &amp; au devant de deulx balles
 1|espoisse dun verre poulce
@@ -271,10 +279,9 @@
 1|escuelle de terre ou les paysans mangent leurs souppes
 1|en la capacite dun des boisseaulx
 1|en bonne quantite
-1|empan
 1|elle faict de grands traicts se retirants aulx borts &amp; non meus
 1|doze
-1|douziesme partye
+1|douziesme partye de la balle du canon
 1|dour
 1|dose
 1|dos dun costeau
@@ -301,6 +308,7 @@
 1|demy lieue
 1|demy lanterne
 1|demy balle dharquebus
+1|demy
 1|delie p comme grosse corde despinette pour les petits ouvrages
 1|degre de chaleur
 1|de telle largeur que deulx pointes de doigt
@@ -328,12 +336,12 @@
 1|carolus
 1|carats
 1|caques
+1|capacite dune buye ou broc de terre
 1|canes
 1|bras
 1|bons doigts
 1|bonnes heures
 1|bon matin
-1|balles
 1|autant dun que daultre
 1|aussy longue
 1|aussy gros quune febve
@@ -352,6 +360,7 @@
 1|aultant de fiente de pigeon que de ladicte terre
 1|aultant de fiante de cheval
 1|aultant de caillou blanc calcine
+1|aulne de paris
 1|au bout de la table
 1|asses chault comme quand on en tire le pain
 1|apres que le pain est tire
@@ -360,6 +369,8 @@
 1|an suivant
 1|an
 1|aiguillee
+1|Quand il sautille
+1|Lanterne
 1|Jour
 1|Essaye pour cet effect avecq du papier sil roussist le papier cest asses il est bon a gecter mays sil noircist le papier il est trop chault
 1|Carte
