@@ -9,16 +9,16 @@
 6|boutique
 5|vent
 5|maisons
+5|lieu humide
 5|garrigue
 4|lieu sec
-4|lieu humide
 4|grottes
-4|en lieu humide
 4|au serain
 3|mer
 3|grotte
 3|froid
 3|fenestre
+3|en lieu humide
 3|chambre
 3|a lombre
 2|villes
@@ -31,7 +31,6 @@
 2|pluyes
 2|pluye
 2|murailles
-2|maison
 2|lieu descouvert
 2|jour
 2|jardins
@@ -62,6 +61,7 @@
 1|tonnerre ou temps pluvieulx couvert &amp; frais
 1|terriers
 1|terrier
+1|terre maigre
 1|temps serain &amp; s bien sec
 1|temps sec
 1|temps se porte chault &amp; serain
@@ -85,6 +85,7 @@
 1|pres des rochers aulx pays montueulx
 1|pres de mon sol
 1|pres de leur demeure
+1|pres de la maison
 1|porte percee dune chambre fermee
 1|pierrieres qu grisastres
 1|pierriere
@@ -94,7 +95,6 @@
 1|petites villates
 1|pays
 1|paroy des chambres
-1|pailles
 1|ou le fonds de la terre est si fertil
 1|nuit soict obscure &amp; ne fasse point de ☾
 1|nature
@@ -104,14 +104,17 @@
 1|mines
 1|mine de Thoulouse
 1|maysons particulieres
+1|mayson particuliere
 1|mayson
 1|maison ou ailleurs
+1|maison
 1|lumiere du foeu
 1|lieux humides
 1|lieu ou la flamme ne puisse porter domaige
 1|lieu mouille &amp; humide
 1|lieu humide ne enclos
 1|lieu clos
+1|lieu chault &amp; serre
 1|licts
 1|la premiere pluye
 1|jugement
@@ -137,7 +140,6 @@
 1|en un champ &amp; en celuy qui est proche
 1|en tout temps
 1|en terre maigre &amp; seche
-1|en terre maigre
 1|en terre
 1|en temps humide
 1|en temps de pluye
@@ -182,11 +184,14 @@
 1|bas en terre
 1|barricade
 1|aulx territoires maigres
+1|aulx pailles
 1|aulx environs de toutes les bonnes villes
 1|aulx champs
 1|au soleil bien fort &amp; au serain
 1|au profond de la sablonniere
 1|au plus chault soleil
+1|au planche ou lair ou&amp; le soleil le deseche
+1|au pied dune muraille
 1|au froict
 1|au foeu
 1|au feu
