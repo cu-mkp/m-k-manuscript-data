@@ -4,7 +4,7 @@
         <xsl:import href="strip_tags.xsl"/>
         <xsl:output encoding="UTF-8" method="xml"/>
         <xsl:template match="/">
-            <xsl:apply-templates select="//div[child::id]"/>
+            <xsl:apply-templates select="//div[child::id][not(descendant::cont)]"/>
         </xsl:template>
         <xsl:template match="div">
             <xsl:variable name="div-id" select="concat('p', preceding::page[1], '_', position())"/>
