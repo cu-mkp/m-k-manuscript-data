@@ -7,8 +7,9 @@
             <xsl:apply-templates select="//div[child::id]"/>
         </xsl:template>
         <xsl:template match="div">
-            <xsl:variable name="div-id" select="concat(child::id[1], '-', generate-id())"/>
-            <xsl:result-document encoding="utf-8" method="text" href="entries/{$div-id}_tl.txt">
+            <xsl:variable name="div-id" select="concat('p', preceding::page[1], '_', position())"/>
+            <xsl:message select="$div-id"/>
+            <xsl:result-document encoding="utf-8" method="text" href="../entries/tl/{$div-id}_tl.txt">
                <xsl:apply-imports/>
             </xsl:result-document>
         </xsl:template>
