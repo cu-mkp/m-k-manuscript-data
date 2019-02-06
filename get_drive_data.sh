@@ -24,7 +24,7 @@ RCLONE_CONFIG_FILE=/Users/$USER/.config/rclone/rclone.conf
 for VERSION in tc tcn tl
 
 do	       
-# Loop over all downloaded DOCX files by version	       
+# Loop over all downloaded DOCX files by version
     for DOCX_PATH in `find TEMP -name '*.docx' | grep "$VERSION"_ `
 	    
     do
