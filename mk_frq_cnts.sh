@@ -10,9 +10,9 @@ do
 XPATH="//$ELEMENT"
 echo $ELEMENT
 # xml sel -t -m '//cn' -n  -v .  *.xml | sort | uniq -c | sort -nr
-xml sel -t -m "$XPATH" -n -v 'normalize-space(.)' ms-xml/tc/*.xml | sort | uniq -c | sort -nr | tr -s ' ' ' ' | cut -d' ' -f 2- | sed 's/ /|/1' > term_usage/"$ELEMENT"_fq.csv 
+xml sel -t -m "$XPATH" -n -v 'normalize-space(.)' ms-xml/tc/*.xml | sort | uniq -c | sort -nr | tr -s ' ' ' ' | cut -d' ' -f 2- | sed 's/ /|/1' > vocabulary/term_usage/"$ELEMENT"_fq.csv 
 
-wc -l term_usage/"$ELEMENT"_fq.csv >> term_usage/term_cnts.txt
+wc -l vocabulary/term_usage/"$ELEMENT"_fq.csv >> vocabulary/term_usage/term_cnts.txt
 
 done
 
