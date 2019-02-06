@@ -4,11 +4,11 @@
         <xsl:import href="strip_tags.xsl"/>
         <xsl:output encoding="UTF-8" method="xml"/>
         <xsl:template match="/">
-            <xsl:apply-templates select="//div"/>
+            <xsl:apply-templates select="//div[child::id]"/>
         </xsl:template>
         <xsl:template match="div">
-            <xsl:variable name="div-id" select="child::id[1]"/>
-            <xsl:result-document encoding="utf-8" method="text" href="entries/{$div-id}.txt">
+            <xsl:variable name="div-id" select="concat(child::id[1], '-', generate-id())"/>
+            <xsl:result-document encoding="utf-8" method="text" href="entries/{$div-id}_tl.txt">
                <xsl:apply-imports/>
             </xsl:result-document>
         </xsl:template>
