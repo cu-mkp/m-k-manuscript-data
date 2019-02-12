@@ -274,7 +274,7 @@
 
   <define name="e.render">
     <a:documentation>Margin rendition: . Instructions to cue the proper rendition of the height and width  a margin block. Valid values are: "tall", "wide", and "extra-wide"</a:documentation>
-    <element name="margin">
+    <element name="render">
       <optional>
         <choice>
           <value>tall</value>
