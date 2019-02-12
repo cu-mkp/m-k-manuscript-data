@@ -106,6 +106,15 @@
     </element>
   </define>
 
+<!-- mark -->
+
+<define name="e.mark">
+  <a:documentation>Mark: a symbol in the source text represented in the transcription by a utf-8 character</a:documentation>
+  <element name="mark">
+    <data type="string"/>
+  </element>
+</define>
+
   <!-- head -->
   <define name="e.head">
     <a:documentation>Heading: a block of text at the beginning of a textual division functioning as the heading or title of that division. TEI Element</a:documentation>
@@ -460,6 +469,7 @@
         <ref name="e.df"/>
         <ref name="e.env"/>
         <ref name="e.figure"/>
+        <ref name="e.mark"/>
         <ref name="e.fr"/>
         <ref name="e.it"/>
         <ref name="e.ill"/>
