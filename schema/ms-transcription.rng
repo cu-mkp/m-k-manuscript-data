@@ -40,6 +40,9 @@
       <optional>
         <ref name="e.margin"/>
       </optional>
+      <optional>
+        <ref name="e.render"/>
+      </optional>
       <ref name="m.phrase"/>
       <optional>
         <ref name="e.cont"/>
@@ -84,6 +87,9 @@
       </optional>
       <optional>
         <ref name="e.margin"/>
+      </optional>
+      <optional>
+        <ref name="e.render"/>
       </optional>
       <optional>
         <element name="link">
@@ -265,6 +271,20 @@
       </optional>
     </element>
   </define>
+
+  <define name="e.render">
+    <a:documentation>Margin rendition: . Instructions to cue the proper rendition of the height and width  a margin block. Valid values are: "tall", "wide", and "extra-wide"</a:documentation>
+    <element name="margin">
+      <optional>
+        <choice>
+          <value>tall</value>
+          <value>wide</value>
+          <value>extra-wide</value>
+        </choice>
+      </optional>
+    </element>
+  </define>
+
 
   <define name="e.cont">
     <a:documentation>Continued: An empty element indicating that the parent block is continued on another page or continues from another page </a:documentation>
