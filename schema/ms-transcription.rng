@@ -448,7 +448,7 @@
 
   <!-- COMMENTS -->
 <define name="e.comment">
-  <element name="element">
+  <element name="comment">
     <data type="string"/>
   </element>
 </define>
