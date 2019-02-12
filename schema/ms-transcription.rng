@@ -437,6 +437,12 @@
     </element>
   </define>
 
+  <!-- COMMENTS -->
+<define name="e.comment">
+  <element name="element">
+    <data type="string"/>
+  </element>
+</define>
 
   <!-- PHRASE MODEL -->
 
@@ -481,6 +487,7 @@
         <ref name="e.exp"/>
         <ref name="e.x"/>
         <ref name="e.unc"/>
+        <ref name="e.comment"/>
       </choice>
     </oneOrMore>
   </define>
