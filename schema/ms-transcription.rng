@@ -17,6 +17,7 @@
             <!--          <text/> -->
             <ref name="e.ab"/>
             <ref name="e.figure"/>
+            <ref name="e.mark"/>
             <ref name="e.div"/>
           </choice>
         </oneOrMore>
