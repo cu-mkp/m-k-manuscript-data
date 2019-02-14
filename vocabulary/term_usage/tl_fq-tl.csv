@@ -1,5 +1,5 @@
 334|mold
-130|molds
+131|molds
 65|crucible
 56|frame
 48|pinceau
@@ -57,6 +57,7 @@
 8|plate
 8|linen
 8|hands
+8|carton
 8|ball
 7|wheel
 7|tooth
@@ -71,7 +72,6 @@
 7|double sieve
 7|chisel
 7|cauldron
-7|carton
 7|brush
 6|string
 6|screw
@@ -603,8 +603,6 @@
 1|mustard mill
 1|moulet
 1|moule
-1|moulds
-1|mould of earth
 1|mortar of wood
 1|mortar of thick glass
 1|mortar of glass
@@ -620,6 +618,7 @@
 1|mold à noyau
 1|mold which is of white plaster
 1|mold of plaster
+1|mold of earth
 1|mold made of canvas
 1|model of paper
 1|mirrors
@@ -747,7 +746,7 @@
 1|green cloth
 1|gratteau
 1|grateau
-1|grais mould
+1|grais mold
 1|grain
 1|gouge
 1|good tile
@@ -903,7 +902,6 @@
 1|case of iron or metal
 1|case
 1|cartons
-1|cardboard
 1|cane
 1|candlestick
 1|calibre

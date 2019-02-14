@@ -13,15 +13,15 @@
 81|glass
 79|earth
 74|plaster
+68|eau-de-vie
 63|varnish
-60|powder
+61|powder
 60|clay
 59|latten
 50|marble
 50|charcoal
 49|vinegar
 45|solder
-42|eau-de-vie
 41|sal ammoniac
 36|ceruse
 34|iron wire
@@ -31,8 +31,8 @@
 32|wine
 32|turpentine
 32|glue
+31|alum de plume
 30|brick
-30|alum de plume
 29|crocum
 28|stone
 28|lead white
@@ -58,11 +58,11 @@
 20|oiled
 20|mastic
 20|lute
-20|eau de vye
 20|canvas
 19|rosette
 19|gum
 19|cotton
+19|aquafortis
 19|alum
 18|wheat oil
 18|walnut oil
@@ -85,7 +85,6 @@
 14|straw
 14|calamine
 14|borax
-14|aquafortis
 14|antimony
 13|wooden
 13|gild
@@ -100,6 +99,7 @@
 11|tartar
 11|olive oil
 11|grain
+11|glair of egg
 11|Latten
 10|vermilion
 10|velvet
@@ -111,6 +111,7 @@
 10|glair
 10|common salt
 10|cold water
+10|carton
 10|azur d’esmail
 10|amber
 10|Plaster
@@ -125,7 +126,6 @@
 9|fine lead
 9|earthen
 9|cloth
-9|carton
 9|Gold
 8|smoke
 8|slate
@@ -142,7 +142,6 @@
 8|boxwood
 8|arsenic
 8|arene
-8|aqua fortis
 8|Tin
 8|Crocum ferri
 7|sublimate
@@ -213,8 +212,6 @@
 5|hair
 5|emery
 5|egg yolks
-5|egg glair
-5|eau de vie
 5|dragon's blood
 5|copperas
 5|colle forte
@@ -228,6 +225,7 @@
 5|Silver
 5|Lute
 5|Lead white
+5|Eau-de-vie
 4|☼
 4|yellow ochre
 4|white paper
@@ -257,6 +255,7 @@
 4|hairs
 4|great metals
 4|grais
+4|good eau-de-vie
 4|glues
 4|garlic
 4|fatty oil
@@ -322,7 +321,6 @@
 3|hot ashes
 3|gummed water
 3|grease
-3|good eau-de-vie
 3|glass pane
 3|gilded
 3|gemstones
@@ -332,7 +330,6 @@
 3|feather
 3|fat sand
 3|essence
-3|egg white
 3|dust
 3|dry mortar
 3|doux tin
@@ -343,13 +340,13 @@
 3|coarse salt
 3|coals
 3|clear turpentine
-3|cardboard
 3|burned felt
 3|bullitoyre
 3|black
-3|beaten egg glair
+3|beaten glair of egg
 3|asphaltum
 3|arquebus powder
+3|aqua fortis
 3|alun de glace
 3|air
 3|White wax
@@ -365,7 +362,6 @@
 3|Looking-glass tin
 3|Iron wire
 3|Florence lake
-3|Eau-de-vie
 3|Distemper
 3|Ceruse
 3|Black varnish
@@ -483,7 +479,6 @@
 2|gold color
 2|glueing
 2|glue very clear
-2|glair of the egg
 2|garlic juice
 2|galipot
 2|fresil
@@ -531,7 +526,9 @@
 2|cinnamon
 2|cinnabar
 2|chimolee
+2|cartons
 2|cart nails
+2|cardboard
 2|candle smoke
 2|cambric
 2|calcined slate
@@ -573,6 +570,7 @@
 2|Sandever
 2|Sand from a mine
 2|Sal ammoniac water
+2|Rouge clair
 2|Rosette
 2|Potin
 2|Plate glass
@@ -677,7 +675,8 @@
 1|well-ground raw plaster
 1|well-ground iron scales
 1|well-ground ceruse
-1|well-beaten eggs’ glair
+1|well-beaten glair of eggs
+1|well-beaten glair of egg
 1|well water
 1|well pulverized tallow
 1|well ground ceruse
@@ -686,7 +685,6 @@
 1|well chopped lettuces
 1|well burned bone of oxen feet
 1|well beaten saffron
-1|well beaten egg glair
 1|weld
 1|waxed paper
 1|wax, melted
@@ -700,7 +698,7 @@
 1|water of sublimate
 1|water of sal ammoniac among the common
 1|water of ret colle de retailles
-1|water of egg glair
+1|water of glair of egg
 1|water of bullitoyre
 1|water moderately salty
 1|water from a honey beehive
@@ -745,7 +743,7 @@
 1|varnishVenice turpentine
 1|varnish of spike lavender oil
 1|varnish of sandarac, spike lavender oil, and a little mastic
-1|vapor of aqua fortis
+1|vapor of aquafortis
 1|untempered steel
 1|unleaded
 1|typesc_070v_01 for the setting of letters
@@ -1403,7 +1401,6 @@
 1|good great grain powder
 1|good fountain or river water
 1|good filings
-1|good eau de vye
 1|good chalk, quite white, well ground
 1|good calf skin
 1|good buttered toast
@@ -1425,7 +1422,7 @@
 1|glue de retailles
 1|glowing charcoal
 1|glass-looking tin
-1|glair of egg
+1|glair of egg passed through a sponge
 1|glair of dried egg
 1|gip of lateribusc_161r_01
 1|gip mat
@@ -1532,7 +1529,6 @@
 1|eggshell
 1|eggs, divide them in half &amp; take the yolk out, &amp; between the two halves of the white
 1|egg oil whites
-1|egg glair passed through a sponge
 1|eau panée
 1|earthworms
 1|earths
@@ -1608,7 +1604,7 @@
 1|common glass sand, however cristallin
 1|common glass
 1|common fountain water
-1|common eau de vie
+1|common eau-de-vie
 1|common earth
 1|common charcoal
 1|common carton
@@ -1676,7 +1672,6 @@
 1|cay
 1|cat skin
 1|cast iron
-1|cartons
 1|cart flint stones
 1|cards
 1|caput mortuum
@@ -1814,8 +1809,8 @@
 1|archal wire
 1|arabic
 1|aquamarines
+1|aquafortis of vitriol
 1|aqua regia
-1|aqua fortis of vitriol
 1|aqua dfortis
 1|any other vapor
 1|ants with soil
@@ -1830,7 +1825,6 @@
 1|amalgam
 1|alumine jameni
 1|alum de plume reheated
-1|alum de plum
 1|almonds
 1|almond oil
 1|almond
@@ -1909,8 +1903,6 @@
 1|Saffron
 1|Rye straw ashes
 1|Royal cement
-1|Rouge cler
-1|Rouge clair
 1|Rotten wood
 1|Rock salt
 1|Rock
@@ -2003,8 +1995,6 @@
 1|Enamels
 1|Emeralds of Brissac
 1|Eau magistra
-1|Eau de vye
-1|Eau de vie
 1|Eau Magistra
 1|Earwax
 1|Earth for casting, for founders
@@ -2019,8 +2009,8 @@
 1|Cristallin
 1|Crimson
 1|Crayfish
+1|Counterfeitc_003r_02 diamonds put in a work
 1|Counterfeit jasper
-1|Counterfeit diamonds put in a work
 1|Counterfeit coral
 1|Couleur
 1|Compactile ferrum
