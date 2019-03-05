@@ -17,6 +17,7 @@
             <!--          <text/> -->
             <ref name="e.ab"/>
             <ref name="e.figure"/>
+            <ref name="e.mark"/>
             <ref name="e.div"/>
           </choice>
         </oneOrMore>
@@ -38,6 +39,9 @@
       </optional>
       <optional>
         <ref name="e.margin"/>
+      </optional>
+      <optional>
+        <ref name="e.render"/>
       </optional>
       <ref name="m.phrase"/>
       <optional>
@@ -85,6 +89,9 @@
         <ref name="e.margin"/>
       </optional>
       <optional>
+        <ref name="e.render"/>
+      </optional>
+      <optional>
         <element name="link">
           <data type="anyURI"/>
         </element>
@@ -105,6 +112,15 @@
       </oneOrMore>
     </element>
   </define>
+
+<!-- mark -->
+
+<define name="e.mark">
+  <a:documentation>Mark: a symbol in the source text represented in the transcription by a utf-8 character</a:documentation>
+  <element name="mark">
+    <data type="string"/>
+  </element>
+</define>
 
   <!-- head -->
   <define name="e.head">
@@ -255,6 +271,20 @@
       </optional>
     </element>
   </define>
+
+  <define name="e.render">
+    <a:documentation>Margin rendition: . Instructions to cue the proper rendition of the height and width  a margin block. Valid values are: "tall", "wide", and "extra-wide"</a:documentation>
+    <element name="render">
+      <optional>
+        <choice>
+          <value>tall</value>
+          <value>wide</value>
+          <value>extra-wide</value>
+        </choice>
+      </optional>
+    </element>
+  </define>
+
 
   <define name="e.cont">
     <a:documentation>Continued: An empty element indicating that the parent block is continued on another page or continues from another page </a:documentation>
@@ -437,6 +467,12 @@
     </element>
   </define>
 
+  <!-- COMMENTS -->
+<define name="e.comment">
+  <element name="comment">
+    <data type="string"/>
+  </element>
+</define>
 
   <!-- PHRASE MODEL -->
 
@@ -454,6 +490,7 @@
         <ref name="e.df"/>
         <ref name="e.env"/>
         <ref name="e.figure"/>
+        <ref name="e.mark"/>
         <ref name="e.fr"/>
         <ref name="e.it"/>
         <ref name="e.ill"/>
@@ -481,6 +518,7 @@
         <ref name="e.exp"/>
         <ref name="e.x"/>
         <ref name="e.unc"/>
+        <ref name="e.comment"/>
       </choice>
     </oneOrMore>
   </define>
