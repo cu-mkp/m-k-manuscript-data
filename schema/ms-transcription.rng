@@ -19,6 +19,7 @@
             <ref name="e.figure"/>
             <ref name="e.mark"/>
             <ref name="e.div"/>
+            <ref name="e.hr"/>
           </choice>
         </oneOrMore>
       </mixed>
@@ -127,6 +128,13 @@
     <a:documentation>Heading: a block of text at the beginning of a textual division functioning as the heading or title of that division. TEI Element</a:documentation>
     <element name="head">
       <ref name="m.phrase"/>
+    </element>
+  </define>
+  
+  <define name="e.hr">
+    <a:documentation>Horizontal rule</a:documentation>
+    <element name="hr">
+      <empty/>
     </element>
   </define>
 
@@ -459,6 +467,14 @@
       <ref name="m.phrase"/>
     </element>
   </define>
+  
+  <!-- md -->
+  <define name="e.wp">
+    <a:documentation>Weapon term: terms related to weapons and weaponry</a:documentation>
+    <element name="md">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
 
   <define name="e.df">
     <a:documentation>Definition:</a:documentation>
@@ -507,6 +523,7 @@
         <ref name="e.sup"/>
         <ref name="e.tl"/>
         <ref name="e.tmp"/>
+        <ref name="e.wp"/>
         <ref name="e.corr"/>
         <ref name="e.gap"/>
         <ref name="e.gk"/>
@@ -519,6 +536,7 @@
         <ref name="e.x"/>
         <ref name="e.unc"/>
         <ref name="e.comment"/>
+        <ref name="e.hr"/>
       </choice>
     </oneOrMore>
   </define>
