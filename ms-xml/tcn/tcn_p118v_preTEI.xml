@@ -115,7 +115,7 @@ fortuit, pour estre trop humectés, il se fendent, c’est au dos, qui<lb/>
 <del>pr</del> prend plus aprement le foeu, &amp; l’empraincte demeure
 sauve &amp; entier<corr>e</corr>.</ab>
 
-<ab><margin>left-top</margin>
+<ab><margin>left-middle</margin>
 
 Pour mieulx, il fault recuire le<lb/>
 
@@ -129,27 +129,16 @@ jusques à ce qu’il ne se<lb/>
 
 retire plus.</ab>
 
-<ab>
 
-<margin>left-bottom</margin>
-
-<figure>
-
-<id>fig_p118v_1</id>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Rm5qaUJCNWVFWlk</link>
-
-</figure>
-
-</ab>
 
 <man>
 
-<margin>left-top</margin>
+<margin>left-middle</margin>
 
 <m>Excellent sable</m></man>
 
-<ab>Ayes un peu du<lb/>
+<ab><margin>left-middle</margin>
+Ayes un peu du<lb/>
 
 mesme <m>sable</m>, le plus<lb/>
 
@@ -202,7 +191,7 @@ il n’en tiendra que plus<lb/>
 ferme.</ab>
 
 <ab>
-<margin>left-bottom</margin>
+<margin>left-middle</margin>
 Fais le gect qui ne soict<lb/>
 
 pas trop espés pour<lb/>
@@ -222,12 +211,26 @@ N’oublie pas<lb/>
 les souspirals.</ab>
 
 <ab>
-<margin>left-bottom</margin>
+        
+<margin>left-middle</margin>
+        
+<figure>
+            
+<id>fig_p118v_1</id>
+            
+<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Rm5qaUJCNWVFWlk</link>
+            
+</figure>
+        
+</ab>
+    
+<ab>
+<margin>left-middle</margin>
 Desseicher les <tl>chassis</tl>,<lb/>
 
 c’est les priver d’humidité,<lb/>
 
-qu’ilz ne fument plus<lb/>
+qu’ilz ne <m>fument</m> plus<lb/>
 
 estants neantmoings<lb/>
 
@@ -235,6 +238,7 @@ bien chaults.</ab>
 
 <ab>
 <margin>left-bottom</margin>
+<render>wide</render>
 <df>Recuire</df> est rougir le <tl>chassis</tl>, ce qui se faict pour
 l’<m>or</m> &amp; pour l’<m>argent</m>.</ab>
 
