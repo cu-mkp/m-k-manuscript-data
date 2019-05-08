@@ -202,7 +202,7 @@
 
   <!-- man -->
   <define name="e.man">
-    <a:documentation>Manchette: a word or phrase in italic script in the margin that indicates something in the text block It is not a heading (although sometimes it looks like it, but rather explains something in the text block</a:documentation>
+    <a:documentation>Manchette: a word or phrase in italic script in the margin that indicates something in the text block that is not a heading (although sometimes it looks like it, but rather explains something in the text block</a:documentation>
     <element name="man">
       <ref name="e.margin"/>
       <ref name="m.phrase"/>
