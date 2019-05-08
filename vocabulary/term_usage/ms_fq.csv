@@ -2,9 +2,9 @@
 61|℥
 47|moictie
 34|once
-27|quintal
-26|jours
-23|quintals
+27|jours
+26|quintal
+24|quintals
 23|onces
 22|pans
 21|heures
@@ -17,7 +17,6 @@
 10|pan
 9|grains
 9|doigt
-9|balles
 8|deniers
 7|pars
 7|moys
@@ -26,6 +25,7 @@
 6|demy lb
 6|aultant dun que daultre
 5|quart
+5|jusques a lescusson
 4|unces
 4|quart dheure
 4|pied
@@ -36,6 +36,7 @@
 4|douzaine
 4|demy once
 4|carte
+4|balles
 3|tous les ans
 3|poix
 3|pieds
@@ -45,7 +46,6 @@
 3|lien
 3|lanternes
 3|hora
-3|espace de quinze jours
 3|empan
 3|dragmes
 3|douzaines
@@ -78,7 +78,6 @@
 2|lhiver
 2|leste
 2|lanterne
-2|jusques a lescusson
 2|heure &amp; demye
 2|haulteur dun homme
 2|grosseur dune febve
@@ -114,6 +113,8 @@
 1|troisiesme partie en tant de distances quil est necessaires en esgard a la totale division du cercle
 1|trois pars de rosette &amp; une de metal fin de la grosse cloche
 1|trois balles despesseur
+1|trois balles a la cullasse @ c_022v_04 &amp; deux devant
+1|trois balles a la culasse &amp; deulx devant
 1|travers de doigt despes
 1|tout un jour et une nuict
 1|tout un jour
@@ -173,7 +174,6 @@
 1|petite joinctee
 1|petit dos de costeau
 1|pauses
-1|partie dune balle
 1|part
 1|par moictie
 1|par lespace de vingt quatre heures
@@ -200,6 +200,8 @@
 1|liards
 1|liard
 1|lespesseur dun travers dun grain de bled
+1|lespesseur de c cinq balles
+1|lespesseur de 4 balles
 1|lespace dung Jour
 1|le soir dans un bon foeu jusques au matin
 1|le poix dun grain
@@ -214,11 +216,13 @@
 1|large de ii ou trois doitgs
 1|large aultant que tu vouldras faire longue une cartuche
 1|la sixiesme partye
+1|la longueur de 4 balles
 1|la largeur de deulx gabions
 1|la grosseur dune noix
 1|la grosseur dune avelane avecq sa coquille
 1|jusques au commancement daougst
 1|jusques a la sepmaine saincte
+1|jusques a la cime de lescusson
 1|jusques a ce que tu puisses tenir le bout du doigt dans le gect sans te brusler
 1|journee
 1|jour naturel
@@ -241,7 +245,7 @@
 1|grandeur dun pot doeillets
 1|grandeur dun oeuf de pigeon
 1|grand comme la grosseur dune plume de cigne
-1|grand chaulderon de ladicte eau de riviere
+1|grand chaulderon
 1|grains comme pois
 1|grain
 1|gouttes
@@ -271,11 +275,13 @@
 1|espesseur de b deulx balles &amp; l des trois parties dune balle lune
 1|espace que tu diras 8 pater noster
 1|espace dun pater noster
+1|espace de quinze jours
 1|espace de deux heures
 1|espace de demye heure
 1|espace de 9 jours
 1|espace de 4 ou cinq matins
 1|esgalles distances
+1|escusson
 1|escuelle de terre ou les paysans mangent leurs souppes
 1|en la capacite dun des boisseaulx
 1|en bonne quantite
@@ -312,6 +318,7 @@
 1|delie p comme grosse corde despinette pour les petits ouvrages
 1|degre de chaleur
 1|de telle largeur que deulx pointes de doigt
+1|de telle grandeur quune bouteille dans laquelle on faict bouillir de la ptilsane
 1|de telle capacite que le bout du petit doigt y puisse presque entrer
 1|de pareille grandeur
 1|de lespesseur dun dos de cousteau ou plus
@@ -342,6 +349,7 @@
 1|bons doigts
 1|bonnes heures
 1|bon matin
+1|balle
 1|autant dun que daultre
 1|aussy longue
 1|aussy gros quune febve
@@ -369,6 +377,7 @@
 1|an suivant
 1|an
 1|aiguillee
+1|Sable
 1|Quand il sautille
 1|Lanterne
 1|Jour
@@ -378,5 +387,11 @@
 1|Aultant quil pourroit tenir dans un œuf
 1|Aultant dun que daultre
 1|Au moys de Janvier
+1|A la culasse trois balles au devant
+1|A la culasse il ha trois balles &amp; deux de devant
+1|A la culasse elle ha trois balles &amp; deux devant
+1|A la culasse 3 balles deulx devant
+1|A la culasse 3 balles &amp; 2 devant
 1|4trois ou 4 jours et trois jours et trois nuicts
+1|3 balles &amp; la douziesme partie dune balle
 1|

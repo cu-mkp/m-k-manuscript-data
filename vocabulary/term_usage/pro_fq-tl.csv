@@ -4,28 +4,29 @@
 9|founders
 8|King
 7|Founders
-6|glassmakers
 6|Founder
 5|printers
 5|pioneers
-5|apothecaries
+5|glassmakers
 5|Pewterers
 5|Painter
 4|workers
 4|potters
 4|pewterers
-4|goldsmith
 4|furbisher
 4|founder
+4|farriers
 4|artist
+4|apothecaries
 4|Goldsmiths
 3|worker
 3|painter
 3|masters
 3|master
 3|locksmiths
+3|goldsmith
+3|glassworkers
 3|furbishers
-3|farriers
 3|currier
 3|common people
 3|artisans
@@ -33,39 +34,39 @@
 3|apprentice
 3|Painters
 3|Merchant
-3|Glassmaker
+3|Glassworker
 2|women
 2|silversmiths
 2|shearer
 2|rich
 2|peasant
+2|molder
 2|miners
 2|merchants
 2|king
 2|joiners
 2|joiner
 2|harvester
-2|glaziers
-2|glassmaker
+2|guitar makers
+2|glassmaker's
 2|conjuror
 2|cavalry
 2|Pewterer
 2|Molders
 2|Goldsmith
-2|Glazier
 2|Clockmakers
 1|writer
 1|workman
 1|worker who made the woodpiece
-1|white-limers
+1|white limers
 1|wheelwrights
 1|weaver
 1|vintagers
 1|villagers
 1|tiler
+1|those who work in plate and large wares
 1|those who make pots
-1|those who make foil backings for gemstones
-1|those who make dishware in quantity
+1|those who make gemstone foils
 1|thieves
 1|tanners
 1|sworn masters
@@ -73,7 +74,6 @@
 1|surgeons
 1|spectators
 1|sophisticators
-1|smiths
 1|small peddlers
 1|shop boy
 1|shoemakers
@@ -87,48 +87,45 @@
 1|perfumers
 1|people
 1|peasants
-1|pastry-makers
+1|pastry makers
 1|others, who work in the countryside
 1|orphans
 1|one who sings
 1|monk
-1|molder
-1|mold-maker
 1|messenger
+1|medicus
 1|medicari
 1|mason
-1|mareschaulx
 1|makers of gilded leather
 1|little children
 1|knife grinders
 1|iron workers
-1|iron engravers
+1|iron etchers
 1|inventor of rustic figulines
 1|inventor
 1|infantry
 1|illuminators
-1|illumination
 1|historicus
 1|harvesters
 1|gunpowder makers
 1|gunpowder maker
 1|gunners
-1|guitarmakers
-1|guitar makers
 1|grooms
 1|grocers
 1|goldsmith’s
-1|goldsmiths, who are working with large works
+1|goldsmiths'
+1|goldsmiths who work large wares
 1|goldsmith's
-1|glassworkers
+1|glassworkers'
 1|glassworker
-1|glass-makers
+1|glassmakers'
 1|gardeners
 1|fuller
 1|founders of great works
 1|founders of artillery &amp; bells
 1|founablesders
 1|fellow
+1|fabrorum
 1|espasiers
 1|elderly
 1|dyers
@@ -143,7 +140,6 @@
 1|bystanders
 1|bystander
 1|boy
-1|blacksmiths
 1|blacksmith
 1|bimbalotiers
 1|bergiers
@@ -153,20 +149,21 @@
 1|artillery founders
 1|archers
 1|apothecary
+1|apothecaries'
 1|ancient lapidaries
 1|Those who create sword guards
 1|The one who makes his profession working in oil
 1|Tanner
 1|Stone cutters
 1|Shoemaker
-1|Sheath-makers
-1|Sheath-maker
+1|Sheath makers
+1|Sheath maker
 1|Scribes
 1|Scribe
-1|Printers
+1|Printer's
 1|Potter
 1|Plowman
-1|Perfume maker
+1|Perfumer
 1|Mat maker
 1|Masters
 1|Locksmith
@@ -175,12 +172,14 @@
 1|Joiner
 1|Illuminators
 1|Gunner
-1|Goldsmiths who work in grand works and plate
-1|Glassmakers
-1|Glass-button makers
+1|Goldsmiths who work in large wares and plate
+1|Glassworkers'
+1|Glassworkers
+1|Glassmakers'
+1|Glass button makers
 1|Gardener
 1|Furbisher
-1|Framemakers
+1|Frame makers
 1|Fountain maker
 1|Founders of small works @ of tin
 1|Founders of large casts for statues

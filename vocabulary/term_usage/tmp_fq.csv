@@ -1,10 +1,10 @@
-30|jours
+31|jours
+28|long temps
 27|jour
 20|heures
 13|heure
 9|nuict
 8|moys
-8|long temps
 6|lhiver
 5|tout lan
 5|nuit
@@ -17,8 +17,8 @@
 3|sepmaines
 3|matin
 3|hora
-3|espace de quinze jours
 3|demye heure
+3|an
 3|Jours
 3|Jour
 2|ung quart dheure
@@ -36,7 +36,6 @@
 2|este
 2|en este
 2|aujourdhuy
-2|an
 2|11e de septembre 1581
 1|vers la sepmaine saincte
 1|vers la saint Jehan
@@ -104,6 +103,7 @@
 1|fin de la lune
 1|feste de la sainct andre
 1|espace dun pater noster
+1|espace de quinze jours
 1|espace de mille ans
 1|espace de deux heures
 1|espace de 9 jours
@@ -143,6 +143,7 @@
 1|apres un temps pluvieulx
 1|apres que le pain en est tire
 1|apres la my Juillet jusques a la sainct Michel
+1|annee
 1|an suivant
 1|advents de noël
 1|advents de Noel
@@ -154,6 +155,7 @@
 1|Vers la pentecoste
 1|Mars
 1|Lhiver
+1|Juillet
 1|En hyver
 1|Chasque matin
 1|Au printemps
