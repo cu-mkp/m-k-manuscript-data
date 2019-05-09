@@ -1,7 +1,8 @@
 <root>
 <page>0121r</page>
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f248.item</image>
+<image>http:
+    //gallica.bnf.fr/ark:/12148/btv1b9059316c/f248.item</image>
 
 <div>
 
@@ -32,7 +33,7 @@ contracting, it shrivels &amp; closes in on itself, rather it is
 necessary that it dries in the same state as when you put it there. Now
 take heed that you choose for that effect <pa>cornflowers</pa>,
 <pa>marigolds</pa>, the <pa>yellow meadow flowers</pa> called
-<la><pa>ranunculus</pa></la> or <la><pa>pa<corr>l</corr>ta
+<la><pa>ranunculus</pa></la> or <la><pa>pa<corr><del>l</del></corr>ta
 lupina</pa></la>, <pa>amaranth</pa> &amp; suchlike, and <pa>broom</pa>,
 and others that your experience will teach you.</ab>
 
