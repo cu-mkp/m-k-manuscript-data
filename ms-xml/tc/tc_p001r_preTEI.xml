@@ -41,36 +41,36 @@ Trompettes voy le livre des funerailles
 
 </ab>
 
-@<comment>c_001r_33</comment>
+<comment>c_001r_33</comment>
 
 <ab><margin>left-top</margin>
 
-<la/>@Vuolfangus lazius<lb/>
+<la>Vuolfangus lazius<lb/>
 
 Petrus appianus Mathemat<exp>icus</exp><lb/>
 
-Ingolstadiensis Comment. <pl>urb. rom.</pl></ab>
+Ingolstadiensis Comment. <pl>urb. rom.</pl></la></ab>
 
-<ab><la/>Hieronimo Ruscelli<lb/>
+<ab><la>Hieronimo Ruscelli<lb/>
 
 Hermolaus barbarus<lb/>
 
 Angelius Bargæus de <al>aucupio</al> et <al>venatione</al><lb/>
 
-Nicolaus Damascenus</ab>
+Nicolaus Damascenus</la></ab>
 
-<ab><la/>Cares<exp>ariensis</exp>@<comment>c_001r_34</comment> de rebus
+<ab><la>Cares<exp>ariensis</exp><comment>c_001r_34</comment> de rebus
 persarum<lb/>
 
-Isidorus</ab>
+Isidorus</la></ab>
 
-<ab><la/>Osorius@<comment>c_001r_35</comment><lb/>
+<ab><la>Osorius<comment>c_001r_35</comment><lb/>
 
 Eupolemus historicus gentilis<lb/>
 
 qui de rebus davidis &amp; salomonis<lb/>
 
-scripsit</ab>
+scripsit</la></ab>
 
 <ab><mark>-</mark>Cathalogue des villes<lb/>
 
@@ -104,11 +104,11 @@ et de la <pro><pn>royne mere</pn></pro></ab>
 
 <id>p001r_4</id>
 
-<ab><la/>@<comment>c_001r_36</comment><al>Aquatilium animalium</al>
+<ab><la><comment>c_001r_36</comment><al>Aquatilium animalium</al>
 historiæ hypolito<lb/>
 
 salviano typhernate authore <pl>Romæ</pl><comment>c_001r_37</comment>
-1554</ab>
+1554</la></ab>
 
 </div>
 
@@ -116,13 +116,13 @@ salviano typhernate authore <pl>Romæ</pl><comment>c_001r_37</comment>
 
 <id>p001r_5</id>
 
-<ab>@Les Annales de <pl>Normandie</pl></ab>
+<ab>Les Annales de <pl>Normandie</pl></ab>
 
 <ab>
 
 <margin>right-top</margin>
 
-@<comment>c_001r_66</comment><la/><pn>Alexander Aphrodisæus</pn><lb/>
+<comment>c_001r_66</comment><la><pn>Alexander Aphrodisæus</pn><lb/>
 
 <pn>Polydorus verg<exp>ilius</exp></pn><lb/>
 
@@ -168,7 +168,7 @@ Xenophon<lb/>
 
 Sabellicus<lb/>
 
-<pn>Iulius Capitollin<exp>us</exp></pn> @<add>cum permultis<lb/>
+<pn>Iulius Capitollin<exp>us</exp></pn> <add>cum permultis<lb/>
 
 aliis </add><comment>c_001r_67</comment><lb/>
 
@@ -194,9 +194,9 @@ Strabo<lb/>
 
 <pn>Cornelius Nepos</pn><lb/>
 
-<pn>Flavius Vopiscus</pn></ab>
+<pn>Flavius Vopiscus</pn></la></ab>
 
-@<comment>c_001r_68</comment><ab><rub>mons<exp>ieur</exp></rub></ab>@<comment>c_001r_69</comment>
+<comment>c_001r_68</comment><ab><rub>mons<exp>ieur</exp></rub></ab><comment>c_001r_69</comment>
 
 </div>
 </root>

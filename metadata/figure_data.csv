@@ -107,8 +107,8 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 117r	p117r_1	Moyen de mouler les fleurs et herbes	   	fig_p117r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5WnpBbm8wN2gyTWs		GRAPHIC
 117r	p117r_1	Moyen de mouler les fleurs et herbes	   	fig_p117r_2	https://drive.google.com/open?id=0B9-oNrvWdlO5VURRYzlWOFByNzQ		GRAPHIC
 117r	p117r_1	Moyen de mouler les fleurs et herbes	    	fig_p117r_3	https://drive.google.com/open?id=0B9-oNrvWdlO5dVB5bzVUWWJuS0U	Moule en noyau	GRAPHIC
-118v	p118v_1	Gect en chassis	  	fig_p118v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5Rm5qaUJCNWVFWlk		GRAPHIC
 118v	p118v_1	Gect en chassis					MARK
+118v	p118v_1	Gect en chassis	  	fig_p118v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5Rm5qaUJCNWVFWlk		GRAPHIC
 120v	p120v_6	Garder fleurs seiches en mesme estat toute lannee					MARK
 122r	p122r_1	Plant des animaulx divers	  	fig_p122r_2	https://drive.google.com/open?id=0B9-oNrvWdlO5TVo3Y3lKWjA0dXM		GRAPHIC
 122r	p122r_2	Fleur en la bouche du serpent	   	fig_p122r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5ZDJlZ0g5OXNKeDQ		GRAPHIC
@@ -119,7 +119,6 @@ folio	entry_id	entry_title	fig_text	id	link	caption	TYPE
 124v	p124v_3	Moyen de fayre le gect pour petites lezardes	  	fig_p124v_2	https://drive.google.com/open?id=0B9-oNrvWdlO5dWU4UEtpX0hBV0k		GRAPHIC
 124v	p124v_3	Moyen de fayre le gect pour petites lezardes	  	fig_p124v_3	https://drive.google.com/open?id=0B9-oNrvWdlO5STY2ZEpOSXFVWXc		GRAPHIC
 124v	p124v_3	Moyen de fayre le gect pour petites lezardes	   	fig_p124v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5aGQ0OTFCTklrQ0k		GRAPHIC
-125r	p124v_3		  	fig_p125r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5ZHJJRXJlU2RFZlk		GRAPHIC
 125r	p124v_3		  	fig_p125r_2	https://drive.google.com/open?id=0B9-oNrvWdlO5bDlqQzJZemktSFk		GRAPHIC
 127r	p127r_1	Moule de plastre pour cire	  	fig_p127r_1	https://drive.google.com/open?id=0B9-oNrvWdlO5ZFFkT3I4Vmx2em8		GRAPHIC
 127v	p127v_1	Terre des fondeurs	   	fig_p127v_1	https://drive.google.com/open?id=0B9-oNrvWdlO5S2VzRmhYUWpfbmc		GRAPHIC
