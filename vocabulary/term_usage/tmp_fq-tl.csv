@@ -1,20 +1,20 @@
-32|days
+33|days
+26|long time
 24|hours
 24|day
 13|hour
 9|night
-8|long time
 7|at night
+6|year
 6|months
 4|years
-4|year
 4|in summer
 3|weeks
 3|the next day
 3|summer
-3|space of fifteen days
 3|quarter hour
 3|overnight
+3|long
 3|in winter
 3|in the winter
 3|every year
@@ -29,6 +29,7 @@
 2|next morning
 2|morning
 2|month
+2|longer
 2|in the evening
 2|hour &amp; a half
 2|half hour
@@ -57,6 +58,7 @@
 1|take a long time
 1|sun is approaching midday
 1|subsequent day
+1|space of fifteen days
 1|several times each day
 1|serain of the night
 1|season of their pleasure
@@ -67,7 +69,6 @@
 1|pauses
 1|out of season when winter denies flowers
 1|one or two days
-1|one hour or a half hour
 1|one day or one night
 1|once per month
 1|on a warm &amp; dry day
@@ -78,7 +79,6 @@
 1|mornings
 1|month of May
 1|long sea crossing
-1|long
 1|length of a pater noster
 1|in the summer
 1|in the space of a thousand years
@@ -122,6 +122,7 @@
 1|beginning of August
 1|before Michaelmas
 1|at the next sowing
+1|at the moon’s waning
 1|at regular intervals, day &amp; night
 1|at night or at a silent time
 1|at night in the cool &amp; by moonlight
@@ -131,10 +132,11 @@
 1|asses long temps
 1|around holy week
 1|around Saint John's Day
+1|an hour or a half
 1|all year long
 1|all the months of the year
 1|all summer
-1|after you have taken the bread out
+1|after the bread has been taken out
 1|after several days
 1|after rainy weather
 1|after mid-July until Michaelmas
@@ -151,6 +153,7 @@
 1|Palm Sunday
 1|March
 1|June
+1|July
 1|In the spring
 1|In the past
 1|In the morning

@@ -7,7 +7,7 @@
 
 <id>p002v_1</id>
 
-<ab>@<it>Practica cioe nova inventione<lb/>di
+<ab><it>Practica cioe nova inventione<lb/>di
 contegiare<comment>c_002v_03</comment> stampata in
 <pl>brescia</pl><lb/>per vincenzo sabio</it></ab>
 
@@ -17,19 +17,19 @@ contegiare<comment>c_002v_03</comment> stampata in
 
 <id>p002v_2</id>
 
-<head><add>@<m>esmeraldes<lb/>
+<head><add><m>esmeraldes<lb/>
 
 de <pl>Brissac</pl></m></add></head>
 
 <ab><render>extra-wide</render>Jai prins <m>miniu<exp>m</exp></m> 26
-<ms>℥</ms>@
-<m><exp>christ</exp>al</m><comment>c_002v_04</comment>@<add><ill/> et
+<ms>℥</ms>
+<m><exp>christ</exp>al</m><comment>c_002v_04</comment><add><ill/> et
 broie sur le <tl><m>marbre</m></tl></add> 12 <ms>℥</ms>
 <m>v<exp>er</exp>det</m> 3 <ms>|ʒ|</ms>
 Incorpore<add>s</add> le tout ensemble<lb/>
 
 mis dans un <tl><exp>crois</exp>et<comment>c_002v_05</comment> couvert
-dun a<exp>ultr</exp>e bien <m>lute</m> qui ai<add>t</add> un trou
+dun a<exp>ultr</exp>e bien <m><tl>lute</tl></m> qui ai<add>t</add> un trou
 dans<lb/>
 
 le hault</tl> fuzion 7 <ms><tmp>heures</tmp></ms> sans soufler la mace a

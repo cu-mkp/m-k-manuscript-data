@@ -4,10 +4,11 @@
 11|muraille
 10|a la pluye
 8|cave
+7|vent
 7|soleil
-7|riviere
+6|chambre
 6|boutique
-5|vent
+5|riviere
 5|maisons
 5|lieu humide
 5|garrigue
@@ -19,7 +20,6 @@
 3|froid
 3|fenestre
 3|en lieu humide
-3|chambre
 3|a lombre
 2|villes
 2|ville
@@ -39,7 +39,6 @@
 2|grange
 2|gelee
 2|fouye
-2|fontaine
 2|eglises
 2|cheminee
 2|au vent
@@ -133,8 +132,8 @@
 1|formillere
 1|forges de foix
 1|forests
-1|fontayne
 1|fontaines
+1|fontaine
 1|expose au soleil
 1|en un jardin A lair
 1|en un champ &amp; en celuy qui est proche
