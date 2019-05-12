@@ -17,7 +17,7 @@
                         <xsl:for-each select="current-group()//verbatimTerm">
                             <li>
                                 <xsl:value-of select="."/>
-                                <xsl:text>: </xsl:text> <i><xsl:value-of select="following-sibling::entry"/></i><xsl:text> (</xsl:text><xsl:value-of select="following-sibling::folio"/>
+                                <xsl:text>: </xsl:text> <a href="http://edition-staging.makingandknowing.org/#/folios/{replace(following-sibling::folio, '^0', '')}/tl"><i><xsl:value-of select="following-sibling::entry"/></i></a><xsl:text> (</xsl:text><xsl:value-of select="following-sibling::folio"/>
                                 <xsl:text>)</xsl:text>
                             </li>
                         </xsl:for-each>

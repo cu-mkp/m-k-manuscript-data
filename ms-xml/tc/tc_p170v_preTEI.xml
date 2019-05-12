@@ -9,7 +9,7 @@
 
 <ab>
 
-@L<tmp>an</tmp> mil cinq cens septante huict le deuxiesme de <tmp>Juillet</tmp> a este
+L<tmp>an</tmp> mil cinq cens septante huict le deuxiesme de <tmp>Juillet</tmp> a este
 faict<lb/>
 
 Transport aulx heritiers d<del>e</del><add>u</add> feu <pn>s<exp>ieu</exp>r
@@ -21,7 +21,7 @@ du Rentement de <pl>S<exp>ainc</exp>t frajou</pl> montant douze cens trente
 <ab>Autre transport leur a este faict sur les fruictz de l<tmp>annee</tmp><lb/>
 
 mil cinq cens septante neuf de <del>deux</del>
-<add>trois</add><comment>c_170v_01</comment> @cens quarante trois
+<add>trois</add><comment>c_170v_01</comment> cens quarante trois
 <cn>escus</cn><lb/>
 
 un tiers <del>sur qu</del></ab>
@@ -35,7 +35,7 @@ Et sur la seconde Judication nont encore rien Repceu</ab>
 
 <div>
 <id>p170v_2</id>
-<head>@ <md>Contre peste</md></head><comment>c_170v_02</comment>
+<head> <md>Contre peste</md></head><comment>c_170v_02</comment>
 
 <ab>P<exp>rends</exp> <md>contre fiebvre pestilentiale</md> ou <md>poison</md> ou <md>peste</md> le
 <ms>poix<lb/>
@@ -85,12 +85,12 @@ auth<exp>ore</exp></la></rub></ab>
 de stirpium historia</la></rub></ab>
 
 <ab><rub><pn>Des ormes</pn> de linvention de bien bastir et aultres
-oeuvres</rub></ab>
+œuvres</rub></ab>
 
 <ab><rub><la><pn>Tilesius</pn> de coloribus Vascosan</la></rub></ab>
 
 <ab><rub><la><pn>Marmodaeus</pn> <del>ge</del> de lapillis
-præciosis</la></rub><comment>c_170v_05</comment></ab>@<comment>c_170v_04</comment>
+præciosis</la></rub><comment>c_170v_05</comment></ab><comment>c_170v_04</comment>
 
 <ab>
 
@@ -120,7 +120,7 @@ chronic</la></ab>
 
 mercurialis</pn><lb/>
 
-variarum</la></ab>@<comment>c_170v_06</comment>
+variarum</la></ab><comment>c_170v_06</comment>
 
 </div>
 </root>
