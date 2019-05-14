@@ -12,6 +12,7 @@
 <ab>
 
 <margin>left-bottom</margin>
+<render>tall</render>
 
 Quand lor couleur commence<lb/>
 
@@ -24,6 +25,7 @@ dix ou douze <ms><tmp>heures</tmp></ms> il sera sec<lb/>
 <ab>
 
 <margin>left-bottom</margin>
+<render>tall</render>
 
 <mark>*</mark><comment>c_066v_01</comment>
 
@@ -54,6 +56,7 @@ mesle de <m>ceruse</m></ab>
 <ab>
     
 <margin>left-bottom</margin>
+<render>tall</render>
 L<comment>c_066v_02</comment><m>or mat</m> de ceste<lb/>
 
 sorte nest gueres<lb/>
