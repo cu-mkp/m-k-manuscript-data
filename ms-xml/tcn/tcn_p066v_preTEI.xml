@@ -12,6 +12,7 @@
 <ab>
 
 <margin>left-bottom</margin>
+<render>tall</render>
 
 Quand l’or couleur commence<lb/>
 
@@ -24,6 +25,7 @@ dix ou douze <ms><tmp>heures</tmp></ms> il sera sec<lb/>
 <ab>
 
 <margin>left-bottom</margin>
+<render>tall</render>
 
 <mark>*</mark><comment>c_066v_01</comment>
 
@@ -53,6 +55,7 @@ meslé de <m>ceruse</m>.</ab>
 
 <ab>
 <margin>left-bottom</margin>
+<render>tall</render>
 L’<m><comment>c_066v_02</comment>or mat</m> de ceste<lb/>
 
 sorte n’est gueres<lb/>
