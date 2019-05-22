@@ -41,7 +41,7 @@ Trompettes voy le livre des funerailles
 
 </ab>
 
-
+<comment rid="c_001r_33"/>
 
 <ab margin="left-top">
 
@@ -59,12 +59,12 @@ Angelius Bargæus de <al>aucupio</al> et <al>venatione</al><lb/>
 
 Nicolaus Damascenus</la></ab>
 
-<ab><la>Cares<exp>ariensis</exp> de rebus
+<ab><la>Cares<exp>ariensis</exp><comment rid="c_001r_34"/> de rebus
 persarum<lb/>
 
 Isidorus</la></ab>
 
-<ab><la>Osorius<lb/>
+<ab><la>Osorius<comment rid="c_001r_35"/><lb/>
 
 Eupolemus historicus gentilis<lb/>
 
@@ -104,10 +104,10 @@ et de la <pro><pn>royne mere</pn></pro></ab>
 
 
 
-<ab><la><al>Aquatilium animalium</al>
+<ab><la><comment rid="c_001r_36"/><al>Aquatilium animalium</al>
 historiæ hypolito<lb/>
 
-salviano typhernate authore <pl>Romæ</pl>
+salviano typhernate authore <pl>Romæ</pl><comment rid="c_001r_37"/>
 1554</la></ab>
 
 </div>
@@ -122,7 +122,7 @@ salviano typhernate authore <pl>Romæ</pl>
 
 
 
-<la><pn>Alexander Aphrodisæus</pn><lb/>
+<comment rid="c_001r_66"/><la><pn>Alexander Aphrodisæus</pn><lb/>
 
 <pn>Polydorus verg<exp>ilius</exp></pn><lb/>
 
@@ -170,7 +170,7 @@ Sabellicus<lb/>
 
 <pn>Iulius Capitollin<exp>us</exp></pn> <add>cum permultis<lb/>
 
-aliis </add><lb/>
+aliis </add><comment rid="c_001r_67"/><lb/>
 
 <pn>Budæus</pn><lb/>
 
@@ -196,7 +196,7 @@ Strabo<lb/>
 
 <pn>Flavius Vopiscus</pn></la></ab>
 
-<ab><rub>mons<exp>ieur</exp></rub></ab>
+<comment rid="c_001r_68"/><ab><rub>mons<exp>ieur</exp></rub></ab><comment rid="c_001r_69"/>
 
 </div>
 </root>

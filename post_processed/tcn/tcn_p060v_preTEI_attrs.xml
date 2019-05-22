@@ -56,7 +56,7 @@ mentine</m>.</ab>
 
 
 
-<head> Laver les tableaulx</head>
+<head><comment rid="c_060v_01"/> Laver les tableaulx</head>
 
 <ab>Aulcuns les lavent avecq <m>eau de savon</m>, aultres avecq<lb/>
 
@@ -71,13 +71,13 @@ couleurs.</ab>
 
 
 
-<ab margin="left-top">
+<ab margin="left-top" render="tall">
 
 
 
 
 
-<head><m> Huile d'<pa>aspic</pa></m></head>
+<head><comment rid="c_060v_02"/><m> Huile d'<pa>aspic</pa></m></head>
 
 Il n'en fault pas<lb/>
 

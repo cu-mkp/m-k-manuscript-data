@@ -8,7 +8,7 @@
 
 
 <ab><it>Practica cioe nova inventione<lb/>di
-contegiare stampata in
+contegiare<comment rid="c_002v_03"/> stampata in
 <pl>brescia</pl><lb/>per vincenzo sabio</it></ab>
 
 </div>
@@ -21,14 +21,14 @@ contegiare stampata in
 
 de <pl>Brissac</pl></m></add></head>
 
-<ab>Jai prins <m>miniu<exp>m</exp></m> 26
+<ab render="extra-wide">Jai prins <m>miniu<exp>m</exp></m> 26
 <ms>℥</ms>
-<m><exp>christ</exp>al</m><add><ill/> et
+<m><exp>christ</exp>al</m><comment rid="c_002v_04"/><add><ill/> et
 broie sur le <tl><m>marbre</m></tl></add> 12 <ms>℥</ms>
 <m>v<exp>er</exp>det</m> 3 <ms>|ʒ|</ms>
 Incorpore<add>s</add> le tout ensemble<lb/>
 
-mis dans un <tl><exp>crois</exp>et couvert
+mis dans un <tl><exp>crois</exp>et<comment rid="c_002v_05"/> couvert
 dun a<exp>ultr</exp>e bien <m><tl>lute</tl></m> qui ai<add>t</add> un trou
 dans<lb/>
 
@@ -37,7 +37,7 @@ este dun beau<lb/>
 
 v<exp>er</exp>t</ab>
 
-<ab>Jai prins <m>miniu<exp>m</exp></m> 12
+<ab render="extra-wide">Jai prins <m>miniu<exp>m</exp></m> 12
 <ms>℥</ms> <m><exp>christ</exp>al</m> 6
 <ms>℥</ms> <m>v<exp>er</exp>det</m> 2 <ms>grains</ms>
 fuzion doulce<lb/>
@@ -55,13 +55,13 @@ mace a este de v<exp>er</exp>t Jaulne<lb/>
 
 <head><m>safir</m></head>
 
-<ab><m>Caillous</m> ou
+<ab render="extra-wide"><m>Caillous</m> ou
 <m><exp>christ</exp>al</m> 8 <ms>℥</ms>
 <m>miniu<exp>m</exp></m> 16 <ms>℥</ms> <m>sel de
 <pro>febvre</pro></m> 4 <ms>℥</ms><lb/>
 
-<m>coryal</m> extincellent 4 <ms>grains</ms> fuzion
-6 <ms><tmp>heures</tmp></ms></ab>
+<m>coryal</m><comment rid="c_002v_02"/> extincellent 4 <ms>grains</ms> fuzion
+6<comment rid="c_002v_06"/> <ms><tmp>heures</tmp></ms></ab>
 
 </div>
 </root>

@@ -21,7 +21,7 @@ du Rentement de <pl>S<exp>ainc</exp>t frajou</pl> montant douze cens trente
 <ab>Autre transport leur a este faict sur les fruictz de l<tmp>annee</tmp><lb/>
 
 mil cinq cens septante neuf de <del>deux</del>
-<add>trois</add> cens quarante trois
+<add>trois</add><comment rid="c_170v_01"/> cens quarante trois
 <cn>escus</cn><lb/>
 
 un tiers <del>sur qu</del></ab>
@@ -35,7 +35,7 @@ Et sur la seconde Judication nont encore rien Repceu</ab>
 
 <div id="p170v_2">
 
-<head> <md>Contre peste</md></head>
+<head> <md>Contre peste</md></head><comment rid="c_170v_02"/>
 
 <ab>P<exp>rends</exp> <md>contre fiebvre pestilentiale</md> ou <md>poison</md> ou <md>peste</md> le
 <ms>poix<lb/>
@@ -90,7 +90,7 @@ de stirpium historia</la></rub></ab>
 <ab><rub><la><pn>Tilesius</pn> de coloribus Vascosan</la></rub></ab>
 
 <ab><rub><la><pn>Marmodaeus</pn> <del>ge</del> de lapillis
-præciosis</la></rub></ab>
+præciosis</la></rub><comment rid="c_170v_05"/></ab><comment rid="c_170v_04"/>
 
 <ab margin="left-middle">
 
@@ -120,7 +120,7 @@ chronic</la></ab>
 
 mercurialis</pn><lb/>
 
-variarum</la></ab>
+variarum</la></ab><comment rid="c_170v_06"/>
 
 </div>
 </root>

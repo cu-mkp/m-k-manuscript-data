@@ -68,7 +68,7 @@ pas<lb/>
 
 bien adoulcir</ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="tall">
 
 
 
@@ -118,7 +118,7 @@ nettement</ab>
 
 
 
-<head><m>Huile</m></head>
+<head><comment rid="c_060r_01"/><m>Huile</m></head>
 
 <ab>L<m>huile de <pa>noix</pa></m> tire co<exp>mm</exp>e les
 <m><pa>amendes</pa> pelees</m> est fort blanc<lb/>

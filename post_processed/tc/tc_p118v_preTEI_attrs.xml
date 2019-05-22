@@ -128,7 +128,7 @@ jusques a ce quil ne se<lb/>
 retire plus</ab>
 
 
-<man>
+<man margin="left-middle">
 
 
 
@@ -143,7 +143,7 @@ subtil que tu pourras</m><lb/>
 
 pour en couvrir la<lb/>
 
-medaille
+medaille<comment rid="c_118v_01"/>
 
 <hr/>
 
@@ -234,7 +234,7 @@ estants neantmoings<lb/>
 
 bien chaults</ab>
 
-<ab margin="left-bottom">
+<ab margin="left-bottom" render="wide">
 
 
 <df>Recuire</df> est rougir le <tl>chassis</tl> ce qui se faict pour

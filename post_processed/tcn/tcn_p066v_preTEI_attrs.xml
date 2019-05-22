@@ -9,7 +9,7 @@
 
 
 
-<ab margin="left-bottom">
+<ab margin="left-bottom" render="tall">
 
 
 
@@ -22,12 +22,12 @@ dix ou douze <ms><tmp>heures</tmp></ms> il sera sec<lb/>
 
 &amp; propre à <m>dorer</m>.</ab>
 
-<ab margin="left-bottom">
+<ab margin="left-bottom" render="tall">
 
 
 
 
-<mark>*</mark>
+<mark>*</mark><comment rid="c_066v_01"/>
 
 Pour fayre beau<lb/>
 
@@ -53,10 +53,10 @@ se faict gras<lb/>
 
 meslé de <m>ceruse</m>.</ab>
 
-<ab margin="left-bottom">
+<ab margin="left-bottom" render="tall">
 
 
-L’<m>or mat</m> de ceste<lb/>
+L’<m><comment rid="c_066v_02"/>or mat</m> de ceste<lb/>
 
 sorte n’est gueres<lb/>
 
@@ -84,7 +84,7 @@ L’<m>or bruny</m> s’esclate<lb/>
 
 <head><md>Garder de croistre les <bp>tetins</bp><lb/>
 
-<del>d</del><add>ou diminuer les trop
+<del>d</del><comment rid="c_066v_03"/><add>ou diminuer les trop
 grands</add></md></head>
 
 <ab>Ayes de <m>grands pains nouvellement tirés du <tl>four</tl></m>
