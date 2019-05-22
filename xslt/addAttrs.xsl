@@ -22,7 +22,7 @@
 <!-- apply-templates in "make_attr" node for those elements  -->
 <!-- apply-templates in default node for all others.     -->
  
-    <xsl:template match="root | div | ab | figure">
+    <xsl:template match="root | div | ab | figure | man">
         <xsl:element name="{local-name()}">
             <xsl:apply-templates select="page | image | id | margin | cont | link | render" mode="make_attr"/>
             <xsl:apply-templates/>
