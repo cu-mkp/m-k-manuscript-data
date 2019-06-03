@@ -12,24 +12,23 @@
 18|part
 16|day
 13|pan
-13|hour
 11|paces
 10|parts
-8|sols
+9|sous
+8|hour
 8|finger
 8|deniers
 7|grains
 7|dozen
 6|night
-6|month
 6|line
-6|half an ounce
 6|drop
 6|as much of one as the other
 5|up to the escutcheon
 5|quarter
 5|quart
 5|lines
+5|half an ounce
 5|foot
 5|as much of one as of the other
 4|quarter part
@@ -42,10 +41,12 @@
 3|pound
 3|pea
 3|pan of Montpellier
+3|month
 3|lb.
 3|ladles
 3|ladle
 3|inches
+3|hora
 3|half ℥
 3|every year
 3|empan
@@ -86,8 +87,9 @@
 2|during winter
 2|drops
 2|dose
+2|denier
 2|crucibles
-2|canne
+2|cane
 2|bucket
 2|as much as a bean
 2|ana
@@ -148,7 +150,7 @@
 1|thickness of a teston
 1|thickness of a piece of paper
 1|thickness of a knife
-1|thickness of a coin of forty sols
+1|thickness of a coin of forty sous
 1|thickness of a ball &amp; two thirds
 1|thickness of 4 balls
 1|thick like cord, some
@@ -169,10 +171,8 @@
 1|space of half an hour
 1|space of fifteen days
 1|space of 4 or five mornings
-1|sous
-1|sols from Spain
-1|sols from France
-1|sols for a denier
+1|sous from Spain
+1|sous from France
 1|small knife back
 1|small double handful
 1|small beads
@@ -230,6 +230,7 @@
 1|natural day
 1|morning
 1|middle of the sheet
+1|meza onça
 1|long as the width of 4 or 5 fingers
 1|locks
 1|livres
@@ -306,7 +307,6 @@
 1|double handful
 1|distances as small as those of the small cogwheels
 1|diameter of a ball &amp; a half
-1|denier
 1|degree of heat
 1|coquillec_075v_02
 1|cool in such a way that I could hold my finger to it without burning myself
@@ -316,8 +316,8 @@
 1|caroli
 1|carat
 1|capacity of one pitcher or earthen jug
+1|canne
 1|canes
-1|cane
 1|caliber
 1|by two tiles
 1|by the width of one finger
@@ -329,6 +329,7 @@
 1|before Michaelmas
 1|ball
 1|at the end of a table
+1|at least as long
 1|as the size of a hazelnut with its shell
 1|as tall as three fingers
 1|as much sal ammoniac water as can be held in an egg
@@ -345,7 +346,6 @@
 1|as much
 1|as long as a ring finger
 1|as long as
-1|as long
 1|as large as a double liard
 1|as a toothpick
 1|as a large walnut
@@ -359,6 +359,7 @@
 1|a quarter of an hour
 1|a long time
 1|a half league
+1|a good hour
 1|a glass thumb thick
 1|a day &amp; a night
 1|a day

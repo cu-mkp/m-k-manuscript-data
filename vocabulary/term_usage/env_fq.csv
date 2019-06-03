@@ -8,10 +8,10 @@
 7|soleil
 6|chambre
 6|boutique
-5|riviere
 5|maisons
 5|lieu humide
 5|garrigue
+4|riviere
 4|lieu sec
 4|grottes
 4|au serain
@@ -107,7 +107,7 @@
 1|mayson
 1|maison ou ailleurs
 1|maison
-1|lumiere du foeu
+1|lumiere du fœu
 1|lieux humides
 1|lieu ou la flamme ne puisse porter domaige
 1|lieu mouille &amp; humide
@@ -133,7 +133,6 @@
 1|forges de foix
 1|forests
 1|fontaines
-1|fontaine
 1|expose au soleil
 1|en un jardin A lair
 1|en un champ &amp; en celuy qui est proche
@@ -191,8 +190,8 @@
 1|au plus chault soleil
 1|au planche ou lair ou&amp; le soleil le deseche
 1|au pied dune muraille
+1|au fœu
 1|au froict
-1|au foeu
 1|au feu
 1|au costau de puy david bien profond en terre
 1|apres un temps pluvieulx

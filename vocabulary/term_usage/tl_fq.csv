@@ -89,12 +89,12 @@
 5|tamisee
 5|tamise
 5|serviette
+5|potee
 5|poinctes de fil de fer
 5|poinctes de fer
 5|plaste dardille
 5|planches de cuivre
 5|pincettes
-5|pinceaulx a huile
 5|pied
 5|petite boicte
 5|foret
@@ -108,6 +108,7 @@
 5|bout du doigt
 5|bague
 4|tuile
+4|tripoly
 4|reigle
 4|pots
 4|pot de terre
@@ -115,6 +116,7 @@
 4|poincte de fil de fer
 4|platene
 4|planches
+4|pinceaulx a huile
 4|pilant
 4|petit baston
 4|pelotte
@@ -174,13 +176,11 @@
 3|estoc
 3|esguille
 3|enclume
-3|eaulx
 3|drap
 3|de a couldre
 3|dan de loup ou de chien
 3|crusols
 3|creusol
-3|cloue
 3|chevilles de fer
 3|chameau
 3|boisseau
@@ -194,7 +194,6 @@
 2|vaisseau de terre
 2|vaisseau de cuivre
 2|tuiles
-2|tripoly
 2|trencheplume
 2|trancheplume bien tranchant
 2|tour
@@ -209,7 +208,6 @@
 2|rabot
 2|queue de fer
 2|presses
-2|potee
 2|pointes
 2|poincte du pinceau
 2|poincte dacier
@@ -254,21 +252,23 @@
 2|grands chevilles de fer
 2|grande boicte
 2|gand
+2|fœille
 2|fouye
 2|fourneau a vent
-2|foeille
 2|filets
 2|fil darchal
 2|fenestre
 2|felin
 2|estuy
 2|estamine
+2|esmery
 2|esgrusouer
 2|eguille
 2|drappeau
 2|desgrusouer
 2|demy moule
 2|de
+2|cuir
 2|cuilliere
 2|cruset
 2|cramponer
@@ -277,6 +277,7 @@
 2|contour dardille
 2|conche
 2|coings
+2|cloue
 2|ciselets
 2|cierge
 2|cheville de fer
@@ -302,6 +303,7 @@
 2|Moule
 2|Mortiers
 2|Chandelles
+1|œil
 1|virons de faiseur de roues
 1|vertuelle
 1|verroil
@@ -335,6 +337,7 @@
 1|tuiaulx de plume
 1|trusseaulx
 1|truelle
+1|tripoly de bretaigne
 1|tripoli de venise
 1|tripoli de bretaigne
 1|tripoli
@@ -378,17 +381,19 @@
 1|sur le rechault
 1|subtil tamis
 1|sublimatorio di vetro
-1|spatule de bois noeuf
+1|spatule de bois nœuf
 1|souldouers de vitrier
 1|souldouer
 1|sies
 1|servietes mouillees
 1|serviete
 1|semal
+1|sel pulverise
 1|sayettes de pourceau
 1|sayettes
 1|sayetes de poil de pourceau
 1|sacs
+1|sable menu
 1|sable
 1|roulleau
 1|rouleaux
@@ -414,22 +419,29 @@
 1|rachault
 1|quille de cire
 1|queue de cuivre ou de fer
+1|queue de cheval
 1|quenoille du lict
 1|quarton
 1|quarreau rouge enflamme
 1|quarreau en platte
 1|quarreau
 1|quaisse
+1|pœlonne
 1|presses de fer
 1|presses bien serres
 1|presse a rouleaux
+1|prele
 1|pour les verriers
+1|pouldre dudict tripoly
+1|pouldre desmery
 1|pouldre de pierre ponce
+1|pouldre de marchasite
 1|pots non plombes
 1|pots de terre avecq un couvercle
 1|pots de terre
 1|pots de fer
 1|potences
+1|potee desmery
 1|pot quarre
 1|pot destain
 1|pot de terre verny
@@ -439,6 +451,7 @@
 1|porte piece
 1|pone pleine deau
 1|pone ou ung coin de terre plein deau
+1|ponce pulverisee
 1|pointes de bois
 1|pointe dun fil de fer chault
 1|pointe de fer
@@ -474,7 +487,6 @@
 1|poin
 1|poilonnes de letton qui sont battues
 1|poilonne
-1|poelonne
 1|plus gros charbon
 1|plume dholande
 1|plume bien poinctue
@@ -601,7 +613,6 @@
 1|paille allumee
 1|oreille
 1|ongle du poulce droict
-1|oeil
 1|moulle de cuivre
 1|moulins deau
 1|moulin de moustarde
@@ -623,7 +634,7 @@
 1|moule de terre
 1|moule de sable destrempe
 1|moule de plomb
-1|moule de pierre blanche poinct oeilletee
+1|moule de pierre blanche poinct œilletee
 1|moule de grais
 1|moule de cuivre
 1|moule de cuir
@@ -687,7 +698,7 @@
 1|liste dardille
 1|linges trempes en eau de ruche de miel
 1|linges
-1|linge trempe dans de la graisse de porc meslee de salpestre ou sel armoniac
+1|linge trempe dans de la graisse de porc mesle de salpestre ou sel armoniac
 1|linge mouille
 1|linge fort subtil
 1|linge deslie
@@ -702,7 +713,7 @@
 1|lignes a plomb
 1|ligne a plomb
 1|leniers
-1|le foeu
+1|le fœu
 1|lateres igniti
 1|langue
 1|lamines de fer
@@ -715,7 +726,7 @@
 1|lame de fer rougie au foeu
 1|lame de cuivre
 1|lame
-1|jugement de loeil
+1|jugement de lœil
 1|horologe de sable
 1|horloge
 1|haches
@@ -724,6 +735,7 @@
 1|grosse limee quarree
 1|grosse lime
 1|grosse aiguille
+1|gros pinceaulx a huile
 1|gros pinceau
 1|gros mail de bois
 1|gros charbons
@@ -754,6 +766,11 @@
 1|gecton
 1|gands
 1|gabions
+1|fœultre
+1|fœuille de papier
+1|fœilles de papier
+1|fœille de papier blanc
+1|fœille de papier
 1|fusil
 1|fumier
 1|foyer
@@ -790,11 +807,6 @@
 1|forge des orfevres
 1|forge des mareschaulx
 1|forchettes
-1|foeultre
-1|foeuille de papier
-1|foeilles de papier
-1|foeille de papier blanc
-1|foeille de papier
 1|flin
 1|fiolle de voyrre
 1|fiolle
@@ -804,7 +816,7 @@
 1|filtre
 1|fils de fer
 1|filiere
-1|filet sans noeuds &amp; bien uni
+1|filet sans nœuds &amp; bien uni
 1|filet delie
 1|filasse bien doulce
 1|fil du propre metal dont ils gectent
@@ -823,7 +835,10 @@
 1|estoupes
 1|estamine bien claire
 1|estamiere
+1|estaing
 1|esponge mouillee
+1|esmeril pulverise
+1|esmeril
 1|escuelles de diverse grandeur qui ayent un bec
 1|escuelle vernissee
 1|escuelle plombee
@@ -837,10 +852,6 @@
 1|engin de petits bastons en croix
 1|enclumes
 1|eau enscuelle
-1|eau de roche
-1|eau coloree
-1|eau claire
-1|eau
 1|drapt vert
 1|drappeau blanc
 1|drap vert
@@ -850,19 +861,21 @@
 1|double des apothiquaires
 1|doibs
 1|ditto
+1|desramonet
 1|desgrusoue
 1|demy molle
 1|demy mole
 1|dardille
 1|dant de loup
+1|cuyvre
 1|cuve des tinturiers
 1|cuve
 1|curedent
 1|curedant
 1|cureaureille
 1|cul de verre
+1|cuir cloue sur un lopin de bois
 1|cuir blanc de la couleur du boys
-1|cuir
 1|cuillerees
 1|cuillere dargent
 1|cuelleree
@@ -874,6 +887,8 @@
 1|cueillere
 1|crusols pour fondre le metal
 1|crusole
+1|croye seiche
+1|croye
 1|croisetc_002v_05 couvert dun aultre bien lute qui ait un trou dans le hault
 1|crochet
 1|crible faict de fisselles
@@ -912,7 +927,7 @@
 1|colle
 1|coissins de plume
 1|coissinet
-1|coisinet @ c_152v_01 de cuir
+1|coisinet c_152v_01 de cuir
 1|cofre
 1|cochiaro
 1|cloux
@@ -992,6 +1007,7 @@
 1|boitte
 1|boite de sapin
 1|bois uny
+1|bois dous
 1|bois de buy
 1|bois
 1|boictes de verre

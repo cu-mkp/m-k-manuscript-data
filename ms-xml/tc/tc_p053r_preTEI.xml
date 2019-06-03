@@ -5,9 +5,9 @@
 
 <div>
 <id>p053r_1</id>
-<head><m>Soulder</m> un <tl>estoc</tl></head>
+    <head><m>Soulder</m> un <tl><oc>estoc</oc></tl><comment>c_053r_04</comment></head>
 
-<ab>Il est bon que les joues de l<tl>estoc</tl> soient haultes pour y
+<ab>Il est bon que les joues de l<tl><oc>estoc</oc></tl> soient haultes pour y
 former une<lb/>
 
 longue piece Et que les joues joignent bien affin de serrer une
@@ -20,7 +20,7 @@ forgeras une longue <m>liste de fer</m> <del>quar</del> de telle
 grosseur quelle puisse entrer dans<lb/>
 
 lencochement de la <tl>vis</tl> estant rougie &amp; luy <del>po</del>
-feras plier tout aultour<lb/>
+feras plier tout aulto<ups>ur</ups><lb/>
 
 la frapant du <tl>marteau</tl> Y estant bien <del>jo</del> entourne Tu
 <del>la</del> feras<lb/>

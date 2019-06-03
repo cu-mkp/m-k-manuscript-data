@@ -12,19 +12,19 @@
 17|doigts
 16|pas
 14|partye
-14|heure
+12|heure
 10|sols
 10|pan
 9|grains
 9|doigt
 8|deniers
 7|pars
-7|moys
 7|ligne
 6|nuict
 6|demy lb
 6|aultant dun que daultre
 5|quart
+5|moys
 5|jusques a lescusson
 4|unces
 4|quart dheure
@@ -72,7 +72,6 @@
 2|par jour
 2|pan de roy
 2|pan &amp; demy
-2|mois
 2|livres Canne
 2|lhyver
 2|lhiver
@@ -83,12 +82,12 @@
 2|grosseur dune febve
 2|gros
 2|goute
+2|denier
 2|demye ℥
 2|demye heure
 2|demy ℥
 2|demy pied
 2|cane
-2|aultant
 2|ana
 1|œufs
 1|ʒ
@@ -113,7 +112,7 @@
 1|troisiesme partie en tant de distances quil est necessaires en esgard a la totale division du cercle
 1|trois pars de rosette &amp; une de metal fin de la grosse cloche
 1|trois balles despesseur
-1|trois balles a la cullasse @ c_022v_04 &amp; deux devant
+1|trois balles a la cullasse c_022v_04 &amp; deux devant
 1|trois balles a la culasse &amp; deulx devant
 1|travers de doigt despes
 1|tout un jour et une nuict
@@ -124,7 +123,6 @@
 1|talentorum
 1|tables
 1|t.
-1|sols le denier
 1|sols despaigne
 1|sols de france
 1|six fois autant
@@ -155,7 +153,7 @@
 1|pousses en quarre
 1|pousses
 1|pour scavoir sil est asses chault
-1|pour scavoir quand il sera en bonne chaleur trempe dedans un petit papierretors Sil le noircist sans lallumer il est en bonne chaleur Mays sil le brusle &amp; y mect le foeu il est trop chault
+1|pour scavoir quand il sera en bonne chaleur trempe dedans un petit papierretors Sil le noircist sans lallumer il est en bonne chaleur Mays sil le brusle &amp; y mect le fœu il est trop chault
 1|poulse
 1|poulces de roy
 1|poulce
@@ -183,9 +181,10 @@
 1|palles
 1|nuit
 1|moitie
+1|mois
 1|moictie du jour
 1|moictie de son espesseur
-1|milieu de la foeille
+1|milieu de la fœille
 1|meza onca
 1|matin
 1|mains
@@ -203,8 +202,9 @@
 1|lespesseur de c cinq balles
 1|lespesseur de 4 balles
 1|lespace dung Jour
-1|le soir dans un bon foeu jusques au matin
+1|le soir dans un bon fœu jusques au matin
 1|le poix dun grain
+1|le moings aultant
 1|lbc_095r_01 la douzaine
 1|lb t.
 1|lb selon lordonnance du roy pour quintal
@@ -242,8 +242,8 @@
 1|grosseur dun pinon
 1|grosseur de deulx chastaignes
 1|gros comme fisselle de moingdre
-1|grandeur dun pot doeillets
-1|grandeur dun oeuf de pigeon
+1|grandeur dun œuf de pigeon
+1|grandeur dun pot dœillets
 1|grand comme la grosseur dune plume de cigne
 1|grand chaulderon
 1|grains comme pois
@@ -307,7 +307,6 @@
 1|despuys le bout de loreille jusques au bout de son nes
 1|despuys la toussaints jusques a Noël
 1|despuys la my may
-1|denier
 1|demye once
 1|demye lieue
 1|demy verre
@@ -348,6 +347,7 @@
 1|bras
 1|bons doigts
 1|bonnes heures
+1|bonne heure
 1|bon matin
 1|balle
 1|autant dun que daultre
@@ -368,6 +368,7 @@
 1|aultant de fiente de pigeon que de ladicte terre
 1|aultant de fiante de cheval
 1|aultant de caillou blanc calcine
+1|aultant
 1|aulne de paris
 1|au bout de la table
 1|asses chault comme quand on en tire le pain

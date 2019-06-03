@@ -85,7 +85,7 @@ will come.
 <head><tl>Candles</tl></head>
 
 <ab><pro>Candlemakers</pro> never make good <tl>candle</tl> when the
-<env><oc>Autan</oc> wind</env> blows because it is always melty, however
+<env><oc>Autan</oc> wind</env><comment>c_013v_03</comment> blows because the candle always tends to melt, however
 good the <m>tallow</m> they use for it.
 
 </ab>

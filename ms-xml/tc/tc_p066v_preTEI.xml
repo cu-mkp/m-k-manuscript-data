@@ -11,7 +11,8 @@
 
 <ab>
 
-<margin>left-top</margin>
+<margin>left-bottom</margin>
+<render>tall</render>
 
 Quand lor couleur commence<lb/>
 
@@ -23,7 +24,8 @@ dix ou douze <ms><tmp>heures</tmp></ms> il sera sec<lb/>
 
 <ab>
 
-<margin>left-top</margin>
+<margin>left-bottom</margin>
+<render>tall</render>
 
 <mark>*</mark><comment>c_066v_01</comment>
 
@@ -51,7 +53,11 @@ se faict gras<lb/>
 
 mesle de <m>ceruse</m></ab>
 
-<ab>L<comment>c_066v_02</comment><m>or mat</m> de ceste<lb/>
+<ab>
+    
+<margin>left-bottom</margin>
+<render>tall</render>
+L<comment>c_066v_02</comment><m>or mat</m> de ceste<lb/>
 
 sorte nest gueres<lb/>
 
@@ -112,7 +118,7 @@ de<lb/>
 miel</m></tl> cest a scavoir de <m>miel</m> &amp; <m>cire</m> extraicts
 tout ensemble du<lb/>
 
-<oc>bornat</oc></ab>
+<oc>bornat</oc><comment>c_066v_04</comment></ab>
 
 </div>
 
