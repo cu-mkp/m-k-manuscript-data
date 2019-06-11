@@ -32,11 +32,13 @@ malaises de retirer estant brusles pourcequilz sont petits<lb/>
 du <tl>moule</tl><lb/>
 
 Les pieds se gectent a plusieurs <del>foys</del> pieces</ab>
-
-<ab><rub><m>Tuiles</m></rub></ab>
+</div>
+    
+<div>
+<id>p106v_3</id>
+<head><m>Tuiles</m></head>
 
 <ab>
-
 <margin>right-middle</margin>
 
 <add>celles des <env>maisons</env> qui sont de <m>terre<lb/>
@@ -64,6 +66,79 @@ passer subtillement par le <tl>tamis</tl></ab>
 <ab>Les petites <al>tortues</al> estant sorties de lœuf sont bien<lb/>
 
 gentilles a mouler<comment>c_106v_02</comment><hr/></ab>
+</div>
+
+<div>
+<id>p106v_2</id>
+<head><margin>left-top</margin><m>Plastre</m></head>
+
+<ab>
+<margin>left-top</margin>
+Quant tu las en<lb/>
+        
+<m>pierre</m> choisis les<lb/>
+        
+plus durs morceaulx<lb/>
+        
+et qui ne sesmient<lb/>
+        
+point aisem avecq<lb/>
+        
+l<tl><bp>ongle</bp></tl> et nettoye le<lb/>
+        
+bien de pouldre &amp;<lb/>
+        
+<m>ordure</m> plustost que<lb/>
+        
+le piler</ab>
+    
+<ab>
+<margin>left-top</margin>
+Le <m>plastre</m><lb/>
+        
+seul ne soubstient<lb/>
+        
+pas le fœu ains<lb/>
+        
+se rompt en<lb/>
+        
+lopins</ab>
+    
+<ab>
+<margin>left-top</margin>
+Le <m>plastre</m> recuit<lb/>
+        
+<del>se ga</del> comme dit est icy<lb/>
+        
+se garde bien un<lb/>
+        
+<comment>c_106v_05</comment><ms><tmp>moys</tmp></ms> ou deulx<lb/>
+        
+bien serre <env>en lieu<lb/>
+            
+sec</env> Si ce nest <tmp><env>en<lb/>
+                
+temps de pluye</env></tmp><lb/>
+        
+Mays estant frais<lb/>
+        
+il est plus excellent<lb/>
+        
+pour ouvrage<lb/>
+        
+exquis</ab>
+    
+<ab>
+<margin>left-middle</margin>
+Il fault quil<lb/>
+        
+soubstienne le fœu<lb/>
+        
+&amp; se rougisse<lb/>
+        
+comme un <m>charbon</m><lb/>
+        
+allume</ab>
 
 <ab>
 <add>Si le <m>plastre</m> est mesle de quelque <m>poulssiere</m> ou nest
@@ -107,13 +182,20 @@ Car il fault que ce<lb/>
 
 soict le dernier recuit &amp; quand tout le reste est prest Car le
 moings que le <m>plastre</m> <mark>#</mark></add>
-
 </ab>
 
+<ab><rub>L<m>alum de plume</m></rub> est celuy qui donne bonne liaison
+au <m>sable</m></ab>
+    
+<ab><rub>Le <m><la>crocum ferri</la></m></rub> est propre pour
+l<m>or</m> Cest celuy qui estant<lb/>
+        
+mesle parmy le <m>sable</m> le recoit &amp; le contient en sa
+chaleur<comment>c_106v_04</comment><hr/></ab>
 <ab>
 
 <margin>left-bottom</margin>
-
+<render>extra-wide</render>
 <mark>#</mark><comment>c_106v_03</comment> demeure recuit &amp;
 <del>plus</del><lb/>
 
@@ -154,89 +236,8 @@ comme farinee &amp; brenee &amp; bouillante<lb/>
 
 au milieu Continue tousjours de remuer jusques a ce que tu cognoisses
 quil reviene pesant <mark>ʘʘ</mark><comment>c_106v_06</comment>
-
 </ab>
 
-<ab><rub>L<m>alum de plume</m></rub> est celuy qui donne bonne liaison
-au <m>sable</m></ab>
-
-<ab><rub>Le <m><la>crocum ferri</la></m></rub> est propre pour
-l<m>or</m> Cest celuy qui estant<lb/>
-
-mesle parmy le <m>sable</m> le recoit &amp; le contient en sa
-chaleur<comment>c_106v_04</comment><hr/></ab>
-
-<ab>
-<margin>left-top</margin>
-<man><margin>left-top</margin><m>Plastre</m></man><lb/>
-
-Quant tu las en<lb/>
-
-<m>pierre</m> choisis les<lb/>
-
-plus durs morceaulx<lb/>
-
-et qui ne sesmient<lb/>
-
-point aisem avecq<lb/>
-
-l<tl><bp>ongle</bp></tl> et nettoye le<lb/>
-
-bien de pouldre &amp;<lb/>
-
-<m>ordure</m> plustost que<lb/>
-
-le piler</ab>
-
-<ab>
-<margin>left-middle</margin>
-Le <m>plastre</m><lb/>
-
-seul ne soubstient<lb/>
-
-pas le fœu ains<lb/>
-
-se rompt en<lb/>
-
-lopins</ab>
-
-<ab>
-<margin>left-middle</margin>
-Le <m>plastre</m> recuit<lb/>
-
-<del>se ga</del> comme dit est icy<lb/>
-
-se garde bien un<lb/>
-
-<comment>c_106v_05</comment><ms><tmp>moys</tmp></ms> ou deulx<lb/>
-
-bien serre <env>en lieu<lb/>
-
-sec</env> Si ce nest <tmp><env>en<lb/>
-
-temps de pluye</env></tmp><lb/>
-
-Mays estant frais<lb/>
-
-il est plus excellent<lb/>
-
-pour ouvrage<lb/>
-
-exquis</ab>
-
-<ab>
-<margin>left-middle</margin>
-Il fault quil<lb/>
-
-soubstienne le fœu<lb/>
-
-&amp; se rougisse<lb/>
-
-comme un <m>charbon</m><lb/>
-
-allume</ab>
-
 <cont/>
-
 </div>
 </root>
