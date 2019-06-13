@@ -7,11 +7,11 @@
 
 <cont/>
 
-<id>p066r_5</id>
+<id>p066r_6</id>
 
 <ab>
 
-<margin>left-bottom</margin>
+<margin>left-top</margin>
 <render>tall</render>
 
 Quand lor couleur commence<lb/>
@@ -20,11 +20,15 @@ a gripper cest signe que dans<lb/>
 
 dix ou douze <ms><tmp>heures</tmp></ms> il sera sec<lb/>
 
-&amp; propre a <m>dorer</m></ab>
-
+&amp; propre a <m>dorer</m><hr/></ab>
+</div>
+    
+<div>
+<cont/>
+<id>p066r_5</id>
 <ab>
 
-<margin>left-bottom</margin>
+<margin>left-top</margin>
 <render>tall</render>
 
 <mark>*</mark><comment>c_066v_01</comment>
@@ -55,7 +59,7 @@ mesle de <m>ceruse</m></ab>
 
 <ab>
     
-<margin>left-bottom</margin>
+<margin>left-top</margin>
 <render>tall</render>
 L<comment>c_066v_02</comment><m>or mat</m> de ceste<lb/>
 
