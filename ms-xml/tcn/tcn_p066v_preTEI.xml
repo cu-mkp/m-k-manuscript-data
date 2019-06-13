@@ -7,11 +7,11 @@
 
 <cont/>
 
-<id>p066r_5</id>
+<id>p066r_6</id>
 
 <ab>
 
-<margin>left-bottom</margin>
+<margin>left-top</margin>
 <render>tall</render>
 
 Quand l’or couleur commence<lb/>
@@ -21,10 +21,14 @@ Quand l’or couleur commence<lb/>
 dix ou douze <ms><tmp>heures</tmp></ms> il sera sec<lb/>
 
 &amp; propre à <m>dorer</m>.</ab>
-
+</div>
+    
+<div>
+<cont/>
+<id>p066r_5</id>
 <ab>
 
-<margin>left-bottom</margin>
+<margin>left-top</margin>
 <render>tall</render>
 
 <mark>*</mark><comment>c_066v_01</comment>
@@ -54,7 +58,7 @@ se faict gras<lb/>
 meslé de <m>ceruse</m>.</ab>
 
 <ab>
-<margin>left-bottom</margin>
+<margin>left-top</margin>
 <render>tall</render>
 L’<m><comment>c_066v_02</comment>or mat</m> de ceste<lb/>
 
