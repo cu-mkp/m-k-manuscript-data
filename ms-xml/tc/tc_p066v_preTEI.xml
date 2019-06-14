@@ -7,11 +7,12 @@
 
 <cont/>
 
-<id>p066r_5</id>
+<id>p066r_6</id>
 
 <ab>
 
-<margin>left-top</margin>
+<margin>left-bottom</margin>
+<render>tall</render>
 
 Quand lor couleur commence<lb/>
 
@@ -19,11 +20,16 @@ a gripper cest signe que dans<lb/>
 
 dix ou douze <ms><tmp>heures</tmp></ms> il sera sec<lb/>
 
-&amp; propre a <m>dorer</m></ab>
-
+&amp; propre a <m>dorer</m><hr/></ab>
+</div>
+    
+<div>
+<cont/>
+<id>p066r_5</id>
 <ab>
 
-<margin>left-top</margin>
+<margin>left-bottom</margin>
+<render>tall</render>
 
 <mark>*</mark><comment>c_066v_01</comment>
 
@@ -51,7 +57,11 @@ se faict gras<lb/>
 
 mesle de <m>ceruse</m></ab>
 
-<ab>L<comment>c_066v_02</comment><m>or mat</m> de ceste<lb/>
+<ab>
+    
+<margin>left-bottom</margin>
+<render>tall</render>
+L<comment>c_066v_02</comment><m>or mat</m> de ceste<lb/>
 
 sorte nest gueres<lb/>
 
@@ -79,7 +89,7 @@ L<m>or bruny</m> sesclate<lb/>
 
 <head><md>Garder de croistre les <bp>tetins</bp><lb/>
 
-<del>d</del><comment>c_066v_03</comment>@<add>ou diminuer les trop
+<del>d</del><comment>c_066v_03</comment><add>ou diminuer les trop
 grands</add></md></head>
 
 <ab>Ayes de <m>grands pains nouvellement tires du <tl>four</tl></m>
@@ -99,7 +109,7 @@ commune</m><lb/>
 mesles y du <m><pa>sumach</pa></m> des <m><pa>prunelles</pa> de
 buissons</m> de la <m>graine<lb/>
 
-de <pa>coings</pa></m> <m><pa>balaustes</pa></m> <m>foeilles
+de <pa>coings</pa></m> <m><pa>balaustes</pa></m> <m>fœilles
 d<pa>olivier</pa></m> &amp; semblables<lb/>
 
 decuits &amp; mesles avecq la <m>tourmentine</m> Mays joublyois<lb/>
@@ -112,7 +122,7 @@ de<lb/>
 miel</m></tl> cest a scavoir de <m>miel</m> &amp; <m>cire</m> extraicts
 tout ensemble du<lb/>
 
-<oc>bornat</oc></ab>
+<oc>bornat</oc><comment>c_066v_04</comment></ab>
 
 </div>
 

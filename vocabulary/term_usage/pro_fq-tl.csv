@@ -1,5 +1,5 @@
 19|goldsmiths
-14|painters
+13|painters
 10|gunner
 9|founders
 8|King
@@ -13,6 +13,8 @@
 4|workers
 4|potters
 4|pewterers
+4|masters
+4|master
 4|furbisher
 4|founder
 4|farriers
@@ -21,8 +23,6 @@
 4|Goldsmiths
 3|worker
 3|painter
-3|masters
-3|master
 3|locksmiths
 3|goldsmith
 3|glassworkers
@@ -84,6 +84,7 @@
 1|queen mother
 1|potter
 1|poor peasants
+1|pintori
 1|perfumers
 1|people
 1|peasants
@@ -181,7 +182,7 @@
 1|Furbisher
 1|Frame makers
 1|Fountain maker
-1|Founders of small works @ of tin
+1|Founders of small works of tin
 1|Founders of large casts for statues
 1|Cutters of printing plates
 1|Casters

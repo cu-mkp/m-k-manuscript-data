@@ -24,6 +24,7 @@
 4|mil
 4|buys
 4|bresil
+3|œillets
 3|sapin
 3|poix
 3|moustarde
@@ -48,7 +49,6 @@
 2|oranges
 2|orange
 2|oignons
-2|oeillets
 2|noyer
 2|mericotons
 2|linge
@@ -69,7 +69,8 @@
 2|amaranthe
 2|Roses
 2|Rose
-1|œillets
+1|Œillets
+1|Œillet
 1|zedoaire
 1|visaube
 1|viole
@@ -88,6 +89,7 @@
 1|senegre
 1|semperviva
 1|seigle
+1|scabieuse
 1|sauvignons
 1|saulge
 1|sarment
@@ -142,8 +144,8 @@
 1|nois
 1|navette
 1|navete
+1|mœurier blanc
 1|mousses
-1|moeurier blanc
 1|mil jaulne
 1|melons
 1|mauves
@@ -222,8 +224,6 @@
 1|Orangers
 1|Oliviers
 1|Olives
-1|Oeillets
-1|Oeillet
 1|Mericotons
 1|Marguerites
 1|Mandragore

@@ -7,7 +7,7 @@
 
 <id>p020r_1</id>
 
-<head>@Pour faire les <m><oc>millas</oc></m></head>
+<head>Pour faire les <m><oc>millas</oc></m></head>
 
 <ab>
 
@@ -17,7 +17,7 @@ tirer la <m>croutte</m>, et puis le<lb/>
 netoyerés bien. Aprés il fault le remouldre bien delié et le passer
 par<lb/>
 
-ung <tl>cedas</tl> bien delié. Ce faict, il fault detremper la
+ung <oc><tl>cedas</tl></oc><comment>c_020r_05</comment> bien delié. Ce faict, il fault detremper la
 <m>farine</m> avec du<lb/>
 
 <m>beurre frais fondu</m> et du <m>laict</m>, et qu’il y ait <ms>aultant
@@ -26,10 +26,10 @@ d’ung comme d’aultre</ms>,<lb/>
 de maniere qu’il soit fort clair, comme <m>pate po<exp>ur</exp> faire
 bignetz</m>. Et y<lb/>
 
-mettrés des <m>jaulnes d’oeuf</m> selon la quantite de la <m>farine</m>,
+mettrés des <m>jaulnes d’œuf</m> selon la quantite de la <m>farine</m>,
 de sorte<lb/>
 
-qu’il revienne deux <m>jaulnes d’<corr>oe</corr>uf</m> po<exp>ur</exp>
+qu’il revienne deux <m>jaulnes d’<corr>œ</corr>uf</m> po<exp>ur</exp>
 chaique <m><oc>millas</oc></m>. Puis y mettrés<lb/>
 
 du <m><pa>safran</pa></m>, si vous voulés, po<exp>ur</exp> leur donner
@@ -84,7 +84,7 @@ faudra qu’il soit dur.</ab>
 
 <id>p020r_2</id>
 
-<head>@<pro>Vitrier</pro></head>
+<head><pro>Vitrier</pro></head>
 
 <ab>
 
@@ -122,7 +122,7 @@ aussy co<exp>mmun</exp>ement<lb/>
 envellé &amp; pour ceste occasion il est meilleur à faire petites
 losanges que<lb/>
 
-grandes pieces quarrées en forme de <tl>chassis</tl>, pource que elles ne se
+<wp>grandes pieces</wp> quarrées en forme de <tl>chassis</tl>, pource que elles ne se
 peuvent bonnem<exp>ent</exp><lb/>
 
 bien assoir uniment.</ab>

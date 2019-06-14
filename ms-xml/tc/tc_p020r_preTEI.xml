@@ -7,7 +7,7 @@
 
 <id>p020r_1</id>
 
-<head>@Pour<comment>c_020r_01</comment> faire
+<head>Pour<comment>c_020r_01</comment> faire
 les<m><oc>Millas</oc></m></head><comment>c_020r_02</comment>
 
 <ab>
@@ -18,7 +18,7 @@ tirer la <m>croutte</m> Et puis le<lb/>
 netoyeres bien apres Il fault le remouldre bien delie Et le passer
 par<lb/>
 
-ung <tl>cedas</tl> bien delie ce faict Il fault detremper la
+ung <oc><tl>cedas</tl></oc><comment>c_020r_05</comment> bien delie ce faict Il fault detremper la
 <m>farine</m> avec du<lb/>
 
 <m>beurre frais fondu</m> et du <m>laict</m> Et quil y ait <ms>aultant
@@ -27,7 +27,7 @@ dung comme daultre</ms><lb/>
 de maniere quil soit fort clair comme <m>pate po<exp>ur</exp> faire
 bignetz</m> Et y<lb/><comment>c_020r_02</comment>
 
-mettres des <m>Jaulnes doeuf</m> selon la quantite de la <m>farine</m>
+mettres des <m>Jaulnes dœuf</m> selon la quantite de la <m>farine</m>
 de sorte<lb/>
 
 quil revienne deux <m>Jaulnes deouf</m> po<exp>ur</exp> chaique
@@ -84,7 +84,7 @@ faudra quil soit dur</ab>
 
 <id>p020r_2</id>
 
-<head>@<pro>Vitrier</pro></head>
+<head><pro>Vitrier</pro></head>
 
 <ab>
 
@@ -122,7 +122,7 @@ aussy co<exp>mmun</exp>ement<lb/>
 envelle &amp; pour ceste occasion il est meilleur a faire petites
 losanges que<lb/>
 
-grandes pieces quarrees en forme de <tl>chassis</tl> pourceque elles ne se
+<wp>grandes pieces</wp> quarrees en forme de <tl>chassis</tl> pourceque elles ne se
 peuvent bonnem<exp>ent</exp><lb/>
 
 bien assoir uniment</ab>

@@ -1,6 +1,6 @@
-31|jours
+32|jours
 28|long temps
-27|jour
+28|jour
 20|heures
 13|heure
 9|nuict
@@ -28,7 +28,6 @@
 2|serain
 2|saison
 2|plusieurs jours
-2|moys de may
 2|lhyver
 2|lendemain matin
 2|la nuict
@@ -46,11 +45,9 @@
 1|une fois la sepmaine
 1|un quart dheure
 1|un jour ou une nuit
-1|un jour ou deulx
 1|un jour &amp; une nuict
 1|un demy jour
 1|trois jours en la sepmaine
-1|trois jours
 1|toute lannee
 1|tout un jour
 1|tout leste
@@ -72,20 +69,19 @@
 1|par lespace de vingt quatre heures
 1|ordinairement par intervalle de jour &amp; de nuit
 1|nuicts
+1|moys de may
 1|moys de juing &amp; juillet
 1|mois
-1|moings aultant
 1|mercredy
 1|matins
 1|mardy
-1|main
 1|lyver
 1|longuement
 1|longue duree
 1|long traict de la mer
 1|long
 1|le soir
-1|le
+1|le moings aultant
 1|jusques au commancement daougst
 1|jusques a la sepmaine saincte
 1|juin
@@ -125,8 +121,8 @@
 1|de trois jours en trois jours
 1|de nuict ou en temps de Silence
 1|de nuict a la frescheur &amp; aux rays de la lune
+1|de longue main
 1|de longue duree
-1|de longue
 1|de lannee mesme
 1|de deulx ans en deulx ans
 1|commancement daougst
@@ -137,6 +133,7 @@
 1|bon espace de temps
 1|avecq le temps
 1|au soir
+1|au moys de may
 1|au matin
 1|au descroissant de la lune
 1|asses long temps
@@ -146,7 +143,7 @@
 1|annee
 1|an suivant
 1|advents de noël
-1|advents de Noel
+1|advents de Nœl
 1|a toute heure
 1|a la saint Anthoine de Janvier
 1|a la sainct Michel

@@ -5,21 +5,25 @@
 
 <div>
 
-<cont/>
+<id>p027r_1</id>
 
-<id>p026r_1</id>
-
+<head>Balle de <wp>bastarde</wp></head>
+    
 <figure>
 
 <id>fig_p027r_1</id>
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5S3loampQRU55UjQ</link>
 
-<caption>Balle de bastarde</caption>
-
 </figure>
 
+</div>
+
 <div>
+
+<id>p027r_2</id>
+
+<head>Balle de <wp>moyene</wp></head>
 
 <figure>
 
@@ -27,10 +31,16 @@
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5cE1VQlVlV2ZWakE</link>
 
-<caption>Balle de moyene</caption>
-
 </figure>
 
+</div>
+
+<div>
+
+<id>p027r_3</id>
+
+<head><wp>Piece de ca<exp>m</exp>pagne</wp></head>
+    
 <figure>
 
 <id>fig_p027r_3</id>
@@ -39,13 +49,8 @@
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5M2Ftb2g0bG1FQ3c</link>
 
-<caption>Piece de ca<exp>m</exp>pagne</caption>
-
 </figure>
 
 </div>
 
-<cont/>
-
-</div>
 </root>
