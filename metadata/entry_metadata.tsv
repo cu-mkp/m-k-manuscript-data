@@ -51,7 +51,7 @@ folio	div_id	heading_tc	heading_tcn	heading_tl	margin	has_figures	continued	cont
 009v	p009v_1	Painctre	Painctre	Painters									orpiment;verre;cendres;grenats;esmail rouge;huile;sel commun;vert de terre					Painctre		bouteille de verre;mattelas		
 009v	p009v_2	Marchant	Marchant	Merchant														Marchant;Marchans				
 009v	p009v_3	Brouillart	Brouillart	Waste book							livres;t.;lb t.		toille babtiste	cane;livres Canne;t.;Canne;livres;lb t.			francois du Cros;Francois du Cros;du Cros;sainct andre					
-010r	p010r_1	Jaspe contrefaict	Jaspe contrefaict	Counterfeitc_003r_02 jasper									Jaspe contrefaict;corne;jaspe;cornalines;pierres;verre;roses;tourmentine claire;vernis daspic;huiler;huile daspic;limaille de talc ou despingle;ciment;gomme armoniac;vinaigre;jaspe grumeleux;laines a gros poil;or & argent en fœille;tourmentine;argent;fœille destaing;colle forte		roses;aspic					limer;rabot		
+010r	p010r_1	Jaspe contrefaict	Jaspe contrefaict	Counterfeitc_003r_02 jasper									Jaspe contrefaict;verre;corne;jaspe;cornalines;pierres;roses;tourmentine claire;vernis daspic;huiler;huile daspic;limaille de talc ou despingle;ciment;gomme armoniac;vinaigre;jaspe grumeleux;laines a gros poil;or & argent en fœille;tourmentine;argent;fœille destaing;colle forte		roses;aspic					limer;rabot		
 010r	p010r_2	Scudegrun	Scudegrun	Stil de grain yellow									Scudegrun;suc de gaulde;croye;ceruse;destrempe;huile			lyon						
 010r	p010r_3	Roses	Roses	Roses									corne de lanternes;parchemin		Roses							
 010r	p010r_4	Couleur de pourpres	Couleur de pourpres	Purple color									azur commun;azur desmail;laque;alum					painctres				
@@ -125,24 +125,32 @@ folio	div_id	heading_tc	heading_tcn	heading_tl	margin	has_figures	continued	cont
 021v	p021r_2							continues												reigle;regle		
 021v	p021v_1	Pour desenclouer un canon	Pour desenclouer un canon	For unspiking a cannon									pouldre;clou					canonier;fondeur		clou;trepan;ancrou		
 021v	p021v_2	Deffense dune ville	Deffense d’une ville	Defense of a town									cloux de charrette;gros dets dacier;bouts de chesne;verre grossierement pillement pille;matiere des pieces								blesseures	
-022r	p022r_1					CONTAINS FIGURE								lb;lignes pied de roy								
+022r	p022r_1	Balle de canon poisant 40 lb ayant 12 lignes pied de roy	Balle de canon poisant 40 lb, ayant 12 lignes, pied de roy.	Cannon ball, weighing 40 lb, having 12 lines, king's foot.		CONTAINS FIGURE								lb;lignes pied de roy								
 022v	p022v_1	Orgues	Orgues	Orgues		CONTAINS FIGURE			chevaulx				fer;pouldre;destonnement	pan;lb;pans;jusques a lescusson;trois balles a la cullasse c_022v_04 & deux devant;ligne;douziesme partye de la balle du canon;lanternes						chevilles de fer;lanternes		
 023r	p023r_1					CONTAINS FIGURE	continued			doigt;doigts			pouldre;cuivre fin;metal;fer;grosse toile;tourmentine;toile;vis;bouquaran;liste de bouquaran;cailloux;cailloux de charrette;toile ciree;chose combustible	quintals;pans;lb;quintal;pan;doigt;canes;doigts						chevilles de fer;vibrequin;guinbelet;baston court;chevilles;baston;barre		
 023v	p023r_1					CONTAINS FIGURE		continues					pouldre;toile;vinaigre;eau de vye;tourmentine bien bonne;liste de toile large;tourmentine;eau	parties;deux fois que la saulcice;empan						fisselle;cordette;lignette;cordelle;forchettes		
 023v	p023v_1												fer;metal	lb;quintals;moictie								
 024r	p024r_1	Grenades	Grenades	Grenades					cigne	blessures;doigt;main		en lieu bien sec;lieu humide	plus fin metal quon puysse trouver;metal fin;metal gros;cuivre;estain;metal de grosse cloche;rosette;pouldre;verre grossierement pile;verre;meilleure pouldre dharquebus;fer blanc;bonne pouldre;bonne eau de vye;fort vinaigre	quintal;lb;once;grand comme la grosseur dune plume de cigne;travers de doigt;dos de costeau						pile;pilee;mortier	blessures	
 024v	p024v_1	Pour mener le canon en pays	Pour mener le canon en pays	For bringing a cannon over land			continued			doigts;pied;pieds		pays;villes fortes;biquoques	pierres;terre;pouldres	doigts;pied;pieds;la largeur de deulx gabions;caques	abres	france		pionniers;canonier;pionners;canoniers		gabions;pales		
-024v	p024v_2												pouldre									
-024v	p024v_3												acier					canonier				
-024v	p024v_4																					
+024v	p024v_2	left-middleCanons a chambre	left-middleCanons à chambre	left-middleFowlers									pouldre									
+024v	p024v_3	left-middleLumiere dacier	left-middleLumiere d’acier	left-middleA steel touch-hole									acier					canonier				
+024v	p024v_4	left-middleLumiere a ras	left-middleLumiere à ras	left-middleA touch-hole at the level																		
 025r	p024v_1							continues	chevaulx				pouldre;foing;paille;bois;basane;cailloux;clous de charrette;fer;cuir	pas;quintaulx				canonier;pionniers;canoniers		sacs;cabats;lanterne;refoulouer;tapons de bois;tapons;coings		
 025v	p025v_1	Canonier	Canonier	Gunner						pied			papier;fonte;pouldre	ligne;quintalz;pied				Canonier;fondeurs;canoniers		compas;modelle en papier;costeaulx;foret		
-026r	p026r_1					CONTAINS FIGURE	continued													foret		
+026r	p026r_1	Balle de canon	Balle de canon	Cannonball		CONTAINS FIGURE														foret		
 026r	p026r_2	Mortier	Mortier	Petard		CONTAINS FIGURE						lieu sec	pouldre;sable;liege;cire							piler;pilee		
-026v	p026r_1					CONTAINS FIGURE	continued	continues														
-027r	p026r_1					CONTAINS FIGURE	continued	continues														
-027r						CONTAINS FIGURE																
-027v	p026r_1					CONTAINS FIGURE		continues						quintals;pan;pans;cane;pans de monpelier;quintal;lb		monpelier						
+026v	p026v_1	Balle de colevrine	Balle de colevrine	Culverin ball		CONTAINS FIGURE																
+027r	p027r_1	Balle de bastarde	Balle de bastarde	Bastarde ball		CONTAINS FIGURE																
+027r	p027r_2	Balle de moyene	Balle de moyene	Average ball		CONTAINS FIGURE																
+027r	p027r_3	Piece de campagne	Piece de campagne	Field piece		CONTAINS FIGURE																
+027v	p027v_1	Faulconeau	Faulconeau	Falconet		CONTAINS FIGURE																
+027v	p027v_2	Faulconeau de 4 quintals autrement passevo lants tire 8 pans	Faulconeau de 4 quintals autrement passevo- lants tire 8 pans	Falconet of 4 quintals, alternatively passe-volant, is 8 pans long		CONTAINS FIGURE								quintals;pan								
+027v	p027v_3	3 quintals tire de long 9 pans	3 quintals, tire de long 9 pans	3 quintals, is 9 pans long		CONTAINS FIGURE								quintals;pans								
+027v	p027v_4	2 quintals tire de long une cane qui sont 8 pans de monpelier	2 quintals, tire de long une cane, qui sont 8 pans de Monpelier	2 quintals, is one cane long, which is 8 Montpellier pans		CONTAINS FIGURE								quintals;cane;pans de monpelier		monpelier						
+027v	p027v_5	1 quintal tire six pans et demy	1 quintal, tire six pans et demy	1 quintal, is six pans and a half		CONTAINS FIGURE								quintal;pans								
+027v	p027v_6	1 quintal et demy tire 7 pans et demy	1 quintal et demy tire 7 pans et demy	1 quintal and a half is 7 pans and a half		CONTAINS FIGURE								quintal;pans								
+027v	p027v_7	mousquet de 60 lb tire 5 pans et demy ou 6	mousquet de 60 lb tire 5 pans et demy ou 6	60 lb musketc_027v_01, is 5 pans and a half or 6		CONTAINS FIGURE								lb;pans								
+027v	p027v_8	5 quintals tire onze pans et demy	5 quintals tire onze pans et demy	5 quintals is eleven pans and a half		CONTAINS FIGURE								quintals;pans								
 028r	p028r_1	La mesure du qualibre des pieces	La mesure du qualibre des pieces	The measure of the caliber of pieces		CONTAINS FIGURE								quintals								
 028v	p028v_1	Pintiers	Pintiers	Pewterers						genoils		mine;bonnes villes;champs	estain;souldure;estaim commun;fer;estain dangleterre;plomb;plomb fin;estaim fin;estaim de glace;rosette;pierre porte morte;grais;estaim;charbons;eau;estaing est fin;estaim est bas	lb;quintal		angleterre;allemaigne;bonnes villes		Pintiers;Maistres;minerons;Maistres pintiers jures;aultres qui travaillent aulx champs	sonnante	grille;tour;cassolle dest de fer;cueillere de fer;moules froids;moules;linge		
 029r	p029r_1	Stuc pour mouler	Stuc pour mouler	Stucco for molding								a lair;au serain	Stuc;gomme dragant;eau;gelee;mabre;farine de Segle;celle de froment;farine;pain;la paste du pain;huile;colle forte;colle de paste;or;plastre;plombe;ordure;croye;ceruse;bol;stuc	jour;jours	Segle;froment	romme				mabre;four;broisse;vaisseau plombe		
@@ -341,7 +349,7 @@ folio	div_id	heading_tc	heading_tcn	heading_tl	margin	has_figures	continued	cont
 059r	p058v_5							continues					laque;blanc de plomb;ceruse;huile;azur;cendre;azur dacre;azur desmail;tourmentine;huile de noix		noix	acre				pinceau;pallete;poincte dun costeau		
 059r	p059r_1	Ombres	Ombres	Shadows		CONTAINS FIGURE							vernis			italiens						
 059r	p059r_2	Azur	Azur	Azure									Azur;asur;huile de noix;huile daspic;azur desmail;huile;eau		noix;aspic					pinceau		
-059v	p059v_1	NoirPaincture darmes	NoirPaincture d’armes	BlackPainting of armory									noir de charbon;blanc de plomb;azur									
+059v	p059v_1	Noir Paincture darmes	Noir Paincture d’armes	Black Painting of armory									noir de charbon;blanc de plomb;azur									
 059v	p059v_2	Paincture de crespe	Paincture de crespe	Painting of crêpe									crespe;noir de charbon;blanc de plomb;asur									
 059v	p059v_3	Plis de vestements	Plis de vestements	Folds in clothing									gros drap;taffetas;draps de soye;crespe									
 059v	p059v_4	Desiccatif	Desiccatif	Desiccative									blanc de plomb;massicot;huile	jours;jour								
@@ -353,7 +361,7 @@ folio	div_id	heading_tc	heading_tcn	heading_tl	margin	has_figures	continued	cont
 060r	p060r_3	c_060r_01Huile	c_060r_01 Huile	Oil								expose au soleil	Huile;huile de noix;amendes pelees;palma christi;huile;huile gras;vernis;vernis commun;huiles;ceruse;plomb lime;blanc de plomb;verre p calcine pulverise;eau claire		noix;amendes					phiole		
 060v	p060v_1	Vernis sec en une heure	Vernis sec en une heure	Varnish dry in an hour								au vent	Vernis;huile de tourmentine blanc;termentine;mastic pulverise & passe subtillement par un tamis;eau de vye;mastic;tourmentine;huile blanc de tourmentine;mastic pulverise	heure;liards						tamis;baston;costeau		
 060v	p060v_2	Laver les tableaulx	c_060v_01 Laver les tableaulx	Cleaning panels						urine			eau de savon;urine;vin blanc									
-060v	p060v_3												Huile daspic;huile;huile sur le daspic;boys		aspic			painctres		pinceaulx a huile		
+060v	p060v_3	left-top Huile daspic	left-topc_060v_02 Huile d’aspic	left-topSpike lavender oil									Huile daspic;huile;huile sur le daspic;boys		aspic			painctres		pinceaulx a huile		
 060v	p060v_4	Couleur de bois	Couleur de bois	Wood color									bois;bistre;vernis									
 060v	p060v_5	Labeur des flamens	Labeur des Flamens	Work of the Flemish			continued						huile;poil			flamens		enlumineurs		poincte du pinceau;pinceau		
 061r	p060v_4							continues														
@@ -362,7 +370,7 @@ folio	div_id	heading_tc	heading_tcn	heading_tl	margin	has_figures	continued	cont
 061r	p061r_3	Blanc de plomb	Blanc de plomb	Lead white									Blanc de plomb;ceruse									
 061r	p061r_4	Jours	Jours	Lights		CONTAINS FIGURE				derriere de ta main		jour								pinceau		
 061v	p061v_1	Eau pour donner jour au painctre	Eau pour donner jour au painctre	Water to give light for the painter									Eau;eau de vigne					painctre		bouteille;chandelle		
-061v	p061v_2	Chassis des allemans	Chassis des Allemans	Frames of theGermans					rat				verre;toile;vernis clair de tourmentine;huile de tourmentine;tourmentine;poils de barbe de rat	moictie;presque moictie		allemans				Chassis;chassis;pinceaulx composes de deulx ou trois poils de barbe de rat		
+061v	p061v_2	Chassis des allemans	Chassis des Allemans	Frames of the Germans					rat				verre;toile;vernis clair de tourmentine;huile de tourmentine;tourmentine;poils de barbe de rat	moictie;presque moictie		allemans				Chassis;chassis;pinceaulx composes de deulx ou trois poils de barbe de rat		
 061v	p061v_3	Azur desmail a huile	Azur d’esmail à huile	Azur d’esmail in oil									Azur desmail;huile;eau;tourmentine;beurre;mortier;ceruse;azur							pallete;asses gros pinceau;pinceau;poincte du pinceau		
 061v	p061v_4	Broyer couleurs	Broyer couleurs	Grinding colors						poulce			mabre;verre;laque	espoisse dun verre poulce								
 062r	p062r_1	Perspectives	Perspectives	Perspectives									huile;destrempe							reigle		
@@ -393,8 +401,7 @@ folio	div_id	heading_tc	heading_tcn	heading_tl	margin	has_figures	continued	cont
 064r	p064r_6	Ocre jaulne	Ocre jaulne	Yellow ochre	left-top								Ocre jaulne									
 064r	p064r_7	Adoulcir	Adoulcir	Softening	left-middle								papier huile;bois;toile									
 064r	p064r_8	Œil	Œil	Eye	left-bottom															compas		
-064v	p064v_1	Aprentissaige du paintre	Aprentissaige du paintre	Apprenticeship of the painter									œuf;charbon					paintre		pinceau		
-064v	p064v_2			One also presents him with these strokes & lines		CONTAINS FIGURE							œuf									
+064v	p064v_1	Aprentissaige du paintre	Aprentissaige du paintre	Apprenticeship of the painter		CONTAINS FIGURE							œuf;charbon					paintre		pinceau		
 064v	p064v_3	Adoulcir	Adoulcir	Softening									azur desmail;huile;destrempe							pallete		
 064v	p064v_4	Lignes droictes	Lignes droictes	Straight lines																reigle		
 064v	p064v_5	Destrempe	Destrempe	Distemper									Destrempe;destrempe;huile									
@@ -411,10 +418,12 @@ folio	div_id	heading_tc	heading_tcn	heading_tl	margin	has_figures	continued	cont
 065v	p065v_7	Impression	Impression	Primingc_065v_04	left-bottom								laveures des pinceaulx a huile;huile;verdegris;ceruse;ocre & un peu de jaulne;massicot							pinceaulx a huile		
 066r	p066r_1	Doubles couches	Doubles couches	Double layers												flaments						
 066r	p066r_2	Umbres	Umbres	Shadows									Aspalte;terre dumbre;laque									
+066r	p066r_6	left-top*Or mat	left-top*Or mat	left-top* Or mat			continued			doigt		a la pluye	Or mat;massicot;mine;ocre de ru;ocre jaulne;or;cotton;vernis de flandres;eau de vye;vernis;or mat;huile;verdegris;or moulu;eau;dore	jour;heure;jours;once		flandres;france				plume;cotton;pinceaulx a huile;dent		
 066r	p066r_3	Paindre a destrempe sur bois	Paindre à destrempe sur bois	Painting in distemper on wood									destrempe;bois;glaire dœuf;jaulne;eau;pelures de figuier;huile;vernis		figuier					esponge		
 066r	p066r_4	Couleurs a huile qui semboivent	Couleurs à huile qui s’emboivent	Colors in oil that are imbibed									huile;vernis;toile;destrempe;bol;miel;suc dail									
-066r	p066r_5	Dorer mouleure de tableaulx dor mat	Dorer mouleure de tableaulx d’or mat	Gilding molding for panels with or mat			continued			doigt		a la pluye	or mat;colle a destrempe;noir de lampe;noir a noircir;colle;minium;massicot;ocre de ru;ocre jaulne;huile gras;huile;or;Or mat;mine;cotton;vernis de flandres;eau de vye;vernis;verdegris;or moulu;eau;dore	jour;heure;jours;once		flaments;flandres;france				pinceaulx a huile;plume;cotton;dent		
-066v	p066r_5							continues				au soleil;a la pluye	dorer;or mat;vernis;huile gras;ceruse;or bruny	heures						pinceaulx		
+066r	p066r_5	Dorer mouleure de tableaulx dor mat	Dorer mouleure de tableaulx d’or mat	Gilding molding for panels with or mat			continued						or mat;colle a destrempe;noir de lampe;noir a noircir;colle;minium;massicot;ocre de ru;ocre jaulne;huile gras;huile;or			flaments				pinceaulx a huile		
+066v	p066r_6							continues					dorer	heures								
+066v	p066r_5							continues				au soleil;a la pluye	or mat;vernis;huile gras;ceruse;or bruny							pinceaulx		
 066v	p066v_1	Garder de croistre les tetins dc_066v_03ou diminuer les trop grands	Garder de croistre les tetins dc_066v_03ou diminuer les trop grands	For preventing teats from swelling d or to diminish overly large ones						tetins			grands pains nouvellement tires du four;tourmentine de venise;tourmentine commune;sumach;prunelles de buissons;graine de coings;balaustes;fœilles dolivier;tourmentine;pain chault;eau de ruche de miel;miel;cire	par moictie;fois le jour;jours	sumach;prunelles;coings;balaustes;olivier	venise				four;linges trempes en eau de ruche de miel	Garder de croistre les tetins dc_066v_03ou diminuer les trop grands;ramolist;faict suer	
 066v	p066v_2	Pour attirer les pigeons	Pour attirer les pigeons	For attracting pigeons					pigeons				huile;chenevi		chenevi					poile		
 066v	p066v_3	Contre la meurtrisseure des yeulx	Contre la meurtrisseure des yeulx	Against bruising of the eyes						yeulx			lamines fort tanvres de plomb								Contre la meurtrisseure des yeulx	
@@ -541,7 +550,7 @@ folio	div_id	heading_tc	heading_tcn	heading_tl	margin	has_figures	continued	cont
 083v	p083v_2	Mouler de relief dune part et creux de laultre	Mouler de relief d’une part et creux de l’aultre	Molding in relief on one part and hollow on the other.						mains			cuivre;letton;metal;sable;crasse;ordure;vinaigre;vin;sable grossier;sable doulx & subtil;charbon de saule		saule					chassis;presse;mains;chevilles		
 083v	p083v_3	Souflets	Souflets	Bellows	left-middle							en lieu aire;vent	charbon							Souflets;souflets;fourneau;grille;four a vent;four;tuelle		
 084r	p084r_1	Masque in promptu	Masque in promptu	Impromptu mask									papier									
-084r	p084r_2											lieu sec	pain;mabre							four;moule;pile;tamise		
+084r												lieu sec	pain;mabre							four;moule;pile;tamise		
 084r	p084r_3	Eau magistra	Eau magistra	Eau magistra								cave	Eau magistra;sel gemme;sel;suin de verre subtilement pulverise;mabre;huile de tartre							mabre;moule		
 084r	p084r_4	Farine	Farine	Flour									Farine									
 084r	p084r_5	Sable de mine de Thoulouse	Sable de mine de Thoulouse	Sand from a mine in Thoulouse								mine de Thoulouse;au costau de puy david bien profond en terre	Sable de mine de Thoulouse;sable de thoulouse;suin de verre pulverise;verre pile;eaulx des susdicts sels;sable naturel;cuivre;fume			Thoulouse;thoulouse;puy david				pile;chauldiere de cuivre		
@@ -766,8 +775,8 @@ folio	div_id	heading_tc	heading_tcn	heading_tl	margin	has_figures	continued	cont
 120v	p120v_2	Anatomie	Anatomie	Anatomy									bonne chaulx vive									
 120v	p120v_3	Fayre courre largent	Fayre courre l’argent	Making silver run									argent;arsenic;tartre pulverises;argent fondu;aes ustum;limaille de letton cuivre menue due lantimoyne du sublime Subtilement pulverises;plastre;crocum;alum de plume;sel commun fondu;salpestre;tartre;limaille de cuivre;antimoyne;axunge									
 120v	p120v_6	Garder fleurs seiches en mesme fig_p120v_3https://drive.google.com/open?id=1PVlkb1lR_o9LNTFq4QNRxxQ-tP1QZHBj estat toute lannee	Garder fleurs seiches en mesme fig_p120v_3https://drive.google.com/open?id=1PVlkb1lR_o9LNTFq4QNRxxQ-tP1QZHBj estat toute l’année	Keeping dry flowers in the same fig_p120v_3https://drive.google.com/open?id=1PVlkb1lR_o9LNTFq4QNRxxQ-tP1QZHBjstate all year		CONTAINS FIGURE	continued			main		courant des eaulx;chambres;cabinets;au soleil;serain & humeur de la nuit;lieu sec;temps de pluye et humide;soleil	vinaigre distille;cire;mastic;resideure du vinaigre commun;sable;poulssiere;sable de riviere;linge;sable le plus maigre & aride que tu pourras trouver;esmail;poulsiere	quand leur saison passe	œillets;roses			orfevres		vase bien selle;pinceau;linge;boicte;grands vases		
-0121r	p120v_4							continues		doibs;poin		soleil chault;soleil	sable;Le sable de quoy les orfevres usent les esmaulx ou le blanc dont usent les verriers;sable de quoy les orfevres usent;esmaulx;sable maigre;poil de cheval;bled	horologe de sable;plusieurs jours	boufains;soulcis;ranunculus;palta lupina;amaranthe;genest;pensees			orfevres;verriers		boicte;doibs;horologe de sable;poin;tamis		
-0121r	p121r_1	Pour garder les fruits tout lan	Pour garder les fruits tout l’an	For keeping fruits all year						main;alener		temps serain & s bien sec;puys;cave	verre;paille;cire;eau;fœuilles de vigne		vigne				toucher;touchera	bouteilles de verre;boictes de verre;quaisse;pone ou ung cos de terre plein deau		
+121r	p120v_6							continues		doibs;poin		soleil chault;soleil	sable;Le sable de quoy les orfevres usent les esmaulx ou le blanc dont usent les verriers;sable de quoy les orfevres usent;esmaulx;sable maigre;poil de cheval;bled	horologe de sable;plusieurs jours	boufains;soulcis;ranunculus;palta lupina;amaranthe;genest;pensees			orfevres;verriers		boicte;doibs;horologe de sable;poin;tamis		
+121r	p121r_1	Pour garder les fruits tout lan	Pour garder les fruits tout l’an	For keeping fruits all year						main;alener		temps serain & s bien sec;puys;cave	verre;paille;cire;eau;fœuilles de vigne		vigne				toucher;touchera	bouteilles de verre;boictes de verre;quaisse;pone ou ung cos de terre plein deau		
 121v	p121v_1	Pour gecter en argent	Pour gecter en argent	For casting in silver						doigts;poulse			argent;sable;plastre;brique recuicte;alum de plume recuit;alum de plume pur recuit & pulverise;sel armoniac;eau commune;saulce espesse;moustarde claire;eau de vye;crocum;metaulx;argent allie est meilleur pour gecter que le fin;alum de plume;or;eau;letton	pars;part;escuelle de terre ou les paysans mangent leurs souppes;aultant que tu en pourras prendre avecq les 4 doigts et le poulse;petite joinctee	moustarde			paysans		escuelle de terre ou les paysans mangent leurs souppes;mortier;pallete;pinceau;table;molle;moules;escuelle		
 121v	p121v_2	Argent a gecter	Argent a gecter	Silver for casting							teston;sols		Argent;poinct argent fin ains allie;souldure;argent de teston;argent allie;argent;terre;terre areneuse;bourre dequoy les fondeurs se servent pour gecter leurs canons;bon luth;fil de fer;argent de Capitale;luter;or;cendres;Lutes	denier		Capitale		fondeurs;orfevres		bon luth;moules;fil de fer;luter;Lutes		
 122r	p122r_1	Plant des animaulx divers	Plant des animaulx divers	Arranging various animals		CONTAINS FIGURE			lesardes;serpents				cire;fil de fer							table;grosse aiguille;fil de fer chault par le bout;chassis;moule;poincte dun trancheplume;fil de fer		
@@ -1024,5 +1033,6 @@ folio	div_id	heading_tc	heading_tcn	heading_tl	margin	has_figures	continued	cont
 170r	p170r_5	Ouvrages espes destain	Ouvrages espés d’estain	Thick works of tin									estain;plomb;estain rouge									
 170r	p170r_6	Nettoyer moules clos	Nettoyer moules clos	Cleaning closed molds		CONTAINS FIGURE							cendre;fil delie de letton;paille subtile;cire;soulde;fil de letton;souldure;paincture							moules;fil delie de letton;paille subtile;chaple		
 170v	p170v_1										escus;livres;[sols]					Sainct frajou	sieur ouvryer					
-170v	p170v_2	Contre peste	Contre peste	Against plague							escues		opiate;eau de scabieuse ou buglose;vin fort trempe	poix dun escues	scabieuse;buglose						Contre peste;contre fiebvre pestilentiale;poison;peste	
-170v	p170v_3	Pour preserver	Pour preserver	For preserving						ore;naribus		chambre maison &	Acetum;ruta;baccis juniperi;aceto;rue;grains;vinaigre		ruta;baccis juniperi;rue;grains	mechliniensis	Georgio Bucanano;Rembertus Dodonæus;Des ormes;Tilesius;Marmodaeus;Othonis;Abbatis Uspergensis;Hyeronimus mercurialis	medicus		lateres igniti;piles	Pour preserver;pour preserver quand on va en aer infaict;oster linfection	
+170v	p170v_2	Contre peste	Contre peste	Against plague							escues		opiate;eau de scabieuse ou buglose;vin fort trempe	poix dun escues	scabieuse;buglose		Othonis				Contre peste;contre fiebvre pestilentiale;poison;peste	
+170v	p170v_3	Pour preserver	Pour preserver	For preserving						ore;naribus		chambre maison &	Acetum;ruta;baccis juniperi;aceto;rue;grains;vinaigre		ruta;baccis juniperi;rue;grains		Abbatis Uspergensis;Hyeronimus mercurialis			lateres igniti;piles	Pour preserver;pour preserver quand on va en aer infaict;oster linfection	
+170v	p170v_4															mechliniensis	Georgio Bucanano;Rembertus Dodonæus;Des ormes;Tilesius;Marmodaeus	medicus				
