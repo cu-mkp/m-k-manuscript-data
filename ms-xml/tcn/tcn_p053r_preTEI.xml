@@ -5,20 +5,20 @@
 
 <div>
 <id>p053r_1</id>
-<head><m>Soulder</m> un <tl>estoc</tl></head>
+    <head><m>Soulder</m> un <tl><oc>estoc</oc></tl><comment>c_053r_04</comment></head>
 
-<ab>Il est bon que les joues de l'<tl>estoc</tl> soient haultes pour y
+<ab>Il est bon que les joues de l’<tl><oc>estoc</oc></tl> soient haultes pour y
 former une<lb/>
 longue piece et que les joues joignent bien affin de serrer une
 chose<lb/>
 
-subtile. Pour <m>soulder</m> l'<tl>ancrou</tl>, aprés que tu as forgé la
+subtile. Pour <m>soulder</m> l’<tl>ancrou</tl>, aprés que tu as forgé la
 <tl>vis</tl>, tu <del>feras</del><lb/>
 
 forgeras une longue <m>liste de fer</m> <del>quar</del> de telle
-grosseur qu'elle puisse entrer dans<lb/>
+grosseur qu’elle puisse entrer dans<lb/>
 
-l'encochement de la <tl>vis</tl> estant rougie, &amp; luy <del>po</del>
+l’encochement de la <tl>vis</tl> estant rougie, &amp; luy <del>po</del>
 feras plier tout aultour,<lb/>
 
 la frapant du <tl>marteau</tl>. Y estant bien <del>jo</del> entourné, tu
@@ -35,20 +35,20 @@ entournée.</ab>
 <ab>Si au fœu &amp; à la fonte il touche le <m>fer</m>, ce <m>fer</m>
 sera aprés<lb/>
 
-si aigre qu'il ne se pourra forger.</ab>
+si aigre qu’il ne se pourra forger.</ab>
 
 </div>
 <div>
 <id>p053r_3</id>
 <head>Gect de <m>plomb</m></head>
 
-<ab>On le mesle selon aulcuns <ms>moictié</ms> d'<m>estain</m> &amp;
+<ab>On le mesle selon aulcuns <ms>moictié</ms> d’<m>estain</m> &amp;
 <ms>moictié</ms> <m>plomb</m>,<lb/>
 
 et pour lesch<del><ill/></del><add>afer</add> on y mesle un peu de
 <m>sublimé</m>. Il se gecte bien<lb/>
 
-en petit dans l'<tl><m>os de <al>seiche</al></m></tl> pourveu qu'il
+en petit dans l’<tl><m>os de <al>seiche</al></m></tl> pourveu qu’il
 soict bon.</ab>
 
 </div>
@@ -76,7 +76,7 @@ de noyau co<exp>mm</exp>e <pa>pavis</pa>, <pa>mericotons</pa>,
 <pa>alberges</pa>, <del>vie</del> <pa>abricots</pa> &amp;<sup>c.</sup>
 viennent<lb/>
 
-mieulx hantés sur l'<pa>amendier</pa> en escusson.</ab>
+mieulx hantés sur l’<pa>amendier</pa> en escusson.</ab>
 
 </div>
 <div>
@@ -102,10 +102,10 @@ Je croy que la<lb/>
 
 des <al>bœufs</al></m> ou<lb/>
 
-<m><al>mouton</al></m>, c'est à dire l'<m>os spongieulx</m> de
+<m><al>mouton</al></m>, c’est à dire l’<m>os spongieulx</m> de
 dedans,<lb/>
 
-moule fort net et est meilleure que l'<m>os</m>.</ab>
+moule fort net et est meilleure que l’<m>os</m>.</ab>
 
 <ab><margin>right-bottom</margin>
 Note que tout <m>metal aigre vient mieulx que le gras</m>. Aussy<lb/>

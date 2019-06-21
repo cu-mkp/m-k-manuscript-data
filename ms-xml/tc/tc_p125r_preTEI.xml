@@ -50,7 +50,7 @@ Tu le peulx diviser aussy en deulx ou troys branches ainsy
 
 de la chose moulee et fais tousjours des trous dans le gect</ab>
 
-<ab>&amp; de<comment>c_125r_02</comment> ses conduicts &amp; abrevouers
+<ab><hr/>&amp; de<comment>c_125r_02</comment> ses conduicts &amp; abrevouers
 tu y peulx mectre aussy de<lb/>
 
 petits fils de <m>cire</m> qui se raportent au corps Affin que<lb/>
@@ -60,7 +60,7 @@ le <m>metal</m> aille plus aysem<exp>ent</exp> dune partye a laultre
 
 promptement par tout Et de ses conduicts tu peulx mener<lb/>
 
-ton gect &amp; tes souspirails sans gaster aulcune chose</ab>
+ton gect &amp; tes souspirails sans gaster aulcune chose<hr/></ab>
 
 </div>
 
@@ -96,7 +96,7 @@ bien tost apres quil ha este recuit</ab>
 
 <ab>
 <margin>left-middle</margin>
-
+<render>tall</render>
 <mark>+</mark><lb/>
 
 Si tu moules de<lb/>
@@ -183,13 +183,7 @@ despouillent</ab>
 <id>p125r_2</id>
 <head>Symeterres</head>
 
-<man>
-
-<margin>left-middle</margin>
-
-A scavoir
-
-</man>
+<ab><hr/><emph>A scavoir</emph><comment>c_125r_04</comment><hr/></ab>
 
 <ab>Les <pro>ouvriers</pro> de <pl>damas</pl> ou d<pl>hongrie</pl>
 voisins des <pl>turcs</pl><lb/>
@@ -228,8 +222,7 @@ Silence</tmp> l<bp>oreille</bp> justem<exp>ent</exp> &amp; tu
 </div>
 
 <div>
-<id>p125r_4</id>
-<head>Secret</head>
+<ab><emph>Secret</emph><comment>c_125r_05</comment></ab>
 
 </div>
 </root>

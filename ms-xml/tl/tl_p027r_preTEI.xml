@@ -4,10 +4,10 @@
 <image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f59.image</image>
 
 <div>
+    
+<id>p027r_1</id>
 
-<cont/>
-
-<id>p026r_1</id>
+<head><fr>Bastarde</fr> ball</head>
 
 <figure>
 
@@ -15,22 +15,32 @@
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5S3loampQRU55UjQ</link>
 
-<caption><fr>Bastarde</fr> ball</caption>
-
 </figure>
+
+</div>
 
 <div>
 
+<id>p027r_2</id>
+    
+<head>Average ball</head>
+    
 <figure>
 
 <id>fig_p027r_2</id>
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5cE1VQlVlV2ZWakE</link>
 
-<caption>Average ball</caption>
-
 </figure>
 
+</div>
+    
+<div>
+
+<id>p027r_3</id>
+
+<head>Field piece</head>
+    
 <figure>
 
 <id>fig_p027r_3</id>
@@ -39,13 +49,8 @@
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5M2Ftb2g0bG1FQ3c</link>
 
-<caption>Field piece</caption>
-
 </figure>
 
 </div>
 
-<cont/>
-
-</div>
 </root>

@@ -7,9 +7,11 @@
 
 <cont/>
 
-<id>p107v_1</id>
+<id>p107r_1</id>
 
-<ab><tl>Molds</tl><comment>c_107v_08</comment> can only be used once for
+<ab>
+<margin>top</margin>
+<tl>Molds</tl><comment>c_107v_08</comment> can only be used once for
 fine things, like <pa>wormwood</pa> &amp; others, one needs to break
 them, but before one needs to dip them well into <m>water</m> in which
 the twice reheated things dissolve easily. Otherwise, you would not be
@@ -56,7 +58,7 @@ core be of the same substance. And if the <al>snake</al> or
 the animal is curved or folded, one ought to make the core of
 several pieces.</ab>
 
-<ab><rub>Test whether <m>distilled vinegar</m></rub> is
+<ab><emph>Test whether <m>distilled vinegar</m></emph> is
 appropriate for eating away &amp; dissolving what will be in the animal
 molded hollow.</ab>
 
@@ -73,6 +75,6 @@ this occasion, as fine as said, but leave it as the
 neatness of the cast &amp; gives more binding. When the <del><m>sand</m></del>
 <tl>mold</tl>, <del><fr>estant</fr></del> having set, retains the color
 <m>brick</m>, and is reddish, it is firmer.</ab>
-
+<cont/>
 </div>
 </root>

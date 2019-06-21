@@ -5,10 +5,9 @@
 
 <div>
 
-<cont/>
+<id>p027v_1</id>
 
-<id>p026r_1</id>
-
+<head><wp>Falconet</wp></head>
 <figure>
 
 <id>fig_p027v_1</id>
@@ -17,9 +16,14 @@
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5bW1tdUg0czEzTjg</link>
 
-<caption>Falconet</caption>
-
 </figure>
+</div>
+
+<div>
+<id>p027v_2</id>
+    
+<head><wp>Falconet</wp> of 4 <ms>quintals</ms>, alternatively <wp>passe-volant</wp>, is
+8 <ms><fr>pans</fr></ms> long</head>
 
 <figure>
 
@@ -29,11 +33,12 @@
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5OVloUjZocVpuVTg</link>
 
-<caption>Falconet of 4 <ms>quintals</ms>, alternatively passe-volant, is
-8 <ms>pans</ms> long</caption>
-
 </figure>
-
+</div>
+<div>
+<id>p027v_3</id>
+    
+<head>3 <ms>quintals</ms>, is 9 <ms><fr>pans</fr></ms> long</head>
 <figure>
 
 <id>fig_p027v_3</id>
@@ -42,21 +47,26 @@
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5OGJ5MXhrMVFtVTA</link>
 
-<caption>3 <ms>quintals</ms>, is 9 <ms>pans</ms> long</caption>
-
 </figure>
-
+</div>
+    
+<div>
+<id>p027v_4</id>
+<head>2 <ms>quintals</ms>, is one <ms><fr>cane</fr></ms> long, which
+is 8 <ms><pl>Montpellier</pl> <fr>pans</fr></ms></head>
 <figure>
 
 <id>fig_p027v_4</id>
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5OWVRTXVjNTljRnM</link>
 
-<caption>2 <ms>quintals</ms>, is one <ms><fr>cane</fr></ms> long, which
-is 8 <ms><pl>Montpellier</pl> <fr>pan</fr>s</ms> </caption>
-
 </figure>
+</div>
 
+<div>
+<id>p027v_5</id>
+<head>1 <ms>quintal</ms>, is six <ms><fr>pans</fr></ms> and a
+half</head>
 <figure>
 
 <id>fig_p027v_5</id>
@@ -65,11 +75,13 @@ is 8 <ms><pl>Montpellier</pl> <fr>pan</fr>s</ms> </caption>
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5T2k5QjJ0ZGtfc1U</link>
 
-<caption>1 <ms>quintal</ms>, is six <ms><fr>pans</fr></ms> and a
-half</caption>
-
 </figure>
+</div>
 
+<div>
+<id>p027v_6</id>
+<head>1 <ms>quintal</ms> and a half is 7 <ms><fr>pans</fr></ms> and a
+half</head>
 <figure>
 
 <id>fig_p027v_6</id>
@@ -78,11 +90,14 @@ half</caption>
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5WmlyWDktZUhka1E</link>
 
-<caption>1 <ms>quintal</ms> and a half is 7 <ms><fr>pans</fr></ms> and a
-half</caption>
-
 </figure>
+</div>
 
+<div>
+<id>p027v_7</id>
+    
+<head>60 <ms>lb</ms> <wp>musket</wp><comment>c_027v_01</comment>, is 5
+<ms><fr>pans</fr></ms> and a half or 6</head>
 <figure>
 
 <id>fig_p027v_7</id>
@@ -91,11 +106,13 @@ half</caption>
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5Z3BiOF9jTFlzdzA</link>
 
-<caption>60 <ms>lb</ms> <wp>musket</wp><comment>c_027v_01</comment>, is 5
-<ms><fr>pans</fr></ms> and a half or 6</caption>
-
 </figure>
+</div>
 
+<div>
+<id>p027v_8</id>
+<head>5 <ms>quintals</ms> is eleven <ms><fr>pans</fr></ms> and a
+half</head>
 <figure>
 
 <id>fig_p027v_8</id>
@@ -103,9 +120,6 @@ half</caption>
 <margin>bottom</margin>
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5MVh1MEdHdDZLWmc</link>
-
-<caption>5 <ms>quintals</ms> is eleven <ms><fr>pans</fr></ms> and a
-half</caption>
 
 </figure>
 

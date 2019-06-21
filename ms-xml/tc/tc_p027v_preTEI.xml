@@ -5,10 +5,9 @@
 
 <div>
 
-<cont/>
+<id>p027v_1</id>
 
-<id>p026r_1</id>
-
+<head><wp>Faulconeau</wp></head>
 <figure>
 
 <id>fig_p027v_1</id>
@@ -17,10 +16,19 @@
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5bW1tdUg0czEzTjg</link>
 
-<caption><wp>Faulconeau</wp></caption>
-
 </figure>
 
+</div>
+    
+<div>
+<id>p027v_2</id>
+<head><wp>Faulconeau</wp><lb/>
+        
+de 4 <ms>quint<exp>als</exp></ms><lb/>
+        
+autrem<exp>ent</exp> passevo<lb/>
+        
+lants tire 8 <ms>pa<exp>n</exp></ms>s</head>
 <figure>
 
 <id>fig_p027v_2</id>
@@ -29,16 +37,17 @@
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5OVloUjZocVpuVTg</link>
 
-<caption><wp>Faulconeau</wp><lb/>
-
-de 4 <ms>quint<exp>als</exp></ms><lb/>
-
-autrem<exp>ent</exp> passevo<lb/>
-
-lants tire 8 <ms>pa<exp>n</exp></ms>s</caption>
-
 </figure>
 
+</div>
+
+<div>
+<id>p027v_3</id>
+<head>3 <ms>quintals</ms><lb/>
+        
+tire de long<lb/>
+        
+9 <ms>pans</ms></head>
 <figure>
 
 <id>fig_p027v_3</id>
@@ -47,32 +56,38 @@ lants tire 8 <ms>pa<exp>n</exp></ms>s</caption>
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5OGJ5MXhrMVFtVTA</link>
 
-<caption>3 <ms>quintals</ms><lb/>
-
-tire de long<lb/>
-
-9 <ms>pans</ms></caption>
-
 </figure>
 
+</div>
+    
+<div>
+<id>p027v_4</id>
+<head>2 <ms>quint<exp>als</exp></ms><lb/>
+        
+tire de long<lb/>
+        
+une <ms>cane</ms> qui<lb/>
+        
+sont 8 <ms>pans<lb/>
+            
+de <pl>monpelier</pl></ms></head>
 <figure>
 
 <id>fig_p027v_4</id>
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5OWVRTXVjNTljRnM</link>
 
-<caption>2 <ms>quint<exp>als</exp></ms><lb/>
-
-tire de long<lb/>
-
-une <ms>cane</ms> qui<lb/>
-
-sont 8 <ms>pans<lb/>
-
-de <pl>monpelier</pl></ms></caption>
-
 </figure>
 
+</div>
+
+<div>
+<id>p027v_5</id>
+<head>1 <ms>quintal</ms><lb/>
+
+tire six <ms>pa<exp>n</exp>s</ms><lb/>
+        
+et demy</head>
 <figure>
 
 <id>fig_p027v_5</id>
@@ -81,14 +96,17 @@ de <pl>monpelier</pl></ms></caption>
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5T2k5QjJ0ZGtfc1U</link>
 
-<caption>1 <ms>quintal</ms><lb/>
-
-tire six <ms>pa<exp>n</exp>s</ms><lb/>
-
-et demy</caption>
-
 </figure>
 
+</div>
+    
+<div>
+<id>p027v_6</id>
+<head>1 <ms>quintal</ms><lb/>
+        
+et demy tire<lb/>
+        
+7 <ms>pans</ms> et demy</head>
 <figure>
 
 <id>fig_p027v_6</id>
@@ -97,14 +115,19 @@ et demy</caption>
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5WmlyWDktZUhka1E</link>
 
-<caption>1 <ms>quintal</ms><lb/>
-
-et demy tire<lb/>
-
-7 <ms>pans</ms> et demy</caption>
-
 </figure>
 
+</div>
+
+<div>
+<id>p027v_7</id>
+<head><wp>mousquet</wp><lb/>
+        
+de 60 <ms>lb</ms><lb/>
+        
+tire 5 <ms>pa<exp>n</exp>s</ms><lb/>
+        
+et demy ou 6</head>
 <figure>
 
 <id>fig_p027v_7</id>
@@ -113,16 +136,17 @@ et demy tire<lb/>
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5Z3BiOF9jTFlzdzA</link>
 
-<caption><wp>mousquet</wp><lb/>
-
-de 60 <ms>lb</ms><lb/>
-
-tire 5 <ms>pa<exp>n</exp>s</ms><lb/>
-
-et demy ou 6</caption>
-
 </figure>
 
+</div>
+
+<div>
+<id>p027v_8</id>
+<head>5 <ms>quintals</ms><lb/>
+        
+tire onze <ms>pans</ms><lb/>
+        
+et demy</head>
 <figure>
 
 <id>fig_p027v_8</id>
@@ -130,12 +154,6 @@ et demy ou 6</caption>
 <margin>bottom</margin>
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5MVh1MEdHdDZLWmc</link>
-
-<caption>5 <ms>quintals</ms><lb/>
-
-tire onze <ms>pans</ms><lb/>
-
-et demy</caption>
 
 </figure>
 
