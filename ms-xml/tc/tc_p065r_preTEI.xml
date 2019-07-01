@@ -47,7 +47,7 @@ femme a <m>destremp<ups>e</ups></m></ab>
 
 <ab>
 
-<margin>left-top</margin>
+<margin>left-middle</margin>
 
 La pouldre<lb/>
 
@@ -154,7 +154,8 @@ lhumidite fera prendre les couleurs</ab>
 
 <ab>
 
-<margin>left-middle</margin>
+<margin>left-top</margin>
+<render>tall</render>
 
 On ne peult<lb/>
 
@@ -182,7 +183,8 @@ avecq le <tl>pinceau</tl>.</ab>
 
 <ab>
 
-<margin>left-bottom</margin>
+<margin>left-top</margin>
+<render>tall</render>
 
 Toutes couleurs<lb/>
 
@@ -200,8 +202,8 @@ faire or couleur</ab>
 
 <ab>
 
-<margin>left-bottom</margin>
-
+<margin>left-top</margin>
+<render>tall</render>
 Toute couleur ou chose<lb/>
 
 qui se rend espesse<lb/>
