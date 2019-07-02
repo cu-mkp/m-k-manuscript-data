@@ -7,28 +7,37 @@
 
 <cont/>
 
-<id>p066r_5</id>
+<id>p066r_6</id>
 
 <ab>
 
-<margin>left-top</margin>
+<margin>left-bottom</margin>
+<render>tall</render>
 
 When gold color starts to grip, it is a sign that in ten or twelve
 <ms><tmp>hours</tmp></ms> it will be dry &amp; appropriate for
-<m>gilding</m>.</ab>
-
+<m>gilding</m>.<hr/></ab>
+</div>
+    
+<div>
+<cont/>
+<id>p066r_5</id>
 <ab>
 
-<margin>left-top</margin>
+<margin>left-bottom</margin>
+<render>tall</render>
 
 <mark>*</mark>
 
 To make <m><fr>or mat</fr></m> beautiful, put in a little <m>varnish</m>
 or <m>fatty oil</m>, not from that which is made from the cleaning of
-<tl><fr>pinceaulx</fr></tl>, but the pure, which is made fatty <env>in
+<tl>paintbrushes</tl>, but the pure, which is made fatty <env>in
 the sun</env> or mixed with <m>ceruse</m>.</ab>
 
-<ab><m><fr>Or mat</fr></m> of this sort is scarcely less beautiful than
+<ab>
+<margin>left-bottom</margin>
+<render>tall</render>
+<m><fr>Or mat</fr></m> of this sort is scarcely less beautiful than
 <del><fr>es</fr></del> <add><m>burnished gold</m></add>, and lasts
 longer <env>in the rain</env>, &amp; besides, &amp; is made sooner.
 <m>Burnished gold</m> is cracked <tmp>with time</tmp> &amp; comes apart
@@ -55,7 +64,7 @@ Next, make a plaster with <m><pl>Venice</pl> turpentine</m> or better,
 forgot, one needs, after having applied the <m>hot bread</m>, which
 <md>softens</md> &amp; <md>makes one sweat</md>, to put on <tl>linens soaked with <m>water
 from a honey beehive</m></tl>, that is to say <m>honey</m> &amp;
-<m>wax</m> extracted all together from the honeycomb.</ab>
+<m>wax</m> extracted all together from the <oc>bornat</oc>.<comment>c_066v_04</comment></ab>
 
 </div>
 
@@ -85,7 +94,7 @@ remedy.</ab>
 
 <id>p066v_4</id>
 
-<head><tl><fr>Pinceaulx</fr></tl></head>
+<head><tl>paintbrushes</tl></head>
 
 <ab>To make them well, cut the <m>hair from the tail of a
 <al>squirrel</al>’s fur</m>, <ms>as much in one go as one can hold in a

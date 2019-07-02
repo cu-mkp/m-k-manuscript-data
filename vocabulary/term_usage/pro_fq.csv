@@ -23,6 +23,7 @@
 3|apotiquaires
 3|Vitrier
 3|Marchant
+3|Maistre
 2|vitrier
 2|tondeur
 2|scribes
@@ -46,7 +47,7 @@
 2|Pintiers
 2|Pintier
 2|Orfevre
-2|Maistre
+2|Maistres
 2|Horlogeurs
 2|Canonier
 1|vulgaire
@@ -93,9 +94,11 @@
 1|mestiviers
 1|messager
 1|menusier
+1|medicus
 1|medicari
 1|masson
 1|marchans
+1|maistre
 1|lecteurs
 1|larrons
 1|jardiners
@@ -117,10 +120,10 @@
 1|fondeurs dartiglerie &amp; de cloches
 1|fondeurs dartiglerie
 1|fondableseurs
-1|ferriers
 1|febvre
 1|faiseurs de cuir dore
 1|faiseur de roues
+1|fabrorum
 1|espasiers
 1|escrivain
 1|enlumineurs
@@ -137,13 +140,13 @@
 1|chaudroniers
 1|chandeliers
 1|ceulx qui travaillent de vaissele &amp; grosserie
-1|ceulx qui font les foeilles de pierrerie
+1|ceulx qui font les fœilles de pierrerie
 1|ceulx qui font des pots
 1|ceulx qui aguisent
 1|celuy mesme qui ha faict le boys
 1|canonnier
 1|boutonniers aussi de verre
-1|blanchisseurs
+1|blanchisss
 1|bimbalotiers
 1|bergiers
 1|barbiers
@@ -173,7 +176,6 @@
 1|Marchans
 1|Maistres pintiers jures
 1|Maistres jures
-1|Maistres
 1|Maistre gonnin
 1|Maistre gonin
 1|Laboureur
@@ -183,7 +185,7 @@
 1|Gainier
 1|Fourbisseur
 1|Fontanier
-1|Fondeurs de menus ouvrages @destaim
+1|Fondeurs de menus ouvrages destaim
 1|Faiseur de natte
 1|Cordonnier
 1|Chirurgiens

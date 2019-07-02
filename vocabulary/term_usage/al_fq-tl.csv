@@ -3,8 +3,8 @@
 27|snake
 20|turtle
 20|horse
+17|lizards
 17|lizard
-16|lizards
 14|fly
 13|worms
 13|turtles
@@ -70,7 +70,7 @@
 2|Dragon
 2|Cuttlefish
 2|Crayfish
-2|Bénaris
+2|Benarris
 1|worm
 1|weasels
 1|water turtle
@@ -93,7 +93,6 @@
 1|silkworms
 1|shells
 1|serpent
-1|sand lizards
 1|rabbits
 1|porcupine
 1|piglet
@@ -111,6 +110,7 @@
 1|linnet
 1|lice
 1|larks
+1|largest vo flies
 1|large lizards
 1|large lizard
 1|lambs
@@ -127,7 +127,6 @@
 1|fleas
 1|fishes
 1|female silkworm seeds
-1|fattest vo flies
 1|ewes
 1|ewe
 1|earthworms
@@ -146,9 +145,9 @@
 1|cats
 1|cat
 1|calendras
-1|calendra
 1|calandra larks
 1|calandra lark
+1|calandra
 1|big rat
 1|benarris
 1|beef
@@ -182,7 +181,7 @@
 1|Calandrac_049v_04 larks
 1|Butterflies
 1|Bittern
-1|Benarris
+1|Benarrins
 1|Bats
 1|Bat
 1|Barbels

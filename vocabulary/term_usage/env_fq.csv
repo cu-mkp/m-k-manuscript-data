@@ -4,13 +4,14 @@
 11|muraille
 10|a la pluye
 8|cave
+7|vent
 7|soleil
-7|riviere
+6|chambre
 6|boutique
-5|vent
 5|maisons
 5|lieu humide
 5|garrigue
+4|riviere
 4|lieu sec
 4|grottes
 4|au serain
@@ -19,7 +20,6 @@
 3|froid
 3|fenestre
 3|en lieu humide
-3|chambre
 3|a lombre
 2|villes
 2|ville
@@ -39,7 +39,6 @@
 2|grange
 2|gelee
 2|fouye
-2|fontaine
 2|eglises
 2|cheminee
 2|au vent
@@ -108,7 +107,7 @@
 1|mayson
 1|maison ou ailleurs
 1|maison
-1|lumiere du foeu
+1|lumiere du fœu
 1|lieux humides
 1|lieu ou la flamme ne puisse porter domaige
 1|lieu mouille &amp; humide
@@ -133,7 +132,6 @@
 1|formillere
 1|forges de foix
 1|forests
-1|fontayne
 1|fontaines
 1|expose au soleil
 1|en un jardin A lair
@@ -192,8 +190,8 @@
 1|au plus chault soleil
 1|au planche ou lair ou&amp; le soleil le deseche
 1|au pied dune muraille
+1|au fœu
 1|au froict
-1|au foeu
 1|au feu
 1|au costau de puy david bien profond en terre
 1|apres un temps pluvieulx

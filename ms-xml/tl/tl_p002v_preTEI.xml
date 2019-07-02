@@ -7,8 +7,8 @@
 
 <id>p002v_1</id>
 
-<it/><ab>Practica, cioè nova inventione di contegiare, stampata in
-<pl>Brescia</pl> per Vincenzo Sabio<comment>c_002v_01</comment>.</ab>
+<ab><it>Practica, cioè nova inventione di contegiare, stampata in
+<pl>Brescia</pl> per <pn>Vincenzo Sabio</pn><comment>c_002v_01</comment></it>.</ab>
 
 </div>
 
@@ -41,10 +41,10 @@ red.</ab>
 <head><m>Sapphire</m></head>
 
 <ab><m>Pebbles</m> or <m>crystal</m> 8 <ms>℥</ms>,
-<m>minium</m> 16 <ms>℥</ms>, <m><pro>blacksmith</pro>'s
+<m>minium</m> 16 <ms>℥</ms>, <m><pro>blacksmith</pro>’s
 salt</m> 4 <ms>℥</ms>, sparkling
-<unc><m><fr>coryal</fr></m></unc><comment>c_002v_02</comment> 4
-<ms>grains</ms>. Fusion <unc>6</unc> <ms><tmp>hours</tmp></ms>.</ab>
+<m><fr>coryal</fr></m><comment>c_002v_02</comment> 4
+<ms>grains</ms>. Fusion 6<comment>c_002v_06</comment> <ms><tmp>hours</tmp></ms>.</ab>
 
 </div>
 </root>

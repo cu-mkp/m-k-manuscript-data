@@ -1,7 +1,7 @@
 114|lb
 58|℥
-46|half
-33|days
+47|half
+34|days
 32|ounce
 29|ounces
 26|quintals
@@ -12,54 +12,57 @@
 18|part
 16|day
 13|pan
-13|hour
 11|paces
 10|parts
-9|balls
-8|sols
+9|sous
+8|hour
 8|finger
 8|deniers
 7|grains
 7|dozen
 6|night
-6|month
 6|line
-6|half an ounce
 6|drop
 6|as much of one as the other
+5|up to the escutcheon
 5|quarter
 5|quart
 5|lines
+5|half an ounce
 5|foot
 5|as much of one as of the other
 4|quarter part
 4|pounds
 4|half a lb
+4|balls
 3|times a day
 3|third part
-3|space of fifteen days
 3|quarter hour
 3|pound
 3|pea
 3|pan of Montpellier
-3|linstock
-3|lien
+3|month
 3|lb.
+3|ladles
+3|ladle
 3|inches
+3|hora
 3|half ℥
 3|every year
 3|empan
 3|drams
+3|bundle
 3|aulne
 3|King's caliber
 2|years
 2|weeks
-2|up to the escusson
 2|twice as much
+2|three balls at the breech &amp; two in front
 2|thickness of three balls
 2|sufficient quantity
 2|spoonful
 2|size of a pea
+2|size of a bean
 2|several days
 2|pater nosters
 2|pan &amp; a half
@@ -68,13 +71,13 @@
 2|months
 2|livres per canne
 2|little finger
-2|linstocks
 2|league
 2|lb t.
 2|in summer
 2|hour &amp; a half
 2|height of a man
 2|handfuls
+2|half-septier
 2|half hour
 2|half a foot
 2|half a day
@@ -84,14 +87,16 @@
 2|during winter
 2|drops
 2|dose
+2|denier
 2|crucibles
-2|canne
+2|cane
 2|bucket
-2|as big as a bean
+2|as much as a bean
 2|ana
 2|a good quarter of an hour
 2|King’s pan
 1|ʒ
+1|écu's weight
 1||ʒ|
 1|year
 1|within the capacity of one of the bushels
@@ -108,6 +113,7 @@
 1|week
 1|water so hot, that, at the beginning, you cannot hold your finger in it
 1|walnut shell
+1|up to the top of the escutcheon
 1|until the beginning of August
 1|until Holy Week
 1|two times longer than the sausage
@@ -120,13 +126,14 @@
 1|to know when it is at a good heat, dip a little piece of twisted paper into it. If it blackens it without lighting, it is at a good heat. But if it burns it &amp; catches fire there, it is too hot
 1|to know if it is hot enough
 1|times per day
-1|thumbs
+1|thumbs breadth
+1|thumb's breadth
 1|thumb
-1|three parts of rosette &amp; one of the fine metal from a la big bell
+1|three parts of rosette &amp; one of the fine metal of a la large bell
 1|three or four days and three days and three nights
 1|third part of a ball
 1|third part into as many distances as is necessary with regard to the total division of the circle
-1|thin p, like the large cords of a spinet, for small works
+1|thin p, like the thick strings of a spinet, for small works
 1|thicknesses of paper
 1|thickness of two of its balls &amp; thethe threeird part of of a ball
 1|thickness of two of its balls &amp; the es a three third s part of a ball
@@ -137,17 +144,23 @@
 1|thickness of one ball &amp; two three parts the two
 1|thickness of one ball &amp; two thirds
 1|thickness of half a ball
+1|thickness of f five balls
 1|thickness of b two balls &amp;l three parts of one ball the one
 1|thickness of a thumb
 1|thickness of a teston
 1|thickness of a piece of paper
 1|thickness of a knife
-1|thickness of a coin of forty sols
+1|thickness of a coin of forty sous
 1|thickness of a ball &amp; two thirds
+1|thickness of 4 balls
+1|thick like cord, some
 1|the winter
 1|the thickness of a swan's quill
 1|the size of a walnut
+1|the size of a pinon
 1|the sixth part
+1|the same size as a bottle in which one boils tisane
+1|the length of 4 balls
 1|the back of a knife
 1|talentorum
 1|tablets
@@ -156,11 +169,10 @@
 1|square thumbs
 1|spoonfuls
 1|space of half an hour
+1|space of fifteen days
 1|space of 4 or five mornings
-1|sous
-1|sols from Spain
-1|sols from France
-1|sols for a denier
+1|sous from Spain
+1|sous from France
 1|small knife back
 1|small double handful
 1|small beads
@@ -169,7 +181,6 @@
 1|size of a pigeon egg
 1|size of a hazelnut
 1|size of a carnation pot
-1|size of a bean
 1|six times as much
 1|silver spoonfuls
 1|shovels
@@ -188,12 +199,10 @@
 1|quarter heavier than
 1|proportion
 1|poulces
-1|poulce
 1|pots
 1|pot
 1|plates
 1|pint
-1|pinon
 1|per day
 1|pepper grains
 1|pecks
@@ -201,7 +210,6 @@
 1|paternoster beads
 1|pater noster
 1|pas
-1|part of a ball
 1|paniers
 1|panier
 1|overnight in a good fire until the morning
@@ -210,7 +218,6 @@
 1|one weight of calcined pebbles on three of minium
 1|one quintal of metal for two of rosette
 1|one part of pumice stone calcined &amp; pulverized &amp; tr with three parts of minium
-1|one hour or a half hour
 1|one day and one night
 1|one &amp; a half quintal
 1|one &amp; a half of
@@ -220,9 +227,10 @@
 1|of such capacity that the end of a little finger can almost enter it
 1|needle’s worth
 1|nearly as much of one as the other
+1|natural day
 1|morning
 1|middle of the sheet
-1|measure of a bean
+1|meza onça
 1|long as the width of 4 or 5 fingers
 1|locks
 1|livres
@@ -240,9 +248,7 @@
 1|lb per quintal
 1|lb a dozen
 1|lb &amp; a half or two
-1|large like cord, some
 1|large enough that two fingertips can fit inside
-1|ladles
 1|king's feet
 1|kegs
 1|joint of your little finger
@@ -256,15 +262,15 @@
 1|hourglass
 1|hottish, such that you can hold it in your hand
 1|hot enough, like when one takes out the bread
+1|half-septiers
 1|half the quantity
-1|half setiers
 1|half ounce
 1|half of the others
 1|half of its thickness
 1|half lb
 1|half ladle
+1|half an arquebus ball
 1|half a walnut shell
-1|half a sestier
 1|half a lb.
 1|half a glass
 1|grains, like peas
@@ -291,9 +297,9 @@
 1|fifth
 1|every two years
 1|every eight days
+1|escutcheon
 1|equal distances
 1|eighth part
-1|ecu's weight
 1|earthenware bowl, from which the peasants eat their soup
 1|dozens
 1|dour
@@ -301,8 +307,6 @@
 1|double handful
 1|distances as small as those of the small cogwheels
 1|diameter of a ball &amp; a half
-1|denier
-1|demi-setier
 1|degree of heat
 1|coquillec_075v_02
 1|cool in such a way that I could hold my finger to it without burning myself
@@ -312,8 +316,8 @@
 1|caroli
 1|carat
 1|capacity of one pitcher or earthen jug
+1|canne
 1|canes
-1|cane
 1|caliber
 1|by two tiles
 1|by the width of one finger
@@ -321,40 +325,41 @@
 1|bucket an hour
 1|bowl with handles
 1|biggest
-1|big cauldron of the said river water
+1|big cauldron
 1|before Michaelmas
+1|ball
 1|at the end of a table
+1|at least as long
 1|as the size of a hazelnut with its shell
 1|as tall as three fingers
+1|as much sal ammoniac water as can be held in an egg
 1|as much pigeon dung as the said earth
 1|as much of the white calcined pebbles
 1|as much iron filings
-1|as much in one go as one can hold in a card folded up into a small tube
+1|as much in one go as one can hold in a card folded up like a small hollow cane
 1|as much horse dung
-1|as much essence of sal ammoniac as can be held in an egg
 1|as much as you can grab with 4 fingers and the thumb
-1|as much as the size of two walnuts
+1|as much as two walnuts
 1|as much as of one as the other
 1|as much as borax
+1|as much as a grain of millet
 1|as much
 1|as long as a ring finger
 1|as long as
-1|as long
 1|as large as a double liard
-1|as big as a grain of millet
 1|as a toothpick
 1|as a large walnut
 1|arm
+1|an hour or a half
 1|almost half
 1|all year
-1|alf
-1|after the bread is taken out
+1|after the bread has been taken out
 1|after mid-July until Michaelmas
 1|a third
 1|a quarter of an hour
 1|a long time
 1|a half league
-1|a half ball of an arquebus
+1|a good hour
 1|a glass thumb thick
 1|a day &amp; a night
 1|a day
@@ -366,4 +371,11 @@
 1|Half an ℥
 1|Half
 1|Dutch quill
+1|At the breech, 3 balls, &amp; 2 in front
+1|At the breech three balls
+1|At the breech it has three balls &amp; two in the front
+1|At the breech it has three balls &amp; two in front
+1|At the breech 3 balls, two in front
+1|3 balls thick
+1|3 balls &amp; a twelfth part of a ball
 1|

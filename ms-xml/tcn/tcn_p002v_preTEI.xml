@@ -7,10 +7,9 @@
 
 <id>p002v_1</id>
 
-<it/><ab>Practica, cioè nova inventione<lb/>di contegiare, stampata in
+<ab><it>Practica, cioè nova inventione<lb/>di contegiare, stampata in
 <pl>Brescia</pl><lb/>
-
-per Vincenzo Sabio.</ab>
+per <pn>Vincenzo Sabio</pn></it>.</ab>
 
 </div>
 
@@ -56,8 +55,8 @@ La mace a esté de v<exp>er</exp>t, jaulne<lb/>
 <ms>℥</ms>, <m>sel de <pro>febvre</pro></m> 4
 <ms>℥</ms>,<lb/>
 
-<unc><m>coryal</m></unc> extincellent 4 <ms>grains</ms>. Fuzion
-<unc>6</unc> <ms><tmp>heures</tmp></ms>.</ab>
+<m>coryal</m><comment>c_002v_02</comment> extincellent 4 <ms>grains</ms>. Fuzion
+6<comment>c_002v_06</comment> <ms><tmp>heures</tmp></ms>.</ab>
 
 </div>
 </root>

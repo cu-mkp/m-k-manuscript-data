@@ -9,11 +9,11 @@
 
 <ab>
 
-@L<tmp>an</tmp> mil cinq cens septante huict le deuxiesme de <tmp>Juillet</tmp> a este
+L<tmp>an</tmp> mil cinq cens septante huict le deuxiesme de <tmp>Juillet</tmp> a este
 faict<lb/>
 
 Transport aulx heritiers d<del>e</del><add>u</add> feu <pn>s<exp>ieu</exp>r
-ouvryer</pn> <del>deux cens cinq <cn>escus</cn></del><lb/>
+ouvryer</pn> <del>deux cens cinq <cn>escu<ups>s</ups></cn></del><lb/>
 
 du Rentement de <pl>S<exp>ainc</exp>t frajou</pl> montant douze cens trente
 <cn>livres</cn></ab>
@@ -21,13 +21,13 @@ du Rentement de <pl>S<exp>ainc</exp>t frajou</pl> montant douze cens trente
 <ab>Autre transport leur a este faict sur les fruictz de l<tmp>annee</tmp><lb/>
 
 mil cinq cens septante neuf de <del>deux</del>
-<add>trois</add><comment>c_170v_01</comment> @cens quarante trois
+<add>trois</add><comment>c_170v_01</comment> cens quarante trois
 <cn>escus</cn><lb/>
 
 un tiers <del>sur qu</del></ab>
 
-<ab>Et leur reste sur la premiere annee quatre vintg <cn>livres</cn> quinze
-<cn>[sols]</cn><lb/>
+<ab>Et leur reste sur la premiere annee quatre vintg <cn>livres</cn> quinz<ups>e</ups>
+<ups><figure><id>fig_p170v_2</id><link>https://drive.google.com/open?id=1MayV4ZIaGElXC-ztkjtbKF9pZw6sTZle</link></figure></ups><comment>c_170v_03</comment><lb/>
 
 Et sur la seconde Judication nont encore rien Repceu</ab>
 
@@ -35,19 +35,29 @@ Et sur la seconde Judication nont encore rien Repceu</ab>
 
 <div>
 <id>p170v_2</id>
-<head>@ <md>Contre peste</md></head><comment>c_170v_02</comment>
+<head> <md>Contre peste</md></head><comment>c_170v_02</comment>
 
 <ab>P<exp>rends</exp> <md>contre fiebvre pestilentiale</md> ou <md>poison</md> ou <md>peste</md> le
 <ms>poix<lb/>
 
 dun <cn>escues</cn></ms> de ton <m>opiate</m> destrempe avecq <m>eau de
-scabieuse</m> ou<lb/>
+<pa>scabieuse</pa> ou<lb/>
 
-<m><pa>buglose</pa></m> ou <m>vin fort trempe</m> quand on est touche
+<pa>buglose</pa></m> ou <m>vin fort trempe</m> quand on est touche
 Apres la<lb/>
 
 prinse il se fault faire suer</ab>
 
+<ab>
+        
+<margin>left-middle</margin>
+        
+<la><pn>Othonis</pn> Epi<exp>scopi</exp><lb/>
+            
+frisigensis<lb/>
+            
+ab orbe condito</la></ab>
+    
 </div>
 
 <div>
@@ -77,50 +87,46 @@ co<exp>mm</exp>e<lb/>
 
 devant</ab>
 
-<ab><rub><la>Reru<exp>m</exp> scoticarum historia <pn>Georgio Bucanano</pn>
-auth<exp>ore</exp></la></rub></ab>
-
-<ab><rub><la><pn>Rembertus Dodonæus</pn> <pl>mechliniensis</pl> <pro>medicus</pro><lb/>
-
-de stirpium historia</la></rub></ab>
-
-<ab><rub><pn>Des ormes</pn> de linvention de bien bastir et aultres
-oeuvres</rub></ab>
-
-<ab><rub><la><pn>Tilesius</pn> de coloribus Vascosan</la></rub></ab>
-
-<ab><rub><la><pn>Marmodaeus</pn> <del>ge</del> de lapillis
-præciosis</la></rub><comment>c_170v_05</comment></ab>@<comment>c_170v_04</comment>
 
 <ab>
-
+        
 <margin>left-middle</margin>
-
-<la><pn>Othonis</pn> Epi<exp>scopi</exp><lb/>
-
-frisigensis<lb/>
-
-ab orbe condito</la></ab>
-
-<ab>
-
-<margin>left-middle</margin>
-
+        
 <la><pn>Abbatis<lb/>
-
+            
 Uspergensis</pn><lb/>
-
+            
 chronic</la></ab>
-
+    
 <ab>
-
+        
 <margin>left-middle</margin>
-
+        
 <la><pn>Hyeronimus<lb/>
-
+            
 mercurialis</pn><lb/>
+            
+variarum</la></ab><comment>c_170v_06</comment>
 
-variarum</la></ab>@<comment>c_170v_06</comment>
+</div>
+    
+<div>
+<id>p170v_4</id>
+
+<ab><emph><la>Reru<exp>m</exp> scoticarum historia <pn>Georgio Bucanano</pn>
+auth<exp>ore</exp></la></emph></ab>
+
+<ab><emph><la><pn>Rembertus Dodonæus</pn> <pl>mechliniensis</pl> <pro>medicus</pro><lb/>
+
+de stirpium historia</la></emph></ab>
+
+<ab><emph><pn>Des ormes</pn> de linvention de bien bastir et aultres
+œuvres</emph></ab>
+
+<ab><emph><la><pn>Tilesius</pn> de coloribus Vascosan</la></emph></ab>
+
+<ab><emph><la><pn>Marmodaeus</pn> <del>ge</del> de lapillis
+præciosis</la></emph><comment>c_170v_05</comment></ab><comment>c_170v_04</comment>
 
 </div>
 </root>

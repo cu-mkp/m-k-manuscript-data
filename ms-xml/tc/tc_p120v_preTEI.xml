@@ -12,7 +12,7 @@
 <ab>mange de luy mesme Et pour luy<comment>c_120v_01</comment> convier
 mieulx tu peulx bien<lb/>
 
-mectre parmy la <m>chair &amp; loeuf</m> quelque <m><al>ver de
+mectre parmy la <m>chair &amp; lœuf</m> quelque <m><al>ver de
 farine</al> vif</m><lb/>
 
 car il en est fort friand</ab>
@@ -78,7 +78,7 @@ Si le <del>s</del> <m>plastre</m> est bon il ny fault point de
 
 l<m>argent</m> Mays on mect plus d<m>alum de plume</m><lb/>
 
-<add>@<comment>c_120v_02</comment>Il y fault aussy du <m>sel commun
+<add><comment>c_120v_02</comment>Il y fault aussy du <m>sel commun
 fondu</m> &amp; du <m>salpestre</m> avecq les<lb/>
 
 drogues susdictes <m>arsenic</m> <m>tartre</m> <m><la>aes ustum</la></m>
@@ -86,14 +86,14 @@ drogues susdictes <m>arsenic</m> <m>tartre</m> <m><la>aes ustum</la></m>
 
 <m>antimoyne</m> &amp;</add></del></ab>
 
-<comment>c_120v_03</comment><rub><comment>c_120v_04</comment>Voy</rub>
-le second foeillet suivant
+<comment>c_120v_03</comment><emph><comment>c_120v_04</comment>Voy</emph>
+le second fœillet suivant
 
-<ab>
-<man><margin>left-middle</margin>
+<ab><margin>left-middle</margin>
+<emph>
 <del><la>Siscitatio<lb/>
 
-dubia</la></del></man>
+dubia</la></del></emph>
 
 </ab>
 
@@ -121,7 +121,7 @@ Et de l<m>arsenic</m>
 
 <head>Garder fleurs seiches en mesme<lb/>
 
-<figure/> estat <tmp>toute lannee</tmp></head>
+<figure><id>fig_p120v_3</id><link>https://drive.google.com/open?id=1PVlkb1lR_o9LNTFq4QNRxxQ-tP1QZHBj</link></figure> estat <tmp>toute lannee</tmp></head>
 
 <ab>
 
@@ -147,7 +147,7 @@ Le plus maigre est le meilleur</ab>
 
 <ab>
 <margin>right-middle</margin>
-Le <m>sable de <env>riviere</env></m> lave<lb/>
+Le <m>sable de riviere</m> lave<lb/>
 
 par le <env>coura<exp>n</exp>t des eaulx</env> est<lb/>
 
@@ -232,7 +232,7 @@ tirer tout</ab>
 
 <ab>
 <margin>bottom</margin>
-Advise bien de ne coeuillir pas tes fleurs<lb/>
+Advise bien de ne cœuillir pas tes fleurs<lb/>
 
 <del>q</del> en <env>temps de pluye et humide</env> Mays lors<lb/>
 

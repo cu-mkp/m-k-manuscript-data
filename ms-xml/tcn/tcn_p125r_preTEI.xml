@@ -10,17 +10,8 @@
 <id>p124v_3</id>
 
 <ab>
-<margin>left-top</margin>
-
-<figure>
-
-<id>fig_p125r_1</id>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5ZHJJRXJlU2RFZlk</link>
-
-</figure>
-
-des petits rouleaulx, tu fais tes gects et souspirails sans danger
+<margin>left-middle</margin>
+<mark>🝋</mark>des petits rouleaulx, tu fais tes gects et souspirails sans danger
 d’escrouster &amp; enlever<lb/>
 
 rien du <tl>moule</tl> pource que la <m>cire</m> s’ostant laisse la
@@ -59,7 +50,7 @@ Tu le peulx diviser aussy en deulx ou troys branches ainsy:
 
 de la chose moulée, et fais tousjours des trous dans le gect.</ab>
 
-<ab>&amp; de<comment>c_125r_02</comment> ses conduicts &amp; abrevouers,
+<ab><hr/>&amp; de<comment>c_125r_02</comment> ses conduicts &amp; abrevouers,
 tu y peulx mectre aussy de<lb/>
 
 petits fils de <m>cire</m> qui se raportent au corps, affin que<lb/>
@@ -69,7 +60,7 @@ le <m>metal</m> aille plus aysem<exp>ent</exp> d’une partye à l’aultre
 
 promptement par tout. Et de ses conduicts tu peulx mener<lb/>
 
-ton gect &amp; tes souspirails sans gaster aulcune chose.</ab>
+ton gect &amp; tes souspirails sans gaster aulcune chose.<hr/></ab>
 
 </div>
 
@@ -101,13 +92,13 @@ ne mouleras jamays bien net si <corr><del>ne</del></corr> tu ne
 destrempes bien clair<lb/>
 
 &amp; liquide ton <m>plastre</m> ou <m>sable de noyau</m>. Destrempe le
-<del><tl>mortier</tl></del><lb/>
+<del>inco<exp>n</exp>tinent</del><lb/>
 
 bien tost aprés qu’il ha esté recuit.</ab>
 
 <ab>
 <margin>left-middle</margin>
-
+<render>tall</render>
 <mark>+</mark><lb/>
 Si tu moules de<lb/>
 
@@ -193,13 +184,7 @@ despouillent.</ab>
 <id>p125r_2</id>
 <head>Symeterres</head>
 
-<man>
-
-<margin>left-middle</margin>
-
-A sçavoir
-
-</man>
+<ab><hr/><emph>A sçavoir</emph><comment>c_125r_04</comment><hr/></ab>
 
 <ab>Les <pro>ouvriers</pro> de <pl>Damas</pl> ou d’<pl>Hongrie</pl>,
 voisins des <pl>Turcs</pl>,<lb/>
@@ -210,7 +195,7 @@ de ce premier<lb/>
 <m>acier</m> fondu premierem<corr><exp>ent</exp></corr> de sa
 <env>mine</env>, ilz gectent en <m>sable</m> des<lb/>
 
-<del>sab</del> lames de cimeterre qui couppent aprés l’aultre
+<del>sab</del> lames de <wp>cimeterre</wp> qui couppent aprés l’aultre
 <m>fer</m><lb/>
 
 sans grande difficulté, pource que tout <m>fer fondu</m> est plus<lb/>
@@ -218,9 +203,9 @@ sans grande difficulté, pource que tout <m>fer fondu</m> est plus<lb/>
 dur que le <m>fer douls</m> battu en gueuses &amp; barres. Ainsy
 est<lb/>
 
-de l’<m>acier</m> des cimeterres, mays il est fort brusc. Quand on<lb/>
+de l’<m>acier</m> des <wp>cimeterres</wp>, mays il est fort brusc. Quand on<lb/>
 
-des<del>b</del>manche un cimeterre, on cognoist bien par la queue<lb/>
+des<del>b</del>manche un <wp>cimeterre</wp>, on cognoist bien par la queue<lb/>
 
 qui entre dans le manche qu’il est gecté en <m>sable</m>.</ab>
 
@@ -239,8 +224,7 @@ silence</tmp> l’<bp>oreille</bp> justem<exp>ent</exp>, &amp; tu
 </div>
 
 <div>
-<id>p125r_4</id>
-<head>Secret</head>
+<ab><emph>Secret</emph><comment>c_125r_05</comment></ab>
 
 </div>
 </root>

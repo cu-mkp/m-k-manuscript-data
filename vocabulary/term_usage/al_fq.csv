@@ -9,6 +9,7 @@
 12|seiche
 12|mouche
 12|escrevisses
+12|bœuf
 11|mouton
 11|lesards
 11|iraigne
@@ -16,7 +17,6 @@
 9|rat
 9|poisson
 9|chevaulx
-9|bœuf
 7|chiens
 7|chien
 6|oiseaulx
@@ -40,7 +40,7 @@
 3|papillon
 3|oyseaulx
 3|celles de garrigue
-3|boeuf
+3|bœufs
 3|benarris
 3|Rossignol
 3|Oyseaulx
@@ -64,7 +64,6 @@
 2|cerf volant
 2|celles deau
 2|calendres
-2|bœufs
 2|butor
 2|Tortues
 2|Serpens
@@ -131,7 +130,6 @@
 1|grosses vomouches
 1|grosses mouches
 1|grenoilles
-1|grands lesards
 1|grand rat
 1|grand lezard
 1|fouines
@@ -163,7 +161,6 @@
 1|bouc
 1|bons chevaulx
 1|bombicum
-1|boeufs
 1|beuf
 1|benarrins
 1|bellettes

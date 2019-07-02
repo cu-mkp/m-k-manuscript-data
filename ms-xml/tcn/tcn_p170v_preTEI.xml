@@ -9,7 +9,7 @@
 
 <ab>
 
-<comment>c_170v_08</comment>@L’<tmp>an</tmp> mil cinq cens septante huict le
+<comment>c_170v_08</comment>L’<tmp>an</tmp> mil cinq cens septante huict le
 deuxiesme de <tmp>juillet</tmp> a esté faict<lb/>
 
 transport aulx heritiers d<del>e</del><add>u</add> feu <pn>s<exp>ieu</exp>r
@@ -18,17 +18,17 @@ Ouvryer</pn> <del>deux cens cinq <cn>escus</cn></del><lb/>
 du rentement de <pl>S<exp>ainc</exp>t Frajou</pl>, montant douze cens trente
 <cn>livres</cn>.</ab>
 
-<ab>Autre transport leur a esté faict sur les fruictz de l'<tmp>année</tmp><lb/>
+<ab>Autre transport leur a esté faict sur les fruictz de l’<tmp>année</tmp><lb/>
 
 mil cinq cens septante neuf de <del>deux</del> <add>trois</add> cens
 quarante trois <cn>escus</cn><lb/>
 
 un tiers <del>sur qu</del>.</ab>
 
-<ab>Et leur reste sur la premiere annee quatre vintg <cn>livres</cn> quinze
-<cn>[sols]</cn>,<lb/>
+<ab>Et leur reste sur la premiere annee quatre vintg <cn>livres</cn> quinze 
+<figure><id>fig_p170v_2</id><link>https://drive.google.com/open?id=1MayV4ZIaGElXC-ztkjtbKF9pZw6sTZle</link></figure>,<comment>c_170v_02</comment><lb/>
 
-et sur la seconde judication n'ont encore rien repceu.</ab>
+et sur la seconde judication n’ont encore rien repceu.</ab>
 
 </div><comment>c_170v_07</comment>
 
@@ -39,13 +39,19 @@ et sur la seconde judication n'ont encore rien repceu.</ab>
 <ab>P<exp>rends</exp> <md>contre fiebvre pestilentiale</md>, ou <md>poison</md>, ou <md>peste</md>,
 le <ms>poix<lb/>
 
-d'un <cn>escues</cn></ms> de ton <m>opiate</m> destrempé avecq <m>eau de
-scabieuse</m> ou<lb/>
+d’un <cn>escues</cn></ms> de ton <m>opiate</m> destrempé avecq <m>eau de
+<pa>scabieuse</pa></m> ou<lb/>
 
 <m><pa>buglose</pa></m>, ou <m>vin fort trempé</m>, quand on est touché.
 Aprés la<lb/>
 
 prinse, il se fault faire suer.<comment>c_170v_09</comment></ab>
+
+<ab><margin>left-middle</margin><la><pn>Othonis</pn> Epi<exp>scopi</exp><lb/>
+
+frisigensis<lb/>
+        
+ab orbe condito</la></ab>
 
 </div>
 
@@ -59,14 +65,14 @@ juniperi</pa></m> simul tusis. Eo<lb/>
 <m>aceto</m> extinguantur <tl>lateres igniti</tl> et vapor excipiatur
 <bp>ore</bp> &amp;<lb/>
 
-<bp>naribus</bp></la>. C'est <md>pour preserver qua<exp>n</exp>d on va en
+<bp>naribus</bp></la>. C’est <md>pour preserver qua<exp>n</exp>d on va en
 aer infaict</md>.<lb/>
 
 Un acoustrement se peult parfumer ainsy &amp; <add>en</add> <md>oster
-l'infection</md>,<lb/>
+l’infection</md>,<lb/>
 
 la <env>chambre, maison &amp;<sup>c</sup></env>. Si tu te trouves en
-lieu ou n'ayes<lb/>
+lieu ou n’ayes<lb/>
 
 ceste preparation, porte <m><pa>rue</pa></m> &amp;
 <m><pa>grains</pa></m> <tl>pilés</tl> ensemble,<lb/>
@@ -76,39 +82,38 @@ co<exp>mm</exp>e<lb/>
 
 devant.</ab>
 
-<ab><rub>@ <la>Reru<exp>m</exp> Scoticarum Historia, <pn>Georgio Bucanano</pn>
-auth<exp>ore</exp></la></rub></ab>
-
-<ab><rub><la><pn>Rembertus Dodonæus</pn> <pl>Mechliniensis</pl> <pro>medicus</pro>,<lb/>
-
-de stirpium historia</la></rub></ab>
-
-<ab><rub><pn>Des Ormes</pn>, De l'invention de bien bastir et aultres
-oeuvres</rub></ab>
-
-<ab><rub><la><pn>Tilesius</pn>, De coloribus, Vascosan</la></rub></ab>
-
-<ab><rub><la><pn>Marmodaeus</pn>, <del>ge</del> De lapillis
-præciosis</la></rub></ab>
-
-<ab><margin>left-middle</margin><la><pn>Othonis</pn> Epi<exp>scopi</exp><lb/>
-
-frisigensis<lb/>
-
-ab orbe condito</la></ab>
-
 <ab><margin>left-middle</margin><la><pn>Abbatis<lb/>
-
+        
 Uspergensis</pn><lb/>
-
+        
 chronic</la></ab>
-
-<ab><margin>left-middle</margin><la>@
+    
+<ab><margin>left-middle</margin><la>
 <pn>Hyeronimus<comment>c_170v_11</comment><lb/>
-
+            
 mercurialis</pn><lb/>
-
+        
 variarum</la></ab>
+
+</div>
+    
+<div>
+<id>p170v_4</id>
+        
+<ab><emph> <la>Reru<exp>m</exp> Scoticarum Historia, <pn>Georgio Bucanano</pn>
+auth<exp>ore</exp></la></emph></ab>
+
+<ab><emph><la><pn>Rembertus Dodonaeus</pn> <pl>Mechliniensis</pl> <pro>medicus</pro>,<lb/>
+
+de stirpium historia</la></emph></ab>
+
+<ab><emph><pn>Des Ormes</pn>, De l’invention de bien bastir et aultres
+œuvres</emph></ab>
+
+<ab><emph><la><pn>Tilesius</pn>, De coloribus, Vascosan</la></emph></ab>
+
+<ab><emph><la><pn>Marmodaeus</pn>, <del>ge</del> De lapillis
+praeciosis</la></emph></ab>
 
 </div>
 </root>

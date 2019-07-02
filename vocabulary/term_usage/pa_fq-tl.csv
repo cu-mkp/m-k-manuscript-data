@@ -2,15 +2,15 @@
 32|wheat
 26|walnut
 18|rose
-15|vine
+16|vine
 14|olive
 12|linseed
 11|willow
 10|grain
 9|grapes
 8|millet
+8|fig tree
 7|pastel
-7|fig tree
 7|elm
 6|sage
 6|pastel woad
@@ -19,7 +19,6 @@
 5|pansy
 5|marigold
 5|heather
-5|cotton
 5|bean
 5|Wheat
 4|wormwood
@@ -76,6 +75,7 @@
 1|yellow meadow flowers
 1|woad
 1|white mulberry
+1|wheat chaff
 1|weld
 1|walnut oil
 1|wallwort
@@ -96,6 +96,7 @@
 1|sloes
 1|service tree
 1|semperviva
+1|scabious
 1|sauvignons
 1|saltworth
 1|rye
@@ -122,6 +123,7 @@
 1|pappus
 1|pansies
 1|palta lupina
+1|palma christi
 1|orberégrain
 1|oranges
 1|orange tree
@@ -161,7 +163,6 @@
 1|fustet
 1|flax
 1|fir tree
-1|fig-tree
 1|fern
 1|fenugreek
 1|ettuce
@@ -169,6 +170,7 @@
 1|elm root
 1|dittany
 1|dandelion
+1|cotton
 1|cornflowers
 1|cornflower
 1|cooking herbs
@@ -176,7 +178,6 @@
 1|cloves
 1|cherries
 1|chauches
-1|chaff
 1|carnations
 1|carnation
 1|caper plant
@@ -212,6 +213,7 @@
 1|Peach tree
 1|Pastel woad
 1|Pansies
+1|Palma christi
 1|Orberé grain
 1|Orange trees
 1|Olives
@@ -225,4 +227,5 @@
 1|Asparagus
 1|Apricot trees
 1|Amaranth
+1|Aloe
 1|

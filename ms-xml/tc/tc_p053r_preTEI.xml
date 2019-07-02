@@ -5,9 +5,9 @@
 
 <div>
 <id>p053r_1</id>
-<head><m>Soulder</m> un <tl>estoc</tl></head>
+    <head><m>Soulder</m> un <tl><oc>estoc</oc></tl><comment>c_053r_04</comment></head>
 
-<ab>Il est bon que les joues de l<tl>estoc</tl> soient haultes pour y
+<ab>Il est bon que les joues de l<tl><oc>estoc</oc></tl> soient haultes pour y
 former une<lb/>
 
 longue piece Et que les joues joignent bien affin de serrer une
@@ -20,7 +20,7 @@ forgeras une longue <m>liste de fer</m> <del>quar</del> de telle
 grosseur quelle puisse entrer dans<lb/>
 
 lencochement de la <tl>vis</tl> estant rougie &amp; luy <del>po</del>
-feras plier tout aultour<lb/>
+feras plier tout aulto<ups>ur</ups><lb/>
 
 la frapant du <tl>marteau</tl> Y estant bien <del>jo</del> entourne Tu
 <del>la</del> feras<lb/>
@@ -34,7 +34,7 @@ entournee</ab>
 <id>p053r_2</id>
 <head><m>Cuivre</m></head>
 
-<ab>Si au foeu &amp; a la fonte il touche le <m>fer</m> Ce <m>fer</m>
+<ab>Si au fœu &amp; a la fonte il touche le <m>fer</m> Ce <m>fer</m>
 sera apres<lb/>
 
 si aigre quil ne se pourra forger
@@ -95,8 +95,8 @@ mieulx hantes sur l<pa>amendier</pa> en escusson</ab>
 <ab>Le <m>plomb</m> &amp; <m>estaim</m> vient bien en <m>croye
 blanche</m> mays tant<lb/>
 
-plus elle est doulce elle est meilleure Celle de
-<pl>champaigne</pl><lb/>
+plus elle est doulce elle est meilleure <m>Celle de
+<pl>champaigne</pl></m><lb/>
 
 obtient le prix qui se porte a <pl>lyon</pl> Les <m>os de
 <al>cheval</al><lb/>
@@ -111,9 +111,9 @@ brusles &amp; calcines</m> moulent fort net</ab>
 
 Je croy que la<lb/>
 
-<m>moele des cornes<lb/>
+<m>mœle des cornes<lb/>
 
-des <al>boeufs</al></m> ou<lb/>
+des <al>bœufs</al></m> ou<lb/>
 
 <m><al>mouton</al></m> cest a dire l<m>os spongieulx</m> de dedans<lb/>
 
