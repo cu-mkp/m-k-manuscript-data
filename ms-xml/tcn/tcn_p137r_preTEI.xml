@@ -83,7 +83,7 @@ duquel soict<lb/>
 
 remply un <tl>pot</tl><lb/>
 
-ou <tl>vaisseau</tl><comment>c_137r_01</comment>.</ab>
+ou <tl>vaisseau</tl><comment>c_137r_01</comment>.<hr/></ab>
 
 </div>
 
@@ -118,8 +118,8 @@ courra merveilleusem<exp>ent</exp>.</ab>
 
 <ab>
 
-<margin>left-middle</margin>
-
+<margin>left-top</margin>
+<render>tall</render>
 Les <pro>fondeurs<lb/>
 
 de grand gect<lb/>
