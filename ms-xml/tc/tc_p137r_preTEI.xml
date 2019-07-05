@@ -75,13 +75,13 @@ Ostant ton <tl>moule</tl><lb/>
 
 du fœu plante<lb/>
 
-le dans d<del>es</del>u <tl>brasier</tl><lb/>
+le dans d<del>es</del> <tl>brasier</tl><lb/>
 
 duquel soict<lb/>
 
 remply un <tl>pot</tl><lb/>
 
-ou <tl>vaisseau</tl><comment>c_137r_01</comment></ab>
+ou <tl>vaisseau</tl><comment>c_137r_01</comment><hr/></ab>
 
 </div>
 
@@ -116,7 +116,8 @@ courra merveilleusem<exp>ent</exp></ab>
 
 <ab>
 
-<margin>left-middle</margin>
+<margin>left-top</margin>
+<render>tall</render>
 
 Les <pro>fondeurs<lb/>
 
