@@ -21,7 +21,7 @@ of within 6 <tmp>days</tmp><comment>c_162r_01</comment>.</ab>
 <ab>
 <margin>left-middle</margin>
 <emph>
-Navigation, trade</emph></ab>
+<underline>Navigation, trade</underline></emph></ab>
 </div>
 
 <div>
@@ -41,8 +41,8 @@ Navigation, trade</emph></ab>
 
 <pn>Herodotus</pn>, on the third page, says that <pn>Gyges</pn>
 presented to the temple of <pl>Delphi</pl>
-<la><comment>c_162r_03</comment>pateras <m>aureas</m> sex pondo 30
-<ms><cn>talentorum</cn></ms><comment>c_162r_04</comment>.</la></ab>
+<la><comment>c_162r_04</comment>pateras <m>aureas</m> sex pondo 30
+<ms><cn>talentorum</cn></ms><comment>c_162r_03</comment>.</la></ab>
 
 <ab>
 <margin>left-middle</margin>
@@ -54,10 +54,10 @@ presented to the temple of <pl>Delphi</pl>
 <ab>
 
 <pn>Herodotus</pn>. <pn>Halyattes</pn>, the father of <pn>Croesus</pn>,
-<la><emph><comment>c_162r_05</comment>pateram ex <m>ferro</m> compactilem
+<la><emph><pateram ex <m>ferro</m> compactilem
 apud <pl>Delphos</pl> dedicavit spectatu dignam inter omnia quae sunt
 <pl>Delphis</pl> donaria, opus <pn>Glauci Chii</pn> qui solus omnium
-compactionem <m>ferri</m> excogitavit.</emph> <m>Compactile
+compactionem <m>ferri</m> excogitavit.</emph>comment>c_162r_05</comment> <m>Compactile
 ferrum</m></la><comment>c_162r_06</comment>, which is made by assembly
 &amp; things joined.</ab>
 
