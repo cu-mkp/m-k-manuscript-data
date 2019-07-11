@@ -8,7 +8,8 @@
 <id>p001r_1</id>
 
 <ab>
-
+<margin>left-middle</margin>
+<render>wide</render>
 <pn>M<exp>estr</exp>e Nicolas Coste</pn> a la <pl>rue de la heaumerie a
 limage s<exp>ainc</exp>t claude</pl> <mark>/</mark> mirouers<lb/>
 
@@ -31,7 +32,8 @@ boucherie</pl> <pro>courroyeur</pro> essayer <m>fleur de
 
 <id>p001r_2</id>
 
-<ab><margin>left-top</margin>
+<ab><margin>left-middle</margin>
+<render>wide</render>
 <hr/>
 
 Le <pro>moissonneur</pro> laissant quelques espis nest repris<lb/>
@@ -41,12 +43,98 @@ Le <pro>moissonneur</pro> laissant quelques espis nest repris<lb/>
 Trompettes voy le livre des funerailles
 <hr/></ab>
 </div>
-    
+
+<div>
+        
+<id>p001r_5</id>
+        
+<ab>  
+<margin>right-top</margin>
+<render>tall</render>
+            
+<comment>c_001r_66</comment><la><pn>Alexander Aphrodisæus</pn><lb/>
+                
+<pn>Polydorus verg<exp>ilius</exp></pn><lb/>
+                
+<pn>Appianus</pn><lb/>
+                
+<pn>Athenæus</pn><lb/>
+                
+Pausanias<lb/>
+                
+Statius Thebaidos<lb/>
+                
+<pn>Servius</pn> in Aeneid<exp>em</exp><lb/>
+                
+<pn>Macrobius</pn><lb/>
+                
+Aulus Gellius<lb/>
+                
+Alexander ab <pl>Alex<exp>andria</exp></pl><lb/>
+                
+<pn>Festus</pn><lb/>
+                
+<pn>Nonius</pn><lb/>
+                
+<pn>Magius</pn> miscell<exp>anea</exp><lb/>
+                
+<pn>Pollux</pn> onomast<exp>icon</exp><lb/>
+                
+<pn>Higinus</pn><lb/>
+                
+Berosus<lb/>
+                
+Suetonius<lb/>
+                
+Valerius max<exp>imus</exp><lb/>
+                
+Cornelius tacitu<exp>s</exp><lb/>
+                
+Xenophon<lb/>
+                
+<pn>Seneca</pn><lb/>
+                
+<pn>Dionisius Halicarnassensis</pn><lb/>
+                
+Sabellicus<lb/>
+                
+<pn>Iulius Capitollin<exp>us</exp></pn> <add>cum permultis<lb/>
+                    
+aliis </add><comment>c_001r_67</comment><lb/>
+                
+<pn>Budæus</pn><lb/>
+                
+<pn>Spartianus</pn><lb/>
+                
+<pn>Blondus</pn><lb/>
+                
+<pn>Volaterranus</pn><lb/>
+                
+<pn>Herodotus</pn><lb/>
+                
+<pn>Paulus Manutius</pn><lb/>
+                
+Strabo<lb/>
+                
+<pn>Iulius firmicus</pn><lb/>
+                
+<pn>Quintus Curtius</pn><lb/>
+                
+<pn>Dion</pn><lb/>
+                
+<pn>Cornelius Nepos</pn><lb/>
+                
+<pn>Flavius Vopiscus</pn></la></ab>
+        
+<comment>c_001r_68</comment><ab><emph>mons<exp>ieur</exp></emph></ab><comment>c_001r_69</comment>
+        
+</div>
 <div>
 
 <id>p001r_3</id>
 
-<ab><margin>left-top</margin>
+<ab><margin>left-middle</margin>
+<render>wide</render>
 
 <la>Vuolfangus lazius<lb/>
 
@@ -107,7 +195,10 @@ et de la <pro><pn>royne mere</pn></pro></ab>
 
 <id>p001r_4</id>
 
-<ab><la><comment>c_001r_70</comment><al>Aquatilium animalium</al>
+<ab>
+<margin>left-middle</margin>
+<render>wide</render>
+<la><comment>c_001r_70</comment><al>Aquatilium animalium</al>
 historiæ hypolito<lb/>
 
 salviano typhernate authore <pl>Romæ</pl><comment>c_001r_37</comment>
@@ -116,90 +207,12 @@ salviano typhernate authore <pl>Romæ</pl><comment>c_001r_37</comment>
 </div>
 
 <div>
-
-<id>p001r_5</id>
-
-<ab>Les Annales de <pl>Normandie</pl></ab>
-
-<ab>
-
-<margin>right-top</margin>
-
-<comment>c_001r_66</comment><la><pn>Alexander Aphrodisæus</pn><lb/>
-
-<pn>Polydorus verg<exp>ilius</exp></pn><lb/>
-
-<pn>Appianus</pn><lb/>
-
-<pn>Athenæus</pn><lb/>
-
-Pausanias<lb/>
-
-Statius Thebaidos<lb/>
-
-<pn>Servius</pn> in Aeneid<exp>em</exp><lb/>
-
-<pn>Macrobius</pn><lb/>
-
-Aulus Gellius<lb/>
-
-Alexander ab <pl>Alex<exp>andria</exp></pl><lb/>
-
-<pn>Festus</pn><lb/>
-
-<pn>Nonius</pn><lb/>
-
-<pn>Magius</pn> miscell<exp>anea</exp><lb/>
-
-<pn>Pollux</pn> onomast<exp>icon</exp><lb/>
-
-<pn>Higinus</pn><lb/>
-
-Berosus<lb/>
-
-Suetonius<lb/>
-
-Valerius max<exp>imus</exp><lb/>
-
-Cornelius tacitu<exp>s</exp><lb/>
-
-Xenophon<lb/>
-
-<pn>Seneca</pn><lb/>
-
-<pn>Dionisius Halicarnassensis</pn><lb/>
-
-Sabellicus<lb/>
-
-<pn>Iulius Capitollin<exp>us</exp></pn> <add>cum permultis<lb/>
-
-aliis </add><comment>c_001r_67</comment><lb/>
-
-<pn>Budæus</pn><lb/>
-
-<pn>Spartianus</pn><lb/>
-
-<pn>Blondus</pn><lb/>
-
-<pn>Volaterranus</pn><lb/>
-
-<pn>Herodotus</pn><lb/>
-
-<pn>Paulus Manutius</pn><lb/>
-
-Strabo<lb/>
-
-<pn>Iulius firmicus</pn><lb/>
-
-<pn>Quintus Curtius</pn><lb/>
-
-<pn>Dion</pn><lb/>
-
-<pn>Cornelius Nepos</pn><lb/>
-
-<pn>Flavius Vopiscus</pn></la></ab>
-
-<comment>c_001r_68</comment><ab><emph>mons<exp>ieur</exp></emph></ab><comment>c_001r_69</comment>
-
+<id>p001r_3</id>
+<ab><margin>left-middle</margin>
+<render>wide</render>
+Les Annales de <pl>Normandie</pl></ab>
+    
+      
 </div>
+
 </root>
