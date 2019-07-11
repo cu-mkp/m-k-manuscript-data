@@ -35,7 +35,7 @@ l<m>estain</m><lb/>
 Si faict bien <del>a les</del> au <m>plomb pur</m> Ceulx qui font les
 gects<lb/>
 
-de <m>plomb</m> bien nects se servent de <tl>poincons</tl> Les
+de <m>plomb</m> bien nects se servent de <tl>poincons</tl><comment>c_049r_05</comment> Les
 <pro>pintiers</pro> gectent<lb/>
 
 en <tl>moulle de <m>cuivre</m></tl><comment>c_049r_03</comment> On dict quon faict prendre le
@@ -48,7 +48,7 @@ d<m>estain</m> L<m>estain de glace</m> rend louvrage plus fort</ab>
 
 <ab>
 <margin>left-middle</margin>
-<pn>Poncet</pn><lb/>
+<emph><pn>Poncet</pn></emph><lb/>
 
 Ils gectent de<lb/>
 
@@ -57,7 +57,8 @@ Ils gectent de<lb/>
 les <del><pro>pintiers</pro></del> <add><pro>vitriers</pro></add> se
 servent </ab>
 
-<ab>Loppe de <m>fer</m><lb/>
+<ab><margin>left-middle</margin>
+Loppe de <m>fer</m><lb/>
 
 <m>Coquille de <del>fer</del> <al>huitre</al><lb/>
 
