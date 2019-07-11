@@ -103,11 +103,11 @@ Chronic.</la></ab>
         
 <margin>left-middle</margin>
         
-<la><pn>Hyeronimus<lb/>
+<emph><la><pn>Hyeronimus<lb/>
             
 mercurialis</pn><lb/>
             
-variarum</la></ab><comment>c_170v_06</comment>
+variarum</la></emph></ab><comment>c_170v_06</comment>
 
 </div>
     
@@ -127,7 +127,7 @@ de stirpium historia</la></emph></ab>
 <ab><emph><la><pn>Tilesius</pn> de coloribus Vascosan</la></emph></ab>
 
 <ab><emph><la><pn>Marmodaeus</pn> <del>ge</del> de lapillis
-præciosis</la></emph><comment>c_170v_05</comment></ab><comment>c_170v_04</comment>
+præciosis</la></emph><comment>c_170v_05</comment><comment>c_170v_04</comment></ab>
 
 </div>
 </root>
