@@ -46,13 +46,13 @@ Trompettes voy le livre des funerailles
 
 
 <div>
-<ab><comment>c_001r_68</comment><emph>mons<exp>ieur</exp></emph><comment>c_001r_69</comment></ab>    
-</div>    
-    
-<div>
         
 <id>p001r_5</id>
-  
+
+<ab>
+<comment>c_001r_68</comment><emph>mons<exp>ieur</exp></emph><comment>c_001r_69</comment>
+</ab> 
+
 <ab>  
 <margin>right-top</margin>
 <render>tall</render>
@@ -136,6 +136,8 @@ Strabo<lb/>
 <div>
 
 <id>p001r_3</id>
+
+<ab></ab>
 <ab><margin>left-top</margin>
 <render>wide</render>
 
