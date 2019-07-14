@@ -49,10 +49,6 @@ Trompettes voy le livre des funerailles
         
 <id>p001r_5</id>
 
-<ab>
-<comment>c_001r_68</comment><emph>mons<exp>ieur</exp></emph><comment>c_001r_69</comment>
-</ab> 
-
 <ab>  
 <margin>right-top</margin>
 <render>tall</render>
@@ -192,6 +188,10 @@ Des præceptes dagriculture<lb/>
 <pro><pn>roy</pn></pro><lb/>
 
 et de la <pro><pn>royne mere</pn></pro></ab>
+
+<ab>
+<comment>c_001r_68</comment><emph>mons<exp>ieur</exp></emph><comment>c_001r_69</comment>
+</ab>
 
 </div>
 
