@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0"
   datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
-  xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
+  xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+  xmlns:s="http://www.ascc.net/xml/schematron">
   <start>
     <element name="root">
       <a:documentation>Root element for transcription of folio</a:documentation>
@@ -56,10 +57,16 @@
   <define name="e.div">
     <a:documentation>Text Division: A group of one or more document objects forming a primary textual component; e.g., an "entry" or "recipe"</a:documentation>
     <element name="div">
+      <s:rule context="div">
+        <s:assert test="child::id"> 
+          id is missing from div </s:assert>
+      </s:rule>
       <optional>
         <ref name="e.cont"/>
       </optional>
+      <optional>
       <ref name="e.id"/>
+      </optional>
       <optional>
         <ref name="e.margin"/>
       </optional>
