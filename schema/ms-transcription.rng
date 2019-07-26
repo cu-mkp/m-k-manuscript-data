@@ -57,10 +57,12 @@
   <define name="e.div">
     <a:documentation>Text Division: A group of one or more document objects forming a primary textual component; e.g., an "entry" or "recipe"</a:documentation>
     <element name="div">
+      <s:pattern name="div-id">
       <s:rule context="div">
         <s:assert test="child::id"> 
-          id is missing from div </s:assert>
+         Warning: id is missing from div </s:assert>
       </s:rule>
+      </s:pattern>
       <optional>
         <ref name="e.cont"/>
       </optional>
