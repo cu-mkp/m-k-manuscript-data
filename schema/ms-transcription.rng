@@ -60,7 +60,7 @@
       <s:pattern name="div-id">
       <s:rule context="div">
         <s:assert test="child::id"> 
-         Warning: id is missing from div </s:assert>
+         Warning: div without an id</s:assert>
       </s:rule>
       </s:pattern>
       <optional>

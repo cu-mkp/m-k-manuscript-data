@@ -1,5 +1,6 @@
 default namespace = ""
 namespace a = "http://relaxng.org/ns/compatibility/annotations/1.0"
+namespace s = "http://www.ascc.net/xml/schematron"
 
 start =
   
@@ -30,9 +31,30 @@ e.ab = element ab { e.cont?, e.margin?, e.render?, m.phrase, e.cont? }
 
 ## Text Division: A group of one or more document objects forming a primary textual component; e.g., an "entry" or "recipe"
 e.div =
+  [
+    s:pattern [
+      name = "div-id"
+      "\x{a}" ~
+      "      "
+      s:rule [
+        context = "div"
+        "\x{a}" ~
+        "        "
+        s:assert [
+          test = "child::id"
+          " \x{a}" ~
+          "         Warning: div without an id"
+        ]
+        "\x{a}" ~
+        "      "
+      ]
+      "\x{a}" ~
+      "      "
+    ]
+  ]
   element div {
     e.cont?,
-    e.id,
+    e.id?,
     e.margin?,
     e.head?,
     (text | e.ab | m.phrase)+,
