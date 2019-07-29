@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0"
   datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
-  xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
+  xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+  xmlns:s="http://www.ascc.net/xml/schematron">
   <start>
     <element name="root">
       <a:documentation>Root element for transcription of folio</a:documentation>
@@ -56,10 +57,18 @@
   <define name="e.div">
     <a:documentation>Text Division: A group of one or more document objects forming a primary textual component; e.g., an "entry" or "recipe"</a:documentation>
     <element name="div">
+      <s:pattern name="div-id">
+      <s:rule context="div">
+        <s:assert test="child::id"> 
+         Warning: div without an id</s:assert>
+      </s:rule>
+      </s:pattern>
       <optional>
         <ref name="e.cont"/>
       </optional>
+      <optional>
       <ref name="e.id"/>
+      </optional>
       <optional>
         <ref name="e.margin"/>
       </optional>
@@ -127,6 +136,9 @@
   <define name="e.head">
     <a:documentation>Heading: a block of text at the beginning of a textual division functioning as the heading or title of that division. TEI Element</a:documentation>
     <element name="head">
+      <optional>
+        <ref name="e.margin"/>
+      </optional>
       <ref name="m.phrase"/>
     </element>
   </define>
@@ -200,23 +212,6 @@
     </element>
   </define>
 
-  <!-- man -->
-  <define name="e.man">
-    <a:documentation>Manchette: a word or phrase in italic script in the margin that indicates something in the text block that is not a heading (although sometimes it looks like it, but rather explains something in the text block</a:documentation>
-    <element name="man">
-      <ref name="e.margin"/>
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-
-  <!-- rub -->
-  <define name="e.rub">
-    <a:documentation>Rubric: A word or phrase in italic script in the body of the text that is not a new div, heading, or block</a:documentation>
-    <element name="rub">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-
   <!-- sup -->
   <define name="e.sup">
     <a:documentation>Supplied Text: Text added by the transcriber/editor.</a:documentation>
@@ -240,14 +235,40 @@
     </element>
   </define>
   
-  <!-- exp -->
+  <!-- emph -->
   
-  <define name="e.x">
-    <a:documentation>X: used to indicate ambiguous use of square brackets in the transcription</a:documentation>
-    <element name="x">
+  <define name="e.emph">
+    <a:documentation>emph: emphasized text</a:documentation>
+    <element name="emph">
       <ref name="m.phrase"/>
     </element>
   </define>
+  
+  <!-- superscript -->
+  
+  <define name="e.superscript">
+    <a:documentation>superscript: superscript text</a:documentation>
+    <element name="superscript">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+  
+    <!-- superscript -->
+
+  
+  
+  <!-- ups -->
+  
+  <define name="e.ups">
+    <a:documentation>ups: text under paper strip</a:documentation>
+    <element name="ups">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+  
+
+  
+  
 
   <!--                           -->
   <!--  ATTR-LIKE ELEMENTS       -->
@@ -304,11 +325,35 @@
   <!--                            -->
   <!--  LANGUAGE ELEMENTS         -->
   <!--                            -->
+  
+  <!-- de -->
+  <define name="e.de">
+    <a:documentation>German: German text</a:documentation>
+    <element name="de">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
 
-  <!-- gk -->
-  <define name="e.gk">
+  <!-- el -->
+  <define name="e.el">
     <a:documentation>Greek: Greek text</a:documentation>
-    <element name="gk">
+    <element name="el">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+  
+  <!-- es -->
+  <define name="e.es">
+    <a:documentation>Spanish: Spanish text</a:documentation>
+    <element name="es">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+  
+  <!-- fr -->
+  <define name="e.fr">
+    <a:documentation>French: French text</a:documentation>
+    <element name="fr">
       <ref name="m.phrase"/>
     </element>
   </define>
@@ -329,14 +374,6 @@
     </element>
   </define>
 
-  <!-- fr -->
-  <define name="e.fr">
-    <a:documentation>French: French text</a:documentation>
-    <element name="fr">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-
   <!-- oc -->
   <define name="e.oc">
     <a:documentation>Occitane: Occitane text</a:documentation>
@@ -345,9 +382,25 @@
     </element>
   </define>
   
+  <!-- po -->
+  <define name="e.po">
+    <a:documentation>Poitevin: Poitevin dialect text</a:documentation>
+    <element name="po">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
+  
   <!--                            -->
   <!--  SEMANTIC ELEMENTS         -->
   <!--                            -->
+
+  <!-- al -->
+  <define name="e.al">
+    <a:documentation>Animal</a:documentation>
+    <element name="al">
+      <ref name="m.phrase"/>
+    </element>
+  </define>
 
   <!-- bp -->
   <define name="e.bp">
@@ -364,18 +417,11 @@
       <ref name="m.phrase"/>
     </element>
   </define>
+
   <!-- ms -->
   <define name="e.ms">
     <a:documentation>Measurement</a:documentation>
     <element name="ms">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
-
-  <!-- al -->
-  <define name="e.al">
-    <a:documentation>Animal</a:documentation>
-    <element name="al">
       <ref name="m.phrase"/>
     </element>
   </define>
@@ -468,10 +514,10 @@
     </element>
   </define>
   
-  <!-- md -->
+  <!-- wp -->
   <define name="e.wp">
     <a:documentation>Weapon term: terms related to weapons and weaponry</a:documentation>
-    <element name="md">
+    <element name="wp">
       <ref name="m.phrase"/>
     </element>
   </define>
@@ -489,6 +535,8 @@
     <data type="string"/>
   </element>
 </define>
+   
+  
 
   <!-- PHRASE MODEL -->
 
@@ -513,7 +561,6 @@
         <ref name="e.la"/>
         <ref name="e.lb"/>
         <ref name="e.m"/>
-        <ref name="e.man"/>
         <ref name="e.ms"/>
         <ref name="e.pa"/>
         <ref name="e.pl"/>
@@ -526,17 +573,21 @@
         <ref name="e.wp"/>
         <ref name="e.corr"/>
         <ref name="e.gap"/>
-        <ref name="e.gk"/>
+        <ref name="e.el"/>
         <ref name="e.md"/>
         <ref name="e.mu"/>
         <ref name="e.oc"/>
-        <ref name="e.rub"/>
+        <ref name="e.po"/>
+        <ref name="e.de"/>
+        <ref name="e.es"/>
         <ref name="e.underline"/>
+        <ref name="e.superscript"/>
         <ref name="e.exp"/>
-        <ref name="e.x"/>
         <ref name="e.unc"/>
         <ref name="e.comment"/>
         <ref name="e.hr"/>
+        <ref name="e.emph"/>
+        <ref name="e.ups"/>
       </choice>
     </oneOrMore>
   </define>

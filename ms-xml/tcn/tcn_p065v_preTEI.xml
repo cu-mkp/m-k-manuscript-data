@@ -41,7 +41,9 @@ seconde couche d’icelles ne s’emboit point &amp; demeure luisante.</ab>
         
 <head><margin>left-top</margin>Au naturel</head>
         
-<ab><margin>left-top</margin>Il y en a qui<lb/>
+<ab><margin>left-top</margin>
+<render>tall</render>
+Il y en a qui<lb/>
             
 paignent au<lb/>
             
@@ -66,6 +68,7 @@ ne seiche point.</ab>
 <ab>
             
 <margin>left-top</margin>
+<render>tall</render>
             
 Les <pro>enleumineurs</pro><lb/>
             
@@ -86,6 +89,7 @@ faire mieulx courre.</ab>
 <ab>
             
 <margin>left-top</margin>
+<render>tall</render>
             
 Les <pro>painctres</pro><lb/>
             
@@ -186,7 +190,9 @@ deulx ou trois <tmp>ans</tmp> pour se rendre <pro>artiste</pro>.</ab>
 
 <head><margin>left-top</margin>Impression</head>
 
-<ab><margin>left-top</margin>Il en fault estre<lb/>
+<ab><margin>left-top</margin>
+<render>tall</render>
+Il en fault estre<lb/>
 
 bien curieulx &amp; ne la<lb/>
 
