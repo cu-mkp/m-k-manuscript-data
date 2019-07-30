@@ -57,7 +57,7 @@ e.div =
     e.id?,
     e.margin?,
     e.head?,
-    (text | e.ab | m.phrase)+,
+    (text | e.ab | e.figure | m.phrase)+,
     e.cont?
   }
 # figure

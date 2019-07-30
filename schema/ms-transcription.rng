@@ -79,6 +79,7 @@
         <choice>
           <text/>
           <ref name="e.ab"/>
+          <ref name="e.figure"/>
           <ref name="m.phrase"/>
         </choice>
       </oneOrMore>
