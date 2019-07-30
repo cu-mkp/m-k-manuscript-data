@@ -230,22 +230,21 @@
 
   <!-- underline -->
   <define name="e.underline">
+    <a:documentation>Underlined: underlined text</a:documentation>
     <element name="underline">
       <ref name="m.phrase"/>
     </element>
   </define>
   
   <!-- emph -->
-  
   <define name="e.emph">
-    <a:documentation>emph: emphasized text</a:documentation>
+    <a:documentation>Emph: emphasized text</a:documentation>
     <element name="emph">
       <ref name="m.phrase"/>
     </element>
   </define>
   
   <!-- superscript -->
-  
   <define name="e.superscript">
     <a:documentation>superscript: superscript text</a:documentation>
     <element name="superscript">
@@ -253,12 +252,8 @@
     </element>
   </define>
   
-    <!-- superscript -->
 
-  
-  
-  <!-- ups -->
-  
+  <!-- ups -->  
   <define name="e.ups">
     <a:documentation>ups: text under paper strip</a:documentation>
     <element name="ups">
@@ -266,17 +261,13 @@
     </element>
   </define>
   
-
-  
-  
-
   <!--                           -->
   <!--  ATTR-LIKE ELEMENTS       -->
   <!--                           -->
 
+  <!-- id -->
   <define name="e.id">
-    <a:documentation>Identifier: A unique identifier for the element which encloses
-      it</a:documentation>
+    <a:documentation>Identifier: A unique identifier for its parent element </a:documentation>
     <element name="id">
       <data type="NMTOKEN"/>
     </element>
@@ -284,7 +275,7 @@
 
   <!-- margin -->
   <define name="e.margin">
-    <a:documentation>Margin Position: the location in the margin at which the parent element appears in the source document. Valid values are: "right-top", "right-middle", "right-bottom", "left-top", "left-middle", "left-bottom", "top", and "bottom"</a:documentation>
+    <a:documentation>Margin (position): the location in the margin at which the parent element appears in the source document. Valid values are: "right-top", "right-middle", "right-bottom", "left-top", "left-middle", "left-bottom", "top", and "bottom"</a:documentation>
     <element name="margin">
       <optional>
         <choice>
@@ -301,8 +292,9 @@
     </element>
   </define>
 
+  <!-- render -->
   <define name="e.render">
-    <a:documentation>Margin rendition: . Instructions to cue the proper rendition of the height and width  a margin block. Valid values are: "tall", "wide", and "extra-wide"</a:documentation>
+    <a:documentation>Margin rendition: Instructions to cue the proper rendition of the height and width  a margin block. Valid values are: "tall", "wide", and "extra-wide"</a:documentation>
     <element name="render">
       <optional>
         <choice>
@@ -314,9 +306,9 @@
     </element>
   </define>
 
-
+  <!-- cont -->
   <define name="e.cont">
-    <a:documentation>Continued: An empty element indicating that the parent block is continued on another page or continues from another page </a:documentation>
+    <a:documentation>cont (continues): An empty element indicating that the parent block is continued on another page or continues from another page </a:documentation>
     <element name="cont">
       <empty/>
     </element>
@@ -522,6 +514,7 @@
     </element>
   </define>
 
+  <!-- df -->
   <define name="e.df">
     <a:documentation>Definition:</a:documentation>
     <element name="df">
@@ -529,7 +522,7 @@
     </element>
   </define>
 
-  <!-- COMMENTS -->
+  <!-- comment -->
 <define name="e.comment">
   <element name="comment">
     <data type="string"/>
