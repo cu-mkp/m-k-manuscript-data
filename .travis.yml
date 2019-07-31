@@ -2,6 +2,6 @@ before_install:
   - sudo apt-get install -y libxml2-utils
 
 script:
-  -  for XML in $(find ms-xml -name '*.xml'); do xmllint --noout || error=true; done; if [ $error ]; then exit 1 ; fi
+  -  for XML in $(find ms-xml -name '*.xml'); do xmllint --noout "$XML" || error=true; done; if [ $error ]; then exit 1 ; fi
 
 
