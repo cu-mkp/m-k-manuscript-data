@@ -1,3 +1,5 @@
+https://travis-ci.org/cu-mkp/m-k-manuscript-data.svg?branch=master
+
 Working files and data for the XML transcription and translation of Making and Knowing Project's Digital Critical Edition (DCE) of BnF Ms Fr 640. The repository contains the text of the manuscript in multiple formats, metadata about the manuscript, and derived data.
 
 https://www.makingandknowing.org/
