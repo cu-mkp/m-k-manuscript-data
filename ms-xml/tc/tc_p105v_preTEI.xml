@@ -1,13 +1,13 @@
-<root>
-<page>105v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="105v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f216.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f216.image</image>
 
-<div>
 
-<cont/>
 
-<id>p105r_4</id>
+<div continues="yes" id="p105r_4">
+
+
+
+
 
 <ab>Apres quand il sera bien <del>b</del>pris coupe le dessus de
 labre<lb/>
@@ -47,19 +47,19 @@ co<exp>mmun</exp>em<exp>ent</exp><lb/>
 les abres de noyau co<exp>mm</exp>e <pa>perces mericotons</pa> se
 hantent en<lb/>
 
-fente On dict que les abres <del>de</del> hantes en piolet<comment>c_105v_06</comment> ou<lb/>
+fente On dict que les abres <del>de</del> hantes en piolet<comment rid="c_105v_06"/> ou<lb/>
 
 escusson sont plus tardifs a porter fruict quen fente</ab>
 
 </div>
 
-<div>
+<div id="p105v_4">
         
-<id>p105v_4</id>
+
         
-<head><margin>left-top</margin><al>Rossignol</al></head>
+<head><al>Rossignol</al></head>
         
-<ab><margin>left-top</margin>Il fault que le fil<lb/>
+<ab margin="left-top">Il fault que le fil<lb/>
             
 de <m>fer</m> de sa cage<lb/>
             
@@ -100,30 +100,30 @@ il mourroit<hr/></ab>
         
 </div>
     
-<div>
+<div id="p105v_1">
 
-<id>p105v_1</id>
+
 
 <head>Jardinier</head>
 
 <ab>Il ne doibt pas estre fort curieulx de cultiver en son<lb/>
 
 <env>jardin</env> des <pa><oc>armols</oc></pa> pource
-<add>que</add><comment>c_105v_01</comment> quand le potaige &amp;
+<add>que</add><comment rid="c_105v_01"/> quand le potaige &amp;
 bouillon sen<lb/>
 
 garde quelque peu froit il sy engendre des <al>vers</al></ab>
 
 </div>
 
-<div>
+<div id="p105v_5">
         
-<id>p105v_5</id>
+
         
-<head><margin>left-top</margin><al>Rossignol</al></head>
+<head><al>Rossignol</al></head>
         
-<ab><margin>left-top</margin>
-<render>tall</render>
+<ab margin="left-top" render="tall">
+
 Il luy fault une cage<lb/>
             
 faicte en <env>gra<exp>n</exp>ge</env><lb/>
@@ -156,9 +156,9 @@ Et luy donner dun<lb/>
         
 </div>
     
-<div>
+<div id="p105v_2">
 
-<id>p105v_2</id>
+
 
 <head><pro>Fontanier</pro></head>
 
@@ -173,9 +173,9 @@ soit</ab>
 
 </div>
 
-<div>
+<div id="p105v_3">
 
-<id>p105v_3</id>
+
 
 <head>Prendre <al>rossignols</al> <add>Voy le 15 fœillet<lb/>
 
@@ -210,7 +210,7 @@ la<lb/>
 pour aller voir ce que tu auras faict Et voya<exp>n</exp>t des
 <al>vers</al> il entrera</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Aulcuns les<lb/>
 
@@ -218,9 +218,9 @@ vendent sur<lb/>
 
 labre</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
-<env><tmp><comment>c_105v_02</comment>Le soir et le<lb/>
+<env><tmp><comment rid="c_105v_02"/>Le soir et le<lb/>
 
 matin</tmp> a la fraischeur<lb/>
 

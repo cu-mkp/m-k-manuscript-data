@@ -1,23 +1,23 @@
-<root>
-<page>094r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="094r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f193.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f193.image</image>
 
-<div>
 
-<id>p094r_1</id>
+
+<div id="p094r_1" continued="yes">
+
+
 
 <head><pro>Fourbisseur</pro></head>
 
 <ab>Les parties dune espee sont <add>la
-<df>ribleure</df></add><comment>c_094r_01</comment><comment>c_094r_02</comment>
+<df>ribleure</df></add><comment rid="c_094r_01"/><comment rid="c_094r_02"/>
 la queue de lespee ce qui vient<lb/>
 
 apres est le talon le reste est le <del>c</del>lame les costes sont le
 tranchant<lb/>
 
 &amp; la poincte Aulcunes lames sont a vive
-ar<del>r</del>este<comment>c_094r_03</comment> qui ont une seule<lb/>
+ar<del>r</del>este<comment rid="c_094r_03"/> qui ont une seule<lb/>
 
 coste eslevee au milieu &amp; tout du long Et sont aisees a rompre<lb/>
 
@@ -54,7 +54,7 @@ qui prenent despuys lœil de la garde jusques a la branche du
 pontet<lb/>
 
 La branche qui croise la garde sappelle le <df>corps</df> Et cest
-escusson<comment>c_018v_02</comment><lb/>
+escusson<comment rid="c_018v_02"/><lb/>
 
 par ou entre la queue de lespee et auquel se rendent &amp; tiennent
 toutes<lb/>
@@ -62,7 +62,7 @@ toutes<lb/>
 les branches sapelle l<df>œil de la garde</df></ab>
 
 <ab>Il sensuict le <m>bois</m> de la poignee lequel on <m>colle</m>
-ou<comment>c_094r_04</comment> selon les<lb/>
+ou<comment rid="c_094r_04"/> selon les<lb/>
 
 plus propres de la <m>cire gommee</m> qui est <m>cire</m> &amp;
 <m>poix</m> pourceque la<lb/>
@@ -121,16 +121,16 @@ peu tiede</m> Car si elle estoit trop chaulde elle cuiroit &amp;
 gasteroit la<lb/>
 
 <m><ups>p</ups>eau</m> Elle se coust avecq <m>fil noir</m></ab>
-<figure>
+<figure id="fig_p094r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5YTlFNHRBSVRrOEU">
 
-<id>fig_p094r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5YTlFNHRBSVRrOEU</link>
+
+
+
 </figure>
 
-<cont/>
+
 
 </div>
 </root>

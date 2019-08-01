@@ -1,11 +1,11 @@
-<root>
-<page>100r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="100r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f205.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f205.image</image>
 
-<div>
 
-<id>p100r_1</id>
+
+<div id="p100r_1">
+
+
 
 <head>Gold color</head>
 
@@ -23,9 +23,9 @@ turn black.</ab>
 
 </div>
 
-<div>
+<div id="p100r_2">
 
-<id>p100r_2</id>
+
 
 <head>Portraying from nature</head>
 
@@ -34,9 +34,9 @@ the beard, for these three things make strong resemblance.</ab>
 
 </div>
 
-<div>
+<div id="p100r_3">
 
-<id>p100r_3</id>
+
 
 <head><m>Gemstones</m></head>
 
@@ -46,9 +46,9 @@ into another <tl>mortar of <m>wood</m></tl> in order that it does not
 break. This can serve for <pro>perfumers</pro>. &amp; <del><fr>la
 t</fr></del> the <tl>pestle</tl> also of <m>glass</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <emph><tl>Mortar of <m>glass</m></tl> and
 <tl>slab of <m>glass</m></tl> for grinding.</emph>
@@ -56,9 +56,9 @@ t</fr></del> the <tl>pestle</tl> also of <m>glass</m>.</ab>
 
 </div>
 
-<div>
+<div id="p100r_4">
 
-<id>p100r_4</id>
+
 
 <head>Vitrified <m>saltpeter</m></head>
 
@@ -74,9 +74,9 @@ clean.</ab>
 
 </div>
 
-<div>
+<div id="p100r_5">
 
-<id>p100r_5</id>
+
 
 <head>Windows that the <env>sun</env> will not pass</head>
 
@@ -88,9 +88,9 @@ needs to put the <m>saltpeter</m> on some clean <del>thing</del>
 <add>place</add>, &amp; <del>it</del> put <tl>glowing coals</tl> on it,
 and continue all over until it no longer burns.</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 It also serves for melting &amp; for adding in with <m>alkali salt</m>
 for cleaning <bp>hands</bp>.</ab>

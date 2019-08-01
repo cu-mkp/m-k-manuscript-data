@@ -1,21 +1,21 @@
-<root>
-<page>098v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="098v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f202.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f202.image</image>
 
-<div>
-<id>p098v_1</id>
+
+
+<div id="p098v_1">
+
 <head>Petis <al>chiens</al></head>
 
-<ab>Les petits <al>chiens</al> qui doivent estre barbets<comment>c_098v_04</comment> se
+<ab>Les petits <al>chiens</al> qui doivent estre barbets<comment rid="c_098v_04"/> se
 cognoissent<lb/>
 
 a ce quilz ont le mœufle plus gros que les aultres</ab>
 
 </div>
 
-<div>
-<id>p098v_2</id>
+<div id="p098v_2">
+
 <head><pa>Artichauts</pa> sales</head>
 
 <ab>On les mect entiers &amp; non trop faicts en un
@@ -38,8 +38,8 @@ pas asses forte et ne conserveroit pas les <m>fruits</m></ab>
 
 </div>
 
-<div>
-<id>p098v_3</id>
+<div id="p098v_3">
+
 <head>Abres</head>
 
 <ab>Qui portent bien tost fruit se viellessent et ne durent<lb/>
@@ -48,14 +48,14 @@ gueres</ab>
 
 </div>
 
-<div>
-<id>p098v_4</id>
+<div id="p098v_4">
+
 <head><al>Oyseaulx</al></head>
 
 <ab>Qui ont este nourris a la <tl>broche</tl> ne siflent pas parmy
 les<lb/>
 
-aultres en compaignee<comment>c_098v_01</comment> silz ne sont en une
+aultres en compaignee<comment rid="c_098v_01"/> silz ne sont en une
 cage a part<lb/>
 
 Pour les bien aprendre a sifler il les fault prendre au<lb/>
@@ -70,8 +70,8 @@ sa voix ilz aprenent mieux le fifler quon leur enseigne</ab>
 
 </div>
 
-<div>
-<id>p098v_5</id>
+<div id="p098v_5" continued="yes">
+
 <head>Fonte</head>
 
 <ab>La <m>potee</m> se faict de <m>terre bruslee</m> qui a servy a la
@@ -95,12 +95,12 @@ flambe de la <tl><m>paille</m></tl> et moulle fort net</ab>
 ne frottes fort avecq la <tl>broisse</tl> ou le <tl><bp>doigt </bp></tl>
 sur la piece<lb/>
 
-mouler<comment>c_098v_03</comment> qui soit bien <m>huilee</m> Et fais
+mouler<comment rid="c_098v_03"/> qui soit bien <m>huilee</m> Et fais
 couches a couches &amp; non<lb/>
 
 en un coup</ab>
 
-<cont/>
+
 
 </div>
 </root>

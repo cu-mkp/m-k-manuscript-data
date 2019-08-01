@@ -1,10 +1,10 @@
-<root>
-<page>110r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="110r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f225.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f225.image</image>
 
-<div>
-<id>p110r_1</id>
+
+
+<div id="p110r_1">
+
 <head>Mouler</head>
 
 <ab>Tu pourrois bien mouler sur la chose <add>et animal</add> desja
@@ -16,8 +16,8 @@ faire quattre ou cinq <tl>moules</tl>.</ab>
 
 </div>
 
-<div>
-<id>p110r_2</id>
+<div id="p110r_2">
+
 <head><m>Rocher</m> &amp; <env>grotte</env></head>
 
 <ab>Il fault piler des <m>marchasites blanches &amp; jaulnes</m> &amp;
@@ -40,8 +40,8 @@ tu auras un bel ouvrage.</ab>
 
 </div>
 
-<div>
-<id>p110r_3</id>
+<div id="p110r_3" continued="yes">
+
 <head><al>Serpens</al></head>
 
 <ab>Quand ils se sentent pris, ils ne mordent gueres, &amp; n’ont
@@ -69,7 +69,7 @@ en forme de S. J’ay veu que <pn>celuy qui m’aprist à les
 mouler</pn><lb/>
 
 n’en faisoict aucun compte, &amp; m’asseuroit n’y faire aultre
-subtilité<comment>c_110r_01</comment><lb/>
+subtilité<comment rid="c_110r_01"/><lb/>
 
 sinon qu’en le prenant, il le tiroit un peu pressé &amp; acaché par<lb/>
 
@@ -101,9 +101,9 @@ chose.<lb/>
 Aultant est il du venin du <al>crapault</al>, que j’ay veu
 experimenter.</ab>
 
-<ab>
-<margin>left-middle</margin>
-Dans trois<comment>c_110r_03</comment>,<lb/>
+<ab margin="left-middle">
+
+Dans trois<comment rid="c_110r_03"/>,<lb/>
 
 il est presque<lb/>
 
@@ -139,7 +139,7 @@ que tu veulx<lb/>
 
 mouler.</ab>
 
-<cont/>
+
 
 </div>
 </root>

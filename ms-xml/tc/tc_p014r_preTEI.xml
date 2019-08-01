@@ -1,11 +1,11 @@
-<root>
-<page>014r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="014r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f33.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f33.image</image>
 
-<div>
 
-<id>p014r_1</id>
+
+<div id="p014r_1">
+
+
 
 <head>Pour <env>murailles</env> de <m>terre</m> et bastiment<lb/>
 
@@ -56,7 +56,7 @@ pour apuyer des <tl>tables</tl> entre lesquelles il gectent la
 <m>terre</m> faisant<lb/>
 
 chasque couche dun <ms><bp>pied</bp></ms> ou environ lentremeslant comme
-<mark>S.S.S</mark> de<lb/><comment>c_014r_05</comment>
+<mark>S.S.S</mark> de<lb/><comment rid="c_014r_05"/>
 
 <m>branches de <pa>bruyeres</pa></m> ou semblables choses puys avecq
 tros formes<lb/>
@@ -104,13 +104,13 @@ quil y a du <m>salpestre</m> Cest pourquoy quand elles tumbent les<lb/>
 
 <pro>pouldriers</pro> en font leur proffict</ab>
 
-<figure>
+<figure id="fig_p014r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5b2lVN19SU1Z6UkU">
 
-<id>fig_p014r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5b2lVN19SU1Z6UkU</link>
+
+
+
 
 <!--A-->
 

@@ -1,13 +1,13 @@
-<root>
-<page>018r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="018r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f41.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f41.image</image>
 
-<div>
 
-<cont/>
 
-<id>p017r_1</id>
+<div continues="yes" id="p017r_1" continued="yes">
+
+
+
+
 
 <ab>
 
@@ -30,7 +30,7 @@ la grandeur de sa balle Mays la <wp>colevrine</wp> bat plus roide<lb/>
 &amp; passe plus viste ayant plus de chasse a cause de la longueur<lb/>
 
 A la culasse elle porte l<ms>espesseur de deux de ses balles &amp;
-l<del>es</del>a<comment>c_018r_02</comment><lb/>
+l<del>es</del>a<comment rid="c_018r_02"/><lb/>
 
 <del>trois</del> <add>troisiesme</add> partie<del>s</del> dune
 balle</ms> Au devant l<ms>espesseur dune balle &amp; de<lb/>
@@ -51,7 +51,7 @@ co<exp>mm</exp>e<lb/>
 sont toutes <wp>pieces</wp> <del>qui excedent</del> <add>moindres que</add> la
 moyenne Car a celles la on<lb/>
 
-mect un peu plus de <m>metal</m><comment>c_016v_05</comment> affin que la fonte coure mieulx<lb/>
+mect un peu plus de <m>metal</m><comment rid="c_016v_05"/> affin que la fonte coure mieulx<lb/>
 
 Et sur deulx <ms>quintaulx</ms> de <m>rosette</m> on mect six vints
 <ms>lb</ms> de <m>metal</m><lb/>
@@ -62,9 +62,9 @@ cens<lb/>
 <ms>pas</ms> &amp; jusques a mille <ms>pas</ms> si la <m>pouldre</m> est
 forte &amp; de volee <ms>demye lieue</ms></add></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Aulcuns ont invente<lb/>
 
@@ -72,9 +72,9 @@ de charger les <wp>canons</wp><lb/>
 
 a cartuche</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Aulcuns <del>po</del> ne mectent<lb/>
 
@@ -109,7 +109,7 @@ de <m>pouldre</m></ab>
 <ab>
 
 La <df><wp>bastarde</wp></df> qui est une <del><wp>colevrine</wp></del> <add><wp>piece</wp></add>
-<del>moyenne</del><comment>c_018r_01</comment> poise trente
+<del>moyenne</del><comment rid="c_018r_01"/> poise trente
 <ms>quintals</ms><lb/>
 
 et sa balle poise <del>xx <ms>lb</ms></del> <add>xv <ms>lb</ms></add> et
@@ -138,9 +138,9 @@ pourceq<exp>ue</exp><lb/>
 
 elle porte petite munition</add></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Aulcuns luy<lb/>
 
@@ -191,7 +191,7 @@ la ou la<lb/>
 balle va cella sentend du <wp>canon</wp> et de la <wp>colevrine</wp> et non des <wp>petites
 pieces</wp></ab>
 
-<cont/>
+
 
 </div>
 </root>

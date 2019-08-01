@@ -1,10 +1,10 @@
-<root>
-<page>004v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="004v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f14.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f14.image</image>
 
-<div>
-<id>p004v_1</id>
+
+
+<div id="p004v_1">
+
 <head><m>Vernis noir</m> pour garde<lb/>
 
 despee bandes de bahus &amp;</head>
@@ -17,7 +17,7 @@ de <pa>noix</pa></m> Et la fais desgraisser avecq des
 <add><mark>+</mark><m><pa>queues de pourrceaulx</pa></m><lb/>
 
 aulcuns adjoustent des <m>crostes de
-pain</m></add><comment>c_004v_03</comment><lb/>
+pain</m></add><comment rid="c_004v_03"/><lb/>
 
 que tu feras bouillir dedans <ms><tmp>un bon quart
 dheure</tmp></ms><lb/>
@@ -46,8 +46,8 @@ quand tu verras quil ne <m>fumera</m> plus cest faict et ton<lb/>
 
 <m>vernis</m> est sec</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Pour excellent <m>vernis<lb/>
 
 noir</m> mects deulx ou <lb/>
@@ -56,14 +56,14 @@ trois <ms>patenostres</ms> de<lb/>
 
 <m>geyct</m> parmy le reste</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Aulcuns estiment l<m>huile<lb/>
 
 de <pa>noix</pa></m> meilleur</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Sil y a quantite de<lb/>
 
 <m>vernis</m> il fault bien<lb/>
@@ -90,8 +90,8 @@ le doncq dans une <lb/>
 
 descouvert</env></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 En cinq ou six <ms>lb</ms> d<m>huile</m><lb/>
 
 on mect une <ms>lb</ms> de <m>Galipot</m><lb/>
@@ -106,9 +106,9 @@ noir Mays il se<lb/>
 
 noircist au fœu</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Voy cy apres<lb/>
 
@@ -122,8 +122,8 @@ du <pro>fourbisseur</pro></ab>
 
 </div>
 
-<div>
-<id>p004v_2</id>
+<div id="p004v_2">
+
 <head><m>Vernis noir</m> sans fœu sans<lb/>
 
 demonter les harnois ou deffaire<lb/>
@@ -143,8 +143,8 @@ Le<lb/>
 tost</ab>
 
 </div>
-<div>
-<id>p004v_3</id>
+<div id="p004v_3" continued="yes">
+
 <head><m>Vernis des <pro>graveurs sur le<lb/>
 
 fer</pro></m></head>
@@ -155,7 +155,7 @@ fer</pro></m></head>
 noire</m> tu y mectras un peu de <m>poix resine</m> &amp; le fault
 cuire<lb/>
 
-a la facon du <m>vernir<comment>c_004v_04</comment> noir</m> a fœu Et
+a la facon du <m>vernir<comment rid="c_004v_04"/> noir</m> a fœu Et
 pour lapliquer<lb/>
 
 chaufe ton <m>fer</m> &amp; ne luy donne quune couche de
@@ -164,7 +164,7 @@ chaufe ton <m>fer</m> &amp; ne luy donne quune couche de
 &amp; quand il ne <m>fumera</m> plus il est sec grave apres avecq<lb/>
 
 la <tl>poincte d<m>acier</m></tl> ce que tu vouldras Apres
-<add>ayes</add><comment>c_004v_05</comment> du <m>sel</m> &amp;<lb/>
+<add>ayes</add><comment rid="c_004v_05"/> du <m>sel</m> &amp;<lb/>
 
 du <m>verdegris</m> &amp; le destrempe aultant dun que daultre<lb/>
 
@@ -175,7 +175,7 @@ quen user &amp; tout se destrempera Apres estens de ceste<lb/>
 
 liqueur ou saulce sur la chose gravee avecq une <tl>esponge</tl></ab>
 
-<cont/>
+
 
 </div>
 </root>

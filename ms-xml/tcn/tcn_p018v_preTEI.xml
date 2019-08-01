@@ -1,13 +1,13 @@
-<root>
-<page>018v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="018v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f42.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f42.image</image>
 
-<div>
 
-<cont/>
 
-<id>p017r_1</id>
+<div continues="yes" id="p017r_1" continued="yes">
+
+
+
+
 
 <ab>
 
@@ -37,9 +37,9 @@ conduire. Elle porte de poincte en blanc huict ou nœuf cens
 
 &amp; presque aultant que la <wp>bastarde</wp>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Aulx <wp>canons</wp> &amp; <wp>grosses<lb/>
 
@@ -53,7 +53,7 @@ de <m>pouldre</m> qu’est le<lb/>
 
 proportion vient<lb/>
 
-l’<ms>escusson</ms>.<comment>c_018v_02</comment> Aulx<lb/>
+l’<ms>escusson</ms>.<comment rid="c_018v_02"/> Aulx<lb/>
 
 <wp>moyennes pieces</wp>,<lb/>
 
@@ -196,7 +196,7 @@ Celles qui se charrient ou pour batterie ou pour combat<lb/>
 
 assigié sont <wp>canons</wp>, <wp>colevrines</wp>, <wp>bastardes moyennes</wp> &amp; <wp>pieces</wp></ab>
 
-<cont/>
+
 
 </div>
 </root>

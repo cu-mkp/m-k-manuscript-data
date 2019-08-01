@@ -1,13 +1,13 @@
-<root>
-<page>121r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="121r" image="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f248.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f248.item</image>
 
-<div>
 
-<cont/>
 
-<id>p120v_6</id>
+<div continues="yes" id="p120v_6">
+
+
+
+
 
 <ab>a sign that it has some humidity, &amp; if the flower also had some
 aquosity, it would rot. It also ought not to be <del>too</del> coarse,
@@ -35,9 +35,9 @@ take heed that you choose for that effect <pa><po>cornflowers</po></pa>,
 lupina</pa></la>, <pa>amaranth</pa> &amp; suchlike, and <pa>broom</pa>,
 and others that your experience will teach you.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 The <m>sand with which <pro>goldsmiths</pro> buff <m>enamels</m> or the
 white one that <pro>glassmakers</pro> use</m> &amp; <m>any lean sand that does
@@ -47,17 +47,17 @@ it ought not to be so thin. Next, dry it well in the <env>sun</env> for
 ventilate it like <m>grain</m> so that the dust goes away. Once it is
 rid of that dust, &amp; well dried, use it as you know.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <pa>Pansies</pa> are kept thus.</ab>
 
 </div>
 
-<div>
+<div id="p121r_1">
 
-<id>p121r_1</id>
+
 
 <head>For keeping fruits all <tmp>year</tmp></head>
 
@@ -71,11 +71,11 @@ break, and seal them well with <m>wax</m> so that they may not breathe.
 And if they had a <m>glass</m> lid well-sealed with <m>wax</m>, they
 would be all the better. Put them in a <tl>case</tl> in your
 <env>well</env>, or in your <env>cellar</env> in a <tl><po>vat</po>, or in a
-<fr>cos</fr><comment>c_121r_01</comment> of earth full of <m>water</m></tl>.</ab>
+<fr>cos</fr><comment rid="c_121r_01"/> of earth full of <m>water</m></tl>.</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 For the place where the <bp>hand</bp> will <sn>touch</sn>, it will rot,
 and it is even good not to <bp>breathe</bp> on them. You can also put in

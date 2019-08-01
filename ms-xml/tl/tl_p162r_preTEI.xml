@@ -1,25 +1,25 @@
-<root>
-<page>162r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="162r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f329.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f329.item.r=</image>
 
-<div>
-<id>p162r_1</id>
+
+
+<div id="p162r_1">
+
 <head>For the <env>workshop</env></head>
 
 <ab>
 
 It can be gathered from the words of <pn>Herodotus</pn> that the
 navigation of the <pl>Portuguese</pl> was not newly invented by them as
-they brag. At the beginning of the first book entitled <el>Clio</el>,<comment>c_162r_08</comment> he
+they brag. At the beginning of the first book entitled <el>Clio</el>,<comment rid="c_162r_08"/> he
 says that the <pl>Phoenicians</pl> would come from the <pl>Red Sea</pl>
 by continuous navigation to the <pl>coast of Greece</pl>, mainly to
 <pl>Argos</pl>, to which they would carry merchandise from
 <pl>Egypt</pl> &amp; from <pl>Assyria</pl>, which they usually sold out
-of within 6 <tmp>days</tmp>.<comment>c_162r_01</comment></ab>
+of within 6 <tmp>days</tmp>.<comment rid="c_162r_01"/></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <emph>
 <underline>Navigation, trade</underline></emph></ab>
 </div>
@@ -30,9 +30,9 @@ of within 6 <tmp>days</tmp>.<comment>c_162r_01</comment></ab>
 <pn>Herodotus</pn>, on the first page of <el>Clio</el>, says that the
 <pl>Greeks</pl> were on a long ship on the <pl>coast of Colchis</pl>
 &amp; to the <pl>river Phasis</pl>, whence they carried off
-<pn>Medea</pn><comment>c_162r_02</comment>.</ab>
+<pn>Medea</pn><comment rid="c_162r_02"/>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 <emph>Galleys</emph>.</ab>
 </div>
 
@@ -41,11 +41,11 @@ of within 6 <tmp>days</tmp>.<comment>c_162r_01</comment></ab>
 
 <pn>Herodotus</pn>, on the third page, says that <pn>Gyges</pn>
 presented to the temple of <pl>Delphi</pl>
-<la><comment>c_162r_04</comment>pateras <m>aureas</m> sex pondo 30
-<ms><cn>talentorum</cn></ms><comment>c_162r_03</comment>.</la></ab>
+<la><comment rid="c_162r_04"/>pateras <m>aureas</m> sex pondo 30
+<ms><cn>talentorum</cn></ms><comment rid="c_162r_03"/>.</la></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <emph>
 <m>Gold</m> vases</emph></ab>
 </div>
@@ -57,11 +57,11 @@ presented to the temple of <pl>Delphi</pl>
 <la><emph>pateram ex <m>ferro</m> compactilem
 apud <pl>Delphos</pl> dedicavit spectatu dignam inter omnia quae sunt
 <pl>Delphis</pl> donaria, opus <pn>Glauci Chii</pn> qui solus omnium
-compactionem <m>ferri</m> excogitavit.</emph><comment>c_162r_05</comment> <m>Compactile
-ferrum</m></la><comment>c_162r_06</comment>, which is made by assembly
+compactionem <m>ferri</m> excogitavit.</emph><comment rid="c_162r_05"/> <m>Compactile
+ferrum</m></la><comment rid="c_162r_06"/>, which is made by assembly
 &amp; things joined.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 <emph>
 <m>Iron</m> vase joined and <m>soldered</m></emph></ab>
 
@@ -73,8 +73,8 @@ secrets from my benevolent <pro>readers</pro>.<hr/></ab>
 
 </div>
 
-<div>
-<id>p162r_2</id>
+<div id="p162r_2">
+
 <head><m><la>Aes ustum</la></m></head>
 
 <ab> Once finely pulverized, it molds very neatly &amp; has a certain
@@ -84,8 +84,8 @@ inappropriate for a cast.</ab>
 
 </div>
 
-<div>
-<id>p162r_3</id>
+<div id="p162r_3">
+
 <head><m>Rotten wood</m></head>
 
 <ab> <m>The one which is white, light like a sponge</m>, once burned in

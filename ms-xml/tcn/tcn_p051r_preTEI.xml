@@ -1,10 +1,10 @@
-<root>
-<page>051r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="051r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f107.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f107.image</image>
 
-<div>
-<id>p051r_1</id>
+
+
+<div id="p051r_1">
+
 <head>Contretirer</head>
 
 <ab>Fais de l’<m>eau de savon</m> &amp; d’icelle frotte &amp; humecte la
@@ -20,7 +20,7 @@ de <m>verre</m></tl>,<lb/>
 gauche,<lb/>
 
 mays si tu <m>huiles</m> ton <m>papier</m> d’<m>huile d’<pa>aspic</pa>
-<del>&amp;</del> <add>ou</add><comment>c_051r_01</comment> de
+<del>&amp;</del> <add>ou</add><comment rid="c_051r_01"/> de
 tourmentine</m>,<lb/>
 
 il te le representera à <del>gauche</del> droicte de l’aultre costé.
@@ -51,8 +51,8 @@ puys, y destrempe du <m>savon</m> &amp; fais co<exp>mm</exp>e dict
 est.</ab>
 
 </div>
-<div>
-<id>p051r_2</id>
+<div id="p051r_2" continued="yes">
+
 <head><pro>Tailleurs en <tl>planches</tl></pro></head>
 
 <ab>Pour nettoyer les <tl>planches de <m>cuivre</m></tl> ou pour mieulx
@@ -102,8 +102,8 @@ Tu pourrois faire cela au <m>verres</m> historiés &amp; couche de<lb/>
 sur le descouvert. Pour faire l’<m>ancre</m> pour <tl>planches de
 <m>cuivre</m></tl>,</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Ces <tl>rouleaus</tl><lb/>
 
 sont bons pour<lb/>
@@ -118,8 +118,8 @@ diverses sortes<lb/>
 
 de <m>pastes</m>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 On peult mectre<lb/>
 
 les <tl>planches</tl> parmy<lb/>
@@ -131,6 +131,6 @@ le <tl>linge</tl> quand la
 affinée, ou bien
 
 dans un <tl>pot</tl>.</ab>
-<cont/>
+
 </div>
 </root>

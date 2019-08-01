@@ -1,13 +1,13 @@
-<root>
-<page>141v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="141v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f288.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f288.image</image>
 
-<div>
 
-<cont/>
 
-<id>p141r_1</id>
+<div continues="yes" id="p141r_1" continued="yes">
+
+
+
+
 
 <ab>
 
@@ -95,9 +95,9 @@ et les longues cornes &amp; la queue, sinon que tu l’ayes<lb/>
 
 pliée &amp; recourvée pour tenir ses œufs. Les aultres animaulx</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Asseure ce qui se<lb/>
 
@@ -113,19 +113,19 @@ la <m>cire fondue</m> par<lb/>
 
 dessoubs.</ab>
 
-<figure>
+<figure id="fig_p141v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5R0NIbHoyNTNQRlk">
 
-<id>fig_p141v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5R0NIbHoyNTNQRlk</link>
+
+
+
 
 </figure>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Descouvre le plus<lb/>
 
@@ -139,9 +139,9 @@ le <tl>moule</tl> soict bien<lb/>
 
 en despouille.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Fais pancher le<lb/>
 
@@ -151,9 +151,9 @@ sera le plus espés<lb/>
 
 de l’animal.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Pour la paindre<lb/>
 
@@ -185,19 +185,19 @@ naturel devant toy<lb/>
 
 pour l’imiter.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Couche les cornes sur les grosses<lb/>
 
 pates, <del>&amp;</del>ou fais de <m>fil de letton<lb/>
 
-blanchi</m><comment>c_141v_01</comment> &amp; les <m>soulde</m>.</ab>
+blanchi</m><comment rid="c_141v_01"/> &amp; les <m>soulde</m>.</ab>
 
-<ab>
+<ab margin="bottom">
 
-<margin>bottom</margin>
+
 
 Advise bien <del>d</del>en moulant de disposer tellement les jambes<lb/>
 
@@ -206,9 +206,9 @@ qu’elles ne passent point le ventre de l’<al>escrevisse</al>,
 
 les posant elles s’assoyent bien sur le ventre, aultrement les<lb/>
 
-<ill/> remuroient.<comment>c_141v_02</comment></ab>
+<ill/> remuroient.<comment rid="c_141v_02"/></ab>
 
-<cont/>
+
 
 </div>
 </root>

@@ -1,13 +1,13 @@
-<root>
-<page>076r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="076r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f157.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f157.item</image>
 
-<div>
 
-<cont/>
 
-<id>p075v_4</id>
+<div continues="yes" id="p075v_4">
+
+
+
+
 
 <ab>s’y n’en trouves, et en couvrir d’icell<exp>e</exp> pouldre
 led<exp>ict</exp> <m>boys</m>,<lb/>
@@ -22,9 +22,9 @@ led<exp>ict</exp> <m>boys</m> en boulhant.</ab>
 
 </div>
 
-<div>
+<div id="p076r_1">
 
-<id>p076r_1</id>
+
 
 <head>Pour faire <m>boys</m> verd</head>
 
@@ -49,9 +49,9 @@ matieres l’espace de trois <ms><tmp>heures</tmp></ms>.</ab>
 
 </div>
 
-<div>
+<div id="p076r_2">
 
-<id>p076r_2</id>
+
 
 <head>Pour faire <m>boys</m> rouge</head>
 
@@ -67,9 +67,9 @@ v<exp>ost</exp>re <tl>pot</tl>,<lb/>
 
 </div>
 
-<div>
+<div id="p076r_3">
 
-<id>p076r_3</id>
+
 
 <head>Pour le faire bleu</head>
 
@@ -86,9 +86,9 @@ comme du verd.</ab>
 
 </div>
 
-<div>
+<div id="p076r_4">
 
-<id>p076r_4</id>
+
 
 <head>Pour le faire violet</head>
 
@@ -102,9 +102,9 @@ dess<exp>us</exp>.</ab>
 
 </div>
 
-<div>
+<div id="p076r_5">
 
-<id>p076r_5</id>
+
 
 <head>Pour le faire jaulne</head>
 

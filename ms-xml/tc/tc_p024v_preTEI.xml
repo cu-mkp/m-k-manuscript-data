@@ -1,11 +1,11 @@
-<root>
-<page>024v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="024v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f54.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f54.image</image>
 
-<div>
 
-<id>p024v_1</id>
+
+<div id="p024v_1" continued="yes">
+
+
 
 <head>Pour mener le <wp>canon</wp> en <env>pays</env></head>
 
@@ -94,17 +94,17 @@ en garde pour la deffence des <wp>pieces</wp> On tient le petit<lb/>
 magasin de <m>pouldres</m> de trois ou quattre <ms>caques</ms> a
 part</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Scaches les magasins<lb/>
 
 de <pl>france</pl> pour l<wp>artiglerie</wp></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Il est bon que la plateforme<lb/>
 
@@ -116,15 +116,15 @@ mise en batterie &amp; tient<lb/>
 
 plus coup &amp; bat plus roide</ab>
 
-<cont/>
+
 
 </div>
 
-<div>
+<div id="p024v_2">
 
-<id>p024v_2</id>
-<head><margin>left-middle</margin><df><wp>Canons a chambre</wp></df></head>
-<ab><margin>left-middle</margin>
+
+<head><df><wp>Canons a chambre</wp></df></head>
+<ab margin="left-middle">
 
 sont ceulx qui ont un renfort<lb/>
 
@@ -146,11 +146,11 @@ a charger Mays il ne<lb/>
 
 seschauffent pas si tost</ab></div>
 
-<div>
+<div id="p024v_3">
 
-<id>p024v_3</id>
-<head><margin>left-middle</margin>Lumiere d<m>acier</m></head>
-<ab><margin>left-middle</margin>
+
+<head>Lumiere d<m>acier</m></head>
+<ab margin="left-middle">
 
 se pose en Ancrau dans<lb/>
 
@@ -170,11 +170,11 @@ ha que duser de la lumiere<lb/>
 
 propre</ab></div>
 
-<div>
+<div id="p024v_4">
 
-<id>p024v_4</id>
-<head><margin>left-middle</margin>Lumiere a ras</head>
-<ab><margin>left-middle</margin>
+
+<head>Lumiere a ras</head>
+<ab margin="left-middle">
 
 de<lb/>
 

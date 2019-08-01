@@ -1,10 +1,10 @@
-<root>
-<page>092v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="092v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f190.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f190.image</image>
 
-<div>
-<id>p092v_1</id>
+
+
+<div id="p092v_1">
+
 <head><m>Sand from <env>river</env> <al>tellins</al> and
 <al>mussels</al></m></head>
 
@@ -13,8 +13,8 @@ water rivers</env>, being calcined, make an <m>impalpable white sand</m>, which
 molds very neatly.</ab>
 
 </div>
-<div>
-<id>p092v_2</id>
+<div id="p092v_2">
+
 <head>Congealing <m>mercury</m></head>
 
 <ab>It congeals, just as I tried, by boiling it one or two
@@ -22,7 +22,7 @@ molds very neatly.</ab>
 putting in, for an <ms>℥</ms> of
 <m>☿</m>, ii <ms>℥</ms> of
 <m>verdet</m> <del><fr>de</fr></del> and <m>vitriol of
-saltpetre</m>, <ms><la>ana</la></ms>,<comment>c_083r_03</comment> with sufficient quantity of <m>old
+saltpetre</m>, <ms><la>ana</la></ms>,<comment rid="c_083r_03"/> with sufficient quantity of <m>old
 water from <pro>farriers</pro></m>.</ab>
 
 <ab>Or else, melt 4 <ms>℥</ms> of <m>tin</m>, &amp; as
@@ -41,8 +41,8 @@ moderately sized hole.</ab>
 This one, mixed, makes <m>tin</m> &amp; <m>lead</m> run.</ab>
 
 </div>
-<div>
-<id>p092v_3</id>
+<div id="p092v_3">
+
 <head>Mixture</head>
 
 <ab><m>Fine tin</m>, <m>congealed mercury</m> with the smell of

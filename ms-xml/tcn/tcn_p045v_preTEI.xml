@@ -1,11 +1,11 @@
-<root>
-<page>045v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="045v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f96.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f96.image</image>
 
-<div>
 
-<id>p045v_1</id>
+
+<div id="p045v_1">
+
+
 
 <head>Charger <wp>arquebus</wp></head>
 
@@ -38,19 +38,19 @@ ha tousjours quelque <m>crasse</m> ou chambre. Ainsy<lb/>
 
 elle ne repoulsera poinct, et tireras plus justement.</ab>
 
-<figure>
+<figure id="fig_p045v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ZlVWTkcyU2FfanM">
 
-<id>fig_p045v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5ZlVWTkcyU2FfanM</link>
+
+
 
 </figure>
 
 </div>
 
-<div>
+<div id="p045v_2">
 
-<id>p045v_2</id>
+
 
 <head>Pour adjouster un <wp>canon</wp> faulcé</head>
 

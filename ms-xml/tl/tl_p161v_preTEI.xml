@@ -1,11 +1,11 @@
-<root>
-<page>161v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="161v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f328.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f328.item.r=</image>
 
-<div>
-<id>p161v_1</id>
-<head><comment>c_161v_01</comment><m><la>Crocum ferri</la></m></head>
+
+
+<div id="p161v_1">
+
+<head><comment rid="c_161v_01"/><m><la>Crocum ferri</la></m></head>
 
 <ab>It is promptly made if you put the <m>filings</m>, well cleaned
 &amp; washed, in an <tl><m>iron</m> case</tl>, two
@@ -17,7 +17,7 @@ for the space of a <ms><tmp>day</tmp></ms>. And it will be well burnt
 <del>the</del>, the <m>vinegar</m> will bite it quite easily &amp; will
 soon give it redness &amp; bonding, wetting it with the strongest you
 can find &amp; next setting it aflame. And <corr>in</corr> three or 4
-<del>ignitions</del> wettings<comment>c_161v_02</comment> &amp; ignitions it will be ready. This one
+<del>ignitions</del> wettings<comment rid="c_161v_02"/> &amp; ignitions it will be ready. This one
 is columbine color &amp; is found firmer for casting than that which is
 redder &amp; the color of <del><m>minium</m></del>
 <add><m>bole</m></add>, made of <m>rusty filings</m>

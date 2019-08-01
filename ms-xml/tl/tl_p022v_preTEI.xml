@@ -1,29 +1,29 @@
-<root>
-<page>022v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="022v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f50.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f50.image</image>
 
-<figure>
 
-<id>fig_p022v_1</id>
 
-<margin>left-middle</margin>
+<figure id="fig_p022v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NkNrYkVZTlVnbDQ">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5NkNrYkVZTlVnbDQ</link>
+
+
+
+
+
 
 </figure>
 
-<div>
+<div id="p022v_1">
 
-<id>p022v_1</id>
+
 
 <head><wp>Orgues</wp></head>
 
 <ab>Then one mounts them on a medium thick board close to 
-one<del><fr>g</fr></del><comment>c_022v_07</comment> another &amp; one makes
-notches on the board this way <figure><id>fig_p022v_2</id>
+one<del><fr>g</fr></del><comment rid="c_022v_07"/> another &amp; one makes
+notches on the board this way <figure id="fig_p022v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5RnQ2Ri1PenA1aDA">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5RnQ2Ri1PenA1aDA</link></figure>.
+</figure>.
 
 &amp; through these notches one passes the hook of the <wp>arquebus</wp> which
 has a hole through which one passes <tl><m>iron</m> pegs</tl> from under
@@ -41,14 +41,14 @@ defending a door.</ab>
 
 A small <wp>arquebus à croc</wp> weighs 40 <ms>lb</ms>, is four
 <ms><fr>pans</fr></ms> long, is loaded <ms>up to the
-escutcheon</ms>,<comment>c_018v_02</comment> has <ms>three balls at the breech &amp; two
+escutcheon</ms>,<comment rid="c_018v_02"/> has <ms>three balls at the breech &amp; two
 in front</ms>.</ab>
 
 <ab>
 
 The <wp>double cannon</wp> is no different from the <wp>large ordinary cannon</wp>, except
 that it carries <del><ill/></del> its ball <del><ill/></del> which has
-one <ms>line</ms><comment>c_022v_02</comment> of thickness, or of
+one <ms>line</ms><comment rid="c_022v_02"/> of thickness, or of
 diameter, more. The <df><ms>line</ms></df> is a <ms>twelfth part of the
 ball of the <wp>cannon</wp></ms>. At the breech, it has one <ms>line</ms> of
 thickess more than the <wp>cannon</wp>, &amp; half at the front. Its charge is
@@ -59,7 +59,7 @@ more of a fracas at the wall than the <wp>cannon</wp>. But it is very troublesom
 to draw. It is for this reason that one hardly uses it today, and it is
 more for moving to some nearby place &amp; battering at close range or
 for an entry, than for ordinary business. One calls them
-<fr>basilics</fr>,<comment>c_022v_07</comment> and they are pieces made for pleasure.</ab>
+<fr>basilics</fr>,<comment rid="c_022v_07"/> and they are pieces made for pleasure.</ab>
 
 </div>
 </root>

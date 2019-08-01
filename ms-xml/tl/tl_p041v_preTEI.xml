@@ -1,11 +1,11 @@
-<root>
-<page>041v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="041v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f88.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f88.image</image>
 
-<div>
 
-<id>p041v_1</id>
+
+<div id="p041v_1">
+
+
 
 <head><pro>Glassworkers’</pro> <m>black</m></head>
 
@@ -20,9 +20,9 @@ described elsewhere, some add <del><fr>d</fr></del> a little
 
 </div>
 
-<div>
+<div id="p041v_2">
 
-<id>p041v_2</id>
+
 
 <head>Sheared <al>ewes</al></head>
 
@@ -32,9 +32,9 @@ are fat, they are easier to shear &amp; do not get wounded so easily.
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 If the <pro>shearer</pro> wants to <df><fr>viscorter</fr></df> them, that is to
 say castrate, when they are one or two <ms><tmp>years</tmp></ms> old, he
@@ -43,9 +43,9 @@ die.</ab>
 
 </div>
 
-<div>
+<div id="p041v_3">
 
-<id>p041v_3</id>
+
 
 <head>Colors and <m>gilding</m> on <m>glass</m></head>
 

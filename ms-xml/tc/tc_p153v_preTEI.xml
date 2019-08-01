@@ -1,13 +1,13 @@
-<root>
-<page>153v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="153v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f312.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f312.image</image>
 
-<div>
 
-<cont/>
 
-<id>p153r_2</id>
+<div continues="yes" id="p153r_2">
+
+
+
+
 
 <ab><m>farine</m> Et pour laplatir ayes un <tl>petit baston de
 <m><pa>buys</pa></m></tl><lb/>
@@ -58,14 +58,14 @@ espesseur ou de <tl><m>carton</m></tl> coupees avecq le
 <tl>rolleau</tl></ab>
 
 
-<figure>
-<id>fig_p153v_1</id>
-<margin>left-middle</margin>
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5czR5TF9scDhsSG8</link>
+<figure id="fig_p153v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5czR5TF9scDhsSG8">
+
+
+
 
 </figure>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Si tu frottois<lb/>
 
@@ -103,11 +103,11 @@ fondre<lb/>
 
 le <m>beurre</m>
 
-<figure>
+<figure id="fig_p153v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5c3FRZnZSMnU1Njg">
 
-<id>fig_p153v_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5c3FRZnZSMnU1Njg</link>
+
+
 
 </figure>
 
@@ -115,9 +115,9 @@ le <m>beurre</m>
 
 </div>
 
-<div>
+<div id="p153v_1">
 
-<id>p153v_1</id>
+
 
 <head>Essayer la bonte et force<lb/>
 
@@ -135,9 +135,9 @@ petit Car le grand demeure <tmp>long temps</tmp> au fœu<lb/>
 
 </div>
 
-<div>
+<div id="p153v_2">
 
-<id>p153v_2</id>
+
 
 <head>Adoulcir l<m>or</m></head>
 

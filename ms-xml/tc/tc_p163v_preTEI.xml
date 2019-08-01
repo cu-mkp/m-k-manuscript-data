@@ -1,11 +1,11 @@
-<root>
-<page>163v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="163v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f332.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f332.image</image>
 
-<div>
 
-<id>p163v_1</id>
+
+<div id="p163v_1">
+
+
 
 <head><al>Escrevisse</al></head>
 
@@ -27,7 +27,7 @@ tant pour les soubstenir que pour soufler la dedans<lb/>
 
 la <m>cendre</m> qui empesche</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Nespargne point<lb/>
 
@@ -51,9 +51,9 @@ donnas</ab>
 
 </div>
 
-<div>
+<div id="p163v_2">
 
-<id>p163v_2</id>
+
 
 <head><m><la>Crocum</la></m></head>
 
@@ -92,21 +92,21 @@ L<m><bp>urine</bp></m><lb/>
 
 donne beaucoup de taincture Et l<m>eau de vye</m> aussy</ab>
 
-<figure>
+<figure id="fig_p163v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5anJvd0FQQ3BkRFE">
 
-<id>fig_p163v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5anJvd0FQQ3BkRFE</link>
+
+
+
 
 </figure>
 
 </div>
 
-<div>
+<div id="p163v_3">
 
-<id>p163v_3</id>
+
 
 <head>Reparer</head>
 

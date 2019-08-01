@@ -1,25 +1,25 @@
-<root>
-<page>115r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="115r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f235.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f235.image</image>
 
-<div>
 
-<cont/>
 
-<id>p114r_1</id>
+<div continues="yes" id="p114r_1">
+
+
+
+
 
 <ab>
 
-<figure>
+<figure id="fig_p115r_1" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NmVuVUloTy0zNWc">
 
-<id>fig_p115r_1</id>
-    
-<margin>left-top</margin>
-    
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5NmVuVUloTy0zNWc</link>
 
-</figure><comment>c_115r_01</comment> 
+    
+
+    
+
+
+</figure><comment rid="c_115r_01"/> 
 
 Si tu veulx qui sera asses<lb/>
 
@@ -108,8 +108,8 @@ en recuisant</ab>
 
 </div>
 
-<div>
-<id>p115r_1</id>
+<div id="p115r_1">
+
 <head><del>Faire le gect recuire les <tl>moules</tl> &amp;c</del>
 
 Advertisseme<exp>n</exp>t sur tout ce<lb/>
@@ -162,8 +162,8 @@ trop</ab>
 
 </div>
 
-<div>
-<id>p115r_2</id>
+<div id="p115r_2">
+
 <head>Animal hors de despouille</head>
 
 <ab>Si par cas fortuict tu as donne un tel entortillem<exp>ent</exp> a
@@ -193,20 +193,20 @@ prise est si<lb/>
 
 ferme que pour cela lempraincte ne se gastera poinct</ab>
 
-<figure>
+<figure id="fig_p115r_3" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aS1ZeHc2dGxJTE0">
 
-<id>fig_p115r_3</id>
 
-<margin>left-bottom</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5aS1ZeHc2dGxJTE0</link>
 
-<comment>c_115r_02</comment></figure>
+
+
+
+<comment rid="c_115r_02"/></figure>
 
 </div>
 
-<div>
-<id>p115r_3</id>
+<div id="p115r_3">
+
 <head>Recuite de <tl>moules</tl></head>
 
 <ab>Apres que tes <tl>moules</tl> sont recuits <del>le p</del> &amp;
@@ -215,7 +215,7 @@ nettoyes le plus tost gecte<ups>r</ups><lb/>
 est le meilleur pourceque si tu les gardes ilz se corrompent et
 humecten<ups>t</ups><lb/>
 
-<comment>c_115r_03</comment>recuits le plus espes ou est le corps de
+<comment rid="c_115r_03"/>recuits le plus espes ou est le corps de
 lanimal en hault affin que sil y a<lb/>
 
 quelque chose dedans a brusler quil tombe en bas</ab>
@@ -229,13 +229,13 @@ recuit pourv<ups>eu</ups><lb/>
 
 quil demeure rouge par dedans quand tu gecteras</ab>
 
-<figure>
+<figure id="fig_p115r_4" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Xzg4WTZ2NFNkOHM">
 
-<id>fig_p115r_4</id>
 
-<margin>left-bottom</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Xzg4WTZ2NFNkOHM</link>
+
+
+
 
 <caption>Cest la forme des <tl>crampons</tl></caption>
 

@@ -1,10 +1,10 @@
-<root>
-<page>118r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="118r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f241.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f241.image</image>
 
-<div>
-<id>p118r_1</id>
+
+
+<div id="p118r_1">
+
 <head><al>Snails</al></head>
 
 <ab>Those which are found in the <env>sea</env> &amp; similarly those in
@@ -15,8 +15,8 @@ shell with <m>aquafortis</m>, for they truly appear to be made of
 
 </div>
 
-<div>
-<id>p118r_2</id>
+<div id="p118r_2">
+
 <head>For removing flashing and barbs from things molded <fr>à noyau</fr></head>
 
 <ab>If your <tl>molds</tl> are of <m>good plaster</m> which withstands
@@ -30,15 +30,15 @@ make some, you can remove it with a <tl>burin</tl> that one calls
 
 </div>
 
-<div>
-<id>p118r_3</id>
+<div id="p118r_3">
+
 <head>For <env>grottos</env></head>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 The <m>old <pa>vine</pa> stocks</m></ab>
 
-<ab><m>Stones made from water</m> called <m><df><de>stuf</de></df></m>,<comment>c_118r_01</comment>
+<ab><m>Stones made from water</m> called <m><df><de>stuf</de></df></m>,<comment rid="c_118r_01"/>
 <m>charcoal</m>, the <m>compound of tin &amp; fine latten</m>, <m>paper
 <tl>pestled</tl></m> &amp; mixed with <m><tl>pestled</tl> glass</m>, <m>cork</m>,
 <m>heated parchment</m>, <m>white coral</m> are appropriate for making <env>grottos</env>. But <m>fantastical pieces of wood</m> which are
@@ -54,16 +54,16 @@ specimens of all kinds of <m>minerals</m>. The <m>sulfurous marcasites</m>,
 which do not have a grain but are uniform like <m>looking-glass tin</m>,
 are very beautiful.</add></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <m>Rosette</m> is found sometimes mixed with certain brittle
 lumps which are pulverized under the <tl>hammer</tl>, which are very
 beautiful pulverized on <env>grottos</env>.</ab>
 
 </div>
 
-<div>
-<id>p118r_4</id>
+<div id="p118r_4">
+
 <head><m>Looking-glass tin</m></head>
 
 <ab>It whitens &amp; renders <m>firm fine tin</m> if <del><fr>en
@@ -73,8 +73,8 @@ one <ms>lb</ms> of <m>fine tin</m>.</ab>
 
 </div>
 
-<div>
-<id>p118r_5</id>
+<div id="p118r_5">
+
 <head><m>Sal ammoniac</m></head>
 
 <ab><del>It</del> <m>Sal ammoniac water</m> is very natural for casting

@@ -1,10 +1,10 @@
-<root>
-<page>056r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="056r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f117.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f117.image</image>
 
-<div>
-<id>p056r_1</id>
+
+
+<div id="p056r_1">
+
 <head>Trempe excellente pour corps de<lb/>
 
 <wp>cuirasse</wp></head>
@@ -55,8 +55,8 @@ aprés dans ledict <tl>muy</tl>, et remués le tout fort ensemble.<lb/>
 Et tant plus ceste trempe sera vielle, tant mieulx vauldra.</ab>
 
 </div>
-<div>
-<id>p056r_2</id>
+<div id="p056r_2">
+
 <head><m>Vernis</m> pour <m>destrempe</m></head>
 
 <ab>Tu peulx fayre du <m>mabre</m> à <m>destrempe</m> de <m>laque</m> ou

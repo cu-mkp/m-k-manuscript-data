@@ -1,11 +1,11 @@
-<root>
-<page>010r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="010r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f25.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f25.image</image>
 
-<div>
 
-<id>p010r_1</id>
+
+<div id="p010r_1">
+
+
 
 <head><m>Jaspe contrefaict</m></head>
 
@@ -40,9 +40,9 @@ fault<lb/>
 <m>huiler</m> d<m>huile d<pa>aspic</pa></m> le revers non
 painct</add></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle" render="tall">
 
-<render>tall</render>
+
 
 Tu en peulx incruster<lb/>
 
@@ -128,9 +128,9 @@ avecq le <tl>rabot</tl></ab>
 
 </div>
 
-<div>
+<div id="p010r_2">
 
-<id>p010r_2</id>
+
 
 <head><m>Scudegrun</m></head>
 
@@ -143,9 +143,9 @@ ensemble ou pour mieulx avecq de la <m>ceruse</m> qui est propre a<lb/>
 
 </div>
 
-<div>
+<div id="p010r_3">
 
-<id>p010r_3</id>
+
 
 <head><pa>Roses</pa></head>
 
@@ -159,9 +159,9 @@ tainctes<lb/>
 
 </div>
 
-<div>
+<div id="p010r_4">
 
-<id>p010r_4</id>
+
 
 <head>Couleur de pourpres</head>
 
@@ -177,9 +177,9 @@ donne taincture violette selon la quantite que tu en mesles</ab>
 
 </div>
 
-<div>
+<div id="p010r_5">
 
-<id>p010r_5</id>
+
 
 <head><m>Pouldre</m> dhorloges de sable</head>
 

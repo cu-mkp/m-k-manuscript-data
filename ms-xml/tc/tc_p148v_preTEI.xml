@@ -1,11 +1,11 @@
-<root>
-<page>148v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="148v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f302.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f302.image</image>
 
-<div>
 
-<id>p148v_1</id>
+
+<div id="p148v_1">
+
+
 
 <head>Mouler <al>tortues</al></head>
 
@@ -95,9 +95,9 @@ gouge</tl> ou <tl>petites portes pieces rondes</tl> Ou avecq la
 
 ciselet</tl> non trampe &amp; frappe sur une <tl>petite lime</tl></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Fais ce trou<lb/>
 

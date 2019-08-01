@@ -1,11 +1,11 @@
-<root>
-<page>129r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="129r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f263.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f263.item.r=</image>
 
-<div>
 
-<id>p129r_1</id>
+
+<div id="p129r_1">
+
+
 
 <head>Paindre herbes de <m>metal</m></head>
 
@@ -27,9 +27,9 @@ ton ouvraige sera sec Mays couche cler</ab>
 
 </div>
 
-<div>
+<div id="p129r_2">
 
-<id>p129r_2</id>
+
 
 <head>Pour <pa>santonique</pa></head>
 
@@ -45,9 +45,9 @@ branche naturelle que tu auras</ab>
 
 </div>
 
-<div>
+<div id="p129r_3">
 
-<id>p129r_3</id>
+
 
 <head>Couleur de <al>vipere</al></head>
 
@@ -77,9 +77,9 @@ co<exp>mm</exp>e une<lb/>
 
 plaine de aiguillons fort vene<ups>neu</ups>lx</add></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>+</mark>
 
@@ -87,7 +87,7 @@ Mects un peu de<lb/>
 
 <m>metalline</m> dans<lb/>
 
-don<comment>c_129r_02</comment> <m>estein</m> &amp; ton<lb/>
+don<comment rid="c_129r_02"/> <m>estein</m> &amp; ton<lb/>
 
 <al>lesard</al> semblera<lb/>
 
@@ -95,9 +95,9 @@ d<m>argent</m></ab>
 
 </div>
 
-<div>
+<div id="p129r_4">
 
-<id>p129r_4</id>
+
 
 <head><pa>Roses</pa> moulees</head>
 

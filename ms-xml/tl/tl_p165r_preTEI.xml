@@ -1,11 +1,11 @@
-<root>
-<page>165r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="165r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f335.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f335.item</image>
 
-<div>
 
-<id>p165r_1</id>
+
+<div id="p165r_1">
+
+
 
 <head>Repairing</head>
 
@@ -14,9 +14,9 @@
 
 </div>
 
-<div>
+<div id="p165r_2">
 
-<id>p165r_2</id>
+
 
 <head><m>Lake</m></head>
 
@@ -26,9 +26,9 @@ grinding it as before. <del><add><fr>La</fr></add></del></ab>
 
 </div>
 
-<div>
+<div id="p165r_3">
 
-<id>p165r_3</id>
+
 
 <head>Stretching a <m>canvas</m> picture</head>
 
@@ -38,9 +38,9 @@ evenly without spoiling it.</ab>
 
 </div>
 
-<div>
+<div id="p165r_4">
 
-<id>p165r_4</id>
+
 
 <head><m>Plaster</m> for molding</head>
 
@@ -53,18 +53,18 @@ cracks. <add>It is best to reheat them soon after they are made, &amp;
 to cast. <m>Good plaster</m> keeps a <tmp>long time</tmp> in
 <tl>molds</tl>.</add></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 It needs to be well <m>oiled</m>, for it is more difficult to separate
 the two halves of the <tl>molds</tl> than when it is mixed.</ab>
 
 </div>
 
-<div>
+<div id="p165r_5">
 
-<id>p165r_5</id>
+
 
 <head><m><al>Dragon</al>’s blood</m></head>
 
@@ -73,9 +73,9 @@ the two halves of the <tl>molds</tl> than when it is mixed.</ab>
 
 </div>
 
-<div>
+<div id="p165r_6">
 
-<id>p165r_6</id>
+
 
 <head>Repairing <al>snakes</al> and <al>lizards</al></head>
 

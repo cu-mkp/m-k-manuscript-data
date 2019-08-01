@@ -1,11 +1,11 @@
-<root>
-<page>105r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="105r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f215.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f215.image</image>
 
-<div>
 
-<id>p105r_1</id>
+
+<div id="p105r_1">
+
+
 
 <head><al>Turtles</al></head>
 
@@ -16,9 +16,9 @@ overturned shell near the tail nor the notches.</ab>
 
 </div>
 
-<div>
+<div id="p105r_2">
 
-<id>p105r_2</id>
+
 
 <head>Drying colors</head>
 
@@ -27,9 +27,9 @@ did not put <m>verdigris</m> with it.</ab>
 
 </div>
 
-<div>
+<div id="p105r_3">
 
-<id>p105r_3</id>
+
 
 <head><pro>Painter</pro></head>
 
@@ -39,9 +39,9 @@ are not managed. Otherwise, one paints on <m>wood</m>; otherwise on
 
 </div>
 
-<div>
+<div id="p105r_4" continued="yes">
 
-<id>p105r_4</id>
+
 
 <head>Gardening</head>
 
@@ -55,14 +55,14 @@ in the shape of a shield a little bit of the skin <del>with</del> which
 contains an <fr>œillet</fr> or sprout with the leaf, thus marked B.
 <del>But</del> <del>before</del> Then carefully make on the
 tender wood <del><fr>s</fr></del> which is in sap, on which you
-want to graft, two lines thus <del><fr>de</fr></del> cut <figure><id>fig_p105r_3</id><link>https://drive.google.com/open?id=1JhDJNev7KOB91hz0h-FhVjRGxq8rj3s1</link></figure>, then
+want to graft, two lines thus <del><fr>de</fr></del> cut <figure id="fig_p105r_3" link="https://drive.google.com/open?id=1JhDJNev7KOB91hz0h-FhVjRGxq8rj3s1"/>, then
 make in the middle a cleft thus
 
-<figure>
+<figure id="fig_p105r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5T1FZYTdOT1U4Qzg">
 
-<id>fig_p105r_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5T1FZYTdOT1U4Qzg</link>
+
+
 
 </figure>
 
@@ -79,17 +79,17 @@ all gently but not as strongly as before; &amp; if there is any output
 or growth, leave it space to go out; &amp; do thus three or 4
 times.</ab>
 
-<figure>
+<figure id="fig_p105r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UWpzdGVweGVvQTg">
 
-<id>fig_p105r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5UWpzdGVweGVvQTg</link>
+
+
+
 
 </figure>
 
-<cont/>
+
 
 </div>
 </root>

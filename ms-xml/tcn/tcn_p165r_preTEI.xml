@@ -1,11 +1,11 @@
-<root>
-<page>165r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="165r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f335.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f335.item</image>
 
-<div>
 
-<id>p165r_1</id>
+
+<div id="p165r_1">
+
+
 
 <head>Reparer</head>
 
@@ -15,9 +15,9 @@ avecq de la <m>cire gommée à esbaucher</m> qui soit noire ou grise.</ab>
 
 </div>
 
-<div>
+<div id="p165r_2">
 
-<id>p165r_2</id>
+
 
 <head><m>Laque</m></head>
 
@@ -31,9 +31,9 @@ au parava<exp>n</exp>t. <del><add>La</add></del></ab>
 
 </div>
 
-<div>
+<div id="p165r_3">
 
-<id>p165r_3</id>
+
 
 <head>Tendre un portrait en <m>toile</m></head>
 
@@ -46,9 +46,9 @@ uny sans le gaster.</ab>
 
 </div>
 
-<div>
+<div id="p165r_4">
 
-<id>p165r_4</id>
+
 
 <head><m>Plastre</m> à mouler</head>
 
@@ -75,9 +75,9 @@ se garde<lb/>
 
 <tl>moules</tl>.</add></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Il le fault<lb/>
 
@@ -97,9 +97,9 @@ meslé.</ab>
 
 </div>
 
-<div>
+<div id="p165r_5">
 
-<id>p165r_5</id>
+
 
 <head><m>Sang de <al>dragon</al></m></head>
 
@@ -113,9 +113,9 @@ Destrempée à <m>vernis</m>, elle se meurt.</ab>
 
 </div>
 
-<div>
+<div id="p165r_6">
 
-<id>p165r_6</id>
+
 
 <head>Reparer <al>serpents</al> et <al>lesards</al></head>
 

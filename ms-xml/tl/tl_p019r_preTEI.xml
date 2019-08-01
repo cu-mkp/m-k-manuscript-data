@@ -1,13 +1,13 @@
-<root>
-<page>019r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="019r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f43.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f43.image</image>
 
-<div>
 
-<cont/>
 
-<id>p017r_1</id>
+<div continues="yes" id="p017r_1">
+
+
+
+
 
 <ab>
 
@@ -23,19 +23,19 @@ are under 3 <ms>quintals</ms> one gives them at least <ms>3 balls
 takes away from the front to make this addition to the breech, according
 to the length one gives them.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 The strength of the <wp>piece</wp> is at the level of the trunnion, which is the
 point of departure of the lit <m>powder</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 The strength of the <fr>berche</fr> is at the
-<fr>maslée</fr><comment>c_019r_01</comment>, &amp; at the back of the
+<fr>maslée</fr><comment rid="c_019r_01"/>, &amp; at the back of the
 breech.
 
 </ab>
@@ -47,15 +47,15 @@ A <wp>double musket</wp> weighs 2 <ms>quintal</ms>s, is seven
 
 <ms>lb</ms> or a little less. <ms>At the breech 3 <ms>balls</ms>, two in
 front</ms>. One loads it with as much <m>powder</m> as <ms>ball</ms>, <ms>up to the top of
-the escutcheon</ms>,<comment>c_018v_02</comment> which in these <wp>small pieces</wp> can amount to <add>3
+the escutcheon</ms>,<comment rid="c_018v_02"/> which in these <wp>small pieces</wp> can amount to <add>3
 
 or</add> 4 <ms>balls</ms> of <m><wp>arquebus</wp> powder</m>. For if one uses
 <m><wp>cannon</wp> powder</m>, one can load it to a <ms>thickness of <del>f</del>
 five balls</ms>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 One needs to understand all of this as <m>iron</m> balls. When one
 shoots a <m>metal</m> ball, one over-charges by a quarter
@@ -92,11 +92,11 @@ which are <del>or</del> appropriate for an assault, both outside &amp;
 inside the place. They are founded separately as if to serve for uses
 other than <wp>orgues</wp>. See the marked 4th leaf following.
 
-<figure>
+<figure id="fig_p019r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5WWY3VjdlVktqZVk">
 
-<id>fig_p019r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5WWY3VjdlVktqZVk</link>
+
+
 
 <!--Philip Cherian: Continues into p022v-->
 

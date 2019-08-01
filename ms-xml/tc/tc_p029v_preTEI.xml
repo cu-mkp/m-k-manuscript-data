@@ -1,11 +1,11 @@
-<root>
-<page>029v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="029v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f64.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f64.item</image>
 
-<div>
 
-<id>p029v_1</id>
+
+<div id="p029v_1">
+
+
 
 <head>Couleur dor sans <m>or</m> sur l<m>argent</m></head>
 
@@ -19,9 +19,9 @@ il sera plus beau qu<m>or bel</m></ab>
 
 </div>
 
-<div>
+<div id="p029v_2">
 
-<id>p029v_2</id>
+
 
 <head>Couche d<m>or bruny</m> sur le <m>papier</m></head>
 
@@ -40,9 +40,9 @@ point de corps </ab>
 
 </div>
 
-<div>
+<div id="p029v_3">
 
-<id>p029v_3</id>
+
 
 <head>Oster taches</head>
 
@@ -52,9 +52,9 @@ vestem<exp>ent</exp></ab>
 
 </div>
 
-<div>
+<div id="p029v_4">
 
-<id>p029v_4</id>
+
 
 <head>Assiete d<m>or</m></head>
 
@@ -67,9 +67,9 @@ destrempe avecq <m>colle forte</m> fort clere &amp; passee par un<lb/>
 
 </div>
 
-<div>
+<div id="p029v_5">
 
-<id>p029v_5</id>
+
 
 <head>Extraction d<m>huiles</m></head>
 
@@ -80,9 +80,9 @@ au <tl>mortier</tl> en le <tl>pilant</tl> est oleagineuse</ab>
 
 </div>
 
-<div>
+<div id="p029v_6">
 
-<id>p029v_6</id>
+
 
 <head><m>Sang de <al>dragon</al></m></head>
 
@@ -129,32 +129,32 @@ l<m>eau de vye</m><lb/>
 
 soict fort ardente &amp; de plusieurs passes</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<comment>c_029v_02</comment>Le <m>plus obscur sang de
+
+<comment rid="c_029v_02"/>Le <m>plus obscur sang de
 <al>dragon</al></m><lb/>
 
 est le meilleur &amp; ha plus de taincture cest la larme qui se trouve a
 <del>gr</del> lopins co<exp>mm</exp>e <m><pa>poix</pa></m> et grosses
 <m><pa>noisettes</pa></m> qui semble
 
-<figure>
+<figure id="fig_p029v_1" margin="right-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5cXJfWVlSSGlKOGs">
 
-<id>fig_p029v_1</id>
 
-<margin>right-bottom</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5cXJfWVlSSGlKOGs</link>
+
+
+
 
 </figure>
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Je lay mise dans<lb/>
 
@@ -182,9 +182,9 @@ sophistiquent le <m>sang<lb/>
 
 de <al>dragon</al></m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Le posant sur l<m>or bruny</m><lb/>
 
@@ -195,7 +195,7 @@ Et pour ceste occasion<lb/>
 aulcuns couchent dessus<lb/>
 
 du <m>vernis de tourmentine</m><lb/>
-<comment>c_029v_03</comment> Le froid retarde que<lb/>
+<comment rid="c_029v_03"/> Le froid retarde que<lb/>
 
 l<m>eau</m> nopere et face extraction<lb/>
 

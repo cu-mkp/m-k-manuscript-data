@@ -1,13 +1,13 @@
-<root>
-<page>099r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="099r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f203.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f203.image</image>
 
-<div>
 
-<cont/>
 
-<id>p098v_5</id>
+<div continues="yes" id="p098v_5">
+
+
+
+
 
 <ab><m>Earth</m>, or <m>sand</m>, moistened or ground with <m>water</m>, wants
 to be reheated more than <m>sand</m>.</ab>
@@ -27,8 +27,8 @@ alloyed</m>, but take them pure &amp; mix them.</ab>
 <ab>It is better to mold all with one <m>sand</m>, either in <tl>frame</tl> or
 <fr>noyau</fr>, rather than various mixed.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 One ought to reheat for one or two <ms><tmp>hours</tmp></ms> <del><fr>et
 p</fr></del>, in <add><del>that</del>a</add> <m>charcoal</m> fire which
@@ -60,15 +60,15 @@ cast in it, it acquires in the <tl>mold</tl>
 <m>leaded</m> or vitrified. I believe that <pro>glassmakers</pro> could
 use it.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 One needs very little of <m>sal ammoniac</m> dissolved in
 <m>water</m>.</ab>
 
 </div>
-<div>
-<id>p099r_3</id>
+<div id="p099r_3">
+
 <head>Bell handles</head>
 
 <ab>

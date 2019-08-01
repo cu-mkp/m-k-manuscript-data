@@ -1,11 +1,11 @@
-<root>
-<page>162v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="162v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f330.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f330.item</image>
 
-<div>
 
-<id>p162v_1</id>
+
+<div id="p162v_1">
+
+
 
 <head><pa>Peschers</pa></head>
 
@@ -22,9 +22,9 @@ florissant plus tard les fleurs viennent a proffict</ab>
 
 </div>
 
-<div>
+<div id="p162v_2">
 
-<id>p162v_2</id>
+
 
 <head><pa>Oliviers</pa></head>
 
@@ -35,9 +35,9 @@ chausse fort de <m>terre</m></ab>
 
 </div>
 
-<div>
+<div id="p162v_3">
 
-<id>p162v_3</id>
+
 
 <head>Pied de <al>Butor</al></head>
 
@@ -56,9 +56,9 @@ sera plus artiste</ab>
 
 </div>
 
-<div>
+<div id="p162v_4">
 
-<id>p162v_4</id>
+
 
 <head><tl>Moules</tl> de choses qui ne sont<lb/>
 

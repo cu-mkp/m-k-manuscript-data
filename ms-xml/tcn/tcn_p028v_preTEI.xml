@@ -1,11 +1,11 @@
-<root>
-<page>028v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="028v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f62.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f62.image</image>
 
-<div>
 
-<id>p028v_1</id>
+
+<div id="p028v_1">
+
+
 
 <head><pro>Pintiers</pro></head>
 
@@ -67,7 +67,7 @@ rendre la vaisselle <sn>sonnante</sn>.</ab>
 
 Pour mouler de plats &amp; escuelles, ilz les font de <m>pierre<lb/>
 
-<del>porte</del> morte</m>, qui est <m>grais</m>,<comment>c_028v_03</comment> &amp; les tournent
+<del>porte</del> morte</m>, qui est <m>grais</m>,<comment rid="c_028v_03"/> &amp; les tournent
 &amp; polissent <del>aultour</del><lb/>
 
 au <tl>tour</tl>. Ils fondent leur <m>estaim</m> dans une <tl>cassolle
@@ -99,9 +99,9 @@ l’escuelle &amp; aultour du bort, affin qu’il s’enleve mieulx,<lb/>
 
 et en frottent la femelle molle.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>+</mark>
 
@@ -123,9 +123,9 @@ cinq ou six <ms>lb</ms> d’<m>estaim<lb/>
 
 de glace</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 S’il n’y ha gueres<lb/>
 

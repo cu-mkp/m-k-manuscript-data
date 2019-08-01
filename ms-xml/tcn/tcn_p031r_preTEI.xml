@@ -1,13 +1,13 @@
-<root>
-<page>031r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="031r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f67.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f67.item</image>
 
-<div>
 
-<cont/>
 
-<id>p030r_2</id>
+<div continues="yes" id="p030r_2">
+
+
+
+
 
 <ab>Leurs <tl>marteaulx</tl> doibvent estre bien unis &amp; polis, et si
 par<lb/>
@@ -26,9 +26,9 @@ le plan des <tl>enclumes</tl> soict de mesme.</ab>
 
 </div>
 
-<div>
+<div id="p031r_1">
 
-<id>p031r_1</id>
+
 
 <head>Nouvelle <pa>vigne</pa></head>
 
@@ -40,9 +40,9 @@ deulx <ms>poignées</ms> de <m>fiente de <al>pigeon</al></m>.</ab>
 
 </div>
 
-<div>
+<div id="p031r_2">
 
-<id>p031r_2</id>
+
 
 <head><m>Eaulx coulourees</m></head>
 
@@ -61,9 +61,9 @@ choses par <tl>filtre</tl>.</ab>
 
 </div>
 
-<div>
+<div id="p031r_3">
 
-<id>p031r_3</id>
+
 
 <head><m>Vernis</m> durant à l’<m>eau</m></head>
 
@@ -73,7 +73,7 @@ choses par <tl>filtre</tl>.</ab>
 ou de <m>mastic</m>, se peult oster et ne soubstient poinct <env>à la
 pluye</env>.<lb/>
 
-Mays celuy qui est faict d’<m>huile de noix blanche</m>,<comment>c_031r_01</comment>
+Mays celuy qui est faict d’<m>huile de noix blanche</m>,<comment rid="c_031r_01"/>
 co<exp>mm</exp>e tu la<lb/>
 
 fais, tient <env>à la pluye</env> <corr>e</corr><add>t</add> est fort
@@ -85,9 +85,9 @@ painctes qu’on porte <m>à la pluye</m>.</ab>
 
 </div>
 
-<div>
+<div id="p031r_4">
 
-<id>p031r_4</id>
+
 
 <head>Fruict de <m>sucre</m></head>
 

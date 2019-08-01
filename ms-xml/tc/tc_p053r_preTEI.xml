@@ -1,10 +1,10 @@
-<root>
-<page>053r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="053r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f111.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f111.image</image>
 
-<div>
-<id>p053r_1</id>
+
+
+<div id="p053r_1">
+
     <head><m>Soulder</m> un <tl><oc>estoc</oc></tl></head>
 
 <ab>Il est bon que les joues de l<tl><oc>estoc</oc></tl> soient haultes pour y
@@ -30,8 +30,8 @@ entournee</ab>
 
 </div>
 
-<div>
-<id>p053r_2</id>
+<div id="p053r_2">
+
 <head><m>Cuivre</m></head>
 
 <ab>Si au fœu &amp; a la fonte il touche le <m>fer</m> Ce <m>fer</m>
@@ -43,15 +43,15 @@ si aigre quil ne se pourra forger
 
 </div>
 
-<div>
-<id>p053r_3</id>
+<div id="p053r_3">
+
 <head>Gect de <m>plomb</m></head>
 
 <ab>On le mesle selon aulcuns <ms>moictie</ms> d<m>estain</m> &amp;
 <ms>moictie</ms> <m>plomb</m><lb/>
 
 et pour
-lesch<del><ill/></del><add>afer</add><comment>c_053r_01</comment> on y
+lesch<del><ill/></del><add>afer</add><comment rid="c_053r_01"/> on y
 mesle un peu de <m>sublime</m> Il se gecte bien<lb/>
 
 en petit dans l<tl><m>os de <al>seiche</al></m></tl> pourveu quil soict
@@ -59,12 +59,12 @@ bon</ab>
 
 </div>
 
-<div>
-<id>p053r_4</id>
+<div id="p053r_4">
+
 <head>Mouler de <m>papier</m></head>
 
 <ab>Fais bouillir <add>sur <m>cendres</m>
-chauldes</add><comment>c_053r_02</comment> du <m>cotton</m> en <m>eau
+chauldes</add><comment rid="c_053r_02"/> du <m>cotton</m> en <m>eau
 fort</m> meslee de <m>sel ammoniac</m><lb/>
 
 co<exp>mm</exp>e <m>eau regale</m> Et le <m>cotton</m> viendra fort
@@ -75,8 +75,8 @@ delicat</ab>
 
 </div>
 
-<div>
-<id>p053r_5</id>
+<div id="p053r_5">
+
 <head><pa>Amendiers</pa> <pa>abricots</pa></head>
 
 <ab>Ils viennent bien droicts si on les hante Et touts arbres<lb/>
@@ -88,8 +88,8 @@ mieulx hantes sur l<pa>amendier</pa> en escusson</ab>
 
 </div>
 
-<div>
-<id>p053r_6</id>
+<div id="p053r_6">
+
 <head>Gect de <m>plomb</m> et <m>cuivre</m></head>
 
 <ab>Le <m>plomb</m> &amp; <m>estaim</m> vient bien en <m>croye
@@ -103,11 +103,11 @@ obtient le prix qui se porte a <pl>lyon</pl> Les <m>os de
 
 brusles &amp; calcines</m> moulent fort net</ab>
 
-<ab>
+<ab margin="left-bottom" render="wide">
 
-<margin>left-bottom</margin>
 
-<render>wide</render>
+
+
 
 Je croy que la<lb/>
 
@@ -119,9 +119,9 @@ des <al>bœufs</al></m> ou<lb/>
 
 moule fort net et est meilleure que l<m>os</m></ab>
 
-<ab>
+<ab margin="right-bottom">
 
-<margin>right-bottom</margin>
+
 
 Note que tout <m>metal aigre vient mieulx que le gras</m> Aussy<lb/>
 

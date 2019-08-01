@@ -1,10 +1,10 @@
-<root>
-<page>048v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="048v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f102.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f102.image</image>
 
-<div>
-<id>p048v_1</id>
+
+
+<div id="p048v_1">
+
 <head>Extraction de <m>regulus</m></head>
 
 <ab>℞ une <ms>lb</ms> d<m>antimoyne</m> <ms>demy lb</ms>
@@ -50,8 +50,8 @@ bien fondu &amp; le refondent plusieurs foys</ab>
 
 </div>
 
-<div>
-<id>p048v_2</id>
+<div id="p048v_2">
+
 <head><m>Plomb</m> <m>Estaim</m></head>
 
 <ab>Ilz sesgrissent estant souvent ou <tmp>long temps</tmp> remis a fondre<lb/>
@@ -112,9 +112,9 @@ l<m>aigre</m> qui est plus<lb/>
 
 blanc et semble estre bruny co<exp>mm</exp>e un mirouer.</ab>
 
-<ab>
-<margin>left-middle</margin>
-Pour<comment>c_048v_01</comment> bien allier l<m>estain</m> &amp; le
+<ab margin="left-middle">
+
+Pour<comment rid="c_048v_01"/> bien allier l<m>estain</m> &amp; le
 <m>plomb</m> Il en fault fondre un tout seul<lb/>
 
 Et puys y mesler laultre a petits lopins a chasque foys et le<lb/>

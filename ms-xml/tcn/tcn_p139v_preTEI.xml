@@ -1,13 +1,13 @@
-<root>
-<page>139v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="139v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f284.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f284.image</image>
 
-<div>
 
-<cont/>
 
-<id>p139r_1</id>
+<div continues="yes" id="p139r_1">
+
+
+
+
 
 <ab>ou de <m>terre</m>, ou de <m>lames de cuivre</m> ou de <m>fer</m>,
 ou de <m>bois</m><lb/>
@@ -20,8 +20,8 @@ l’<tl>estrié ou vis de <m>fer</m></tl>.</ab>
 
 </div>
 
-<div>
-<id>p139v_1</id>
+<div id="p139v_1" continued="yes">
+
 <head>Gect en <m>cire</m> pour representer<lb/>
 
 l’animal qu’on n’a point</head>
@@ -101,8 +101,8 @@ petit,<lb/>
 &amp; non à coup, pource que la <m>cire</m> par son onctuosité ne
 coule</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Ceste <m>cire noire<lb/>
 
 soufrée</m> est pour<lb/>
@@ -161,8 +161,8 @@ dedans il demeure<lb/>
 
 net.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Pour fayre<lb/>
 
 <al>serpents</al> de <m>cire</m><lb/>
@@ -175,7 +175,7 @@ sur un <tl>cierge</tl>, il<lb/>
 
 les fault gecter de <m>cire à esbaucher</m> de toutes couleurs.</ab>
 
-<cont/>
+
 
 </div>
 </root>

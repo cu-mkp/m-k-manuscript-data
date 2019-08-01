@@ -1,10 +1,10 @@
-<root>
-<page>007r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="007r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f19.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f19.image</image>
 
-<div>
-<id>p007r_1</id>
+
+
+<div id="p007r_1">
+
 <head>Pour dorer d’<m>or couleur</m> et d’<m>or bel</m></head>
 
 <ab>Comme tu as <del>doré</del> <add>coloré</add>, faict ton estampe ou
@@ -57,8 +57,8 @@ puys y apliquer les stampes dorées dessus avecq <m>colle forte</m>.</ab>
 
 </div>
 
-<div>
-<id>p007r_2</id>
+<div id="p007r_2">
+
 <head>Pour colorer bahus stampés</head>
 
 <ab>La stampe de <m>lamine de cuivre ou letton</m> se faict sur du
@@ -80,9 +80,9 @@ est plus propre pour le fonds d’<m>azur</m>.</ab>
 
 </div>
 
-<div>
-<id>p007r_3</id>
-<head>Doublets<comment>c_007r_06</comment></head>
+<div id="p007r_3">
+
+<head>Doublets<comment rid="c_007r_06"/></head>
 
 <ab>Le bon <m>sang de <al>dragon</al></m> destrempé en <m>eau de vye</m>
 porte son<lb/>
@@ -94,8 +94,8 @@ vessie</m> &amp; le<lb/>
 
 </div>
 
-<div>
-<id>p007r_4</id>
+<div id="p007r_4">
+
 <head><m>Colle de <al>poisson</al></m> ou <m>usblac</m> <add>et <m>colle
 de<lb/>
 
@@ -122,8 +122,8 @@ mouilla<exp>n</exp>t<lb/>
 
 avecq la <tl><bp>bouche</bp></tl>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 On la bat et faict<lb/>
 
 tremper <del>en <m>eau de vye</m></del><lb/>

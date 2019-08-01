@@ -1,11 +1,11 @@
-<root>
-<page>020r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="020r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f45.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f45.image</image>
 
-<div>
 
-<id>p020r_1</id>
+
+<div id="p020r_1">
+
+
 
 <head>Pour faire les <m><oc>millas</oc></m></head>
 
@@ -80,9 +80,9 @@ faudra qu’il soit dur.</ab>
 
 </div>
 
-<div>
+<div id="p020r_2">
 
-<id>p020r_2</id>
+
 
 <head><pro>Vitrier</pro></head>
 
@@ -127,9 +127,9 @@ peuvent bonnem<exp>ent</exp><lb/>
 
 bien assoir uniment.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Le <m>verre de plat</m><lb/>
 

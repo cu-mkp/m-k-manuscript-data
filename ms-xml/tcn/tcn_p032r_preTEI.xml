@@ -1,11 +1,11 @@
-<root>
-<page>032r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="032r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f69.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f69.image</image>
 
-<div>
 
-<id>p032r_1</id>
+
+<div id="p032r_1">
+
+
 
 <head>Corps de cuirasse</head>
 
@@ -28,9 +28,9 @@ meilleurs que ceulx qui sont de deulx.</ab>
 
 </div>
 
-<div>
+<div id="p032r_2">
 
-<id>p032r_2</id>
+
 
 <head><pro>Painctre</pro></head>
 
@@ -48,9 +48,9 @@ travailler à <m>huile</m> ne travaillera pas à <m>destrempe</m>.</ab>
 
 </div>
 
-<div>
+<div id="p032r_3">
 
-<id>p032r_3</id>
+
 
 <head>Pour coucher l’<m>or</m> à destrempe</head>
 

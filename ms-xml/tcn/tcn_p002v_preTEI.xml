@@ -1,11 +1,11 @@
-<root>
-<page>002v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="002v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f10.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f10.image</image>
 
-<div>
 
-<id>p002v_1</id>
+
+<div id="p002v_1">
+
+
 <head><sup>List of books</sup></head>
 <ab><emph><it>Practica, cioè nova inventione<lb/>di contegiare, stampata in
 <pl>Brescia</pl><lb/>
@@ -13,9 +13,9 @@ per <pn>Vincenzo Sabio</pn></it>.</emph></ab>
 
 </div>
 
-<div>
+<div id="p002v_2">
 
-<id>p002v_2</id>
+
 
 <head><add><m>Esmeraldes<lb/>
 de <pl>Brissac</pl></m></add></head>
@@ -45,9 +45,9 @@ La mace a esté de v<exp>er</exp>t, jaulne<lb/>
 
 </div>
 
-<div>
+<div id="p002v_3">
 
-<id>p002v_3</id>
+
 
 <head><m>Safir</m></head>
 
@@ -56,8 +56,8 @@ La mace a esté de v<exp>er</exp>t, jaulne<lb/>
 <ms>℥</ms>, <m>sel de <pro>febvre</pro></m> 4
 <ms>℥</ms>,<lb/>
 
-<m>coryal</m><comment>c_002v_02</comment> extincellent 4 <ms>grains</ms>. Fuzion
-6<comment>c_002v_06</comment> <ms><tmp>heures</tmp></ms>.</ab>
+<m>coryal</m><comment rid="c_002v_02"/> extincellent 4 <ms>grains</ms>. Fuzion
+6<comment rid="c_002v_06"/> <ms><tmp>heures</tmp></ms>.</ab>
 
 </div>
 </root>

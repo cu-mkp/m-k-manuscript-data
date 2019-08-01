@@ -1,13 +1,13 @@
-<root>
-<page>079r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="079r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f163.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f163.item</image>
 
-<div>
 
-<cont/>
 
-<id>p078v_4</id>
+<div continues="yes" id="p078v_4">
+
+
+
+
 
 <ab>when you want to use some of it, mix it with <m>very clear glue</m>,
 &amp; then you will layer it on what you want two or three times, &amp;
@@ -18,23 +18,23 @@ then let it dry. But before layering it, lay down on it one layer of
 
 </div>
 
-<div>
+<div id="p079r_1">
 
-<id>p079r_1</id>
+
 
 <head>Making gray <m>wood</m></head>
 
 <ab>
 
-Take some <m><fr>grais</fr> powder</m>, ___ ___ ___,<comment>c_079r_01</comment> <m>iron filings</m>,
+Take some <m><fr>grais</fr> powder</m>, ___ ___ ___,<comment rid="c_079r_01"/> <m>iron filings</m>,
 <m>ironware</m>, <m>alum</m>, <m><pro>currier</pro>’s’ black</m>,
-<m>copperas</m>, &amp; <m>glass alum</m>.<comment>c_075v_03</comment></ab>
+<m>copperas</m>, &amp; <m>glass alum</m>.<comment rid="c_075v_03"/></ab>
 
 </div>
 
-<div>
+<div id="p079r_2">
 
-<id>p079r_2</id>
+
 
 <head>For making <md><m>water for disease of the <bp>eyes</bp></m></md></head>
 
@@ -51,9 +51,9 @@ it as a powder on a <tl>white cloth</tl> stretched over a <tl>very clean
 
 </div>
 
-<div>
+<div id="p079r_3" continued="yes">
 
-<id>p079r_3</id>
+
 
 <head>For making <m>bronze</m> in the color of gold</head>
 
@@ -66,7 +66,7 @@ put in <m>quicksilver</m>, and cast it in a line, then <tl>pestle</tl> all these
 <m>drugs</m> together in a <tl>mortar</tl>,
 <corr><del>&amp;</del></corr></ab>
 
-<cont/>
+
 
 </div>
 </root>

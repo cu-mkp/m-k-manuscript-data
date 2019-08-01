@@ -1,11 +1,11 @@
-<root>
-<page>163v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="163v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f332.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f332.image</image>
 
-<div>
 
-<id>p163v_1</id>
+
+<div id="p163v_1">
+
+
 
 <head><al>Crayfish</al></head>
 
@@ -17,7 +17,7 @@ the <m>metal</m> from running well therein, &amp; for that reason, one
 makes a small gate of <m>wax</m> thread at the tips of them, both to
 hold them up and to blow out the <m>ash</m> that hinders.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Spare no <tl>pins</tl>, placing them not only in the middle of the body,
 but also on the big legs, and two or three at the tail, according to the
@@ -25,9 +25,9 @@ stance that you want to <corr>give</corr> it.</ab>
 
 </div>
 
-<div>
+<div id="p163v_2">
 
-<id>p163v_2</id>
+
 
 <head><m><la>Crocum</la></m></head>
 
@@ -46,21 +46,21 @@ and fine, one throws on top <m>vinegar</m>, <m><bp>urine</bp></m>, or
 <m>eau-de-vie</m>. <m><bp>Urine</bp></m> gives much tincture, and
 <m>eau-de-vie</m> also.</ab>
 
-<figure>
+<figure id="fig_p163v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5anJvd0FQQ3BkRFE">
 
-<id>fig_p163v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5anJvd0FQQ3BkRFE</link>
+
+
+
 
 </figure>
 
 </div>
 
-<div>
+<div id="p163v_3">
 
-<id>p163v_3</id>
+
 
 <head>Repairing</head>
 

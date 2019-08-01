@@ -1,14 +1,14 @@
-<root>
-<page>119v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="119v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f244.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f244.image</image>
 
-<div>
 
-<id>p119v_1</id>
 
-<head>Facon dacoustrer l<del>a</del>e<comment>c_119v_04</comment> <del>spalt</del>
-<m><de>spat</de></m><comment>c_108r_02</comment></head>
+<div id="p119v_1">
+
+
+
+<head>Facon dacoustrer l<del>a</del>e<comment rid="c_119v_04"/> <del>spalt</del>
+<m><de>spat</de></m><comment rid="c_108r_02"/></head>
 
 <ab>Il se trouve en terre en <pl>Allemaigne</pl> de couleur de
 <m>plastre cuit</m><lb/>
@@ -27,7 +27,7 @@ pelotes a fœu de la <tl>fornaise des <pro>potiers</pro></tl> Puys on le
 destrempe<lb/>
 
 encores en mesme <m>eau</m> La <m>terre</m> et
-<add>le</add><comment>c_119v_01</comment> grossier et <m>ordure</m> vont
+<add>le</add><comment rid="c_119v_01"/> grossier et <m>ordure</m> vont
 au<lb/>
 
 fonds et le <m>pur aspalte</m> qui est leger &amp; douls et maniable
@@ -62,7 +62,7 @@ cest le plus parfaict de tous pour <m>or</m> <m>argent</m> <m>cuivre</m>
 qua<exp>n</exp>d il est<lb/>
 
 besoing sans se corrompre Et tant plus il sert
-tant<comment>c_119v_02</comment> plus<lb/>
+tant<comment rid="c_119v_02"/> plus<lb/>
 
 il est <del>b</del> meilleur &amp; ne se gaste point Au
 commancem<exp>ent</exp> il est<lb/>
@@ -79,9 +79,9 @@ pour mieux faire tu pourras mectre a part diceluy pour<lb/>
 
 servir a chasque <m>metal</m></ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Voy <la><pn>gesnerus</pn><lb/>
 
@@ -89,9 +89,9 @@ de lapidibus</la><lb/>
 
 </ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Il endure<lb/>
 
@@ -121,9 +121,9 @@ soict canelle<lb/>
 
 il tient</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Le <m><de>spat</de></m> ne<lb/>
 
@@ -147,9 +147,9 @@ aysem<exp>ent</exp> avecq les<lb/>
 
 </div>
 
-<div>
+<div id="p119v_2">
 
-<id>p119v_2</id>
+
 
 <head>Excellent secret pour mouler creus<lb/>
 

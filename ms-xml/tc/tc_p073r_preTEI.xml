@@ -1,16 +1,16 @@
-<root>
-<page>073r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="073r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f151.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f151.image</image>
 
-<div>
 
-<id>p073r_1</id>
 
-<head><comment>c_073r_01</comment> Pour faire <m>vernys pers</m></head>
+<div id="p073r_1">
+
+
+
+<head><comment rid="c_073r_01"/> Pour faire <m>vernys pers</m></head>
 
 <ab>Prenes du <m>pers de fleurs <add>de fleuree ou de
-<pl>Flandres</pl></add></m><comment>c_073r_02</comment> &amp; de la <m>chault vifve</m> Et mettes de
+<pl>Flandres</pl></add></m><comment rid="c_073r_02"/> &amp; de la <m>chault vifve</m> Et mettes de
 l<m>eau</m><lb/>
 
 dessus environ quatre <ms><bp>doigts</bp></ms> et le laisses tremper ung
@@ -23,9 +23,9 @@ poser sans le <m>boys</m></ab>
 
 </div>
 
-<div>
+<div id="p073r_2">
 
-<id>p073r_2</id>
+
 
 <head>Pour Couleur dorange</head>
 
@@ -37,9 +37,9 @@ v<exp>ost</exp>re <m>boys</m></ab>
 
 </div>
 
-<div>
+<div id="p073r_3">
 
-<id>p073r_3</id>
+
 
 <head>Pour desgresser <m>os</m> ou <m>corne</m></head>
 
@@ -62,9 +62,9 @@ quelque temps et verres une Fort belle coulleur de verd</ab>
 
 </div>
 
-<div>
+<div id="p073r_4">
 
-<id>p073r_4</id>
+
 
 <head>Pour faire <m>boys</m> gris</head>
 
@@ -78,7 +78,7 @@ Et le bouttes ensemble prenes <m>limailhe de Fer</m> &amp; du
 <m>souffre</m> &amp; du<lb/>
 
 <m>verd de Gris</m> Et de la <add>
-<m>moullee</m></add><comment>c_073r_03</comment> <gap/> Et faictes tout boulhir<lb/>
+<m>moullee</m></add><comment rid="c_073r_03"/> <gap/> Et faictes tout boulhir<lb/>
 
 ensemble Et bouttes <m>boys d<pa>erable</pa></m> q<exp>ui</exp> aura
 trempe dedans l<m>eaue<lb/>
@@ -90,9 +90,9 @@ Fera mieulx dedans ung <tl><m>Grais</m></tl> Cruze</add></ab>
 
 </div>
 
-<div>
+<div id="p073r_5" continued="yes">
 
-<id>p073r_5</id>
+
 
 <head>Pour faire <m>bronze</m> a couleur dor</head>
 
@@ -101,7 +101,7 @@ ung<lb/>
 
 <tl>mortier de <m>fer</m></tl> Estant bien broye prenes une
 <ms>once</ms> de <m>soufre</m> Et le</ab>
-<cont/>
+
 
 </div>
 </root>

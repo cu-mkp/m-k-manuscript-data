@@ -1,10 +1,10 @@
-<root>
-<page>093r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="093r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f191.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f191.image</image>
 
-<div>
-<id>p093r_1</id>
+
+
+<div id="p093r_1">
+
 <head><pa>Olives</pa></head>
 
 <ab>They are spoiled if <ms><tmp>once a month</tmp></ms> one does not
@@ -13,8 +13,8 @@ with the <bp>hands</bp>, for this makes them spoil.</ab>
 
 </div>
 
-<div>
-<id>p093r_2</id>
+<div id="p093r_2">
+
 <head>Observation from <pro>rustics</pro></head>
 
 <ab>That when it <env>freezes</env> on <tmp>Palm Sunday</tmp>, it
@@ -26,8 +26,8 @@ also.</ab>
 
 </div>
 
-<div>
-<id>p093r_3</id>
+<div id="p093r_3">
+
 <head>Grafts</head>
 
 <ab>It is necessary that the graft not be from old wood for it is never
@@ -50,8 +50,8 @@ the sap does not grow them.</ab>
 
 </div>
 
-<div>
-<id>p093r_4</id>
+<div id="p093r_4">
+
 <head><m>Sand</m></head>
 
 <ab>The <m>white ash of all woods</m>, which still sticks to the
@@ -61,8 +61,8 @@ neatly.</ab>
 
 </div>
 
-<div>
-<id>p093r_5</id>
+<div id="p093r_5">
+
 <head><m>Sand</m></head>
 
 <ab> <del><m>Ashes</m></del> <m>well pulverized tallow</m> molds &amp;

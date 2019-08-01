@@ -1,11 +1,11 @@
-<root>
-<page>019v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="019v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f44.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f44.image</image>
 
-<div>
 
-<id>p019v_1</id>
+
+<div id="p019v_1">
+
+
 
 <head>
 
@@ -27,38 +27,38 @@ l</fr></del>, A is the line without <m>ink</m> which the <m>paper</m>
 fold gives you, B is the line you have traced, C is the one which is
 printed.
 
-<figure>
+<figure id="fig_p019v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SUUzLXQ4UVlGR1U">
 
-<id>fig_p019v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SUUzLXQ4UVlGR1U</link>
+
+
 
 <!--Philip Cherian: Figure under text of block, placed after In this
 way-->
 
 </figure>
 
-<figure>
+<figure id="fig_p019v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5cy0tdXF5MGJTLU0">
 
-<id>fig_p019v_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5cy0tdXF5MGJTLU0</link>
 
-</figure>
 
-<figure>
-
-<id>fig_p019v_3</id>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5R0VMdFQ3VC1lQmM</link>
 
 </figure>
 
-<figure>
+<figure id="fig_p019v_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5R0VMdFQ3VC1lQmM">
 
-<id>fig_p019v_4</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5TGJOZGVvTmV1LW8</link>
+
+
+
+</figure>
+
+<figure id="fig_p019v_4" link="https://drive.google.com/open?id=0B9-oNrvWdlO5TGJOZGVvTmV1LW8">
+
+
+
+
 
 </figure>
 
@@ -66,9 +66,9 @@ way-->
 
 </div>
 
-<div>
+<div id="p019v_2">
 
-<id>p019v_2</id>
+
 
 <head><corr><del><fr>P</fr></del></corr>For writing as well from the
 left as from the right</head>
@@ -83,11 +83,11 @@ each letter is well saturated with <m>ink</m>, put it down on your
 
 </div>
 
-<div>
+<div id="p019v_3">
 
-<id>p019v_3</id>
 
-<head><md>Enemas</md><comment>c_019v_01</comment></head>
+
+<head><md>Enemas</md><comment rid="c_019v_01"/></head>
 
 <ab>
 

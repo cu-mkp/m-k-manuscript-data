@@ -1,10 +1,10 @@
-<root>
-<page>084r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="084r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f173.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f173.image</image>
 
-<div>
-<id>p084r_1</id>
+
+
+<div id="p084r_1">
+
 <head>Masque in promptu</head>
 
 <ab>Moules du <m>papier</m> &amp; le pose sur le visaige de quelqun qui
@@ -12,14 +12,14 @@ fa<ups>sse</ups><lb/>
 
 laide grimace laisse seicher &amp; prens ton patron pour<lb/>
 
-paindre de la<comment>c_084r_01</comment><hr/></ab>
+paindre de la<comment rid="c_084r_01"/><hr/></ab>
 
 </div>
 
-<div>
-<cont/>
-<id>p084r_5</id>
-<ab><mark>#</mark><comment>c_084r_02</comment> &amp; enleveures Il ne fault pas aussy quil soit
+<div continues="yes" id="p084r_5">
+
+
+<ab><mark>#</mark><comment rid="c_084r_02"/> &amp; enleveures Il ne fault pas aussy quil soit
 trop humide<lb/>
 
 pour les raisons susdictes Recuits le aussy peu <add>a peu</add> Et si
@@ -55,8 +55,8 @@ il est si subtil</ab>
 
 </div>
 
-<div>
-<id>p084r_3</id>
+<div id="p084r_3">
+
 <head><m>Eau magistra</m></head>
 
 <ab>Fais dissouldre le <m>sel gemme</m> ou <del><m>sel</m></del> <m>suin
@@ -73,8 +73,8 @@ tartre</m></emph></ab>
 
 </div>
 
-<div>
-<id>p084r_4</id>
+<div id="p084r_4">
+
 <head><m>Farine</m></head>
 
 <ab>Moulue aulx <tmp>advents de Nœl</tmp> se garde <tmp>tout
@@ -82,8 +82,8 @@ lan</tmp></ab>
 
 </div>
 
-<div>
-<id>p084r_5</id>
+<div id="p084r_5" continued="yes">
+
 <head><m>Sable de <env>mine de
 <pl>Th<exp>ou</exp>l<exp>ous</exp>e</pl></env></m></head>
 
@@ -112,12 +112,12 @@ bien recuit plustost que le mectre en œuvre On le pulverise pource quil
 est en mot<ups>tes</ups><lb/>
 
 puys on le recuist dans une <tl>chauldiere de <m>cuivre</m></tl> ou
-semblable jusque<del>l</del>s<comment>c_084r_04</comment> a ce quil ne<lb/>
+semblable jusque<del>l</del>s<comment rid="c_084r_04"/> a ce quil ne<lb/>
 
-<m>fume</m> plus<comment>c_084r_03</comment></ab>
+<m>fume</m> plus<comment rid="c_084r_03"/></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Il le fault<lb/>
 
 recuire plus<lb/>
@@ -143,6 +143,6 @@ il le fault<lb/>
 rafreschir avecq<lb/>
 
 du nouveau</ab>
-<cont/>
+
 </div>
 </root>

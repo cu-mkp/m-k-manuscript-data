@@ -1,13 +1,13 @@
-<root>
-<page>132v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="132v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f270.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f270.item.r=</image>
 
-<div>
 
-<cont/>
 
-<id>p132r_2</id>
+<div continues="yes" id="p132r_2">
+
+
+
+
 
 <ab>de soymesme Quand il commance a rougir il lest bien tost<lb/>
 
@@ -16,16 +16,16 @@ par tout Mays advise bien par le gect quil le soit au<lb/>
 fonds &amp; quil ne paroissse rien de noir</ab>
 
 </div>
-<div>
-<id>p132v_1</id>
+<div id="p132v_1">
+
 <head><m>Sable commun de <env>mine</env></m></head>
 
 <ab>En <tl>chassis</tl> si on gecte chault il soufle partant<lb/>
 
 il ne le fault que desseicher</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Jay essaye que les<lb/>
 
 <tl>moules</tl> ou il est mesle<lb/>
@@ -34,8 +34,8 @@ ne se fendent poinct au recuire<lb/>
 
 &amp; par ainsy ne font point de baves</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Il se faict mieulx<lb/>
 
 avecq <m>vinaigre<lb/>
@@ -43,8 +43,8 @@ avecq <m>vinaigre<lb/>
 distille</m></ab>
 
 </div>
-<div>
-<id>p132v_2</id>
+<div id="p132v_2">
+
 <head><m><la>Crocum ferri</la></m></head>
 
 <ab>Layant <del>d</del>passe par le <m>vinaigre</m> &amp; rougi au fœu
@@ -99,8 +99,8 @@ moyen<lb/>
 
 ne se fend poinct <emph>Fais le de <m>limaille daiguilles</m></emph></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 On en peult bien<lb/>
 
 mectre parmy les<lb/>
@@ -121,8 +121,8 @@ ou il ny en ha poinct<lb/>
 
 Il faict mouler fort net</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Cestuy cy est propre<lb/>
 
 pour tous <tl>moules</tl><lb/>
@@ -148,8 +148,8 @@ est plus rouge &amp;<lb/>
 meilleur</ab>
 
 </div>
-<div>
-<id>p132v_3</id>
+<div id="p132v_3">
+
 <head><m>Dorer</m> animaulx gectes<lb/>
 
 d<m>argent</m></head>

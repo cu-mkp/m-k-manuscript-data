@@ -1,28 +1,28 @@
-<root>
-<page>032r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="032r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f69.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f69.image</image>
 
-<div>
 
-<id>p032r_1</id>
+
+<div id="p032r_1">
+
+
 
 <head>The body of the cuirass</head>
 
 <ab>The high plates of the pauldron of the <fr>brassard</fr>  are like a
 masterpiece of the <pro>masters</pro>, for it is necessary that
-these pieces be very precisely hollowed<comment>c_032r_01</comment> &amp;
+these pieces be very precisely hollowed<comment rid="c_032r_01"/> &amp;
 adjusted in order that the movement may be free. Cuirass bodies
-must be very evenly beaten &amp; driven<comment>c_032r_02</comment> with the <tl>hammer</tl>.</ab>
+must be very evenly beaten &amp; driven<comment rid="c_032r_02"/> with the <tl>hammer</tl>.</ab>
 
 <ab>Morions from <pl>Milan</pl> are all in one piece &amp; thus better
-than those that are of two<comment>c_032r_03</comment>.</ab>
+than those that are of two<comment rid="c_032r_03"/>.</ab>
 
 </div>
 
-<div>
+<div id="p032r_2">
 
-<id>p032r_2</id>
+
 
 <head><pro>Painter</pro></head>
 
@@ -36,9 +36,9 @@ state.</ab>
 
 </div>
 
-<div>
+<div id="p032r_3">
 
-<id>p032r_3</id>
+
 
 <head>For layering <m>gold</m> in distemper</head>
 

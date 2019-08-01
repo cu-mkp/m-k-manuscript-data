@@ -1,10 +1,10 @@
-<root>
-<page>067v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="067v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f140.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f140.image</image>
 
-<div>
-<id>p067v_1</id>
+
+
+<div id="p067v_1">
+
 <head><tl>Files</tl></head>
 
 <ab>If they are not <fr>trempées à pacquet</fr>, that is, in the fashion
@@ -21,8 +21,8 @@ does.</ab>
 
 </div>
 
-<div>
-<id>p067v_2</id>
+<div id="p067v_2">
+
 <head><m>Bones of the foot of <al>oxen</al> for <m>sand</m></m></head>
 
 <ab>Once having been burned well twice &amp; pulverized, they mold very
@@ -33,14 +33,14 @@ its first layer, simple &amp; very thin, with a
 following layers with <m>wadding</m> mixed with the said tempered
 <m>sand of bone</m>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 It is the <m>neatest sand that can be found for <m>copper</m></m>.</ab>
 
 </div>
 
-<div>
-<id>p067v_3</id>
+<div id="p067v_3">
+
 <head><m><fr>Huiles d’essence</fr></m></head>
 
 <ab><m><add><pa>Walnut</pa></add> oil</m> mixed with as much of

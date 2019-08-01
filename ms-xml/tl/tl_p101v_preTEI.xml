@@ -1,13 +1,13 @@
-<root>
-<page>101v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="101v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f208.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f208.image</image>
 
-<div>
 
-<cont/>
 
-<id>p101r_2</id>
+<div continues="yes" id="p101r_2">
+
+
+
+
 
 <ab>the <tl><oc>crucible</oc></tl> will be red. Next, cast it on
 <tl><m>marble</m></tl>, and you will have a substance white, hard &amp;
@@ -17,9 +17,9 @@ humidity.</ab>
 
 </div>
 
-<div>
+<div id="p101v_1">
 
-<id>p101v_1</id>
+
 
 <head><m>Jacinth</m></head>
 
@@ -28,17 +28,17 @@ such a great fire. The <m>ruby</m> wants fire for a whole
 <ms><tmp>day</tmp></ms>, and if it does not have enough fire, it will
 only have red veins.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Always heat up your <tl>crucibles</tl>.
 
 </ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 One holds that <m>rubified antimony</m> makes <m>jacinth</m>.
 
@@ -46,9 +46,9 @@ One holds that <m>rubified antimony</m> makes <m>jacinth</m>.
 
 </div>
 
-<div>
+<div id="p101v_2">
 
-<id>p101v_2</id>
+
 
 <head><m>Topaz</m></head>
 
@@ -66,9 +66,9 @@ which, by mixing other</ab>
 
 </div>
 
-<div>
+<div id="p101v_3">
 
-<id>p101v_3</id>
+
 
 <head><m>Varnish</m></head>
 
@@ -78,9 +78,9 @@ which, by mixing other</ab>
 
 </div>
 
-<div>
+<div id="p101v_4">
 
-<id>p101v_4</id>
+
 
 <head><m>Gum ammoniac</m></head>
 

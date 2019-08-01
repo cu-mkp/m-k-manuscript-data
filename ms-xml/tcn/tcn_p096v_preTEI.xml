@@ -1,10 +1,10 @@
-<root>
-<page>096v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="096v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f198.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f198.image</image>
 
-<div>
-<id>p096v_1</id>
+
+
+<div id="p096v_1">
+
 <head>Gardes grises</head>
 
 <ab>Il ne les fault, estant blanches, que <del>bi</del> les bien
@@ -53,8 +53,8 @@ quelque costé. Aprés le bleu vient le gris.</ab>
 
 </div>
 
-<div>
-<id>p096v_2</id>
+<div id="p096v_2">
+
 <head>Couleur d’eau</head>
 
 <ab><add>Pour</add> couleur d’eau, on passe la <tl>lime doulce</tl> sur
@@ -93,8 +93,8 @@ noir.</ab>
 
 </div>
 
-<div>
-<id>p096v_3</id>
+<div id="p096v_3">
+
 <head><m>Vernis jaulne</m></head>
 
 <ab>On blanchist bien fort &amp; on nettoye bien les gardes. Aprés<lb/>

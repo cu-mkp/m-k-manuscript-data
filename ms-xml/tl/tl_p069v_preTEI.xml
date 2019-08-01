@@ -1,13 +1,13 @@
-<root>
-<page>069v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="069v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f144.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f144.image</image>
 
-<div>
 
-<cont/>
 
-<id>p069r_2</id>
+<div continues="yes" id="p069r_2" continued="yes">
+
+
+
+
 
 <ab>The <m>sand <env>near my area</env></m> is very excellent. But one ought
 to, in order to make an excellent work, take it fresh, which has been hardly
@@ -47,15 +47,15 @@ part</ms>, with the <m>substance of skillets</m>.</ab>
 <ab><pro>Founders</pro> do cast <tl>frames</tl> up to 30 or 40 <ms>lb</ms>,
 but not more.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 It is good for big work, but for small ones it is troublesome for
 releasing <del><fr>Il</fr></del> because it crumbles. It is good that
 it be alloyed with some fatty thing which has bond such as <m>molded
 tripoli</m> or <del><fr>ab</fr></del> <m>burned felt</m> or <m>sal
 ammoniac</m> or <m>tripoli</m> &amp; similar things.</ab>
 
-<cont/>
+
 
 </div>
 </root>

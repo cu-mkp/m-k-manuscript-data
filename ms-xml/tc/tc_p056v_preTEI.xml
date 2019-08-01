@@ -1,11 +1,11 @@
-<root>
-<page>056v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="056v" image="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f118.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f118.item</image>
 
-<div>
 
-<id>p056v_1</id>
+
+<div id="p056v_1" continued="yes">
+
+
 
 <head>Painctre</head>
 
@@ -55,7 +55,7 @@ de <pa>sapin</pa></m> Le <m><pa>poirier</pa></m> &amp; si cest
 
 le fil du <m>boys</m> viene de long</ab>
 
-<ab><del>L</del> Il fault tousjours imprimer <del>d</del>sur<comment>c_056v_01</comment> le
+<ab><del>L</del> Il fault tousjours imprimer <del>d</del>sur<comment rid="c_056v_01"/> le
 <m>bois</m> pour y paindre<lb/>
 
 a <m>huile</m> pour boucher les trous &amp; inegalites Et imprimer<lb/>
@@ -83,9 +83,9 @@ qui est au dessus de l<m>eau</m> ou verse l<m>eau</m> trouble par<lb/>
 
 inclination puys amasse l<m>azur</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <pro>Celuy qui <add>faict profession de</add> travailler a
 <m>huile</m></pro><lb/>
@@ -128,9 +128,9 @@ bien tost tout<lb/>
 
 desfigure</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Les <pl>Italiens</pl><lb/>
 
@@ -142,9 +142,9 @@ avecq un gros<lb/>
 
 faict des denteleures</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Et ne couchent pas<lb/>
 
@@ -168,9 +168,9 @@ mieulx gecter &amp;<lb/>
 
 eslever</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 A <m>destrempe</m> ne<lb/>
 
@@ -198,7 +198,7 @@ mouille le revers<lb/>
 
 de la <m>toile</m></ab>
 
-<cont/>
+
 
 </div>
 </root>

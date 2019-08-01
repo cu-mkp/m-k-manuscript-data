@@ -1,11 +1,11 @@
-<root>
-<page>152v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="152v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f310.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f310.image</image>
 
-<div>
 
-<id>p152v_1</id>
+
+<div id="p152v_1">
+
+
 
 <head>Repairing cast things</head>
 
@@ -21,7 +21,7 @@ in a moderately thick thing, it does not come out well, because
 <m>tin</m> cast thick retracts &amp; becomes porous. Also, things
 molded hollow are fanciful to cast. If, therefore, some flaw should
 happen, take a <tl><m>leather</m> <corr>cushionet</corr></tl>, full of <m>fine sand</m>,
-&amp; having placed it on the <fr>bequet</fr><comment>c_152v_02</comment> of the
+&amp; having placed it on the <fr>bequet</fr><comment rid="c_152v_02"/> of the
 <tl><pro>goldsmith’s</pro> table</tl>, where one <tl>files</tl>, place
 your work on it &amp; secure it with a <tl>rope</tl>, <add>which passes
 under your <tl><bp>foot</bp></tl></add>. The <m>sand</m> in the <tl>bag</tl>
@@ -42,29 +42,29 @@ then with a <tl>hot <m>iron</m></tl> or in the fire of the
 <tl>forge</tl>, <m>solder</m>, and next repair this with the above-said
 tools, &amp; with the appropriate <tl>small chisels</tl>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 For <m>gold</m> &amp; small work, one needs to cement it on a ball of
 <m>lead</m>, which will be placed on the <tl>cushionet</tl> &amp; will
 be held thus with the <tl>rope</tl>.</ab>
 
-<figure>
+<figure id="fig_p152v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5S3NpRV82clA2UVE">
 
-<id>fig_p152v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5S3NpRV82clA2UVE</link>
+
+
+
 
 </figure>
 
-<figure>
+<figure id="fig_p152v_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5cWhfVmhvbWszZlE">
 
-<id>fig_p152v_2</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5cWhfVmhvbWszZlE</link>
+
+
+
 
 </figure>
 

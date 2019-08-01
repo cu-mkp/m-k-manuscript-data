@@ -1,12 +1,11 @@
-<root>
-<page>135v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="135v" image="http:/ /gallica.bnf.fr/ark:/12148/btv1b10500001g/f276.item.r=">
 
-<image>http:/
-    /gallica.bnf.fr/ark:/12148/btv1b10500001g/f276.item.r=</image>
 
-<div>
-<id>p135v_1</id>
-<head>Casting in <m>☼</m><comment>c_135v_01</comment></head>
+
+
+<div id="p135v_1" continued="yes">
+
+<head>Casting in <m>☼</m><comment rid="c_135v_01"/></head>
 
 <ab>Take a <tl><oc>crucible</oc></tl> with a capacity suitable for what you want
 to put in it, coarsely pestle a little <m>borax</m> &amp; put it at the
@@ -35,30 +34,30 @@ is still brittle &amp; not softened enough, it does not cover itself
 when you blow, as if it had cooled. But if it does not make this sign,
 it is soft enough. At that point blow very strongly in order
 to heat it well, and as you think it is hot enough, throw in on top, in
-the <tl><oc>crucible</oc></tl>, the<m> <df><m><fr>couleur</fr></m></df><comment>c_135r_01</comment>
+the <tl><oc>crucible</oc></tl>, the<m> <df><m><fr>couleur</fr></m></df><comment rid="c_135r_01"/>
 composed, as said beforehand here, of <m>verdet</m>, <m>saltpeter</m>,
 <m>sal ammoniac</m> &amp; <m>borax</m></m>, <add>a little</add>. And
 <del>let rest</del> blow always with the <tl>small bellows</tl>, and the
 <m>gold</m> will become shiny like</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 If you cast in <m>gold</m> some important piece, <m><tl>lute</tl></m> your
 <tl>mold</tl> with the same <m>sand</m> where <del>there is</del> there is some
 <m><la>crocum</la></m>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 If you want to cast some large work in <m>gold</m>, or which is
 important, make at the foot of the <tl>forge</tl>, or at one end of it a
 <add><tl><fr>four à vent</fr></tl></add>, where you can hold your
 <tl>mold</tl> in the completely <del><fr>n</fr></del> red <m>sand</m>. </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 One can cast two or three <ms>lb</ms> of <m>gold</m>.</ab>
 
-<cont/>
+
 
 </div>
 </root>

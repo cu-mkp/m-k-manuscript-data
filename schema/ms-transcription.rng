@@ -6,13 +6,13 @@
   <start>
     <element name="root">
       <a:documentation>Root element for transcription of folio</a:documentation>
+      <attribute name="page">
+        <data type="NMTOKEN"/>
+      </attribute>
+      <attribute name="image">
+        <data type="anyURI"/>
+      </attribute>
       <mixed>
-        <element name="page">
-          <data type="NMTOKEN"/>
-        </element>
-        <element name="image">
-          <data type="anyURI"/>
-        </element>
         <oneOrMore>
           <choice>
             <!--          <text/> -->
@@ -37,18 +37,18 @@
     <a:documentation>Anonymous Block: a generic block of text</a:documentation>
     <element name="ab">
       <optional>
-        <ref name="e.cont"/>
+        <ref name="a.continued"/>
       </optional>
       <optional>
-        <ref name="e.margin"/>
+        <ref name="a.continues"/>
       </optional>
       <optional>
-        <ref name="e.render"/>
+        <ref name="a.margin"/>
+      </optional>
+      <optional>
+        <ref name="a.render"/>
       </optional>
       <ref name="m.phrase"/>
-      <optional>
-        <ref name="e.cont"/>
-      </optional>
     </element>
   </define>
 
@@ -59,18 +59,21 @@
     <element name="div">
       <s:pattern name="div-id">
       <s:rule context="div">
-        <s:assert test="child::id"> 
-         Warning: div without an id</s:assert>
+        <s:assert test="@id"> 
+         Warning: div without an id attribute</s:assert>
       </s:rule>
       </s:pattern>
       <optional>
-        <ref name="e.cont"/>
+        <ref name="a.continued"/>
       </optional>
       <optional>
-      <ref name="e.id"/>
+        <ref name="a.continues"/>
       </optional>
       <optional>
-        <ref name="e.margin"/>
+      <ref name="a.id"/>
+      </optional>
+      <optional>
+        <ref name="a.margin"/>
       </optional>
       <optional>
         <ref name="e.head"/>
@@ -83,9 +86,6 @@
           <ref name="m.phrase"/>
         </choice>
       </oneOrMore>
-      <optional>
-        <ref name="e.cont"/>
-      </optional>
     </element>
   </define>
 
@@ -94,18 +94,18 @@
     <a:documentation>Figure: a graphical object in the source document</a:documentation>
     <element name="figure">
       <optional>
-        <ref name="e.id"/>
+        <ref name="a.id"/>
       </optional>
       <optional>
-        <ref name="e.margin"/>
+        <ref name="a.margin"/>
       </optional>
       <optional>
-        <ref name="e.render"/>
+        <ref name="a.render"/>
       </optional>
       <optional>
-        <element name="link">
+        <attribute name="link">
           <data type="anyURI"/>
-        </element>
+        </attribute>
       </optional>
 
       <oneOrMore>
@@ -138,7 +138,7 @@
     <a:documentation>Heading: a block of text at the beginning of a textual division functioning as the heading or title of that division. TEI Element</a:documentation>
     <element name="head">
       <optional>
-        <ref name="e.margin"/>
+        <ref name="a.margin"/>
       </optional>
       <ref name="m.phrase"/>
     </element>
@@ -263,21 +263,21 @@
   </define>
   
   <!--                           -->
-  <!--  ATTR-LIKE ELEMENTS       -->
+  <!--  ATTRIBUTES               -->
   <!--                           -->
 
   <!-- id -->
-  <define name="e.id">
+  <define name="a.id">
     <a:documentation>Identifier: A unique identifier for its parent element </a:documentation>
-    <element name="id">
+    <attribute name="id">
       <data type="NMTOKEN"/>
-    </element>
+    </attribute>
   </define>
 
   <!-- margin -->
-  <define name="e.margin">
+  <define name="a.margin">
     <a:documentation>Margin (position): the location in the margin at which the parent element appears in the source document. Valid values are: "right-top", "right-middle", "right-bottom", "left-top", "left-middle", "left-bottom", "top", and "bottom"</a:documentation>
-    <element name="margin">
+    <attribute name="margin">
       <optional>
         <choice>
           <value>left-top</value>
@@ -290,13 +290,13 @@
           <value>bottom</value>
         </choice>
       </optional>
-    </element>
+    </attribute>
   </define>
 
   <!-- render -->
-  <define name="e.render">
+  <define name="a.render">
     <a:documentation>Margin rendition: Instructions to cue the proper rendition of the height and width  a margin block. Valid values are: "tall", "wide", and "extra-wide"</a:documentation>
-    <element name="render">
+    <attribute name="render">
       <optional>
         <choice>
           <value>tall</value>
@@ -304,15 +304,23 @@
           <value>extra-wide</value>
         </choice>
       </optional>
-    </element>
+    </attribute>
   </define>
 
-  <!-- cont -->
-  <define name="e.cont">
-    <a:documentation>cont (continues): An empty element indicating that the parent block is continued on another page or continues from another page </a:documentation>
-    <element name="cont">
-      <empty/>
-    </element>
+  <!-- continues -->
+  <define name="a.continues">
+    <a:documentation>cont (continues): An attribute indicating the parent block continues from another page </a:documentation>
+    <attribute name="continues">
+      <value>yes</value>
+    </attribute>
+  </define>
+  
+  <!-- continued -->
+  <define name="a.continued">
+    <a:documentation>cont (continued): An attribute indicating that the parent block is continued on another page</a:documentation>
+    <attribute name="continued">
+      <value>yes</value>
+    </attribute>
   </define>
 
   <!--                            -->
@@ -526,7 +534,9 @@
   <!-- comment -->
 <define name="e.comment">
   <element name="comment">
-    <data type="string"/>
+    <attribute name="rid">
+      <data type="string"/>
+    </attribute>
   </element>
 </define>
    

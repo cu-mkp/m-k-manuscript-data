@@ -1,11 +1,11 @@
-<root>
-<page>061v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="061v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f128.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f128.image</image>
 
-<div>
 
-<id>p061v_1</id>
+
+<div id="p061v_1">
+
+
 
 <head><m>Eau</m> pour donner jour au<lb/>
 
@@ -20,9 +20,9 @@ nuyra point a ta veue</ab>
 
 </div>
 
-<div>
+<div id="p061v_2">
 
-<id>p061v_2</id>
+
 
 <head><tl>Chassis</tl> des <pl>allemans</pl></head>
 
@@ -50,9 +50,9 @@ de <al>rat</al></m></tl>.</ab>
 
 </div>
 
-<div>
+<div id="p061v_3">
 
-<id>p061v_3</id>
+
 
 <head><m>Azur desmail</m> a <m>huile</m></head>
 
@@ -94,9 +94,9 @@ quand il est fort subtil &amp; delie sans estre broye Et ne<lb/>
 
 coule point</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 L<m>azur</m> veult estre<lb/>
 
@@ -140,9 +140,9 @@ mourir</ab>
 
 </div>
 
-<div>
+<div id="p061v_4">
 
-<id>p061v_4</id>
+
 
 <head>Broyer couleurs</head>
 

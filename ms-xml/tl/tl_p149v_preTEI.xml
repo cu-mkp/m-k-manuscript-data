@@ -1,11 +1,11 @@
-<root>
-<page>149v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="149v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f304.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f304.image</image>
 
-<div>
 
-<id>p149v_1</id>
+
+<div id="p149v_1">
+
+
 
 <head>Molding vases in several pieces</head>
 
@@ -17,9 +17,9 @@ pieces.</ab>
 
 </div>
 
-<div>
+<div id="p149v_2">
 
-<id>p149v_2</id>
+
 
 <head><m>Gold</m> <m>solder</m></head>
 
@@ -29,9 +29,9 @@ pieces.</ab>
 
 </div>
 
-<div>
+<div id="p149v_3">
 
-<id>p149v_3</id>
+
 
 <head>Molding a <al>fly</al></head>
 
@@ -45,16 +45,16 @@ leaf or bouquet. The others are <bp>made by hand</bp> with a <m>very
 thin silver sheet</m>. <add>One ought not to keep them once dead,
 because they dry out and their legs break.</add></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 <m><pa>Wheat</pa> oil</m> is put underneath delicate things to render
 them more rigid &amp; firm &amp; to make them hold their natural
 position. Because being weak &amp; delicate, the <m>tempered sand</m>, weighing down
 their tops, would change their form.</ab></div>
 
-<div>
+<div id="p149v_4">
 
-<id>p149v_4</id>
+
 
 <head><al>Bat</al></head>
 

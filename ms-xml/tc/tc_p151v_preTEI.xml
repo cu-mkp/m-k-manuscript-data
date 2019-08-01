@@ -1,13 +1,13 @@
-<root>
-<page>151v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="151v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f308.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f308.image</image>
 
-<div>
 
-<cont/>
 
-<id>p150v_1</id>
+<div continues="yes" id="p150v_1">
+
+
+
+
 
 <ab>Touteffoys ne loste pas que tu nayes du tout repare la<lb/>
 
@@ -61,7 +61,7 @@ ronde</tl> aultres en facon dune <tl>gouge</tl> ou dune escaille de
 &amp; <al>lesard</al> Et daultres sur une <tl>lime</tl> pour faire les
 friseures<lb/>
 
-&amp; grommeleures<comment>c_151v_02</comment> Les <al>tortues</al> qui
+&amp; grommeleures<comment rid="c_151v_02"/> Les <al>tortues</al> qui
 ne se moulent poinct<lb/>
 
 creuses nont pas tant daffaire Car elles se moulent en<lb/>
@@ -72,23 +72,23 @@ deulx pieces Pour les reparer avecq des <tl>ciselets</tl> de
 portes pieces</tl> de <tl>petites couges</tl> &amp; des <tl>ciselets
 cranes</tl></ab>
 
-<figure>
+<figure id="fig_p151v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bk1US2QxRTVwa2s">
 
-<id>fig_p151v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5bk1US2QxRTVwa2s</link>
+
+
+
 
 </figure>
 
-<comment>c_151v_03</comment>
+<comment rid="c_151v_03"/>
 
 </div>
 
-<div>
+<div id="p151v_1">
 
-<id>p151v_1</id>
+
 
 <head><m>Huile de <pa>froment</pa></m></head>
 
@@ -117,7 +117,7 @@ sur le <m>fer</m> pour apres y graver pour <m>vernir</m> en tane des
 d<wp>espees</wp> Et pourroit bien servir aulx <pro>faiseurs de <m>cuir
 dore</m></pro></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Il en fault user<lb/>
 
@@ -129,7 +129,7 @@ mouler il ne veult pas estre si<lb/>
 
 espes que pour le tainct</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Il nest pas<lb/>
 

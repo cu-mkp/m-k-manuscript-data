@@ -1,26 +1,26 @@
-<root>
-<page>114v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="114v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f234.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f234.image</image>
 
-<div>
 
-<cont/>
 
-<id>p114r_1</id>
+<div continues="yes" id="p114r_1">
 
-<figure>
 
-<id>fig_p114v_1</id>
 
-<margin>left-top</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dmlRQm1lTjc4aXc</link>
+
+<figure id="fig_p114v_1" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dmlRQm1lTjc4aXc">
+
+
+
+
+
+
 
 </figure>
 
 <ab>This thus prepared, place your <del><fr>de</fr></del> first
-half-<tl>mold</tl> on the <po>cake</po><comment>c_112v_03</comment> of <del><m>earth</m></del>
+half-<tl>mold</tl> on the <po>cake</po><comment rid="c_112v_03"/> of <del><m>earth</m></del>
 <m>clay</m>, &amp; put the circle also around, &amp; make the mark for
 the thickness similar to the first. Then, with another rather thickish
 <tl>paintbrush</tl>, moisten well everywhere the uncovered half
@@ -55,17 +55,17 @@ in the same <tmp>day</tmp> the 4 or 5 <tl>molds</tl> that you can do,
 because these corrupt animals in themselves are in one <ms><tmp>day</tmp></ms><sn>stinking</sn>. Having left your <tl>molds</tl> one or two
 <del><fr>es</fr></del> <ms><tmp>days</tmp></ms> to dry, for they stay
 damp for a good <ms><tmp>month</tmp></ms>, make the vents on one
-half.<figure>
+half.<figure id="fig_p114v_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dkk3MW10YzNIbDg">
 
-<id>fig_p114v_3</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dkk3MW10YzNIbDg</link>
 
-</figure><comment>c_114v_01</comment></ab>
 
-<ab>
 
-<margin>left-top</margin>
+</figure><comment rid="c_114v_01"/></ab>
+
+<ab margin="left-top">
+
+
 
 <mark>+</mark> Note that when you have made your second
 <add>cast</add>, were you to leave your <tl>mold</tl> for one
@@ -73,9 +73,9 @@ half.<figure>
 it, you would need to then dip it in <m>hot water</m>, or else reheat it
 before opening it, as for <al>crabs</al>.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 If after both halves of the <fr>noyau</fr> have made a strong &amp; hard set, you
 would not dip your <tl>mold</tl> in <m>water</m>, it would not unjoin at
@@ -83,9 +83,9 @@ all. But as you dip the reverse of the <tl>mold</tl> in <m>water</m>,
 the imbibed <m>oil</m> collects at the top &amp; at the level of the
 joints &amp; makes it separate.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 However, take heed your second <tl>mold</tl> be of good thickness &amp;
 that it is hard enough because if it is lacking in this, after having
@@ -98,23 +98,23 @@ order to have a better grip, and separate them with strength as if you
 wanted to tear apart a loaf of <m>bread</m>. But if happens to break, join
 it &amp; on the reverse, strengthen the joints with <tl>clamps</tl>.
 
-<figure>
+<figure id="fig_p114v_4" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NmZxVUxKTmhYSXM">
 
-<id>fig_p114v_4</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5NmZxVUxKTmhYSXM</link>
+
+
 
 </figure>
 
 </ab>
 
-<ab>
+<ab margin="bottom" continued="yes">
 
-<margin>bottom</margin>
+
 
 Next, you can repair the faults with small <tl>chisels</tl>.
 
-<cont/>
+
 
 </ab>
 

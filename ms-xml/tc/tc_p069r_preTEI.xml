@@ -1,13 +1,13 @@
-<root>
-<page>069r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="069r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f143.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f143.image</image>
 
-<div>
 
-<cont/>
 
-<id>p068r_3</id>
+<div continues="yes" id="p068r_3">
+
+
+
+
 
 <ab> de <ms>moictie</ms> de <m>plomb</m> vient quasi mieulx que
 l<m>estain <del>pur</del> <del><add>ou</add></del> ou le
@@ -21,12 +21,12 @@ En grand<lb/>
 ouvraige il est besoing dhumecter les <m>sables</m> avecq la <m>magistra</m>
 ou<lb/>
 
-<m>glaire dœuf</m><comment>c_069r_04</comment></ab>
+<m>glaire dœuf</m><comment rid="c_069r_04"/></ab>
 
 </div>
 
-<div>
-<id>p069r_1</id>
+<div id="p069r_1">
+
 <head><pro>Menusier</pro></head>
 
 <ab>Trois choses sont les plus longues a faire les fœuillages<lb/>
@@ -35,8 +35,8 @@ Les cheveulx &amp; les festons</ab>
 
 </div>
 
-<div>
-<id>p069r_2</id>
+<div id="p069r_2" continued="yes">
+
 <head><m>Sable</m></head>
 
 <ab>Il ne te fault pas choisir pour gect celuy qui est du tout si<lb/>
@@ -45,7 +45,7 @@ maigre &amp; aride quil naye point de liaison co<exp>mm</exp>e <m>celuy
 de la <env>mer</env></m><lb/>
 
 <del>desei</del> ou <m>des <env>chemins
-sablonneulx<comment>c_069r_01</comment></env> deseiches par le
+sablonneulx<comment rid="c_069r_01"/></env> deseiches par le
 <env>soleil</env></m> Mays<lb/>
 
 <add>choisis</add> les <del>ou en t</del> en premier lieu parmy les
@@ -102,7 +102,7 @@ neantmoings son asperite areneuse sans <m>embouer</m> les
 <tl><bp>doigts</bp></tl> co<exp>mm</exp>e<lb/>
 
 l<m>ardille</m> Il se deseiche legerem<exp>ent</exp> au
-<del><ill/></del>fœu<comment>c_069r_05</comment> puys se <tl>pile</tl> &amp; passe<lb/>
+<del><ill/></del>fœu<comment rid="c_069r_05"/> puys se <tl>pile</tl> &amp; passe<lb/>
 
 subtillem<exp>ent</exp> par un <tl>double tamis</tl> ou une <tl>manche
 de <m>linge</m></tl> puys<lb/>
@@ -110,8 +110,8 @@ de <m>linge</m></tl> puys<lb/>
 shumecte avecq du <m>vin</m> ou <m>magistra</m> &amp; /
 <emph><la>Verte</la></emph></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Le <pro>mouleur</pro> de <pl>th<exp>ou</exp>l<exp>ous</exp>e</pl> le
 faict recuire fort<lb/>
 
@@ -136,15 +136,15 @@ choses tanvres<lb/>
 
 il gecte fort chault</ab>
 
-<ab>
-<margin>left-middle</margin>
-<comment>c_069r_03</comment>Essaye le<lb/>
+<ab margin="left-middle">
+
+<comment rid="c_069r_03"/>Essaye le<lb/>
 
 <m>vitriol calcine</m>
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

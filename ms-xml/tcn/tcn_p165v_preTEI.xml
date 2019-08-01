@@ -1,10 +1,10 @@
-<root>
-<page>165v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="165v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f336.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f336.image</image>
 
-<div>
-<id>p165v_1</id>
+
+
+<div id="p165v_1">
+
 <head>Plant d’animaulx</head>
 
 <ab>Non seulem<exp>ent</exp> avec les <tl>poinctes de <m>fer</m></tl>
@@ -48,8 +48,8 @@ viendroit<lb/>
 
 grumeleux.</add><hr/></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Si tu leur veulx fayre tenir<lb/>
 
 la bouche ouverte,<lb/>
@@ -66,8 +66,8 @@ lieu.</ab>
 
 </div>
 
-<div>
-<id>p165v_2</id>
+<div id="p165v_2">
+
 <head>Gardes animaulx</head>
 
 <ab>Si les ayant moulés une foys, tu les veulx garder<lb/>
@@ -85,8 +85,8 @@ faict mourir les aultres, et il s’y gardera fort<lb/>
 
 </div>
 
-<div>
-<id>p165v_3</id>
+<div id="p165v_3">
+
 <head><tl>Moules</tl></head>
 
 <ab>Estant moulés, ne les garde pas <tmp>long temps</tmp>, ains les<lb/>
@@ -96,8 +96,8 @@ qu’esta<exp>n</exp>t<lb/>
 
 <tmp>long temps</tmp> gardés, ilz sont subgects à se corrompre.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Quand ilz sont<lb/>
 
 recuits, la chose<lb/>
@@ -106,8 +106,8 @@ y vient mieulx.</ab>
 
 </div>
 
-<div>
-<id>p165v_4</id>
+<div id="p165v_4">
+
 <head><m><tl>Luth</tl></m></head>
 
 <ab>A la recuite tu peulx bien employer le <m><tl>luth commun</tl></m>. Mays<lb/>
@@ -126,8 +126,8 @@ joinctures.</ab>
 
 </div>
 
-<div>
-<id>p165v_5</id>
+<div id="p165v_5">
+
 <head><m>Argent</m></head>
 
 <ab><ms>Quand il sautille</ms>, estant fondu, c’est signe qu’il est<lb/>
@@ -141,8 +141,8 @@ attire &amp; amasse le <m>plomb</m>.</ab>
 
 </div>
 
-<div>
-<id>p165v_6</id>
+<div id="p165v_6">
+
 <head>Aisle de <al>mousche</al></head>
 
 <ab>Affin qu’elles viennent mieulx, mects despuys le gect<lb/>
@@ -153,20 +153,20 @@ aussy que soubs le ventre il y aye assés de <m>cire</m>,<lb/>
 
 car c’est ce qui faict le gect.</ab>
 
-<figure>
+<figure id="fig_p165v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UmhqY1RkWFRhYzg">
 
-<id>fig_p165v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5UmhqY1RkWFRhYzg</link>
+
+
+
 
 </figure>
 
 </div>
 
-<div>
-<id>p165v_7</id>
+<div id="p165v_7">
+
 <head>Raporter quelque aisle<lb/>
 
 de <al>mousche</al> ou semblable</head>

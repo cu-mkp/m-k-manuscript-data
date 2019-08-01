@@ -1,11 +1,11 @@
-<root>
-<page>091r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="091r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f187.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f187.image</image>
 
-<div>
 
-<id>p091r_1</id>
+
+<div id="p091r_1">
+
+
 
 <head>Hanter</head>
 
@@ -47,17 +47,17 @@ quil<lb/>
 
 ne peult profficter Mays le bois vieulx resiste mieulx a la<lb/>
 
-compression du bois vieulx<comment>c_091r_01</comment> <del>que le
+compression du bois vieulx<comment rid="c_091r_01"/> <del>que le
 jeune</del> a cause quil est plus dur que<lb/>
 
-le jeune <comment>c_091r_02</comment>Mays si le greffe est tout de bois
+le jeune <comment rid="c_091r_02"/>Mays si le greffe est tout de bois
 vieulx jamays il ne faict<lb/>
 
 belle mise ains vient caduc &amp; court &amp; long a croistre</ab></div>
 
-<div>
+<div id="p091r_2" continued="yes">
 
-<id>p091r_2</id>
+
 
 <head>Mouler en <tl><m>os de <al>seiche</al></m></tl></head>
 
@@ -117,7 +117,7 @@ voye a la<lb/>
 
 medaille &amp; puys moule Et si la medaille est a deulx envers</ab>
 
-<ab><margin>left-bottom</margin>
+<ab margin="left-bottom">
 plustost que<lb/>
 
 geter chaufe<lb/>
@@ -132,7 +132,7 @@ la froideur<lb/>
 
 &amp; humeur</ab>
 
-<ab><margin>left-bottom</margin>
+<ab margin="left-bottom">
 Quand le<lb/>
 
 <m>plomb</m> chaufe<lb/>
@@ -141,7 +141,7 @@ trop il se<lb/>
 
 calcine</ab>
 
-<cont/>
+
 
 </div>
 </root>

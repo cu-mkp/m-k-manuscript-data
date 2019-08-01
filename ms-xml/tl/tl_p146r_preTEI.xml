@@ -1,13 +1,13 @@
-<root>
-<page>146r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="146r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f297.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f297.image</image>
 
-<div>
 
-<cont/>
 
-<id>p145v_1</id>
+<div continues="yes" id="p145v_1">
+
+
+
+
 
 <ab>in order that it gets wet everywhere, if not, wet it with a
 <tl>large paintbrush</tl> dedicated to this. Then, pass through
@@ -41,20 +41,20 @@ I have molded thus a <pa>marigold</pa> with its leaves. The
 <m><la>crocum</la></m>, <m><tl>lute</tl></m> with the same <m>sand</m> that has served and
 is the most excellent of all.</ab>
 
-<ab><margin>left-top</margin>
+<ab margin="left-top" render="wide">
 
-<render>wide</render>
+
 
 The alloy, with which I cast a large branch of <pa>marigold</pa>, which
 with its flower, its buds and its leaves, came out neatly like the
 natural, was of one <ms>lb</ms> of <m>fine tin</m>, mixed with two
 <ms>ounces</ms> of <m>lead</m>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 If there is some flashing, repair with a <tl>penknife</tl>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Uncover the molded flower by gently undoing the <tl>mold</tl> with the
 <tl>point of a knife</tl>, &amp; better yet, wet it well in
@@ -66,7 +66,7 @@ the gate an <tl><m>iron wire</m></tl>, to make an opening for the burned
 turn the <tl>mold</tl> at the gate to make everything come out, &amp;
 sometimes suck and draw out with the <bp>mouth</bp>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Take heed not to attach too much the tail of the flower to the gate of
 <m>wax</m>, for fear of spoiling something when you pull out the gate of

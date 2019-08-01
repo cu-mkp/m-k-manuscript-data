@@ -1,11 +1,11 @@
-<root>
-<page>153r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="153r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f311.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f311.image</image>
 
-<div>
 
-<id>p153r_1</id>
+
+<div id="p153r_1">
+
+
 
 <head>Mouler en cave pour cachets<lb/>
 
@@ -59,7 +59,7 @@ viendra de relief sur lequel apres tu gecteras ton<lb/>
 
 cave pour cachet ou aultre ouvrage Tu pourrois<lb/>
 
-bien gecter un cave sur le principal<comment>c_153r_03</comment> de relief de <m>metal</m><comment>c_016v_05</comment><lb/>
+bien gecter un cave sur le principal<comment rid="c_153r_03"/> de relief de <m>metal</m><comment rid="c_016v_05"/><lb/>
 
 &amp; mesme de <m>plomb</m> &amp; <m>estain</m> qui ne fera point fondre
 le<lb/>
@@ -71,7 +71,7 @@ broyee</m> ou enfume de <m>fumee de <tl>chandelle</tl></m> ou de <m>glaire<lb/>
 
 dœuf sechee</m></ab>
 
-<ab><margin>left-middle</margin><comment>c_153r_01</comment>
+<ab margin="left-middle"><comment rid="c_153r_01"/>
 
 Quand tu as<lb/>
 
@@ -97,7 +97,7 @@ lemprainte &amp;<lb/>
 
 au cachet</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Il fault que ta<lb/>
 
@@ -127,22 +127,22 @@ est <del>exc</del> meilleure</ab>
 
 </div>
 
-<div>
+<div id="p153r_2" continued="yes">
 
-<id>p153r_2</id>
+
 
 <head>Donner telle espesseur a une<lb/>
 
 medaille que tu vouldras</head>
 
-<ab>Ayant gecte ton premier <tl>moule</tl> mesle <ill/><comment>c_153r_02</comment>
+<ab>Ayant gecte ton premier <tl>moule</tl> mesle <ill/><comment rid="c_153r_02"/>
 <m><la>crocum</la></m> ou <m>escaill<ups>e</ups><lb/>
 
 de fer fort broyee</m> pour laffermir Et ayant faict<lb/>
 
 prise &amp; rendu ton cave fort net Ayes de la pate de fine</ab>
 
-<cont/>
+
 
 </div>
 </root>

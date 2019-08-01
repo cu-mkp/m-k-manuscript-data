@@ -1,11 +1,11 @@
-<root>
-<page>103r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="103r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f211.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f211.item</image>
 
-<div>
 
-<id>p103r_1</id>
+
+<div id="p103r_1">
+
+
 
 <head><md>Against <bp>burns</bp></md>, excellent</head>
 
@@ -39,9 +39,9 @@ this.</ab>
 
 </div>
 
-<div>
+<div id="p103r_2">
 
-<id>p103r_2</id>
+
 
 <head><md>Against <al>dogs</al>’ mange</md></head>
 

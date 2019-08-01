@@ -1,14 +1,14 @@
-<root>
-<page>124v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="124v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f254.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f254.image</image>
 
-<div>
 
-<id>p124v_1</id>
+
+<div id="p124v_1">
+
+
 
 <head><m>Rouge clair</m> 
-<add><m>enamel</m><comment>c_124v_02</comment></add></head>
+<add><m>enamel</m><comment rid="c_124v_02"/></add></head>
 
 <ab><m>Fine gold</m> is opposed to it, for <del><ill/></del> on it, it
 remains yellowish. But alloyed <m>gold</m> is more appropriate for it,
@@ -28,9 +28,9 @@ with <m>gold</m>.</ab>
 
 </div>
 
-<div>
+<div id="p124v_2">
 
-<id>p124v_2</id>
+
 
 <head>Casting with <m>gold</m></head>
 
@@ -48,22 +48,22 @@ not run well, but <m>alloyed gold</m> does well.</ab>
 <ab><m>Gold</m> &amp; <m>silver</m> do not sour, being 
 entirely red and hot, quenched in <m>water</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <m>Gold</m> is a <ms>quarter heavier than</ms> <m>lead</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 When <m>gold</m> reaches its perfect heat, it is green like an
 <m>emerald</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Take care that where you want to cast the <m>gold</m>, there has been no
 fall of <m>lead</m>, <m>tin</m>, or <m>lime</m> thereof in the
@@ -71,22 +71,22 @@ fall of <m>lead</m>, <m>tin</m>, or <m>lime</m> thereof in the
 <hr/></ab>
 </div>
 
-<div>
+<div id="p124v_3" continued="yes">
 
-<id>p124v_3</id>
+
 
 <head>A means to make the gate for small female <al>lizards</al></head>
 
 <ab>Because you always have to make the gate by the tail, and that it is
-<del><fr>u</fr></del>so<comment>c_124v_03</comment> delicate and thin that the <del>casting will find it hard</del>
+<del><fr>u</fr></del>so<comment rid="c_124v_03"/> delicate and thin that the <del>casting will find it hard</del>
 <m>metal</m> would run with difficulty, especially when it is curled,
 roll <m>wax</m> in little threads of this thickness
 
-<figure>
+<figure id="fig_p124v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dWU4UEtpX0hBV0k">
 
-<id>fig_p124v_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dWU4UEtpX0hBV0k</link>
+
+
 
 </figure>
 
@@ -102,9 +102,9 @@ edge of the empty part of the first <tl>mold</tl>. Make also conduits of
 are a little long &amp; they will serve as feeders for the
 molded thing.</ab>
 
-<ab>
+<ab margin="right-bottom">
 
-<margin>right-bottom</margin>
+
 
 <add>Follow here above</add>
 
@@ -112,38 +112,38 @@ molded thing.</ab>
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <add>When the tail, which is delicate and closer to the gate, comes out
 well, the rest will also come out well</add>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 The principal thing is that the ears of the <al>snake</al> come out
 well-molded.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Your gate must be very thin at the entrance of the animal &amp; of the
 <ms>thickness of a <tl>knife</tl></ms>.</ab>
 
-<figure>
+<figure id="fig_p124v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aGQ0OTFCTklrQ0k">
 
-<id>fig_p124v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5aGQ0OTFCTklrQ0k</link>
+
+
+
 
 </figure>
 
-<cont/>
+
 
 </div>
 </root>

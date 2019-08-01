@@ -1,16 +1,16 @@
-<root>
-<page>108v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="108v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f222.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f222.image</image>
 
-<div>
 
-<cont/>
 
-<id>p108r_2</id>
+<div continues="yes" id="p108r_2">
+
+
+
+
 
 <ab>thus one mixes it &amp; reduces it into
-<del><fr>p</fr></del><m>small stones</m>,<comment>c_108v_01</comment> purging it of its
+<del><fr>p</fr></del><m>small stones</m>,<comment rid="c_108v_01"/> purging it of its
 <m>impurities</m>. Then one puts it to cook neatly in a
 <del><tl>pot</tl></del> <add><tl>earthen vessel</tl></add> in
 the <tl><fr>fornaise</fr> of <pro>those who make <tl>pots</tl></pro></tl>, and one
@@ -45,8 +45,8 @@ fusion fire, so that the <del>sand remains <tmp>long enough</tmp></del>
 than for anything else. It becomes reddish on the surface &amp; on the
 inside it remains white &amp; better dried out <mark>#</mark></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <mark>#</mark> After your <m>feather alum</m> is cooled,
 <tl>pestle</tl> it in a <tl>mortar</tl>, then grind it on <tl><m>marble</m></tl>, and it will be rendered in very fine wooly
 filaments, which gives binding to the <m>sand</m>, without getting burned as

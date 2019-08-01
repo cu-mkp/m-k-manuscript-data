@@ -1,10 +1,10 @@
-<root>
-<page>129r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="129r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f263.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f263.item.r=</image>
 
-<div>
-<id>p129r_1</id>
+
+
+<div id="p129r_1">
+
 
 <head>Painting plants of <m>metal</m></head>
 
@@ -18,22 +18,22 @@ thinly.</ab>
 
 </div>
 
-<div>
+<div id="p129r_2">
 
-<id>p129r_2</id>
+
 
 <head>For <pa>wormseed</pa></head>
 
 <ab> The pallid white of this herb is made from <m><fr>vert de terre</fr></m>,
 <m>white lead</m> or <m>ceruse</m>, a bit of <m>massicot</m>, <m>stil de
-grain yellow</m>, and <m><fr>cendré</fr><comment>c_013v_04</comment> of azure</m>. Mix &amp; compose
+grain yellow</m>, and <m><fr>cendré</fr><comment rid="c_013v_04"/> of azure</m>. Mix &amp; compose
 your color according to a natural branch that you will have. </ab>
 
 </div>
 
-<div>
+<div id="p129r_3">
 
-<id>p129r_3</id>
+
 
 <head><al>Viper color</al></head>
 
@@ -46,22 +46,22 @@ vinegar</m>, if it is of <m>lead</m> or <m>tin</m>. And if it is in some
 place darker, fumigate this first color with <m>sulfur</m>, as you
 know. And if one needs to lighten and whiten, like under the throat, rub
 with <tl><m>coarse linen</m></tl>. <add>The male, ejects from its
-nature<comment>c_129r_01</comment>, which is at the bottom, when it is
+nature<comment rid="c_129r_01"/>, which is at the bottom, when it is
 firmly pressed, a little mass like <ms>half an <wp>arquebus</wp> ball</ms>,
 made in the genitals and full of very venomous spurs.</add></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>+</mark> Put a bit of <m><fr>metalline</fr></m> in <corr>your</corr>
 <m>tin</m> &amp; your <al>lizard</al> will resemble <m>silver</m>.</ab>
 
 </div>
 
-<div>
+<div id="p129r_4">
 
-<id>p129r_4</id>
+
 
 <head>Molded <pa>roses</pa></head>
 

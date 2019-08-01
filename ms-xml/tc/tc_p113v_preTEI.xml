@@ -1,13 +1,13 @@
-<root>
-<page>113v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="113v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f232.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f232.image</image>
 
-<div>
 
-<cont/>
 
-<id>p113r_1</id>
+<div continues="yes" id="p113r_1">
+
+
+
+
 
 <ab>de sorte quen recuisant les deulx gects se disjoindront <del>Et<lb/>
 
@@ -61,11 +61,11 @@ tout soict remply jusques a la marque despesseur que<lb/>
 
 tu as faicte
 
-<figure>
+<figure id="fig_p113v_4" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bEE5QmFaQWxUYm8">
 
-<id>fig_p113v_4</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5bEE5QmFaQWxUYm8</link>
+
+
 
 </figure> Et noublie de branler le <tl>moule</tl> <del>affin</del>
 en<lb/>
@@ -92,7 +92,7 @@ laisse encores un peu secher &amp; separe ton <tl>moule</tl> de la<lb/>
 mouler<lb/>
 
 derechef et retranche le superflu avecq un grand <tl>cousteau</tl> luy
-II<comment>c_113v_01</comment><lb/>
+II<comment rid="c_113v_01"/><lb/>
 
 donnant forme longue de <mu>mandorre</mu> <del>Rasche</del><lb/>
 
@@ -105,19 +105,19 @@ fayre autour des coches affin que le second gect si encre<lb/>
 
 &amp; lye mieulx
 
-<figure>
+<figure id="fig_p113v_5" link="https://drive.google.com/open?id=0B9-oNrvWdlO5V29QdUxZVmxCUDQ">
 
-<id>fig_p113v_5</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5V29QdUxZVmxCUDQ</link>
+
+
 
 </figure>
 
 sans varier</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 <ups>Si tu peulx emplis</ups><lb/>
 
@@ -129,9 +129,9 @@ a <del>la pre</del> une destrempe<lb/>
 
 cest le meilleur</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 <mark>#</mark><lb/>
 
@@ -153,9 +153,9 @@ armoniac</m> a la premiere<lb/>
 
 esculee</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Fais le cler comme<lb/>
 
@@ -187,7 +187,7 @@ aussy bien on rascle<lb/>
 
 <ill/><exp>mm</exp>e trop foible &amp; mol<lb/>
 
-Et il ne sera<comment>c_113v_02</comment> pas<lb/>
+Et il ne sera<comment rid="c_113v_02"/> pas<lb/>
 
 pour cela de faire<lb/>
 
@@ -199,15 +199,15 @@ se deseichent promptem<lb/>
 
 de l<m>eau</m> meslee</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
 
-<figure>
 
-<id>fig_p113v_3</id>
+<figure id="fig_p113v_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dEdzS040X3RjbkU">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dEdzS040X3RjbkU</link>
+
+
+
 
 </figure><lb/>
 
@@ -235,9 +235,9 @@ ta <tl>cuillere</tl> ou<lb/>
 
 tu le destrempes</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 L<m>eau de sel armoniac</m> nest pas<lb/>
 
@@ -249,9 +249,9 @@ touteffois quand tu y en mettras il ne sera que mieulx<lb/>
 <ill/></ab>
 
 </div>
-<div>
+<div id="p113v_1">
 
-<id>p113v_1</id>
+
         
 <head><del>Second gect</del></head>
         

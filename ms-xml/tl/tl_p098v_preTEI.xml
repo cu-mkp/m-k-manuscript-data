@@ -1,19 +1,19 @@
-<root>
-<page>098v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="098v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f202.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f202.image</image>
 
-<div>
-<id>p098v_1</id>
+
+
+<div id="p098v_1">
+
 <head>Small <al>dogs</al></head>
 
-<ab>Small <al>dogs</al> who should be <al>water-dogs</al><comment>c_098v_04</comment> are known by this, that
+<ab>Small <al>dogs</al> who should be <al>water-dogs</al><comment rid="c_098v_04"/> are known by this, that
 they have a larger muzzle than others.</ab>
 
 </div>
 
-<div>
-<id>p098v_2</id>
+<div id="p098v_2">
+
 <head>Salted <pa>artichokes</pa></head>
 
 <ab>One puts them whole &amp; not too ripe in a <tl>firkin</tl> that one
@@ -26,16 +26,16 @@ enough and would not preserve the <m>fruits</m>.</ab>
 
 </div>
 
-<div>
-<id>p098v_3</id>
+<div id="p098v_3">
+
 <head>Trees</head>
 
 <ab>Which bear fruits quickly are aged and scarcely last.</ab>
 
 </div>
 
-<div>
-<id>p098v_4</id>
+<div id="p098v_4">
+
 <head><al>Birds</al></head>
 
 <ab>Which have been fed by the <tl>rod</tl> do not whistle among the
@@ -46,8 +46,8 @@ that one teaches them better.</ab>
 
 </div>
 
-<div>
-<id>p098v_5</id>
+<div id="p098v_5" continued="yes">
+
 <head>Founding</head>
 
 <ab>The <m>putty</m> is made of <m>burnt earth</m> which has
@@ -64,7 +64,7 @@ it porous, if you do not rub well with a <tl>brush</tl> or your
 <tl><bp>finger</bp></tl> piece <corr>to</corr> be molded, which should be well
 <m>oiled</m>. And do it coat by coat, &amp; not all at once.</ab>
 
-<cont/>
+
 
 </div>
 </root>

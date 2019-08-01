@@ -1,13 +1,13 @@
-<root>
-<page>095r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="095r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f195.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f195.image</image>
 
-<div>
 
-<cont/>
 
-<id>p094r_1</id>
+<div continues="yes" id="p094r_1" continued="yes">
+
+
+
+
 
 <ab>Le <pro>fourbisseur</pro> achepte ses lames a <ms>douzaine</ms> qui
 ne sont pas<lb/>
@@ -31,7 +31,7 @@ venant de la <tl>forge</tl> pour ce quils les esmoulent avecq le
 ce qui les faict trouver ondees</ab>
 
 <ab>Les lames de <pl>vienne</pl> costent communem<exp>ent</exp> xviii ou
-19 <ms><cn>lb</cn><comment>c_095r_01</comment> la douzaine</ms></ab>
+19 <ms><cn>lb</cn><comment rid="c_095r_01"/> la douzaine</ms></ab>
 
 <ab>La premiere chose que faict le <pro>forbisseur</pro> ayant ses lames
 neufves<lb/>
@@ -53,7 +53,7 @@ ilz fourbissent l<wp>espee</wp> avecq le <tl>baston</tl> pour oster les traicts
 de<lb/>
 
 la <tl>meule</tl> et puys <del>le</del> nettoyent
-<del>po</del>bien<comment>c_095r_03</comment> l<wp>espee</wp> de l<tl><m>esmeril</m></tl> Et luy
+<del>po</del>bien<comment rid="c_095r_03"/> l<wp>espee</wp> de l<tl><m>esmeril</m></tl> Et luy
 donnent<lb/>
 
 une <ms>goute</ms> ou deulx d<m>huile</m> quilz estandent avecq le
@@ -121,7 +121,7 @@ elle nest pas si bonne que la ronde car a la quarre la riveure se<lb/>
 
 couppe</ab>
 
-<cont/>
+
 
 </div>
 </root>

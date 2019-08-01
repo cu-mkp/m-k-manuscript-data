@@ -1,34 +1,34 @@
-<root>
-<page>002v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="002v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f10.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f10.image</image>
 
-<div>
 
-<id>p002v_1</id>
+
+<div id="p002v_1">
+
+
 <head><sup>List of books</sup></head>
 <ab><emph><it>Practica cioe nova inventione<lb/>di
-contegiare<comment>c_002v_03</comment> stampata in
+contegiare<comment rid="c_002v_03"/> stampata in
 <pl>brescia</pl><lb/>per <pn>vincenzo sabio</pn></it></emph></ab>
 
 </div>
 
-<div>
+<div id="p002v_2">
 
-<id>p002v_2</id>
+
 
 <head><add><m>esmeraldes<lb/>
 
 de <pl>Brissac</pl></m></add></head>
 
-<ab><render>extra-wide</render>Jai prins <m>miniu<exp>m</exp></m> 26
+<ab render="extra-wide">Jai prins <m>miniu<exp>m</exp></m> 26
 <ms>℥</ms>
-<m><exp>christ</exp>al</m><comment>c_002v_04</comment><add><ill/> et
+<m><exp>christ</exp>al</m><comment rid="c_002v_04"/><add><ill/> et
 broie sur le <tl><m>marbre</m></tl></add> 12 <ms>℥</ms>
 <m>v<exp>er</exp>det</m> 3 <ms>|ʒ|</ms>
 Incorpore<add>s</add> le tout ensemble<lb/>
 
-mis dans un <tl><exp>crois</exp>et<comment>c_002v_05</comment> couvert
+mis dans un <tl><exp>crois</exp>et<comment rid="c_002v_05"/> couvert
 dun a<exp>ultr</exp>e bien <m><tl>lute</tl></m> qui ai<add>t</add> un trou
 dans<lb/>
 
@@ -37,7 +37,7 @@ este dun beau<lb/>
 
 v<exp>er</exp>t</ab>
 
-<ab><render>extra-wide</render>Jai prins <m>miniu<exp>m</exp></m> 12
+<ab render="extra-wide">Jai prins <m>miniu<exp>m</exp></m> 12
 <ms>℥</ms> <m><exp>christ</exp>al</m> 6
 <ms>℥</ms> <m>v<exp>er</exp>det</m> 2 <ms>grains</ms>
 fuzion doulce<lb/>
@@ -49,19 +49,19 @@ mace a este de v<exp>er</exp>t Jaulne<lb/>
 
 </div>
 
-<div>
+<div id="p002v_3">
 
-<id>p002v_3</id>
+
 
 <head><m>safir</m></head>
 
-<ab><render>extra-wide</render><m>Caillous</m> ou
+<ab render="extra-wide"><m>Caillous</m> ou
 <m><exp>christ</exp>al</m> 8 <ms>℥</ms>
 <m>miniu<exp>m</exp></m> 16 <ms>℥</ms> <m>sel de
 <pro>febvre</pro></m> 4 <ms>℥</ms><lb/>
 
-<m>coryal</m><comment>c_002v_02</comment> extincellent 4 <ms>grains</ms> fuzion
-6<comment>c_002v_06</comment> <ms><tmp>heures</tmp></ms></ab>
+<m>coryal</m><comment rid="c_002v_02"/> extincellent 4 <ms>grains</ms> fuzion
+6<comment rid="c_002v_06"/> <ms><tmp>heures</tmp></ms></ab>
 
 </div>
 </root>

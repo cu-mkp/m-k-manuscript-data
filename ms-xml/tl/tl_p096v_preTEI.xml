@@ -1,17 +1,17 @@
-<root>
-<page>096v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="096v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f198.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f198.image</image>
 
-<div>
-<id>p096v_1</id>
+
+
+<div id="p096v_1">
+
 <head>Grey guards</head>
 
 <ab>Once they are white, one only needs to clean <del>we</del> them
 well, then put them in the fire, &amp; make them pass to blue. And one
 needs to take good care that they do not pass too far beyond blue, for
 neither gold nor silver nor any color would take on it. To do this,
-which is called <df>making them pass</df>,<comment>c_096v_01</comment> one takes
+which is called <df>making them pass</df>,<comment rid="c_096v_01"/> one takes
 a <tl>cauldron full of <m>ashes</m></tl> which one covers with
 thoroughly lit charcoal, &amp; thus one heats them quite strongly for an
 <ms><tmp>hour</tmp></ms> or two, and when the <m>ashes</m> are very hot,
@@ -28,8 +28,8 @@ it is still grey in some places. After blue comes grey.</ab>
 
 </div>
 
-<div>
-<id>p096v_2</id>
+<div id="p096v_2">
+
 <head>Color of water</head>
 
 <ab><add>For</add> the color of water, one passes a <tl>soft file</tl>
@@ -48,8 +48,8 @@ which is of two colors, either yellow or black.</ab>
 
 </div>
 
-<div>
-<id>p096v_3</id>
+<div id="p096v_3">
+
 <head><m>Yellow varnish</m></head>
 
 <ab>One whitens very strongly &amp; one cleans the guards well. Next,

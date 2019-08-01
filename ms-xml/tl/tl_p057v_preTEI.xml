@@ -1,11 +1,11 @@
-<root>
-<page>057v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="057v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f120.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f120.item</image>
 
-<div>
 
-<id>p057v_1</id>
+
+<div id="p057v_1">
+
+
 
 <head><pro>Sheath maker</pro></head>
 
@@ -27,14 +27,14 @@ the <ms>size of a <pa>pea</pa></ms>. And then you give the
 Once dry, one <m>glues</m> <m>canvas</m> on the back with <m>strong glue</m>. 
 In this manner one can promptly imitate big statues &amp;
 very subtle medals and paint &amp;
-decorate<comment>c_057v_03</comment> them &amp; are light and portable
+decorate<comment rid="c_057v_03"/> them &amp; are light and portable
 &amp; last a <tmp>long time</tmp>. That which is imprinted on a relief
 is done differently and can be retraced with a <m>hot
 iron</m>.<hr/></ab></div>
 
-<div>
+<div id="p057v_2" continued="yes">
 
-<id>p057v_2</id>
+
 
 <head><pro>Painter</pro></head>
 
@@ -46,7 +46,7 @@ in <m>thoroughly thinned and clear melted resin</m>. This strengthens
 it, otherwise they turn limp in <env>wet weather</env>.</ab>
 
 <ab><pl>Venice</pl> masks are made with the
-hollow &amp; the male face<comment>c_057v_04</comment> of
+hollow &amp; the male face<comment rid="c_057v_04"/> of
 <m>copper</m>.</ab>
 
 <ab>The <pl>Flemish</pl> do not use any whites for flesh colors in
@@ -58,7 +58,7 @@ is the best color, it keeps off dust. The kind which has recently been
 drawn with the press in the manner of <m><pa>almond</pa> oil</m> is
 white, especially if the <m><pa>walnuts</pa>’ skin</m> is removed.</ab>
 
-<cont/>
+
 
 </div>
 </root>

@@ -1,13 +1,13 @@
-<root>
-<page>094v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="094v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f194.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f194.image</image>
 
-<div>
 
-<cont/>
 
-<id>p094r_1</id>
+<div continues="yes" id="p094r_1" continued="yes">
+
+
+
+
 
 <ab>The <m>gold</m> grips are made by putting underneath <m>thin yellow
 canvas</m> or a different <m>canvas yellowed with chalk</m>. And this
@@ -24,8 +24,8 @@ needs to twist it twice. A grip of <m>fine gold</m> is worth 18 or 20
 
 <ab>This long plank on which the sword is attached &amp; laid down to
 furbish it is called the
-<tl><df><fr>chameau</fr></df></tl><comment>c_094v_04</comment>, it is
-commonly of <m><pa>rowan</pa>,</m><comment>c_094v_05</comment> which is
+<tl><df><fr>chameau</fr></df></tl><comment rid="c_094v_04"/>, it is
+commonly of <m><pa>rowan</pa>,</m><comment rid="c_094v_05"/> which is
 hard &amp; even.</ab>
 
 <ab>The lower stick which is folded like a bow is called the
@@ -39,13 +39,13 @@ hard &amp; even.</ab>
 <tl><df><fr>fustée</fr></df></tl>.</ab>
 
 <ab>There are two horns: one is called the <df><m>oil</m> horn</df> and
-the other the <df><m>emery</m> horn.</df><comment>c_094v_06</comment>
+the other the <df><m>emery</m> horn.</df><comment rid="c_094v_06"/>
 </ab>
 
 <ab>There is an <m>iron</m> which is made like a <tl>halberd point</tl>,
 square, &amp; of <m>very even steel, &amp; well <tl>filed</tl></m>,
 which is called the
-<tl><df><fr>grateau</fr></df></tl><comment>c_094v_07</comment> which
+<tl><df><fr>grateau</fr></df></tl><comment rid="c_094v_07"/> which
 serves to <corr><del>to</del></corr> soften the traces of the
 <tl>file</tl> on sword guards &amp; to give an edge to swords after they
 have been ground, which is better than with a <tl><m>stone</m></tl> or a
@@ -58,9 +58,9 @@ the edge by pulling upward from the point.</ab>
 separate from the <pro>furbisher</pro>.</ab>
 
 <ab> A is the
-<df><fr>bruisson</fr></df><comment>c_094v_08</comment><lb/>
+<df><fr>bruisson</fr></df><comment rid="c_094v_08"/><lb/>
 
-B is the <m>bloodstone</m><comment>c_094v_09</comment></ab>
+B is the <m>bloodstone</m><comment rid="c_094v_09"/></ab>
 
 <ab>The <tl><df><fr>fustée</fr></df></tl> is a square piece of wood
 three <ms><bp>fingers</bp> in thickness</ms>, of
@@ -72,50 +72,50 @@ wood</m> which is to clean the rust off weapons with
 <df><m><fr>fresil</fr></m></df> which is the <m>iron scale</m> falling
 at the <tl><pro>farriers</pro>’ forge</tl>.</ab>
 
-<figure>
+<figure id="fig_p094v_1" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Q29MTEVLUGE5RGs">
 
-<id>fig_p094v_1</id>
 
-<margin>left-top</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Q29MTEVLUGE5RGs</link>
+
+
+
 
 <caption><tl>scabbard bench</tl></caption>
 
 </figure>
-<figure>
+<figure id="fig_p094v_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5OEQ3OEFSNnEzeE0">
 
-<id>fig_p094v_2</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5OEQ3OEFSNnEzeE0</link>
+
+
+
 
 </figure>
 
-<ab>
-<margin>left-middle</margin>
-<figure><id>fig_p094v_8</id><link>https://drive.google.com/open?id=1SslzZieQdAMA1gc0QKXvZtR4GpsAA8Nk</link></figure>
-<figure><id>fig_p094v_4</id><link>https://drive.google.com/open?id=1Pyd3sajmdLQKdw3viV0aymANv9v7cr3-</link><caption>a</caption></figure>
-<figure><id>fig_p094v_5</id><link>https://drive.google.com/open?id=16DPQkKGIVdRrU8_LUuUfJOqW_01wpKuf</link><caption>b</caption></figure>   
+<ab margin="left-middle">
+
+<figure id="fig_p094v_8" link="https://drive.google.com/open?id=1SslzZieQdAMA1gc0QKXvZtR4GpsAA8Nk"/>
+<figure id="fig_p094v_4" link="https://drive.google.com/open?id=1Pyd3sajmdLQKdw3viV0aymANv9v7cr3-"><caption>a</caption></figure>
+<figure id="fig_p094v_5" link="https://drive.google.com/open?id=16DPQkKGIVdRrU8_LUuUfJOqW_01wpKuf"><caption>b</caption></figure>   
         
 <lb/>
         
-<figure><id>fig_p094v_7</id><link>https://drive.google.com/open?id=1PmDU-LbWVDhejN2GS16gi3Qgc5f1WMzv</link>
+<figure id="fig_p094v_7" link="https://drive.google.com/open?id=1PmDU-LbWVDhejN2GS16gi3Qgc5f1WMzv">
 <caption>
 D<lb/>
 the <tl><fr>baston<lb/>
 a <m>felinder</m></fr></tl></caption></figure>
         
-<figure><id>fig_p094v_6</id><link>https://drive.google.com/open?id=1ERy6lz_iApaxJGsw9kJse9H4x9rx4Pp0</link>
+<figure id="fig_p094v_6" link="https://drive.google.com/open?id=1ERy6lz_iApaxJGsw9kJse9H4x9rx4Pp0">
 <caption>
 c<lb/>
 the <tl><m><fr>flin</fr></m></tl> or <tl><m>thunder<lb/>
-stone</m></tl></caption></figure></ab><ab>
-<margin>left-middle</margin>
+stone</m></tl></caption></figure></ab><ab margin="left-middle">
+
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

@@ -1,10 +1,10 @@
-<root>
-<page>118r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="118r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f241.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f241.image</image>
 
-<div>
-<id>p118r_1</id>
+
+
+<div id="p118r_1">
+
 <head><al>Escargots</al></head>
 
 <ab>Ceulx qui se trouvent dans la <env>mer</env> &amp;
@@ -21,8 +21,8 @@ perle</m></ab>
 
 </div>
 
-<div>
-<id>p118r_2</id>
+<div id="p118r_2">
+
 <head>Pour oster les baves ou barbes<lb/>
 
 des choses moulees a noyau</head>
@@ -46,12 +46,12 @@ ciseau</tl></ab>
 
 </div>
 
-<div>
-<id>p118r_3</id>
+<div id="p118r_3">
+
 <head>Pour <env>grottes</env></head>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Les <m>vieulx seps de <pa>vigne</pa></m></ab>
 
 <ab>Les <m>pierres faictes deau</m> appellees <m><df><de>stuf</de></df></m> Le
@@ -90,8 +90,8 @@ mays<lb/>
 
 sont unies comme l<m>estain de glace</m> sont tresbelles</add></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 La <m>rosette</m><lb/>
 
 se trouve quelque<lb/>
@@ -116,8 +116,8 @@ sur <env>grottes</env></ab>
 
 </div>
 
-<div>
-<id>p118r_4</id>
+<div id="p118r_4">
+
 <head><m>Estaim de glace</m></head>
 
 <ab>Il blanchist &amp; rend ferme l<m>estaim fin</m> si <del>en on</del>
@@ -130,8 +130,8 @@ dans une <ms>lb</ms> d<m>estaim fin</m></ab>
 
 </div>
 
-<div>
-<id>p118r_5</id>
+<div id="p118r_5">
+
 <head><m>Sel armoniac</m></head>
 
 <ab>

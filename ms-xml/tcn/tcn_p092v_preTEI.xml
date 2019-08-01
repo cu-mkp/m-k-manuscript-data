@@ -1,10 +1,10 @@
-<root>
-<page>092v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="092v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f190.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f190.image</image>
 
-<div>
-<id>p092v_1</id>
+
+
+<div id="p092v_1">
+
 <head><m>Sable des <al>telines</al> et <al>moules</al> de
 <env>riviere</env></m></head>
 
@@ -16,8 +16,8 @@ doulce</env>, estant calcinées, font un <m>sable blanc impalpable</m> qui<lb/>
 moule fort net.</ab>
 
 </div>
-<div>
-<id>p092v_2</id>
+<div id="p092v_2">
+
 <head>Congellation de <m>mercure</m></head>
 
 <ab>Il se congelle, co<exp>mm</exp>e j’ay essayé le faisant bouillir
@@ -30,7 +30,7 @@ pour <ms>℥</ms> de <m>☿</m>, ii
 <ms>℥</ms> de <m>verdet</m> <del>de</del> et de
 <m>vitriol de salpestre</m><lb/>
 
-<ms><la>ana</la></ms>,<comment>c_083r_03</comment> avecq suffisante quantité d’<m>eau vielle des
+<ms><la>ana</la></ms>,<comment rid="c_083r_03"/> avecq suffisante quantité d’<m>eau vielle des
 <pro>mareschaulx</pro></m>.</ab>
 
 <ab>Ou bien fondre 4 <ms>℥</ms> d’<m>estaim</m> &amp;,
@@ -65,8 +65,8 @@ qui aura mangé un peu d’<m>argent</m> plustost.<lb/>
 Cestuy cy meslé faict courre l’<m>estain</m> &amp; <m>plomb</m>.</ab>
 
 </div>
-<div>
-<id>p092v_3</id>
+<div id="p092v_3">
+
 <head>Mixture</head>
 
 <ab><m>Estaim fin</m>, <m>mercure congellé</m> à l’odeur de

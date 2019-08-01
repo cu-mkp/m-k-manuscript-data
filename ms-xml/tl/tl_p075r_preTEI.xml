@@ -1,11 +1,11 @@
-<root>
-<page>075r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="075r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f155.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f155.item</image>
 
-<div>
 
-<id>p075r_1</id>
+
+<div id="p075r_1">
+
+
 
 <head>Red <m>gum</m></head>
 
@@ -16,9 +16,9 @@ Take <m>red wax</m>, <m>vermillion</m>, &amp; a small amount of
 
 </div>
 
-<div>
+<div id="p075r_2">
 
-<id>p075r_2</id>
+
 
 <head><m>Bronze</m> of <m>copper</m></head>
 
@@ -32,9 +32,9 @@ glue</m>, &amp; grind it together. Then make a layer on your
 
 </div>
 
-<div>
+<div id="p075r_3">
 
-<id>p075r_3</id>
+
 
 <head><m>Bronze</m> like <m>tin</m></head>
 
@@ -44,7 +44,7 @@ Take <m>looking-glass tin</m>, two <ms>ounces</ms> of
 <m>quicksilver</m>, &amp; melt the <m>looking-glass tin</m> into a new
 <tl>pot</tl>. And <corr><del><fr>difiant</fr></del></corr>
 <add>as soon as</add> it is all melted, put in the
-<m>quick<del><fr>t</fr></del><comment>c_075r_02</comment> <del><fr>aiant</fr></del>silver</m>, &amp; remove it
+<m>quick<del><fr>t</fr></del><comment rid="c_075r_02"/> <del><fr>aiant</fr></del>silver</m>, &amp; remove it
 from the fire, &amp; let the said <m>glue</m> dry. Then take a piece of
 <m>tin</m> &amp; burnish it on <tl><m>marble</m></tl> with <m>clear
 water</m>, and then coat it on the <m>wood</m>, and polish it with a
@@ -52,9 +52,9 @@ piece of <tl><m>tin</m></tl>.</ab>
 
 </div>
 
-<div>
+<div id="p075r_4">
 
-<id>p075r_4</id>
+
 
 <head>For making <m>aquafortis</m></head>
 
@@ -66,9 +66,9 @@ Take a <ms>half-septier</ms> of <m>vinegar</m> with one
 put them together in a <tl><m>glass</m> vial</tl>.</ab>
 </div>
 
-<div>
+<div id="p075r_5">
 
-<id>p075r_5</id>
+
 
 <head><m><fr>Or moulu</fr></m></head>
 

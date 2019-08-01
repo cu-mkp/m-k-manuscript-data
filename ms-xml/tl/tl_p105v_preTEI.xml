@@ -1,13 +1,13 @@
-<root>
-<page>105v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="105v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f216.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f216.image</image>
 
-<div>
 
-<cont/>
 
-<id>p105r_4</id>
+<div continues="yes" id="p105r_4">
+
+
+
+
 
 <ab>Next, when it will be well <del><fr>b</fr></del> taken, cut the top
 of the tree that exceeds your tree, <del><fr>ne</fr></del> three or 4
@@ -26,18 +26,18 @@ those who want to graft onto them <pa><fr>mericotons</fr></pa>,
 best there, they are grafted <ms><tmp>in the month of
 January</tmp></ms>. Generally trees with pitted fruit, like
 <pa><fr>mericoton</fr> peaches</pa>, are grafted in clefts. One says
-that trees <del><fr>de</fr></del> grafted <fr>en piolet</fr><comment>c_105v_06</comment> or by
+that trees <del><fr>de</fr></del> grafted <fr>en piolet</fr><comment rid="c_105v_06"/> or by
 shield are later to bear fruit than those by cleft.</ab>
 
 </div>
 
-<div>
+<div id="p105v_4">
         
-<id>p105v_4</id>
+
         
-<head><margin>left-top</margin><al>Nightingale</al></head>
+<head><al>Nightingale</al></head>
         
-<ab><margin>left-top</margin>
+<ab margin="left-top">
 It is necessary that the <m>iron</m> wire of its cage be of the
 thickest, in order that, thinking of leaving, it will not be
 hurt. Cover, from the moment that it is taken, its cage with
@@ -50,9 +50,9 @@ done for sustaining it, for if it would become thin it would die.<hr/></ab>
         
 </div>
 
-<div>
+<div id="p105v_1">
 
-<id>p105v_1</id>
+
 
 <head>Gardening</head>
 
@@ -62,14 +62,14 @@ broth is kept a little bit cold, it engenders <al>worms</al> in it.</ab>
 
 </div>
 
-<div>
+<div id="p105v_5">
         
-<id>p105v_5</id>
+
         
-<head><margin>left-top</margin><al>Nightingale</al></head>
+<head><al>Nightingale</al></head>
         
-<ab><margin>left-top</margin>
-<render>tall</render>
+<ab margin="left-top" render="tall">
+
 It needs to have a cage made in the <env>barn</env>,
 like those for <al>calendras</al>, doubled with <tl>green cloth</tl>,
 because it fears the <env>cold</env>. And for making it accustomed to
@@ -81,9 +81,9 @@ make it accustomed to pecking <del><fr>puys luy</fr></del>, and give it
 
 </div>
 
-<div>
+<div id="p105v_2">
 
-<id>p105v_2</id>
+
 
 <head><pro>Fountain maker</pro></head>
 
@@ -94,14 +94,14 @@ make it accustomed to pecking <del><fr>puys luy</fr></del>, and give it
 
 </div>
 
-<div>
+<div id="p105v_3">
 
-<id>p105v_3</id>
+
 
 <head>Catching <al>nightingales</al>
 
 <add>See the 15th folio after
-this.<comment>c_105v_04</comment></add></head>
+this.<comment rid="c_105v_04"/></add></head>
 
 <ab>For trapping them, one needs to observe their nature, the food that
 they like the best, &amp; the <tmp>season of their pleasure</tmp>. The
@@ -116,10 +116,10 @@ ground &amp; put in some <al>worms</al> and your <tl>device of little
 crossed sticks</tl>. It will be anxious for you to leave so it can go
 see what you have done, and seeing <al>worms</al>, it will enter.</ab>
 
-<ab><margin>left-middle</margin>Some sell <al>nightingales</al> on
+<ab margin="left-middle">Some sell <al>nightingales</al> on
 trees.</ab>
 
-<ab><margin>left-middle</margin>The <env>coolness of <tmp>the evening
+<ab margin="left-middle">The <env>coolness of <tmp>the evening
 and the morning</tmp>, near fountains &amp; shaded places</env>, are
 more appropriate for taking them.</ab>
 

@@ -1,13 +1,13 @@
-<root>
-<page>060r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="060r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f125.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f125.item</image>
 
-<div>
 
-<cont/>
 
-<id>p059v_6</id>
+<div continues="yes" id="p059v_6">
+
+
+
+
 
 <ab>et affin qu’elle ne s’esclatte, mesles y peu d’<m>huile</m> parmy
 &amp; les<lb/>
@@ -22,9 +22,9 @@ recepvoir la couleur qui est aussi destrempée à l’<m>huile</m>.</ab>
 
 </div>
 
-<div>
+<div id="p060r_1">
 
-<id>p060r_1</id>
+
 
 <head>Blanchiment premier dun tableau</head>
 
@@ -51,9 +51,9 @@ douzaine tels tableaux.</ab>
 
 </div>
 
-<div>
+<div id="p060r_2">
 
-<id>p060r_2</id>
+
 
 <head>Labeur net</head>
 
@@ -61,7 +61,7 @@ douzaine tels tableaux.</ab>
 
 poulsiere, &amp; quand tu laisses ton labeur, couvre le affin que<lb/>
 
-ladicte pouldre n’i tumbe. <comment>c_060r_02</comment> Couche aussy
+ladicte pouldre n’i tumbe. <comment rid="c_060r_02"/> Couche aussy
 tes couleurs les moings<lb/>
 
 espesses que tu pourras, car si elles sont espesses tu ne pourras
@@ -69,11 +69,11 @@ pas<lb/>
 
 bien adoulcir.</ab>
 
-<ab>
+<ab margin="left-middle" render="tall">
 
-<margin>left-middle</margin>
 
-<render>tall</render>
+
+
 
 Ne couche point<lb/>
 
@@ -115,11 +115,11 @@ nettement.</ab>
 
 </div>
 
-<div>
+<div id="p060r_3">
 
-<id>p060r_3</id>
 
-<head><comment>c_060r_01</comment><m> Huile</m></head>
+
+<head><comment rid="c_060r_01"/><m> Huile</m></head>
 
 <ab>L’<m>huile de <pa>noix</pa></m> tiré co<exp>mm</exp>e les
 <m><pa>amendes</pa> pelées</m> est fort blanc.<lb/>

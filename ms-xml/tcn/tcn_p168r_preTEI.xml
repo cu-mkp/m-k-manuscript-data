@@ -1,21 +1,21 @@
-<root>
-<page>168r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="168r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f341.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f341.image</image>
 
-<div>
 
-<cont/>
 
-<id>p167r_1</id>
+<div continues="yes" id="p167r_1" continued="yes">
 
-<figure>
 
-<id>fig_p168r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5RUdzVWVNM3l6QVU</link>
+
+<figure id="fig_p168r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5RUdzVWVNM3l6QVU">
+
+
+
+
+
+
 
 </figure>
 
@@ -25,7 +25,7 @@
 entournée au bout d’un <tl>baston</tl>, on donne feu &amp;
 promptem<corr><exp>ent</exp></corr> on<lb/>
 
-se retire à couvert. Les petits <wp>mortiers</wp><comment>c_008r_04</comment> de 16 ou 17 <ms>lb</ms><lb/>
+se retire à couvert. Les petits <wp>mortiers</wp><comment rid="c_008r_04"/> de 16 ou 17 <ms>lb</ms><lb/>
 
 s’atachent promtem<corr><exp>ent</exp></corr> avecq une <tl>courte
 cheville crochue</tl> faicte<lb/>
@@ -107,7 +107,7 @@ le<lb/>
 
 ne recule.</ab>
 
-<cont/>
+
 
 </div>
 </root>

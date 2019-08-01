@@ -1,11 +1,11 @@
-<root>
-<page>102v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="102v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f210.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f210.image</image>
 
-<div>
 
-<id>p102v_1</id>
+
+<div id="p102v_1">
+
+
 
 <head>Painting on <m>crystal</m> or <m>glass</m></head>
 
@@ -22,22 +22,22 @@ one color, &amp; thus for other colors. Next they put underneath it a
 
 </div>
 
-<div>
+<div id="p102v_2">
 
-<id>p102v_2</id>
+
 
 <head>Infusion of <m><pa>anthos</pa></m> or
-<m><pa>rosemary</pa></m><comment>c_102v_05</comment></head>
+<m><pa>rosemary</pa></m><comment rid="c_102v_05"/></head>
 
 <ab><tmp>In the month of August</tmp>, the flower is better
 cooked &amp; more suitable for making <m>oil</m>. Take of it whatever
 quantity you like and put it into a <tl>bottle</tl>
 <add>afterward</add> well stoppered, &amp; leave to wilt in there
 <env>in the shade</env> for a <ms><tmp>day</tmp></ms>. Then put in it
-the <m>first substance of wine</m><comment>c_102v_06</comment> &amp;
+the <m>first substance of wine</m><comment rid="c_102v_06"/> &amp;
 leave it to rest three or four <ms><tmp>days</tmp></ms>, and next express the
 whole into <corr>a</corr>nother <tl>vessel</tl> &amp; into this very same
-<tl>substance of <m>wine</m></tl>,<comment>c_102v_07</comment> put in
+<tl>substance of <m>wine</m></tl>,<comment rid="c_102v_07"/> put in
 seven or eight <ms>infusions</ms> of new flowers. Next, leave the last
 <ms>infusion</ms> <env>in the sun</env> <ms><tmp>for a month</tmp></ms>.
 Next, distil it through an <tl>alembic</tl>. <del>Ne</del>, And take ii
@@ -47,9 +47,9 @@ Next, distil it through an <tl>alembic</tl>. <del>Ne</del>, And take ii
 
 </div>
 
-<div>
+<div id="p102v_3">
 
-<id>p102v_3</id>
+
 
 <head>Cast</head>
 
@@ -62,11 +62,11 @@ two halves together. But if you must mold it thick, make it in the
 form &amp; mold a lot of feeders around the figure, in this
 way.
 
-<figure>
+<figure id="fig_p102v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SjZwV0ZHdW93ZEk">
 
-<id>fig_p102v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SjZwV0ZHdW93ZEk</link>
+
+
 
 </figure>
 

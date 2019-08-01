@@ -1,11 +1,11 @@
-<root>
-<page>003r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="003r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f11.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f11.image</image>
 
-<div>
-<id>p003r_1</id>
-<head><m>Counterfeit coral</m><comment>c_003r_02</comment></head>
+
+
+<div id="p003r_1">
+
+<head><m>Counterfeit coral</m><comment rid="c_003r_02"/></head>
 
 <mark>+</mark>
 
@@ -20,11 +20,11 @@ Next dip in your branches while turning, &amp; if any filaments
 should remain on it, turn the branch over the heat of the
 <m>charcoal</m>.</ab>
 
-<ab>
+<ab margin="left-top" render="tall">
 
-<margin>left-top</margin>
 
-<render>tall</render>
+
+
 
 <m>Colophony</m> is nothing other than recooked <m>resin</m>. To do
 it well, take a <tl><m>leaded</m> pot</tl> &amp; melt the <m>resin</m>,
@@ -44,17 +44,17 @@ and more beautiful, &amp; if you were to take a single tear of
 
 </ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 <m>Sulfur</m> &amp; <m>vermilion</m> makes the same effect.</ab>
 
-<ab>
-<margin>top</margin>
+<ab margin="top">
+
 The <m>coral</m> made of <m>gules red enamel</m> endures the
 <tl>file</tl> and polishing.</ab>
 
-<ab>
-<margin>right-top</margin>
+<ab margin="right-top">
+
 It is made like <m>cement</m> that is stronger mixed with <m><tl>pestled</tl>
 <del>than of</del> glass</m> rather than with <m>brick</m>. Thus, here one
 mixes well <tl>pestled</tl> <m>gules red enamel</m>, which
@@ -63,8 +63,8 @@ is red in body, with the <m>vermilion</m>. Thus with all colors of
 
 </div>
 
-<div>
-<id>p003r_2</id>
+<div id="p003r_2">
+
 <head><m>Varnish</m> for panels</head>
 
 <ab>Take a <ms>lb</ms> of <m><pl>Venice</pl> turpentine</m> &amp; heat
@@ -82,10 +82,10 @@ it dries both <env>in the shade</env> and <env>in the sun</env>, and
 <tmp>in the summer</tmp>. It is commonly sold 15 <cn>sous</cn> a
 <ms>lb</ms>.</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom" render="tall">
 
-<render>tall</render>
+
+
 
 A little more <m>turpentine</m> than <m>turpentine oil</m> is needed in
 order to give body to the <m>varnish</m>, which needs to be applied with
@@ -94,30 +94,30 @@ for when it is thick, it turns yellow and sticks. One does not
 <m>varnish</m> to make paintings shine, for it just takes the light out
 of them.</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom" render="wide">
 
-<render>wide</render>
+
+
 But it is used to heighten colors which have soaked in and to keep them
 from dust. <m>Mastic varnish</m> does not resist <env>rain</env>,
 whereas that of <m>oil</m> and <m>rosin</m> does.</ab>
 
 </div>
 
-<div>
-<id>p003r_3</id>
+<div id="p003r_3" continued="yes">
+
 <head><m>Thick varnish</m> for planks</head>
 
 <ab>There is a <m>varnish</m> that takes a long time to dry &amp;
 drips more than two <tmp>months</tmp> after it has been applied to the
 planks. But this one does not drip like that of <tmp>times
 past</tmp>, which was made of <m>linseed oil</m>, <m>garlic</m> boiled in it
-to extinguish it<comment>c_003r_01</comment> &amp; rid it of grease, 
+to extinguish it<comment rid="c_003r_01"/> &amp; rid it of grease, 
 &amp; with <m>wheat</m>. And this one yellowed &amp;
 rendered greenish the blue color of paintings. This one is made like the
 other one except that one puts <m>coarse common turpentine</m></ab>
 
-<cont/>
+
 
 </div>
 </root>

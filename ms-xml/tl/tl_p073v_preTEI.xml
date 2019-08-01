@@ -1,13 +1,13 @@
-<root>
-<page>073v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="073v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f152.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f152.image</image>
 
-<div>
 
-<cont/>
 
-<id>p073r_5</id>
+<div continues="yes" id="p073r_5">
+
+
+
+
 
 <ab>grind it separately. When it is well-ground, take the <m>sal
 ammoniac</m> &amp; grind it together again. Then take one <ms>ounce</ms>
@@ -18,9 +18,9 @@ powder.</ab>
 
 </div>
 
-<div>
+<div id="p073v_1">
 
-<id>p073v_1</id>
+
 
 <head>For <del><fr>c</fr></del> coating it</head>
 
@@ -32,9 +32,9 @@ apply it on top.</ab>
 
 </div>
 
-<div>
+<div id="p073v_2">
 
-<id>p073v_2</id>
+
 
 <head><m>Varnish</m></head>
 
@@ -46,9 +46,9 @@ inside, and next put them into a <tl>vial</tl>, &amp; apply it on the
 
 </div>
 
-<div>
+<div id="p073v_3">
 
-<id>p073v_3</id>
+
 
 <head>Another recipe for making <m>varnish</m></head>
 
@@ -59,9 +59,9 @@ turpentine</m> &amp; one <ms>quarter ounce</ms> of <m>oil of <del>perolle</del>
 
 </div>
 
-<div>
+<div id="p073v_4">
 
-<id>p073v_4</id>
+
 
 <head>Color of burnished copper</head>
 

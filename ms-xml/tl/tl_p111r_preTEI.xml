@@ -1,10 +1,10 @@
-<root>
-<page>111r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="111r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f227.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f227.image</image>
 
-<div>
-<id>p111r_1</id>
+
+
+<div id="p111r_1">
+
 <head>Reheating <tl>molds</tl></head>
 
 <ab>The <tl>frames</tl> readily dry out &amp; do not reheat. For
@@ -17,8 +17,8 @@ dry out.</ab>
 
 </div>
 
-<div>
-<id>p111r_2</id>
+<div id="p111r_2">
+
 <head><m><m>Latten</m> smoke</m></head>
 
 <ab>
@@ -30,8 +30,8 @@ being of the same nature.</ab>
 
 </div>
 
-<div>
-<id>p111r_3</id>
+<div id="p111r_3">
+
 <head>For <m>red copper</m></head>
 
 <ab>When it is melted, it is good to throw in a little <m>fine tin</m>,
@@ -39,36 +39,36 @@ for this makes it run.</ab>
 
 </div>
 
-<div>
-<id>p111r_4</id>
+<div id="p111r_4">
+
 <head><m>Clay earth</m></head>
 
 <ab>This one, moistened &amp; well beaten &amp; kneaded as you know, is
 necessary for you to make the contour for containing your
 <tl>molds</tl>. But take heed that it not be too soft, but rather as if
-half dry, that <del><fr>il</fr></del>it<comment>c_111r_01</comment> does
+half dry, that <del><fr>il</fr></del>it<comment rid="c_111r_01"/> does
 <sn>not attach to your <tl><bp>hands</bp></tl></sn>, because otherwise
 it would attach to your work. Always keep it <env>in a damp place</env>,
 and make holes in it, and fill them with <m>water</m>, to keep it
 fresh.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 The gray one is best, which does not crack at all.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 It is more appropriate than a <tl>blade of <m>lead</m></tl>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<figure>
 
-<id>fig_p111r_1</id>
+<figure id="fig_p111r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5X085N09VejNheTQ">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5X085N09VejNheTQ</link>
+
+
+
 
 </figure>
 
@@ -76,8 +76,8 @@ It is more appropriate than a <tl>blade of <m>lead</m></tl>.</ab>
 
 </div>
 
-<div>
-<id>p111r_5</id>
+<div id="p111r_5">
+
 <head><m>Iron wire</m></head>
 
 <ab>You also need to have provision of different sizes,

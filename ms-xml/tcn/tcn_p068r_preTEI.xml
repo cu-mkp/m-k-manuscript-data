@@ -1,10 +1,10 @@
-<root>
-<page>068r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="068r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f141.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f141.image</image>
 
-<div>
-<id>p068r_1</id>
+
+
+<div id="p068r_1">
+
 <head>Tables fantasques</head>
 
 <ab>Tu peulx faire divers compartiments encochés &amp; dans<lb/>
@@ -23,8 +23,8 @@ ouvraiges.</ab>
 
 </div>
 
-<div>
-<id>p068r_2</id>
+<div id="p068r_2">
+
 <head>Planter abres</head>
 
 <ab>Il les fault planter en <del><env>lieu sec</env></del> <env>temps
@@ -37,8 +37,8 @@ ne remplissent les fosses &amp; ne n<corr>o</corr>yent les abres.</ab>
 
 </div>
 
-<div>
-<id>p068r_3</id>
+<div id="p068r_3" continued="yes">
+
 <head>Gect</head>
 
 <ab>J’ay essayé 4 sortes de <m>sables</m> pour le <m>plomb</m> &amp;
@@ -94,13 +94,13 @@ parfaictement, gectes tes lopins de <m>verre</m> quel qu’il soit entre
 les plus<lb/>
 
 gros <m>charbons</m> allumés que tu pourras, si aultre commodité
-<del>t</del>de<comment>c_068r_04</comment> fœu<del>t</del><lb/>
+<del>t</del>de<comment rid="c_068r_04"/> fœu<del>t</del><lb/>
 
 violent te default. Et lorsqu’il sera bien rouge gecte le dans
 l’<m>eau</m></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 La <m>potée</m> est<lb/>
 
 estimée excellente<lb/>
@@ -111,7 +111,7 @@ pour ces deulx<lb/>
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

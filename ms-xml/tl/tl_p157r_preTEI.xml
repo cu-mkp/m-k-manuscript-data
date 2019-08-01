@@ -1,10 +1,10 @@
-<root>
-<page>157r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="157r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f319.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f319.item.r=</image>
 
-<div>
-<id>p157r_1</id>
+
+
+<div id="p157r_1">
+
 <head>A means for <pro>goldsmiths</pro> for molding hollow</head>
 
 <ab>
@@ -21,8 +21,8 @@ or <m>silver</m>, and then <m>solder</m> or braze them.</ab>
 
 </div>
 
-<div>
-<id>p157r_2</id>
+<div id="p157r_2">
+
 <head><m>Rouge clair</m></head>
 
 <ab>
@@ -36,39 +36,39 @@ show excellently on a common work.</ab>
 
 </div>
 
-<div>
-<id>p157r_3</id>
+<div id="p157r_3">
+
 <head>Cleaning and degreasing your works cast from <m>tin</m> and
 others</head>
 
 <ab>Make some <m>lye</m>, carefully passed through <m>good ashes</m>,
-and since it is recent &amp; not fatty, <underline>boil your molded work in it.</underline><comment>c157r_01</comment> And
+and since it is recent &amp; not fatty, <underline>boil your molded work in it.</underline><comment rid="c157r_01"/> And
 the <m>tallow</m> and <m>fat</m> leaves it.</ab>
 
 </div>
 
-<div>
-<id>p157r_4</id>
+<div id="p157r_4">
+
 <head>Arranging plants or flowers for casting</head>
 
 <ab>
 
 Always put <oc>at the top</oc> the principal side of the thing, because it comes
-out better and neater than the bottom. Make the gate wide &amp; make sure that the <df><fr>supraplus</fr></df> (which is the <fr>masserote</fr><comment>c_157r_04</comment> for <pro>founders</pro> for a large cast<corr>)</corr>,
+out better and neater than the bottom. Make the gate wide &amp; make sure that the <df><fr>supraplus</fr></df> (which is the <fr>masserote</fr><comment rid="c_157r_04"/> for <pro>founders</pro> for a large cast<corr>)</corr>,
 <del><fr>Et</fr></del> especially for <m>silver</m>, which wants the
 <tl>mold</tl> quite hot &amp; to be cast very hot. Very thin things want
 to be cast very hot.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 When you know that the stem of a flower, burned in a <tl>mold</tl> which
 does not open, is reduced well into <m>ashes</m>, it is a sign that the
 rest is well burned.</ab>
 
 </div>
 
-<div>
-<id>p157r_5</id>
+<div id="p157r_5">
+
 <head><al>Flies</al></head>
 
 <ab>They mold better on a single leaf than <del><fr>n</fr></del> on a

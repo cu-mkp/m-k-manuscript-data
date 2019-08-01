@@ -1,13 +1,13 @@
-<root>
-<page>143v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="143v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f292.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f292.image</image>
 
-<div>
 
-<cont/>
 
-<id>p143r_3</id>
+<div continues="yes" id="p143r_3">
+
+
+
+
 
 <ab>one leg up to the other, in order that the spread out extremities
 come to join one with the other by means of the said gates,
@@ -22,9 +22,9 @@ possible, that everything be ready. One needs to heat well &amp; evenly
 redden the <tl>molds</tl>, where they are gates of <m>wax</m>, in order
 that it melts well &amp; leaves nothing inside.</ab></div>
 
-<div>
+<div id="p143v_1">
 
-<id>p143v_1</id>
+
 
 <head>Carcanets made <fr>à jour</fr></head>
 
@@ -38,9 +38,9 @@ with <m>wax</m> or <m>clay</m>.</ab>
 
 </div>
 
-<div>
+<div id="p143v_2">
 
-<id>p143v_2</id>
+
 
 <head><m>Iron filings</m></head>
 
@@ -50,9 +50,9 @@ wash them in <m>clear water</m>. In this way, the dirt will go to the
 top of the <m>water</m>, that you throw out, &amp; the <m>good
 filings</m> will go to the bottom.</ab></div>
 
-<div>
+<div id="p143v_3">
 
-<id>p143v_3</id>
+
 
 <head><pa>Carnations</pa></head>
 

@@ -1,10 +1,10 @@
-<root>
-<page>007v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="007v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f20.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f20.image</image>
 
-<div>
-<id>p007v_1</id>
+
+
+<div id="p007v_1">
+
 <head>For giving the color of all kinds of <m>metals</m> to <m>wood</m>
 &amp; other things</head>
 
@@ -16,8 +16,8 @@ whatsoever, then burnish it.</ab>
 
 </div>
 
-<div>
-<id>p007v_2</id>
+<div id="p007v_2">
+
 <head><md>Against windy colic</md></head>
 
 <ab>Take a <ms>dozen</ms> <m>dried common <pa>walnuts</pa></m> &amp;
@@ -31,10 +31,10 @@ of <m>good wine</m></tl>. Next, let the <m>wine</m> cool and strain it,
 
 </div>
 
-<div>
-<id>p007v_3</id>
+<div id="p007v_3">
+
 <head><md>For relieving the pain of
-g<exp>out</exp></md><comment>c_007v_01</comment></head>
+g<exp>out</exp></md><comment rid="c_007v_01"/></head>
 
 <ab>Take <ms>half a lb</ms> of <m>finely pulverised golden &amp; yellow
 marcasite</m>, <ms>half an ounce</ms> of <m>storax</m>, 4 <ms>lb</ms>
@@ -49,13 +49,13 @@ pain.</ab>
 
 </div>
 
-<div>
-<id>p007v_4</id>
-<head><md>Against gonorrhea</md><comment>c_007v_02</comment></head>
-<ab><la><m>Aquae <pro>fabrorum</pro> antiquae</m><comment>c_007v_06</comment> <ms>lb</ms> i.,
+<div id="p007v_4">
+
+<head><md>Against gonorrhea</md><comment rid="c_007v_02"/></head>
+<ab><la><m>Aquae <pro>fabrorum</pro> antiquae</m><comment rid="c_007v_06"/> <ms>lb</ms> i.,
 <m>boli Armeniae</m> in <del>tel</del> tenuissimum<lb/> pollinem redactae <ms>℥</ms>.i., <m>mellis
 co<exp>mmun</exp>is</m> <ms>ʒ</ms>.iii. coquantur ad <m>mellis</m><lb/> despumationem. Tum refrigerata colentur cum forti expressione<lb/>
-&amp; de colatura utatur per <md>injectionem</md>.</la><comment>c_007v_03</comment></ab>
+&amp; de colatura utatur per <md>injectionem</md>.</la><comment rid="c_007v_03"/></ab>
 
 </div>
 </root>

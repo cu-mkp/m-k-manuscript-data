@@ -1,13 +1,13 @@
-<root>
-<page>147r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="147r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f299.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f299.image</image>
 
-<div>
 
-<cont/>
 
-<id>p146v_1</id>
+<div continues="yes" id="p146v_1">
+
+
+
+
 
 <ab>Advise bien de fayre un bort de <m>cire fondue</m> avecq le
 <tl><m>fer</m><lb/></tl>
@@ -92,9 +92,9 @@ co<exp>mm</exp>e des aultres Affin que<lb/>
 
 le noyau pour mouler creulx se fasse mieulx Apres<lb/>
 
-<emph>Va au second fœillet</emph><comment>c_ 147r_02</comment></ab>
+<emph>Va au second fœillet</emph><comment rid="c_ 147r_02"/></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Pour eviter<lb/>
 

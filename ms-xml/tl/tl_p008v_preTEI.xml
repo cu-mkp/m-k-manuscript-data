@@ -1,20 +1,20 @@
-<root>
-<page>008v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="008v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f22.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f22.image</image>
 
-<div>
 
-<id>p008v_1</id>
+
+<div id="p008v_1">
+
+
 
 <head>Polishing of the <m>balas ruby</m></head>
 
 <ab>It is not polished with <tl><m>tripoli</m></tl> <del>but</del> like the
 others, but with <tl><m>marcasite powder</m></tl> &amp; <m>oil</m>.</ab></div>
 
-<div>
+<div id="p008v_2">
 
-<id>p008v_2</id>
+
 
 <head><m><fr>Or</fr></m> and <m><fr>argent moulu</fr></m></head>
 
@@ -22,14 +22,14 @@ others, but with <tl><m>marcasite powder</m></tl> &amp; <m>oil</m>.</ab></div>
 <m>☿</m> and then cleanse your amalgam well &amp; make the
 said <m>mercury</m> fly off. Next grind it on <tl><m>marble</m></tl>
 with <m>gum water</m>. As for <m>silver</m> one needs to take it as
-is<comment>c_008v_01</comment> &amp; eat away at it with <m>aquafortis</m>, then take it out with a <tl><m>copper</m> blade</tl>
+is<comment rid="c_008v_01"/> &amp; eat away at it with <m>aquafortis</m>, then take it out with a <tl><m>copper</m> blade</tl>
 &amp; rinse it thoroughly and next grind it with <m>gum water</m>.</ab>
 
 </div>
 
-<div>
+<div id="p008v_3">
 
-<id>p008v_3</id>
+
 
 <head>Polishing of <m>stones</m></head>
 
@@ -41,9 +41,9 @@ commonly cut <del><fr>co</fr></del> or polished. The
 <tl><m>tin</m> wheel</tl> is for more tender stones like <m>emerald</m>,
 <m>amethyst</m>, &amp; others.</ab></div>
 
-<div>
+<div id="p008v_4">
 
-<id>p008v_4</id>
+
 
 <head>Mixture of <pro>Pewterers</pro> <del><ill/></del></head>
 
@@ -52,13 +52,13 @@ of <m>lead</m>, which renders the <m>tin</m> <sn>deaf</sn>, to correct
 this, they mix in <m>latten filings</m> to render it
 <sn>sonorous</sn>.</ab></div>
 
-<div>
+<div id="p008v_5">
 
-<id>p008v_5</id>
+
 
 <head>Perfect amalgam</head>
 
-<ab>Take the most delicate <tl><m><fr>grais</fr></m></tl><comment>c_008v_02</comment> you can &amp; hollow it in
+<ab>Take the most delicate <tl><m><fr>grais</fr></m></tl><comment rid="c_008v_02"/> you can &amp; hollow it in
 the middle. Put in an <ms>eighth part</ms> of <m>☿</m>,
 <del>in</del> &amp; into this, while adding <m>water</m>, rub &amp; wear down your
 <m>☾</m> or <m>☼</m> until the

@@ -1,11 +1,11 @@
-<root>
-<page>164r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="164r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f333.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f333.item</image>
 
-<div>
 
-<id>p164r_1</id>
+
+<div id="p164r_1">
+
+
 
 <head>Gect</head>
 
@@ -24,9 +24,9 @@ que le dos qui est le plus en veue &amp; plus marque</ab>
 
 </div>
 
-<div>
+<div id="p164r_2">
 
-<id>p164r_2</id>
+
 
 <head>Reparer les baves</head>
 
@@ -46,9 +46,9 @@ lignes interrompues par les baves</ab>
 
 </div>
 
-<div>
+<div id="p164r_3">
 
-<id>p164r_3</id>
+
 
 <head><m>Argent plombeus</m></head>
 
@@ -57,7 +57,7 @@ lignes interrompues par les baves</ab>
 Il se dechet beaucoup a cause que le <m>plomb</m> qui<lb/>
 
 y est mesle le travaille co<exp>mm</exp>e en la
-<tl>copelle</tl><comment>c_164r_01</comment> et le faict<lb/>
+<tl>copelle</tl><comment rid="c_164r_01"/> et le faict<lb/>
 
 saulter en petits grains aulx bords du <tl>creuset</tl><lb/>
 
@@ -72,7 +72,7 @@ lingot plustost que le fondre pour gecter les<lb/>
 
 <al>lesardes</al> &amp; animaulx Car il vient mieulx Jen ay<lb/>
 
-moule net co<exp>mme</exp> le principal<comment>c_137r_03</comment> ainsy une <al>petite<lb/>
+moule net co<exp>mme</exp> le principal<comment rid="c_137r_03"/> ainsy une <al>petite<lb/>
 
 vipere</al> d<m>argent</m> Et fis la ligue de 4
 <m><ms><cn>realles</cn></ms></m><lb/>
@@ -84,9 +84,9 @@ une piece de xx <m><ms><cn>s<exp>ols</exp> de<lb/>
 
 </div>
 
-<div>
+<div id="p164r_4">
 
-<id>p164r_4</id>
+
 
 <head>Soufler</head>
 
@@ -96,7 +96,7 @@ Quand tu fonds de l<m>argent</m> &amp; de l<m>or</m> ne soufle pas
 fort<lb/>
 
 &amp; de violence pourceque le <m>charbon</m> se
-passant<comment>c_164r_02</comment> le <tl><oc>crusole</oc></tl><lb/>
+passant<comment rid="c_164r_02"/> le <tl><oc>crusole</oc></tl><lb/>
 
 sabaisseroit &amp; <del>larg</del> se pourroit renverser Mays quand<lb/>
 

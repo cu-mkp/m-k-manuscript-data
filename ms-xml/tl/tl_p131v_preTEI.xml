@@ -1,13 +1,13 @@
-<root>
-<page>131v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="131v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f268.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f268.item.r=</image>
 
-<div>
 
-<cont/>
 
-<id>p131r_5</id>
+<div continues="yes" id="p131r_5">
+
+
+
+
 
 <ab>in a round form to cast it in <m>gold</m> and <m>silver</m>, put
 only in your <m>wax</m> what you prepare for this effect
@@ -20,15 +20,15 @@ roughed out <del><fr>ci</fr></del> figure of <m>wax</m>. But if it is
 composed of <m>ceruse</m> or suchlike, it is necessary that you
 put your <tl>mold</tl> in <m>boiling water</m>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 For figures of flat <m>wax</m>, there is no need for all this, for the
 <m>wax</m> releases &amp; does not stay in the <del><fr>la</fr></del>
 <tl>mold</tl>.</ab>
 
 </div>
-<div>
-<id>p131v_1</id>
+<div id="p131v_1" continued="yes">
+
 <head>When the cast of <m>tin</m> or <m>lead</m> becomes porous</head>
 
 <ab>
@@ -55,21 +55,21 @@ much <m>lead</m>, it does not run very thin. And to know
 it is a sign there is not enough <m>lead</m>. If it shouts slowly, that
 means that is there is too much. Take heed</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 You can <m>solder</m> with the <del><fr>l’es</fr></del> same substance,
 then repair it with the <tl>burin</tl>, <tl>file</tl>,
 <tl><fr>chaple</fr></tl> &amp; suchlike.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 <m>Tin</m> is a <m>metal</m> that penetrates, that becomes porous &amp;
 burns, and is fanciful to use, more than <m>gold</m> and
 <m>silver</m>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 <m>Lead</m> wants not only to be red, but also lively &amp; runny &amp;
 liquid as <m>water</m>, which is a sign of its perfect heat &amp; the
@@ -78,7 +78,7 @@ your <tl><bp>finger</bp></tl> in it</sn>. Do not open until it is
 cooled. It is a sign of a good cast, as much for it as for <m>gold</m>
 &amp; <m>silver</m> when it exits by the vents.</ab>
 
-<cont/>
+
 
 </div>
 </root>

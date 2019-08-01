@@ -1,11 +1,11 @@
-<root>
-<page>158v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="158v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f322.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f322.image</image>
 
-<div>
 
-<id>p158v_1</id>
+
+<div id="p158v_1">
+
+
 
 <head>Colors for green leaves</head>
 
@@ -24,9 +24,9 @@ transparently so as not to cover the lines of the work.</ab>
 
 </div>
 
-<div>
+<div id="p158v_2">
 
-<id>p158v_2</id>
+
 
 <head>Large <tl>molds</tl></head>
 
@@ -35,9 +35,9 @@ in a <tl>press</tl> in order that they do not open.</ab>
 
 </div>
 
-<div>
+<div id="p158v_3">
 
-<id>p158v_3</id>
+
 
 <head><m><tl>Candle</tl> smoke</m></head>
 
@@ -50,9 +50,9 @@ with half of <m>tin</m> was very hot, because the medal was thick.</ab>
 
 </div>
 
-<div>
+<div id="p158v_4">
 
-<id>p158v_4</id>
+
 
 <head>Gate</head>
 
@@ -62,9 +62,9 @@ to have <ms>half of its thickness</ms>. But if it <corr>is</corr> thin,
 give it a gate of its thickness. Do not forget to make vents in the gate
 where typically the material becomes porous.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Never forget to <m>oil</m> the <m>wax</m> gate when you mold plants
 or flowers, otherwise it breaks &amp; cannot be taken out.

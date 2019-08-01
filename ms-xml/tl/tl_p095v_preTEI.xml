@@ -1,15 +1,15 @@
-<root>
-<page>095v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="095v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f196.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f196.image</image>
 
-<div>
 
-<cont/>
 
-<id>p094r_1</id>
+<div continues="yes" id="p094r_1" continued="yes">
 
-<ab>The end<comment>c_095v_03</comment> is bought ready-made by the
+
+
+
+
+<ab>The end<comment rid="c_095v_03"/> is bought ready-made by the
 <ms>dozen</ms> which costs six <ms><cn>sous</cn></ms> for
 the small ones, but for the the big ones 2
 <ms><cn><la>carolus</la></cn></ms>. The end <del>this</del> is put either
@@ -23,7 +23,7 @@ and cannot be undone unless it is put in the fire.</ab>
 
 <ab>Guards are of several kinds:<lb/>
 
-Worked<comment>c_095v_04</comment><lb/>
+Worked<comment rid="c_095v_04"/><lb/>
 
 Guttered which is with round moldings<lb/>
 
@@ -31,7 +31,7 @@ Guttered which is with round moldings<lb/>
 
 Scarfed when the bands are crosswise<lb/>
 
-Onioned which is with a flat head<comment>c_095v_05</comment><lb/>
+Onioned which is with a flat head<comment rid="c_095v_05"/><lb/>
 
 In the <pro><pn>King</pn></pro>’s manner, which are plain</ab>
 
@@ -52,7 +52,7 @@ height of the art.</ab>
 where they are made.</ab>
 
 <ab>These <m>wood</m> pieces are thus called
-<df><fr>estelles</fr>,</df><comment>c_095v_06</comment> and have to be
+<df><fr>estelles</fr>,</df><comment rid="c_095v_06"/> and have to be
 very neat &amp; without any knots &amp; are one <ms><bp>finger</bp>’s
 thickness across</ms>.</ab>
 
@@ -60,14 +60,14 @@ thickness across</ms>.</ab>
 <df><tl>scabbard bench</tl></df> and with a <del><fr>e</fr></del>
 <add><fr>g</fr></add> <del><tl>plane</tl></del> <tl>small <m>iron</m>
 tool</tl> similar to that of the <tl><pro>joiners</pro>’ bench</tl>,
-they make it hold firmly. Then with a<del><fr>e</fr></del><comment>c_093v_01</comment> <del><tl>plane</tl></del>
+they make it hold firmly. Then with a<del><fr>e</fr></del><comment rid="c_093v_01"/> <del><tl>plane</tl></del>
 <tl>plane</tl> which is like a <tl>knife with two
-handles</tl>,<comment>c_095v_07</comment> one works the <m>wood</m>
+handles</tl>,<comment rid="c_095v_07"/> one works the <m>wood</m>
 roughly from the top, next one passes the <tl><pro>joiner</pro>’s
 plane</tl> on it the better to even it. Next, one scours it on the
 inside with a</ab>
 
-<cont/>
+
 
 </div>
 </root>

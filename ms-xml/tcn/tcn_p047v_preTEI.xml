@@ -1,10 +1,10 @@
-<root>
-<page>047v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="047v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f100.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f100.image</image>
 
-<div>
-<id>p047v_1</id>
+
+
+<div id="p047v_1">
+
 <head>Boisson ayant <sn>goust</sn> de <m>vin</m></head>
 
 <ab>Ayes du <m>tartre des grands vaisseaulx</m> &amp; les destrempe<lb/>
@@ -12,11 +12,11 @@
 en <m>eau</m> &amp; il aura <sn>goust</sn> de <m>vin</m>.</ab>
 
 </div>
-<div>
-<id>p047v_2</id>
+<div id="p047v_2">
+
 <head>Fonte</head>
 
-<ab>Aulcuns pour faire couler net mectent <ms>moictié</ms> <m>metal</m><comment>c_016v_05</comment>
+<ab>Aulcuns pour faire couler net mectent <ms>moictié</ms> <m>metal</m><comment rid="c_016v_05"/>
 &amp;<lb/>
 
 <ms>moictié</ms> <m>cuivre.</m> Aultres prenent une <ms>partye</ms> de
@@ -66,8 +66,8 @@ que le <m>metal</m>. Et pour ceste occasion il fault <m><tl>luter</tl></m> de
 et <m>verre <tl>pilé</tl></m> les <tl><oc>crusols</oc></tl>.</ab>
 
 </div>
-<div>
-<id>p047v_3</id>
+<div id="p047v_3">
+
 <head><tl>Creusets</tl></head>
 
 <ab>Ceulx qui se font <tmp>en hyver</tmp> &amp; <env><tmp>temps
@@ -78,8 +78,8 @@ doibvent<lb/>
 
 <m><tl>lutter</tl></m>.</ab>
 </div>
-<div>
-<id>p047v_4</id>
+<div id="p047v_4">
+
 <head>Gect</head>
 
 <ab>La <m>pierre ponce calcinée</m> subtillem<exp>ent</exp> gecte

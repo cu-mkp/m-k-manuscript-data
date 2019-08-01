@@ -1,10 +1,10 @@
-<root>
-<page>007v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="007v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f20.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f20.image</image>
 
-<div>
-<id>p007v_1</id>
+
+
+<div id="p007v_1">
+
 <head>Pour donner couleur de toute<lb/>
 
 sorte de <m>metaulx</m> au <m>boys</m> &amp; aultre chose</head>
@@ -22,8 +22,8 @@ puys le brunissés.</ab>
 
 </div>
 
-<div>
-<id>p007v_2</id>
+<div id="p007v_2">
+
 <head><md>Contre la colique venteuse</md></head>
 
 <ab>P<exp>renés</exp> une <ms>douzaine</ms> de <m><pa>noix</pa> communes
@@ -48,8 +48,8 @@ de <bp>matrice</bp></md>.</ab>
 
 </div>
 
-<div>
-<id>p007v_3</id>
+<div id="p007v_3">
+
 <head><md>Pour oster la douleur de la g<exp>outte</exp></md></head>
 
 <ab>P<exp>renés</exp> <ms>demy lb</ms> de <m>marquasite dorée &amp;
@@ -76,8 +76,8 @@ sur la douleur.</ab>
 
 </div>
 
-<div>
-<id>p007v_4</id>
+<div id="p007v_4">
+
 <head><md>Contre gonhorrea</md></head>
 
 <ab><la><m>Aquae <pro>fabrorum</pro> antiquae</m> <ms>lb</ms> i.,

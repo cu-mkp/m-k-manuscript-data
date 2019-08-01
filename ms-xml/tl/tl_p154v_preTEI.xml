@@ -1,11 +1,11 @@
-<root>
-<page>154v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="154v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f314.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f314.image</image>
 
-<div>
 
-<id>p154v_1</id>
+
+<div id="p154v_1">
+
+
 
 <head><m>Latten</m></head>
 
@@ -16,9 +16,9 @@ little <m>tin</m> to make it run better. It always leaves a tail like
 <m>melted glass</m>. It does not require as long a gate as
 others.</ab></div>
 
-<div>
+<div id="p154v_2">
 
-<id>p154v_2</id>
+
 
 <head>Molding</head>
 
@@ -27,9 +27,9 @@ nevertheless be red on the inside, for when it comes out of the fire,
 the air &amp; vehement exhalations of fire do not receive the cast so
 well.</ab></div>
 
-<div>
+<div id="p154v_3">
 
-<id>p154v_3</id>
+
 
 <head>The casting <add>of <m>silver</m></add></head>
 
@@ -39,29 +39,29 @@ one throws on it. But <m>gold</m> would spatter, &amp; <del>needs
 that</del> for that reason one casts <del><m>solder</m></del>
 <m>bran</m> on the <m>solder</m></add>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Let the <tl>mold</tl> cool well after the casting before opening
 it.</ab></div>
 
-<div>
+<div id="p154v_4">
 
-<id>p154v_4</id>
+
 
 <head>Reinforcing flowers and delicate things</head>
 
 <ab>For flowers <corr><del>&amp;</del></corr> <del>delicate things</del>
 &amp; herbage, one does not use <m><pa>wheat</pa> oil</m> but <m>melted
-butter</m>, of which one gives a light <add><mark>#</mark></add><comment>c_154v_03</comment> coat
+butter</m>, of which one gives a light <add><mark>#</mark></add><comment rid="c_154v_03"/> coat
  on the back of the petals of the
 <pa>rose</pa> flower &amp; the <pa>pansy</pa> &amp; other flowers that
 need it. But one reinforces the little legs of <al>flies</al> &amp;
 other small animals with <m><pa>wheat</pa> oil</m> to strengthen them
 &amp; make them hold up.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 with a <tl>small paintbrush</tl>
 
@@ -69,9 +69,9 @@ with a <tl>small paintbrush</tl>
 
 </div>
 
-<div>
+<div id="p154v_5">
 
-<id>p154v_5</id>
+
 
 <head><pa>Strawberries</pa></head>
 

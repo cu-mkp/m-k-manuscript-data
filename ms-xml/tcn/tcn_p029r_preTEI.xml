@@ -1,11 +1,11 @@
-<root>
-<page>029r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="029r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f63.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f63.image</image>
 
-<div>
 
-<id>p029r_1</id>
+
+<div id="p029r_1">
+
+
 
 <head><m>Stuc</m> pour mouler</head>
 
@@ -116,9 +116,9 @@ ornement à peu de frais.
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 La <m>farine</m> n’est<lb/>
 

@@ -1,13 +1,13 @@
-<root>
-<page>148r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="148r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f301.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f301.image</image>
 
-<div>
 
-<cont/>
 
-<id>p147v_4</id>
+<div continues="yes" id="p147v_4">
+
+
+
+
 
 <ab>pas venu si cler que je desirois je lay encore recuit<lb/>
 
@@ -15,13 +15,13 @@ laisse froidir remis au blanchiment &amp; <tl>grattebroisse</tl> Il
 est<lb/>
 
 venu fort net Ainsy feras tu du <m>cuivre</m> et <m>argent</m> Et si tu
-veulx donner <comment>c_148r_01</comment></ab>
+veulx donner <comment rid="c_148r_01"/></ab>
 
 </div>
 
-<div>
+<div id="p148r_1">
 
-<id>p148r_1</id>
+
 
 <head>Belle couleur au <m>letton</m></head>
 
@@ -35,9 +35,9 @@ et il viendra tres beau</ab>
 
 </div>
 
-<div>
+<div id="p148r_2">
 
-<id>p148r_2</id>
+
 
 <head><m>Blanchime<exp>n</exp>t</m></head>
 
@@ -67,13 +67,13 @@ commun</m></ab>
 
 </div>
 
-<div>
+<div id="p148r_3">
 
-<id>p148r_3</id>
+
 
 <head>Mouler pied de <al>butor</al> ou<lb/>
 
-d<al>aigle</al> ou daultres <al>oyseaulx</al> <comment>c_148r_02</comment>pour<lb/>
+d<al>aigle</al> ou daultres <al>oyseaulx</al> <comment rid="c_148r_02"/>pour<lb/>
 
 pied de salieres ou vases</head>
 
@@ -85,15 +85,15 @@ deulx pieces le dessus du pied en deulx et le dessoubs dune<lb/>
 
 piece</ab>
 
-<ab><margin>left-middle</margin>de trois pieces</ab>
+<ab margin="left-middle">de trois pieces</ab>
 
 </div>
 
-<div>
+<div id="p148r_4">
 
-<id>p148r_4</id>
 
-<head><comment>c_148r_03</comment><m><la>Crocum ferri</la></m></head>
+
+<head><comment rid="c_148r_03"/><m><la>Crocum ferri</la></m></head>
 
 <ab>Pour le faire bien tost rougis la <m>limaille</m> dans une
 <tl>caisse de <m>fer</m></tl><lb/>

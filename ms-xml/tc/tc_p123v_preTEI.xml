@@ -1,13 +1,13 @@
-<root>
-<page>123v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="123v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f252.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f252.item.r=</image>
 
-<div>
 
-<cont/>
 
-<id>p123r_1</id>
+<div continues="yes" id="p123r_1">
+
+
+
+
 
 <ab>V<exp>ost</exp>re <m><tl>luth</tl></m> estant sec mectes de <ms><tmp>bon
 matin</tmp></ms> v<exp>ost</exp>re <tl><oc>crusol</oc></tl> dans<lb/>
@@ -107,12 +107,12 @@ l<m>argent</m> Et le<lb/>
 <m>grain metallic</m> te servira pour mectre dans le <m>metal
 fondu</m></ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 fœu de charbon</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Ou bien apres<lb/>
 
 que tu as faict<lb/>
@@ -141,8 +141,8 @@ de <env>boutique</env></pro> acoustume<lb/>
 
 au charbon</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 On vend bien aulx<lb/>
 
 <pro>orfevres</pro> ceste masse<lb/>

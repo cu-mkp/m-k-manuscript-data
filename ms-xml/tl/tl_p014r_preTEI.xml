@@ -1,13 +1,13 @@
-<root>
-<page>014r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="014r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f33.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f33.image</image>
 
-<div>
 
-<id>p014r_1</id>
 
-<head>For<comment>c_014r_01</comment> <env>walls</env> of <m>earth</m>
+<div id="p014r_1">
+
+
+
+<head>For<comment rid="c_014r_01"/> <env>walls</env> of <m>earth</m>
 and rustic construction</head>
 
 <ab><al>Swallows</al> have taught us this craft, making their nests out
@@ -29,7 +29,7 @@ on this side &amp; that, <tl>long poles</tl>
 <del>&amp;</del> or <tl>chevron beams</tl> to support <tl>boards</tl>
 between which <corr>they</corr> throw the <m>earth</m>, making each
 layer one <ms><bp>foot</bp></ms> thick or thereabouts, intermixing it
-as if <mark>S.S.S</mark><comment>c_014r_05</comment> with <m>branches of <pa>heather</pa></m> or
+as if <mark>S.S.S</mark><comment rid="c_014r_05"/> with <m>branches of <pa>heather</pa></m> or
 similar things, then with <tl>beaters</tl> of <corr>three</corr>
 different forms they <po>tamp</po> it &amp; beat it. One is called the
 <tl>mallet</tl>, which has a triangular form like A, and with this, one
@@ -37,7 +37,7 @@ first <po>tamps</po> the <m>earth</m>. Next one uses one which is made of <m>blo
 wood</m> pointed at the tip &amp; helved to a large stick, &amp; this one
 is for pressing the <m>earth</m> well at the extremities and edges of
 the <env>wall</env>, which adhere to the <tl>boards</tl>, &amp; is
-called.<comment>c_014r_02</comment> The other one is called the
+called.<comment rid="c_014r_02"/> The other one is called the
 <tl>bat</tl>, which is for flattening &amp; beating the <m>earth</m> for
 the last time, as shown in C. Then one makes another layer of
 <m>earth</m> <add>&amp; <m><pa>heather</pa></m></add> and beats it as
@@ -51,13 +51,13 @@ foundations according to how high one wants to raise the
 has <m>saltpeter</m> in it. That is why, when they fall down,
 <pro>gunpowder makers</pro> profit from them.</ab>
 
-<figure>
+<figure id="fig_p014r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5b2lVN19SU1Z6UkU">
 
-<id>fig_p014r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5b2lVN19SU1Z6UkU</link>
+
+
+
 
 <!--A-->
 

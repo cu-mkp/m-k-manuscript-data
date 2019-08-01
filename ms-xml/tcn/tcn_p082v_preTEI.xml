@@ -1,11 +1,11 @@
-<root>
-<page>082v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="082v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f170.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f170.item</image>
 
-<div>
 
-<id>p082v_1</id>
+
+<div id="p082v_1">
+
+
 
 <head><pro>Horlogeurs</pro></head>
 
@@ -21,9 +21,9 @@ qui est un <del>pa</del> beau secret.</ab>
 
 </div>
 
-<div>
+<div id="p082v_2">
 
-<id>p082v_2</id>
+
 
 <head>Gecter <m>plomb</m> en <m>plomb</m></head>
 
@@ -35,9 +35,9 @@ y gectent <m>plomb</m>.</ab>
 
 &amp; plus noir quand il est gecté bien chault.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 On peult faire<lb/>
 
@@ -53,21 +53,21 @@ Mays il n’est<lb/>
 
 jamays si net.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Jamays le <m>plomb</m><lb/>
 
 ne vient si net<lb/>
 
-que  <comment>c_082v_01</comment>l’<m>estaing</m>.</ab>
+que  <comment rid="c_082v_01"/>l’<m>estaing</m>.</ab>
 
 </div>
 
-<div>
+<div id="p082v_3">
 
-<id>p082v_3</id>
+
 
 <head><m>Sable</m></head>
 
@@ -75,9 +75,9 @@ que  <comment>c_082v_01</comment>l’<m>estaing</m>.</ab>
 
 </div>
 
-<div>
+<div id="p082v_4">
 
-<id>p082v_4</id>
+
 
 <head>Forme de gecter en <m>bronze</m></head>
 
@@ -134,9 +134,9 @@ esta<exp>n</exp>t<lb/>
 fondue, avecq un <tl>baston</tl>, car le <m>fer</m> ne faict qu’aigrir.
 Tourne. </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Aulcuns mectent<lb/>
 
@@ -146,9 +146,9 @@ eschaufer &amp; faire<lb/>
 
 courre.</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 Mects soubs ton<lb/>
 
@@ -162,9 +162,9 @@ dra la chaleur<lb/>
 
 soubs ton <tl>creuset</tl>.</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 La matiere de<lb/>
 

@@ -1,11 +1,11 @@
-<root>
-<page>034r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="034r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f73.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f73.image</image>
 
-<div>
 
-<id>p034r_1</id>
+
+<div id="p034r_1">
+
+
 
 <head>Pour dire à quelqu’un que, <del>mettant</del> <add>tenant</add> le
 <bp>doit</bp> tousjours<lb/>
@@ -21,9 +21,9 @@ lict</tl> ou chose semblable,<lb/>
 
 </div>
 
-<div>
+<div id="p034r_2">
 
-<id>p034r_2</id>
+
 
 <head><mark>X</mark>Gaiger a quelqu<del>e</del>’un que se
 promenant<lb/>
@@ -33,7 +33,7 @@ jusques à tel lieu et en revenir, il ne<lb/>
 dira point quattre fois de suite botte sa<exp>n</exp>s
 espero<exp>n</exp></head>
 
-<ab><mark>X</mark>S’il s’essaye de le dir<del>a</del>e,<comment>c_034r_04</comment> <add>mays il
+<ab><mark>X</mark>S’il s’essaye de le dir<del>a</del>e,<comment rid="c_034r_04"/> <add>mays il
 fault qu’il parle <sn>hault</sn>,</add> quand il sera allé &amp; revenu,
 tu luy<lb/>
 
@@ -43,9 +43,9 @@ botte sans dire esperon, car ta gageure est telle.</ab>
 
 </div>
 
-<div>
+<div id="p034r_3">
 
-<id>p034r_3</id>
+
 
 <head>Faire tenir un <tl>chandellier</tl> co<exp>n</exp>tre la
 <env>muraille</env><lb/>
@@ -59,9 +59,9 @@ sans y fayre trou</head>
 
 </div>
 
-<div>
+<div id="p034r_4">
 
-<id>p034r_4</id>
+
 
 <head><mark>X</mark>Ne casser point un <tl><m>verre</m></tl>
 d’une<lb/>
@@ -78,9 +78,9 @@ quoy il ne cassera point le <tl><m>verre</m></tl>.</ab>
 
 </div>
 
-<div>
+<div id="p034r_5">
 
-<id>p034r_5</id>
+
 
 <head>Escripre subtillement</head>
 

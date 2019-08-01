@@ -1,11 +1,11 @@
-<root>
-<page>053v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="053v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f112.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f112.image</image>
 
-<div>
 
-<id>p053v_1</id>
+
+<div id="p053v_1" continued="yes">
+
+
 
 <head><al>Vers de soye</al></head>
 
@@ -13,7 +13,7 @@
 vent<lb/>
 
 a l’<ms>once</ms>, qui communem<exp>ent</exp> se vent en
-<pl>Languedoc</pl> iii <ms>lb</ms> v <cn>s</cn>.<comment>c_053v_02</comment> Celle
+<pl>Languedoc</pl> iii <ms>lb</ms> v <cn>s</cn>.<comment rid="c_053v_02"/> Celle
 d’<pl>Espaigne</pl><lb/>
 
 que les <pro>marchans</pro> y aportent est estimée la meilleure pource
@@ -116,9 +116,9 @@ Pentecoste</tmp>, elles comancent à vouloir monster à des branches<lb/>
 seiches de <pa>brande</pa> ou <pa>bruyere</pa> qu’on leur præpare
 <del>en</del> &amp; attache</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Voy <la><pn>Hieronymus<lb/>
 
@@ -132,15 +132,15 @@ de <al>bombicum</al> natura.</la>
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Coment on les <lb/>
 remue
 
 </ab>
-<cont/>
+
 
 </div>
 </root>

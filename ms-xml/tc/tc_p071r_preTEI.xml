@@ -1,11 +1,11 @@
-<root>
-<page>071r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="071r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f147.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f147.image</image>
 
-<div>
 
-<id>p071r_1</id>
+
+<div id="p071r_1">
+
+
 
 <head><m>Ambre</m></head>
 
@@ -20,9 +20,9 @@ sil est glace</ab>
 
 </div>
 
-<div>
+<div id="p071r_2">
 
-<id>p071r_2</id>
+
 
 <head><m>Bois madre</m></head>
 
@@ -39,9 +39,9 @@ on le vernist</ab>
 
 </div>
 
-<div>
+<div id="p071r_3">
 
-<id>p071r_3</id>
+
 
 <head><m>Vin</m> brusle et sucre</head>
 
@@ -78,9 +78,9 @@ chault quilz peuvent<lb/>
 
 pour se gaigner un morfondiment</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Les vulgaires<lb/>
 
@@ -116,9 +116,9 @@ leur pays
 
 </div>
 
-<div>
+<div id="p071r_4">
 
-<id>p071r_4</id>
+
 
 <head><al>Chevaulx</al> las</head>
 
@@ -132,9 +132,9 @@ plus grande courvee</ab>
 
 </div>
 
-<div>
+<div id="p071r_5">
 
-<id>p071r_5</id>
+
 
 <head><m>Eau de vye</m></head>
 

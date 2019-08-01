@@ -1,10 +1,10 @@
-<root>
-<page>051r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="051r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f107.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f107.image</image>
 
-<div>
-<id>p051r_1</id>
+
+
+<div id="p051r_1">
+
 <head>Contretirer</head>
 
 <ab>Fais de l<m>eau de savon</m> &amp; dicelle frotte &amp; humecte la
@@ -50,8 +50,8 @@ est</ab>
 
 </div>
 
-<div>
-<id>p051r_2</id>
+<div id="p051r_2" continued="yes">
+
 <head><pro>Tailleurs en <tl>planches</tl></pro></head>
 
 <ab>Pour nettoyer les <tl>planches de <m>cuivre</m></tl> ou pour mieulx
@@ -100,8 +100,8 @@ Tu pourrois faire cela au <m>verres</m> histories &amp; couche de<lb/>
 sur le descouvert Pour faire l<m>ancre</m> pour <tl>planches de
 <m>cuivre</m></tl></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Ces <tl>rouleaus</tl><lb/>
 
 sont bons pour<lb/>
@@ -116,8 +116,8 @@ diverses sortes<lb/>
 
 de <m>pastes</m></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 On peult mectre<lb/>
 
 les <tl>planches</tl> parmy<lb/>
@@ -130,7 +130,7 @@ affinee ou bien
 
 dans un <tl>pot</tl></ab>
 
-<cont/>
+
 
 </div>
 </root>

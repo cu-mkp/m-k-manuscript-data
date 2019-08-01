@@ -1,10 +1,10 @@
-<root>
-<page>081v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="081v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f168.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f168.image</image>
 
-<div>
-<id>p081v_1</id>
+
+
+<div id="p081v_1">
+
 <head><m>Sand</m></head>
 
 <ab>Only <m>brick</m>, very finely sifted, &amp; worn down one against
@@ -13,20 +13,20 @@ mixed with <m><bp>urine</bp></m>. This needs to be of that <m>whitish
 brick</m>.</ab>
 
 </div>
-<div>
-<id>p081v_2</id>
+<div id="p081v_2">
+
 <head>Making <m>copper</m> and <m>latten</m> run</head>
 
 <ab>Put in at the end, when it is very hot &amp; when you want to cast,
 <m>sal ammoniac</m> &amp; <m>saltpeter</m>, which removes <m>filth</m>
 &amp; heats it. Mix some <m><fr>ardides</fr></m> with the <m>latten</m>.
- Guard against the <m><fr>metal</fr></m><comment>c_016v_05</comment> touching the <m>iron</m> or the
+ Guard against the <m><fr>metal</fr></m><comment rid="c_016v_05"/> touching the <m>iron</m> or the
 <m>latten</m> of the <tl>frame</tl>, but cover it with <m>sand</m> or
 <m><tl>lute</tl></m>. Do the casting very evenly.</ab>
 
 </div>
-<div>
-<id>p081v_3</id>
+<div id="p081v_3">
+
 <head><m>Sand</m></head>
 
 <ab><m>Calcined black pebbles from the <env>river</env></m> are good for
@@ -42,8 +42,8 @@ make <m>tiles</m></m>, reheated &amp; reddened &amp; passed through a
 <ab><m>Latten</m> runs better.</ab>
 
 </div>
-<div>
-<id>p081v_4</id>
+<div id="p081v_4">
+
 <head><tl>Frame</tl> casting</head>
 
 <ab>It is good to make it with <m><pa>boxwood</pa></m>. Turn it in order
@@ -57,7 +57,7 @@ wide or too deep because the narrower, the better. For when it is big,
 the weight of the substance that runs breaks &amp; shakes loose the
 <tl>mold</tl> &amp; makes it porous. When you have cast, gently tap the
 <tl>frame</tl>, in order that the substance spreads better. <m>Black lead of
-<fr>saulmon</fr></m><comment>c_028v_04</comment> from the first melting makes a very neat one.</ab>
+<fr>saulmon</fr></m><comment rid="c_028v_04"/> from the first melting makes a very neat one.</ab>
 
 </div>
 </root>

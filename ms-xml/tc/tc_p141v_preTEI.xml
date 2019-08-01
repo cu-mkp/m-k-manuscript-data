@@ -1,13 +1,13 @@
-<root>
-<page>141v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="141v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f288.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f288.image</image>
 
-<div>
 
-<cont/>
 
-<id>p141r_1</id>
+<div continues="yes" id="p141r_1" continued="yes">
+
+
+
+
 
 <ab>
 
@@ -95,9 +95,9 @@ pliee &amp; recourvee pour tenir ses œufs Les aultres animaulx
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Asseure ce qui se<lb/>
 
@@ -115,19 +115,19 @@ dessoubs
 
 </ab>
 
-<figure>
+<figure id="fig_p141v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5R0NIbHoyNTNQRlk">
 
-<id>fig_p141v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5R0NIbHoyNTNQRlk</link>
+
+
+
 
 </figure>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Descouvre le plus<lb/>
 
@@ -143,9 +143,9 @@ en despouille
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Fais pancher le<lb/>
 
@@ -157,9 +157,9 @@ de lanimal
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Pour la paindre<lb/>
 
@@ -193,9 +193,9 @@ pour limiter
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Couche les cornes sur les grosses<lb/>
 
@@ -205,9 +205,9 @@ blanchi</m> &amp; les <m>soulde</m>
 
 </ab>
 
-<ab>
+<ab margin="bottom">
 
-<margin>bottom</margin>
+
 
 Advise bien <del>d</del>en moulant de disposer tellement les jambes<lb/>
 
@@ -218,7 +218,7 @@ les posant elles sassoyent bien sur le ventre Aultrement les<lb/>
 
 <ill/> remuroient</ab>
 
-<cont/>
+
 
 </div>
 </root>

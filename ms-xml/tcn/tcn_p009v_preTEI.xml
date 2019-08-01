@@ -1,11 +1,11 @@
-<root>
-<page>009v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="009v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f24.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f24.image</image>
 
-<div>
 
-<id>p009v_1</id>
+
+<div id="p009v_1">
+
+
 
 <head><pro>Painctre</pro></head>
 
@@ -43,9 +43,9 @@ parmy. Le <m>vert de terre</m> ne s’employe poinct à <m>huile</m>.</ab>
 
 
 
-<div>
+<div id="p009v_2">
 
-<id>p009v_2</id>
+
 
 <head><pro>Marchant</pro></head>
 
@@ -59,13 +59,13 @@ appellé le livre de raisons.</ab>
 
 </div>
 
-<div>
+<div id="p009v_3">
 
-<id>p009v_3</id>
+
 
 <head>Brouillart</head>
 
-<ab>Et premierement <pn>François du Cros</pn><comment>c_009v_02</comment> doibt du <tmp>ii<superscript>e</superscript> de<lb/>
+<ab>Et premierement <pn>François du Cros</pn><comment rid="c_009v_02"/> doibt du <tmp>ii<superscript>e</superscript> de<lb/>
 
 septembre 1581</tmp>, po<exp>ur</exp> i <ms>cane</ms> <m>toille
 babtiste</m> à 8 <ms><cn>livres</cn><lb/>
@@ -73,9 +73,9 @@ babtiste</m> à 8 <ms><cn>livres</cn><lb/>
 canne</ms>, je dis <mark>--</mark> 8 <ms><cn><corr>lb</corr>
 t.</cn></ms></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <oc>Mudat</oc> au livre<lb/>
 
@@ -91,9 +91,9 @@ canne</ms>, ainsy que appert<lb/>
 
 au brouillart à c. 25.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <oc>Mudat</oc> au livre<lb/>
 

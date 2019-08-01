@@ -1,13 +1,13 @@
-<root>
-<page>112v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="112v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f230.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f230.image</image>
 
-<div>
 
-<cont/>
 
-<id>p112r_4</id>
+<div continues="yes" id="p112r_4">
+
+
+
+
 
 <ab>de mouler fais luy prendre par la gueule de bonne <m>eau<lb/>
 
@@ -30,7 +30,7 @@ de<lb/>
 <al>pouls</al> co<exp>mm</exp>e ont les <al>lesards</al> puys laplique
 ainsy</ab>
 
-<ab><margin>left-top</margin>
+<ab margin="left-top">
 
 Or mects en suffisamment<lb/>
 
@@ -44,7 +44,7 @@ Ou tout entier sil nest<lb/>
 
 gueres grand</ab>
 
-<ab><margin>left-top</margin>
+<ab margin="left-top">
 
 Advise plustost<lb/>
 
@@ -62,9 +62,9 @@ ou aultre chose</ab>
 
 </div>
 
-<div>
+<div id="p112v_1" continued="yes">
 
-<id>p112v_1</id>
+
 
 <head><del>Mouler</del>Fayre le plant et disposition <lb/>
 
@@ -111,7 +111,7 @@ la teste de lanimal aussy <del>q</del>haulte quil apartient &amp; si la
 peau<lb/>
 
 rentre au dedans <del>&amp;</del> quand tu y mects la
-<tl>poincte</tl><comment>c_112v_01</comment> retire la avecq<lb/>
+<tl>poincte</tl><comment rid="c_112v_01"/> retire la avecq<lb/>
 
 l<del>a</del>e <del><tl>poincte</tl></del> bout de tes <tl>petites
 molletes</tl> &amp; la disposes co<exp>mm</exp>e elle estoit
@@ -145,7 +145,7 @@ par lanimal se plantent dans la <po>tourtelle</po> de terre non pas<lb/>
 
 si avant quelles nexcedent un peu le corps de lanimal par un</ab>
 
-<ab><margin>left-top</margin>
+<ab margin="left-top">
 
 Aye une <tl>aiguille<lb/>
 
@@ -215,15 +215,15 @@ remect la peau en son premier<lb/>
 
 estat</ab>
 
-<ab><margin>left-bottom</margin>
+<ab margin="left-bottom">
 
-<hr/><comment>c_112v_02</comment>Quand tu remects les <tl>pointes</tl><lb/>
+<hr/><comment rid="c_112v_02"/>Quand tu remects les <tl>pointes</tl><lb/>
 
 qui ont servi nettoye les bien de la <m>rouille</m><lb/>
 
 affin quelles ne retirent la peau<hr/></ab>
 
-<ab><margin>bottom</margin>
+<ab margin="bottom">
 
 La principalle disposition du plant est de <del>di</del> bien<lb/>
 
@@ -236,17 +236,17 @@ dessoubs<lb/>
 
 de la gorge <del>sarrestan</del> entrant dans le test superieur
 
-<figure>
+<figure id="fig_p112v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5c3dzVlNzcUd6MnM">
 
-<id>fig_p112v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5c3dzVlNzcUd6MnM</link>
+
+
 
 </figure>
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

@@ -1,37 +1,37 @@
-<root>
-<page>026r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="026r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f57.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f57.item</image>
 
-<div>
 
-<id>p026r_1</id>
+
+<div id="p026r_1">
+
+
     
 <head>Cannonball</head>
-<ab>
+<ab margin="top" render="wide">
 
-<margin>top</margin>
 
-<render>wide</render>
+
+
 
 <emph>This is the true measure of the caliber, but the <tl>borer</tl>
 always takes away a little more.</emph></ab>
 
-<figure>
+<figure id="fig_p026r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SHVaaE9oQjRySlE">
 
-<id>fig_p026r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SHVaaE9oQjRySlE</link>
+
+
 
 </figure>
 
 </div>
 
-<div>
+<div id="p026r_2">
 
-<id>p026r_2</id>
 
-<head>Petard<comment>c_008r_04</comment></head>
+
+<head>Petard<comment rid="c_008r_04"/></head>
 
 <ab>They are made better in crucible form, <del>hollow at the</del>
 narrower at the bottom &amp; becoming larger toward the muzzle. It is
@@ -42,13 +42,13 @@ greater force. The ball only makes a hole, the <m>powder</m> alone makes
 more of an effect. One holds that, once loaded &amp; kept in a dry place
 for fifteen days, they have more force.</ab>
 
-<figure>
+<figure id="fig_p026r_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UGxoanZwVEw2akE">
 
-<id>fig_p026r_2</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5UGxoanZwVEw2akE</link>
+
+
+
 
 </figure>
 

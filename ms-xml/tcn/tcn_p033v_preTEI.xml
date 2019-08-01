@@ -1,11 +1,11 @@
-<root>
-<page>033v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="033v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f72.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f72.image</image>
 
-<div>
 
-<id>p033v_1</id>
+
+<div id="p033v_1">
+
+
 
 <head>Pour fayre sembler <del>que</del> à quelqu’u<exp>n</exp><lb/>
 
@@ -41,9 +41,9 @@ de la <sn>froideur</sn> de la <m><bp>salive</bp></m>, il secouera les
 
 </div>
 
-<div>
+<div id="p033v_2">
 
-<id>p033v_2</id>
+
 
 <head>Pour fayre sortir du <bp>front</bp> de<lb/>
 
@@ -51,13 +51,13 @@ quelqu’un du <m><bp>sang</bp></m> ou du <m>vin</m>, ou d’une<lb/>
 
 <env>muraille</env></head>
 
-<figure>
+<figure id="fig_p033v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MXk2RzNQdF9aeDg">
 
-<id>fig_p033v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5MXk2RzNQdF9aeDg</link>
+
+
+
 
 </figure>
 
@@ -114,9 +114,9 @@ percer le <bp>front</bp> à un qui tient un <tl><m>verre</m></tl> en la
 que tu perces tu couvres ton faict avecq l’<tl><oc>ambu</oc></tl> que tu
 tiens pres du <mark>#</mark></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>#</mark>
 

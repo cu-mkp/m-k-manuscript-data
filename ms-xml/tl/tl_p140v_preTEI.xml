@@ -1,13 +1,13 @@
-<root>
-<page>140v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="140v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f286.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f286.item.r=</image>
 
-<div>
 
-<cont/>
 
-<id>p139v_1</id>
+<div continues="yes" id="p139v_1">
+
+
+
+
 
 <ab>
 
@@ -18,13 +18,13 @@ neatly. And then, you can cast on this one its hollow form in
 <m>copper</m>, <m>gold</m>, and <m>silver</m>, and make seals of great
 singularity.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 <emph>Seals</emph></ab>
 
 </div>
 
-<div>
-<id>p140v_1</id>
+<div id="p140v_1">
+
 <head>For casting in <m>sulfur</m></head>
 
 <ab>
@@ -33,16 +33,16 @@ To cast neatly in <m>sulfur</m>, arrange the <m>bread pith</m> under the
 <tl>brazier</tl>, as you know. Mold in it what you want &amp; let dry
 &amp; you will have very neat work.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 Try <m>sulfur</m> passed through <m>melted wax</m>, because it no longer
 inflames &amp; no longer makes eyelets.</ab>
 
 </div>
 
-<div>
-<id>p140v_2</id>
+<div id="p140v_2">
+
 <head>Molding and shrinking a large figure</head>
 
 <ab>
@@ -59,8 +59,8 @@ want to let it shrink, make it dry, either more or less.<hr/></ab>
 
 </div>
 
-<div>
-<id>p140v_3</id>
+<div id="p140v_3">
+
 <head>Cast of <m>lead</m> and <m>tin</m> in <m>plaster</m></head>
 
 <ab>
@@ -78,10 +78,10 @@ be</del> their <tl>molds</tl> reheated &amp; set ablaze, mix in some
 molded in <m>plaster</m> &amp; <m>brick</m> very neatly &amp; it
 withstood several castings.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top" render="tall">
 
-<render>tall</render>
+
+
 
 <hr/><emph>I tried</emph> <m>plaster</m> &amp;
 <m>brick</m> alone and molded <fr>en noyau</fr> like others. My
@@ -98,8 +98,8 @@ well. Next, I put in for 4 <ms>℥</ms> of
 <m>tin</m> xii <ms><fr>deniers</fr></ms> of <m>lead</m>, it came out
 very well.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 
 When there is nothing to burn in the mold, it is not necessary to reheat
 it for <m>lead</m> &amp; <m>tin</m>. But for flowers &amp; what should

@@ -1,10 +1,10 @@
-<root>
-<page>126r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="126r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f257.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f257.item</image>
 
-<div>
-<id>p126r_1</id>
+
+
+<div id="p126r_1">
+
 <head>Mouler fruicts en <m>sucre</m><lb/>
 
 et animaulx</head>
@@ -86,8 +86,8 @@ espars &amp; clair<lb/>
 
 semés.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Pour gecter <pa>poires</pa> &amp;<lb/>
 
 <pa>pommes</pa> en <m>sucre</m>, il ne<lb/>
@@ -132,8 +132,8 @@ recuit co<exp>mm</exp>e<lb/>
 
 tu sçais.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <mark>+</mark>
 
 Il fault que<lb/>
@@ -156,8 +156,8 @@ tu gectes en<lb/>
 
 <m>sucre</m>.</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
+
 Le signe que<lb/>
 
 le <m>cirop</m> ou<lb/>

@@ -1,10 +1,10 @@
-<root>
-<page>160v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="160v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f326.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f326.item.r=</image>
 
-<div>
-<id>p160v_1</id>
+
+
+<div id="p160v_1">
+
 <head>Mouler un <bp>pied</bp> ou <bp>main</bp></head>
 
 <ab>Mesle de la <m>rousine</m> parmy la <m>cire</m>, &amp; l’ayant
@@ -20,8 +20,8 @@ bien.</ab>
 
 </div>
 
-<div>
-<id>p160v_2</id>
+<div id="p160v_2">
+
 <head>Ouvraige subtil d’<m>or</m> et d’<m>argent</m></head>
 
 <ab>Il s’en peult fayre des <al>mouches</al> à la main sans gect,
@@ -38,8 +38,8 @@ pource qu’ilz fonderoient. Et l’ouvraige d’<m>or</m> se peult
 
 </div>
 
-<div>
-<id>p160v_3</id>
+<div id="p160v_3">
+
 <head>Prendre <al>escrevisses</al></head>
 
 <ab>Attache au bout d’un <tl>baston</tl> du <m>foye ou poulmon de
@@ -63,8 +63,8 @@ au <tl>panier</tl>.</ab>
 
 </div>
 
-<div>
-<id>p160v_4</id>
+<div id="p160v_4">
+
 <head>Prendre <al>passereaulx</al></head>
 
 <ab>S’ilz couchent <env>aulx <m>pailles</m></env>, co<exp>mm</exp>e ilz
@@ -85,22 +85,22 @@ la <env>chambre</env>. Mays il fault que la <env><tmp>nuit</tmp> soict obscure<l
 
 </div>
 
-<div>
-<id>p160v_5</id>
+<div id="p160v_5">
+
 <head>Prendre <al>oiseaulx</al></head>
 
 <ab><tmp>En hyver</tmp>, lors que les <al>oiseaulx</al> ont mué,
 escorche les &amp; les<lb/>
 
 remplis de <m>toile de bourre</m> <del>&amp;</del>, <add>ou bien</add>
-seiche les au <tl>four</tl> <mark>#</mark><comment>c_160v_03</comment>. Puys<lb/>
+seiche les au <tl>four</tl> <mark>#</mark><comment rid="c_160v_03"/>. Puys<lb/>
 
 disposes les sur les abres, &amp; en ayes <pro>quelqu’un qui
 cha<exp>n</exp>te</pro>,<lb/>
 
 &amp; en assembleras &amp; prendras force.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 au <tl>four</tl> qui<lb/>
 
@@ -108,7 +108,7 @@ ne soict gueres<lb/>
 
 chault <del><tmp>Lhiver</tmp></del>.<lb/>
 
-<del>il</del>Et<comment>c_160v_04</comment> <tmp>l’esté</tmp> cela<lb/>
+<del>il</del>Et<comment rid="c_160v_04"/> <tmp>l’esté</tmp> cela<lb/>
 
 faict pource que,<lb/>
 

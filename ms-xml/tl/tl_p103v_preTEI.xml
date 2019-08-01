@@ -1,11 +1,11 @@
-<root>
-<page>103v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="103v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f212.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f212.image</image>
 
-<div>
 
-<id>p103v_1</id>
+
+<div id="p103v_1">
+
+
 
 <head><md>Enema</md></head>
 
@@ -19,9 +19,9 @@ in this way, one gives the <md>enema</md>.</ab>
 
 </div>
 
-<div>
+<div id="p103v_2">
 
-<id>p103v_2</id>
+
 
 <head>Cast</head>
 
@@ -35,9 +35,9 @@ sand</m>, with which one first covers the medal to the <ms>thickness of a
 
 </div>
 
-<div>
+<div id="p103v_3">
 
-<id>p103v_3</id>
+
 
 <head>For making colors run</head>
 
@@ -51,9 +51,9 @@ run.</ab>
 
 </div>
 
-<div>
+<div id="p103v_4">
 
-<id>p103v_4</id>
+
 
 <head><m><bp>Earwax</bp></m></head>
 
@@ -65,9 +65,9 @@ those who have a <md><bp>headache</bp></md>, all the <m>foam</m> will dissipate.
 
 </div>
 
-<div>
+<div id="p103v_5">
 
-<id>p103v_5</id>
+
 
 <head><m>Enamels</m></head>
 

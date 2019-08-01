@@ -1,11 +1,11 @@
-<root>
-<page>169r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="169r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f343.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f343.item</image>
 
-<div>
 
-<id>p169r_1</id>
+
+<div id="p169r_1">
+
+
 <head><sup>List of processes</sup></head>
 <ab><underline>Molding <al>turtles</al></underline></ab>
 
@@ -21,7 +21,7 @@
 
 <ab>Molding a vessel in a <tl>frame</tl></ab>
 
-<ab>Molding <la><pa>capilli veneris</pa><comment>c_037r_01</comment></la><lb/>
+<ab>Molding <la><pa>capilli veneris</pa><comment rid="c_037r_01"/></la><lb/>
 
 &amp; plants that need<lb/>
 

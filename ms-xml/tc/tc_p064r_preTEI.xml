@@ -1,11 +1,11 @@
-<root>
-<page>064r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="064r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f133.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f133.image</image>
 
-<div>
 
-<id>p064r_1</id>
+
+<div id="p064r_1">
+
+
 
 <head>Nettement travailler</head>
 
@@ -33,9 +33,9 @@ couleurs ne se trouvant pas si espesses</ab>
 
 </div>
 
-<div>
+<div id="p064r_2">
 
-<id>p064r_2</id>
+
 
 <head><m>Huile gras</m></head>
 
@@ -50,14 +50,14 @@ pourras<lb/>
 
 </div>
 
-<div>
+<div id="p064r_3">
 
-<id>p064r_3</id>
+
 
 <head><m>Vermeillon</m></head>
 
 <ab>Il ne le fault pas tenir en l<m>eau</m> estant <del>tremper</del>
-<add>broye</add><comment>c_064r_01</comment> a <m>huile</m> car<lb/>
+<add>broye</add><comment rid="c_064r_01"/> a <m>huile</m> car<lb/>
 
 il pert sa couleur Il est mieulx de choisir du <m>vermeillon</m><lb/>
 
@@ -76,9 +76,9 @@ du <m>cristallin calcine</m></ab>
 
 </div>
 
-<div>
+<div id="p064r_4">
 
-<id>p064r_4</id>
+
 
 <head>Couleurs a <m>huile</m> dans l<m>eau</m></head>
 
@@ -97,13 +97,13 @@ y meurt &amp; perd sa couleur le <m>vermeillon</m> <m>azur</m> aussy</ab>
 
 </div>
 
-<div>
+<div id="p064r_5">
 
-<id>p064r_5</id>
+
 
 <head>Double couche</head>
 
-<ab>Le <m>vert <add>de gris</add><comment>c_064r_02</comment></m> ne se
+<ab>Le <m>vert <add>de gris</add><comment rid="c_064r_02"/></m> ne se
 meurt poinct &amp; ainsy na point besoing destre couch<ups>e</ups><lb/>
 
 deulx foys Mays la <m>laque</m> &amp; aultres &amp;
@@ -116,11 +116,11 @@ quand elles sont seiches</ab>
 
 </div>
 
-<div>
+<div id="p064r_6" margin="left-top">
 
-<id>p064r_6</id>
 
-<margin>left-top</margin>
+
+
 
 <head><m>Ocre<lb/>
 
@@ -136,11 +136,11 @@ carnation</ab>
 
 </div>
 
-<div>
+<div id="p064r_7" margin="left-middle">
 
-<id>p064r_7</id>
 
-<margin>left-middle</margin>
+
+
 
 <head>Adoulcir</head>
 
@@ -168,11 +168,11 @@ plus rude</ab>
 
 </div>
 
-<div>
+<div id="p064r_8" margin="left-bottom">
 
-<id>p064r_8</id>
 
-<margin>left-bottom</margin>
+
+
 
 <head>Œil</head>
 

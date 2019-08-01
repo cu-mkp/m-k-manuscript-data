@@ -1,10 +1,10 @@
-<root>
-<page>085v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="085v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f176.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f176.image</image>
 
-<div>
-<id>p085v_1</id>
+
+
+<div id="p085v_1">
+
 <head><pro>Fondeur</pro></head>
 
 <ab>Ils meslent de la <m>glaire dœufs battue</m> avecq la <m>terre de
@@ -29,11 +29,11 @@ petit ouvraige</ab>
 
 </div>
 
-<div>
-<id>p085v_2</id>
+<div id="p085v_2">
+
 <head><tl>Mortiers</tl></head>
 
-<ab>Ils<comment>c_085v_01</comment> fault quilz soient de la plus fine
+<ab>Ils<comment rid="c_085v_01"/> fault quilz soient de la plus fine
 matiere qui se puisse co<exp>mm</exp>e<lb/>
 
 le <m>cuivre de chauldron</m> qui est meilleur que la <m>rosette</m>
@@ -49,7 +49,7 @@ dangereulx de se rompre sils sont de <m>cuivre fin</m> Et pour une<lb/>
 <env>mayson particuliere</env> ilz ne <sn>sonnent</sn> point tant &amp;
 ne <sn>menent</sn> point ta<exp>n</exp>t<lb/>
 
-de bruict que ceulx de <m>metal</m><comment>c_016v_05</comment> Il est vray que ceulx qui sont
+de bruict que ceulx de <m>metal</m><comment rid="c_016v_05"/> Il est vray que ceulx qui sont
 de<lb/>
 
 <m>metal</m> sont plus <sn>sonans</sn> pour les
@@ -59,8 +59,8 @@ de<lb/>
 
 </div>
 
-<div>
-<id>p085v_3</id>
+<div id="p085v_3">
+
 <head><m>Sable de <env>mine</env></m></head>
 
 <ab>Il veult estre bien recuict pour les <m>grands metaulx</m>
@@ -72,7 +72,7 @@ le<lb/>
 subtilient sur le <tl><m>porphire</m></tl> Aultres le bruslent avecq
 de<lb/>
 
-l<m>aspalte</m> <comment>c_085v_02</comment>Mays quand il est trop
+l<m>aspalte</m> <comment rid="c_085v_02"/>Mays quand il est trop
 brusle il ne moule pas si net<lb/>
 
 pourcequil nha pas de corps et est trop maigre tu luy en pourras donner
@@ -81,8 +81,8 @@ avecq du <m>tripoly</m> ou<lb/>
 <m>feultre brusle</m></ab>
 
 </div>
-<div>
-<id>p085v_4</id>
+<div id="p085v_4" continued="yes">
+
 <head><m>Sables experimentes</m></head>
 
 <ab>Jay experimente le <m>sable de
@@ -111,16 +111,16 @@ cave<lb/>
 &amp; de l<ms>espesseur dune piece de quarante <cn>sols</cn></ms> Jay
 gecte treschault</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 <mark>X</mark>
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 Le <m>sable de <env>mine</env></m><lb/>
 
 bien choisy &amp; bien<lb/>
@@ -151,7 +151,7 @@ nha pas asses de corps<lb/>
 
 pour soubstenir</ab>
 
-<cont/>
+
 
 </div>
 </root>

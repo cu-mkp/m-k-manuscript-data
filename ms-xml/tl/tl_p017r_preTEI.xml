@@ -1,11 +1,11 @@
-<root>
-<page>017r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="017r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f39.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f39.image</image>
 
-<div>
 
-<id>p017r_1</id>
+
+<div id="p017r_1" continued="yes">
+
+
 
 <head>On the <pro>gunner</pro></head>
 
@@ -50,36 +50,36 @@ thickness <del><fr>ce</fr></del> the length that they would have by the
 <ms><pro><pn>King</pn></pro>’s <fr>pan</fr></ms>, by which measure they
 will be found longer. But also they would be thinner. <del>The
 great</del> <del><wp>canno</wp></del> The strength of the <wp>cannon-perrier</wp> for
-making a battery is 4xx<comment>c_017v_02</comment> <ms>paces</ms>.</ab>
+making a battery is 4xx<comment rid="c_017v_02"/> <ms>paces</ms>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 The <add>great</add> <wp>cannon</wp>, because of the weight of its ball, carries
 a range of only a thousand or xii hundred <ms>paces</ms> without
 landing, &amp;bouncing, it commonly bounces iii times.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 The <wp>cannon-perrier</wp> does not have a large effect if not close.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 One recognizes the good alloy of a <wp>piece</wp> by seeing it. For if, with the
 greenness which they expel on the surface, they redden, that is to say
 that they are composed of a sufficient quantity of
-<m>rosette</m>. If not, they are only of <m><fr>metal</fr></m>,<comment>c_016v_05</comment> which
+<m>rosette</m>. If not, they are only of <m><fr>metal</fr></m>,<comment rid="c_016v_05"/> which
 shows up whitish. If they themselves do not make this demonstration,
 scratch &amp; you will see. </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 The good alloy for <wp>pieces</wp> is of <ms>three parts of
 <m>rosette</m> &amp; one of the <m>fine <fr>metal</fr> of
@@ -88,19 +88,19 @@ The good alloy for <wp>pieces</wp> is of <ms>three parts of
 <m><fr>metal</fr></m> commonly costs xv <ms><cn>lb</cn></ms> &amp; <m>fine
 rosette</m> xv or xvi.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 The <ms><df><fr>pan</fr> of <pl>Montpellier</pl></df></ms> is equivalent
 to six of the <ms><df><pro><pn>King</pn></pro>’s inches</df></ms>, which
 contains in it two common ones. </ab>
 
-<ab>
+<ab margin="left-bottom" render="wide">
 
-<margin>left-bottom</margin>
 
-<render>wide</render>
+
+
 
 It is necessary, for <del>a</del> mounting a <wp>piece</wp> well, that it be as
 high at the side of the mouth as at the breech. Otherwise, one does not
@@ -108,7 +108,7 @@ mount well.
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

@@ -1,14 +1,13 @@
-<root>
-<page>119r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="119r" image="http:/ /gallica.bnf.fr/ark:/12148/btv1b10500001g/f243.image">
 
-<image>http:/
-    /gallica.bnf.fr/ark:/12148/btv1b10500001g/f243.image</image>
 
-<div>
 
-<cont/>
 
-<id>p118v_1</id>
+<div continues="yes" id="p118v_1">
+
+
+
+
 
 <ab> As I saw that they did not <m>smoke</m> anymore, &amp; that, scratching
 the back &amp; the front of the cast &amp; having found that they are
@@ -27,12 +26,12 @@ down</add>. And wanting to cast, I threw in two or three
 <ms>grains</ms> of something like <m>pitch rosin</m>, &amp; when &amp; when the
 <ms>size of a <pa>bean</pa></ms> of <m>looking-glass tin</m> &amp; I
 mixed, &amp; stirred a little the <tl><oc>crucible</oc></tl>, and I cast. And the
-medal came out as neat as the principal.<comment>c_137r_03</comment> I <m>smoked</m> it with the
+medal came out as neat as the principal.<comment rid="c_137r_03"/> I <m>smoked</m> it with the
 <tl><m>candle</m></tl> &amp; cleaned it with <tl>small
 brushes</tl>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Always cast through the foot of the medal because the head, which is
 lower, will come out better, &amp; make the cast longish. And when you
 will cast in a <tl>large frame</tl> several medals, they will come out
@@ -40,8 +39,8 @@ better.</ab>
 
 </div>
 
-<div>
-<id>p119r_1</id>
+<div id="p119r_1">
+
 <head>Advice about the above</head>
 
 <ab><df><m>Good tin</m></df> is that which is hard as <m>silver</m>
@@ -60,7 +59,7 @@ be reheated &amp; reddened on the fire.</ab>
 <tl><bp>hand</bp></tl> when pressed.</ab>
 
 <ab>The <m>perfect sand for the <tl>frame</tl></m> is
-<m><fr>aspalt</fr></m><comment>c_119r_01</comment> which is found in
+<m><fr>aspalt</fr></m><comment rid="c_119r_01"/> which is found in
 <pl>Germany</pl>, which is soft as <m>flour</m> <del>&amp; almo</del>
 when wet, and almost all the others are lumpy.</ab>
 

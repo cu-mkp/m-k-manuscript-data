@@ -1,11 +1,11 @@
-<root>
-<page>130r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="130r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f265.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f265.item.r=</image>
 
-<div>
 
-<id>p130r_1</id>
+
+<div id="p130r_1">
+
+
 
 <head>Animaulx sechés au <tl>four</tl></head>
 
@@ -24,7 +24,7 @@ table</tl>, leur donnant le plant &amp; desmarche convenable.
 Estant<lb/>
 
 ainsy attaché par les pieds <add>avec de <tl>petits aneaulx de <m>fil de
-fer</m></tl> ainsy</add><comment>c_130r_02</comment>, il les faut pendre
+fer</m></tl> ainsy</add><comment rid="c_130r_02"/>, il les faut pendre
 <env>au soleil</env><lb/>
 
 l’eschine en bas. En ceste sorte ils prenent <del>&amp;d</del> leur ply
@@ -54,15 +54,15 @@ cornes, des aisles &amp; semblables fantasies. Ainsy des <al>rats</al>
 
 touts animaulx.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<comment>c_130r_03</comment><figure>
 
-<id>fig_p130r</id>
+<comment rid="c_130r_03"/><figure id="fig_p130r" link="https://drive.google.com/open?id=0B9-oNrvWdlO5cHVsNnNVQ1l5RnM">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5cHVsNnNVQ1l5RnM</link>
+
+
+
 
 </figure> qui embrassant<lb/>
 
@@ -76,9 +76,9 @@ d’<m>ardille</m>.</ab>
 
 </div>
 
-<div>
+<div id="p130r_2">
 
-<id>p130r_2</id>
+
 
 <head>Pour rougir les <al>escrevisses</al> vives,<lb/>
 
@@ -92,9 +92,9 @@ co<exp>mm</exp>e cuittes &amp; chemi<exp>n</exp>eront.</ab>
 
 </div>
 
-<div>
+<div id="p130r_3">
 
-<id>p130r_3</id>
+
 
 <head>Mouler une <al>yraigne</al> seule</head>
 
@@ -108,9 +108,9 @@ jusques<lb/>
 
 à la moictié des jambes puys fais le second gect.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <corr><del>Affin</del></corr><lb/>
 
@@ -138,9 +138,9 @@ bien.</ab>
 
 </div>
 
-<div>
+<div id="p130r_4">
 
-<id>p130r_4</id>
+
 
 <head>Mouler une feuille de <pa>vigne</pa> seule</head>
 

@@ -1,11 +1,11 @@
-<root>
-<page>072v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="072v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f150.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f150.image</image>
 
-<div>
 
-<id>p072v_1</id>
+
+<div id="p072v_1">
+
+
 
 <head>Gect</head>
 
@@ -106,17 +106,17 @@ gecter Mays elle<lb/>
 
 est brusque</ab>
 
-<ab>
+<ab margin="top">
 
-<margin>top</margin>
+
 
 Pour faire couler bien le <m>plomb</m><lb/>
 
 on mect un peu d<m>argent vif</m> dedans</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Frotte l<m>os de <al>seiche</al></m> sur une <tl>table<lb/>
 
@@ -126,9 +126,9 @@ laultre &amp; traverse les deus <m>os</m> avecq<lb/>
 
 des <tl>chevilles</tl> pour remarquer la place</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 L<tl><m>os de <al>seiche</al></m></tl><lb/>
 
@@ -150,9 +150,9 @@ Car la <m>mœlle</m> y<lb/>
 
 est plus delicate</del></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 La <m>mœlle de los</m><lb/>
 
@@ -172,9 +172,9 @@ calcinee est bonne<lb/>
 
 pour faire <m>sable</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Quand tu gectes du<lb/>
 
@@ -208,9 +208,9 @@ reposer un peu<lb/>
 
 devant que gecter</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Aulcuns co<exp>mm</exp>e les<lb/>
 
@@ -230,9 +230,9 @@ cela le rend brusc<lb/>
 
 le <tl>marteau</tl></ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 Ayes une <tl>gratte<lb/>
 

@@ -1,10 +1,10 @@
-<root>
-<page>087v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="087v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f180.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f180.image</image>
 
-<div>
-<id>p087v_1</id>
+
+
+<div id="p087v_1">
+
 <head><m>Sable</m>, <m>ardoise</m>, et <m>terre bruslée</m></head>
 
 <ab>Le <m>sable fort bruslé</m> perd sa liaison. L’<m>ardoise</m> se
@@ -16,8 +16,8 @@ co<exp>mm</exp>e faict<lb/>
 aussy la <m>terre bruslée</m>, co<exp>mm</exp>e faict aussy tout
 <m>sable gras</m>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Je trouve qu’il ne fault<lb/>
 
 poinct frapper sur les <m>sables fort subtiliés</m>,<lb/>
@@ -35,8 +35,8 @@ et les humecter<lb/>
 assés.</ab>
 
 </div>
-<div>
-<id>p087v_2</id>
+<div id="p087v_2">
+
 <head><m>Magistra</m></head>
 
 <ab>Les <pro>fondeurs</pro> prenent de la <m>racine de jeune
@@ -49,8 +49,8 @@ et en font provision pour <tmp>tout l’an</tmp> dans un
 <tl>barriquet</tl>.</ab>
 
 </div>
-<div>
-<id>p087v_3</id>
+<div id="p087v_3">
+
 <head><m>Sable de <env>mine</env> de
 <pl>Th<exp>ou</exp>l<exp>ous</exp>e</pl></m></head>
 
@@ -124,8 +124,8 @@ s’embrassent<lb/>
 moule <tmp>en un jour</tmp>. Recuits lentem<exp>ent</exp> le
 <tmp>lendemain</tmp>, puys jectes l’aultre.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Il le fault choisir<lb/>
 
 qui soict <del>co<exp>mm</exp>e</del> en<lb/>
@@ -140,10 +140,10 @@ trouve <env>en hault</env> participe trop de<lb/>
 
 la <m>terre</m>, et le bas<lb/>
 
-tient du <m>rocher</m>.<comment>c_087v_01</comment></ab>
+tient du <m>rocher</m>.<comment rid="c_087v_01"/></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 J’en ay moulé de<lb/>
 
 <m>plomb pur</m> gecté fort<lb/>
@@ -152,7 +152,7 @@ J’en ay moulé de<lb/>
 
 eu l’exemple co<exp>mm</exp>e le<lb/>
 
-principal<comment>c_137r_03</comment> tres net,<lb/>
+principal<comment rid="c_137r_03"/> tres net,<lb/>
 
 mays le <m>vinaigre</m><lb/>
 

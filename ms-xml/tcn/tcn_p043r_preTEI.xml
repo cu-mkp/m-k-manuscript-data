@@ -1,10 +1,10 @@
-<root>
-<page>043r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="043r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f91.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f91.image</image>
 
-<div>
-<id>p043r_1</id>
+
+
+<div id="p043r_1">
+
 <head><pa>Mericotons</pa> et <pa>pavis</pa></head>
 
 <ab>Il les fault enter <del>en</del> aulx <tmp>advents de Noël</tmp>
@@ -14,8 +14,8 @@ ne gele pas trop.</ab>
 
 </div>
 
-<div>
-<id>p043r_2</id>
+<div id="p043r_2">
+
 <head>Bronzure blanche sur <m>plastre</m></head>
 
 <ab>Il fault donner quattre couches de <m>colle</m> à destrempe des<lb/>
@@ -30,7 +30,7 @@ broyée sur le mabre ou <m>plomb bruslé</m>, broye <del>av</del> &amp;
 destrempe<lb/>
 
 avecq un peu de <m>gomme</m> ou de <del>go</del> <m>colle</m>,
-&amp;<comment>c_043r_02</comment> couche legerement. Estant<lb/>
+&amp;<comment rid="c_043r_02"/> couche legerement. Estant<lb/>
 
 sec, frotte legerem<exp>ent</exp> avecq un peu de <m>cotton</m> et le
 portraict de <m>plastre</m><lb/>
@@ -42,8 +42,8 @@ l’<m>argent vif</m>.</ab>
 
 </div>
 
-<div>
-<id>p043r_3</id>
+<div id="p043r_3">
+
 <head><m>Purpurine</m></head>
 
 <ab><it>℞ <m>stagno</m> dolce, <ms>meza onça</ms>, farlo
@@ -86,8 +86,8 @@ piu bello. Dapoi, si volete, datte <m>vernice</m> sopra</it>.</ab>
 
 </div>
 
-<div>
-<id>p043r_4</id>
+<div id="p043r_4">
+
 <head>Bronzure blanche</head>
 
 <ab>Donne noir à <m>colle</m>, co<exp>mm</exp>e est dict, sur la

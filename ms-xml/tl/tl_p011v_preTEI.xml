@@ -1,11 +1,11 @@
-<root>
-<page>011v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="011v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f28.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f28.image</image>
 
-<div>
 
-<id>p011v_1</id>
+
+<div id="p011v_1">
+
+
 
 <head>Color of <m>damascene steel</m> on <tl>knives</tl></head>
 
@@ -15,9 +15,9 @@
 &amp; the <m>silver</m> will touch as on a
 <tl>touchstone</tl>.</ab></div>
 
-<div>
+<div id="p011v_2">
 
-<id>p011v_2</id>
+
 
 <head><md>For getting rid of the redness of <bp>eyes</bp> or bruising</md></head>
 
@@ -25,9 +25,9 @@
 &amp; with a <tl>head band</tl>, apply to the <bp>eyes</bp> <env>at
 night</env>.</ab></div>
 
-<div>
+<div id="p011v_3">
 
-<id>p011v_3</id>
+
 
 <head>For coating with <m><fr>or mat</fr></m></head>
 
@@ -38,9 +38,9 @@ beautiful.</ab>
 
 </div>
 
-<div>
+<div id="p011v_4">
 
-<id>p011v_4</id>
+
 
 <head>For <tl><m>diamond</m> points</tl> for engraving</head>
 
@@ -56,9 +56,9 @@ is why it does not bite easily on the <m><bp>nail</bp></m>, which is
 polished &amp; fatty. But when the polish is taken off, it bites
 easily.</ab></div>
 
-<div>
+<div id="p011v_5">
 
-<id>p011v_5</id>
+
 
 <head><tl>Polishing wheel of <m>copper</m></tl></head>
 

@@ -1,11 +1,11 @@
-<root>
-<page>149v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="149v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f304.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f304.image</image>
 
-<div>
 
-<id>p149v_1</id>
+
+<div id="p149v_1">
+
+
 
 <head>Mouler vases de plusieurs pieces</head>
 
@@ -22,9 +22,9 @@ aprés, à trois, à quattres, ou plusieurs pieces.</ab>
 
 </div>
 
-<div>
+<div id="p149v_2">
 
-<id>p149v_2</id>
+
 
 <head><m>Souldure</m> d’<m>or</m></head>
 
@@ -35,9 +35,9 @@ co<exp>mm</exp>e sont les <cn>vieulx douzains</cn>.</ab>
 
 </div>
 
-<div>
+<div id="p149v_3">
 
-<id>p149v_3</id>
+
 
 <head>Mouler une <al>mousche</al></head>
 
@@ -64,7 +64,7 @@ fort tanvre</m>. <add>Il ne les fault pas garder estant mortes,<lb/>
 
 pource qu’elle se seichent et les jambes se rompent.</add></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 L’<m>huile de <pa>froment</pa></m><lb/>
 
@@ -92,9 +92,9 @@ leur forme.</ab>
 
 </div>
 
-<div>
+<div id="p149v_4">
 
-<id>p149v_4</id>
+
 
 <head><al>Chauve souris</al></head>
 

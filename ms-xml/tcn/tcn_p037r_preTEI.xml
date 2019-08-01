@@ -1,15 +1,15 @@
-<root>
-<page>037r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="037r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f79.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f79.image</image>
 
-<div>
 
-<id>p037r_1</id>
+
+<div id="p037r_1">
+
+
 
 <head><pro>Fondeur</pro></head>
 
-<ab>Le <m>metal</m><comment>c_016v_05</comment> se blanchist tant plus il est refondu, pource
+<ab>Le <m>metal</m><comment rid="c_016v_05"/> se blanchist tant plus il est refondu, pource
 que<lb/>
 
 l’<m>estaing</m> ne s’en va poinct, ains se mesle d’advantaige. Et
@@ -34,9 +34,9 @@ le <tl>marteau</tl>.</ab>
 
 </div>
 
-<div>
+<div id="p037r_2">
 
-<id>p037r_2</id>
+
 
 <head><md>Medecine pour l’<bp>estomach</bp><lb/>
 
@@ -47,7 +47,7 @@ le <tl>marteau</tl>.</ab>
 Ayes de l’<m><pa>absinthe</pa> en pouldre</m>, dissoubs la en <m>cirop
 de<lb/>
 
-<pa>capilli veneris</pa></m><comment>c_037r_01</comment> ou de <m>confitures</m> &amp; en fais
+<pa>capilli veneris</pa></m><comment rid="c_037r_01"/> ou de <m>confitures</m> &amp; en fais
 oppiatte, duquel<lb/>
 
 tu prendras <ms><tmp>une foys la sepmaine</tmp></ms> dans une <m>ostie
@@ -68,9 +68,9 @@ Cela<lb/>
 
 </div>
 
-<div>
+<div id="p037r_3">
 
-<id>p037r_3</id>
+
 
 <head><m>Fœilles pour <del>le <ill/></del> les pierreries</m></head>
 
@@ -82,9 +82,9 @@ boicte de</ab>
 
 </div>
 
-<div>
+<div id="p037r_4">
 
-<id>p037r_4</id>
+
 
 <head>Pour garder que les <tl>chandelles</tl> ne<lb/>
 

@@ -1,11 +1,11 @@
-<root>
-<page>133r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="133r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f271.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f271.image</image>
 
-<div>
 
-<id>p133r_1</id>
+
+<div id="p133r_1">
+
+
 
 <head><m>Cire dure</m> pour empraindre<lb/>
 
@@ -32,9 +32,9 @@ servent pour esbaucher.</ab>
 
 </div>
 
-<div>
+<div id="p133r_2">
 
-<id>p133r_2</id>
+
 
 <head>Pieds de <al>petit<del>s</del>es lezardes</al><lb/>
 
@@ -60,9 +60,9 @@ d’iceulx vienne d’une piece, tu le peulx bien reparer. Et les escailles
 
 de dessus les orteils viendront bien.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Aulx bouts des ongles<lb/>
 
@@ -75,21 +75,21 @@ un petit rond de<lb/>
 <m>cire</m> pour faire<lb/>
 le gect, ainsy:</ab>
 
-<figure>
+<figure id="fig_p133r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5V2JZcWtNeEJmYWs">
 
-<id>fig_p133r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5V2JZcWtNeEJmYWs</link>
+
+
+
 
 </figure>
 
 </div>
 
-<div>
+<div id="p133r_3">
 
-<id>p133r_3</id>
+
 
 <head>
 
@@ -129,9 +129,9 @@ la gorge pour faire le second gect.</ab>
 
 </div>
 
-<div>
+<div id="p133r_4">
 
-<id>p133r_4</id>
+
 
 <head><tl>Crampons</tl> et <tl>moule</tl> rompu</head>
 
@@ -160,9 +160,9 @@ seur. Si ton<lb/>
 
 &amp; <m><tl>luter</tl></m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>X</mark>
 

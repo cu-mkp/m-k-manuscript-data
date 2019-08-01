@@ -1,11 +1,11 @@
-<root>
-<page>071r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="071r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f147.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f147.image</image>
 
-<div>
 
-<id>p071r_1</id>
+
+<div id="p071r_1">
+
+
 
 <head><m>Amber</m></head>
 
@@ -15,9 +15,9 @@ a <al>goat buck</al> would make it break, principally if it is glazed.</ab>
 
 </div>
 
-<div>
+<div id="p071r_2">
 
-<id>p071r_2</id>
+
 
 <head><m>Wood with streaked grain</m></head>
 
@@ -29,9 +29,9 @@ then one varnishes it.</ab>
 
 </div>
 
-<div>
+<div id="p071r_3">
 
-<id>p071r_3</id>
+
 
 <head>Mulled and sugared <m>wine</m></head>
 
@@ -50,9 +50,9 @@ other, such that you would think you were pouring fire. When the
 <m>cloves</m> &amp; a <ms>sufficient quantity</ms> of <m>sugar</m>. And
 they <del>dri</del> drink it as hot as they can to overcome a cold.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 The common <pl>English</pl> put <m>sugar</m> in <m>wine</m> to imitate
 for themselves the <m>sweet new wine</m> which they cannot have because,
@@ -61,9 +61,9 @@ sweetness and is clarified before it reaches their country.</ab>
 
 </div>
 
-<div>
+<div id="p071r_4">
 
-<id>p071r_4</id>
+
 
 <head>Weary <al>horses</al></head>
 
@@ -71,9 +71,9 @@ sweetness and is clarified before it reaches their country.</ab>
 the aforesaid <m>wine</m> through a <tl>horn</tl>, and it finds itself
 disposed for doing an even greater labor.</ab></div>
 
-<div>
+<div id="p071r_5">
 
-<id>p071r_5</id>
+
 
 <head><m>Eau-de-vie</m></head>
 

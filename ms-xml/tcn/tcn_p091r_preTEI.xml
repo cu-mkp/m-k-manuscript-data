@@ -1,11 +1,11 @@
-<root>
-<page>091r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="091r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f187.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f187.image</image>
 
-<div>
 
-<id>p091r_1</id>
+
+<div id="p091r_1">
+
+
 
 <head>Hanter</head>
 
@@ -56,9 +56,9 @@ faict<lb/>
 belle mise, ains vient caduc &amp; court &amp; long à
 croistre.</ab></div>
 
-<div>
+<div id="p091r_2" continued="yes">
 
-<id>p091r_2</id>
+
 
 <head>Mouler en <tl><m>os de <al>seiche</al></m></tl></head>
 
@@ -118,7 +118,7 @@ voye à la<lb/>
 
 medaille, &amp; puys moule. Et si la medaille est à deulx envers,</ab>
 
-<ab><margin>left-bottom</margin>Plustost que<lb/>
+<ab margin="left-bottom">Plustost que<lb/>
 
 geter, chaufe<lb/>
 
@@ -132,7 +132,7 @@ la froideur<lb/>
 
 &amp; humeur.</ab>
 
-<ab><margin>left-bottom</margin>Quand le<lb/>
+<ab margin="left-bottom">Quand le<lb/>
 
 <m>plomb</m> chaufe<lb/>
 
@@ -140,7 +140,7 @@ trop, il se<lb/>
 
 calcine.</ab>
 
-<cont/>
+
 
 </div>
 </root>

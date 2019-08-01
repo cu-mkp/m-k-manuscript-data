@@ -1,10 +1,10 @@
-<root>
-<page>089v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="089v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f184.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f184.image</image>
 
-<div>
-<id>p089v_1</id>
+
+
+<div id="p089v_1">
+
 <head><m>Sel armoniac</m> et <m>albastre</m></head>
 
 <ab>Le <m>sel armoniac</m> bien pulverise <del>mou</del> &amp; broye a sec sur le <tl><m>mabre</m></tl><lb/>
@@ -43,16 +43,16 @@ co<exp>mm</exp>e <m>pierre</m> &amp; en ceste sorte est plus seur a bien despoui
 
 despouilles sans avoir plustost recuit il y auroit danger quil sesmiast en quelq<exp>ue</exp><lb/>
 
-<comment>c_089v_01</comment>endroit a cause de sa delicatesse &amp; subtilite<lb/>
+<comment rid="c_089v_01"/>endroit a cause de sa delicatesse &amp; subtilite<lb/>
 
 mesmem<exp>ent</exp> si la medaille est de grand<lb/>
 
 relief En ayant moule pulverise<lb/>
 
-le co<exp>mm</exp>e devant et remects <env>a lhumide</env><comment>c_089v_02</comment></ab>
+le co<exp>mm</exp>e devant et remects <env>a lhumide</env><comment rid="c_089v_02"/></ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Tout <m>sable qui<lb/>
 
 despouille bien</m> ha corps<lb/>
@@ -82,8 +82,8 @@ ensemble &amp; se deseichent<lb/>
 &amp; recuisent ensemble</ab>
 
 </div>
-<div>
-<id>p089v_2</id>
+<div id="p089v_2">
+
 <head><m>Sable de <env>mine</env> blanc des <pro>verriers</pro></m><lb/>
 
 mesle de <m>sel armoniac</m></head>
@@ -96,7 +96,7 @@ qui se rend impalpable broye sur le <tl><m>porphire</m></tl> &amp; est aise a br
 
 Et lestant il semble <m>albastre calcine</m> Il moule tresnet Et<lb/>
 
-nen ay point trouve qui moule plus delicat que cestuy la en ba<del>f</del>s<comment>c_089v_03</comment><lb/>
+nen ay point trouve qui moule plus delicat que cestuy la en ba<del>f</del>s<comment rid="c_089v_03"/><lb/>
 
 relief Il est excellent a mouler en noyau sans <tl>chassis</tl> layant broye<lb/>
 
@@ -116,7 +116,7 @@ surpris du chault a coup Il faict quelques trous &amp; pustules<lb/>
 
 Ce quil ne faict pas estant seiche a froit ou A layse plustost<lb/>
 
-questre recuit Estant sec recuits le &amp; il soubstiendra plusieurs<lb/> gects</ab><comment>c_089r_01</comment>
+questre recuit Estant sec recuits le &amp; il soubstiendra plusieurs<lb/> gects</ab><comment rid="c_089r_01"/>
 
 </div>
 </root>

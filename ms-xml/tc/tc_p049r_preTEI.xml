@@ -1,10 +1,10 @@
-<root>
-<page>049r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="049r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f103.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f103.image</image>
 
-<div>
-<id>p049r_1</id>
+
+
+<div id="p049r_1">
+
 <head>Gect de <m>plomb</m></head>
 
 <ab>Ceulx qui gectent ces petits ouvrages qui se vendent devant<lb/>
@@ -35,10 +35,10 @@ l<m>estain</m><lb/>
 Si faict bien <del>a les</del> au <m>plomb pur</m> Ceulx qui font les
 gects<lb/>
 
-de <m>plomb</m> bien nects se servent de <tl>poincons</tl><comment>c_049r_05</comment> Les
+de <m>plomb</m> bien nects se servent de <tl>poincons</tl><comment rid="c_049r_05"/> Les
 <pro>pintiers</pro> gectent<lb/>
 
-en <tl>moulle de <m>cuivre</m></tl><comment>c_049r_03</comment> On dict quon faict prendre le
+en <tl>moulle de <m>cuivre</m></tl><comment rid="c_049r_03"/> On dict quon faict prendre le
 <m>plomb</m> sur le<lb/>
 
 <m>verre</m> avecq de la <m>rousine</m> 
@@ -46,8 +46,8 @@ Aulcuns mectent sur le <m>plomb</m> un <ms>quart</ms><lb/>
 
 d<m>estain</m> L<m>estain de glace</m> rend louvrage plus fort</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <emph><pn>Poncet</pn></emph><lb/>
 
 Ils gectent de<lb/>
@@ -57,7 +57,7 @@ Ils gectent de<lb/>
 les <del><pro>pintiers</pro></del> <add><pro>vitriers</pro></add> se
 servent </ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 Loppe de <m>fer</m><lb/>
 
 <m>Coquille de <del>fer</del> <al>huitre</al><lb/>
@@ -66,15 +66,15 @@ calcinee</m></ab>
 
 </div>
 
-<div>
-<id>p049r_2</id>
+<div id="p049r_2">
+
 <head><m>Sable</m> pour gect de <m>plomb</m></head>
 
 <ab><m>Cendres de paille de <pa>seigle</pa></m> bien bouillie puys
 sechee &amp; bien<lb/>
 
 <tl>tamisee</tl> Lalier avecq <m>glaire dœuf</m>
-<comment>c_049r_04</comment> on y peult getter <m>cuivre</m>
+<comment rid="c_049r_04"/> on y peult getter <m>cuivre</m>
 
 <m>letton</m><lb/>
 
@@ -82,8 +82,8 @@ et aultres</ab>
 
 </div>
 
-<div>
-<id>p049r_3</id>
+<div id="p049r_3">
+
 <head>Aultre</head>
 
 <ab><m>Pierre ponce bruslee &amp; calcinee</m> <m>Os de <al>seiche</al>
@@ -97,8 +97,8 @@ seichee &amp; subtillem<exp>ent</exp> <tl>tamisee</tl> alie avecq
 
 </div>
 
-<div>
-<id>p049r_4</id>
+<div id="p049r_4">
+
 <head><pro>Pintiers</pro></head>
 
 <ab>Ils mectent sur un <ms>quintal</ms> d<m>estaim fin</m> une

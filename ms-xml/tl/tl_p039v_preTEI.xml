@@ -1,10 +1,10 @@
-<root>
-<page>039v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="039v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f84.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f84.image</image>
 
-<div>
-<id>p039v_1</id>
+
+
+<div id="p039v_1">
+
 <head><m>Enamel</m></head>
 
 <ab><m>Enamel</m> takes more readily on <m>copper</m> than on
@@ -14,13 +14,13 @@ enamel</m> &amp; thick green take to it very well. Having
 <m>enamelled</m>, one gilds the <fr>fœillages</fr> of the
 engraving<del><fr><ill/></fr></del>. <m>Copper</m> has a similar
 hardness for engraving as <m>fine silver</m> or
-<m><cn>pistolet</cn><comment>c_039v_01</comment>
+<m><cn>pistolet</cn><comment rid="c_039v_01"/>
 <m>gold</m></m>.</ab>
 
 </div>
 
-<div>
-<id>p039v_2</id>
+<div id="p039v_2">
+
 <head>Colors for illumination on <m>glass</m></head>
 
 <ab>In order that your <m>turpentine</m> colors do not spread, &amp;
@@ -28,8 +28,8 @@ hold together, mix in a little of <m>tear of mastic</m> together with
 the <m>turpentine</m>.</ab>
 
 </div>
-<div>
-<id>p039v_3</id>
+<div id="p039v_3" continued="yes">
+
 <head>Tracing some history on <m>glass</m></head>
 
 <ab>If you want to trace some history in intaglio on <m>glass</m>, you
@@ -56,7 +56,7 @@ which needs to be blank with a quite pointy <tl><m>steel</m> awl</tl>,
 &amp; neatly follow once more the lines &amp; accomplish your work
 &amp; make your faces &amp; flesh tones in <m><fr>argent moulu</fr></m>;
 then you shall fill the background with <m><fr>azur d’esmail</fr></m> or
-<m>verdigris</m> or <m>fine <fr>laque platte</fr></m><comment>c_039v_02</comment> 
+<m>verdigris</m> or <m>fine <fr>laque platte</fr></m><comment rid="c_039v_02"/> 
 <del><fr>platte</fr></del> tempered with <m>clear
 turpentine</m>, mixed with a little of <m>tear of mastic</m> if you want
 that the colors are more even &amp; do not spread. Next, layer on
@@ -65,7 +65,7 @@ sheet. And once this is dry, you can cover the <m>tin</m> sheet
 <del>of</del> with color to hide your secret. The <m>tin</m> sheet gives
 light to the colors. Thus you will be able to paint without being</ab>
 
-<cont/>
+
 
 </div>
 </root>

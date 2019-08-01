@@ -1,10 +1,10 @@
-<root>
-<page>083v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="083v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f172.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f172.item</image>
 
-<div>
-<id>p083v_1</id>
+
+
+<div id="p083v_1">
+
 <head>Forme de mouler excellente<lb/>
 
 avecq <m>eau</m></head>
@@ -23,8 +23,8 @@ estant fort calcines &amp; reduits en <m>eau</m></ab>
 
 </div>
 
-<div>
-<id>p083v_2</id>
+<div id="p083v_2">
+
 <head>Mouler de relief dune part<lb/>
 
 et creux de laultre</head>
@@ -36,7 +36,7 @@ ou<lb/>
 
 moule le cave dans le <m>sable</m> Laisse la figure de <m>metal</m><lb/>
 
-que tus<comment>c_083v_01</comment> as moulee dans le <tl>chassis</tl>
+que tus<comment rid="c_083v_01"/> as moulee dans le <tl>chassis</tl>
 sans la bouger de<lb/>
 
 sa place Et gecte &amp; sil na asses despesseur presse un<lb/>
@@ -90,8 +90,8 @@ est saulpouldre &amp; ponce sec sur la medaille</ab>
 Quand tu moules laisses tousjours v<exp>ost</exp>re medaille dans
 <del>lung</del><lb/>
 
-<add>des</add><comment>c_083v_02</comment> <tl>chassis</tl> <del>Est</del>
-<add>sans la remuer</add><comment>c_083v_03</comment> pourceque si ton
+<add>des</add><comment rid="c_083v_02"/> <tl>chassis</tl> <del>Est</del>
+<add>sans la remuer</add><comment rid="c_083v_03"/> pourceque si ton
 cave nest pas moule bien net<lb/>
 
 Tu luy peulx remectre justem<exp>ent</exp> par le moyen des
@@ -111,10 +111,10 @@ Ne frappe pas en moulant car cela estonne le <tl>chassis</tl> &amp; le <m>sable<
 
 </div>
 
-<div>
-<id>p083v_3</id>
+<div id="p083v_3" margin="left-middle">
 
-<margin>left-middle</margin><head><tl>Souflets</tl></head>
+
+<head><tl>Souflets</tl></head>
 
 <ab>
 

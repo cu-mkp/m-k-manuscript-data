@@ -1,13 +1,13 @@
-<root>
-<page>030v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="030v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f66.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f66.image</image>
 
-<div>
 
-<cont/>
 
-<id>p030r_2</id>
+<div continues="yes" id="p030r_2" continued="yes">
+
+
+
+
 
 <ab>quelque escuelle ou assiette, ilz eslargissent &amp; deffont<lb/>
 
@@ -85,7 +85,7 @@ ou assiettes pour les adoulcir affin qu’ilz ne se trouvent<lb/>
 
 trenchants en les maniant.</ab>
 
-<cont/>
+
 
 </div>
 </root>

@@ -1,11 +1,11 @@
-<root>
-<page>039r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="039r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f83.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f83.image</image>
 
-<div>
 
-<id>p039r_1</id>
+
+<div id="p039r_1">
+
+
 
 <head><pro>Goldsmith</pro></head>
 
@@ -27,9 +27,9 @@ mixed in with the <m>silver</m> is the cause. <emph>Try for
 
 </div>
 
-<div>
+<div id="p039r_2">
 
-<id>p039r_2</id>
+
 
 <head><m><pa>Pastel woad</pa></m></head>
 

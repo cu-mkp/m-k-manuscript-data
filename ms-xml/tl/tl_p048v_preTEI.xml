@@ -1,10 +1,10 @@
-<root>
-<page>048v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="048v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f102.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f102.image</image>
 
-<div>
-<id>p048v_1</id>
+
+
+<div id="p048v_1">
+
 <head><m>Extraction of regulus</m></head>
 
 <ab>℞ one <ms>lb</ms> of <m>antimony</m>, <ms>half a lb</ms> <m>black
@@ -29,13 +29,13 @@ thoroughly melted &amp; melt it again several times.</ab>
 
 </div>
 
-<div>
-<id>p048v_2</id>
+<div id="p048v_2">
+
 <head><m>Lead</m>, <m>tin</m></head>
 
 <ab>They become brittle having been put back to melt often or for a <tmp>long
 time</tmp>, and they thicken and burn, in such a way that even when one melts
-a <fr>saulmon</fr>,<comment>c_028v_04</comment> the <m>tin</m> thickens at the bottom if, while
+a <fr>saulmon</fr>,<comment rid="c_028v_04"/> the <m>tin</m> thickens at the bottom if, while
 casting, one does not stir it often. It is best for casting to melt
 little <m>lead</m> <del>&amp; the</del> or <m>tin</m> &amp;
 <del>stir</del> to renew it at each melt. The <m>antimony</m> renders
@@ -45,7 +45,7 @@ tin</m></del> one <ms>lb</ms> of <m>looking glass tin</m> per one
 <ms>quintal</ms> of <m>fine tin</m> &amp; two <ms>lb</ms> &amp; a half
 or three <ms>lb</ms> of <m>red &amp; soft cauldron copper</m>, which
 is better than <m>latten</m>. There is <m>fine &amp; soft tin</m> &amp;
-<m>brittle tin</m>. The brittle one is cast in <fr>grille</fr><comment>c_028v_05</comment>
+<m>brittle tin</m>. The brittle one is cast in <fr>grille</fr><comment rid="c_028v_05"/>
 by the <pro>pewterers</pro> to sell it better. <del><fr>O</fr></del>
 They come out better &amp; more neatly in <tl><m>stone</m> molds</tl>
 than in a <tl><m>copper</m> mold</tl>, because <m>copper</m> is fatty
@@ -60,8 +60,8 @@ thickness that prevents them from running. <m>Soft tin</m> is
 more even <del><fr>com</fr></del> than the <m>brittle one</m>, which is
 whiter and seems to be burnished like a mirror.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 To alloy well <m>tin</m> &amp; <m>lead</m>, one needs to melt one by
 itself, and then mix in the other, small pieces at a time, and throw it
 often on the <tl><m>marble</m></tl> or the <tl><m>square tile</m></tl>.

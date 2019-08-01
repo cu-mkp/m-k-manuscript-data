@@ -1,10 +1,10 @@
-<root>
-<page>157r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="157r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f319.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f319.item.r=</image>
 
-<div>
-<id>p157r_1</id>
+
+
+<div id="p157r_1">
+
 <head>Moyen des <pro>orfevres</pro> pour mouler<lb/>
 
 creux</head>
@@ -32,8 +32,8 @@ d<m>argent</m> Et puys les <m>souldent</m> ou brasent</ab>
 
 </div>
 
-<div>
-<id>p157r_2</id>
+<div id="p157r_2">
+
 <head><m>Rouge cler</m></head>
 
 <ab>Aulcuns <pro>orfevres</pro> lesprouvent sur de l<m>or <del>esp</del>
@@ -54,8 +54,8 @@ excellentes en ouvrage commun </ab>
 
 </div>
 
-<div>
-<id>p157r_3</id>
+<div id="p157r_3">
+
 <head>Nettoyer et desgraisser<lb/>
 
 tes ouvrages gectes d<m>estain</m><lb/>
@@ -68,12 +68,12 @@ et aultres</head>
 cendres</m> et co<exp>mm</exp>e elle sera recente &amp; point grasse
 Fais<lb/>
 
-<underline>y bouillir ton ouvrage moule</underline><comment>c157r_01</comment> Et le <m>suif</m> et <m>gresse</m> sen p<exp>ar</exp>t</ab>
+<underline>y bouillir ton ouvrage moule</underline><comment rid="c157r_01"/> Et le <m>suif</m> et <m>gresse</m> sen p<exp>ar</exp>t</ab>
 
 </div>
 
-<div>
-<id>p157r_4</id>
+<div id="p157r_4">
+
 <head>Disposer lherbe ou fleur pour<lb/>
 
 gecter</head>
@@ -83,7 +83,7 @@ gecter</head>
 pourcequil vient mieulx et plus net que le bas<lb/>
 
 Fais le gect large &amp; que le <df>supraplus</df> (qui est la
-masse<ups>rote</ups><comment>c_157r_04</comment><lb/>
+masse<ups>rote</ups><comment rid="c_157r_04"/><lb/>
 
 aulx <pro>fondeurs</pro> de grand gect <del>Et</del>
 mesmem<exp>en</exp>t pour l<m>argent</m> qui ve<ups>ult</ups><lb/>
@@ -91,10 +91,10 @@ mesmem<exp>en</exp>t pour l<m>argent</m> qui ve<ups>ult</ups><lb/>
 le <tl>moule</tl> bien chault &amp; estre gecte fort chault<lb/>
 
 Les choses fort tanvres veulent estre gectees fort
-chault<comment>c_157r_02</comment></ab> 
+chault<comment rid="c_157r_02"/></ab> 
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 Quand tu<lb/>
 
@@ -118,9 +118,9 @@ le reste est bien brusle</ab>
 
 </div>
 
-<div>
+<div id="p157r_5">
 
-<id>p157r_5</id>
+
 <head><al>Mousches</al></head>
 
 <ab>Elles se moulent<lb/>

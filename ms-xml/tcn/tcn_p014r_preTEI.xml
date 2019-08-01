@@ -1,13 +1,13 @@
-<root>
-<page>014r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="014r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f33.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f33.image</image>
 
-<div>
 
-<id>p014r_1</id>
 
-<head>Pour<comment>c_014r_01</comment> <env>murailles</env> de
+<div id="p014r_1">
+
+
+
+<head>Pour<comment rid="c_014r_01"/> <env>murailles</env> de
 <m>terre</m> et bastiment<lb/>
 
 rustique</head>
@@ -75,7 +75,7 @@ emmanchés à un gros baston, &amp; cestuy est pour bien presser la
 <m>terre</m><lb/>
 
 aux extremités et bords de la <env>muraille</env> qui adhære aux tables,
-&amp; s’appelle.<lb/><comment>c_014r_02</comment>
+&amp; s’appelle.<lb/><comment rid="c_014r_02"/>
 
 L’aultre s’appelle la <tl>batte</tl>, qui est pour aplanir &amp; battre
 la <m>terre</m><lb/>
@@ -106,13 +106,13 @@ les<lb/>
 
 <pro>pouldriers</pro> en font leur proffict.</ab>
 
-<figure>
+<figure id="fig_p014r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5b2lVN19SU1Z6UkU">
 
-<id>fig_p014r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5b2lVN19SU1Z6UkU</link>
+
+
+
 
 <!--A-->
 

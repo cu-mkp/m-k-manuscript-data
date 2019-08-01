@@ -1,13 +1,13 @@
-<root>
-<page>166v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="166v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f338.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f338.image</image>
 
-<div>
 
-<cont/>
 
-<id>p166r_1</id>
+<div continues="yes" id="p166r_1">
+
+
+
+
 
 <ab>Aulx exemplaires <pl>grecs</pl>, il s’adjouste un psalme de
 <pn>David</pn><lb/>
@@ -15,18 +15,18 @@
 duquel <pn>s<exp>ainc</exp>t Athanase</pn> faict mention <del>en</del>
 <la>in Sinopsi</la>. Il se comma<exp>n</exp>ce<lb/>
 
-<la>Parvus eram</la>,<comment>c_166v_04</comment> &amp; au second verset le prophete royal
+<la>Parvus eram</la>,<comment rid="c_166v_04"/> &amp; au second verset le prophete royal
 dict:<lb/>
 <del><la><bp>Manus</bp> meӕ</la></del> <emph><la><bp>Manus</bp> meӕ fecerunt organum et
 <bp>digiti</bp><lb/>
 
-mei aptarunt psalterium</la></emph>.<comment>c_166v_05</comment><hr/>
+mei aptarunt psalterium</la></emph>.<comment rid="c_166v_05"/><hr/>
 </ab>
 </div>
 
-<div>
+<div id="p166v_2">
 
-<id>p166v_2</id>
+
 
 <head>Garder <pa>chastaignes</pa></head>
 
@@ -42,9 +42,9 @@ Il les fault laisser dans leur coquille herissonnée jusques<lb/>
 
 </div>
 
-<div>
+<div id="p166v_3">
 
-<id>p166v_3</id>
+
 
 <head><tl><m>Bougie</m></tl> <sn>odorante</sn> du <pl>Mans</pl></head>
 
@@ -64,9 +64,9 @@ Ils parfument aussy le lumignon et meche.
 
 </div>
 
-<div>
+<div id="p166v_4">
 
-<id>p166v_4</id>
+
 
 <head>Adoulcir l’<m>or</m></head>
 
@@ -83,9 +83,9 @@ d’iceluy cementer <m>☉</m>,<lb/>
 
 </div>
 
-<div>
+<div id="p166v_5">
 
-<id>p166v_5</id>
+
 
 <head>Augmenter la couleur du <m>sol</m></head>
 

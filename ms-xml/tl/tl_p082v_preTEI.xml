@@ -1,11 +1,11 @@
-<root>
-<page>082v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="082v" image="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f170.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f170.item</image>
 
-<div>
 
-<id>p082v_1</id>
+
+<div id="p082v_1">
+
+
 
 <head><pro>Clockmakers</pro></head>
 
@@ -16,9 +16,9 @@ straight, &amp; bend them once tempered, which is a
 
 </div>
 
-<div>
+<div id="p082v_2">
 
-<id>p082v_2</id>
+
 
 <head>Casting <m>lead</m> in <m>lead</m></head>
 
@@ -28,24 +28,24 @@ cast <m>lead</m> in them.<lb/>
 <m>Lead</m> when not cast hot enough, is white, &amp; blacker when cast
 well hot.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 One can make a <tl><m>lead</m> mold</tl>. &amp; to cast in it, <m>smoke</m>
 it with <m><tl>candle</tl> black</m>. But it is never that neat.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Never does <m>lead</m> come so neat as <m>tin</m>.</ab>
 
 </div>
 
-<div>
+<div id="p082v_3">
 
-<id>p082v_3</id>
+
 
 <head>Sand</head>
 
@@ -53,9 +53,9 @@ Never does <m>lead</m> come so neat as <m>tin</m>.</ab>
 
 </div>
 
-<div>
+<div id="p082v_4">
 
-<id>p082v_4</id>
+
 
 <head>Method of casting in <m>bronze</m></head>
 
@@ -82,24 +82,24 @@ that the substance heats well at the bottom, stir it, once melted, with
 a <tl><m>wood</m> stick</tl>, for <m>iron</m> only makes it brittle.
 Turn.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Some put <m>wool stuffing</m> in order to heat it &amp; make it
 run.</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 Put under your <tl>crucible</tl> a thick <tl><m>iron</m>
 slab</tl>, which will redden &amp; will maintain the heat
 under your <tl>crucible</tl>.</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 The <m>copper</m> substance is found to be good for casting, when once
 broken it makes the grain long &amp; not short, for it demonstrates that
