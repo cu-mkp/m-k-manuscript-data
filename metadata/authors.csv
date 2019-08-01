@@ -1,0 +1,72 @@
+Author-ID,Annotation-ID,Full-name,First-name,Last-name,Year,Semester,Author-type,Degree,Year-at-time-of-class,Current Year,Department,Subfield-optional
+author_001,ann_001_fa_14|ann_006_fa_14|ann_011_fa_14,Emogene Cataldo,Emogene,Cataldo,2014,Fall,Columbia University Student,PhD,1st Year,5th Year,Art History and Archaeology,Medieval Art and Architecture
+author_002,ann_001_fa_14|ann_006_fa_14|ann_011_fa_14,Julianna Visco,Julianna,Visco,2014,Fall,Columbia University Student,PhD,2nd year,7th Year,Italian,Italian Literature in 13th and 14th Century
+author_003,ann_002_fa_14|ann_004_fa_14|ann_007_fa_14,Rozemarijn Landsman,Rozemarijn,Landsman,2014,Fall,Columbia University Student,PhD,"3rd year (but she had leaves, so I don't really know what year she was actually in)",8th Year,Art History and Archaeology,Dutch 17th Century
+author_004,ann_002_fa_14|ann_004_fa_14|ann_007_fa_14,Jonah Rowen,Jonah,Rowen,2014,Fall,Columbia University Student,PhD,3rd year??,Still at Columbia,"Architecture, Planning and Preservation",
+author_005,ann_003_fa_14|ann_005_fa_14|ann_010_fa_14,Jordan Katz,Jordan,Katz,2014,Fall,Columbia University Student,PhD,1st year,6th Year,History,Early Modern/Jewish
+author_006,ann_003_fa_14|ann_005_fa_14|ann_010_fa_14,Raymond Carlson,Raymond,Carlson,2014,Fall,Columbia University Student,PhD,2nd year,Still at Columbia,Art History and Archaeology,Italian Renaissance 
+author_007,ann_008_fa_14,Diana Mellon,Diana,Mellon,2014,Fall,Columbia University Student,PhD,1st year,3rd Year,Art History and Archaeology,Medieval and Renaissance Italian Art
+author_008,ann_009_fa_14,Michelle Lee,Michelle,Lee,2014,Fall,Columbia University Student,MA,1st year,Likely Graduated,Anthropology,
+author_009,ann_012_fa_14,Yijun Wang,Yijun,Wang,2014,Fall,Columbia University Student,PhD,2nd year,Completed 2019,East Asian Languages and Cultures - History,Chinese History
+author_010,ann_013_sp_15,Shiye Fu,Shiye,Fu,2015,Spring,Columbia University Student,MA,,Completed 2016,Anthropology,Sociocultural
+author_011,ann_013_sp_15,Zhiqi Zhang,Zhiqi,Zhang,2015,Spring,Columbia University Student,MA,,Completed 2016,Anthropology,
+author_012,ann_014_sp_15|ann_022_sp_15|ann_023_sp_15,Guilia Chiostrini,Guilia,Chiostrini,2015,Spring,Columbia University Student,MA,,Likely Graduated,Medieval and Renaissance Studies ,
+author_013,ann_014_sp_15|ann_022_sp_15|ann_023_sp_15,Jef Palframan,Jef,Palframan,2015,Spring,Columbia University Student,MA,2nd year,Completed 2015,Medieval and Renaissance Studies ,Medieval and Renaissance Studies 
+author_014,ann_015_sp_15,Maria Alessandra Chessa,Maria Alessandra,Chessa,2015,Spring,V&A/RCA Student,,,6th Year,V&A/RCA; History of Design,
+author_015,ann_016_sp_15|ann_018_sp_15,Sofia Gans,Sofia,Gans,2015,Spring,Columbia University Student,PhD,2nd year?,Completed 2018,Art History and Archaeology,
+author_016,ann_017_sp_15,Celia Durkin,,Durkin,2015,Spring,Columbia University Student,MA,,Completed 2015,Art History and Archaeology - she was something else not sure what,
+author_017,ann_019_sp_15|ann_020_sp_15,Caroline Marris,Caroline,Marris,2015,Spring,Columbia University Student,PhD,,6th Year,History,Early Modern Europe
+author_018,ann_019_sp_15|ann_020_sp_15|ann_021_sp_15,Stephanie Pope,Stephanie,Pope,2015,Spring,,PhD,1st year,4th Year,Princeton University; English,
+author_019,ann_024_fa_15|ann_025_fa_15,Marilyn Bowen,Marilyn,Bowen,2015,Fall,Columbia University Student,MA,,Likely Graduated,Medieval and Renaissance Studies ,
+author_020,ann_024_fa_15|ann_025_fa_15,Tianhe Lou,Tianhe,Lou,2015,Fall,Columbia University Student,MA,,Likely Graduated,Medieval and Renaissance Studies ,
+author_021,ann_026_fa_15,Danielle Carr,Danielle,Carr,2015,Fall,Columbia University Student,PhD,,5th Year,Anthropology,Sociocultural
+author_022,ann_027_fa_15|ann_035_sp_16,Wenrui Zhao,Wenrui,Zhao,"2015
+2016","Fall
+Spring",Columbia University Student,PhD,1st year,4th Year,History,Early Modern Europe
+author_023,ann_028_fa_15,Ana Estrades,Ana,Estrades,2015,Fall,Bard Graduate Center Student,MA,,Competed 2016,BCG; Decorative Arts and Material Culture,
+author_024,ann_029_fa_15|ann_081_fa_15|ann_082_fa_15,Kathryn Kremnitzer,Kathryn,Kremnitzer,2015,Fall,Columbia University Student,PhD,,5th Year,Art History and Archaeology,
+author_025,ann_029_fa_15|ann_081_fa_15|ann_082_fa_15,Siddhartha Shah,Siddhartha,Shah,2015,Fall,Columbia University Student,PhD,,Completed 2018,Art History and Archaeology,
+author_026,ann_030_fa_15,Cindy Kok,Cindy,Kok,2015,Fall,Bard Graduate Center Student,MA,,Completed 2016,BCG; Decorative Arts and Material Culture,
+author_027,ann_031_fa_15,Yuan Yi,Yuan,Yi,2015,Fall,Columbia University Student,PhD,2nd year,6th year,East Asian Languages and Cultures - History,Modern Chinese History
+author_028,ann_032_fa_15,Emilie Foyer,Emilie,Foyer,2015,Fall,Columbia University Student,MA/MSc,1st year,Completed 2017,International History,
+author_029,ann_033_sp_16|ann_034_sp_16|ann_038_sp_16,Amy Chang,Amy,Chang,2016,Spring,Columbia University Student,MA,1st year,Completed 2017,Art History and Archaeology,
+author_030,ann_033_sp_16|ann_038_sp_16|ann_044_sp_16,Olivia Clemens,Olivia,Clemens,2016,Spring,Columbia University Student,PhD,1st year,4th Year,Art History and Archaeology,Arts of Islam
+author_031,ann_034_sp_16|ann_038_sp_16,Yuanxie Shi,Yuanxie,Shi,2016,Spring,Columbia University Student,MA,,Likely Graduated,Anthropology,Museum
+author_032,ann_036_sp_16,Sophie Pitman,Pitman,Pitman,2016,Spring,Visiting Scholar,PhD,,Completed 2017,Cambridge University - History,
+author_033,ann_037_sp_16,Robin Reich,Robin,Reich,2016,Spring,Columbia University Student,PhD,1st year,4th Year,History,Medieval Europe
+author_034,ann_039_sp_16,Lila Goldenberg,Lila,Goldenberg,2016,Spring,Columbia University Student,MA,1st year,Completed 2017,Medieval and Renaissance Studies  - wasn't Lila in the Museum program or something like that??,
+author_035,ann_040_sp_16,Teresa Soley,Teresa,Soley,2016,Spring,Columbia University Student,PhD,1st year,4th Year,Art History and Archaeology,
+author_036,ann_041_sp_16,Jessica (Njeri) Ndungu,Jessica (Njeri),Ndungu,2016,Spring,Columbia University Student,PhD,1st year,Still at Columbia,Art History and Archaeology,
+author_037,ann_042_sp_16,Cleo Nisse,Cleo,Nisse,2016,Spring,Columbia University Student,PhD,1st year,Still at Columbia,Art History and Archaeology,
+author_038,ann_043_sp_16,Ann-Sophie Barwich,Ann-Sophie,Barwich,2016,Spring,Columbia University Postdoctoral Scholar,,,,Presidential Scholars in Society and Neuroscience,History and Philosophy of Olfraction
+author_039,ann_045_fa_16|ann_051_fa_16,Changduk (Charles) Kang,Changduk (Charles),Kang,2016,Fall,Columbia University Student,PhD,7th Year,8th Year,Art History,French Art
+author_040,ann_046_fa_16|ann_050_fa_16,Emma Le Pouesard,Emma,Le Pouésard,2016,Fall,Columbia University Student,PhD,1st Year,3rd Year,Art History,Medieval Art
+author_041,ann_047_fa_16,Benjamin Hiebert,Benjamin,Hiebert,2016,Fall,Columbia University Student,MA,1st Year,Completed 2017,History,European History
+author_042,ann_048_fa_16,Joslyn DeVinney,Joslyn,DeVinney,2016,Fall,Columbia University Student,PhD,1st Year,3rd Year,History,International and Global
+author_043,ann_049_fa_16,Caitlyn Sellar,Caitlyn,Sellar,2016,Fall,Columbia University Student,MA,1st Year,Completed 2017,Anthropology,Museum
+author_044,ann_045_fa_16|ann_051_fa_16,Isabella Lores-Chavez,Isabella,Lores-Chaves,2016,Fall,Columbia University Student,PhD,3rd Year,5th Year,Art History and Archaeology,17th-century Dutch Paintings
+author_045,ann_052_fa_16,Ana Matisse Donefer-Hickie,Ana Matisse,Donefer-Hickie,2016,Fall,Bard Graduate Center Student,MA,2nd Year,Completed 2017,BCG; Decorative Arts and Material Culture,
+author_046,ann_053_fa_16,Sau-yi Fong,Sau-yi,Fong,2016,Fall,Columbia University Student,PhD,3rd Year,5th Year,History,East Asia/China
+author_047,ann_054_sp_17,Nicole Basille,Nicole,Basille,2017,Spring,Columbia University Student,PhD,2nd Year,4th Year,Latin American and Iberian Cultures,
+author_048,ann_055_sp_17,Christopher Eom,Christopher,Eom,2017,Spring,Columbia University Student,BA,4th Year,Graduated 2017,Art History and Chemistry,
+author_049,ann_056_sp_17,Xinguo (Casa) Wang,Xinguo (Casa),Wang,2017,Spring,Independant Scholar,,,,,
+author_050,ann_057_sp_17|ann_058_sp_17|ann_079_sp_17|ann_080_sp_17,Xiaomeng Liu,Xiaomeng,Liu,2017,Spring,University of Hong Kong Visiting Student,PhD,2nd Year,4th Year,University of Hong Kong; History of Medicine,
+author_051,ann_059_sp_17,Aleksandr Grafit,Aleksandr,Grafit,2017,Spring,Columbia University Student,MFA,1st Year,Graduated 2018,Creative Writing,
+author_052,ann_060_fa_17,Carl Garris,Carl,Garris,2017,Fall,Columbia University Student,PhD,1st Year,2nd Year,History,Medieval Europe
+author_053,ann_061_fa_17,Tenzin Dongchung,Tenzin,Dongchung,2017,Fall,Columbia University Student,PhD,1st Year,2nd Year,East Asian Languages and Cultures,Tibetan and Chinese History
+author_054,ann_062_fa_17,Sumeyye Yar,Sumeyye,Yar,2017,Fall,Independant Scholar,,,,,
+author_055,ann_063_fa_17,Reut Ullman,Reut,Ullman,2017,Fall,Columbia University Student,PhD,1st Year,2nd Year,History,Early Modern Europe
+author_056,ann_064_fa_17,Nina Elizondo-Garza,Nina,Elizondo-Garza,2017,Fall,Columbia University Student,MA,1st Year,2nd Year,Art History and Archaeology,
+author_057,ann_065_fa_18,Michael Assis,Michael,Assis,2018,Fall ,Bard Graduate Center Student,PhD,,2nd Year,Bard Graduate Center; Art History,
+author_058,ann_066_fa_18,Katie Bergen,Katie,Bergen,2018,Fall ,Columbia University Student,MA/MSc,1st Year,1st Year,International History,
+author_059,"ann_067_fa_18
+ann_078_fa_18",Nicolle Bertozzi,Nicolle,Bertozzi,2018,Fall ,Columbia University Student,PhD,1st Year,1st Year,History,Modern Japanese History
+author_060,ann_068_fa_18,Sahar Bostock,Sahar,Bostock,2018,Fall ,Columbia University Student,PhD,1st Year,1st Year,History,Middle East
+author_061,ann_069_fa_18,Olivia Branscum,Olivia,Branscum,2018,Fall ,Columbia University Student,PhD,2nd Year,2nd Year,Philosophy,History of Philosophy
+author_062,ann_070_fa_18,James Buckley,James,Buckley,2018,Fall ,Columbia University Student,PhD,1st Year,1st Year,History,Early Modern Europe
+author_063,ann_071_fa_18,Celine Camps,Celine,Camps,2018,Fall ,Columbia University Student,PhD,1st Year,1st Year,History,Early Modern
+author_064,ann_072_fa_18,Amanda Faulkner,Amanda,Faulkner,2018,Fall ,Columbia University Student,PhD,1st Year,1st Year,History,Early Modern Europe
+author_065,ann_073_fa_18,Baris Gokturk,Baris,Gokturk,2018,Fall ,Columbia University Student,MFA,1st Year,1st Year,Visual Arts,
+author_066,ann_074_fa_18|ann_075_fa_18,Angel Jiang,Angel,Jiang,2018,Fall ,Columbia University Student,PhD,2nd year,2nd Year,Art History and Archaeology,History of Architecture
+author_067,ann_076_fa_18,Min Lim,Min,Lim,2018,Fall ,Columbia University Student,MA/MSc,1st Year,1st Year,International History,
+author_068,ann_077_fa_18,Nancy Olson,Nancy,Olson,2018,Fall ,Parsons Student,MA,,,Parsons; Decorative Arts,History of Design and Curatorial Studies

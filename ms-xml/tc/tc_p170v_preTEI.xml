@@ -8,11 +8,11 @@
 <id>p170v_1</id>
 <head><sup>Premrière page d'origine</sup></head>
 <ab>
-
+<comment>c_170v_12</comment>
 L<tmp>an</tmp> mil cinq cens septante huict le deuxiesme de <tmp>Juillet</tmp> a este
 faict<lb/>
 
-Transport aulx heritiers d<del>e</del><add>u</add> feu <pn>s<exp>ieu</exp>r
+Transport aulx heritiers d<del>e</del>u<comment>c_170v_29</comment> feu <pn>s<exp>ieu</exp>r
 ouvryer</pn> <del>deux cens cinq <cn>escu<ups>s</ups></cn></del><lb/>
 
 du Rentement de <pl>S<exp>ainc</exp>t frajou</pl> montant douze cens trente
@@ -30,12 +30,12 @@ un tiers <del>sur qu</del></ab>
 <ups><figure><id>fig_p170v_2</id><link>https://drive.google.com/open?id=1MayV4ZIaGElXC-ztkjtbKF9pZw6sTZle</link></figure></ups><comment>c_170v_03</comment><lb/>
 
 Et sur la seconde Judication nont encore rien Repceu</ab>
-
+<hr/>
 </div>
 
 <div>
-<hr/>
 <id>p170v_2</id>
+
 <head> <md>Contre peste</md></head>
 
 <ab>P<exp>rends</exp> <md>contre fiebvre pestilentiale</md> ou <md>poison</md> ou <md>peste</md> le
@@ -113,7 +113,7 @@ variarum</la></emph></ab><comment>c_170v_06</comment>
     
 <div>
 <id>p170v_4</id>
-<head><sup>Liste de livres</sup></head>
+<head><sup>Liste de livres</sup></head><comment>c_170v_04</comment></head>
 <ab><emph><la>Reru<exp>m</exp> scoticarum historia <pn>Georgio Bucanano</pn>
 auth<exp>ore</exp></la></emph></ab>
 
@@ -127,7 +127,7 @@ de stirpium historia</la></emph></ab>
 <ab><emph><la><pn>Tilesius</pn> de coloribus Vascosan</la></emph></ab>
 
 <ab><emph><la><pn>Marmodaeus</pn> <del>ge</del> de lapillis
-præciosis</la></emph><comment>c_170v_05</comment><comment>c_170v_04</comment></ab>
+præciosis</la></emph><comment>c_170v_05</comment></ab>
 
 </div>
 </root>
