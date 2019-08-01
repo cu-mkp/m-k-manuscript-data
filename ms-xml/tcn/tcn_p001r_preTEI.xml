@@ -6,6 +6,7 @@
 <div>
 
 <id>p001r_1</id>
+<head><sup>List of names</sup></head>
 
 <ab>
 
@@ -28,18 +29,20 @@ Boucherie</pl>, <pro>courroyeur</pro>. Essayer <m>fleur de
 <div>
 
 <id>p001r_2</id>
+<head><sup>List</sup></head>
 
-<ab>Le <pro>moissonneur</pro> laissant quelques espis n’est repris.<lb/>
+<ab><hr/>Le <pro>moissonneur</pro> laissant quelques espis n’est repris.<lb/>
 
 <la>Sacra Eleusinae deae propalare nefas.</la><lb/>
 
-Trompettes, voy le livre des funerailles.</ab>
+Trompettes, voy le livre des funerailles.<hr/></ab>
 
 </div>
 
 <div>
 
 <id>p001r_3</id>
+<head><sup>List of books</sup></head>
 
 <ab><la>Vuolfangus Lazius.<lb/>
 
@@ -55,12 +58,12 @@ Angelius Bargaeus, De <al>aucupio</al> et <al>venatione</al>.<lb/>
 
 Nicolaus Damascenus.</la></ab>
 
-<ab><la>Ca<corr><del>r</del></corr>es<exp>ariensis</exp>, De rebus
+<ab><la>Cares<exp>ariensis</exp>,<comment>c_001r_34</comment> De rebus
 Persarum.<lb/>
 
 Isidorus.</la></ab>
 
-<ab><la>O<corr>r</corr>o<corr>s</corr>ius.<lb/>
+<ab><la>Osorius<comment>c_001r_35</comment>.<lb/>
 
 Eupolemus, historicus gentilis<lb/>qui de rebus Davidis &amp;
 Salomonis<lb/>
@@ -98,7 +101,7 @@ et de la <pro><pn>royne mere</pn></pro>.</ab>
 <div>
 
 <id>p001r_4</id>
-
+<head><sup>List of books</sup></head>
 <ab><la><al>Aquatilium animalium</al> historiae, Hypolito<lb/>
 
 Salviano Typhernate authore, <pl>Romae</pl> 1554.</la></ab>
@@ -108,14 +111,14 @@ Salviano Typhernate authore, <pl>Romae</pl> 1554.</la></ab>
 <div>
 
 <id>p001r_5</id>
-
+<head><sup>List of books and authors</sup></head>
 <ab>Les Annales de <pl>Normandie</pl>.</ab>
 
 <ab>
 
 <margin>right-middle</margin>
 
-<la><pn>Alexander Aphrodisaeus</pn><lb/><pn>Alexander
+<la><pn>Alexander
 Aphrodisaeus</pn>.<lb/>
 
 <pn>Polydorus Verg<exp>ilius</exp></pn>.<lb/>

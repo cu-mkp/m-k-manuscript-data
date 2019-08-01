@@ -6,6 +6,7 @@
 <div>
 
 <id>p001r_1</id>
+<head><sup>List of names</sup></head>
 
 <ab>
 
@@ -26,22 +27,24 @@ Escrivains</fr></pl> by <pl><fr>St Jacques de la Boucherie</fr></pl>,
 <div>
 
 <id>p001r_2</id>
+<head><sup>List</sup></head>
 
 <ab>
-
+<hr/>
 The <pro>harvester</pro> that leaves some ears is not
 blamed<comment>c_001r_04</comment>.<lb/>
 
 <la>Sacra Eleusinae deae<comment>c_001r_05</comment> propalare
 nefas<comment>c_001r_06</comment>.<comment>c_001r_07</comment></la><lb/>
 
-Trumpets, see the book of funerals<comment>c_001r_08</comment></ab>
+Trumpets, see the book of funerals<comment>c_001r_08</comment><hr/></ab>
 
 </div>
 
 <div>
 
 <id>p001r_3</id>
+<head><sup>List of books</sup></head>
 
 <ab><la>Vuolfangus Lazius<comment>c_001r_09</comment>.<lb/>
 
@@ -58,12 +61,12 @@ venatione<comment>c_001r_14</comment>.<lb/>
 
 Nicolaus Damascenus</la><comment>c_001r_15</comment>.</ab>
 
-<ab><la><corr>Caes<exp>ariensis</exp></corr>, De rebus
+<ab><la>Cares<exp>ariensis</exp>,<comment>c_001r_34</comment> De rebus
 Persarum<comment>c_001r_16</comment>.<lb/>
 
 Isidorus<comment>c_001r_17</comment>.</la></ab>
 
-<ab><la>O<corr>r</corr>o<corr>s</corr>ius<comment>c_001r_18</comment>.<lb/>
+<ab><la>Osorius<comment>c_001r_35</comment><comment>c_001r_18</comment>.<lb/>
 
 Eupolemus, <pro>historicus</pro> gentilis qui de rebus Davidis &amp;
 Salomonis
@@ -101,7 +104,7 @@ figulines</pro><comment>c_001r_32</comment> to the
 <div>
 
 <id>p001r_4</id>
-
+<head><sup>List of books</sup></head>
 <ab><la><al>Aquatilium animalium</al> historiae, Hypolito Salviano
 Typhernate authore, <pl>Romae</pl> 1554.</la><comment>c_001r_38</comment></ab>
 
@@ -110,7 +113,7 @@ Typhernate authore, <pl>Romae</pl> 1554.</la><comment>c_001r_38</comment></ab>
 <div>
 
 <id>p001r_5</id>
-
+<head><sup>List of books and authors</sup></head>
 <ab>Les Annales de
 <pl>Normandie</pl><comment>c_001r_39</comment>.</ab>
 

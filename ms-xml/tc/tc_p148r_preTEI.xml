@@ -73,7 +73,7 @@ commun</m></ab>
 
 <head>Mouler pied de <al>butor</al> ou<lb/>
 
-d<al>aigle</al> ou daultres <al>oyseaulx</al> pour<lb/>
+d<al>aigle</al> ou daultres <al>oyseaulx</al> <comment>c_148r_02</comment>pour<lb/>
 
 pied de salieres ou vases</head>
 
@@ -93,7 +93,7 @@ piece</ab>
 
 <id>p148r_4</id>
 
-<head><m><la>Crocum ferri</la></m></head> <comment>c_148r_03</comment>
+<head><comment>c_148r_03</comment><m><la>Crocum ferri</la></m></head>
 
 <ab>Pour le faire bien tost rougis la <m>limaille</m> dans une
 <tl>caisse de <m>fer</m></tl><lb/>

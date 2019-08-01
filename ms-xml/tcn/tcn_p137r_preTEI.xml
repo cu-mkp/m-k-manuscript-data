@@ -24,7 +24,7 @@ le <m>cuivre</m> fort chault dans le <tl>moule</tl>, qui soit aussy
 enflammé<lb/>
 
 &amp; tout rouge co<exp>mm</exp>e en l’<m>or</m>, <m>argent</m>,
-<m>letton</m> &amp; <m>metal</m>. Tu cognoistras<lb/>
+<m>letton</m> &amp; <m>metal</m>.<comment>c_016v_05</comment> Tu cognoistras<lb/>
 
 qu’il sera assés chault quand il est uny, clair &amp; luisant comme<lb/>
 
@@ -41,7 +41,7 @@ Le <m>cuivre rouge</m> vient plus net que le <m>laitton</m> qui ha<lb/>
 
 <m>force fumées</m> qui empeschent de courre. Je l’ay moulé en<lb/>
 
-noyau net co<exp>mm</exp>e le principal &amp; tanvre co<exp>mm</exp>e
+noyau net co<exp>mm</exp>e le principal<comment>c_137r_03</comment> &amp; tanvre co<exp>mm</exp>e
 <m>papier</m>. Il faut<lb/>
 
 qu’il soict si chault qu’il soict blanc &amp; luisant &amp; poly
@@ -77,13 +77,13 @@ Ostant ton <tl>moule</tl><lb/>
 
 du fœu, plante<lb/>
 
-le dans d<del>es</del><comment>c_137r_02</comment> <tl>brasier</tl><lb/>
+le dans <corr><del>d</del></corr><del>es</del><comment>c_137r_02</comment> <tl>brasier</tl><lb/>
 
 duquel soict<lb/>
 
 remply un <tl>pot</tl><lb/>
 
-ou <tl>vaisseau</tl><comment>c_137r_01</comment>.</ab>
+ou <tl>vaisseau</tl><comment>c_137r_01</comment>.<hr/></ab>
 
 </div>
 
@@ -118,8 +118,8 @@ courra merveilleusem<exp>ent</exp>.</ab>
 
 <ab>
 
-<margin>left-middle</margin>
-
+<margin>left-top</margin>
+<render>tall</render>
 Les <pro>fondeurs<lb/>
 
 de grand gect<lb/>
@@ -152,7 +152,7 @@ du <pro>fondeur</pro>,<lb/>
 
 car il ne fault<lb/>
 
-qu’un <env>sourdis<lb/></env>
+qu’un <env><po>sourdis</po></env><lb/>
 
 d’<m>eau</m> dans la<lb/>
 

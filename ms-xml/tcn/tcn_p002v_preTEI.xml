@@ -6,10 +6,10 @@
 <div>
 
 <id>p002v_1</id>
-
-<ab><it>Practica, cioè nova inventione<lb/>di contegiare, stampata in
+<head><sup>List of books</sup></head>
+<ab><emph><it>Practica, cioè nova inventione<lb/>di contegiare, stampata in
 <pl>Brescia</pl><lb/>
-per <pn>Vincenzo Sabio</pn></it>.</ab>
+per <pn>Vincenzo Sabio</pn></it>.</emph></ab>
 
 </div>
 
@@ -17,7 +17,8 @@ per <pn>Vincenzo Sabio</pn></it>.</ab>
 
 <id>p002v_2</id>
 
-<head><add><m>Esmeraldes<lb/>de <pl>Brissac</pl></m></add></head>
+<head><add><m>Esmeraldes<lb/>
+de <pl>Brissac</pl></m></add></head>
 
 <ab>J’ai prins <m>miniu<exp>m</exp></m> 26 <ms>℥</ms>,
 <m><exp>christ</exp>al</m>, <add><ill/> et broié sur le
