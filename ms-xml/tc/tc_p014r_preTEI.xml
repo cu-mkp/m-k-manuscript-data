@@ -9,7 +9,7 @@
 
 <head>Pour <env>murailles</env> de <m>terre</m> et bastiment<lb/>
 
-rustique </head>
+rustique<comment>c_014r_01</comment></head>
 
 <ab>Les <al>hirondelles</al> nous ont aprins ce mestier faisant leurs
 nids<lb/>
@@ -56,7 +56,7 @@ pour apuyer des <tl>tables</tl> entre lesquelles il gectent la
 <m>terre</m> faisant<lb/>
 
 chasque couche dun <ms><bp>pied</bp></ms> ou environ lentremeslant comme
-<mark>S.S.S</mark> de<lb/><comment>c_014r_05</comment>
+<mark>S.S.S</mark><lb/><comment>c_014r_05</comment> de
 
 <m>branches de <pa>bruyeres</pa></m> ou semblables choses puys avecq
 tros formes<lb/>
@@ -111,11 +111,6 @@ quil y a du <m>salpestre</m> Cest pourquoy quand elles tumbent les<lb/>
 <margin>left-middle</margin>
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5b2lVN19SU1Z6UkU</link>
-
-<!--A-->
-
-<!--Nicolas Misery:text refers also to a “C” part of the figure, which
-is absent in the actual figure.-->
 
 </figure>
 

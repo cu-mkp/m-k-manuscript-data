@@ -7,8 +7,7 @@
 
 <id>p014r_1</id>
 
-<head>Pour<comment>c_014r_01</comment> <env>murailles</env> de
-<m>terre</m> et bastiment<lb/>
+<head>Pour <env>murailles</env> de <m>terre</m> et bastiment<comment>c_014r_01</comment><lb/>
 
 rustique</head>
 
@@ -57,7 +56,7 @@ pour apuyer des <tl>tables</tl> entre lesquelles il<corr>z</corr>
 gectent la <m>terre</m>, faisant<lb/>
 
 chasque couche d’un <ms><bp>pied</bp></ms> ou environ, l’entremeslant
-comme <mark>S.S.S</mark> de<lb/>
+comme <mark>S.S.S</mark><lb/><comment>c_014r_05</comment> de<lb/>
 
 <m>branches de <pa>bruyeres</pa></m> ou semblables choses, puys avecq
 tro<corr>i</corr>s formes<lb/>
@@ -113,11 +112,6 @@ les<lb/>
 <margin>left-middle</margin>
 
 <link>https://drive.google.com/open?id=0B9-oNrvWdlO5b2lVN19SU1Z6UkU</link>
-
-<!--A-->
-
-<!--Nicolas Misery:text refers also to a “C” part of the figure, which
-is absent in the actual figure.-->
 
 </figure>
 
