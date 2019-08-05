@@ -1,12 +1,12 @@
-<root>
-<page>108r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="108r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f221.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f221.image</image>
 
-<div>
-<cont/>
 
-<id>p107r_1</id>
+
+<div continues="yes" id="p107r_1">
+
+
+
 
 <ab>Pour tenir les noyaulx aulcuns employent du <tl><m>fil du
 propre<lb/>
@@ -51,7 +51,7 @@ quand<lb/>
 
 on gecteroit de <m>souldure</m> il courroit encores mieulx</ab>
 
-<ab><emph>Le <df><m><de>spat</de></m></df><comment>c_108r_02</comment></emph> est une <m>pierre blanchastre</m> qui se
+<ab><emph>Le <df><m><de>spat</de></m></df><comment rid="c_108r_02"/></emph> est une <m>pierre blanchastre</m> qui se
 trouve en<lb/>
 
 <pl>allemaigne</pl> &amp; principallem<exp>ent</exp> a <pl>Auguste</pl>
@@ -69,7 +69,7 @@ plattes pour choses rondes il nest pas si duisant ne<lb/>
 si tenant au feu que le susdict compose de <m>plastre</m></ab>
 
 <ab>Les retailleures de <del>cui</del> gros <m>cuir gras</m> sont
-<del>p</del>bons<comment>c_108r_01</comment> a gecter<lb/>
+<del>p</del>bons<comment rid="c_108r_01"/> a gecter<lb/>
 
 dans le <m>cuivre et latton fondu</m> car il le nettoye &amp; luy
 oste<lb/>
@@ -78,9 +78,9 @@ toute sa <m>crasse</m></ab>
 
 </div>
 
-<div>
-<id>p108r_2</id>
-<head><m><de>Spalt</de></m><comment>c_108r_02</comment></head>
+<div id="p108r_2" continued="yes">
+
+<head><m><de>Spalt</de></m><comment rid="c_108r_02"/></head>
 
 <ab>Le <m><de>spalt</de></m> est blanc comme <m>plastre cuict</m> Et se trouve en
 monceaulx<lb/>
@@ -106,7 +106,7 @@ mecta<exp>n</exp>t la<lb/>
 <ms>grosseur dune <pa>noix</pa></ms> diceluy dans une grande
 <tl>bouteille</tl> d<m>eau</m> Et</ab>
 
-<cont/>
+
 
 </div>
 </root>

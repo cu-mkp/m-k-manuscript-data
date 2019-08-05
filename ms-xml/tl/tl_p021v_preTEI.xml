@@ -1,19 +1,19 @@
-<root>
-<page>021v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="021v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f48.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f48.image</image>
 
-<div>
 
-<cont/>
 
-<id>p021r_2</id>
+<div continues="yes" id="p021r_2">
 
-<ab>Others place two poles<comment>c_021r_01</comment> fixed well into
+
+
+
+
+<ab>Others place two poles<comment rid="c_021r_01"/> fixed well into
 the earth such that one is <del>equally</del> as far from the edge
-<del>and</del>of<comment>c_021v_03</comment> <add>the</add> muzzle of the 
+<del>and</del>of<comment rid="c_021v_03"/> <add>the</add> muzzle of the 
 cannon as the other. And underneath they place the above-mentioned
-<tl>ruler</tl>.<comment>c_021v_01</comment> Then when they want to fire at
+<tl>ruler</tl>.<comment rid="c_021v_01"/> Then when they want to fire at
 night, they push their <wp>cannon</wp> straight toward the above-mentioned
 <tl>ruler</tl> &amp; make it so that the edge of the mouth rests on the
 end of the aforesaid <tl>ruler</tl>. Next, they measure with a
@@ -21,16 +21,16 @@ end of the aforesaid <tl>ruler</tl>. Next, they measure with a
 side of the <wp>cannon</wp> &amp; if it is too close or too far from it, they
 adjust it &amp; do thus from the side of the other pole.</ab></div>
 
-<div>
+<div id="p021v_1">
 
-<id>p021v_1</id>
+
 
 <head>For unspiking a <wp>cannon</wp></head>
 
 <ab>Some say that one should remove the ball if the <wp>cannon</wp> is loaded
 &amp; give fire through the mouth of the <wp>cannon</wp>. But it is to be
 believed that the fire would sooner exit that way than going to seek its
-exit through its usual touch-hole<comment>c_021v_02</comment> which is
+exit through its usual touch-hole<comment rid="c_021v_02"/> which is
 spiked &amp; constrained. The most reliable way is that the
 <pro>gunner</pro>, who is often a <pro>founder</pro>, wedges &amp;
 thoroughly rivets the <tl>nail</tl> that the enemies placed, and with a
@@ -41,14 +41,14 @@ which the <wp>piece</wp> is spiked, you will make a thread in the second
 touch-hole &amp; place a <tl>screw</tl> in it quite perfectly which will
 never come undone.<del><fr>M</fr></del></ab></div>
 
-<div>
+<div id="p021v_2">
 
-<id>p021v_2</id>
+
 
 <head>Defense of a town</head>
 
 <ab>There is nothing that has a greater effect for the defense of a
-    breach than <wp>petards</wp><comment>c_008r_04</comment> placed at the entryway at the time of the assault.
+    breach than <wp>petards</wp><comment rid="c_008r_04"/> placed at the entryway at the time of the assault.
 They carry a lot of ammunition. <del><fr>be</fr></del> One fills them
 with <m>cart nails</m>, <m>large steel dice</m>, <m>bits of chain</m>
 &amp; similar things. And when one senses that the enemies are close,

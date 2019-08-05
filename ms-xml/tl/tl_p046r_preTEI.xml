@@ -1,11 +1,11 @@
-<root>
-<page>046r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="046r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f97.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f97.item</image>
 
-<div>
 
-<id>p046r_1</id>
+
+<div id="p046r_1">
+
+
 
 <head><md>For the <bp>teeth</bp></md>, <m>oil of sulfur</m></head>
 
@@ -27,9 +27,9 @@ Therefore use it with discretion.</ab>
 
 </div>
 
-<div>
+<div id="p046r_2">
 
-<id>p046r_2</id>
+
 
 <head><m><pa>Wheat</pa> oil</m></head>
 
@@ -38,24 +38,22 @@ born.</md></ab>
 
 </div>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
     
-    <figure>
-        <id>fig_p046r_1</id>
+    <figure id="fig_p046r_1" link="https://drive.google.com/file/d/1G9nfjlsULz9521ia7VptfkJ_AjsSPO5H/view?usp=sharing">
+        
 
-<link>https://drive.google.com/file/d/1G9nfjlsULz9521ia7VptfkJ_AjsSPO5H/view?usp=sharing
 
-</link>
 
 </figure>
 
 </ab>
 
-<div>
+<div id="p046r_3">
 
-<id>p046r_3</id>
+
 
 <head><md>Against the falling sickness</md></head>
 
@@ -68,24 +66,24 @@ return</md>.</ab>
 
 </div>
 
-<div>
+<div id="p046r_4">
 
-<id>p046r_4</id>
 
-<head><md>Against cold gouts</md></head><comment>c_046r_01</comment>
+
+<head><md>Against cold gouts</md></head><comment rid="c_046r_01"/>
 
 <ab><m>Oil of <pa>guaiac</pa> &amp; of sulfur</m> mixed together,
 applied.</ab>
 
 </div>
 
-<div>
+<div id="p046r_5">
 
-<id>p046r_5</id>
+
 
 <head><del><fr>Go</fr></del>Flowers of trees</head>
 
-<ab>Those that are seen <tmp>with every<del><fr>es</fr></del><comment>c_046r_02</comment>
+<ab>Those that are seen <tmp>with every<del><fr>es</fr></del><comment rid="c_046r_02"/>
 new ☾</tmp> scarcely come to
 profit. One ought to leave only two buds on the graft.</ab>
 

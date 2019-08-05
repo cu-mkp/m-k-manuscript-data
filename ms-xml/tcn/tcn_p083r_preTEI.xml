@@ -1,22 +1,22 @@
-<root>
-<page>083r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="083r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f171.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f171.item</image>
 
-<div>
-<id>p083r_1</id>
-<head><m>Sable</m> <comment>c_083r_02</comment>pour le <m>plomb</m></head>
+
+
+<div id="p083r_1">
+
+<head><m>Sable</m> <comment rid="c_083r_02"/>pour le <m>plomb</m></head>
 
 <ab><la>℞</la> <m>suye grise du fourneau des
 <pro>argentiers</pro></m>, <m>chaulx vive</m>, et<lb/>
 
-<m>farine</m> <ms><la>ana</la></ms><comment>c_083r_03</comment>, humecté
+<m>farine</m> <ms><la>ana</la></ms><comment rid="c_083r_03"/>, humecté
 selon l’art, estant le plus subtilié qu’il te sera<lb/>
 
 possible.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 La <m>suye grise des <pro>sarruriers</pro></m><lb/>
 
 qui se tient à leur <tl>forge</tl> est fort<lb/>
@@ -29,8 +29,8 @@ fort bien.</ab>
 
 </div>
 
-<div>
-<id>p083r_2</id>
+<div id="p083r_2">
+
 <head><m>Sable pour medailles de <m>cuivre</m></m></head>
 
 <ab><la>℞</la> <m>feultre de chappeau bruslé</m> <add>à
@@ -47,10 +47,10 @@ croy que separem<corr><exp>ent</exp></corr> chascun<lb/>
 
 est fort bon. Le <m>feultre bruslé</m> moule fort net et despouille<lb/>
 
-fort net.</add><comment>c_083r_01</comment></ab>
+fort net.</add><comment rid="c_083r_01"/></ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Le <m>plastre</m><lb/>
 
 moule bien net<lb/>
@@ -73,8 +73,8 @@ despouiller.</ab>
 
 </div>
 
-<div>
-<id>p083r_3</id>
+<div id="p083r_3">
+
 <head>Aultre <m>sable</m></head>
 
 <ab><m>Charbon de <pa>sarment</pa></m>, &amp; <m>terre argille</m>
@@ -90,8 +90,8 @@ le destremper en <m>vinaigre</m>.</ab>
 
 </div>
 
-<div>
-<id>p083r_4</id>
+<div id="p083r_4">
+
 <head>Aultre pour le <m>plomb</m></head>
 
 <ab><la>℞</la> <m>ardoise subtillem<exp>ent</exp>
@@ -105,8 +105,8 @@ fois, &amp; à chasque fois destrempes les avecq du <m>vernis</m>.</ab>
 
 </div>
 
-<div>
-<id>p083r_5</id>
+<div id="p083r_5">
+
 <head>Aultre</head>
 
 <ab><la>℞</la> <del>p</del> <m>tuile peu cuitte,
@@ -118,8 +118,8 @@ broyée</m> &amp; destrempée de <m>vin blanc</m> avecq du<lb/>
 <al>cheval</al> bruslée</m>, elle n’en sera que meilleure. Humecte avecq
 <m>glaire d’œuf</m>.</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
+
 Le <m>papier de<lb/>
 
 trasse bruslé</m><lb/>
@@ -142,8 +142,8 @@ aultres.</ab>
 
 </div>
 
-<div>
-<id>p083r_6</id>
+<div id="p083r_6">
+
 <head><m>Sable excellent</m></head>
 
 <ab><m>Albastre calciné</m> dans un <tl><oc>crusol</oc></tl> à fœu de
@@ -168,7 +168,7 @@ seichés le <tl>moule</tl> au fœu, &amp; y gectés tel <m>metal</m> qu’il
 vous plaira,<lb/>
 
 pendant que le <m>sable</m> est chault; &amp; vous gecterés aussy net que le
-principal;<comment>c_137r_03</comment><lb/>
+principal;<comment rid="c_137r_03"/><lb/>
 
 &amp; le <m>sable</m> sert tousjours, le mecta<exp>n</exp>t en <env>lieu
 humide</env> &amp; seichant au fœu.</ab>

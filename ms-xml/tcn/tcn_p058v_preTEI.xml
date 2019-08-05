@@ -1,11 +1,11 @@
-<root>
-<page>058v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="058v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f122.item.">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f122.item.</image>
 
-<div>
 
-<id>p058v_1</id>
+
+<div id="p058v_1">
+
+
 
 <head>Noirs</head>
 
@@ -16,9 +16,9 @@ d’<m>ivoyre</m> bruslé, de <m>noyaux de <pa>pesches</pa></m>, de
 
 de lampe</m>, d’<m>os de pied de <al>bœufs</al></m> bruslés.</ab></div>
 
-<div>
+<div id="p058v_2">
 
-<id>p058v_2</id>
+
 
 <head>Ombres</head>
 
@@ -28,9 +28,9 @@ tout ainsy que les carnations doibvent estre differentes,<lb/>
 
 ainssy les ombres.</ab></div>
 
-<div>
+<div id="p058v_3">
 
-<id>p058v_3</id>
+
 
 <head>A fresc</head>
 
@@ -41,9 +41,9 @@ avecq <tl>longs pinceaux</tl>. Le fresc ne s’employe point<lb/>
 
 <del>cont</del> sur le <m>boys.</m></ab></div>
 
-<div>
+<div id="p058v_4">
 
-<id>p058v_4</id>
+
 
 <head><m>Azur</m></head>
 
@@ -58,9 +58,9 @@ L’<m>azur</m><lb/>
 demande un peu l’<m>huile gras</m> pource qu’il n’ha point de
 corps.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 L’<m>azur d’esmail</m> haict plus<lb/>
 
@@ -84,9 +84,9 @@ espés. Et en ceste sorte, il ne se<lb/>
 
 mourra pas tant.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Choisis tousjours le plus<lb/>
 
@@ -94,9 +94,9 @@ delié.</ab>
 
 </div>
 
-<div>
+<div id="p058v_5" continued="yes">
 
-<id>p058v_5</id>
+
 
 <head><tl>Pinceaulx</tl></head>
 
@@ -128,14 +128,14 @@ de <pl>Turquie</pl></m>, <del>de qui</del> de quoy ilz font aussy les
 
 pour s’apuyer la <bp>main</bp> quand ilz paignent</tl>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Pour travailler bien<lb/>
 
 en petit, il<corr><del>z</del></corr>
-<del>font</del>fault<comment>c_058v_04</comment> des<lb/>
+<del>font</del>fault<comment rid="c_058v_04"/> des<lb/>
 
 <tl>pinceaulx fort deliés qui<lb/>
 
@@ -171,7 +171,7 @@ sont encores meilleurs,<lb/>
 
 car un seul <m>poil</m> dans un <tl>pinceau</tl> suffist.</ab>
 
-<cont/>
+
 
 </div>
 </root>

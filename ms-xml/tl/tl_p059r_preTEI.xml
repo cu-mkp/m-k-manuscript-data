@@ -1,13 +1,13 @@
-<root>
-<page>059r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="059r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f123.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f123.item</image>
 
-<div>
 
-<cont/>
 
-<id>p058v_5</id>
+<div continues="yes" id="p058v_5">
+
+
+
+
 
 <ab><m>Lake</m> &amp; <m>lead white</m> &amp; <m>ceruse</m> are easy to
 work in <m>oil</m>, but every kind of <m>azure</m> is difficult. And to
@@ -27,9 +27,9 @@ loses color &amp; becomes pale. But putting it powdered on your
 <corr>tempering</corr> it little by little on the said
 <tl>palette</tl>.</ab></div>
 
-<div>
+<div id="p059r_1">
 
-<id>p059r_1</id>
+
 
 <head>Shadows</head>
 
@@ -40,30 +40,30 @@ of light, very clear, the second one darker &amp; the third ones quite
 strong, then blend these three shadows together by hatching them from
 the darkest to the clearest.</ab>
 
-<ab>
+<ab margin="left-middle" render="tall">
 
-<margin>left-middle</margin>
 
-<render>tall</render>
+
+
 
 The <m>varnish</m> is more beautiful on the panel when the color has
 imbibed well.</ab>
 
-<figure>
+<figure id="fig_p059r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5QWJmbC1RaG8zTGM">
 
-<id>fig_p059r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5QWJmbC1RaG8zTGM</link>
+
+
+
 
 </figure>
 
 </div>
 
-<div>
+<div id="p059r_2">
 
-<id>p059r_2</id>
+
 
 <head><m>Azure</m></head>
 

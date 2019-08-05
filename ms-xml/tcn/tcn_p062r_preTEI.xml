@@ -1,11 +1,11 @@
-<root>
-<page>062r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="062r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f129.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f129.image</image>
 
-<div>
 
-<id>p062r_1</id>
+
+<div id="p062r_1">
+
+
 
 <head>Perspectives</head>
 
@@ -27,9 +27,9 @@ fois cinq.</ab>
 
 </div>
 
-<div>
+<div id="p062r_2">
 
-<id>p062r_2</id>
+
 
 <head><m>Ocre</m></head>
 
@@ -40,9 +40,9 @@ rochers.</ab>
 
 </div>
 
-<div>
+<div id="p062r_3">
 
-<id>p062r_3</id>
+
 
 <head>Hommes et animaulx esloignés</head>
 
@@ -66,9 +66,9 @@ ainsy.</ab>
 
 </div>
 
-<div>
+<div id="p062r_4">
 
-<id>p062r_4</id>
+
 
 <head>Pourtraire</head>
 

@@ -1,11 +1,11 @@
-<root>
-<page>122v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="122v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f250.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f250.item.r=</image>
 
-<div>
 
-<id>p122v_1</id>
+
+<div id="p122v_1">
+
+
 
 <head>Nettoyer l<tl>escuelle</tl> et la <tl>cueillere</tl><lb/>
 
@@ -29,9 +29,9 @@ de gecter net</ab>
 
 </div>
 
-<div>
+<div id="p122v_2">
 
-<id>p122v_2</id>
+
 
 <head>Mouler en creux</head>
 
@@ -53,9 +53,9 @@ mouler creux quand au corps Mays quand aulx jambes<lb/>
 
 il seroit malaise</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <ups>L</ups>a premiere partye du <tl>moule</tl><lb/>
 
@@ -69,9 +69,9 @@ il seroit malaise</ab>
 
 </div>
 
-<div>
+<div id="p122v_3">
 
-<id>p122v_3</id>
+
 
 <head>Mouler medailles et choses<lb/>
 
@@ -79,21 +79,21 @@ plattes</head>
 
 <ab>Tu nes point astrainct de faire le gect a pattes ainsy<lb/>
 
-<figure>
+<figure id="fig_p122v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aTlRdkx2eVdtZXM">
 
-<id>fig_p122v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5aTlRdkx2eVdtZXM</link>
+
+
 
 </figure>
 
 Ains en ceste sorte
 
-<figure>
+<figure id="fig_p122v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5WFBpaEV5Ti1hRUU">
 
-<id>fig_p122v_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5WFBpaEV5Ti1hRUU</link>
+
+
 
 </figure>
 

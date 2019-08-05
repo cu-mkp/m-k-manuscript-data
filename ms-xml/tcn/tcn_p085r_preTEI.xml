@@ -1,13 +1,13 @@
-<root>
-<page>085r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="085r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f175.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f175.image</image>
 
-<div>
 
-<cont/>
 
-<id>p084v_4</id>
+<div continues="yes" id="p084v_4">
+
+
+
+
 
 <ab>reposer sur un <tl>table bien nette &amp; unie</tl>, &amp;
 co<exp>mm</exp>e elle est desiccative,<lb/>
@@ -92,8 +92,8 @@ le <m>metal</m>.
 <hr/>
 </ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Essaye de<lb/>
 
 mesler la<lb/>
@@ -104,14 +104,14 @@ avecq les aultres<lb/>
 
 <m>sables</m>.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin><mark>X</mark><comment>c_085r_02</comment>
+<mark>X</mark><comment rid="c_085r_02"/>
 
 </ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 <m>Huile</m> &amp; oingts<lb/>
 
 d’<m>huile d’<pa>aspic</pa></m>, qui <lb/>
@@ -122,8 +122,8 @@ car l’<m>huile</m> faict<lb/>
 
 soufler.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Il fault fort<lb/>
 
 mouiller avecq la <lb/>
@@ -146,8 +146,8 @@ faict mieulx mouler<lb/>
 
 et mieulx despouiller.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Il seroit bon de<lb/>
 
 remplir les <tl>chassis</tl><lb/>
@@ -166,8 +166,8 @@ dont tu remplis le<lb/>
 
 </div>
 
-<div>
-<id>p085r_1</id>
+<div id="p085r_1">
+
 <head><m>Vernis vert</m> pour les medailles de <m>cuivre</m></head>
 
 <ab>Les ayant gectées bien nettes, couvre les de <m>sel de
@@ -181,8 +181,8 @@ il sera vert. <m>Huile</m> les aprés &amp; les tiens soubs le
 
 </div>
 
-<div>
-<id>p085r_2</id>
+<div id="p085r_2">
+
 <head><m>Colle</m></head>
 
 <ab>Les <pl>Flamens</pl> recollent leurs <tl>pots de <m>terre</m></tl>

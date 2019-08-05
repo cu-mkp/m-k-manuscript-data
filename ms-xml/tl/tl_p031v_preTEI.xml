@@ -1,11 +1,11 @@
-<root>
-<page>031v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="031v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f68.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f68.image</image>
 
-<div>
 
-<id>p031v_1</id>
+
+<div id="p031v_1">
+
+
 
 <head><pro>Painter</pro></head>
 
@@ -20,9 +20,9 @@ egg</m>, and it appears to be done in <m>oil</m>. But
 
 </div>
 
-<div>
+<div id="p031v_2">
 
-<id>p031v_2</id>
+
 
 <head><tl>Brushes</tl></head>
 
@@ -31,9 +31,9 @@ for the harshness of the <m>quick-lime</m> &amp; use make them more handleable.<
 
 </div>
 
-<div>
+<div id="p031v_3">
 
-<id>p031v_3</id>
+
 
 <head>Painting from nature</head>
 
@@ -43,15 +43,15 @@ one ought to.</ab>
 
 </div>
 
-<div>
+<div id="p031v_4">
 
-<id>p031v_4</id>
+
 
 <head>Painting on glass</head>
 
 <ab>For blue, they take the coarsest <m><fr>azur d’esmail</fr></m> &amp; grind it
 on <tl><m>shale</m></tl>, &amp; mix in two or three <ms>rosary
-beads</ms>’ worth of <m>rocaille</m><comment>c_031v_02</comment> or more, according to the
+beads</ms>’ worth of <m>rocaille</m><comment rid="c_031v_02"/> or more, according to the
 quantity of the work. And having done their drawing with <m><fr>noir
 d’escaille</fr></m> (which is painted toward the light with the piece
 of <m>glass</m> upright), they lay all their pieces on <m>white

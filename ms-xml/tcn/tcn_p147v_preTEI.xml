@@ -1,19 +1,19 @@
-<root>
-<page>147v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="147v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f300.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f300.image</image>
 
-<div>
 
-<id>p147v_1</id>
+
+<div id="p147v_1">
+
+
 
 <head><mark>+</mark> Gect de <m>cuivre</m> allié de
 <m>☾</m><lb/>
 
 qui est co<exp>mm</exp>e <m>soubdure fort basse</m> <mark>/</mark>
-ard <ill/><comment>c_147v_01</comment><lb/>
+ard <ill/><comment rid="c_147v_01"/><lb/>
 
-et <m>vieulx K</m><comment>c_086v_03</comment> et quelque R<ill/><comment>c_147v_01</comment> sur
+et <m>vieulx K</m><comment rid="c_086v_03"/> et quelque R<ill/><comment rid="c_147v_01"/> sur
 xii</head>
 
 <ab>J’en ay gecté le plus net que j’ay veu en fort petites figures<lb/>
@@ -38,9 +38,9 @@ de ceste cy.</ab>
 
 </div>
 
-<div>
+<div id="p147v_2">
 
-<id>p147v_2</id>
+
 
 <head><m><tl>Luth</tl></m></head>
 
@@ -52,9 +52,9 @@ choisir des mieulx recuits.</ab>
 
 </div>
 
-<div>
+<div id="p147v_3">
 
-<id>p147v_3</id>
+
 
 <head><tl><oc>Crusol</oc></tl></head>
 
@@ -66,9 +66,9 @@ dess<del>us</del>oubs le cul du<lb/>
 
 <tl><oc>crusol</oc></tl>, aultrem<exp>ent</exp> il le refroidiroit.</ab></div>
 
-<div>
+<div id="p147v_4" continued="yes">
 
-<id>p147v_4</id>
+
 
 <head>Gect de <m>letton</m></head>
 
@@ -104,9 +104,9 @@ de <m>sel commun</m>. Ayant bien bouilly, je l’ay
 
 en <m>eau clere</m>. Et pource que la premiere foys il n’estoit</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Ne le laisse<lb/>
 
@@ -122,9 +122,9 @@ fondu</m> à cause<lb/>
 
 de la <m>calamine</m>.<lb/></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Communem<exp>ent</exp>, le <m>letton<lb/>
 
@@ -141,7 +141,7 @@ fœu, <del>m</del> pource que la <m>calamine</m> s’exhale.<lb/>
 Mays le <m>letton aigre de chandelier</m> vient jaulne &amp; la
 <m>limaille d’espingle</m>.</ab>
 
-<cont/>
+
 
 </div>
 </root>

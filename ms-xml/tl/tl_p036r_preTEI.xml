@@ -1,13 +1,13 @@
-<root>
-<page>036r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="036r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f77.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f77.image</image>
 
-<div>
 
-<cont/>
 
-<id>p035v_2</id>
+<div continues="yes" id="p035v_2">
+
+
+
+
 
 <ab>
 
@@ -16,20 +16,20 @@ it into the <tl>bag</tl> or <tl>pouch</tl>.</ab>
 
 </div>
 
-<div>
+<div id="p036r_1">
 
-<id>p036r_1</id>
+
 
 <head>For transmuting a <tl>ball</tl> into a <tl>thimble</tl>,
 cunning</head>
 
-<figure>
+<figure id="fig_p036r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UmZaWjV2VE82QjQ">
 
-<id>fig_p036r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5UmZaWjV2VE82QjQ</link>
+
+
+
 
 <caption>of <m>leather</m></caption>
 
@@ -53,8 +53,8 @@ fingers</bp></tl>, and do this with your <tl><bp>right hand</bp></tl>
 with which you are holding the <tl>stick</tl>. Next, you take your
 <tl><m>leather</m> sheath</tl> &amp; place it over the hollow
 <tl>ball</tl> which is in your <bp>fingers</bp>, &amp; making it seem as
-if you are putting some <m><fr>oribus</fr> powder</m><comment>c_036r_02</comment> over it, you put
-back the <tl><m>leather</m> mold</tl><comment>c_036r_01</comment> that
+if you are putting some <m><fr>oribus</fr> powder</m><comment rid="c_036r_02"/> over it, you put
+back the <tl><m>leather</m> mold</tl><comment rid="c_036r_01"/> that
 contains the <tl>ball</tl> with the <tl>thimble</tl> on the
 <tl>table</tl>, then you take the round &amp; solid <tl>ball</tl>
 remaining on the <tl>table</tl>, and command it to enter from under the

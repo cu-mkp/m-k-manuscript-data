@@ -1,13 +1,13 @@
-<root>
-<page>010r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="010r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f25.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f25.image</image>
 
-<div>
 
-<id>p010r_1</id>
 
-<head><m>Counterfeit<comment>c_003r_02</comment> jasper</m></head>
+<div id="p010r_1">
+
+
+
+<head><m>Counterfeit<comment rid="c_003r_02"/> jasper</m></head>
 
 <ab><add>
         
@@ -27,9 +27,9 @@ are not so appropriate here, although they are very beautiful.</add> <add>One
 needs to <m>oil</m> the unpainted reverse with <m><pa>spike
 lavender</pa> oil</m>.</add></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle" render="tall">
 
-<render>tall</render>
+
 
 You can encrust beds with it &amp; on the joints you can throw the
 <m>filings of talc or of pins</m> on the fresh <m>cement</m> of the said
@@ -45,9 +45,9 @@ piece of <m>horn</m>, then even it with a <tl><pro>joiner's</pro>plane</tl>.</ab
 
 </div>
 
-<div>
+<div id="p010r_2">
 
-<id>p010r_2</id>
+
 
 <head><m>Stil de grain yellow</m></head>
 
@@ -57,9 +57,9 @@ appropriate for <m>distemper</m> and <m>oil</m>. </ab>
 
 </div>
 
-<div>
+<div id="p010r_3">
 
-<id>p010r_3</id>
+
 
 <head><pa>Roses</pa></head>
 
@@ -70,9 +70,9 @@ know.</ab>
 
 </div>
 
-<div>
+<div id="p010r_4">
 
-<id>p010r_4</id>
+
 
 <head>Purple color</head>
 
@@ -84,9 +84,9 @@ on the quantity that you mix in.</ab>
 
 </div>
 
-<div>
+<div id="p010r_5">
 
-<id>p010r_5</id>
+
 
 <head><m>Powder</m> for hourglasses</head>
 

@@ -1,16 +1,16 @@
-<root>
-<page>073r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="073r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f151.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f151.image</image>
 
-<div>
 
-<id>p073r_1</id>
+
+<div id="p073r_1">
+
+
 
 <head>For making <m>blue varnish</m></head>
 
 <ab>Take the <m>blue of flowers <add>florey or of
-<pl>Flanders</pl></add></m><comment>c_073r_02</comment> &amp; <m>quicklime</m>, and put around
+<pl>Flanders</pl></add></m><comment rid="c_073r_02"/> &amp; <m>quicklime</m>, and put around
 four <ms><bp>fingers</bp></ms> of <m>water</m> over it, and let it soak one
 <ms><tmp>day</tmp></ms>. Take the <m>water</m> where the said
 <m>lime</m> has soaked, and put your <m>blue</m> with it, and lay
@@ -18,9 +18,9 @@ it down <corr>on</corr> the <m>wood</m>.</ab>
 
 </div>
 
-<div>
+<div id="p073r_2">
 
-<id>p073r_2</id>
+
 
 <head>For orange color</head>
 
@@ -30,9 +30,9 @@ set on your <m>wood</m>.</ab>
 
 </div>
 
-<div>
+<div id="p073r_3">
 
-<id>p073r_3</id>
+
 
 <head>For ridding <m>bone</m> or <m>horn</m> of grease</head>
 
@@ -45,9 +45,9 @@ the space of some time, and you will see a very beautiful green color.</ab>
 
 </div>
 
-<div>
+<div id="p073r_4">
 
-<id>p073r_4</id>
+
 
 <head>For making gray <m>wood</m></head>
 
@@ -58,13 +58,13 @@ and beat it together. Take <m>iron filings</m> &amp; <m>sulfur</m> &amp;
 it all boil together, and pound <m><pa>maplewood</pa></m> which will
 have been soaked in <m>alum water</m> and <m>well water</m>, &amp;
 put it to boil together. <add>All of this will be done better in a hollow
-<tl><m><fr>grais</fr></m></tl>.<comment>c_073r_07</comment></add></ab>
+<tl><m><fr>grais</fr></m></tl>.<comment rid="c_073r_07"/></add></ab>
 
 </div>
 
-<div>
+<div id="p073r_5" continued="yes">
 
-<id>p073r_5</id>
+
 
 <head>For making <m>bronze</m> in gold color</head>
 
@@ -74,7 +74,7 @@ of <m>sulfur</m>, and
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

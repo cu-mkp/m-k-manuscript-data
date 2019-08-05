@@ -1,11 +1,11 @@
-<root>
-<page>038r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="038r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f81.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f81.image</image>
 
-<div>
 
-<id>p038r_1</id>
+
+<div id="p038r_1">
+
+
 
 <head><m>Saphir</m></head>
 
@@ -37,9 +37,9 @@ de <m>taffre</m> ou d<m>esmail azure fort cler</m> parfondu sur le
 
 mort co<exp>mm</exp>e sur le <m>beril</m></add></ab></div>
 
-<div>
+<div id="p038r_2">
 
-<id>p038r_2</id>
+
 
 <head><m><pa>Safran</pa></m></head>
 
@@ -53,9 +53,9 @@ plus chault soleil</env> &amp; se mesle<lb/>
 
 </div>
 
-<div>
+<div id="p038r_3">
 
-<id>p038r_3</id>
+
 
 <head><m>Saphir</m></head>
 
@@ -89,9 +89,9 @@ le prenent au cul du <m>verre</m></ab>
 
 </div>
 
-<div>
+<div id="p038r_4">
 
-<id>p038r_4</id>
+
 
 <head><m>Ambre</m></head>
 
@@ -150,9 +150,9 @@ de <pl>cardonne</pl> &amp;<lb/>
 
 <pl>monserrat</pl></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Jay experimente<lb/>
 

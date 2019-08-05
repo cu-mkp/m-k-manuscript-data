@@ -1,17 +1,17 @@
-<root>
-<page>035r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="035r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f75.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f75.image</image>
 
-<div>
 
-<id>p035r_1</id>
+
+<div id="p035r_1">
+
+
 
 <head>Pour dire a quelquun que tu luy <del>monstreras</del><lb/>
 
 enseigneras une chose quil ne scait pas<lb/>
 
-ne toy aussy</head><comment>c_035r_01</comment>
+ne toy aussy</head><comment rid="c_035r_01"/>
 
 <ab>Ayes une <tl>fisselle</tl> ou <tl>petit baston</tl> et prens la
 mesure<lb/>
@@ -25,9 +25,9 @@ ne scavois pas ne luy aussy</ab>
 
 </div>
 
-<div>
+<div id="p035r_2">
 
-<id>p035r_2</id>
+
 
 <head>Pour fayre soubstenir un <tl>seau</tl> d<m>eau</m><lb/>
 
@@ -35,11 +35,11 @@ sur la poincte couchee de trois <tl>cousteaulx</tl><lb/>
 
 sans toucher a terre</head>
 
-<figure>
+<figure id="fig_p035r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SGstUTZ6TFRnUjg">
 
-<id>fig_p035r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SGstUTZ6TFRnUjg</link>
+
+
 
 </figure>
 
@@ -74,9 +74,9 @@ les poinctes sesleveront</ab>
 
 </div>
 
-<div>
+<div id="p035r_3">
 
-<id>p035r_3</id>
+
 
 <head>Pour faire bouillir sans fœu dans de l<m>eau<lb/>
 
@@ -95,9 +95,9 @@ deulx ou trois<lb/>
 
 </div>
 
-<div>
+<div id="p035r_4">
 
-<id>p035r_4</id>
+
 
 <head>Pour faire sortir les <al>connils</al> dun
 <env>terrier</env></head>

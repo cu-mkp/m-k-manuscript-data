@@ -1,19 +1,19 @@
-<root>
-<page>045r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="045r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f95.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f95.image</image>
 
-<div>
 
-<id>p045r_1</id>
+
+<div id="p045r_1">
+
+
 
 <head>Loading an <wp>arquebus with hail shot</wp></head>
 
-<figure>
+<figure id="fig_p045r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bkhmQklfNHJoRnc">
 
-<id>fig_p045r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5bkhmQklfNHJoRnc</link>
+
+
 
 </figure>
 
@@ -22,7 +22,7 @@ or 5 <bp>fingers</bp></ms>, which should be hollowed precisely according
 to the mouth of your barrel, of the form represented in <del>D</del> A.
 Then, having cut <m>strong paper, <del>of the</del> as of large printed
 books</m>, in the form of D, as <ms>wide as you want to make your
-cartridge<comment>c_045r_01</comment> long</ms>, wrap the <m>paper</m>
+cartridge<comment rid="c_045r_01"/> long</ms>, wrap the <m>paper</m>
 around the <tl>baton</tl> B &amp; at the end, where the point F will be,
 fold all around the said <m>paper</m>, &amp; your cartridge will be
 formed. But in order to make the bottom more uniform, put it into
@@ -30,8 +30,8 @@ formed. But in order to make the bottom more uniform, put it into
 end of the <tl>pipe</tl>, which is marked G, put the <tl>baton</tl> C
 &amp; beat so as to tamp &amp; press the folded tip of your cartridge,
 then take it out, &amp; load it. Put three or 4
-pieces of shot<comment>c_045r_02</comment> or
-tears<comment>c_045r_03</comment> into it. Then, with a
+pieces of shot<comment rid="c_045r_02"/> or
+tears<comment rid="c_045r_03"/> into it. Then, with a
 <tl>cutting-punch</tl>, marked E, which should be of the same caliber as
 your <wp>arquebus</wp> or <wp>pistol</wp>, punch round pieces on <m>cardboard</m> or
 <m>felt</m> or <m>waxed cloth</m>, and put this round piece into your
@@ -51,11 +51,11 @@ or a material stronger than <m>paper</m>, you ought not to make so long
 the part coming from the square to the point as in D, because it is enough
 that it wraps around twice. <mark>#</mark> In this manner, the hail
 shot barely scatters &amp; makes for great piercing against a door,
-cuirass body,<comment>c_045r_04</comment> and others.</ab>
+cuirass body,<comment rid="c_045r_04"/> and others.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <sup><mark>#</mark></sup> as <del>D</del> H
 

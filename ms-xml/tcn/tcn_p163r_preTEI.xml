@@ -1,11 +1,11 @@
-<root>
-<page>163r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="163r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f331.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f331.image</image>
 
-<div>
 
-<id>p163r_1</id>
+
+<div id="p163r_1">
+
+
 
 <head><pro>Parfumeur</pro></head>
 
@@ -78,9 +78,9 @@ posé.</ab>
 
 </div>
 
-<div>
+<div id="p163r_2">
 
-<id>p163r_2</id>
+
 
 <head><m>Eau de vye</m></head>
 

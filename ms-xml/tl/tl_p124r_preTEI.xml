@@ -1,10 +1,10 @@
-<root>
-<page>124r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="124r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f253.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f253.item.r=</image>
 
-<div>
-<id>p124r_1</id>
+
+
+<div id="p124r_1">
+
 <head>Animals with hair and fragile and very thin flowers</head>
 
 <ab>Animals with hair are awkward to mold because the hairs raise up
@@ -19,14 +19,14 @@ hair, capricious &amp; downy, need also to be anointed with the same
 leaves very delicate &amp; thin, for dry <m><pa>wheat</pa> oil</m> makes
 them rigid and firm. And if someone brags about molding what is
 presented to them, give them to mold the downy head of the plant called
-<pa><df>dandelion</df></pa><comment>c_124_01</comment> or a <pa>pappus</pa>, which comes from the
+<pa><df>dandelion</df></pa><comment rid="c_124_01"/> or a <pa>pappus</pa>, which comes from the
 seeds of <pa>burdock</pa> &amp; flies away at the slightest sigh of
 <env>wind</env>.</ab>
 
 </div>
 
-<div>
-<id>p124r_2</id>
+<div id="p124r_2">
+
 <head><fr>Noyaulx</fr> for molding hollow</head>
 
 <ab>Animals of <m>gold</m> &amp; <m>silver</m> can readily be molded
@@ -37,8 +37,8 @@ not dry.</ab>
 
 </div>
 
-<div>
-<id>p124r_3</id>
+<div id="p124r_3">
+
 <head><al>Spider</al>’s web</head>
 
 <ab>It comes undone in <m>water</m> &amp; thus, cannot be molded 
@@ -51,8 +51,8 @@ alloyed with lead</m>.</ab>
 
 </div>
 
-<div>
-<id>p124r_4</id>
+<div id="p124r_4">
+
 <head><m>Fine gold</m> </head>
 
 <ab>There is a property of <m>gold</m> which, even though it is very fine

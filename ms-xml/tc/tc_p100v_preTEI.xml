@@ -1,11 +1,11 @@
-<root>
-<page>100v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="100v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f206.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f206.image</image>
 
-<div>
 
-<id>p100v_1</id>
+
+<div id="p100v_1">
+
+
 
 <head><m>Pierrerie</m></head>
 
@@ -67,12 +67,12 @@ de <m>bronze</m></tl> broye avecq <del>un mort</del> dans un
 de pur <m>cuivre</m></tl>
 </ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 <emph><m>Esmeraulde</m></emph></ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Il fault faire<lb/>
 
@@ -92,19 +92,19 @@ que faire &amp; augmenter<lb/>
 
 le fœu
 
-<figure>
+<figure id="fig_p100v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5QUx4eF9qWU1jS28">
 
-<id>fig_p100v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5QUx4eF9qWU1jS28</link>
+
+
 
 </figure>
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Elles sont faictes<lb/>
 
@@ -112,9 +112,9 @@ en une <ms><tmp>heure &amp; demye</tmp></ms>
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Un <ms>gros</ms> de <m>sel</m><lb/>
 
@@ -134,9 +134,9 @@ des <m>sels</m> &amp; du <m>minium</m>
 
 </div>
 
-<div>
+<div id="p100v_2" continued="yes">
 
-<id>p100v_2</id>
+
 
 <head>Pour <m>ruby</m> prens de l<m>or<lb/>
 
@@ -160,9 +160,9 @@ avecq le <tl>pilon</tl> de mesme Mesles y <del><ms>un grain</ms></del>
 grain</ms> d<m>or en fœille</m> de quoy les <pro>painctres</pro>
 <m>dorent</m> &amp; broye</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 Aulcuns disent que<lb/>
 
@@ -176,9 +176,9 @@ faict couleur de<lb/>
 
 <pa>peschier</pa></ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 Aultres disent quil<lb/>
 
@@ -188,7 +188,7 @@ plusieurs foys cimente<lb/>
 
 puys battu en fœille</ab>
 
-<cont/>
+
 
 </div>
 </root>

@@ -1,10 +1,10 @@
-<root>
-<page>042v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="042v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f90.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f90.image</image>
 
-<div>
-<id>p042v_1</id>
+
+
+<div id="p042v_1">
+
 <head>Poncis pour esgratigner sur le<lb/>
 
 <m>satin</m></head>
@@ -27,8 +27,8 @@ avecq <del>d</del> un <tl>lopin de <m>verre</m></tl> ou
 
 </div>
 
-<div>
-<id>p042v_2</id>
+<div id="p042v_2">
+
 <head>Toile pour paindre a <m>huile</m><lb/>
 
 sans se rompre</head>
@@ -43,8 +43,8 @@ d<m>huile</m><lb/>
 
 </div>
 
-<div>
-<id>p042v_3</id>
+<div id="p042v_3">
+
 <head>paindre a <m>huile</m> sur <m>taffetas</m> <del>qui</del></head>
 
 <ab>Affin que l<m>huile</m> ne coure poinct fais ta couche premiere<lb/>
@@ -53,8 +53,8 @@ avecq <m>miel</m> <m>eau dalum</m> &amp; <m>eau damydon</m></ab>
 
 </div>
 
-<div>
-<id>p042v_4</id>
+<div id="p042v_4">
+
 <head><m>Sable de gect</m></head>
 
 <ab>Le principal est de le bien broyer sur le <tl><m>mabre</m></tl>
@@ -64,8 +64,8 @@ impalpable &amp; mesle un peu d<m>albastre calcine</m></ab>
 
 </div>
 
-<div>
-<id>p042v_5</id>
+<div id="p042v_5">
+
 <head>Pour pourfiler un portraict</head>
 
 <ab>Suis les traicts avecq de la <m>laque</m> broyee avecq<lb/>
@@ -74,8 +74,8 @@ impalpable &amp; mesle un peu d<m>albastre calcine</m></ab>
 
 </div>
 
-<div>
-<id>p042v_6</id>
+<div id="p042v_6">
+
 <head><m>Vernis blanc</m> sur le <m>plastre</m></head>
 
 <ab>Donne deulx ou trois <ms><bp>mains</bp></ms> de <m>colle bien

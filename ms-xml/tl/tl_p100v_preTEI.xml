@@ -1,11 +1,11 @@
-<root>
-<page>100v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="100v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f206.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f206.image</image>
 
-<div>
 
-<id>p100v_1</id>
+
+<div id="p100v_1">
+
+
 
 <head><m>Gemstones</m></head>
 
@@ -37,38 +37,38 @@ In this way, the <pro>common people</pro> make emeralds &amp; cast in
 of pure <m>copper</m></tl>.
 </ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 <emph>Emerald</emph></ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 One needs to reheat <tl>crucibles</tl> before putting in materials, and
 put them in the <tl><fr>fornaise</fr></tl> or <tl><fr>four à
 vent</fr></tl>, before making &amp; increasing the fire.
 
-<figure>
+<figure id="fig_p100v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5QUx4eF9qWU1jS28">
 
-<id>fig_p100v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5QUx4eF9qWU1jS28</link>
+
+
 
 </figure>
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 They are made in an <ms><tmp>hour &amp; a half</tmp></ms>.
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 A <ms><fr>gros</fr></ms> of <m>salt</m> on the four
 <ms>℥</ms> of <m>pebbles</m> &amp; <m>minium</m>. When
@@ -80,9 +80,9 @@ one <ms>℥</ms> of the body &amp; not of the
 
 </div>
 
-<div>
+<div id="p100v_2" continued="yes">
 
-<id>p100v_2</id>
+
 
 <head>For <m>ruby</m> take some <m>gold leaf</m></head>
 
@@ -94,21 +94,21 @@ mix in <del><ms>grain</ms></del> the <ms>weight of a
 grain</ms> of <m>gold leaf</m> of what the <pro>painters</pro>
 <m>gild</m>, &amp; grind</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 Some say that, mixing the <m>gold</m> with the <m>pebbles</m> and the
 <m>saltpeter</m>, it makes the color of a <pa>peach tree</pa></ab>.
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 Others say that it is necessary that the <m>gold</m> be cemented several
 times then beaten into leaf.</ab>
 
-<cont/>
+
 
 </div>
 </root>

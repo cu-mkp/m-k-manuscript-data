@@ -1,13 +1,13 @@
-<root>
-<page>017v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="017v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f40.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f40.image</image>
 
-<div>
 
-<cont/>
 
-<id>p017r_1</id>
+<div continues="yes" id="p017r_1" continued="yes">
+
+
+
+
 
 <ab>Le <wp>grand canon</wp> qui est pour grandes batteries poise<lb/>
 
@@ -59,7 +59,7 @@ pas le refraischir si souvent Sur deulx <ms>quintals</ms> de
 ou deulx <ms>quintals &amp; demy</ms> si cest pour <wp>grands canons</wp> on
 mect<lb/>
 
-un <ms>quintal</ms> de <m>metal</m><comment>c_016v_05</comment> <add><mark>#</mark></add> Le
+un <ms>quintal</ms> de <m>metal</m><comment rid="c_016v_05"/> <add><mark>#</mark></add> Le
 <m>metal</m> se compose au comma<exp>n</exp>cem<exp>ent</exp><lb/>
 
 de huict <ms>lb</ms> d<m>estain</m> sur un <ms>quintal</ms> de
@@ -103,9 +103,9 @@ qui sont plus longs que les aultres et sont volontiers de huict<lb/>
 <del>s</del> les logeant par <env>trenchees</env> sur le <env>bort du
 fosse</env> <tmp>de nuict</tmp></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>◯</mark>
 
@@ -129,9 +129,9 @@ coste la <ms>troisiesme<lb/>
 
 partye dune balle</ms></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <del>Ain</del><lb/>
 
@@ -149,9 +149,9 @@ d<wp>harquebus</wp></m> &amp; aulx<lb/>
 
 aultres le mesme</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>#</mark>
 
@@ -165,14 +165,14 @@ sur deulx de <m>rosette</m></ms><lb/>
 
 Mays ceulx de <pl>t<exp>ou</exp>l<exp>ou</exp>se</pl> &amp;<lb/>
 
-<pn>Poncet</pn><comment>c_017v_04</comment> mect iii de
+<pn>Poncet</pn><comment rid="c_017v_04"/> mect iii de
 <m>rosette</m><lb/>
 
 &amp; un de <m>metal</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 La <m>rosette</m> a refondre<lb/>
 
@@ -184,9 +184,9 @@ qui sen vont toute<lb/>
 
 en <m>crasse</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Les <wp>pieces ancienes</wp><lb/>
 
@@ -210,7 +210,7 @@ du <tl>burin</tl> se trouve mesle de<lb/>
 
 jaulne &amp; de blanc</ab>
 
-<cont/>
+
 
 </div>
 </root>

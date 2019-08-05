@@ -1,13 +1,13 @@
-<root>
-<page>170r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="170r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f345.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f345.image</image>
 
-<div>
 
-<cont/>
 
-<id>p169v_2</id>
+<div continues="yes" id="p169v_2">
+
+
+
+
 
 <ab><m>perfume</m>, &amp; suchlike. But take heed that it is
 necessary that the <m><add>black</add> wax</m>, with which you mold, be
@@ -18,13 +18,13 @@ harder by adding into the already melted one more <m>melted sulfur</m>
 
 </div>
 
-<div>
+<div id="p170r_1">
 
-<id>p170r_1</id>
+
 
 <head>Currency medals</head>
 
-<ab>One makes the <tl>relief puncheons</tl> of <m>untempered steel</m>,<comment>c_170r_03</comment>
+<ab>One makes the <tl>relief puncheons</tl> of <m>untempered steel</m>,<comment rid="c_170r_03"/>
 then one tempers the<corr>m</corr>, &amp; with <corr>these</corr> one
 strikes on <tl>matrices</tl>, not reddened in fire, as some think, but
 on <tl><m>steeled iron</m></tl>, reheated &amp; softened, which one has afterward
@@ -32,9 +32,9 @@ quenched.</ab>
 
 </div>
 
-<div>
+<div id="p170r_2">
 
-<id>p170r_2</id>
+
 
 <head>Cast</head>
 
@@ -45,9 +45,9 @@ taking your time.</ab>
 
 </div>
 
-<div>
+<div id="p170r_3">
 
-<id>p170r_3</id>
+
 
 <head><tl>Clamps</tl></head>
 
@@ -56,9 +56,9 @@ taking your time.</ab>
 
 </div>
 
-<div>
+<div id="p170r_4">
 
-<id>p170r_4</id>
+
 
 <head><tl>Molds</tl></head>
 
@@ -69,9 +69,9 @@ drie<corr>d</corr> <env>in the open</env>, &amp; uncovered.</ab>
 
 </div>
 
-<div>
+<div id="p170r_5">
 
-<id>p170r_5</id>
+
 
 <head>Thick works of <m>tin</m></head>
 
@@ -82,9 +82,9 @@ tin</m>.</ab>
 
 </div>
 
-<div>
+<div id="p170r_6">
 
-<id>p170r_6</id>
+
 
 <head>Cleaning closed <tl>molds</tl></head>
 
@@ -92,21 +92,21 @@ tin</m>.</ab>
 for when hot they retain the <m>ash</m>. When cold, they are cleaned better. Take a <tl><m>thin wire of latten</m></tl> or a <tl><m>delicate straw</m></tl> to clean the tail completely, for this is what makes the gate. Blow into it &amp; suck, drawing it to you. Before molding,
 thicken the tail with <m>wax</m>, then cut it,
 
-<figure>
+<figure id="fig_p170r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5amQ1YVRWWnFGWUE">
 
-<id>fig_p170r_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5amQ1YVRWWnFGWUE</link>
+
+
 
 </figure></ab>
 
-<ab><margin>left-top</margin>
+<ab margin="left-top">
 
-<figure>
+<figure id="fig_p170r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5S3FNaEt0QmN1alU">
 
-<id>fig_p170r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5S3FNaEt0QmN1alU</link>
+
+
 
 </figure>
 

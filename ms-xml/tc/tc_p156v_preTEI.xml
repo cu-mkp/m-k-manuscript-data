@@ -1,10 +1,10 @@
-<root>
-<page>156v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="156v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f318.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f318.item.r=</image>
 
-<div>
-<id>p156v_1</id>
+
+
+<div id="p156v_1">
+
 <head>Mouler une <al>mousche</al></head>
 
 <ab>P<exp>rens</exp> des plus <al>grosses <del>vo</del>mouches</al> qui
@@ -40,7 +40,7 @@ faict<lb/>
 communem<exp>ent</exp> les jambes &amp; aisles a part &amp; on les
 raporte<lb/>
 
-Jen ay moule une sur un<del>e</del>g<comment>c_156_03</comment> <del>fœuille de
+Jen ay moule une sur un<del>e</del>g<comment rid="c_156_03"/> <del>fœuille de
 <pa>saulge</pa></del> bouquet de <pa>sauge</pa><lb/>
 
 qui avoict sept ou huict fœuilles Et pour fayre son<lb/>
@@ -65,7 +65,7 @@ d<m>huile<lb/>
 de <pa>froment</pa></m> Et pour abattre &amp; faire coucher le poil
 <add>lanugineux</add><lb/>
 
-quelle avoit je loignis aussy dun<comment>c_156_04</comment> peu d<m>huile
+quelle avoit je loignis aussy dun<comment rid="c_156_04"/> peu d<m>huile
 d<pa>olif</pa></m></ab>
 
 <ab>Je ne laissay pas beaucoup seicher l<m>huile de <pa>froment</pa></m>
@@ -74,7 +74,7 @@ pourceq<exp>ue</exp><lb/>
 il est espes &amp; ha corps &amp; que l<m>eau de vye</m> ny prent
 point</ab>
 
-<ab>Pour lonction l<del>a</del>e<comment>c_156v_05</comment> <m>suif</m> est trop aspre
+<ab>Pour lonction l<del>a</del>e<comment rid="c_156v_05"/> <m>suif</m> est trop aspre
 la <m>gresse de <al>porceau</al></m><lb/>
 
 est trop molle Et le <m>beurre</m> est le plus excellent pource
@@ -105,8 +105,8 @@ bien<lb/>
 venu Et mesmem<sup><exp>ent</exp></sup> le bouquet de <pa>sauge</pa> qui est
 fort beau moule</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 On la pourroit bien gecter d<m>or</m> &amp; d<m>argent</m> sans les
 pieds &amp; sans lapliquer sur une fleur<lb/>
 
@@ -125,8 +125,8 @@ aisles &amp; pieds co<exp>mm</exp>e<lb/>
 
 dict est</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Si ta <pa>sauge</pa> ou<lb/>
 
 branche a quelque<lb/>
@@ -141,19 +141,19 @@ pains selon le<lb/>
 
 naturel
 
-<figure>
+<figure id="fig_p156v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5VjFPeWlJc05CbDQ">
 
-<id>fig_p156v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5VjFPeWlJc05CbDQ</link>
+
+
 
 </figure>
 
 </ab>
 
-<ab>
-<margin>left-middle</margin>
-<hr/><comment>c_156v_01</comment>
+<ab margin="left-middle">
+
+<hr/><comment rid="c_156v_01"/>
 
 Estant gectee en <m>or</m><lb/>
 
@@ -165,8 +165,8 @@ de <pl>lorraine</pl></m> qui est<lb/>
 
 verdesin et transparens<hr/></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Il fault faire<lb/>
 
 le gect de la <al>mouche</al><lb/>
@@ -187,12 +187,12 @@ la <al>mouche</al> sattache<lb/>
 
 fondant sert de<lb/>
 
-gect a la <al>mouche</al><comment>c_156v_02</comment><hr/>
+gect a la <al>mouche</al><comment rid="c_156v_02"/><hr/>
 
 </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 <mark>+</mark>
 Sil vient quelque<lb/>
@@ -203,7 +203,7 @@ de ta <al>mouche</al> bas de<lb/>
 
 l<m>estain</m> fort tanvre<lb/>
 
-<del>&amp;</del>ou<comment>c_156v_06</comment> d<m>or</m> ou d<m>argent</m><lb/>
+<del>&amp;</del>ou<comment rid="c_156v_06"/> d<m>or</m> ou d<m>argent</m><lb/>
 
 si tu len as gectee<lb/>
 

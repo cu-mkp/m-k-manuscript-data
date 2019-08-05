@@ -1,13 +1,13 @@
-<root>
-<page>003v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="003v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f12.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f12.image</image>
 
-<div>
 
-<cont/>
 
-<id>p003r_3</id>
+<div continues="yes" id="p003r_3">
+
+
+
+
 
 <ab>instead of <m>fine turpentine</m>. And you can put into two
 <ms>lbs</ms> of <del>tou</del><m>common turpentine</m> one <ms>lb</ms>
@@ -16,11 +16,11 @@ will cost you no more than five or six <cn>sous</cn> per
 <ms>lb</ms> &amp; is sold for 40 <cn>sous</cn> per
 <ms>lb</ms>.</ab>
 
-<figure>
+<figure id="fig_p003v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ZUY4SkZBblA5MjA">
 
-<id>fig_p003v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5ZUY4SkZBblA5MjA</link>
+
+
 
 </figure>
 
@@ -37,22 +37,22 @@ do not need a <tl>oven</tl> for this <tl><m>copper</m> vessel</tl>, but
 only <m>charcoal</m> around it if it has a flat bottom, but if it is
 round, you will place it on a <tl>trivet</tl>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
  It is better to heat the <m>varnish</m> a little bit, rather than to
 put it out <env>in the sun</env>, because this makes the panel
 <po>warp</po>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
  Some say it is not good to distil in this <tl><m>copper</m>
 vessel</tl> because it makes things green. However, when <m>tinned</m>, it is
 good.</ab>
 
 </div>
 
-<div>
-<id>p003v_1</id>
+<div id="p003v_1">
+
 <head>For varnishing</head>
 
 <ab><m>Turpentine varnish</m> does not need any <m>glue</m> because it

@@ -1,10 +1,10 @@
-<root>
-<page>127v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="127v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f260.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f260.image</image>
 
-<div>
-<id>p127v_1</id>
+
+
+<div id="p127v_1">
+
 <head><m>Terre des <pro>fondeurs</pro></m></head>
 
 <ab>Cest de la <m>terre <pl>bolvene</pl></m> meslee de <m>fiens</m> ou
@@ -96,8 +96,8 @@ coma<exp>n</exp>cem<exp>ent</exp><lb/>
 mects y &amp; adjouste peu des charbons demy allumes a la
 <tl>forge</tl></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 La <m>terre de laquelle <ups>les
 <pro>sarruriers</pro></ups><lb/>
 
@@ -125,22 +125,22 @@ fond <del>est</del> ne peult manquer<lb/>
 
 en cecy</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <add><tl><m>Fil de fer</m></tl> pour donner liaison</add></ab>
 
-<figure>
+<figure id="fig_p127v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5S2VzRmhYUWpfbmc">
 
-<id>fig_p127v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5S2VzRmhYUWpfbmc</link>
+
+
+
 
 </figure>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <add><m><tl>Lute</tl></m> espes tes<lb/>
 
 <tl>moules</tl> &amp; silz sont<lb/>
@@ -153,8 +153,8 @@ a bon fœu mesmem<exp>ent</exp> ceulx de<lb/>
 
 <m><la>crocum</la></m></add></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Si la <m>terre</m> est<lb/>
 
 bonne &amp; <del>l</del> ne se fend<lb/>
@@ -179,10 +179,10 @@ a laise a fœu<lb/>
 
 clos &amp; ne les exposes<lb/>
 
-pas chaulx <comment>c_127v_02</comment> a lair</ab>
+pas chaulx <comment rid="c_127v_02"/> a lair</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <m><tl>Lute</tl></m> asses espes<lb/>
 
 a deulx ou trois<lb/>
@@ -195,17 +195,17 @@ affin que l<m>argent</m> ne<lb/>
 
 sorte du <tl>moule</tl></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Recuits en <tl>four<lb/>
 
 de reverberation</tl>
-<hr/><comment>c_127v_03</comment></ab>
+<hr/><comment rid="c_127v_03"/></ab>
 
 
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Pour essayer si ta<lb/>
 
 <m>terre</m> est bonne plustost<lb/>

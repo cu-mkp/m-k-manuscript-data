@@ -1,10 +1,10 @@
-<root>
-<page>003r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="003r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f11.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f11.image</image>
 
-<div>
-<id>p003r_1</id>
+
+
+<div id="p003r_1">
+
 <head><m>Coral contrefaict</m></head>
 
 <mark>+</mark>
@@ -34,10 +34,10 @@ tes branches dedans, &amp; s’il y restoit quelque filament<lb/>
 
 tourne la branche sur la chaleur du <m>charbon</m>.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top" render="tall">
 
-<render>tall</render>
+
+
 La <m>colophonie</m> n’est aultre chose que<lb/>
 
 <m>rousine</m> recuite. Pour bien la faire,<lb/>
@@ -100,19 +100,19 @@ tant mieulx seroit, mais<lb/>
 
 il seroit trop long.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 <m>Soufre</m> &amp; <m>vermeillon</m><lb/>
 
 faict le mesme effect.</ab>
 
-<ab>
-<margin>top</margin>
+<ab margin="top">
+
 Le <m>coral</m> faict d’<m>esmail de gueule</m> endure la <tl>lime</tl>
 et le polissem<exp>ent</exp>.</ab>
 
-<ab>
-<margin>right-top</margin>
+<ab margin="right-top">
+
 Il se faict co<exp>mm</exp>e le <m>ciment</m>, qui est<lb/>
 
 plus fort meslé de <m>verre <del>que de</del><lb/>
@@ -127,8 +127,8 @@ de gueule</m>, qui est rouge en corps, bien<lb/>
 
 </div>
 
-<div>
-<id>p003r_2</id>
+<div id="p003r_2">
+
 <head><m>Vernis</m> pour tableaulx</head>
 <ab>P<exp>rendre</exp> une <ms>lb</ms> de <m>tourmentine de
 <pl>Venise</pl></m> &amp; la faire chaufer<lb/>
@@ -166,10 +166,10 @@ qu’<tmp>en esté</tmp>.<lb/>
 Il se vend communem<exp>ent</exp> quinze <cn>sols</cn> la
 <ms>lb</ms>.</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom" render="tall">
 
-<render>tall</render>
+
+
 Il fault un peu plus<lb/>
 
 de <m>tourmentine</m> que<lb/>
@@ -200,10 +200,10 @@ tableaulx, car cela<lb/>
 
 ne faict qu’oster leur jour.</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom" render="wide">
 
-<render>wide</render>
+
+
 Mays c’est pour faire rehaulser les couleurs qui sont imbeues et les
 garder de la<lb/>
 
@@ -213,8 +213,8 @@ poulsiere. Le <m>vernis de mastic</m> ne soubstient point la
 
 </div>
 
-<div>
-<id>p003r_3</id>
+<div id="p003r_3" continued="yes">
+
 <head><m>Gros vernis</m> pour le plancher</head>
 
 <ab>Il y a du <m>vernis</m> qui est long à seicher &amp; degoute plus de
@@ -235,7 +235,7 @@ verdastre la couleur bleue des tableaulx. Cestuy se faict<lb/>
 
 comme l’aultre horsmis qu’on mect <m>grosse tourmentine commune</m></ab>
 
-<cont/>
+
 
 </div>
 </root>

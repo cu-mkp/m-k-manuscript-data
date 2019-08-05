@@ -1,33 +1,33 @@
-<root>
-<page>043r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="043r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f91.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f91.image</image>
 
-<div>
-<id>p043r_1</id>
+
+
+<div id="p043r_1">
+
 <head><pa><fr>Mericotons</fr></pa> and <pa><fr>pavis</fr></pa></head>
 
 <ab>One should graft them <del><fr>en</fr></del> during <tmp>Advent of
 Christmas</tmp> provided that it does not freeze too much.</ab>
 
 </div>
-<div>
-<id>p043r_2</id>
+<div id="p043r_2">
+
 <head>White bronzing on <m>plaster</m></head>
 
 <ab>One needs to give four layers of <m><pro>painters</pro>’ distemper glue</m>
 on the <m>plaster</m> portrait, always leaving each layer to
 dry. Next, with <m>minium from <pl>England</pl> </m> ground on marble, or
 burnt <m>lead</m>, grind <del>av</del> &amp; temper with a bit of
-<m>gum</m> or <del><fr>go</fr></del> <m>glue</m>, &amp;<comment>c_043r_02</comment> coat lightly. Once
+<m>gum</m> or <del><fr>go</fr></del> <m>glue</m>, &amp;<comment rid="c_043r_02"/> coat lightly. Once
 dry, rub lightly with a little <m>cotton</m> and the <m>plaster</m>
 portrait will seem to be of <m>lead</m>. Others grind <m>minium</m> with
 <m>quicksilver</m>.</ab>
 
 </div>
 
-<div>
-<id>p043r_3</id>
+<div id="p043r_3">
+
 <head><m>Purpurine</m></head>
 
 <ab><it>℞ <m>stagno</m> dolce, <ms>meza onça</ms>, farlo
@@ -66,12 +66,12 @@ con<lb/>
 <tl><bp>ditto</bp></tl> la <m>purpurina</m> dove vorrette. Tanto più ne
 darette, sarà<lb/>
         
-piu bello. Dapoi, si volete, datte <m>vernice</m> sopra</it>.<comment>c_043r_01</comment></ab>
+piu bello. Dapoi, si volete, datte <m>vernice</m> sopra</it>.<comment rid="c_043r_01"/></ab>
 
 </div>
 
-<div>
-<id>p043r_4</id>
+<div id="p043r_4">
+
 <head>White bronzing</head>
 
 <ab>Apply black with <m>glue</m>, as was said, on the medal, then

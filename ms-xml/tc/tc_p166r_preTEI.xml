@@ -1,10 +1,10 @@
-<root>
-<page>166r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="166r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f337.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f337.item.r=</image>
 
-<div>
-<id>p166r_1</id>
+
+
+<div id="p166r_1" continued="yes">
+
 <head>Pour la <env>boutique</env></head>
 
 <ab>Si quelque chose est obmis le <pro>moissonneur</pro> pour laisser
@@ -42,13 +42,13 @@ toutes choses actives</ab>
 
 <ab>
 
-<comment>c_166r_01</comment>Si le zelotype<comment>c_166r_10</comment> reprend que ce sont choses
+<comment rid="c_166r_01"/>Si le zelotype<comment rid="c_166r_10"/> reprend que ce sont choses
 ramassees &amp; prinses daultruy<lb/>
 
 responds que puys que <la>nullum est jam dictum quod non dictum aut
 factum<lb/>
 
-sit prius</la><comment>c_166r_06</comment> &amp; que on tient que dans l<tmp>espace de mille
+sit prius</la><comment rid="c_166r_06"/> &amp; que on tient que dans l<tmp>espace de mille
 ans</tmp> tous les arts ont<lb/>
 
 este inventes que tu ne penses pas pouvoir inventer quelque chose
@@ -97,7 +97,7 @@ les bobines &amp; pelotons Le <pro>masson</pro> navoir faict la
 seulem<exp>ent</exp> ramasse les pierres toutes faictes
 <la><pn>Apollo</pn> a <pn>Chirone</pn> <pro>medicari</pro><lb/>
 
-didicit &amp; tamen Deus medicinae habitus</la><comment>c_166r_08</comment> <la><pn>Homerus</pn>
+didicit &amp; tamen Deus medicinae habitus</la><comment rid="c_166r_08"/> <la><pn>Homerus</pn>
 <pn>orphei</pn> poema<lb/>
 
 imitatus est Nam cum <pn>Orpheus</pn> sic prius exorsus esset Iram cane
@@ -107,9 +107,9 @@ imitatus est Nam cum <pn>Orpheus</pn> sic prius exorsus esset Iram cane
 <pn>Pelidae</pn><lb/>
 
 <pn>achillis</pn> In <pn>Justino martire</pn> circa
-princip<exp>ium</exp><comment>c_166r_09</comment></la></ab>
+princip<exp>ium</exp><comment rid="c_166r_09"/></la></ab>
 
-<cont/>
+
 
 </div>
 </root>

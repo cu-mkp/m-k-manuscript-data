@@ -1,13 +1,13 @@
-<root>
-<page>069r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="069r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f143.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f143.image</image>
 
-<div>
 
-<cont/>
 
-<id>p068r_3</id>
+<div continues="yes" id="p068r_3">
+
+
+
+
 
 <ab>with <ms>half</ms> <m>lead</m> comes out almost better than <m>pure tin
 <del>pure</del> <del><add>or</add></del> or lead</m>, even
@@ -16,8 +16,8 @@ cast <m>lead</m> at all as hot as <m>tin</m>. In big works it is necessary
 to moisten the <m>sands</m> with <m><fr>magistra</fr></m> or <m>glair of egg</m>.</ab>
 
 </div>
-<div>
-<id>p069r_1</id>
+<div id="p069r_1">
+
 <head><pro>Joiner</pro></head>
 
 <ab>Three things take the longest to make: leaves, hair &amp;
@@ -25,8 +25,8 @@ garlands.</ab>
 
 </div>
 
-<div>
-<id>p069r_2</id>
+<div id="p069r_2" continued="yes">
+
 <head><m>Sand</m></head>
 
 <ab>You should not choose for casting the one that is in any way so lean
@@ -55,12 +55,12 @@ is quite granular, &amp; that when cushed between the
 <tl><bp>fingers</bp></tl>, it renders itself into very great subtlety, <del>like 
 impalpable</del>, keeping nevertheless its sandy asperity, without <m>muddying</m> the
 <tl><bp>fingers</bp></tl> like <m>clay</m>. It is dried slightly on the
-<del><ill/></del>fire,<comment>c_069r_05</comment> then it is <tl>pestled</tl> &amp; passed finely through a <tl>double
+<del><ill/></del>fire,<comment rid="c_069r_05"/> then it is <tl>pestled</tl> &amp; passed finely through a <tl>double
 sieve</tl> or a <tl><m>linen</m> sleeve</tl>, then is moistened with
-<m>wine</m> or <m><fr>magistra</fr></m> &amp;<corr>c</corr> / <emph><la>Verte</la></emph><comment>c_069r_02</comment></ab>
+<m>wine</m> or <m><fr>magistra</fr></m> &amp;<corr>c</corr> / <emph><la>Verte</la></emph><comment rid="c_069r_02"/></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 The <pl>Toulouse</pl> <pro>molder</pro> reheats it strongly then grinds
 it finely on <tl><m>marble</m></tl> and passes it through a
 <tl><m>linen</m></tl> &amp; moistens <del><fr>pass</fr></del> it with
@@ -68,11 +68,11 @@ it finely on <tl><m>marble</m></tl> and passes it through a
 flat &amp; barely deep. He casts <m>pure latton used for <fr>trebuschets</fr></m>
 &amp; similar thin things. He casts very hot.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
  Try <m>calcined vitriol</m>.</ab>
 
-<cont/>
+
 
 </div>
 </root>

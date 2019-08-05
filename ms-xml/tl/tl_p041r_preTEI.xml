@@ -1,11 +1,11 @@
-<root>
-<page>041r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="041r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f87.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f87.image</image>
 
-<div>
 
-<id>p041r_1</id>
+
+<div id="p041r_1">
+
+
 
 <head><m>Earth for casting, for <pro>founders</pro></m></head>
 
@@ -23,9 +23,9 @@ And when the <m>earth</m> is very fat, one needs to give it more <m>sand</m>
 in and of themselves mixed with <m>sand</m>. If they are not, do it by artifice.
 One always needs to reheat the <m>earths</m> before casting.</ab></div>
 
-<div>
+<div id="p041r_02">
 
-<id>p041r_02</id>
+
 
 <head><pa>Garden lily</pa></head>
 
@@ -33,9 +33,9 @@ One always needs to reheat the <m>earths</m> before casting.</ab></div>
 only <ms><tmp>in the following year</tmp></ms>, &amp; I believe
 bulbous herbs do this.</ab></div>
 
-<div>
+<div id="p041r_03">
 
-<id>p041r_03</id>
+
 
 <head><m>Sand</m></head>
 
@@ -54,15 +54,15 @@ it with a <ms>quarter part</ms> of <m>tripoli</m>. Guard against
 <m>bread</m> falling into your <m>sand</m> because it makes it very
 porous.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Try mixing in <m>soot black</m>.</ab></div>
 
-<div>
+<div id="p041r_04">
 
-<id>p041r_04</id>
+
 
 <head><al>Ducks</al></head>
 

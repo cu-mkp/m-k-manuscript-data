@@ -1,10 +1,10 @@
-<root>
-<page>004v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="004v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f14.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f14.image</image>
 
-<div>
-<id>p004v_1</id>
+
+
+<div id="p004v_1">
+
 <head><m>Vernis noir</m> pour garde<lb/>
 
 d’espée, bandes de bahus &amp;<corr>c</corr></head>
@@ -45,8 +45,8 @@ quand tu verras qu’il ne <m>fumera</m> plus, c’est faict et ton<lb/>
 
 <m>vernis</m> est sec.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Pour excellent <m>vernis<lb/>
 
 noir</m> mects deulx ou<lb/>
@@ -55,14 +55,14 @@ trois <ms>patenostres</ms> de<lb/>
 
 <m>geyct</m> parmy le reste.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Aulcuns estiment l’<m>huile<lb/>
 
 de <pa>noix</pa></m> meilleur.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 S’il y a quantité de<lb/>
 
 <m>vernis</m>, il fault bien<lb/>
@@ -89,8 +89,8 @@ le doncq dans une<lb/>
 
 descouvert</env>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 En cinq ou six <ms>lb</ms> d’<m>huile</m>,<lb/>
 
 on mect une <ms>lb</ms> de <m>galipot</m><lb/>
@@ -105,8 +105,8 @@ noir, mays il se<lb/>
 
 noircist au fœu.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Voy cy aprés<lb/>
 
 vers la 3 partye<lb/>
@@ -119,8 +119,8 @@ du <pro>fourbisseur.</pro></ab>
 
 </div>
 
-<div>
-<id>p004v_2</id>
+<div id="p004v_2">
+
 <head><m>Vernis noir</m> sans fœu, sans<lb/>
 
 demonter les harnois ou deffaire<lb/>
@@ -141,8 +141,8 @@ tost.</ab>
 
 </div>
 
-<div>
-<id>p004v_3</id>
+<div id="p004v_3" continued="yes">
+
 <head><m>Vernis des <pro>graveurs sur le<lb/>
 
 fer</pro></m></head>
@@ -172,7 +172,7 @@ qu’en user, &amp; tout se destrempera. Aprés estens de ceste<lb/>
 
 liqueur ou saulce sur la chose gravée avecq une <tl>esponge</tl></ab>
 
-<cont/>
+
 
 </div>
 </root>

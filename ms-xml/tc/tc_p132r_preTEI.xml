@@ -1,13 +1,13 @@
-<root>
-<page>132r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="132r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f269.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f269.item.r=</image>
 
-<div>
 
-<cont/>
 
-<id>p131v_1</id>
+<div continues="yes" id="p131v_1">
+
+
+
+
 
 <ab>de nouvrir pas trop chault ton <tl>moule</tl> Car cela aigrist
 faict<lb/>
@@ -21,8 +21,8 @@ cela<lb/>
 fait retirer <del>le met</del> l<m>estain</m> ou <m>plomb</m></ab>
 
 </div>
-<div>
-<id>p132r_1</id>
+<div id="p132r_1">
+
 <head><tl>Moule</tl> faict a deulx gects</head>
 
 <ab>Il souvre estant recuit pour le nettoyer apres on remect<lb/>
@@ -48,8 +48,8 @@ co<exp>mm</exp>e il seroit<lb/>
 
 tout rouge</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Si ton <tl>moule</tl><lb/>
 
 <del>f</del> par le default<lb/>
@@ -73,8 +73,8 @@ reserrer &amp; le<lb/>
 et le reserrer</ab>
 
 </div>
-<div>
-<id>p132r_2</id>
+<div id="p132r_2" continued="yes">
+
 <head>Forme de recuire les <tl>moules</tl></head>
 
 <ab>Allume des <m>charbons</m> a la <tl>forge</tl> &amp; puys disposes
@@ -124,8 +124,8 @@ allumes &amp; ne le descouvre pas car il se fendroit Garde que le<lb/>
 
 <env>vent dune fenestre</env> ne batte pas dessus Laisse refroidir</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Quand tu<lb/>
 
 veulx recuire<lb/>
@@ -166,8 +166,8 @@ dessoubs que<lb/>
 
 sur le dos </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Si ton <tl>moule</tl> est<lb/>
 
 petit il ne le fault<lb/>
@@ -180,7 +180,7 @@ corrompt et se fend<lb/>
 
 <ups>car il est plustost recuict quun grand</ups></ab>
 
-<cont/>
+
 
 </div>
 </root>

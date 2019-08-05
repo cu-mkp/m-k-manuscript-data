@@ -1,13 +1,13 @@
-<root>
-<page>140r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="140r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f285.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f285.image</image>
 
-<div>
 
-<cont/>
 
-<id>p139v_1</id>
+<div continues="yes" id="p139v_1" continued="yes">
+
+
+
+
 
 <ab> like other things, &amp; on this occasion, you can cast in two or
 three times until your <tl>mold</tl> is full. As for the <tl>mold which
@@ -31,11 +31,11 @@ better.</ab>
 
 <ab>Make the first
 
-<figure>
+<figure id="fig_p140r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NFdsdU4tVFgxOTg">
 
-<id>fig_p140r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5NFdsdU4tVFgxOTg</link>
+
+
 
 </figure> gate twice as large as for other <tl>molds</tl>. And if, in
 the first cast, your work becomes porous and does not come out neat,
@@ -59,21 +59,21 @@ from a <tl>candle</tl>. And on this occasion, <del><fr>que</fr></del> I
 think it will cast very neatly for medals. One uses the same <m>wax</m>
 in place of <m>varnish</m> to etch</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 When your animal is cast, cut with a <tl>hot penknife</tl> the flashing
 &amp; superfluous things. And if you want to refold it &amp; twist it
 around on some <tl>stick</tl> or <tl>taper</tl>, put it to soften
 <del>on</del> in <m>hot water</m>, and hold it while twisting it
 around.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Cut down the protuberance of the gates, in order that they are smooth
 &amp; that the <m>wax</m> has more of the <m>silver</m> to run in one
 go, without turning around in the folds of the <al>snake</al>.</ab>
 
-<cont/>
+
 
 </div>
 </root>

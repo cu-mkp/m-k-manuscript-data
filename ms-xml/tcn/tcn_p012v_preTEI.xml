@@ -1,11 +1,11 @@
-<root>
-<page>012v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="012v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f30.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f30.image</image>
 
-<div>
 
-<id>p012v_1</id>
+
+<div id="p012v_1">
+
+
 
 <head>Mouler le <m>stuc</m> promptem<exp>en</exp>t</head>
 
@@ -23,9 +23,9 @@ de relief</tl>, &amp; ainsy tu auras un cave où tu pourras<lb/>
 gecter du <m>plastre</m>, <m>papier <tl>pilé</tl></m> ou <m>terre
 chimolée</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 La <m>brique</m> bien<lb/>
 
@@ -37,9 +37,9 @@ est meilleure car le<lb/>
 
 </div>
 
-<div>
+<div id="p012v_2">
 
-<id>p012v_2</id>
+
 
 <head>Nettoyer <m>perles</m> jaulnes</head>
 
@@ -55,11 +55,11 @@ du costé de la chair de la <tl><m>pouldre dudict tripoly</m></tl>, frotte<lb/>
 
 </div>
 
-<div>
+<div id="p012v_3" continued="yes">
 
-<id>p012v_3</id>
 
-<head>Pour blanchir <m>enilanroc</m><comment>c_012v_02</comment></head>
+
+<head>Pour blanchir <m>enilanroc</m><comment rid="c_012v_02"/></head>
 
 <ab>Aulcuns pensent que la crouste de couleur de <m>ceruse</m> qui<lb/>
 
@@ -117,7 +117,7 @@ d’une<lb/>
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

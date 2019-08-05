@@ -1,11 +1,11 @@
-<root>
-<page>135r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="135r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f275.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f275.item.r=</image>
 
-<div>
-<id>p135r_1</id>
-<head><m><fr>Couleur</fr></m><comment>c_135r_01</comment> for <m>gold</m> or mixture</head>
+
+
+<div id="p135r_1">
+
+<head><m><fr>Couleur</fr></m><comment rid="c_135r_01"/> for <m>gold</m> or mixture</head>
 
 <ab>
 
@@ -17,12 +17,12 @@ it boil, in order that one recognizes when the substance has boiled
 enough. This <m><fr>couleur</fr></m>, put on <m>brittle melted gold</m>,
 renders it soft immediately.</ab>
 
-<ab><margin>left-middle</margin><emph>Softening <m>gold</m></emph></ab>
+<ab margin="left-middle"><emph>Softening <m>gold</m></emph></ab>
 
 </div>
 
-<div>
-<id>p135r_2</id>
+<div id="p135r_2">
+
 <head>Gate</head>
 
 <ab>
@@ -47,9 +47,9 @@ Do not forget to make a gate of <m>wax</m> for the feet of <al><oc>
     
 lizards</oc></al> &amp; delicate things like this.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 When you <add>have</add> molded an animal in the first part of the
 <tl>mold</tl>, do not let this part dry before you have taken away the
@@ -57,20 +57,20 @@ said animal, for the <tl>mold</tl>, in drying, contracts and would also
 make the animal contract. Keep it therefore in some <env>moist &amp;
 humid place</env> until you have done it.</ab>
 
-<figure>
+<figure id="fig_p135r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5U3BqOGxwTHNPeVk">
 
-<id>fig_p135r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5U3BqOGxwTHNPeVk</link>
+
+
+
 
 </figure>
 
 </div>
 
-<div>
-<id>p135r_3</id>
+<div id="p135r_3">
+
 <head><pa>Vine</pa> leaf and <al>small frog</al></head>
 
 <ab>
@@ -90,14 +90,14 @@ of <m>clay</m>. Next, make several gates around the leaf with <m>wax</m>
 as you know &amp; <del><fr>gec</fr></del> make the gate thin &amp; with
 several lines &amp; lumpy.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 The <pa>vine</pa> leaf is painted with green made of <m>stil de grain
 yellow</m> &amp; <m><fr>verd de terre</fr></m>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 You can cast on the leaf a <al>spider</al> or <al>frog</al> &amp;
 whatever you will like.</ab>

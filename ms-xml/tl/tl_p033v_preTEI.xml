@@ -1,11 +1,11 @@
-<root>
-<page>033v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="033v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f72.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f72.image</image>
 
-<div>
 
-<id>p033v_1</id>
+
+<div id="p033v_1">
+
+
 
 <head>For making it seem <del>that</del> to someone that he has a <tl>piece
 of <m>silver</m></tl> on his <bp>forehead</bp></head>
@@ -25,20 +25,20 @@ nowhere.</ab>
 
 </div>
 
-<div>
+<div id="p033v_2">
 
-<id>p033v_2</id>
+
 
 <head>For making <m><bp>blood</bp></m> or <m>wine</m> issue from
 someone’s <bp>forehead</bp> or from a <env>wall</env></head>
 
-<figure>
+<figure id="fig_p033v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MXk2RzNQdF9aeDg">
 
-<id>fig_p033v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5MXk2RzNQdF9aeDg</link>
+
+
+
 
 </figure>
 
@@ -66,9 +66,9 @@ a <tl><m>glass</m></tl> in his <bp>hand</bp>, and while you pierce, you
 cover what you are doing with the <tl><oc>funnel</oc></tl> that you hold
 close to <mark>#</mark></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>#</mark>
 

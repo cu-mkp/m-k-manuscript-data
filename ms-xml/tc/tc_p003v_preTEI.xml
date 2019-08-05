@@ -1,13 +1,13 @@
-<root>
-<page>003v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="003v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f12.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f12.image</image>
 
-<div>
 
-<cont/>
 
-<id>p003r_3</id>
+<div continues="yes" id="p003r_3">
+
+
+
+
 
 <ab>au lieu de <m>tourmentine fine</m> Et tu pourras mectre sur<lb/>
 
@@ -19,11 +19,11 @@ tourmentine fine</m> &amp; faire tout comme laultre Cestuy cy ne<lb/>
 reviendra qua cinq ou six <cn>sols</cn> la <ms>lb</ms> &amp; se vend 40
 <cn>s<exp>ols</exp></cn> la <ms>lb</ms></ab>
 
-<figure>
+<figure id="fig_p003v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ZUY4SkZBblA5MjA">
 
-<id>fig_p003v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5ZUY4SkZBblA5MjA</link>
+
+
 
 </figure>
 
@@ -55,8 +55,8 @@ seulement du<lb/>
 
 mectras sur un <tl>trepier</tl></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Il est mieulx de chaufer<lb/>
 
 un peu le <m>vernis</m><lb/>
@@ -69,8 +69,8 @@ cela faict <po>enveler</po> <lb/>
 
 le tableau</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
  Aulcuns disent quil<lb/>
 
 nest bon de distiler dans<lb/>
@@ -84,8 +84,8 @@ Touteffois <m>estame</m> il<lb/>
 est bon</ab>
 
 </div>
-<div>
-<id>p003v_1</id>
+<div id="p003v_1">
+
 <head>Pour vernir</head>
 
 <ab>Le <m>vernis de tourmentine</m> na que faire de <m>cole</m>

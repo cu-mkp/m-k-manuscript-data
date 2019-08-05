@@ -1,13 +1,13 @@
-<root>
-<page>109v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="109v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f224.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f224.image</image>
 
-<div>
 
-<cont/>
 
-<id>p109r_5</id>
+<div continues="yes" id="p109r_5">
+
+
+
+
 
 <ab>quand ilz veulent mordre ou manger quelque chose, ilz ne le<lb/>
 
@@ -48,8 +48,8 @@ toute vive.</ab>
 
 </div>
 
-<div>
-<id>p109v_1</id>
+<div id="p109v_1">
+
 <head><al>Crapault</al></head>
 
 <ab>Si par cas fortuit tu voulois mouler ce vilain animal<lb/>
@@ -71,8 +71,8 @@ la voulois ensepvelir. La <al>grenoille</al> n’est pas si belle<lb/>
 moulée, à cause qu’elle ha la peau vive &amp; l’aultre l’ha
 grumeleuse.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Tu le peulx<lb/>
 
 mouler creulx, et<lb/>
@@ -99,8 +99,8 @@ tanvre, puys le mects<lb/>
 
 en <m>bon vinaigre</m>.</ab>
 
-<ab>
-<margin>right-middle</margin>
+<ab margin="right-middle">
+
 <hr/><lb/>
 Quand il est grand, il le fault mouler creux, &amp; si tu<lb/>
 
@@ -113,8 +113,8 @@ deda<exp>n</exp>s,<lb/>
 
 </div>
 
-<div>
-<id>p109v_2</id>
+<div id="p109v_2">
+
 <head>Fayre mourir <al>serpents</al> pour mouler</head>
 
 <ab>Aulcuns leur mectent une <ms>goutte</ms> d’<m>eau fort</m> dans la
@@ -138,8 +138,8 @@ fays<lb/>
 
 ainsi des <al>lezards</al> &amp; aultres bestes semblables.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 Si tu les veulx<lb/>
 

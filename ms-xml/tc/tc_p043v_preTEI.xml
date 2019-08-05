@@ -1,11 +1,11 @@
-<root>
-<page>043v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="043v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f92.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f92.image</image>
 
-<div>
 
-<id>p043v_1</id>
+
+<div id="p043v_1">
+
+
 
 <head><m>Vin diversifie et transmue</m></head>
 
@@ -30,24 +30,24 @@ Il sen peult boire sans danger
 
 </div>
 
-<div>
+<div id="p043v_2">
 
-<id>p043v_2</id>
+
 
 <head><m>Perles</m></head>
 
 <ab>On dict que le <m>talc pulverise</m> soufle dedans a la
 <tl>lampe</tl><lb/>
 
-les rend ainsy<comment>c_043v_04</comment>
+les rend ainsy<comment rid="c_043v_04"/>
 
 </ab>
 
 </div>
 
-<div>
+<div id="p043v_3">
 
-<id>p043v_3</id>
+
 
 <head><pro>Harquebusier</pro></head>
 
@@ -93,9 +93,9 @@ basle
 
 </div>
 
-<div>
+<div id="p043v_4">
 
-<id>p043v_4</id>
+
 
 <head>Dragee d<wp>harquebus</wp></head>
 

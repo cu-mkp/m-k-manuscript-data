@@ -1,11 +1,11 @@
-<root>
-<page>040v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="040v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image</image>
 
-<div>
 
-<id>p040v_1</id>
+
+<div id="p040v_1">
+
+
 
 <head>Cross of the <pro>commanders of <pl>Malta</pl></pro></head>
 
@@ -20,32 +20,32 @@ burnished by <pro>those who make <m>gemstone foils</m></pro>
 <del><fr>Av</fr></del> or by <pro>goldsmiths</pro>, &amp; that gives it
 this beautiful brilliance.</ab></div>
 
-<div>
+<div id="p040v_2">
 
-<id>p040v_2</id>
+
 
 <head><m>Latten</m> and <m>calamine</m></head>
 
 <ab><pro>Founders</pro> do not melt <m>latten</m> in a
 <tl><del><fr>à vent</fr></del> <add>bellows</add> furnace</tl> but in
-<tl>crucibles</tl>, for in a <tl><fr>à vent</fr><comment>c_040v_02</comment> <add>bellows</add> furnace</tl> &amp;
+<tl>crucibles</tl>, for in a <tl><fr>à vent</fr><comment rid="c_040v_02"/> <add>bellows</add> furnace</tl> &amp;
 amid the <m>charcoals</m>, the <m>calamine</m> would go away.
 <del>A</del></ab></div>
 
-<div>
+<div id="p040v_3">
 
-<id>p040v_3</id>
 
-<head><m><fr>Metal</fr></m><comment>c_016v_05</comment></head>
+
+<head><m><fr>Metal</fr></m><comment rid="c_016v_05"/></head>
 
 <ab><m>Tin</m> should be pure for if there is any <m>lead</m>, it will
 go up in <m>smoke</m> while melting. Mixed <m>tin</m> holds in the fire for a
-<tmp>long time</tmp> but the <tl><m><fr>cendrée</fr></m></tl><comment>c_040v_01</comment> separates
+<tmp>long time</tmp> but the <tl><m><fr>cendrée</fr></m></tl><comment rid="c_040v_01"/> separates
 it.</ab></div>
 
-<div>
+<div id="p040v_4">
 
-<id>p040v_4</id>
+
 
 <head><m>Aquafortis</m></head>
 

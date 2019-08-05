@@ -1,11 +1,11 @@
-<root>
-<page>071v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="071v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f148.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f148.image</image>
 
-<div>
 
-<id>p071v_1</id>
+
+<div id="p071v_1">
+
+
 
 <head><m>Vernis</m></head>
 
@@ -47,9 +47,9 @@ sinon il est gras</ab>
 
 </div>
 
-<div>
+<div id="p071v_2">
 
-<id>p071v_2</id>
+
 
 <head>Graisse de <al>mouton</al></head>
 
@@ -62,9 +62,9 @@ aussy bons que les aultres</ab>
 
 </div>
 
-<div>
+<div id="p071v_3">
 
-<id>p071v_3</id>
+
 
 <head><al>Araigne</al></head>
 
@@ -83,9 +83,9 @@ d<al>iraignee</al></ab>
 
 </div>
 
-<div>
+<div id="p071v_4">
 
-<id>p071v_4</id>
+
 
 <head><m>Sable</m></head>
 

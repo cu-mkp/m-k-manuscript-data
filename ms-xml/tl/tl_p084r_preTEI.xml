@@ -1,22 +1,22 @@
-<root>
-<page>084r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="084r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f173.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f173.image</image>
 
-<div>
-<id>p084r_1</id>
+
+
+<div id="p084r_1">
+
 <head>Impromptu mask</head>
 
 <ab>Mold some <m>paper</m> &amp; put it on the face of somebody who is
 making an ugly grimace. Let it dry &amp; take your pattern to paint from
-it.<comment>c_084r_01</comment><hr/></ab>
+it.<comment rid="c_084r_01"/><hr/></ab>
 
 </div>
 
-<div>
-<cont/>
-<id>p084r_5</id>
-<ab><mark>#</mark><comment>c_084r_02</comment>&amp; swellings. It
+<div continues="yes" id="p084r_5">
+
+
+<ab><mark>#</mark><comment rid="c_084r_02"/>&amp; swellings. It
 is necessary that it not be too wet for the aforesaid reasons. Reheat
 little <add>by little</add>. And if, after molding it, you leave it to
 dry slowly, in some <env>dry place</env> &amp; not over a big fire, it
@@ -34,8 +34,8 @@ when it is so fine.</ab>
 
 </div>
 
-<div>
-<id>p084r_3</id>
+<div id="p084r_3">
+
 <head><m><fr>Eau magistra</fr></m></head>
 
 <ab>Dissolve <m>rock salt</m> or <del><m>salt</m></del> finely
@@ -45,16 +45,16 @@ pulverized <m>sandever</m> &amp; put on <tl><m>marble</m></tl> in a
 moisten it with <m>tartar oil</m>.</emph></ab>
 
 </div>
-<div>
-<id>p084r_4</id>
+<div id="p084r_4">
+
 <head><m>Flour</m></head>
 
 <ab>Ground during <tmp>Advent</tmp>, keeps for the <tmp>whole
 year</tmp>.</ab>
 
 </div>
-<div>
-<id>p084r_5</id>
+<div id="p084r_5" continued="yes">
+
 <head><m>Sand from a <env>mine in <pl>Thoulouse</pl></env></m></head>
 
 <ab>The <m>sand from <pl>Thoulouse</pl></m>, which is taken, from the
@@ -68,13 +68,13 @@ wish. <emph>Try to moisten the <m><tl>pestled</tl> glass</m></emph> and other
 salts</m>. It wants to be, like all <m>natural sand</m>, well reheated
 before putting it to use. One pulverises it, because it is in lumps,
 then one reheats it in a <tl><m>copper</m> kettle</tl> or similar thing,
-until<del><fr>l</fr></del><comment>c_084r_04</comment> it no longer <m>smokes</m></ab>
+until<del><fr>l</fr></del><comment rid="c_084r_04"/> it no longer <m>smokes</m></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 It is necessary to reheat it before using it. It is rendered better for
 casting because it is reheated, but when it has been used a lot, one
 ought to refresh it with new <m>sand</m>.</ab>
-<cont/>
+
 </div>
 </root>

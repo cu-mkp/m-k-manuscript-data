@@ -1,10 +1,10 @@
-<root>
-<page>088r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="088r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f181.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f181.image</image>
 
-<div>
-<id>p088r_1</id>
+
+
+<div id="p088r_1">
+
 <head><pa><oc>Visme</oc></pa></head>
 
 <ab>Il se peult planter, co<exp>mm</exp>e la <pa>ronce</pa>, des deulx
@@ -18,8 +18,8 @@ plus hault.</ab>
 
 </div>
 
-<div>
-<id>p088r_2</id>
+<div id="p088r_2">
+
 <head><tl>Mortiers</tl></head>
 
 <ab>Les <tl>mortiers de <m>cuivre fin</m></tl> ne jectent point de fœu,
@@ -28,15 +28,15 @@ pourveu que<lb/>
 le <tl>pilon de <m>fer</m></tl> ne soict point trempé. Si faict bien le
 <tl>mortier</tl> de<lb/>
 
-<m>metal</m>,<comment>c_016v_05</comment> pource qu’il est aigre. On faict pour ceste occasion
+<m>metal</m>,<comment rid="c_016v_05"/> pource qu’il est aigre. On faict pour ceste occasion
 le<lb/>
 
 fons des <tl>grands mortiers</tl> de <m>cuivre fin</m>.</ab>
 
 </div>
 
-<div>
-<id>p088r_3</id>
+<div id="p088r_3">
+
 <head><m>Vernis</m></head>
 
 <ab><m>Huile de tormentine</m>, <m>tormentine</m> &amp; <m>bonne eau de
@@ -55,8 +55,8 @@ de corps<lb/>
 
 </div>
 
-<div>
-<id>p088r_4</id>
+<div id="p088r_4">
+
 <head>Hanter</head>
 
 <ab>On trouve par experience que le greffe qui <del>est</del> ha son
@@ -68,8 +68,8 @@ est aussy tortu.</ab>
 
 </div>
 
-<div>
-<id>p088r_5</id>
+<div id="p088r_5">
+
 <head><pro>Boulangier</pro></head>
 
 <ab>La <m>poulsiere</m> garde le <m><pa>bled</pa></m> de
@@ -91,8 +91,8 @@ beau.</ab>
 
 </div>
 
-<div>
-<id>p088r_6</id>
+<div id="p088r_6">
+
 <head><m>Estain de glace</m></head>
 
 <ab>Il faict la matiere plus blanche.</ab>

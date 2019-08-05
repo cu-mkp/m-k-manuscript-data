@@ -1,11 +1,11 @@
-<root>
-<page>169v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="169v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f344.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f344.image</image>
 
-<div>
 
-<id>p169v_1</id>
+
+<div id="p169v_1">
+
+
 
 <head>Mouler fort tanvre<lb/>
 
@@ -16,7 +16,7 @@ car ne la <m>terre</m>, <m>sable</m><lb/>
 
 ou <m>metal</m> ne mouleroient pas si net, &amp; ne recepvroient<lb/>
 
-pas. Ou bien ilz gravent en <tl><m>pierre d’<pl>Istre</pl></m></tl><comment>c_169v_02</comment> le
+pas. Ou bien ilz gravent en <tl><m>pierre d’<pl>Istre</pl></m></tl><comment rid="c_169v_02"/> le
 principal<lb/>
 
 endroit, &amp; le revers est de <tl><m>papier</m></tl> ou
@@ -24,9 +24,9 @@ endroit, &amp; le revers est de <tl><m>papier</m></tl> ou
 
 </div>
 
-<div>
+<div id="p169v_2" continued="yes">
 
-<id>p169v_2</id>
+
 
 <head>Reduire une figure ronde<lb/>
 
@@ -106,7 +106,7 @@ blanchem<exp>ent</exp>,<lb/>
 s’il est d’<m>argent</m>, tu y pourras mesler des ouvrages de
 <m>sucre</m>,</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 <mark>#</mark><lb/>
 
@@ -128,7 +128,7 @@ mieulx la<lb/>
 
 retirer.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 La <m>cire transparente</m><lb/>
 
@@ -140,17 +140,17 @@ pour bien fayre<lb/>
 
 emprainte.</ab>
 
-<figure>
+<figure id="fig_p169v_3" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MGtBY2MyYTNKTUE">
 
-<id>fig_p169v_3</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5MGtBY2MyYTNKTUE</link>
+
+
+
 
 </figure>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Comme tu as<lb/>
 
@@ -164,7 +164,7 @@ mouler l’aultre<lb/>
 
 de mesme.</ab>
 
-<cont/>
+
 
 </div>
 </root>

@@ -1,24 +1,24 @@
-<root>
-<page>022r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="022r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f49.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f49.image</image>
 
-<div>
 
-<id>p022r_1</id>
+
+<div id="p022r_1">
+
+
 
 <head><wp>Cannon</wp> ball, weighing 40 <ms>lb</ms>, having 12 <ms>lines</ms>,
 <ms>king's foot</ms>.</head>
 
-<figure>
+<figure id="fig_p022r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dWtBam9HWEpiaHc">
 
-<id>fig_p022r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dWtBam9HWEpiaHc</link>
+
+
 
 </figure>
     
-<ab><margin>top</margin>A little too big, see the one <del>of</del> that
+<ab margin="top">A little too big, see the one <del>of</del> that
 follows.</ab>
 
 </div>

@@ -1,17 +1,17 @@
-<root>
-<page>036v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="036v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f78.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f78.image</image>
 
-<div>
 
-<id>p036v_1</id>
+
+<div id="p036v_1">
+
+
 
 <head><pro>Fondeur</pro></head>
 
 <ab>Les pots de cuisine se font bons pour ne donner poinct<lb/>
 
-<sn>mauvays goust a la viande</sn> avecq du mesme <m>metal<comment>c_016v_05</comment> duquel<lb/>
+<sn>mauvays goust a la viande</sn> avecq du mesme <m>metal<comment rid="c_016v_05"/> duquel<lb/>
 
 les cloches se font</m> Il est vray que pour les rendre plus<lb/>
 
@@ -37,9 +37,9 @@ feu de chasse</ab>
 
 </div>
 
-<div>
+<div id="p036v_2">
 
-<id>p036v_2</id>
+
 
 <head><tl>Four a vent</tl></head>
 
@@ -53,9 +53,9 @@ aye espasse pour le retirer &amp; prendre avecq les
 
 </div>
 
-<div>
+<div id="p036v_3">
 
-<id>p036v_3</id>
+
 
 <head><m>Verre de <pro>vitriers</pro></m></head>
 
@@ -106,9 +106,9 @@ terre<lb/>
 
 <del>A</del> puys la met a recuire Ainsy le milieu par ou elle se<lb/>
 
-commance demeure tousjours<comment>c_036v_01</comment></ab>
+commance demeure tousjours<comment rid="c_036v_01"/></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Le <m>verre</m> se peult<lb/>
 

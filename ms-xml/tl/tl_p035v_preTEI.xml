@@ -1,35 +1,35 @@
-<root>
-<page>035v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="035v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f76.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f76.image</image>
 
-<div>
 
-<id>p035v_1</id>
+
+<div id="p035v_1">
+
+
 
 <head>For preventing someone from eating a <m>foodstuff</m></head>
 
 <ab>Dry some <m><pa>calf’s foot</pa> root</m>, otherwise
 <m><pa>arum</pa></m>, &amp; sprinkle the <m>foodstuff</m>
 <del><fr>s</fr></del>with it. There is no danger in this.
-See <pn>Mattioli</pn>.<comment>c_035v_01</comment></ab>
+See <pn>Mattioli</pn>.<comment rid="c_035v_01"/></ab>
 
 </div>
 
-<div>
+<div id="p035v_2" continued="yes">
 
-<id>p035v_2</id>
+
 
 <head>For transmuting <m><tl>grain</tl></m> from one <tl>vessel</tl> to
 another</head>
 
-<figure>
+<figure id="fig_p035v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5WEY2UUhMRTg4Y00">
 
-<id>fig_p035v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5WEY2UUhMRTg4Y00</link>
+
+
+
 
 </figure>
 
@@ -69,7 +69,7 @@ of <m><pa>grain</pa></m>, which you will scrape deftly along with the
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

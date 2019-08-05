@@ -1,13 +1,13 @@
-<root>
-<page>079v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="079v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f164.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f164.image</image>
 
-<div>
 
-<cont/>
 
-<id>p079r_3</id>
+<div continues="yes" id="p079r_3">
+
+
+
+
 
 <ab>et mectes le dedans ung <tl>pot de <m>terre</m></tl> &amp; quil y
 ayt<lb/>
@@ -25,9 +25,9 @@ face mal car est maulvaix</md></ab>
 
 </div>
 
-<div>
+<div id="p079v_1">
 
-<id>p079v_1</id>
+
 
 <head>Pour faire <m>verny</m></head>
 
@@ -43,11 +43,11 @@ couche de <m>colle bien clere</m> &amp; le laisses seicher</ab>
 
 </div>
 
-<div>
+<div id="p079v_2">
 
-<id>p079v_2</id>
 
-<head> <comment>c_079v_02</comment><md>Contrepoison contre la fumee des
+
+<head> <comment rid="c_079v_02"/><md>Contrepoison contre la fumee des
 metaulx</md></head>
 
 <ab>Prens le <tmp>matin</tmp> une <m>rostie au bœurre</m> &amp;
@@ -58,9 +58,9 @@ metaulx</md></head>
 
 de <al>porc</al></m> devant le <bp>visage</bp></ab></div>
 
-<div>
+<div id="p079v_3">
 
-<id>p079v_3</id>
+
 
 <head><m>Estaim</m> pour gect</head>
 
@@ -71,7 +71,7 @@ de <al>porc</al></m> devant le <bp>visage</bp></ab></div>
 de 9 ou <del>dix</del> dix <ms>lb</ms> de <m>plomb fin</m> sur un
 <ms>quintal</ms> d<m>estain</m></ab>
 
-<ab><margin>left-bottom</margin>
+<ab margin="left-bottom">
 
 Aulcuns ne trouvent<lb/>
 
@@ -79,9 +79,9 @@ Aulcuns ne trouvent<lb/>
 
 <ups>f</ups>in</m></ab></div>
 
-<div>
+<div id="p079v_4">
 
-<id>p079v_4</id>
+
 
 <head>Mixture pour les <pro>imprimeurs</pro></head>
 

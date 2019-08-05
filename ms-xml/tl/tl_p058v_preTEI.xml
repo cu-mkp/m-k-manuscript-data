@@ -1,11 +1,11 @@
-<root>
-<page>058v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="058v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f122.item.">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f122.item.</image>
 
-<div>
 
-<id>p058v_1</id>
+
+<div id="p058v_1">
+
+
 
 <head>Blacks</head>
 
@@ -14,18 +14,18 @@ charcoal</m>, of <m>burnt ivory</m>, of <m><pa>peach</pa> pits</m>, of
 <m>lamp smoke</m>, of <m>burnt bones of the feet of
 <al>oxen</al></m>.</ab></div>
 
-<div>
+<div id="p058v_2">
 
-<id>p058v_2</id>
+
 
 <head>Shadows</head>
 
 <ab>When you are making a painting with several persons, just as the
 flesh colors have to be different, so do the shadows.</ab></div>
 
-<div>
+<div id="p058v_3">
 
-<id>p058v_3</id>
+
 
 <head>In fresco</head>
 
@@ -33,9 +33,9 @@ flesh colors have to be different, so do the shadows.</ab></div>
 with long <tl>paintbrushes</tl>. Fresco is not used
 <del><fr>cont</fr></del> on <m>wood</m>.</ab></div>
 
-<div>
+<div id="p058v_4">
 
-<id>p058v_4</id>
+
 
 <head><m>Azure</m></head>
 
@@ -45,9 +45,9 @@ christi</pa> seed oil</m>.
 <cn>sous</cn> a <ms>pint</ms>. The <m>azure</m> requires a little
 <m>fatty oil</m> because it has no body.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <m><fr>Azur d’esmail</fr></m> hates more than any other to be ground,
 especially with <m>water</m>, for it dies &amp; loses all its color.
@@ -55,17 +55,17 @@ However, because it cannot be worked if it is coarse, grind not with
 <m>water</m> but with <m>oil</m> &amp; grind it coarsely, and in this
 way it will not die as much.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Always choose the most delicate one.</ab>
 
 </div>
 
-<div>
+<div id="p058v_5" continued="yes">
 
-<id>p058v_5</id>
+
 
 <head><tl>Paintbrushes</tl></head>
 
@@ -77,17 +77,17 @@ not</del> as appropriate to soften them as that of <m><pa>spike
 lavender</pa></m>, which is clear like <m>water</m> &amp; penetrates
 &amp; does not have body like <m><pa>walnut</pa> oil</m>. The <tl>handle
 of paintbrushes</tl> is made by those who work with
-care<comment>c_058v_02</comment> from <m><al>porcupine</al> quills</m>,
+care<comment rid="c_058v_02"/> from <m><al>porcupine</al> quills</m>,
 by others from <m><m>wood</m> of arrows from <pl>Turkey</pl></m>
 <del>with whom</del> with which they also make <tl>small rods to rest
 their <bp>hand</bp> when they are painting</tl>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 To work well on a small scale <tl>very thin paintbrushes which
-have a firm point</tl> <del>make</del>are needed.<comment>c_058v_04</comment> And because a 
+have a firm point</tl> <del>make</del>are needed.<comment rid="c_058v_04"/> And because a 
 <m><al>squirrel</al>’s tail hair</m> is soft,
 the most careful take the <m>bristles of the oldest <al>rats</al></m>,
 especially of <al>dormice</al> if they can find them, &amp; put two or
@@ -98,7 +98,7 @@ point. The <m>bristles of <al>beech martens</al> &amp; <al>weasels</al>
 &amp; small animals that make <m>musk</m></m> are even better, for a
 single <m>hair</m> in a <tl>paintbrush</tl> suffices.</ab>
 
-<cont/>
+
 
 </div>
 </root>

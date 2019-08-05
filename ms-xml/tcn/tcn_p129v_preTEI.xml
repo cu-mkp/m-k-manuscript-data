@@ -1,11 +1,11 @@
-<root>
-<page>129v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="129v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f264.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f264.item.r=</image>
 
-<div>
 
-<id>p129v_1</id>
+
+<div id="p129v_1">
+
+
 
 <head>Animaulx seichés au <tl>four</tl><lb/>
 
@@ -25,11 +25,11 @@ Mays<lb/>
 
 il fault qu’ilz soient promptem<exp>ent</exp> seichés.</ab>
 
-<ab>
+<ab margin="left-middle" render="tall">
 
-<margin>left-middle</margin>
 
-<render>tall</render>
+
+
 
 Note qu’il leur fault<lb/>
 
@@ -78,9 +78,9 @@ une <tl>broisse</tl>.</ab>
 
 </div>
 
-<div>
+<div id="p129v_2">
 
-<id>p129v_2</id>
+
 
 <head>Animaulx gectés en <m>cuivre</m></head>
 
@@ -94,9 +94,9 @@ de mesme.</ab>
 
 </div>
 
-<div>
+<div id="p129v_3">
 
-<id>p129v_3</id>
+
 
 <head>Advis sur le gect</head>
 
@@ -116,9 +116,9 @@ court<lb/>
 
 plus doulcement sans s’empecher de vapeurs &amp; fumée.</ab>
 
-<ab>
+<ab margin="right-middle">
 
-<margin>right-middle</margin>
+
 
 <hr/>Fais tousjours<lb/>
 
@@ -134,9 +134,9 @@ pour retirer la furie du<lb/>
 
 </div>
 
-<div>
+<div id="p129v_4">
 
-<id>p129v_4</id>
+
 
 <head><al>Yraigne</al> moulée sur une fœille</head>
 
@@ -195,15 +195,15 @@ Retourne<lb/>
 
 <mark>🜊</mark></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<figure>
 
-<id>fig_p129v_1</id>
+<figure id="fig_p129v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Sk9tdno1ODBqdms">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Sk9tdno1ODBqdms</link>
+
+
+
 
 </figure>
 
@@ -229,9 +229,9 @@ l’<al>iraigne</al>.</add>
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>🜊</mark>
 

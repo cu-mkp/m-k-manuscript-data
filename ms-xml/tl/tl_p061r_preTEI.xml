@@ -1,13 +1,13 @@
-<root>
-<page>061r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="061r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f127.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f127.image</image>
 
-<div>
 
-<cont/>
 
-<id>p060v_4</id>
+<div continues="yes" id="p060v_4">
+
+
+
+
 
 <ab>and even it well, <del>then</del> and once quite dry, they draw their
 portrait &amp; layer their natural flesh color, leaving the space for
@@ -21,9 +21,9 @@ color nor flesh color on shadow, but white on white &amp; black on black
 
 </div>
 
-<div>
+<div id="p061r_1">
 
-<id>p061r_1</id>
+
 
 <head>Flesh colors</head>
 
@@ -36,18 +36,18 @@ this will make it look like a face of death. The beautiful
 approaching <del><ill/></del> the tint of <m><fr>rose
 alexandrine</fr></m> &amp; <m>incarnadine</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Certain colors do not want to be ground, like <m>minium</m> and
 <m>massicot</m>. The <m>ashes</m> do not want to be ground at all.</ab>
 
 </div>
 
-<div>
+<div id="p061r_2">
 
-<id>p061r_2</id>
+
 
 <head>Rounding off</head>
 
@@ -60,9 +60,9 @@ patience.</ab>
 
 </div>
 
-<div>
+<div id="p061r_3">
 
-<id>p061r_3</id>
+
 
 <head><m>Lead white</m></head>
 
@@ -72,21 +72,21 @@ because it does not have enough body.</ab>
 
 </div>
 
-<div>
+<div id="p061r_4">
 
-<id>p061r_4</id>
+
 
 <head>Lights</head>
 
 <ab>Your <tl>paintbrush</tl> shows it to you by casting a shadow
 which must always follow the <bp>back of your hand</bp>, not in a
 straight line like this,
-<figure><id>fig_p061r_1</id><link>https://drive.google.com/open?id=0B9-oNrvWdlO5LVgyaXJ0Rl8wMjA</link></figure>
+<figure id="fig_p061r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5LVgyaXJ0Rl8wMjA"/>
 for the light would be too crude &amp; too harsh, but obliquely &amp; as
 if at an incline, thus:
-<figure><id>fig_p061r_2</id><link>https://drive.google.com/open?id=0B9-oNrvWdlO5a0g1a0hvTUdHRFE</link></figure>
+<figure id="fig_p061r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5a0g1a0hvTUdHRFE"/>
 It is necessary that the panel not be facing the
-<env>light</env><comment>c_061r_01</comment> head-on, but half turned
+<env>light</env><comment rid="c_061r_01"/> head-on, but half turned
 against it. And above all look for soft light, for it makes soft both
 the shadow &amp; the work, as a harsh light <sup>makes</sup> a harsh
 work.</ab>

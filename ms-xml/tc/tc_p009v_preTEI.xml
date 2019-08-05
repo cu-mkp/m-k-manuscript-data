@@ -1,11 +1,11 @@
-<root>
-<page>009v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="009v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f24.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f24.image</image>
 
-<div>
 
-<id>p009v_1</id>
+
+<div id="p009v_1">
+
+
 
 <head><pro>Painctre</pro></head>
 
@@ -42,9 +42,9 @@ parmy Le <m>vert de terre</m> ne semploye poinct a <m>huile</m></ab>
 
 </div>
 
-<div>
+<div id="p009v_2">
 
-<id>p009v_2</id>
+
 
 <head><pro>Marchant</pro></head>
 
@@ -58,13 +58,13 @@ appelle le livre de Raisons</ab>
 
 </div>
 
-<div>
+<div id="p009v_3">
 
-<id>p009v_3</id>
+
 
 <head>Brouillart</head>
 
-<ab>Et premierement <pn>francois du Cros</pn><comment>c_009v_02</comment> doibt du
+<ab>Et premierement <pn>francois du Cros</pn><comment rid="c_009v_02"/> doibt du
 <tmp>ii<superscript>e</superscript> de<lb/>
 
 Septembre 1581</tmp> / po<exp>ur</exp> 1 <ms>cane</ms> <m>toille
@@ -72,9 +72,9 @@ babtiste</m> a 8 <ms><cn>livres</cn><lb/>
 
 Canne</ms> Jedis <mark>--</mark> 8 <ms><cn>t.</cn></ms></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <oc>Mudat</oc> au livre<lb/>
 
@@ -90,9 +90,9 @@ Canne</ms> Ainsy que appert<lb/>
 
 au brouillart a c. 25 /</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <oc>Mudat</oc> au livre<lb/>
 

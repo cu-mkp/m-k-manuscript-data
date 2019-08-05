@@ -1,11 +1,11 @@
-<root>
-<page>097v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="097v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f200.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f200.item</image>
 
-<div>
 
-<id>p097v_1</id>
+
+<div id="p097v_1">
+
+
 
 <head><m>Mastic varnish</m> dry in a <ms><tmp>half
 hour</tmp></ms></head>
@@ -39,15 +39,15 @@ know, pulverize, pass, &amp; mix, and you will have something very
 singular for small works. Take heed when varnishing not to breathe on
 it, for this will make the <m>varnish</m> whiten &amp; take body.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 It almost dries when working.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 One knows that this <m>varnish</m> does not have body enough when it
 does not take well on a panel in <m>oil</m> for it is like <m>water</m>.
@@ -55,47 +55,47 @@ Add in therefore <m>pulverized mastic</m> &amp; heat until it is good.
 This <m>varnish</m> is very white &amp; beautiful, &amp; does not go to
 your head like that of <m><pa>spike lavender</pa></m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 For some, instead of <del><fr>tour</fr></del> <m>turpentine oil</m>, put
 <m><pa>spike lavender</pa> oil</m>, which is not as good.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 This <m>varnish</m> is laid down cold on the panel with a very clean
 <tl><bp>fingertip</bp></tl>, &amp; one needs to spread it
 vigorously.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 The <pl>Italians</pl> scarcely varnish their paintings because they layer
 their paintings very thick &amp; they are a <tmp>long time</tmp> drying
 on the inside, though on top they make a dry skin &amp; crust.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 One lays the <m>varnish</m> with a <tl><bp>finger</bp></tl> so as make a
 lean layer, because when thick, it yellows.</ab>
 
 </div>
 
-<div>
+<div id="p097v_2">
 
-<id>p097v_2</id>
+
 
 <head>Working on glass</head>
 
 <ab>
 
-It is a strange thing that the <pro>workers</pro> of this art<comment>c_097v_01</comment> cannot
+It is a strange thing that the <pro>workers</pro> of this art<comment rid="c_097v_01"/> cannot
 work well if they do not have good <bp>breath</bp>, for if they have a
 bad one, their work will break in the fire in reheating.</ab>
 

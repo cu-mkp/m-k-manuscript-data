@@ -1,10 +1,10 @@
-<root>
-<page>088v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="088v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f182.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f182.image</image>
 
-<div>
-<id>p088v_1</id>
+
+
+<div id="p088v_1">
+
 <head><m>Sable de sel gemme pulverise</m><lb/>
 
 et <m>sable de <env>mine</env></m> subtilie sur le
@@ -21,7 +21,7 @@ aultant dun que daultre Et les ayant repasses ensemble sur le<lb/>
 <tl><m>porphire</m></tl> &amp; passes par le <tl>double tamis</tl> ou
 par <tl>manche de chemise</tl><lb/>
 
-pour mieulx les mesle<del>s</del>r<comment>c_088v_01</comment> Je les ay mis dans du
+pour mieulx les mesle<del>s</del>r<comment rid="c_088v_01"/> Je les ay mis dans du
 <tl><m>papier</m></tl> &amp; poses<lb/>
 
 sur un <tl><m>mabre</m></tl> dans une <env>cave</env> Dans une
@@ -39,9 +39,9 @@ despouiller</ab>
 
 </div>
 
-<div>
-<id>p088v_2</id>
-<head><comment>c_090r_03</comment><m>Sable mineral</m></head>
+<div id="p088v_2">
+
+<head><comment rid="c_090r_03"/><m>Sable mineral</m></head>
 
 <ab>La couleur de blanc et de jaulne nimporte Le tout est quil
 soict<lb/>
@@ -100,8 +100,8 @@ impalpable<lb/>
 
 pourcequil ne leur en faict pas besoing beaucoup</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Le <m><pa>bled orbere</pa></m> faict<lb/>
 
 une pouldre tanee fort<lb/>

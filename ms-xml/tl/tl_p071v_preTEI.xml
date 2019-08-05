@@ -1,11 +1,11 @@
-<root>
-<page>071v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="071v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f148.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f148.image</image>
 
-<div>
 
-<id>p071v_1</id>
+
+<div id="p071v_1">
+
+
 
 <head><m>Varnish</m></head>
 
@@ -28,9 +28,9 @@ fatty.</ab>
 
 </div>
 
-<div>
+<div id="p071v_2">
 
-<id>p071v_2</id>
+
 
 <head><al>Sheep</al> fat</head>
 
@@ -40,9 +40,9 @@ others.</ab>
 
 </div>
 
-<div>
+<div id="p071v_3">
 
-<id>p071v_3</id>
+
 
 <head><al>Spider</al></head>
 
@@ -54,9 +54,9 @@ with <tl><m>wood</m></tl> that is there, they die. This is why some
 
 </div>
 
-<div>
+<div id="p071v_4">
 
-<id>p071v_4</id>
+
 
 <head><m>Sand</m></head>
 

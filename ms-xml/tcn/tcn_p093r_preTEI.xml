@@ -1,10 +1,10 @@
-<root>
-<page>093r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="093r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f191.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f191.image</image>
 
-<div>
-<id>p093r_1</id>
+
+
+<div id="p093r_1">
+
 <head><pa>Olives</pa></head>
 
 <ab>Elles se gastent si <ms><tmp>une foys le moys</tmp></ms> on ne leur
@@ -17,8 +17,8 @@ gaster.</ab>
 
 </div>
 
-<div>
-<id>p093r_2</id>
+<div id="p093r_2">
+
 <head>Observation des <pro>rustiques</pro></head>
 
 <ab>Que quand <env>il gele</env> le <tmp>jour des Rameaulx</tmp>,
@@ -33,8 +33,8 @@ de la gelée, les aultres co<exp>mmun</exp>ement se perdent aussy.</ab>
 
 </div>
 
-<div>
-<id>p093r_3</id>
+<div id="p093r_3">
+
 <head><corr><del>I</del></corr> Hantes</head>
 
 <ab>Il ne fault pas que le greffe soict de vieulx bois car il n’est<lb/>
@@ -68,8 +68,8 @@ Aultrem<exp>ent</exp><lb/>,
 ne les pousse</ab>
 
 </div>
-<div>
-<id>p093r_4</id>
+<div id="p093r_4">
+
 <head><m>Sable</m></head>
 
 <ab>La <m>cendre blanche de tout boys</m> qui se tient encores au
@@ -79,8 +79,8 @@ qui brusle et n’est point tombée au <del>bo</del>
 <env><tl>foyer</tl></env>, moule fort net</ab>
 
 </div>
-<div>
-<id>p093r_5</id>
+<div id="p093r_5">
+
 <head><m>Sable</m></head>
 
 <ab>La <del><m>cendre</m></del> <m>suye bien pulverisée</m> moule &amp;

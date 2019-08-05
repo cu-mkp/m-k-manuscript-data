@@ -1,11 +1,11 @@
-<root>
-<page>072r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="072r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f149.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f149.item</image>
 
-<div>
 
-<id>p072r_1</id>
+
+<div id="p072r_1">
+
+
 
 <head><pro>Printer’s</pro> letters</head>
 
@@ -17,9 +17,9 @@ and is good for casting in <m>lead</m>.</ab>
 
 </div>
 
-<div>
+<div id="p072r_2">
 
-<id>p072r_2</id>
+
 
 <head>Casting in <m>copper</m> </head>
 
@@ -38,7 +38,7 @@ will not be worse off, but it will enter well in the <tl>mold</tl>. Cast
 from the foot of the medal, in order that the face, further away from the
 heat, comes out better &amp; more relieved from the violent heat. And if
 your <tl>frame</tl> does not have vents, make some
-<del><fr>qu</fr></del> in the <m>sand</m>, which come, from the edges<comment>c_072r_01</comment> 
+<del><fr>qu</fr></del> in the <m>sand</m>, which come, from the edges<comment rid="c_072r_01"/> 
 of the piece, to go into the gate. Cast very hot, which you
 will recognize when you throw a little reserved substance in that
 which is already well melted, &amp; if it melts quickly, this is a sign
@@ -53,9 +53,9 @@ your substance. Having cast, rub your work with a <tl><m>latten</m>
 wirebrush</tl>. The <m>grindings from sharpening large scissors &amp;
 large knives</m> is very good for <m>copper</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 One believes it to be a great secret to put in
 <m><pa>persicaire</pa></m>, which renders them soft as <m>lead</m>.Try

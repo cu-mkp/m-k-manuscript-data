@@ -1,11 +1,11 @@
-<root>
-<page>055r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="055r" image="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f115.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f115.item</image>
 
-<div>
 
-<id>p055r_1</id>
+
+<div id="p055r_1">
+
+
 
 <head>Pour tirer d’un <it><wp>schioppo</wp> senza<lb/>
 
@@ -29,9 +29,9 @@ tiene à la <tl>verge</tl>, le tuyau en hault, co<exp>mm</exp>e tu sçais,
 
 qu’un <sn>petit siflem<exp>ent</exp></sn>.</ab></div>
 
-<div>
+<div id="p055r_2">
 
-<id>p055r_2</id>
+
 
 <head>Pour tremper bale qui faulcera<lb/>
 
@@ -43,9 +43,9 @@ mixtion<lb/>
 gecte ta balle toute chaulde.</ab>
 </div>
 
-<div>
+<div id="p055r_3">
 
-<id>p055r_3</id>
+
 
 <head><md>Contre playes</md></head>
 
@@ -65,14 +65,14 @@ point</md>.</ab>
 
 </div>
 
-<div>
+<div id="p055r_4" continued="yes">
 
-<id>p055r_4</id>
 
-<head><md><es>Onenev elbirro</es></md><comment>c_055r_03</comment> <md>tnaut is no
+
+<head><md><es>Onenev elbirro</es></md><comment rid="c_055r_03"/> <md>tnaut is no
 ehcram<lb/>
 
-rus enu elbat uo <del>ueirse</del> ueirtse</md><comment>c_055r_03</comment></head>
+rus enu elbat uo <del>ueirse</del> ueirtse</md><comment rid="c_055r_03"/></head>
 
 <ab>Ayes au <tmp>moys de juing &amp; juillet</tmp> nombre des
 plus gros <al>escargots</al><lb/>
@@ -103,7 +103,7 @@ seurté tu <del>b</del>tiendras<lb/>
 bien bouchée, tu mectras <env>au soleil bien fort &amp; au serain</env>,
 l’espace</ab>
 
-<cont/>
+
 
 </div>
 </root>

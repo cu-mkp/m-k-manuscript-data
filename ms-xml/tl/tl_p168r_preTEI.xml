@@ -1,29 +1,29 @@
-<root>
-<page>168r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="168r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f341.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f341.image</image>
 
-<div>
 
-<cont/>
 
-<id>p167r_1</id>
+<div continues="yes" id="p167r_1" continued="yes">
 
-<figure>
 
-<id>fig_p168r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5RUdzVWVNM3l6QVU</link>
+
+<figure id="fig_p168r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5RUdzVWVNM3l6QVU">
+
+
+
+
+
+
 
 </figure>
 
 <ab>a <tl>peg</tl> which one puts into the touch-hole, &amp; then, with
 a rope wrapped around the end of a <tl>stick</tl>, one gives fire &amp;
-promptly retreats to take cover. The small <wp>petards</wp><comment>c_008r_04</comment> of 16 or 17
+promptly retreats to take cover. The small <wp>petards</wp><comment rid="c_008r_04"/> of 16 or 17
 <ms>lb</ms> are attached promptly with a <tl>short hooked peg</tl> made
-like a <tl>wimble</tl>,<comment>c_168r_01</comment> &amp; if the <wp>petard</wp>
+like a <tl>wimble</tl>,<comment rid="c_168r_01"/> &amp; if the <wp>petard</wp>
 is of a good alloy, one can give fire by <bp>hand</bp> just as one does
 with <wp>petards</wp> of 27 <ms>lb</ms>, but then one only puts in three
 <ms>lb</ms> of <m>powder</m>. It must certainly be a strong door if the
@@ -35,7 +35,7 @@ against the door. If the <wp>petards</wp> are good &amp; do not explode, they
 only recoil and cannot do harm if one is next to them.</ab>
 
 <ab>A. This is a <tl>small peg, hooked like the hinge of a door</tl>
-&amp; made like a <tl><oc>gimlet</oc></tl><comment>c_080r_01</comment> on one end for quickly
+&amp; made like a <tl><oc>gimlet</oc></tl><comment rid="c_080r_01"/> on one end for quickly
 attaching a small <wp>petard</wp> with ears of fifteen or xvii <ms>lb</ms> for a
 common door or window.</ab>
 
@@ -62,7 +62,7 @@ props up the <tl>fork made like pincers</tl> &amp; also supports the
 <wp>petard</wp>, and with its claw at the bottom prevents the <tl>pincers</tl>
 from recoiling.</ab>
 
-<cont/>
+
 
 </div>
 </root>

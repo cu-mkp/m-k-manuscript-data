@@ -1,10 +1,10 @@
-<root>
-<page>081r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="081r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f167.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f167.image</image>
 
-<div>
-<id>p081r_1</id>
+
+
+<div id="p081r_1">
+
 <head><m>Sable</m></head>
 
 <ab>Il sen trouve dexcellent au costau de <pl>puy david</pl> aupres de
@@ -33,12 +33,12 @@ le <m>sable</m> mouille que tu y mects dessus qui ha plus de corps le<lb/>
 
 grippe</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Le <m>suif</m> faict soufler</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Le <m>mercure<lb/>
 
 arreste</m> melle co<exp>mm</exp>e<lb/>
@@ -61,8 +61,8 @@ Et souspirails</ab>
 
 </div>
 
-<div>
-<id>p081r_2</id>
+<div id="p081r_2">
+
 <head><m>Terre</m> a mouler</head>
 
 <ab>La <m>terre a <pro>gainiers</pro> ou celle dont les
@@ -91,14 +91,14 @@ appelle <pl>Ox</pl></ab>
 
 </div>
 
-<div>
-<id>p081r_3</id>
+<div id="p081r_3">
+
 <head><m>Plastre</m></head>
 
 <ab>Il fault quil soit bien cuict ce que tu cognoistras quand le
 cuisant<lb/>
 
-en quelque <tl>cassolle de <m>fer</m> ou <m>metal</m></tl><comment>c_016v_05</comment> tu le mesles
+en quelque <tl>cassolle de <m>fer</m> ou <m>metal</m></tl><comment rid="c_016v_05"/> tu le mesles
 avecq une <tl>verge<lb/>
 
 de <m>fer</m></tl> &amp; sil sattaque au <m>fer</m> il nest pas asses
@@ -117,8 +117,8 @@ rompent si on ne luy donne une main de <m>colle</m></ab>
 
 </div>
 
-<div>
-<id>p081r_4</id>
+<div id="p081r_4">
+
 <head><m>Carton</m></head>
 
 <ab>Il fault prendre du <m>papier de <pl>florence</pl></m> qui est le

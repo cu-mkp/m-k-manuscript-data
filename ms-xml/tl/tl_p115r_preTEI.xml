@@ -1,24 +1,24 @@
-<root>
-<page>115r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="115r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f235.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f235.image</image>
 
-<div>
 
-<cont/>
 
-<id>p114r_1</id>
+<div continues="yes" id="p114r_1">
+
+
+
+
 <ab>
         
-<figure>
+<figure id="fig_p115r_1" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NmVuVUloTy0zNWc">
             
-<id>fig_p115r_1</id>
+
             
-<margin>left-top</margin>
+
             
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5NmVuVUloTy0zNWc</link>
+
             
-</figure><comment>c_115r_01</comment> 
+</figure><comment rid="c_115r_01"/> 
 if you want, which will be enough, or else on the two halves.
 But because one needs to cast by the tail or from the back of the
 animal, make it so that the vents come from the head &amp; the middle of
@@ -33,8 +33,8 @@ prevent the <tl>molds</tl> from deforming &amp; corrupting while reheating.</ab>
 
 </div>
 
-<div>
-<id>p115r_1</id>
+<div id="p115r_1">
+
 <head><del>Make the cast, reheat the <tl>molds</tl>, &amp;c</del><lb/>
 Note about everything above <mark>|-|</mark></head>
 
@@ -42,7 +42,7 @@ Note about everything above <mark>|-|</mark></head>
 happens that, when you want to put it to death in <m><bp>urine</bp></m> &amp;
 <m>vinegar</m>, it fills with a lot of <m>water</m> &amp; swells, and
 next it dries out as you fix &amp; arrange it on the <m>clay</m>
-<po>cake</po>,<comment>c_112v_03</comment> and next it happens that when you have cast your
+<po>cake</po>,<comment rid="c_112v_03"/> and next it happens that when you have cast your
 <del><tl>mold</tl></del> <m>tempered sand</m> on it, &amp; it has set, it
 ends up coming out such that between the <al>snake</al> and animal there
 is a <ms>line</ms> of distance <del><fr>D</fr></del>, in which enters
@@ -59,8 +59,8 @@ will not have set with the first hardened one.</ab>
 
 </div>
 
-<div>
-<id>p115r_2</id>
+<div id="p115r_2">
+
 <head>Animal after release</head>
 
 <ab>If, by chance, you gave your <al>snake</al> such a writhing shape,
@@ -76,20 +76,20 @@ all your material. You can pull really strongly the molded
 the <tl>mold</tl>, having set, is so firm that, because of this, the
 imprint will not be spoiled. </ab>
 
-<figure>
+<figure id="fig_p115r_3" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aS1ZeHc2dGxJTE0">
 
-<id>fig_p115r_3</id>
 
-<margin>left-bottom</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5aS1ZeHc2dGxJTE0</link>
+
+
+
 
 </figure>
 
 </div>
 
-<div>
-<id>p115r_3</id>
+<div id="p115r_3">
+
 <head><tl>Mold</tl> reheating</head>
 
 <ab>After your <tl>molds</tl> have been reheated <del><fr>le</fr></del>
@@ -100,13 +100,13 @@ get corrupted and damp. Reheat the thickest part, where the body of the animal i
 
 <ab>It can only be good to let the <tl>mold</tl> die down a little from the outside <del>so long as</del>, being well reheated, so long as it remains red on the inside when you will cast.</ab>
 
-<figure>
+<figure id="fig_p115r_4" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Xzg4WTZ2NFNkOHM">
 
-<id>fig_p115r_4</id>
 
-<margin>left-bottom</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Xzg4WTZ2NFNkOHM</link>
+
+
+
 
 <caption>This is the shape of the <tl>clamps</tl></caption>
 

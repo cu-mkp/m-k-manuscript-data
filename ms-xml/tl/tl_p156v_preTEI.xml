@@ -1,10 +1,10 @@
-<root>
-<page>156v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="156v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f318.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f318.item.r=</image>
 
-<div>
-<id>p156v_1</id>
+
+
+<div id="p156v_1">
+
 <head>Molding a <al>fly</al></head>
 
 <ab>Take the <al>largest <del><fr>vo</fr></del> flies</al> that go into
@@ -20,7 +20,7 @@ themselves, they would not come out well in the cast. They can be
 planted on a <pa>sage</pa> leaf, or similar. They are cast well in
 <m>silver</m> &amp; <m>gold</m>, but one usually makes the legs &amp;
 wings separately &amp; one reattaches them. I have molded one on
-<del><fr>e</fr></del>a<comment>c_156_03</comment> <del><pa>sage</pa> leaf</del> bouquet of
+<del><fr>e</fr></del>a<comment rid="c_156_03"/> <del><pa>sage</pa> leaf</del> bouquet of
 <pa>sage</pa>, which had seven or eight leaves. And to make its stance
 <del><fr>att</fr></del>, I fixed its legs <del><fr>au</fr></del> on the
 widest leaf with a little <m>wax, melted</m> &amp; reattached with a
@@ -30,13 +30,13 @@ with a <tl>little paintbrush</tl>. And with the same <tl>hot
 <m>iron wire</m> point</tl>, I anointed the legs &amp; feet with
 <m><pa>wheat</pa> oil</m>. And to lay down &amp; couch the
 <add>downy</add> hair that it had, I anointed it also
-with<comment>c_156_04</comment> a little <m><pa>olive</pa> oil</m>.</ab>
+with<comment rid="c_156_04"/> a little <m><pa>olive</pa> oil</m>.</ab>
 
 <ab>I did not leave the <m><pa>wheat</pa> oil</m> to dry a lot, because
 it is thick &amp; has body, &amp; the <m>eau-de-vie</m> does not take at
 all.</ab>
 
-<ab>For unction, <del><fr>a</fr></del><comment>c_156v_05</comment> <m>tallow</m> is too harsh,
+<ab>For unction, <del><fr>a</fr></del><comment rid="c_156v_05"/> <m>tallow</m> is too harsh,
 <m><al>pork</al> fat</m> is too soft, and <m>butter</m> is the most
 excellent because it is soon dry &amp; curdles &amp; melted quickly
 &amp; firmer. Take heed that the legs &amp; feet are well seated on the
@@ -49,35 +49,35 @@ not come out in <m>tin</m>. The rest of the <al>fly</al> came out well,
 and especially the bouquet of <pa>sage</pa>, which is very beautiful
 molded.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 One could even cast it in <m>gold</m> &amp; <m>silver</m>, without the
 feet &amp; without applying it on a flower, by making the gate under the
 belly &amp; reattaching with <m>solder</m> the feet, &amp; if needs be
 the wings with the same <m>metal</m>, &amp; it could be <m>enamelled</m>
 by fortifying the wings a little &amp; the feet, as said.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 If your <pa>sage</pa> or branch has something to repair, do as said
 below. And then paint, according to nature.
 
-<figure>
+<figure id="fig_p156v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5VjFPeWlJc05CbDQ">
 
-<id>fig_p156v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5VjFPeWlJc05CbDQ</link>
+
+
 
 </figure></ab>
 
-<ab>
-<margin>left-middle</margin>
-<hr/><comment>c_156v_01</comment>Once cast in <m>gold</m>, one <m>enamels</m> the wings with <m>window
+<ab margin="left-middle">
+
+<hr/><comment rid="c_156v_01"/>Once cast in <m>gold</m>, one <m>enamels</m> the wings with <m>window
 glass from <pl>Lorraine</pl></m>, which is <fr>verdesin</fr> and
 transparent.<hr/></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 One needs to make the gate for the <al>fly</al> from the bottom <del>in
 order</del> with <m>melted wax</m>, adapted with the <tl><m>iron</m>
 point</tl>, as you know, to which the <al>fly</al> attaches itself,
@@ -86,12 +86,12 @@ point</tl>, as you know, to which the <al>fly</al> attaches itself,
 
 </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 <mark>+</mark>
 If some flaw happens to the wings of your <al>fly</al>, beat some
-<m>tin</m> very thin, <del>&amp;</del>or<comment>c_156v_06</comment> some <m>gold</m> or
+<m>tin</m> very thin, <del>&amp;</del>or<comment rid="c_156v_06"/> some <m>gold</m> or
 <m>silver</m>, if you have cast it in it, &amp; <del>with</del> trim
 with some <tl>scissors</tl> what one needs to reattach there, &amp;
 next, apply it with your <tl>small pincers</tl> &amp; <m>glue</m> it

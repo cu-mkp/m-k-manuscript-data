@@ -1,12 +1,12 @@
-<root>
-<page>051v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="051v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f108.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f108.image</image>
 
-<div>
 
-<cont/>
-<id>p051r_2</id>
+
+<div continues="yes" id="p051r_2">
+
+
+
 
 <ab>qui est different de celuy des <pro>imprimeurs</pro>, Il fault faire
 <tmp>long<lb/>
@@ -26,7 +26,7 @@ de lampe</m> que tu auras broyé avecq de l’<m>huile</m>
 auparava<exp>n</exp>t<lb/>
 
 sur le <tl><m>marbre</m></tl>. Et enfin le mesleras tout,
-<add>ta<exp>n</exp>t</add><comment>c_051r_01</comment> &amp; jusques à
+<add>ta<exp>n</exp>t</add><comment rid="c_051r_01"/> &amp; jusques à
 ce<lb/>
 
 que tu voyes que la <tl>planche</tl> imprime bien. <del>Laquelle</del>

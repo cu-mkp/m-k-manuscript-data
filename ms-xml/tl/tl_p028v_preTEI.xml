@@ -1,18 +1,18 @@
-<root>
-<page>028v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="028v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f62.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f62.image</image>
 
-<div>
 
-<id>p028v_1</id>
+
+<div id="p028v_1">
+
+
 
 <head><pro>Pewterers</pro></head>
 
 <ab>They deem the best <m>tin</m> is the one that comes in
- <fr>saulmons</fr>,<comment>c_028v_04</comment> which has not been remelted since it came from the
+ <fr>saulmons</fr>,<comment rid="c_028v_04"/> which has not been remelted since it came from the
 <env>mine</env>, because the <pro>masters</pro> remelt it <del>a</del> in
-grille ingots,<comment>c_028v_05</comment> weighing two or three <ms>lb</ms>, to easily
+grille ingots,<comment rid="c_028v_05"/> weighing two or three <ms>lb</ms>, to easily
 cut it up and sell it by the piece. And in this they often make a mixture of
 leftovers from <m>plates</m>, <m>solder</m> &amp; <m>common tin</m>.
 And to recognise the best one, it is the most lustrous, which looks
@@ -22,7 +22,7 @@ jumble, to cheat on the weight. The <m>tin from
 <pl>England</pl></m> is so hard that the <pro>miners</pro> put in
 <m>lead</m> to soften it. The one that comes by way of <pl>Germany</pl>
 is softer. Commonly, the <pro>sworn master pewterers</pro>, from
-<env><pl><fr>bonnes villes</fr></pl></env><comment>c_028v_02</comment>, add six <ms>lb</ms> of <m>fine
+<env><pl><fr>bonnes villes</fr></pl></env><comment rid="c_028v_02"/>, add six <ms>lb</ms> of <m>fine
 lead</m> <del>on</del> or eight on a <ms>quintal</ms> of <m>fine
 tin</m>. The <pro>others, who work in the <env>countryside</env></pro>,
 put fifteen or 20 or as much as they can, and to cover up the blackness
@@ -35,8 +35,8 @@ quintal to render the plate <sn>sonorous</sn>. </ab>
 <ab>
 
 To mold platters &amp; dishes, they make them out of <m><fr>pierre
-<del><fr>porte</fr></del> morte</fr></m>,<comment>c_028v_06</comment> which is
-<m><fr>grais</fr></m>,<comment>c_028v_03</comment> &amp; they turn &amp; polish <del>around</del>
+<del><fr>porte</fr></del> morte</fr></m>,<comment rid="c_028v_06"/> which is
+<m><fr>grais</fr></m>,<comment rid="c_028v_03"/> &amp; they turn &amp; polish <del>around</del>
 them on the <tl>wheel</tl>. They melt their <m>tin</m> in an
 <del><fr>dest</fr></del> <tl><m>iron</m> pot</tl> on a
 <m>charcoal</m> fire, and with an <tl><m>iron</m> spoon</tl> that holds
@@ -50,9 +50,9 @@ always have beside them, they rub the middle of the back of the dish
 &amp; around the edge, so that it comes out better, and rub the
 <tl>female mold</tl> with it.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>+</mark>
 
@@ -61,9 +61,9 @@ namely 4 <ms>lb</ms> per <ms>quintal</ms>, but if the <m>tin is base</m>,
 that is to say alloyed with a lot of <m>lead</m>, one puts
 at least five or six <ms>lb</ms> of <m>looking-glass tin</m> to it.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 If there is hardly any <m>looking-glass tin</m>, one puts about two or
 three <ms>lb</ms> per <ms>quintal</ms>. One puts eight <ms>lb</ms> of

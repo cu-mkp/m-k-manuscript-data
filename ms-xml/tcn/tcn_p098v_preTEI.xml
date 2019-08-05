@@ -1,21 +1,21 @@
-<root>
-<page>098v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="098v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f202.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f202.image</image>
 
-<div>
-<id>p098v_1</id>
+
+
+<div id="p098v_1">
+
 <head>Petis <al>chiens</al></head>
 
-<ab>Les petits <al>chiens</al> qui doivent estre barbets<comment>c_098v_04</comment> se
+<ab>Les petits <al>chiens</al> qui doivent estre barbets<comment rid="c_098v_04"/> se
 cognoissent<lb/>
 
 à ce qu’ilz ont le mœufle plus gros que les aultres.</ab>
 
 </div>
 
-<div>
-<id>p098v_2</id>
+<div id="p098v_2">
+
 <head><pa>Artichauts</pa> salés</head>
 
 <ab>On les mect entiers &amp; non trop faicts en un
@@ -39,8 +39,8 @@ pas assés forte et ne conserveroit pas les <m>fruits</m>.</ab>
 
 </div>
 
-<div>
-<id>p098v_3</id>
+<div id="p098v_3">
+
 <head>Abres</head>
 
 <ab>Qui portent bien tost fruit se viellessent et ne durent<lb/>
@@ -49,8 +49,8 @@ gueres.</ab>
 
 </div>
 
-<div>
-<id>p098v_4</id>
+<div id="p098v_4">
+
 <head><al>Oyseaulx</al></head>
 
 <ab>Qui ont esté nourris à la <tl>broche</tl> ne siflent pas parmy
@@ -71,8 +71,8 @@ enseigne.</ab>
 
 </div>
 
-<div>
-<id>p098v_5</id>
+<div id="p098v_5" continued="yes">
+
 <head>Fonte</head>
 
 <ab>La <m>potée</m> se faict de <m>terre bruslée</m> qui a servy à la
@@ -100,7 +100,7 @@ non<lb/>
 
 en un coup.</ab>
 
-<cont/>
+
 
 </div>
 </root>

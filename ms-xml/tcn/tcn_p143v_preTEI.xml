@@ -1,13 +1,13 @@
-<root>
-<page>143v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="143v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f292.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f292.image</image>
 
-<div>
 
-<cont/>
 
-<id>p143r_3</id>
+<div continues="yes" id="p143r_3">
+
+
+
+
 
 <ab>d’une patte jusques à l’aultre, affin que les extremités<lb/>
 
@@ -37,9 +37,9 @@ rien<lb/>
 
 dedans.</ab></div>
 
-<div>
+<div id="p143v_1">
 
-<id>p143v_1</id>
+
 
 <head>Carquans faicts à jour</head>
 
@@ -61,9 +61,9 @@ despouiller de <m>cire</m> ou <m>ardille</m>.</ab>
 
 </div>
 
-<div>
+<div id="p143v_2">
 
-<id>p143v_2</id>
+
 
 <head><m>Limaille de fer</m></head>
 
@@ -78,9 +78,9 @@ salettés iront au dessus de l’<m>eau</m> que tu gecteras &amp; la<lb/>
 
 <m>bonne limaille</m> ira au fons.</ab></div>
 
-<div>
+<div id="p143v_3">
 
-<id>p143v_3</id>
+
 
 <head><pa>Œillets</pa></head>
 

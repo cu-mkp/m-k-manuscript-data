@@ -1,18 +1,18 @@
-<root>
-<page>018v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="018v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f42.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f42.image</image>
 
-<div>
 
-<cont/>
 
-<id>p017r_1</id>
+<div continues="yes" id="p017r_1" continued="yes">
+
+
+
+
 
 <ab>
 
 The average weighs 18 <ms>quintals</ms> &amp;
-measures<comment>c_018v_01</comment> xii <ms><fr>pans</fr></ms> long.
+measures<comment rid="c_018v_01"/> xii <ms><fr>pans</fr></ms> long.
 Its ball weighs eight or 9 <ms>lb</ms> &amp; its charge is six
 <ms>pounds</ms> of <m>powder</m>. <del>And for</del> At the breech it
 carries a <ms>thickness of three balls</ms>, &amp; in front, two. It is
@@ -24,13 +24,13 @@ fired. Four <al>horses</al> can draw it. It shoots eight or nine hundred
 <ms>paces</ms> at point blank &amp; almost as much as the
 <wp><fr>bastarde</fr></wp>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 To <wp>cannons</wp> &amp; <wp>large pieces</wp> one gives<del><fr>n</fr></del> as much
 <m>powder</m> as is the <ms>diameter of a ball &amp; a half</ms>, at
-which point the <ms>escutcheon</ms><comment>c_018v_02</comment> sits. To <wp>medium pieces</wp>, such as
+which point the <ms>escutcheon</ms><comment rid="c_018v_02"/> sits. To <wp>medium pieces</wp>, such as
 <wp>field pieces</wp>, &amp; smaller ones, one gives them powder the
 <ms>thickness of two balls</ms>. To the <wp>passe-volant</wp> &amp; other smaller
 ones, one gives them <m>powder</m> the <ms>thickness of three
@@ -79,7 +79,7 @@ defend <env>houses</env>. The ones which are carted around either for
 battery or for siege combat, are <wp>cannons</wp>, <wp>culverins</wp>, medium-sized
 <wp><fr>bastardes</fr></wp> &amp; <wp>field</wp></ab>
 
-<cont/>
+
 
 </div>
 </root>

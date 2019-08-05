@@ -1,11 +1,11 @@
-<root>
-<page>037v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="037v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f80.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f80.image</image>
 
-<div>
 
-<id>p037v_1</id>
+
+<div id="p037v_1">
+
+
 
 <head><pro>Jardinier</pro></head>
 
@@ -44,9 +44,9 @@ ilz les fault mouiller de<del>s</del> <m>decoction dabsinthe</m></add>
 
 </div>
 
-<div>
+<div id="p037v_2">
 
-<id>p037v_2</id>
+
 
 <head><pro>Vitrier</pro></head>
 
@@ -57,7 +57,7 @@ pour<lb/>
 
 travailler daprest Ains trassent sur le <m>verre net</m> avecq<lb/>
 
-du <m>noir a huile</m> Mays il fault bien que le <m>bois</m><comment>c_037v_02</comment> soit<lb/>
+du <m>noir a huile</m> Mays il fault bien que le <m>bois</m><comment rid="c_037v_02"/> soit<lb/>
 
 <m>desgraisse</m> car sil a tant soit peu de <m>graisse</m> la
 couleur<lb/>
@@ -98,9 +98,9 @@ faire gay ou obscur</ab>
 
 </div>
 
-<div>
+<div id="p037v_3">
 
-<id>p037v_3</id>
+
 
 <head><m>Ambre jaulne</m></head>
 

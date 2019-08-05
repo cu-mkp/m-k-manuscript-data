@@ -1,11 +1,11 @@
-<root>
-<page>031v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="031v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f68.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f68.image</image>
 
-<div>
 
-<id>p031v_1</id>
+
+<div id="p031v_1">
+
+
 
 <head><pro>Painctre</pro></head>
 
@@ -27,9 +27,9 @@ tout cella</ab>
 
 </div>
 
-<div>
+<div id="p031v_2">
 
-<id>p031v_2</id>
+
 
 <head><tl>Broisses</tl></head>
 
@@ -43,9 +43,9 @@ les rend plus maniables</ab>
 
 </div>
 
-<div>
+<div id="p031v_3">
 
-<id>p031v_3</id>
+
 
 <head>Paindre au naturel</head>
 
@@ -57,9 +57,9 @@ quil ne fauldroit</ab>
 
 </div>
 
-<div>
+<div id="p031v_4">
 
-<id>p031v_4</id>
+
 
 <head>Paindre daprest</head>
 

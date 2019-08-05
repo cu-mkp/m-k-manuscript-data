@@ -1,18 +1,18 @@
-<root>
-<page>021r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="021r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f47.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f47.image</image>
 
-<div>
 
-<id>p021r_1</id>
+
+<div id="p021r_1">
+
+
 
 <head><pro>Canonier</pro></head>
 
 <ab>Aulx <wp>petites pieces</wp> qui ne se chargent poinct avec <tl>lanterne</tl>
 on<lb/>
 
-charge de <m>pouldre</m> <ms>jusques a lescusson</ms><comment>c_018v_02</comment> qui se pose sur la <wp>piece</wp>
+charge de <m>pouldre</m> <ms>jusques a lescusson</ms><comment rid="c_018v_02"/> qui se pose sur la <wp>piece</wp>
 avecq<lb/>
 
 deue proportion</ab>
@@ -48,9 +48,9 @@ considerer que la poisanteur de la balle feroit baisser</ab>
 
 </div>
 
-<div>
+<div id="p021r_2" continued="yes">
 
-<id>p021r_2</id>
+
 
 <head>Pour tirer de nuict dun <wp>canon</wp></head>
 
@@ -101,9 +101,9 @@ a toucher par<lb/>
 bas le bort du <wp>canon</wp> apres quil est poincte &amp; adjouste pour
 tirer</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Si la platteforme<lb/>
 
@@ -117,7 +117,7 @@ ceste invention nest<lb/>
 
 pas de proffict</ab>
 
-<cont/>
+
 
 </div>
 </root>

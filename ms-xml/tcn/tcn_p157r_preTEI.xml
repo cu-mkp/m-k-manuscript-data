@@ -1,10 +1,10 @@
-<root>
-<page>157r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="157r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f319.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f319.item.r=</image>
 
-<div>
-<id>p157r_1</id>
+
+
+<div id="p157r_1">
+
 <head>Moyen des <pro>orfevres</pro> pour mouler<lb/>
 
 creux</head>
@@ -34,8 +34,8 @@ d’<m>argent</m>, et puys les <m>souldent</m> ou brasent. </ab>
 
 </div>
 
-<div>
-<id>p157r_2</id>
+<div id="p157r_2">
+
 <head><m>Rouge cler</m></head>
 
 <ab>
@@ -58,8 +58,8 @@ excellentes en ouvrage commun.</ab>
 
 </div>
 
-<div>
-<id>p157r_3</id>
+<div id="p157r_3">
+
 <head>Nettoyer et desgraisser<lb/>
 
 tes ouvrages gectés d’<m>estain</m><lb/>
@@ -74,12 +74,12 @@ Fais de la <m>lessive</m> curieuse<exp>m</exp>ent passée par de
 cendres</m>, et co<exp>mm</exp>e elle sera recente &amp; point grasse,
 fais<lb/>
 
-<underline>y bouillir ton ouvrage</underline><comment>c157r_01</comment> moulé. Et le
+<underline>y bouillir ton ouvrage</underline><comment rid="c157r_01"/> moulé. Et le
 <m>suif</m> et <m>gresse</m> s’en p<exp>ar</exp>t</ab>
 
 </div>
-<div>
-<id>p157r_4</id>
+<div id="p157r_4">
+
 <head>Disposer l’herbe ou fleur pour<lb/>
 
 gecter</head>
@@ -89,7 +89,7 @@ gecter</head>
 pource qu’il vient mieulx et plus net que le bas.<lb/>
 
 Fais le gect large &amp; que le <df>supraplus</df> (qui est la
-masselotte<comment>c_157r_04</comment><lb/>
+masselotte<comment rid="c_157r_04"/><lb/>
 aulx <pro>fondeurs</pro> de grand gect<corr>)</corr>, <del>Et</del>
 mesmem<exp>en</exp>t pour l’<m>argent</m> qui veult<lb/>
 
@@ -97,8 +97,8 @@ le <tl>moule</tl> bien chault &amp; estre gecté fort chault.<lb/>
 
 Les choses fort tanvres veulent estre gectées fort chault.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 Quand tu<lb/>
 
@@ -122,8 +122,8 @@ le reste est bien bruslé.</ab>
 
 </div>
 
-<div>
-<id>p157r_5</id>
+<div id="p157r_5">
+
 <head><al>Mousches</al></head>
 
 <ab>Elles se moulent<lb/>

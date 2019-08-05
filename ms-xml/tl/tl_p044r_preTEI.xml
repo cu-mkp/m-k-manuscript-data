@@ -1,27 +1,27 @@
-<root>
-<page>044r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="044r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f93.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f93.image</image>
 
-<div>
-<id>p044r_1</id>
+
+
+<div id="p044r_1">
+
 <head>The range of an <wp>arquebus</wp></head>
 
 <ab>The proportion of the <wp>fowling piece</wp> <corr><del>is</del></corr> 4
 <ms>king’s feet</ms> long &amp; the ball xviii
 <ms><cn><fr>deniers</fr></cn></ms>, the <corr>charge</corr> vi
-<ms><cn><fr>deniers</fr></cn></ms> of <m>powder</m>, its range iiii<superscript>xx</superscript><comment>c_017v_02</comment>
+<ms><cn><fr>deniers</fr></cn></ms> of <m>powder</m>, its range iiii<superscript>xx</superscript><comment rid="c_017v_02"/>
 <ms><fr>pans</fr></ms> &amp; 3 <ms>feet</ms> <del>lxi</del>&amp; a half, two
 <ms>inches</ms> &amp; a few <ms>lines</ms>, which is the
 <df><ms><pl>Paris</pl> <fr>aulne</fr></ms></df>. The medium
-<wp>hackbut</wp>,<comment>c_044r_01</comment> which is the usual one &amp; the
+<wp>hackbut</wp>,<comment rid="c_044r_01"/> which is the usual one &amp; the
 easiest, carries a ball of xv <ms><cn><fr>deniers</fr></cn></ms>, v
 <ms><cn><fr>deniers</fr></cn></ms> of <m>powder</m> &amp; a range of lx
 <ms>paces</ms>.</ab>
 
 </div>
-<div>
-<id>p044r_2</id>
+<div id="p044r_2">
+
 <head><pro>Pewterer</pro></head>
 
 <ab>They mix viii <ms>lb</ms> <add>or ten</add> of <m>lead</m>, per
@@ -32,24 +32,24 @@ three <ms>lb</ms> of <m>debris</m>, that is to say the <m>copper shards
 that <pro>coppersmiths</pro> make</m>. This makes the plate more
 <sn>sonorous</sn> and it is not as breakable.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 This <m>tin</m> is called <m>common tin</m>.</ab>
 
 </div>
-<div>
-<id>p044r_3</id>
+<div id="p044r_3">
+
 <head><wp>Arquebus</wp></head>
 
 <ab>To keep it from pushing back, it is necessary to clean your <wp>arquebus</wp>
 <ms>every eight days</ms>, &amp; rub it with <m>oil</m>, &amp; when you
 fire, wet some <m>linen cloth</m> in <m>oil</m> &amp; put it in instead
-of <m>paper</m>.</ab><comment>c_044r_02</comment>
+of <m>paper</m>.</ab><comment rid="c_044r_02"/>
 
 </div>
 
-<div>
-<id>p044r_4</id>
+<div id="p044r_4">
+
 <head><m>Lake</m></head>
 
 <ab>To test it, temper it &amp; apply it to <m>paper</m>, &amp; if one or
@@ -58,8 +58,8 @@ and good.</ab>
 
 </div>
 
-<div>
-<id>p044r_5</id>
+<div id="p044r_5">
+
 <head><m>Dyes from flowers</m></head>
 
 <ab>The <m><pa>red poppy</pa></m>, which grows amongst <pa>grains</pa>,

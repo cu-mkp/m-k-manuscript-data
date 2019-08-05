@@ -1,13 +1,13 @@
-<root>
-n<page>101r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="101r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f207.image">
+n
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f207.image</image>
 
-<div>
 
-<cont/>
+<div continues="yes" id="p100v_2">
 
-<id>p100v_2</id>
+
+
+
 
 <ab>again very well, then add in iii <ms>℥</ms> of
 <m>minium</m>, &amp; <tl>pestle</tl> well again all together, &amp; put
@@ -25,29 +25,29 @@ as is only <m>vitrified minium</m>, &amp; some <ms>grains of
 <m>gold</m></ms> in a mass at the bottom. <emph>Try cemented <m>gold</m>
 and accompanied with <m>antimony</m></emph>.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 If you need greater heat, <del><fr>plie</fr></del> put on the edge of
 the opening of the glowing <tl>furnace</tl> <tl>tiles</tl>, one against
 the other, for making the heat reverberate.</ab>
 
-<figure>
+<figure id="fig_p101r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dnlodmJvNkRMaWM">
 
-<id>fig_p101r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dnlodmJvNkRMaWM</link>
+
+
+
 
 </figure>
 
 </div>
 
-<div>
+<div id="p101r_1">
 
-<id>p101r_1</id>
+
 
 <head><m>Topaz</m></head>
 
@@ -66,9 +66,9 @@ or <m>firestone</m> for the <m>ruby</m> would be better. See the
 <m>colored glass</m> or <m>enamels</m>. If the mass is not colored
 enough, <tl>pestle</tl> it more in the <tl><m>iron</m> mortar</tl>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <m>Slightly burnt tartar</m> mixed among this makes beautiful yellow,
 but one hardly needs any. The <m><fr>arene</fr></m> also makes it
@@ -76,9 +76,9 @@ more yellow.</ab>
 
 </div>
 
-<div>
+<div id="p101r_2" continued="yes">
 
-<id>p101r_2</id>
+
 
 <head><m>Salt</m> for melting</head>
 
@@ -92,13 +92,13 @@ better, in a <tl><fr>four à vent</fr></tl>. And cast it neatly on
 put it in a <tl><oc>crucible</oc></tl> on <ms>as much</ms> <m>saltpeter</m> &amp;
 let it boil, &amp; mix them together until</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 It cleans &amp; purifies <m>metal</m> well.</ab>
 
-<cont/>
+
 
 </div>
 </root>

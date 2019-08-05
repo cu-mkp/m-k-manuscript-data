@@ -1,19 +1,19 @@
-<root>
-<page>026v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="026v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f58.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f58.item</image>
 
-<div>
 
-<id>p026v_1</id>
+
+<div id="p026v_1">
+
+
 
 <head>Balle de <wp>colevrine</wp></head>
     
-<figure>
+<figure id="fig_p026v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5TmZXTkNLdDFjWms">
 
-<id>fig_p026v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5TmZXTkNLdDFjWms</link>
+
+
 
 </figure>
 

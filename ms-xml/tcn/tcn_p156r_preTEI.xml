@@ -1,10 +1,10 @@
-<root>
-<page>156r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="156r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f317.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f317.item.r=</image>
 
-<div>
-<id>p156r_1</id>
+
+
+<div id="p156r_1">
+
 <head>Mouler prompteme<exp>n</exp>t et reduire un<lb/>
 
 cave en relief</head>
@@ -37,8 +37,8 @@ dedans gectes y de la <m>cire fondue</m>, qui te rendra un beau<lb/>
 relief, sur lequel tu feras ton noyau.</ab>
 
 </div>
-<div>
-<id>p156r_2</id>
+<div id="p156r_2">
+
 <head>Ouvrage d’<m>or</m> fort leger et creux</head>
 
 <ab>Gecte un <al>lesard</al> ou telle medaille qu’il te plaira
@@ -80,8 +80,8 @@ nettoya<exp>n</exp>t bien</add>,<lb/>
 
 tu feras bien.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Affin que l’<m>eau<lb/>
 
 fort</m> mange<lb/>
@@ -93,8 +93,8 @@ mieulx, il fault<lb/>
 d’<m>argent bas</m>.</ab>
 
 </div>
-<div>
-<id>p156r_3</id>
+<div id="p156r_3">
+
 <head><tl>Ciseller</tl></head>
 
 <ab>Le <m>plomb</m> est si gras &amp; tendre qu’on n’y peult fraper

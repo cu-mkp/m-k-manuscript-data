@@ -1,13 +1,13 @@
-<root>
-<page>138r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="138r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f281.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f281.image</image>
 
-<div>
 
-<cont/>
 
-<id>p137v_1</id>
+<div continues="yes" id="p137v_1">
+
+
+
+
 
 <ab>Si tu veulx gecter <m>or</m> <m>argent</m> <m>cuivre</m> ou
 <m>letton</m> il fault quilz<lb/>
@@ -61,7 +61,7 @@ recuit<lb/>
 aussy &amp; on lacoustre avecq <del>se</del> <m>eau de sel armoniac</m>
 comme<lb/>
 
-le <m><de>spat</de><comment>c_108r_02</comment> d<pl>allemaigne</pl></m> &amp; est excellent <m>sable</m> pour
+le <m><de>spat</de><comment rid="c_108r_02"/> d<pl>allemaigne</pl></m> &amp; est excellent <m>sable</m> pour
 <tl>chassis</tl> pour<lb/>
 
 tous <m>metaulx</m></ab>
@@ -92,8 +92,8 @@ la<lb/>
 <m>terre grise</m> deseiche trop tost le <tl>molle</tl> <m>La jaulne</m>
 est meilleure</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Pour medailles<lb/>
 
 et choses plattes<lb/>

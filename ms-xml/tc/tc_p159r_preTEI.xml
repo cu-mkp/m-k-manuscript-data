@@ -1,10 +1,10 @@
-<root>
-<page>159r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="159r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f323.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f323.item.r=</image>
 
-<div>
-<id>p159r_1</id>
+
+
+<div id="p159r_1">
+
 <head>Portraicts de <m>cire</m></head>
 
 <ab>Silz sont pains de coleurs sur la <m>cire</m> &amp; que la
@@ -41,8 +41,8 @@ plus ferme &amp; plus blanc</ab>
 
 </div>
 
-<div>
-<id>p159r_2</id>
+<div id="p159r_2">
+
 <head><tl>Ciseler</tl></head>
 
 <ab>Si le <tl>ciselet</tl> a passe par quelque partye dun portraict<lb/>
@@ -53,8 +53,8 @@ une piece raportee</ab>
 
 </div>
 
-<div>
-<id>p159r_3</id>
+<div id="p159r_3">
+
 <head><m>Colle de <al>poisson</al></m></head>
 
 <ab>
@@ -85,8 +85,8 @@ d<m>argent</m> d<m>estain</m><lb/>
 
 </div>
 
-<div>
-<id>p159r_4</id>
+<div id="p159r_4">
+
 <head><m>Estaim</m> et <m>plomb</m></head>
 
 <ab>Ils se battent fort tanvre <del>sans se</del> Et l<m>estaim</m> ne

@@ -1,13 +1,13 @@
-<root>
-<page>140r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="140r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f285.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f285.image</image>
 
-<div>
 
-<cont/>
 
-<id>p139v_1</id>
+<div continues="yes" id="p139v_1" continued="yes">
+
+
+
+
 
 <ab>
 
@@ -60,11 +60,11 @@ ainsy </ab>
 
 <ab>Fais le premier
 
-<figure>
+<figure id="fig_p140r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NFdsdU4tVFgxOTg">
 
-<id>fig_p140r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5NFdsdU4tVFgxOTg</link>
+
+
 
 </figure> gect large deulx fois plus quaulx aultres<lb/>
 
@@ -115,8 +115,8 @@ quil gecteroit fort<lb/>
 <ups>net en medai</ups>lles On se sert de la mesme <m>cire</m> au lieu de
 <m>vernis</m> pour gra<ups>ver</ups></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Quand ton<lb/>
 
 animal est<lb/>
@@ -157,8 +157,8 @@ et luy tient en lentourna<exp>n</exp>t
 
 </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 Abas leminence<lb/>
 
@@ -182,7 +182,7 @@ par le reply<lb/>
 
 du <al>serpent</al></ab>
 
-<cont/>
+
 
 </div>
 </root>

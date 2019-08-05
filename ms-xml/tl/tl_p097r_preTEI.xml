@@ -1,29 +1,29 @@
-<root>
-<page>097r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="097r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f199.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f199.image</image>
 
-<div>
 
-<id>p097r_1</id>
+
+<div id="p097r_1">
+
+
 
 <head><m>Black varnish</m></head>
 
-<ab>It is said, at the beginning of the book<comment>c_097r_02</comment>
+<ab>It is said, at the beginning of the book<comment rid="c_097r_02"/>
 where you can see it, that it is made with <m>galipot</m>.
 
 </ab>
 
 </div>
 
-<div>
+<div id="p097r_2">
 
-<id>p097r_2</id>
 
-<head>Gilding<comment>c_097r_03</comment></head>
 
-<ab>One prepares the guards thoroughly with a <tl>soft, very soft, file</tl> such that there is nothing black left on any of the guards<comment>c_097r_04</comment>, and next heats them,
-&amp; passes them as is said<comment>c_097r_05</comment>. But to gild
+<head>Gilding<comment rid="c_097r_03"/></head>
+
+<ab>One prepares the guards thoroughly with a <tl>soft, very soft, file</tl> such that there is nothing black left on any of the guards<comment rid="c_097r_04"/>, and next heats them,
+&amp; passes them as is said<comment rid="c_097r_05"/>. But to gild
 &amp; gild with <m>silver</m>, they ought not to pass more than a little
 beyond blue. Then while the guards are hot, one attaches them to an <tl><oc>vice</oc></tl>
 &amp; with some <tl>tweezers</tl> one layers the <m>gold</m> &amp; one
@@ -47,9 +47,9 @@ fifty or lx <cn>sous</cn>.</ab>
 
 </div>
 
-<div>
+<div id="p097r_3">
 
-<id>p097r_3</id>
+
 
 <head>Gilding with <m>silver</m></head>
 

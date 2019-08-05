@@ -1,13 +1,13 @@
-<root>
-<page>074v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="074v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f154.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f154.image</image>
 
-<div>
 
-<cont/>
 
-<id>p074r_3</id>
+<div continues="yes" id="p074r_3">
+
+
+
+
 
 <ab>fire until it is cooked enough. And pour it into a <tl><m>cloth</m>
 that should be rather tight</tl>. And when you have poured it, let it to
@@ -19,9 +19,9 @@ make it better.
 
 </div>
 
-<div>
+<div id="p074v_1">
 
-<id>p074v_1</id>
+
 
 <head>For making <m>red varnish</m></head>
 
@@ -32,9 +32,9 @@ like the other. Make two or three ground layers as above.
 
 </div>
 
-<div>
+<div id="p074v_2">
 
-<id>p074v_2</id>
+
 
 <head>For making <m>yellow varnish</m></head>
 
@@ -52,25 +52,25 @@ Then wash your <bp>hands</bp> quite well &amp; with your
 
 </div>
 
-<div>
+<div id="p074v_3">
 
-<id>p074v_3</id>
+
 
 <head>Recipe for white <m>gum</m></head>
 
 <ab>Take <m>white wax</m> &amp; <m>ceruse</m> &amp; a small amount of <m>fine
 pitch</m> very well <tl>pestled</tl> together, &amp; put it in a small new
 <tl>pot</tl> &amp; make it melt. And when it will be melted you will
-make a <tl>spatula of <m>wood</m></tl> <del>of</del>&amp;<comment>c_074v_01</comment>
+make a <tl>spatula of <m>wood</m></tl> <del>of</del>&amp;<comment rid="c_074v_01"/>
 burnish what you want.
 
 </ab>
 
 </div>
 
-<div>
+<div id="p074v_4">
 
-<id>p074v_4</id>
+
 
 <head>Green <m>gum</m></head>
 

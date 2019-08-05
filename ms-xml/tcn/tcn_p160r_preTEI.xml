@@ -1,27 +1,27 @@
-<root>
-<page>160r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="160r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f325.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f325.item.r=</image>
 
-<div>
-<id>p160r_1</id>
+
+
+<div id="p160r_1">
+
 <head><tl>Presse</tl> pour les grands <tl>moules</tl></head>
 
-<figure>
+<figure id="fig_p160r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ZDNJT25PWjlUbGM">
 
-<id>fig_p160r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5ZDNJT25PWjlUbGM</link>
+
+
 
 </figure>
 
-<figure>
+<figure id="fig_p160r_2" margin="right-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MEUzMjhxUVl1ZTA">
 
-<id>fig_p160r_2</id>
 
-<margin>right-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5MEUzMjhxUVl1ZTA</link>
+
+
+
 
 </figure>
 
@@ -60,11 +60,11 @@ pas cognoistre quand elle sarrent trop, &amp; bien souvent elles<lb/>
 
 rompent le <tl>moule</tl>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 La <tl>vis</tl> est rivée<lb/>
 
-à cest <tl>estrier</tl><comment>c_160r_01</comment> qui<lb/>
+à cest <tl>estrier</tl><comment rid="c_160r_01"/> qui<lb/>
 
 est <tl>cloué</tl> sur la<lb/>
 
@@ -78,8 +78,8 @@ la haulsse &amp; la<lb/>
 
 </div>
 
-<div>
-<id>p160r_2</id>
+<div id="p160r_2">
+
 <head><m>Sable pour fleurs</m></head>
 
 <ab>S’il est gecté espés, il agrave trop les fleurs &amp; les reserre

@@ -1,11 +1,11 @@
-<root>
-<page>040v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="040v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image</image>
 
-<div>
 
-<id>p040v_1</id>
+
+<div id="p040v_1">
+
+
 
 <head>Croix des <pro>commandeurs<lb/>
 
@@ -34,9 +34,9 @@ de celle plus espesse qui est brunie par <pro>ceulx qui font les<lb/>
 
 donne ce bel esclat</ab></div>
 
-<div>
+<div id="p040v_2">
 
-<id>p040v_2</id>
+
 
 <head><m>Letton</m> et <m>calamine</m></head>
 
@@ -44,16 +44,16 @@ donne ce bel esclat</ab></div>
 <del>a vent</del> <add>de souflets</add></tl><lb/>
 
 Mays dans des <tl>creusets</tl> Car dans le <tl>four a vent
-<add>souflets</add><comment>c_040v_02</comment></tl> &amp;<lb/>
+<add>souflets</add><comment rid="c_040v_02"/></tl> &amp;<lb/>
 
 parmy les <m>charbons</m> la <m>calamine</m> sen yroit
 <del>A</del></ab></div>
 
-<div>
+<div id="p040v_3">
 
-<id>p040v_3</id>
 
-<head><m>Metal</m><comment>c_016v_05</comment></head>
+
+<head><m>Metal</m><comment rid="c_016v_05"/></head>
 
 <ab>L<m>estaim doibt estre pur</m> Car sil y a du <m>plomb</m> il
 sen<lb/>
@@ -62,9 +62,9 @@ va en <m>fumee</m> en fondant L<m>estain</m> mesle tient <tmp>long temps</tmp><l
 
 au fœu Mays la <m>cendree</m> le separe</ab></div>
 
-<div>
+<div id="p040v_4">
 
-<id>p040v_4</id>
+
 
 <head><m>Eau fort</m></head>
 

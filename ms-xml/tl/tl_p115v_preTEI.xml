@@ -1,10 +1,10 @@
-<root>
-<page>115v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="115v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f236.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f236.image</image>
 
-<div>
-<id>p115v_1</id>
+
+
+<div id="p115v_1">
+
 <head>Cast of <m>tin</m></head>
 
 <ab>If the plant or flower that you want to cast <del>in tin</del> is
@@ -22,8 +22,8 @@ the plant, it will get cold before arriving there. And do not forget to
 mix in it a little <m>looking-glass tin</m>, which makes it run better
 &amp; firms it up.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 In the <m>lead alloyed with tin</m>, or <m>tin alloyed with lead</m>,
 you can put a little bit of <m><fr>metalline</fr></m> &amp; it will seem
 <m>silver</m>. But do not put too much, for this hardens the substance
@@ -32,8 +32,8 @@ similar things, it would not be appropriate.</ab>
 
 </div>
 
-<div>
-<id>p115v_2</id>
+<div id="p115v_2">
+
 <head>For giving venting to the <tl>mold</tl></head>
 
 <ab>In addition to your vents, if your <del><fr>es</fr></del> plant is
@@ -45,8 +45,8 @@ give air &amp; venting, to help clean.</ab>
 
 </div>
 
-<div>
-<id>p115v_3</id>
+<div id="p115v_3" continued="yes">
+
 <head>Reheating the <tl><fr>noyau</fr> molds</tl></head>
 
 <ab>After your <tl>molds</tl> have their gate, vents &amp;
@@ -70,8 +70,8 @@ it will be enough that they are dried well on the same fire, if it is
 for casting <m>tin</m>. They reheat better in a <tl>reverberatory
 furnace</tl>.</ab>
 
-<ab>
-<margin>left-middle</margin><hr/>
+<ab margin="left-middle">
+<hr/>
 Do not pull out your <tl>reheated molds</tl> from the fire before they
 have cooled themselves, &amp; take care that the <env>wind or the
 cold</env> does not hit them while very hot, for this would make them burst. One
@@ -79,39 +79,39 @@ must not reheat them before they are dry and firmed up for they would
 cast in a different way, and it is necessary beforehand to make gates
 &amp; vents &amp; place <tl>clamps</tl>.</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
 
-<figure>
 
-<id>fig_p115v_1</id>
+<figure id="fig_p115v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dHVja3NnV0dmMlk">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dHVja3NnV0dmMlk</link>
+
+
+
 
 </figure>
 Take care not to heat the fire in one go, for fear <del><fr>f</fr></del>
 that your <tl>molds</tl> crack inside.</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
+
 They are reheated enough when the entire hole of the gate is red. When
 it is black, it is not enough.</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
+
 For casting in <m>silver</m>, one must not reheat two times
 <del>&amp;</del>, if there is nothing in the <tl>mold</tl> that needs
 <del><fr>despouiller</fr></del> burning, simply because it does not
 release well. All the <tl>molds</tl> of flowers are reheated
-two times, first for <figure>            
-<id>fig_p115v_2</id>
+two times, first for <figure id="fig_p115v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bXhqSkVQbkgwYjQ">            
+
         
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5bXhqSkVQbkgwYjQ</link>
+
         
 </figure></ab>
 
 
-<cont/>
+
 
 </div>
 </root>

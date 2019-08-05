@@ -1,18 +1,18 @@
-<root>
-<page>170v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="170v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f346.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f346.item</image>
 
-<div>
 
-<id>p170v_1</id>
+
+<div id="p170v_1">
+
+
 <head><sup>Première page d'origine</sup></head>
 <ab>
 
-<comment>c_170v_12</comment>L’<tmp>an</tmp> mil cinq cens septante huict le
+<comment rid="c_170v_12"/>L’<tmp>an</tmp> mil cinq cens septante huict le
 deuxiesme de <tmp>juillet</tmp> a esté faict<lb/>
 
-transport aulx heritiers d<del>e</del>u<comment>c_170v_29</comment> feu <pn>s<exp>ieu</exp>r
+transport aulx heritiers d<del>e</del>u<comment rid="c_170v_29"/> feu <pn>s<exp>ieu</exp>r
 Ouvryer</pn> <del>deux cens cinq <cn>escus</cn></del><lb/>
 
 du rentement de <pl>S<exp>ainc</exp>t Frajou</pl>, montant douze cens trente
@@ -26,14 +26,14 @@ quarante trois <cn>escus</cn><lb/>
 un tiers <del>sur qu</del>.</ab>
 
 <ab>Et leur reste sur la premiere annee quatre vintg <cn>livres</cn> quinze 
-<figure><id>fig_p170v_2</id><link>https://drive.google.com/open?id=1MayV4ZIaGElXC-ztkjtbKF9pZw6sTZle</link></figure>,<comment>c_170v_02</comment><lb/>
+<figure id="fig_p170v_2" link="https://drive.google.com/open?id=1MayV4ZIaGElXC-ztkjtbKF9pZw6sTZle"/>,<comment rid="c_170v_02"/><lb/>
 
 et sur la seconde judication n’ont encore rien repceu.</ab>
 <hr/>
 </div>
 
-<div>
-<id>p170v_2</id>
+<div id="p170v_2">
+
 <head><md>Contre peste</md></head>
 
 <ab>P<exp>rends</exp> <md>contre fiebvre pestilentiale</md>, ou <md>poison</md>, ou <md>peste</md>,
@@ -45,9 +45,9 @@ d’un <cn>escues</cn></ms> de ton <m>opiate</m> destrempé avecq <m>eau de
 <m><pa>buglose</pa></m>, ou <m>vin fort trempé</m>, quand on est touché.
 Aprés la<lb/>
 
-prinse, il se fault faire suer.<comment>c_170v_09</comment></ab>
+prinse, il se fault faire suer.<comment rid="c_170v_09"/></ab>
 
-<ab><margin>left-middle</margin><la><pn>Othonis</pn> Epi<exp>scopi</exp><lb/>
+<ab margin="left-middle"><la><pn>Othonis</pn> Epi<exp>scopi</exp><lb/>
 
 frisigensis<lb/>
         
@@ -55,8 +55,8 @@ ab orbe condito</la></ab>
 
 </div>
 
-<div>
-<id>p170v_3</id>
+<div id="p170v_3">
+
 <head><md>Pour preserver</md></head>
 
 <ab><la><m>Acetum</m> paratum ex <m><pa>ruta</pa></m> <m><pa>baccis
@@ -82,13 +82,13 @@ co<exp>mm</exp>e<lb/>
 
 devant.</ab>
 
-<ab><margin>left-middle</margin><la><pn>Abbatis<lb/>
+<ab margin="left-middle"><la><pn>Abbatis<lb/>
         
 Uspergensis</pn><lb/>
         
 Chronic.</la></ab>
     
-<ab><margin>left-middle</margin><emph><la>
+<ab margin="left-middle"><emph><la>
 <pn>Hyeronimus<lb/>
             
 mercurialis</pn><lb/>
@@ -97,10 +97,10 @@ variarum</la></emph></ab>
 
 </div>
     
-<div>
-<id>p170v_4</id>
+<div id="p170v_4">
+
 <head><sup>Liste de livres</sup></head>       
-<ab><comment>c_170v_10</comment><emph><la>Reru<exp>m</exp> Scoticarum Historia, <pn>Georgio Bucanano</pn>
+<ab><comment rid="c_170v_10"/><emph><la>Reru<exp>m</exp> Scoticarum Historia, <pn>Georgio Bucanano</pn>
 auth<exp>ore</exp></la></emph></ab>
 
 <ab><emph><la><pn>Rembertus Dodonaeus</pn> <pl>Mechliniensis</pl> <pro>medicus</pro>,<lb/>

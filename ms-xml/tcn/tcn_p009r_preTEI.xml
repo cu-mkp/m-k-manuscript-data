@@ -1,11 +1,11 @@
-<root>
-<page>009r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="009r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f23.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f23.item</image>
 
-<div>
 
-<id>p009r_1</id>
+
+<div id="p009r_1">
+
+
 
 <head><pro>Laboureur</pro></head>
 
@@ -22,7 +22,7 @@ qui est plus humide, car il <del>le</del> fault laisser passer les<lb/>
 
 rayons du soleil par dessus, et gueres on ne bat que le<lb/>
 
-<tmp>soleil ne soit vers le midy</tmp>. Incontinent que le <pa>mil</pa><comment>c_009r_03</comment>
+<tmp>soleil ne soit vers le midy</tmp>. Incontinent que le <pa>mil</pa><comment rid="c_009r_03"/>
 est<lb/>
 
 couppé, il fault labourer la terre, car la racine la<lb/>
@@ -50,9 +50,9 @@ pourrir les racines &amp; tyges.</ab>
 
 </div>
 
-<div>
+<div id="p009r_2">
 
-<id>p009r_2</id>
+
 
 <head><pro>Painctre</pro></head>
 
@@ -63,9 +63,9 @@ meilleur.</ab>
 
 </div>
 
-<div>
+<div id="p009r_3">
 
-<id>p009r_3</id>
+
 
 <head><pro>Marchant</pro></head>
 

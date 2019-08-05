@@ -1,11 +1,11 @@
-<root>
-<page>105r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="105r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f215.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f215.image</image>
 
-<div>
 
-<id>p105r_1</id>
+
+<div id="p105r_1">
+
+
 
 <head><al>Tortues</al></head>
 
@@ -20,9 +20,9 @@ ne la coquille reviree vers la queue ne les cocheure</ab>
 
 </div>
 
-<div>
+<div id="p105r_2">
 
-<id>p105r_2</id>
+
 
 <head>Seicher couleurs</head>
 
@@ -33,9 +33,9 @@ si on ny mectoit du <m>verdegris</m></ab>
 
 </div>
 
-<div>
+<div id="p105r_3">
 
-<id>p105r_3</id>
+
 
 <head><pro>Painctre</pro></head>
 
@@ -49,9 +49,9 @@ Autrem<exp>ent</exp> sur la murail<ups>le</ups></ab>
 
 </div>
 
-<div>
+<div id="p105r_4" continued="yes">
 
-<id>p105r_4</id>
+
 
 <head>Jardinier</head>
 
@@ -79,15 +79,15 @@ et qui est e<ups>n</ups><lb/>
 
 sabe sur lequel tu veulx hanter deulx traits ainsy <del>de</del>
 coupes<lb/>
-<figure><id>fig_p105r_3</id><link>https://drive.google.com/open?id=1JhDJNev7KOB91hz0h-FhVjRGxq8rj3s1</link></figure>
-<comment>c_105r_01</comment>puys fais au milieu une fente
+<figure id="fig_p105r_3" link="https://drive.google.com/open?id=1JhDJNev7KOB91hz0h-FhVjRGxq8rj3s1"/>
+<comment rid="c_105r_01"/>puys fais au milieu une fente
 ainsy
 
-<figure>
+<figure id="fig_p105r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5T1FZYTdOT1U4Qzg">
 
-<id>fig_p105r_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5T1FZYTdOT1U4Qzg</link>
+
+
 
 </figure>
 
@@ -122,17 +122,17 @@ ou<lb/>
 croissance laisse luy lieu pour sortir &amp; fais ainsy trois ou 4
 f<ups>ois</ups></ab>
 
-<figure>
+<figure id="fig_p105r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UWpzdGVweGVvQTg">
 
-<id>fig_p105r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5UWpzdGVweGVvQTg</link>
+
+
+
 
 </figure>
 
-<cont/>
+
 
 </div>
 </root>

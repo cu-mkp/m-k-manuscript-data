@@ -1,11 +1,11 @@
-<root>
-<page>097r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="097r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f199.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f199.image</image>
 
-<div>
 
-<id>p097r_1</id>
+
+<div id="p097r_1">
+
+
 
 <head>Le <m>vernis noir</m></head>
 
@@ -16,9 +16,9 @@ faict avecq du <m>gallipot</m></ab>
 
 </div>
 
-<div>
+<div id="p097r_2">
 
-<id>p097r_2</id>
+
 
 <head>Dorer</head>
 
@@ -79,9 +79,9 @@ que pour les<lb/>
 
 </div>
 
-<div>
+<div id="p097r_3">
 
-<id>p097r_3</id>
+
 
 <head><m>Argenter</m></head>
 

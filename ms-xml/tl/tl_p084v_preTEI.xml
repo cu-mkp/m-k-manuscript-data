@@ -1,10 +1,10 @@
-<root>
-<page>084v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="084v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f174.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f174.image</image>
 
-<div>
-<id>p084v_1</id>
+
+
+<div id="p084v_1">
+
 <head><m>Sand</m></head>
 
 <ab>I tried the <m>bone of oxen <add>feet</add>, very burned &amp;
@@ -23,25 +23,25 @@ without needing to be reheated a lot, &amp; casting
 <ab><m>Felt</m> alone molds very neatly once moistened &amp; releases
 well, and also makes the other two release.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 These <m>sands</m> only withstand one casting.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 A <m>fat sand</m> which is rendered very smooth, makes it porous.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <ab>A <m>fat metal</m> needs <m>lean sand</m>.</ab>
 
 </ab>
 
 </div>
-<div>
-<id>p084v_2</id>
+<div id="p084v_2">
+
 <head><m><fr>Eau Magistra</fr></m></head>
 
 <ab>Some people think that <m>salt water</m> is not good, because the
@@ -53,21 +53,21 @@ one finds that <m>the one of <pa>willow</pa></m> makes it porous. <m>The one
 of <pa>oak</pa> or <pa>beech</pa></m> does well without making it
 porous.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Try <m>burnt <al>oysters</al></m>.</ab>
 
 </div>
-<div>
-<id>p084v_3</id>
+<div id="p084v_3">
+
 <head><m>Lead</m></head>
 
 <ab>For casting, there is only <m>soft lead</m> that wants to be cast
 very <del><fr>g</fr></del> hot, and <m>soft tin</m>.</ab>
 
 </div>
-<div>
-<id>p084v_4</id>
+<div id="p084v_4" continued="yes">
+
 <head><m>Sand for <m>lead</m></m>, the most excellent of all, for high and low
 reliefs</head>
 
@@ -77,18 +77,18 @@ much, with <m>well-beaten glair of egg</m>, that it was like a paste,
 smoothing it perfectly with the dull side of a <tl>knife</tl>. I left it
 a little</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 <mark>X</mark>
 
 </ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
+
 One ought to mix it well with a <tl>knife</tl>.</ab>
 
-<cont/>
+
 
 </div>
 </root>

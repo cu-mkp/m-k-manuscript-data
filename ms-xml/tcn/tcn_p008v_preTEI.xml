@@ -1,11 +1,11 @@
-<root>
-<page>008v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="008v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f22.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f22.image</image>
 
-<div>
 
-<id>p008v_1</id>
+
+<div id="p008v_1">
+
+
 
 <head>Polissement du <m>ruby balay</m></head>
 
@@ -15,9 +15,9 @@ aultres,<lb/>
 mays avecq de la <tl><m>pouldre de marchasite</m></tl> &amp; de
 l’<m>huile</m>.</ab></div>
 
-<div>
+<div id="p008v_2">
 
-<id>p008v_2</id>
+
 
 <head><m>Or</m> et <m>argent moulu</m></head>
 
@@ -40,9 +40,9 @@ aprés le mouldre avecq <m>eau gommée</m>.</ab>
 
 </div>
 
-<div>
+<div id="p008v_3">
 
-<id>p008v_3</id>
+
 
 <head>Polissement de <m>pierres</m></head>
 
@@ -60,9 +60,9 @@ comme<lb/>
 
 l’<m>esmeraulde</m>, l’<m>ametiste</m> &amp; aultres.</ab></div>
 
-<div>
+<div id="p008v_4">
 
-<id>p008v_4</id>
+
 
 <head>M<del><ill/></del>ixtion des <pro>pintiers</pro></head>
 
@@ -76,9 +76,9 @@ cela, ilz meslent de la <m>limaille de letton</m> parmy, pour le<lb/>
 
 rendre <sn>sonnant</sn>.</ab></div>
 
-<div>
+<div id="p008v_5">
 
-<id>p008v_5</id>
+
 
 <head>Amalgame parfaict</head>
 

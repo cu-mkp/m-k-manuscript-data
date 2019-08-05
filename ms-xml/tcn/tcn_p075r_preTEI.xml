@@ -1,11 +1,11 @@
-<root>
-<page>075r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="075r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f155.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f155.item</image>
 
-<div>
 
-<id>p075r_1</id>
+
+<div id="p075r_1">
+
+
 
 <head><m>Goume</m> rouge</head>
 
@@ -18,9 +18,9 @@ comme dessus.</ab>
 
 </div>
 
-<div>
+<div id="p075r_2">
 
-<id>p075r_2</id>
+
 
 <head><m>Bronze</m> de <m>cuyvre</m></head>
 
@@ -40,9 +40,9 @@ verchés sur le <m>boys</m>, &amp; le polissés aveq du
 
 </div>
 
-<div>
+<div id="p075r_3">
 
-<id>p075r_3</id>
+
 
 <head><m>Bronze</m> comme <m>estaing</m></head>
 
@@ -55,7 +55,7 @@ faictes fondre l’<m>estaing de glace</m> dedans ung <tl>pot</tl> neuf.
 Et<lb/>
 
 <corr><del>difiant</del></corr> <add>des lors</add> qu’il soit tout
-fondu, mectés le <m>vi<del>t</del>f<comment>c_075r_02</comment>
+fondu, mectés le <m>vi<del>t</del>f<comment rid="c_075r_02"/>
 <del>aiant</del><add>argent</add></m> dedans, &amp;<lb/>
 
 l’ostés du fœu, &amp; laissés secher lad<exp>icte</exp> <m>colle</m>.
@@ -71,9 +71,9 @@ morceau d’<tl><m>estaing</m></tl>.</ab>
 
 </div>
 
-<div>
+<div id="p075r_4">
 
-<id>p075r_4</id>
+
 
 <head>Pour faire <m>eaue fort</m></head>
 
@@ -89,9 +89,9 @@ mectés ensemble dans une <tl>fiolle de <m>voyrre</m></tl>.</ab>
 
 </div>
 
-<div>
+<div id="p075r_5">
 
-<id>p075r_5</id>
+
 
 <head><m>Or moulu</m></head>
 

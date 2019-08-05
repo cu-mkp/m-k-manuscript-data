@@ -1,11 +1,11 @@
-<root>
-<page>076v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="076v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f158.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f158.item</image>
 
-<div>
 
-<id>p076v_1</id>
+
+<div id="p076v_1">
+
+
 
 <head>For making very beautiful color of gold &amp; of little
 expense</head>
@@ -22,9 +22,9 @@ color. </ab>
 
 </div>
 
-<div>
+<div id="p076v_2">
 
-<id>p076v_2</id>
+
 
 <head>For making black <m><fr>goumiche</fr></m></head>
 
@@ -35,9 +35,9 @@ black &amp; mix them together, then put it on <m>wood</m>.</ab>
 
 </div>
 
-<div>
+<div id="p076v_3">
 
-<id>p076v_3</id>
+
 
 <head>For the white </head>
 
@@ -46,9 +46,9 @@ together, &amp; lay it on <m>wood</m> or another thing.</ab>
 
 </div>
 
-<div>
+<div id="p076v_4">
 
-<id>p076v_4</id>
+
 
 <head>For gilding <m>iron</m> or <m>tin</m></head>
 

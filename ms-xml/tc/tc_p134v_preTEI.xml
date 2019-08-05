@@ -1,11 +1,11 @@
-<root>
-<page>134v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="134v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f274.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f274.image</image>
 
-<div>
 
-<id>p134v_1</id>
+
+<div id="p134v_1">
+
+
 
 <head>Faire courre le <m><mark>☀</mark></m></head>
 
@@ -39,15 +39,15 @@ bien<lb/>
 
 sec</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 Broye</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 <emph><del><al>iraigne</al></del></emph></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Un<add>e</add> des principalles<lb/>
 
@@ -61,9 +61,9 @@ les grands <m>metaulx</m></ab>
 
 </div>
 
-<div>
+<div id="p134v_2">
 
-<id>p134v_2</id>
+
 
 <head>
 
@@ -79,9 +79,9 @@ Mays les fortifier de bons liens de <tl><m>fil de fer</m></tl> ou<lb/>
 
 <tl>petites bandes</tl> faictes a propos</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Plustost que<lb/>
 
@@ -95,9 +95,9 @@ nettoye bien ta<lb/>
 
 </div>
 
-<div>
+<div id="p134v_3">
 
-<id>p134v_3</id>
+
 
 <head>
 

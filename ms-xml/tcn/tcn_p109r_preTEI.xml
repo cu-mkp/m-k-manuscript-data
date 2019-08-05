@@ -1,11 +1,11 @@
-<root>
-<page>109r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="109r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f223.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f223.image</image>
 
-<div>
 
-<id>p109r_1</id>
+
+<div id="p109r_1">
+
+
 
 <head>Esbaucher en <m>cire</m></head>
 
@@ -25,9 +25,9 @@ de <m><pa>buys</pa></m> ou d’<m>os de <al>cerf</al></m>.</ab>
 
 </div>
 
-<div>
+<div id="p109r_2">
 
-<id>p109r_2</id>
+
 
 <head><m>Cire</m> à mouler <mark>-</mark></head>
 
@@ -52,12 +52,12 @@ pustule ou bouillon. Sois aussy adverty de ne luy donner pas<lb/>
 
 trop grand fœu.</ab>
 
-<ab><margin>left-middle</margin>Si</ab>
+<ab margin="left-middle">Si</ab>
 </div>
 
-<div>
+<div id="p109r_3">
 
-<id>p109r_3</id>
+
 
 <head>Mouler <m>cire</m></head>
 
@@ -75,7 +75,7 @@ assiete<lb/>
 
 sur icelle.</ab>
 
-<ab><margin>left-middle</margin>Oings fort fort<lb/>
+<ab margin="left-middle">Oings fort fort<lb/>
 
 legerem<exp>ent</exp> d’<m>huile</m>,<lb/>
 
@@ -98,9 +98,9 @@ ne refuse pas<lb/>
 l’<m>huile</m>.</ab>
 </div>
 
-<div>
+<div id="p109r_4">
 
-<id>p109r_4</id>
+
 
 <head><tl>Souflets</tl> de la <tl>forge</tl></head>
 
@@ -116,9 +116,9 @@ soient<lb/>
 4 <ms><bp>doigts</bp></ms> sur la sole de la <tl>forge</tl>.</ab>
 </div>
 
-<div>
+<div id="p109r_5" continued="yes">
 
-<id>p109r_5</id>
+
 
 <head><al>Serpents</al> à mouler</head>
 
@@ -141,7 +141,7 @@ aultre animalet<lb/>
 
 vif, car ilz ne mangent rien de mort. Aussy ay je remarque que</ab>
 
-<cont/>
+
 
 </div>
 </root>

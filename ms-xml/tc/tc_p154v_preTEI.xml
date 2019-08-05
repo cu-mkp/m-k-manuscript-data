@@ -1,11 +1,11 @@
-<root>
-<page>154v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="154v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f314.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f314.image</image>
 
-<div>
 
-<id>p154v_1</id>
+
+<div id="p154v_1">
+
+
 
 <head><m>Letton</m></head>
 
@@ -27,9 +27,9 @@ Il ne demande pas si long gect que les aultres</ab>
 
 </div>
 
-<div>
+<div id="p154v_2">
 
-<id>p154v_2</id>
+
 
 <head>Mouler</head>
 
@@ -43,15 +43,15 @@ fœu ne recoit pas si bien le gect</ab>
 
 </div>
 
-<div>
+<div id="p154v_3">
 
-<id>p154v_3</id>
 
-<head>Gect <add>d<m>argent</m><comment>c_154v_01</comment></add></head>
+
+<head>Gect <add>d<m>argent</m><comment rid="c_154v_01"/></add></head>
 
 
 <ab>L<m>argent</m> veult bien le gect longuet A l<m>or</m>
-nimporte<lb/><comment>c_154v_02</comment> 
+nimporte<lb/><comment rid="c_154v_02"/> 
 
 <add>L<m>argent</m> en soubdant endure l<m>eau</m> quon gecte dessus
 Mays l<m>or</m> saulteroit<lb/>
@@ -59,7 +59,7 @@ Mays l<m>or</m> saulteroit<lb/>
 &amp; <del>veult que</del> a ceste cause on jecte de <del>la
 <m>soubdure</m></del> <m>son</m> sur la <m>soubdure</m></add></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Laisse bien refroidir le<lb/>
 
@@ -69,9 +69,9 @@ que louvrir</ab>
 
 </div>
 
-<div>
+<div id="p154v_4">
 
-<id>p154v_4</id>
+
 
 <head>Renforcer les fleurs et<lb/>
 
@@ -83,7 +83,7 @@ delicates</del> &amp; herbages on nuse<lb/>
 poinct d<m>huile de <pa>froment</pa></m> Ains de <m>beurre fondu</m>
 duquel<lb/>
 
-on donne une couche <add><mark>#</mark></add><comment>c_154v_03</comment>
+on donne une couche <add><mark>#</mark></add><comment rid="c_154v_03"/>
 legere au derriere des fœuilles de<lb/>
 
 fleur de <pa>roses</pa> &amp; de la <pa>pensee</pa> &amp; aultres fleurs
@@ -97,9 +97,9 @@ les<lb/>
 
 fortifier &amp; faire soubstenir</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 avecq un <tl>petit pinceau</tl>
 
@@ -107,9 +107,9 @@ avecq un <tl>petit pinceau</tl>
 
 </div>
 
-<div>
+<div id="p154v_5">
 
-<id>p154v_5</id>
+
 
 <head><pa>fraises</pa></head>
 

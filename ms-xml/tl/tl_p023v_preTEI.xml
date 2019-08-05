@@ -1,21 +1,21 @@
-<root>
-<page>023v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="023v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f52.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f52.image</image>
 
-<div>
 
-<cont/>
 
-<id>p023r_1</id>
+<div continues="yes" id="p023r_1">
 
-<figure>
 
-<id>fig_p023v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Tm4ySC1wcUx6Yzg</link>
+
+<figure id="fig_p023v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Tm4ySC1wcUx6Yzg">
+
+
+
+
+
+
 
 </figure>
 
@@ -29,7 +29,7 @@ sausage</ms>, &amp; one ought not to tighten it to the sausage but only
 to bind it to it at both ends &amp; to sew it on the sausage in a few
 places in the middle. Next one needs to anoint the entire sausage with
 <m>very good turpentine</m>, and at whichever end of it you wish to join
- to the touch-hole of the <wp>petard</wp><comment>c_008r_04</comment> for giving fire, you can sew
+ to the touch-hole of the <wp>petard</wp><comment rid="c_008r_04"/> for giving fire, you can sew
 <del>a</del> or tightly attach a <m>large strip of canvas</m> one
 <ms><fr>empan</fr></ms> wide which should also be well soaked in
 <m>turpentine</m>; &amp; this strip must be split in the middle in order
@@ -48,9 +48,9 @@ also.</ab>
 
 </div>
 
-<div>
+<div id="p023v_1">
 
-<id>p023v_1</id>
+
 
 <ab><wp>Petards</wp> that one wants to place on doors or <m>iron</m> grates are
 sufficient if they weigh 40 or 50 <ms>lb</ms>. Moreover, as for its

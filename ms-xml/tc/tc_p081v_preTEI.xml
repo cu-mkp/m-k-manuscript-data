@@ -1,10 +1,10 @@
-<root>
-<page>081v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="081v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f168.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f168.image</image>
 
-<div>
-<id>p081v_1</id>
+
+
+<div id="p081v_1">
+
 <head><m>Sable</m></head>
 
 <ab>La seule <m>brique</m> fort subtillem<exp>ent</exp> passee &amp;
@@ -18,8 +18,8 @@ destrempee avecq <m><bp>urine</bp></m> Il fault que ce soit de ceste<lb/>
 
 </div>
 
-<div>
-<id>p081v_2</id>
+<div id="p081v_2">
+
 <head>Fayre courre le <m>cuivre</m> et <m>letton</m></head>
 
 <ab>Mects sur la fin co<exp>mm</exp>e il est bien chault &amp;
@@ -29,16 +29,16 @@ gecter du <m>sel armoniac</m> &amp; <m>salpestre</m> cela oste la
 <m>crasse</m><lb/>
 
 &amp; leschaufe Mesle des <m>ardides</m> parmy le <m>letton</m> 
-<comment>c_081v_01</comment>Garde que<lb/>
+<comment rid="c_081v_01"/>Garde que<lb/>
 
-le <m>metal</m><comment>c_016v_05</comment> ne touche point le <m>fer</m> ou <m>letton</m> du
+le <m>metal</m><comment rid="c_016v_05"/> ne touche point le <m>fer</m> ou <m>letton</m> du
 <tl>chassis</tl> mays enduits le<lb/>
 
 de <m>sable</m> ou <m><tl>luth</tl></m>. Fays le gect fort uny</ab>
 
 </div>
-<div>
-<id>p081v_3</id>
+<div id="p081v_3">
+
 <head><m>Sable</m></head>
 
 <ab>Les <m>caillous noirs de <env>riviere</env> calcines</m> sont bons
@@ -55,13 +55,13 @@ subtilem<exp>ent</exp> destrempee<lb/>
 avecq <m>glaire</m></ab>
 
 <ab>Le <m>charbon de <pa>saule</pa></m> pour <m>sable pour le <del>b</del>
-<m>plomb</m></m> <comment>c_081v_02</comment>est excellent</ab>
+<m>plomb</m></m> <comment rid="c_081v_02"/>est excellent</ab>
 
 <ab>Le <m>laitton</m> court mieulx</ab>
 
 </div>
-<div>
-<id>p081v_4</id>
+<div id="p081v_4">
+
 <head>Gect de <tl>chassis</tl></head>
 
 <ab>Il est bon de le faire avecq du <m>bois de <pa>buy</pa></m> tourne

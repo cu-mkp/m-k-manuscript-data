@@ -1,21 +1,21 @@
-<root>
-<page>023v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="023v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f52.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f52.image</image>
 
-<div>
 
-<cont/>
 
-<id>p023r_1</id>
+<div continues="yes" id="p023r_1">
 
-<figure>
 
-<id>fig_p023v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Tm4ySC1wcUx6Yzg</link>
+
+<figure id="fig_p023v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Tm4ySC1wcUx6Yzg">
+
+
+
+
+
+
 
 </figure>
 
@@ -46,7 +46,7 @@ toute la saulcice avecq de la <m>tourmentine bien bonne</m><lb/>
 
 Et au bout dicelle que tu vouldras joindre a la lumiere<lb/>
 
-du <wp>mortier</wp><comment>c_008r_04</comment> pour donner foeu tu pourras couldre <del>une</del><lb/>
+du <wp>mortier</wp><comment rid="c_008r_04"/> pour donner foeu tu pourras couldre <del>une</del><lb/>
 
 ou attacher bien serre une <m>liste de toile large</m> dun<lb/>
 
@@ -84,9 +84,9 @@ mis en seurette &amp; les aultres aussy</ab>
 
 </div>
 
-<div>
+<div id="p023v_1">
 
-<id>p023v_1</id>
+
 
 <ab>Les mortiers quon veult poser aulx portes ou grilles de<lb/>
 

@@ -1,11 +1,11 @@
-<root>
-<page>004r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="004r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f13.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f13.image</image>
 
-<div>
 
-<id>p004r_1</id>
+
+<div id="p004r_1">
+
+
 
 <head><m>Vernis d’huile d’aspic</m></head>
 
@@ -64,9 +64,9 @@ estoict refroidie elle n’entreroit poinct dans la muraille,<lb/>
 
 &amp; quand tu y aurois mis ton <m>vernis</m> elle s’enleveroit.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Le <m>vernis d’huile<lb/>
 
@@ -84,9 +84,9 @@ pour estre trop penetra<exp>n</exp>t.</ab>
 
 </div>
 
-<div>
+<div id="p004r_2">
 
-<id>p004r_2</id>
+
 
 <head>Pour oster le <m>vernis</m> d’un <lb/>
 
@@ -115,9 +115,9 @@ les couleurs. Aprés, estant le tableau sec, tu y peulx<lb/>
 
 estandre ton <m>vernis de tourmentine</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Garde que les<lb/>
 

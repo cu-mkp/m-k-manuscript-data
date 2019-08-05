@@ -1,10 +1,10 @@
-<root>
-<page>124r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="124r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f253.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f253.item.r=</image>
 
-<div>
-<id>p124r_1</id>
+
+
+<div id="p124r_1">
+
 <head>Animaulx à poil et fleurs foibles<lb/>
 
 et fort tanvres</head>
@@ -39,7 +39,7 @@ p<exp>rese</exp>nté,<lb/>
 donne luy à mouler la teste bourrue de l’herbe appellée
 <pa><df>dent<lb/>
 
-de Lyon</df></pa><comment>c_124_01</comment> ou un <pa>papus</pa> qui vient des graines de
+de Lyon</df></pa><comment rid="c_124_01"/> ou un <pa>papus</pa> qui vient des graines de
 <pa>lapasses</pa><lb/>
 
 &amp; vole de soy mesme au moindre souspir de <env>vent</env> qu’il
@@ -47,8 +47,8 @@ fasse.</ab>
 
 </div>
 
-<div>
-<id>p124r_2</id>
+<div id="p124r_2">
+
 <head>Noyaulx pour mouler creus</head>
 
 <ab>Les animaulx d’<m>or</m> &amp; d’<m>argent</m> se moulent
@@ -62,8 +62,8 @@ le <tl>moule</tl> soit fraichement moulé &amp; non sec.</ab>
 
 </div>
 
-<div>
-<id>p124r_3</id>
+<div id="p124r_3">
+
 <head>Toile d’<al>iraignee</al></head>
 
 <ab>Elle se deffaict dans l’<m>eau</m> &amp; par ainsy ne se peult
@@ -84,8 +84,8 @@ de plomb</m>.</ab>
 
 </div>
 
-<div>
-<id>p124r_4</id>
+<div id="p124r_4">
+
 <head><m>Or fin</m></head>
 
 <ab>Il y a une nature d’<m>or</m> qu’encores qu’il soict fin &amp; sans

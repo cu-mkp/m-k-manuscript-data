@@ -1,11 +1,11 @@
-<root>
-<page>126v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="126v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f258.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f258.image</image>
 
-<div>
 
-<id>p126v_1</id>
+
+<div id="p126v_1">
+
+
 
 <head><m><la>Crocum ferri</la></m></head>
 
@@ -36,7 +36,7 @@ achaptent<lb/>
 
 l’<ms>once</ms> quarante ou cinquante <ms><cn>sols</cn></ms>.</ab>
 
-<ab><margin>left-top</margin>
+<ab margin="left-top">
 
 Il n’endurcist point les <tl>moules</tl>,<lb/>
 
@@ -54,9 +54,9 @@ plus rare, &amp; suppe<lb/>
 
 </div>
 
-<div>
+<div id="p126v_2">
 
-<id>p126v_2</id>
+
 
 <head><m>Plastre</m></head>
 
@@ -83,7 +83,7 @@ l’ouvrage sur lequel tu veulx gecter ton <m>plastre</m>. Car par<lb/>
 
 ce moyen il ne s’embevera point &amp; despouillera fort net.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Si le <m>plastre</m> se retire, il faict<lb/>
 
@@ -93,15 +93,15 @@ de dur et <del>le</del> mettés bien en presse<lb/>
 
 les <tl>moules</tl> plustost que gecter.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Il n’est pas bon<lb/>
 
 quand il se retire.</ab></div>
 
-<div>
+<div id="p126v_3" continued="yes">
 
-<id>p126v_3</id>
+
 
 <head>Herbes difficilles à brusler<lb/>
 
@@ -126,12 +126,12 @@ ou<lb/>
 le<lb/>
 
 <tl>moule</tl>, passent au travers des <del>filets</del> herbes &amp;
-d<del>es</del>u <del><tl>moules</tl></del><comment>c_126v_01</comment><lb/>
+d<del>es</del>u <del><tl>moules</tl></del><comment rid="c_126v_01"/><lb/>
 
 <tl>cercle de <m>terre</m></tl>, qui est pour recepvoir le <m>sable
 destrempé</m> <del>plusi</del>,</ab>
 
-<ab><margin>left-bottom</margin>
+<ab margin="left-bottom">
 
 Cela ne provient<lb/>
 
@@ -149,7 +149,7 @@ du naturel de certaines<lb/>
 
 herbes.</ab>
 
-<cont/>
+
 
 </div>
 </root>

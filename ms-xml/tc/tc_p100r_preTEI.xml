@@ -1,11 +1,11 @@
-<root>
-<page>100r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="100r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f205.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f205.image</image>
 
-<div>
 
-<id>p100r_1</id>
+
+<div id="p100r_1">
+
+
 
 <head>Or couleur</head>
 
@@ -35,9 +35,9 @@ rendroit noir</ab>
 
 </div>
 
-<div>
+<div id="p100r_2">
 
-<id>p100r_2</id>
+
 
 <head>Pourtraire au naturel</head>
 
@@ -48,9 +48,9 @@ barbe car ces trois choses font fort resembler</ab>
 
 </div>
 
-<div>
+<div id="p100r_3">
 
-<id>p100r_3</id>
+
 
 <head><m>Pierreries</m></head>
 
@@ -65,8 +65,8 @@ quil ne se rompe point Cela peult servir aulx <pro>parfumeurs</pro><lb/>
 &amp; <del>la t</del> le <tl>pilon</tl> aussy de <m>verre</m></ab>
 
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 <emph><tl>Mortier<lb/>
 
@@ -80,9 +80,9 @@ a broyer</emph></ab>
 
 </div>
 
-<div>
+<div id="p100r_4">
 
-<id>p100r_4</id>
+
 
 <head>Le <m>salpestre</m> vitrifie</head>
 
@@ -98,15 +98,15 @@ de <m>caillou blanc calcine</m></ms> Il est vray quau <tl>petit
 fourneau</tl><lb/>
 
 Il ne se clarifie pas bien Mays aulx <m>grandes
-verrie<ups>res</ups></m><comment>c_100r_02</comment><lb/>
+verrie<ups>res</ups></m><comment rid="c_100r_02"/><lb/>
 
 il faict le <m>verre</m> fort cler &amp; blanc &amp; net</ab>
 
 </div>
 
-<div>
+<div id="p100r_5">
 
-<id>p100r_5</id>
+
 
 <head>Vitres que le <env>soleil</env> ne passera<lb/>
 
@@ -127,9 +127,9 @@ mectre dessus des <tl>charbons allumes</tl><lb/>
 
 et continuer par tout jusques a ce quil ne brusle plus</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 Il sert aussy<lb/>
 

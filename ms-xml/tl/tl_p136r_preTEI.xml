@@ -1,16 +1,16 @@
-<root>
-<page>136r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="136r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f277.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f277.item.r=</image>
 
-<div>
 
-<cont/>
 
-<id>p135v_1</id>
+<div continues="yes" id="p135v_1">
 
-<ab>a mirror. And since you want to <del>cast</del><comment>c_136r_01</comment> cast, put again a
-little of the <m><fr>couleur</fr></m><comment>c_135r_01</comment> &amp; let rest a little, always
+
+
+
+
+<ab>a mirror. And since you want to <del>cast</del><comment rid="c_136r_01"/> cast, put again a
+little of the <m><fr>couleur</fr></m><comment rid="c_135r_01"/> &amp; let rest a little, always
 blowing with the <tl>small &amp; large bellows</tl>. Finally, arrange
 your very red <tl>mold</tl> between the <tl><fr>moulets</fr></tl> or in a
 
@@ -43,8 +43,8 @@ the gate, for a very thick gate never comes out well.
 be done, to embrace the medal.</ab>
 
 </div>
-<div>
-<id>p136r_1</id>
+<div id="p136r_1">
+
 <head><del><fr>D</fr></del><del><fr>Esm</fr></del> Enamelling thin
 works</head>
 

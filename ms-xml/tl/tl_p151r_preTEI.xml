@@ -1,13 +1,13 @@
-<root>
-<page>151r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="151r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f307.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f307.image</image>
 
-<div>
 
-<cont/>
 
-<id>p150v_1</id>
+<div continues="yes" id="p150v_1" continued="yes">
+
+
+
+
 
 <ab>the <m>white wax</m> with which you have composed your <m>black
 sulfured wax</m>, has such little substance, since being dry and
@@ -45,7 +45,7 @@ appear &amp; consequently the flashing is very small &amp; thin. You can
 repair &amp; through the hole of the belly, pull the <m>earth</m> of the
 core, leaving it wet a <tmp>long time</tmp>,</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 When you have cast your <m>black wax</m> in the <del><fr>a</fr></del>
 <tl>mold</tl>, &amp; when it is well cold, you need to <del>the</del>
@@ -58,19 +58,19 @@ beforehand, by joining &amp; binding well the two halves of the
 <tl>mold</tl>. When the figure is large, one needs to cross
 inside many <tl><m>iron wires</m></tl>, to sustain the core.
 
-<figure>
+<figure id="fig_p151r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dEhadHEzVWlxejg">
 
-<id>fig_p151r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dEhadHEzVWlxejg</link>
+
+
 
 </figure>
 
 </ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
-<mark>A</mark><comment>c_151r_01</comment> only in <m>lead</m> or
+<mark>A</mark><comment rid="c_151r_01"/> only in <m>lead</m> or
 <m>tin</m>. However, one needs to redden the <tl>mold</tl> nearly as
 much as if there were inside some animal to burn, in order that the
 <m>wax</m> melts well &amp; leaves nothing inside &amp; flows on its
@@ -80,7 +80,7 @@ gently, then blow inside, and draw toward yourself, while sucking, in
 order that the <m>ashes of the wax</m> come out. Do this with a
 <tl>bellows</tl>.</ab>
 
-<cont/>
+
 
 </div>
 </root>

@@ -1,12 +1,11 @@
-<root>
-<page>143r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="143r" image="http:/ /gallica.bnf.fr/ark:/12148/btv1b10500001g/f291.image">
 
-<image>http:/
-    /gallica.bnf.fr/ark:/12148/btv1b10500001g/f291.image</image>
 
-<div>
 
-<id>p143r_1</id>
+
+<div id="p143r_1">
+
+
 
 <head>Molding <al>turtles</al></head>
 
@@ -28,17 +27,17 @@ sleepy. If you scratch <al>those of the <env>water</env></al> on their
 shells, however sleepy they are, they move. <al>Those from 
 <pl><env><fr>garrigue</fr></env></pl></al> do not.</add></ab>
 
-<ab><margin>left-middle</margin>They die rather quickly in
+<ab margin="left-middle">They die rather quickly in
 <m>vinegar</m> mixed with a little <m>eau-de-vie</m> or <m><bp>urine</bp></m>, as
 with all other animals.</ab>
 
-<ab><margin>left-middle</margin>They keep themselves, in the
+<ab margin="left-middle">They keep themselves, in the
 <tmp>winter</tmp>, with their eyes closed &amp; are as dead, being
 numbed by the <env>cold</env>. They hide <env>in the earth</env> or
 <env>under <m><pa>wheat chaff</pa></m> or <m>warm manure</m></env>, &amp; live
 only on the moisture of the earth.</ab>
 
-<ab><margin>left-middle</margin><render>tall</render>
+<ab margin="left-middle" render="tall">
 
 One ought not to mold them as soon they die because they are still too
 stiff. But on <tmp>the next day</tmp>, you will manipulate them &amp;
@@ -46,13 +45,13 @@ fold their legs as you wish.</ab>
 
 </div>
 
-<div>
+<div id="p143r_2">
 
-<id>p143r_2</id>
+
 
 <head><pro>Molders</pro> from <pl>Foix</pl></head>
 
-<ab>Those who mold crosswise<comment>c_090r_02</comment> make their <m>sand</m> with
+<ab>Those who mold crosswise<comment rid="c_090r_02"/> make their <m>sand</m> with
 <m><la>crocum</la></m> &amp; <m>calcined slate</m>, but <m>slate</m>
 always retains its asperity &amp; becomes porous, because it is fat.
 <fr>En noyau</fr>, it is not good; in <m>sand</m>, it can be accomodated.
@@ -62,9 +61,9 @@ top, then reheat it.</ab>
 
 </div>
 
-<div>
+<div id="p143r_3" continued="yes">
 
-<id>p143r_3</id>
+
 
 <head><al>Toad</al></head>
 
@@ -77,20 +76,20 @@ three or 4 parts, which are a little wide close to the animal, &amp;
 include most of the edge of this, which is close to the gate, that
 can be done. Make also some gate conduits from the end of </ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
-<figure>
+<figure id="fig_p143r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5cnJFVXFaRURaY3c">
 
-<id>fig_p143r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5cnJFVXFaRURaY3c</link>
+
+
 
 </figure>
 
 Let the <tl>mold</tl> cool before opening it, especially for thick
 things.</ab>
 
-<cont/>
+
 
 </div>
 </root>

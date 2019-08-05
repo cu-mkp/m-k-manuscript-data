@@ -1,13 +1,13 @@
-<root>
-<page>052v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="052v" image="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f110.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f110.item</image>
 
-<div>
 
-<cont/>
 
-<id>p052r_1</id>
+<div continues="yes" id="p052r_1">
+
+
+
+
 <ab>Ou pour le plus seur, retire toy hors de là jusques à ce<lb/>
 
 que le fœu soit amorty &amp; que tout soict refroidy, <del>Ap</del>
@@ -25,7 +25,7 @@ Estant mort, mects le dans un linge ou canevas de <m>soye</m> &amp;
 le<lb/>
 
 plye &amp; le pends <env>au planché, où l’air
-<del><add>ou</add></del><comment>c_052v_03</comment> &amp; le soleil le
+<del><add>ou</add></del><comment rid="c_052v_03"/> &amp; le soleil le
 deseche</env>.<lb/>
 
 Estant bien sec, pulverise le dans un <tl>mortier</tl>. Et garde
@@ -53,9 +53,9 @@ Le terme de l’œuvre est de nœuf <tmp>moys</tmp> <tmp>despuys la
 jusques au 25 d’apvril</tmp>.</ab>
 </div>
 
-<div>
+<div id="p052v_1">
 
-<id>p052v_1</id>
+
 
 <head><pa>Lin</pa></head>
 
@@ -74,9 +74,9 @@ graine<lb/>
 se dechoit du tiers.</ab>
 </div>
 
-<div>
+<div id="p052v_2">
 
-<id>p052v_2</id>
+
 
 <head>Couleurs</head>
 

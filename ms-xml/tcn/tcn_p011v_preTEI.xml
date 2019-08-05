@@ -1,11 +1,11 @@
-<root>
-<page>011v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="011v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f28.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f28.image</image>
 
-<div>
 
-<id>p011v_1</id>
+
+<div id="p011v_1">
+
+
 
 <head>Couleur d<m>acier de damas</m> sur <tl>costeaulx</tl></head>
 
@@ -19,9 +19,9 @@ ou <tl><m>sable</m></tl>, &amp; l’<m>or</m> touchera &amp;
 l’<m>argent</m> co<exp>mm</exp>e sur une <tl>pierre de
 touche</tl>.</ab></div>
 
-<div>
+<div id="p011v_2">
 
-<id>p011v_2</id>
+
 
 <head><md>Pour oster la rougeur des <bp>yeulx</bp> ou la
 meurtrisseure</md></head>
@@ -32,13 +32,13 @@ cru</m>, &amp;<lb/>
 avecq un <tl>bandeau</tl> aplique la <tmp>nuict</tmp> sur les
 <bp>yeulx</bp>.</ab></div>
 
-<div>
+<div id="p011v_3">
 
-<id>p011v_3</id>
+
 
 <head>Pour coucher d’<m>or mat</m></head>
 
-    <ab>Il n’y a rien mieulx que le vernis noir des <pro><oc>espasiers</oc></pro><comment>c_011v_01</comment>
+    <ab>Il n’y a rien mieulx que le vernis noir des <pro><oc>espasiers</oc></pro><comment rid="c_011v_01"/>
 pour en<lb/>
 
 faire assiete, car il est bien tost sec &amp; faict monstrer l’<m>or</m>
@@ -48,9 +48,9 @@ beau.</ab>
 
 </div>
 
-<div>
+<div id="p011v_4">
 
-<id>p011v_4</id>
+
 
 <head>Pour <tl>poinctes de <m>diamants</m></tl> à graver</head>
 
@@ -81,9 +81,9 @@ grasse. Mays quand le poliment est une fois osté, il mord<lb/>
 
 aysement.</ab></div>
 
-<div>
+<div id="p011v_5">
 
-<id>p011v_5</id>
+
 
 <head><tl>Roue de <m>cuivre</m> à polir</tl></head>
 

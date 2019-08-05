@@ -1,11 +1,11 @@
-<root>
-<page>136v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="136v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f278.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f278.image</image>
 
-<div>
 
-<id>p136v_1</id>
+
+<div id="p136v_1">
+
+
 
 <head>
 
@@ -48,7 +48,7 @@ soy toute recente, sur le <m>letton fondu</m>. Advise de gecter<lb/>
 fort chault &amp; que ton <tl>moule</tl> soict rouge co<exp>mm</exp>e en
 l’<m>or</m>, <m>argent</m>,<lb/>
 
-<m>cuivre</m> &amp; <m>metal</m>.<comment>c_016v_05</comment> Si tu gectes de la <m>calamine</m>
+<m>cuivre</m> &amp; <m>metal</m>.<comment rid="c_016v_05"/> Si tu gectes de la <m>calamine</m>
 recente, <md>garde<lb/>
 
 toy de la fumée car elle est pernicieuse</md>. J’ay vouleu
@@ -100,9 +100,9 @@ force souspirails. Et si tu gectois <m>letton jaulny</m> avecq la<lb/>
 
 <m>tuthie præparée</m>, tu n’aurois point de mauvaises fumées.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Ce <m>metal</m> est fort<lb/>
 

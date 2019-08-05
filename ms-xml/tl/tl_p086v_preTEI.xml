@@ -1,13 +1,13 @@
-<root>
-<page>086v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="086v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f178.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f178.image</image>
 
-<div>
 
-<cont/>
 
-<id>p085v_4</id>
+<div continues="yes" id="p085v_4">
+
+
+
+
 
 <ab>becomes porous. Most importantly, make that the cast is always
 higher than the molded thing, because usually the <m>sand</m>, being reheated,
@@ -23,8 +23,8 @@ place where your medal will be <del>more <fr>es</fr></del> the least
 thick &amp; where there will be less relief.</ab>
 
 </div>
-<div>
-<id>p086v_1</id>
+<div id="p086v_1" continued="yes">
+
 <head><m>Excellent sand for <m>lead</m>, <m>tin</m>, and
 <m>copper</m></m></head>
 
@@ -42,7 +42,7 @@ it little by little, over the course of seven or eight
 <ms><tmp>hours</tmp></ms> <emph>(for if possible, no humidity ought to
 remain</emph> in the <tl>frame</tl>). I cast twice in <m>copper</m>
 alloyed with <m>☾</m>, as old
-<m><mark>K</mark></m><comment>c_086v_02</comment>. The substance
+<m><mark>K</mark></m><comment rid="c_086v_02"/>. The substance
 came very beautiful, shiny, &amp; <sn>sonorous</sn>, &amp; without a
 crust, and my <m>sand</m> was not corrupted at all. Since then, I
 have cast with it several casts of <m>soft lead</m> &amp; <m>tin</m>,
@@ -53,11 +53,11 @@ found.</ab>
 <tl>frame</tl>, in order to attract the substance to all sides, in this
 way.</ab>
 
-<figure>
+<figure id="fig_p086v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dWFuOW9Db1ZjZFk">
 
-<id>fig_p086v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dWFuOW9Db1ZjZFk</link>
+
+
 
 </figure>
 
@@ -68,7 +68,7 @@ But I think that it is better <ms>half</ms> <m>copper</m> &amp;
 very thin works, such as skillets &amp; other similar things. I have
 seen this mixture of <ms>half</ms> and <ms>half</ms> come out well.</ab>
 
-<cont/>
+
 
 </div>
 </root>

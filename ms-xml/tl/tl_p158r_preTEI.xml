@@ -1,10 +1,10 @@
-<root>
-<page>158r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="158r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f321.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f321.item</image>
 
-<div>
-<id>p158r_1</id>
+
+
+<div id="p158r_1">
+
 <head><m>Mercury</m> in the <tl>molds</tl> for cleaning</head>
 
 <ab>
@@ -31,8 +31,8 @@ from everywhere. In this way I have cast a branch of
 <pa>periwinkle</pa>, leaves &amp; flowers, very neatly, having given to the
 flower a layer of <m>melted butter</m> on the back of the flower with a <tl>paintbrush</tl>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 Reheat the <tl>mold</tl> very red before <del>q</del> casting in it, in
 order that the <m>☿</m> exhales well.</ab>

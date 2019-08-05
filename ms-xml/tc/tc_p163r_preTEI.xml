@@ -1,11 +1,11 @@
-<root>
-<page>163r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="163r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f331.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f331.image</image>
 
-<div>
 
-<id>p163r_1</id>
+
+<div id="p163r_1">
+
+
 
 <head><pro>Parfumeur</pro></head>
 
@@ -19,7 +19,7 @@ principalle <sn>senteur</sn> sur le <m>musc</m></ab>
 <ab>Pour espargner l<m>ambre</m> ilz mectent volontiers aulx
 couches<lb/>
 
-blanches un peu de <m>musc</m> &amp;<comment>c_163r_01</comment>
+blanches un peu de <m>musc</m> &amp;<comment rid="c_163r_01"/>
 <del>pour l</del> qui donne <sn>senteur</sn><lb/>
 
 plus violente Mays pour oster <del>la</del> ou cacher la noirceur<lb/>
@@ -41,7 +41,7 @@ Et ayant mis dans une <tl>petite escuelle d<m>argent</m></tl> une
 <tl><ms>cuillere</ms></tl><lb/>
 
 <del>d<m>argent</m></del>d<m>huile de fleur</m> ou en default d<m>huile
-de ben</m><comment>c_163r_02</comment><lb/>
+de ben</m><comment rid="c_163r_02"/><lb/>
 
 Scavoir est une <env><tl>cuillere d<m>argent</m></tl> quon sert a
 table</env><lb/>
@@ -77,9 +77,9 @@ pose</ab>
 
 </div>
 
-<div>
+<div id="p163r_2">
 
-<id>p163r_2</id>
+
 
 <head><m>Eau de vye</m></head>
 

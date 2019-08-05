@@ -1,13 +1,13 @@
-<root>
-<page>120v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="120v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image</image>
 
-<div>
 
-<cont/>
 
-<id>p120r_3</id>
+<div continues="yes" id="p120r_3">
+
+
+
+
 
 <ab>eats by itself. And to entice <corr>it</corr> better, you could add amongst the
 <m>meat &amp; the egg</m> some <m>live <al>mealworms</al></m>, for it is
@@ -15,23 +15,23 @@ very fond of them.</ab>
 
 </div>
 
-<div>
-<id>p120v_1</id>
+<div id="p120v_1">
+
 <head><m><la>Crocum ferri</la></m></head>
 
 <ab>It is excellent <md>plastered</md> on wounds to stop the
 <bp>blood</bp>. The best is made of <m>needle filings</m>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <m><la>Crocum ferri</la></m> hardens <tl>molds</tl>, being reheated,
 &amp; <m>feather alum</m>, the more there is, it renders them softer
 &amp; sweeter.</ab>
 
 </div>
 
-<div>
-<id>p120v_2</id>
+<div id="p120v_2">
+
 <head>Anatomy</head>
 
 <ab> One needs to skin the animal &amp; boil it, or else skin it &amp;
@@ -39,11 +39,11 @@ put it into <m>good quicklime</m>.</ab>
 
 </div>
 
-<div>
-<id>p120v_3</id>
+<div id="p120v_3">
+
 <head>Making <m>silver</m> run</head>
 
-<ab><comment>c_120v_08</comment>If it is for a large work, <m>arsenic</m> &amp; <m>pulverized
+<ab><comment rid="c_120v_08"/>If it is for a large work, <m>arsenic</m> &amp; <m>pulverized
 tartar</m> &amp; thrown on the <m>melted silver</m>, makes it run
 <del>If it is</del> and it suffices. But for fine work, one needs
 <m><la>aes ustum</la></m>, <m><add>small</add> filings <del>of
@@ -59,27 +59,27 @@ filings</m>, <m>antimony</m> &amp;</add></ab>
 
 <ab><emph>See</emph> the second leaf following.</ab>
 
-<ab><margin>left-middle</margin><comment>c_120v_08</comment><emph>
+<ab margin="left-middle"><comment rid="c_120v_08"/><emph>
 
-<la>S<corr>c</corr>iscitatio dubia</la></emph><comment>c_120v_07</comment></ab>
+<la>S<corr>c</corr>iscitatio dubia</la></emph><comment rid="c_120v_07"/></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 A little <m>tallow</m> and <m>arsenic</m>.</ab>
 
-<ab><margin>left-middle</margin><mark>+</mark></ab>
+<ab margin="left-middle"><mark>+</mark></ab>
 
 </div>
 
-<div>
+<div id="p120v_6" continued="yes">
 
-<id>p120v_6</id>
+
 
 <head>Keeping dry flowers in the same<lb/>
 
-<figure><id>fig_p120v_3</id><link>https://drive.google.com/open?id=1PVlkb1lR_o9LNTFq4QNRxxQ-tP1QZHBj</link></figure>state <tmp>all year</tmp></head>
+<figure id="fig_p120v_3" link="https://drive.google.com/open?id=1PVlkb1lR_o9LNTFq4QNRxxQ-tP1QZHBj"/>state <tmp>all year</tmp></head>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 Flowers are also kept in their same beauty in <m>distilled vinegar</m>
 <del><fr>v</fr></del>in a <tl>well sealed vessel</tl> which does not
 allow any wind, which should be well sealed with <m>wax</m> &amp;
@@ -89,8 +89,8 @@ of common vinegar</m> makes them rot. If the <m>sand</m> makes
 with a <tl>paintbrush</tl>, it is no good. The leanest is the
 best.</ab>
 
-<ab>
-<margin>right-middle</margin>
+<ab margin="right-middle">
+
 <m>River sand</m> washed by the <env>current of the
 waters</env> is good, being passed through a <tl><m>linen</m> cloth</tl>
 to shake the powder.<hr/></ab>
@@ -109,8 +109,8 @@ make <m>dust</m>, nor remain on the <bp>hand</bp> or leave a mark on it
 when you have pulverized <corr>it</corr> &amp; then poured it from your
 <bp>hand</bp>. For it is</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <mark>+</mark>
 
 Make sure your <tl>box</tl> is well joined in order that the <m>sand</m>
@@ -119,19 +119,19 @@ remove it from the <env><fr>serain</fr>, &amp; the humidity of the
 night</env>, &amp; cover it &amp; keep it in a <env>dry
 place</env>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <del><fr>Que</fr></del>Take heed not to put the said flowers in <tl>big
 vessels</tl>, for when one pulls out one, one needs to pull out all. </ab>
 
-<ab>
-<margin>bottom</margin>
-<render>wide</render>
+<ab margin="bottom" render="wide">
+
+
 Take good heed not to pick your flowers <del>w</del> in <env>rainy and
 humid weather</env>, but when the <env>sun</env> has been shining on
 them.</ab>
 
-<cont/>
+
 
 </div>
 </root>

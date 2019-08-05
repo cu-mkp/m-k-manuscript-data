@@ -1,11 +1,11 @@
-<root>
-<page>056v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="056v" image="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f118.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f118.item</image>
 
-<div>
 
-<id>p056v_1</id>
+
+<div id="p056v_1" continued="yes">
+
+
 
 <head>Painter</head>
 
@@ -36,7 +36,7 @@ is a <m><pa>walnut tree</pa></m>, make sure the grain of the <m>wood</m>
 runs lengthwise.</ab>
 
 <ab><del><fr>L</fr></del> One always needs to apply imprimatura
-<del><fr>d</fr></del>on<comment>c_056v_01</comment> <m>wood</m> to paint there in <m>oil</m> in
+<del><fr>d</fr></del>on<comment rid="c_056v_01"/> <m>wood</m> to paint there in <m>oil</m> in
 order to fill the holes &amp; unevenness, and make imprimatura with some <m>stil de
 grain yellow</m> &amp; <m>ceruse</m> tempered in <m>oil</m>, then soften
 with a <tl>feather</tl>, which flattens better than a
@@ -50,9 +50,9 @@ going to the bottom, choose the one that is above in the
 <m>water</m> or, by inclination, pour out the cloudy <m>water</m>, then
 gather the <m>azure</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <pro>The one who <add>makes a profession of</add> working in
 <m>oil</m></pro> will hardly work well in <m>distemper</m> if he has not
@@ -63,32 +63,32 @@ one always leaves it moist. And on the contrary, when one cleans the
 <tl>paintbrush</tl> well. Otherwise, the work would run &amp;
 would soon be all disfigured.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 The <pl>Italians</pl> soften by hatching with a large flattened
 <tl>paintbrush</tl> which makes serrations.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 And they do not lay their shadow all at once like the <pl>Flemish</pl>,
 but make them hatching lightest toward the light then a little darker
 next &amp; finally a little blacker to better make project &amp; come
 out.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 In <m>distemper</m> do not mix your different colors together
 <del>But</del> for this makes them die, but use each separately. And in
 order that they do not dry &amp; that you have time to soften, moisten
 the back of the <m>canvas</m>.</ab>
 
-<cont/>
+
 
 </div>
 </root>

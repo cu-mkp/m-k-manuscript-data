@@ -1,16 +1,16 @@
-<root>
-<page>147v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="147v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f300.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f300.image</image>
 
-<div>
 
-<id>p147v_1</id>
+
+<div id="p147v_1">
+
+
 
 <head><mark>+</mark>Cast of <m>copper</m> alloyed with
 <m>☾</m>, which is like <m>very base solder</m>
-<mark>/</mark> ard<ill/><comment>c_147v_01</comment> and <m>old
-<fr>K</fr></m><comment>c_086v_03</comment> and some R<ill/><comment>c_147v_01</comment> out of
+<mark>/</mark> ard<ill/><comment rid="c_147v_01"/> and <m>old
+<fr>K</fr></m><comment rid="c_086v_03"/> and some R<ill/><comment rid="c_147v_01"/> out of
 xii</head>
 
 <ab>I have cast with it the cleanest I have seen, in very small
@@ -25,9 +25,9 @@ this one.</ab>
 
 </div>
 
-<div>
+<div id="p147v_2">
 
-<id>p147v_2</id>
+
 
 <head><m><tl>Lute</tl></m></head>
 
@@ -35,9 +35,9 @@ this one.</ab>
 molded, namely pieces from your <tl>molds</tl>. But one needs to choose
 those better reheated.</ab></div>
 
-<div>
+<div id="p147v_3">
 
-<id>p147v_3</id>
+
 
 <head><tl><oc>Crucible</oc></tl></head>
 
@@ -46,9 +46,9 @@ those better reheated.</ab></div>
 said <tl>bellows</tl> beats from <del><fr>us</fr></del> underneath the
 bottom of the <tl><oc>crucible</oc></tl>, otherwise it would cool it.</ab></div>
 
-<div>
+<div id="p147v_4" continued="yes">
 
-<id>p147v_4</id>
+
 
 <head>Cast of <m>latten</m></head>
 
@@ -65,21 +65,21 @@ reddened, let it cool, then put it to be whitened, of one <ms>part</ms>
 well boiled, I rubbed it with a <tl>scratch-brush</tl>, in <m>clear
 water</m>. And because the first time it had not</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Do not let it cool when melting. It always makes a tail, like <m>melted
 glass</m>, because of the <m>calamine</m>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Usually, the <m>soft latten of skillets</m>, becomes red from casting,
 especially when it stays a <tmp>long time</tmp> in the fire, <del><fr>m</fr></del>
 because the <m>calamine</m> exhales itself. But <m>sour latten of
 candlesticks</m> becomes yellow &amp; <m>pin filings</m>.</ab>
 
-<cont/>
+
 
 </div>
 </root>

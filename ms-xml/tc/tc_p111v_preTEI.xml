@@ -1,11 +1,11 @@
-<root>
-<page>111v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="111v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f228.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f228.image</image>
 
-<div>
 
-<id>p111v_1</id>
+
+<div id="p111v_1">
+
+
 
 <head><m>Eeau de sel armoniac</m></head>
 
@@ -20,9 +20,9 @@ bon</ab>
 
 </div>
 
-<div>
+<div id="p111v_2">
 
-<id>p111v_2</id>
+
 
 <head><m>Sanguine</m></head>
 
@@ -30,15 +30,15 @@ bon</ab>
 l<m>estaim</m><lb/>
 
 on pulverise de la <m>sanguine</m> &amp; avecq des <tl>sayes</tl> on en
-frotte l<del>e</del>ouvrage<comment>c_111v_02</comment><lb/>
+frotte l<del>e</del>ouvrage<comment rid="c_111v_02"/><lb/>
 
 moule</ab>
 
 </div>
 
-<div>
+<div id="p111v_3">
 
-<id>p111v_3</id>
+
 
 <head><al>Chancre</al> et <al>escrevisse</al></head>
 
@@ -50,9 +50,9 @@ en moulera bien daultres choses fort subtilles</ab>
 
 </div>
 
-<div>
+<div id="p111v_4">
 
-<id>p111v_4</id>
+
 
 <head><al>Lesards</al></head>
 
@@ -79,9 +79,9 @@ co<exp>mm</exp>e ilz ont change de<lb/>
 
 peau ilz sont plus beaus</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Les petits <al>lesards</al> quon prend l<tmp>este</tmp> de la grandeur
 de petites <al>lesardes</al> gris sur le<lb/>
@@ -98,9 +98,9 @@ ont lescaille plus rude que les <al>lesardes</al><lb/>
 
 &amp; se monstrent mieulx</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 co<exp>mm</exp>e une tenaille
 
@@ -108,9 +108,9 @@ co<exp>mm</exp>e une tenaille
 
 </div>
 
-<div>
+<div id="p111v_5">
 
-<id>p111v_5</id>
+
 
 <head>Composition de <m>sable</m></head>
 
@@ -128,7 +128,7 @@ Mesle avecq les <tl><bp>mains</bp></tl> jusques que lun ne lautre<lb/>
 
 ne blanc ne rouge ne se cognoisse parmy lautre<lb/>
 
-Si ton <m>plastre</m><comment>c_111v_03</comment> nestoit fort ny mesle pas du tout tant de
+Si ton <m>plastre</m><comment rid="c_111v_03"/> nestoit fort ny mesle pas du tout tant de
 <m>alum<lb/>
 
 de plume</m> Car il attendrist les <tl>moules</tl> Advise bien aussy
@@ -144,11 +144,11 @@ faict les <tl>moules</tl> trop tendres &amp; rompans
 
 </ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
 
-<comment>c_111v_01</comment>Tu peulx bien<lb/>
+
+<comment rid="c_111v_01"/>Tu peulx bien<lb/>
 
 quelques fois diminuer<lb/>
 

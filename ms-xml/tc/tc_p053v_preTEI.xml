@@ -1,18 +1,18 @@
-<root>
-<page>053v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="053v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f112.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f112.image</image>
 
-<div>
 
-<id>p053v_1</id>
+
+<div id="p053v_1" continued="yes">
+
+
 
 <head><al>Vers de soye</al></head>
 
 <ab>Ils se produisent de grene cest a dire dœufs laquelle se vent<lb/>
 
 a l<ms>once</ms> qui communem<exp>ent</exp> se vent en
-<pl>languedoc</pl> iii <ms>lb</ms> v <cn>s</cn><comment>c_053v_02</comment> Celle
+<pl>languedoc</pl> iii <ms>lb</ms> v <cn>s</cn><comment rid="c_053v_02"/> Celle
 d<pl>espaigne</pl><lb/>
 
 que les <pro>marchans</pro> y aportent est estimee la meilleure
@@ -114,9 +114,9 @@ pentecoste</tmp> elles comancent a vouloir monster a des branches<lb/>
 seiches de <pa>brande</pa> ou <pa>bruyere</pa> quon leur præpare
 <del>en</del> &amp; attache</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Voy <la><pn>Hieronymus<lb/>
 Vida <pl>Albensis</pl> <add>ep<exp>iscop</exp>us</add><lb/>
@@ -126,16 +126,16 @@ de <al>bombicum</al> natura
 
 </la></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 coment on les<lb/>
 remue
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

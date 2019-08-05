@@ -1,10 +1,10 @@
-<root>
-<page>159r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="159r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f323.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f323.item.r=</image>
 
-<div>
-<id>p159r_1</id>
+
+
+<div id="p159r_1">
+
 <head><m>Wax</m> portraits</head>
 
 <ab>
@@ -23,8 +23,8 @@ for mixing with <m>white wax</m> than <m>ceruse</m>, for <m>lead
 white</m> is firmer &amp; whiter.</ab>
 
 </div>
-<div>
-<id>p159r_2</id>
+<div id="p159r_2">
+
 <head><tl>Chiseling</tl></head>
 
 <ab>
@@ -34,8 +34,8 @@ one needs to repair &amp; retrace it all. Otherwise it would look like a
 joined piece.</ab>
 
 </div>
-<div>
-<id>p159r_3</id>
+<div id="p159r_3">
+
 <head>
 
 <m><al>Fish</al> glue</m></head>
@@ -55,8 +55,8 @@ which are in danger of spoiling if <m>soldered</m>.</ab>
 
 </div>
 
-<div>
-<id>p159r_4</id>
+<div id="p159r_4">
+
 <head><m>Tin</m> and <m>lead</m></head>
 
 <ab>

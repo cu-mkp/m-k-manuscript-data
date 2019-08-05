@@ -1,10 +1,10 @@
-<root>
-<page>137v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="137v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f280.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f280.image</image>
 
-<div>
-<id>p137v_1</id>
+
+
+<div id="p137v_1" continued="yes">
+
 <head>Destremper <m>sable</m> pour <tl>moule</tl> de<lb/>
 
 medailles plattes</head>
@@ -88,8 +88,8 @@ du coste<lb/>
 
 du gect &amp; lautre du coste de la teste qui est a loposite</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Garde bien de<lb/>
 
 n<m>huiler</m> gueres<lb/>
@@ -120,8 +120,8 @@ du pinceau <m>huile</m></tl><lb/>
 
 l<m>huile</m> partout </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Sur tout fais<lb/>
 
 que le gect soict<lb/>
@@ -150,7 +150,7 @@ aussy dencocher<lb/>
 
 lentree du gect</ab>
 
-<cont/>
+
 
 </div>
 </root>

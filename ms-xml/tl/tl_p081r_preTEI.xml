@@ -1,14 +1,14 @@
-<root>
-<page>081r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="081r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f167.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f167.image</image>
 
-<div>
-<id>p081r_1</id>
+
+
+<div id="p081r_1">
+
 <head><m>Sand</m></head>
 
 <ab>One can find an excellent one <env>on the little hill</env> of
-<pl>Puy David</pl><comment>c_081r_01</comment> near <pl>Thoulouse</pl>
+<pl>Puy David</pl><comment rid="c_081r_01"/> near <pl>Thoulouse</pl>
 for <m>lead</m>, <m>tin</m> &amp; <m>copper</m>. It does not want to be
 too reheated much because, drying out all at once, it loses its
 bond &amp; burns at the first arrival of <m>metal</m>, which makes
@@ -18,19 +18,19 @@ rather than with a <m>straw</m> flame, which generates
 <m>linen</m></tl>, &amp; dry pounce the medal and then the <m>moistened sand</m>
 that you put on top, which has more body, will grip it.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 <m>Tallow</m> makes it porous.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 <m>Fixed mercury</m> mixed in when one wants to cast, makes
 <del>metal</del> <m>lead</m> run. But if it is pure, one ought to cast
 very hot so that it runs. And vents.</ab>
 
 </div>
-<div>
-<id>p081r_2</id>
+<div id="p081r_2">
+
 <head><m>Earth</m> for molding</head>
 
 <ab><m><pro>Tanner</pro>’s earth, or the one with which
@@ -42,16 +42,16 @@ become hard once they have set. For the <m>earth</m> being ready, one
 ought to beat it hard so that it does not crack. If the piece is very
 large you can mold it in several parts. If you reheat it, it is
 necessary that it be over a closed fire. One finds this <m>earth</m> at
-<pl>Fosseret</pl><comment>c_081r_02</comment> &amp; in another place
-called <pl>Ox</pl><comment>c_081r_03</comment>.</ab>
+<pl>Fosseret</pl><comment rid="c_081r_02"/> &amp; in another place
+called <pl>Ox</pl><comment rid="c_081r_03"/>.</ab>
 
 </div>
-<div>
-<id>p081r_3</id>
+<div id="p081r_3">
+
 <head><m>Plaster</m></head>
 
 <ab>It is necessary that it be well cooked, which you will recognize
-when cooking it in an <tl><m>iron</m> or <m><fr>metal</fr></m><comment>c_016v_05</comment> pot</tl>, you
+when cooking it in an <tl><m>iron</m> or <m><fr>metal</fr></m><comment rid="c_016v_05"/> pot</tl>, you
 mix it with an <tl><m>iron</m> rod</tl>, &amp; if it attaches to the
 <m>iron</m>, it is not cooked enough, if not, it is good. The
 <m>water</m> with which you temper it should be a little warm &amp; the
@@ -60,9 +60,9 @@ The work of <m>plaster</m> does not last &amp; the faces &amp; delicate
 things break if one does not give a coat of <m>glue</m>.</ab>
 
 </div>
-<div>
-<id>p081r_4</id>
-<head><m><fr>Carton</fr></m><comment>c_081r_04</comment></head>
+<div id="p081r_4">
+
+<head><m><fr>Carton</fr></m><comment rid="c_081r_04"/></head>
 
 <ab>One ought to take <m>paper from <pl>Florence</pl></m>, which is the
 finest, &amp; <tl>pestle</tl> it &amp; soak it several times &amp; change the

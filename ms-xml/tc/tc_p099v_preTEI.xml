@@ -1,10 +1,10 @@
-<root>
-<page>099v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="099v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f204.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f204.image</image>
 
-<div>
-<id>p099v_1</id>
+
+
+<div id="p099v_1">
+
 <head><pa>Coigniers</pa></head>
 
 <ab>Ils veulent estre souvent esmondes aultrem<exp>ent</exp> ilz se
@@ -14,8 +14,8 @@ meurent<lb/>
 
 </div>
 
-<div>
-<id>p099v_2</id>
+<div id="p099v_2">
+
 <head><wp>Canons</wp></head>
 
 <ab>Ils sont fort difficilles a <tl>foreter</tl> quand ilz sont de
@@ -41,8 +41,8 @@ ne en poincte ains trenchant en rond co<exp>mm</exp>e un
 
 fault pas laisser rouiller <mark>+</mark></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <mark>+</mark><lb/>
 
 mays loster de la<lb/>
@@ -73,17 +73,17 @@ est de <m>metal</m></ab>
 
 </div>
 
-<div>
-<id>p099v_3</id>
+<div id="p099v_3">
+
 <head>Cloches</head>
 
 <ab>On ne les faict poinct dans la fosse si elles ne
-passent<comment>c_099v_01</comment></ab>
+passent<comment rid="c_099v_01"/></ab>
 
 </div>
 
-<div>
-<id>p099v_4</id>
+<div id="p099v_4">
+
 <head>Dorer <del>ta</del> moleures de tableaux <lb/>
 
 sans <m>or</m></head>
@@ -103,8 +103,8 @@ sont meilleurs</ab>
 
 </div>
 
-<div>
-<id>p099v_5</id>
+<div id="p099v_5">
+
 <head>Orenge d<m>orpiment</m></head>
 
 <ab>On le sublime &amp; on le broye &amp; aulcuns pour le fayre<lb/>
@@ -113,8 +113,8 @@ plustost fondre y mectent un peu d<m>arsenic</m></ab>
 
 </div>
 
-<div>
-<id>p099v_6</id>
+<div id="p099v_6">
+
 <head><m>Vernis</m></head>
 
 <ab>Aulcuns font celuy de <m>mastic</m> avec deulx <ms>onces</ms> de

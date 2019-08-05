@@ -1,23 +1,23 @@
-<root>
-<page>131r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="131r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f267.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f267.item.r=</image>
 
-<div>
-<id>p131r_1</id>
+
+
+<div id="p131r_1">
+
 <head><m>Plants</m> that are awkward to burn in the <tl>mold</tl></head>
 
 <ab>Mold them with two or three casts, which in reheating will open
 &amp; it will be easier for you to take away the <m>charcoal</m> from
 inside.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Try</ab>
 
 </div>
-<div>
-<id>p131r_2</id>
+<div id="p131r_2">
+
 <head>Letters and molded <m>paper</m></head>
 
 <ab>Write with well gummed <m>ink</m> or with any color which has body
@@ -27,8 +27,8 @@ moisten it with <m>eau-de-vie</m> and cast on one side &amp; the
 other.</ab>
 
 </div>
-<div>
-<id>p131r_3</id>
+<div id="p131r_3">
+
 <head>For adorning <env>beds</env>, <env>mirrors</env>, and
 suchlike</head>
 
@@ -41,8 +41,8 @@ cast it in <m>mixed tin</m>, quite thin, you can <m>gild</m> it with
 
 </div>
 
-<div>
-<id>p131r_4</id>
+<div id="p131r_4">
+
 <head>For teaching a <al>dog</al> well</head>
 
 <ab>It is necessary to keep it tied up &amp; when it does what you
@@ -53,8 +53,8 @@ too.</ab>
 
 </div>
 
-<div>
-<id>p131r_5</id>
+<div id="p131r_5" continued="yes">
+
 <head>Molded <m>waxes</m></head>
 
 <ab>Figures of <m>wax</m> composed of <m>ceruse</m> &amp; <m>lead
@@ -67,7 +67,7 @@ will be wrong, because, the asperity of the fire, making them boil
 of the <m>ceruse</m> or other metallic color, attacks the <tl>mold</tl>.
 And for this reason, if you want to rough out something</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 <mark>+</mark><lb/>
 
@@ -77,7 +77,7 @@ And for this reason, if you want to rough out something</ab>
 any <m>filth</m> when you want to make <fr>noyau</fr> and mold
 hollow.</ab>
 
-<cont/>
+
 
 </div>
 </root>

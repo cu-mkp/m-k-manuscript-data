@@ -1,10 +1,10 @@
-<root>
-<page>082r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="082r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f169.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f169.image</image>
 
-<div>
-<id>p082r_1</id>
+
+
+<div id="p082r_1">
+
 <head>Chaleur de <m>cuivre</m></head>
 
 <ab>Il est assés chault quand tu le vois net &amp; uny par dessus,<lb/>
@@ -12,11 +12,11 @@
 sans <m>crasse</m>.</ab>
 
 </div>
-<div>
-<id>p082r_2</id>
+<div id="p082r_2">
+
 <head><tl>Chassis</tl></head>
 
-<ab>Le <m>fer</m> &amp; <m>cuivre</m> font soufler si le <m>metal</m><comment>c_016v_05</comment> y
+<ab>Le <m>fer</m> &amp; <m>cuivre</m> font soufler si le <m>metal</m><comment rid="c_016v_05"/> y
 touche, &amp; le <m>bois</m><lb/>
 
 se tourmente. Fais doncq un <tl>moule</tl> de <m>boys</m>, &amp; fais faire<lb/>
@@ -27,8 +27,8 @@ tu<lb/>
 vouldras.</ab>
 
 </div>
-<div>
-<id>p082r_3</id>
+<div id="p082r_3">
+
 <head><m>Glaire d’œufs</m></head>
 
 <ab>La <m>glaire d’œufs</m> donne force au <m>sable</m> pour en faire<lb/>
@@ -37,8 +37,8 @@ plusieurs gects.</ab>
 
 </div>
 
-<div>
-<id>p082r_4</id>
+<div id="p082r_4">
+
 <head><pro>Horlogeurs</pro></head>
 
 <ab>Pour departir à proportion les dents de leurs roues, ils
@@ -50,10 +50,10 @@ point de <tl>compas</tl>, car il n’y en a point de si subtil qui peult
 <ms>si petites distances co<exp>mm</exp>e celles des petites roues</ms>.
 Mays il font une<lb/>
 
-platteforme (qu’ils appellent)<comment>c_082r_01</comment> de
+platteforme (qu’ils appellent)<comment rid="c_082r_01"/> de
 <m>letton</m> <del>fais</del> distribuée en plusieurs<lb/>
 
-cercles &amp; chasque cercle est divisé <del>d</del>en<comment>c_082r_02</comment> <ms>esgalles distances</ms>
+cercles &amp; chasque cercle est divisé <del>d</del>en<comment rid="c_082r_02"/> <ms>esgalles distances</ms>
 marquées<lb/>
 
 d’un point, et chasque cercle en a certain nombre, co<exp>mm</exp>e l’un
@@ -89,11 +89,11 @@ subtile qu’il leur<lb/>
 
 plaist.</ab>
 
-<figure>
+<figure id="fig_p082r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MG1jZS1LOUE2QWs">
 
-<id>fig_p082r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5MG1jZS1LOUE2QWs</link>
+
+
 
 </figure>
 

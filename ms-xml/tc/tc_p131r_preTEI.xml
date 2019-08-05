@@ -1,10 +1,10 @@
-<root>
-<page>131r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="131r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f267.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f267.item.r=</image>
 
-<div>
-<id>p131r_1</id>
+
+
+<div id="p131r_1">
+
 <head><m>Herbes</m> qui sont malaisees<lb/>
 
 a brusler dans le <tl>moule</tl></head>
@@ -13,13 +13,13 @@ a brusler dans le <tl>moule</tl></head>
 
 &amp; il te sera plus aise a retirer le <m>charbon</m> de dedans</ab>
 
-<ab>
-<margin>left-middle</margin>Essay</ab>
+<ab margin="left-middle">
+Essay</ab>
 
 </div>
 
-<div>
-<id>p131r_2</id>
+<div id="p131r_2">
+
 <head>Le<exp>tt</exp>re et <m>papier</m> moule</head>
 
 <ab>Escripts de quelque <m>ancre</m> bien gommee ou de quelque
@@ -34,8 +34,8 @@ mouille d<m>eau de vye</m> Et gecte dune part &amp; daultre</ab>
 
 </div>
 
-<div>
-<id>p131r_3</id>
+<div id="p131r_3">
+
 <head>Pour orner des <env>licts</env> <env>mirouers</env><lb/>
 
 et semblables </head>
@@ -57,8 +57,8 @@ d<m>orpiment</m><lb/>
 
 </div>
 
-<div>
-<id>p131r_4</id>
+<div id="p131r_4">
+
 <head>Pour bien aprendre un <al>ch<del>ei</del>ien</al></head>
 
 <ab>Il le fault tenir attache &amp; quand il fera ce que tu luy<lb/>
@@ -74,8 +74,8 @@ aussy</ab>
 
 </div>
 
-<div>
-<id>p131r_5</id>
+<div id="p131r_5" continued="yes">
+
 <head><m>Cires</m> moulees</head>
 
 <ab>Les figures de <m>cire</m> composee de <m>ceruse</m> &amp; <m>blanc
@@ -100,8 +100,8 @@ de <m>ceruse</m> ou aultre couleur metallique sattaque au
 
 Et pour ceste raison si tu veulx esbaucher quelque chose </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 <mark>+</mark><lb/>
 <la>Nota</la><lb/>
@@ -122,7 +122,7 @@ noyau et mouler<lb/>
 
 creux</ab>
 
-<cont/>
+
 
 </div>
 </root>

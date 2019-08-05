@@ -1,13 +1,13 @@
-<root>
-<page>167v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="167v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f340.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f340.image</image>
 
-<div>
 
-<cont/>
 
-<id>p167r_1</id>
+<div continues="yes" id="p167r_1" continued="yes">
+
+
+
+
 
 <ab>Ceulx de 27 <ms>lb</ms> ou environ ont ix <ms>pousses</ms> de
 long<lb/>
@@ -43,7 +43,7 @@ donne de plus grande impetuosité, &amp; si tu veulx tu peulx<lb/>
 
 mectre sur la <m>platene de liege</m> une de <m>bois</m> percée au<lb/>
 
-milieu si le <wp>mortier</wp><comment>c_008r_04</comment> est percé par la culasse, qu’on tient<lb/>
+milieu si le <wp>mortier</wp><comment rid="c_008r_04"/> est percé par la culasse, qu’on tient<lb/>
 
 estre le plus aisé &amp; qui faict plus de faulcée pource qu’il<lb/>
 
@@ -101,7 +101,7 @@ l’aya<exp>n</exp>t<lb/>
 destrempée avecq de la <bp><m>salive</m></bp>, on en faict
 co<exp>mm</exp>e un cocon ou</ab>
 
-<cont/>
+
 
 </div>
 </root>

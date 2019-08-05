@@ -1,10 +1,10 @@
-<root>
-<page>080v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="080v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f166.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f166.image</image>
 
-<div>
-<id>p080v_1</id>
+
+
+<div id="p080v_1">
+
 <head><pro>Fondeurs de menus ouvrages<lb/>
 
 <add> d’<m>estaim</m></add></pro></head>
@@ -79,11 +79,11 @@ endroit de la medaille qui est le moings aparent. Et puys avecq<lb/>
 
 un <tl>foret</tl> ilz percent le <tl>moule</tl> au costé de la medaille.<lb/>
 
-<figure>
+<figure id="fig_p080v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5VktqeFlScTAyczQ">
 
-<id>fig_p080v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5VktqeFlScTAyczQ</link>
+
+
 
 </figure>
 
@@ -97,8 +97,8 @@ s’i<lb/>
 
 attaque point.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Fais que les <tl>chevilles</tl> de ton<lb/>
 
 <tl>chassis</tl> entrent à l’aise affin
@@ -112,16 +112,16 @@ se joignent bien &amp; que la <tl>table soit<lb/>
 
 bien unye</tl>.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Essaye de graver<lb/>
 
 avecq <m>vinaigre<lb/>
 
 distillé</m>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Essaye les <m>coquilles<lb/>
 
 d’<al>huistres</al> calcinées</m>.<lb/>

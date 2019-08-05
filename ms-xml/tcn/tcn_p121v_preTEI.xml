@@ -1,10 +1,10 @@
-<root>
-<page>121v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="121v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f248.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f248.item.r=</image>
 
-<div>
-<id>p121v_1</id>
+
+
+<div id="p121v_1">
+
 <head>Pour gecter en <m>argent</m></head>
 
 <ab>Il te fault disposer tes animaulx co<exp>mm</exp>e dict est et
@@ -55,8 +55,8 @@ fendre, &amp; si est propre<lb/>
 
 pour touts <m>metaulx</m></add>.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 L’<m>argent allié est meilleur<lb/>
 
 pour gecter que le fin</m>,<lb/>
@@ -65,8 +65,8 @@ pourveu qu’il soit<lb/>
 
 doulx.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Il fault que<lb/>
 
 l’<m>alum de plume</m><lb/>
@@ -75,17 +75,17 @@ soict bien pulverisé<lb/>
 
 et bien meslé.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Le <m>sel armoniac</m><lb/>
 
 est amy de l’<m>or</m><lb/>
 
 &amp; de l’<m>argent</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 <add>qu’il fault plustost<lb/>
 
 mectre dans l’<tl>escuelle</tl><lb/>
@@ -96,16 +96,16 @@ se mect dans l<m>eau</m><lb/>
 
 &amp; non pas l’<m>eau</m> dans le <m>sable</m></add></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Le <m>letton</m> est ennemy de l’<m>or</m><lb/>
 
 &amp; amy de l<m>argent</m></ab>
 
 </div>
 
-<div>
-<id>p121v_2</id>
+<div id="p121v_2">
+
 <head><m>Argent</m> a gecter</head>
 
 <ab>Ce n’est <m>poinct argent fin ains allié</m>, &amp; qui ne vient
@@ -156,16 +156,16 @@ faire courre leurs ouvrages, ilz l’achepteroient<lb/>
 beaucoup. Aulcuns l’acheptent cinq <cn>sols</cn> le
 <ms>denier</ms>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <emph>J’ay employé<lb/>
 
 de l’<m>argent de<lb/>
 
 <pl>Capitale</pl></m></emph></ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
+
 Plustost que<lb/>
 
 <del>lier</del> <m><tl>luter</tl></m> &amp;<lb/>

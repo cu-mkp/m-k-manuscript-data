@@ -1,11 +1,11 @@
-<root>
-<page>164v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="164v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f334.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f334.item</image>
 
-<div>
 
-<id>p164v_1</id>
+
+<div id="p164v_1">
+
+
 
 <head><tl>Molds</tl></head>
 
@@ -18,13 +18,13 @@ and ample, it is necessary that the gate be well notched &amp;
 scratched, in order that the weight of the <m>metal</m> does not go with
 much force. They make hardly any flashing if they are pressed. But before
 pressing them, put between them and the <tl>press</tl> some <tl>pieces
-of <m>plump &amp; thick felt</m></tl>,<comment>c_164v_03</comment> which is hardly yet crushed, for it fills the concavities &amp; keeps the <tl>mold</tl> from
+of <m>plump &amp; thick felt</m></tl>,<comment rid="c_164v_03"/> which is hardly yet crushed, for it fills the concavities &amp; keeps the <tl>mold</tl> from
 cracking. The <tl>clamps</tl> should be placed before reheating or
 drying it.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 When the <m>earth</m>, from which you make the <tl><m>earthen</m>
 slab</tl> to arrange your animal, is too soft, the <tl>points</tl> that
@@ -35,9 +35,9 @@ the <tl>bellows</tl>.</ab>
 
 </div>
 
-<div>
+<div id="p164v_2">
 
-<id>p164v_2</id>
+
 
 <head>Sand</head>
 
@@ -56,9 +56,9 @@ go.</ab>
 
 </div>
 
-<div>
+<div id="p164v_3">
 
-<id>p164v_3</id>
+
 
 <head><tl>Molds</tl></head>
 

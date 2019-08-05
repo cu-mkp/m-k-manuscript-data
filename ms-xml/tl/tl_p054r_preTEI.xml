@@ -1,13 +1,13 @@
-<root>
-<page>054r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="054r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f113.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f113.image</image>
 
-<div>
 
-<cont/>
 
-<id>p053v_1</id>
+<div continues="yes" id="p053v_1">
+
+
+
+
 
 <ab>on some of the <tl>high shelves</tl>, &amp; at that time, one knows
 when they want to climb up when, on the leaf, they
@@ -41,9 +41,9 @@ their eggs &amp; seed <ms><tmp>until Holy Week</tmp></ms>, as
 <del><fr>on</fr></del> is said. Some spin among the leaves &amp; make
 their cocoon there without climbing high.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
-The <m>silk</m> of the cocoons where there are<comment>c_054r_01</comment></ab>
+The <m>silk</m> of the cocoons where there are<comment rid="c_054r_01"/></ab>
 
 </div>
 </root>

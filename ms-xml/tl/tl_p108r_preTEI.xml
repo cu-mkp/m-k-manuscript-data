@@ -1,11 +1,11 @@
-<root>
-<page>108r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="108r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f221.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f221.image</image>
 
-<div>
-<cont/>
-<id>p107r_1</id>
+
+
+<div continues="yes" id="p107r_1">
+
+
 
 <ab>To hold the cores, some use <tl><m>wire of the same
 metal</m> that they cast</tl>, because it reduces <del>with</del> &amp;
@@ -28,7 +28,7 @@ commonly work, which alloys indifferently <del><fr>Et que</fr></del>.
 And when one would cast with <m>solder</m>, it would run even
 better.</ab>
 
-<ab><emph><df><m><de>Spat</de></m></df><comment>c_108r_02</comment></emph> is a <m>whitish stone</m> which can
+<ab><emph><df><m><de>Spat</de></m></df><comment rid="c_108r_02"/></emph> is a <m>whitish stone</m> which can
 be found in <pl>Germany</pl>, &amp; mainly in <pl>Augsburg</pl>, which
 one uses for <m>the most excellent sand that can be found for <m>lead</m></m>,
 <m>tin</m>, <m>copper</m>, <m>silver</m> &amp; <m>gold</m>. And the more
@@ -38,15 +38,15 @@ it hold in the fire as well as the above mentioned made with
 <m>plaster</m>.</ab>
 
 <ab>The shreds of <del><fr>cui</fr></del> thick, <m>greasy leather</m>
-are <del><fr>p</fr></del>good<comment>c_108r_01</comment> to cast in the <m>melted
+are <del><fr>p</fr></del>good<comment rid="c_108r_01"/> to cast in the <m>melted
 copper and latten</m>, for it cleans it &amp; removes from it all its
 <m>filth</m>. </ab>
 
 </div>
 
-<div>
-<id>p108r_2</id>
-<head><m><de>Spalt</de></m><comment>c_108r_02</comment></head>
+<div id="p108r_2" continued="yes">
+
+<head><m><de>Spalt</de></m><comment rid="c_108r_02"/></head>
 
 <ab><m><de>Spalt</de></m> is white like <m>cooked plaster</m> and can be found in
 mounds and <m>stones</m> formed in long scales &amp; long veins. It is
@@ -58,7 +58,7 @@ with some other substance, to purify it, one grinds it, coming from the
 ammoniac water</m>. And, by putting in a piece the <ms>size of a
 <pa>walnut</pa></ms> in a large <tl>bottle</tl> of <m>water</m>, and</ab>
 
-<cont/>
+
 
 </div>
 </root>

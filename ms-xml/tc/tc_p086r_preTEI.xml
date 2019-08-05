@@ -1,13 +1,13 @@
-<root>
-<page>086r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="086r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f177.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f177.image</image>
 
-<div>
 
-<cont/>
 
-<id>p085v_4</id>
+<div continues="yes" id="p085v_4" continued="yes">
+
+
+
+
 
 <ab>de la <m>matiere de pœlone</m> meslee dune bossette qui est
 <m>potin</m><lb/>
@@ -111,10 +111,10 @@ Il fault que le <tl>chassis</tl> soit froid &amp; que tu gectes a coup
 <m><tl>Lutte</tl></m><lb/>
 
 tousjours lentree de ton <tl>chassis</tl> car le <m>metal</m> touchant
-le <m>fer</m> ou <m>metal</m><comment>c_016v_05</comment></ab>
+le <m>fer</m> ou <m>metal</m><comment rid="c_016v_05"/></ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 
 Cest <m>os</m> veult<lb/>
 
@@ -128,7 +128,7 @@ estre fort recuit<lb/>
 
 pource quil sesmie</ab>
 
-<cont/>
+
 
 </div>
 </root>

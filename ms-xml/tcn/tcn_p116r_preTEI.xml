@@ -1,23 +1,23 @@
-<root>
-<page>116r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="116r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f237.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f237.image</image>
 
-<div>
 
-<cont/>
 
-<id>p115v_3</id>
+<div continues="yes" id="p115v_3">
 
-<ab>
 
-<margin>left-top</margin>
 
-<figure>
 
-<id>fig_p116r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SEdPVDdsS2dEUmM</link>
+<ab margin="left-top">
+
+
+
+<figure id="fig_p116r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SEdPVDdsS2dEUmM">
+
+
+
+
 
 </figure>
 
@@ -61,9 +61,9 @@ recuisent sur une <tl>grille</tl>.
 
 </div>
 
-<div>
+<div id="p116r_1">
 
-<id>p116r_1</id>
+
 
 <head>Mouler bouquets, herbes et fleurs</head>
 
@@ -81,7 +81,7 @@ de <m>sable destrempé</m></tl>, co<exp>mm</exp>e des <al>serpents</al>. À quoy
 il ne fault point<lb/>
 
 de despouille, car les <tl>moules</tl> se
-recuis<del>s</del>an<corr><del>s</del></corr>ts<comment>c_116r_01</comment> l’herbe se
+recuis<del>s</del>an<corr><del>s</del></corr>ts<comment rid="c_116r_01"/> l’herbe se
 brusle,<lb/>
 
 ce qui ne se faict pas des animaulx, qui ont des os <del>&amp;
@@ -96,9 +96,9 @@ fleur.
 
 </div>
 
-<div>
+<div id="p116r_2">
 
-<id>p116r_2</id>
+
 
 <head>Mouler <del>de</del> en noyau<lb/>
 
@@ -137,7 +137,7 @@ donner l’espesseur<lb/>
 
 necessaire. Ces medailles s’<m>huilent</m> &amp; frottent ainsy
 d’<m>e<add>au de</add> vye</m>, pource
-que<comment>c_116r_02</comment><lb/>
+que<comment rid="c_116r_02"/><lb/>
 
 elles sont fermes &amp; dures &amp; ne presteroient pas pour les retirer
 d<del>e</del>u<lb/>
@@ -149,9 +149,9 @@ mols &amp; flexibles.
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Quand tu as<lb/>
 
@@ -207,9 +207,9 @@ espesseur.
 
 </div>
 
-<div>
+<div id="p116r_3">
 
-<id>p116r_3</id>
+
 
 <head>Gect pour <m>or</m> et <m>arge<exp>n</exp>t</m></head>
 
@@ -235,11 +235,11 @@ ne soufle pas tant.
 
 </div>
 
-<div>
+<div id="p116r_4">
 
-<id>p116r_4</id>
 
-<head>Moyen <del>desm<del>ou</del>ailler</del><comment>c_116r_04</comment> d’<m>esmailler</m> des fœilles<lb/>
+
+<head>Moyen <del>desm<del>ou</del>ailler</del><comment rid="c_116r_04"/> d’<m>esmailler</m> des fœilles<lb/>
 
 d<m><del>or</del></m>e <pa>roses</pa> d’<m>or</m> fort subtilles et
 aultres</head>

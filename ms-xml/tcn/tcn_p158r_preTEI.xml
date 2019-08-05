@@ -1,11 +1,11 @@
-<root>
-<page>158r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="158r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f321.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f321.item</image>
 
-<div>
-<id>p158r_1</id>
-<head><comment>C_158r_01</comment><m>Mercure</m> dans les
+
+
+<div id="p158r_1">
+
+<head><comment rid="C_158r_01"/><m>Mercure</m> dans les
 <tl>moules</tl> à nettoyer</head>
 
 <ab>
@@ -64,8 +64,8 @@ donné<lb/>
 ung <tl>pinceau</tl>.
 </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 Recuits bien<lb/>
 

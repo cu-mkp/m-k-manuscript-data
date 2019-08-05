@@ -1,11 +1,11 @@
-<root>
-<page>158v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="158v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f322.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f322.image</image>
 
-<div>
 
-<id>p158v_1</id>
+
+<div id="p158v_1">
+
+
 
 <head>Couleurs pour les feuilles vertes</head>
 
@@ -44,9 +44,9 @@ couvrir pas les traicts de l’ouvrage.</ab>
 
 </div>
 
-<div>
+<div id="p158v_2">
 
-<id>p158v_2</id>
+
 
 <head>Grands <tl>moules</tl></head>
 
@@ -58,9 +58,9 @@ pas.</ab>
 
 </div>
 
-<div>
+<div id="p158v_3">
 
-<id>p158v_3</id>
+
 
 <head><m>Fumée de <tl>chandelle</tl></m></head>
 
@@ -83,9 +83,9 @@ pource que la medaille estoit espesse, estoict fort chault.</ab>
 
 </div>
 
-<div>
+<div id="p158v_4">
 
-<id>p158v_4</id>
+
 
 <head>Gect</head>
 
@@ -102,9 +102,9 @@ pas de<lb/>
 fayre des souspirails au gect, où communem<exp>ent</exp> la matiere
 soufle.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 N’oublie jamays<lb/>
 

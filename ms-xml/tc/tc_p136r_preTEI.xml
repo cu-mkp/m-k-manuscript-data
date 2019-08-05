@@ -1,18 +1,18 @@
-<root>
-<page>136r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="136r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f277.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f277.item.r=</image>
 
-<div>
 
-<cont/>
 
-<id>p135v_1</id>
+<div continues="yes" id="p135v_1">
 
-<ab>en mirouer Et co<exp>mm</exp>e tu vouldras <del>gecter</del><comment>c_136r_01</comment> gecter
+
+
+
+
+<ab>en mirouer Et co<exp>mm</exp>e tu vouldras <del>gecter</del><comment rid="c_136r_01"/> gecter
 mects encor un p<ups>eu</ups><lb/>
 
-de la <m>couleur</m><comment>c_135r_01</comment> &amp; laisse reposer un petit tousjours
+de la <m>couleur</m><comment rid="c_135r_01"/> &amp; laisse reposer un petit tousjours
 souflant<lb/>
 
 du <tl>petit &amp; grand souflet</tl> En fin adapte ton <tl>moule</tl>
@@ -71,8 +71,8 @@ large pour embrasser la medaille le plus que faire<lb/>
 se pourra</ab>
 
 </div>
-<div>
-<id>p136r_1</id>
+<div id="p136r_1">
+
 <head><del>D</del><del>Esm</del> <m>Esmailler</m> ouvraiges<lb/>
 
 tanvres</head>

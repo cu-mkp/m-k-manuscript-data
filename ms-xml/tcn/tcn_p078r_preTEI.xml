@@ -1,13 +1,13 @@
-<root>
-<page>078r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="078r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f161.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f161.item</image>
 
-<div>
 
-<cont/>
 
-<id>p077v_3</id>
+<div continues="yes" id="p077v_3">
+
+
+
+
 
 <ab>fondre ses <m>drogues</m> dedans un <tl>pot de <m>terre</m></tl>
 nœuf, &amp; quand<lb/>
@@ -19,9 +19,9 @@ tu verras de beau <m>verny</m>.</ab>
 
 </div>
 
-<div>
+<div id="p078r_1">
 
-<id>p078r_1</id>
+
 
 <head>Aultre <m>verny</m></head>
 
@@ -29,7 +29,7 @@ tu verras de beau <m>verny</m>.</ab>
 fais chauffer sur les<lb/>
 
 <m>charbons</m>, &amp; puys prens <ms>demye once</ms> de <m>sang
-d<del>e</del>a Ra<del>ie</del>c</m><comment>c_078r_03</comment><lb/>
+d<del>e</del>a Ra<del>ie</del>c</m><comment rid="c_078r_03"/><lb/>
 
 &amp; la broye grossement, et puis le mectz dedans l’<m>huille
 d’<pa>aspic</pa></m>, &amp;<lb/>
@@ -50,9 +50,9 @@ de<lb/>
 
 </div>
 
-<div>
+<div id="p078r_2">
 
-<id>p078r_2</id>
+
 
 <head>Pour faire <m>verny rouge</m></head>
 
@@ -69,11 +69,11 @@ couche comme devant <del>pour faire trois verd</del>.</ab>
 
 </div>
 
-<div>
+<div id="p078r_3">
 
-<id>p078r_3</id>
 
-<head>Pour faire <m><del>tr</del>bois</m> verd<comment>c_078r_02</comment></head>
+
+<head>Pour faire <m><del>tr</del>bois</m> verd<comment rid="c_078r_02"/></head>
 
 <ab>Prenés du <m>vinaigre bien fort</m>, du <m>sel</m> &amp; de l’<m>eau
 de pluye</m>,<lb/>

@@ -1,19 +1,19 @@
-<root>
-<page>107r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="107r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f219.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f219.image</image>
 
-<div>
 
-<cont/>
 
-<id>p106v_2</id>
+<div continues="yes" id="p106v_2">
 
-<ab>
 
-<margin>left-bottom</margin>
 
-<mark>ʘʘ</mark><comment>c_106v_02</comment><lb/>
+
+
+<ab margin="left-bottom">
+
+
+
+<mark>ʘʘ</mark><comment rid="c_106v_02"/><lb/>
 
 as heavy as before, and like a moderately thick paste &amp; that it is
 not so easy to handle, as when it is liquid. It is a sign that it is
@@ -29,8 +29,8 @@ sooner it will set.</ab>
 
 </div>
 
-<div>
-<id>p107r_1</id>
+<div id="p107r_1" continued="yes">
+
 <head>Catching <al>lizards</al> and <al>snakes</al></head>
 
 <ab>Take a <tl>stick</tl> and attach a <tl>string</tl> at the end, which
@@ -45,7 +45,7 @@ bites without letting go &amp; grips like <tl>pincers</tl>.</add></ab>
 that it is covered by a thick <tl><m>woollen</m> cloth</tl>, for the
 teeth of the <al>snake</al> stay in the <tl>cloth</tl>, &amp; cannot
 pierce like they would with a <m>linen</m>. The dangerous ones are
-recognisable by their blue &amp; <del><fr>asses</fr></del> <fr>aseurés</fr><comment>c_107r_03</comment>
+recognisable by their blue &amp; <del><fr>asses</fr></del> <fr>aseurés</fr><comment rid="c_107r_03"/>
 <add>azure</add> eyes. They hardly ever bite <env>in
 water</env>, which <pro><al>crayfish</al> catchers</pro>
 experience.</ab>
@@ -75,12 +75,12 @@ pass through the <tl>sieve</tl>. Thus one needs to grind it finely on
 <tl><m>marble</m></tl>. And <m>the one white <del><fr>que v</fr></del>
 in powder that <pro>apothecaries</pro> sell</m> is good.<add> It is
 ground better <del><fr>su</fr></del> in the <tl>mortar</tl> by <tl>pestling</tl>
-&amp; dragging the <tl><fr>pinon</fr></tl><comment>c_107r_6</comment>, thus you will render it very
+&amp; dragging the <tl><fr>pinon</fr></tl><comment rid="c_107r_6"/>, thus you will render it very
 fine.</add></ab>
 
 <ab><m><la>Crocum ferri</la></m> must be set ablaze in a
 <tl><pro>glassmaker’s</pro> <fr>fournaise</fr></tl> for four
 <ms><tmp>days</tmp></ms>.</ab>
-<cont/>
+
 </div>
 </root>

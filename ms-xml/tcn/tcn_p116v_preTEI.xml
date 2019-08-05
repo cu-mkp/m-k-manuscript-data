@@ -1,10 +1,10 @@
-<root>
-<page>116v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="116v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f238.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f238.image</image>
 
-<div>
-<id>p116v_1</id>
+
+
+<div id="p116v_1">
+
 <head>Mouler <al>serpents</al> <env>en tout temps</env></head>
 
 <ab><del>Aulcu</del>Pource que <tmp>l’hiver</tmp> elles sont cachées en
@@ -35,8 +35,8 @@ en<lb/>
 
 <m>metal</m> co<exp>mm</exp>e dict est.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Si en entortillant le<lb/>
 
 <al>serpent</al> de <m>cire</m> quelque<lb/>
@@ -51,8 +51,8 @@ de la <m>cire</m> moulée.</ab>
 
 </div>
 
-<div>
-<id>p116v_2</id>
+<div id="p116v_2">
+
 <head>Mixture d’<m>estain</m> et de <m>plomb</m></head>
 
 <ab>Pour herbes subtiles &amp; autres fleurs ou feuillages tanvres,<lb/>
@@ -99,8 +99,8 @@ presque<lb/>
 
 tout <m>estaim</m>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Si tu <del>moules<lb/>
 
 de plu</del> veulx gecter<lb/>
@@ -159,8 +159,8 @@ chaleur tiede</ab>
 
 </div>
 
-<div>
-<id>p116v_3</id>
+<div id="p116v_3">
+
 <head>Gect pour <m>cuivre</m> et <m>letton</m></head>
 
 <ab>Pour le <m>cuivre rouge</m> il fault mectre du <m>sel armoniac</m>,

@@ -1,11 +1,11 @@
-<root>
-<page>041r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="041r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f87.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f87.image</image>
 
-<div>
 
-<id>p041r_1</id>
+
+<div id="p041r_1">
+
+
 
 <head><m>Terre de gect pour les <pro>fondeurs</pro></m></head>
 
@@ -47,9 +47,9 @@ jecter.
 
 </div>
 
-<div>
+<div id="p041r_02">
 
-<id>p041r_02</id>
+
 
 <head><pa>Lis de jardin</pa></head>
 
@@ -61,9 +61,9 @@ bulbeuses font ainsy.</ab>
 
 </div>
 
-<div>
+<div id="p041r_03">
 
-<id>p041r_03</id>
+
 
 <head><m>Sable</m></head>
 
@@ -102,17 +102,17 @@ qu’il ne tumbe de <m>pain</m> dans ton <m>sable</m>, car cela faict fort<lb/>
 
 soufler.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Essaye de mesler<lb/>
 
 du <m>noir à noircy</m>.</ab></div>
 
-<div>
+<div id="p041r_04">
 
-<id>p041r_04</id>
+
 
 <head><al>Canards</al></head>
 

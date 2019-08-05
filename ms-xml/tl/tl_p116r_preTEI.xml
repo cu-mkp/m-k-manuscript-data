@@ -1,23 +1,23 @@
-<root>
-<page>116r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="116r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f237.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f237.image</image>
 
-<div>
 
-<cont/>
 
-<id>p115v_3</id>
+<div continues="yes" id="p115v_3">
 
-<ab>
 
-<margin>left-top</margin>
 
-<figure>
 
-<id>fig_p116r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SEdPVDdsS2dEUmM</link>
+<ab margin="left-top">
+
+
+
+<figure id="fig_p116r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SEdPVDdsS2dEUmM">
+
+
+
+
 
 </figure>
 
@@ -32,9 +32,9 @@ reheated on a <tl>grate</tl>.
 
 </div>
 
-<div>
+<div id="p116r_1">
 
-<id>p116r_1</id>
+
 
 <head>Molding bouquets, plants, and flowers</head>
 
@@ -43,7 +43,7 @@ reheated on a <tl>grate</tl>.
 immediately in good <m>eau-de-vie</m> &amp; then put them in your
 <tl>tempered <m>sand</m> mold</tl>, like <al>snakes</al>. For which one needs no
 release, for while the <tl>molds</tl> being <del><fr>s</fr></del>
-<corr>reheated</corr>,<comment>c_116r_01</comment> the plant burns, which does not happen with
+<corr>reheated</corr>,<comment rid="c_116r_01"/> the plant burns, which does not happen with
 animals, which have bones <del><fr>&amp; q</fr></del>. It is necessary
 that for bouquets, the <m>sand</m> be not as thick as for <al>snakes</al>
 because, if it were thick, it would crush the flower.
@@ -52,9 +52,9 @@ because, if it were thick, it would crush the flower.
 
 </div>
 
-<div>
+<div id="p116r_2">
 
-<id>p116r_2</id>
+
 
 <head>Molding <del><fr>de</fr></del> <fr>en noyau</fr> with the same
 <m>sand</m>, <m>wax</m> images or <m>lead</m> medals and suchlike</head>
@@ -77,9 +77,9 @@ out of the <del><fr>e</fr></del> <del><fr>la</fr></del> <tl>mold</tl>, which is
 tenacious, as are the natural animals, which are soft &amp;
 flexible.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 
 When you have tempered your <m>sand</m>, do not cast it in the middle of the
@@ -92,9 +92,9 @@ is too thin. Make it therefore of medium thickness.
 
 </div>
 
-<div>
+<div id="p116r_3">
 
-<id>p116r_3</id>
+
 
 <head>Casting for <m>gold</m> and <m>silver</m></head>
 
@@ -108,11 +108,11 @@ without shaking the <tl>mold</tl> &amp; does not become as porous.</ab>
 
 </div>
 
-<div>
+<div id="p116r_4">
 
-<id>p116r_4</id>
 
-<head>A way to <del><corr>grind</corr></del><comment>c_116r_04</comment> <m>enamel</m> <ms><del>gold</del></ms>
+
+<head>A way to <del><corr>grind</corr></del><comment rid="c_116r_04"/> <m>enamel</m> <ms><del>gold</del></ms>
 very delicate <m>gold</m> <pa>rose</pa> leaves and others</head>
 
 <ab>

@@ -1,13 +1,13 @@
-<root>
-<page>018r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="018r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f41.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f41.image</image>
 
-<div>
 
-<cont/>
 
-<id>p017r_1</id>
+<div continues="yes" id="p017r_1" continued="yes">
+
+
+
+
 
 <ab>
 
@@ -19,7 +19,7 @@ thus, it does not carry so much ammunition for fifteen <ms>lb</ms>
 suffices for its charge. The <wp>cannon</wp> makes a bigger opening due to the
 size of its ball, but the <wp>culverin</wp> hits more fiercely &amp; propels
 faster, having greater force due to its length. At the breech it carries
-the <ms>thickness of two of its balls &amp; <del><fr>es</fr></del>the<comment>c_018r_02</comment> 
+the <ms>thickness of two of its balls &amp; <del><fr>es</fr></del>the<comment rid="c_018r_02"/> 
 <del>three</del> <add>third</add> <del><fr>s</fr></del> part of a ball</ms>, at the front the
 <ms>thickness of one ball &amp; two thirds</ms>. <wp>Culverins</wp> serve to
 batter defenses from afar when one cannot easily make an approach, and
@@ -27,22 +27,22 @@ batter defenses from afar when one cannot easily make an approach, and
 One needs fifteen or sixteen <al>horses</al> for moving it. They are
 <del><fr>tout</fr></del> of the same alloy as the <wp>cannon</wp>, as are all
 <wp>pieces</wp> <del>that exceed</del> <add>smaller than</add> average, for to
-these, one adds a little more <m><fr>metal</fr></m><comment>c_016v_05</comment> in order that the melt runs
+these, one adds a little more <m><fr>metal</fr></m><comment rid="c_016v_05"/> in order that the melt runs
 better. And for two <ms>quintals</ms> of <m>rosette</m>, one
 adds six twenties <ms>lb</ms> of <m><fr>metal</fr></m> for the <wp>smaller pieces</wp>.
 <add>They shoot 8 or 9 hundred <ms>paces</ms> at point blank, &amp; up to
 a thousand <ms>paces</ms> if the <m>powder</m> is strong, &amp;
 half a <ms>league</ms> at range.</add></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Some invented the loading of <wp>cannons</wp> with cartouches.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Some <del><fr>po</fr></del> do not put the <m>powder</m> in the <wp>cannon</wp>
 all in one go but in two &amp; ramming each time, saying that each
@@ -53,7 +53,7 @@ is not certain for <wp>large pieces</wp> which are loaded with a lot of
 <ab>
 
 The <df><wp><fr>bastarde</fr></wp></df>, which is a <del><wp>culverin</wp></del>
-<del>middle-sized</del><comment>c_018r_01</comment> piece,
+<del>middle-sized</del><comment rid="c_018r_01"/> piece,
 weighs thirty <ms>quintal</ms>s and its ball weighs <del>xx
 <ms>lb</ms></del> <add>xv <ms>lb</ms></add> and carries as its charge x
 or xii <ms>lb</ms> of <m>powder</m>. Its proportion is at the breech the
@@ -67,9 +67,9 @@ the <wp>large cannon</wp>. Ten <al>horses</al> can move it. It accompanies well
 the <wp>large culverin</wp> for point blank because it carries small
 ammunition.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Some give it the <ms>thickness of three balls at the breech &amp; at the
 front of two balls</ms>.</ab>
@@ -91,7 +91,7 @@ follows the ball which <del><fr>de</fr></del> guides your
 <corr>sight</corr> to where the ball is going. This goes for the
 <wp>cannon</wp> and for the <wp>culverin</wp>, and not for <wp>small pieces</wp>.</ab>
 
-<cont/>
+
 
 </div>
 </root>

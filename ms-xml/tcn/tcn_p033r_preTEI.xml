@@ -1,21 +1,21 @@
-<root>
-<page>033r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="033r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f71.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f71.image</image>
 
-<div>
 
-<id>p033r_1</id>
+
+<div id="p033r_1">
+
+
 
 <head><tl>Cousteau</tl> pour couper le <bp>nes</bp> ou<lb/>
 
 un <bp>doict</bp></head>
 
-<figure>
+<figure id="fig_p033r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5RWlDQlc4cU5HN3M">
 
-<id>fig_p033r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5RWlDQlc4cU5HN3M</link>
+
+
 
 </figure>
 
@@ -70,9 +70,9 @@ couvriras <del>l</del> d’un <bp>doigt</bp> te viendra en
 colorée de <m>rosette de bresil</m> ou du <m>jus de <pa>cerises
 noires</pa></m> sur le <bp>nes</bp>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Il ne fault<lb/>
 
@@ -113,11 +113,11 @@ pas à ses<lb/>
 entre les <bp>mains</bp> sans soufler</head>
 
 
-<figure><id>fig_p033r_2</id>
+<figure id="fig_p033r_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SFNtME0xWURubzA">
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SFNtME0xWURubzA</link>
+
+
 
 </figure>
 
@@ -141,7 +141,7 @@ co<exp>mm</exp>e si tu la<lb/>
 
 voulois couvrir, &amp; ta petite lumiere <corr><del>de
 lumiere</del></corr> <del>p</del>de
-l’<m>osier</m>,<comment>c_033r_01</comment> par le<lb/>
+l’<m>osier</m>,<comment rid="c_033r_01"/> par le<lb/>
 
 moyen de la <m>fumée</m> que tu retiens avecq les deulx <bp>paulmes</bp>, la
 <tl>cha<exp>n</exp>delle</tl><lb/>

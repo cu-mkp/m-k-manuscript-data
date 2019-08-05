@@ -1,10 +1,10 @@
-<root>
-<page>015r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="015r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f35.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f35.image</image>
 
-<div>
-<id>p015r_1</id>
+
+
+<div id="p015r_1">
+
 <head><m>Drap damassé</m></head>
 
 <ab>Tu peulx damasser un <m>drap</m> de deux differentes couleurs,<lb/>
@@ -21,7 +21,7 @@ plaira. Puys tu faulfileras de la <m>fisselle</m> ou plus grosse
 sur le poncis, et le boutte en la <m>teincture de <pa>guesde</pa> ou
 <pa>pastel</pa></m>, &amp; il<lb/>
 
-se fera vert, hormis ce qui est dess<del>us</del>oubs<comment>c_015r_02</comment> la <m>fisselle</m> qui
+se fera vert, hormis ce qui est dess<del>us</del>oubs<comment rid="c_015r_02"/> la <m>fisselle</m> qui
 demourera<lb/>
 
 jaulne à cause que la <m>taincture verte</m> n’y aura poinct penetré.
@@ -39,8 +39,8 @@ marché.</ab>
 
 </div>
 
-<div>
-<id>p015r_2</id>
+<div id="p015r_2">
+
 <head>Gecter en fonte</head>
 
 <ab>On gecte les chandeliers et petits ouvraiges en <tl>chassis</tl>
@@ -85,8 +85,8 @@ mays se trouve à la<lb/>
 
 superficie du gect.</add></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <mark>+</mark><lb/>
 
 à la chaleur<lb/>
@@ -95,8 +95,8 @@ du <m>metal</m> fondu</ab>
 
 </div>
 
-<div>
-<id>p015r_3</id>
+<div id="p015r_3">
+
 <head>Gecter <m>or</m> et <m>argent</m></head>
 
 <ab>Il fault que le <m>sable</m> soict de chose fort seiche &amp; aride &amp;

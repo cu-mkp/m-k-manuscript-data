@@ -1,11 +1,11 @@
-<root>
-white<page>044v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="044v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f94.image">
+white
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f94.image</image>
 
-<div>
 
-<id>p044v_1</id>
+<div id="p044v_1">
+
+
 
 <head><m><al>Horse</al>hair</m> sieves</head>
 
@@ -19,15 +19,15 @@ the work they want to make. And the weft is <corr><del>is</del></corr>
 done over &amp; under as for making any other fabric. And passing a
 <tl>small flat stick</tl> of ii or three <ms><bp>fingers</bp> wide</ms>
 between, next they pass two <m>hairs</m> at each step of the pedal
-and weave with three pedals. There are xvii<superscript>c</superscript><comment>c_044v_01</comment>
+and weave with three pedals. There are xvii<superscript>c</superscript><comment rid="c_044v_01"/>
 <m>hairs</m> in the entire sieve. They sell them by the <ms>dozen</ms> &amp; each <ms>dozen</ms>
 xxx <ms><cn>sous</cn></ms>. They bring them to <pl>Toulouse</pl> to
 transport them afterward to <pl>Spain</pl>, and take <m>silk tammy</m>
 in exchange for it .</ab></div>
 
-<div>
+<div id="p044v_2">
 
-<id>p044v_2</id>
+
 
 <head>Excellent <md><m>water</m> against the plague</md> by <pn>Monsieur de
 Montorsin</pn></head>
@@ -36,14 +36,14 @@ Montorsin</pn></head>
 <m><pa>dittany</pa></m>, &amp; <m>good vinegar</m>, put the whole in a
 <tl><m>glass</m> bottle</tl>, leave it half-open &amp; well strapped, and
 put it in a very long bath for three or 4 <ms><tmp>days</tmp></ms>. Then
-separate your decoction from the residue, of which<comment>c_044v_02</comment> in time of
+separate your decoction from the residue, of which<comment rid="c_044v_02"/> in time of
 need you will pour some on a <tl>flaming red tile</tl> &amp; receive
 the vapor of it &amp; also fumigate your clothes with it. This is a very
 rare &amp; tested secret.</ab></div>
 
-<div>
+<div id="p044v_3">
 
-<id>p044v_3</id>
+
 
 <head><md><m>White soporific oil</m></md></head>
 
@@ -54,9 +54,9 @@ two <ms><tmp>days</tmp></ms> and your <m>oil</m> will turn white. If you
 rub the <bp>sole of your feet</bp> with the same, you <md>will soon feel
 like sleeping</md>.</ab></div>
 
-<div>
+<div id="p044v_4">
 
-<id>p044v_4</id>
+
 
 <head><m>Stucco</m></head>
 

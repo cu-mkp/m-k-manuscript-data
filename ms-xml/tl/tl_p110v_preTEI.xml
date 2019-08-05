@@ -1,37 +1,37 @@
-<root>
-<page>110v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="110v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f226.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f226.image</image>
 
-<div>
 
-<cont/>
 
-<id>p110r_3</id>
+<div continues="yes" id="p110r_3">
+
+
+
+
 
 <ab>When it has eaten something, by tormenting it, it renders it up.
 And if, after having eaten something, it is thus pressed
 <tl><bp>underfoot</bp></tl>, this pains it greatly &amp; hurts it. If it
 is wounded, it will not eat willingly.</ab></div>
 
-<div>
+<div id="p110v_1">
 
-<id>p110v_1</id>
+
 <head><tl>Molds</tl></head>
 
 <ab>There is nothing better for opening them up than to anoint them with
 <m><pa>olive</pa> oil</m>, &amp; nothing else. And next, when you
 want to unjoin them, soak them in <m>cold water</m>, which is the
-secret. <del><fr>L</fr></del>And<comment>c_110v_04</comment> you will see that the
+secret. <del><fr>L</fr></del>And<comment rid="c_110v_04"/> you will see that the
 <m>oil</m> although it seems to be imbued, will detach itself, like
 grease. <tl>Molds</tl> become stronger in <m>cold water</m>. And <m>hot
 water</m> would dissolve them awkwardly, although once reheated, they
 are more handleable &amp; easier to dissolve in the
 <m>water</m>.</ab></div>
 
-<div>
+<div id="p110v_2">
 
-<id>p110v_2</id>
+
 
 <head><m><pa>Wheat</pa> oil</m></head>
 
@@ -42,16 +42,16 @@ dry &amp; makes the remainder dry out. It is necessary that the hair or
 down of any animal that you want to mold be flat, for it were upright it
 would elevate the <m>sand</m> &amp; become porous.</ab>
 
-<ab><margin>left-middle</margin><mark>#</mark> If you want to mold
+<ab margin="left-middle"><mark>#</mark> If you want to mold
 something delicate, like a <pa>pansy</pa>, some, to give it a little
 thickness, more than what is natural, some rub it with <m>butter</m>. But it
 is best to anoint it with <m><pa>wheat</pa> oil</m> for it has no body
 &amp; does not obstruct the small lineaments as much, and makes the
 flower firm.</ab></div>
 
-<div>
+<div id="p110v_3">
 
-<id>p110v_3</id>
+
 
 <head>Cast of <m>lead</m> and <m>tin</m></head>
 
@@ -70,9 +70,9 @@ with <m>fine tin</m>, I put in two <ms>ounces</ms> of <m>fine lead</m>
 for one <ms>pound</ms>. I made plants &amp; <al>snakes</al> just like
 nature.</add></ab>
 
-<ab><margin>left-bottom</margin><del><fr>S<ill/></fr></del></ab>
+<ab margin="left-bottom"><del><fr>S<ill/></fr></del></ab>
 
-<ab><margin>left-bottom</margin>
+<ab margin="left-bottom">
 
 I cast <m>tin</m> almost red, and <m>lead</m> the same, which however
 had not remained in the fire for too long, for it becomes brittle and

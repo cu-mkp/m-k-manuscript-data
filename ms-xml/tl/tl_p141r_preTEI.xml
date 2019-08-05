@@ -1,17 +1,17 @@
-<root>
-<page>141r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="141r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image</image>
 
-<div>
 
-<id>p141r_1</id>
+
+<div id="p141r_1" continued="yes">
+
+
 
 <head>Molding a <al>crayfish</al></head>
 
-<ab><margin>top</margin>If some little thing is missing from it, you can
+<ab margin="top">If some little thing is missing from it, you can
 reattach it or else fill it with <m><pro>goldsmith</pro>’s
-cement</m>, because it can be painted.<comment>c_141r_01</comment></ab>
+cement</m>, because it can be painted.<comment rid="c_141r_01"/></ab>
 
 <ab>The <al>crayfish</al> is one of the most fanciful to mold, but also
 provides an example for casting many other very difficult things. Males
@@ -45,39 +45,39 @@ attached. Thus, the second cast, which is made on the first one, which
 has set well, separates easily from the first, after having been
 reheated, which is a singular secret for similar <tl>molds</tl>.</ab>
 
-<ab><margin>left-top</margin>The gate is made by the tail, very
+<ab margin="left-top">The gate is made by the tail, very
 thin.</ab>
 
-<ab><margin>left-middle</margin>Do not forget to rub with
+<ab margin="left-middle">Do not forget to rub with
 <m>eau-de-vie</m> before molding.</ab>
 
-<ab><margin>left-middle</margin><al>Stag beetles</al>, <al>crayfish</al>,
+<ab margin="left-middle"><al>Stag beetles</al>, <al>crayfish</al>,
 &amp; <al>crabs</al> are molded in the same fashion.</ab>
 
-<ab><margin>left-middle</margin>If your <al>crayfish</al> <del><fr>a
+<ab margin="left-middle">If your <al>crayfish</al> <del><fr>a
 d</fr></del> has no eggs, mold the back on top &amp; the belly on the
 bottom. You can give it some.</ab>
 
-<ab><margin>left-middle</margin>It can be molded hollow as for the body,
+<ab margin="left-middle">It can be molded hollow as for the body,
 but the legs cannot. And to do it well, <al>crayfish</al> are already
 fanciful enough to mold without looking for the hollow, this ought to be
 reserved for <al>turtles</al>.</ab>
 
-<ab><margin>left-middle</margin>When you open your <tl>mold</tl>, you
+<ab margin="left-middle">When you open your <tl>mold</tl>, you
 will find the <al>crayfish</al> with <m>white bones</m>, but not in
 powder. And without opening it, the <m>☿</m> will have
 done nothing.</ab>
 
-<ab><margin>bottom</margin><hr/>Layer these <m>oil</m> colors very
+<ab margin="bottom"><hr/>Layer these <m>oil</m> colors very
 transparently.</ab>
 
-<ab><margin>right-bottom</margin><hr/>To paint it, boil it with <m>wine</m> &amp; a
+<ab margin="right-bottom"><hr/>To paint it, boil it with <m>wine</m> &amp; a
 little <m>salt</m> in order that they become very red &amp; take this as
 a model. Paint the back with <m>vermilion</m> mixed with <m>lake</m>,
 &amp; the sides &amp; underneath the belly &amp; the legs with
 <m>vermilion</m> &amp; <m>yellow ochre</m> and <m>white</m>.</ab>
 
-<cont/>
+
 
 </div>
 </root>

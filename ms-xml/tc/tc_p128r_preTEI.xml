@@ -1,11 +1,11 @@
-<root>
-<page>128r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="128r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f261.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f261.image</image>
 
-<div>
 
-<id>p128r_1</id>
+
+<div id="p128r_1" continued="yes">
+
+
 
 <head>Gecter en <m>argent</m> et <m>or</m></head>
 
@@ -64,7 +64,7 @@ tirant a toy En ceste sorte la chaleur se donne plus forte
 
 Advise de retirer par foys ton <tl><oc>crusol</oc></tl> <del>avecq les</del> en
 hault avecq les<lb/>
-<tl>mollettes</tl> chauldes pourcequ<del>il</del>e<comment>c_128r_02</comment> <add>sil</add> estoit
+<tl>mollettes</tl> chauldes pourcequ<del>il</del>e<comment rid="c_128r_02"/> <add>sil</add> estoit
 pose au droict de la <tl>tuelle</tl><lb/>
 
 &amp; que le <del><tl>souflet</tl> b</del> <del><add>vent batist
@@ -93,15 +93,15 @@ l<m>argent</m> qui se<ups>n</ups><lb/>
 
 esclarcist Mays si tu as de ceste croste sublimee sur la matiere<lb/>
 
-<m>metallique</m> qui semble grain d<m>acier</m> cy devant descripte<comment>c_128r_01</comment>
+<m>metallique</m> qui semble grain d<m>acier</m> cy devant descripte<comment rid="c_128r_01"/>
 Prens<lb/>
 
 un peu de ceste la laissant <add><mark>#</mark></add> les aultres
 &amp; gectes en sur ton <m>argent fon<ups>du</ups></m></ab>
 
-<ab>
+<ab margin="right-top">
 
-<margin>right-top</margin>
+
 
 Aulcuns laissent un peu reposer l<m>argent</m><lb/>
 
@@ -110,9 +110,9 @@ hors du fo<ups>eu</ups><lb/>
 plustost que<lb/>
 gecter</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 L<m>or et largent fondus</m><lb/>
 
@@ -121,9 +121,9 @@ avecq les choses susdictes<lb/>
 ne souflent<lb/>
 gueres</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Pour l<m>or</m><lb/>
 
@@ -139,9 +139,9 @@ d<m>alum de<lb/>
 
 plume</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Les petits<lb/>
 
@@ -175,9 +175,9 @@ chasse de lexterieur<lb/>
 
 par dedans</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 Tout <m>argent<lb/>
 
@@ -187,9 +187,9 @@ et tout aultre<lb/>
 
 <m>metal</m> aussy</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 L<m>argent</m> ne veult<lb/>
 
@@ -197,22 +197,22 @@ poinct estre descouvert<lb/>
 
 fondu</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 <mark>#</mark>
 
 <add>grossierem<exp>ent</exp> pulverisee</add></ab>
 
-<ab>
+<ab margin="bottom">
 
-<margin>bottom</margin>
+
 
 Loppe d<m>argent sophistique</m> se vitrifie en rouge a cause de
 l<m>arsenic</m> &amp; <m>orpiment</m></ab>
 
-<cont/>
+
 
 </div>
 </root>

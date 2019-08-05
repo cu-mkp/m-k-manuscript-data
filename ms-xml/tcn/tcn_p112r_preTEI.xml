@@ -1,10 +1,10 @@
-<root>
-<page>112r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="112r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f229.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f229.image</image>
 
-<div>
-<id>p112r_1</id>
+
+
+<div id="p112r_1">
+
 <head>Pour destremper le <m>sable</m></head>
 
 <ab>Il te fault avoir une grande <tl>conche</tl> pleine d’<m>eau</m>
@@ -23,8 +23,8 @@ le <m>sable destrempé</m> dans l’<tl>escuelle</tl>. <del>La grande
 
 pour tr</del></ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Pour mancher tes <tl>gros<lb/>
 
 pinceaulx à <m>huile</m></tl>, si tu n’as<lb/>
@@ -33,31 +33,31 @@ d’assés gros <tl>tuiaulx de <m>plume</m></tl>,<lb/>
 
 prens en deulx &amp; les fends &amp; joints ensemble.</ab>
 
-<figure>
+<figure id="fig_p112r_1" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MHphUzNsdW9DQ1U">
 
-<id>fig_p112r_1</id>
 
-<margin>left-top</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5MHphUzNsdW9DQ1U</link>
+
+
+
 
 </figure>
 
 </div>
 
-<div>
-<id>p112r_2</id>
+<div id="p112r_2">
+
 <head>Decoction des <m>sables</m></head>
 
 <ab>Desja dicte.</ab>
 
 </div>
 
-<div>
-<id>p112r_3</id>
+<div id="p112r_3">
+
 <head>Pour mouler en noyau<lb/>. 
 
-Mixtion du sable<m></m></head>
+Mixtion du sable<m/></head>
 
 <ab>Ayant recuict ton <m>sable</m>, sçavoir le <m>plastre</m>, l’<m>alum de
 plume</m> &amp;<lb/>
@@ -78,8 +78,8 @@ Ton <m>sable</m> prest, il te faut faire mourir l’animal que tu veulx<lb/>
 
 mouler <del>de</del>en ceste maniere.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <mark>#</mark><lb/>
 
 excepté l’<m>alum de<lb/>
@@ -92,8 +92,8 @@ broyer dans le<lb/>
 
 </div>
 
-<div>
-<id>p112r_4</id>
+<div id="p112r_4" continued="yes">
+
 <head>Fayre mourir l’animal à mouler</head>
 
 <ab>Il fault que tu ayes esté curieulx de ne le blesser poinct en
@@ -136,8 +136,8 @@ Et remue le &amp; le tourmente là dedans jusques à ce qu’il soict<lb/>
 mort, ce qui sera en <ms><tmp>une ou demye heure</tmp></ms>. Mays si tu
 est pressé</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
+
 Pour sçavoir<lb/>
 
 s’il est bien mort,<lb/>
@@ -162,13 +162,13 @@ il se retireroit<lb/>
 
 moule.</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
+
 Les <al>serpents d’<env>eau</env></al><lb/>
 
 ne mordent gueres.</ab>
 
-<cont/>
+
 
 </div>
 </root>

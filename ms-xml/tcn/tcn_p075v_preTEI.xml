@@ -1,11 +1,11 @@
-<root>
-<page>075v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="075v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f156.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f156.item</image>
 
-<div>
 
-<id>p075v_1</id>
+
+<div id="p075v_1">
+
+
 
 <head>Pour f<exp>air</exp>e du <m>boys</m> gris</head>
 
@@ -26,9 +26,9 @@ menu degré.</ab>
 
 </div>
 
-<div>
+<div id="p075v_2">
 
-<id>p075v_2</id>
+
 
 <head>Pour <m>dorer</m> sur le <m>boys</m></head>
 
@@ -48,7 +48,7 @@ voulés<lb/>
 <tl>couteau</tl> au pris q<exp>ue</exp> le poserés.<lb/>
 
 Et fault poser led<exp>ict</exp> <m>or</m> avecq du
-<tl><m>couto<del>ie</del>n</m></tl>.<comment>c_075v_04</comment> Et si vous
+<tl><m>couto<del>ie</del>n</m></tl>.<comment rid="c_075v_04"/> Et si vous
 pouvés trouver<lb/>
 
 du <pa>figuier</pa>, prenés le <m>blanc d’ung œuf</m> &amp; le fort
@@ -65,9 +65,9 @@ et faictes aller la <m>fumée</m> co<exp>n</exp>tre ce q<exp>ue</exp> vous auré
 
 </div>
 
-<div>
+<div id="p075v_3">
 
-<id>p075v_3</id>
+
 
 <head>Pour <m>dorer</m> d’<m>or moleu</m></head>
 
@@ -84,9 +84,9 @@ le poserés avecq un <tl>pinsseau</tl>, &amp; le polirés avecq une
 
 </div>
 
-<div>
+<div id="p075v_4" continued="yes">
 
-<id>p075v_4</id>
+
 
 <head>Recepte pour mectre tous <m>boys</m><lb/>
 
@@ -106,7 +106,7 @@ le bouilhir là où il aura trempé l’espace d’une
 tirer hors de l’<m>huille</m>, et prandre du <m>souffre vif</m> ou
 d’au<exp>ltr</exp>e</ab>
 
-<cont/>
+
 
 </div>
 </root>

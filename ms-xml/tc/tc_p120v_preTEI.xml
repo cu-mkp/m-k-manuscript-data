@@ -1,15 +1,15 @@
-<root>
-<page>120v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="120v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image</image>
 
-<div>
 
-<cont/>
 
-<id>p120r_3</id>
+<div continues="yes" id="p120r_3">
 
-<ab>mange de luy mesme Et pour luy<comment>c_120v_01</comment> convier
+
+
+
+
+<ab>mange de luy mesme Et pour luy<comment rid="c_120v_01"/> convier
 mieulx tu peulx bien<lb/>
 
 mectre parmy la <m>chair &amp; lœuf</m> quelque <m><al>ver de
@@ -19,8 +19,8 @@ car il en est fort friand</ab>
 
 </div>
 
-<div>
-<id>p120v_1</id>
+<div id="p120v_1">
+
 <head><m><la>Crocum ferri</la></m></head>
 
 <ab>Il est excellent <md>sinapise</md> sur les playes pour arrester
@@ -28,8 +28,8 @@ le<lb/>
 
 <bp>sang</bp> Le meilleur est de <m>limaille daiguilles</m></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Le <m><la>crocum ferri</la></m><lb/>
 
 endurcist les<lb/>
@@ -44,8 +44,8 @@ il en y a les rend plus mols &amp; doulx</ab>
 
 </div>
 
-<div>
-<id>p120v_2</id>
+<div id="p120v_2">
+
 <head>Anatomie</head>
 
 <ab>Il fault escorcher lanimal &amp; le faire bouillir Ou bien<lb/>
@@ -54,11 +54,11 @@ lescorcher &amp; le mectre dans <m>bonne chaulx vive</m></ab>
 
 </div>
 
-<div>
-<id>p120v_3</id>
+<div id="p120v_3">
+
 <head>Fayre courre l<m>argent</m></head>
 
-<ab><comment>c_120v_08</comment>Si cest pour grand ouvrage L<m>arsenic</m> &amp; le <m>tartre
+<ab><comment rid="c_120v_08"/>Si cest pour grand ouvrage L<m>arsenic</m> &amp; le <m>tartre
 pulverises</m><lb/>
 
 &amp; gectes sur l<m>argent fondu</m> le font courre <del>Si cest
@@ -78,7 +78,7 @@ Si le <del>s</del> <m>plastre</m> est bon il ny fault point de
 
 l<m>argent</m> Mays on mect plus d<m>alum de plume</m><lb/>
 
-<add><comment>c_120v_02</comment>Il y fault aussy du <m>sel commun
+<add><comment rid="c_120v_02"/>Il y fault aussy du <m>sel commun
 fondu</m> &amp; du <m>salpestre</m> avecq les<lb/>
 
 drogues susdictes <m>arsenic</m> <m>tartre</m> <m><la>aes ustum</la></m>
@@ -86,28 +86,28 @@ drogues susdictes <m>arsenic</m> <m>tartre</m> <m><la>aes ustum</la></m>
 
 <m>antimoyne</m> &amp;</add></ab>
 
-<ab><comment>c_120v_03</comment><emph><comment>c_120v_04</comment>Voy</emph>
+<ab><comment rid="c_120v_03"/><emph><comment rid="c_120v_04"/>Voy</emph>
 le second fœillet suivant</ab>
 
-<ab><margin>left-middle</margin>
-<comment>c_120v_08</comment><emph>
+<ab margin="left-middle">
+<comment rid="c_120v_08"/><emph>
 <la>Siscitatio<lb/>
 
 dubia</la></emph>
 
 </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Un peu d<m>axunge</m><lb/>
 
 Et de l<m>arsenic</m>
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>+</mark>
 
@@ -115,17 +115,17 @@ Et de l<m>arsenic</m>
 
 </div>
 
-<div>
+<div id="p120v_6" continued="yes">
 
-<id>p120v_6</id>
+
 
 <head>Garder fleurs seiches en mesme<lb/>
 
-<figure><id>fig_p120v_3</id><link>https://drive.google.com/open?id=1PVlkb1lR_o9LNTFq4QNRxxQ-tP1QZHBj</link></figure> estat <tmp>toute lannee</tmp></head>
+<figure id="fig_p120v_3" link="https://drive.google.com/open?id=1PVlkb1lR_o9LNTFq4QNRxxQ-tP1QZHBj"/> estat <tmp>toute lannee</tmp></head>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Les fleurs se gardent aussy en leur mesme beaulte dans le <m>vinaigre
 distille</m> <del>v</del>dans un <tl>vase<lb/>
@@ -145,8 +145,8 @@ sur les fleurs &amp; quaisem<exp>ent</exp> avecq un<lb/>
 
 Le plus maigre est le meilleur</ab>
 
-<ab>
-<margin>right-middle</margin>
+<ab margin="right-middle">
+
 Le <m>sable de riviere</m> lave<lb/>
 
 par le <env>coura<exp>n</exp>t des eaulx</env> est<lb/>
@@ -191,11 +191,11 @@ pas sur<lb/>
 tout quil fasse <m>poulsiere</m> Ne quil demeure sur la <bp>main</bp> ou
 y<lb/>
 
-laisse marque quand tu luy<comment>c_120v_05</comment> as pulverise
+laisse marque quand tu luy<comment rid="c_120v_05"/> as pulverise
 &amp; puys verse Car cest</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <mark>+</mark><lb/>
 
 Fais que ta<lb/>
@@ -220,8 +220,8 @@ couvre &amp; garde<lb/>
 
 en <env>lieu sec</env></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <del>Que</del> Il ne fault pas mectre<lb/>
 
 lesdictes fleurs en <tl>grands vases</tl><lb/>
@@ -230,16 +230,16 @@ car quand on tire un il fault<lb/>
 
 tirer tout</ab>
 
-<ab>
-<margin>bottom</margin>
-<render>wide</render>
+<ab margin="bottom" render="wide">
+
+
 Advise bien de ne cœuillir pas tes fleurs<lb/>
 
 <del>q</del> en <env>temps de pluye et humide</env> Mays lors<lb/>
 
 que le <env>soleil</env> aura passe dessus</ab>
 
-<cont/>
+
 
 </div>
 </root>

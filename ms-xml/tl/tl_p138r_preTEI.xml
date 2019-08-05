@@ -1,13 +1,13 @@
-<root>
-<page>138r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="138r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f281.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f281.image</image>
 
-<div>
 
-<cont/>
 
-<id>p137v_1</id>
+<div continues="yes" id="p137v_1">
+
+
+
+
 
 <ab>If you want to cast <m>gold</m>, <m>silver</m>, <m>copper</m> or
 <m>latten</m>, it is necessary that they be perfectly red, &amp;
@@ -31,7 +31,7 @@ place of <m>brick</m>, after having reheated them, &amp; also the
 <m>pieces of the molds that have been used</m>. One <m><tl>lutes</tl></m> with it
 also important things, like works of <m>gold</m> or <m>silver</m>. One
 also reheats it, &amp; prepares it with <del><fr>se</fr></del> <m>sal 
-ammoniac water</m>, as <m><de>spat</de><comment>c_108r_02</comment> from <pl>Germany</pl></m>, &amp; it is
+ammoniac water</m>, as <m><de>spat</de><comment rid="c_108r_02"/> from <pl>Germany</pl></m>, &amp; it is
 excellent sand for <tl>frames</tl> for all <m>metals</m>.</ab>
 
 <ab>The <tl>molds</tl> of things where one needs to burn them inside, do
@@ -47,8 +47,8 @@ do not allow the <m>sand</m> to set. It would never be better than on a
 earth</m> dries the <tl>mold</tl> too soon. <m>The yellow</m> is
 better.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 For medals, and flat things, it is necessary that the <m>sand</m> be thick
 enough, wet, because it sets quickly. And when the <m>sand</m> is thus thick,
 one can hit and shake the <tl>table</tl> where the <tl>mold</tl> is

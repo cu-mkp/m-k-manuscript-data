@@ -1,13 +1,13 @@
-<root>
-<page>145v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="145v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f296.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f296.image</image>
 
-<div>
 
-<cont/>
 
-<id>p145r_2</id>
+<div continues="yes" id="p145r_2">
+
+
+
+
 
 <ab>Mays <del>pource que</del> les <tl><bp>doigts</bp></tl> ne pressent
 point uniment, <del>on</del><lb/>
@@ -52,9 +52,9 @@ bien net il n’y ha que nostre <m>sable</m>. </ab>
 
 </div>
 
-<div>
+<div id="p145v_1" continued="yes">
 
-<id>p145v_1</id>
+
 
 <head>Mouler herbes et fleurs</head>
 
@@ -94,37 +94,37 @@ Puys trempe ta fleur ou herbe dans de <m>bonne<lb/>
 eau de vie</m> <del>ou bien moin</del> mise dans un <tl>long
 verre</tl></ab>
 
-<figure>
+<figure id="fig_p145v_2" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5b1FOQ1Z5b1J3TWc">
 
-<id>fig_p145v_2</id>
 
-<margin>left-bottom</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5b1FOQ1Z5b1J3TWc</link>
+
+
+
 
 </figure>
 
-<cont/>
+
 
 </div>
 
-<div>
+<div id="p145v_2" margin="left-top">
 
-<id>p145v_2</id>
 
-<margin>left-top</margin>
+
+
 
 <head>Fleurs</head>
 
-<ab><comment>c_145v_01</comment>
+<ab><comment rid="c_145v_01"/>
 
 <mark>+</mark>
 
 </ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Quand tu les moules,<lb/>
 
@@ -152,9 +152,9 @@ aultrement il viendra<lb/>
 
 grumeleus.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Pource que tu ne<lb/>
 
@@ -176,9 +176,9 @@ grand coup d’un <tl>marteau</tl><lb/>
 
 au costé de la <tl>table</tl>.</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 C’est assés de recuire<lb/>
 
@@ -192,9 +192,9 @@ car pour l’<m>or</m> &amp; l’<m>argent</m> il le fault<lb/>
 
 recuire deulx fois.</ab>
 
-<ab>
+<ab margin="bottom">
 
-<margin>bottom</margin>
+
 
 Gecte bien rouge ton <m>estaim</m> dans<lb/>
 

@@ -1,11 +1,11 @@
-<root>
-<page>019v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="019v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f44.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f44.image</image>
 
-<div>
 
-<id>p019v_1</id>
+
+<div id="p019v_1">
+
+
 
 <head>Figures de mathematique sans<lb/>
 
@@ -44,35 +44,35 @@ tu as<lb/>
 
 trassee C est celle qui simprime
 
-<figure>
+<figure id="fig_p019v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SUUzLXQ4UVlGR1U">
 
-<id>fig_p019v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SUUzLXQ4UVlGR1U</link>
 
-</figure>
 
-<figure>
-
-<id>fig_p019v_2</id>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5cy0tdXF5MGJTLU0</link>
 
 </figure>
 
-<figure>
+<figure id="fig_p019v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5cy0tdXF5MGJTLU0">
 
-<id>fig_p019v_3</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5R0VMdFQ3VC1lQmM</link>
+
+
 
 </figure>
 
-<figure>
+<figure id="fig_p019v_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5R0VMdFQ3VC1lQmM">
 
-<id>fig_p019v_4</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5TGJOZGVvTmV1LW8</link>
+
+
+
+</figure>
+
+<figure id="fig_p019v_4" link="https://drive.google.com/open?id=0B9-oNrvWdlO5TGJOZGVvTmV1LW8">
+
+
+
+
 
 </figure>
 
@@ -80,9 +80,9 @@ trassee C est celle qui simprime
 
 </div>
 
-<div>
+<div id="p019v_2">
 
-<id>p019v_2</id>
+
 
 <head>P Pour escripre a gaulche aussi<lb/>
 
@@ -103,9 +103,9 @@ pose sur ton<lb/>
 
 </div>
 
-<div>
+<div id="p019v_3">
 
-<id>p019v_3</id>
+
 
 <head><md>Clisteres</md></head>
 

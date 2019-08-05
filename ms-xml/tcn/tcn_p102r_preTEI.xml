@@ -1,11 +1,11 @@
-<root>
-<page>102r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="102r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f209.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f209.image</image>
 
-<div>
 
-<id>p102r_1</id>
+
+<div id="p102r_1">
+
+
 
 <head>Provisions pour l’œuvre de Colchos</head>
 
@@ -32,9 +32,9 @@ Un payre de petits <tl>ciseaulx</tl></ab>
 
 </div>
 
-<div>
+<div id="p102r_2">
 
-<id>p102r_2</id>
+
 
 <head>Pour le <tl>four</tl></head>
 
@@ -56,11 +56,11 @@ Un <tl>fusil</tl></ab>
 
 </div>
 
-<div>
+<div id="p102r_3">
 
-<id>p102r_3</id>
 
-<head><m>Ciment royal</m><comment>c_102r_02</comment></head>
+
+<head><m>Ciment royal</m><comment rid="c_102r_02"/></head>
 
 <ab>Une <ms>lb. &amp; demye</ms> de <m>vitriol</m><lb/>
 
@@ -70,9 +70,9 @@ Aultant d’<m>alum de roche</m></ab>
 
 </div>
 
-<div>
+<div id="p102r_4">
 
-<id>p102r_4</id>
+
 
 <head><tl>Vaisseaulx de <m>verre</m></tl></head>
 
@@ -90,13 +90,13 @@ haulteur<lb/>
 
 de sept <ms>travers de <bp>doigt</bp></ms>.
 
-<figure>
+<figure id="fig_p102r_1" margin="bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MVhNYTRzOXJzR2M">
 
-<id>fig_p102r_1</id>
 
-<margin>bottom</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5MVhNYTRzOXJzR2M</link>
+
+
+
 
 </figure>
 

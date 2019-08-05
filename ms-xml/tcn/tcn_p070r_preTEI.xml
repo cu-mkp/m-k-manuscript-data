@@ -1,19 +1,19 @@
-<root>
-<page>070r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="070r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f145.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f145.image</image>
 
-<div>
 
-<cont/>
 
-<id>p069r_2</id>
+<div continues="yes" id="p069r_2" continued="yes">
+
+
+
+
 
 <ab>Quand tu as moulé, il est bon de recuire ta forme sur la<lb/>
 
 fumée de la matiere que tu fonds, pource que le gect s’empraint<lb/>
 
-de la qualité d<del>e</del>u<comment>c_070r_03</comment> <m>metal</m>, qui court aprés
+de la qualité d<del>e</del>u<comment rid="c_070r_03"/> <m>metal</m>, qui court aprés
 plus ayseme<exp>nt</exp> en chose<lb/>
 
 qui tient de luy.</ab>
@@ -64,7 +64,7 @@ mays qu’il<lb/>
 
 soict gecté fort chault.</ab>
 
-<ab>Le <m>cuivre</m> vient bien meslé d’un peu de <m>metal.</m><comment>c_016v_05</comment> Mays si
+<ab>Le <m>cuivre</m> vient bien meslé d’un peu de <m>metal.</m><comment rid="c_016v_05"/> Mays si
 tu mesles<lb/>
 
 du <m>metal</m> parmy le <m>laicton</m>, il sera encores plus aigre
@@ -86,8 +86,8 @@ double</tl> &amp;<lb/>
 
 subtil &amp; on en moule.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Le <m>cuivre</m> ou <m>letton</m><lb/>
 
 ne peult pas venir<lb/>
@@ -102,8 +102,8 @@ ne l’a, donne luy<lb/>
 
 en avecq de la <m>cire</m>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 Aulcuns gectent<lb/>
 
@@ -115,8 +115,8 @@ du revers de la<lb/>
 
 medaille.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 Aulcuns,<lb/>
 
@@ -146,8 +146,8 @@ reparer<lb/>
 
 l’ouvraige.</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
+
 
 On mect bien<lb/>
 
@@ -171,7 +171,7 @@ aultour de<lb/>
 
 l’ouvraige.</ab>
 
-<cont/>
+
 
 </div>
 </root>

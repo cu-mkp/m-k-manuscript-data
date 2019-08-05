@@ -1,12 +1,12 @@
-<root>
-<page>054r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="054r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f113.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f113.image</image>
 
-<div>
 
-<cont/>
-<id>p053v_1</id>
+
+<div continues="yes" id="p053v_1">
+
+
+
 
 <ab>sur quelques <tl>tables haultes</tl>, &amp; à cella cognoist on
 quand elles veulent<lb/>
@@ -83,13 +83,13 @@ filent parmy la fœille &amp; y font<lb/>
 
 leur coquon sans monter hault.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 La <m>soye</m> des<lb/>
 
-coquons où il y a<comment>c_054r_01</comment></ab>
+coquons où il y a<comment rid="c_054r_01"/></ab>
 
 </div>
 </root>

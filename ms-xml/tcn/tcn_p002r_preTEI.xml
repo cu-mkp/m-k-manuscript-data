@@ -1,11 +1,11 @@
-<root>
-<page>002r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="002r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f9.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f9.image</image>
 
-<div>
 
-<id>p002r_1</id>
+
+<div id="p002r_1">
+
+
 
 <head>Livres à recouvrer</head>
 
@@ -28,9 +28,9 @@ Philippes de Commines.<hr/></ab>
 </div>
 
 
-<div>
+<div id="p002r_2">
 
-<id>p002r_2</id>
+
 
 <head><md>Contre douleurs</md></head>
 

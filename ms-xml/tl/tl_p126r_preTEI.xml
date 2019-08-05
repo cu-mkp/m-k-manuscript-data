@@ -1,11 +1,11 @@
-<root>
-<page>126r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="126r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f257.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f257.item</image>
 
-<div>
 
-<id>p126r_1</id>
+
+<div id="p126r_1">
+
+
 
 <head>Molding fruits and animals in <m>sugar</m></head>
 
@@ -41,9 +41,9 @@ hollow, which you could not do if the bunch does not have close
 <pa>grapes</pa> &amp; <del><tl>molds</tl></del> without having them
 scattered &amp; spread apart.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 To cast <pa>pears</pa> &amp; <pa>apples</pa> in <m>sugar</m>, one ought
 not to make any gates, but rather, fill one half of the <tl>mold</tl> and
@@ -51,9 +51,9 @@ then join the two, and keep turning it until the <m>sugar</m> has set
 and is cold. One ought to mix nothing in the <tl>mold</tl> apart from
 <m>plaster</m>, reheated as you know.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>+</mark>
 
@@ -61,9 +61,9 @@ One needs for the <tl>mold</tl> to have soaked <ms>one <tmp>day</tmp>
 and one <tmp>night</tmp></ms> in <m>cold water</m> <del>for</del>, and
 to be humid, when you cast in <m>sugar</m>.</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 The sign that the <m>syrup</m> or the <m>sugar melted in water</m> is sufficiently
 cooked to cast fruits, is when it makes threads when shaken. And

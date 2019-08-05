@@ -1,11 +1,11 @@
-<root>
-<page>064v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="064v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f134.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f134.image</image>
 
-<div>
 
-<id>p064v_1</id>
+
+<div id="p064v_1">
+
+
 
 <head>Apprenticeship of the <pro>painter</pro></head>
 
@@ -18,33 +18,33 @@ Once he knows how to draw, one teaches him how to layer colors.</ab>
 
 <ab>One also presents him with these strokes &amp; lines.</ab>
 
-<ab><del><fr>C</fr></del>The<comment>c_064v_06</comment> figure of the <m>egg</m> is the
+<ab><del><fr>C</fr></del>The<comment rid="c_064v_06"/> figure of the <m>egg</m> is the
 main pattern for faces <add>and for bent bodies</add>, as the cross is
-the model for a straight &amp; whole figure.<comment>c_064v_01</comment>
+the model for a straight &amp; whole figure.<comment rid="c_064v_01"/>
 Without these strokes you will never do well.</ab>
 
-<figure>
+<figure id="fig_p064v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NmZDTmZwc1Jqb2M">
 
-<id>fig_p064v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5NmZDTmZwc1Jqb2M</link>
+
+
 
 </figure>
 
 </div>
 
-<div>
+<div id="p064v_3">
 
-<id>p064v_3</id>
+
 
 <head>Softening</head>
 
 <ab>To soften well, one ought not to layer the colors thickly, but
 rather layer them twice, if it is not <m><fr>azur d’esmail</fr></m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 All colors that have no body in <m>oil</m> have none in
 <m>distemper</m>, <del>and</del> but in <m>distemper</m> they sink to
@@ -54,9 +54,9 @@ recognized when they take on the <tl>palette</tl> once tempered in
 
 </div>
 
-<div>
+<div id="p064v_4">
 
-<id>p064v_4</id>
+
 
 <head>Straight lines</head>
 
@@ -67,9 +67,9 @@ well.</ab>
 
 </div>
 
-<div>
+<div id="p064v_5">
 
-<id>p064v_5</id>
+
 
 <head><m>Distemper</m></head>
 

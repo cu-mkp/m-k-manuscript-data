@@ -1,13 +1,13 @@
-<root>
-<page>151v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="151v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f308.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f308.image</image>
 
-<div>
 
-<cont/>
 
-<id>p150v_1</id>
+<div continues="yes" id="p150v_1">
+
+
+
+
 
 <ab>touteffoys ne l’oste pas que tu n’ayes du tout reparé la<lb/>
 
@@ -71,24 +71,24 @@ deulx pieces pour les reparer, avecq des <tl>ciselets</tl>, de
 <tl>petits<lb/>
 
 portes pieces</tl>, de <tl>petites
-couges</tl><comment>c_151v_01</comment>, &amp; des <tl>ciselets
+couges</tl><comment rid="c_151v_01"/>, &amp; des <tl>ciselets
 cranés</tl>.</ab>
 
-<figure>
+<figure id="fig_p151v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bk1US2QxRTVwa2s">
 
-<id>fig_p151v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5bk1US2QxRTVwa2s</link>
+
+
+
 
 </figure>
 
 </div>
 
-<div>
+<div id="p151v_1">
 
-<id>p151v_1</id>
+
 
 <head><m>Huile de <pa>froment</pa></m></head>
 
@@ -117,7 +117,7 @@ sur le <m>fer</m> pour aprés y graver, pour <m>vernir</m> en tané des
 d’<wp>espées</wp>. Et pourroit bien servir aulx <pro>faiseurs de <m>cuir
 doré</m></pro>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Il en fault user<lb/>
 
@@ -129,7 +129,7 @@ mouler, il ne veult pas estre si<lb/>
 
 espés que pour le tainct.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Il n’est pas<lb/>
 
