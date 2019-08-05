@@ -6,9 +6,9 @@ start =
   
   ## Root element for transcription of folio
   element root {
+    attribute page { xsd:NMTOKEN },
+    attribute image { xsd:anyURI },
     mixed {
-      element page { xsd:NMTOKEN },
-      element image { xsd:anyURI },
       (# <text/>
        e.ab
        | e.figure
@@ -26,7 +26,10 @@ start =
 # ab
 
 ## Anonymous Block: a generic block of text
-e.ab = element ab { e.cont?, e.margin?, e.render?, m.phrase, e.cont? }
+e.ab =
+  element ab {
+    a.continued?, a.continues?, a.margin?, a.render?, m.phrase
+  }
 # div
 
 ## Text Division: A group of one or more document objects forming a primary textual component; e.g., an "entry" or "recipe"
@@ -41,9 +44,9 @@ e.div =
         "\x{a}" ~
         "        "
         s:assert [
-          test = "child::id"
+          test = "@id"
           " \x{a}" ~
-          "         Warning: div without an id"
+          "         Warning: div without an id attribute"
         ]
         "\x{a}" ~
         "      "
@@ -53,22 +56,22 @@ e.div =
     ]
   ]
   element div {
-    e.cont?,
-    e.id?,
-    e.margin?,
+    a.continued?,
+    a.continues?,
+    a.id?,
+    a.margin?,
     e.head?,
-    (text | e.ab | e.figure | m.phrase)+,
-    e.cont?
+    (text | e.ab | e.figure | m.phrase)+
   }
 # figure
 
 ## Figure: a graphical object in the source document
 e.figure =
   element figure {
-    e.id?,
-    e.margin?,
-    e.render?,
-    element link { xsd:anyURI }?,
+    a.id?,
+    a.margin?,
+    a.render?,
+    attribute link { xsd:anyURI }?,
     (m.phrase
      | element caption { (text | m.phrase)+ })+
   }
@@ -79,7 +82,7 @@ e.mark = element mark { xsd:string }
 # head
 
 ## Heading: a block of text at the beginning of a textual division functioning as the heading or title of that division. TEI Element
-e.head = element head { e.margin?, m.phrase }
+e.head = element head { a.margin?, m.phrase }
 
 ## Horizontal rule
 e.hr = element hr { empty }
@@ -143,19 +146,19 @@ e.superscript = element superscript { m.phrase }
 e.ups = element ups { m.phrase }
 #
 
-# ATTR-LIKE ELEMENTS
+# ATTRIBUTES
 
 #
 
 # id
 
 ## Identifier: A unique identifier for its parent element 
-e.id = element id { xsd:NMTOKEN }
+a.id = attribute id { xsd:NMTOKEN }
 # margin
 
 ## Margin (position): the location in the margin at which the parent element appears in the source document. Valid values are: "right-top", "right-middle", "right-bottom", "left-top", "left-middle", "left-bottom", "top", and "bottom"
-e.margin =
-  element margin {
+a.margin =
+  attribute margin {
     ("left-top"
      | "left-middle"
      | "left-bottom"
@@ -168,11 +171,15 @@ e.margin =
 # render
 
 ## Margin rendition: Instructions to cue the proper rendition of the height and width  a margin block. Valid values are: "tall", "wide", and "extra-wide"
-e.render = element render { ("tall" | "wide" | "extra-wide")? }
-# cont
+a.render = attribute render { ("tall" | "wide" | "extra-wide")? }
+# continues
 
-## cont (continues): An empty element indicating that the parent block is continued on another page or continues from another page 
-e.cont = element cont { empty }
+## cont (continues): An attribute indicating the parent block continues from another page 
+a.continues = attribute continues { "yes" }
+# continued
+
+## cont (continued): An attribute indicating that the parent block is continued on another page
+a.continued = attribute continued { "yes" }
 #
 
 # LANGUAGE ELEMENTS
@@ -286,7 +293,10 @@ e.wp = element wp { m.phrase }
 ## Definition:
 e.df = element df { m.phrase }
 # comment
-e.comment = element comment { xsd:string }
+e.comment =
+  element comment {
+    attribute rid { xsd:string }
+  }
 # PHRASE MODEL
 
 # m.phrase
