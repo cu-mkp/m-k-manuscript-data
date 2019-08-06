@@ -1,26 +1,26 @@
-<root>
-<page>075r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="075r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f155.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f155.item</image>
 
-<div>
 
-<id>p075r_1</id>
+
+<div id="p075r_1">
+
+
 
 <head><m>Goume</m> Rouge</head>
 
 <ab>
 
 Prenes <m>sire Rouge</m> du <m>Vernilhon</m> &amp; ung petict de <m>poix
-<del>resins</del><comment>c_075r_01</comment> <add>resine</add></m><lb/>
+<del>resins</del><comment rid="c_075r_01"/> <add>resine</add></m><lb/>
 
 comme dessus</ab>
 
 </div>
 
-<div>
+<div id="p075r_2">
 
-<id>p075r_2</id>
+
 
 <head><m>Bronze</m> de <m>Cuyvre</m></head>
 
@@ -37,9 +37,9 @@ verches sur le <m>boys</m> &amp; le polisses aveq du <tl><m>cuyvre</m></tl></ab>
 
 </div>
 
-<div>
+<div id="p075r_3">
 
-<id>p075r_3</id>
+
 
 <head><m>Bronze</m> Comme <m>Estaing</m></head>
 
@@ -50,7 +50,7 @@ faictes fondre L<m>estaing de Glace</m> dedans ung <tl>pot</tl> neuf
 et<lb/>
 
 difiant <add>deslors</add> quil soit tout fondu
-mectes le <m>vi<del>t</del><add>f</add>
+mectes le <m>vi<del>t</del>f<comment rid="c_075r_02"/>
 <del>aiant</del><add>argent</add></m> dedans &amp;<lb/>
 
 lostes du fœu &amp; laisses secher lad<exp>icte</exp> <m>colle</m> puys
@@ -66,9 +66,9 @@ morceau d<tl><m>estaing</m></tl></ab>
 
 </div>
 
-<div>
+<div id="p075r_4">
 
-<id>p075r_4</id>
+
 
 <head>Pour faire <m>Eaue fort</m></head>
 
@@ -84,9 +84,9 @@ mectes ensemble dans une <tl>fiolle de <m>voyrre</m></tl></ab>
 
 </div>
 
-<div>
+<div id="p075r_5">
 
-<id>p075r_5</id>
+
 
 <head><m>Or Moulu</m></head>
 

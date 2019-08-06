@@ -1,14 +1,14 @@
-<root>
-<page>020r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="020r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f45.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f45.image</image>
 
-<div>
 
-<id>p020r_1</id>
 
-<head>Pour<comment>c_020r_01</comment> faire
-les <m><oc>Millas</oc></m></head><comment>c_020r_02</comment>
+<div id="p020r_1">
+
+
+
+<head>Pour<comment rid="c_020r_01"/> faire
+les <m><oc>Millas</oc></m></head><comment rid="c_020r_02"/>
 
 <ab>
 
@@ -25,7 +25,7 @@ ung <oc><tl>cedas</tl></oc> bien delie ce faict Il fault detremper la
 dung comme daultre</ms><lb/>
 
 de maniere quil soit fort clair comme <m>pate po<exp>ur</exp> faire
-bignetz</m> Et y<lb/><comment>c_020r_02</comment>
+bignetz</m> Et y<lb/><comment rid="c_020r_02"/>
 
 mettres des <m>Jaulnes dœuf</m> selon la quantite de la <m>farine</m>
 de sorte<lb/>
@@ -34,7 +34,7 @@ quil revienne deux <m>Jaulnes deouf</m> po<exp>ur</exp> chaique
 <m><oc>millas</oc></m> puis y mettres<lb/>
 
 du <m><pa>safran</pa></m> si vous voules po<exp>ur</exp> leur donner ung
-peu de couleur</ab><comment>c_020r_02</comment>
+peu de couleur</ab><comment rid="c_020r_02"/>
 
 <ab>
 
@@ -80,9 +80,9 @@ faudra quil soit dur</ab>
 
 </div>
 
-<div>
+<div id="p020r_2">
 
-<id>p020r_2</id>
+
 
 <head><pro>Vitrier</pro></head>
 
@@ -111,7 +111,7 @@ vent a <ms>lien</ms> &amp;<lb/>
 
 a chasque <ms><df>lien</df></ms> il y a trois <ms>tables</ms> le
 <ms>lien</ms> coste co<exp>mmun</exp>ement x
-<cn>s<exp>ous</exp></cn><lb/>
+<cn>s<exp>ols</exp></cn><lb/>
 
 Le <m>verre de plat</m> se <del>vent en</del> faict en <pl>France</pl>
 il est plus blanc &amp; plus clair<lb/>
@@ -127,9 +127,9 @@ peuvent bonnem<exp>ent</exp><lb/>
 
 bien assoir uniment</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Le <m>verre de plat</m><lb/>
 
@@ -137,7 +137,7 @@ se vent a <ms>paniers</ms><lb/>
 
 Le <ms><df>panier</df></ms> contient<lb/>
 
-24<comment>c_020r_03</comment> <ms>plats</ms> qui se<lb/>
+24<comment rid="c_020r_03"/> <ms>plats</ms> qui se<lb/>
 
 vendent communem<exp>ent</exp><lb/>
 

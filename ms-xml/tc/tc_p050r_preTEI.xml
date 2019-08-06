@@ -1,15 +1,15 @@
-<root>
-<page>050r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="050r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f105.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f105.image</image>
 
-<div>
 
-<id>p050r_1</id>
+
+<div id="p050r_1">
+
+
 
 <head>Garder fruict <tmp>tout lan</tmp></head>
 
-<ab>R<exp>ecipe</exp> une <tl>ampoule de <m>verre</m></tl> capable a
+<ab>℞ une <tl>ampoule de <m>verre</m></tl> capable a
 louverture de recepvoir<lb/>
 
 des <pa>cerises</pa> et <pa>prunes</pa> ou selon le fruit que vous
@@ -72,9 +72,9 @@ fault que l<m>eau</m> soit co<exp>mm</exp>e l<m>eau de riviere</m></ab>
 
 </div>
 
-<div>
+<div id="p050r_2">
 
-<id>p050r_2</id>
+
 
 <head>Mouler</head>
 
@@ -110,9 +110,9 @@ brusler te rendre ton pourtraict nect que tu pourras apres<lb/>
 mouler en <m>plastre</m> ou <m>tripoly</m> et puys en <m>plomb</m> &amp;
 aultre <m>metal</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Le <tl><m>carton</m></tl> poly<lb/>
 

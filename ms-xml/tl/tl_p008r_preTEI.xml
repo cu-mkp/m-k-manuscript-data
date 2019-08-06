@@ -1,11 +1,11 @@
-<root>
-<page>008r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="008r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f21.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f21.image</image>
 
-<div>
 
-<id>p008r_1</id>
+
+<div id="p008r_1">
+
+
 
 <head>Lettering of <m>gold</m> on <m>paper</m></head>
 
@@ -15,12 +15,12 @@ little, next lay the <m>gold leaf</m>, &amp; once quite dry, rub with a
 
 </div>
 
-<div>
+<div id="p008r_2">
 
-<id>p008r_2</id>
+
 
 <head>For bursting <wp>grenades</wp> and giving force to
-<wp>fireworks</wp><comment>c_008r_01</comment></head>
+<wp>fireworks</wp><comment rid="c_008r_01"/></head>
 
 <ab>Put among the <m>powder</m> <del><ms>six times as much</ms> of
 <m>quicksilver</m></del> <del>and</del> <ms>a sixth part</ms> of
@@ -28,15 +28,15 @@ little, next lay the <m>gold leaf</m>, &amp; once quite dry, rub with a
 
 </div>
 
-<div>
+<div id="p008r_3">
 
-<id>p008r_3</id>
+
 
 <head>Tempering of balls for piercing armor of
-proof<comment>c_008r_02</comment></head>
+proof<comment rid="c_008r_02"/></head>
 
 <ab>Heat the <m>lead</m> ball as much as you can without melting it, and
-when it will be very hot, temper<comment>c_008r_03</comment> it in the
+when it will be very hot, temper<comment rid="c_008r_03"/> it in the
 <m>strongest vinegar</m> that you can. And do this four or five times.
 Next, chop some <m>lard</m> very small &amp; some <m>linen</m> also very
 finely, mix all together &amp; use it as <m>wadding</m>, and by a little force
@@ -46,15 +46,15 @@ the ball is hot.</ab>
 
 </div>
 
-<div>
+<div id="p008r_4">
 
-<id>p008r_4</id>
+
 
 <head>For making a breach in a <env>wall</env> <tmp>by
 night</tmp></head>
 
 <ab>Having made a hole in the <env>wall</env> as you know, put a
-petard<comment>c_008r_04</comment> inside, charged with <m>powder</m>,
+petard<comment rid="c_008r_04"/> inside, charged with <m>powder</m>,
 which should be as if lying down, &amp; the other upright, then plug the
 hole &amp; give fire.</ab>
 

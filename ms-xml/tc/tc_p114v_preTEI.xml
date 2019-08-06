@@ -1,21 +1,21 @@
-<root>
-<page>114v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="114v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f234.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f234.image</image>
 
-<div>
 
-<cont/>
 
-<id>p114r_1</id>
+<div continues="yes" id="p114r_1">
 
-<figure>
 
-<id>fig_p114v_1</id>
 
-<margin>left-top</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dmlRQm1lTjc4aXc</link>
+
+<figure id="fig_p114v_1" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dmlRQm1lTjc4aXc">
+
+
+
+
+
+
 
 </figure>
 
@@ -28,7 +28,7 @@ cercle de mesme aultour<lb/>
 &amp; fais la marque de lespesseur semblable a la premiere<lb/>
 
 puys avecq un aultre <tl>pinceau</tl> asses
-grosset<comment>c_114v_01</comment> mouille bien<lb/>
+grosset<comment rid="c_114v_01"/> mouille bien<lb/>
 
 par tout la moictie <del>&amp; le ventre</del> descouverte de ton
 animal<lb/>
@@ -39,7 +39,7 @@ possible qui nen soict mouille<lb/>
 car cest le secret qui faict venir net Et apres le plus<lb/>
 
 promptement quil te sera possible devant que l<m>eau de
-viye</m><comment>c_114v_02</comment><lb/>
+viye</m><comment rid="c_114v_02"/><lb/>
 
 <del>ne</del> sesvapore destrempe ton <m>sable</m> et le gecte a secousses<lb/>
 
@@ -107,19 +107,19 @@ essorer<lb/>
 car il se garderont humides bien un <ms><tmp>moys</tmp></ms> fais les
 souspirails a une moictie
 
-<figure>
+<figure id="fig_p114v_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dkk3MW10YzNIbDg">
 
-<id>fig_p114v_3</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dkk3MW10YzNIbDg</link>
 
-</figure>
+
+
+</figure><comment rid="c_114v_01"/>
 
 </ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 <mark>+</mark>
 
@@ -143,9 +143,9 @@ louvrir co<exp>mm</exp>e pour les<lb/>
 
 <al>chancres</al></ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Si apres que les deulx<lb/>
 
@@ -167,9 +167,9 @@ imbeue se retire a la superficie<lb/>
 &amp; adroit les joinctures &amp; les<lb/>
 faict separer</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Toutesfois advise<lb/>
 
@@ -223,25 +223,25 @@ joincts le &amp; par le<lb/>
 
 revers fortifie les joinctures avecq des <tl>crampons</tl>
 
-<figure>
+<figure id="fig_p114v_4" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NmZxVUxKTmhYSXM">
 
-<id>fig_p114v_4</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5NmZxVUxKTmhYSXM</link>
+
+
 
 </figure>
 
 </ab>
 
-<ab>
+<ab margin="bottom" continued="yes">
 
-<margin>bottom</margin>
+
 
 Apres tu peulx reparer les faultes<lb/>
 
 avecq de petits <tl>ciseaulx</tl>
 
-<cont/>
+
 
 </ab>
 

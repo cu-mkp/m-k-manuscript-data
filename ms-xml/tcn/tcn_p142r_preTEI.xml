@@ -1,13 +1,13 @@
-<root>
-<page>142r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="142r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f289.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f289.image</image>
 
-<div>
 
-<cont/>
 
-<id>p141r_1</id>
+<div continues="yes" id="p141r_1">
+
+
+
+
 
 <ab>ne se descouvrent pas tant. Mays pource que
 l’<al>escrevisse</al><lb/>
@@ -71,7 +71,7 @@ l’<al>escrevisse</al>, car il fault fort recuire &amp; le
 <m><la>crocum</la></m> soubstient<lb/>
 
 merveilleusem<exp>ent</exp>. Mouler un <al>chancre</al> &amp; une
-<al>escrevisse</al>, c’est<comment>c_142r_01</comment><lb/>
+<al>escrevisse</al>, c’est<comment rid="c_142r_01"/><lb/>
 
 tout un. Quand tu as descouvert ton <al>escrevisse</al> d’un<lb/>
 
@@ -93,18 +93,18 @@ bruslée, tu ne <del>despoui</del> pourrois pas ouvrir ton
 
 sans rompre.</ab>
 
-<ab>
+<ab margin="top" render="wide">
 
-<margin>top</margin>
 
-<render>wide</render>
+
+
 
 Repare avecq <tl>trancheplumes</tl>, <tl>l<del><ill/></del>imes</tl>,
-<tl>petites chaples</tl>, <tl>burins</tl> &amp;<sup>c.</sup></ab>
+<tl>petites chaples</tl>, <tl>burins</tl> &amp;<corr>c</corr>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 fais leur tout<lb/>
 
@@ -122,19 +122,19 @@ trois d’où tu feras<lb/>
 
 le principal gect.</ab>
 
-<figure>
+<figure id="fig_p142r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Qkh2MDhvUkFnUW8">
 
-<id>fig_p142r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Qkh2MDhvUkFnUW8</link>
+
+
+
 
 </figure>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Fais gect de <m>cire</m><lb/>
 
@@ -176,9 +176,9 @@ grosses pates ou à<lb/>
 
 quelque aultre endroit qui reçoive force <m>metal</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Ayant descouvert,<lb/>
 

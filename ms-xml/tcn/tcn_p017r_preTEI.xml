@@ -1,11 +1,11 @@
-<root>
-<page>017r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="017r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f39.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f39.image</image>
 
-<div>
 
-<id>p017r_1</id>
+
+<div id="p017r_1" continued="yes">
+
+
 
 <head>Du <pro>canonier</pro></head>
 
@@ -105,12 +105,12 @@ mesure ilz se trouveront<lb/>
 plus longs. Mays aussy ilz seroient plus tanvres. L<del>e</del>a
 <del>grand</del><lb/>
 
-<del>cano</del> force du <wp>canon perrier</wp> pour faire batterie est de 4xx<comment>c_017v_02</comment>
+<del>cano</del> force du <wp>canon perrier</wp> pour faire batterie est de 4xx<comment rid="c_017v_02"/>
 <ms>pas</ms>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Le <wp><add>grand</add> canon</wp>, à cause<lb/>
 
@@ -128,9 +128,9 @@ faire bon, co<exp>mmun</exp>em<exp>ent</exp>, il<lb/>
 
 faict iii bons.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Le <wp>canon perrier</wp><lb/>
 
@@ -140,9 +140,9 @@ portée sinon de<lb/>
 
 pres.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 On cognoist la bonne<lb/>
 
@@ -166,7 +166,7 @@ de <m>rosette</m>. Sinon<lb/>
 
 elles ne sont que de<lb/>
 
-<m>metal</m>,<comment>c_016v_05</comment> qui se demo<exp>n</exp>stre<lb/>
+<m>metal</m>,<comment rid="c_016v_05"/> qui se demo<exp>n</exp>stre<lb/>
 
 blanchastre. Si<lb/>
 
@@ -176,9 +176,9 @@ font ceste monstre,<lb/>
 
 racle &amp; tu verras.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 La bonne ligue de<lb/>
 
@@ -200,9 +200,9 @@ xv <ms><cn>lb</cn></ms> &amp; la <m>rosette fine</m><lb/>
 
 xv ou xvi.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Le <ms><df>pan de <pl>Montpellier</pl></df></ms><lb/>
 
@@ -214,18 +214,18 @@ en emporte deulx<lb/>
 
 commungs.</ab>
 
-<ab>
+<ab margin="left-bottom" render="wide">
 
-<margin>left-bottom</margin>
 
-<render>wide</render>
+
+
 
 Il fault, pour bien <del>un</del> pointer une <wp>piece</wp>, qu’elle soict aussy
 haulte du bort de la gueule que la<lb/>
 
 culasse. Aultrement, on ne pointe pas bien.</ab>
 
-<cont/>
+
 
 </div>
 </root>

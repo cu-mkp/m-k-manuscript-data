@@ -1,13 +1,13 @@
-<root>
-<page>086r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="086r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f177.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f177.image</image>
 
-<div>
 
-<cont/>
 
-<id>p085v_4</id>
+<div continues="yes" id="p085v_4" continued="yes">
+
+
+
+
 
 <ab>with the <m>substance of a skillet</m> mixed with a knob that is
 <m>potin</m>. And before that, I had so reheated my molded
@@ -52,14 +52,14 @@ possible in large quantities of substance, which contain more heat than
 small quantities. It is necessary that the <tl>frame</tl> be cold, &amp;
 that you cast all at once. Always <m><tl>lute</tl></m> the entrance of your
 <tl>frame</tl>, for the <m>metal</m>, touching <m>iron</m> or
-<m><fr>metal</fr></m>,<comment>c_016v_05</comment> </ab>
+<m><fr>metal</fr></m>,<comment rid="c_016v_05"/> </ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 This <m>bone</m> wants to be well <tl>pestled</tl> in a <tl>mortar</tl>, and does
 not want be reheated because it crumbles.</ab>
 
-<cont/>
+
 
 </div>
 </root>

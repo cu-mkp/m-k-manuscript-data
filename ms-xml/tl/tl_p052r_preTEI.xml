@@ -1,12 +1,11 @@
-<root>
-<page>052r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="052r" image="http:/ /gallica.bnf.fr/ark:/12148/btv1b10500001g/f109.item">
 
-<image>http:/
-    /gallica.bnf.fr/ark:/12148/btv1b10500001g/f109.item</image>
 
-<div>
 
-<id>p052r_1</id>
+
+<div id="p052r_1" continued="yes">
+
+
 
 <head>The work done in <pl>Algiers</pl></head>
 
@@ -38,7 +37,7 @@ generation that there be air), put it &amp; bury it in the heat of the <m>dung</
 the neck, and leave it there until several <del><fr>f<ill/></fr></del>
 <al>worms</al> are engendered. And then remove the <tl>mattras</tl>
 &amp; do not bury it in the <m>dung</m> any longer, but only keep it
-placed on the hot<comment>c_052r_01</comment> layer of the <m>dung</m>
+placed on the hot<comment rid="c_052r_01"/><comment rid="c_052r_02"/> layer of the <m>dung</m>
 until all the <al>worms</al> will have eaten &amp; consumed one
 <del><fr>d</fr></del> another, bustling &amp; stirring, and only one
 remains. When this is the case you need to feed it <tmp>at regular
@@ -58,7 +57,7 @@ a ring of <m>charcoal</m> fire around the <tl>bottle</tl> one
 <m><tl>lute</tl></m> the <tl>bottle</tl> well in order that it does not
 exhale.</ab>
 
-<cont/>
+
 
 </div>
 </root>

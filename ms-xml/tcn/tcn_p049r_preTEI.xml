@@ -1,10 +1,10 @@
-<root>
-<page>049r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="049r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f103.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f103.image</image>
 
-<div>
-<id>p049r_1</id>
+
+
+<div id="p049r_1">
+
 <head>Gect de <m>plomb</m></head>
 
 <ab>Ceulx qui gectent ces petits ouvrages qui se vendent devant<lb/>
@@ -35,7 +35,7 @@ l’<m>estain</m>,<lb/>
 s’i faict bien <del>a les</del> au <m>plomb pur</m>. Ceulx qui font les
 gects<lb/>
 
-de <m>plomb</m> bien nects se servent de <tl>poinçons</tl>.<comment>c_049r_05</comment> Les
+de <m>plomb</m> bien nects se servent de <tl>poinçons</tl>.<comment rid="c_049r_05"/> Les
 <pro>pintiers</pro> gectent<lb/>
 
 en <tl>moulle de <m>cuivre</m></tl>. On dict qu’on faict prendre le
@@ -46,8 +46,8 @@ en <tl>moulle de <m>cuivre</m></tl>. On dict qu’on faict prendre le
 
 d’<m>estain</m>. L’<m>estain de glace</m> rend l’ouvrage plus fort.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <emph><pn>Poncet</pn></emph><lb/>
 
 Ils gectent de<lb/>
@@ -57,7 +57,7 @@ Ils gectent de<lb/>
 les <del><pro>pintiers</pro></del> <add><pro>vitriers</pro></add> se
 servent.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 Loppe de <m>fer</m><lb/>
 
 <m>Coquille de <del>fer</del> <al>huitre</al><lb/>
@@ -65,8 +65,8 @@ Loppe de <m>fer</m><lb/>
 calcinée</m>.</ab>
 
 </div>
-<div>
-<id>p049r_2</id>
+<div id="p049r_2">
+
 <head><m>Sable</m> pour gect de <m>plomb</m></head>
 
 <ab><m>Cendres de paille de <pa>seigle</pa></m> bien bouillie puys
@@ -78,8 +78,8 @@ sechée &amp; bien<lb/>
 et aultres.</ab>
 
 </div>
-<div>
-<id>p049r_3</id>
+<div id="p049r_3">
+
 <head>Aultre</head>
 
 <ab><m>Pierre ponce bruslée &amp; calcinée</m>. <m>Os de <al>seiche</al>
@@ -94,8 +94,8 @@ seichée &amp; subtillem<exp>ent</exp> <tl>tamisée</tl>, alié avecq
 <m>glaire d’œuf</m>.</ab>
 
 </div>
-<div>
-<id>p049r_4</id>
+<div id="p049r_4">
+
 <head><pro>Pintiers</pro></head>
 
 <ab>Ils mectent sur un <ms>quintal</ms> d’<m>estaim fin</m> une

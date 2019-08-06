@@ -1,15 +1,15 @@
-<root>
-<page>050r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="050r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f105.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f105.image</image>
 
-<div>
 
-<id>p050r_1</id>
+
+<div id="p050r_1">
+
+
 
 <head>Keeping fruit <tmp>for the entire year</tmp></head>
 
-<ab>Take a <tl><m>glass</m> ampul</tl> with an opening capable of
+<ab>℞ a <tl><m>glass</m> ampul</tl> with an opening capable of
 receiving <pa>cherries</pa> and <pa>plums</pa> or whatever fruit that
 you want. Put in some <m>hot water</m><tmp> for the space of two
 hours</tmp>. And when your <m>water</m> is cooled, throw it out &amp;
@@ -35,9 +35,9 @@ the <m>water of the <po>vat</po></m> would be too cold if the <env>cellar</env>
 is not quite warm, for one needs the <m>water</m> to be like <m>river
 water</m>.</ab></div>
 
-<div>
+<div id="p050r_2">
 
-<id>p050r_2</id>
+
 
 <head>Molding</head>
 
@@ -57,9 +57,9 @@ burning, will render your portrait neat, which you will afterward be able to
 mold in <m>plaster</m> or <m>tripoli</m>, and then in
 <m>lead</m> &amp; other <m>metal</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Polished <tl><m><fr>carton</fr></m></tl> of little thickness &amp; a little
 moistened is proper. Then if you want, strengthen it with

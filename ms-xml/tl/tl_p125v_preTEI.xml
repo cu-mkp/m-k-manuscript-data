@@ -1,10 +1,10 @@
-<root>
-<page>125v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="125v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f256.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f256.item</image>
 
-<div>
-<id>p125v_1</id>
+
+
+<div id="p125v_1">
+
 <head><al>Vipers</al> and <al>snakes</al></head>
 
 <ab>
@@ -22,8 +22,8 @@ strip of flesh that covers and clothes them. It also has, in the throat,
 a tube of flesh, made like a <al>dog</al>’s penis, from which comes its
 stinger. Other <al>snakes</al> have a double row of teeth.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 If you want <del>cut</del> <del>the</del> to mold the <al>snakes</al>
 the mouth open, you must cut off the head &amp; leave it inside, for
@@ -31,8 +31,8 @@ it will not be released.</ab>
 
 </div>
 
-<div>
-<id>p125v_2</id>
+<div id="p125v_2">
+
 <head>Molding <al>turtles</al></head>
 
 <ab>
@@ -41,12 +41,12 @@ It is a matter different from the casting of <al>snakes</al> &amp;
 plants and flowers, because the cavities that are between the two shells
 require several pieces. They are molded in <m>plaster</m> to be cast in
 <m>sugar</m> without making a gate like done for all things that you
-want.<comment>c_125r_06</comment></ab>
+want.<comment rid="c_125r_06"/></ab>
 
 </div>
 
-<div>
-<id>p125v_3</id>
+<div id="p125v_3">
+
 <head><m>Plaster</m> for casting in <m>wax</m></head>
 
 <ab>
@@ -68,9 +68,9 @@ release, there is as much of it in one half as in the other. Make also
 strong wide gates, close to the animal, in order that it is fortified
 when it is released, &amp; afterward you cut this off.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>+</mark> <m>Alabaster</m>, commonly called so, is nevertheless
 <m>plaster</m>, is very hard, but it shrinks a lot. It is very good to

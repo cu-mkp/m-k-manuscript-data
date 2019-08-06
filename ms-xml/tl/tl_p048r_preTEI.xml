@@ -1,19 +1,19 @@
-<root>
-<page>048r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="048r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f101.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f101.image</image>
 
-<div>
-<id>p048r_1</id>
+
+
+<div id="p048r_1">
+
 <head><pro>Founder</pro></head>
 
 <ab>The heating<lb/></ab>
 
-<figure>
+<figure id="fig_p048r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5YXhXTUJpMk44eTQ">
 
-<id>fig_p048r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5YXhXTUJpMk44eTQ</link>
+
+
 
 </figure>
 
@@ -22,11 +22,11 @@
 
 </div>
 
-<div>
-<id>p048r_2</id>
+<div id="p048r_2">
+
 <head><md>Curing <al>dogs</al> of mange</md></head>
 
-<ab>Give them a <m>pill of precipitate,</m><comment>c_048r_01</comment>
+<ab>Give them a <m>pill of precipitate,</m><comment rid="c_048r_01"/>
 that is to say iii or 4, or up to 5 <ms>grains</ms>, mixed with their
 <m>food</m>. Having given it to them for one <corr><del>one</del></corr>
 <ms><tmp>week</tmp></ms>, give them another seven or eight
@@ -34,8 +34,8 @@ that is to say iii or 4, or up to 5 <ms>grains</ms>, mixed with their
 
 </div>
 
-<div>
-<id>p048r_3</id>
+<div id="p048r_3">
+
 <head><m>Excellent <pa>mustard</pa></m></head>
 
 <ab>Dry <m>bread</m> in an <tl>oven</tl>, then lard it with
@@ -46,8 +46,8 @@ with your <m><pa>mustard</pa> seed</m>.</ab>
 
 </div>
 
-<div>
-<id>p048r_4</id>
+<div id="p048r_4">
+
 <head>Keeping <al>birds</al> and animals</head>
 
 <ab><del><fr>skin them</fr></del> Take a measurement of their body,

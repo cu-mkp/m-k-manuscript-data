@@ -1,14 +1,14 @@
-<root>
-<page>087r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="087r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f179.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f179.image</image>
 
-<div>
-<cont/>
 
-<id>p086v_1</id>
 
-<ab>In order to mold well, one ought in a big <tl>frame</tl> several
+<div continues="yes" id="p086v_1">
+
+
+
+
+<ab>In order to mold well, one ought to cast in a big <tl>frame</tl> several
 medals together, for when there is a lot of substance, &amp; the
 <tl><oc>crucible</oc></tl> is almost full, it heats more, &amp; then, if one
 medal does not come out well, the other will be good.</ab>
@@ -47,8 +47,8 @@ then they are enough.</ab>
 with some <m>fine casting sand</m>, if they can find any.<hr/></ab>
 
 </div>
-<div>
-<id>p087r_1</id>
+<div id="p087r_1">
+
 <head><m>Sand from <pl>Thoulouse</pl></m></head>
 
 <ab>The usual <del><fr>bo</fr></del> good one is <m>the one which is

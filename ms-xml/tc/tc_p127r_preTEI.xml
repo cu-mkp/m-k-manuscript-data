@@ -1,13 +1,13 @@
-<root>
-<page>127r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="127r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f259.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f259.image</image>
 
-<div>
 
-<cont/>
 
-<id>p126v_3</id>
+<div continues="yes" id="p126v_3">
+
+
+
+
 
 <ab>quelques filets tant pour contenir les herbes affin quelles<lb/>
 
@@ -63,8 +63,8 @@ faic<ups>t</ups><lb/>
 
 rompre &amp; subtilier estant calcines &amp; brusles</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 L<pa>asperge</pa> demeure<lb/>
 
 tousjours en <m>charbon</m><lb/>
@@ -82,8 +82,8 @@ tige est encores<lb/>
 tenvre</ab>
 
 </div>
-<div>
-<id>p127r_1</id>
+<div id="p127r_1">
+
 <head><tl>Moule de <m>plastre</m></tl> pour <m>cire</m></head>
 
 <ab>Quand ton <tl>moule de <m>plastre</m></tl> est faict &amp; sec
@@ -106,11 +106,11 @@ larges Ainsy &amp; que les gects ne soient point trop espes I<ups>l</ups><lb/>
 
 se font quand <del>lanimal est</del>
 
-<figure>
+<figure id="fig_p127r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ZFFkT3I4Vmx2em8">
 
-<id>fig_p127r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5ZFFkT3I4Vmx2em8</link>
+
+
 
 </figure> le <tl>moules</tl> des deulx costes<lb/>
 

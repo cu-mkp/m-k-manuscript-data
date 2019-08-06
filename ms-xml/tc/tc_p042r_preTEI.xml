@@ -1,10 +1,10 @@
-<root>
-<page>042r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="042r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f89.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f89.image</image>
 
-<div>
-<id>p042r_1</id>
+
+
+<div id="p042r_1">
+
 <head><pro>Fondeur</pro></head>
 
 <ab>Le <tl>moule de <m>terre</m></tl> se recuit jusques a estre quelque
@@ -20,8 +20,8 @@ recuit<lb/>
 
 </div>
 
-<div>
-<id>p042r_2</id>
+<div id="p042r_2">
+
 <head><m>Cire</m> a cachet et empraincte</head>
 
 <ab>Pour les grands seaulx de <m>cire</m> Il fault avoir de<lb/>
@@ -65,8 +65,8 @@ avecq <m>vinagre</m> Et tu auras bonne <tl>colle</tl>
 
 </div>
 
-<div>
-<id>p042r_3</id>
+<div id="p042r_3">
+
 <head>Pour gecter de <m>plastre</m></head>
 
 <ab>Fays fondre de la <m>cire</m> &amp; avecq une grosse

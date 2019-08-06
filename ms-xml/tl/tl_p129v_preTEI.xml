@@ -1,11 +1,11 @@
-<root>
-<page>129v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="129v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f264.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f264.item.r=</image>
 
-<div>
 
-<id>p129v_1</id>
+
+<div id="p129v_1">
+
+
 
 <head>Animals dried in the <tl>oven</tl> for <tmp>a long
 time</tmp></head>
@@ -19,11 +19,11 @@ has been taken out</ms>. And they always remain thus, as much for
 <al>snakes</al>, as <al>birds</al>, and other things. But, it is
 necessary that they be dried promptly.</ab>
 
-<ab>
+<ab margin="left-middle" render="tall">
 
-<margin>left-middle</margin>
 
-<render>tall</render>
+
+
 
 Note that one needs to give them their shape &amp; put them in the <m>sand</m>,
 as with flowers, &amp; promptly dry them in the <tl>oven</tl>, which is
@@ -38,9 +38,9 @@ with a <tl>brush</tl>.</ab>
 
 </div>
 
-<div>
+<div id="p129v_2">
 
-<id>p129v_2</id>
+
 
 <head>Animals cast in <m>copper</m></head>
 
@@ -50,9 +50,9 @@ similarly.</ab>
 
 </div>
 
-<div>
+<div id="p129v_3">
 
-<id>p129v_3</id>
+
 
 <head>Advice about casting</head>
 
@@ -63,18 +63,18 @@ into three or four parts like <bp>fingers</bp>, which are pointed, &amp;
 are not very deep. For the <m>metal</m> runs more gently, without being
 hindered by vapors &amp; fumes.</ab>
 
-<ab>
+<ab margin="right-middle">
 
-<margin>right-middle</margin>
+
 <hr/>
 Always make the entry of your gate near the medal notched &amp; lumpy,
 to draw out the fury of the <m>metal</m>.<hr/></ab>
 
 </div>
 
-<div>
+<div id="p129v_4">
 
-<id>p129v_4</id>
+
 
 <head><al>Spider</al> molded on a leaf</head>
 
@@ -102,15 +102,15 @@ Then fix, with a little <m>melted wax</m> and the <tl>point of a hot
 of <tl>small pincers</tl>. Do the same thing with the end of the
 spider’s small cornicles. Return<mark>🜊</mark></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<figure>
 
-<id>fig_p129v_1</id>
+<figure id="fig_p129v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Sk9tdno1ODBqdms">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Sk9tdno1ODBqdms</link>
+
+
+
 
 </figure>
 
@@ -122,9 +122,9 @@ wire</m></tl>, as you know. In this way, the leaf burning &amp; the
 <m>wax</m> having melted, there will remain two little holes in the leaf
 which will be the gate of the <al>spider</al>.</add></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>🜊</mark>
 

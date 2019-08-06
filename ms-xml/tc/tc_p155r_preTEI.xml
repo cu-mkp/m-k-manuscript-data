@@ -1,10 +1,10 @@
-<root>
-<page>155r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="155r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f315.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f315.item.r=</image>
 
-<div>
-<id>p155r_1</id>
+
+
+<div id="p155r_1">
+
 <head>Mouler une <pa>rose</pa></head>
 
 <ab>Pource que les branchetes <add>du <pa>rosier</pa></add> qui sont
@@ -84,18 +84,18 @@ est froid elle sesperd et sort avecq le vent ou quand<lb/>
 
 on retire l<bp>alheine</bp> a soy par le petit pertuis</ab>
 
-<figure>
+<figure id="fig_p155r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5b3lFZ18wbGducEk">
 
-<id>fig_p155r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5b3lFZ18wbGducEk</link>
+
+
+
 
 </figure>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Tu peulx bien<lb/>
 
 donner un peu<lb/>
@@ -130,8 +130,8 @@ pas assez de<lb/>
 
 force</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
+
 Je serois dadvis<lb/>
 
 de mouler la<lb/>
@@ -156,9 +156,9 @@ ha grand volume<lb/>
 
 &amp; poisant</ab>
 
-<ab><margin>bottom</margin>
+<ab margin="bottom">
 
-<comment>c_155r_01</comment>Mouille la <pa>rose</pa> d<m>eau de vye</m>
+<comment rid="c_155r_01"/>Mouille la <pa>rose</pa> d<m>eau de vye</m>
 plustost que la mectre dans<lb/>
 
 le <tl>cercle d<m>ardille</m></tl> Noublye pas d<m>huiler</m> le gect de

@@ -1,14 +1,14 @@
-<root>
-<page>119v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="119v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f244.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f244.image</image>
 
-<div>
 
-<id>p119v_1</id>
 
-<head>Fashion of preparing <del><fr>aspalt</fr></del>
-<add><de>spat</de></add><comment>c_108r_02</comment></head>
+<div id="p119v_1">
+
+
+
+<head>Fashion of preparing <del><fr>a spalt</fr></del><comment rid="c_119v_04"/>
+<add><de>spat</de></add><comment rid="c_108r_02"/></head>
 
 <ab>It is found in earth in <pl>Germany</pl>, the color of <m>cooked
 plaster</m>, made of long filaments, very soft to handle. And because it
@@ -39,17 +39,17 @@ aside the one that served for casting <m>lead</m> &amp; <m>tin</m> &amp;
 out of it well. And to do this better, you could put it aside to be used
 for each <m>metal</m>. </ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 See <la><pn>Gesnerus</pn>, De lapidibus</la>
 
 </ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 It endures ten or twelve castings without corrupting, it withstands the
 fire &amp; reddens, it is suitable for all <m>metals</m>. It is so
@@ -57,9 +57,9 @@ tenacious that should the <tl>frame</tl> be straked, it holds.
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 The <m><de>spat</de></m> almost does not set, even though it is reheated &amp; is
 a kind of <m>plaster</m>. Raw, it breaks easily with the
@@ -67,9 +67,9 @@ a kind of <m>plaster</m>. Raw, it breaks easily with the
 
 </div>
 
-<div>
+<div id="p119v_2">
 
-<id>p119v_2</id>
+
 
 <head>Excellent secret for molding hollow and very delicately in <m>fine
 gold</m></head>

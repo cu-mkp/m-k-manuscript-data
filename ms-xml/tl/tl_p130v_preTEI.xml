@@ -1,10 +1,10 @@
-<root>
-<page>130v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="130v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f266.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f266.item</image>
 
-<div>
-<id>p130v_1</id>
+
+
+<div id="p130v_1">
+
 <head>Molding a <al>crab</al></head>
 
 <ab>It is a secret and a masterpiece to mold it well, because one needs
@@ -15,7 +15,7 @@ or four times. And with all of this, it leaves a hard crust, grey like
 <m>ash</m>. But because it does not mold in one piece &amp; one cast,
 like plants, but rather in two casts like <al>snakes</al> that release
 well, one removes this crust, <add>not with <m>quicksilver</m>, which
-<emph>would do nothing</emph></add>,<comment>c_130v_01</comment> after it
+<emph>would do nothing</emph></add>,<comment rid="c_130v_01"/> after it
 has been opened, with the very fine point of a <tl>penknife</tl> with
 dexterity, as with the little crusts of the second cast, which enter in
 the nooks that the <m>sand</m> or the molded animal made. But,
@@ -28,26 +28,26 @@ legs, you would break everything. In this lies the dexterity. If you
 recognize, after having reheated &amp; opened it, that the crust is not
 burned enough, reheat until it does.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 It is painted like a <al>crayfish</al>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <del>Know that</del> <add>For</add> opening the <tl>mold</tl>, there is
 no need to soak it, for once reheated, it will open by itself.</ab>
 
 </div>
-<div>
-<id>p130v_2</id>
+<div id="p130v_2">
+
 <head><al>Stag beetle</al></head>
 
 <ab>It is as difficult to burn as a <al>crab</al>, therefore do for it
 as you did for the <al>crab</al>.</ab>
 
 </div>
-<div>
-<id>p130v_3</id>
+<div id="p130v_3">
+
 <head>For molding thin</head>
 
 <ab>After you have molded <fr>en noyau</fr> <del><fr>la</fr></del>

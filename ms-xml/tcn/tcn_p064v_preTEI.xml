@@ -1,11 +1,11 @@
-<root>
-<page>064v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="064v" image="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f134.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f134.item</image>
 
-<div>
 
-<id>p064v_1</id>
+
+<div id="p064v_1">
+
+
 
 <head>Aprentissaige du <pro>paintre</pro></head>
 
@@ -31,7 +31,7 @@ luy aprend<lb/>
 
 lignes.</ab>
 
-<ab><del>C</del> <add>L</add>a figure de l’<m>œuf</m> pour visaiges
+<ab><del>C</del>La<comment rid="c_064v_06"/> figure de l’<m>œuf</m> pour visaiges
 <add>et pour les corps pliés</add> est le principal<lb/>
 
 patron, <del>&amp; la croix</del> co<exp>mm</exp>e la croix est le
@@ -39,19 +39,19 @@ modelle du plant<lb/>
 
 droict &amp; entier. Sans ces traicts tu ne feras jamays bien.</ab>
 
-<figure>
+<figure id="fig_p064v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NmZDTmZwc1Jqb2M">
 
-<id>fig_p064v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5NmZDTmZwc1Jqb2M</link>
+
+
 
 </figure>
 
 </div>
 
-<div>
+<div id="p064v_3">
 
-<id>p064v_3</id>
+
 
 <head>Adoulcir</head>
 
@@ -61,9 +61,9 @@ espesses,<lb/>
 ains plustost les coucher à deulx fois, si ce n’est l’<m>azur
 d’esmail</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Toutes couleurs qui n’ont point de corps<lb/>
 
@@ -83,9 +83,9 @@ esta<exp>n</exp>t destrempées <lb/>
 
 </div>
 
-<div>
+<div id="p064v_4">
 
-<id>p064v_4</id>
+
 
 <head>Lignes droictes</head>
 
@@ -102,9 +102,9 @@ pas bien aussy le traict.</ab>
 
 </div>
 
-<div>
+<div id="p064v_5">
 
-<id>p064v_5</id>
+
 
 <head><m>Destrempe</m></head>
 

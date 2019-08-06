@@ -1,10 +1,10 @@
-<root>
-<page>159v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="159v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f324.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f324.item.r=</image>
 
-<div>
-<id>p159v_1</id>
+
+
+<div id="p159v_1">
+
 <head>Cleaning files</head>
 
 <ab>Sometimes they are fattened &amp; by means of the <m>grease</m>, the
@@ -14,8 +14,8 @@ charcoal</m></tl> or a <tl>wire brush made of <m>wires of
 latten.</m></tl></ab>
 
 </div>
-<div>
-<id>p159v_2</id>
+<div id="p159v_2">
+
 <head><pa>Carnation</pa></head>
 
 <ab>It is molded like the <pa>rose</pa>, <pa>marigold</pa>, &amp; all
@@ -24,19 +24,19 @@ the leaves, if you want, in two halves, joining them by <m>solder</m>
 for the most secure way, even if you could mold them together in a closed
 <tl>mold</tl>. I cast one that came out very well. But the <m>sand</m> needs to be very thin, &amp; blow strongly.</ab>
 
-<figure>
+<figure id="fig_p159v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5LXNkdWdBLXZ1RVk">
 
-<id>fig_p159v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5LXNkdWdBLXZ1RVk</link>
+
+
+
 
 </figure>
 
 </div>
-<div>
-<id>p159v_3</id>
+<div id="p159v_3">
+
 <head><tl>Molds</tl></head>
 
 <ab>Make the two sides so that they are, <del>es</del> if it is
@@ -48,15 +48,15 @@ are reheated one time, keep them scarcely at all without casting, for
 they are rendered musty &amp; moist, &amp; the <tl>mold</tl> is undone
 &amp; loses its strength.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 The part where the back of the animal is, is usually thicker.</ab>
 
 </div>
 
-<div>
-<id>p159v_4</id>
+<div id="p159v_4">
+
 <head><m>Plaster</m> alone</head>
 
 <ab>Reheated <m>stone plaster</m> <del>fears</del> is undone in
@@ -73,16 +73,16 @@ water</m>. And when it will have set &amp; will be well cooled, one
 needs to wet it sometimes in <m>cold water</m>, but if it refuses to
 open, in <m>hot water</m> &amp; sometimes in <m>boiling water</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Sometimes one even needs to make the <tl>mold</tl> boil in <m>hot
 water</m>, as when you have molded some <m>wax</m> that you fear would
 not be easily released from it.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 <m>Cold water</m> makes <m>oil</m> withdraw to the surface of the
 <m>plaster</m> that has sucked it in, &amp; thus it releases.</ab>

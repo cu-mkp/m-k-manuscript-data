@@ -1,19 +1,19 @@
-<root>
-<page>045r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="045r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f95.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f95.image</image>
 
-<div>
 
-<id>p045r_1</id>
+
+<div id="p045r_1">
+
+
 
 <head>Charger <wp>arquebus de dragée</wp></head>
 
-<figure>
+<figure id="fig_p045r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bkhmQklfNHJoRnc">
 
-<id>fig_p045r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5bkhmQklfNHJoRnc</link>
+
+
 
 </figure>
 
@@ -99,9 +99,9 @@ une<lb/>
 
 porte, corps de cuirasse et aultres.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <sup><mark>#</mark></sup> co<exp>mm</exp>e <del>D</del> H.
 

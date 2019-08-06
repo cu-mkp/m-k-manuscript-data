@@ -1,13 +1,13 @@
-<root>
-<page>106r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="106r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f217.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f217.image</image>
 
-<div>
-<id>p106r_1</id>
+
+
+<div id="p106r_1">
+
 <head>Pour gect</head>
 
-<ab>L<m>aspalte<comment>c_106r_03</comment> <del>est</del> qui se trouve en <pl>Allemaigne</pl></m>
+<ab>L<m>aspalte<comment rid="c_106r_03"/> <del>est</del> qui se trouve en <pl>Allemaigne</pl></m>
 est le plus <m>excellent<lb/>
 
 sable pour mouler en <tl>chassis</tl> qui se puisse trouver</m> Car il
@@ -20,9 +20,9 @@ il est meilleur On y moule fort tanvre &amp; subtil</ab>
 
 </div>
 
-<div>
-<id>p106r_2</id>
-<head><add>Faire courre l</add><m>Or</m> pour gect</head>
+<div id="p106r_2">
+
+<head><add>Faire courre l</add><m>Or</m> <add>pour gect</add></head>
 
 <ab>Pourceque l<m>or</m> se froidist bien tost il luy fault donner
 une<lb/>
@@ -105,9 +105,9 @@ endure le fœu<lb/>
 
 deulx fois &amp; deulx foix soict recuit</ab>
 
-<ab>
-<margin>left-middle</margin>
-<mark>+</mark><comment>c_106r_01</comment><lb/>
+<ab margin="left-middle">
+
+<mark>+</mark><comment rid="c_106r_01"/><lb/>
 
 Quand l<m>or</m><lb/>
 

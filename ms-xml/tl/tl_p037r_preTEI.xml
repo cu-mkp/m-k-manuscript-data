@@ -1,15 +1,15 @@
-<root>
-<page>037r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="037r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f79.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f79.image</image>
 
-<div>
 
-<id>p037r_1</id>
+
+<div id="p037r_1">
+
+
 
 <head><pro>Founder</pro></head>
 
-<ab>The <m><fr>metal</fr></m><comment>c_016v_05</comment> whitens the more it is melted, because the
+<ab>The <m><fr>metal</fr></m><comment rid="c_016v_05"/> whitens the more it is melted, because the
 <m>tin</m> does not go away but rather mixes in more. And, by holding it
 a <tmp>long time</tmp> in the fire, the <m>filth</m> is eaten away, which is what 
 makes it brittle. If you want to chase the <m>tin</m> from the
@@ -21,15 +21,15 @@ with a <tl>hammer</tl>.</ab>
 
 </div>
 
-<div>
+<div id="p037r_2">
 
-<id>p037r_2</id>
+
 
 <head><md>Medicine for the stomach which heats it</md> and <md>unstops the
 liver</md></head>
 
 <ab> <del>Take</del> Take <m><pa>wormwood</pa> powder</m>, dissolve it
-in <m><pa>capilli veneris</pa><comment>c_037r_01</comment> syrup</m> or <m>preserves</m>, &amp; make
+in <m><pa>capilli veneris</pa><comment rid="c_037r_01"/> syrup</m> or <m>preserves</m>, &amp; make
 with it an opiate of which you will take <ms><tmp>once a week</tmp></ms> on
 a <m>host soaked in wine</m>. Then you will be able to drink a
 <ms><bp>finger</bp></ms> of <m>sufficiently tempered wine</m>. This
@@ -40,9 +40,9 @@ the <bp>stomach</bp> without heating the <bp>liver</bp></md>.</ab>
 
 </div>
 
-<div>
+<div id="p037r_3">
 
-<id>p037r_3</id>
+
 
 <head><m>Foil backings for <del>the <ill/></del> gemstones</m></head>
 
@@ -51,9 +51,9 @@ or <m><fr>metal</fr></m></tl>, for this stains them, but in some box of</ab>
 
 </div>
 
-<div>
+<div id="p037r_4">
 
-<id>p037r_4</id>
+
 
 <head>For keeping <tl>candles</tl> from dripping and making them white</head>
 

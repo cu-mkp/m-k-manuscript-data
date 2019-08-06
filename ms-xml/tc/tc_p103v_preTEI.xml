@@ -1,11 +1,11 @@
-<root>
-<page>103v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="103v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f212.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f212.image</image>
 
-<div>
 
-<id>p103v_1</id>
+
+<div id="p103v_1">
+
+
 
 <head><md>Clistere</md></head>
 
@@ -26,9 +26,9 @@ on donne le <md>clistere</md></ab>
 
 </div>
 
-<div>
+<div id="p103v_2">
 
-<id>p103v_2</id>
+
 
 <head>Gect</head>
 
@@ -48,9 +48,9 @@ on couvre premierem<exp>ent</exp> la medaille de l<ms>espesseur dun<lb/>
 
 </div>
 
-<div>
+<div id="p103v_3">
 
-<id>p103v_3</id>
+
 
 <head>Pour fayre courre les<lb/>
 
@@ -72,9 +72,9 @@ courre</ab>
 
 </div>
 
-<div>
+<div id="p103v_4">
 
-<id>p103v_4</id>
+
 
 <head><m><bp>Suif doreille</bp></m></head>
 
@@ -89,9 +89,9 @@ dissipera</ab>
 
 </div>
 
-<div>
+<div id="p103v_5">
 
-<id>p103v_5</id>
+
 
 <head><m>Esmauls</m></head>
 

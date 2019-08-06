@@ -1,11 +1,11 @@
-<root>
-<page>041v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="041v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f88.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f88.image</image>
 
-<div>
 
-<id>p041v_1</id>
+
+<div id="p041v_1">
+
+
 
 <head><m>Noir</m> des <pro>vitriers</pro></head>
 
@@ -27,9 +27,9 @@ aulcuns y adjoustent <del>d</del> un peu de <m>minium</m>
 
 </div>
 
-<div>
+<div id="p041v_2">
 
-<id>p041v_2</id>
+
 
 <head><al>Brebis</al> tondues</head>
 
@@ -41,9 +41,9 @@ grasses<lb/>
 
 elles sont plus aysees a tondre &amp; ne se blessent pas si tost</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin><comment>c_041v_01</comment>
+<comment rid="c_041v_01"/>
 
 Si le <pro>tondeur</pro> les<lb/>
 
@@ -67,9 +67,9 @@ Si le <pro>tondeur</pro> les<lb/>
 
 </div>
 
-<div>
+<div id="p041v_3">
 
-<id>p041v_3</id>
+
 
 <head>Couleurs et <m>doreure</m> sur le <m>verre</m></head>
 

@@ -1,14 +1,13 @@
-<root>
-<page>119r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="119r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f243.image">
 
-<image>
-http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f243.image</image>
 
-<div>
 
-<cont/>
 
-<id>p118v_1</id>
+<div continues="yes" id="p118v_1">
+
+
+
+
 
 <ab>Comme j’ay veu qu’ilz ne <m>fumoient</m> plus &amp; que, grattant le revers
 &amp; <lb/>
@@ -54,8 +53,8 @@ et ay gecté, et la medaille est venue aussy nette que le principal.<lb/>
 Je l’ay <m>fumée</m> à la <tl><m>chandelle</m></tl> &amp; avecq des
 <tl>sayes</tl> l’ay nettoyée. </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Gecte tousjours<lb/>
 
 par le pied de la<lb/>
@@ -92,8 +91,8 @@ mieulx.</ab>
 
 </div>
 
-<div>
-<id>p119r_1</id>
+<div id="p119r_1">
+
 <head> Advertisseme<exp>n</exp>t sur ce que dessus </head>
 
 <ab>

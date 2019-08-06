@@ -1,18 +1,18 @@
-<root>
-<page>066v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="066v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f138.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f138.image</image>
 
-<div>
 
-<cont/>
 
-<id>p066r_6</id>
+<div continues="yes" id="p066r_6">
 
-<ab>
 
-<margin>left-bottom</margin>
-<render>tall</render>
+
+
+
+<ab margin="left-bottom" render="tall">
+
+
+
 
 Quand l’or couleur commence<lb/>
 
@@ -23,15 +23,15 @@ dix ou douze <ms><tmp>heures</tmp></ms> il sera sec<lb/>
 &amp; propre à <m>dorer</m>.<hr/></ab>
 </div>
     
-<div>
-<cont/>
-<id>p066r_5</id>
-<ab>
+<div continues="yes" id="p066r_5">
 
-<margin>left-bottom</margin>
-<render>tall</render>
 
-<mark>*</mark><comment>c_066v_01</comment>
+<ab margin="left-bottom" render="tall">
+
+
+
+
+<mark>*</mark><comment rid="c_066v_01"/>
 
 Pour fayre beau<lb/>
 
@@ -57,16 +57,16 @@ se faict gras<lb/>
 
 meslé de <m>ceruse</m>.</ab>
 
-<ab>
-<margin>left-bottom</margin>
-<render>tall</render>
-L’<m><comment>c_066v_02</comment>or mat</m> de ceste<lb/>
+<ab margin="left-bottom" render="tall">
+
+
+L’<m><comment rid="c_066v_02"/>or mat</m> de ceste<lb/>
 
 sorte n’est gueres<lb/>
 
 moings beau<lb/>
 
-que l’<del>es</del><add><m>or bruny</m></add>,<lb/>
+que l’<del>es</del><m>or<comment rid="c_066v_05"/> bruny</m>,<lb/>
 
 et dure dava<exp>n</exp>tage <env>à la<lb/>
 
@@ -82,14 +82,14 @@ L’<m>or bruny</m> s’esclate<lb/>
 
 </div>
 
-<div>
+<div id="p066v_1">
 
-<id>p066v_1</id>
+
 
 <head><md>Garder de croistre les <bp>tetins</bp><lb/>
 
-<del>d</del><add>ou diminuer les trop
-grands</add></md><comment>c_066v_03</comment></head>
+<add><del>d</del> ou diminuer les trop
+grands</add></md><comment rid="c_066v_03"/></head>
 
 <ab>Ayes de <m>grands pains nouvellement tirés du <tl>four</tl></m>
 &amp; les<lb/>
@@ -126,9 +126,9 @@ extraicts tout ensemble du<lb/>
 
 </div>
 
-<div>
+<div id="p066v_2">
 
-<id>p066v_2</id>
+
 
 <head>Pour attirer les <al>pigeons</al></head>
 
@@ -139,9 +139,9 @@ extraicts tout ensemble du<lb/>
 
 </div>
 
-<div>
+<div id="p066v_3">
 
-<id>p066v_3</id>
+
 
 <head><md>Contre la meurtrisseure des<lb/>
 
@@ -154,9 +154,9 @@ plomb</m>. Remede singulier.</ab>
 
 </div>
 
-<div>
+<div id="p066v_4" continued="yes">
 
-<id>p066v_4</id>
+
 
 <head><tl>Pinceaulx</tl></head>
 
@@ -182,7 +182,7 @@ de tout ce <m>poil</m> dans l’<m>eau</m>, puys taprochant bien du<lb/>
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

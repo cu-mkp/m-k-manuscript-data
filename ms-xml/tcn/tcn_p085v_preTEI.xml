@@ -1,10 +1,10 @@
-<root>
-<page>085v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="085v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f176.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f176.image</image>
 
-<div>
-<id>p085v_1</id>
+
+
+<div id="p085v_1">
+
 <head><pro>Fondeur</pro></head>
 
 <ab>Ils meslent de la <m>glaire d’œufs battue</m> avecq la <m>terre de
@@ -29,8 +29,8 @@ petit ouvraige.</ab>
 
 </div>
 
-<div>
-<id>p085v_2</id>
+<div id="p085v_2">
+
 <head><tl>Mortiers</tl></head>
 
 <ab>Il<corr><del>s</del></corr> fault qu’ilz soient de la plus fine matiere qui se puisse,
@@ -50,7 +50,7 @@ une<lb/>
 <env>mayson particuliere</env>, ilz ne <sn>sonnent</sn> point tant &amp;
 ne <sn>menent</sn> point ta<exp>n</exp>t<lb/>
 
-de bruict que ceulx de <m>metal</m>.<comment>c_016v_05</comment> Il est vray que ceulx qui sont
+de bruict que ceulx de <m>metal</m>.<comment rid="c_016v_05"/> Il est vray que ceulx qui sont
 de<lb/>
 
 <m>metal</m> sont plus <sn>sonans</sn> pour les
@@ -60,8 +60,8 @@ de<lb/>
 
 </div>
 
-<div>
-<id>p085v_3</id>
+<div id="p085v_3">
+
 <head><m>Sable de <env>mine</env></m></head>
 
 <ab>Il veult estre bien recuict pour les <m>grands metaulx</m>.
@@ -82,8 +82,8 @@ donner avecq du <m>tripoly</m> ou<lb/>
 <m>feultre bruslé</m>.</ab>
 
 </div>
-<div>
-<id>p085v_4</id>
+<div id="p085v_4" continued="yes">
+
 <head><m>Sables experimentés</m></head>
 
 <ab>J’ay experimenté le <m>sable de
@@ -112,16 +112,16 @@ de cave,<lb/>
 &amp; de l’<ms>espesseur d’une piece de quarante <cn>sols</cn></ms>.
 J’ay gecté tres chault</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
 
-<mark>X</mark><comment>c_085v_03</comment>
+
+<mark>X</mark><comment rid="c_085v_03"/>
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Le <m>sable de <env>mine</env></m><lb/>
 
@@ -153,7 +153,7 @@ n’ha pas assés de corps<lb/>
 
 pour soubstenir.</ab>
 
-<cont/>
+
 
 </div>
 </root>

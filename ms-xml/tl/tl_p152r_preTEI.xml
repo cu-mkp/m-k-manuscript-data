@@ -1,17 +1,17 @@
-<root>
-<page>152r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="152r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f309.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f309.image</image>
 
-<div>
 
-<id>p152r_1</id>
+
+<div id="p152r_1">
+
+
 
 <head>Molding a <al>rat</al></head>
 
 <ab>The hairs of its whiskers would be awkward to come out in the
 cast; you can therefore shave them with fire, like <del><fr>d</fr></del>
-the <pn>tyrant of <pl>Syracuse</pl></pn>,<comment>c_152r_01</comment>
+the <pn>tyrant of <pl>Syracuse</pl></pn>,<comment rid="c_152r_01"/>
 &amp; afterward you can replace them with <del><fr>d’arg</fr></del> natural <m>silvered</m> ones. The tail is beautiful molded because it
 is made of scaly circles, nearly like the one of a <al>lizard</al>,
 &amp; in order that the hair does not hinder good molding, burn it in
@@ -45,7 +45,7 @@ with <m>eau-de-vie</m>, once dry from the <m>oil</m>. Then cast your
 One ought not to open the <tl>mold</tl> until it is reheated &amp; the
 <al>rat</al> burned.</ab>
 
-<ab><margin>left-middle</margin><mark>+</mark>
+<ab margin="left-middle"><mark>+</mark>
 
 The <al>rat</al>, because it is thick, comes out better being hollow, if
 it is a <al>big rat</al>. A <al>mouse</al> molds better, because it has
@@ -54,19 +54,19 @@ shorter hair. It is not possible to mold well an animal that has
 opening the <tl>mold</tl> to clean it well, for <m>bones</m> do not
 calcine.<hr/></ab>
 
-<ab><margin>left-middle</margin>All feathers &amp; all hair is awkward
+<ab margin="left-middle">All feathers &amp; all hair is awkward
 to mold according to its nature.<hr/></ab>
 
-<ab><margin>left-middle</margin><m>Butter</m> for anointing hairy animals
+<ab margin="left-middle"><m>Butter</m> for anointing hairy animals
 is better <del><fr>e</fr></del> than <m><pa>wheat</pa> oil</m>, because
 it is more amiable.<hr/></ab>
 
-<ab><margin>left-middle</margin>If the <al>rat</al> is big, it is good
+<ab margin="left-middle">If the <al>rat</al> is big, it is good
 to remove its entrails, or having molded it, to dry it in the
 <tl>oven</tl>, because the large amount of moisture that it has comes to
 boil in the <tl>mold</tl>, &amp; spoils it &amp; makes it lumpy.</ab>
 
-<ab><margin>left-middle</margin>Do not put your <tl>mold</tl> <env>in
+<ab margin="left-middle">Do not put your <tl>mold</tl> <env>in
 the cold</env> until it has slowly cooled dry. Otherwise it imbibes the
 humidity, which makes it break.</ab></div>
 </root>

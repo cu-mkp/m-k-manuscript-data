@@ -1,10 +1,10 @@
-<root>
-<page>085v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="085v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f176.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f176.image</image>
 
-<div>
-<id>p085v_1</id>
+
+
+<div id="p085v_1">
+
 <head><pro>Founder</pro></head>
 
 <ab>They mix <m>beaten glair of egg</m> with <m>earth with which they make
@@ -20,8 +20,8 @@ to be a little hot, &amp; <m>lead</m>, which has also been mixed with the
 
 </div>
 
-<div>
-<id>p085v_2</id>
+<div id="p085v_2">
+
 <head><tl>Mortars</tl></head>
 
 <ab>It is necessary that they be of the finest substance possible, such
@@ -32,7 +32,7 @@ as <m>copper for cauldrons</m>, which is better than
 danger of breaking if they are of <m>fine copper</m>. And for a
 <env>private home</env>, they do not <sn>ring</sn> so much &amp; do not
 carry as much <sn>noise</sn> as those of
-<m><fr>metal</fr></m><comment>c_016v_05</comment>. It is true that those that are
+<m><fr>metal</fr></m><comment rid="c_016v_05"/>. It is true that those that are
 of <m><fr>metal</fr></m> have more of a <sn>ring</sn> for the
 <pro>apothecaries</pro>.</ab>
 
@@ -40,8 +40,8 @@ of <m><fr>metal</fr></m> have more of a <sn>ring</sn> for the
 
 </div>
 
-<div>
-<id>p085v_3</id>
+<div id="p085v_3">
+
 <head><m>Sand from the <env>mine</env></m></head>
 
 <ab>It wants to be well reheated for <m>great metals</m>. Some burn it
@@ -52,8 +52,8 @@ have body, and is too lean. You can give some with <m>tripoli</m> or
 <m>burned felt</m>.</ab>
 
 </div>
-<div>
-<id>p085v_4</id>
+<div id="p085v_4" continued="yes">
+
 <head><m>Experimented sands</m></head>
 
 <ab>I have experimented with <m>sand from
@@ -68,12 +68,12 @@ on it <del><fr>Jen</fr></del> &amp; molded neatly with one side in
 relief, &amp; on the other in hollow, &amp; of the <ms>thickness of a
 coin of forty <cn>sous</cn></ms>. I cast very hot</ab>
 
-<ab>
-<margin>left-middle</margin><mark>X</mark>
+<ab margin="left-middle">
+<mark>X</mark>
 
 </ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 <m>Sand from the mine</m>, well chosen &amp; well reheated, is the most
 excellent of all, without looking for any other mixtures, because it
@@ -81,7 +81,7 @@ receives all <m>metals</m>. It does not want to be used hot, because it
 makes things porous. The most finely ground for big works is not the
 best, because it does have enough body to sustain.</ab>
 
-<cont/>
+
 
 </div>
 </root>

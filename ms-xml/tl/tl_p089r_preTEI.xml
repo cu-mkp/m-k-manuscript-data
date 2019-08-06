@@ -1,10 +1,10 @@
-<root>
-<page>089r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="089r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f183.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f183.image</image>
 
-<div>
-<id>p089r_1</id>
+
+
+<div id="p089r_1">
+
 <head><m>Sand of burnt <al>ox</al> bones and rock salt</m></head>
 
 <ab>I have pulverised them separately &amp; finely ground them on
@@ -16,7 +16,7 @@ folded in a wet <tl>napkin</tl>, which is rather made in the
 <env>moisture of the cellar</env>. And I have not found anything else
 which releases more neatly than this one. It wants to be rather humid.
 And if you want to cast very thin, make sure it is very hot. It came out
-very neatly in <m>soft tin</m>, like the principal,<comment>c_137r_03</comment> and withstood
+very neatly in <m>soft tin</m>, like the principal,<comment rid="c_137r_03"/> and withstood
 several casts. For <m>tin</m>, I believe that it is not necessary to
 seek a better one, nor for <m>fine lead</m> also, which comes out almost
 as neatly as <m>tin</m>. <del><fr>Tou</fr></del> the <m>bone of the foot
@@ -27,16 +27,16 @@ similar things, it would not release, &amp; would not mold neatly for it
 crumbles.</ab>
 
 </div>
-<div>
-<id>p089r_2</id>
+<div id="p089r_2">
+
 <head>Reheating or drying a molded <tl>frame</tl></head>
 
 <ab>Always put the most delicate part, such as the face, above, so that
 nothing falls in it that could hinder your fusion.</ab>
 
 </div>
-<div>
-<id>p089r_3</id>
+<div id="p089r_3">
+
 <head><m>Natural sand</m></head>
 
 <ab>It does not want to be reheated for <m>lead</m> and <m>tin</m>,

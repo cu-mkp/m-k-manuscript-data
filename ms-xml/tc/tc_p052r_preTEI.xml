@@ -1,11 +1,11 @@
-<root>
-<page>052r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="052r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f109.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f109.item</image>
 
-<div>
 
-<id>p052r_1</id>
+
+<div id="p052r_1" continued="yes">
+
+
 
 <head>œuvre faicte en <pl>Argel</pl></head>
 
@@ -73,7 +73,7 @@ Et lors retire le <tl>mattelas</tl> &amp; ne lensevelis plus dans le
 <m>fiens</m><lb/>
 
 Mays tiens le seulement pose sur la couche du <m>fiens</m>
-chaul<del>x</del><add>t</add><lb/>
+chaul<del>x</del>t<comment rid="c_052r_02"/><lb/>
 
 jusques a ce que tous les <al>vers</al> se seront manges &amp; consumes
 les<lb/>
@@ -118,7 +118,7 @@ faisant avecq du <m>charbon</m> fœu de roue aultour de la
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

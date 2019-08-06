@@ -1,10 +1,10 @@
-<root>
-<page>044r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="044r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f93.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f93.image</image>
 
-<div>
-<id>p044r_1</id>
+
+
+<div id="p044r_1">
+
 <head>Portee d<wp>harquebus</wp></head>
 
 <ab>La proportion est de l<wp>harquebus de chasse</wp>
@@ -13,7 +13,7 @@ est de 4 <ms>pieds de<lb/>
 roy</ms> de long &amp; xviii <ms><cn>deniers</cn></ms> de balle La
 chasse vi <ms><cn>deniers</cn></ms> de<lb/>
 
-<m>pouldre</m> sa portee iiii<superscript>xx</superscript><comment>c_017v_02</comment> <ms>pans</ms> &amp; 3 <ms>pieds</ms>
+<m>pouldre</m> sa portee iiii<superscript>xx</superscript><comment rid="c_017v_02"/> <ms>pans</ms> &amp; 3 <ms>pieds</ms>
 <del>lxi</del> &amp; demy deulx<lb/>
 
 <ms>poulces</ms> &amp; quelque <ms>ligne</ms> quest l<df><ms>aulne de
@@ -27,8 +27,8 @@ de balle v <ms><cn>deniers</cn></ms> de <m>pouldre</m> &amp; lx
 
 </div>
 
-<div>
-<id>p044r_2</id>
+<div id="p044r_2">
+
 <head><pro>Pintier</pro></head>
 
 <ab>Ils meslent viii <ms>lb</ms> <add>ou dix</add> de <m>plomb</m> pour
@@ -46,8 +46,8 @@ lier &amp; trois<lb/>
 cela faict plus <sn>sonner</sn> la vaisselle &amp; nest pas si
 rompante</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Cest <m>estaim</m><lb/>
 
 sappelle <m>estaim<lb/>
@@ -56,8 +56,8 @@ commun</m></ab>
 
 </div>
 
-<div>
-<id>p044r_3</id>
+<div id="p044r_3">
+
 <head><wp>Harquebus</wp></head>
 
 <ab>Pour la garder de repoulser il fault de <ms>huict en huict
@@ -71,8 +71,8 @@ mouille quelque <m>linge</m> dans <m>huile</m> &amp; le mects au lieu de
 
 </div>
 
-<div>
-<id>p044r_4</id>
+<div id="p044r_4">
+
 <head><m>Laque</m></head>
 
 <ab>Pour lesprouver destrempe la &amp; laplique sur du <m>papier</m>
@@ -85,8 +85,8 @@ bonne</ab>
 
 </div>
 
-<div>
-<id>p044r_5</id>
+<div id="p044r_5">
+
 <head><m>Taincture de fleurs</m></head>
 
 <ab>Le <m><pa>pavot rouge</pa></m> qui croist par les <pa>bleds</pa>

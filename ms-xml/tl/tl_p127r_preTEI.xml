@@ -1,13 +1,13 @@
-<root>
-<page>127r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="127r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f259.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f259.image</image>
 
-<div>
 
-<cont/>
 
-<id>p126v_3</id>
+<div continues="yes" id="p126v_3">
+
+
+
+
 
 <ab>some thread, as much to secure the plants, in order that they do not
 rise <del><fr>par</fr></del> when you throw in your <m>clear sand</m>, as to
@@ -32,15 +32,15 @@ withstand several <ms><tmp>days</tmp></ms> of great firing.</ab>
 remain loose &amp; the weight of the <m>quicksilver</m> makes them break
 &amp; disintegrate, once calcined &amp; burnt.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <pa>Asparagus</pa> always stays as <m>charcoal</m>, like little pins.
 Try to take it, and <pa>thyme</pa>, at the beginning, when they are
 growing, so that their stem is still thin.</ab>
 
 </div>
-<div>
-<id>p127r_1</id>
+<div id="p127r_1">
+
 <head><tl>Molds of <m>plaster</m></tl> for <m>wax</m></head>
 
 <ab>When your <tl>mold of <m>plaster</m></tl> is done &amp; dried, take
@@ -51,11 +51,11 @@ is where the <m>plaster</m> enters. And this not being of good release,
 the <m>wax</m> animal attaches itself &amp; breaks &amp; you would never
 have it perfect. <emph>Take heed</emph> also to make your gates for the
 <m>wax</m> very wide. Thus &amp; that the gates are not too thick.
-They are made when <del>the animal is</del><figure>
+They are made when <del>the animal is</del><figure id="fig_p127r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ZFFkT3I4Vmx2em8">
 
-<id>fig_p127r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5ZFFkT3I4Vmx2em8</link>
+
+
 
 </figure> the <tl>mold</tl> with both sides is made &amp; the animal is
 outside of it.</ab>

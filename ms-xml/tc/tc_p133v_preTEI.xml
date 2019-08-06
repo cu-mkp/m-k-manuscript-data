@@ -1,11 +1,11 @@
-<root>
-<page>133v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="133v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f272.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f272.image</image>
 
-<div>
 
-<id>p133v_1</id>
+
+<div id="p133v_1">
+
+
 
 <head>
 
@@ -29,9 +29,9 @@ net pourveu quon soufle asses fort en gectant sur le <m>sable<lb/>
 
 destrempe</m> &amp; gecte affin de dissiper ces petits bouillons</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Quand le <m>sable</m><lb/>
 
@@ -41,9 +41,9 @@ volontiers il soufle</ab>
 
 </div>
 
-<div>
+<div id="p133v_2">
 
-<id>p133v_2</id>
+
 
 <head>Chose qui nest en despouille</head>
 
@@ -66,9 +66,9 @@ seche &amp; se retire plustost que faire crouste sur le
 
 ou <m>moisissure</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>+</mark>
 
@@ -123,9 +123,9 @@ avecq de la <m>cire</m></ab>
 
 </div>
 
-<div>
+<div id="p133v_3" continued="yes">
 
-<id>p133v_3</id>
+
 
 <head>Divers animaulx enlasses</head>
 
@@ -178,7 +178,7 @@ que tu vois qui napuyent pas bien sur la <tl>plaste de
 
 Affin que le <m>sable destrempe</m> ne lenleve pas Et cest pour</ab>
 
-<cont/>
+
 
 </div>
 </root>

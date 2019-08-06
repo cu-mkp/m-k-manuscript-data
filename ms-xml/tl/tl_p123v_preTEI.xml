@@ -1,13 +1,13 @@
-<root>
-<page>123v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="123v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f252.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f252.item.r=</image>
 
-<div>
 
-<cont/>
 
-<id>p123r_1</id>
+<div continues="yes" id="p123r_1">
+
+
+
+
 
 <ab>Your <m><tl>lute</tl></m> being dry, put, <ms><tmp>in the early
 morning</tmp></ms>, your <tl><oc>crucible</oc></tl> in a <tl><fr>four à
@@ -44,7 +44,7 @@ it has been <ms><tmp>for a whole day</tmp></ms> on a <del>gentle</del>
 gentle fire at the beginning &amp; invigorated degree by degree until
 the end. Then, having given it one load of charcoal, let it consume it
 by itself, &amp; let your <tl><oc>crucible</oc></tl> cool. Next, break it. You
-will find two hard slabs &amp; <po>cakes</po><comment>c_112v_03</comment> in the
+will find two hard slabs &amp; <po>cakes</po><comment rid="c_112v_03"/> in the
 <tl><oc>crucible</oc></tl>. The upper one is as if petrified <del>Once</del>,
 composed of <m>salts sublimated</m> &amp; mixed together. The lower one
 is <m>metallic</m>, composed of <m>filings</m>, <m><la>aes
@@ -53,12 +53,12 @@ Pulverize the upper <po>cake</po>, made from <m>salts</m>, &amp;
 put some to clear &amp; clean the <m>silver</m>, and the <m>metallic
 grain</m> will serve you to put in the <m>melted metal</m>.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Charcoal fire</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 Or else, after you have had your drugs <tl>pestled</tl> by some <pro>rustic</pro>. And
 having put them in your <tl><oc>crucible</oc></tl>, &amp; the latter <m><tl>luted</tl></m> &amp;
@@ -67,8 +67,8 @@ dry as said &amp; placed into the <tl>furnace</tl>, have the fire
 managed by a <pro><env>shop</env> boy</pro>, familiar with charcoal.
 </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 One sells well to <pro>silversmiths</pro> this <m>metallic</m> mass to
 soften their <m>solder</m>, because when melting, <m>latten</m> exhales.
 And with a little of this substance, they <m>solder</m> over the other

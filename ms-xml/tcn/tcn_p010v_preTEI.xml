@@ -1,11 +1,11 @@
-<root>
-<page>010v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="010v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f26.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f26.image</image>
 
-<div>
 
-<id>p010v_1</id>
+
+<div id="p010v_1">
+
+
 
 <head>Pour paindre à <m>huile</m> sur<lb/>
 
@@ -36,9 +36,9 @@ aussi l’<m>huile</m> de courir.</ab>
 
 </div>
 
-<div>
+<div id="p010v_2">
 
-<id>p010v_2</id>
+
 
 <head>Assiete d’<m>or de fœuille</m> sur <m>parchemin</m><lb/>
 
@@ -53,9 +53,9 @@ derniere, estant demy seiche, aplique ton <m>or</m>.</ab>
 
 </div>
 
-<div>
+<div id="p010v_3">
 
-<id>p010v_3</id>
+
 
 <head>Pour nettoyer l’<m>or de fœille</m><lb/>
 
@@ -67,9 +67,9 @@ de <al>cheval</al> seche</m>.</ab>
 
 </div>
 
-<div>
+<div id="p010v_4">
 
-<id>p010v_4</id>
+
 
 <head>Pour blanchir la <m>ceruse</m></head>
 

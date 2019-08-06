@@ -1,13 +1,13 @@
-<root>
-<page>101r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="101r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f207.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f207.image</image>
 
-<div>
 
-<cont/>
 
-<id>p100v_2</id>
+<div continues="yes" id="p100v_2">
+
+
+
+
 
 <ab>encores bien fort, puys adjoustés y iii <ms>℥</ms>
 de <m>minium</m>, &amp; <tl>pilles</tl><lb/>
@@ -45,9 +45,9 @@ d’<m>or</m> en masse au fonds.<lb/>
 <emph>Essaye l’<m>or</m> cimenté et acompaigné de
 l’<m>antimoine</m>.</emph></ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Si tu as besoing<lb/>
 
@@ -73,21 +73,21 @@ faire reverberer<lb/>
 
 la chaleur.</ab>
 
-<figure>
+<figure id="fig_p101r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dnlodmJvNkRMaWM">
 
-<id>fig_p101r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dnlodmJvNkRMaWM</link>
+
+
+
 
 </figure>
 
 </div>
 
-<div>
+<div id="p101r_1">
 
-<id>p101r_1</id>
+
 
 <head><m>Topasse</m></head>
 
@@ -129,9 +129,9 @@ davantage<lb/>
 
 dans le <tl>mortier de <m>fer</m></tl>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Le <m>tartre<lb/>
 
@@ -153,9 +153,9 @@ plus jaulne.</ab>
 
 </div>
 
-<div>
+<div id="p101r_2" continued="yes">
 
-<id>p101r_2</id>
+
 
 <head><m>Sel</m> à fayre fondre</head>
 
@@ -181,9 +181,9 @@ un <tl>four à vent</tl>. Et le jecter nettem<exp>ent</exp> sur un
 de <m>salpestre</m> &amp; le laisser bouillir, &amp; mesler ensemble
 jusques à ce</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 Il nettoye<lb/>
 
@@ -191,7 +191,7 @@ Il nettoye<lb/>
 
 le <m>metal</m>.</ab>
 
-<cont/>
+
 
 </div>
 </root>

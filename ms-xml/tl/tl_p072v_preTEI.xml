@@ -1,11 +1,11 @@
-<root>
-<page>072v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="072v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f150.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f150.image</image>
 
-<div>
 
-<id>p072v_1</id>
+
+<div id="p072v_1">
+
+
 
 <head>Casting</head>
 
@@ -53,37 +53,37 @@ immediately</sn>.</ab>
 <ms>part</ms>. It is <m>solder</m> which flows well &amp; is good
 for casting, but it is brittle.</ab>
 
-<ab>
-<margin>right-top</margin>
+<ab margin="right-top">
+
 To make the <m>lead</m> flow well, one puts in a little
 <m>quicksilver</m>.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Rub <m><al>cuttlefish</al> bone</m> on a <tl>well smooth table</tl> to
 flatten it &amp; one against the other &amp; pierce through the two <m>bones</m>
 with <tl>pegs</tl> to mark the place.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 <tl><m><al>Cuttlefish</al> bone</m></tl> molds <m>lead</m> better than
 anything else. But try it to see if it needs reheating. <del>One ought
 to mold on the back of the <m>bones</m> &amp; from this side for the
 <m>marrow</m> is more delicate there.</del></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 The <m>bone marrow</m> toward the tail is more delicate &amp; does have
 not as many stripes &amp; molds more cleanly. The <m>shell</m> which
 holds the <m>marrow</m>, once calcined, is good for making <m>sand</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 When you cast <m>lead</m>, you need to cast it <del>cast very
 neatly</del> <add>rather</add> hot, &amp; not at once &amp; shake the
@@ -92,15 +92,15 @@ is cast too hot, it will rise up &amp; swell. When it is very hot, it
 becomes blue, let it then pass this color <del><fr>deva</fr></del> &amp;
 rest a little before casting.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Some, such as <pro>printers</pro>, mix <m>iron or pin filings</m> 
 in the <m>lead</m>, <del>but</del> in order to render it
 hard. But this renders it brittle &amp;<del>not</del> it breaks under
 the <tl>hammer</tl>.</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
+
 Take a <tl>wirebrush</tl> to clean your <tl>molds</tl>.</ab>
 
 </div>

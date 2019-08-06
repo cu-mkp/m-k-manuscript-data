@@ -1,11 +1,11 @@
-<root>
-<page>001v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="001v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f8.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f8.image</image>
 
-<div>
 
-<id>p001v_1</id>
+
+<div id="p001v_1">
+
+
 
 <head><md>Pour lascher le <bp>ventre</bp></md></head>
 
@@ -23,7 +23,7 @@ de <pa>guimave</pa></m><lb/>
 
 la fresche est plus <md>remollitive</md></ab>
 
-<comment>c_001v_01</comment><ab>Battre du <m>cirop de
+<comment rid="c_001v_01"/><ab>Battre du <m>cirop de
 <pa>guindoles</pa> doulces</m> avecq de l<m>eau</m> &amp;<lb/>
 
 en prendre <tmp>au matin</tmp> <md>lasche le <bp>ventre</bp></md></ab>

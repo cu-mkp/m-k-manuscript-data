@@ -1,13 +1,13 @@
-<root>
-<page>076r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="076r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f157.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f157.item</image>
 
-<div>
 
-<cont/>
 
-<id>p075v_4</id>
+<div continues="yes" id="p075v_4">
+
+
+
+
 
 <ab>if you cannot find it, and cover the said <m>wood</m> with this
 powder, until it is cool, &amp; you will make it boil again, &amp;
@@ -17,9 +17,9 @@ while boiling.</ab>
 
 </div>
 
-<div>
+<div id="p076r_1">
 
-<id>p076r_1</id>
+
 
 <head>For making <m>wood</m> green</head>
 
@@ -34,9 +34,9 @@ substances for the space of three <ms><tmp>hours</tmp></ms>.</ab>
 
 </div>
 
-<div>
+<div id="p076r_2">
 
-<id>p076r_2</id>
+
 
 <head>For making <m>wood</m> red</head>
 
@@ -48,9 +48,9 @@ as with green.</ab>
 
 </div>
 
-<div>
+<div id="p076r_3">
 
-<id>p076r_3</id>
+
 
 <head>For making it blue</head>
 
@@ -63,9 +63,9 @@ into powder, and do as with green.</ab>
 
 </div>
 
-<div>
+<div id="p076r_4">
 
-<id>p076r_4</id>
+
 
 <head>For making it violet </head>
 
@@ -77,9 +77,9 @@ Take one <ms>quart</ms> of <m><bp>urine</bp></m> &amp; one <ms>ounce</ms> of
 
 </div>
 
-<div>
+<div id="p076r_5">
 
-<id>p076r_5</id>
+
 
 <head>For making it yellow</head>
 

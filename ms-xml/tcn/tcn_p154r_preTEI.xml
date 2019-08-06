@@ -1,10 +1,10 @@
-<root>
-<page>154r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="154r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f313.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f313.item.r=</image>
 
-<div>
-<id>p154r_1</id>
+
+
+<div id="p154r_1">
+
 <head>L’<m>or</m> n’estre fixe</head>
 
 <ab>L’<m>or en doreure</m> s’en va estant la piece recuite &amp;
@@ -18,8 +18,8 @@ percera au fœu une piece d’<m>or</m> pource qu’il tient fort de <lb/>
 <m>☿</m>.</ab>
 
 </div>
-<div>
-<id>p154r_2</id>
+<div id="p154r_2">
+
 <head>Couper <m>plomb</m></head>
 
 <ab>À cause qu’il est gras &amp; se grippe &amp; attaque au
@@ -28,8 +28,8 @@ percera au fœu une piece d’<m>or</m> pource qu’il tient fort de <lb/>
 ou <tl>ciseau</tl>, mouille le &amp; tu le coupperas co<exp>mm</exp>e
 <m>verre</m>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Quelque fois l’<m>or</m><lb/>
 
 &amp; l’<m>argent</m> prenent<lb/>
@@ -45,8 +45,8 @@ ains ceste couleur s’en va au <m>blanchiment</m> &amp;<lb/>
 <m>bullitoire</m></ab>
 
 </div>
-<div>
-<id>p154r_3</id>
+<div id="p154r_3">
+
 <head>Adoulcir l’<m>argent</m></head>
 
 <ab>Quand les <pro>orfevres qui travaillent de grosserie</pro> ont<lb/>
@@ -62,8 +62,8 @@ a<lb/>
 
 esté en œuvre, &amp; le pulverise &amp; gecte le dedans.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Les <pro>orfevres</pro> ne<lb/>
 
 travaillent point<lb/>
@@ -78,7 +78,7 @@ pource qu’il est<lb/>
 
 forgeant il s’aigrist.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Aulcuns <m>souldent</m><lb/>
 
@@ -113,8 +113,8 @@ avecq <ms>moictié</ms> <m>argent</m><lb/>
 fin</m>.</ab>
 
 </div>
-<div>
-<id>p154r_4</id>
+<div id="p154r_4">
+
 <head><m>Escaille de fer</m></head>
 
 <ab>Estant bien pulverisé &amp; subtiliée sur le <tl><m>mabre</m></tl>
@@ -133,8 +133,8 @@ le <m><la>crocum</la></m>, elle va au fonds, si le <m>sable</m> n’est destremp
 assés espés.</ab>
 
 </div>
-<div>
-<id>p154r_5</id>
+<div id="p154r_5">
+
 <head><m>Limaille des metaulx</m></head>
 
 <ab>Elle ne se font pas d’elle mesme si elle n’est aydée de<lb/>

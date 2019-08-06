@@ -1,11 +1,11 @@
-<root>
-<page>122r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="122r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f249.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f249.item.r=</image>
 
-<div>
 
-<id>p122r_1</id>
+
+<div id="p122r_1">
+
+
 
 <head>Arranging various animals</head>
 
@@ -16,7 +16,7 @@ which are very fine. <del><fr>Il</fr></del> Take heed that should
 <del><fr>trou</fr></del> some part be uncovered, that remains as if
 suspended in mid air, to steady it, in order that the second cast, which
 you will do on top for the second half, will not vary. And to steady it
-over the void, take a little <m>wax</m>, &amp; rub it<comment>c_122r_02</comment> &amp; lengthen it on a <tl>table</tl> into the form of a <tl>thick needle</tl>, then cut that which you will need, &amp; with the <tl>tip of a hot <m>iron wire</m></tl> join it where it will be necessary. Steady also on the <del><tl>frame</tl></del> <add><tl>mold</tl></add> all that will
+over the void, take a little <m>wax</m>, &amp; rub it<comment rid="c_122r_02"/> &amp; lengthen it on a <tl>table</tl> into the form of a <tl>thick needle</tl>, then cut that which you will need, &amp; with the <tl>tip of a hot <m>iron wire</m></tl> join it where it will be necessary. Steady also on the <del><tl>frame</tl></del> <add><tl>mold</tl></add> all that will
 have detached from it (when you uncover the half of the belly) with
 some <m>wax</m>, taken lightly with the <tl>point of a penknife</tl>,
 &amp; joined &amp; melted with the <tl><m>iron wire</m></tl>. And when
@@ -25,20 +25,20 @@ the edge of the <m>wax</m> joined to the animal, &amp; which, while
 melting, will continue the casting up to the animal, without spoiling
 anything, which is a secret.</ab>
 
-<figure>
+<figure id="fig_p122r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5TVo3Y3lKWjA0dXM">
 
-<id>fig_p122r_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5TVo3Y3lKWjA0dXM</link>
+
+
 
 </figure>
 
 <ab>One arranges <al>snakes</al> bound together in embraces of love,
 but that is only when they are small.</ab></div>
 
-<div>
+<div id="p122r_2">
 
-<id>p122r_2</id>
+
 
 <head>Flower in the mouth of the <al>snake</al></head>
 
@@ -57,25 +57,25 @@ it swim &amp; hold up without putting anything there, although you could
 pass underneath it some <tl>thread</tl>, going through with a
 <tl>needle</tl>.</ab>
 
-<figure>
+<figure id="fig_p122r_1" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ZDJlZ0g5OXNKeDQ">
 
-<id>fig_p122r_1</id>
 
-<margin>left-top</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5ZDJlZ0g5OXNKeDQ</link>
+
+
+
 
 </figure>
 
 <del>
 
-<figure>
+<figure id="fig_p122r_3" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UDgyYnNSZnlndjg">
 
-<id>fig_p122r_3</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5UDgyYnNSZnlndjg</link>
+
+
+
 
 </figure>
 
@@ -83,13 +83,13 @@ pass underneath it some <tl>thread</tl>, going through with a
 
 <del>
 
-<figure>
+<figure id="fig_p122r_4" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5elo4VzJZRUppOWc">
 
-<id>fig_p122r_4</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5elo4VzJZRUppOWc</link>
+
+
+
 
 </figure>
 

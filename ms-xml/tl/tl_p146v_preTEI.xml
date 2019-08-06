@@ -1,15 +1,15 @@
-<root>
-<page>146v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="146v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f298.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f298.image</image>
 
-<div>
 
-<id>p146v_1</id>
+
+<div id="p146v_1" continued="yes">
+
+
 
 <head>Molding <al>turtles</al></head>
 
-<ab>This is the continuation of the second preceding leaf. When you have
+<ab>This is the continuation of the second preceding leaf.<comment rid="c_146v_02"/> When you have
 well uncovered the part of the belly of the <al>turtle</al>, the
 underneath of the throat &amp; legs, &amp; having cleaned it all well,
 do not forget to neatly uncover this cavity that these animals have in
@@ -43,34 +43,34 @@ go, attach &amp; rejoin it to the <tl>mold</tl> with some <m>wax</m>
 <al>turtles</al>, to make the gate. Your molded <add>and uncovered</add>
 belly shell, your <tl>mold</tl> can be seen thus.</ab>
 
-<figure>
+<figure id="fig_p146v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bUk2c1E3LWtOTDA">
 
-<id>fig_p146v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5bUk2c1E3LWtOTDA</link>
+
+
+
 
 </figure>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 in such a way that only the entire belly shell be uncovered, to mold it
 alone.</ab>
 
-<figure>
+<figure id="fig_p146v_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5WGEzek5peHJ6VDA">
 
-<id>fig_p146v_2</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5WGEzek5peHJ6VDA</link>
+
+
+
 
 </figure>
 
-<cont/>
+
 
 </div>
 </root>

@@ -1,11 +1,11 @@
-<root>
-<page>102r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="102r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f209.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f209.image</image>
 
-<div>
 
-<id>p102r_1</id>
+
+<div id="p102r_1">
+
+
 
 <head>Provisions for the work of Colchis</head>
 
@@ -32,9 +32,9 @@ One pair of small <tl>scissors</tl></ab>
 
 </div>
 
-<div>
+<div id="p102r_2">
 
-<id>p102r_2</id>
+
 
 <head>For the <tl>furnace</tl></head>
 
@@ -54,11 +54,11 @@ A <tl>fire-steel</tl></ab>
 
 </div>
 
-<div>
+<div id="p102r_3">
 
-<id>p102r_3</id>
 
-<head><m><fr>Ciment royal</fr></m><comment>c_102r_02</comment></head>
+
+<head><m><fr>Ciment royal</fr></m><comment rid="c_102r_02"/></head>
 
 <ab>One <ms>lb. &amp; a half</ms> of <m>vitriol</m>
 
@@ -68,9 +68,9 @@ As much <m>rock alum</m></ab>
 
 </div>
 
-<div>
+<div id="p102r_4">
 
-<id>p102r_4</id>
+
 
 <head><tl><m>Glass</m> vessels</tl></head>
 
@@ -81,13 +81,13 @@ size that a <tl><ms><pl>Dutch</pl> quill</ms></tl> can just about fit
 in, &amp; with a lip at the end. Thus of height of seven
 <ms><bp>fingers</bp>’ width</ms>.
 
-<figure>
+<figure id="fig_p102r_1" margin="bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MVhNYTRzOXJzR2M">
 
-<id>fig_p102r_1</id>
 
-<margin>bottom</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5MVhNYTRzOXJzR2M</link>
+
+
+
 
 </figure>
 

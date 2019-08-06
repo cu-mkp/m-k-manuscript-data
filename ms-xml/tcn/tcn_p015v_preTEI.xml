@@ -1,11 +1,11 @@
-<root>
-<page>015v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="015v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f36.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f36.item</image>
 
-<div>
 
-<id>p015v_1</id>
+
+<div id="p015v_1">
+
+
 
 <head>Tablettes</head>
 
@@ -20,9 +20,9 @@ d’argent</tl>, et aprés on l’efface avecq de l’<tl><m>os de
 
 </div>
 
-<div>
+<div id="p015v_2">
 
-<id>p015v_2</id>
+
 
 <head>L<exp>ett</exp>re, plus lisable</head>
 
@@ -36,9 +36,9 @@ l<exp>ett</exp>re.</ab>
 
 </div>
 
-<div>
+<div id="p015v_3">
 
-<id>p015v_3</id>
+
 
 <head>Stamper</head>
 
@@ -56,9 +56,9 @@ un <tl>mail de <m>bois</m></tl>.</ab>
 
 </div>
 
-<div>
+<div id="p015v_4">
 
-<id>p015v_4</id>
+
 
 <head>Ramolir la <m>corne</m></head>
 
@@ -75,9 +75,9 @@ sur un <tl>triboulet en rond ou faict en ovale</tl>.</ab>
 
 </div>
 
-<div>
+<div id="p015v_5">
 
-<id>p015v_5</id>
+
 
 <head><bp>Oreilles</bp></head>
 
@@ -97,9 +97,9 @@ bien fort</md>.</ab>
 
 </div>
 
-<div>
+<div id="p015v_6">
 
-<id>p015v_6</id>
+
 
 <head><md>Mal des <bp>dents</bp></md></head>
 

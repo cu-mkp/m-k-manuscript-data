@@ -1,16 +1,16 @@
-<root>
-<page>073r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="073r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f151.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f151.image</image>
 
-<div>
 
-<id>p073r_1</id>
+
+<div id="p073r_1">
+
+
 
 <head>Pour faire <m>vernys pers</m></head>
 
 <ab>Prenés du <m>pers de fleurs <add>de fleurée ou de
-<pl>Flandres</pl></add></m><comment>c_073r_02</comment> &amp; de la <m>chault vifve</m>, et mettés
+<pl>Flandres</pl></add></m><comment rid="c_073r_02"/> &amp; de la <m>chault vifve</m>, et mettés
 de l’<m>eau</m><lb/>
 
 dessus environ quatre <ms><bp>doigts</bp></ms>, et le laissés tremper
@@ -23,9 +23,9 @@ poser s<corr>ur</corr> le <m>boys</m>.</ab>
 
 </div>
 
-<div>
+<div id="p073r_2">
 
-<id>p073r_2</id>
+
 
 <head>Pour couleur d’orange</head>
 
@@ -37,9 +37,9 @@ v<exp>ost</exp>re <m>boys</m>.</ab>
 
 </div>
 
-<div>
+<div id="p073r_3">
 
-<id>p073r_3</id>
+
 
 <head>Pour desgresser <m>os</m> ou <m>corne</m></head>
 
@@ -62,9 +62,9 @@ quelque temps, et verrés une fort belle coulleur de verd.</ab>
 
 </div>
 
-<div>
+<div id="p073r_4">
 
-<id>p073r_4</id>
+
 
 <head>Pour faire <m>boys</m> gris</head>
 
@@ -87,14 +87,14 @@ d’alung</m> et l’<m>eaue despuis</m>, &amp; le mectrés bouillir
 ensemble. <add>Le tout se<lb/>
 
 fera mieulx dedans ung
-<tl><m>grais</m></tl><comment>c_073r_06</comment>
-cruzé.<comment>c_073r_07</comment></add></ab>
+<tl><m>grais</m></tl><comment rid="c_073r_06"/>
+cruzé.<comment rid="c_073r_07"/></add></ab>
 
 </div>
 
-<div>
+<div id="p073r_5" continued="yes">
 
-<id>p073r_5</id>
+
 
 <head>Pour faire <m>bronze</m> à couleur d’or</head>
 
@@ -104,7 +104,7 @@ ung<lb/>
 <tl>mortier de <m>fer</m></tl>. Estant bien broyé, prenés une
 <ms>once</ms> de <m>soufre</m> et le</ab>
 
-<cont/>
+
 
 </div>
 </root>

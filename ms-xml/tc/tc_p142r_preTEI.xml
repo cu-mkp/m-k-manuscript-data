@@ -1,13 +1,13 @@
-<root>
-<page>142r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="142r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f289.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f289.image</image>
 
-<div>
 
-<cont/>
 
-<id>p141r_1</id>
+<div continues="yes" id="p141r_1">
+
+
+
+
 
 <ab>
 
@@ -70,7 +70,7 @@ l<al>escrevisse</al> Car il fault fort recuire &amp; le
 <m><la>crocum</la></m> soubsti<ups>ent</ups><lb/>
 
 merveilleusem<exp>ent</exp> Mouler un <al>chancre</al> &amp; une
-<al>escrevisse</al> cest<comment>c_142r_01</comment><lb/>
+<al>escrevisse</al> cest<comment rid="c_142r_01"/><lb/>
 
 tout un Quand tu as descouvert ton <al>escrevisse</al> dun<lb/>
 
@@ -92,20 +92,20 @@ bruslee tu ne <del>despoui</del> pourrois pas ouvrir ton
 
 sans rompre</ab>
 
-<ab>
+<ab margin="top" render="wide">
 
-<margin>top</margin>
 
-<render>wide</render>
+
+
 
 Repare avecq <tl>trancheplumes</tl> <tl>l<del><ill/></del>imes</tl>
 <tl>petites chaples</tl> <tl>burins</tl> &amp;
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Fais leur tout<lb/>
 
@@ -125,19 +125,19 @@ le principal gect
 
 </ab>
 
-<figure>
+<figure id="fig_p142r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Qkh2MDhvUkFnUW8">
 
-<id>fig_p142r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Qkh2MDhvUkFnUW8</link>
+
+
+
 
 </figure>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Fais gect de <m>cire</m><lb/>
 
@@ -179,9 +179,9 @@ grosses pates ou a<lb/>
 
 quelque aultre endroit qui recoive force <m>metal</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Ayant descouvert<lb/>
 

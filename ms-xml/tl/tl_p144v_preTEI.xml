@@ -1,13 +1,13 @@
-<root>
-<page>144v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="144v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f294.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f294.image</image>
 
-<div>
 
-<cont/>
 
-<id>p144r_1</id>
+<div continues="yes" id="p144r_1">
+
+
+
+
 
 <ab>having been thus arranged &amp; well cleaned with
 <tl>brushes</tl>, place <del>the</del> the <tl>circle of
@@ -54,47 +54,42 @@ the belly &amp; of the throat, in the way that you uncover a
 <al>crayfish</al>, which is the most difficult to mold of the little
 beasts, which are molded in two halves.</ab>
 
-<figure>
+<figure id="fig_p144v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ZGhySWFITlRSaG8">
 
-<margin>left-middle</margin>
 
-<id>fig_p144v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5ZGhySWFITlRSaG8</link>
 
 </figure>
 
-<figure>
+<figure id="fig_p144v_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SlhGM2FYLUUteXc">
 
-<margin>left-middle</margin>
 
-<id>fig_p144v_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SlhGM2FYLUUteXc</link>
+
 
 </figure>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 You can mold the <al>turtle</al> with one piece for each side, but one
 would need to burn it. And afterward, to make the hollow, the reheated
 <tl>mold</tl> cannot be <m>oiled</m> because it drinks the
 <m>oil</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>+</mark>
 
 If there is some <m><la>crocum</la></m> in the <m>sand</m>, the joints of the
 <tl>molds</tl> will almost not find each other. </ab>
 
-<ab>
-<margin>bottom</margin>
-<emph>Turn to the second leaf.</emph><comment>c_144v_02</comment></ab>
+<ab margin="bottom">
+
+<emph>Turn to the second leaf.</emph><comment rid="c_144v_02"/></ab>
 
 </div>
 </root>

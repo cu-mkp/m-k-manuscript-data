@@ -1,21 +1,21 @@
-<root>
-<page>092r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="092r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f189.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f189.image</image>
 
-<div>
-<id>p092r_1</id>
+
+
+<div id="p092r_1">
+
 <head><del><m>Sand</m></del> Mixture easy to melt</head>
 
 <ab>One <del><ms>℥</ms> <fr>de</fr></del> <ms>part</ms>
 <m>soft tin</m>, one <ms>part</ms> <m>fine lead</m>, one <ms>part</ms>
-<m>looking glass tin</m> &amp; one <ms>part</ms> <m>fixed quicksilver</m><comment>c_092r_02</comment> makes an alloy &amp; a
+<m>looking glass tin</m> &amp; one <ms>part</ms> <m>fixed quicksilver</m><comment rid="c_092r_02"/> makes an alloy &amp; a
 <m>solder</m>, so easy to melt that it can easily be melted in a
 <tl>dish of <m>fine tin</m></tl>.</ab>
 
 </div>
-<div>
-<id>p092r_2</id>
+<div id="p092r_2">
+
 <head>Molding hollow on one side and in relief on the other</head>
 
 <ab>And for this effect, one casts a medal of <m>fine tin</m>, which is
@@ -38,24 +38,24 @@ would make the <m>tin</m> contract.</ab>
 <ab><m>Tin</m> wants to be cast quite hot to come out neat.</ab>
 
 <ab><emph><underline><m>Soft tin</m></underline></emph>, which is the best for the cast, is the
-one that, once cast in <fr>grille</fr> ingots, is <del>burnished
+one that, once cast in grille ingots, is <del>burnished
 &amp;</del> shiny &amp; polished like a mirror, &amp; appears to have
 been burnished. And not have holes like the one that is brittle &amp;
 that is not shiny as if burnished.</ab>
 
 </div>
-<div>
-<id>p092r_3</id>
+<div id="p092r_3">
+
 <head><m>Potin</m></head>
 
 <ab><m>Potin</m>, being cast hot, runs &amp; flows like <m>tin</m>. But
 the medal becomes whitish from this, and immediately casts out the
-<m><fr>verd</fr></m><comment>c_092r_03</comment>, which a good material does not
+<m><fr>verd</fr></m><comment rid="c_092r_03"/>, which a good material does not
 do.</ab>
 
 </div>
-<div>
-<id>p092r_4</id>
+<div id="p092r_4">
+
 <head>Molding statues</head>
 
 <ab><ms>Half</ms> <m><pro>founder</pro>’s earth, which

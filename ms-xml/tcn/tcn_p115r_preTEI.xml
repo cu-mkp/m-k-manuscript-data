@@ -1,24 +1,24 @@
-<root>
-<page>115r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="115r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f235.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f235.image</image>
 
-<div>
 
-<cont/>
 
-<id>p114r_1</id>
+<div continues="yes" id="p114r_1">
+
+
+
+
 <ab>
         
-<figure>
+<figure id="fig_p115r_1" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NmVuVUloTy0zNWc">
             
-<id>fig_p115r_1</id>
+
             
-<margin>left-top</margin>
+
             
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5NmVuVUloTy0zNWc</link>
+
             
-</figure><comment>c_115r_01</comment> 
+</figure><comment rid="c_115r_01"/> 
         
 si tu veulx, qui sera assés,<lb/>
 
@@ -107,10 +107,10 @@ en recuisant.</ab>
 
 </div>
 
-<div>
-<id>p115r_1</id>
+<div id="p115r_1">
+
 <head><del>Faire le gect, recuire les <tl>moules</tl>,
-&amp;<exp>c</exp></del><lb/>
+&amp;c</del><lb/>
 
 Advertisseme<exp>n</exp>t sur tout ce<lb/>
 
@@ -163,8 +163,8 @@ trop.</ab>
 
 </div>
 
-<div>
-<id>p115r_2</id>
+<div id="p115r_2">
+
 <head>Animal hors de despouille</head>
 
 <ab>Si par cas fortuict tu as donné un tel entortillem<exp>ent</exp> à
@@ -195,20 +195,20 @@ prise est si<lb/>
 
 ferme que pour cela l’empraincte ne se gastera poinct.</ab>
 
-<figure>
+<figure id="fig_p115r_3" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aS1ZeHc2dGxJTE0">
 
-<id>fig_p115r_3</id>
 
-<margin>left-bottom</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5aS1ZeHc2dGxJTE0</link>
 
-<comment>c_115r_02</comment></figure>
+
+
+
+<comment rid="c_115r_02"/></figure>
 
 </div>
 
-<div>
-<id>p115r_3</id>
+<div id="p115r_3">
+
 <head>Recuite de <tl>moules</tl></head>
 
 <ab>Aprés que tes <tl>moules</tl> sont recuits <del>le p</del> &amp;
@@ -231,13 +231,13 @@ recuit, pourveu<lb/>
 
 qu’il demeure rouge par dedans quand tu gecteras.</ab>
 
-<figure>
+<figure id="fig_p115r_4" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Xzg4WTZ2NFNkOHM">
 
-<id>fig_p115r_4</id>
 
-<margin>left-bottom</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Xzg4WTZ2NFNkOHM</link>
+
+
+
 
 <caption>C’est la forme des <tl>crampons</tl></caption>
 

@@ -1,10 +1,10 @@
-<root>
-<page>125v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="125v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f256.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f256.item</image>
 
-<div>
-<id>p125v_1</id>
+
+
+<div id="p125v_1">
+
 <head><al>Viperes</al> et <al>serpens</al></head>
 
 <ab>
@@ -39,8 +39,8 @@ d’où sort son fisson. Les aultres <al>serpents</al> ont double<lb/>
 
 reng de dents.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Si tu veulx <del>couper</del><lb/>
 
 <del>les</del> mouler les <al>serpents</al><lb/>
@@ -59,8 +59,8 @@ despouille.</ab>
 
 </div>
 
-<div>
-<id>p125v_2</id>
+<div id="p125v_2">
+
 <head>Mouler <al>tortues</al></head>
 
 <ab>
@@ -74,12 +74,12 @@ les deulx coquilles requierent plusieurs pieces. Elles<lb/>
 se moulent de <m>plastre</m> pour gecter en <m>sucre</m> sans faire
 gect<lb/>
 
-co<exp>mm</exp>e font toutes choses que tu vouldras.<comment>c_125r_06</comment></ab>
+co<exp>mm</exp>e font toutes choses que tu vouldras.<comment rid="c_125r_06"/></ab>
 
 </div>
 
-<div>
-<id>p125v_3</id>
+<div id="p125v_3">
+
 <head><m>Plastre</m> pour gect de <m>cire</m></head>
 
 <ab>
@@ -125,9 +125,9 @@ force gects larges s’entretenant à l’animal affin de le fortifier<lb/>
 
 en se despouillant, &amp; aprés tu couppes cela.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>+</mark><lb/>
 

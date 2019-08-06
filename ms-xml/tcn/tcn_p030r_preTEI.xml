@@ -1,10 +1,10 @@
-<root>
-<page>030r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="030r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f65.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f65.image</image>
 
-<div>
-<id>p030r_1</id>
+
+
+<div id="p030r_1">
+
 <head><m>Plomb</m></head>
 
 <ab>Le meilleur, plus gras &amp; plus douls s’aporte
@@ -22,8 +22,8 @@ des petits mirouers.</ab>
 
 </div>
 
-<div>
-<id>p030r_2</id>
+<div id="p030r_2" continued="yes">
+
 <head><pro>Pintier</pro></head>
 
 <ab>Ils font leurs <tl>moules</tl> aussy de <m>metal</m>, qui sont de
@@ -87,7 +87,7 @@ coches selon la<lb/>
 grandeur des plats &amp; des assiettes. Et quand ilz veulent
 apliquer</ab>
 
-<cont/>
+
 
 </div>
 </root>

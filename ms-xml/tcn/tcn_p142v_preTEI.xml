@@ -1,11 +1,11 @@
-<root>
-<page>142v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="142v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f290.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f290.image</image>
 
-<div>
 
-<id>p142v_1</id>
+
+<div id="p142v_1">
+
+
 
 <head>Mouler <al>saulterelles</al> et choses<lb/>
 
@@ -41,9 +41,9 @@ car elle est trop chaulde, estant fondue, &amp; faict retirer<lb/>
 
 la chose à quoy elle est apliquée. Mays le <m>bœurre</m><lb/>
 
-est amiable et maniant.<comment>c_142v_01</comment></ab>
+est amiable et maniant.<comment rid="c_142v_01"/><hr/></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Si tu escripts<lb/>
 
@@ -73,7 +73,7 @@ Escripts doncq de<lb/>
 
 imprime.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 <mark>+</mark>
 
@@ -90,13 +90,13 @@ Et ne faicts pas tant de fœu où le <tl>moule</tl> est<lb/>
 
 tanvre co<exp>mm</exp>e au lieu où<lb/>
 
-il est espés.</ab>
+il est espés.<hr/></ab>
 
 </div>
 
-<div>
+<div id="p142v_2">
 
-<id>p142v_2</id>
+
 
 <head><tl>Moules</tl></head>
 
@@ -108,7 +108,7 @@ de force. Garde bien de les recuire à coup &amp; à fœu trop<lb/>
 
 ardent, car cella les faict <del>fondre</del> rompre.</ab>
 
-<ab><margin>right-middle</margin>
+<ab margin="right-middle">
 
 Ne les tiens pas en <env>lieu humide<lb/>
 
@@ -118,7 +118,7 @@ car ilz se moisissent. Les<lb/>
 
 animaulx sechés aussy.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
  Il ne fault poinct<lb/>
 
@@ -144,9 +144,9 @@ le <tl>moule</tl>.</ab>
 
 </div>
 
-<div>
+<div id="p142v_3">
 
-<id>p142v_3</id>
+
 
 <head><m><tl>Luth</tl></m> pour <m><tl>luther</tl></m> tes <tl>moules</tl></head>
 
@@ -156,7 +156,7 @@ ne de meilleur. P<exp>rens</exp> de ceste <m>terre maigre, de laquelle
 les<lb/>
 
 <pro>fondeurs d’<wp>artiglerie</wp> &amp; de cloches</pro> font leur
-<tl>trusseaulx</tl><lb/><comment>c_142v_07</comment>
+<tl>trusseaulx</tl><lb/><comment rid="c_142v_07"/>
 
 et <tl>moules</tl></m>, qui est maigre &amp; sabloneuse. Destrempe
 l<del>e</del>a<lb/>

@@ -1,11 +1,11 @@
-<root>
-<page>047r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="047r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f99.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f99.image</image>
 
-<div>
 
-<id>p047r_1</id>
+
+<div id="p047r_1">
+
+
 
 <head><md>For <bp>teeth</bp></md></head>
 
@@ -21,9 +21,9 @@ with <m>rose honey</m> &amp; a little <m><pa>cinnamon</pa> or
 
 </div>
 
-<div>
+<div id="p047r_2">
 
-<id>p047r_2</id>
+
 
 <head><m>Antimony oil</m></head>
 
@@ -34,9 +34,9 @@ once heated.
 
 </div>
 
-<div>
+<div id="p047r_3">
 
-<id>p047r_3</id>
+
 
 <head><md>Against falling sickness or vertigo</md></head>
 
@@ -47,18 +47,18 @@ which should be picked <tmp>at the waning of the moon</tmp>.
 
 </div>
 
-<div>
+<div id="p047r_4">
 
-<id>p047r_4</id>
+
 
 <head>Crucibles</head>
 
 <ab>Those from <pl>Bayonne</pl>, which seem to be made of
-<m><fr>grès</fr></m><comment>c_047r_02</comment> are better, for they last, without comparison,
+<m><fr>grès</fr></m><comment rid="c_047r_02"/> are better, for they last, without comparison,
 longer than others. And because they are not very thick, one wastes less
 <m>charcoal</m> melting <m>gold</m> &amp; <m>silver</m>, for they heat
 quickly. They do not drink as much <m>silver</m> as the others,
-&amp; for this reason, there is hardly any <m>residue</m><comment>c_047r_03</comment> to be
+&amp; for this reason, there is hardly any <m>residue</m><comment rid="c_047r_03"/> to be
 found in them. They are less prone to tipping as others that have a
 flat foot.
 
@@ -66,9 +66,9 @@ flat foot.
 
 </div>
 
-<div>
+<div id="p047r_5">
 
-<id>p047r_5</id>
+
 
 <head><md>Against diarrhea</md> and <md>dysentery</md></head>
 

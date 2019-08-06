@@ -1,11 +1,11 @@
-<root>
-<page>097v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="097v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f200.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f200.item</image>
 
-<div>
 
-<id>p097v_1</id>
+
+<div id="p097v_1">
+
+
 
 <head><m>Vernis de mastic</m> sec en <ms><tmp>demye<lb/>
 
@@ -92,17 +92,17 @@ pour petits ouvrages. Advise bien en vernissant de ne halener pas<lb/>
 dessus, car cela feroit blanchir &amp; prendre corps au
 <m>vernis</m>.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Il deseiche presque en travaillant.
 
 </ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 On cognoist que ce<lb/>
 
@@ -134,9 +134,9 @@ d’<m><pa>aspic</pa></m>.
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Car aulcuns, au lieu<lb/>
 
@@ -150,9 +150,9 @@ pas si bon.
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Ce <m>vernis</m> se pose<lb/>
 
@@ -166,9 +166,9 @@ estendre bien vivement.
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Les <pl>Italiens</pl> ne<lb/>
 
@@ -190,9 +190,9 @@ une peau &amp; croste<lb/>
 
 seiche.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 On couche le <m>vernis</m><lb/>
 
@@ -206,13 +206,13 @@ car estant espés, il jaulnist.
 
 </div>
 
-<div>
+<div id="p097v_2">
 
-<id>p097v_2</id>
+
 
 <head>Travailler d’aprest</head>
 
-<ab>C’est une chose estrange que les <pro>ouvriers</pro> de cest art<comment>c_097v_01</comment> 
+<ab>C’est une chose estrange que les <pro>ouvriers</pro> de cest art<comment rid="c_097v_01"/> 
 ne<lb/>
 
 peuvent bien travailler s’ils n’ont bonne <bp>halene</bp>, car s’ils

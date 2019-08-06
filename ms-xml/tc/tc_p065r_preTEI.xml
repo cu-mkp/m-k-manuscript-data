@@ -1,11 +1,11 @@
-<root>
-<page>065r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="065r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f135.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f135.image</image>
 
-<div>
 
-<id>p065r_1</id>
+
+<div id="p065r_1">
+
+
 
 <head>Umbres</head>
 
@@ -26,11 +26,11 @@ d<m>ocre <add>jaulne</add></m> &amp; de<lb/>
 <m>blanc de plomb</m> Ou bien apres que tu as broye ton <m>blanc de
 plomb</m><lb/>
 
-<del>bro</del> et <del>nettoye p</del> ramasse avecq la <figure>
+<del>bro</del> et <del>nettoye p</del> ramasse avecq la <figure id="fig_p065r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UFZyOUNKU3pqVXc">
 
-<id>fig_p065r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5UFZyOUNKU3pqVXc</link>
+
+
 
 </figure> broyes y la <m>geiette</m> Ainsy il<lb/>
 
@@ -45,9 +45,9 @@ des femmes Prens doncq du noir de <gap/> un peu de <m>verd de<lb/>
 vessie</m> &amp; du <m>bistre</m> &amp; tu auras un parfaict umbre de
 femme a <m>destremp<ups>e</ups></m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 La pouldre<lb/>
 
@@ -73,9 +73,9 @@ de corps</ab>
 
 </div>
 
-<div>
+<div id="p065r_2">
 
-<id>p065r_2</id>
+
 
 <head>Carnation</head>
 
@@ -91,11 +91,11 @@ droicte a la<lb/>
 
 gaulche co<exp>mm</exp>e
 
-<figure>
+<figure id="fig_p065r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5eUhrRmdpaWNCZlk">
 
-<id>fig_p065r_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5eUhrRmdpaWNCZlk</link>
+
+
 
 </figure>
 
@@ -105,9 +105,9 @@ doibt estre adoulci en rond</ab>
 
 </div>
 
-<div>
+<div id="p065r_3">
 
-<id>p065r_3</id>
+
 
 <head><tl>Mirouer</tl></head>
 
@@ -133,9 +133,9 @@ naturel peult faire</ab>
 
 </div>
 
-<div>
+<div id="p065r_4">
 
-<id>p065r_4</id>
+
 
 <head>Couleurs grasses</head>
 
@@ -152,10 +152,10 @@ pourceque<lb/>
 
 lhumidite fera prendre les couleurs</ab>
 
-<ab>
+<ab margin="left-top" render="tall">
 
-<margin>left-top</margin>
-<render>tall</render>
+
+
 
 On ne peult<lb/>
 
@@ -181,10 +181,10 @@ puys coucher l<m>or couleur</m><lb/>
 
 avecq le <tl>pinceau</tl>.</ab>
 
-<ab>
+<ab margin="left-top" render="tall">
 
-<margin>left-top</margin>
-<render>tall</render>
+
+
 
 Toutes couleurs<lb/>
 
@@ -200,10 +200,10 @@ sont bonnes pour<lb/>
 
 faire or couleur</ab>
 
-<ab>
+<ab margin="left-top" render="tall">
 
-<margin>left-top</margin>
-<render>tall</render>
+
+
 Toute couleur ou chose<lb/>
 
 qui se rend espesse<lb/>

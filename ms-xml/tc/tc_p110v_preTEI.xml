@@ -1,13 +1,13 @@
-<root>
-<page>110v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="110v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f226.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f226.image</image>
 
-<div>
 
-<cont/>
 
-<id>p110r_3</id>
+<div continues="yes" id="p110r_3">
+
+
+
+
 
 <ab>Quand il ha mange quelque chose en le tourmentant<lb/>
 
@@ -20,9 +20,9 @@ fort<lb/>
 
 volontiers</ab></div>
 
-<div>
+<div id="p110v_1">
 
-<id>p110v_1</id>
+
 
 <head><tl>Moules</tl></head>
 
@@ -33,7 +33,7 @@ quand<lb/>
 
 tu les veulx desjoindre Trempe les dans de l<m>eau<lb/>
 
-froide</m> qui est le secret <del>L</del><add>E</add>t tu verras que
+froide</m> qui est le secret <del>L</del>Et<comment rid="c_110v_04"/> tu verras que
 l<m>huile</m> encores<lb/>
 
 quil semble estre imbu Se retirera a part co<exp>mm</exp>e une
@@ -49,9 +49,9 @@ recuits ilz soient plus maniables &amp; aises a dissouldre<lb/>
 
 dans l<m>eau</m></ab></div>
 
-<div>
+<div id="p110v_2">
 
-<id>p110v_2</id>
+
 
 <head><m>Huile de <pa>froment</pa></m></head>
 
@@ -70,9 +70,9 @@ que tu veulx mouler soict couche car estant debout il feroit<lb/>
 
 relever le <m>sable</m> &amp; soufler</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
-<mark>#</mark><comment>c_110v_01</comment><lb/>
+<mark>#</mark><comment rid="c_110v_01"/><lb/>
 
 Si tu veulx mouler<lb/>
 
@@ -88,7 +88,7 @@ peu despesseur<lb/>
 
 plus que le naturel<lb/>
 
-Aulcuns<comment>c_110v_02</comment> la frottent<lb/>
+Aulcuns<comment rid="c_110v_02"/> la frottent<lb/>
 
 de <m>beurre</m> Mays il<lb/>
 
@@ -108,9 +108,9 @@ si faict affermir<lb/>
 
 la fleur</ab></div>
 
-<div>
+<div id="p110v_3">
 
-<id>p110v_3</id>
+
 
 <head>Gect de <m>plomb</m> et <m>estaim</m></head>
 
@@ -129,7 +129,7 @@ Et encores ne<lb/>
 mect on le <m>plomb</m> que pour lalier Au contraire si tu veulx<lb/>
 
 mouler quelque chose forte &amp; espesse
-Mays<comment>c_110v_03</comment> beaucoup plus<lb/>
+Mays<comment rid="c_110v_03"/> beaucoup plus<lb/>
 
 de <m>plomb</m> que d<m>estaim</m> Et en lun &amp; laultre tu peulx
 mectre<lb/>
@@ -147,9 +147,9 @@ fin</m> pour <ms>lb</ms>Jay faict des<lb/>
 
 herbes &amp; <al>serpents</al> co<exp>mm</exp>e le naturel</add></ab>
 
-<ab><margin>left-bottom</margin><del>S<ill/></del></ab>
+<ab margin="left-bottom"><del>S<ill/></del></ab>
 
-<ab><margin>left-bottom</margin>
+<ab margin="left-bottom">
 
 Jay gecte l<m>estaim</m><lb/>
 

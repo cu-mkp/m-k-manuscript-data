@@ -1,13 +1,13 @@
-<root>
-<page>061r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="061r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f127.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f127.image</image>
 
-<div>
 
-<cont/>
 
-<id>p060v_4</id>
+<div continues="yes" id="p060v_4">
+
+
+
+
 
 <ab>et lunissent bien <del>puys</del> et estant bien seiche deseignent
 leur pour<ups>trait</ups><lb/>
@@ -33,9 +33,9 @@ ouvraige est net &amp; les couleurs ne se meurent poinct</ab>
 
 </div>
 
-<div>
+<div id="p061r_1">
 
-<id>p061r_1</id>
+
 
 <head>Carnations</head>
 
@@ -57,11 +57,11 @@ trop car cela feroit sembler un visaige de mort La be<ups>lle</ups><lb/>
 au <del><ill/></del> teint de la <m>rose alexandrine</m> &amp;
 <m>incarnadine</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<comment>c_061r_04</comment> Certaines<lb/>
+
+<comment rid="c_061r_04"/> Certaines<lb/>
 
 couleurs ne veulent<lb/>
 
@@ -81,9 +81,9 @@ estre broyees</ab>
 
 </div>
 
-<div>
+<div id="p061r_2">
 
-<id>p061r_2</id>
+
 
 <head>Arrondir</head>
 
@@ -101,9 +101,9 @@ aplati</tl><lb/>
 
 </div>
 
-<div>
+<div id="p061r_3">
 
-<id>p061r_3</id>
+
 
 <head><m>Blanc de plomb</m></head>
 
@@ -115,9 +115,9 @@ la <m>ceruse</m> pourceque elle nha pas asses de corps</ab>
 
 </div>
 
-<div>
+<div id="p061r_4">
 
-<id>p061r_4</id>
+
 
 <head>Jours</head>
 
@@ -128,11 +128,11 @@ suivre le <bp>derriere de ta main</bp> non pas de droicte ligne
 comme<lb/>
 
 ainsy
-<figure><id>fig_p061r_1</id><link>https://drive.google.com/open?id=0B9-oNrvWdlO5LVgyaXJ0Rl8wMjA</link></figure>
+<figure id="fig_p061r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5LVgyaXJ0Rl8wMjA"/>
 car le jour seroict trop crud &amp; trop rude Mays<lb/>
 
 obliquement &amp; co<exp>mm</exp>e en pante ainsy
-<figure><id>fig_p061r_2</id><link>https://drive.google.com/open?id=0B9-oNrvWdlO5a0g1a0hvTUdHRFE</link></figure>
+<figure id="fig_p061r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5a0g1a0hvTUdHRFE"/>
 Il fault que le<lb/>
 
 tableau ne soict pas de front contre le <env>jour</env> Mays<lb/>

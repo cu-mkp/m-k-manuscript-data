@@ -1,17 +1,17 @@
-<root>
-<page>075v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="075v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f156.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f156.item</image>
 
-<div>
 
-<id>p075v_1</id>
+
+<div id="p075v_1">
+
+
 
 <head>For making gray <m>wood</m></head>
 
 <ab>One needs to take three <ms>half-septiers</ms> of <m>iron
 filings</m>, xviii <del><fr>s</fr></del> <ms><fr>deniers'</fr>-worth</ms> of
-<m>glass alum</m>,<comment>c_075v_03</comment> &amp; as much <m>green copperas</m>,
+<m>glass alum</m>,<comment rid="c_075v_03"/> &amp; as much <m>green copperas</m>,
 six <ms><fr>deniers'</fr>-worth</ms> of <m>verdigris</m>, <m>pitch</m>,
 &amp; a <ms>quart</ms> of <del><fr>cuyr</fr></del> <m><pro>currier's</pro>
 water</m>, and if you cannot find it, you will put <del>more</del>
@@ -19,9 +19,9 @@ water</m>, and if you cannot find it, you will put <del>more</del>
 
 </div>
 
-<div>
+<div id="p075v_2">
 
-<id>p075v_2</id>
+
 
 <head>For <m>gilding</m> on <m>wood</m></head>
 
@@ -30,7 +30,8 @@ once dry, you will put down a layer of <m>yellow gold</m>. And when it is
 done, you will take <m><pa>fig tree</pa> wood</m>, &amp; put it to soak
 some space of time, &amp; wash the places you want to <m>gild</m>, and
 cut your <m>gold</m> with a <tl>knife</tl> to the price that you will
-lay. And one must lay the said <m>gold</m> with <tl><m>cotton</m></tl>. 
+lay. And one must lay the said <m>gold</m> with 
+<del><fr>ie</fr></del><tl><m>cotton</m></tl>.<comment rid="c_075v_04"/> 
 And if you can find some <m>fig tree</m>,
 take the <m>the white of one egg</m> &amp; stir it vigorously.</ab>
 
@@ -43,13 +44,13 @@ chafing-dish</tl>, and make the <m>smoke</m> go against what you have
 
 </div>
 
-<div>
+<div id="p075v_3">
 
-<id>p075v_3</id>
+
 
 <head>For <m>gilding</m> with <m><fr>or moleu</fr></m></head>
 
-<ab>One needs to take a <tl>shell</tl> of <m>gold</m><comment>c_075v_02</comment>
+<ab>One needs to take a <tl>shell</tl> of <m>gold</m><comment rid="c_075v_02"/>
 and, before you want to work with it, you will put it to soak with <m>gum
 water</m> and lay it down with a <tl>paintbrush</tl>, &amp;
 polish it with a <del>skin</del> <tl><al>wolf</al>’s tooth</tl> when it
@@ -57,19 +58,19 @@ is dry.</ab>
 
 </div>
 
-<div>
+<div id="p075v_4" continued="yes">
 
-<id>p075v_4</id>
+
 
 <head>Recipe for putting all <m>woods</m> in color</head>
 
 <ab>For making it black, one needs to soak it in <m><pa>olive</pa>
-oil</m>, and similarly in the case of <m>horn</m>, four or five
+oil</m>, and similarly for <m>horn</m>, as the case may be, four or five
 <ms><tmp>days</tmp></ms>, &amp; then boil it where it has soaked
 for the space of one <ms><tmp>hour</tmp></ms>, &amp; take it out of the
 <m>oil</m>, and take some <m>natural sulfur</m> or another</ab>
 
-<cont/>
+
 
 </div>
 </root>

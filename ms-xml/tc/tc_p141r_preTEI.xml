@@ -1,15 +1,15 @@
-<root>
-<page>141r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="141r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image</image>
 
-<div>
 
-<id>p141r_1</id>
+
+<div id="p141r_1" continued="yes">
+
+
 
 <head>Mouler une <al>escrevisse</al></head>
 
-<ab><margin>top</margin>
+<ab margin="top">
 
 Sil y manque quelque petite chose tu la<lb/>
 
@@ -101,9 +101,9 @@ prise se separe aisem<exp>ent</exp> du premier apres estre recuit<lb/>
 
 qui est un particulier secret pour semblable <tl>moules</tl></ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Le gect se faict par la<lb/>
 
@@ -111,9 +111,9 @@ queue fort tanvre
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Noublie pas<lb/>
 
@@ -125,9 +125,9 @@ que mouler
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Le <al>cerf volant</al><lb/>
 
@@ -139,9 +139,9 @@ de mesme facon
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Si ton <al>escrevisse</al><lb/>
 
@@ -159,9 +159,9 @@ peulx donner
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Elle se pourroit<lb/>
 
@@ -193,9 +193,9 @@ pour les <al>tortues</al>
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Quand tu ouvres<lb/>
 
@@ -215,9 +215,9 @@ le <m>☿</m> ny feroit rien
 
  
 
-<ab>
+<ab margin="bottom">
 
-<margin>bottom</margin><hr/>
+<hr/>
 
 Couche ces<lb/>
 
@@ -229,9 +229,9 @@ fort cleres
 
 </ab>
 
-<ab>
+<ab margin="right-bottom">
 
-<margin>right-bottom</margin><hr/>
+<hr/>
 
 Pour la paindre fais la bouillir avecq du <m>vin</m> &amp; un<lb/>
 
@@ -248,7 +248,7 @@ et du <m>blanc</m>
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

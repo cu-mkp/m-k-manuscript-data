@@ -1,10 +1,10 @@
-<root>
-<page>047v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="047v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f100.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f100.image</image>
 
-<div>
-<id>p047v_1</id>
+
+
+<div id="p047v_1">
+
 <head>A drink having a <sn>taste</sn> of <m>wine</m></head>
 
 <ab>Take <m>tartar from large vessels</m> &amp; soak it in
@@ -12,11 +12,11 @@
 
 </div>
 
-<div>
-<id>p047v_2</id>
+<div id="p047v_2">
+
 <head>Founding</head>
 
-<ab>Some, to make it run neatly, put <ms>half</ms> <m><fr>metal</fr></m><comment>c_016v_05</comment> &amp;
+<ab>Some, to make it run neatly, put <ms>half</ms> <m><fr>metal</fr></m><comment rid="c_016v_05"/> &amp;
 <ms>half</ms> <m>copper</m>. Others take one <ms>part</ms> of
 <m>potin</m> &amp; one <ms>part</ms> of <del><m>copper</m></del>
 <m>latten</m>. Others take one <ms>part</ms> of <m>candlestick
@@ -37,8 +37,8 @@ heavy as <m>metal</m>. And in this instance, one needs to <m><tl>lute</tl></m> t
 <tl><oc>crucibles</oc></tl> with <m>earth</m> and <m><tl>pestled</tl> glass</m>.</ab>
 
 </div>
-<div>
-<id>p047v_3</id>
+<div id="p047v_3">
+
 <head><tl>Crucibles</tl></head>
 
 <ab>Those that are made <tmp>in winter</tmp> &amp; <env><tmp>humid
@@ -46,8 +46,8 @@ weather</tmp></env> are not good. Those of the founders must be thick
 and must be <m><tl>luted</tl></m>.</ab>
 
 </div>
-<div>
-<id>p047v_4</id>
+<div id="p047v_4">
+
 <head>Cast</head>
 
 <ab>Finely <m>calcined pumice stone</m> casts 22 <ms>carat</ms>

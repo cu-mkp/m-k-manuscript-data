@@ -1,11 +1,11 @@
-<root>
-<page>137r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="137r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f279.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f279.image</image>
 
-<div>
 
-<id>p137r_1</id>
+
+<div id="p137r_1">
+
+
 
 <head>Pour gecter en <m>cuivre rouge</m></head>
 
@@ -24,7 +24,7 @@ le <m>cuivre</m> fort chault dans le <tl>moule</tl>, qui soit aussy
 enflammé<lb/>
 
 &amp; tout rouge co<exp>mm</exp>e en l’<m>or</m>, <m>argent</m>,
-<m>letton</m> &amp; <m>metal</m>.<comment>c_016v_05</comment> Tu cognoistras<lb/>
+<m>letton</m> &amp; <m>metal</m>.<comment rid="c_016v_05"/> Tu cognoistras<lb/>
 
 qu’il sera assés chault quand il est uny, clair &amp; luisant comme<lb/>
 
@@ -41,7 +41,7 @@ Le <m>cuivre rouge</m> vient plus net que le <m>laitton</m> qui ha<lb/>
 
 <m>force fumées</m> qui empeschent de courre. Je l’ay moulé en<lb/>
 
-noyau net co<exp>mm</exp>e le principal<comment>c_137r_03</comment> &amp; tanvre co<exp>mm</exp>e
+noyau net co<exp>mm</exp>e le principal<comment rid="c_137r_03"/> &amp; tanvre co<exp>mm</exp>e
 <m>papier</m>. Il faut<lb/>
 
 qu’il soict si chault qu’il soict blanc &amp; luisant &amp; poly
@@ -52,9 +52,9 @@ gecté au mesme <m>sable</m> que dessus en<lb/>
 
 noyau.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Le <m>cuivre</m> et <m>letton</m> sont les plus longs à fondre que nul
 des aultres <m>metaulx</m>,<lb/>
@@ -69,27 +69,27 @@ fort chault,<lb/>
 
 qu’il soit co<exp>mm</exp>e <m>eau</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Ostant ton <tl>moule</tl><lb/>
 
 du fœu, plante<lb/>
 
-le dans <corr><del>d</del></corr><del>es</del><comment>c_137r_02</comment> <tl>brasier</tl><lb/>
+le dans <corr><del>d</del></corr><del>es</del><comment rid="c_137r_02"/> <tl>brasier</tl><lb/>
 
 duquel soict<lb/>
 
 remply un <tl>pot</tl><lb/>
 
-ou <tl>vaisseau</tl><comment>c_137r_01</comment>.<hr/></ab>
+ou <tl>vaisseau</tl><comment rid="c_137r_01"/>.<hr/></ab>
 
 </div>
 
-<div>
+<div id="p137r_2">
 
-<id>p137r_2</id>
+
 
 <head><m>Huile tingente</m> pour fayre<lb/>
 
@@ -116,10 +116,10 @@ Laisse<lb/>
 
 courra merveilleusem<exp>ent</exp>.</ab>
 
-<ab>
+<ab margin="left-top" render="tall">
 
-<margin>left-top</margin>
-<render>tall</render>
+
+
 Les <pro>fondeurs<lb/>
 
 de grand gect<lb/>
@@ -162,9 +162,9 @@ perdre tout.</ab>
 
 </div>
 
-<div>
+<div id="p137r_3">
 
-<id>p137r_3</id>
+
 
 <head><tl>Crampons</tl></head>
 
@@ -179,13 +179,13 @@ souvent<lb/>
 
 dans les <tl>moules</tl> à recuire. Sers toy doncq des nouveaulx.</ab>
 
-<figure>
+<figure id="fig_p137r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aG5XMHdYTTYzbzA">
 
-<id>fig_p137r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5aG5XMHdYTTYzbzA</link>
+
+
+
 
 </figure>
 

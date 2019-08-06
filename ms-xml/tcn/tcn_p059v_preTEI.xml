@@ -1,11 +1,11 @@
-<root>
-<page>059v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="059v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f124.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f124.item</image>
 
-<div>
 
-<id>p059v_1</id>
+
+<div id="p059v_1">
+
+
 
 <head><del>Noir</del> Paincture d’armes</head>
 
@@ -15,12 +15,12 @@ est<lb/>
 fort propre pour faire les armes, y meslant si tu veux un<lb/>
 
 peu <del>de <ill/></del> d’<m>azur</m>. Le
-<m><add>noir<comment>c_059v_02</comment> de</add> charbon</m> de soy
+<m><add>noir<comment rid="c_059v_02"/> de</add> charbon</m> de soy
 mesme est co<exp>mm</exp>e bluastre.</ab></div>
 
-<div>
+<div id="p059v_2">
 
-<id>p059v_2</id>
+
 
 <head>Paincture de <m>crespe</m></head>
 
@@ -36,9 +36,9 @@ de plomb</m>.</ab>
 
 </div>
 
-<div>
+<div id="p059v_3">
 
-<id>p059v_3</id>
+
 
 <head>Plis de vestements</head>
 
@@ -60,9 +60,9 @@ aultres de large.</ab>
 
 </div>
 
-<div>
+<div id="p059v_4">
 
-<id>p059v_4</id>
+
 
 <head>Desiccatif</head>
 
@@ -79,9 +79,9 @@ du <m>blanc de plomb</m>, &amp; s’il faict crouste <del>en un
 
 c’est à dire qu’il se desechera.</ab></div>
 
-<div>
+<div id="p059v_5">
 
-<id>p059v_5</id>
+
 
 <head>Double couche</head>
 
@@ -93,9 +93,9 @@ Les aultres, non.</ab>
 
 </div>
 
-<div>
+<div id="p059v_6" continued="yes">
 
-<id>p059v_6</id>
+
 
 <head>Racoustrer les fentes d’un tableau</head>
 
@@ -112,7 +112,7 @@ touché de l’<m>huile</m> de la paincture s’enfleroit, mays<lb/>
 
 ayes de la <m>cire blanche</m>, qui est plus dure que l’aultre.<lb/>
 
-<comment>c_059v_01</comment>L’<m>huile</m> meslée parmy la <m>cire</m>
+<comment rid="c_059v_01"/>L’<m>huile</m> meslée parmy la <m>cire</m>
 empesche qu’elle ne se fonde<lb/>
 
 <env>au soleil</env>. Il ne fault pas que la <m>cire</m> soict dure,
@@ -123,7 +123,7 @@ la<lb/>
 
 <tl>poincte d’un costeau</tl>, puys racle;</ab>
 
-<cont/>
+
 
 </div>
 </root>

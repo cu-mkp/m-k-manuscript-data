@@ -1,13 +1,13 @@
-<root>
-<page>073v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="073v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f152.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f152.image</image>
 
-<div>
 
-<cont/>
 
-<id>p073r_5</id>
+<div continues="yes" id="p073r_5">
+
+
+
+
 
 <ab>broyes a part Quand Il sera bien broye prenes le <m>sel armoniac</m>
 &amp;<lb/>
@@ -25,14 +25,14 @@ Remues fort Jusques a ce q<exp>ui</exp>l soit en pouldre</ab>
 
 </div>
 
-<div>
+<div id="p073v_1">
 
-<id>p073v_1</id>
+
 
 <head>Pour le Coucher</head>
 
 <ab>Prenes de la <m>colle de <pl>partenay</pl>
-<add><comment>c_073v_01</comment>ou parchemin</add></m> Et lapliques
+<add><comment rid="c_073v_01"/>ou parchemin</add></m> Et lapliques
 avecq Le <m>blanc<lb/>
 
 dung oeuf</m> puys prenes ung peu de <m>saffran</m> Et du
@@ -45,9 +45,9 @@ prenes la <m>bronze</m> Et laplicques dessus</ab>
 
 </div>
 
-<div>
+<div id="p073v_2">
 
-<id>p073v_2</id>
+
 
 <head><m>Verny</m></head>
 
@@ -63,9 +63,9 @@ dedans une <tl>fiole</tl> &amp; le coucher sur le <m>boys</m></ab>
 
 </div>
 
-<div>
+<div id="p073v_3">
 
-<id>p073v_3</id>
+
 
 <head>Aultre recepte pour faire <m>verny</m></head>
 
@@ -79,9 +79,9 @@ d<pa>aspic</pa></m></ab>
 
 </div>
 
-<div>
+<div id="p073v_4">
 
-<id>p073v_4</id>
+
 
 <head>Couleur de Cuyvre bruny</head>
 

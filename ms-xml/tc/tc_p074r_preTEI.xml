@@ -1,11 +1,11 @@
-<root>
-<page>074r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="074r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f153.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f153.image</image>
 
-<div>
 
-<id>p074r_1</id>
+
+<div id="p074r_1">
+
+
 
 <head>Pour <m>bronzer</m> blanc</head>
 
@@ -19,9 +19,9 @@ vous le mectres dessus le <tl><m>mabre</m></tl></ab>
 
 </div>
 
-<div>
+<div id="p074r_2">
 
-<id>p074r_2</id>
+
 
 <head>Pour faire <m>vernilhon</m></head>
 
@@ -29,7 +29,7 @@ vous le mectres dessus le <tl><m>mabre</m></tl></ab>
 fondre &amp; le<lb/>
 
 mectes dedans deux <ms>livres</ms> de
-<del>merecuse</del><comment>c_074r_01</comment><add><comment>c_074r_02</comment><m>mercure</m></add>
+<del>merecuse</del><comment rid="c_074r_01"/><add><comment rid="c_074r_02"/><m>mercure</m></add>
 Et si celle matiere sen<lb/>
 
 flame couvres la bien gentiment q<exp>ue</exp> lair ne passe dedans le
@@ -46,9 +46,9 @@ aures de <m>bon vernilhon</m>
 
 </div>
 
-<div>
+<div id="p074r_3" continued="yes">
 
-<id>p074r_3</id>
+
 
 <head>Pour faire <m>verny</m></head>
 
@@ -74,7 +74,7 @@ deux <ms>onces</ms> de <m>sandrax bien pilles</m> &amp; le feres comme
 dessus Et<lb/>
 
 puys appres prandres <m><m>mastic</m> &amp;
-<m>arrab<del>e</del><add>i</add>c</m> deux <ms>onces</ms> de
+<m>arrab<del>e</del>ic</m><comment rid="c_074r_03"/> deux <ms>onces</ms> de
 ch<exp>asc</exp>un qui<lb/>
 
 soit bien broye tous deux</m> Et le mectres tout ensemble &amp; le<lb/>
@@ -90,7 +90,7 @@ feres bouillir Et si vous y mectes deux <ms>onces</ms> de
 
 voyes qui ne soit asses cuyt faictes le cuyre davantage apetict</ab>
 
-<cont/>
+
 
 </div>
 </root>

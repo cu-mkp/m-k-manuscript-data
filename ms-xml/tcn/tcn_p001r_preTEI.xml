@@ -1,12 +1,12 @@
-<root>
-<page>001r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="001r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f7.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f7.image</image>
 
-<div>
 
-<id>p001r_1</id>
-<head><sup>List of names</sup></head>
+
+<div id="p001r_1">
+
+
+<head><sup>Liste de noms</sup></head>
 
 <ab>
 
@@ -26,10 +26,10 @@ Boucherie</pl>, <pro>courroyeur</pro>. Essayer <m>fleur de
 
 </div>
 
-<div>
+<div id="p001r_2">
 
-<id>p001r_2</id>
-<head><sup>List</sup></head>
+
+<head><sup>Liste</sup></head>
 
 <ab><hr/>Le <pro>moissonneur</pro> laissant quelques espis n’est repris.<lb/>
 
@@ -39,10 +39,10 @@ Trompettes, voy le livre des funerailles.<hr/></ab>
 
 </div>
 
-<div>
+<div id="p001r_3">
 
-<id>p001r_3</id>
-<head><sup>List of books</sup></head>
+
+<head><sup>Liste de livres</sup></head>
 
 <ab><la>Vuolfangus Lazius.<lb/>
 
@@ -58,12 +58,12 @@ Angelius Bargaeus, De <al>aucupio</al> et <al>venatione</al>.<lb/>
 
 Nicolaus Damascenus.</la></ab>
 
-<ab><la>Ca<corr><del>r</del></corr>es<exp>ariensis</exp>, De rebus
+<ab><la>Cares<exp>ariensis</exp>,<comment rid="c_001r_34"/> De rebus
 Persarum.<lb/>
 
 Isidorus.</la></ab>
 
-<ab><la>O<corr>r</corr>o<corr>s</corr>ius.<lb/>
+<ab><la>Osorius<comment rid="c_001r_35"/>.<lb/>
 
 Eupolemus, historicus gentilis<lb/>qui de rebus Davidis &amp;
 Salomonis<lb/>
@@ -98,25 +98,25 @@ et de la <pro><pn>royne mere</pn></pro>.</ab>
 
 </div>
 
-<div>
+<div id="p001r_4">
 
-<id>p001r_4</id>
-<head><sup>List of books</sup></head>
+
+<head><sup>Liste de livres</sup></head>
 <ab><la><al>Aquatilium animalium</al> historiae, Hypolito<lb/>
 
 Salviano Typhernate authore, <pl>Romae</pl> 1554.</la></ab>
 
 </div>
 
-<div>
+<div id="p001r_5">
 
-<id>p001r_5</id>
-<head><sup>List of books and authors</sup></head>
+
+<head><sup>Liste de livres et d'auteurs</sup></head>
 <ab>Les Annales de <pl>Normandie</pl>.</ab>
 
-<ab>
+<ab margin="right-middle">
 
-<margin>right-middle</margin>
+
 
 <la><pn>Alexander
 Aphrodisaeus</pn>.<lb/>

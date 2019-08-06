@@ -1,11 +1,11 @@
-<root>
-<page>063r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="063r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f131.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f131.image</image>
 
-<div>
 
-<id>p063r_1</id>
+
+<div id="p063r_1">
+
+
 
 <head>Couleur d’<pa>amaranthe</pa></head>
 
@@ -23,9 +23,9 @@ aultant.</ab>
 
 </div>
 
-<div>
+<div id="p063r_2">
 
-<id>p063r_2</id>
+
 
 <head>Desiccation d’<m>huile</m></head>
 
@@ -39,9 +39,9 @@ deseiche point trop tost ne trop tard.</ab>
 
 </div>
 
-<div>
+<div id="p063r_3">
 
-<id>p063r_3</id>
+
 
 <head>Gect</head>
 
@@ -63,9 +63,9 @@ soict<lb/>
 tout nœuf. Aulcuns gectent dans des <tl>formes de <m>fer</m> &amp; de
 <m>cuivre</m></tl>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 ou du <m>plomb</m><lb/>
 
@@ -91,9 +91,9 @@ font gect.</ab>
 
 </div>
 
-<div>
+<div id="p063r_4">
 
-<id>p063r_4</id>
+
 
 <head>Umbres</head>
 
@@ -105,9 +105,9 @@ l’<m>ocre</m>.</ab>
 
 </div>
 
-<div>
+<div id="p063r_5">
 
-<id>p063r_5</id>
+
 
 <head><m>Bistre</m></head>
 
@@ -118,9 +118,9 @@ de <m>boys</m>.</ab>
 
 </div>
 
-<div>
+<div id="p063r_6">
 
-<id>p063r_6</id>
+
 
 <head><m>Verdegris</m> et aultre tres beau vert<lb/>
 

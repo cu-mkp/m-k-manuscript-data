@@ -1,15 +1,15 @@
-<root>
-<page>148v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="148v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f302.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f302.image</image>
 
-<div>
 
-<id>p148v_1</id>
+
+<div id="p148v_1">
+
+
 
 <head>Mouler <al>tortues</al></head>
 
-<ab><comment>c_148v_01</comment>Aprés rassemble les parties de ton
+<ab><comment rid="c_148v_01"/>Aprés rassemble les parties de ton
 <tl>moule</tl> et<lb/>
 
 <tl>cramponne</tl> curieusement toutes les joinctures, tant<lb/>
@@ -82,7 +82,7 @@ obvier aulx baves qui se font ou quand le <tl>moule</tl> n’est<lb/>
 pas bien joinct ou quand il est crevé. Pour reparer,<lb/>
 
 si les traicts ne sont assés aparents,
-ressuicts<comment>c_148v_02</comment> les legerem<exp>ent</exp><lb/>
+ressuicts<comment rid="c_148v_02"/> les legerem<exp>ent</exp><lb/>
 
 avecq un <tl>burin</tl>, puys les adoulcis avecq le <tl>ciselet</tl>.
 Les<lb/>
@@ -97,7 +97,7 @@ gouge</tl> ou <tl>petites portes pieces rondes</tl>, ou avecq la
 
 ciselet</tl> non trampé &amp; frappé sur une <tl>petite lime</tl>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Fais ce trou<lb/>
 

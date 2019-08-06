@@ -1,11 +1,11 @@
-<root>
-<page>157v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="157v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f320.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f320.image</image>
 
-<div>
 
-<id>p157v_1</id>
+
+<div id="p157v_1">
+
+
 
 <head><m>Cendre</m> dans les <tl>moules</tl></head>
 
@@ -23,9 +23,9 @@ avecq le vent en vapeur</ab>
 
 </div>
 
-<div>
+<div id="p157v_2">
 
-<id>p157v_2</id>
+
 
 <head>Mouler un <al>oiseau</al></head>
 
@@ -77,7 +77,7 @@ a part en noyau puys les raportent &amp; reparent pour esbaucher<lb/>
 premierem <underline>une forme</underline> qui soict roide &amp;
 soubstiene le <m>sable<lb/> <underline>destrampe</underline></m></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Ils sescorchent<lb/>
 
@@ -105,20 +105,20 @@ de farine</m></ab>
 
 </div>
 
-<div>
+<div id="p157v_3">
 
-<id>p157v_3</id>
 
-<head><comment>c_157v_02</comment>Po<exp>ur</exp> f<exp>air</exp>e h<exp>…</exp> vin
+
+<head><comment rid="c_157v_02"/>Po<exp>ur</exp> f<exp>air</exp>e h<exp>…</exp> vin
 f<exp>…</exp>rs</head>
 
-<ab>Prenez un <tl>chausson du <bp>pied droi<del>d</del><add>t</add></bp>
+<ab>Prenez un <tl>chausson du <bp>pied droi<del>d</del>t</bp><comment rid="c_157v_03"/>
 qui ait este porte</tl> et le faictes<lb/>
 
 <del>boyre au</del> tremper en <m>eau</m> et de l<m>eau</m>
 q<exp>u</exp>i en sortira la f<exp>air</exp>e boyre au mesme<lb/>
 
-ou au <comment>c_157v_01</comment>au<exp>tr</exp>e et v<exp>er</exp>rez
+ou au <comment rid="c_157v_01"/>au<exp>tr</exp>e et v<exp>er</exp>rez
 merveilles</ab>
 
 </div>

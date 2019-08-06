@@ -1,11 +1,11 @@
-<root>
-<page>169v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="169v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f344.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f344.image</image>
 
-<div>
 
-<id>p169v_1</id>
+
+<div id="p169v_1">
+
+
 
 <head>Molding very thin like <pro><fr>bimbalotiers</fr></pro> do</head>
 
@@ -18,9 +18,9 @@ principal side, &amp; the reverse is of <tl><m>paper</m></tl> or
 
 </div>
 
-<div>
+<div id="p169v_2" continued="yes">
 
-<id>p169v_2</id>
+
 
 <head>Reducing a round figure to a hollow form</head>
 
@@ -55,34 +55,33 @@ say flat &amp; smooth on one side &amp; hollow on the other. And having
 cleaned &amp; put this hollow form to be whitened, if it is <m>silver</m>,
 you will be able to mix there some works of <m>sugar</m>,</ab>
 
-<ab><margin>left-middle</margin><mark>#</mark>
+<ab margin="left-middle"><mark>#</mark>
 
 having made a hole in your <tl><m>clay</m> slab</tl> &amp; having
-<del><fr>en</fr></del> packed in it half of the <del><ill/></del>
-<add>f</add>igure of <m>wax</m>, a little <m>oiled</m>, to pull it out
-better.</ab>
+<del><fr>en</fr></del> packed in it half of the figure of <m>wax</m>, 
+a little <m>oiled</m>, to pull it out better.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 <m>Transparent wax</m> is not good, but rather the one which has body,
 to make an imprint well.</ab>
 
-<figure>
+<figure id="fig_p169v_3" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MGtBY2MyYTNKTUE">
 
-<id>fig_p169v_3</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5MGtBY2MyYTNKTUE</link>
+
+
+
 
 </figure>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 As you have molded with <m>plaster</m> &amp; <m>wax</m> one half, you
 can mold the other the same.</ab>
 
-<cont/>
+
 
 </div>
 </root>

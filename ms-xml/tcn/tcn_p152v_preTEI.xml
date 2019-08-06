@@ -1,11 +1,11 @@
-<root>
-<page>152v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="152v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f310.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f310.image</image>
 
-<div>
 
-<id>p152v_1</id>
+
+<div id="p152v_1">
+
+
 
 <head>Reparer les choses gectées</head>
 
@@ -34,7 +34,7 @@ Les choses aussy moulées en creux sont fantasques<lb/>
 
 à gecter. Si doncq il arrive quelque default,<lb/>
 
-ayes un <tl>coisinet de <m>cuir</m></tl> plein de <m>sable subtil</m>,<lb/>
+ayes un <tl>cois<corr>s</corr>inet de <m>cuir</m></tl> plein de <m>sable subtil</m>,<lb/>
 
 &amp; l’ayant posé sur le bequet de la <tl>table des
 <pro>orfevres</pro></tl><lb/>
@@ -87,7 +87,7 @@ cela avecq les houtils susdicts &amp; avecq les <tl>ciselets</tl><lb/>
 
 convenables.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Pour l’<m>or</m> &amp; petit<lb/>
 
@@ -105,21 +105,21 @@ tiendra ainsy<lb/>
 
 avecq la <tl>corde</tl>.</ab>
 
-<figure>
+<figure id="fig_p152v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5S3NpRV82clA2UVE">
 
-<id>fig_p152v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5S3NpRV82clA2UVE</link>
+
+
+
 
 </figure>
 
-<figure>
+<figure id="fig_p152v_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5cWhfVmhvbWszZlE">
 
-<id>fig_p152v_2</id>
 
-<margin>left-middle</margin><link>https://drive.google.com/open?id=0B9-oNrvWdlO5cWhfVmhvbWszZlE</link>
+
+
 
 </figure>
 

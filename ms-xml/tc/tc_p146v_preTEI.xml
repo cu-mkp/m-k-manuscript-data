@@ -1,15 +1,15 @@
-<root>
-<page>146v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="146v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f298.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f298.image</image>
 
-<div>
 
-<id>p146v_1</id>
+
+<div id="p146v_1" continued="yes">
+
+
 
 <head>Mouler <al>tortues</al></head>
 
-<ab>Cecy est en suicte du deuxieme fœillet præcedent<lb/>
+<ab>Cecy est en suicte du deuxieme fœillet præcedent<comment rid="c_146v_02"/><lb/>
 
 Comme tu as bien descouvert la partie du ventre de la<lb/>
 
@@ -92,22 +92,22 @@ bout<lb/>
 
 des ongles de la <al>tortue</al> pour faire le gect Ta coquille<lb/>
 
-du ventre moulee <add>et descouverte</add> <comment>c_146v_01</comment>
+du ventre moulee <add>et descouverte</add> <comment rid="c_146v_01"/>
 Ton <tl>moule</tl> se verra en ceste sorte</ab>
 
-<figure>
+<figure id="fig_p146v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bUk2c1E3LWtOTDA">
 
-<id>fig_p146v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5bUk2c1E3LWtOTDA</link>
+
+
+
 
 </figure>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 de sorte que la<lb/>
 
@@ -121,17 +121,17 @@ la mouler seule
 
 </ab>
 
-<figure>
+<figure id="fig_p146v_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5WGEzek5peHJ6VDA">
 
-<id>fig_p146v_2</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5WGEzek5peHJ6VDA</link>
+
+
+
 
 </figure>
 
-<cont/>
+
 
 </div>
 </root>

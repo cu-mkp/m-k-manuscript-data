@@ -1,13 +1,13 @@
-<root>
-<page>059r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="059r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f123.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f123.item</image>
 
-<div>
 
-<cont/>
 
-<id>p058v_5</id>
+<div continues="yes" id="p058v_5">
+
+
+
+
 
 <ab>La <m>laque</m> &amp; le <m>blanc de plomb</m> &amp; <m>ceruse</m>
 sont aysés à travailler<lb/>
@@ -48,9 +48,9 @@ destremp<corr>a</corr>nt petit à petit<lb/>
 
 sur ladicte <tl>pallete</tl>.</ab></div>
 
-<div>
+<div id="p059r_1">
 
-<id>p059r_1</id>
+
 
 <head>Ombres</head>
 
@@ -58,7 +58,7 @@ sur ladicte <tl>pallete</tl>.</ab></div>
 
 jour soient clairs &amp; fort adoulcis &amp; puys les derniers fort<lb/>
 
-obscurs pour faire bien relever. <comment>c_059r_01</comment>Les
+obscurs pour faire bien relever. <comment rid="c_059r_01"/>Les
 <pl>Italiens</pl> font communement<lb/>
 
 trois umbres, le premier du jour fort cler, le second plus obscur &amp;
@@ -68,11 +68,11 @@ fort, puys rassemblent ces trois umbres en hachant despuys le plus<lb/>
 
 obscur jusques au plus cler.</ab>
 
-<ab>
+<ab margin="left-middle" render="tall">
 
-<margin>left-middle</margin>
 
-<render>tall</render>
+
+
 
 Le <m>vernis</m> est<lb/>
 
@@ -84,21 +84,21 @@ la couleur est<lb/>
 
 bien imbue.</ab>
 
-<figure>
+<figure id="fig_p059r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5QWJmbC1RaG8zTGM">
 
-<id>fig_p059r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5QWJmbC1RaG8zTGM</link>
+
+
+
 
 </figure>
 
 </div>
 
-<div>
+<div id="p059r_2">
 
-<id>p059r_2</id>
+
 
 <head><m>Azur</m></head>
 

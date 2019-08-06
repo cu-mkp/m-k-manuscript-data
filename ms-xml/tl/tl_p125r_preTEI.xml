@@ -1,16 +1,16 @@
-<root>
-<page>125r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="125r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f255.item.r">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f255.item.r</image>
 
-<div>
 
-<cont/>
 
-<id>p124v_3</id>
+<div continues="yes" id="p124v_3">
 
-<ab>
-<margin>left-middle</margin>
+
+
+
+
+<ab margin="left-middle">
+
 <mark>🝋</mark> From small rolls, you make your gates and vents without danger of
 crusting &amp; removing anything from the <tl>mold</tl>, because the
 <tl>wax</tl>, being taken away, leaves the empty space all made. Make
@@ -21,11 +21,11 @@ this breaks up the fury of the <m>metal</m> and makes it flow with ease,
 without bubbling nor making excessive fumes, which hinders its run. You
 can divide it also in two or three branches thus
 
-<figure>
+<figure id="fig_p125r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bDlqQzJZemktSFk">
 
-<id>fig_p125r_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5bDlqQzJZemktSFk</link>
+
+
 
 </figure>
 
@@ -40,8 +40,8 @@ gates &amp; your vents without spoiling anything.<hr/></ab>
 
 </div>
 
-<div>
-<id>p125r_1</id>
+<div id="p125r_1">
+
 <head><m>Plaster</m></head>
 
 <ab>When you <del>v</del> mold something to cast <m>wax</m> in it, you
@@ -56,9 +56,9 @@ nature of each. <del>If you</del> You will never mold very neatly if
 liquid, your <m>plaster</m> or your <m>sand of <fr>noyau</fr></m>. Temper it
 <del>immediately</del> quickly after it has been reheated.</ab>
 
-<ab>
-<margin>left-middle</margin>
-<render>tall</render>
+<ab margin="left-middle" render="tall">
+
+
 <mark>+</mark>
 If you mold with <m>plaster</m> <del>raw</del> alone, reheat it
 nevertheless as said. One needs to <m>oil</m> well the first
@@ -74,11 +74,11 @@ especially if they are varnished. One can find these in
 very hot, &amp; if it is boiling, there is no danger. All
 <tl><m>plaster</m> molds</tl>, alone or mixed, release in it.</ab></div>
 
-<div>
-<id>p125r_2</id>
-<head><wp>Scimitars</wp><comment>c_125r_03</comment></head>
+<div id="p125r_2">
 
-<ab><hr/><emph>To know</emph><comment>c_125r_04</comment><hr/></ab>
+<head><wp>Scimitars</wp><comment rid="c_125r_03"/></head>
+
+<ab><hr/><emph>To know</emph><comment rid="c_125r_04"/><hr/></ab>
 
 <ab>The <pro>workers</pro> from <pl>Damascus</pl> or from
 <pl>Hungary</pl>, neighbors to the <pl>Turks</pl>, separate, in the
@@ -93,8 +93,8 @@ one recognizes by the tang that enters the hilt that it is cast in
 
 </div>
 
-<div>
-<id>p125r_3</id>
+<div id="p125r_3">
+
 <head><sn>Hearing</sn> from afar</head>
 
 <ab>Make a small hole in the earth, &amp; place your <bp>ear</bp> fully
@@ -104,7 +104,7 @@ there, <tmp>at night or at a silent time</tmp>, &amp; you will easily
 </div>
 
 <div>
-<ab><emph>Secret</emph><comment>c_125r_05</comment></ab>
+<ab><emph>Secret</emph><comment rid="c_125r_05"/></ab>
 
 </div>
 </root>

@@ -1,20 +1,20 @@
-<root>
-<page>001r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="001r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f7.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f7.image</image>
 
-<div>
 
-<id>p001r_1</id>
+
+<div id="p001r_1">
+
+
 <head><sup>List of names</sup></head>
 
 <ab>
 
-<pn>Master Nicolas Costé</pn><comment>c_001r_01</comment>, in the
-<pl><fr>Rue de la Heaumerie</fr><comment>c_001r_02</comment>, at the
+<pn>Master Nicolas Costé</pn><comment rid="c_001r_01"/>, in the
+<pl><fr>Rue de la Heaumerie</fr><comment rid="c_001r_02"/>, at the
 sign of St Claude</pl> <mark>/</mark> Mirrors.<lb/>
 
-<pn>Master Jehan Cousin</pn><comment>c_001r_03</comment>, who resides in
+<pn>Master Jehan Cousin</pn><comment rid="c_001r_03"/>, who resides in
 the <pl>Faubourg Saint-Germain</pl>, knows of the
 <pro>master</pro>.<lb/>
 
@@ -24,134 +24,134 @@ Escrivains</fr></pl> by <pl><fr>St Jacques de la Boucherie</fr></pl>,
 
 </div>
 
-<div>
+<div id="p001r_2">
 
-<id>p001r_2</id>
+
 <head><sup>List</sup></head>
 
 <ab>
 <hr/>
 The <pro>harvester</pro> that leaves some ears is not
-blamed<comment>c_001r_04</comment>.<lb/>
+blamed<comment rid="c_001r_04"/>.<lb/>
 
-<la>Sacra Eleusinae deae<comment>c_001r_05</comment> propalare
-nefas<comment>c_001r_06</comment>.<comment>c_001r_07</comment></la><lb/>
+<la>Sacra Eleusinae deae<comment rid="c_001r_05"/> propalare
+nefas<comment rid="c_001r_06"/>.<comment rid="c_001r_07"/></la><lb/>
 
-Trumpets, see the book of funerals<comment>c_001r_08</comment><hr/></ab>
+Trumpets, see the book of funerals<comment rid="c_001r_08"/><hr/></ab>
 
 </div>
 
-<div>
+<div id="p001r_3">
 
-<id>p001r_3</id>
+
 <head><sup>List of books</sup></head>
 
-<ab><la>Vuolfangus Lazius<comment>c_001r_09</comment>.<lb/>
+<ab><la>Vuolfangus Lazius<comment rid="c_001r_09"/>.<lb/>
 
-Petrus Appianus<comment>c_001r_10</comment> mathematicus
+Petrus Appianus<comment rid="c_001r_10"/> mathematicus
 Ingolstadiensis, Comment. <pl>urb.
-rom.</pl></la><comment>c_001r_11</comment></ab>
+rom.</pl></la><comment rid="c_001r_11"/></ab>
 
-<ab><la>Hieronimo Ruscelli<comment>c_001r_12</comment>.<lb/>
+<ab><la>Hieronimo Ruscelli<comment rid="c_001r_12"/>.<lb/>
 
-Hermolaus Barbarus<comment>c_001r_13</comment>.<lb/>
+Hermolaus Barbarus<comment rid="c_001r_13"/>.<lb/>
 
 Angelius Bargaeus, De aucupio et
-venatione<comment>c_001r_14</comment>.<lb/>
+venatione<comment rid="c_001r_14"/>.<lb/>
 
-Nicolaus Damascenus</la><comment>c_001r_15</comment>.</ab>
+Nicolaus Damascenus</la><comment rid="c_001r_15"/>.</ab>
 
-<ab><la><corr>Caes<exp>ariensis</exp></corr>, De rebus
-Persarum<comment>c_001r_16</comment>.<lb/>
+<ab><la>Cares<exp>ariensis</exp>,<comment rid="c_001r_34"/> De rebus
+Persarum<comment rid="c_001r_16"/>.<lb/>
 
-Isidorus<comment>c_001r_17</comment>.</la></ab>
+Isidorus<comment rid="c_001r_17"/>.</la></ab>
 
-<ab><la>O<corr>r</corr>o<corr>s</corr>ius<comment>c_001r_18</comment>.<lb/>
+<ab><la>Osorius<comment rid="c_001r_35"/><comment rid="c_001r_18"/>.<lb/>
 
 Eupolemus, <pro>historicus</pro> gentilis qui de rebus Davidis &amp;
 Salomonis
-scripsit.</la><comment>c_001r_19</comment><comment>c_001r_20</comment></ab>
+scripsit.</la><comment rid="c_001r_19"/><comment rid="c_001r_20"/></ab>
 
 <ab><mark>-</mark><fr>Cathalogue des
-villes<comment>c_001r_21</comment>.<lb/>
+villes<comment rid="c_001r_21"/>.<lb/>
 
-Calendrier des <pro>bergiers</pro><comment>c_001r_22</comment>.<lb/>
+Calendrier des <pro>bergiers</pro><comment rid="c_001r_22"/>.<lb/>
 
-Grammaire <pl>italie</pl>ne<comment>c_001r_23</comment>.<lb/>
+Grammaire <pl>italie</pl>ne<comment rid="c_001r_23"/>.<lb/>
 
-Arithmetique de <pn>Savonne</pn><comment>c_001r_24</comment>.<lb/>
+Arithmetique de <pn>Savonne</pn><comment rid="c_001r_24"/>.<lb/>
 
-Instruction pour le faict des finances<comment>c_001r_25</comment>.<lb/>
+Instruction pour le faict des finances<comment rid="c_001r_25"/>.<lb/>
 
-Questions ænigmatiques<comment>c_001r_26</comment>.<lb/>
+Questions ænigmatiques<comment rid="c_001r_26"/>.<lb/>
 
-Des præceptes d’agriculture<comment>c_001r_27</comment>.<lb/>
+Des præceptes d’agriculture<comment rid="c_001r_27"/>.<lb/>
 
 <mark>+</mark>Le secret des finances à
-<pl>Lyon</pl></fr><comment>c_001r_28</comment>.<lb/>
+<pl>Lyon</pl></fr><comment rid="c_001r_28"/>.<lb/>
 
-<pn>Synesius</pn><comment>c_001r_29</comment>.<lb/>
+<pn>Synesius</pn><comment rid="c_001r_29"/>.<lb/>
 
-<pn>Olaus Magnus<comment>c_001r_30</comment></pn>.<lb/>
+<pn>Olaus Magnus<comment rid="c_001r_30"/></pn>.<lb/>
 
 <mark>+</mark><pn>Master Bernard
-Palissy</pn><comment>c_001r_31</comment>, <pro>inventor of rustic
-figulines</pro><comment>c_001r_32</comment> to the
+Palissy</pn><comment rid="c_001r_31"/>, <pro>inventor of rustic
+figulines</pro><comment rid="c_001r_32"/> to the
 <pro><pn>king</pn></pro> and the <pro><pn>queen mother</pn></pro>.</ab>
 
 </div>
 
-<div>
+<div id="p001r_4">
 
-<id>p001r_4</id>
+
 <head><sup>List of books</sup></head>
 <ab><la><al>Aquatilium animalium</al> historiae, Hypolito Salviano
-Typhernate authore, <pl>Romae</pl> 1554.</la><comment>c_001r_38</comment></ab>
+Typhernate authore, <pl>Romae</pl> 1554.</la><comment rid="c_001r_38"/></ab>
 
 </div>
 
-<div>
+<div id="p001r_5">
 
-<id>p001r_5</id>
+
 <head><sup>List of books and authors</sup></head>
 <ab>Les Annales de
-<pl>Normandie</pl><comment>c_001r_39</comment>.</ab>
+<pl>Normandie</pl><comment rid="c_001r_39"/>.</ab>
 
-<ab>
+<ab margin="right-middle">
 
-<margin>right-middle</margin>
 
-<la><pn>Alexander Aphrodisaeus</pn><comment>c_001r_40</comment>.<lb/>
 
-<pn>Polydorus Vergilius<comment>c_001r_41</comment></pn>.<lb/>
+<la><pn>Alexander Aphrodisaeus</pn><comment rid="c_001r_40"/>.<lb/>
 
-<pn>Appianus</pn><comment>c_001r_42</comment>.<lb/>
+<pn>Polydorus Vergilius<comment rid="c_001r_41"/></pn>.<lb/>
 
-<pn>Athenaeus</pn><comment>c_001r_43</comment>.<lb/>
+<pn>Appianus</pn><comment rid="c_001r_42"/>.<lb/>
+
+<pn>Athenaeus</pn><comment rid="c_001r_43"/>.<lb/>
 
 Pausanias.<lb/>
 
-Statius Thebaidos<comment>c_001r_44</comment>.<lb/>
+Statius Thebaidos<comment rid="c_001r_44"/>.<lb/>
 
-<pn>Servius</pn>, In Aeneidem<comment>c_001r_45</comment>.<lb/>
+<pn>Servius</pn>, In Aeneidem<comment rid="c_001r_45"/>.<lb/>
 
-<pn>Macrobius</pn><comment>c_001r_46</comment>.<lb/>
+<pn>Macrobius</pn><comment rid="c_001r_46"/>.<lb/>
 
 Aulus Gellius.<lb/>
 
 Alexander ab <pl>Alexandria</pl>.<lb/>
 
-<pn>Festus</pn><comment>c_001r_47</comment>.<lb/>
+<pn>Festus</pn><comment rid="c_001r_47"/>.<lb/>
 
-<pn>Nonius</pn><comment>c_001r_48</comment>.<lb/>
+<pn>Nonius</pn><comment rid="c_001r_48"/>.<lb/>
 
-<pn>Magius</pn>, Miscellanea<comment>c_001r_49</comment>.<lb/>
+<pn>Magius</pn>, Miscellanea<comment rid="c_001r_49"/>.<lb/>
 
-<pn>Pollux</pn>, Onomasticon<comment>c_001r_50</comment>.<lb/>
+<pn>Pollux</pn>, Onomasticon<comment rid="c_001r_50"/>.<lb/>
 
-<pn>Hyginus</pn><comment>c_001r_51</comment>.<lb/>
+<pn>Hyginus</pn><comment rid="c_001r_51"/>.<lb/>
 
-Berosus<comment>c_001r_52</comment>.<lb/>
+Berosus<comment rid="c_001r_52"/>.<lb/>
 
 Suetonius.<lb/>
 
@@ -163,38 +163,38 @@ Xenophon.<lb/>
 
 <pn>Seneca</pn><lb/>
 
-<pn>Dionisius Halicarnassensis</pn><comment>c_001r_53</comment>.<lb/>
+<pn>Dionisius Halicarnassensis</pn><comment rid="c_001r_53"/>.<lb/>
 
-<pn>Sabellicus</pn><comment>c_001r_54</comment>.<lb/>
+<pn>Sabellicus</pn><comment rid="c_001r_54"/>.<lb/>
 
 <add>cum permultis<lb/>aliis</add><pn>Julius
-Capitollinus</pn><comment>c_001r_55</comment>.<lb/>
+Capitollinus</pn><comment rid="c_001r_55"/>.<lb/>
 
-<pn>Budaeus</pn><comment>c_001r_56</comment>.<lb/>
+<pn>Budaeus</pn><comment rid="c_001r_56"/>.<lb/>
 
-<pn>Spartianus</pn><comment>c_001r_57</comment>.<lb/>
+<pn>Spartianus</pn><comment rid="c_001r_57"/>.<lb/>
 
-<pn>Blondus</pn><comment>c_001r_58</comment>.<lb/>
+<pn>Blondus</pn><comment rid="c_001r_58"/>.<lb/>
 
-<pn>Volaterranus</pn><comment>c_001r_59</comment>.<lb/>
+<pn>Volaterranus</pn><comment rid="c_001r_59"/>.<lb/>
 
 <pn>Herodotus</pn>.<lb/>
 
-<pn>Paulus Manutius</pn><comment>c_001r_60</comment>.<lb/>
+<pn>Paulus Manutius</pn><comment rid="c_001r_60"/>.<lb/>
 
 Strabo.<lb/>
 
-<pn>Julius Firmicus</pn><comment>c_001r_61</comment>. <lb/>
+<pn>Julius Firmicus</pn><comment rid="c_001r_61"/>. <lb/>
 
-<pn>Quintus Curtius</pn><comment>c_001r_62</comment>.<lb/>
+<pn>Quintus Curtius</pn><comment rid="c_001r_62"/>.<lb/>
 
-<pn>Dio</pn><comment>c_001r_63</comment>.<lb/>
+<pn>Dio</pn><comment rid="c_001r_63"/>.<lb/>
 
 <pn>Cornelius Nepos</pn>.<lb/>
 
-<pn>Flavius Vopiscus</pn></la><comment>c_001r_64</comment>.</ab>
+<pn>Flavius Vopiscus</pn></la><comment rid="c_001r_64"/>.</ab>
 
-<ab><emph>Monsieur</emph><comment>c_001r_65</comment></ab>
+<ab><emph>Monsieur</emph><comment rid="c_001r_65"/></ab>
 
 </div>
 </root>

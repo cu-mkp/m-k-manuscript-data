@@ -1,16 +1,16 @@
-<root>
-<page>056r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="056r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f117.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f117.image</image>
 
-<div>
-<id>p056r_1</id>
+
+
+<div id="p056r_1">
+
 <head>Excellent tempering bath for cuirass bodies</head>
 
 <ab>Take <m>river water</m>, as clear &amp; running as
 possible, &amp; heat it to a little more than tepid. Then take a bunch
 of <m><pa>weld</pa></m>, &amp; take the grain of it &amp; put it into
-the said <m>water</m> &amp; boil<comment>c_056r_01</comment> it
+the said <m>water</m> &amp; boil<comment rid="c_056r_01"/> it
 thoroughly, stirring it with a <tl>stick</tl>, then pour it into a
 <tl>muid</tl> or other <tl>vessel</tl>, then throw into it two
 <ms>pecks</ms> of <m>salt</m>. </ab>
@@ -29,8 +29,8 @@ the older this tempering bath is, the better it will be.</ab>
 
 </div>
 
-<div>
-<id>p056r_2</id>
+<div id="p056r_2">
+
 <head><m>Varnish</m> for <m>distemper</m></head>
 
 <ab>You can make <m>marble</m> with <m>distemper</m> of <m>lake</m> or

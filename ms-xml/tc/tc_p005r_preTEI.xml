@@ -1,13 +1,13 @@
-<root>
-<page>005r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="005r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f15.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f15.image</image>
 
-<div>
 
-<cont/>
 
-<id>p004v_3</id>
+<div continues="yes" id="p004v_3">
+
+
+
+
 
 <ab>ou <m><pa>linge</pa></m> &amp; le laisser ainsy xx4
 <ms><tmp>heures</tmp></ms> &amp; il sera grave<lb/>
@@ -21,8 +21,8 @@ gravera promptement</ab>
 
 </div>
 
-<div>
-<id>p005r_1</id>
+<div id="p005r_1">
+
 <head>Mirouers d<m>acier</m></head>
 
 <ab>
@@ -42,7 +42,7 @@ representer<lb/>
 
 diverses formes</ab>
     
-<ab><margin>left-middle</margin><mark>+</mark></ab>
+<ab margin="left-middle"><mark>+</mark></ab>
 
 <ab>Prens doncq <ms>moictie</ms> <m>cuivre de rosette</m> &amp;
 <ms>moictie</ms> <m>estain doux</m><lb/>
@@ -92,8 +92,8 @@ faict a sec Estant poly tu le peulx enchasser</ab>
 
 </div>
 
-<div>
-<id>p005r_2</id>
+<div id="p005r_2" continued="yes">
+
 <head>Mirouers concave</head>
 
 <ab>Le mirouer concave compose de la forme susdicte rend une<lb/>
@@ -111,7 +111,7 @@ lendroit<lb/>
 mays le <bp>visaige</bp> fort grand &amp; le <bp>poil de la barbe</bp>
 gros comme</ab>
 
-<cont/>
+
 
 </div>
 </root>

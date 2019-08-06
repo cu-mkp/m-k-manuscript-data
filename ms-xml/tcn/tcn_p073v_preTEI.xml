@@ -1,13 +1,13 @@
-<root>
-<page>073v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="073v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f152.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f152.image</image>
 
-<div>
 
-<cont/>
 
-<id>p073r_5</id>
+<div continues="yes" id="p073r_5">
+
+
+
+
 
 <ab>broyés à part. Quand il sera bien broyé, prenés le <m>sel
 armoniac</m> &amp;<lb/>
@@ -25,9 +25,9 @@ remués fort jusques à ce q<exp>u’i</exp>l soit en pouldre.</ab>
 
 </div>
 
-<div>
+<div id="p073v_1">
 
-<id>p073v_1</id>
+
 
 <head>Pour le coucher</head>
 
@@ -44,9 +44,9 @@ prenés la <m>bronze</m> et l’aplicqués dessus.</ab>
 
 </div>
 
-<div>
+<div id="p073v_2">
 
-<id>p073v_2</id>
+
 
 <head><m>Verny</m></head>
 
@@ -63,9 +63,9 @@ dedans une <tl>fiole</tl>, &amp; le coucher sur le <m>boys</m>.</ab>
 
 </div>
 
-<div>
+<div id="p073v_3">
 
-<id>p073v_3</id>
+
 
 <head>Aultre recepte pour faire <m>verny</m></head>
 
@@ -79,9 +79,9 @@ d’<pa>aspic</pa></m>.</ab>
 
 </div>
 
-<div>
+<div id="p073v_4">
 
-<id>p073v_4</id>
+
 
 <head>Couleur de cuyvre bruny</head>
 

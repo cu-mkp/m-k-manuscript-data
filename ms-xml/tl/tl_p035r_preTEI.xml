@@ -1,14 +1,14 @@
-<root>
-<page>035r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="035r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f75.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f75.image</image>
 
-<div>
 
-<id>p035r_1</id>
+
+<div id="p035r_1">
+
+
 
 <head>For telling someone that you will <del>show</del> teach him something
-he does not know, and neither do you</head><comment>c_035r_01</comment>
+he does not know, and neither do you</head><comment rid="c_035r_01"/>
 
 <ab>Take a <tl>string</tl> or a <tl>small stick</tl> and take the
 measurement <ms>from the tip of his <bp>ear</bp> to the tip of his
@@ -17,18 +17,18 @@ you did not know, and neither did he.</ab>
 
 </div>
 
-<div>
+<div id="p035r_2">
 
-<id>p035r_2</id>
+
 
 <head>For supporting a <tl>bucket</tl> of <m>water</m> on the tips of three
 <tl>knives</tl> laid down without touching the ground</head>
 
-<figure>
+<figure id="fig_p035r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SGstUTZ6TFRnUjg">
 
-<id>fig_p035r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SGstUTZ6TFRnUjg</link>
+
+
 
 </figure>
 
@@ -47,9 +47,9 @@ left to right, the tips will rise.</ab>
 
 </div>
 
-<div>
+<div id="p035r_3">
 
-<id>p035r_3</id>
+
 
 <head>For boiling an <m>egg</m> in <m>cold water</m> without fire</head>
 
@@ -60,9 +60,9 @@ floats by two or three <ms><bp>fingers</bp></ms>.</ab>
 
 </div>
 
-<div>
+<div id="p035r_4">
 
-<id>p035r_4</id>
+
 
 <head>For making <al>rabbits</al> come out of a <env>burrow</env></head>
 

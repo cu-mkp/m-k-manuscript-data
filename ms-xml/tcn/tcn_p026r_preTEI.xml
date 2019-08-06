@@ -1,39 +1,39 @@
-<root>
-<page>026r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="026r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f57.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f57.item</image>
 
-<div>
 
-<id>p026r_1</id>
+
+<div id="p026r_1">
+
+
 
 <head>Balle de <wp>canon</wp></head>
-<ab>
+<ab margin="top" render="wide">
 
-<margin>top</margin>
 
-<render>wide</render>
+
+
 
 <emph>Cecy est la juste mesure du calibre,<lb/>
 
 mays le <tl>foret</tl> en emporte tousjours quelque peu
 dadva<exp>n</exp>tage.</emph></ab>
 
-<figure>
+<figure id="fig_p026r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SHVaaE9oQjRySlE">
 
-<id>fig_p026r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SHVaaE9oQjRySlE</link>
+
+
 
 </figure>
 
 </div>
 
-<div>
+<div id="p026r_2">
 
-<id>p026r_2</id>
 
-<head>Mortier<comment>c_008r_04</comment></head>
+
+<head>Mortier<comment rid="c_008r_04"/></head>
 
 <ab>Ils se font mieulx en forme de creusol, <del>creulx par le</del>
 plus estroits<lb/>
@@ -56,13 +56,13 @@ qu’esta<exp>n</exp>t chargés<lb/>
 de quinze <tmp>jours</tmp> &amp; tenus en <env>lieu sec</env>, ilz ont
 plus de force.</ab>
 
-<figure>
+<figure id="fig_p026r_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UGxoanZwVEw2akE">
 
-<id>fig_p026r_2</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5UGxoanZwVEw2akE</link>
+
+
+
 
 </figure>
 

@@ -1,11 +1,11 @@
-<root>
-<page>143r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="143r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f291.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f291.image</image>
 
-<div>
 
-<id>p143r_1</id>
+
+<div id="p143r_1">
+
+
 
 <head>Mouler <al>tortues</al></head>
 
@@ -51,7 +51,7 @@ sur leur coquille, quelque endormies qu’elles soient, elles s’esbougent.
 
 de <pl><env>garrigue</env></pl></al> non.</add></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Elles meurent assés tost dans<lb/>
 
@@ -61,7 +61,7 @@ de vie</m> ou d’<m><bp>urine</bp></m>, co<exp>mm</exp>e touts aultres<lb/>
 
 animaulx.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Elles se tiennent<lb/>
 
@@ -89,11 +89,11 @@ l’humeur de la<lb/>
 
 terre.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle" render="tall">
 
-<render>tall</render>
 
-<comment>c_143r_01</comment> Il ne les fault<lb/>
+
+<comment rid="c_143r_01"/> Il ne les fault<lb/>
 
 pas mouler si tost<lb/>
 
@@ -117,13 +117,13 @@ vouldras.</ab>
 
 </div>
 
-<div>
+<div id="p143r_2">
 
-<id>p143r_2</id>
+
 
 <head><pro>Mouleurs</pro> de <pl>Foix</pl></head>
 
-<ab>Ceulx qui moulent de travers<comment>c_090r_02</comment> font leur <m>sable de
+<ab>Ceulx qui moulent de travers<comment rid="c_090r_02"/> font leur <m>sable de
 <m><la>crocum</la></m><lb/>
 
 &amp; d’<m>ardoise calcinée</m></m>, mays l’<m>ardoise</m> retient toujours
@@ -144,9 +144,9 @@ le recuisent.</ab>
 
 </div>
 
-<div>
+<div id="p143r_3" continued="yes">
 
-<id>p143r_3</id>
+
 
 <head><al>Crapault</al></head>
 
@@ -172,15 +172,15 @@ se pourra. Fais aussy des conduicts de gect depuys le bout
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<figure>
 
-<id>fig_p143r_1</id>
+<figure id="fig_p143r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5cnJFVXFaRURaY3c">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5cnJFVXFaRURaY3c</link>
+
+
+
 
 </figure>
 
@@ -196,7 +196,7 @@ mesmem<exp>ent</exp> aulx<lb/>
 
 choses espesses.</ab>
 
-<cont/>
+
 
 </div>
 </root>

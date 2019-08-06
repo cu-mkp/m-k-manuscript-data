@@ -1,10 +1,10 @@
-<root>
-rm<page>088r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="088r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f181.image">
+rm
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f181.image</image>
 
-<div>
-<id>p088r_1</id>
+
+<div id="p088r_1">
+
 <head><pa><oc>Osier</oc></pa></head>
 
 <ab>It can be planted, like the <pa>bramble</pa>, on both sides, &amp;
@@ -14,20 +14,20 @@ higher.</ab>
 
 </div>
 
-<div>
-<id>p088r_2</id>
+<div id="p088r_2">
+
 <head><tl>Mortars</tl></head>
 
 <ab><tl><m>Fine copper</m> mortars</tl> do not throw fire, as long as
 the <tl><m>iron</m> pestle</tl> is not tempered. If well made, the
-<tl><m><fr>metal</fr></m><comment>c_016v_05</comment> mortar</tl>, because it is
+<tl><m><fr>metal</fr></m><comment rid="c_016v_05"/> mortar</tl>, because it is
 sour. One makes, for this purpose, the bottom of <tl>large mortars</tl>
 from <m>fine copper</m>.</ab>
 
 </div>
 
-<div>
-<id>p088r_3</id>
+<div id="p088r_3">
+
 <head><m>Varnish</m></head>
 
 <ab><m>Turpentine oil</m> <m>turpentine</m> &amp; <m>good eau-de-vie</m>
@@ -38,8 +38,8 @@ then if it has enough body &amp; if it does not run too much.</ab>
 
 </div>
 
-<div>
-<id>p088r_4</id>
+<div id="p088r_4">
+
 <head>Grafting</head>
 
 <ab>One finds by experience that the graft that <del><fr>est</fr></del>
@@ -48,8 +48,8 @@ when it is also bent.</ab>
 
 </div>
 
-<div>
-<id>p088r_5</id>
+<div id="p088r_5">
+
 <head><pro>Baker</pro></head>
 
 <ab><m>Dust</m> keeps wheat from <oc>becoming infested with weevils</oc>. And to clean
@@ -62,8 +62,8 @@ beautiful.</ab>
 
 </div>
 
-<div>
-<id>p088r_6</id>
+<div id="p088r_6">
+
 <head><m>Looking-glass tin</m></head>
 
 <ab>It makes the substance whiter.</ab>

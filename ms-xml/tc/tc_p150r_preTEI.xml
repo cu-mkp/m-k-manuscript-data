@@ -1,11 +1,11 @@
-<root>
-<page>150r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="150r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f305.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f305.image</image>
 
-<div>
 
-<id>p150r_1</id>
+
+<div id="p150r_1">
+
+
 
 <head><m>Cire fort dure</m></head>
 
@@ -14,12 +14,11 @@ gecte pas<lb/>
 
 gueres chaulde</ab></div>
 
-<div>
+<div id="p150r_2">
 
-<id>p150r_2</id>
 
-<head>Ligues diverses d<m>estain</m> et <m>plomb</m></head>
-<comment>c_150r_01</comment>
+
+<head><comment rid="c_150r_01"/>Ligues diverses d<m>estain</m> et <m>plomb</m></head>
 
 <ab>Pour choses creuses co<exp>mm</exp>e <al>tortues</al>
 <ms>moictie</ms> <m>plomb fin</m> et <ms>moitie</ms><lb/>
@@ -41,9 +40,9 @@ tout <m>plomb</m> scavoir une <ms>lb</ms> de <m>plomb fin</m> et 4
 
 fin</m></ab></div>
 
-<div>
+<div id="p150r_3">
 
-<id>p150r_3</id>
+
 
 <head><tl>Moules</tl></head>
 
@@ -89,9 +88,9 @@ pour<lb/>
 
 donner liaison elle ne seroit point necessaire</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Les <tl>moules</tl> recuits ne peuvent soubstenir<lb/>
 
@@ -106,9 +105,9 @@ en soubstiennent<lb/>
 
 beaucoup</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 L<m>escaille<lb/>
 

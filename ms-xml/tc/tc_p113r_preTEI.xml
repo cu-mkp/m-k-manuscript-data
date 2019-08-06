@@ -1,19 +1,19 @@
-<root>
-<page>113r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="113r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f231.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f231.image</image>
 
-<div>
 
-<cont/>
 
-<id>p112v_1</id>
+<div continues="yes" id="p112v_1">
+
+
+
+
 
 <ab>bout <del>qua</del> pour les <del>t</del>en retirer au besoing Et
 advise quil fault que ces<lb/>
 
 <tl>poinctes</tl> soient de <m>fil de fer</m> le plus delie que pourra
-comporter la grand<ups>eur</ups><comment>c_113r_01</comment><lb/>
+comporter la grand<ups>eur</ups><comment rid="c_113r_01"/><lb/>
 
 de lanimal Car tant plus il est delie tant moings paroist le trou
 qui<ups>l</ups><lb/>
@@ -53,21 +53,21 @@ legerement Ainsy ton animal estant bien pose sur la <po>tourtelle</po><lb/>
 faicte en forme de <mu>mandorre</mu> pose tout aultour un entour de
 mesme<lb/>
 
-<figure>
+<figure id="fig_p113r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5YkE1Vm1ZMmRoVm8">
 
-<id>fig_p113r_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5YkE1Vm1ZMmRoVm8</link>
+
+
 
 </figure>
 
 <m>terre</m> en ceste sorte
 
-<figure>
+<figure id="fig_p113r_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aW1sekxQWGJJY0E">
 
-<id>fig_p113r_3</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5aW1sekxQWGJJY0E</link>
+
+
 
 </figure> &amp; le joings bien tout<lb/>
 
@@ -77,7 +77,7 @@ as coupe de mesure la <po>tourtelle</po> roigne le contour qui lexcede &amp; y
 pos<ups>e</ups><lb/>
 
 une piece au bout pour la fermer comme tu vois
-b<comment>c_113r_02</comment> Puys avecq un <tl>petit<lb/>
+b<comment rid="c_113r_02"/> Puys avecq un <tl>petit<lb/>
 
 instrument recourbe</tl> marque par dedans le contour lespesseur que
 tu<lb/>
@@ -115,19 +115,19 @@ laisser<lb/>
 deseicher l<m>eau de vye</m> qui sevapore promptem<exp>ent</exp> Et le
 destrempe ainsy</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
 
-<figure>
 
-<id>fig_p113r_1</id>
+<figure id="fig_p113r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MDEzX0RhXzJGcXc">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5MDEzX0RhXzJGcXc</link>
+
+
+
 
 </figure><lb/>
 
-<comment>c_113r_03</comment>et fais que la<lb/>
+<comment rid="c_113r_03"/>et fais que la<lb/>
 
 <tl>poincte</tl> soict<lb/>
 
@@ -161,15 +161,15 @@ erem<exp>ent</exp> la teste<lb/>
 
 puys le reste</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 L<m>eau de vye</m><lb/>
 
 de trois passes</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Si apres que<lb/>
 
@@ -199,17 +199,17 @@ preigne a la<lb/>
 
 <m>terre</m>
 
-<figure>
+<figure id="fig_p113r_4" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Qm8wSlJPOWxfZWM">
 
-<id>fig_p113r_4</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Qm8wSlJPOWxfZWM</link>
+
+
 
 </figure>
 
 </ab>
 
-<ab><margin>left-bottom</margin>
+<ab margin="left-bottom">
 
 Si quand tu<lb/>
 
@@ -245,9 +245,9 @@ d<m>eau de vye</m></ab>
 
 </div>
 
-<div>
+<div id="p113r_1" continued="yes">
 
-<id>p113r_1</id>
+
 
 <head>Destremper le <m>sable</m> et mouler le premie<ups>r</ups><lb/>
 
@@ -266,7 +266,7 @@ promptement la seconde destrempe Il y aura danger que pendant<lb/>
 
 que tu la præpares que la premiere ne fasse prise &amp; sendurcisse</ab>
 
-<cont/>
+
 
 </div>
 </root>

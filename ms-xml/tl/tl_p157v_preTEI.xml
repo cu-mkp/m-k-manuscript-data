@@ -1,11 +1,11 @@
-<root>
-<page>157v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="157v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f320.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f320.image</image>
 
-<div>
 
-<id>p157v_1</id>
+
+<div id="p157v_1">
+
+
 
 <head><m>Ash</m> in the <tl>molds</tl></head>
 
@@ -14,9 +14,9 @@
 against it &amp; once cold, they separate from it more easily, 
 &amp; go away in the blowing with the wind as vapor.</ab></div>
 
-<div>
+<div id="p157v_2">
 
-<id>p157v_2</id>
+
 
 <head>Molding a <al>bird</al></head>
 
@@ -40,7 +40,7 @@ reinforced. Some mold the wings in a <tl>frame</tl>. Others mold the
 head &amp; the said wings separately <fr>en noyau</fr>, then join &amp;
 repair them, to first model <underline>a form</underline> that will be stiff &amp; withstand the <m><underline>tempered</underline> sand</m>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 They are skinned &amp; filled with <tl><m>cotton cloth</m></tl>. &amp;
 even better, one needs to dress them in the fashion that <pro>curriers</pro>
@@ -49,15 +49,17 @@ dressing is <m>alum</m> &amp; <m>paste of flour</m>.</ab>
 
 </div>
 
-<div>
+<div id="p157v_3">
 
-<id>p157v_3</id>
 
-<head><comment>c_157v_02</comment>For making <fr>h</fr><exp>…</exp> wine
+
+<head><comment rid="c_157v_02"/>For making <fr>h</fr><exp>…</exp> wine
 <fr>f</fr><exp>…</exp><fr>rs</fr></head>
 
-<ab>Take a <tl>sock from the <bp>right <del><fr>d</fr></del> foot</bp> that has been worn</tl> and make
-<del>drink at</del> it soak in <m>water</m>, and of the <m>water</m> that comes out, make that same person or someone else drink it, and you
+<ab>Take a <tl>sock from the <bp>right <del><fr>d</fr></del><comment rid="c_157v_03"/> foot</bp> 
+that has been worn</tl> and make
+<del>drink at</del> it soak in <m>water</m>, and of the <m>water</m> that comes out, 
+make that same person or someone else drink it, and you
 will see marvels.</ab>
 
 </div>

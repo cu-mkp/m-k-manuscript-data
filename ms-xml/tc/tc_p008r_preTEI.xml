@@ -1,11 +1,11 @@
-<root>
-<page>008r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="008r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f21.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f21.image</image>
 
-<div>
 
-<id>p008r_1</id>
+
+<div id="p008r_1">
+
+
 
 <head>L<exp>ett</exp>re d<m>or</m> sur <m>papier</m></head>
 
@@ -20,9 +20,9 @@ demeurera</ab>
 
 </div>
 
-<div>
+<div id="p008r_2">
 
-<id>p008r_2</id>
+
 
 <head>Pour rompre <wp>grenades</wp> et donner<lb/>
 
@@ -36,9 +36,9 @@ argent</m></ab>
 
 </div>
 
-<div>
+<div id="p008r_3">
 
-<id>p008r_3</id>
+
 
 <head>Trempe de balle pour fausser<lb/>
 
@@ -64,9 +64,9 @@ sil est possible que la balle soict chaulde</ab>
 
 </div>
 
-<div>
+<div id="p008r_4">
 
-<id>p008r_4</id>
+
 
 <head>Pour <tmp>de nuict</tmp> fayre bresche<lb/>
 
@@ -75,7 +75,7 @@ en une <env>muraille</env></head>
 <ab>Ayant faict trou dans la <env>muraille</env> comme tu scais
 mects<lb/>
 
-un <wp>mortier</wp><comment>c_008r_04</comment> dedans charge de <m>pouldre</m> qui soict quasi comme<lb/>
+un <wp>mortier</wp><comment rid="c_008r_04"/> dedans charge de <m>pouldre</m> qui soict quasi comme<lb/>
 
 couche &amp; laultre droict puys bouche le trou &amp; donne fœu</ab>
 

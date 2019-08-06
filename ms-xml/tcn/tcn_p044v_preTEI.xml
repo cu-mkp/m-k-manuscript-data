@@ -1,11 +1,11 @@
-<root>
-<page>044v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="044v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f94.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f94.image</image>
 
-<div>
 
-<id>p044v_1</id>
+
+<div id="p044v_1">
+
+
 
 <head>Tamis de <m>poil de <al>cheval</al></m></head>
 
@@ -35,7 +35,7 @@ trois <bp>doitgs</bp></ms>,<lb/>
 ilz passent aprés deulx <m>poils</m> à chasque frapem<exp>ent</exp> de
 marche et<lb/>
 
-tissent avecq trois marches. Il y a en tout le tamis xvii<superscript>c</superscript><comment>c_044v_01</comment>
+tissent avecq trois marches. Il y a en tout le tamis xvii<superscript>c</superscript><comment rid="c_044v_01"/>
 <m>poils</m>.<lb/>
 
 Ils les vendent à <ms>douzaines</ms> &amp; chascune xxx
@@ -46,9 +46,9 @@ aprés en <pl>Espaigne</pl>, et<lb/>
 
 prenent en eschange de l’<m>estamine de soye</m>.</ab></div>
 
-<div>
+<div id="p044v_2">
 
-<id>p044v_2</id>
+
 
 <head>Excellente <md><m>eau</m> co<exp>n</exp>tre la peste</md>, de
 <pn>m<exp>onsieu</exp>r de Montorsin</pn></head>
@@ -62,7 +62,7 @@ ouverte<lb/>
 &amp; bien sellée, et la mects en bain fort lent trois ou 4
 <ms><tmp>jours</tmp></ms>.<lb/>
 
-Puys separe ta decoction de la residence, de laquelle<comment>c_044v_02</comment> en temps<lb/>
+Puys separe ta decoction de la residence, de laquelle<comment rid="c_044v_02"/> en temps<lb/>
 
 de besoing tu verseras sur un <tl>quarreau rouge enflammé</tl> &amp;
 en<lb/>
@@ -72,9 +72,9 @@ vestem<exp>ents</exp>. C’est<lb/>
 
 un secret fort rare &amp; esprouvé.</ab></div>
 
-<div>
+<div id="p044v_3">
 
-<id>p044v_3</id>
+
 
 <head><md><m>Huile blanc somnifere</m></md></head>
 
@@ -90,9 +90,9 @@ et ton <m>huile</m> viendra blanc. Duquel si tu frottes un peu la<lb/>
 
 <bp>plante des pieds</bp>, tu <md>auras bientost envye de dormir</md>.</ab></div>
 
-<div>
+<div id="p044v_4">
 
-<id>p044v_4</id>
+
 
 <head><m>Stuc</m></head>
 

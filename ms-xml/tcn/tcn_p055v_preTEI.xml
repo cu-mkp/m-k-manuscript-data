@@ -1,13 +1,13 @@
-<root>
-<page>055v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="055v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f116.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f116.image</image>
 
-<div>
 
-<cont/>
 
-<id>p055r_4</id>
+<div continues="yes" id="p055r_4">
+
+
+
+
 
 <ab>de quinze <ms><tmp>jours</tmp></ms>. Aprés tu la
 romperas de bien loings<lb/>
@@ -23,22 +23,22 @@ qui soict au bort</env>.</ab>
 
 </div>
 
-<div>
+<div id="p055v_1">
 
-<id>p055v_1</id>
+
 
 <head>Aultre pour les <m>eaulx</m></head>
 
-<ab><al>Tuaparc</al> nad nu <tl>top</tl><comment>c_055v_02</comment> avecq <m>chaulx vive</m> qui
+<ab><al>Tuaparc</al> nad nu <tl>top</tl><comment rid="c_055v_02"/> avecq <m>chaulx vive</m> qui
 consumera<lb/>
 
-tout ceste pouldre aprés &amp;<sup>c</sup> </ab></div>
+tout ceste pouldre aprés, &amp;<corr>c</corr>.</ab></div>
 
-<div>
+<div id="p055v_2">
 
-<id>p055v_2</id>
 
-<head><m>Acier<comment></comment> de damas</m></head>
+
+<head><m>Acier<comment rid=""/> de damas</m></head>
 
 <ab>Distille des <m><al>lumbris</al></m> à part &amp; de la <m>fœille
 de<lb/>
@@ -48,15 +48,15 @@ de<lb/>
 
 d’une que d’aultre</ms> &amp; là dedans trempe.</ab></div>
 
-<div>
+<div id="p055v_3">
 
-<id>p055v_3</id>
+
 
 <head>Pour cognoistre le chemin qu’on<lb/>
 
 faict <env>en plaine mer</env></head>
 
-<ab>Trempes un <m>ferlin</m><comment>c_055v_04</comment> dans de l’<m>huile</m>, puys l’attaches à
+<ab>Trempes un <m>ferlin</m><comment rid="c_055v_04"/> dans de l’<m>huile</m>, puys l’attaches à
 la<lb/>
 
 pouppe du navire, de sorte qu’il trempe dans l’<env><m>eau</m></env>
@@ -67,9 +67,9 @@ l’<env><m>eau</m></env><lb/>
 
 se depart par où l’<m>huile</m> a passé.</ab></div>
 
-<div>
+<div id="p055v_4">
 
-<id>p055v_4</id>
+
 
 <head>Pour gect</head>
 

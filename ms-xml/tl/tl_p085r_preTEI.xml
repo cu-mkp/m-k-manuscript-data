@@ -1,13 +1,13 @@
-<root>
-<page>085r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="085r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f175.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f175.image</image>
 
-<div>
 
-<cont/>
 
-<id>p084v_4</id>
+<div continues="yes" id="p084v_4">
+
+
+
+
 
 <ab>to rest on a <tl>very clean &amp; smooth table</tl>, &amp; since it
 is desiccative, I knew it would dry out <del><fr>lor</fr></del>, what I
@@ -27,8 +27,9 @@ good <m>sands</m>, such as <m>felt</m>, <m>burnt bone</m> &amp; <m>iron
 dross</m>, had failed to do on the first try. I reheated it &amp; my
 <tl>mold</tl> became hard like <m>marble</m>, and I realized with this,
 that <m>sands</m> for molding high relief should be well moistened with some
-<m>water</m>, which gives them body &amp; compactness, like <m>glair</m>, <m>gummed water</m>, <del><fr>ea</fr></del> <m>wine boiled
-with <pa>elm root</pa></m>, &amp;<sup>c</sup>, and lightly <m>oil</m> the medal, it
+<m>water</m>, which gives them body &amp; compactness, like <m>glair</m>, 
+<m>gummed water</m>, <del><fr>ea</fr></del> <m>wine boiled
+with <pa>elm root</pa></m>, &amp;<corr>c</corr>, and lightly <m>oil</m> the medal, it
 withstands as many castings as you wish, for it is as hard as
 <m>glass</m>. But even <m>soft lead</m> &amp; <m>brittle tin</m>
 <del><fr>v</fr></del> want to be cast very hot.</ab>
@@ -43,27 +44,27 @@ barely release well and yet they receive <m>metal</m> well.
 <hr/>
 </ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Try to mix <m>ceruse</m> or <m>minium</m> with other <m>sands</m>.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 <mark>X</mark></ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 <m>Oil</m> &amp; anoint with <m><pa>aspic</pa> oil</m>, which will go
 away when reheating, for the <m>oil</m> makes it porous.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 One ought to moisten with <m>glair</m>, then mix it well. And once in
 the <tl>frame</tl>, beat it on top with a <tl>pestle</tl>, or other
 proper thing, for this makes it mold better and release better. </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 It would be good to fill the <tl>frame</tl> all at once, for the
 mixture, made of several <m>sands</m> with <m>the one of the
 <env>mine</env></m>, with which you fill the <tl>frame</tl>, corrupts
@@ -71,8 +72,8 @@ it.</ab>
 
 </div>
 
-<div>
-<id>p085r_1</id>
+<div id="p085r_1">
+
 <head><m>Green varnish</m> for medals of <m>copper</m></head>
 
 <ab>Having casted them very neatly, cover them with <m><fr>sel de
@@ -82,8 +83,8 @@ them under the <m>dung</m>.</ab>
 
 </div>
 
-<div>
-<id>p085r_2</id>
+<div id="p085r_2">
+
 <head><m>Glue</m></head>
 
 <ab>The <pl>Flemish</pl> reglue their <tl><m>earthen</m> pots</tl> with

@@ -1,11 +1,11 @@
-<root>
-<page>150v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="150v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f306.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f306.image</image>
 
-<div>
 
-<id>p150v_1</id>
+
+<div id="p150v_1" continued="yes">
+
+
 
 <head>Mouler creux</head>
 
@@ -88,7 +88,7 @@ en soit sortie, elle bouilliroit là dedans &amp; y laisseroit<lb/>
 
 quelque pustules &amp; chose grumeleuse, combien que</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Ceste <tl>poincte</tl> se mect au milieu &amp; par le<lb/>
 
@@ -117,25 +117,25 @@ de <tl>poinctes</tl><lb/>
 
 au milieu.
 
-<figure>
+<figure id="fig_p150v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5eVVJSjUwSFhpUzg">
 
-<id>fig_p150v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5eVVJSjUwSFhpUzg</link>
+
+
 
 </figure>
 
-<figure>
+<figure id="fig_p150v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SUk5cUNtNnpqbXc">
 
-<id>fig_p150v_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SUk5cUNtNnpqbXc</link>
+
+
 
 </figure>
 
 </ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Plustost que gecter le<lb/>
 
@@ -149,7 +149,7 @@ affin de tousjours mieulx<lb/>
 
 asseurer le <tl>moule</tl>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Le <m>suif</m> meslé<lb/>
 
@@ -165,7 +165,7 @@ bouche poinct. Il fault<lb/>
 
 <m>cire noire.</m></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Toutes pieces fort<lb/>
 
@@ -183,7 +183,7 @@ chaulde &amp; mange le<lb/>
 
 <tl>moule</tl>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Tu peulx, aprés le<lb/>
 
@@ -201,7 +201,7 @@ et le raporter avecq<lb/>
 
 <m>souldure</m>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 <mark>X</mark>
 
@@ -230,7 +230,7 @@ reparer aysement, encores que tu ne gectes
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

@@ -1,23 +1,23 @@
-<root>
-<page>116r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="116r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f237.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f237.image</image>
 
-<div>
 
-<cont/>
 
-<id>p115v_3</id>
+<div continues="yes" id="p115v_3">
 
-<ab>
 
-<margin>left-top</margin>
 
-<figure>
 
-<id>fig_p116r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SEdPVDdsS2dEUmM</link>
+<ab margin="left-top">
+
+
+
+<figure id="fig_p116r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SEdPVDdsS2dEUmM">
+
+
+
+
 
 </figure>
 
@@ -61,9 +61,9 @@ recuisent sur une <tl>grille</tl>
 
 </div>
 
-<div>
+<div id="p116r_1">
 
-<id>p116r_1</id>
+
 
 <head>Mouler bouquets herbes et fleurs</head>
 
@@ -71,7 +71,7 @@ recuisent sur une <tl>grille</tl>
 
 Il les fault mouler tout aussy tost quilz sont cueillis a<lb/>
 
-cause quilz s<del>ont></del>e fanissent &amp; seichent Trempe les
+cause quilz s<del>ont</del>e fanissent &amp; seichent Trempe les
 doncq<lb/>
 
 incontinent en <m>eau de vye bonne</m> &amp; puys les mects dans ton
@@ -81,7 +81,7 @@ de <m>sable destrempe</m></tl> co<exp>mm</exp>e des <al>serpents</al> A quoy il
 ne fault point<lb/>
 
 de despouille Car les <tl>moules</tl> se
-recuis<del>s</del>ans<add>ts</add><comment>c_116r_01</comment> lherbe se
+recuis<del>s</del>ansts<comment rid="c_116r_01"/> lherbe se
 brusle<lb/>
 
 ce qui ne se faict pas des animaulx qui ont des os <del>&amp;
@@ -95,9 +95,9 @@ les <al>serpents</al> pourceque sil estoit espes il chargeroit la fleur
 
 </div>
 
-<div>
+<div id="p116r_2">
 
-<id>p116r_2</id>
+
 
 <head>Mouler <del>de</del> en noyau<lb/>
 
@@ -133,7 +133,7 @@ d<m>ardile</m> &amp; y ayant faict un contour <del>de</del> pour luy
 donner lespesseur<lb/>
 
 necessaire Ces medailles s<m>huilent</m> &amp; frottent ainsy
-d<m>e<add>au de</add> vye</m> pource<ups>que</ups><comment>c_116r_02</comment><lb/>
+d<m>e<add>au de</add> vye</m> pource<ups>que</ups><comment rid="c_116r_02"/><lb/>
 
 elles sont fermes &amp; dures &amp; ne presteroient pas pour les retirer
 d<del>e</del>u<lb/>
@@ -145,9 +145,9 @@ mols &amp; flexibles
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Quand tu as<lb/>
 
@@ -171,7 +171,7 @@ descende<lb/>
 
 doulcement<lb/>
 
-Que le co<exp>m</exp>ma<exp>n</exp><comment>c_116r_03</comment><lb/>
+Que le co<exp>m</exp>ma<exp>n</exp><comment rid="c_116r_03"/><lb/>
 
 cement soict<lb/>
 
@@ -203,9 +203,9 @@ espesseur
 
 </div>
 
-<div>
+<div id="p116r_3">
 
-<id>p116r_3</id>
+
 
 <head>Gect pour <m>or</m> et <m>arge<exp>n</exp>t</m></head>
 
@@ -231,11 +231,11 @@ ne soufle pas tant
 
 </div>
 
-<div>
+<div id="p116r_4">
 
-<id>p116r_4</id>
 
-<head>Moyen <del>desmouler</del><comment>c_116r_04</comment>
+
+<head>Moyen <del>desm<del>ou</del>ailler</del><comment rid="c_116r_04"/>
 d<m>esmailler</m> des fœilles<lb/>
 
 d<m><del>or</del></m>e <pa>roses</pa> d<m>or</m> fort subtilles et

@@ -1,13 +1,13 @@
-<root>
-<page>040r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="040r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f85.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f85.image</image>
 
-<div>
 
-<cont/>
 
-<id>p039v_3</id>
+<div continues="yes" id="p039v_3">
+
+
+
+
 
 <ab>at all expert in painting. If your <m>glass</m> pane is bulging as
 if taken from the belly of some jar, it will show all the better for it. When you apply
@@ -17,9 +17,9 @@ leave it a while on the tile, then lay down your <m>tin</m> sheet.</ab>
 
 </div>
 
-<div>
+<div id="p040r_1">
 
-<id>p040r_1</id>
+
 
 <head><m>Dye</m></head>
 
@@ -31,9 +31,9 @@ similar things.</ab>
 
 </div>
 
-<div>
+<div id="p040r_2">
 
-<id>p040r_2</id>
+
 
 <head><m>Aquafortis</m></head>
 
@@ -47,9 +47,9 @@ de-phlegming the <m>alum</m>.</ab>
 
 </div>
 
-<div>
+<div id="p040r_3">
 
-<id>p040r_3</id>
+
 
 <head><m>Vinegar</m></head>
 
@@ -66,9 +66,9 @@ spoils in heat &amp; <env>thunder storms</env>.</ab>
 
 </div>
 
-<div>
+<div id="p040r_4">
 
-<id>p040r_4</id>
+
 
 <head>Buttons of <m><fr>vermeilles</fr></m></head>
 
@@ -80,9 +80,9 @@ which one reheats.</ab>
 
 </div>
 
-<div>
+<div id="p040r_5">
 
-<id>p040r_5</id>
+
 
 <head><env>Grottos</env></head>
 

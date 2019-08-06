@@ -1,13 +1,13 @@
-<root>
-<page>096r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="096r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f197.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f197.image</image>
 
-<div>
 
-<cont/>
 
-<id>p094r_1</id>
+<div continues="yes" id="p094r_1">
+
+
+
+
 
 <ab><tl>plane ronde, manchée aussy à deulx manches</tl>, puys avecq<lb/>
 
@@ -71,7 +71,7 @@ cousture avecq un<lb/>
 <tl>loppin de <m><pa>buys</pa></m></tl> pour la couvrir &amp; unir.
 D’une <m>belle peau de <al>veau</al></m><lb/>
 
-il se tire viii ou nœuf ou x fourreaulx.<comment>c_096r_01</comment> Un
+il se tire viii ou nœuf ou x fourreaulx.<comment rid="c_096r_01"/> Un
 <pro>ouvrier</pro> en peult<lb/>
 
 aysement faire vi <ms>par <tmp>jour</tmp></ms>. S’ilz sont trop espés,
@@ -118,9 +118,9 @@ Un fourreau <m>enciré</m><lb/>
 vault bien xxx s<exp>ols</exp>, un de <al>vache</al> xx
 <ms><cn>s<exp>ols</exp></cn></ms>. </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <add>d’une <m>peau de<lb/>
 

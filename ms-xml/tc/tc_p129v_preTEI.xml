@@ -1,11 +1,11 @@
-<root>
-<page>129v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="129v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f264.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f264.item.r=</image>
 
-<div>
 
-<id>p129v_1</id>
+
+<div id="p129v_1">
+
+
 
 <head>Animaulx seiches au <tl>four</tl><lb/>
 
@@ -25,11 +25,11 @@ Mays<lb/>
 
 il fault quilz soient promptem<exp>ent</exp> seiches</ab>
 
-<ab>
+<ab margin="left-middle" render="tall">
 
-<margin>left-middle</margin>
 
-<render>tall</render>
+
+
 
 Note quil leur fault<lb/>
 
@@ -43,7 +43,7 @@ co<exp>mm</exp>e les fleurs<lb/>
 
 les fayre seicher<lb/>
 
-au <tl>four</tl> qui<comment>c_129v_01</comment> soict<lb/>
+au <tl>four</tl> qui<comment rid="c_129v_01"/> soict<lb/>
 
 <ms>asses chault co<exp>mm</exp>e quand<lb/>
 
@@ -78,9 +78,9 @@ une <tl>broisse</tl></ab>
 
 </div>
 
-<div>
+<div id="p129v_2">
 
-<id>p129v_2</id>
+
 
 <head>Animaulx gectes en <m>cuivre</m></head>
 
@@ -93,9 +93,9 @@ de mesme</ab>
 
 </div>
 
-<div>
+<div id="p129v_3">
 
-<id>p129v_3</id>
+
 
 <head>Advis sur le gect</head>
 
@@ -115,11 +115,11 @@ court<lb/>
 
 plus doulcement sans sempecher de vapeurs &amp; fumee</ab>
 
-<ab>
+<ab margin="right-middle">
 
-<margin>right-middle</margin>
 
-<hr/><comment>c_129v_02</comment>Fais tousjours<lb/>
+
+<hr/><comment rid="c_129v_02"/>Fais tousjours<lb/>
 
 lentree du gect<lb/>
 
@@ -133,9 +133,9 @@ pour retirer la furie du<lb/>
 
 </div>
 
-<div>
+<div id="p129v_4">
 
-<id>p129v_4</id>
+
 
 <head><al>Yraigne</al> moulee sur une fœille</head>
 
@@ -193,15 +193,15 @@ Retourne<lb/>
 
 <mark>🜊</mark></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<figure>
 
-<id>fig_p129v_1</id>
+<figure id="fig_p129v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Sk9tdno1ODBqdms">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Sk9tdno1ODBqdms</link>
+
+
+
 
 </figure>
 
@@ -227,9 +227,9 @@ l<al>iraigne</al></add>
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>🜊</mark>
 

@@ -1,16 +1,16 @@
-<root>
-<page>021r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="021r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f47.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f47.image</image>
 
-<div>
 
-<id>p021r_1</id>
+
+<div id="p021r_1">
+
+
 
 <head><pro>Gunner</pro></head>
 
 <ab>As for small <wp>cannons</wp> which are not loaded with a <tl>ladle</tl>,
-one charges them with <m>powder</m> <ms>up to the escutcheon</ms>,<comment>c_018v_02</comment> which
+one charges them with <m>powder</m> <ms>up to the escutcheon</ms>,<comment rid="c_018v_02"/> which
 is placed on the <wp>piece</wp> with due proportion.</ab>
 
 <ab>To point a <wp>cannon</wp>, that is to say to take its aim, one needs to take
@@ -26,9 +26,9 @@ discretion if you are within true range, because the force of the
 your <wp>piece</wp> shoots at point blank, you would need to consider that the
 weight of the ball would make it lower.</ab></div>
 
-<div>
+<div id="p021r_2" continued="yes">
 
-<id>p021r_2</id>
+
 
 <head>For firing a <wp>cannon</wp> at night</head>
 
@@ -51,12 +51,12 @@ the day, you place a <tl>ruler</tl> fixed well in the ground, which
 comes just to touch the the bottom of the edge of the <wp>cannon</wp> after it
 has been pointed &amp; adjusted for firing.</ab>
 
-<ab><margin>left-middle</margin>If the
-platform<comment>c_021r_01</comment>, the wheels, or the
-wedges<comment>c_021r_01</comment> break or are disturbed, this
+<ab margin="left-middle">If the
+platform<comment rid="c_021r_01"/>, the wheels, or the
+wedges<comment rid="c_021r_01"/> break or are disturbed, this
 invention is of no profit.</ab>
 
-<cont/>
+
 
 </div>
 </root>

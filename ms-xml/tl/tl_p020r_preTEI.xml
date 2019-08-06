@@ -1,11 +1,11 @@
-<root>
-<page>020r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="020r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f45.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f45.image</image>
 
-<div>
 
-<id>p020r_1</id>
+
+<div id="p020r_1">
+
+
 
 <head>For making <m><oc>millas</oc></m></head>
 
@@ -41,9 +41,9 @@ is cooked. It should be hard.</ab>
 
 </div>
 
-<div>
+<div id="p020r_2">
 
-<id>p020r_2</id>
+
 
 <head><pro>Glassworker</pro></head>
 
@@ -53,7 +53,7 @@ it is stained by veins, in straight lines as if tanned, which happens
 because the <pro>glassmakers</pro>, having made it, put it when totally
 hot on <m><pa>straw</pa></m>, which stains it in this way. However, this
 is removed with <m>varnish</m> &amp; <m>salt</m> &amp; other
-<m>drugs</m> that the <pro>glassworkers</pro> put on. <m>Glass from <pl>Lorraine</pl></m> is sold by the <ms>bundle</ms><comment>c_020r_04</comment> &amp; each
+<m>drugs</m> that the <pro>glassworkers</pro> put on. <m>Glass from <pl>Lorraine</pl></m> is sold by the <ms>bundle</ms><comment rid="c_020r_04"/> &amp; each
 <ms><df>bundle</df></ms> is composed of three <ms>tablets</ms>.
 The <ms>bundle</ms> costs usually x <cn>sous</cn>.
 <m>Plate glass</m> <del>sold in</del> is made in <pl>France</pl>, it is
@@ -63,7 +63,7 @@ better to make little diamonds rather than large square pieces in the
 shape of a frame, because they are not able to seat themselves very
 evenly.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 <m>Plate glass</m> is sold by <ms><fr>paniers</fr></ms>. Every
 <ms><df><fr>panier</fr></df></ms> contains 24 <ms>plates</ms> that are

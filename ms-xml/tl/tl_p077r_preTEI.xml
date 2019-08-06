@@ -1,27 +1,27 @@
-<root>
-<page>077r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="077r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f159.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f159.image</image>
 
-<div>
-<id>p077r_1</id>
-<head><comment>c_077r_02</comment><md>Against redness of the <bp>face</bp></md></head>
+
+
+<div id="p077r_1">
+
+<head><comment rid="c_077r_02"/><md>Against redness of the <bp>face</bp></md></head>
 
 <ab>Make a small <m>lead</m> cap &amp; wear it <tmp>overnight</tmp>.
 Excellent secret. Try a <m>lead</m> mask.</ab>
 
 </div>
 
-<div>
-<id>p077r_2</id>
+<div id="p077r_2">
+
 <head> <m>Medicine</m> of the <pl>orientals</pl> <md>against all
 maladies</md></head>
 
-<figure>
+<figure id="fig_p077r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ckxxXzJIeWhnMDg">
 
-<id>fig_p077r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5ckxxXzJIeWhnMDg</link>
+
+
 
 </figure>
 
@@ -35,8 +35,8 @@ also pinch the <bp>nose</bp>. <md>Against colds</md>, <md>rheums</md>, and <md>o
 maladies</md>.</ab>
 
 </div>
-<div>
-<id>p077r_3</id>
+<div id="p077r_3">
+
 <head><m>Fatty earth</m></head>
 
 <ab><pro>Founders</pro>, to make the handles of their bells, use it. And
@@ -47,8 +47,8 @@ it very neatly. But it must not be sandy
 
 </div>
 
-<div>
-<id>p077r_4</id>
+<div id="p077r_4" continued="yes">
+
 <head>Recipe for making <m>bronze</m> and <m>varnish</m> of many
 sorts</head>
 
@@ -60,7 +60,7 @@ putting on <m>paper</m>, a tablet, or another piece.</ab>
 and one <ms>ounce</ms> of <m>benzoin</m> pestled between
 two pieces of <m>paper</m> or <m>card</m> or in a <tl>mortar</tl>,</ab>
 
-<cont/>
+
 
 </div>
 </root>

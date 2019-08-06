@@ -1,10 +1,10 @@
-<root>
-<page>137v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="137v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f280.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f280.image</image>
 
-<div>
-<id>p137v_1</id>
+
+
+<div id="p137v_1" continued="yes">
+
 <head>Tempering <m>sand for <tl>molds</tl> of flat medals</m></head>
 
 <ab>Flat medals, of <m>wax</m> or <m>metal</m>, are <m>oiled</m> very
@@ -40,23 +40,23 @@ having made the second cast, &amp; having opened your <tl>mold</tl>,
 the side of the gate &amp; the other from the side of the head, which is
 opposite.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Take care not to <m>oil</m> your medal too much, for if the <m>oil</m>
 seeps out, it diverts the <m>sand</m> from becoming smooth &amp; amassing &amp;
 makes it wavy &amp; lumpy. One should only touch the middle of the medal
 <del>of the <fr>p</fr></del> with the <tl>point of an <m>oiled</m>
 paintbrush</tl>, &amp; then spread the <m>oil</m> everywhere.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 Make especially sure that the gate be the widest you can
 <del><fr>p</fr></del> toward the medal &amp; embraces it well, that the
 entrance of the gate is ample, always narrowing toward the medal. Do
 not forget also to notch the entrance of the gate.</ab>
 
-<cont/>
+
 
 </div>
 </root>

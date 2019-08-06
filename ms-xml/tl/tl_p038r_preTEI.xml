@@ -1,17 +1,17 @@
-<root>
-<page>038r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="038r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f81.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f81.image</image>
 
-<div>
 
-<id>p038r_1</id>
+
+<div id="p038r_1">
+
+
 
 <head><m>Sapphire</m></head>
 
 <ab>One finds <m>sapphires</m> that one calls <df>of the trellis</df>, because they are pierced and it is said that a
 certain <pro>king</pro> had made from these a certain ornament in the
-shape of a trellis, as would perhaps be the Screen<comment>c_038r_01</comment> of 
+shape of a trellis, as would perhaps be the Screen<comment rid="c_038r_01"/> of 
 <pn>Charlemagne</pn>, as it is called, in the treasure of <pl>Saint Denis</pl>, in which the <m>gemstones</m> are
 mounted without leaf, so as to have the enjoyment of the light on one
 side &amp; the other, &amp; to show their vividness. I have a white one
@@ -23,22 +23,22 @@ as on the <m>beryl</m>.</add></ab>
 
 </div>
 
-<div>
+<div id="p038r_2">
 
-<id>p038r_2</id>
+
 
 <head><m><pa>Saffron</pa></m></head>
 
-<ab>It is counterfeited<comment>c_003r_02</comment> &amp; augmented with <m><pa>marigold</pa> leaves
+<ab>It is counterfeited<comment rid="c_003r_02"/> &amp; augmented with <m><pa>marigold</pa> leaves
 half-dried, &amp; twisted like a thread</m>, &amp; put <env>in the
 hottest sun</env> to dry, &amp; is mixed, &amp; the aforesaid
 <pa>marigold</pa> even gives some color.</ab>
 
 </div>
 
-<div>
+<div id="p038r_3">
 
-<id>p038r_3</id>
+
 
 <head><m>Sapphire</m></head>
 
@@ -57,9 +57,9 @@ they take it from the bottom of the <m>glass</m>.</ab>
 
 </div>
 
-<div>
+<div id="p038r_4">
 
-<id>p038r_4</id>
+
 
 <head><m>Amber</m></head>
 
@@ -87,9 +87,9 @@ of <m>soft wood</m></tl> with <tl><m>putty</m></tl> instead of
 resembles <m>marble stone</m> and is a very hard mineral with large
 pieces, like that of <pl>Cardona</pl> &amp; <pl>Monserrat</pl>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 I have experimented by making it boil in <m>lye</m> or <m>corrosive
 water</m>, it turns reddish on the surface. And if it is rubbed against

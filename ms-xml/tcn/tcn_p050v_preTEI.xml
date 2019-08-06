@@ -1,11 +1,11 @@
-<root>
-<page>050v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="050v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f106.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f106.image</image>
 
-<div>
 
-<id>p050v_1</id>
+
+<div id="p050v_1">
+
+
 
 <head><al>Oysillons</al></head>
 
@@ -30,7 +30,7 @@ avecq deulx<lb/>
 trop<lb/>
 
 cher, on les nourrist ordinayrem<exp>ent</exp> de <pa>chenevi</pa>. La
-<al>passe solitaire</al><comment>c_050v_01</comment><lb/>
+<al>passe solitaire</al><comment rid="c_050v_01"/><lb/>
 
 se purge avecq une <m><al>iraigne</al></m> qu’il luy fault donner
 <ms><tmp>une fois<lb/>
@@ -41,7 +41,7 @@ gaillardisse.<lb/>
 La <al>calandre</al> se purge avecq du <m>mortier sec</m> composé
 de<lb/>
 
-<m>chaulx</m> &amp; <m>sable</m> pour la garder de venir de gallardise<comment>c_049v_06</comment><lb/>
+<m>chaulx</m> &amp; <m>sable</m> pour la garder de venir de gallardise<comment rid="c_049v_06"/><lb/>
 
 &amp; s’engraisser trop. Les petits <al>oisillons</al> se purgent<lb/>
 
@@ -68,9 +68,9 @@ la <m>graine de <pa>lettue</pa></m> ou de la <m>graine de
 pour <al>linotte</al>, de la <m><pa>navette</pa></m>.</ab>
 </div>
 
-<div>
+<div id="p050v_2">
 
-<id>p050v_2</id>
+
 
 <head><m>Acier</m> corroyé et <tl>limes</tl></head>
 
@@ -116,7 +116,7 @@ aultre chaulde ilz reduisent en masse. Les <pl>Allemans</pl> font leur
 
 de <m>fer fort</m>.</ab>
 
-<ab><margin>left-middle</margin>On aplique l’<m>acier</m><lb/>
+<ab margin="left-middle">On aplique l’<m>acier</m><lb/>
 
 aulx houtils <del>dess</del> non<lb/>
 
@@ -132,7 +132,7 @@ ilz doibvent estre de <m>fer<lb/>
 
 fort doulx</m>.</ab>
 
-<ab><margin>left-middle</margin>Les <pl>levantins</pl> raffinent<lb/>
+<ab margin="left-middle">Les <pl>levantins</pl> raffinent<lb/>
 
 n<exp>ost</exp>re <m>acier</m>, car leur pays<lb/>
 
@@ -140,5 +140,5 @@ ne leur en porte point. Et<lb/>
 
 le font recuire dans un<lb/>
 
-<tl>pot</tl> avecq du <m>bitum</m> &amp;<sup>c</sup>.</ab></div>
+<tl>pot</tl> avecq du <m>bitum</m> &amp;<corr>c</corr>.</ab></div>
 </root>

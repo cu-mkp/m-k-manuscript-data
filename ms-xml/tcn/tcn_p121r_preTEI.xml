@@ -1,13 +1,13 @@
-<root>
-<page>121r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="121r" image="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f248.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f248.item</image>
 
-<div>
 
-<cont/>
 
-<id>p120v_6</id>
+<div continues="yes" id="p120v_6">
+
+
+
+
 
 <ab>signe qu’il ha quelque humidité, &amp; si la fleur avoict aussy
 quelque<lb/>
@@ -77,9 +77,9 @@ lupina</pa>,</la> l’<pa>amaranthe</pa> &amp; semblables, le<lb/>
 
 <pa>genest</pa> et aultres que ton experience t’enseignera.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Le <m>sable de quoy<lb/>
 
@@ -133,9 +133,9 @@ de ceste poulsiere<lb/>
 
 co<exp>mm</exp>e tu sçais.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Les <pa>pensées</pa> se<lb/>
 
@@ -143,9 +143,9 @@ gardent ainsy.</ab>
 
 </div>
 
-<div>
+<div id="p121r_1">
 
-<id>p121r_1</id>
+
 
 <head>Pour garder les fruits<lb/>
 
@@ -174,13 +174,13 @@ Et si elles avoient un couvercle de <m>verre</m> bien sellé de
 elles n’en seroient que meilleures. Mects dans une <tl>quaisse</tl><lb/>
 
 dans le <env>puys</env> ,ou dans la <env>cave</env>, dans une
-<tl><po>pone</po> ou ung cos<comment>c_121r_01</comment><lb/>
+<tl><po>pone</po> ou ung cos<comment rid="c_121r_01"/><lb/>
 
 de terre plein d’<m>eau</m></tl>.</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 Car là où la<lb/>
 

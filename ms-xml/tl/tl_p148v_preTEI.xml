@@ -1,11 +1,11 @@
-<root>
-<page>148v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="148v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f302.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f302.image</image>
 
-<div>
 
-<id>p148v_1</id>
+
+<div id="p148v_1">
+
+
 
 <head>Molding <al>turtles</al></head>
 
@@ -43,6 +43,6 @@ is removed with the <df><tl><fr>chaple</fr></tl></df>, a type of
 the <tl>point of a small chisel</tl>, not tempered, &amp; struck on a
 <tl>small file</tl>. </ab>
 
-<ab><margin>left-middle</margin>Make this hole before <del>molding</del>
+<ab margin="left-middle">Make this hole before <del>molding</del>
 joining your <tl>molds</tl>.</ab></div>
 </root>

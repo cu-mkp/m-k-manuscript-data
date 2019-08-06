@@ -1,10 +1,10 @@
-<root>
-<page>090r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="090r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f185.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f185.image</image>
 
-<div>
-<id>p090r_1</id>
+
+
+<div id="p090r_1">
+
 <head><m>Sal ammoniac</m> and <m>iron dross</m></head>
 
 <ab>I have pulverized <m>sal ammoniac</m>, well dried in the fire &amp;
@@ -18,17 +18,18 @@ moistened <env>in the <tmp><fr>serain</fr></tmp></env>, or in the
 releases very neatly.</ab>
 
 </div>
-<div>
-<id>p090r_2</id>
+<div id="p090r_2">
+
 <head><m>Sand</m></head>
 
-<ab><pro>Molders</pro> from <pl>Foix</pl> who cast their medals crosswise,<comment>c_090r_02</comment> use <m><la>crocum ferri</la></m> and <m>calcined slate</m>. It is
-for very flat things.</ab>
+<ab><pro>Molders</pro> from <pl>Foix</pl> who cast their<del><fr>eu</fr></del><comment rid="c_090r_01"/> 
+medals crosswise,<comment rid="c_090r_02"/> use <m><la>crocum ferri</la></m> 
+and <m>calcined slate</m>. It is for very flat things.</ab>
 
 </div>
-<div>
-<id>p090r_3</id>
-<head><comment>c_090r_03</comment>All <m>sands</m> can be rendered good</head>
+<div id="p090r_3" continued="yes">
+
+<head><comment rid="c_090r_03"/>All <m>sands</m> can be rendered good</head>
 
 <ab><pro>Artisans who work in big works</pro>, &amp; who need to further
 their profit, by seeking things already prepared in nature, because she
@@ -44,7 +45,7 @@ when handling it between your <tl><bp>fingers</bp></tl></sn>. And
 because the latter is only found <env>near the rocks in mountainous
 areas</env>, or <env>lean territories</env> &amp; akin to the 
 <m><fr>arene</fr></m>, it cannot be found <del>in</del> <env>in the
-surroundings of all the <pl><fr>bonnes villes</fr></pl></env>,<comment>c_028v_02</comment> where
+surroundings of all the <pl><fr>bonnes villes</fr></pl></env>,<comment rid="c_028v_02"/> where
 <pro>artisans</pro> willingly gather themselves. And thus, if they do
 not have it <env>close to their house</env>, they prefer to have it come
 from afar, like from <pl>Lyon</pl>, <pl>Venise</pl>, <pl>Parys near the
@@ -52,7 +53,7 @@ Sainct Chappelle</pl> &amp; similar places, rather than prepare it.
 However, you can be certain that in all places you can render the
 <m>sand from a <env>mine</env></m></ab>
 
-<cont/>
+
 
 </div>
 </root>

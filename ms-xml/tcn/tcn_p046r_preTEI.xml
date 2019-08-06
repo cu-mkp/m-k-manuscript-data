@@ -1,11 +1,11 @@
-<root>
-<page>046r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="046r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f97.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f97.item</image>
 
-<div>
 
-<id>p046r_1</id>
+
+<div id="p046r_1">
+
+
 
 <head><md>Pour les <bp>dents</bp></md>, <m>huile de soufre</m></head>
 
@@ -48,9 +48,9 @@ avecq discretion.</ab>
 
 </div>
 
-<div>
+<div id="p046r_2">
 
-<id>p046r_2</id>
+
 
 <head><m>Huile de <pa>froment</pa></m></head>
 
@@ -58,28 +58,22 @@ avecq discretion.</ab>
 
 </div>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<!-- we think this mark may be made by the oil of sulfur described in
-p046v_4, and that this is the evidence of it bleeding through to the
-other side of the folio. Or is this related to a compass mark? See also
-p046v_1.png -->
+    
+<figure id="fig_p046r_1" link="https://drive.google.com/file/d/1G9nfjlsULz9521ia7VptfkJ_AjsSPO5H/view?usp=sharing">
 
-<figure>
 
-<link>https://drive.google.com/file/d/1G9nfjlsULz9521ia7VptfkJ_AjsSPO5H/view?usp=sharing
 
-</link>
 
 </figure>
 
 </ab>
 
-<div>
+<div id="p046r_3">
 
-<id>p046r_3</id>
+
 
 <head><md>Contre mal caducq</md></head>
 
@@ -98,9 +92,9 @@ plus</md>.</ab>
 
 </div>
 
-<div>
+<div id="p046r_4">
 
-<id>p046r_4</id>
+
 
 <head><md>Contre goutes froides</md></head>
 
@@ -109,13 +103,13 @@ apliquée.</ab>
 
 </div>
 
-<div>
+<div id="p046r_5">
 
-<id>p046r_5</id>
+
 
 <head><del>Go</del> Fleurs d’abres</head>
 
-<ab>Celles qui se voyent <tmp>en tout<del>es</del><add>s</add> les
+<ab>Celles qui se voyent <tmp>en tout<del>es</del>s<comment rid="c_046r_02"/> les
 renouveaulx de ☾</tmp> ne viennent<lb/>
 
 gueres à proffict. Il ne fault laisser au greffe que deulx boutons.</ab>

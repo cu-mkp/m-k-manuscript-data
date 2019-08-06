@@ -1,11 +1,11 @@
-<root>
-<page>049v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="049v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f104.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f104.image</image>
 
-<div>
 
-<id>p049v_1</id>
+
+<div id="p049v_1">
+
+
 
 <head><al>Oyseaulx</al></head>
 
@@ -24,7 +24,7 @@ Michel</pn></tmp></ms>, aultrem<exp>ent</exp> ilz ne vivent<lb/>
 
 gueres. Il leur vient à touts sur la fourche de la queue<lb/>
 
-une petite aposteme par foys, qu’aulcuns appellent <df>gaillardise</df>,<comment>c_049v_06</comment><lb/>
+une petite aposteme par foys, qu’aulcuns appellent <df>gaillardise</df>,<comment rid="c_049v_06"/><lb/>
 
 qui les rend mallades &amp; quelques foys les faict mourir,<lb/>
 
@@ -49,9 +49,9 @@ Elle s’y frotte &amp; s’en purge.
 
 </div>
 
-<div>
+<div id="p049v_2">
 
-<id>p049v_2</id>
+
 
 <head>Graine de <m>plomb</m></head>
 
@@ -79,15 +79,15 @@ par<lb/>
 
 un gros <tl>tamis</tl> pour separer la plus grosse graine de la<lb/>
 
-plus menue. La grossette portera 25 ou 30 <ms>pas</ms>.<comment>c_049v_08</comment>
+plus menue. La grossette portera 25 ou 30 <ms>pas</ms>.<comment rid="c_049v_08"/>
 
 </ab>
 
 </div>
 
-<div>
+<div id="p049v_3">
 
-<id>p049v_3</id>
+
 
 <head><al>Oyseaulx</al></head>
 
@@ -124,9 +124,9 @@ aulx <env>montaignes</env> cover.
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Les <oc><al>benarrins</al></oc> sont<lb/>
 
@@ -136,7 +136,7 @@ que chantant sans ouvrir<lb/>
 
 le bec on diroit qu’il<lb/>
 
-sont.<comment>c_049v_05</comment>
+sont.<comment rid="c_049v_05"/>
 
 </ab>
 

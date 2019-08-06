@@ -1,10 +1,10 @@
-<root>
-<page>112r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="112r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f229.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f229.image</image>
 
-<div>
-<id>p112r_1</id>
+
+
+<div id="p112r_1">
+
 <head>For tempering <fr>sand</fr></head>
 
 <ab>You need to have a big <tl>basin</tl> full of <m>water</m> to
@@ -15,34 +15,34 @@
 <tl>bowl</tl>. <del>The big <tl>basin</tl> is</del> <del><fr>pour
 tr</fr></del></ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 To make handles for your <tl>large <m>oil</m> paintbrushes</tl>, if you do
 not have large enough <tl><m>feather</m> quills</tl>, take two of them,
 &amp; slit them &amp; join them together.</ab>
 
-<figure>
+<figure id="fig_p112r_1" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MHphUzNsdW9DQ1U">
 
-<id>fig_p112r_1</id>
 
-<margin>left-top</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5MHphUzNsdW9DQ1U</link>
+
+
+
 
 </figure>
 
 </div>
 
-<div>
-<id>p112r_2</id>
+<div id="p112r_2">
+
 <head>Decoction of <m>sands</m></head>
 
-<ab>Already mentioned.<comment>c_112r_01</comment></ab>
+<ab>Already mentioned.<comment rid="c_112r_01"/></ab>
 
 </div>
 
-<div>
-<id>p112r_3</id>
+<div id="p112r_3">
+
 <head>Molding <fr>en noyau</fr>. Mixture of <m>sand</m></head>
 
 <ab>Having reheated your <m>sand</m>, namely the <m>plaster</m>, the
@@ -51,18 +51,18 @@ passed them finely <add>through the <tl>sieve</tl>
 <mark>#</mark></add>, mix them this way, take four <ms>parts</ms> of
 <m>plaster</m>, two of <m>brick</m>, &amp; one of <m>feather alum</m>. Mix them all together with your <tl><bp>hands</bp></tl>,
 <del><fr>qu’il</fr></del> in such a way that one cannot discern one from
-the other. With your <m>sand</m> ready, you need to kill the animal that you
+the other. With your <m>sand</m> ready, you need to put to death the animal that you
 want to mold <del><fr>de</fr></del> in this manner.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <mark>#</mark> except for the <m>feather alum</m> which
 should be ground in a <tl>mortar</tl>.</ab>
 
 </div>
 
-<div>
-<id>p112r_4</id>
+<div id="p112r_4" continued="yes">
+
 <head>Putting to death the animal for molding</head>
 
 <ab>You need to be careful not to wound it in taking it. And, having put
@@ -80,17 +80,17 @@ vinegar</m> &amp; <m><bp>urine</bp></m> that it can be covered. And shake it
 &amp; torment it therein until it is dead, which will be in <ms><tmp>an hour or a half</tmp></ms>. But if you are in a
 hurry</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
+
 To know if it is quite dead, take it out of the <m>vinegar</m> and take
 it by the tail. If it moves it, do not mold it for it still has feeling,
 &amp; when piercing it, it would draw back &amp; spoil the mold.</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
+
 <al><env>Water</env> snakes</al> hardly bite.</ab>
 
-<cont/>
+
 
 </div>
 </root>

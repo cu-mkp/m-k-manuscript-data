@@ -1,10 +1,10 @@
-<root>
-<page>156r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="156r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f317.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f317.item.r=</image>
 
-<div>
-<id>p156r_1</id>
+
+
+<div id="p156r_1">
+
 <head>Molding promptly and reducing a hollow form to a relief</head>
 
 <ab>You can imprint the relief of a medal in <m>colored wax</m>, &amp;
@@ -21,8 +21,8 @@ relief, on which you will make your <fr>noyau</fr>.</ab>
 
 </div>
 
-<div>
-<id>p156r_2</id>
+<div id="p156r_2">
+
 <head>Very light and hollow work of <m>gold</m></head>
 
 <ab>Cast a <al>lizard</al> or any medal you like in <m>base silver</m>,
@@ -41,15 +41,15 @@ time, because that would block the small features; but proceeding
 therein as said, lightly &amp; several times, <add>and cleaning
 well</add>, you will do well.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 In order for the <m>aquafortis</m> to eat away better, it is necessary
 to <del>cast</del> cast in <m>base silver</m>.</ab>
 
 </div>
 
-<div>
-<id>p156r_3</id>
+<div id="p156r_3">
+
 <head><tl>Chasing</tl></head>
 
 <ab><m>Lead</m> is so fat &amp; soft that one cannot strike it boldly,

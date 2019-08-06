@@ -1,13 +1,13 @@
-<root>
-<page>110v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="110v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f226.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f226.image</image>
 
-<div>
 
-<cont/>
 
-<id>p110r_3</id>
+<div continues="yes" id="p110r_3">
+
+
+
+
 
 <ab>Quand il ha mangé quelque chose, en le tourmentant<lb/>
 
@@ -20,9 +20,9 @@ fort<lb/>
 
 volontiers.</ab></div>
 
-<div>
+<div id="p110v_1">
 
-<id>p110v_1</id>
+
 
 <head><tl>Moules</tl></head>
 
@@ -33,7 +33,7 @@ quand<lb/>
 
 tu les veulx desjoindre, trempe les dans de l’<m>eau<lb/>
 
-froide</m> qui est le secret. <del>L</del><add>E</add>t tu verras que
+froide</m> qui est le secret. <del>L</del>Et<comment rid="c_110v_04"/> tu verras que
 l’<m>huile</m>, encores<lb/>
 
 qu’il semble estre imbu, se retirera à part co<exp>mm</exp>e une
@@ -49,9 +49,9 @@ recuits, ilz soient plus maniables &amp; aisés à dissouldre<lb/>
 
 dans l’<m>eau</m>.</ab></div>
 
-<div>
+<div id="p110v_2">
 
-<id>p110v_2</id>
+
 
 <head><m>Huile de <pa>froment</pa></m></head>
 
@@ -70,7 +70,7 @@ que tu veulx mouler soict couché, car estant debout il feroit<lb/>
 
 relever le <m>sable</m> &amp; soufler.</ab>
 
-<ab><margin>left-middle</margin><mark>#</mark><lb/>
+<ab margin="left-middle"><mark>#</mark><lb/>
 
 Si tu veulx mouler<lb/>
 
@@ -106,9 +106,9 @@ si faict affermir<lb/>
 
 la fleur.</ab></div>
 
-<div>
+<div id="p110v_3">
 
-<id>p110v_3</id>
+
 
 <head>Gect de <m>plomb</m> et <m>estaim</m></head>
 
@@ -126,7 +126,7 @@ Et encores ne<lb/>
 
 mect on le <m>plomb</m> que pour l’alier. Au contraire, si tu veulx<lb/>
 
-mouler quelque chose forte &amp; espesse, mays beaucoup plus<lb/>
+mouler quelque chose forte &amp; espesse, <corr>mects</corr> beaucoup plus<lb/>
 
 de <m>plomb</m> que d’<m>estaim</m>. Et en l’un &amp; l’aultre tu peulx
 mectre<lb/>
@@ -145,9 +145,9 @@ d’<m>estaim fin</m>, j’y ay mis ii <ms>℥</ms> de
 
 herbes &amp; <al>serpents</al> co<exp>mm</exp>e le naturel.</add></ab>
 
-<ab><margin>left-bottom</margin><del>S<ill/></del></ab>
+<ab margin="left-bottom"><del>S<ill/></del></ab>
 
-<ab><margin>left-bottom</margin>J’ay gecté l’<m>estaim</m><lb/>
+<ab margin="left-bottom">J’ay gecté l’<m>estaim</m><lb/>
 
 presque rouge<lb/>
 

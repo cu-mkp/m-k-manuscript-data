@@ -1,11 +1,11 @@
-<root>
-<page>109r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="109r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f223.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f223.image</image>
 
-<div>
 
-<id>p109r_1</id>
+
+<div id="p109r_1">
+
+
 
 <head>Modeling in <m>wax</m></head>
 
@@ -17,9 +17,9 @@ that the <pl>Italians</pl> put in, because one has to, often, put the
 
 </div>
 
-<div>
+<div id="p109r_2">
 
-<id>p109r_2</id>
+
 
 <head><m>Wax</m> for molding <mark>-</mark></head>
 
@@ -30,12 +30,12 @@ remaining on top, it leaves &amp; mixes only its substance amongst the
 <m>wax</m>, &amp; renders it more meltable when warming it, such that
 having molded, it melts in the <tl>mold</tl> gently like <m>butter</m>, without leaving any pustule or bubble in it. Also be warned to not give it too much strong fire.</ab>
 
-<ab><margin>left-middle</margin>If</ab>
+<ab margin="left-middle">If</ab>
 </div>
 
-<div>
+<div id="p109r_3">
 
-<id>p109r_3</id>
+
 
 <head>Molding <m>wax</m></head>
 
@@ -44,9 +44,9 @@ a shape or image of <m>wax</m>, one needs to anoint it with <m>oil</m>
 and moisten your <m>sand</m> with <m>lukewarm water</m>, for the <m>cold
 water</m> would repel more the <m>oil</m> &amp; would not have a good seating on it.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Anoint well, very lightly, with <m>oil</m>, so little that it hardly
 appears. Then rub with some <m>eau-de-vie</m>. Next, moisten your <m>sand</m>
@@ -54,21 +54,21 @@ with <m>lukewarm water</m> so that it does not repel the
 <m>oil</m>.</ab>
 </div>
 
-<div>
+<div id="p109r_4">
 
-<id>p109r_4</id>
+
 
 <head><tl>Bellows</tl> of the <tl>forge</tl></head>
 
 <ab>It is better that, through the blast-pipe, they be fixed in some piece of
 thick plank, <del><fr>q</fr></del> for they are more secure for it; next you can lightly
 secure them from above. It is necessary that <tl>blast-pipes</tl> be 4
-<ms><bp>fingers</bp></ms> above the sole<comment>c_109r_01</comment> of the <tl>forge</tl>.</ab>
+<ms><bp>fingers</bp></ms> above the sole<comment rid="c_109r_01"/> of the <tl>forge</tl>.</ab>
 </div>
 
-<div>
+<div id="p109r_5" continued="yes">
 
-<id>p109r_5</id>
+
 
 <head><al>Snakes</al> for molding</head>
 
@@ -80,7 +80,7 @@ can keep them in a <tl>barrel</tl> full of <m>bran</m> or even better of
 bottle</tl>. And give them any live <al>frog</al> or other little live animal
 for they eat nothing dead. Also I have noticed that</ab>
 
-<cont/>
+
 
 </div>
 </root>

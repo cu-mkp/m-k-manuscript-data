@@ -1,13 +1,13 @@
-<root>
-<page>013r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="013r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f31.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f31.image</image>
 
-<div>
 
-<cont/>
 
-<id>p012v_3</id>
+<div continues="yes" id="p012v_3">
+
+
+
+
 
 <ab>
 
@@ -16,7 +16,7 @@ respond to make this white crust on the surface that I was seeking,
 leaving the rest of the thing of its natural color, I made a opening in
 a <m>brick</m> of the exact size of the thing &amp; put it inside. Then
 I reddened two <tl><pro>glassworkers’</pro>
-solders</tl>,<comment>c_013r_01</comment> &amp; as they were red, I
+solders</tl>,<comment rid="c_013r_01"/> &amp; as they were red, I
 presented them one after the other onto the surface of the thing until I
 had the white crust that I required, on which I made such drawing as I
 wanted, uncovering up to the red base with a <tl><m>diamond</m>
@@ -28,9 +28,9 @@ in <m>alabaster</m>, which is very cold, as I encased it in the
 
 </div>
 
-<div>
+<div id="p013r_1">
 
-<id>p013r_1</id>
+
 
 <head>Carnation from <m>arsenic</m></head>
 
@@ -43,9 +43,9 @@ with the <m>lake</m>.</ab>
 
 </div>
 
-<div>
+<div id="p013r_2">
 
-<id>p013r_2</id>
+
 
 <head>For <m>dyeing</m></head>
 
@@ -56,9 +56,9 @@ sheds. <la>Non bona</la>.</ab>
 
 </div>
 
-<div>
+<div id="p013r_3">
 
-<id>p013r_3</id>
+
 
 <head>Polishing of <m>stones</m></head>
 
@@ -69,9 +69,9 @@ polished on the said <tl>wheel</tl>.</ab>
 
 </div>
 
-<div>
+<div id="p013r_4" continued="yes">
 
-<id>p013r_4</id>
+
 
 <head><tl>Fine sieves of <m>raw silk</m></tl></head>
 
@@ -82,7 +82,7 @@ renders the <m>silk</m> <del><fr>chas</fr></del> charged with a sticky
 vapor that would hold the <m>flour</m> &amp; in the end would prevent it
 from</ab>
 
-<cont/>
+
 
 </div>
 </root>

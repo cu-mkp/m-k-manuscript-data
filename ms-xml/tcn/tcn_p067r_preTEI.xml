@@ -1,13 +1,13 @@
-<root>
-<page>067r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="067r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f139.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f139.image</image>
 
-<div>
 
-<cont/>
 
-<id>p066v_4</id>
+<div continues="yes" id="p066v_4">
+
+
+
+
 
 <ab>
 
@@ -40,9 +40,9 @@ sur la <bp>main</bp>.</ab>
 
 </div>
 
-<div>
+<div id="p067r_1">
 
-<id>p067r_1</id>
+
 
 <head><m>Huile</m></head>
 
@@ -57,9 +57,9 @@ s’evapore au fœu &amp; laisse le <m>papier</m> net, comme la
 
 </div>
 
-<div>
+<div id="p067r_2">
 
-<id>p067r_2</id>
+
 
 <head><m>Sable</m></head>
 
@@ -69,9 +69,9 @@ aulcuns.</ab>
 
 </div>
 
-<div>
+<div id="p067r_3">
 
-<id>p067r_3</id>
+
 
 <head><tl>Four à souflets</tl></head>
 
@@ -94,9 +94,9 @@ ceste sorte, tu fondras tout ce qu’il te plaira.</ab>
 
 </div>
 
-<div>
+<div id="p067r_4">
 
-<id>p067r_4</id>
+
 
 <head><m>Vernis</m> sur <m>papier</m></head>
 

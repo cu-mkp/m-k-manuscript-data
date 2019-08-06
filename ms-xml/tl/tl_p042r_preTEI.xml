@@ -1,10 +1,10 @@
-<root>
-<page>042r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="042r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f89.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f89.image</image>
 
-<div>
-<id>p042r_1</id>
+
+
+<div id="p042r_1">
+
 <head><pro>Founder</pro></head>
 
 <ab>The <tl>mold of <m>earth</m></tl> is reheated until, sometimes, it
@@ -15,8 +15,8 @@ powder</m>.</ab>
 
 </div>
 
-<div>
-<id>p042r_2</id>
+<div id="p042r_2">
+
 <head><m>Wax</m> for seal and imprint</head>
 
 <ab>For the large <m>wax</m> seals, you need to have <m>tepid water</m>
@@ -37,8 +37,8 @@ with <m>gum ammoniac </m> tempered with <m>vinegar</m>, and you will have
 good <m>glue</m>.</ab>
 
 </div>
-<div>
-<id>p042r_3</id>
+<div id="p042r_3">
+
 <head>For casting in <m>plaster</m></head>
 
 <ab>Melt some <m>wax</m>, &amp; with a large <tl>brush</tl> coat the

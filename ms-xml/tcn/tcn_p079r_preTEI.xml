@@ -1,13 +1,13 @@
-<root>
-<page>079r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="079r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f163.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f163.item</image>
 
-<div>
 
-<cont/>
 
-<id>p078v_4</id>
+<div continues="yes" id="p078v_4">
+
+
+
+
 
 <ab>quand tu en vouldras user, destrampe le aveq de la<lb/>
 
@@ -26,15 +26,15 @@ lad<exp>icte</exp><lb/>
 
 </div>
 
-<div>
+<div id="p079r_1">
 
-<id>p079r_1</id>
+
 
 <head>Pour faire <m>boys</m> gris</head>
 
 <ab>
 
-Prendz de la <m>moullée du grais</m>, _ _ _<comment>c_079r_01</comment>
+Prendz de la <m>moullée du grais</m>, _ _ _<comment rid="c_079r_01"/>
 de<lb/>
 
 la <m>limaille de fer</m>, de la <m>feraille</m>, de l’<m>alung</m>, du
@@ -45,9 +45,9 @@ de glace</m>.</ab>
 
 </div>
 
-<div>
+<div id="p079r_2">
 
-<id>p079r_2</id>
+
 
 <head>Pour faire <md><m>eau pour le mal des<lb/>
 
@@ -78,9 +78,9 @@ de <pn>Dieu</pn> <md>vous vous en trouverés fort bien</md>.</ab>
 
 </div>
 
-<div>
+<div id="p079r_3" continued="yes">
 
-<id>p079r_3</id>
+
 
 <head>Pour faire <m>bronze</m> en coulleur d’or</head>
 
@@ -99,7 +99,7 @@ l’<m>argent vif</m> dedans, puys le gectés en ligne, puys<lb/>
 <tl>pillés</tl> toutes ses <m>drogues</m> ensemble dedans ung <tl>mortier</tl>,
 <corr><del>&amp;</del></corr></ab>
 
-<cont/>
+
 
 </div>
 </root>

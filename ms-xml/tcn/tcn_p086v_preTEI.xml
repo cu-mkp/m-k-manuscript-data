@@ -1,13 +1,13 @@
-<root>
-<page>086v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="086v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f178.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f178.image</image>
 
-<div>
 
-<cont/>
 
-<id>p085v_4</id>
+<div continues="yes" id="p085v_4">
+
+
+
+
 
 <ab>soufle. Surtout fais que le gect soict tousjours plus hault<lb/>
 
@@ -40,13 +40,13 @@ aura<lb/>
 moings de relief.</ab>
 
 </div>
-<div>
-<id>p086v_1</id>
+<div id="p086v_1" continued="yes">
+
 <head><m>Sable excellent pour <m>plomb</m>,<lb/>
 
 <m>estain</m>, et <m>cuivre</m></m></head>
 
-<ab>D<comment>c_086v_01</comment></ab>
+<ab>D<comment rid="c_086v_01"/></ab>
 
 <ab>Despuys je moulay d’<m>os bruslé</m>, de <m>mache de fer</m> &amp;
 <m>feultre<lb/>
@@ -76,7 +76,7 @@ qu’il reste</emph><lb/>
 aulcune humidité au <tl>chassis</tl>). Je y gectay deulx foys<lb/>
 
 <m>cuivre</m> allié de <m>☾</m> co<exp>mm</exp>e
-<m>vieulx K</m><comment>c_086v_03</comment>. La matiere vint fort<lb/>
+<m>vieulx K</m><comment rid="c_086v_03"/>. La matiere vint fort<lb/>
 
 belle, lustre, &amp; <sn>sonante</sn>, &amp; sans chappe, et mon <m>sable</m>
 ne se<lb/>
@@ -95,11 +95,11 @@ tous costés,<lb/>
 
 en ceste sorte.</ab>
 
-<figure>
+<figure id="fig_p086v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dWFuOW9Db1ZjZFk">
 
-<id>fig_p086v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dWFuOW9Db1ZjZFk</link>
+
+
 
 </figure>
 
@@ -117,7 +117,7 @@ venir ceste<lb/>
 
 mixture de <ms>moictié</ms>.</ab>
 
-<cont/>
+
 
 </div>
 </root>

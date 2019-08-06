@@ -1,12 +1,12 @@
-<root>
-<page>006v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="006v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f18.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f18.image</image>
 
-<div>
-<id>p006v_1</id>
+
+
+<div id="p006v_1">
+
 <head>Pour <del>ga</del> <del>cach</del>
-cages<comment>c_006v_01</comment></head>
+cages<comment rid="c_006v_01"/></head>
 
 <ab>Tu les peulx embellir avecq des <tl><m>canulles desmail</m></tl> de
 diverses<lb/>
@@ -59,18 +59,16 @@ avecq<lb/>
 la <tl>lime</tl> Les <pro>boutonniers aussi de verre</pro> saident
 dudict <tl>fourneau</tl></ab>
 
-<div>
+<figure id="fig_p006v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5eVFRYjVCTmczcmM">
 
-<figure>
 
-<id>fig_p006v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5eVFRYjVCTmczcmM</link>
+
 
 </figure>
 
-<ab>
-<margin>right-middle</margin>
+<ab margin="right-middle">
+
 soubs la porte y a<lb/>
 
 une <tl>grille</tl> qui soubstient<lb/>
@@ -83,10 +81,10 @@ tournant du <tl>four</tl> ce<lb/>
 
 dessus dessoubs</ab>
 
-</div></div>
+</div>
 
-<div>
-<id>p006v_2</id>
+<div id="p006v_2">
+
 <head>Pour stampes a embellir et incruster<lb/>
 
 ou revestir le bord des mirouers ou dessus<lb/>

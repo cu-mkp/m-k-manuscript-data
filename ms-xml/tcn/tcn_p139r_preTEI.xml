@@ -1,10 +1,10 @@
-<root>
-<page>139r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="139r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f283.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f283.image</image>
 
-<div>
-<id>p139r_1</id>
+
+
+<div id="p139r_1" continued="yes">
+
 <head>Gect de <m>plomb</m> et d’<m>estaim</m></head>
 
 <ab>
@@ -17,7 +17,7 @@ calciné.<lb/>
 
 Use doncq<lb/>
 
-du nœuf.</add></ab>
+du nœuf.</add><hr/></ab>
 
 <ab>La ligue que j’ay pratiquée pour <al>lesards</al> &amp;
 <al>serpents</al>,<lb/>
@@ -79,7 +79,7 @@ ton <tl>moule</tl> ne fust pas remply, gecte hardiment, car<lb/>
 pourveu que ton <m>metal</m> soict rouge il se reprendra &amp;
 joindra<lb/>
 
-avecq l’aultre, et viendra tres net co<exp>mm</exp>e le principal.<comment>c_139_03</comment><lb/>
+avecq l’aultre, et viendra tres net co<exp>mm</exp>e le principal.<comment rid="c_139_03"/><lb/>
 
 Le mesme se peult dire de l’<m>estaim fin</m> pour les choses<lb/>
 
@@ -103,8 +103,8 @@ subgects à s’entrouvrir par<lb/>
 
 la poisanteur du <m>metal</m>. Aulcuns font un <tl>pot quarré</tl></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Quand la medaille est espesse,<lb/>
 
 on n’est pas astraint de gecter<lb/>
@@ -113,8 +113,8 @@ si chault que quand elle est<lb/>
 
 tanvre.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 <mark>+</mark>
 Note que si tu<lb/>
@@ -151,8 +151,8 @@ s’il noircist le<lb/>
 
 trop chault.</ms></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Si tu veulx<lb/>
 
 gecter un <m>fœillet<lb/>
@@ -197,7 +197,7 @@ l’aultre <tl><m>carton</m><lb/>
 
 adapté</tl>.</ab>
 
-<cont/>
+
 
 </div>
 </root>

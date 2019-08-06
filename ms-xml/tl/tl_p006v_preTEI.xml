@@ -1,10 +1,10 @@
-<root>
-><page>006v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="006v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f18.image">
+&gt;
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f18.image</image>
 
-<div>
-<id>p006v_1</id>
+
+<div id="p006v_1">
+
 <head>For <del><fr>ga</fr></del> <del><fr>cach</fr></del>cages</head>
 
 <ab>You can embellish them with <tl><m>thin enamel canes</m></tl> of
@@ -28,28 +28,25 @@ the <ms>size of a <pa>carnation</pa> pot</ms> before him,
 canes</tl> for capes, which are cut, as said, with a
 <tl>file</tl>. <pro>Glass button makers</pro> also avail themselves of
 the said <tl>furnace</tl>.</ab>
+<figure id="fig_p006v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5eVFRYjVCTmczcmM">
 
-<div>
 
-<figure>
 
-<id>fig_p006v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5eVFRYjVCTmczcmM</link>
 
 </figure>
 
-<ab>
-<margin>right-middle</margin>
+<ab margin="right-middle">
+
 Under the door is a <tl>grate</tl> that supports the lit charcoal, &amp;
 the <m>ash</m> is emptied by turning the <tl>furnace</tl> upside
-down.<comment>c_006v_02</comment></ab>
+down.<comment rid="c_006v_02"/></ab>
 
-</div></div>
+</div>
 
-<div>
-<id>p006v_2</id>
-<head>For stampings<comment>c_006v_03</comment> to
+<div id="p006v_2">
+
+<head>For stampings<comment rid="c_006v_03"/> to
 embellish and encrust or cover the edges of mirrors, the
 tops of chests, or the friezes of bed valances</head>
 

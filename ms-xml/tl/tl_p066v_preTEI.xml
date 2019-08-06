@@ -1,31 +1,31 @@
-<root>
-<page>066v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="066v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f138.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f138.image</image>
 
-<div>
 
-<cont/>
 
-<id>p066r_6</id>
+<div continues="yes" id="p066r_6">
 
-<ab>
 
-<margin>left-bottom</margin>
-<render>tall</render>
+
+
+
+<ab margin="left-bottom" render="tall">
+
+
+
 
 When gold color starts to grip, it is a sign that in ten or twelve
 <ms><tmp>hours</tmp></ms> it will be dry &amp; appropriate for
 <m>gilding</m>.<hr/></ab>
 </div>
     
-<div>
-<cont/>
-<id>p066r_5</id>
-<ab>
+<div continues="yes" id="p066r_5">
 
-<margin>left-bottom</margin>
-<render>tall</render>
+
+<ab margin="left-bottom" render="tall">
+
+
+
 
 <mark>*</mark>
 
@@ -34,23 +34,23 @@ or <m>fatty oil</m>, not from that which is made from the cleaning of
 <tl>paintbrushes</tl>, but the pure, which is made fatty <env>in
 the sun</env> or mixed with <m>ceruse</m>.</ab>
 
-<ab>
-<margin>left-bottom</margin>
-<render>tall</render>
+<ab margin="left-bottom" render="tall">
+
+
 <m><fr>Or mat</fr></m> of this sort is scarcely less beautiful than
-<del><fr>es</fr></del> <add><m>burnished gold</m></add>, and lasts
+<del><fr>es</fr></del><m>burnished gold</m>,<comment rid="c_066v_05"/> and lasts
 longer <env>in the rain</env>, &amp; besides, &amp; is made sooner.
 <m>Burnished gold</m> cracks <tmp>over time</tmp> &amp; comes off
 <env>in the rain</env>.</ab>
 
 </div>
 
-<div>
+<div id="p066v_1">
 
-<id>p066v_1</id>
 
-<head><md>For preventing <bp>teats</bp> from swelling <del><fr>d</fr></del>
-<add>or to diminish overly large ones</add></md></head>
+
+<head><md>For preventing <bp>teats</bp> from swelling<lb/> 
+<add><del><fr>d</fr></del> or to diminish overly large ones</add></md></head>
 
 <ab>Take large <m>loaves of bread freshly drawn from the
 <tl>oven</tl></m> &amp; split them <ms>in half</ms> &amp;, as hot as may
@@ -68,9 +68,9 @@ from a honey beehive</m></tl>, that is to say <m>honey</m> &amp;
 
 </div>
 
-<div>
+<div id="p066v_2">
 
-<id>p066v_2</id>
+
 
 <head>For attracting <al>pigeons</al></head>
 
@@ -79,9 +79,9 @@ from a honey beehive</m></tl>, that is to say <m>honey</m> &amp;
 
 </div>
 
-<div>
+<div id="p066v_3">
 
-<id>p066v_3</id>
+
 
 <head><md>Against bruising of the <bp>eyes</bp></md></head>
 
@@ -90,9 +90,9 @@ remedy.</ab>
 
 </div>
 
-<div>
+<div id="p066v_4" continued="yes">
 
-<id>p066v_4</id>
+
 
 <head><tl>paintbrushes</tl></head>
 
@@ -107,7 +107,7 @@ pinching it well with the <bp>thumb</bp> &amp; <bp>index finger</bp>,
 thoroughly wet the tip of all this <m>hair</m> in <m>water</m>, then,
 moving close to the</ab>
 
-<cont/>
+
 
 </div>
 </root>

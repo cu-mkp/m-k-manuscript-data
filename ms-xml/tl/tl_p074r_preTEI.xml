@@ -1,11 +1,11 @@
-<root>
-<page>074r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="074r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f153.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f153.image</image>
 
-<div>
 
-<id>p074r_1</id>
+
+<div id="p074r_1">
+
+
 
 <head>For <m>bronzing</m> white</head>
 
@@ -15,9 +15,9 @@ on <tl><m>marble</m></tl>.</ab>
 
 </div>
 
-<div>
+<div id="p074r_2">
 
-<id>p074r_2</id>
+
 
 <head>For making <m>vermilion</m></head>
 
@@ -33,9 +33,9 @@ have <m>good vermilion</m>.
 
 </div>
 
-<div>
+<div id="p074r_3" continued="yes">
 
-<id>p074r_3</id>
+
 
 <head>For making <m>varnish</m></head>
 
@@ -48,7 +48,7 @@ boil for the space of five <ms><tmp>hours</tmp></ms>. You will take
 make it boil just as before and stir with a <tl>spoon</tl>. And then,
 after, you will put in two <ms>ounces</ms> of <m>well-<tl>pestled</tl>
 sandarac</m> &amp; will do as above. And then after, you will take
-<m><m>mastic</m> &amp; <m>arrab<del><fr>e</fr></del><add>i</add>c</m>,
+<m><m>mastic</m> &amp; <m>arrab<del><fr>e</fr></del>ic</m>,<comment rid="c_074r_03"/>
 two <ms>ounces</ms> each, which will both be well ground</m>, and you
 will put everything together, &amp; will make it boil while stirring
 continuously, for the space of five <ms><tmp>hours</tmp></ms>. And then
@@ -58,7 +58,7 @@ two <ms>ounces</ms> of
 <del><fr>l’arable</fr></del><add><m>arabic</m></add> to it, if you see
 that they are not cooked enough, have it cook more on a low</ab>
 
-<cont/>
+
 
 </div>
 </root>

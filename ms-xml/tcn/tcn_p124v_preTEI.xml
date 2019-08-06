@@ -1,13 +1,13 @@
-<root>
-<page>124v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="124v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f254.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f254.image</image>
 
-<div>
 
-<id>p124v_1</id>
 
-<head><add><m>Esmail</m><comment>c_124v_02</comment></add> <m>rouge
+<div id="p124v_1">
+
+
+
+<head><add><m>Esmail</m><comment rid="c_124v_02"/></add> <m>rouge
 clair</m></head>
 
 <ab>L’<m>or fin</m> luy est contraire, car <del><ill/></del> sur iceluy
@@ -41,9 +41,9 @@ l’<m>or</m>.</ab>
 
 </div>
 
-<div>
+<div id="p124v_2">
 
-<id>p124v_2</id>
+
 
 <head>Gecter en <m>or</m></head>
 
@@ -72,9 +72,9 @@ l’<m>or</m>. L’<m>or fin</m><lb/>
 
 ne court pas bien, mays bien l’<m>or allié</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 L’<m>or</m> &amp; l’<m>argent</m> ne s’aigrissent point,<lb/>
 
@@ -82,9 +82,9 @@ estant touts rouges et chaults trempés<lb/>
 
 en l’<m>eau</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 L’<m>or</m> est d’<ms>un<lb/>
 
@@ -92,9 +92,9 @@ quart plus pesa<exp>n</exp>t<lb/>
 
 que</ms> le <m>plomb</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Quand l’<m>or</m> est<lb/>
 
@@ -104,9 +104,9 @@ chaleur, il est verd<lb/>
 
 co<exp>mm</exp>e une <m>esmeraulde</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Garde bien que<lb/>
 
@@ -124,28 +124,28 @@ tumbés de <m>plomb</m> ou<lb/>
 <hr/></ab>
 </div>
 
-<div>
+<div id="p124v_3" continued="yes">
 
-<id>p124v_3</id>
+
 
 <head>Moyen de fayre le gect pour petites<lb/>
 
 <al>lezardes</al></head>
 
-<ab>Pour ce que tu doibs tousjours faire ton gect par la queue,<lb/>
+<ab continued="yes">Pour ce que tu doibs tousjours faire ton gect par la queue,<lb/>
 
-et qu’elle est s<del>u</del><add>i</add> subtille et deliée que le
+et qu’elle est s<del>u</del>i<comment rid="c_124v_03"/> subtille et deliée que le
 <del>gect peyneroit</del> <m>metal</m> avecq<lb/>
 
 difficulté pourroit bien courre, mesmement quand elle est replyée,<lb/>
 
 roule de la <m>cire</m> à petits filets de ceste grosseur:
 
-<figure>
+<figure id="fig_p124v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dWU4UEtpX0hBV0k">
 
-<id>fig_p124v_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dWU4UEtpX0hBV0k</link>
+
+
 
 </figure>
 
@@ -177,13 +177,13 @@ corps<lb/>
 qui sont un peu longs, &amp; ilz serviront d’abreuvoirs à la chose
 moulée.<lb/>
 
-<cont/>
+
 
 </ab>
 
-<ab>
+<ab margin="right-bottom">
 
-<margin>right-bottom</margin>
+
 
 <add>Suys icy dessus</add>
 
@@ -191,11 +191,11 @@ moulée.<lb/>
 
 </ab>
 
-<comment>c_124v_01</comment>
+<comment rid="c_124v_01"/>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <add>Quand la queue, qui est subtille et<lb/>
 
@@ -203,9 +203,9 @@ plus prés du gect, vient bien, le reste<lb/>
 
 vient bien</add>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Le principal est<lb/>
 
@@ -215,7 +215,7 @@ viennent bien moulées<lb/>
 
 du <al>serpent</al>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Ton gect doibt<lb/>
 
@@ -225,17 +225,17 @@ l’entrée de l’animal<lb/>
 
 &amp; de l’<ms>espesseur d’un <tl>costeau</tl></ms>.</ab>
 
-<figure>
+<figure id="fig_p124v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aGQ0OTFCTklrQ0k">
 
-<id>fig_p124v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5aGQ0OTFCTklrQ0k</link>
+
+
+
 
 </figure>
 
-<cont/>
+
 
 </div>
 </root>

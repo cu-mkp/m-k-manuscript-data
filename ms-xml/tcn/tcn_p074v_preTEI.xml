@@ -1,13 +1,13 @@
-<root>
-<page>074v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="074v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f154.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f154.image</image>
 
-<div>
 
-<cont/>
 
-<id>p074r_3</id>
+<div continues="yes" id="p074r_3">
+
+
+
+
 
 <ab>fœu jusques à ce q<exp>u’i</exp>l soit assés cuyt. Et la coullés
 par dedans<lb/>
@@ -25,9 +25,9 @@ petict dud<exp>ict</exp> <m>huille</m> &amp; le ferés meilheur.</ab>
 
 </div>
 
-<div>
+<div id="p074v_1">
 
-<id>p074v_1</id>
+
 
 <head>Pour faire <m>vernys rouge</m></head>
 
@@ -41,9 +41,9 @@ trois assictes comme dess<exp>us</exp>.</ab>
 
 </div>
 
-<div>
+<div id="p074v_2">
 
-<id>p074v_2</id>
+
 
 <head>Pour faire <m>vernys jaulne</m></head>
 
@@ -77,9 +77,9 @@ d’icell<exp>e</exp> estendés v<exp>ost</exp>re <m>verny</m>.
 
 </div>
 
-<div>
+<div id="p074v_3">
 
-<id>p074v_3</id>
+
 
 <head>Recepte pour <m>gaulme</m> blanche</head>
 
@@ -92,14 +92,14 @@ petict<lb/>
 <tl>pot</tl> neuf &amp; la faictes fondre. Et quand elle sera fondue,
 vous<lb/>
 
-ferés une <tl>palette de <m>boys</m></tl>, <del>de</del>
-<add>&amp;</add> brunisés ce q<exp>ue</exp> vouldrés.</ab>
+ferés une <tl>palette de <m>boys</m></tl>, <del>de</del>&amp;<comment rid="c_074v_01"/>
+brunisés ce q<exp>ue</exp> vouldrés.</ab>
 
 </div>
 
-<div>
+<div id="p074v_4">
 
-<id>p074v_4</id>
+
 
 <head><m>Goume</m> verte</head>
 

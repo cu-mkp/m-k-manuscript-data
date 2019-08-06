@@ -1,11 +1,11 @@
-<root>
-<page>066r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="066r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f137.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f137.image</image>
 
-<div>
 
-<id>p066r_1</id>
+
+<div id="p066r_1">
+
+
 
 <head>Double layers</head>
 
@@ -16,9 +16,9 @@ them lightly &amp; not very thick, to soften them well.</ab>
 
 </div>
 
-<div>
+<div id="p066r_2">
 
-<id>p066r_2</id>
+
 
 <head>Shadows</head>
 
@@ -28,16 +28,16 @@ them lightly &amp; not very thick, to soften them well.</ab>
 </div>
 
 
-<div>
-<id>p066r_6</id>
+<div id="p066r_6" continued="yes">
 
-<head><margin>left-top</margin><mark>*</mark><lb/>
+
+<head><mark>*</mark><lb/>
 
 <m><fr>Or mat</fr></m></head>
 
-<ab>
-<margin>left-top</margin>
-<render>tall</render>
+<ab margin="left-top" render="tall">
+
+
         
 It is made with <m>massicot</m>, <m>minium</m>, <m><fr>ocre de ru</fr></m>, 
 &amp; <m>yellow ocher</m>, in order that the composition
@@ -49,15 +49,15 @@ with a <tl>feather</tl> &amp; <tl><m>cotton</m></tl> in order
 that no protrusions remain, then varnish with <m><pl>Flanders</pl>
 varnish</m>, which you make mixed with a little <m>eau-de-vie</m>, to render it desiccative.</ab>
 
-<ab><margin>left-top</margin>
-<render>tall</render>
+<ab margin="left-top" render="tall">
+
 The <m>varnish</m> will be dry in an <ms><tmp>hour</tmp></ms>. It
 will increase the color of gold. And this <m><fr>or mat</fr></m> holds
 <env>in the rain</env>, even if one rubs it. But it must be well dried
 for eight or ten <ms><tmp>days</tmp></ms>.</ab>
 
-<ab><margin>left-top</margin>
-<render>tall</render>
+<ab margin="left-top" render="tall">
+
 Gold color that is made of different colors cleaned from
 <tl>paintbrushes for <m>oil</m></tl> is not so good, &amp; with
 <tmp>time</tmp>, tarnishes the gold because of the <m>verdigris</m>. One
@@ -73,25 +73,25 @@ dry &amp; you clean it, for an <ms>ounce</ms> is still <m>gold</m>. In
 beautiful when it is a little thick, but in <pl>France</pl> they beat it
 too delicately.</ab>
 
-<ab><margin>left-top</margin>
-<render>tall</render>
+<ab margin="left-top" render="tall">
+
 Breathe on the gold color, and if it fogs up, it is dry enough,
 but if it does not receive the vapor of the breath, it is not
 enough.</ab>
 
-<ab><margin>left-top</margin>
-<render>tall</render>One ought not to gild with <m><fr>or mat</fr></m> after <del>with</del>
+<ab margin="left-top" render="tall">
+One ought not to gild with <m><fr>or mat</fr></m> after <del>with</del>
 having <m>gilded</m>. But wait <tmp>one day or one night</tmp>, <del>But
 take heed not to</del> and when it is as if dry, it grips the
 <m>gold</m>. Next, one varnishes.</ab>
 
-<cont/>
+
 
 </div>
     
-<div>
+<div id="p066r_3">
         
-<id>p066r_3</id>
+
         
 <head>Painting in <m>distemper</m> on <m>wood</m></head>
         
@@ -106,9 +106,9 @@ not last.</ab>
         
 </div>
     
-<div>
+<div id="p066r_4">
         
-<id>p066r_4</id>
+
         
 <head>Colors in <m>oil</m> that are imbibed</head>
         
@@ -123,19 +123,19 @@ in one place as in another.</ab>
 would be imbibed &amp; would run.</ab>
         
 <ab>           
-<comment>c_066r_04</comment>On <m>canvas</m> &amp; in <m>distemper</m>, one gilds with <m>bole</m>
+<comment rid="c_066r_04"/>On <m>canvas</m> &amp; in <m>distemper</m>, one gilds with <m>bole</m>
 &amp; <m>honey</m> &amp; a little <m>garlic juice</m>.</ab>
         
 </div>
     
-<div>
+<div id="p066r_5" continued="yes">
         
-<id>p066r_5</id>
+
         
 <head>Gilding molding for panels with <m><fr>or mat</fr></m></head>
         
 <ab>see the other side of this folio this mark:
-<mark>*</mark><comment>c_066r_01</comment></ab>
+<mark>*</mark><comment rid="c_066r_01"/></ab>
         
 <ab>The <pl>Flemish</pl> give a layer of <m>distemper glue</m> 
 on the molding, then mix <m>lamp black</m> or
@@ -149,8 +149,8 @@ Next they lay down the <m>gold</m>, then varnish on top of all. And it
 seems to some by this means that all this black is painted in
 <m>oil</m>, but it would not be good because the <m>gold</m> would
 attach itself everywhere &amp; not only to the moresque. Go
-back to the top to <mark>*</mark><comment>c_066r_02</comment></ab>
-<cont/>
+back to the top to <mark>*</mark><comment rid="c_066r_02"/></ab>
+
 </div>
 
 </root>

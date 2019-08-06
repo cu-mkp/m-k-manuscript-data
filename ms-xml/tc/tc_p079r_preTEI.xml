@@ -1,13 +1,13 @@
-<root>
-<page>079r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="079r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f163.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f163.item</image>
 
-<div>
 
-<cont/>
 
-<id>p078v_4</id>
+<div continues="yes" id="p078v_4">
+
+
+
+
 
 <ab>quand tu en vouldras user destrampe le aveq de la<lb/>
 
@@ -28,9 +28,9 @@ lad<exp>icte</exp><lb/>
 
 </div>
 
-<div>
+<div id="p079r_1">
 
-<id>p079r_1</id>
+
 
 <head>Pour faire <m>boys</m> Gris</head>
 
@@ -46,9 +46,9 @@ Glace</m></ab>
 
 </div>
 
-<div>
+<div id="p079r_2">
 
-<id>p079r_2</id>
+
 
 <head>Pour faire <md><m>Eau pour le mal des<lb/>
 
@@ -79,9 +79,9 @@ de <pn>dieu</pn> <md>vous vous en trouveres fort bien</md></ab>
 
 </div>
 
-<div>
+<div id="p079r_3" continued="yes">
 
-<id>p079r_3</id>
+
 
 <head>Pour faire <m>bronze</m> en coulleur dor</head>
 
@@ -100,7 +100,7 @@ l<m>argent vif</m> dedans puys le gectes en ligne puys<lb/>
 pilles toutes ses <m>drogues</m> ensemble dedans ung <tl>mortier</tl>
 &amp;</ab>
 
-<cont/>
+
 
 </div>
 </root>

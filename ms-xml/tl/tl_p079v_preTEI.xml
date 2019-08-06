@@ -1,36 +1,36 @@
-<root>
-<page>079v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="079v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f164.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f164.image</image>
 
-<div>
 
-<cont/>
 
-<id>p079r_3</id>
+<div continues="yes" id="p079r_3">
+
+
+
+
 
 <ab>and put it into an <tl><m>earthen</m> pot</tl>, &amp; it should have
 many hot <m>ashes</m> underneath, &amp; little by little you will make
-the fire underneath bigger and bigger, &amp; one ought not move it,
+the fire underneath bigger and bigger, &amp; one ought not to move it,
 &amp; when it is cooked, &amp; it needs to be for six
 <ms><tmp>hours</tmp></ms>, <md>mind that the fumes do not harm you
 for they are bad</md>.</ab></div>
 
-<div>
+<div id="p079v_1">
 
-<id>p079v_1</id>
+
 
 <head>For making <m>varnish</m></head>
 
 <ab>Take some <m>mastic</m>, <m>sang <del><fr>daRage</fr></del>
-<add>darac</add></m><comment>c_079v_01</comment>, <m>gum arabic</m>
+<add>darac</add></m><comment rid="c_079v_01"/>, <m>gum arabic</m>
 &amp; <m><pa>spike lavender</pa> oil</m>, as much of one as the other,
 &amp; make them melt all together, &amp; before coating it, lay a coat
 of <m>glue quite clear</m>, &amp; let it dry.</ab></div>
 
-<div>
+<div id="p079v_2">
 
-<id>p079v_2</id>
+
 
 <head><md>Antidote against the fumes of metals</md></head>
 
@@ -39,9 +39,9 @@ of <m>glue quite clear</m>, &amp; let it dry.</ab></div>
 harm you</md>. Or put <ms>half</ms> a <m><al>pig</al>’s bladder</m> in front
 of the <bp>face</bp>.</ab></div>
 
-<div>
+<div id="p079v_3">
 
-<id>p079v_3</id>
+
 
 <head><m>Tin</m> for casting</head>
 
@@ -50,12 +50,12 @@ of the <bp>face</bp>.</ab></div>
 <del>ten</del> ten <ms>lb</ms> of <m>fine lead</m> for one
 <ms>quintal</ms> of <m>tin</m>.</ab>
 
-<ab><margin>left-bottom</margin>Some find that there is nothing better
+<ab margin="left-bottom">Some find that there is nothing better
 than <m>fine tin</m>.</ab></div>
 
-<div>
+<div id="p079v_4">
 
-<id>p079v_4</id>
+
 
 <head>Mixture for <pro>printers</pro></head>
 

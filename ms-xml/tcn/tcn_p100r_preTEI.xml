@@ -1,11 +1,11 @@
-<root>
-<page>100r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="100r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f205.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f205.image</image>
 
-<div>
 
-<id>p100r_1</id>
+
+<div id="p100r_1">
+
+
 
 <head>Or couleur</head>
 
@@ -35,9 +35,9 @@ rendroit noir.</ab>
 
 </div>
 
-<div>
+<div id="p100r_2">
 
-<id>p100r_2</id>
+
 
 <head>Pourtraire au naturel</head>
 
@@ -48,9 +48,9 @@ barbe, car ces trois choses font fort resembler.</ab>
 
 </div>
 
-<div>
+<div id="p100r_3">
 
-<id>p100r_3</id>
+
 
 <head><m>Pierreries</m></head>
 
@@ -66,8 +66,8 @@ qu’il ne se rompe point. Cela peult servir aulx
 &amp; <del>la t</del> le <tl>pilon</tl> aussy de <m>verre</m>.</ab>
 
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 <emph><tl>Mortier<lb/>
 
@@ -82,9 +82,9 @@ de <m>verre</m></tl><lb/>
 
 </div>
 
-<div>
+<div id="p100r_4">
 
-<id>p100r_4</id>
+
 
 <head>Le <m>salpestre</m> vitrifié</head>
 
@@ -105,9 +105,9 @@ il faict le <m>verre</m> fort cler &amp; blanc &amp; net.</ab>
 
 </div>
 
-<div>
+<div id="p100r_5">
 
-<id>p100r_5</id>
+
 
 <head>Vitres que le <env>soleil</env> ne passera<lb/>
 
@@ -128,9 +128,9 @@ mectre dessus des <tl>charbons allumés</tl>,<lb/>
 
 et continuer par tout jusques à ce qu’il ne brusle plus.</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 Il sert aussy<lb/>
 

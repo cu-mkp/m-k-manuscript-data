@@ -1,10 +1,10 @@
-<root>
-<page>088v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="088v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f182.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f182.image</image>
 
-<div>
-<id>p088v_1</id>
+
+
+<div id="p088v_1">
+
 <head><m>Sable de sel gemme pulverisé</m><lb/>
 
 et <m>sable de <env>mine</env></m> subtilié sur le
@@ -21,7 +21,7 @@ aultant d’un que d’aultre, et les ayant repassés ensemble sur le<lb/>
 <tl><m>porphire</m></tl> &amp; passés par le <tl>double tamis</tl> ou
 par <tl>manche de chemise</tl><lb/>
 
-pour mieulx les mesler, je les ay mis dans du <tl><m>papier</m></tl>
+pour mieulx les mesle<corr>r</corr>,<comment rid="c_088v_01"/> je les ay mis dans du <tl><m>papier</m></tl>
 &amp; posés<lb/>
 
 sur un <tl><m>mabre</m></tl> dans une <env>cave</env>. Dans une
@@ -37,9 +37,9 @@ moulé fort net, à cause que tous deulx estoient fort subtils. Ilz<lb/>
 veulent estre <del>f</del> assés humides pour bien despouiller.</ab>
 
 </div>
-<div>
-<id>p088v_2</id>
-<head><comment>c_090r_03</comment><m>Sable mineral</m></head>
+<div id="p088v_2">
+
+<head><comment rid="c_090r_03"/><m>Sable mineral</m></head>
 
 <ab>La couleur de blanc et de jaulne n’importe. Le tout est qu’il
 soict<lb/>
@@ -99,8 +99,8 @@ impalpable<lb/>
 
 pource qu’il ne leur en faict pas besoing beaucoup.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Le <m><pa>bled orberé</pa></m> faict<lb/>
 
 une pouldre tanée, fort<lb/>

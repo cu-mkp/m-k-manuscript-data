@@ -1,11 +1,11 @@
-<root>
-<page>161v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="161v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f328.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f328.item.r=</image>
 
-<div>
-<id>p161v_1</id>
-<head><comment>c_161v_01</comment><m><la>Crocum ferri</la></m></head>
+
+
+<div id="p161v_1">
+
+<head><comment rid="c_161v_01"/><m><la>Crocum ferri</la></m></head>
 
 <ab>Il se faict promptement si tu mets la <m>limaille</m> bien<lb/>
 

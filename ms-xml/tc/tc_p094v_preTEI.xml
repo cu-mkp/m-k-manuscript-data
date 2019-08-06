@@ -1,13 +1,13 @@
-<root>
-<page>094v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="094v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f194.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f194.image</image>
 
-<div>
 
-<cont/>
 
-<id>p094r_1</id>
+<div continues="yes" id="p094r_1" continued="yes">
+
+
+
+
 
 <ab>Les poignees d<m>or</m> se font y mectant dessoubs de la <m>toile
 deliee<lb/>
@@ -34,7 +34,7 @@ a cause quil la fault tordre a deulx revers Une poignee<lb/>
 
 d<m>or fin</m> vault 18 ou 20 <ms><cn>s<exp>ols</exp></cn></ms></ab>
 
-<ab><comment>c_094v_01</comment>La meilleure pointe d<wp>espee</wp> est a
+<ab><comment rid="c_094v_01"/>La meilleure pointe d<wp>espee</wp> est a
 
 <m>fœille de <pa>sauge</pa></m></ab>
 
@@ -70,7 +70,7 @@ dhalebarde</tl> quarre &amp; d<m>acier fort uny &amp; bien<lb/>
 <tl>lime</tl></m> Qui sappelle le <tl><df>grateau</df></tl> Qui sert
 a<lb/>
 
-a adoulcir les traicts de la <tl>lime</tl> sur les <ar>gardes</ar><lb/>
+a adoulcir les traicts de la <tl>lime</tl> sur les <wp>gardes</wp><lb/>
 
 d<wp>espee</wp> &amp; a donner le fil aulx <wp>espees</wp> apres quelles<lb/>
 
@@ -83,7 +83,7 @@ le fil<lb/>
 
 tirant de la pointe en sus</ab>
 
-<ab><pro>Ceulx qui font les <ar>gardes</ar> d<wp>espees</wp></pro> sont
+<ab><pro>Ceulx qui font les <wp>gardes</wp> d<wp>espees</wp></pro> sont
 <pro>artisans</pro> separes de<lb/>
 
 <pro>fourbisseur</pro></ab>
@@ -101,19 +101,19 @@ de <m>boys de <pa>buy</pa></m> qui semboicte au milieu du baston <add>de
 fourbir</add></ab>
 
 <ab>Le <tl>baston a <m>fresiller</m></tl> est de <m><pa>saule</pa></m>
-qui est pour desrouiller<comment>c_094v_02</comment> les<lb/>
+qui est pour desrouiller<comment rid="c_094v_02"/> les<lb/>
 
 armes avecq du <m><df>fresil</df></m> qui est ceste <m>escaille de
 fer</m> tombant a la<lb/>
 
 <tl>forge des <pro>mareschaulx</pro></tl></ab>
-<figure>
+<figure id="fig_p094v_1" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Q29MTEVLUGE5RGs">
 
-<id>fig_p094v_1</id>
 
-<margin>left-top</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Q29MTEVLUGE5RGs</link>
+
+
+
 
 <caption>le <tl>banc <lb/>
 
@@ -121,37 +121,37 @@ des fourreaux</tl></caption>
 
 </figure>
 
-<figure>
+<figure id="fig_p094v_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5OEQ3OEFSNnEzeE0">
 
-<id>fig_p094v_2</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5OEQ3OEFSNnEzeE0</link>
+
+
+
 
 </figure>
 
-<ab>
-<margin>left-middle</margin>
-<figure><id>fig_p094v_8</id><link>https://drive.google.com/open?id=1SslzZieQdAMA1gc0QKXvZtR4GpsAA8Nk</link></figure>
-<figure><id>fig_p094v_4</id><link>https://drive.google.com/open?id=1Pyd3sajmdLQKdw3viV0aymANv9v7cr3-</link><caption>a</caption></figure>
-<figure><id>fig_p094v_5</id><link>https://drive.google.com/open?id=16DPQkKGIVdRrU8_LUuUfJOqW_01wpKuf</link><caption>b</caption></figure>   
+<ab margin="left-middle">
+
+<figure id="fig_p094v_8" link="https://drive.google.com/open?id=1SslzZieQdAMA1gc0QKXvZtR4GpsAA8Nk"/>
+<figure id="fig_p094v_4" link="https://drive.google.com/open?id=1Pyd3sajmdLQKdw3viV0aymANv9v7cr3-"><caption>a</caption></figure>
+<figure id="fig_p094v_5" link="https://drive.google.com/open?id=16DPQkKGIVdRrU8_LUuUfJOqW_01wpKuf"><caption>b</caption></figure>   
     
 <lb/>
 
-<figure><id>fig_p094v_7</id><link>https://drive.google.com/open?id=1PmDU-LbWVDhejN2GS16gi3Qgc5f1WMzv</link>
+<figure id="fig_p094v_7" link="https://drive.google.com/open?id=1PmDU-LbWVDhejN2GS16gi3Qgc5f1WMzv">
 <caption>
 D<lb/>
 le <tl>baston<lb/>
 a felinder</tl></caption></figure>
 
-<figure><id>fig_p094v_6</id><link>https://drive.google.com/open?id=1ERy6lz_iApaxJGsw9kJse9H4x9rx4Pp0</link>
+<figure id="fig_p094v_6" link="https://drive.google.com/open?id=1ERy6lz_iApaxJGsw9kJse9H4x9rx4Pp0">
 <caption>
 c<lb/>
 le <tl><m>flin</m></tl> ou <tl><m>pierre<lb/>
 de fouldre</m></tl></caption></figure></ab>
 
-<cont/>
+
 
 </div>
 </root>

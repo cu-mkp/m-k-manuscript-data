@@ -1,13 +1,13 @@
-<root>
-<page>099r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="099r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f203.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f203.image</image>
 
-<div>
 
-<cont/>
 
-<id>p098v_5</id>
+<div continues="yes" id="p098v_5">
+
+
+
+
 
 <ab>La <m>terre</m> ou <m>sable mouille ou broye avecq <m>eau</m></m> veult
 estre<lb/>
@@ -39,8 +39,8 @@ Il est mieulx de mouler tout dun <m>sable</m> soict en <tl>chassis</tl><lb/>
 
 ou noyau quen divers mesles</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 Il fault recuire<lb/>
 
@@ -139,11 +139,11 @@ sil estoit <m>plombe</m> ou vitrifie Je croy<lb/>
 
 que les <pro>verriers</pro> sen pourroient servir</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<comment>c_099r_02</comment>Il fault fort<lb/>
+
+<comment rid="c_099r_02"/>Il fault fort<lb/>
 
 peu de <m>sel armoniac</m><lb/>
 
@@ -151,8 +151,8 @@ dissoult dans l<m>eau</m></ab>
 
 </div>
 
-<div>
-<id>p099r_3</id>
+<div id="p099r_3">
+
 <head>Anses de cloches</head>
 
 <ab>Elles se peuvent bien remectre sans refaire la cloche<lb/>
@@ -162,7 +162,7 @@ laquelle il fault remectre dans la fosse &amp; le moule dedans<lb/>
 Mays <m>soulder</m> la cloche <del>ref</del> fendue il est estime
 impossible<lb/>
 
-pour luy donner sa <comment>c_099r_03</comment>premiere voix</ab>
+pour luy donner sa <comment rid="c_099r_03"/>premiere voix</ab>
 
 </div>
 </root>

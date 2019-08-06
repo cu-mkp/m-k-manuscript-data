@@ -1,13 +1,13 @@
-<root>
-<page>077v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="077v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f160.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f160.image</image>
 
-<div>
 
-<cont/>
 
-<id>p077r_4</id>
+<div continues="yes" id="p077r_4">
+
+
+
+
 
 <ab>but it should not be too small, then take <del><ill/></del> a
 <tl><m>glass</m> vial</tl> not too big and put into it a half of these
@@ -24,16 +24,16 @@ use it for something more noble.</ab>
 
 </div>
 
-<div>
+<div id="p077v_1">
 
-<id>p077v_1</id>
+
 
 <head>Another approved <m>varnish</m></head>
 
 <ab>Take two <ms>ounces</ms> of <m><pa>linseed</pa> oil</m> &amp; two
 <ms>ounces</ms> of <m><fr>petrolle</fr> oil</m> and two
 <ms>ounces</ms> of <m>mastic</m>, the whitest you can find, and of
-<m>glass alum</m>,<comment>c_075v_03</comment> &amp; grind it, and take a little bit of
+<m>glass alum</m>,<comment rid="c_075v_03"/> &amp; grind it, and take a little bit of
 <m>white copperas</m>, and put all these <m>drugs</m> together into an
 <tl><m>earthen</m> pot</tl> that should be new, and lay it on hot
 <m>ashes</m> for a bit, and you will see a beautiful
@@ -41,9 +41,9 @@ use it for something more noble.</ab>
 
 </div>
 
-<div>
+<div id="p077v_2">
 
-<id>p077v_2</id>
+
 
 <head>Another <m>varnish</m></head>
 
@@ -56,17 +56,17 @@ varnish.</ab>
 
 </div>
 
-<div>
+<div id="p077v_3" continued="yes">
 
-<id>p077v_3</id>
+
 
 <head>Another <m>varnish</m></head>
 
 <ab>Take one <ms>ounce</ms> of <m><pa>spike lavender</pa> oil</m> &amp;
 of <m>sang <del><fr>de ra</fr><del><fr>i</fr></del><add>y</add>e</del>
-<add>da Rac</add></m><comment>c_077v_03</comment> &amp; make</ab>
+<add>da Rac</add></m><comment rid="c_077v_03"/> &amp; make</ab>
 
-<cont/>
+
 
 </div>
 </root>

@@ -1,11 +1,11 @@
-<root>
-<page>122v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="122v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f250.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f250.item.r=</image>
 
-<div>
 
-<id>p122v_1</id>
+
+<div id="p122v_1">
+
+
 
 <head>Cleaning the <tl>bowl</tl> and the <tl>spoon</tl> with which one
 tempers the <m>sand</m></head>
@@ -18,9 +18,9 @@ a fault in the work. When also the <tl>mold</tl> is reheated, these
 little pieces crust up &amp; flake off &amp; prevent neat
 casting.</ab></div>
 
-<div>
+<div id="p122v_2">
 
-<id>p122v_2</id>
+
 
 <head>Molding hollow</head>
 
@@ -31,9 +31,9 @@ everywhere, but on its own it is not good. But when <m>wax</m> &amp;
 other small animals can easily be molded hollow for the body, but as for
 the legs, it will be awkward.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 The first part of the <tl>mold</tl>, that is the first cast on the
 <tl><m>clay</m> slab</tl>, cracks more readily in the fire than the
@@ -41,29 +41,29 @@ second.</ab>
 
 </div>
 
-<div>
+<div id="p122v_3">
 
-<id>p122v_3</id>
+
 
 <head>Molding medals and flat things</head>
 
 <ab>You do not have to make the gate with legs thus
 
-<figure>
+<figure id="fig_p122v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aTlRdkx2eVdtZXM">
 
-<id>fig_p122v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5aTlRdkx2eVdtZXM</link>
+
+
 
 </figure>
 
 , but rather in this way
 
-<figure>
+<figure id="fig_p122v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5WFBpaEV5Ti1hRUU">
 
-<id>fig_p122v_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5WFBpaEV5Ti1hRUU</link>
+
+
 
 </figure>
 

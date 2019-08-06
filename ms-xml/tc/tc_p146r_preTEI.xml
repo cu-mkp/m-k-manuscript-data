@@ -1,13 +1,13 @@
-<root>
-<page>146r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="146r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f297.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f297.image</image>
 
-<div>
 
-<cont/>
 
-<id>p145v_1</id>
+<div continues="yes" id="p145v_1">
+
+
+
+
 
 <ab>affin quelle se mouille par tout sinon mouille la<lb/>
 
@@ -88,9 +88,9 @@ mesme <m>sab<ups>le</ups><lb/>
 
 qui ha servi</m> et est le plus excellent de tous</ab>
 
-<ab><margin>left-top</margin>
+<ab margin="left-top" render="wide">
 
-<render>wide</render>
+
 
 La ligue dont jay gecte une grande branche de <pa>soulcy</pa> qui avecq
 sa fleur ses boutons<lb/>
@@ -105,7 +105,7 @@ fin</m> mesle de deulx<lb/>
 
 <ms>unces</ms> de <m>plomb</m></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Sil y a quelques<lb/>
 
@@ -113,7 +113,7 @@ baves repare<lb/>
 
 avecq un <tl>trancheplume</tl></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Descouvre la<lb/>
 
@@ -167,7 +167,7 @@ pour faire tout sortir<lb/>
 
 attire avecq la <tl><bp>bouche</bp></tl></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Advise de natacher<lb/>
 

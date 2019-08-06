@@ -1,13 +1,13 @@
-<root>
-<page>101v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="101v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f208.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f208.image</image>
 
-<div>
 
-<cont/>
 
-<id>p101r_2</id>
+<div continues="yes" id="p101r_2">
+
+
+
+
 
 <ab>que le <tl><oc>crusol</oc></tl> soict rouge. Aprés jecte le sur un
 <tl><m>mabre</m></tl><lb/>
@@ -22,9 +22,9 @@ mays garde les de l’humidité.</ab>
 
 </div>
 
-<div>
+<div id="p101v_1">
 
-<id>p101v_1</id>
+
 
 <head><m>Jacinthe</m></head>
 
@@ -38,9 +38,9 @@ n’aura<lb/>
 
 que des veines rouges.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Recuits tousjours<lb/>
 
@@ -48,9 +48,9 @@ tes <tl>creusets</tl>.
 
 </ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 On tient que<lb/>
 
@@ -62,9 +62,9 @@ faict <m>jacinthe</m>.
 
 </div>
 
-<div>
+<div id="p101v_2">
 
-<id>p101v_2</id>
+
 
 <head><m>Topasse</m></head>
 
@@ -94,13 +94,13 @@ beau jaulne co<exp>mm</exp>e dict est, le dessoubs co<exp>mm</exp>e
 <m>caillou à<lb/>
 
 fœu</m>, sans transparence. Avecq quoy, en meslant
-d’aultr<comment>c_101v_02</comment></ab>
+d’aultr<comment rid="c_101v_02"/></ab>
 
 </div>
 
-<div>
+<div id="p101v_3">
 
-<id>p101v_3</id>
+
 
 <head><m>Vernis</m></head>
 
@@ -113,9 +113,9 @@ de<lb/>
 
 </div>
 
-<div>
+<div id="p101v_4">
 
-<id>p101v_4</id>
+
 
 <head><m>Gomme armoniac</m></head>
 

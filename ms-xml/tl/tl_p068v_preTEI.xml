@@ -1,16 +1,16 @@
-<root>
-<page>068v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="068v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f142.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f142.image</image>
 
-<div>
 
-<cont/>
 
-<id>p068r_3</id>
+<div continues="yes" id="p068r_3" continued="yes">
+
+
+
+
 
 <ab>and immediately you will be able to crumble it between your
-<tl><bp>fingers</bp></tl> and easily <tl>pestle</tl> in a <tl>mortar of <m><fr>metal</fr></m>,<comment>c_016v_05</comment> 
+<tl><bp>fingers</bp></tl> and easily <tl>pestle</tl> in a <tl>mortar of <m><fr>metal</fr></m>,<comment rid="c_016v_05"/> 
 or better yet, of <m>iron</m></tl>. Next, it
 will be easy to grind it, not <del>only</del> on <m>common
 <tl>marble</tl></m> <add>that would corrode</add>, but on
@@ -53,7 +53,7 @@ rest a little &amp; cast. <m>Tin</m> mixed
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

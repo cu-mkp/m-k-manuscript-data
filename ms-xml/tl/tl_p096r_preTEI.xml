@@ -1,26 +1,26 @@
-<root>
-<page>096r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="096r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f197.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f197.image</image>
 
-<div>
 
-<cont/>
 
-<id>p094r_1</id>
+<div continues="yes" id="p094r_1">
+
+
+
+
 
 <ab>
 
 <tl>round plane, also mounted with two handles</tl>, then with a
 <tl>small narrow plane</tl>, one hollows &amp; scrapes it <ms>half a
 <bp>foot</bp></ms> toward the end of the
-<fr>talan</fr>,<comment>c_096r_02</comment> and the shorter the better.
+<fr>talan</fr>,<comment rid="c_096r_02"/> and the shorter the better.
 Without this scraping, the sword would always cut the scabbard.</ab>
 
 <ab>
 
 The opening of the scabbard is called the mouth &amp; on top is the
-shape of the blade.<comment>c_096r_03</comment></ab>
+shape of the blade.<comment rid="c_096r_03"/></ab>
 
 <ab>
 
@@ -46,7 +46,7 @@ the scabbard hold.</ab>
 
 Then one puts the sword into the <fr>estelles</fr>. And precisely thus
 they set it in the scabbard which is all sewn, and rub what is
-<m>glued</m> along the shape of the blade<comment>c_096r_04</comment>
+<m>glued</m> along the shape of the blade<comment rid="c_096r_04"/>
 with <m>tallow</m> to make it run into the scabbard.</ab>
 
 <ab>
@@ -57,7 +57,7 @@ ones. But, when the swords are long, one makes them in pieces which are
 sewn between <m>leather</m> &amp; <m>flesh</m>, &amp; then they rub the
 stitching thoroughly with a piece of <tl><m><pa>boxwood</pa></m></tl> to
 cover &amp; even it. From a <m>good <al>calf</al> skin</m>, viii or 9 or
-x scabbards can be taken.<comment>c_096r_05</comment> A
+x scabbards can be taken.<comment rid="c_096r_01"/> A
 <pro>workman</pro> can easily make vi <ms>a <tmp>day</tmp></ms>. If they
 are too thick, one thins them a little with a <tl>plane</tl>. If the
 <m>skin</m> is hard, one wets it in <m>lightly lukewarm water</m>, and
@@ -78,9 +78,9 @@ in <m>velvet</m> or <al>calf</al>. A <m>waxed</m> scabbard is worth at
 least xxx <ms><cn>sous</cn></ms>, a <al>cow</al> one xx
 <ms><cn>sous</cn></ms>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <add>From a <m><al>sheep</al> skin</m>, v or vi.</add></ab>
 

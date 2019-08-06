@@ -1,33 +1,33 @@
-<root>
-<page>030r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="030r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f65.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f65.image</image>
 
-<div>
-<id>p030r_1</id>
+
+
+<div id="p030r_1">
+
 <head><m>Lead</m></head>
 
 <ab>The best, fattest &amp; softest is brought from <pl>Germany</pl> and
-is not in <fr>saulmon</fr>,<comment>c_028v_04</comment> but in <fr>lattes</fr> of around an
+is not in <fr>saulmon</fr>,<comment rid="c_028v_04"/> but in <fr>lattes</fr> of around an
 <ms><bp>arm's</bp></ms> length &amp; three <ms><bp>fingers'</bp></ms> width.
 It is transported to <pl>Lyon</pl>, and from this, the leaf is made for
 small mirrors in <pl>Nuremberg</pl>.</ab>
 
 </div>
 
-<div>
-<id>p030r_2</id>
+<div id="p030r_2" continued="yes">
+
 <head><pro>Pewterer</pro></head>
 
 <ab>They also make their <tl>molds</tl> from <m>metal</m> which lasts
-longer &amp; molds more cleanly than <m><fr>grais</fr></m>,<comment>c_030r_03</comment> because the
+longer &amp; molds more cleanly than <m><fr>grais</fr></m>,<comment rid="c_030r_03"/> because the
 plate comes out without flashing &amp; smooth. But this is for the
 
 <pro>rich</pro> because a <tl>mold</tl> costs fifteen or sixteen
 <cn>frans</cn>. They are mainly made of <m>metal</m>, for basins &amp;
 ewers &amp; salt cellars &amp; similar things which are fashioned.</ab>
 
-<ab>For pints,<comment>c_030r_01</comment> <tl>molds</tl> are made with
+<ab>For pints,<comment rid="c_030r_01"/> <tl>molds</tl> are made with
 <m>white clay earth</m> mixed with <m><al>horse</al> dung</m> &amp; <m>cloth
 waste</m> &amp; well beaten, because the pints, being sunk in a half round,
 would not be able to release as well from the <tl><m><fr>grais</fr></m> mold</tl>
@@ -49,7 +49,7 @@ it more vendable. But it will not last as long.</ab>
 notches on the spoke of their <tl><m>iron</m> wheels</tl>. And when they
 want to apply</ab>
 
-<cont/>
+
 
 </div>
 </root>

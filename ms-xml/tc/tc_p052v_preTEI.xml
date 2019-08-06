@@ -1,13 +1,13 @@
-<root>
-<page>052v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="052v" image="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f110.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f110.item</image>
 
-<div>
 
-<cont/>
 
-<id>p052r_1</id>
+<div continues="yes" id="p052r_1">
+
+
+
+
 
 <ab>ou pour le plus seur retire toy hors de la jusques a ce<lb/>
 
@@ -50,9 +50,9 @@ Le terme de lœuvre est de nœuf <tmp>moys</tmp> <tmp>despuys la
 
 jusques au 25 dapvril</tmp></ab></div>
 
-<div>
+<div id="p052v_1">
 
-<id>p052v_1</id>
+
 
 <head><pa>Lin</pa></head>
 
@@ -71,9 +71,9 @@ se dechoit du tiers</ab>
 
 </div>
 
-<div>
+<div id="p052v_2">
 
-<id>p052v_2</id>
+
 
 <head>Couleurs</head>
 
