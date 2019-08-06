@@ -1,11 +1,11 @@
-<root>
-<page>142v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="142v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f290.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f290.image</image>
 
-<div>
 
-<id>p142v_1</id>
+
+<div id="p142v_1">
+
+
 
 <head>Molding <al>grasshoppers</al> and things too thin</head>
 
@@ -21,27 +21,27 @@ other flowers, <m>butter</m> is not good, but rather <m><pa>wheat</pa>
 oil</m>, which is soon dry &amp; holds firm. <m>Wax</m> would not be
 appropriate here for it is too hot once melted, &amp; it makes the thing
 to which it is applied contract. But <m>butter</m> is amiable and
-handleable.</ab>
+handleable.<hr/></ab>
 
-<ab><margin>left-middle</margin>If you write on <m>paper</m> or on
-<m>common <fr>carton</fr></m> <comment>c_142v_05</comment>&amp; that your
+<ab margin="left-middle">If you write on <m>paper</m> or on
+<m>common <fr>carton</fr></m> <comment rid="c_142v_05"/>&amp; that your
 <m>letter</m> is of <m>gum</m>, the humidity of the <tl><m>clay</m>
 slab</tl> or the <m>wetted sand for <fr>noyau</fr></m> will moisten your
 <m>letter</m> <corr>&amp;</corr> undo it. Therefore write with
 <m>cinnabar</m> wetted with <m>oil</m> on <m>oiled paper</m>
-&amp;<comment>c_142v_06</comment>press in.</ab>
+&amp;<comment rid="c_142v_06"/>press in.</ab>
 
-<ab><margin>left-middle</margin><mark>+</mark> Reheat your
+<ab margin="left-middle"><mark>+</mark> Reheat your
 <tl>molds</tl> with <m>charcoals</m>, firstly lit in the <tl>forge</tl>,
 in order that the fire is not so hot &amp; does not break the
 <tl>molds</tl>. And do not make as much fire where the <tl>mold</tl> is
-thin, like in the place where it is thick.</ab>
+thin, like in the place where it is thick.<hr/></ab>
 
 </div>
 
-<div>
+<div id="p142v_2">
 
-<id>p142v_2</id>
+
 
 <head><tl>Molds</tl></head>
 
@@ -50,26 +50,26 @@ thin, like in the place where it is thick.</ab>
 strength. Keep from reheating in one go &amp; in a too ardent fire, for
 this makes them <del>melt</del> break.</ab>
 
-<ab><margin>right-middle</margin>Do not keep them in a <env>humid or
-enclosed place</env> if they are not well dry, for they go moldy. So do
+<ab margin="right-middle">Do not keep them in a <env>humid or
+enclosed place</env> if they are not well <corr>dry</corr>, for they go moldy. So do
 dried animals.</ab>
 
-<ab><margin>left-middle</margin>One ought not to reheat <tl>molds</tl>
+<ab margin="left-middle">One ought not to reheat <tl>molds</tl>
 twice when the animal can be removed without burning, like a
 <al>toad</al>, which can well be molded hollow like all thick animals.
 However, it is always good to redden the <tl>mold</tl> once.</ab>
 
 </div>
 
-<div>
+<div id="p142v_3">
 
-<id>p142v_3</id>
+
 
 <head><m><tl>Lute</tl></m> for <m>luting</m> your <tl>molds</tl></head>
 
 <ab>I have not found one that is made more quickly than this one, nor
 better. Take this <m>lean earth of which the <pro>founders of artillery
-&amp; bells</pro> make their <tl><fr>trusseaulx</fr></tl><comment>c_142v_07</comment> and
+&amp; bells</pro> make their <tl><fr>trusseaulx</fr></tl><comment rid="c_142v_07"/> and
 <tl>molds</tl></m>, which is lean &amp; sandy. Temper it
 <del><fr>e</fr></del> moderately like a very thick <m>mortar</m>. Mix in
 it about <ms>half</ms> <m><al>horse</al> dung</m> &amp; then have it

@@ -1,11 +1,11 @@
-<root>
-<page>150v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="150v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f306.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f306.image</image>
 
-<div>
 
-<id>p150v_1</id>
+
+<div id="p150v_1" continued="yes">
+
+
 
 <head>Molding hollow</head>
 
@@ -43,9 +43,9 @@ order that the <m>wax</m> flows out <corr>gently</corr>. For if you were
 to give it great heat until the <m>wax</m> came out, it would boil
 inside &amp; leave some pustules &amp; lumpy things, although</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 This <tl>point</tl> is placed in the middle &amp; through the hole of
 the gate, when the <tl>mold</tl> is in several pieces, like a
@@ -53,50 +53,50 @@ the gate, when the <tl>mold</tl> is in several pieces, like a
 not shake. But when the <tl>mold</tl> is only of two pieces, it is not necessary
 to put <tl>points</tl> in the middle of it.
 
-<figure>
+<figure id="fig_p150v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5eVVJSjUwSFhpUzg">
 
-<id>fig_p150v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5eVVJSjUwSFhpUzg</link>
+
+
 
 </figure>
 
-<figure>
+<figure id="fig_p150v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SUk5cUNtNnpqbXc">
 
-<id>fig_p150v_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SUk5cUNtNnpqbXc</link>
+
+
 
 </figure>
 
 </ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Before casting the core, make some notches all around the hole
 through which you want to cast, in order to always better secure the
 <tl>mold</tl>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Mixed <m>tallow</m> is the reason that, when emptying the <m>wax</m>,
 the hole does not become obstructed. One needs <ms>half</ms>
 <m>tallow</m> &amp; <ms>half</ms> <m>black wax</m>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 All very thick pieces come out better in hollow, because a thick mass of
 mostly <m>lead</m> remains hot a <tmp>long time</tmp> &amp; eats the
 <tl>mold</tl>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 You can, after the cast is done, mold <del>a</del> the part of the shell
 of the belly where you have made the hole on the natural
-one<comment>c_150v_03</comment>, and reattach it with
+one<comment rid="c_150v_03"/>, and reattach it with
 <m>solder</m>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 <mark>X</mark> Note that, after your core is cast, it is
 better to put the <tl>mold</tl> in <m>hot water</m> to open it, in order
@@ -107,11 +107,11 @@ the <tl>mold</tl> when you reheat it, no pustules or lumps are made in
 it. And then, if there is hardly any <m>wax</m>, you will not need to
 reheat it as much. When opening the <tl>mold</tl>, the cast will break.
 But it can easily be repaired, even though you
-cast <mark>A</mark><comment>c_150v_02</comment>
+cast <mark>A</mark><comment rid="c_150v_02"/>
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

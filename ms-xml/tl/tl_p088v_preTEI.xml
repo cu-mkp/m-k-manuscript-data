@@ -1,10 +1,10 @@
-<root>
-<page>088v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="088v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f182.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f182.image</image>
 
-<div>
-<id>p088v_1</id>
+
+
+<div id="p088v_1">
+
 <head><m>Sand from pulverised rock salt</m> and <m>sand from the
 <env>mine</env></m> finely ground on <tl><m>marble</m></tl> </head>
 
@@ -13,7 +13,7 @@
 in the <tl>mortar</tl>, I mixed as much of one as the other, and having
 reworked them together on <tl><m>porphyry</m></tl>, &amp; passed them
 through a <tl>double sieve</tl> or through the <tl>sleeve of a
-shirt</tl> to mix them even better, I put them in <tl><m>paper</m></tl>
+shirt</tl> to mix<del><fr>s</fr></del><comment rid="c_088v_01"/> them even better, I put them in <tl><m>paper</m></tl>
 &amp; put them on a <tl><m>marble</m></tl> in a <env>cellar</env>. In
 one <ms><tmp>night</tmp></ms>, they had been been moistened enough by
 themselves without dampening them further, because <m>rock salt</m>, like
@@ -22,9 +22,9 @@ neatly with it, because both were very finely ground. They want to be
 <del><fr>f</fr></del> humid enough to release well.</ab>
 
 </div>
-<div>
-<id>p088v_2</id>
-<head><comment>c_090r_03</comment><m>Mineral sand</m></head>
+<div id="p088v_2">
+
+<head><comment rid="c_090r_03"/><m>Mineral sand</m></head>
 
 <ab>It does not matter if the color is white or yellow. Above all it
 must be in one piece, &amp; as if taken from a <env>quarry</env> or
@@ -54,8 +54,8 @@ through a <tl>sieve</tl>. But those who work in small works, finely
 grind it &amp; grind it impalpable, because they do not need a lot of
 it.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <m><pa><fr>Orberé</fr> grain</pa></m> makes a tawny powder, very
 delicate &amp; very soft, which once mixed could <del>mix</del> mold
 very neatly. <emph>Try</emph> <m><pa>wheat</pa> flour</m> burned over a closed

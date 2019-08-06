@@ -1,13 +1,13 @@
-<root>
-<page>170r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="170r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f345.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f345.image</image>
 
-<div>
 
-<cont/>
 
-<id>p169v_2</id>
+<div continues="yes" id="p169v_2">
+
+
+
+
 
 <ab>de <m>parfum</m> &amp; semblable. Mays advise qu’il fault que<lb/>
 
@@ -23,9 +23,9 @@ fondue &amp; un peu de <m>rousine</m>.</ab>
 
 </div>
 
-<div>
+<div id="p170r_1">
 
-<id>p170r_1</id>
+
 
 <head>Medailles courantes</head>
 
@@ -41,9 +41,9 @@ acerré</m></tl>, recuit &amp; adoulcy, qu’on trampe aprés.</ab>
 
 </div>
 
-<div>
+<div id="p170r_2">
 
-<id>p170r_2</id>
+
 
 <head>Gect</head>
 
@@ -57,9 +57,9 @@ peu<lb/>
 
 </div>
 
-<div>
+<div id="p170r_3">
 
-<id>p170r_3</id>
+
 
 <head><tl>Crampons</tl></head>
 
@@ -70,9 +70,9 @@ qu’il ne s’esbranle point.</ab>
 
 </div>
 
-<div>
+<div id="p170r_4">
 
-<id>p170r_4</id>
+
 
 <head><tl>Moules</tl></head>
 
@@ -87,9 +87,9 @@ veulent estre <del>recu</del> deseiché<corr>s</corr> <env>à l’air</env>
 
 </div>
 
-<div>
+<div id="p170r_5">
 
-<id>p170r_5</id>
+
 
 <head>Ouvrages espés d’<m>estain</m></head>
 
@@ -104,9 +104,9 @@ rouge</m>.</ab>
 
 </div>
 
-<div>
+<div id="p170r_6">
 
-<id>p170r_6</id>
+
 
 <head>Nettoyer <tl>moules</tl> clos</head>
 
@@ -125,21 +125,21 @@ Soufle en dedans &amp; suppe<lb/>
 attirant à toy. Engrossis plustost que mouler la queue avecq de la
 <m>cire</m>, puys couppe la<lb/>
 
-<figure>
+<figure id="fig_p170r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5amQ1YVRWWnFGWUE">
 
-<id>fig_p170r_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5amQ1YVRWWnFGWUE</link>
+
+
 
 </figure></ab>
 
-<ab><margin>left-top</margin>
+<ab margin="left-top">
 
-<figure>
+<figure id="fig_p170r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5S3FNaEt0QmN1alU">
 
-<id>fig_p170r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5S3FNaEt0QmN1alU</link>
+
+
 
 </figure>
 

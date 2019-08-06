@@ -1,11 +1,11 @@
-<root>
-<page>114r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="114r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f233.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f233.image</image>
 
-<div>
 
-<id>p114r_1</id>
+
+<div id="p114r_1" continued="yes">
+
+
 
 <head>Second gect</head>
 
@@ -18,11 +18,11 @@ demy <tl>moule</tl> où elle est enserrée a fait prise et est assés<lb/>
 
 endurcy,
 
-<figure>
+<figure id="fig_114r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SWVndzB0aEk5MWs">
 
-<id>fig_114r_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SWVndzB0aEk5MWs</link>
+
+
 
 </figure> descouvre toute la partie de dessoubs &amp; du costé du<lb/>
 
@@ -76,7 +76,7 @@ par le bout avec un peu de <m>salive</m> <add>ou d<m>eau claire</m> à
 mesure que tu descouvre</add>, affin que <del>ton</del> la partie<lb/>
 
 inferieure de ton animal descouverte soict bien nette.
-<add><mark>#</mark></add> <add>🝋</add><comment>c_114r_03</comment> Ce
+<add><mark>#</mark></add> <add>🝋</add><comment rid="c_114r_03"/> Ce
 faict,<lb/>
 
 trempe <del>le rev</del> <del>ton <tl>moule</tl></del> l’<ms><tmp>espace
@@ -117,9 +117,9 @@ l’<m>huile</m> s’embevoit, trempe le <del>mo</del> revers du
 l’<m>eau</m> &amp; tu verras retourner l’<m>huile</m> sur la superficie
 à petites goutes.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Fais des petits animales co<exp>mm</exp>e des<lb/>
 
@@ -128,15 +128,15 @@ grands, excepté qu’il te fault<lb/>
 faire des <tl>poinctes delicates de <del>fil</del> <lb/><corr><del>de</del></corr> <del>cist</del> <m>cordes de <mu>cistre</mu></m></tl>, de longues
 &amp; courtes.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
 
-<figure>
 
-<id>fig_p114r_1</id>
+<figure id="fig_p114r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NVR5Y2FtZHM0ck0">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5NVR5Y2FtZHM0ck0</link>
+
+
+
 
 </figure><lb/>
 
@@ -148,9 +148,9 @@ plattes</tl> toutes<lb/>
 
 tes <tl>poinctes</tl>.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 <mark>#</mark> Et<lb/>
 
@@ -158,11 +158,11 @@ puys<mark>+</mark><del>tantost avecq</del><lb/>
 
 </ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
 
-<mark>#</mark><comment>c_114r_04</comment><lb/>
+
+<mark>#</mark><comment rid="c_114r_04"/><lb/>
 
 Toutesfois, laisse<lb/>
 
@@ -204,9 +204,9 @@ et suivre le reste par la trasse des <tl>poinctes</tl>.<lb/>
 
 </ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 <mark>#</mark><lb/>
 
@@ -244,17 +244,17 @@ que l’aultre<lb/>
 
 moictié s’y lie.🝋<lb/>
 
-<figure>
+<figure id="fig_p114r_6" link="https://drive.google.com/open?id=0B9-oNrvWdlO5TTRuWU8yVktnc3M">
 
-<id>fig_p114r_6</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5TTRuWU8yVktnc3M</link>
+
+
 
 </figure>
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

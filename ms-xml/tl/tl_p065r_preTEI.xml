@@ -1,11 +1,11 @@
-<root>
-<page>065r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="065r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f135.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f135.image</image>
 
-<div>
 
-<id>p065r_1</id>
+
+<div id="p065r_1">
+
+
 
 <head>Shadows</head>
 
@@ -16,11 +16,11 @@ especially that of men, is yellowish. And for this effect use very
 strongly ground <m>jet</m>, which you will mix with a little
 <m><add>yellow</add> ochre</m> &amp; <m>lead white</m>. Or else, after
 you have ground your <m>lead white</m> <del><fr>bro</fr></del> and
-<del>clean <fr>p</fr></del> gathered it with the <figure>
+<del>clean <fr>p</fr></del> gathered it with the <figure id="fig_p065r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UFZyOUNKU3pqVXc">
 
-<id>fig_p065r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5UFZyOUNKU3pqVXc</link>
+
+
 
 </figure>, grind the <m>jet</m> into it. Thus it will be more
 desiccative, &amp; making on its own a yellowish black. A little white
@@ -29,9 +29,9 @@ greenish black are appropriate for women’s shadows. Take, then, some
 black of <gap/>, a little <m>sap-green</m> &amp; <m>bistre</m>, &amp;
 you will have a perfect shadow for women in <m>distemper</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 The powder of <m><pa><fr>orberé</fr> grain</pa></m> is darker than
 <m>umber</m> &amp; when you lack <m>umber</m>, the said powder will do,
@@ -39,9 +39,9 @@ but it does not have body.</ab>
 
 </div>
 
-<div>
+<div id="p065r_2">
 
-<id>p065r_2</id>
+
 
 <head>Flesh color</head>
 
@@ -51,19 +51,19 @@ observe that a thing which appears flat needs to be softened lengthwise,
 as if going from <del><fr>l<exp>ett</exp>re a ga</fr></del> right to
 left like
 
-<figure>
+<figure id="fig_p065r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5eUhrRmdpaWNCZlk">
 
-<id>fig_p065r_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5eUhrRmdpaWNCZlk</link>
+
+
 
 </figure>, and whatever ought to appear round must be softened in circles.</ab>
 
 </div>
 
-<div>
+<div id="p065r_3">
 
-<id>p065r_3</id>
+
 
 <head><tl>Mirror</tl></head>
 
@@ -77,9 +77,9 @@ for he sees in it what nature can do.</ab>
 
 </div>
 
-<div>
+<div id="p065r_4">
 
-<id>p065r_4</id>
+
 
 <head>Fatty colors</head>
 
@@ -89,30 +89,30 @@ the second colors one layers on would not take easily, unless
 you rub this place with <m>soap</m> or <bp>breathe</bp> on it, because the
 humidity will make the colors take.</ab>
 
-<ab>
+<ab margin="left-top" render="tall">
 
-<margin>left-top</margin>
-<render>tall</render>
+
+
 One cannot layer <m>oil</m> on cut <m>paper</m> &amp; model as in
 <m>distemper</m> because the colour would run. Thus, to <m>gild</m> with
 <m><fr>or mat</fr></m>, one needs to pounce &amp; then layer the <m>gold
 color</m> with the <tl>paintbrush</tl>.</ab>
 
-<ab>
+<ab margin="left-top" render="tall">
 
-<margin>left-top</margin>
-<render>tall</render>
+
+
 All fatty colors, such as <m>ceruse</m> and <m>minium</m>,
 <m>massicot</m>, <m>ochre</m>, <m>lead white</m>, are good for making
 gold color.</ab>
 
-<ab>
+<ab margin="left-top" render="tall">
 
-<margin>left-top</margin>
-<render>tall</render>
+
+
 Any color or thing that thickens when <m>water</m> is put with it while
 grinding has <df>body</df>. But those that lack it, such as
-<m><tl>pestled</tl> glass</m>, <m>lake</m>, &amp;c, become clear.</ab>
+<m><tl>pestled</tl> glass</m>, <m>lake</m>, &amp;<corr>c</corr>, become clear.</ab>
 
 </div>
 </root>

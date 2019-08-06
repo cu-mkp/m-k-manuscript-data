@@ -1,11 +1,11 @@
-<root>
-<page>024v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="024v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f54.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f54.image</image>
 
-<div>
 
-<id>p024v_1</id>
+
+<div id="p024v_1" continued="yes">
+
+
 
 <head>For bringing a <wp>cannon</wp> over <env>land</env></head>
 
@@ -46,50 +46,50 @@ barricades <del>some</del> companions-in-arms on guard duty to defend
 the pieces. One keeps the small <m>powder</m> magazine, of three or four
 <ms>kegs</ms>, separately,</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Know the magazines of <pl>France</pl> for the
-<wp>artillery</wp>.</ab><comment>c_024v_01</comment>
+<wp>artillery</wp>.</ab><comment rid="c_024v_01"/>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 It is good if the platform is slightly inclined toward the front because
 the <wp>piece</wp> is more quickly mounted for battery &amp; holds the blast
 better &amp; batters more fiercely.</ab>
 
-<cont/>
+
 
 </div>
 
-<div>
+<div id="p024v_2">
 
-<id>p024v_2</id>
-<head><margin>left-middle</margin>Fowlers</head>
-<ab><margin>left-middle</margin> are those which have a
+
+<head>Fowlers</head>
+<ab margin="left-middle"> are those which have a
 reinforcement inside, in the entire space which contains the <m>powder</m>, and the
 ball can only <del><fr>a</fr></del> roll up to the opening of the said
 chamber. These do not penetrate so much &amp;are irritating to load but
 they do not heat up as quickly.</ab></div>
 
-<div>
+<div id="p024v_3">
 
-<id>p024v_3</id>
-<head><margin>left-middle</margin><m>A steel</m> touch-hole</head>
-<ab><margin>left-middle</margin>is
+
+<head><m>A steel</m> touch-hole</head>
+<ab margin="left-middle">is
 put in the <wp>cannons</wp> in the manner of a screw so it will not be damaged
 during firing like the others very quickly will be. But these screws
 are prone to blow off &amp; cause damage to the <pro>gunner</pro>. There
 is nothing for it but to use a proper touch-hole.</ab></div>
 
-<div>
+<div id="p024v_4">
 
-<id>p024v_4</id>
-<head><margin>left-middle</margin>A touch-hole at the level</head>
-<ab><margin>left-middle</margin> of
+
+<head>A touch-hole at the level</head>
+<ab margin="left-middle"> of
 the breach is the best because in this way the <wp>cannon</wp> hardly pushes
 back.</ab></div>
 </root>

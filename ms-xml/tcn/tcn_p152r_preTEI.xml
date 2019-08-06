@@ -1,11 +1,11 @@
-<root>
-<page>152r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="152r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f309.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f309.image</image>
 
-<div>
 
-<id>p152r_1</id>
+
+<div id="p152r_1">
+
+
 
 <head>Mouler un <al>rat</al></head>
 
@@ -103,7 +103,7 @@ animaulx,<lb/>
 
 <tl>moule</tl> qu’il ne soict recuit &amp; le <al>rat</al> bruslé.</ab>
 
-<ab><margin>left-middle</margin><mark>+</mark>
+<ab margin="left-middle"><mark>+</mark>
 
 Le <al>rat</al>, pource qu’il<lb/>
 
@@ -142,7 +142,7 @@ les <m>os</m> ne se<lb/>
 calcinent poinct.
 <hr/></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Toute plume<lb/>
 
@@ -155,7 +155,7 @@ est malaisé<lb/>
 le naturel.
 <hr/></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Le <m>beurre</m> pour<lb/>
 
@@ -170,7 +170,7 @@ pource qu’il est plus<lb/>
 amiable.
 <hr/></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Si le <al>rat</al> est gra<exp>n</exp>d,<lb/>
 
@@ -196,7 +196,7 @@ gaste &amp; faict<lb/>
 
 grumeleux.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Ne mects ton<lb/>
 

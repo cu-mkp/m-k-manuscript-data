@@ -1,11 +1,11 @@
-<root>
-<page>004r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="004r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f13.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f13.image</image>
 
-<div>
 
-<id>p004r_1</id>
+
+<div id="p004r_1">
+
+
 
 <head><m>Vernis dhuile daspic</m></head>
 
@@ -62,9 +62,9 @@ estoict refroidie elle nentreroit poinct dans la muraille<lb/>
 
 &amp; quand tu y aurois mis ton <m>vernis </m> elle senleveroit</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Le <m>vernis dhuile<lb/>
 
@@ -82,15 +82,15 @@ pour estre trop penetra<exp>n</exp>t</ab>
 
 </div>
 
-<div>
+<div id="p004r_2">
 
-<id>p004r_2</id>
+
 
 <head>Pour oster le <m>vernis</m> dun<lb/>
 
 vieulx tableau qui est jaunastre<lb/>
 
-&amp; le vernir de nouveau<comment>c_004r_01</comment></head>
+&amp; le vernir de nouveau<comment rid="c_004r_01"/></head>
 
 <ab>Prens du <m>savon blanc</m> &amp; de la <m>cendre<del>e</del>
 <tl>tamisee</tl></m> &amp; le tout<lb/>
@@ -113,9 +113,9 @@ les couleurs Apres estant le tableau sec tu y peulx<lb/>
 
 estandre ton <m>vernis de tourmentine</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Garde que les<lb/>
 

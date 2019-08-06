@@ -1,11 +1,11 @@
-<root>
-<page>038v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="038v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f82.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f82.image</image>
 
-<div>
 
-<id>p038v_1</id>
+
+<div id="p038v_1">
+
+
 
 <head>Couleur noire pour <m>taindre</m></head>
 
@@ -19,9 +19,9 @@ Essaye d’aultres couleurs avecq la <m>lessive de chaulx</m>.</ab>
 
 </div>
 
-<div>
+<div id="p038v_2">
 
-<id>p038v_2</id>
+
 
 <head>Contre <md>seignee du <bp>nés</bp></md><lb/>
 
@@ -40,9 +40,9 @@ beau violet.</ab>
 
 </div>
 
-<div>
+<div id="p038v_3">
 
-<id>p038v_3</id>
+
 
 <head>Beaulx <pa>artichaulx</pa></head>
 
@@ -59,9 +59,9 @@ fort beau fruit.</ab>
 
 </div>
 
-<div>
+<div id="p038v_4">
 
-<id>p038v_4</id>
+
 
 <head>Planter abres</head>
 
@@ -77,9 +77,9 @@ co<exp>mm</exp>e la terre.</ab>
 
 </div>
 
-<div>
+<div id="p038v_5">
 
-<id>p038v_5</id>
+
 
 <head><pro>Marchant</pro></head>
 
@@ -90,7 +90,7 @@ estoffes ne font poinct de livre double, pource que vendant<lb/>
 
 par le menu &amp; en detail ce leur seroict trop de pene. Ilz<lb/>
 
-ont seulem<exp>ent</exp> leur lb<comment>c_038v_01</comment> de vente
+ont seulem<exp>ent</exp> leur lb<comment rid="c_038v_01"/> de vente
 &amp; leur livre de raison. Mays<lb/>
 
 ceulx qui vendent en gros &amp; ceulx qui trafiquent de
@@ -100,9 +100,9 @@ ont double livre.</ab>
 
 </div>
 
-<div>
+<div id="p038v_6">
 
-<id>p038v_6</id>
+
 
 <head>Escarlates</head>
 

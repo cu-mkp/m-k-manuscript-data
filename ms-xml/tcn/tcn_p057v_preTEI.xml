@@ -1,11 +1,11 @@
-<root>
-<page>057v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="057v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f120.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f120.item</image>
 
-<div>
 
-<id>p057v_1</id>
+
+<div id="p057v_1">
+
+
 
 <head><pro>Gainier</pro></head>
 
@@ -61,9 +61,9 @@ faict aultrem<exp>ent</exp><lb/>
 
 et se resuict aveq ung <tl><m>fer</m> chault</tl>.<hr/></ab></div>
 
-<div>
+<div id="p057v_2" continued="yes">
 
-<id>p057v_2</id>
+
 
 <head><pro>Painctre</pro></head>
 
@@ -81,7 +81,7 @@ aultrement ilz<lb/>
 deviennent mols en <env>temps humide</env>.</ab>
 
 <ab>Les masques de <pl>Venise</pl> se font aveq le creulx &amp; le
-visaige masle<comment>c_057v_04</comment> de<lb/>
+visaige masle<comment rid="c_057v_04"/> de<lb/>
 
 <m>cuyvre</m>.</ab>
 
@@ -102,7 +102,7 @@ mesmem<exp>ent</exp> si la <m>peau des <pa>noix</pa></m><lb/>
 
 est tirée.</ab>
 
-<cont/>
+
 
 </div>
 </root>

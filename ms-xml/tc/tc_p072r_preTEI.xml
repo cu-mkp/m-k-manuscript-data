@@ -1,11 +1,11 @@
-<root>
-<page>072r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="072r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f149.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f149.item</image>
 
-<div>
 
-<id>p072r_1</id>
+
+<div id="p072r_1">
+
+
 
 <head>L<exp>ett</exp>res d<pro>imprimeur</pro></head>
 
@@ -22,9 +22,9 @@ fondre le tout ceste composition est ferme pour limpression<lb/>
 
 </div>
 
-<div>
+<div id="p072r_2">
 
-<id>p072r_2</id>
+
 
 <head>Gecter en <m>cuivre</m></head>
 
@@ -99,9 +99,9 @@ cousteaulx</m><lb/>
 
 est fort bonne pour le <m>cuivre</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 On tient pour grand<lb/>
 

@@ -1,11 +1,11 @@
-<root>
-<page>128r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="128r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f261.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f261.image</image>
 
-<div>
 
-<id>p128r_1</id>
+
+<div id="p128r_1" continued="yes">
+
+
 
 <head>Casting in <m>silver</m> and <m>gold</m></head>
 
@@ -41,7 +41,7 @@ shake when pushing &amp; another when pulling toward you. In this way,
 the heat becomes stronger. <del><fr>Com</fr></del>
 <del><fr>Ne</fr></del>Take heed to raise sometimes your
 <tl><oc>crucible</oc></tl> <del>with the</del> with hot <tl>pincers</tl>, because
-<del>that</del> <add>if it</add> is placed right in front of the
+<del>that</del><comment rid="c_128r_02"/> <add>if it</add> is placed right in front of the
 <tl>blast-pipe</tl> &amp; the <del><tl>bellow</tl> b</del>
 <del><add>wind builds the</add></del> wind of the <tl>bellows</tl> hits
 the <tl>crucible</tl>, it will cool your <m>silver</m> rather than
@@ -55,33 +55,33 @@ seeing cracked &amp; burst lumps, take the <ms>size of a
 raw tartar, coarsely pulverized</m>, for in this way, they have more
 ability to heat. And occasionally throw it in the <tl><oc>crucible</oc></tl> on the
 <m>silver</m>, which clarifies it. But if you have some of that crust sublimated on a <m>metal</m> substance, which looks like
-grain of <m>steel</m>, as previously described,<comment>c_128r_01</comment> take a little
+grain of <m>steel</m>, as previously described,<comment rid="c_128r_01"/> take a little
 of that, leaving <add><mark>#</mark></add> the others &amp; throw it
 on your <m>melted silver</m>.</ab>
 
-<ab>
+<ab margin="right-top">
 
-<margin>right-top</margin>
+
 
 Some let the <m>silver</m> rest a little outside before casting.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 <m>Gold and silver, melted</m> with the above said things, scarcely
 become porous.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 For <m>gold</m>, one does not need <del>d</del> as much
 <del><m>tin</m></del> <m><la>crocum</la></m> as <m>feather alum</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Small <tl>molds</tl> are reheated quickly, but big &amp; small ones
 should dry beforehand in the <tl>furnace</tl>, for the humidity of the
@@ -89,33 +89,33 @@ should dry beforehand in the <tl>furnace</tl>, for the humidity of the
 <tl>furnace</tl>, is attracted outside. But the fierce heat of the
 charcoals chases it from the exterior through the inside.</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 All <m>alloyed silver</m> produces film, and all other
 <m>metal</m> as well.</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 <m>Silver</m> does not want to be uncovered when melted.</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 <mark>#</mark> <add>Coarsely pulverized</add></ab>
 
-<ab>
+<ab margin="bottom">
 
-<margin>bottom</margin>
+
 
 A lump of <m>adulterated silver</m> vitrifies in red because of the
 <m>arsenic</m> &amp; <m>orpiment</m>.</ab>
 
-<cont/>
+
 
 </div>
 </root>

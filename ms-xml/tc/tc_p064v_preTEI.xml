@@ -1,11 +1,11 @@
-<root>
-<page>064v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="064v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f134.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f134.image</image>
 
-<div>
 
-<id>p064v_1</id>
+
+<div id="p064v_1">
+
+
 
 <head>Aprentissaige du <pro>paintre</pro></head>
 
@@ -29,8 +29,8 @@ a <del>p</del>coucher de couleurs</ab>
 
 lignes</ab>
 
-<ab><del>C</del> <add>L</add>a figure de l<m>œuf</m> pour visaiges
-<add>et pour les corps plies</add><comment>c_064v_02</comment> est le
+<ab><del>C</del>La<comment rid="c_064v_06"/> figure de l<m>œuf</m> pour visaiges
+<add>et pour les corps plies</add><comment rid="c_064v_02"/> est le
 principal<lb/>
 
 patron <del>&amp; la croix</del> co<exp>mm</exp>e la croix est le
@@ -38,19 +38,19 @@ modelle du plant<lb/>
 
 droict &amp; entier Sans ces traicts tu ne feras jamays bien</ab>
 
-<figure>
+<figure id="fig_p064v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NmZDTmZwc1Jqb2M">
 
-<id>fig_p064v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5NmZDTmZwc1Jqb2M</link>
+
+
 
 </figure>
 
 </div>
 
-<div>
+<div id="p064v_3">
 
-<id>p064v_3</id>
+
 
 <head>Adoulcir</head>
 
@@ -60,9 +60,9 @@ espesses<lb/>
 Ains plustost les coucher a deulx fois Si ce nest l<m>azur
 desmail</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Toutes couleurs qui nont point de corps<lb/>
 
@@ -82,9 +82,9 @@ a <m>huile</m></ab>
 
 </div>
 
-<div>
+<div id="p064v_4">
 
-<id>p064v_4</id>
+
 
 <head>Lignes droictes</head>
 
@@ -101,19 +101,19 @@ pas bien aussy le traict</ab>
 
 </div>
 
-<div>
+<div id="p064v_5">
 
-<id>p064v_5</id>
+
 
 <head><m>Destrempe</m></head>
 
 <ab>Il fault que les couleurs a <m>destrempe</m> soient
-<add>tenues</add><comment>c_064v_03</comment> plus obscures
+<add>tenues</add><comment rid="c_064v_03"/> plus obscures
 <del>pr</del><lb/>
 
-ainsy que tu les destrempent<comment>c_064v_04</comment>
+ainsy que tu les destrempent<comment rid="c_064v_04"/>
 <add>pourceque elles blanchissent en
-seichant</add><comment>c_064v_05</comment> Mays les couleurs a <m>huile</m> demeurent<lb/>
+seichant</add><comment rid="c_064v_05"/> Mays les couleurs a <m>huile</m> demeurent<lb/>
 
 en mesme couleur</ab>
 

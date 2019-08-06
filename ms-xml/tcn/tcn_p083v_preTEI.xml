@@ -1,10 +1,10 @@
-<root>
-<page>083v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="083v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f172.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f172.item</image>
 
-<div>
-<id>p083v_1</id>
+
+
+<div id="p083v_1">
+
 <head>Forme de mouler excellente<lb/>
 
 avecq <m>eau</m></head>
@@ -24,8 +24,8 @@ qui<lb/>
 estant fort calcinés, &amp; reduits en <m>eau</m>.</ab>
 
 </div>
-<div>
-<id>p083v_2</id>
+<div id="p083v_2">
+
 <head>
 
 Mouler de relief d’une part<lb/>
@@ -113,9 +113,9 @@ Ne frappe pas en moulant car cela estonne le <tl>chassis</tl> &amp; le
 <m>sable</m>.</ab>
 
 </div>
-<div>
-<id>p083v_3</id>
-<margin>left-middle</margin>
+<div id="p083v_3" margin="left-middle">
+
+
 
 <head><tl>Souflets</tl></head>
 

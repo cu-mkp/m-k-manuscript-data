@@ -1,11 +1,11 @@
-<root>
-<page>169r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="169r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f343.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f343.item</image>
 
-<div>
-<id>p169r_1</id>
-<head><sup>List of processes</sup></head>
+
+
+<div id="p169r_1">
+
+<head><sup>Liste de procédés</sup></head>
 <ab><underline>Mouler <al>tortues</al></underline></ab>
 
 <ab><underline>Animaulx a poil</underline></ab>
@@ -20,7 +20,7 @@
 
 <ab>Mouler un vase en <tl>chassis</tl></ab>
 
-<ab>Mouler du <pa><la>capilli veneris</la><comment>c_037r_01</comment></pa><lb/>
+<ab>Mouler du <pa><la>capilli veneris</la><comment rid="c_037r_01"/></pa><lb/>
 
 &amp; herbes qui ont besoing de<lb/>
 

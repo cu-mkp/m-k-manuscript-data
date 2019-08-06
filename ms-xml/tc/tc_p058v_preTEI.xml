@@ -1,11 +1,11 @@
-<root>
-<page>058v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="058v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f122.item.">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f122.item.</image>
 
-<div>
 
-<id>p058v_1</id>
+
+<div id="p058v_1">
+
+
 
 <head>Noirs</head>
 
@@ -18,9 +18,9 @@ de lampe</m> D<m>os de pied de <al>bœufs</al> brusles</m></ab>
 
 </div>
 
-<div>
+<div id="p058v_2">
 
-<id>p058v_2</id>
+
 
 <head>Ombres</head>
 
@@ -30,9 +30,9 @@ tout ainsy que les carnations doibvent estre differentes<lb/>
 
 ainssy les ombres</ab></div>
 
-<div>
+<div id="p058v_3">
 
-<id>p058v_3</id>
+
 
 <head>A fresc</head>
 
@@ -40,13 +40,13 @@ ainssy les ombres</ab></div>
 
 avecq <tl>longs pinceaux</tl> Le fresc ne semploye point<lb/>
 
-<del>cont</del><comment>c_058v_03</comment> sur le <m>boys</m></ab>
+<del>cont</del><comment rid="c_058v_03"/> sur le <m>boys</m></ab>
 
 </div>
 
-<div>
+<div id="p058v_4">
 
-<id>p058v_4</id>
+
 
 <head><m>Azur</m></head>
 
@@ -56,13 +56,13 @@ l<m>huile de grene de <la>palma christi</la></m> L<m>huile de
 <pa>noix</pa></m><lb/>
 
 en <pl>flandres</pl> coste bien cent <cn>sols</cn> la <ms>pinte</ms>
-<comment>c_058v_05</comment>L<m>azur</m><lb/>
+<comment rid="c_058v_05"/>L<m>azur</m><lb/>
 
 demande un peu l<m>huile gras</m> pource quil nha point de corps</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 L<m>azur desmail</m> haict plus<lb/>
 
@@ -86,9 +86,9 @@ espes et en ceste sorte il ne se<lb/>
 
 mourra pas tant </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Choisis tousjours le plus<lb/>
 
@@ -96,9 +96,9 @@ delie</ab>
 
 </div>
 
-<div>
+<div id="p058v_5" continued="yes">
 
-<id>p058v_5</id>
+
 
 <head><tl>Pinceaulx</tl></head>
 
@@ -130,13 +130,13 @@ de <pl>turquie</pl></m> <del>de qui</del> dequoy ilz font aussy les
 
 pour sapuyer la <bp>main</bp> quand ilz paignent</tl></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Pour travailler bien<lb/>
 
-en petit ilz <del>font</del>fault<comment>c_058v_04</comment> des<lb/>
+en petit ilz <del>font</del>fault<comment rid="c_058v_04"/> des<lb/>
 
 <tl>pinceaulx fort delies qui<lb/>
 
@@ -172,7 +172,7 @@ sont encores meilleurs<lb/>
 
 car un seul <m>poil</m> dans un <tl>pinceau</tl> suffist</ab>
 
-<cont/>
+
 
 </div>
 </root>

@@ -1,11 +1,11 @@
-<root>
-<page>149r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="149r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f303.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f303.image</image>
 
-<div>
 
-<id>p149r_1</id>
+
+<div id="p149r_1">
+
+
 
 <head>Softening <m>iron</m> and rendering it very soft</head>
 
@@ -18,9 +18,9 @@ very red. Or leave <ms><tmp>overnight</tmp> in a good fire until the
 <tmp>morning</tmp></ms>. It will be very soft for engraving on it well
 whatever you want.</ab></div>
 
-<div>
+<div id="p149r_2">
 
-<id>p149r_2</id>
+
 
 <head><m>Base gold from <pl>Germany</pl></m>,
 <m>electrum</m></head>
@@ -34,9 +34,9 @@ this whiteness is fixed &amp; it does not lack color. This is
 <df><m>electrum</m></df>, from which one is able to make cups,
 which will demonstrate <md>poison</md>.</ab></div>
 
-<div>
+<div id="p149r_3">
 
-<id>p149r_3</id>
+
 
 <head>Various arts from <pl>Germany</pl></head>
 
@@ -48,9 +48,9 @@ wire</m>, they redden large masses of <m>iron</m>, &amp; having made it
 into a point, they make it hang while totally red, &amp; thus promptly
 draw the <m>wire</m>.</ab></div>
 
-<div>
+<div id="p149r_4">
 
-<id>p149r_4</id>
+
 
 <head>Repairing a medal</head>
 

@@ -1,11 +1,11 @@
-<root>
-<page>050v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="050v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f106.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f106.image</image>
 
-<div>
 
-<id>p050v_1</id>
+
+<div id="p050v_1">
+
+
 
 <head><al>Oysillons</al></head>
 
@@ -28,13 +28,13 @@ avecq deulx<lb/>
 <tl>gluons</tl> Mays pourceque tel ordinayre pour eulx seroit trop<lb/>
 
 cher On les nourrist ordinayrem<exp>ent</exp> de <pa>chenevi</pa> La
-<al>passe solitaire</al><comment>c_050v_01</comment><lb/>
+<al>passe solitaire</al><comment rid="c_050v_01"/><lb/>
 
 se purge avecq une <m><al>iraigne</al></m> quil luy fault donner
 <ms><tmp>une fois<lb/>
 
 la sepmaine</tmp></ms> affin quelle ne vienne poinct de
-gaillardisse<comment>c_049v_06</comment><lb/>
+gaillardisse<comment rid="c_049v_06"/><lb/>
 
 La <al>calandre</al> se purge avecq du <m>mortier sec</m> compose
 de<lb/>
@@ -67,9 +67,9 @@ pour <al>linotte</al> de la <m><pa>navette</pa></m></ab>
 
 </div>
 
-<div>
+<div id="p050v_2">
 
-<id>p050v_2</id>
+
 
 <head><m>Acier</m> corroye et <tl>limes</tl></head>
 
@@ -113,9 +113,9 @@ aultre chaulde ilz reduisent en masse Les <pl>allemans</pl> font leur
 
 de <m>fer fort</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 On aplique l<m>acier</m><lb/>
 
 <ups>a</ups>ulx houtils <del>dess</del> non<lb/>
@@ -132,9 +132,9 @@ On aplique l<m>acier</m><lb/>
 
 <ups>f</ups>ort doulx</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 <ups>L</ups>es <pl>levantins</pl> raffinent<lb/>
 
 <ups>n</ups><exp>ost</exp>re <m>acier</m> car leur pays<lb/>

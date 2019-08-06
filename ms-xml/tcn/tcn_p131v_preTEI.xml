@@ -1,13 +1,13 @@
-<root>
-<page>131v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="131v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f268.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f268.item.r=</image>
 
-<div>
 
-<cont/>
 
-<id>p131r_5</id>
+<div continues="yes" id="p131r_5">
+
+
+
+
 
 <ab>en forme ronde pour la gecter en <m>or</m> et <m>argent</m>, ne
 mects<lb/>
@@ -35,8 +35,8 @@ est composée de <m>ceruse</m> ou semblables, il faut que<lb/>
 
 tu mectes ton <tl>moule</tl> dans l’<m>eau bouillante</m>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Pour figures<lb/>
 
 de <m>cire</m> platte,<lb/>
@@ -54,8 +54,8 @@ demeure pas dans<lb/>
 l<del>a</del>e <tl>moule</tl>.</ab>
 
 </div>
-<div>
-<id>p131v_1</id>
+<div id="p131v_1" continued="yes">
+
 <head>Quand le gect d’<m>estaim</m> ou<lb/>
 
 de <m>plomb</m> soufle</head>
@@ -113,8 +113,8 @@ trop.<lb/>
 
 Advise bien</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 Tu y peulx <m>soulder</m><lb/>
 
@@ -128,8 +128,8 @@ reparer avecq le<lb/>
 
 &amp; semblable.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 L’<m>estaim</m> est un<lb/>
 
@@ -143,8 +143,8 @@ et est fantasque<lb/>
 
 l’<m>or</m> et l’<m>argent.</m></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Le <m>plomb</m> veult<lb/>
 
 estre non seulem<corr><exp>ent</exp></corr> rouge,<lb/>
@@ -176,7 +176,7 @@ tant pour luy que l’<m>or</m><lb/>
 
 &amp; <m>argent</m> quand il sort par les souspirails.</ab>
 
-<cont/>
+
 
 </div>
 </root>

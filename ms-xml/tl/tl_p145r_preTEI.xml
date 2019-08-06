@@ -1,11 +1,11 @@
-<root>
-<page>145r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="145r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f295.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f295.image</image>
 
-<div>
 
-<id>p145r_1</id>
+
+<div id="p145r_1">
+
+
 
 <head>Casting in three <tl>frames</tl></head>
 
@@ -13,32 +13,32 @@
 &amp; similar things, which are easily released, namely the body of the
 <tl>mortar</tl> in one, <del>the two <tl>frames</tl></del> <add>the
 core in the other</add>. <add>And the <add>bottom of the
-<tl>mortar</tl></add> <del>core</del> in the <del>other</del>
+<tl>mortar</tl></add> <del>core</del> in <del><fr>un</fr></del>the<comment rid="c_145r_04"/>
 third one, <del>for small work</del> because otherwise the molding that
 is in it would not be released.</add></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <emph><la>Inquire</la></emph>
 </ab>
     
-<figure>
-<id>fig_p145r_1</id>
-<margin>left-middle</margin>
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5MXRaSldvRzY2UTg</link>
+<figure id="fig_p145r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MXRaSldvRzY2UTg">
+
+
+
 <caption>A</caption>
 </figure>
 </div>
 
-<div>
+<div id="p145r_2" continued="yes">
 
-<id>p145r_2</id>
+
 
 <head><tl><m><al>Cuttlefish</al> bone</m></tl></head>
 
-<ab>One ought not cast in either <m>tin</m> or <m>lead</m> too hot, for
+<ab>One ought not to cast in either <m>tin</m> or <m>lead</m> too hot, for
 it would burn the <tl><m>bone</m></tl> &amp; come out lumpy. And <ms>to
 know when it is at a good heat, dip a <tl>little piece of twisted
 <m>paper</m></tl> into it. If it blackens it without lighting, it is at
@@ -57,9 +57,9 @@ lightly by the fire, &amp; cast &amp; then shake the <tl>mold</tl> or
 scratch over rough scales &amp; let it cool before opening. Usually one
 cuts the <tl><m>bone</m></tl> in the middle, and the dullest part, and
 that which does not have any half circles
-<figure><id>fig_p145r_2</id><link>https://drive.google.com/file/d/1-NGCS8NDm7NI4xFQ9ZF058I9vEhQRBuQ/view?usp=sharing</link></figure>
+<figure id="fig_p145r_2" link="https://drive.google.com/file/d/1-NGCS8NDm7NI4xFQ9ZF058I9vEhQRBuQ/view?usp=sharing"/>
 is the most delicate and smoothest for molding, &amp; thus one always
-imprints there the principal,<comment>c_145r_03</comment> the other is scaly on the inside as it
+imprints there the principal,<comment rid="c_145r_03"/> the other is scaly on the inside as it
 demonstrates on the outside. Thus one does not use this for delicate
 things that are molded on two sides. One smooths &amp; flattens these
 two halves on some <tl>smooth <m>wood</m></tl>, then one scrapes
@@ -70,7 +70,7 @@ two halves on some <tl>smooth <m>wood</m></tl>, then one scrapes
 prepared &amp; rounded on the sides, and having set the medal on top,
 one tightens and presses it quite strongly.</ab>
 
-<cont/>
+
 
 </div>
 </root>

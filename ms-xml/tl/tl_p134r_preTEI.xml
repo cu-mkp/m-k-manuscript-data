@@ -1,13 +1,13 @@
-<root>
-<page>134r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="134r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f273.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f273.image</image>
 
-<div>
 
-<cont/>
 
-<id>p133v_3</id>
+<div continues="yes" id="p133v_3">
+
+
+
+
 
 <ab>
 
@@ -35,9 +35,9 @@ happen, you will be able to repair it in this way.</ab>
 
 </div>
 
-<div>
+<div id="p134r_1">
 
-<id>p134r_1</id>
+
 
 <head>For mending a pierced <tl>mold</tl></head>
 
@@ -57,9 +57,9 @@ But, one will need to <m><tl>lute</tl></m> this place well afterward. </ab>
 
 </div>
 
-<div>
+<div id="p134r_2">
 
-<id>p134r_2</id>
+
 
 <head><m>Sand of <m><la>crocum</la></m></m></head>
 
@@ -72,9 +72,9 @@ believe that for flat things it would withstand <del><fr>bien
 de</fr></del> several casts, which, however, for <m>gold</m> &amp;
 <m>silver</m> is hardly practiced.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Try, for <m>lead</m> &amp; <m>tin</m>, <m><la>crocum</la></m>.</ab>
 

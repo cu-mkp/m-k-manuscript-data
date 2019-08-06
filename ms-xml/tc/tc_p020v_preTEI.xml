@@ -1,11 +1,11 @@
-<root>
-<page>020v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="020v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f46.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f46.image</image>
 
-<div>
 
-<id>p020v_1</id>
+
+<div id="p020v_1">
+
+
 
 <head><md>Blanchir la <bp>face</bp></md></head>
 
@@ -20,9 +20,9 @@ quen fayre de l<m>amydon</m> &amp; en user seroict encores mieulx
 
 </div>
 
-<div>
+<div id="p020v_2">
 
-<id>p020v_2</id>
+
 
 <head><md>Contre les <bp>ventosites</bp> colique &amp;c</md></head>
 
@@ -49,9 +49,9 @@ lescume sesperdra Si tu exprimes aussi du <m>just</m> contre la<lb/>
 
 </div>
 
-<div>
+<div id="p020v_3">
 
-<id>p020v_3</id>
+
 
 <head><pa>Eschervis</pa> racine</head>
 
@@ -70,9 +70,9 @@ un cœur dur qui luy oste toute sa bonte
 
 </div>
 
-<div>
+<div id="p020v_4">
 
-<id>p020v_4</id>
+
 
 <head><md>Contre brusleure</md></head>
 
@@ -88,18 +88,18 @@ noir</m> experimente
 
 </div>
 
-<div>
+<div id="p020v_5">
 
-<id>p020v_5</id>
+
 
 <head>Commu<exp>n</exp> dire</head>
 
 <ab>Clocher de <pl>rhodés</pl> <env>Eglise</env> d<pl>Alby</pl> cloches
 de <pl>mende</pl><lb/>
 
-Touteffoys on tient la choche<comment>c_020v_01</comment> de
+Touteffoys on tient la choche<comment rid="c_020v_01"/> de
 <pl>th<exp>ou</exp>l<exp>ous</exp>e</pl> appellee
-cardaillac<comment>c_020v_02</comment> pour<lb/>
+cardaillac<comment rid="c_020v_02"/> pour<lb/>
 
 une des plus belles de <pl>france</pl> daultant quil poise deuls
 cens<lb/>
@@ -110,9 +110,9 @@ cinquante <ms>quintals</ms>
 
 </div>
 
-<div>
+<div id="p020v_6">
 
-<id>p020v_6</id>
+
 
 <head><md>Forme de regime</md></head>
 

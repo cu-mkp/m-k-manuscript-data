@@ -1,23 +1,23 @@
-<root>
-<page>063r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="063r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f131.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f131.image</image>
 
-<div>
 
-<id>p063r_1</id>
+
+<div id="p063r_1">
+
+
 
 <head><pa>Amaranth</pa> color</head>
 
 <ab>Although it is said to be immortal, it is nonetheless the case that
 <m>white wine</m> removes its tint &amp; turns claret-colored, &amp; the dry <m>flower</m> ends up white afterward. Note that in this way the
-<m>wine</m>,<comment>c_063r_01</comment> &amp; I have tested it. <m>Eau-de-vie</m> does as much.</ab>
+<m>wine</m>,<comment rid="c_063r_01"/> &amp; I have tested it. <m>Eau-de-vie</m> does as much.</ab>
 
 </div>
 
-<div>
+<div id="p063r_2">
 
-<id>p063r_2</id>
+
 
 <head>Drying of <m>oil</m></head>
 
@@ -27,9 +27,9 @@ it dries out neither too soon nor too late.</ab>
 
 </div>
 
-<div>
+<div id="p063r_3">
 
-<id>p063r_3</id>
+
 
 <head>Casting</head>
 
@@ -41,9 +41,9 @@ bottom</del> they make their cast with it. For the <m>lead</m> must not have bee
 put to work before, but rather completely new. Some cast into <tl>molds
 of <m>iron</m> &amp; <m>copper</m></tl>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 or new <m>lead</m> coming from the <env>mine</env>. They melt it twice
 in a <tl>crucible</tl>. In the first one, they purge it of
@@ -51,9 +51,9 @@ in a <tl>crucible</tl>. In the first one, they purge it of
 
 </div>
 
-<div>
+<div id="p063r_4">
 
-<id>p063r_4</id>
+
 
 <head>Shadows</head>
 
@@ -63,9 +63,9 @@ colour of men with ground <m>jet</m>, <m>stil de grain yellow</m>
 
 </div>
 
-<div>
+<div id="p063r_5">
 
-<id>p063r_5</id>
+
 
 <head><m>Bistre</m></head>
 
@@ -74,9 +74,9 @@ made.</ab>
 
 </div>
 
-<div>
+<div id="p063r_6">
 
-<id>p063r_6</id>
+
 
 <head><m>Verdigris</m> and another very beautiful bright green</head>
 

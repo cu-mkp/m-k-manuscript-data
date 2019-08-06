@@ -1,10 +1,10 @@
-<root>
-<page>090r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="090r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f185.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f185.image</image>
 
-<div>
-<id>p090r_1</id>
+
+
+<div id="p090r_1">
+
 <head><m>Sel armoniac</m> et <m>mache de fer</m></head>
 
 <ab>Jay pulverise le <m>sel armoniac</m> bien seiche au fœu &amp; dans<lb/>
@@ -24,19 +24,19 @@ bas relief sans estre humectes <env>au <tmp>serain</tmp></env> ou en la <env>cav
 aultrem<exp>ent</exp> avecq la <tl>serviete</tl> &amp; il despouille fort net</ab>
 
 </div>
-<div>
-<id>p090r_2</id>
+<div id="p090r_2">
+
 <head><m>Sable</m></head>
 
-<ab>Les <pro>mouleurs</pro> de <pl>foix</pl> qui gectent les<comment>c_090r_01</comment> medailles de<lb/>
+<ab>Les <pro>mouleurs</pro> de <pl>foix</pl> qui gectent le<del>ur</del>s<comment rid="c_090r_01"/> medailles de<lb/>
 
-travers<comment>c_090r_02</comment> usent de <m><la>crocum ferri</la></m> et <m>ardoise calcinee</m> Cest pour<lb/>
+travers<comment rid="c_090r_02"/> usent de <m><la>crocum ferri</la></m> et <m>ardoise calcinee</m> Cest pour<lb/>
 chose fort platte</ab>
 
 </div>
-<div>
-<id>p090r_3</id>
-<head><comment>c_090r_03</comment>Que tout <m>sable</m> se peult rendre bon</head>
+<div id="p090r_3" continued="yes">
+
+<head><comment rid="c_090r_03"/>Que tout <m>sable</m> se peult rendre bon</head>
 
 <ab>Les <pro>artisans qui travaillent en grands ouvraiges</pro> &amp; qui ont besoing<lb/>
 
@@ -70,7 +70,7 @@ Ils ayment mieulx le faire venir de loing co<exp>mm</exp>e de <pl>Lyon</pl> de <
 
 Toutesfoys tu peulx estre certain quen tout lieu tu peulx rendre le <m>sable de <env>mine</env></m></ab>
 
-<cont/>
+
 
 </div>
 </root>

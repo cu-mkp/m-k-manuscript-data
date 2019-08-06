@@ -1,11 +1,11 @@
-<root>
-<page>130r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="130r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f265.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f265.item.r=</image>
 
-<div>
 
-<id>p130r_1</id>
+
+<div id="p130r_1">
+
+
 
 <head>Animaulx seches au <tl>four</tl></head>
 
@@ -51,21 +51,21 @@ cornes des aisles &amp; semblables fantasies Ainsy des <al>rats</al>
 
 touts animaulx</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<comment>c_130r_03</comment><figure>
 
-<id>fig_p130r</id>
+<comment rid="c_130r_03"/><figure id="fig_p130r" link="https://drive.google.com/open?id=0B9-oNrvWdlO5cHVsNnNVQ1l5RnM">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5cHVsNnNVQ1l5RnM</link>
+
+
+
 
 </figure> qui embrassant<lb/>
 
 les doigts des<lb/>
 
-pastes<comment>c_130r_01</comment> se fichent<lb/>
+pastes<comment rid="c_130r_01"/> se fichent<lb/>
 
 dans la plastre<lb/>
 
@@ -73,9 +73,9 @@ d<m>ardille</m></ab>
 
 </div>
 
-<div>
+<div id="p130r_2">
 
-<id>p130r_2</id>
+
 
 <head>Pour rougir les <al>escrevisses</al> vives<lb/>
 
@@ -89,9 +89,9 @@ co<exp>mm</exp>e cuittes &amp; chemi<exp>n</exp>er<ups>ont</ups></ab>
 
 </div>
 
-<div>
+<div id="p130r_3">
 
-<id>p130r_3</id>
+
 
 <head>Mouler une <al>yraigne</al> seule</head>
 
@@ -105,9 +105,9 @@ jusq<ups>ues</ups><lb/>
 
 a la moictie des jambes puys fais le second gect</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Affin<lb/>
 
@@ -135,9 +135,9 @@ bien</ab>
 
 </div>
 
-<div>
+<div id="p130r_4">
 
-<id>p130r_4</id>
+
 
 <head>Mouler une feuille de <pa>vigne</pa> seule</head>
 

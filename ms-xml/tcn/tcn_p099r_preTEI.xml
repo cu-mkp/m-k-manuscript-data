@@ -1,13 +1,13 @@
-<root>
-<page>099r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="099r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f203.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f203.image</image>
 
-<div>
 
-<cont/>
 
-<id>p098v_5</id>
+<div continues="yes" id="p098v_5">
+
+
+
+
 
 <ab>La <m>terre</m> ou <m>sable</m> mouillé ou broyé avecq <m>eau</m> veult
 estre<lb/>
@@ -39,8 +39,8 @@ Il est mieulx de mouler tout d’un <m>sable</m>, soict en <tl>chassis</tl><lb/>
 
 ou noyau, qu’en divers meslés.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 Il fault recuire<lb/>,
 
@@ -139,8 +139,8 @@ s’il estoit <m>plombé</m> ou vitrifié. Je croy<lb/>
 
 que les <pro>verriers</pro> s’en pourroient servir.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 Il fault fort<lb/>
 
@@ -149,8 +149,8 @@ peu de <m>sel armoniac</m><lb/>
 dissoult dans l’<m>eau</m>.</ab>
 
 </div>
-<div>
-<id>p099r_3</id>
+<div id="p099r_3">
+
 <head>Anses de cloches</head>
 
 <ab>

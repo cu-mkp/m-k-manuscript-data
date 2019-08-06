@@ -1,11 +1,11 @@
-<root>
-<page>009v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="009v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f24.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f24.image</image>
 
-<div>
 
-<id>p009v_1</id>
+
+<div id="p009v_1">
+
+
 
 <head><pro>Painters</pro></head>
 
@@ -26,9 +26,9 @@ calcine <m>common salt</m> &amp; to grind it in.
 
 
 
-<div>
+<div id="p009v_2">
 
-<id>p009v_2</id>
+
 
 <head><pro>Merchant</pro></head>
 
@@ -38,20 +38,20 @@ otherwise called the account book.</ab>
 
 </div>
 
-<div>
+<div id="p009v_3">
 
-<id>p009v_3</id>
+
 
 <head>Waste book</head>
 
-<ab>And first, <pn>François du Cros</pn> owes from <tmp>2nd September
+<ab>And first, <pn>François du Cros</pn><comment rid="c_009v_02"/> owes from <tmp>2nd September
 1581</tmp>, for 1 <ms><fr>cane</fr></ms> of <m>cambric</m> at 8
 <ms><cn>livres</cn> per <fr>canne</fr></ms>, I make this <mark>--</mark> 8
-<ms><cn><corr>lb</corr> t.</cn></ms><comment>c_009v_01</comment></ab>
+<ms><cn><corr>lb</corr> t.</cn></ms><comment rid="c_009v_01"/></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <oc>Moved</oc> to the sales book at c. 25/</ab>
 
@@ -59,9 +59,9 @@ otherwise called the account book.</ab>
 for 1 <ms><fr>canne</fr></ms> of <m>cambric</m> at 8 <ms><cn>livres</cn>
 per <fr>canne</fr></ms>, as appears in the waste book at c. 25</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <oc>Moved</oc> to the account book at c. 55 /</ab>
 

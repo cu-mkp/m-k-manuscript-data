@@ -1,11 +1,11 @@
-<root>
-<page>149r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="149r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f303.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f303.image</image>
 
-<div>
 
-<id>p149r_1</id>
+
+<div id="p149r_1">
+
+
 
 <head>Ramollir le <m>fer</m> et le rendre fort<lb/>
 
@@ -33,9 +33,9 @@ graver ce que tu vouldras.</ab>
 
 </div>
 
-<div>
+<div id="p149r_2">
 
-<id>p149r_2</id>
+
 
 <head><m>Or bas d’<pl>Allemaigne</pl></m>,
 <m>electre</m></head>
@@ -59,9 +59,9 @@ des coupes qui demonstreront le <md>poison</md>.</ab>
 
 </div>
 
-<div>
+<div id="p149r_3">
 
-<id>p149r_3</id>
+
 
 <head>Divers arts d’<pl>Allemaigne</pl></head>
 
@@ -83,14 +83,14 @@ ainsy tout rouge &amp; tirent ainsy promptem<exp>ent</exp> le
 
 </div>
 
-<div>
+<div id="p149r_4">
 
-<id>p149r_4</id>
+
 
 <head>Medaille à reparer</head>
 
 <ab>Si tu veulx mouler quelque medaille pour te servir de
-patron,<comment>c_149r_04</comment><lb/>
+patron,<comment rid="c_149r_04"/><lb/>
 
 &amp; pour ceste occasion la reparer, jecte la la pluspart d’<m>estaim</m><lb/>
 

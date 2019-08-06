@@ -1,11 +1,11 @@
-<root>
-<page>049v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="049v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f104.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f104.image</image>
 
-<div>
 
-<id>p049v_1</id>
+
+<div id="p049v_1">
+
+
 
 <head><al>Oyseaulx</al></head>
 
@@ -23,17 +23,17 @@ Michel</pn></tmp></ms> Aultrem<exp>ent</exp> ilz ne vivent<lb/>
 
 gueres Il leur vient a touts sur la fourche de la queue<lb/>
 
-une petite aposteme par foys quaulcuns appellent <df>gaillardise</df><comment>c_049v_06</comment><lb/>
+une petite aposteme par foys quaulcuns appellent <df>gaillardise</df><comment rid="c_049v_06"/><lb/>
 
 qui les rend mallades &amp; quelques foys les faict mourir<lb/>
 
 Principallem<exp>ent</exp> les <al>calendres</al>
-En<comment>c_049v_01</comment> le cognoist quand ilz<lb/>
+En<comment rid="c_049v_01"/> le cognoist quand ilz<lb/>
 
 sont tristes &amp; ne chantent point Il le fault percer <del>av</del>
 non<lb/>
 
-pas avecq une <tl>espingle</tl> <comment>c_049v_02</comment> Mays tout
+pas avecq une <tl>espingle</tl> <comment rid="c_049v_02"/> Mays tout
 doulcem<exp>ent</exp> en tournant avecq<lb/>
 
 le bout dune <tl>plume bien poinctue</tl> La <al>calendre</al> ne veult
@@ -48,9 +48,9 @@ Elle sy frotte &amp; sen purge
 
 </div>
 
-<div>
+<div id="p049v_2">
 
-<id>p049v_2</id>
+
 
 <head>Graine de <m>plomb</m></head>
 
@@ -78,15 +78,15 @@ par<lb/>
 
 un gros <tl>tamis</tl> pour separer la plus grosse graine de la<lb/>
 
-plus menue La grossette portera 25 ou 30 <ms>pas</ms><comment>c_049v_08</comment>
+plus menue La grossette portera 25 ou 30 <ms>pas</ms><comment rid="c_049v_08"/>
 
 </ab>
 
 </div>
 
-<div>
+<div id="p049v_3">
 
-<id>p049v_3</id>
+
 
 <head><al>Oyseaulx</al></head>
 
@@ -112,7 +112,7 @@ la <pn>s<exp>ainc</exp>t Michel</pn></tmp></ms><lb/>
 
 Car apres ce temps la quilz ont faict leurs petits en ce pays ilz<lb/>
 
-sent<comment>c_049v_03</comment> vont co<exp>mm</exp>e font les
+sent<comment rid="c_049v_03"/> vont co<exp>mm</exp>e font les
 <al>tourterelles</al> Les <al>tarins</al> aussy se doibvent<lb/>
 
 prendre <ms><tmp>despuys la toussaints jusques a Noël</tmp></ms> Car
@@ -122,9 +122,9 @@ aulx <env>montaignes</env> cover
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Les <oc><al>benarrins</al></oc> sont<lb/>
 
@@ -134,7 +134,7 @@ que chantant sans ouvrir<lb/>
 
 le bec on diroit quil<lb/>
 
-sont<comment>c_049v_05</comment></ab>
+sont<comment rid="c_049v_05"/></ab>
 
 </div>
 </root>

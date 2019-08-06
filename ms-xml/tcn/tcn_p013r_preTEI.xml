@@ -1,13 +1,13 @@
-<root>
-<page>013r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="013r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f31.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f31.image</image>
 
-<div>
 
-<cont/>
 
-<id>p012v_3</id>
+<div continues="yes" id="p012v_3">
+
+
+
+
 
 <ab>
 
@@ -47,9 +47,9 @@ froid, co<exp>mm</exp>e je l’enchassay dans la <m>brique</m>.</ab>
 
 </div>
 
-<div>
+<div id="p013r_1">
 
-<id>p013r_1</id>
+
 
 <head>Carnation d’<m>arsenic</m></head>
 
@@ -67,9 +67,9 @@ blanc est bon à <m>huile</m> et s’acorde bien avecq la
 
 </div>
 
-<div>
+<div id="p013r_2">
 
-<id>p013r_2</id>
+
 
 <head>Pour taindre</head>
 
@@ -83,9 +83,9 @@ s’en yra si l’<al>animal</al> ne mue. <la>Non bona</la>.</ab>
 
 </div>
 
-<div>
+<div id="p013r_3">
 
-<id>p013r_3</id>
+
 
 <head>Polisseme<exp>n</exp>t de <m>pierres</m></head>
 
@@ -100,9 +100,9 @@ susdicte.</ab>
 
 </div>
 
-<div>
+<div id="p013r_4" continued="yes">
 
-<id>p013r_4</id>
+
 
 <head><tl>Tamis fins de <m>soye creue</m></tl> </head>
 
@@ -118,7 +118,7 @@ blanchie à la <m>fumee du soufre</m></m>, qui rend la <m>soye</m>
 vapeur glua<exp>n</exp>te, qui retiendroit la <m>farine</m> &amp; enfin
 empescheroit qu’elle ne</ab>
 
-<cont/>
+
 
 </div>
 </root>

@@ -1,11 +1,11 @@
-<root>
-<page>012r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="012r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f29.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f29.image</image>
 
-<div>
 
-<id>p012r_1</id>
+
+<div id="p012r_1">
+
+
 
 <head>Pour mouler de <m>soufre</m></head>
 
@@ -21,9 +21,9 @@ co<exp>mm</exp>e <m>huile</m> / y meslant du <m>verdegris</m> tu
 
 le <m>plastre</m> un <al>lesard</al> ou aultre chose fort nette</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Il ne le fault pas gecter<lb/>
 
@@ -61,9 +61,9 @@ car il soufleroit</ab>
 
 </div>
 
-<div>
+<div id="p012r_2">
 
-<id>p012r_2</id>
+
 
 <head><m>Chimolee</m></head>
 
@@ -87,9 +87,9 @@ doulce nette &amp; belle Tu peulx faire cave danimaulx de
 
 &amp; i gecter du <m>plomb</m></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Il fault que louvraige<lb/>
 
@@ -113,9 +113,9 @@ fendroit</ab>
 
 </div>
 
-<div>
+<div id="p012r_3">
 
-<id>p012r_3</id>
+
 
 <head><m>Papier</m></head>
 
@@ -145,9 +145,9 @@ la <tl>dent</tl></ab>
 
 </div>
 
-<div>
+<div id="p012r_4">
 
-<id>p012r_4</id>
+
 
 <head><m>Plastre</m></head>
 
@@ -157,7 +157,7 @@ d<pl>albigeois</pl> plus<lb/>
 blanc Il le fault cuire a feu clos co<exp>mm</exp>e a <tl>feu de
 reverbera<exp>ti</exp>on</tl><lb/>
 
-ou <tl>fours de <pro>barbiers</pro></tl><comment>c_012r_01</comment> Et le plus frais cuict est le meilleur
+ou <tl>fours de <pro>barbiers</pro></tl><comment rid="c_012r_01"/> Et le plus frais cuict est le meilleur
 a<lb/>
 
 mectre en besoigne Il le fault broyer subtillem<exp>ent</exp> sur le
@@ -175,9 +175,9 @@ faict des pustules jectes y dessus<lb/>
 de la <m>pouldre dudict plastre</m> &amp; <del><ill/></del> broye avecq
 le <tl><bp>doigt</bp></tl> jusques a ce <mark>+</mark></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>+</mark><lb/> 
 quil ne fasse plus<lb/>

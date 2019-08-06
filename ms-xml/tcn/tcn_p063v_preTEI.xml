@@ -1,11 +1,11 @@
-<root>
-<page>063v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="063v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f132.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f132.item</image>
 
-<div>
 
-<id>p063v_1</id>
+
+<div id="p063v_1">
+
+
 
 <head><m>Velours</m> et noirs</head>
 
@@ -33,9 +33,9 @@ un noir blanchastre. <del>P</del></ab>
 
 </div>
 
-<div>
+<div id="p063v_2">
 
-<id>p063v_2</id>
+
 
 <head>Armes</head>
 
@@ -45,9 +45,9 @@ pour faire armes.</ab>
 
 </div>
 
-<div>
+<div id="p063v_3">
 
-<id>p063v_3</id>
+
 
 <head><m>Scudegrun</m></head>
 
@@ -60,9 +60,9 @@ de la <m>ceruse</m>.</ab>
 
 </div>
 
-<div>
+<div id="p063v_4">
 
-<id>p063v_4</id>
+
 
 <head><m>Rosette</m></head>
 
@@ -73,9 +73,9 @@ son corps avecq <m>ceruse</m> &amp; <m>taincture de
 
 </div>
 
-<div>
+<div id="p063v_5">
 
-<id>p063v_5</id>
+
 
 <head>Pers de <pl>Flendres</pl></head>
 
@@ -87,9 +87,9 @@ avecq <m>florée</m>.</ab>
 
 </div>
 
-<div>
+<div id="p063v_6">
 
-<id>p063v_6</id>
+
 
 <head>Paysages de neiges</head>
 
@@ -99,9 +99,9 @@ avecq <m>florée</m>.</ab>
 
 </div>
 
-<div>
+<div id="p063v_7">
 
-<id>p063v_7</id>
+
 
 <head>Adoulcir</head>
 

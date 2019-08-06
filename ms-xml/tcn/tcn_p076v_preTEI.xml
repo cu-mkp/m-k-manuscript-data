@@ -1,11 +1,11 @@
-<root>
-<page>076v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="076v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f158.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f158.item</image>
 
-<div>
 
-<id>p076v_1</id>
+
+<div id="p076v_1">
+
+
 
 <head>Pour faire couleur d’or fort belle<lb/>
 
@@ -33,9 +33,9 @@ vous vouldrés, &amp; vous verrés une fort belle coulleur.</ab>
 
 </div>
 
-<div>
+<div id="p076v_2">
 
-<id>p076v_2</id>
+
 
 <head>Pour faire <m>goumiche</m> noyre </head>
 
@@ -51,9 +51,9 @@ puys le posés sur <m>boys</m>.</ab>
 
 </div>
 
-<div>
+<div id="p076v_3">
 
-<id>p076v_3</id>
+
 
 <head>Pour la blanche</head>
 
@@ -66,9 +66,9 @@ au<exp>ltr</exp>e chose.</ab>
 
 </div>
 
-<div>
+<div id="p076v_4">
 
-<id>p076v_4</id>
+
 
 <head>Pour dorer sur <m>fer</m> ou<lb/>
 

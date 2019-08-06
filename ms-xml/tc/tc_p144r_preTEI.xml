@@ -1,11 +1,11 @@
-<root>
-<page>144r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="144r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f293.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f293.image</image>
 
-<div>
 
-<id>p144r_1</id>
+
+<div id="p144r_1" continued="yes">
+
+
 
 <head><al>Tortues</al></head>
 
@@ -80,7 +80,7 @@ sont<lb/>
 creves et purulents Aultant en peulx tu faire a tous aultres<lb/>
 
 animalets avecq de la <m>graine de <pa>grand passevelours</pa></m> du
-<m><pa>petit</pa></m><comment>c_144r_01</comment> et la<lb/>
+<m><pa>petit</pa></m><comment rid="c_144r_01"/> et la<lb/>
 
 <m>graine de <pa>chou navette</pa></m> &amp; Ce faict tu disposeras les
 pates les<lb/>
@@ -103,9 +103,9 @@ dans la <tl>platine d<m>ardille</m></tl> pour les y adapter Ta
 
 </ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle" render="tall">
 
-<render>tall</render>
+
 
 Quand elles<lb/>
 
@@ -123,18 +123,14 @@ et manient<lb/>
 
 mieulx</ab>
 
-<figure><comment>c_144r_02</comment>
+<figure id="fig_p144r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5emg1MXZLREtSRk0">
 
-<margin>left-middle</margin>
 
-<id>fig_p144r_1</id>
+<comment rid="c_144r_02"/></figure>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5emg1MXZLREtSRk0</link>
 
-</figure>
+<ab margin="left-middle">
 
-<ab>
-<margin>left-middle</margin>
 <emph>
 
 yeulx<lb/>
@@ -147,17 +143,14 @@ invention</emph>
 
 </ab>
 
-<figure><comment>c_144r_03</comment>
+<figure id="fig_p144r_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ZkN6Y3ZTM1pKRG8">
 
-<margin>left-middle</margin>
 
-<id>fig_p144r_2</id>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5ZkN6Y3ZTM1pKRG8</link>
+<comment rid="c_144r_03"/>
 
 </figure>
 
-<cont/>
+
 
 </div>
 </root>

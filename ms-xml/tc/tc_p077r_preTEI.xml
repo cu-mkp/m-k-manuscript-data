@@ -1,11 +1,11 @@
-<root>
-<page>077r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="077r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f159.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f159.image</image>
 
-<div>
-<id>p077r_1</id>
-<head><comment>c_077r_02</comment><md>Contre les rougeurs du <bp>visage</bp></md></head>
+
+
+<div id="p077r_1">
+
+<head><comment rid="c_077r_02"/><md>Contre les rougeurs du <bp>visage</bp></md></head>
 
 <ab>Fais une petite coiffe de <m>plomb</m> &amp; la porte la
 <tmp>nuit</tmp> Excellent<lb/>
@@ -14,17 +14,17 @@ secret Essaye un masque de <m>plomb</m></ab>
 
 </div>
 
-<div>
-<id>p077r_2</id>
+<div id="p077r_2">
+
 <head>Medecine des <pl>orientaulx</pl> <md>contre<lb/>
 
 toutes maladies</md></head>
 
-<figure>
+<figure id="fig_p077r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ckxxXzJIeWhnMDg">
 
-<id>fig_p077r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5ckxxXzJIeWhnMDg</link>
+
+
 
 </figure>
 
@@ -45,8 +45,8 @@ malladies</md></ab>
 
 </div>
 
-<div>
-<id>p077r_3</id>
+<div id="p077r_3">
+
 <head><m>Terre graisse</m></head>
 
 <ab>Les <pro>fondeurs</pro> pour en faire les anses de leurs cloches sen
@@ -63,9 +63,9 @@ bien choisie &amp; doulce</ab>
 
 </div>
 
-<div>
-<id>p077r_4</id>
-<head><comment>c_077r_01</comment>Recepte pour faire <m>bronze</m> et
+<div id="p077r_4" continued="yes">
+
+<head><comment rid="c_077r_01"/>Recepte pour faire <m>bronze</m> et
 <m>vernys</m> de<lb/>
 
 plusieurs sortes</head>
@@ -84,7 +84,7 @@ une <ms>once</ms><lb/>
 de <m>betjoin</m> pillez entre deux <m>pappiers</m> ou <m>cartes</m> ou
 en ung <tl>mortier</tl></ab>
 
-<cont/>
+
 
 </div>
 </root>

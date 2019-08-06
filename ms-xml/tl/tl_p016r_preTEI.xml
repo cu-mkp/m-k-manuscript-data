@@ -1,10 +1,10 @@
-<root>
-<page>016r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="016r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f37.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f37.image</image>
 
-<div>
-<id>p016r_1</id>
+
+
+<div id="p016r_1" continued="yes">
+
 <head>Founding of <m>soft iron</m></head>
 
 <ab>Most <pro>people</pro> consider that <m>iron</m>, once melted,
@@ -20,40 +20,38 @@ manner which has a width of one <ms><fr>pan</fr> &amp; a half</ms> &amp;
 <del>one <ms><fr>pan</fr> &amp; a half </ms>of</del> a depth of two
 <ms><fr>pans</fr></ms>. And the <tl>blast-pipe</tl>, which is the barrel
 <del>through</del> marked A through which the <tl>bellows’ pipes</tl> enter, has
-to<comment>c_016r_01</comment> be placed in the middle of the height of the <tl>furnace</tl> such
+to<comment rid="c_016r_01"/> be placed in the middle of the height of the <tl>furnace</tl> such
 that there is one <ms><fr>pan</fr></ms> of the mouth of the
 <tl>furnace</tl> above the <tl>blast-pipe</tl> &amp; one
 <ms><fr>pan</fr></ms> underneath.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Each <ms><fr>pan</fr></ms> of the mouth of the <tl>square furnace</tl>
 contains <ms>one &amp; a half quintal</ms>, &amp; the
 <ms><fr>pan</fr></ms> of the <tl>round furnace</tl> holds two
 <ms>quintals</ms>.</ab>
 
-<div>
+<figure id="fig_p016r_1" margin="left-middle" render="wide" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aUw0eThJNEVTelk">
 
-<figure>
 
-<id>fig_p016r_1</id>
 
-<margin>left-middle</margin>
 
-<render>wide</render>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5aUw0eThJNEVTelk</link>
+
+
+
 
 </figure>
 
-<ab>
-<margin>right-middle</margin>
+<ab margin="right-middle">
+
 The <pro>miners</pro>, to make the <m>iron</m> run, put at the mouth of
 the melt, two or three <ms><bp>handfuls</bp></ms> of
 <m><pa>wallwort</pa></m> when they want to make the <m>melt</m> run, and
 this renders the <m>iron</m> wonderfully ductile and flowing.</ab>
 
-</div>
+
 
 <ab>It is also necessary that the <tl>blast-pipe</tl> enters through to the
 middle of the mouth of the <tl>furnace</tl>, which is a principal part of
@@ -80,9 +78,9 @@ to a point, up to the top of the wall
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 Some make a <tl>mold</tl> of the <tl>calibre</tl> of the piece, &amp; temper it,
 then beat a <m>soft iron</m> piece cut to size, &amp; when
 this piece is very red, they beat it into the <tl>mold</tl> &amp; round
@@ -90,7 +88,7 @@ it off with a <tl>large file</tl>, considering these balls to be
 stronger than the melted ones which, being brittle, are more subject to
 breaking.</ab>
 
-<cont/>
+
 
 </div>
 </root>

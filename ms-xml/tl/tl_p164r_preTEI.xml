@@ -1,11 +1,11 @@
-<root>
-<page>164r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="164r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f333.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f333.item</image>
 
-<div>
 
-<id>p164r_1</id>
+
+<div id="p164r_1">
+
+
 
 <head>Gate</head>
 
@@ -18,9 +18,9 @@ repair than the back, which is more visible &amp; more marked.</ab>
 
 </div>
 
-<div>
+<div id="p164r_2">
 
-<id>p164r_2</id>
+
 
 <head>Repairing flashing</head>
 
@@ -34,9 +34,9 @@ disturbed by the flashing.</ab>
 
 </div>
 
-<div>
+<div id="p164r_3">
 
-<id>p164r_3</id>
+
 
 <head><m>Leady silver</m></head>
 
@@ -48,7 +48,7 @@ edges of the <tl>crucible</tl> &amp; on the <m>charcoal</m> which
 covers it. It is also fat, and thus it is good to melt all <m>coined
 silver</m>, like <cn>reals</cn> &amp; others, &amp; to put it in ingots
 before melting it for casting <al>lizards</al> &amp; animals, for it
-comes out better. I molded some as neat as the principal,<comment>c_137r_03</comment> such as a
+comes out better. I molded some as neat as the principal,<comment rid="c_137r_03"/> such as a
 <al>little viper</al> of <m>silver</m>, and I made the alloy out of 4
 <m><ms><cn>reals</cn></ms></m>, of 20 <m><ms><cn>sous from
 <pl>Spain</pl></cn></ms></m>, &amp; a coin of xx
@@ -56,9 +56,9 @@ comes out better. I molded some as neat as the principal,<comment>c_137r_03</com
 
 </div>
 
-<div>
+<div id="p164r_4">
 
-<id>p164r_4</id>
+
 
 <head>Blowing</head>
 

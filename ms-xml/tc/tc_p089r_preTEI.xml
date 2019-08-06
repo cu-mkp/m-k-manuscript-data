@@ -1,10 +1,10 @@
-<root>
-<page>089r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="089r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f183.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f183.image</image>
 
-<div>
-<id>p089r_1</id>
+
+
+<div id="p089r_1">
+
 <head><m>Sable dos de <al>bœuf</al> brusle<lb/>
 
 et sal gemme</m></head>
@@ -30,7 +30,7 @@ gecter<lb/>
 fort tanvre fais quil soict plus chault Il est venu en <m>estain
 doulx</m> fort n<ups>et</ups><lb/>
 
-co<exp>mm</exp>e le principal<comment>c_137r_03</comment> Et ha soubstenu plusieurs gects Pour
+co<exp>mm</exp>e le principal<comment rid="c_137r_03"/> Et ha soubstenu plusieurs gects Pour
 l<m>estaim</m> je<lb/>
 
 croy quil nen fault point chercher de meilleur Ne pour le <m>plomb
@@ -52,8 +52,8 @@ il ne despouilleroit pas &amp; ne mouleroit pas net aussy car il
 sesmie</ab>
 
 </div>
-<div>
-<id>p089r_2</id>
+<div id="p089r_2">
+
 <head>Recuire ou essuyer<lb/>
 
 un <tl>chassis</tl> moule</head>
@@ -64,15 +64,15 @@ ensus<lb/>
 affin quil ny tumbe rien qui puisse empescher ta fusion</ab>
 
 </div>
-<div>
-<id>p089r_3</id>
+<div id="p089r_3">
+
 <head><m>Sable naturel</m></head>
 
 <ab>Il ne veult pas estre recuict pour le <m>plomb</m> et
 <m>estaim</m><lb/>
 
 <del>m</del> et est meilleur tout neuf &amp;
-frais<comment>c_089r_01</comment></ab>
+frais<comment rid="c_089r_01"/></ab>
 
 </div>
 </root>

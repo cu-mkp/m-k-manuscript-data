@@ -1,13 +1,13 @@
-<root>
-<page>091v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="091v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f188.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f188.image</image>
 
-<div>
 
-<cont/>
 
-<id>p091r_2</id>
+<div continues="yes" id="p091r_2">
+
+
+
+
 
 <ab>co<exp>mm</exp>e les deulx <tl><m>os</m></tl> sont joincts,
 <del>co</del> couppe les tout aultour bien uniment<lb/>
@@ -80,7 +80,7 @@ medaille, co<exp>mm</exp>e au droit des testes, car cela attire le<lb/>
 
 <tl>chassis</tl> quand tu as gecté, et ainsy tu feras fort net<lb/>
 
-plusieurs gects. L’<m>estain</m> trop chault <del>p</del>brusle
+plusieurs gects. L’<m>estain</m> trop chault <del>p</del>brusle<comment rid="c_091v_01"/>
 l’<tl><m>os</m></tl>, qui<lb/>
 
 se corrompt. Estant aussy retiré <del>du mo</del> chault du
@@ -88,11 +88,11 @@ se corrompt. Estant aussy retiré <del>du mo</del> chault du
 
 il est dangereulx à rompre.<lb/>
 
-<figure>
+<figure id="fig_p091v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Q2hHbzNsX1JlYUU">
 
-<id>fig_p091v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Q2hHbzNsX1JlYUU</link>
+
+
 
 </figure>
 

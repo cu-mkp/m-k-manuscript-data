@@ -1,19 +1,19 @@
-<root>
-<page>070r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="070r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f145.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f145.image</image>
 
-<div>
 
-<cont/>
 
-<id>p069r_2</id>
+<div continues="yes" id="p069r_2" continued="yes">
+
+
+
+
 
 <ab>Quand tu as moule il est bon de recuire ta forme sur la<lb/>
 
 fumee de la matiere que tu fonds pourceque le gect sempraint<lb/>
 
-de la qualite d<del>e</del><add>u</add> <m>metal</m> qui court apres
+de la qualite d<del>e</del>u<comment rid="c_070r_03"/> <m>metal</m> qui court apres
 plus ayseme<exp>nt</exp> en chose<lb/>
 
 qui tient de luy</ab>
@@ -44,8 +44,8 @@ que<lb/>
 <m>ceulx de pied de <al>bœuf</al></m></ab>
 
 <ab>L<m>huile</m> &amp; le <m>suif</m> fort
-fort<comment>c_070r_01</comment> soufler &amp; le <m>verre <tl>pile</tl></m>
-&amp; le <m>cuivre</m> seul<comment>c_070r_02</comment></ab>
+fort<comment rid="c_070r_01"/> soufler &amp; le <m>verre <tl>pile</tl></m>
+&amp; le <m>cuivre</m> seul<comment rid="c_070r_02"/></ab>
 
 <ab>La <m>terre cendree</m> moule fort net</ab>
 
@@ -65,7 +65,7 @@ quil<lb/>
 
 soict gecte fort chault</ab>
 
-    <ab>Le <m>cuivre</m> vient bien mesle dun peu de <m>metal</m><comment>c_016v_05</comment> Mays si tu
+    <ab>Le <m>cuivre</m> vient bien mesle dun peu de <m>metal</m><comment rid="c_016v_05"/> Mays si tu
 mesles<lb/>
 
 du <m>metal</m> parmy le <m>laicton</m> il sera encores plus aigre &amp;
@@ -87,8 +87,8 @@ double</tl> &amp;<lb/>
 
 subtil &amp; on en moule </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Le <m>cuivre</m> ou <m>letton</m><lb/>
 
 ne peult pas venir<lb/>
@@ -103,8 +103,8 @@ ne la donne luy<lb/>
 
 en avecq de la <m>cire</m></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Aulcuns gectent<lb/>
 
 par un trou<lb/>
@@ -115,8 +115,8 @@ du revers de la<lb/>
 
 medaille</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Aulcuns<lb/>
 
 voulant<lb/>
@@ -145,8 +145,8 @@ reparer<lb/>
 
 louvraige</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
+
 On mect bien<lb/>
 
 du <m>plomb</m> parmy<lb/>
@@ -169,7 +169,7 @@ aultour de<lb/>
 
 louvraige</ab>
 
-<cont/>
+
 
 </div>
 </root>

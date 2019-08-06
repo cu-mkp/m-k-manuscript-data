@@ -1,13 +1,13 @@
-<root>
-<page>013v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="013v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f32.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f32.image</image>
 
-<div>
 
-<cont/>
 
-<id>p013r_4</id>
+<div continues="yes" id="p013r_4">
+
+
+
+
 
 <ab>
 
@@ -15,11 +15,11 @@ passing through so well. But choose for that effect <m>yellow raw &amp;
 natural silk</m> because it is stronger &amp; casts out <m>flour</m>
 like <m><al>horse</al>hair</m>.</ab></div>
 
-<div>
+<div id="p013v_1">
 
-<id>p013v_1</id>
 
-<head>For knowing the good <m><fr>cendrée</fr><comment>c_013v_04</comment> of azure</m> for <m>oil</m></head>
+
+<head>For knowing the good <m><fr>cendrée</fr><comment rid="c_013v_04"/> of azure</m> for <m>oil</m></head>
 
 <ab>The one that accumulates in small <corr>clods</corr> and is lumpy is
 the best because it is the most subtle. Also the one that is very
@@ -34,9 +34,9 @@ unmixed it will be even &amp; of one color.
 
 </div>
 
-<div>
+<div id="p013v_2">
 
-<id>p013v_2</id>
+
 
 <head>Whitening of <m>pearls</m></head>
 
@@ -47,9 +47,9 @@ greasy &amp; are cleaned in <m>soap water</m>.
 
 </div>
 
-<div>
+<div id="p013v_3">
 
-<id>p013v_3</id>
+
 
 <head><md><m>Toadstone</m></md></head>
 
@@ -63,29 +63,29 @@ will be neither able to move, nor speak, nor thwart <pro>thieves</pro></md>.
 
 </div>
 
-<div>
+<div id="p013v_4">
 
-<id>p013v_4</id>
+
 
 <head><al>Snakes</al></head>
 
 <ab>It is said that if one calls a <al>snake</al> in Greek, saying
-<el>ΟΦΗ ΟΦΗ</el>,<comment>c_013v_02</comment> it will flee. Likewise, if one <del><fr>nom</fr></del>
-calls a <al>swine</al> in Greek, <del><fr>y</fr></del> <el>ïon</el>,<comment>c_013v_01</comment> it
+<el>ΟΦΗ ΟΦΗ</el>,<comment rid="c_013v_02"/> it will flee. Likewise, if one <del><fr>nom</fr></del>
+calls a <al>swine</al> in Greek, <del><fr>y</fr></del> <el>ïon</el>,<comment rid="c_013v_01"/> it
 will come.
 
 </ab>
 
 </div>
 
-<div>
+<div id="p013v_5">
 
-<id>p013v_5</id>
+
 
 <head><tl>Candles</tl></head>
 
 <ab><pro>Candlemakers</pro> never make good <tl>candle</tl> when the
-<env><oc>Autan</oc> wind</env><comment>c_013v_03</comment> blows because the candle always tends to melt, however
+<env><oc>Autan</oc> wind</env><comment rid="c_013v_03"/> blows because the candle always tends to melt, however
 good the <m>tallow</m> they use for it.
 
 </ab>

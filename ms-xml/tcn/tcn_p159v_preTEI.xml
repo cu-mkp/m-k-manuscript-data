@@ -1,10 +1,10 @@
-<root>
-<page>159v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="159v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f324.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f324.item.r=</image>
 
-<div>
-<id>p159v_1</id>
+
+
+<div id="p159v_1">
+
 <head>Nettoyer limes</head>
 
 <ab>Quelques fois elles s’engraissent &amp; par le moyen de la<lb/>
@@ -20,8 +20,8 @@ de laitton</m></tl>.</ab>
 
 </div>
 
-<div>
-<id>p159v_2</id>
+<div id="p159v_2">
+
 <head><pa>Œillet</pa></head>
 
 <ab>
@@ -43,20 +43,20 @@ gecté un qui est fort bien venu. Mays il fault le <m>sable fort<lb/>
 
 cler</m> &amp; soufler fort.</ab>
 
-<figure>
+<figure id="fig_p159v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5LXNkdWdBLXZ1RVk">
 
-<id>fig_p159v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5LXNkdWdBLXZ1RVk</link>
+
+
+
 
 </figure>
 
 </div>
 
-<div>
-<id>p159v_3</id>
+<div id="p159v_3">
+
 <head><tl>Moules</tl></head>
 
 <ab>
@@ -80,8 +80,8 @@ sans gecter, car ilz se rendent relants &amp; humides, &amp; le<lb/>
 
 <tl>moule</tl> se deffaict &amp; perd sa force.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 La partye où est<lb/>
 
@@ -91,8 +91,8 @@ est co<exp>mm</exp>unem<exp>ent</exp> plus espés.</ab>
 
 </div>
 
-<div>
-<id>p159v_4</id>
+<div id="p159v_4">
+
 <head><m>Plastre</m> seul</head>
 
 <ab>Le <m>plastre recuit en pierre</m> <del>craint</del> se deffaict en
@@ -134,8 +134,8 @@ mays<lb/>
 s’il refuse de s’ouvrir, en <m>eau chaulde</m> &amp; quelque fois en
 <m>eau bouilla<exp>n</exp>te</m>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Quelque fois il<lb/>
 
 fault mesme faire<lb/>
@@ -152,8 +152,8 @@ que tu craignes n’estre<lb/>
 
 pas bien en despouille.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 L’<m>eau froide</m> faict<lb/>
 

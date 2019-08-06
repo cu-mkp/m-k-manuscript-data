@@ -1,10 +1,10 @@
-<root>
-<page>067v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="067v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f140.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f140.image</image>
 
-<div>
-<id>p067v_1</id>
+
+
+<div id="p067v_1">
+
 <head><tl>Limes</tl></head>
 
 <ab>Si elles ne sont trempees a pacquet cest en la facon<lb/>
@@ -36,8 +36,8 @@ tost inutilles Le <m>laicton</m> qui est plus aigre recoit les<lb/>
 
 </div>
 
-<div>
-<id>p067v_2</id>
+<div id="p067v_2">
+
 <head><m>Os de pied de <al>beuf</al> pour<lb/>
 
 <m>sable</m></m></head>
@@ -59,8 +59,8 @@ seicher bien a laise Apres fortifie les couches<lb/>
 suivantes de <m>bourre</m> meslee avecq ledict <m>sable dos</m>
 destrempe</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 <ups>C</ups>est le <m>sable le<lb/>
 
@@ -72,11 +72,11 @@ destrempe</ab>
 
 </div>
 
-<div>
-<id>p067v_3</id>
+<div id="p067v_3">
+
 <head><m>Huiles dessence</m></head>
 
-<ab>L<m>huile <add>de <pa>noix</pa></add></m><comment>c_067v_01</comment>
+<ab>L<m>huile <add>de <pa>noix</pa></add></m><comment rid="c_067v_01"/>
 meslee avecq aultant de <m>tormentine</m> &amp; distillee<lb/>
 
 par l<tl>alembic</tl> rend une essence plus blanche que l<m>eau<lb/>

@@ -1,13 +1,13 @@
-<root>
-<page>134v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="134v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f274.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f274.image</image>
 
-<div>
 
-<id>p134v_1</id>
 
-<head>For making <m><mark><m>☀</m></mark></m> run</head>
+<div id="p134v_1">
+
+
+
+<head>For making <m><mark>☀</mark></m> run</head>
 
 <ab>
 
@@ -23,15 +23,15 @@ vinegar</m> until it is fine, like a <m><fr>couleur</fr></m> and
 you have time, or in the fire <del><fr>lent</fr></del> of the
 <tl>forge</tl>, &amp; make sure it is well dry.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 Grind</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 <emph><del><al>spider</al></del></emph></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 One of the principal things for the cast is to cast very
 <del><fr>gec</fr></del> hot, <del><fr>s</fr></del> especially the great
@@ -39,9 +39,9 @@ One of the principal things for the cast is to cast very
 
 </div>
 
-<div>
+<div id="p134v_2">
 
-<id>p134v_2</id>
+
 
 <head>
 
@@ -53,18 +53,18 @@ One needs not only to <tl>clamp</tl> the <tl>molds</tl> well, but to
 fortify them with good bindings of <tl><m>iron wire</m></tl> or <tl>little
 bands</tl> made for this.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Before casting in <m>gold</m>, clean your <tl>forge</tl> well of
 <m>lead</m> &amp; <m>tin</m>.</ab>
 
 </div>
 
-<div>
+<div id="p134v_3">
 
-<id>p134v_3</id>
+
 
 <head>Secret for <m>soldering</m> <m>gold</m> and <m>silver</m> in
 small works</head>

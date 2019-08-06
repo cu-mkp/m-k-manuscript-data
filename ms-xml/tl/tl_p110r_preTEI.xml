@@ -1,10 +1,10 @@
-<root>
-<page>110r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="110r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f225.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f225.image</image>
 
-<div>
-<id>p110r_1</id>
+
+
+<div id="p110r_1">
+
 <head>Molding</head>
 
 <ab>You could mold the thing <add>and animal</add> already cast, but it
@@ -13,8 +13,8 @@ four or five molds.</ab>
 
 </div>
 
-<div>
-<id>p110r_2</id>
+<div id="p110r_2">
+
 <head><m>Rock</m> &amp; <env>grotto</env></head>
 
 <ab>One needs to <tl>pestle</tl> <m>white &amp; yellow marcasites</m> &amp;
@@ -28,8 +28,8 @@ if your <del><fr>grasse</fr></del> <env>grotto</env> is
 
 </div>
 
-<div>
-<id>p110r_3</id>
+<div id="p110r_3" continued="yes">
+
 <head><al>Snakes</al></head>
 
 <ab>When they feel taken, they hardly bite, &amp; do not have the power
@@ -46,7 +46,7 @@ was no trick to it, other than, when taking it, he would pull it, a
 little pressed &amp; held tightly by the neck, &amp; passing it under a
 shoe, he would flatten it in such a way that it would render
 <del><fr>soubs</fr></del> from its bottom, which is five to six
-<ms><bp>fingers</bp></ms> from the end of its tail, all nasty and
+<ms><bp><corr>fingers</corr></bp></ms> from the end of its tail, all nasty and
 venomous things that it had in its belly, and that after this, it does
 not have the strength to bite, and if by chance it should bite or expel
 through its bottom some <m>filth</m>, he would only dig the
@@ -56,14 +56,14 @@ applied fresh <del><fr>en</fr></del> on the <md>infected part</md>,
 pulls out all the venom, and nothing else. It is the same with
 <al>toad</al>’s venom, that I have seen experimented. </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 In three, it is almost as thin as it will be afterward if it does not eat.
 Molding it very soon after it is caught is best, before it becomes thin. One
-ought to kill it only a <ms><tmp>quarter hour</tmp></ms> before you want
+ought to put it to death only a <ms><tmp>quarter hour</tmp></ms> before you want
 to mold.</ab>
 
-<cont/>
+
 
 </div>
 </root>

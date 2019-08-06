@@ -1,10 +1,10 @@
-<root>
-<page>098r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="098r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f201.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f201.image</image>
 
-<div>
-<id>p098r_1</id>
+
+
+<div id="p098r_1">
+
 <head><m>Vernis</m> pour les luts</head>
 
 <ab>Ils prenent un peu de <m>tormentine</m> &amp; <m>huile de tormentine
@@ -20,8 +20,8 @@ rougeastre, et aultres de la <m>terra merita</m> pour jaulne.</ab>
 
 </div>
 
-<div>
-<id>p098r_2</id>
+<div id="p098r_2">
+
 <head>Bords de <env>jardin</env></head>
 
 <ab>Il fault labourer la terre, puys la subtilier avec le
@@ -46,8 +46,8 @@ le pied.</ab>
 
 </div>
 
-<div>
-<id>p098r_3</id>
+<div id="p098r_3">
+
 <head><pro>Sarrurier</pro></head>
 
 <ab>Pour bien <m>estamer</m> des cloux et aultre ouvrage, ils

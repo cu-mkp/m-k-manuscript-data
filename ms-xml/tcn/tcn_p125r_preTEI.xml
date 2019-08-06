@@ -1,16 +1,16 @@
-<root>
-<page>125r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="125r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f255.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f255.item.r=</image>
 
-<div>
 
-<cont/>
 
-<id>p124v_3</id>
+<div continues="yes" id="p124v_3">
 
-<ab>
-<margin>left-middle</margin>
+
+
+
+
+<ab margin="left-middle">
+
 <mark>🝋</mark>des petits rouleaulx, tu fais tes gects et souspirails sans danger
 d’escrouster &amp; enlever<lb/>
 
@@ -40,17 +40,17 @@ empesche le cours.<lb/>
 
 Tu le peulx diviser aussy en deulx ou troys branches ainsy:
 
-<figure>
+<figure id="fig_p125r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bDlqQzJZemktSFk">
 
-<id>fig_p125r_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5bDlqQzJZemktSFk</link>
 
-</figure> quand il aproche<comment>c_125r_01</comment><lb/>
+
+
+</figure> quand il aproche<comment rid="c_125r_01"/><lb/>
 
 de la chose moulée, et fais tousjours des trous dans le gect.</ab>
 
-<ab><hr/>&amp; de<comment>c_125r_02</comment> ses conduicts &amp; abrevouers,
+<ab><hr/>&amp; de<comment rid="c_125r_02"/> ses conduicts &amp; abrevouers,
 tu y peulx mectre aussy de<lb/>
 
 petits fils de <m>cire</m> qui se raportent au corps, affin que<lb/>
@@ -64,8 +64,8 @@ ton gect &amp; tes souspirails sans gaster aulcune chose.<hr/></ab>
 
 </div>
 
-<div>
-<id>p125r_1</id>
+<div id="p125r_1">
+
 <head><m>Plastre</m></head>
 
 <ab>Quand tu <del>v</del> moules quelque chose pour y gecter de la<lb/>
@@ -96,9 +96,9 @@ destrempes bien clair<lb/>
 
 bien tost aprés qu’il ha esté recuit.</ab>
 
-<ab>
-<margin>left-middle</margin>
-<render>tall</render>
+<ab margin="left-middle" render="tall">
+
+
 <mark>+</mark><lb/>
 Si tu moules de<lb/>
 
@@ -180,11 +180,11 @@ despouillent.</ab>
 
 </div>
 
-<div>
-<id>p125r_2</id>
+<div id="p125r_2">
+
 <head>Symeterres</head>
 
-<ab><hr/><emph>A sçavoir</emph><comment>c_125r_04</comment><hr/></ab>
+<ab><hr/><emph>A sçavoir</emph><comment rid="c_125r_04"/><hr/></ab>
 
 <ab>Les <pro>ouvriers</pro> de <pl>Damas</pl> ou d’<pl>Hongrie</pl>,
 voisins des <pl>Turcs</pl>,<lb/>
@@ -211,8 +211,8 @@ qui entre dans le manche qu’il est gecté en <m>sable</m>.</ab>
 
 </div>
 
-<div>
-<id>p125r_3</id>
+<div id="p125r_3">
+
 <head><sn>Ouyr</sn> de loing</head>
 
 <ab>Fais un petit trou en terre, &amp; y pose <tmp>de nuict ou en temps
@@ -224,7 +224,7 @@ silence</tmp> l’<bp>oreille</bp> justem<exp>ent</exp>, &amp; tu
 </div>
 
 <div>
-<ab><emph>Secret</emph><comment>c_125r_05</comment></ab>
+<ab><emph>Secret</emph><comment rid="c_125r_05"/></ab>
 
 </div>
 </root>

@@ -1,13 +1,13 @@
-<root>
-<page>085r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="085r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f175.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f175.image</image>
 
-<div>
 
-<cont/>
 
-<id>p084v_4</id>
+<div continues="yes" id="p084v_4">
+
+
+
+
 
 <ab>reposer sur un <tl>table bien nette &amp; unie</tl> &amp;
 co<exp>mm</exp>e elle est desiccative<lb/>
@@ -56,7 +56,7 @@ humectes de quelque <m>eau</m> qui leur donne corps &amp; compaction
 Co<exp>mm</exp>e la<lb/>
 
 <m>glaire</m> <m>eau gommee</m> <del>ea</del> <m>vin</m> bouilly avecq
-<m>racine d<pa>orme</pa></m> &amp;c Et <m>huil<ups>er</ups></m><lb/>
+<m>racine d<pa>orme</pa></m> &amp; Et <m>huil<ups>er</ups></m><lb/>
 legerem<exp>ent</exp> la medaille Il soubstient tant de gects que
 tu<lb/>
 
@@ -88,8 +88,8 @@ le <m>metal</m>
 <hr/>
 </ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Essaye de<lb/>
 
 mesler la<lb/>
@@ -100,16 +100,16 @@ avecq les aultres<lb/>
 
 <m>sables</m></ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 <mark>X</mark>
 
 </ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 <m>Huile</m> &amp; oingts<lb/>
 
 d<m>huile d<pa>aspic</pa></m> qui <lb/>
@@ -120,8 +120,8 @@ car l<m>huile</m> faict<lb/>
 
 soufler</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Il fault fort<lb/>
 
 mouiller avecq la <lb/>
@@ -144,8 +144,8 @@ faict mieulx mouler<lb/>
 
 et mieulx despouiller</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Il seroit bon de<lb/>
 
 remplir les <tl>chassis</tl><lb/>
@@ -164,8 +164,8 @@ dont tu remplis le<lb/>
 
 </div>
 
-<div>
-<id>p085r_1</id>
+<div id="p085r_1">
+
 <head><m>Vernis vert</m> pour les medailles de <m>cuivre</m></head>
 
 <ab>Les ayant gectees bien nettes couvre les de <m>sel de verre</m><lb/>
@@ -178,8 +178,8 @@ il sera vert <m>huile</m> les apres &amp; les tiens soubs le
 
 </div>
 
-<div>
-<id>p085r_2</id>
+<div id="p085r_2">
+
 <head><m>Colle</m></head>
 
 <ab>Les <pl>flamens</pl> recollent leurs <tl>pots de <m>terre</m></tl>

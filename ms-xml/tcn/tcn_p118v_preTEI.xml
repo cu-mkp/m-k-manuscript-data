@@ -1,10 +1,10 @@
-<root>
-<page>118v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="118v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f242.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f242.item</image>
 
-<div>
-<id>p118v_1</id>
+
+
+<div id="p118v_1" continued="yes">
+
 
 <head>Gect en <tl>chassis</tl></head>
 
@@ -115,7 +115,7 @@ fortuit, pour estre trop humectés, il se fendent, c’est au dos, qui<lb/>
 <del>pr</del> prend plus aprement le fœu, &amp; l’empraincte demeure
 sauve &amp; entier<corr>e</corr>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Pour mieulx, il fault recuire le<lb/>
 
@@ -130,10 +130,10 @@ jusques à ce qu’il ne se<lb/>
 retire plus.</ab>
 
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 <emph><m>Excellent sable</m></emph></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 Ayes un peu du<lb/>
 
 mesme <m>sable</m>, le plus<lb/>
@@ -142,14 +142,14 @@ subtil que tu pourras,<lb/>
 
 pour en couvrir la<lb/>
 
-medaille.<comment>c_118v_01</comment>
+medaille.<comment rid="c_118v_01"/>
 
 <hr/>
 
 </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Pour medailles &amp;<lb/>
 
 choses plattes, la vraye<lb/>
@@ -158,8 +158,8 @@ chaleur du <m>plomb</m> &amp; <m>estain</m>,<lb/>
 
 c’est quand il est fondu doulcem<corr><exp>ent</exp></corr>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Note que j’ay emply le<lb/>
 
 <tl>chassis</tl> plustost que<lb/>
@@ -186,8 +186,8 @@ il n’en tiendra que plus<lb/>
 
 ferme.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Fais le gect qui ne soict<lb/>
 
 pas trop espés pour<lb/>
@@ -206,22 +206,22 @@ N’oublie pas<lb/>
 
 les souspirals.</ab>
 
-<ab>
+<ab margin="left-middle">
         
-<margin>left-middle</margin>
+
         
-<figure>
+<figure id="fig_p118v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Rm5qaUJCNWVFWlk">
             
-<id>fig_p118v_1</id>
+
             
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Rm5qaUJCNWVFWlk</link>
+
             
 </figure>
         
 </ab>
     
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Desseicher les <tl>chassis</tl>,<lb/>
 
 c’est les priver d’humidité,<lb/>
@@ -232,13 +232,13 @@ estants neantmoings<lb/>
 
 bien chaults.</ab>
 
-<ab>
-<margin>left-bottom</margin>
-<render>wide</render>
+<ab margin="left-bottom" render="wide">
+
+
 <df>Recuire</df> est rougir le <tl>chassis</tl>, ce qui se faict pour
 l’<m>or</m> &amp; pour l’<m>argent</m>.</ab>
 
-<cont/>
+
 
 </div>
 </root>

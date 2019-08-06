@@ -1,11 +1,11 @@
-<root>
-<page>159r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="159r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f323.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f323.item.r=</image>
 
-<div>
 
-<id>p159r_1</id>
+
+<div id="p159r_1">
+
+
 
 <head>Portraicts de <m>cire</m></head>
 
@@ -47,9 +47,9 @@ plus ferme &amp; plus blanc.</ab>
 
 </div>
 
-<div>
+<div id="p159r_2">
 
-<id>p159r_2</id>
+
 
 <head><tl>Ciseler</tl></head>
 
@@ -63,9 +63,9 @@ une piece raportée.</ab>
 
 </div>
 
-<div>
+<div id="p159r_3">
 
-<id>p159r_3</id>
+
 
 <head><m>Colle de <al>poisson</al></m></head>
 
@@ -98,9 +98,9 @@ d’<m>argent</m>, d’<m>estain</m><lb/>
 
 </div>
 
-<div>
+<div id="p159r_4">
 
-<id>p159r_4</id>
+
 
 <head><m>Estaim</m> et <m>plomb</m></head>
 

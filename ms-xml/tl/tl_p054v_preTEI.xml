@@ -1,17 +1,17 @@
-<root>
-<page>054v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="054v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f114.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f114.image</image>
 
-<div>
 
-<id>p054v_1</id>
+
+<div id="p054v_1">
+
+
 <head><sup>On dry preserves</sup></head>
-<figure>
+<figure id="fig_p054v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5N1FlRklFdzIxUzQ">
 
-<id>fig_p054v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5N1FlRklFdzIxUzQ</link>
+
+
 
 </figure>
 
@@ -26,9 +26,9 @@ preserves. And having put at the bottom of the <tl>tub</tl> a
 
 </div>
 
-<div>
+<div id="p054v_2">
 
-<id>p054v_2</id>
+
 
 <head>For making a <al>horse</al> follow</head>
 
@@ -41,9 +41,9 @@ will know the one who will do him such good.</ab>
 
 </div>
 
-<div>
+<div id="p054v_3">
 
-<id>p054v_3</id>
+
 
 <head><al>Dogs</al></head>
 
@@ -55,9 +55,9 @@ to hurt you.</ab>
 
 </div>
 
-<div>
+<div id="p054v_4">
 
-<id>p054v_4</id>
+
 
 <head>For disguising a <al>horse</al></head>
 
@@ -66,9 +66,9 @@ the hair on its head &amp; elsewhere.</ab>
 
 </div>
 
-<div>
+<div id="p054v_5">
 
-<id>p054v_5</id>
+
 
 <head>Boots of <m>hay</m></head>
 

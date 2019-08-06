@@ -1,11 +1,11 @@
-<root>
-<page>064r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="064r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f133.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f133.image</image>
 
-<div>
 
-<id>p064r_1</id>
+
+<div id="p064r_1">
+
+
 
 <head>Nettement travailler</head>
 
@@ -35,9 +35,9 @@ couleurs, ne se trouvant pas si espesses.</ab>
 
 </div>
 
-<div>
+<div id="p064r_2">
 
-<id>p064r_2</id>
+
 
 <head><m>Huile gras</m></head>
 
@@ -53,9 +53,9 @@ pourras<lb/>
 
 </div>
 
-<div>
+<div id="p064r_3">
 
-<id>p064r_3</id>
+
 
 <head><m>Vermeillon</m></head>
 
@@ -80,9 +80,9 @@ du <m>cristallin calciné</m>.</ab>
 
 </div>
 
-<div>
+<div id="p064r_4">
 
-<id>p064r_4</id>
+
 
 <head>Couleurs à <m>huile</m> dans l’<m>eau</m></head>
 
@@ -102,9 +102,9 @@ y meurt &amp; perd sa couleur, le <m>vermeillon</m>, <m>azur</m> aussy.</ab>
 
 </div>
 
-<div>
+<div id="p064r_5">
 
-<id>p064r_5</id>
+
 
 <head>Double couche</head>
 
@@ -121,11 +121,11 @@ quand elles sont seiches.</ab>
 
 </div>
 
-<div>
+<div id="p064r_6" margin="left-top">
 
-<id>p064r_6</id>
 
-<margin>left-top</margin>
+
+
 
 <head><m>Ocre<lb/>
 
@@ -139,11 +139,11 @@ carnation.</ab>
 
 </div>
 
-<div>
+<div id="p064r_7" margin="left-middle">
 
-<id>p064r_7</id>
 
-<margin>left-middle</margin>
+
+
 
 <head>Adoulcir</head>
 
@@ -169,11 +169,11 @@ plus rude.</ab>
 
 </div>
 
-<div>
+<div id="p064r_8" margin="left-bottom">
 
-<id>p064r_8</id>
 
-<margin>left-bottom</margin>
+
+
 
 <head>Œil</head>
 

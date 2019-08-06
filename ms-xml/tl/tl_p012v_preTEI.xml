@@ -1,11 +1,11 @@
-<root>
-<page>012v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="012v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f30.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f30.image</image>
 
-<div>
 
-<id>p012v_1</id>
+
+<div id="p012v_1">
+
+
 
 <head>Molding <m>stucco</m> promptly</head>
 
@@ -15,32 +15,32 @@ bole</m> or <m>sanguine</m> &amp; incorporate it with <m>melted wax</m>,
 &amp; thus you will have a hollow form where you will be able to cast with
 <m>plaster</m>, <m><tl>pestled</tl> paper</m>, or <m><fr>terre chimolée</fr></m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Finely sieved <m>brick</m> is better, because the <m>bole</m> is too
 fat.</ab>
 
 </div>
 
-<div>
+<div id="p012v_2">
 
-<id>p012v_2</id>
+
 
 <head>Cleaning <m>yellow pearls</m></head>
 
-<ab>Gently boil them in the <tl><pro>goldsmiths’</pro> <fr>bouteure</fr></tl><comment>c_104r_01</comment> then, with <tl><m>tripoli</m></tl> &amp; a piece of
+<ab>Gently boil them in the <tl><pro>goldsmiths’</pro> <fr>bouteure</fr></tl><comment rid="c_104r_01"/> then, with <tl><m>tripoli</m></tl> &amp; a piece of
 <tl><m>leather</m></tl>, sprinkled on the flesh side with the <tl><m>powder of the
 said tripoli</m></tl>, rub &amp; polish the <m>pearl</m>.</ab>
 
 </div>
 
-<div>
+<div id="p012v_3" continued="yes">
 
-<id>p012v_3</id>
 
-<head>For whitening <m>enilanroc</m><comment>c_012v_02</comment></head>
+
+<head>For whitening <m>enilanroc</m><comment rid="c_012v_02"/></head>
 
 <ab>Some think that the <m>ceruse</m>-colored crust which is on top
 is natural, others say that it is a secret of <pro>ancient lapidaries</pro>
@@ -66,7 +66,7 @@ bringing it on <del>the</del> a table of
 
 </ab>
 
-<cont/>
+
 
 </div>
 </root>

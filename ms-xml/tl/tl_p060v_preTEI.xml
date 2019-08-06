@@ -1,11 +1,11 @@
-<root>
-<page>060v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="060v" image="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f126.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f126.item</image>
 
-<div>
 
-<id>p060v_1</id>
+
+<div id="p060v_1">
+
+
 
 <head><m>Varnish</m> dry in an <ms><tmp>hour</tmp></ms></head>
 
@@ -19,9 +19,9 @@ need to put in <m>turpentine</m>, but only its <m>white turpentine
 oil</m> &amp; <m>mastic pulverized</m> at your discretion, until it has
 enough body. <mark>+</mark></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>+</mark>
 
@@ -32,24 +32,24 @@ within an <ms><tmp>hour</tmp></ms> and does not stick like the
 
 </div>
 
-<div>
+<div id="p060v_2">
 
-<id>p060v_2</id>
+
 
 <head>Cleaning panels</head>
 
 <ab>Some clean them with <m>soapy water</m>, others with <m><bp>urine</bp></m>,
 others with <m>white wine</m>, for dust spoils the colors.</ab></div>
 
-<div>
+<div id="p060v_3">
 
-<id>p060v_3</id>
-<head><margin>left-top</margin><m><pa>Spike lavender</pa> oil</m></head>
-<ab><margin>left-top</margin>
 
-<render>tall</render>
+<head><m><pa>Spike lavender</pa> oil</m></head>
+<ab margin="left-top" render="tall">
 
-One ought not to not put any into colors for it is so brisk and
+
+
+One ought not to put any into colors for it is so brisk and
 penetrating that it makes the colors flake, which next come off. And for
 this reason, <pro>painters</pro> use it to clean their <tl>oil
 paintbrush</tl> when they have become hard, for it renders them
@@ -62,9 +62,9 @@ penetrates as far as the <m>wood</m> &amp; makes the colors come off such
 that, to make the work even &amp; of an equal composition, they are
 forced to do everything again and thus lose their work.</ab></div>
 
-<div>
+<div id="p060v_4">
 
-<id>p060v_4</id>
+
 
 <head><m>Wood</m> color</head>
 
@@ -73,9 +73,9 @@ forced to do everything again and thus lose their work.</ab></div>
 One gives a layer of <m>bistre</m>, then a coat of
 <m>varnish</m>.</ab></div>
 
-<div>
+<div id="p060v_5" continued="yes">
 
-<id>p060v_5</id>
+
 
 <head>Work of the <pl>Flemish</pl></head>
 
@@ -95,7 +95,7 @@ yellowish &amp; the other darker, because the colors always mix &amp;
 finally die. They simply <del><ill/></del> make their imprimatura
 <corr>properly</corr>,</ab>
 
-<cont/>
+
 
 </div>
 </root>

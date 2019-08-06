@@ -1,13 +1,13 @@
-<root>
-<page>005r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="005r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f15.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f15.image</image>
 
-<div>
 
-<cont/>
 
-<id>p004v_3</id>
+<div continues="yes" id="p004v_3">
+
+
+
+
 
 <ab>or <m><pa>linen</pa></m> &amp; leave it thus for xx4
 <ms><tmp>hours</tmp></ms> &amp; it will be etched. But if you should
@@ -16,8 +16,8 @@ aforesaid liquor, &amp; it will promptly etch.</ab>
 
 </div>
 
-<div>
-<id>p005r_1</id>
+<div id="p005r_1">
+
 <head><m>Steel</m> mirrors</head>
 
 <ab>They are called of <m>steel</m> because in times
@@ -28,7 +28,7 @@ with <df><m><fr>cuivre franc</fr></m></df>, which is <m>rosette</m>, &amp;
 round, concave, convex &amp; however one likes, to produce various
 forms.</ab>
     
-<ab><margin>left-middle</margin><mark>+</mark></ab>
+<ab margin="left-middle"><mark>+</mark></ab>
 
 <ab>So take <ms>half</ms> <m>rosette copper</m> &amp; <ms>half</ms>
 <m>soft tin</m>, that is to say <df>fine, which has not yet been used</df>.
@@ -55,8 +55,8 @@ dry. Once polished, you can set it.</ab>
 
 </div>
 
-<div>
-<id>p005r_2</id>
+<div id="p005r_2" continued="yes">
+
 <head>Concave mirrors</head>
 
 <ab>The concave mirror composed in the aforesaid form produces an
@@ -68,7 +68,7 @@ next, <sn><add>look</add></sn> at it from one <ms>pace</ms> away. But if you
 with your <bp>face</bp> quite large &amp; the <sn>hairs of your
 beard</sn> as thick as</ab>
 
-<cont/>
+
 
 </div>
 </root>

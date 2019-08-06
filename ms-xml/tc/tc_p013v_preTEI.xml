@@ -1,13 +1,13 @@
-<root>
-<page>013v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="013v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f32.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f32.image</image>
 
-<div>
 
-<cont/>
 
-<id>p013r_4</id>
+<div continues="yes" id="p013r_4">
+
+
+
+
 
 <ab>passeroit pas si bien Mays choisis pour cet effect la <m>soye
 crue<lb/>
@@ -21,9 +21,9 @@ la<lb/>
 
 </div>
 
-<div>
+<div id="p013v_1">
 
-<id>p013v_1</id>
+
 
 <head>Pour cognoistre la bonne<lb/>
 
@@ -52,9 +52,9 @@ est entiere elle sera unie &amp; dune couleur
 
 </div>
 
-<div>
+<div id="p013v_2">
 
-<id>p013v_2</id>
+
 
 <head>Blanchiment de <m>perles</m></head>
 
@@ -67,9 +67,9 @@ savon</m>
 
 </div>
 
-<div>
+<div id="p013v_3">
 
-<id>p013v_3</id>
+
 
 <head><md><m>Crapaudine</m></md></head>
 
@@ -92,28 +92,28 @@ aulx <pro>larrons</pro></md>
 
 </div>
 
-<div>
+<div id="p013v_4">
 
-<id>p013v_4</id>
+
 
 <head><al>Serpens</al></head>
 
 <ab>On dict que si on nomme en grec un <al>serpent</al> disant
 <el>ΟΦΗ<lb/>
 
-ΟΦΗ</el><comment>c_013v_02</comment> quil sen fuyra Comme si en grec on <del>nom</del> appelle
+ΟΦΗ</el><comment rid="c_013v_02"/> quil sen fuyra Comme si en grec on <del>nom</del> appelle
 un<lb/>
 
-<al>pourceau</al> <del>y</del> <el>ïon</el><comment>c_013v_01</comment>
+<al>pourceau</al> <del>y</del> <el>ïon</el><comment rid="c_013v_01"/>
 quil viendra
 
 </ab>
 
 </div>
 
-<div>
+<div id="p013v_5">
 
-<id>p013v_5</id>
+
 
 <head><tl>Chandelles</tl></head>
 

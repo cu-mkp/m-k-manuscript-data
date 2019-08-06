@@ -1,10 +1,10 @@
-<root>
-<page>053r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="053r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f111.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f111.image</image>
 
-<div>
-<id>p053r_1</id>
+
+
+<div id="p053r_1">
+
 <head><m>Soulder</m> un <tl><oc>estoc</oc></tl></head>
 
 <ab>Il est bon que les joues de l’<tl><oc>estoc</oc></tl> soient haultes pour y
@@ -28,8 +28,8 @@ entrer la <tl>vis</tl> <del>o</del> sur laquelle <del>est</del> elle est
 entournée.</ab>
 
 </div>
-<div>
-<id>p053r_2</id>
+<div id="p053r_2">
+
 <head><m>Cuivre</m></head>
 
 <ab>Si au fœu &amp; à la fonte il touche le <m>fer</m>, ce <m>fer</m>
@@ -38,22 +38,22 @@ sera aprés<lb/>
 si aigre qu’il ne se pourra forger.</ab>
 
 </div>
-<div>
-<id>p053r_3</id>
+<div id="p053r_3">
+
 <head>Gect de <m>plomb</m></head>
 
 <ab>On le mesle selon aulcuns <ms>moictié</ms> d’<m>estain</m> &amp;
 <ms>moictié</ms> <m>plomb</m>,<lb/>
 
-et pour lesch<del><ill/></del><add>afer</add> on y mesle un peu de
+et pour l'esch<del><ill/></del><add>afer</add> on y mesle un peu de
 <m>sublimé</m>. Il se gecte bien<lb/>
 
 en petit dans l’<tl><m>os de <al>seiche</al></m></tl> pourveu qu’il
 soict bon.</ab>
 
 </div>
-<div>
-<id>p053r_4</id>
+<div id="p053r_4">
+
 <head>Mouler de <m>papier</m></head>
 
 <ab>Fais bouillir <add>sur <m>cendres</m> chauldes</add> du
@@ -66,21 +66,21 @@ Destrempe le aprés avecq <m>eau gommée</m> &amp; mouleras fort
 delicat.</ab>
 
 </div>
-<div>
-<id>p053r_5</id>
+<div id="p053r_5">
+
 <head><pa>Amendiers</pa>, <pa>abricots</pa></head>
 
 <ab>Ils viennent bien droicts si on les hante. Et touts arbres<lb/>
 
 de noyau co<exp>mm</exp>e <pa>pavis</pa>, <pa>mericotons</pa>,
-<pa>alberges</pa>, <del>vie</del> <pa>abricots</pa> &amp;<sup>c.</sup>
+<pa>alberges</pa>, <del>vie</del> <pa>abricots</pa> &amp;<corr>c</corr>
 viennent<lb/>
 
 mieulx hantés sur l’<pa>amendier</pa> en escusson.</ab>
 
 </div>
-<div>
-<id>p053r_6</id>
+<div id="p053r_6">
+
 <head>Gect de <m>plomb</m> et <m>cuivre</m></head>
 
 <ab>Le <m>plomb</m> &amp; <m>estaim</m> vient bien en <m>croye
@@ -93,9 +93,9 @@ obtient le prix, qui se porte à <pl>Lyon</pl>. Les <m>os de
 <al>cheval</al><lb/>
 
 bruslés &amp; calcinés</m> moulent fort net.</ab>
-<ab><margin>left-bottom</margin>
+<ab margin="left-bottom" render="wide">
 
-<render>wide</render>
+
 Je croy que la<lb/>
 
 <m>mœle des cornes<lb/>
@@ -107,7 +107,7 @@ dedans,<lb/>
 
 moule fort net et est meilleure que l’<m>os</m>.</ab>
 
-<ab><margin>right-bottom</margin>
+<ab margin="right-bottom">
 Note que tout <m>metal aigre vient mieulx que le gras</m>. Aussy<lb/>
 
 le <m>sable maigre le reçoit mieulx &amp; le suppe que le

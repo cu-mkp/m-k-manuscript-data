@@ -1,10 +1,10 @@
-<root>
-<page>115v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="115v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f236.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f236.image</image>
 
-<div>
-<id>p115v_1</id>
+
+
+<div id="p115v_1">
+
 <head>Gect d’<m>estaim</m></head>
 
 <ab>Si l’herbe ou fleur que tu veulx gecter <del>en <m>estaim</m></del>
@@ -40,8 +40,8 @@ le<lb/>
 
 faict mieulx courir &amp; l’affermist.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Sur le <m>plomb<lb/>
 
 allié d’estain</m> ou<lb/>
@@ -76,8 +76,8 @@ propre.</ab>
 
 </div>
 
-<div>
-<id>p115v_2</id>
+<div id="p115v_2">
+
 <head>Pour donner vent au <tl>moule</tl></head>
 
 <ab>Oultre les soupirails, si ton <del>es</del>herbe est fort
@@ -96,8 +96,8 @@ pour aider à nettoyer.</ab>
 
 </div>
 
-<div>
-<id>p115v_3</id>
+<div id="p115v_3" continued="yes">
+
 <head> Recuire les <tl>moules à noyau</tl></head>
 
 <ab>Aprés que tes <tl>moules</tl> ont leur gect, souspirails &amp;
@@ -155,8 +155,8 @@ un<lb/>
 
 <tl>four de reverberation</tl>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 <hr/>
 Ne retire pas<lb/>
@@ -184,14 +184,14 @@ les gects &amp; souspirails<lb/>
 
 &amp; mectre les <tl>crampons</tl>.</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
 
-<figure>
 
-<id>fig_p115v_1</id>
+<figure id="fig_p115v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dHVja3NnV0dmMlk">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dHVja3NnV0dmMlk</link>
+
+
+
 
 </figure>
 Garde de ne donner<lb/>
@@ -204,8 +204,8 @@ tes <tl>moules</tl> ne se<lb/>
 
 fendent.</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
+
 Ils sont assés<lb/>
 
 recuits quand tout<lb/>
@@ -218,8 +218,8 @@ noir il n’est pas<lb/>
 
 assés.</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
+
 Pour gecter en <m>argent</m>,<lb/>
 
 il ne fault point<lb/>
@@ -235,14 +235,14 @@ dans le <tl>moule</tl> qu’il faille<lb/>
 
 n’estre pas de bonne despouille. Tous les <tl>moules</tl> des
 fleurs se recuisent deulx foys, la premiere pour
-<figure>            
-<id>fig_p115v_2</id>
+<figure id="fig_p115v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bXhqSkVQbkgwYjQ">            
+
         
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5bXhqSkVQbkgwYjQ</link>
+
         
 </figure></ab>
 
-<cont/>
+
 
 </div>
 </root>

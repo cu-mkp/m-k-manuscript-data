@@ -1,13 +1,13 @@
-<root>
-<page>019r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="019r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f43.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f43.image</image>
 
-<div>
 
-<cont/>
 
-<id>p017r_1</id>
+<div continues="yes" id="p017r_1">
+
+
+
+
 
 <ab>
 
@@ -40,9 +40,9 @@ pour faire ceste addition à la culasse, selon la longueur<lb/>
 
 que l’on leur baille.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 La force de la<lb/>
 
@@ -54,13 +54,13 @@ le despart que faict<lb/>
 
 la <m>pouldre</m> allumée.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 La force d’une berche<lb/>
 
-est aux maslees<comment>c_019r_01</comment> <lb/>
+est aux maslees<comment rid="c_019r_01"/> <lb/>
 
 au derriere de la<lb/>
 
@@ -76,7 +76,7 @@ de long, porte balle un quart de <ms>lb</ms> ou un peu moings.<lb/>
 tant<lb/>
 
 de <m>pouldre</m> que de <ms>balle</ms> <ms>jusques à la cime de
-l’escusson</ms>,<comment>c_018v_02</comment><lb/>
+l’escusson</ms>,<comment rid="c_018v_02"/><lb/>
 
 qui peult revenir en ces <wp>petites pieces</wp> à <add>3 ou</add> 4 <ms>balles</ms>
 <m>pouldre<lb/>
@@ -86,9 +86,9 @@ d’<wp>harquebus</wp></m>. Car si on employe <m>pouldre de <wp>canon</wp></m>, 
 les peult charger de <ms>l’espesseur de <del>c</del> cinq
 balles</ms>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Il fault<lb/>
 
@@ -201,11 +201,9 @@ d’<wp>orgues</wp>.<lb/>
 
 Voy le fœillet suivant 4e marqué.
 
-<figure><id>fig_p019r_1</id>
+<figure id="fig_p019r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5WWY3VjdlVktqZVk">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5WWY3VjdlVktqZVk</link>
-
-<!--Philip Cherian: Continues into p022v-->
+    <comment rid="c_019r_02"/>
 
 </figure>
 

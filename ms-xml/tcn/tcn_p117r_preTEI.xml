@@ -1,10 +1,10 @@
-<root>
-<page>117r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="117r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f239.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f239.image</image>
 
-<div>
-<id>p117r_1</id>
+
+
+<div id="p117r_1">
+
 <head>Moyen de mouler les fleurs et herbes</head>
 
 <ab>Il les fault choisir en leur entiere verdure &amp; vivacité &amp;
@@ -52,7 +52,7 @@ la <tl>queue de <m>fer</m></tl> par le bout de la <mu>mandorle</mu> de
 <m>terre</m>, affin que la<lb/>
 
 quille de <m>cire</m> <del>q</del> où l’herbe est hantée se joingne au
-bout de la <mu>mandorle</mu><comment>c_117r_01</comment><lb/>
+bout de la <mu>mandorle</mu><comment rid="c_117r_01"/><lb/>
 
 de <m>terre</m>. Et dispose tellement ton herbe ainsy couchée qu’elle
 demeure<lb/>
@@ -115,8 +115,8 @@ bastons</tl>,<lb/>
 prenant au pied du gect, qui est la poincte de la <tl>quille de
 <m>cire</m></tl>.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Si les herbes sont si delicates<lb/>
 
 qu’elles s’eslevent en hault<lb/>
@@ -126,28 +126,28 @@ quand on gecte le <m>sable destrempé</m>,<lb/>
 on les peult arrester &amp; contenir avecq du <tl>filet</tl> passé parmy
 le cercle du <tl>moule</tl> avecq une <tl>esguille</tl>.</ab>
 
-<figure>
+<figure id="fig_p117r_1" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5WnpBbm8wN2gyTWs">
 
-<id>fig_p117r_1</id>
 
-<margin>left-top</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5WnpBbm8wN2gyTWs</link>
 
-</figure>
 
-<figure>
 
-<id>fig_p117r_2</id>
-
-<margin>left-middle</margin>
-
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5VURRYzlWOFByNzQ</link>
 
 </figure>
 
-<ab>
-<margin>left-middle</margin>
+<figure id="fig_p117r_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5VURRYzlWOFByNzQ">
+
+
+
+
+
+
+
+</figure>
+
+<ab margin="left-middle">
+
 Tant plus ta<lb/>
 
 fleur est subtile, tant plus il<lb/>
@@ -156,13 +156,13 @@ fault que le<lb/>
 
 <m>sable</m> soict clair.</ab>
 
-<figure>
+<figure id="fig_p117r_3" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dVB5bzVUWWJuS0U">
 
-<id>fig_p117r_3</id>
 
-<margin>left-bottom</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dVB5bzVUWWJuS0U</link>
+
+
+
 
 <caption><tl>Moule en noyau</tl></caption>
 

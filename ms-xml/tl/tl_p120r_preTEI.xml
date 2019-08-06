@@ -1,10 +1,10 @@
-<root>
-<page>120r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="120r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f245.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f245.image</image>
 
-<div>
-<id>p120r_1</id>
+
+
+<div id="p120r_1">
+
 <head>Medals stamped from <m>wax</m></head>
 
 <ab>You can mold in <m>wax</m>, mixed with a bit of <m>rosin</m> so it
@@ -14,12 +14,12 @@ an animal or a medal, &amp; then, from it, make a hollow form of
 in relief <add>and hammer it</add> in a <tl>sheet of tin</tl>,
 <del><fr>Et pu</fr></del> and then fill with <m>lead</m> &amp; heat it.
 Try <m>sheets of gemstone foils</m> molded in a hollow form for <al>lizards</al>
-&amp;c.</ab>
+&amp;<corr>c</corr>.</ab>
 
 </div>
 
-<div>
-<id>p120r_2</id>
+<div id="p120r_2">
+
 <head><m>Sand for casting in <m>gold</m></m></head>
 
 <ab>Take <m>common sand</m> of <m>alum</m>, of <m>plaster</m> &amp;
@@ -33,8 +33,8 @@ to which it comes out very neatly. But it is good that your
 <tmp>days</tmp> and <del>three <tmp>days</tmp></del> and three
 <tmp>nights</tmp></ms>, in a <tl>flat box</tl>, where it not be very thick, so that it reheats better.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 You could cast <m>gold</m> well in <m>common sand of
 <pro>goldsmiths</pro></m>, should you throw therein some substance that makes it
 run. Before the invention of <m><la>crocum</la></m>, one would cast
@@ -42,8 +42,8 @@ flowers in <m>silver</m>, but not at all in <m>gold</m>. It has not been
 forty <ms><tmp>years</tmp></ms> that one knows this in
 <pl>Germany</pl>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <m>Sublimate</m> is commonly employed by <pro>goldsmiths</pro> for
 <m>gold</m>. Some add <m>sulfur</m>, but they &amp; others are wrong,
 for <m>sulfur</m> sours, even as it heats. And the <m>sublimate</m> is
@@ -56,9 +56,9 @@ throw in a <m>branch of <pa>wormseed</pa></m>.</ab>
 
 </div>
 
-<div>
-<id>p120r_3</id>
-<head><del>Il</del><al><add>N</add>ightingale</al></head>
+<div id="p120r_3" continued="yes">
+
+<head><del><fr>Il</fr></del><al>Nightingale</al><comment rid="c_120r_03"/></head>
 
 <ab>One needs for the <tl>cage</tl>, made like those for <al>larks</al>
 in <env>barns</env> &amp; lined with <tl><m>green fabric</m></tl>, to be
@@ -70,7 +70,7 @@ will lay their eggs there, in order to always have some at hand when you
 want them, should you take pleasure in feeding <al>nightingales</al>.
 When you caught it, it is fat &amp; full, &amp;, thus, to keep it in
 its strength, one needs to, for the <tmp>first day</tmp>,
-<del><fr>luy</fr></del> take <add>it</add> in the
+take <del><fr>uy</fr></del><add>it</add><comment rid="c_120r_02"/> in the
 <tl><bp>hand</bp></tl> &amp; open its beak &amp; put in its beak with a
 <tl>small pointed stick</tl> some <m><al>mutton</al> heart</m> or other
 <m>delicate flesh</m>, chopped up not too finely, in order to fill its
@@ -85,7 +85,7 @@ hardened &amp; if it is not fresh. And if it goes <ms>half a
 <tmp>day</tmp></ms> without eating, one needs to feed it as before &amp;
 do so until it</ab>
 
-<cont/>
+
 
 </div>
 </root>

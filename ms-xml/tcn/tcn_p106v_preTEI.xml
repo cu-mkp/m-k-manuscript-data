@@ -1,10 +1,10 @@
-<root>
-<page>106v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="106v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f218.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f218.image</image>
 
-<div>
-<id>p106v_1</id>
+
+
+<div id="p106v_1">
+
 <head>Gecter en <m>or</m></head>
 
 <ab>Pour gecter d’<m>or</m>, <del>il f</del> le <m><la>crocum
@@ -34,17 +34,17 @@ aisem<corr><exp>ent</exp></corr> du <tl>moule</tl>.<lb/>
 Les pieds se gectent à plusieurs <del>foys</del> pieces.</ab>
 </div>
     
-<div>
-<id>p106v_3</id>
+<div id="p106v_3">
+
 <head><m>Tuiles</m></head>
 
-<ab>
-<margin>right-middle</margin>
+<ab margin="right-middle">
+
 <add> Celles des <env>maisons</env> qui sont de <m>terre<lb/>
 
 aulcunem<exp>ent</exp> areneuse</m> semblent tenir plus<lb/>
 
-au fœu.</add><comment>c_106v_01</comment></ab>
+au fœu.</add><comment rid="c_106v_01"/></ab>
 
 <ab>Les <m>tuilles</m> de quoy on couvre les <env>maisons</env>, des
 plus dures<lb/>
@@ -64,16 +64,16 @@ passer subtillement par le <tl>tamis</tl>.</ab>
 
 <ab>Les petites <al>tortues</al> estant sorties de l’œuf sont bien<lb/>
 
-gentilles à mouler.<comment>c_106v_02</comment><hr/></ab>
+gentilles à mouler.<comment rid="c_106v_02"/><hr/></ab>
 
 </div>
     
-<div>
-<id>p106v_2</id>
-<head><margin>left-top</margin><m>Plastre</m><comment>c_106v_07</comment></head>
+<div id="p106v_2" continued="yes">
+
+<head><m>Plastre</m><comment rid="c_106v_07"/></head>
     
-<ab>
-<margin>left-top</margin>       
+<ab margin="left-top">
+       
 Quant tu l’as en<lb/>
         
 <m>pierre</m>, choisis les<lb/>
@@ -92,8 +92,8 @@ bien de pouldre &amp;<lb/>
         
 le piler.</ab>
     
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Le <m>plastre</m><lb/>
         
 seul ne soubstient<lb/>
@@ -104,15 +104,15 @@ se rompt en<lb/>
         
 lopins.</ab>
     
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Le <m>plastre</m> recuit,<lb/>
         
 <del>se ga</del> comme dit est icy,<lb/>
         
 se garde bien un<lb/>
         
-<comment>c_106v_05</comment> <ms><tmp>moys</tmp></ms> ou deulx<lb/>
+<comment rid="c_106v_05"/> <ms><tmp>moys</tmp></ms> ou deulx<lb/>
         
 bien serré <env>en lieu<lb/>
             
@@ -128,8 +128,8 @@ pour ouvrage<lb/>
         
 exquis.</ab>
     
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Il fault qu’il<lb/>
         
 soubstienne le fœu<lb/>
@@ -150,7 +150,7 @@ fœu &amp; faict faire des baves.</add></ab>
 est le meilleur estant en<lb/>
 
 <m>pierre</m>, prens le doncq tout cru en telle sorte. Pile le
-<del>bien</del> <add>plus</add><lb/>
+<del>bien</del> plus<lb/>
 
 subtillement qu’il te sera possible, et le passe par le plus<lb/>
 
@@ -191,14 +191,14 @@ au <m>sable</m>.</ab>
 l’<m>or</m>. C’est celuy qui estant<lb/>
         
 meslé parmy le <m>sable</m> le recoit &amp; le contient en sa
-chaleur.<comment>c_106v_04</comment><hr/></ab>
+chaleur.<comment rid="c_106v_04"/><hr/></ab>
     
     
 
-<ab>
-<margin>left-bottom</margin>
-<render>extra-wide</render>
-<mark>#</mark><comment>c_106v_03</comment> demeure recuit &amp;
+<ab margin="left-bottom" render="extra-wide">
+
+
+<mark>#</mark><comment rid="c_106v_03"/> demeure recuit &amp;
 <del>plus</del><lb/>
 
 le plus soubdain qu’il est<lb/>
@@ -239,10 +239,10 @@ comme farinée &amp; brenée &amp; bouillante<lb/>
 au milieu. Continue tousjours de remuer jusques à ce que tu cognoisses
 qu’il reviene pesant
 
-<mark>ʘʘ</mark><comment>c_106v_06</comment>
+<mark>ʘʘ</mark><comment rid="c_106v_06"/>
 
 </ab>
 
-<cont/>
+
 </div>
 </root>

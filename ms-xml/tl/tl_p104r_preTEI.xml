@@ -1,10 +1,10 @@
-<root>
-<page>104r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="104r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f213.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f213.image</image>
 
-<div>
-<id>p104r_1</id>
+
+
+<div id="p104r_1">
+
 <head>For eating away and dissolving entirely pure <m>gold</m></head>
 
 <ab>℞ put <m>common salt</m> into <m>aquafortis</m> in a
@@ -14,8 +14,8 @@ out as if it had been parted from <m>silver</m>.</ab>
 
 </div>
 
-<div>
-<id>p104r_2</id>
+<div id="p104r_2">
+
 <head>For etching on <m>iron</m></head>
 
 <ab>One <ms>℥</ms> of <m>verdet</m>, ii
@@ -33,8 +33,8 @@ be hot.</ab>
 
 </div>
 
-<div>
-<id>p104r_3</id>
+<div id="p104r_3">
+
 <head>Good mixture to color gold</head>
 
 <ab><m>Sulfur</m> &amp; small <m>gravel</m> <ms>as much of one as of
@@ -44,8 +44,8 @@ the other</ms>, &amp; the <ms>third part</ms> of
 
 </div>
 
-<div>
-<id>p104r_4</id>
+<div id="p104r_4">
+
 <head>For gilding with <m>silver</m> on <m>copper</m> and
 <m>latten</m></head>
 
@@ -53,11 +53,11 @@ the other</ms>, &amp; the <ms>third part</ms> of
 you wanted to <m>gild</m>. And do not let it heat, so the <m>silver</m>
 does not tarnish. And after it is well applied, boil it in
 <m><pa>walnut</pa> oil</m>, &amp; next heat it a little, &amp; thrust it in
-<m>sweet <fr>boutteure</fr></m><comment>c_104r_01</comment>.</ab>
+<m>sweet <fr>boutteure</fr></m><comment rid="c_104r_01"/>.</ab>
 </div>
 
-<div>
-<id>p104r_5</id>
+<div id="p104r_5">
+
 <head><m>Enameling</m> a <m>cornaline</m></head>
 
 <ab>Soak some <m><pa>wheat</pa> flower</m> in <m>white wine</m>, then

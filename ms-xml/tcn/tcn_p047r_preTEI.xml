@@ -1,11 +1,11 @@
-<root>
-<page>047r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="047r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f99.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f99.image</image>
 
-<div>
 
-<id>p047r_1</id>
+
+<div id="p047r_1">
+
+
 
 <head><md>Pour les <bp>dents</bp></md></head>
 
@@ -28,9 +28,9 @@ d’<m>huile de <pa>girofle</pa> ou <pa>canelle</pa></m>.
 
 </div>
 
-<div>
+<div id="p047r_2">
 
-<id>p047r_2</id>
+
 
 <head><m>Huile d’antimoine</m></head>
 
@@ -43,9 +43,9 @@ estant chaufé.
 
 </div>
 
-<div>
+<div id="p047r_3">
 
-<id>p047r_3</id>
+
 
 <head><md>Contre mal caducq ou vertige</md></head>
 
@@ -58,9 +58,9 @@ cuillie <tmp>au descroissant de la lune</tmp>.
 
 </div>
 
-<div>
+<div id="p047r_4">
 
-<id>p047r_4</id>
+
 
 <head>Creusets</head>
 
@@ -79,7 +79,7 @@ pas tant<lb/>
 l’<m>argent</m> que les aultres &amp; pour ceste occasion il ne s’y
 trouve gueres<lb/>
 
-de <m>laveures</m>.<comment>c_047r_03</comment> Ilz ne sont pas aussy si subgects à se verser que
+de <m>laveures</m>.<comment rid="c_047r_03"/> Ilz ne sont pas aussy si subgects à se verser que
 les<lb/>
 
 aultres qui ont le pied plat.
@@ -88,9 +88,9 @@ aultres qui ont le pied plat.
 
 </div>
 
-<div>
+<div id="p047r_5">
 
-<id>p047r_5</id>
+
 
 <head><md>Contre diarrhœe</md> et <md>dysentherie</md></head>
 

@@ -1,13 +1,13 @@
-<root>
-<page>128v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="128v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f262.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f262.image</image>
 
-<div>
 
-<cont/>
 
-<id>p128r_1</id>
+<div continues="yes" id="p128r_1">
+
+
+
+
 
 <ab>
 
@@ -60,9 +60,9 @@ peulx gecter <m>argent plus fin que la ligue du <pl>capital</pl> et<lb/>
 co<exp>mm</exp>e de <cn>realle</cn></m>, mays que tu y adjoustes de ce
 grain.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Ne laisse pas pour cela de mettre devant toutes choses un peu de
 <m>borras</m> dans l’<m>argent<lb/>
@@ -93,9 +93,9 @@ qui soict posé au bout<lb/>
 
 de ta <tl>forge</tl>.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Si tu veulx soufler la<lb/>
 
@@ -111,9 +111,9 @@ en bas &amp; soufle.
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Quand l’<m>argent</m> est bien<lb/>
 
@@ -139,9 +139,9 @@ qui le font courre.
 
 </div>
 
-<div>
+<div id="p128v_1">
 
-<id>p128v_1</id>
+
 
 <head>Blanchiment de l’<m>argent</m> gecté</head>
 
@@ -203,9 +203,9 @@ Aprés le <tl>grattebroissa</tl> dans l’<m>eau claire</m>.
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>+</mark>
 
@@ -233,9 +233,9 @@ saulce qui colore l’<m>or</m>.
 
 </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Il observoit de ne<lb/>
 

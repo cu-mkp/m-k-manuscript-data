@@ -1,11 +1,11 @@
-<root>
-<page>029v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="029v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f64.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f64.item</image>
 
-<div>
 
-<id>p029v_1</id>
+
+<div id="p029v_1">
+
+
 
 <head>Color of gold without <m>gold</m> on <m>silver</m></head>
 
@@ -14,9 +14,9 @@ and once dry, give a coat of <m><pa>spike
 lavender</pa> oil varnish</m> and of <m>sandarac</m>. And it will be
 more beautiful than <m>tinsel</m>.</ab></div>
 
-<div>
+<div id="p029v_2">
 
-<id>p029v_2</id>
+
 
 <head>Layer of <m>burnished gold</m> on <m>paper</m></head>
 
@@ -26,9 +26,9 @@ layered on the <m>paper</m>, then dried, &amp; repeated in this manner 3
 times, is a good layer for <m>burnished gold</m> on <m>simple paper</m>
 &amp; has no body.</ab></div>
 
-<div>
+<div id="p029v_3">
 
-<id>p029v_3</id>
+
 
 <head>Removing stains</head>
 
@@ -38,9 +38,9 @@ times, is a good layer for <m>burnished gold</m> on <m>simple paper</m>
 
 </div>
 
-<div>
+<div id="p029v_4">
 
-<id>p029v_4</id>
+
 
 <head>Ground for <m>gold</m></head>
 
@@ -48,9 +48,9 @@ times, is a good layer for <m>burnished gold</m> on <m>simple paper</m>
 of it tempered with very clear <m>strong glue</m> &amp; passed
 through a <tl><m>linen</m> cloth</tl>.</ab></div>
 
-<div>
+<div id="p029v_5">
 
-<id>p029v_5</id>
+
 
 <head>Extraction of <m>oils</m></head>
 
@@ -58,8 +58,8 @@ through a <tl><m>linen</m> cloth</tl>.</ab></div>
 the <tl>mortar</tl> while <tl>pestling</tl> is
 <df>oleaginous</df>.</ab></div>
 
-<div>
-<id>p029v_6</id>
+<div id="p029v_6">
+
 
 <head><m><al>Dragon</al>’s blood</m></head>
 
@@ -78,31 +78,31 @@ large pieces like cake <add>this one has no value and is
 adulterated</add> &amp; once broken it shows on its edges scales,
 transparent as <del><fr>ro</fr></del> <m>rouge clair enamel</m>, it is
 also lumpy in some parts like small <m>rubies</m>. The <m>eau-de-vie</m> needs to be very ardent &amp;
-passed<comment>c_029v_01</comment> several times.</ab>
+passed<comment rid="c_029v_01"/> several times.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 The <m>darker <al>dragon</al>’s blood</m> is the best &amp; has more of
 a tint; it is the tear that is found in <del><fr>gr</fr></del> pieces like
 <m><pa>peas</pa></m> and large <m><pa>hazelnuts</pa></m> which look like
 
-<figure>
+<figure id="fig_p029v_1" margin="right-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5cXJfWVlSSGlKOGs">
 
-<id>fig_p029v_1</id>
 
-<margin>right-bottom</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5cXJfWVlSSGlKOGs</link>
+
+
+
 
 </figure>
 
 .</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 I put it in <m>common eau-de-vie</m>, mixing in some
 <m>aquafortis</m> to give it strength. At the beginning the
@@ -110,9 +110,9 @@ I put it in <m>common eau-de-vie</m>, mixing in some
 appearance of <m>tragacanth gum</m> with which I think they adulterate
 the <m><al>dragon</al>’s blood</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 When it is applied on <m>burnished gold</m>, it is prone to break. For
 this reason, some coat it with <m>turpentine varnish</m>. Cold delays

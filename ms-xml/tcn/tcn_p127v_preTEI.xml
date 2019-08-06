@@ -1,10 +1,10 @@
-<root>
-<page>127v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="127v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f260.igmae">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f260.igmae</image>
 
-<div>
-<id>p127v_1</id>
+
+
+<div id="p127v_1">
+
 <head><m>Terre des <pro>fondeurs</pro></m></head>
 
 <ab>C’est de la <m>terre bolvene</m> meslée de <m>fiens</m> ou
@@ -100,10 +100,10 @@ coma<exp>n</exp>cem<exp>ent</exp>,<lb/>
 mects y &amp; adjouste peu des charbons demy allumés à la
 <tl>forge</tl>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 La <m>terre de laquelle les
-<pro>fondeurs</pro><comment>c_127v_01</comment><lb/>
+<pro>fondeurs</pro><comment rid="c_127v_01"/><lb/>
 
 se servent pour braser ou soulder</m>, qui est<lb/>
 
@@ -129,23 +129,23 @@ fond <del>est</del> ne peult manquer<lb/>
 
 en cecy.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <add><tl><m>Fil de fer</m></tl> pour donner
-liaison.<comment>c_127v_04</comment></add></ab>
+liaison.<comment rid="c_127v_04"/></add></ab>
 
-<figure>
+<figure id="fig_p127v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5S2VzRmhYUWpfbmc">
 
-<id>fig_p127v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5S2VzRmhYUWpfbmc</link>
+
+
+
 
 </figure>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <add><m><tl>Lute</tl></m> espés tes<lb/>
 
 <tl>moules</tl>, &amp; s’ilz sont<lb/>
@@ -158,8 +158,8 @@ incontinent recuire<lb/>
 
 <m><la>crocum</la></m></add>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Si la <m>terre</m> est<lb/>
 
 bonne &amp; <del>l</del> ne se fend<lb/>
@@ -184,10 +184,10 @@ Recuits doulcem<exp>ent</exp><lb/>
 
 clos, &amp; ne les exposes<lb/>
 
-pas chaulx à l’air.</ab>
+pas chaul<corr>ts</corr> à l’air.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <m><tl>Lute</tl></m> assés espés<lb/>
 
 à deulx ou trois<lb/>
@@ -200,17 +200,17 @@ affin que l’<m>argent</m> ne<lb/>
 
 sorte du <tl>moule</tl>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Recuits en <tl>four<lb/>
 
 de reverberation</tl>.
-<hr/><comment>c_127v_03</comment></ab>
+<hr/><comment rid="c_127v_03"/></ab>
 
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 Pour essayer si ta<lb/>
 
 <m>terre</m> est bonne, plustost<lb/>

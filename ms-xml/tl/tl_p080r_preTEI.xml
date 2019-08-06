@@ -1,26 +1,26 @@
-<root>
-<page>080r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="080r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f165.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f165.item</image>
 
-<div>
 
-<id>p080r_1</id>
 
-<head>Petard</head><comment>c_008r_04</comment>
+<div id="p080r_1">
+
+
+
+<head>Petard</head><comment rid="c_008r_04"/>
 
 <ab>They make them of fine substance &amp; <m>fine copper</m>, which is
 capable of fifty <ms>lb</ms> of <m>powder</m>, in the shape of a
 <tl>reinforced firkin</tl>, and having made a hole even <del>of</del>
-with the ground <env>at the foot of a wall</env> with <tl><oc>gimlets</oc></tl>,<comment>c_080r_01</comment>
+with the ground <env>at the foot of a wall</env> with <tl><oc>gimlets</oc></tl>,<comment rid="c_080r_01"/>
 they set the said loaded petard in that hole, with the muzzle pointing
 up, which makes a large breach.</ab>
 
 </div>
 
-<div>
+<div id="p080r_2">
 
-<id>p080r_2</id>
+
 
 <head>Very hard white <m>stucco</m></head>
 
@@ -29,17 +29,17 @@ up, which makes a large breach.</ab>
 
 </div>
 
-<div>
+<div id="p080r_3">
 
-<id>p080r_3</id>
+
 
 <head>Fountains</head>
 
-<figure>
+<figure id="fig_p080r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5c3dLNVNsem9nTjQ">
 
-<id>fig_p080r_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5c3dLNVNsem9nTjQ</link>
+
+
 
 </figure>
 
@@ -60,23 +60,23 @@ breathing in. You can also make a watering pipe in this manner, such
 that the trussed-up length is <ms>as long as</ms> its straight pipe,
 &amp; nevertheless does not descend as far down.</ab>
 
-<figure>
+<figure id="fig_p080r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5N2U2RXB5UFc3TUE">
 
-<id>fig_p080r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5N2U2RXB5UFc3TUE</link>
+
+
+
 
 </figure>
 
-<figure>
+<figure id="fig_p080r_3" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5R2ZBNWRseEpQdnc">
 
-<id>fig_p080r_3</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5R2ZBNWRseEpQdnc</link>
+
+
+
 
 </figure>
 

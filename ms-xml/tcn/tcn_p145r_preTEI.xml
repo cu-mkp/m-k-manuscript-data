@@ -1,11 +1,11 @@
-<root>
-<page>145r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="145r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f295.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f295.image</image>
 
-<div>
 
-<id>p145r_1</id>
+
+<div id="p145r_1">
+
+
 
 <head>Gecter en trois <tl>chassis</tl></head>
 
@@ -17,32 +17,32 @@ semblables, qui sont bien en despouille, sçavoir le cors <lb/>
 du <tl>mortier</tl> dans l’un, <del>les deulx <tl>chassis</tl></del>
 <add>le noyau dans l’aultre</add>. <add>Et le <add>cul du
 <tl>mortier</tl></add> <del>noyau</del> dans
-l<del>un</del><add>e</add> tiers,<lb/>
+l<del>un</del>e<comment rid="c_145r_04"/> tiers,<lb/>
 
 <del>pour petit ouvrage</del> pource que aultrement la mouleure qui y
 est<lb/>
 
 ne seroit pas en despouille.</add></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <emph><la>Inquire</la></emph>
 </ab>
 
-<figure>
-<id>fig_p145r_1</id>
-<margin>left-middle</margin>
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5MXRaSldvRzY2UTg</link>
+<figure id="fig_p145r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MXRaSldvRzY2UTg">
+
+
+
 <caption>A</caption>
 </figure>
 
 </div>
 
-<div>
+<div id="p145r_2" continued="yes">
 
-<id>p145r_2</id>
+
 
 <head><tl><m>Os de <al>seiche</al></m></tl></head>
 
@@ -79,7 +79,7 @@ ilz<lb/>
 
 <sn>crient &amp; petillent estant aproché de
 l’<tl><bp>oreille</bp></tl></sn>. Lors joins les &amp;
-<m>lute</m><comment>c_145r_02</comment><lb/>
+<m>lute</m><comment rid="c_145r_02"/><lb/>
 
 les joinctures d’un peu d’<m>ardille</m> &amp; fais la
 legerem<exp>ent</exp> seicher au<lb/>
@@ -94,11 +94,11 @@ l’<tl><m>os</m></tl> par le milieu, et la partie la plus mousse et qui
 n’ha<lb/>
 
 pas des demy cercles
-<figure><id>fig_p145r_2</id><link>https://drive.google.com/file/d/1-NGCS8NDm7NI4xFQ9ZF058I9vEhQRBuQ/view?usp=sharing</link></figure>
+<figure id="fig_p145r_2" link="https://drive.google.com/file/d/1-NGCS8NDm7NI4xFQ9ZF058I9vEhQRBuQ/view?usp=sharing"/>
 
 est la plus delicate et plus unye<lb/>
 
-pour mouler, &amp; par ainsy on y empraint tousjours le principal,<comment>c_145r_03</comment><lb/>
+pour mouler, &amp; par ainsy on y empraint tousjours le principal,<comment rid="c_145r_03"/><lb/>
 
 l’aultre est escaillée par dedans co<exp>mm</exp>e elle demonstre par
 dehors.<lb/>
@@ -124,7 +124,7 @@ costés, et<lb/>
 
 ayant posé la medaille dessus, on la serre et presse bien fort.</ab>
 
-<cont/>
+
 
 </div>
 </root>

@@ -1,10 +1,10 @@
-<root>
-<page>121v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="121v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f248.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f248.item.r=</image>
 
-<div>
-<id>p121v_1</id>
+
+
+<div id="p121v_1">
+
 <head>For casting in <m>silver</m></head>
 
 <ab>You need to arrange your animals as said, and compose the same <m>sand</m>
@@ -30,38 +30,38 @@ with others.
 the <tl>molds</tl> from cracking, &amp; is appropriate for all
 <m>metals</m>.</add></ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 <m>Alloyed silver is better for casting than the fine one</m>, provided
 that it is sweet.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 One needs for the <m>feather alum</m> to be well pulverized
 and well mixed.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 <m>Sal ammoniac</m> is a friend of <m>gold</m> &amp; of
 <m>silver</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <add>Which needs to be placed before the <m>sand</m> in the <tl>bowl</tl>,
 which is put in the <m>water</m>, &amp; not the <m>water</m> in the
 <m>sand</m></add></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <m>Latten</m> is the enemy of <m>gold</m> &amp; the friend of
 <m>silver</m>.</ab>
 
 </div>
 
-<div>
-<id>p121v_2</id>
+<div id="p121v_2">
+
 <head><m>Silver</m> for casting</head>
 
 <ab>It is <m>not fine silver but alloyed</m>, &amp; which does not
@@ -86,12 +86,12 @@ have the mixture one needs to make the <m>silver</m> run.</ab>
 <m>silver</m> run in their works, they would buy much of it. Some buy it five
 <cn>sous</cn> for a <ms><fr>denier</fr></ms>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <emph>I have used <m>silver from the <pl>Capital</pl></m></emph></ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
+
 Before <del>binding</del> <m>luting</m> &amp; strengthening your <tl>molds</tl>
 for <m>gold</m> &amp; <m>silver</m> with the said <m>earth</m>, one
 needs for the cast to be made &amp; the vents, &amp; the <tl>molds</tl>

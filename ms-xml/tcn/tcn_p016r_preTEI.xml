@@ -1,10 +1,10 @@
-<root>
-<page>016r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="016r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f37.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f37.image</image>
 
-<div>
-<id>p016r_1</id>
+
+
+<div id="p016r_1" continued="yes">
+
 <head>Fonte de <m>fer doux</m></head>
 
 <ab>Le <pro>commun</pro> estime que le <m>fer</m>, une fois fondu, ne se
@@ -34,14 +34,14 @@ de</del> deulx <ms>pans</ms> de profond. Et la<lb/>
 <tl>tuelle</tl>, qui est le canon <del>par</del> marqué A, par où les <tl>tuyaulx des
 souflets</tl> s’emboictent,<lb/>
 
-doibt<comment>c_016r_01</comment> estre posée au milieu de la profondeur du <tl>fourneau</tl>, de
+doibt<comment rid="c_016r_01"/> estre posée au milieu de la profondeur du <tl>fourneau</tl>, de
 sorte<lb/>
 
 qu’il y aye un <ms>pan</ms> de gueule de <tl>four</tl> sur la <tl>tuelle</tl>
 &amp; un <ms>pan</ms> dessouls.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Chasque <ms>pan</ms><lb/>
 
 de gueule de <tl>four<lb/>
@@ -56,21 +56,19 @@ rond</tl> en tient deulx<lb/>
 
 <ms>quintals</ms>.</ab>
 
-<div>
+<figure id="fig_p016r_1" margin="left-middle" render="wide" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aUw0eThJNEVTelk">
 
-<figure>
 
-<id>fig_p016r_1</id>
 
-<margin>left-middle</margin>
 
-<render>wide</render>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5aUw0eThJNEVTelk</link>
+
+
+
 </figure>
 
-<ab>
-<margin>right-middle</margin>
+<ab margin="right-middle">
+
 Les <pro>minerons</pro>, pour fayre<lb/>
 
 courre le <m>fer</m>, mectent à la<lb/>
@@ -86,7 +84,7 @@ Et cela rend le <m>fer</m> merveilleusem<exp>ent</exp><lb/>
 
 ductible &amp; courant.</ab>
 
-</div>
+
 
 <ab>Il fault aussy que la <tl>tuelle</tl> entre jusques au milieu de la gueule du
 <tl>fourneau</tl>,<lb/>
@@ -142,8 +140,8 @@ que tu pourras trouver<lb/>
 bas amoncellant en hault <del>comme</del> en poincte jusques au hault de
 la muraille</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Aulcuns font<lb/>
 
 un <tl>moule</tl> du<lb/>
@@ -184,7 +182,7 @@ sont plus subgectes<lb/>
 
 à rompre.</ab>
 
-<cont/>
+
 
 </div>
 </root>

@@ -1,25 +1,25 @@
-<root>
-<page>148r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="148r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f301.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f301.image</image>
 
-<div>
 
-<cont/>
 
-<id>p147v_4</id>
+<div continues="yes" id="p147v_4">
+
+
+
+
 
 <ab>come out as clear as I wanted. I reheated it again, let it cool,
 placed it again to be whitened &amp; rubbed with a
 <tl>scratch-brush</tl>. It came out very neatly. You will do thus for
 <m>copper</m> and <m>silver</m>. And if you want to
-give<comment>c_148r_01</comment></ab>
+give<comment rid="c_148r_01"/></ab>
 
 </div>
 
-<div>
+<div id="p148r_1">
 
-<id>p148r_1</id>
+
 
 <head>Beautiful color for <m>latten</m></head>
 
@@ -30,9 +30,9 @@ beautiful.</ab>
 
 </div>
 
-<div>
+<div id="p148r_2">
 
-<id>p148r_2</id>
+
 
 <head><m>Whitening</m></head>
 
@@ -48,25 +48,25 @@ let it spill out of its first boil, for in this is all its strength. The
 
 </div>
 
-<div>
+<div id="p148r_3">
 
-<id>p148r_3</id>
+
 
 <head>Molding the foot of the <al>bittern</al>, or of the
-<al>eagle</al>, or of other birds <comment>c_148r_02</comment>for the foot of saltcellars or
+<al>eagle</al>, or of other birds <comment rid="c_148r_02"/>for the foot of saltcellars or
 vases</head>
 
 <ab>One usually molds the foot &amp; the leg up to the joint. And for
 this effect, one molds it in five pieces: the leg in two pieces, the top
 of the foot in two, and the bottom in one piece.</ab>
 
-<ab><margin>left-middle</margin>in three pieces</ab>
+<ab margin="left-middle">in three pieces</ab>
 
 </div>
 
-<div>
+<div id="p148r_4">
 
-<id>p148r_4</id>
+
 
 <head><m><la>Crocum ferri</la></m></head>
 

@@ -1,19 +1,19 @@
-<root>
-<page>107r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="107r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f219.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f219.image</image>
 
-<div>
 
-<cont/>
 
-<id>p106v_2</id>
+<div continues="yes" id="p106v_2">
 
-<ab>
 
-<margin>left-bottom</margin>
 
-<mark>ʘʘ</mark><comment>c_106v_02</comment><lb/>
+
+
+<ab margin="left-bottom">
+
+
+
+<mark>ʘʘ</mark><comment rid="c_106v_02"/><lb/>
 
 pesant co<exp>mm</exp>e auparava<exp>n</exp>t<lb/>
 
@@ -95,8 +95,8 @@ faict prise.</ab>
 
 </div>
 
-<div>
-<id>p107r_1</id>
+<div id="p107r_1" continued="yes">
+
 <head>Pour prendre <al>lezards</al><lb/>
 
 et <al>serpents</al></head>
@@ -128,7 +128,7 @@ co<exp>mm</exp>e ilz feroient<lb/>
 bien un <m>linge</m>. Les dangereulx se cognoissent aulx yeulx bleus
 &amp;<lb/>
 
-<del>assés</del> aseurés<comment>c_107r_03</comment> <add>azurés</add>. Il ne mordent gueres
+<del>assés</del> aseurés<comment rid="c_107r_03"/> <add>azurés</add>. Il ne mordent gueres
 <env>dans l’eau</env>, ce qu’experimentent<lb/>
 
 les <pro>preneurs d’<al>escrevisses</al></pro>.</ab>
@@ -188,12 +188,12 @@ Et <m>celuy, blanc <del>que v</del> en pouldre, que vendent les
 est bon. <add>Il se subtilie mieulx <del>su</del> dans le
 <tl>mortier</tl> en pilant &amp;<lb/>
 
-trainant le <tl>pinon</tl><comment>c_107r_6</comment>, ainsy tu le rendras fort subtil.</add></ab>
+trainant le <tl>pinon</tl><comment rid="c_107r_6"/>, ainsy tu le rendras fort subtil.</add></ab>
 
 <ab>Le <m><la>crocum ferry</la></m> doibt estre embrasé dans la
 <tl>fournaise<lb/>
 
 des <pro>verriers</pro></tl> quattre <ms><tmp>jours</tmp></ms>.</ab>
-<cont/>
+
 </div>
 </root>

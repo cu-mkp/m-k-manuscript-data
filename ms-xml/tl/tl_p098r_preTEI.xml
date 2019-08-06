@@ -1,10 +1,10 @@
-<root>
-.<page>098r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="098r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f201.image">
+.
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f201.image</image>
 
-<div>
-<id>p098r_1</id>
+
+<div id="p098r_1">
+
 <head><m>Varnish</m> for lutes</head>
 
 <ab>They take a little <m>turpentine</m> &amp; <m>oil of turpentine or
@@ -15,8 +15,8 @@ and others some <m><fr>terra merita</fr></m> for yellow.</ab>
 
 </div>
 
-<div>
-<id>p098r_2</id>
+<div id="p098r_2">
+
 <head>Borders of a <env>garden</env></head>
 
 <ab>One needs to work the earth, then make it thinner with the
@@ -31,8 +31,8 @@ will plant your <pa>rosemary</pa>. Behead &amp; cut to measure and
 
 </div>
 
-<div>
-<id>p098r_3</id>
+<div id="p098r_3">
+
 <head><pro>Locksmith</pro></head>
 
 <ab>To <m>tin</m> nails well, and other work, they <tl>file</tl> their

@@ -1,11 +1,11 @@
-<root>
-<page>032v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="032v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f70.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f70.image</image>
 
-<div>
 
-<id>p032v_1</id>
+
+<div id="p032v_1">
+
+
 
 <head><pro>Faiseur de natte</pro></head>
 
@@ -48,9 +48,9 @@ bleu</ab>
 
 </div>
 
-<div>
+<div id="p032v_2">
 
-<id>p032v_2</id>
+
 
 <head><pro>Vitrier</pro></head>
 
@@ -64,7 +64,7 @@ rouge<lb/>
 commun avecq de la <m>sanguine</m> <m>estain de glace</m>
 <m>rocaille</m> <m>litharge</m><lb/>
 
-&amp; un peu d<m>escaille de fer</m>. <comment>c_032v_01</comment>
+&amp; un peu d<m>escaille de fer</m>. <comment rid="c_032v_01"/>
 Ledict rouge se charge dun coste<lb/>
 
 &amp; daultre du <m>verre</m> affin quil aye plus de couleur sil
@@ -74,9 +74,9 @@ charge que dun coste il seroit trop orange pasle</ab>
 
 </div>
 
-<div>
+<div id="p032v_3">
 
-<id>p032v_3</id>
+
 
 <head><pro>Fondeur</pro></head>
 
@@ -96,7 +96,7 @@ ayse a fondre que le <m>plomb</m> qui est doulx Le <m>laicton aigry par
 la<lb/>
 
 <m>calamine</m></m> est plus tost fondu que le <m>cuivre rouge</m> Le
-<m>metal<comment>c_016v_05</comment> qui est<lb/>
+<m>metal<comment rid="c_016v_05"/> qui est<lb/>
 
 matiere de cloche</m> mesle d<m>estain</m> et fort aigre est bien tost
 fondu<lb/>
@@ -119,11 +119,11 @@ se vent xii<lb/>
 ou xv <cn>lb</cn> Le <ms>quintal</ms> de <m>metal</m> six <cn>lb</cn>
 <del>Le met</del></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-<mark><ups>#</ups></mark>
+
+<ups><mark>#</mark></ups>
 
 <m>Or</m> <m>argent</m> <m>cuivre</m><lb/>
 

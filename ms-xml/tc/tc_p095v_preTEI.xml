@@ -1,13 +1,13 @@
-<root>
-<page>095v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="095v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f196.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f196.image</image>
 
-<div>
 
-<cont/>
 
-<id>p094r_1</id>
+<div continues="yes" id="p094r_1" continued="yes">
+
+
+
+
 
 <ab>Le bout sachepte tout faict a <ms>douzaine</ms> qui couste six
 <ms><cn>sols</cn></ms><lb/>
@@ -33,7 +33,7 @@ la <m>rousine pulverisee</m> sur le bout se fonde en ceste sorte<lb/>
 
 il ne tombe point et ne se peult deffaire sil nest mis au fœu</ab>
 
-<ab>Les <ar>gardes</ar> sont de plusieurs sortes<lb/>
+<ab>Les <wp>gardes</wp> sont de plusieurs sortes<lb/>
 
 A ouvraiges<lb/>
 
@@ -83,7 +83,7 @@ despes</ms></ab>
 le<lb/>
 
 <tl><df>banc des fourreaulx</df></tl> Et avecq
-un<del>e</del><add>g</add><comment>c_095v_01</comment>
+un<del>e</del>g<comment rid="c_095v_01"/>
 <del><tl>plane</tl></del> <tl>petit <m>fer</m></tl> co<exp>mm</exp>e
 celuy<lb/>
 
@@ -98,7 +98,7 @@ pour<lb/>
 
 mieulx laplanir Apres par le dedans on le recure avecq une</ab>
 
-<cont/>
+
 
 </div>
 </root>

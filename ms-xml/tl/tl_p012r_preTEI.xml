@@ -1,11 +1,11 @@
-<root>
-<page>012r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="012r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f29.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f29.image</image>
 
-<div>
 
-<id>p012r_1</id>
+
+<div id="p012r_1">
+
+
 
 <head>For molding <m>sulfur</m></head>
 
@@ -15,11 +15,11 @@ let it melt well until it becomes liquid, like <m>oil</m>, mix it with
 <m>verdigris</m>, and you <del><fr>m</fr></del> will very neatly cast in
 <m>plaster</m> a <al>lizard</al> or something else.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-One ought not cast unless it is well cooled &amp; unless it
+
+One ought not to cast unless it is well cooled &amp; unless it
 has lost all its pustules &amp; bubbles, and has settled down
 well &amp; become smooth like <del><ill/></del> <m>water</m>. The
 <m>soot black</m> gives it a fine sheen &amp; makes it neater. The most
@@ -29,9 +29,9 @@ lively <m>sulfur</m> is not good. Do not cast <env>in wind</env> &amp;
 
 </div>
 
-<div>
+<div id="p012r_2">
 
-<id>p012r_2</id>
+
 
 <head><m><fr>Chimolée</fr></m></head>
 
@@ -45,9 +45,9 @@ Put the figure to reheat in a <tl>pot</tl> in an <tl>oven</tl> or in a
 can make a hollow form of animals from <m><fr>chimolée</fr></m> &amp; cast
 <m>lead</m> in it.</add></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 The work needs to be dried for 4 or 5 <ms>days</ms> before you reheat
 it. When you mold &amp; make a hollow form from <m><fr>chimolée</fr></m>, do
@@ -55,9 +55,9 @@ not press suddenly, but gently, for it would crack.</ab>
 
 </div>
 
-<div>
+<div id="p012r_3">
 
-<id>p012r_3</id>
+
 
 <head><m>Paper</m></head>
 
@@ -74,16 +74,16 @@ burnish from the back with the <tl>tooth</tl>.</ab>
 
 </div>
 
-<div>
+<div id="p012r_4">
 
-<id>p012r_4</id>
+
 
 <head><m>Plaster</m></head>
 
 <ab>That from the <env>mountains</env> is greyer, and <del>the</del> the
 one from the region of <pl>Albi</pl> is whiter. It must be cooked with a
 closed fire, such as a <tl>reverberatory furnace</tl> or <tl><pro>barbers'</pro>
-ovens</tl>.<comment>c_012r_01</comment> And the most freshly cooked is the best to put to use.
+ovens</tl>.<comment rid="c_012r_01"/> And the most freshly cooked is the best to put to use.
 One needs to finely grind it on <tl><m>marble</m></tl>. After having prepared your
 hollow form from <m>sulfur</m> or something else, &amp; having <m>oiled</m> it
 &amp; enclosed it in a <corr>circle</corr>, temper not too
@@ -92,9 +92,9 @@ with your <tl><bp>finger</bp></tl>, and if it makes pustules, throw on top
 more <m>powder of the said plaster</m> &amp; <del><ill/></del> grind it
 with the <tl><bp>finger</bp></tl> until <mark>+</mark></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>+</mark> it makes no more pustules. Then cast &amp; sprinkle
 once again with <m>plaster powder</m> &amp; let it take well, then

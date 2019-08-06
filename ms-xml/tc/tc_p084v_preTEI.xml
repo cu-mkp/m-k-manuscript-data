@@ -1,10 +1,10 @@
-<root>
-<page>084v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="084v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f174.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f174.image</image>
 
-<div>
-<id>p084v_1</id>
+
+
+<div id="p084v_1">
+
 <head><m>Sable</m></head>
 
 <ab>Jay essaye l<m>os de <add>pieds de</add> <al>bœuf</al> fort brusle
@@ -30,7 +30,7 @@ sur le <tl><m>porphire</m></tl> moulent fort nect en <m>plomb</m> sans
 quil soit<lb/>
 
 besoing de les recuire beaucoup &amp; gectant <del>le</del>
-<add>au</add><comment>c_084v_01</comment> <tl>chassis</tl> chault<lb/>
+<add>au</add><comment rid="c_084v_01"/> <tl>chassis</tl> chault<lb/>
 
 ou froit</ab>
 
@@ -39,16 +39,16 @@ despouille<lb/>
 
 bien Et faict aussy despouiller les aultres deulx</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Ces <m>sables</m> ne<lb/>
 
 soubstiennent<lb/>
 
 quun gect</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Un <m>sable<lb/>
 
 gras</m> qui se rend<lb/>
@@ -57,9 +57,9 @@ si uny faict<lb/>
 
 soufler</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Un <m>metal gras</m><lb/>
 
@@ -68,8 +68,8 @@ demande <m>sable<lb/>
 maigre</m></ab>
 
 </div>
-<div>
-<id>p084v_2</id>
+<div id="p084v_2">
+
 <head><m>Eau magistra</m></head>
 
 <ab>Aulcuns trouvent que l<m>eau sel</m> nest pas bonne pourceque<lb/>
@@ -86,13 +86,13 @@ on trouve que <m>celuy de <pa>saule</pa></m> faict soufler <m>celuy de
 
 ou <pa>fayan</pa></m> faict <del>soufler</del> bien sans soufler</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Essaye <m><al>huitres</al> bruslees</m></ab>
 
 </div>
-<div>
-<id>p084v_3</id>
+<div id="p084v_3">
+
 <head><m>Plomb</m></head>
 
 <ab>Pour gect il ny a que le <m>plomb doux</m> qui veult estre
@@ -101,8 +101,8 @@ gecte<lb/>
 fort <del>g</del> chault Et l<m>estaing douls</m></ab>
 
 </div>
-<div>
-<id>p084v_4</id>
+<div id="p084v_4" continued="yes">
+
 <head><m>Sable</m> pour le <m>plomb</m> le plus<lb/>
 
 excellent de tous pour grand relief<lb/>
@@ -121,25 +121,23 @@ paste sunissant<lb/>
 avecq le plat dun <tl>costeau</tl> en perfection Je lay un peu
 laisser</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
 
-<figure>X
 
-</figure>
+<mark>X</mark>
 
 </ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-bottom">
+
 il la fault bien<lb/>
 
 mesler avecq le<lb/>
 
 <tl>costeau</tl></ab>
 
-<cont/>
+
 
 </div>
 </root>

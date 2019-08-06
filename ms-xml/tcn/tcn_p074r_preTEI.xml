@@ -1,11 +1,11 @@
-<root>
-<page>074r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="074r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f153.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f153.image</image>
 
-<div>
 
-<id>p074r_1</id>
+
+<div id="p074r_1">
+
+
 
 <head>Pour <m>bronzer</m> blanc</head>
 
@@ -19,9 +19,9 @@ vous le mectrés dessus le <tl><m>mabre</m></tl>.</ab>
 
 </div>
 
-<div>
+<div id="p074r_2">
 
-<id>p074r_2</id>
+
 
 <head>Pour faire <m>vernilhon</m></head>
 
@@ -46,9 +46,9 @@ aurés de <m>bon vernilhon</m>.
 
 </div>
 
-<div>
+<div id="p074r_3" continued="yes">
 
-<id>p074r_3</id>
+
 
 <head>Pour faire <m>verny</m></head>
 
@@ -74,7 +74,7 @@ deux <ms>onces</ms> de <m>sandrax bien <tl>pillés</tl></m> &amp; le ferés comm
 dessus. Et<lb/>
 
 puys apprés prandrés <m><m>mastic</m> &amp;
-<m>arrab<del>e</del><add>i</add>c</m>, deux <ms>onces</ms> de
+<m>arrab<del>e</del>ic</m>,<comment rid="c_074r_03"/> deux <ms>onces</ms> de
 ch<exp>asc</exp>un, qui<lb/>
 
 soit bien broyé tous deux</m>, et le mectrés tout ensemble, &amp;
@@ -91,7 +91,7 @@ ferés bouillir. Et si vous y mectés deux <ms>onces</ms> de
 
 voyés qu’i ne soit assés cuyt, faictes le cuyre davantage à petict</ab>
 
-<cont/>
+
 
 </div>
 </root>

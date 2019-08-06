@@ -1,11 +1,11 @@
-<root>
-<page>063v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="063v" image="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f132.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f132.item</image>
 
-<div>
 
-<id>p063v_1</id>
+
+<div id="p063v_1">
+
+
 
 <head><m>Velvets</m> and blacks</head>
 
@@ -20,9 +20,9 @@ makes a reddish black <add>on <m>lake</m> for <m>velvets</m></add>. The
 
 </div>
 
-<div>
+<div id="p063v_2">
 
-<id>p063v_2</id>
+
 
 <head>Armor</head>
 
@@ -31,9 +31,9 @@ armor.</ab>
 
 </div>
 
-<div>
+<div id="p063v_3">
 
-<id>p063v_3</id>
+
 
 <head><m>Stil de grain yellow</m></head>
 
@@ -42,9 +42,9 @@ armor.</ab>
 
 </div>
 
-<div>
+<div id="p063v_4">
 
-<id>p063v_4</id>
+
 
 <head><m>Rosette</m></head>
 
@@ -53,9 +53,9 @@ armor.</ab>
 
 </div>
 
-<div>
+<div id="p063v_5">
 
-<id>p063v_5</id>
+
 
 <head><pl>Flanders</pl> blue</head>
 
@@ -65,9 +65,9 @@ with <m>florey</m>.</ab>
 
 </div>
 
-<div>
+<div id="p063v_6">
 
-<id>p063v_6</id>
+
 
 <head>Snow-covered landscapes</head>
 
@@ -76,9 +76,9 @@ with <m>florey</m>.</ab>
 
 </div>
 
-<div>
+<div id="p063v_7">
 
-<id>p063v_7</id>
+
 
 <head>Softening</head>
 

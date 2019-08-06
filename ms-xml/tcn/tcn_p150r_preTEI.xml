@@ -1,11 +1,11 @@
-<root>
-<page>150r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="150r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f305.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f305.image</image>
 
-<div>
 
-<id>p150r_1</id>
+
+<div id="p150r_1">
+
+
 
 <head><m>Cire fort dure</m></head>
 
@@ -14,9 +14,9 @@ gecte pas<lb/>
 
 gueres chaulde.</ab></div>
 
-<div>
+<div id="p150r_2">
 
-<id>p150r_2</id>
+
 
 <head>Ligues diverses d’<m>estain</m> et <m>plomb</m></head>
 
@@ -38,9 +38,9 @@ tout <m>plomb</m>, sçavoir une <ms>lb</ms> de <m>plomb fin</m> et 4
 
 fin</m>.</ab></div>
 
-<div>
+<div id="p150r_3">
 
-<id>p150r_3</id>
+
 
 <head><tl>Moules</tl></head>
 
@@ -86,7 +86,7 @@ pour<lb/>
 
 donner liaison, elle ne seroit point necessaire.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 Les <tl>moules</tl> recuits ne peuvent soubstenir<lb/>
 
@@ -101,7 +101,7 @@ en soubstiennent<lb/>
 
 beaucoup.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 L’<m>escaille<lb/>
 

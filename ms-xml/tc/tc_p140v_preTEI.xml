@@ -1,13 +1,13 @@
-<root>
-<page>140v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="140v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f286.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f286.item.r=</image>
 
-<div>
 
-<cont/>
 
-<id>p139v_1</id>
+<div continues="yes" id="p139v_1">
+
+
+
+
 
 <ab>
 
@@ -26,12 +26,12 @@ de<lb/>
 
 grande singularite</ab>
 
-<ab><margin>left-middle</margin><emph>Cachets</emph></ab>
+<ab margin="left-middle"><emph>Cachets</emph></ab>
 
 </div>
 
-<div>
-<id>p140v_1</id>
+<div id="p140v_1">
+
 <head>Pour gecter en <m>soufre</m></head>
 
 <ab>
@@ -42,8 +42,8 @@ pain</m> soubs le <tl>brasier</tl> comme tu scais Moules en ce que<lb/>
 
 tu veulx &amp; laisse seicher &amp; tu auras ton ouvrage fort net</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 Essaye le <m>soufre</m><lb/>
 
@@ -57,8 +57,8 @@ ne senflamme plus<lb/>
 
 </div>
 
-<div>
-<id>p140v_2</id>
+<div id="p140v_2">
+
 <head>Mouler et rapetisser une grande<lb/>
 
 figure</head>
@@ -90,8 +90,8 @@ ou plus ou moings<hr/></ab>
 
 </div>
 
-<div>
-<id>p140v_3</id>
+<div id="p140v_3">
+
 <head>Gect de <m>plomb</m> et <m>estain</m> en<lb/>
 
 <m>plastre</m></head>
@@ -128,10 +128,10 @@ plume</m> &amp; mesmes du <m><la>crocum</la></m> Jay moule en
 
 tresnet &amp; ha soubstenu plusieurs gects</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top" render="tall">
 
-<render>tall</render>
+
+
 
 <hr/><emph>Jay essaye</emph> le<lb/>
 
@@ -185,8 +185,8 @@ d<m>estain</m> xii <ms>deniers</ms> de <m>plomb</m> il est<lb/>
 
 tres bien venu</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 
 Quand il ny a rien<lb/>
 

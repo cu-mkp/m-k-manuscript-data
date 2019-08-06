@@ -1,13 +1,13 @@
-<root>
-<page>145v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="145v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f296.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f296.image</image>
 
-<div>
 
-<cont/>
 
-<id>p145r_2</id>
+<div continues="yes" id="p145r_2">
+
+
+
+
 
 <ab>But <del>because</del> the <tl><bp>fingers</bp></tl> do not press
 evenly, for <del>one</del> if you press on the edges, the middle will
@@ -26,13 +26,13 @@ softest part to the scales. And if your medal does not come out by
 itself, scratch the <tl><m>bone</m></tl> from the back, which is rugged,
 and it will release. When you want to cast, secure &amp; join your two
 <tl><m>bones</m></tl> with some <tl>small points of <m>wood</m></tl>
-&amp;c. But to mold very neatly, there is only our <m>sand</m>.</ab>
+&amp;<corr>c</corr>. But to mold very neatly, there is only our <m>sand</m>.</ab>
 
 </div>
 
-<div>
+<div id="p145v_1" continued="yes">
 
-<id>p145v_1</id>
+
 
 <head>Molding plants and flowers</head>
 
@@ -50,37 +50,37 @@ but rather smooth, in order that it can release well. Then, wet your
 flower or plant in some <m>good eau-de-vie</m>, <del>or else
 <fr>moin</fr></del> placed in a <tl>long glass</tl></ab>
 
-<figure>
+<figure id="fig_p145v_2" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5b1FOQ1Z5b1J3TWc">
 
-<id>fig_p145v_2</id>
 
-<margin>left-bottom</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5b1FOQ1Z5b1J3TWc</link>
+
+
+
 
 </figure>
 
-<cont/>
+
 
 </div>
 
-<div>
+<div id="p145v_2" margin="left-top">
 
-<id>p145v_2</id>
 
-<margin>left-top</margin>
+
+
 
 <head>Flowers</head>
 
-<ab><comment>c_145v_01</comment>
+<ab><comment rid="c_145v_01"/>
 
 <mark>+</mark>
 
 </ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 When you mold them, if they are not strong enough to hold themselves
 upright, pass a <tl>thread</tl> through the <tl>mold</tl> to keep them
@@ -88,27 +88,27 @@ from rising up, &amp; cast the <m>sand</m> little by little, &amp; always blow
 strongly in order that it settles everywhere, otherwise it will become
 lumpy.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Because you did not put in this a <tl><m>clay</m> slab</tl>, the
 <tl>mold</tl> sometimes holds to the <tl>table</tl> where you cast it.
 To undo it, hit a great blow of a <tl>hammer</tl> at the side of the
 <tl>table</tl>.</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 It is enough to reheat your <m><tl>luted</tl></m> <tl>mold</tl> once for flowers
 &amp; to heat it the second time if you cast with <m>tin</m> &amp;
 <m>lead</m>, for with <m>gold</m> &amp; <m>silver</m>, one needs to
 reheat it twice.</ab>
 
-<ab>
+<ab margin="bottom">
 
-<margin>bottom</margin>
+
 
 Cast your <m>tin</m> very red in the <tl>mold</tl>, <sn>of
 <corr>such</corr> heat that you can hold your <tl><bp>finger</bp></tl>

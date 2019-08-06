@@ -1,13 +1,13 @@
-<root>
-<page>025r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="025r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f55.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f55.item</image>
 
-<div>
 
-<cont/>
 
-<id>p024v_1</id>
+<div continues="yes" id="p024v_1">
+
+
+
+
 
 <ab>cent <ms>pas</ms> loing de la batterie &amp; on les entourne de
 barriquades<lb/>
@@ -96,11 +96,11 @@ ce faisant tu esbranles plusieurs pierres<hr/></ab>
 
 
 
-<ab>
+<ab margin="left-bottom" render="wide">
 
-<margin>left-bottom</margin>
 
-<render>wide</render>
+
+
 
 Aulcuns mettent des petites roues dune piece &amp; de quelque table
 espece au bout<lb/>

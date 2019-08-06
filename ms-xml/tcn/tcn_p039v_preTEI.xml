@@ -1,10 +1,10 @@
-<root>
-<page>039v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="039v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f84.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f84.image</image>
 
-<div>
-<id>p039v_1</id>
+
+
+<div id="p039v_1">
+
 <head><m>Esmail</m></head>
 
 <ab>L’<m>esmail</m> prend plus volontiers sur le <m>cuivre</m> que sur
@@ -25,8 +25,8 @@ que l’<m>argent fin</m> ou l’<m><m>or</m> de <cn>pistolet</cn></m>.</ab>
 
 </div>
 
-<div>
-<id>p039v_2</id>
+<div id="p039v_2">
+
 <head>Couleurs sur <m>verre</m><lb/>
 
 d’enlumineure</head>
@@ -39,8 +39,8 @@ mastic</m>.</ab>
 
 </div>
 
-<div>
-<id>p039v_3</id>
+<div id="p039v_3" continued="yes">
+
 <head>Trasser sur le <m>verre</m> quelque<lb/>
 
 histoire</head>
@@ -122,7 +122,7 @@ fœille d’<m>estain</m><lb/>
 
 donne jour aulx couleurs. Ainsy tu pourras paindre sans estre</ab>
 
-<cont/>
+
 
 </div>
 </root>

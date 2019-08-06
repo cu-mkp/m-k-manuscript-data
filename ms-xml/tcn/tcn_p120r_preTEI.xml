@@ -1,10 +1,10 @@
-<root>
-<page>120r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="120r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f245.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f245.image</image>
 
-<div>
-<id>p120r_1</id>
+
+
+<div id="p120r_1">
+
 <head>Medailles d’estampe par la <m>cire</m></head>
 
 <ab>Tu peulx mouler en <m>cire</m>, meslée d’un peu de <m>rousine</m>
@@ -22,12 +22,12 @@ d’<m>estain</m></tl>, <del>Et pu</del> et puys le remplir<lb/>
 de <m>plomb</m> &amp; braser. Essaye les <m>lames de fœilles de
 pierrerie</m><lb/>
 
-moulé en cave pour <al>lesards</al> &amp;<sup>c</sup>.</ab>
+moulé en cave pour <al>lesards</al> &amp;<corr>c</corr>.</ab>
 
 </div>
 
-<div>
-<id>p120r_2</id>
+<div id="p120r_2">
+
 <head><m>Sable pour gecter en <m>or</m></m></head>
 
 <ab>Prens du <m>sable commun</m>, d’<m>alum</m>, de <m>plastre</m> &amp;
@@ -55,8 +55,8 @@ ne soict guere espés, car<lb/>
 
 il s’en recuit mieulx.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 Tu pourrois bien gecter l’<m>or</m> en <m>sable commun des
 <pro>orfevres</pro></m>, mays que tu y bouttes<lb/>
 
@@ -69,8 +69,8 @@ n’y ha pas quara<exp>n</exp>te <ms><tmp>ans</tmp></ms> qu’on<lb/>
 
 le sçait en <pl>Allemaigne</pl>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Le <m>sublime</m><lb/>
 
 est communem<exp>ent</exp><lb/>
@@ -143,9 +143,9 @@ de <pa>Santonique</pa></m>. </ab>
 
 </div>
 
-<div>
-<id>p120r_3</id>
-<head><del>Il</del><al><add>R</add>ossignol</al></head>
+<div id="p120r_3" continued="yes">
+
+<head><del>Il</del><al>Rossignol</al><comment rid="c_120r_03"/></head>
 
 <ab> Il fault que sa <tl>cage</tl>, faicte co<exp>mm</exp>e celle des
 <al>alouetes</al> en <env>grange</env><lb/>
@@ -172,14 +172,14 @@ gras<lb/>
 &amp; plain, &amp; par ainsy, pour l’entretenir en sa force, il fault
 pour le<lb/>
 
-<tmp>premier jour</tmp> l<del>uy</del><add>e</add> prendre en la
+<tmp>premier jour</tmp> l<del>uy</del>e<comment rid="c_120r_02"/> prendre en la
 <tl><bp>main</bp></tl> &amp; luy ouvrir le bec, &amp; luy<lb/>
 
 mectre dans le bec avecq ung <tl>petit baston poinctu</tl> du <m>cœur
 de <al>mouton</al></m><lb/>
 
 ou aultre <m>chair delicate</m>, non pas hachée trop menu, affin de luy
-emplir<comment>c_120r_01</comment><lb/>
+emplir<comment rid="c_120r_01"/><lb/>
 
 le ventre &amp; garder qu’il ne se diminue &amp; amaigrisse jusques à
 ce<lb/>
@@ -204,7 +204,7 @@ elle estoit endurcie<lb/>
 il fault que tu l’apaste co<exp>mm</exp>e devant, &amp; fais ainsy
 jusques à ce qu’il</ab>
 
-<cont/>
+
 
 </div>
 </root>

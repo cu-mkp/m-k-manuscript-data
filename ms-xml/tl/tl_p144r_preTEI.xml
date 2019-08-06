@@ -1,11 +1,11 @@
-<root>
-<page>144r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="144r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f293.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f293.image</image>
 
-<div>
 
-<id>p144r_1</id>
+
+<div id="p144r_1" continued="yes">
+
+
 
 <head><al>Turtles</al></head>
 
@@ -46,40 +46,35 @@ should be lower than the shell of the <del><fr>s</fr></del>
 <del><fr>e</fr></del> <del>of</del> belly, make a little pit in the
 <tl><m>clay</m> slab</tl> to adapt them there. Your <al>turtle</al></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle" render="tall">
 
-<render>tall</render>
+
 
 When they are better mortified &amp; rested two or three
 <ms><tmp>days</tmp></ms>, they bend and are handled better.</ab>
 
-<figure>
+<figure id="fig_p144r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5emg1MXZLREtSRk0">
 
-<margin>left-middle</margin>
 
-<id>fig_p144r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5emg1MXZLREtSRk0</link>
+
 
 </figure>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <emph>
 
 animal eyes of my invention</emph></ab>
 
-<figure>
+<figure id="fig_p144r_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ZkN6Y3ZTM1pKRG8">
 
-<margin>left-middle</margin>
 
-<id>fig_p144r_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5ZkN6Y3ZTM1pKRG8</link>
 
 </figure>
 
-<cont/>
+
 
 </div>
 </root>

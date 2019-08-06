@@ -1,11 +1,11 @@
-<root>
-<page>102v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="102v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f210.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f210.image</image>
 
-<div>
 
-<id>p102v_1</id>
+
+<div id="p102v_1">
+
+
 
 <head>Paindre sur <m>cristal</m> ou <m>verre</m></head>
 
@@ -35,9 +35,9 @@ ou d’<m>argent</m></m></ab>
 
 </div>
 
-<div>
+<div id="p102v_2">
 
-<id>p102v_2</id>
+
 
 <head>Infusion d’<m><pa>anthos</pa></m> ou
 <m><pa>rosmarin</pa></m></head>
@@ -78,9 +78,9 @@ les <pro>vieulx</pro></md>. <pn>Paul tiers</pn> en usoit.</ab>
 
 </div>
 
-<div>
+<div id="p102v_3">
 
-<id>p102v_3</id>
+
 
 <head>Gect</head>
 
@@ -100,15 +100,15 @@ en ceste sorte tu l’auras plus nette, et puys tu pourras<lb/>
 <m>souldre</m> deulx moictiés ensemble. Mays si tu es contrainct<lb/>
 
 de le mouler espés, <del>a</del>fais en la forme &amp; moule
-force<comment>c_102v_04</comment><lb/>
+force<comment rid="c_102v_04"/><lb/>
 
 abrevouers aultour de la figure en ceste sorte.
 
-<figure>
+<figure id="fig_p102v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SjZwV0ZHdW93ZEk">
 
-<id>fig_p102v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5SjZwV0ZHdW93ZEk</link>
+
+
 
 </figure>
 

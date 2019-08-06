@@ -1,11 +1,11 @@
-<root>
-<page>015v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="015v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f36.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f36.item</image>
 
-<div>
 
-<id>p015v_1</id>
+
+<div id="p015v_1">
+
+
 
 <head>Tablettes</head>
 
@@ -20,9 +20,9 @@ dargent</tl> Et apres on lefface avecq de l<tl><m>os de
 
 </div>
 
-<div>
+<div id="p015v_2">
 
-<id>p015v_2</id>
+
 
 <head>L<exp>ett</exp>re plus lisable</head>
 
@@ -36,9 +36,9 @@ l<exp>ett</exp>re</ab>
 
 </div>
 
-<div>
+<div id="p015v_3">
 
-<id>p015v_3</id>
+
 
 <head>Stamper</head>
 
@@ -50,16 +50,17 @@ fayre fort legere fais en un cave de <m>plomb</m> puys estands<lb/>
 sur iceluy du <m>clinquant</m> ou des <m>lames de plomb</m> ou
 d<m>argent<lb/>
 
-<del>recuit</del> recuit</m> &amp; pose ta
+recuit recuit</m> &amp; pose ta
+
 medaille de <m>bronze</m> dessus &amp; frappe avecq<lb/>
 
 un <tl>mail de <m>bois</m></tl></ab>
 
 </div>
 
-<div>
+<div id="p015v_4">
 
-<id>p015v_4</id>
+
 
 <head>Ramolir la <m>corne</m></head>
 
@@ -76,15 +77,15 @@ sur un <tl>triboulet en rond ou faict en ovale</tl></ab>
 
 </div>
 
-<div>
+<div id="p015v_5">
 
-<id>p015v_5</id>
+
 
 <head><bp>Oreilles</bp></head>
 
 <ab>Quand quelque <md>defluxion</md> y vient il se fault bien garder dy rien<lb/>
 
-mectre dedans Et selon le proverbe <md>a<comment>c_015v_05</comment>
+mectre dedans Et selon le proverbe <md>a<comment rid="c_015v_05"/>
 l<bp>œil</bp> &amp; a l<bp>oreille</bp> il ny fault<lb/>
 
 toucher que du <bp>coulde</bp></md> Touteffois a l<bp>oreille</bp> affectee
@@ -97,9 +98,9 @@ bien fort</md></ab>
 
 </div>
 
-<div>
+<div id="p015v_6">
 
-<id>p015v_6</id>
+
 
 <head><md>Mal des <bp>dents</bp></md></head>
 

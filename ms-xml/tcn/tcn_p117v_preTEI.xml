@@ -1,10 +1,10 @@
-<root>
-<page>117v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="117v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f240.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f240.image</image>
 
-<div>
-<id>p117v_1</id>
+
+
+<div id="p117v_1">
+
 <head>Pour faire sortir la <m>cendre</m><lb/>
 
 des <tl>moules</tl> des fleurs et herbes</head>
@@ -42,8 +42,8 @@ pour rompre en secouant les <m>os calcinés de l’animal</m>, à cause<lb/>
 que ledit <m>☿</m> s’esvacue &amp; n’y demeure
 point.</ab>
 
-<ab>
-<margin>left-top</margin>
+<ab margin="left-top">
+
 La tige de l’<pa>asperge</pa> est si<lb/>
 
 dure que le plus souvent elle demeure<lb/>
@@ -66,8 +66,8 @@ une grosse tige tirée<lb/>
 
 par la <tl>filiere</tl>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Si la chose bruslée<lb/>
 
 a laissé quelque<lb/>
@@ -96,8 +96,8 @@ ou <tl>pinceau coupé</tl>.</ab>
 
 </div>
 
-<div>
-<id>p117v_2</id>
+<div id="p117v_2">
+
 <head><pa>Marguerites</pa></head>
 
 <ab>Elles se pourroient bien gecter en <m>or</m>. Mays si tu les veulx
@@ -111,8 +111,8 @@ confondroit.</ab>
 
 </div>
 
-<div>
-<id>p117v_3</id>
+<div id="p117v_3">
+
 <head><m>Sable qui ha servi</m></head>
 
 <ab>Il ne le faut pas gecter. Mais à cause qu’il est meslé d’<m>alum de
@@ -124,8 +124,8 @@ au lieu de <m>brique</m>.</ab>
 
 </div>
 
-<div>
-<id>p117v_4</id>
+<div id="p117v_4">
+
 <head>Mouler à noyau figures de <m>cire</m><lb/>
 
 ou medailles de <m>plomb</m></head>
@@ -152,8 +152,8 @@ d’y mesler tousjours un peu<lb/>
 
 de <m>sel armoniac</m>.</add></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Les medailles<lb/>
 
 se moulent ainsy fort<lb/>
@@ -162,8 +162,8 @@ net.</ab>
 
 </div>
 
-<div>
-<id>p117v_5</id>
+<div id="p117v_5">
+
 <head><m>Sang des <al>serpens</al></m></head>
 
 <ab>S’il te faut couper quelque <al>serpent</al> dans le <tl>moule</tl>

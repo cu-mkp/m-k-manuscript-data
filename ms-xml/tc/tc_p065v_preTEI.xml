@@ -1,11 +1,11 @@
-<root>
-<page>065v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="065v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f136.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f136.image</image>
 
-<div>
 
-<id>p065v_1</id>
+
+<div id="p065v_1">
+
+
 
 <head>Couleurs mi vives</head>
 
@@ -34,13 +34,15 @@ seconde couche dicelles ne semboit point &amp; demeure luisante</ab>
 
 </div>
 
-<div>
+<div id="p065v_6">
         
-<id>p065v_6</id>
+
         
-<head><margin>left-top</margin>Au naturel<comment>c_065v_01</comment></head>
+<head>Au naturel<comment rid="c_065v_01"/></head>
         
-<ab><margin>left-top</margin>Il y en a qui<lb/>
+<ab margin="left-top" render="tall">
+
+Il y en a qui<lb/>
             
 paignent au<lb/>
             
@@ -62,9 +64,10 @@ l<m>eau</m> affin quil<lb/>
             
 ne seiche point</ab>
         
-<ab>
+<ab margin="left-top" render="tall">
             
-<margin>left-top</margin>
+
+
             
 Les <pro>enleumineurs</pro><lb/>
             
@@ -82,9 +85,10 @@ meslent un peu de<lb/>
             
 faire mieulx courre</ab>
         
-<ab>
+<ab margin="left-top" render="tall">
             
-<margin>left-top</margin>
+
+
             
 Les <pro>painctres</pro><lb/>
             
@@ -108,8 +112,8 @@ avecq le seul <m>cocon</m>
         
 </div>
     
-<div>
-<id>p065v_2</id>
+<div id="p065v_2">
+
 
 <head>Paindre grandes figures</head>
 
@@ -133,68 +137,9 @@ le traict <pro>artiste</pro> &amp; <del>l</del>te rendras la
 
 </div>
 
-<div>
+<div id="p065v_3">
 
-<id>p065v_3</id>
 
-<head>Glasser</head>
-
-<ab>On glasse co<exp>mmun</exp>ement avecq couleurs qui nont point de
-corps<lb/>
-
-co<exp>mm</exp>e la <m>laque</m> &amp; le <m>verdegris</m> Touteffois
-pour se servir<lb/>
-
-des aultres on y mesle quantite de <m>cristallin calcine &amp;
-broye</m><lb/>
-
-qui nha point aussy de corps &amp; <del>rend</del> esclarcist
-lespesseur<lb/>
-
-des aultres</ab>
-
-</div>
-
-<div>
-
-<id>p065v_4</id>
-
-<head>Blanc et noir</head>
-
-<ab>Il est bon quun <pro>aprentif</pro> travaille de blanc &amp; de
-noir<lb/>
-
-deulx ou trois <tmp>ans</tmp> pour se rendre <pro>artiste</pro></ab>
-
-</div><div>
-
-<id>p065v_2</id>
-
-<head>Paindre grandes figures</head>
-
-<ab>Il fault que tu poses ton <m>charbon</m> au bout dun
-<tl>baston</tl><lb/>
-
-affin que tu fasses ton desseing premier de loing pourceque<lb/>
-
-de pres tu ne pourroys si bien juger de la proportion que<lb/>
-
-de certaine &amp; suffisante distance Quand <del>tu</del> aussy tu
-pains<lb/>
-
-de pres tiens ton <m>charbon</m> le plus long que tu pourras<lb/>
-
-&amp; <del>de</del> comme du <bp>bout des doigts</bp> Car en ceste sorte
-tu tadquerras<lb/>
-
-le traict <pro>artiste</pro> &amp; <del>l</del>te rendras la
-<bp>main</bp> legere</ab>
-
-</div>
-
-<div>
-
-<id>p065v_3</id>
 
 <head>Glasser</head>
 
@@ -214,9 +159,9 @@ des aultres</ab>
 
 </div>
 
-<div>
+<div id="p065v_4">
 
-<id>p065v_4</id>
+
 
 <head>Blanc et noir</head>
 
@@ -227,22 +172,24 @@ deulx ou trois <tmp>ans</tmp> pour se rendre <pro>artiste</pro></ab>
 
 </div>
     
-<div>
+<div id="p065v_5">
         
-<id>p065v_5</id>
+
         
 <head><m>Blanc de plomb</m></head>
         
 <ab>Il ne se meurt point &amp; ha beaucoup de corps</ab>
         
 </div>
-<div>
+<div id="p065v_7">
 
-<id>p065v_7</id>
 
-<head><margin>left-top</margin>Impression</head>
 
-<ab><margin>left-top</margin>Il en fault estre<lb/>
+<head>Impression</head>
+
+<ab margin="left-top" render="tall">
+
+Il en fault estre<lb/>
 
 bien curieulx &amp; ne la<lb/>
 
@@ -264,7 +211,7 @@ qui y sont font en fin mourir<lb/>
 
 les couleurs qui sy <del>meu</del> couchent<lb/>
 
-apres Il est bon de la faire<comment>c_065v_02</comment></ab>
+apres Il est bon de la faire<comment rid="c_065v_02"/></ab>
 
 <ab>
 

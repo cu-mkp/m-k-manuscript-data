@@ -1,13 +1,13 @@
-<root>
-<page>025r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="025r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f55.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f55.item</image>
 
-<div>
 
-<cont/>
 
-<id>p024v_1</id>
+<div continues="yes" id="p024v_1">
+
+
+
+
 
 <ab>a hundred <ms>paces</ms> away from the battery &amp; one surrounds
 them with barricades or trenches. And there one goes to get
@@ -45,11 +45,11 @@ wall, some say, <del>for</del> that is, as if at an
 several stones.<hr/></ab>
 
 
-<ab>
+<ab margin="left-bottom" render="wide">
 
-<margin>left-bottom</margin>
 
-<render>wide</render>
+
+
 
 Some put small wheels of the piece and a thick board to the end of the
 carriage of the piece in order that it may be drawn more quickly and

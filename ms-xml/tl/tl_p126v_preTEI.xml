@@ -1,11 +1,11 @@
-<root>
-<page>126v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="126v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f258.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f258.image</image>
 
-<div>
 
-<id>p126v_1</id>
+
+<div id="p126v_1">
+
+
 
 <head><m><la>Crocum ferri</la></m></head>
 
@@ -21,9 +21,9 @@ second time, the <m>vinegar</m> will have much more strength, &amp; the
 use it to cast in <m>gold</m> <del><fr>ven</fr></del> buy the
 <ms>ounce</ms> for forty or fifty <ms><cn>sous</cn></ms>.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 It does not harden the <tl>molds</tl>, and, in scraping, one cannot tell
 that they are harder from it. But it makes the <tl>mold</tl> less dense,
@@ -31,9 +31,9 @@ and it drinks in and attracts the <m>gold</m> better.</ab>
 
 </div>
 
-<div>
+<div id="p126v_2">
 
-<id>p126v_2</id>
+
 
 <head><m>Plaster</m></head>
 
@@ -48,18 +48,18 @@ hot wax</m> the work on which you want to cast your <m>plaster</m>. For,
 by this means, it will not drink it up &amp; will release very
 neatly.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 If the <m>plaster</m> shrinks, it will always make flashing. Find some hard
 ones and <del>it</del> put your <tl>molds</tl> well in the <tl>press</tl> before
 casting.</ab>
 
-<ab><margin>left-middle</margin>It is not good when it
+<ab margin="left-middle">It is not good when it
 shrinks.</ab></div>
 
-<div>
+<div id="p126v_3" continued="yes">
 
-<id>p126v_3</id>
+
 
 <head>Plants difficult to burn in the <fr>noyau</fr></head>
 
@@ -70,17 +70,17 @@ in the small conduits, &amp; if they do not reduce well into
 <m>ashes</m>, it is not possible to empty them from the <tl>mold</tl>.
 Some reheat them, to do this, two or <del><fr>d</fr></del> three
 times. Others, putting several plants together in the <tl>mold</tl>,
-pass through <del>threads</del> the plants &amp; <add>the</add>
-<del><fr>es</fr> <tl>molds</tl></del> <tl>circle of <m>earth</m></tl>,
+pass through <del>threads</del> the plants &amp; <del><fr>es</fr></del>the 
+<del><tl>molds</tl></del><comment rid="c_126v_01"/> <tl>circle of <m>earth</m></tl>,
 which is to receive the <m>tempered sand</m>,<del><fr>plusi</fr></del></ab>
 
-<ab><margin>left-bottom</margin>
+<ab margin="left-bottom">
 
 This does not proceed from plants that have a stem with lines, because
 <pa>rosemary</pa> burns well, but it is in the nature of certain
 plants.</ab>
 
-<cont/>
+
 
 </div>
 </root>

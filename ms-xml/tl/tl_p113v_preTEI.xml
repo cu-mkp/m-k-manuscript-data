@@ -1,13 +1,13 @@
-<root>
-<page>113v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="113v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f232.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f232.image</image>
 
-<div>
 
-<cont/>
 
-<id>p113r_1</id>
+<div continues="yes" id="p113r_1">
+
+
+
+
 
 <ab>such that, while reheating, the two casts will unjoin. <del><fr>Et
 pour pl</fr></del> Therefore, for this effect, take several <tl>bowls of
@@ -32,11 +32,11 @@ continue without delay to put all the rest which is at the bottom, &amp;
 a little thicker than the top, until everything is filled, up to the
 mark for thickness that you made.
 
-<figure>
+<figure id="fig_p113v_4" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bEE5QmFaQWxUYm8">
 
-<id>fig_p113v_4</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5bEE5QmFaQWxUYm8</link>
+
+
 
 </figure> And do not forget to shake the <tl>mold</tl>
 <del><fr>affin</fr></del> while throwing, in order that the <m>wetted sand</m> runs
@@ -47,7 +47,7 @@ being carefully done <del><fr>fai</fr></del>, let it set, which will
 take a <ms><tmp>quarter of an hour</tmp></ms>. Then release the
 <m>clay</m> circle, which can be used another time. And leave it to dry
 a little bit, &amp; separate your <tl>mold</tl> from the
-<m><po>cake</po><comment>c_112v_03</comment> of earth</m>, which also <del><fr>de</fr></del> will
+<m><po>cake</po><comment rid="c_112v_03"/> of earth</m>, which also <del><fr>de</fr></del> will
 be appropriate for molding right away, and trim the excess with a big
 <tl>knife</tl> II, giving to it the long shape of a <mu>mandore</mu>.
 <del><fr>Rasche</fr></del> Scrape &amp; cut also away the back <add>of
@@ -55,24 +55,24 @@ the <tl>mold</tl></add>, which is always the weakest, and adapt it
 cleanly thus. And do not forget to make notches around, in order that the
 second cast anchors itself there &amp; binds better
 
-<figure>
+<figure id="fig_p113v_5" link="https://drive.google.com/open?id=0B9-oNrvWdlO5V29QdUxZVmxCUDQ">
 
-<id>fig_p113v_5</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5V29QdUxZVmxCUDQ</link>
+
+
 
 </figure> without changing.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 <ups>If you can, fill</ups> your half <tl>mold</tl> in one go &amp; with
 <del><fr>la pre</fr></del> one tempered batch it is the best.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 <mark>#</mark>
 
@@ -80,26 +80,27 @@ second cast anchors itself there &amp; binds better
 <del>And the <m>water</m></del> If you cast in two goes, it is enough
 to put <m>sal ammoniac water</m> at the first bowlful. </ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 Make it clear like a <m>pureed broth</m>, or like <m>starch
 water</m>, that <pro>women</pro> use to make their <m>starch</m>. For
 there is no risk in it being very clear, because <m>sand</m> always settles in
-the bottom &amp; <m>water</m> separates &amp; remains on top. The sand that one scrapes as well <ill/><fr>mme</fr> too weak &amp; soft. And it will not let
+the bottom &amp; <m>water</m> separates &amp; remains on top. The sand that one 
+scrapes as well <ill/><fr>mme</fr> too weak &amp; soft. And it <corr>will</corr> not let
 itself set quickly, for all things calcined dry out promptly from mixed
 <m>water</m>.</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
 
-<figure>
 
-<id>fig_p113v_3</id>
+<figure id="fig_p113v_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dEdzS040X3RjbkU">
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dEdzS040X3RjbkU</link>
+
+
+
 
 </figure>
 
@@ -108,9 +109,9 @@ If you do not fill in one go your <tl>mold</tl>
 second cast with the <del><fr>e p</fr></del> surface of the first,
 <del><fr>p</fr></del> by mixing with your <tl>spoon</tl> or <tl>spatula</tl> with which you temper it.</ab>
 
-<ab>
+<ab margin="left-bottom">
 
-<margin>left-bottom</margin>
+
 
 <m>Sal ammoniac water</m> is not necessary to small
 <tl>molds</tl>, which require neither a big nor long fire to be
@@ -120,9 +121,9 @@ reheated, however, when you put some in, it will only be better. <ill/>
 
 </div>
 
-<div>
+<div id="p113v_1">
 
-<id>p113v_1</id>
+
 
 <head><del>Second cast</del></head>
 

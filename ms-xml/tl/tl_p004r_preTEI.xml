@@ -1,11 +1,11 @@
-<root>
-<page>004r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="004r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f13.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f13.image</image>
 
-<div>
 
-<id>p004r_1</id>
+
+<div id="p004r_1">
+
+
 
 <head><m>Varnish of spike lavender oil</m></head>
 
@@ -33,9 +33,9 @@ your very hot <m>hide glue</m>, because if were cold it
 would not penetrate the wall, &amp; when you would put your
 <m>varnish</m> on, it would come off.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <m>Varnish of spike lavender oil</m> is not as appropriate for colors as
 that of <m>turpentine</m>, for <m>spike lavender oil</m> <del>makes them
@@ -44,9 +44,9 @@ penetrating.</ab>
 
 </div>
 
-<div>
+<div id="p004r_2">
 
-<id>p004r_2</id>
+
 
 <head>For removing <m>varnish</m> from an old panel that is yellowish &amp;
 varnishing it anew</head>
@@ -60,9 +60,9 @@ Next put it for <ms><tmp>a quarter of an hour</tmp></ms> <env>in the
 sun</env> to make it dry and to revive the colors. Next, once the panel
 is dry, you can spread your <m>turpentine varnish</m> on it.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Make sure the colors do not come off.</ab>
 

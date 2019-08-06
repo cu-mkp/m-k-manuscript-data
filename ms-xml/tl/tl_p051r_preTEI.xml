@@ -1,10 +1,10 @@
-<root>
-<page>051r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="051r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f107.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f107.image</image>
 
-<div>
-<id>p051r_1</id>
+
+
+<div id="p051r_1">
+
 <head>Counterproofing</head>
 
 <ab>Make some <m>soap water</m> &amp; with this, rub &amp; moisten the
@@ -27,8 +27,8 @@ water</m>, then mix some <m>soap</m> in it &amp; do as is said.</ab>
 
 </div>
 
-<div>
-<id>p051r_2</id>
+<div id="p051r_2" continued="yes">
+
 <head><pro>Cutters of <tl>printing plates</tl></pro></head>
 
 <ab>To clean the <tl><m>copper</m> plates</tl>, or to make worn ones
@@ -51,16 +51,16 @@ one follows in cutting the surface. You could do this with historiated
 &amp; layer your colors on the uncovered area. To make <m>ink</m> for
 <tl><m>copper</m> plates</tl></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 These <tl>rollers</tl> are good for promptly printing with cut <m><fr>cartons</fr></m> different kinds of <m>pastes</m>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 One can place the <tl>plates</tl> among the <tl>linen</tl> when the
 <m>lye</m> is quite pure, or else in a <tl>pot</tl>.</ab>
 
-<cont/>
+
 
 </div>
 </root>

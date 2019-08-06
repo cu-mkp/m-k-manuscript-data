@@ -1,11 +1,11 @@
-<root>
-<page>163r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="163r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f331.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f331.image</image>
 
-<div>
 
-<id>p163r_1</id>
+
+<div id="p163r_1">
+
+
 
 <head><pro>Perfumer</pro></head>
 
@@ -14,7 +14,7 @@ of <m>musk</m>, &amp; a very little <m>civet</m>, because <m>amber</m>
 always overtakes the principal <sn>scent</sn> of <m>musk</m>.</ab>
 
 <ab>To spare the <m>amber</m>, they readily put a little <m>musk</m> in
-the white layers &amp; <del><fr>pour l</fr></del> which gives a more
+the white layers <corr><del>&amp; </del></corr><del><fr>pour l</fr></del> which gives a more
 forceful <sn>scent</sn>. But to remove <del><fr>la</fr></del> or hide the
 blackness of the <m>musk</m>, they put in a bit of <m><pa>wheat</pa>
 starch from <pl>England</pl></m>, which is perfectly white.</ab>
@@ -40,9 +40,9 @@ the other. And leave it to dry. Next, trace again as before until the
 
 </div>
 
-<div>
+<div id="p163r_2">
 
-<id>p163r_2</id>
+
 
 <head><m>Eau-de-vie</m></head>
 

@@ -1,13 +1,13 @@
-<root>
-<page>023r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="023r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f51.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f51.image</image>
 
-<div>
 
-<id>p023r_1</id>
-<head><sup>On petards</sup></head>
-<ab><wp>Mortier</wp><comment>c_008r_04</comment> tel se faict qui poise trois <ms>quintals</ms> porte
+
+<div id="p023r_1" continued="yes">
+
+
+<head><sup>Mortiers</sup></head>
+<ab><wp>Mortier</wp><comment rid="c_008r_04"/> tel se faict qui poise trois <ms>quintals</ms> porte
 balle<lb/>
 
 de <wp>canon</wp> platte du coste quelle doibt sortir &amp; ronde par le<lb/>
@@ -95,9 +95,9 @@ de sorte quelle soict comme un boyau par <del>l</del>Ou un
 gros come le <bp><ms>doigt</ms></bp> puisse passer Emplis la toute de
 bonne<lb/></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Cestuy cy est pour<lb/>
 
@@ -135,19 +135,19 @@ charge scavoir x <ms>lb</ms><lb/>
 
 charrette</m></ab>
 
-<figure>
+<figure id="fig_p023r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5RzRNM284T3Q0eTQ">
 
-<id>fig_p023r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5RzRNM284T3Q0eTQ</link>
+
+
+
 
 </figure>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Il le fault couvrir<lb/>
 
@@ -191,7 +191,7 @@ du <wp>mortier</wp> de deulx<lb/>
 
 mettent que la balle</ab>
 
-<cont/>
+
 
 </div>
 </root>

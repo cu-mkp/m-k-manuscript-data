@@ -1,11 +1,11 @@
-<root>
-<page>022r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="022r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f49.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f49.image</image>
 
-<div>
 
-<id>p022r_1</id>
+
+<div id="p022r_1">
+
+
 
 <head>Balle de <wp>canon</wp> poisant<lb/>
         
@@ -13,15 +13,15 @@
         
 <ms>pied de roy</ms>.</head>
 
-<figure>
+<figure id="fig_p022r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dWtBam9HWEpiaHc">
 
-<id>fig_p022r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dWtBam9HWEpiaHc</link>
+
+
 
 </figure>
     
-<ab><margin>top</margin>Un peu trop grande, voy celle <lb/>
+<ab margin="top">Un peu trop grande, voy celle <lb/>
 
 <del>de</del> qui suict.</ab>
 

@@ -1,11 +1,11 @@
-<root>
-<page>066r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="066r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f137.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f137.image</image>
 
-<div>
 
-<id>p066r_1</id>
+
+<div id="p066r_1">
+
+
 
 <head>Doubles couches</head>
 
@@ -22,9 +22,9 @@ coucher legeres &amp; gueres especes pour les bien adoulcir.</ab>
 
 </div>
 
-<div>
+<div id="p066r_2">
 
-<id>p066r_2</id>
+
 
 <head>Umbres</head>
 
@@ -34,13 +34,13 @@ coucher legeres &amp; gueres especes pour les bien adoulcir.</ab>
 </div>
 
 
-<div>
-<id>p066r_6</id>
-        
-<head><margin>left-top</margin><mark>*</mark><m>Or mat</m></head>
+<div id="p066r_6" continued="yes">
 
-<ab><margin>left-top</margin>
-<render>tall</render>
+        
+<head><mark>*</mark><m>Or mat</m></head>
+
+<ab margin="left-top" render="tall">
+
 
 Il se faict de <m>massicot</m>,<lb/>
 
@@ -79,8 +79,8 @@ pour le rendre desiccatif.</ab>
     
     
 
-<ab><margin>left-top</margin>
-<render>tall</render>Le <m>vernis</m> sera<lb/>
+<ab margin="left-top" render="tall">
+Le <m>vernis</m> sera<lb/>
 
 sec dans une<lb/>
 
@@ -102,8 +102,8 @@ ou dix <ms><tmp>jours</tmp></ms>.</ab>
     
     
 
-<ab><margin>left-top</margin>
-<render>tall</render>L’or couleur qui se<lb/>
+<ab margin="left-top" render="tall">
+L’or couleur qui se<lb/>
 
 faict de couleures<lb/>
 
@@ -127,7 +127,7 @@ pluye</env> &amp; dans l’<m>eau</m>. Il ne le fault pas brunir car la
 Amasse ces baves &amp; petites<lb/>
 
 lambeaulx que le <tl><m>cotton</m></tl> faict eslever quand
-l’<m>or</m> est sec &amp; que tu le nettoyent, car l’<ms>once</ms> est
+l’<m>or</m> est sec &amp; que tu le nettoye<corr>s</corr>, car l’<ms>once</ms> est
 aulta<exp>n</exp>t d’<m>or</m>. En <pl>Flandres</pl>, les<lb/>
 
 femmes <del>font</del> dorent.<lb/>
@@ -140,8 +140,8 @@ le battent trop delié.</ab>
     
     
 
-<ab><margin>left-top</margin>
-<render>tall</render>Halene sur l’or couleur, et s’il ternist,<lb/>
+<ab margin="left-top" render="tall">
+Halene sur l’or couleur, et s’il ternist,<lb/>
 
 il est assés sec, mays s’il ne recoit point<lb/>
 
@@ -149,8 +149,8 @@ la vapeur de l’halene, il ne l’est pas assés.</ab>
     
     
 
-<ab><margin>left-top</margin>
-<render>tall</render>Il ne fault<lb/>
+<ab margin="left-top" render="tall">
+Il ne fault<lb/>
 
 pas dorer d’<m>or<lb/>
 
@@ -172,13 +172,13 @@ grippe l’<m>or</m>. Aprés<lb/>
 
 on vernit.</ab>
 
-<cont/>
+
 
 </div>
     
-<div>
+<div id="p066r_3">
         
-<id>p066r_3</id>
+
         
 <head>Paindre à <m>destrempe</m><lb/>
             
@@ -204,9 +204,9 @@ cela soubstient le <m>vernis</m>, mays cela n’est pas de durée.</ab>
         
 </div>
     
-<div>
+<div id="p066r_4">
         
-<id>p066r_4</id>
+
         
 <head>Couleurs à <m>huile</m> qui s’emboivent</head>
         
@@ -233,7 +233,7 @@ car s’il estoit cler, il s’emboiroit &amp; couleroit.</ab>
         
 <ab>
             
-<comment>c_066r_04</comment>Sur <m>toile</m> &amp; à<lb/>
+<comment rid="c_066r_04"/>Sur <m>toile</m> &amp; à<lb/>
             
 <m>destrempe</m>, on dore<lb/>
             
@@ -245,14 +245,14 @@ peu de <m>suc d’ail</m>.</ab>
         
 </div>
     
-<div>
+<div id="p066r_5" continued="yes">
         
-<id>p066r_5</id>
+
         
 <head>Dorer mouleure de tableaulx d’<m>or mat</m></head>
         
 <ab>voy de l’aultre part de ce fœillet ceste marque
-<mark>*</mark><comment>c_066r_01</comment></ab>
+<mark>*</mark><comment rid="c_066r_01"/></ab>
         
 <ab>Les <pl>Flaments</pl> donnent une couche de <m>colle à destrempe</m>
 sur la mouleure,<lb/>
@@ -280,7 +280,7 @@ ungs que tout ce noir soict painct à <m>huile</m>, mays il ne seroit pas
 bon pource que l’<m>or</m><lb/>
             
 s’attaqueroit par tout &amp; non pas seulem<exp>ent</exp> à la moresque.
-Retourne hault à ce <mark>*</mark><comment>c_066r_02</comment></ab>
-<cont/>
+Retourne hault à ce <mark>*</mark><comment rid="c_066r_02"/></ab>
+
 </div>
 </root>

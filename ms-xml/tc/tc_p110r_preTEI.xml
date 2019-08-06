@@ -1,10 +1,10 @@
-<root>
-<page>110r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="110r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f225.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f225.image</image>
 
-<div>
-<id>p110r_1</id>
+
+
+<div id="p110r_1">
+
 <head>Mouler</head>
 
 <ab>Tu pourrois bien mouler sur la chose <add>et animal</add> desja
@@ -16,8 +16,8 @@ faire quattre ou cinq <tl>moules</tl></ab>
 
 </div>
 
-<div>
-<id>p110r_2</id>
+<div id="p110r_2">
+
 <head><m>Rocher</m> &amp; <env>grotte</env></head>
 
 <ab>Il fault <tl>piler</tl> des <m>marchasites blanches &amp; jaulnes</m> &amp;
@@ -40,8 +40,8 @@ tu auras un bel ouvrage</ab>
 
 </div>
 
-<div>
-<id>p110r_3</id>
+<div id="p110r_3" continued="yes">
+
 <head><al>Serpens</al></head>
 
 <ab>Quand ils se sentent pris ils ne mordent gueres &amp; nont pas<lb/>
@@ -66,7 +66,7 @@ entortile<lb/>
 en forme de S Jay veu que <pn>celuy qui maprist a les mouler</pn><lb/>
 
 nen faisoict aucun compte &amp; masseuroit ny faire aultre
-subtil<ups>ite</ups><comment>c_110r_01</comment><lb/>
+subtil<ups>ite</ups><comment rid="c_110r_01"/><lb/>
 
 sinon quen le prenant il le tiroit un peu presse &amp; acache par<lb/>
 
@@ -76,7 +76,7 @@ te<ups>lle</ups><lb/>
 sorte quil rendoit <del>soubs</del> par le fondem<exp>ent</exp> qui est
 a cinq ou six<lb/>
 
-<ms><bp>doitgts</bp></ms><comment>c_110r_02</comment> du bout de la
+<ms><bp>doitgts</bp></ms><comment rid="c_110r_02"/> du bout de la
 queue tout ce quil avoit de meschant<lb/>
 
 et veneneux dans le ventre quapres cela il nha point force<lb/>
@@ -98,8 +98,8 @@ la <md>partie infectee</md> en tire tout le venin sans aultre chose<lb/>
 Aultant est il du venin du <al>crapault</al> que jay veu
 experiment<ups>er</ups></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Dans trois<lb/>
 
 il est presque<lb/>
@@ -136,7 +136,7 @@ que tu veulx<lb/>
 
 mouler</ab>
 
-<cont/>
+
 
 </div>
 </root>

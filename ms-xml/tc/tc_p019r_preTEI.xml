@@ -1,13 +1,13 @@
-<root>
-<page>019r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="019r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f43.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f43.image</image>
 
-<div>
 
-<cont/>
 
-<id>p017r_1</id>
+<div continues="yes" id="p017r_1">
+
+
+
+
 
 <ab>
 
@@ -39,9 +39,9 @@ pour faire ceste addition a la culasse Selon la longueur<lb/>
 
 que lon leur baille</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 La force de la<lb/>
 
@@ -53,9 +53,9 @@ le despart que faict<lb/>
 
 la <m>pouldre</m> allumee</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 La force dune berche<lb/>
 
@@ -74,7 +74,7 @@ de long porte balle un quart de <ms>lb</ms> ou un peu moings<lb/>
 <ms>A la culasse 3 balles deulx deva<exp>n</exp>t</ms> On le charge
 tant<lb/>
 
-de <m>pouldre</m> que de <ms>balle</ms> <ms>jusques a la cime de lescusson</ms><comment>c_018v_02</comment><lb/>
+de <m>pouldre</m> que de <ms>balle</ms> <ms>jusques a la cime de lescusson</ms><comment rid="c_018v_02"/><lb/>
 
 qui peult revenir en ces <wp>petites pieces</wp> a <add>3 ou</add> 4
 <ms>balles</ms> <m>pouldre<lb/>
@@ -84,9 +84,9 @@ d<wp>harquebus</wp></m> Car si on employe <m>pouldre de <wp>canon</wp></m> on<lb
 les peult charger de <ms>lespesseur de <del>c</del> cinq
 balles</ms></ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Il fault<lb/>
 
@@ -197,14 +197,11 @@ separement co<exp>mm</exp>e pour servir a aultre usage que <wp>dorgues</wp><lb/>
 
 voy le fœillet suivant 4e marque
 
-<figure>
+<figure id="fig_p019r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5WWY3VjdlVktqZVk">
 
-<id>fig_p019r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5WWY3VjdlVktqZVk</link>
 
-<!--Philip Cherian: Continues into p022v-->
-
+    <comment rid="c_019r_02"/>
 </figure>
 
 </ab>

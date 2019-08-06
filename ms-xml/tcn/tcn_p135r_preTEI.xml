@@ -1,11 +1,11 @@
-<root>
-<page>135r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="135r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f275.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f275.item.r=</image>
 
-<div>
-<id>p135r_1</id>
-<head><m>Couleur</m><comment>c_135r_01</comment> pour <m>or</m> ou saulce</head>
+
+
+<div id="p135r_1">
+
+<head><m>Couleur</m><comment rid="c_135r_01"/> pour <m>or</m> ou saulce</head>
 
 <ab>
 
@@ -27,12 +27,12 @@ Ceste <m>couleur</m> mise sur l’<m>or aigre fondu</m> le rend doulx
 
 incontinent. </ab>
 
-<ab><margin>left-middle</margin><emph>Adoulcir l’<m>or</m></emph></ab>
+<ab margin="left-middle"><emph>Adoulcir l’<m>or</m></emph></ab>
 
 </div>
 
-<div>
-<id>p135r_2</id>
+<div id="p135r_2">
+
 <head>Gect </head>
 
 <ab>
@@ -73,9 +73,9 @@ N’oublie pas de faire gect de <m>cire</m> aux pates des
 
 &amp; choses co<exp>mm</exp>e cella subtilles. </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Quand tu <add>as</add> moulé un animal <lb/>
 
@@ -109,20 +109,20 @@ que tu ayes<lb/>
 
 faict. </ab>
 
-<figure>
+<figure id="fig_p135r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5U3BqOGxwTHNPeVk">
 
-<id>fig_p135r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5U3BqOGxwTHNPeVk</link>
+
+
+
 
 </figure>
 
 </div>
 
-<div>
-<id>p135r_3</id>
+<div id="p135r_3">
+
 <head>
 
 Fœille de <pa>vigne</pa> et <al>petite grenoille</al></head>
@@ -164,8 +164,8 @@ fœille avecq de<lb/>
 la <m>cire</m> co<exp>mm</exp>e tu sçais, &amp; <del>gec</del> fais le
 gect tanvre &amp; de plusieurs trais &amp; grumeleulx.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 
 La fœille de <lb/>
 
@@ -175,9 +175,9 @@ vert faict de <m>scudegru<exp>n</exp></m> <lb/>
 
 &amp; <m>verd de terre.</m> </ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Tu peulx<lb/>
 

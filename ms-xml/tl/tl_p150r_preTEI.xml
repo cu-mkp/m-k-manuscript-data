@@ -1,20 +1,20 @@
-<root>
-<page>150r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="150r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f305.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f305.image</image>
 
-<div>
 
-<id>p150r_1</id>
+
+<div id="p150r_1">
+
+
 
 <head><m>Very strong wax</m></head>
 
 <ab>Mix with this <m>rosin</m> and <m>bole</m>, and do not cast it very
 hot.</ab></div>
 
-<div>
+<div id="p150r_2">
 
-<id>p150r_2</id>
+
 
 <head>Various alloys of <m>tin</m> and <m>lead</m></head>
 
@@ -31,9 +31,9 @@ of <m>fine lead</m> and 4 <ms>℥</ms>
 
 </div>
 
-<div>
+<div id="p150r_3">
 
-<id>p150r_3</id>
+
 
 <head><tl>Molds</tl></head>
 
@@ -61,14 +61,14 @@ cast in a rod.</ab>
 <ab><m>Brick</m> cools the <m>metal</m>, &amp; if this was for giving a
 bond, it will not be necessary.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 The reheated <tl>molds</tl> cannot withstand several casts. But those in
 which one wants to cast only <m>lead</m> or <m>tin</m>
 <corr><del>and</del></corr> <add>or</add> flat medals, having been only
 dried, withstand many.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 <m>Very finely ground iron scales</m> render them very firm &amp;
 strong.</ab></div>.

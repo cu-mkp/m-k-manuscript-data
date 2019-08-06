@@ -1,11 +1,11 @@
-<root>
-<page>038v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="038v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f82.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f82.image</image>
 
-<div>
 
-<id>p038v_1</id>
+
+<div id="p038v_1">
+
+
 
 <head>Black color for <m>dyeing</m></head>
 
@@ -15,9 +15,9 @@ you will make black. Try other colors with <m>lye of lime</m>.</ab>
 
 </div>
 
-<div>
+<div id="p038v_2">
 
-<id>p038v_2</id>
+
 
 <head>Against <md>nose bleed</md> and for <m>dyeing</m></head>
 
@@ -29,9 +29,9 @@ the <md><bp>forehead</bp> of the one who bleeds</md>. This herb is a strong
 
 </div>
 
-<div>
+<div id="p038v_3">
 
-<id>p038v_3</id>
+
 
 <head>Beautiful <pa>artichokes</pa></head>
 
@@ -42,9 +42,9 @@ Also replant some <ms><tmp>every year</tmp></ms>, for the second
 
 </div>
 
-<div>
+<div id="p038v_4">
 
-<id>p038v_4</id>
+
 
 <head>Planting trees</head>
 
@@ -54,9 +54,9 @@ is very appropriate, for it is not undone in the rain like earth.</ab>
 
 </div>
 
-<div>
+<div id="p038v_5">
 
-<id>p038v_5</id>
+
 
 <head><pro>Merchant</pro></head>
 
@@ -69,9 +69,9 @@ double-entry books.</ab>
 
 </div>
 
-<div>
+<div id="p038v_6">
 
-<id>p038v_6</id>
+
 
 <head>Scarlets</head>
 

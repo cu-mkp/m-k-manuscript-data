@@ -1,13 +1,13 @@
-<root>
-<page>139v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="139v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f284.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f284.image</image>
 
-<div>
 
-<cont/>
 
-<id>p139r_1</id>
+<div continues="yes" id="p139r_1">
+
+
+
+
 
 <ab> either of <m>earth</m> or <m>plates of copper</m>, or <m>iron</m>,
 or <m>wood</m> covered with <m><fr>fer blanc</fr></m>, to bury more easily these
@@ -17,8 +17,8 @@ copper</m></tl>, &amp; the <tl>stirrup or screw of
 
 </div>
 
-<div>
-<id>p139v_1</id>
+<div id="p139v_1" continued="yes">
+
 <head>Cast of <m>wax</m> to represent an animal that one has not
 got</head>
 
@@ -56,8 +56,8 @@ unctuousness, does not flow
 
 </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 This <m>black sulfured wax</m> is for modeling round figures that are
 not for releasing, and that one needs to burn in the <tl>mold <fr>à noyau</fr></tl> 
 before opening it, <del><fr>po</fr></del> like those
@@ -67,13 +67,13 @@ exits without leaving any <m>filth</m>. If, by chance, the <m><tl>pestled</tl>
 charcoal</m> remains there as <m>ash</m>, by opening the <tl>mold</tl>
 &amp; blowing inside, it stays neat.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 To make <al>snakes</al> with <m>wax</m>, or another thing to fix on a
 <tl>candle</tl>, one needs to cast with <m>modeling wax</m> of all
 colors.</ab>
 
-<cont/>
+
 
 </div>
 </root>

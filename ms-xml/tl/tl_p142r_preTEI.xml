@@ -1,13 +1,13 @@
-<root>
-<page>142r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="142r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f289.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f289.image</image>
 
-<div>
 
-<cont/>
 
-<id>p141r_1</id>
+<div continues="yes" id="p141r_1">
+
+
+
+
 
 <ab>are not uncovered as much. But because the <al>crayfish</al> is
 awkward to burn &amp; clean, one needs to uncover as much as one can,
@@ -34,7 +34,7 @@ after the second cast unless it has been <m><tl>luted</tl></m> &amp; reheated
 <m><la>crocum</la></m> among your <m>sand</m> when you mold <al>crayfish</al>,
 for one needs to reheat strongly &amp; the <m><la>crocum</la></m>
 withstands marvelously. Molding a <al>crab</al> &amp; a
-<al>crayfish</al> is<comment>c_142r_01</comment> all the same. When you have uncovered
+<al>crayfish</al> is<comment rid="c_142r_01"/> all the same. When you have uncovered
 your <al>crayfish</al> on one side, delay the least that you can for
 making the second cast, for <del><fr>el</fr></del> <al>crayfish</al> dry
 <del><fr>se</fr></del> out. It is not just about uncovering the
@@ -44,27 +44,27 @@ well, for even if the <al>crayfish</al> were well burned, you
 <del><fr>despoui</fr></del> would not be able to open your <tl>mold</tl>
 without breaking.</ab>
 
-<ab><margin>top</margin><render>wide</render>Repair with
+<ab margin="top" render="wide">Repair with
 <tl>penknives</tl>, <del><ill/></del> <tl>files</tl>, <tl>little
-<fr>chaples</fr></tl>, or <tl>burins</tl> &amp;c.</ab>
+<fr>chaples</fr></tl>, or <tl>burins</tl> &amp;<corr>c</corr>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 make all around them, as you see, a gate of <m>wax</m> &amp; at the end
 of the tail, also two or three, from which you make the principal
 gate.</ab>
 
-<figure>
+<figure id="fig_p142r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Qkh2MDhvUkFnUW8">
 
-<id>fig_p142r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Qkh2MDhvUkFnUW8</link>
+
+
+
 
 </figure>
 
-<ab><margin>left-middle</margin>Make a gate of <m>wax</m>, elongated in
+<ab margin="left-middle">Make a gate of <m>wax</m>, elongated in
 a line, like a <m>thick thread</m>, all along the end of the legs, &amp;
 at <del><fr>u</fr></del> the extremity of the tail. If there is also
 some piece of leg or other part that is further away from the line of
@@ -73,7 +73,7 @@ the others, or raised above, or folded on its own, give it a gate of
 of the big legs, or at some other place which receives a lot of
 <m>metal</m>.</ab>
 
-<ab><margin>left-middle</margin>Having uncovered it, attach &amp; secure
+<ab margin="left-middle">Having uncovered it, attach &amp; secure
 with <m>wax</m> the two little hairy horns of the <al>crayfish</al>
 &amp; other things which are not <corr><del><fr>en</fr></del></corr>
 <del><fr>despoui</fr></del> secured at all.</ab>

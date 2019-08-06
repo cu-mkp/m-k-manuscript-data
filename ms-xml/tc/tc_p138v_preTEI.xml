@@ -1,10 +1,10 @@
-<root>
-<page>138v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="138v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f282.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f282.item.r=</image>
 
-<div>
-<id>p138v_1</id>
+
+
+<div id="p138v_1">
+
 <head><m>Talc</m> mesle aulx <tl>moules</tl></head>
 
 <ab>Jay prins de celuy duquel javoys tire l<m>huile</m> Je lay
@@ -26,8 +26,8 @@ doubter quil ne tienne au fœu</ab>
 
 </div>
 
-<div>
-<id>p138v_2</id>
+<div id="p138v_2">
+
 <head><m>Or</m> gecte fort tanvre</head>
 
 <ab>Quand promptement les <pro>orfevres</pro> ont affaire de
@@ -67,8 +67,8 @@ gectees se peuvent<lb/>
 
 </div>
 
-<div>
-<id>p138v_3</id>
+<div id="p138v_3">
+
 <head><m>Diamants contrefaicts</m> mis en<lb/>
 
 œuvre</head>

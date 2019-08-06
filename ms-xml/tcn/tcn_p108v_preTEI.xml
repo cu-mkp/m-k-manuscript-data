@@ -1,16 +1,16 @@
-<root>
-<page>108v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="108v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f222.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f222.image</image>
 
-<div>
 
-<cont/>
 
-<id>p108r_2</id>
+<div continues="yes" id="p108r_2">
+
+
+
+
 
 <ab>ainsy on le destrempe &amp; on le reduict en
-<del>p</del><m>balottes</m>, le repurgeant<lb/>
+<del>p</del><m>balottes</m>,<comment rid="c_108v_01"/> le repurgeant<lb/>
 
 des immundicités. Puys on le mect cuire nettem<exp>ent</exp> dans un
 <del><tl>pot</tl></del> <add><tl>vaisseau de terre</tl></add><lb/>
@@ -84,8 +84,8 @@ plus pour le mundifier que pour aultre chose. Il vient par dessus<lb/>
 roussastre, &amp; par dedans il demeure blanc &amp; est mieulx deseiché
 <mark>#</mark></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <mark>#</mark><lb/>
 
 Aprés que ton <m>alum de<lb/>

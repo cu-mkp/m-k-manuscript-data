@@ -1,16 +1,16 @@
-<root>
-<page>139r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="139r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f283.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f283.image</image>
 
-<div>
-<id>p139r_1</id>
+
+
+<div id="p139r_1" continued="yes">
+
 <head>Casts of <m>lead</m> and <m>tin</m></head>
 
 <ab>
 <add>When it is often melted, it becomes brittle &amp;
 <del><fr>fl</fr></del> frangible, because it is cast very hot &amp;
-renders it half calcined. Therefore, use new. </add></ab>
+renders it half calcined. Therefore, use new.</add><hr/></ab>
 
 <ab>The alloy that I have put in use for <al>lizards</al> &amp;
 <al>snakes</al> is two <ms>℥</ms> of <m>fine tin</m> for one <ms>lb</ms>
@@ -35,7 +35,7 @@ order that it joins well &amp; that the <m>lead</m> does not spread outside the 
 for the first or second or third time your <tl>mold</tl> had not filled,
 cast boldly, for, provided that your <m>metal</m> is red, it will set
 again &amp; join with the other, and come out very neat, like the
-principal.<comment>c_139_03</comment> The same can be said for <m>fine tin</m> for thin things.
+principal.<comment rid="c_139_03"/> The same can be said for <m>fine tin</m> for thin things.
 And the alloy of <m>fine tin</m> is one <ms>℥</ms> of <m>new lead</m>
 for one <ms>lb</ms> of this. Large <tl>molds</tl> should be placed in
 <tl>very tight presses</tl>, between two <tl><m>sheets of
@@ -46,24 +46,24 @@ better. <corr>Otherwise</corr> these<tl> large molds</tl> are subject to
 opening slightly by the weight of the <m>metal</m>. Some make <tl>square
 pots</tl></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 When the medal is thick, one is not constrained to cast as hot as when it
 is thin.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <mark>+</mark>
 
 Note that if you want to cast them in <tl><m><al>cuttlefish</al>
-bone</m></tl>, they ought not be very hot, because they will burn the
+bone</m></tl>, they ought not to be very hot, because they will burn the
 <tl><m><al>cuttlefish</al> bone</m></tl>. <ms>Test for this effect with
 <tl><m>paper</m></tl>. If it turns the <tl><m>paper</m></tl> red, it is
 enough, it is good to cast, but if it blackens the
 <tl><m>paper</m></tl>, it is too hot.</ms></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 If you want to cast a <m>written paper</m>, make your alloy with
 <del><fr>plom</fr></del> <ms>half</ms> <m>lead</m> &amp; <ms>half</ms>
 <m>tin</m>, &amp; as soon as it is melted, cast between two
@@ -73,7 +73,7 @@ wood</m></tl>, engrave on the left the writing that you want. And having
 poured <m>lead</m> on a <tl><m><fr>carton</fr></m></tl>, press on top
 with the other <tl>adapted <m><fr>carton</fr></m></tl>.</ab>
 
-<cont/>
+
 
 </div>
 </root>

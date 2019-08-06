@@ -1,11 +1,11 @@
-<root>
-<page>135v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="135v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f276.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f276.item.r=</image>
 
-<div>
-<id>p135v_1</id>
-<head>Pour gecter en <m>☼</m><comment>c_135v_01</comment></head>
+
+
+<div id="p135v_1" continued="yes">
+
+<head>Pour gecter en <m>☼</m><comment rid="c_135v_01"/></head>
 
 <ab>Prens un <tl><oc>crusol</oc></tl> de capacité convenable pour ce que<lb/>
 
@@ -75,7 +75,7 @@ Lors fais soufler bien fort affin de le bien eschaufer, et<lb/>
 co<exp>mm</exp>e tu penseras qu’il soit assés chault, gecte par dessus
 dans le<lb/>
 
-<tl><oc>crusol</oc></tl> de la <df><m>couleur</m></df><comment>c_135r_01</comment> composée
+<tl><oc>crusol</oc></tl> de la <df><m>couleur</m></df><comment rid="c_135r_01"/> composée
 co<exp>mm</exp>e est dict cy devant de <m>verdet</m>,<lb/>
 
 <m>selpestre</m>, <m>sal armoniac</m> &amp; <m>borras</m> <add>un
@@ -84,8 +84,8 @@ peu</add>. Et <del>laisse reposer</del> soufle<lb/>
 tousjours du <tl>petit souflet</tl>, et l<m>or</m> viendra luisant
 co<exp>mm</exp>e</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Si tu gectes en <m>or</m><lb/>
 
 quelque piece d’importa<exp>n</exp>ce,<lb/>
@@ -98,8 +98,8 @@ où il <del>y a</del> y aye<lb/>
 
 du <m><la>crocum</la></m>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Si tu veulx gecter<lb/>
 
 quelque grand ouvraige en <m>or</m><lb/>
@@ -116,15 +116,15 @@ tenir ton <tl>moule</tl> dans<lb/>
 
 le <m>sable</m> to<del>n</del>ut rouge.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 On peult gecter<lb/>
 
 deulx ou trois <ms>lb</ms><lb/>
 
 d<m>or</m>.</ab>
 
-<cont/>
+
 
 </div>
 </root>

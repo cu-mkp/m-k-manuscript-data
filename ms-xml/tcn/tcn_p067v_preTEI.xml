@@ -1,10 +1,10 @@
-<root>
-<page>067v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="067v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f140.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f140.image</image>
 
-<div>
-<id>p067v_1</id>
+
+
+<div id="p067v_1">
+
 <head><tl>Limes</tl></head>
 
 <ab>Si elles ne sont trempées à pacquet, c’est en la façon<lb/>
@@ -36,8 +36,8 @@ tost inutilles. Le <m>laicton</m>, qui est plus aigre, reçoit les<lb/>
 
 </div>
 
-<div>
-<id>p067v_2</id>
+<div id="p067v_2">
+
 <head><m>Os de pied de <al>beuf</al> pour<lb/>
 
 sable</m></head>
@@ -59,8 +59,8 @@ seicher bien à l’aise. Aprés fortifie les couches<lb/>
 suivantes de <m>bourre</m> meslée avecq ledict <m>sable d’os</m>
 destrempé.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 C’est le <m>sable le<lb/>
 
 plus net qui se<lb/>
@@ -71,8 +71,8 @@ le <m>cuyvre</m></m>.</ab>
 
 </div>
 
-<div>
-<id>p067v_3</id>
+<div id="p067v_3">
+
 <head><m>Huiles d’essence</m></head>
 
 <ab>L’<m>huile <add>de <pa>noix</pa></add></m> meslée avecq aultant de

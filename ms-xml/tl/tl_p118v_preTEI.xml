@@ -1,10 +1,10 @@
-<root>
-<page>118v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="118v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f242.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f242.item</image>
 
-<div>
-<id>p118v_1</id>
+
+
+<div id="p118v_1" continued="yes">
+
 
 <head>Casting in <tl>frames</tl></head>
 
@@ -51,58 +51,59 @@ way, they dry out gently. And if, by chance, they should crack from
 being too moistened, it is on the back, which <del><fr>pr</fr></del>
 takes the harshest fire, &amp; the imprint remains safe &amp;
 <corr>whole</corr>.</ab>
-<ab><margin>left-top</margin>
+<ab margin="left-top">
 For better, one needs to reheat the <m>sand used for the <fr>noyau</fr></m>
 before using it in <tl>frame</tl>, until it no longer
-contracts.</ab><ab>
+contracts.</ab>
 
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 <emph><m>Excellent sand</m></emph></ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 Take a little of the same <m>sand, the finest that you can</m>, to cover
-the medal with.<comment>c_118v_01</comment> <hr/></ab>
+the medal with.<comment rid="c_118v_01"/> <hr/></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 For medals &amp; flat things, the true heat of <m>lead</m> &amp;
 <m>tin</m> is when it is melted gently.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Note that I filled the <tl>frame</tl> before pressing it, and did not
 hit it at all, but rather pressed it only with the strength of my
 <tl><bp>hands</bp></tl>, because hitting it makes it go awry. Secure
 your <tl>frame</tl> that it does not shift at all, &amp; if you put some
 <m>wetted sand</m> under it, it will only hold in place more firmly.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Make the gate so that it is not too thick, so as not to overcharge the
 medal, but wide enough near the medal that it embraces a third part. Do
 not forget the vents.</ab>
+    
 
-<margin>left-middle</margin><figure>
+<ab margin="left-middle"><figure id="fig_p118v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Rm5qaUJCNWVFWlk">
         
-<id>fig_p118v_1</id>
+
         
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Rm5qaUJCNWVFWlk</link>
+
         
 </figure></ab>
     
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 To dry <tl>frames</tl> is to rid them of humidity, so that they no
 longer <m>smoke</m>, once nevertheless having been very hot.</ab>
 
-<ab>
-<margin>left-bottom</margin>
-<render>wide</render>
+<ab margin="left-bottom" render="wide">
+
+
 <df><fr>Recuire</fr></df> is to redden the <tl>frame</tl>, which is done for
 <m>gold</m> and for <m>silver</m>.</ab>
 
-<cont/>
+
 
 </div>
 </root>

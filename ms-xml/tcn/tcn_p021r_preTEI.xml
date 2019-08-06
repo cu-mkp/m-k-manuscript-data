@@ -1,18 +1,18 @@
-<root>
-<page>021r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="021r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f47.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f47.image</image>
 
-<div>
 
-<id>p021r_1</id>
+
+<div id="p021r_1">
+
+
 
 <head><pro>Canonier</pro></head>
 
 <ab>Aulx <wp>petites pieces</wp> qui ne se chargent poinct avec
 <tl>lanterne</tl>, on<lb/>
 
-charge de <m>pouldre</m> <ms>jusques à l’escusson</ms>,<comment>c_018v_02</comment> qui se pose sur la piece
+charge de <m>pouldre</m> <ms>jusques à l’escusson</ms>,<comment rid="c_018v_02"/> qui se pose sur la piece
 avecq<lb/>
 
 deue proportion.</ab>
@@ -49,9 +49,9 @@ considerer que la poisanteur de la balle feroit baisser.</ab>
 
 </div>
 
-<div>
+<div id="p021r_2" continued="yes">
 
-<id>p021r_2</id>
+
 
 <head>Pour tirer de nuict d’un canon</head>
 
@@ -104,15 +104,15 @@ une <tl>regle</tl> bien fichée en terre qui vienne justem<exp>ent</exp>
 bas le bort du <wp>canon</wp> aprés qu’il est poincté &amp; adjousté pour
 tirer.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
 
-Si la platteforme,<lb/><comment>c_021r_01</comment>
+
+Si la platteforme,<lb/><comment rid="c_021r_01"/>
 
 les roues, ou les<lb/>
 
-coings<comment>c_021r_01</comment> se rompent<lb/>
+coings<comment rid="c_021r_01"/> se rompent<lb/>
 
 ou desbauchent,<lb/>
 
@@ -120,7 +120,7 @@ ceste invention n’est<lb/>
 
 pas de proffict.</ab>
 
-<cont/>
+
 
 </div>
 </root>

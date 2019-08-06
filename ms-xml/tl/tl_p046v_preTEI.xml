@@ -1,11 +1,11 @@
-<root>
-<page>046v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="046v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f98.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f98.image</image>
 
-<div>
 
-<id>p046v_1</id>
+
+<div id="p046v_1">
+
+
 
 <head><pro>Scribe</pro>, <m>Oil of sulfur</m></head>
 
@@ -16,24 +16,24 @@ clean. <emph><fr>Urb.</fr></emph></ab>
 
 </div>
 
-<div>
+<div id="p046v_2">
 
-<id>p046v_2</id>
+
 
 <head><pro>Shoemaker</pro></head>
 
 <ab>If he wants to do some tanned work on <m>black leather</m> shoes, he
 can dip a <tl>writing quill</tl> in <m>oil of sulfur</m> and paint with
-it what he would like on shoes, boots, and <fr>colets</fr>.<comment>c_046v_02</comment> And he will obtain a
+it what he would like on shoes, boots, and <fr>colets</fr>.<comment rid="c_046v_02"/> And he will obtain a
 reddish color which will not disappear by any effort. <emph><fr>Urb.</fr></emph>
 
 </ab>
 
 </div>
 
-<div>
+<div id="p046v_3">
 
-<id>p046v_3</id>
+
 
 <head>Erasing a letter</head>
 
@@ -47,9 +47,9 @@ they will disappear on <m>parchment</m>. <emph><fr>Urb.</fr></emph>
 
 </div>
 
-<div>
+<div id="p046v_4">
 
-<id>p046v_4</id>
+
 
 <head>Writing without <m>ink</m></head>
 
@@ -60,25 +60,21 @@ black as this one. <emph><fr>Urb.</fr></emph>
 
 </ab>
 
-<figure>
+<figure id="fig_p046v_1" margin="right-middle" link="https://drive.google.com/file/d/1denrfxQE_oWyKP04zuMTk0s2P7WG4TeK/view?usp=sharing">
 
-<id>fig_p046v_1</id>
 
-<margin>right-middle</margin>
 
-<!-- we think this mark may be made by the oil of sulfur described in
-p046v_4, as it bleeds through to the other side of the folio. Or is this
-related to a compass mark? See also p046r_1.png-->
 
-<link>https://drive.google.com/file/d/1denrfxQE_oWyKP04zuMTk0s2P7WG4TeK/view?usp=sharing</link>
+
+
 
 </figure>
 
 </div>
 
-<div>
+<div id="p046v_5">
 
-<id>p046v_5</id>
+
 
 <head>Making a letter <fr>à jour</fr> on <m>paper</m> and other
 work</head>
@@ -95,30 +91,30 @@ dry <tl>quill</tl> <del>of</del>.
 
 </div>
 
-<div>
+<div id="p046v_6">
 
-<id>p046v_6</id>
+
 
 <head>Making someone’s boots burn</head>
 
 <ab>
 
-Rub with the aforesaid <m>oil <sup>of sulfur</sup></m>,<comment>c_046v_01</comment> &amp; as it becomes
+Rub with the aforesaid <m>oil <sup>of sulfur</sup></m>,<comment rid="c_046v_01"/> &amp; as it becomes
 warm, they will burn without a flame. <emph><fr>Urb.</fr></emph>
 
 </ab>
 
 </div>
 
-<div>
+<div id="p046v_7">
 
-<id>p046v_7</id>
+
 
 <head>On <m>stone</m>, black letters</head>
 
 <ab>
 
-The same <m>oil <sup>of sulfur</sup></m><comment>c_046v_01</comment> on letters engraved in
+The same <m>oil <sup>of sulfur</sup></m><comment rid="c_046v_01"/> on letters engraved in
 <m>stone</m> &amp; heated turns black &amp; penetrates.</ab>
 
 </div>

@@ -1,11 +1,11 @@
-<root>
-<page>059v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="059v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f124.item">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f124.item</image>
 
-<div>
 
-<id>p059v_1</id>
+
+<div id="p059v_1">
+
+
 
 <head><del>Black</del> Painting of armor</head>
 
@@ -16,9 +16,9 @@ as if bluish.</ab>
 
 </div>
 
-<div>
+<div id="p059v_2">
 
-<id>p059v_2</id>
+
 
 <head>Painting of <m>crêpe</m></head>
 
@@ -29,9 +29,9 @@ Then, <del><fr>resu</fr></del> after it is dry, heighten with strokes
 
 </div>
 
-<div>
+<div id="p059v_3">
 
-<id>p059v_3</id>
+
 
 <head>Folds in clothing</head>
 
@@ -43,9 +43,9 @@ should go lengthwise &amp; others across.</ab>
 
 </div>
 
-<div>
+<div id="p059v_4">
 
-<id>p059v_4</id>
+
 
 <head>Desiccative</head>
 
@@ -57,9 +57,9 @@ with it, &amp; if it produces a crust <del>in a
 
 </div>
 
-<div>
+<div id="p059v_5">
 
-<id>p059v_5</id>
+
 
 <head>Double layers</head>
 
@@ -68,9 +68,9 @@ not.</ab>
 
 </div>
 
-<div>
+<div id="p059v_6" continued="yes">
 
-<id>p059v_6</id>
+
 
 <head>Mending the cracks in a panel</head>
 
@@ -84,7 +84,7 @@ melting <env>in the sun</env>. The <m>wax</m> ought not to be hard, but
 soft as if recently cooled. Apply it on cracks &amp; crevices with the
 <tl>tip of a knife</tl>, then scrape;</ab>
 
-<cont/>
+
 
 </div>
 </root>

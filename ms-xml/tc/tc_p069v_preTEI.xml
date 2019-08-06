@@ -1,13 +1,13 @@
-<root>
-<page>069v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="069v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f144.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f144.image</image>
 
-<div>
 
-<cont/>
 
-<id>p069r_2</id>
+<div continues="yes" id="p069r_2" continued="yes">
+
+
+
+
 
 <ab>Le <m>sable <env>pres de mon sol</env></m> est fort excellent Mays il<lb/>
 
@@ -79,8 +79,8 @@ avecq<lb/>
 
 <ms>lb</ms> Mays non pas dadvantaige </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Il est bon pour gra<exp>n</exp>d<lb/>
 
 ouvrage Mays pour<lb/>
@@ -105,7 +105,7 @@ brusle</m> ou <m>sel armoniac</m><lb/>
 
 ou <m>tripoly</m> &amp; semblables</ab>
 
-<cont/>
+
 
 </div>
 </root>

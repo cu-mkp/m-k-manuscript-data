@@ -1,11 +1,11 @@
-<root>
-<page>137r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="137r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f279.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f279.image</image>
 
-<div>
 
-<id>p137r_1</id>
+
+<div id="p137r_1">
+
+
 
 <head>For casting in <m>red copper</m></head>
 
@@ -15,30 +15,30 @@ ammoniac</m> &amp; when you are ready to cast, put in a little <m>fine
 tin</m> &amp; very little. And note that one needs to cast <m>copper</m>
 very hot in the <tl>mold</tl>, which needs to also be inflamed &amp;
 entirely red like for <m>gold</m>, <m>silver</m>, <m>latten</m> &amp;
-<m><fr>metal</fr></m>.<comment>c_016v_05</comment> You will recognize that it is hot enough when it is
+<m><fr>metal</fr></m>.<comment rid="c_016v_05"/> You will recognize that it is hot enough when it is
 smooth, thin &amp; shiny like a mirror <del>of <fr>cu</fr></del> of
 <m>steel</m>, newly polished, or like <m>melted silver</m>. Keep it from
 the <env>wind</env>, for it will quickly cool. Stop the cast with
 <tl>tows</tl> <del>or</del> to keep it from cooling. <m>Red copper</m>
 comes out more neatly than <m>latten</m>, which has <m>strong smoke</m>
 that prevents it from running. I molded it <fr>en noyau</fr> neatly like
-the principal<comment>c_137r_03</comment> &amp; thin like <m>paper</m>. It is necessary that it
+the principal<comment rid="c_137r_03"/> &amp; thin like <m>paper</m>. It is necessary that it
 be so hot that it is white &amp; shiny &amp; polished like <m>melted
 silver</m> and <add>like a mirror</add>. I cast it in the same <m>sand</m> as
 above <fr>en noyau</fr>.</ab>
 
-<ab>
+<ab margin="left-top">
 
-<margin>left-top</margin>
+
 
 <m>Copper</m> and <m>latten</m> are the longest to melt, longer than any
 other <m>metal</m>, especially <m>red copper</m>. But also it flows
 &amp; comes out very neat, provided that it is cast very hot, that it is
 like <m>water</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 Removing your <tl>mold</tl> from the fire, plant it in
 <del><fr>es</fr></del> a <tl>brazier</tl>, that fills a <tl>pot</tl> or
@@ -46,9 +46,9 @@ a <tl>vessel</tl>.<hr/></ab>
 
 </div>
 
-<div>
+<div id="p137r_2">
 
-<id>p137r_2</id>
+
 
 <head><m><fr>Huile tingente</fr></m> to make <m>metals</m> run</head>
 
@@ -61,10 +61,10 @@ that everything dissolves like <m>wax</m>, making many colors. Let it
 <del>everything</del> set &amp; put a little of it on each
 <m><add>melted</add> metal</m> &amp; it will run marvelously.</ab>
 
-<ab>
+<ab margin="left-top" render="tall">
 
-<margin>left-top</margin>
-<render>tall</render>
+
+
 <pro>Founders of large casts for statues</pro> throw in much
 <m>tartar</m>, to clean it of its <m>filth</m> &amp; <m>nastiness</m>
 &amp; much <m>sal ammoniac</m> to render it thin &amp; neat. And when
@@ -75,9 +75,9 @@ work of the <pro>founder</pro>, for one only needs a <env><po>spring</po> of
 
 </div>
 
-<div>
+<div id="p137r_3">
 
-<id>p137r_3</id>
+
 
 <head><tl>Clamps</tl></head>
 
@@ -86,13 +86,13 @@ reheated &amp; refolded then beaten at the ends, on the <tl>anvil</tl>.
 When they are thus fine, they are subject to burning, being put often
 in the <tl>molds</tl> for reheating. Therefore use the new ones.</ab>
 
-<figure>
+<figure id="fig_p137r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aG5XMHdYTTYzbzA">
 
-<id>fig_p137r_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5aG5XMHdYTTYzbzA</link>
+
+
+
 
 </figure>
 

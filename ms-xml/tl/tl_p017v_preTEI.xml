@@ -1,16 +1,16 @@
-<root>
-<page>017v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="017v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f40.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f40.image</image>
 
-<div>
 
-<cont/>
 
-<id>p017r_1</id>
+<div continues="yes" id="p017r_1" continued="yes">
+
+
+
+
 
 <ab>The large <wp>cannon</wp>, which is for great
-batteries<comment>c_017v_01</comment>, commonly weighs fifty-five or lx
+batteries<comment rid="c_017v_01"/>, commonly weighs fifty-five or lx
 <ms>quintals</ms>. At the breech it carries the <ms>thickness of
 <del><fr>b</fr></del> two balls &amp;<del><fr>l</fr></del> <add>one</add> 
 of the three parts of one ball</ms>. At the front, it carries
@@ -26,13 +26,13 @@ of xx <ms>lb</ms> of <m>powder</m>, its ball of 40 <ms>lb</ms>. One
 needs xxv <al>horses</al> to draw it. When one fires it farther than its
 usual range, one puts in a <ms>half <tl>ladle</tl></ms> of <m><wp>cannon</wp>
 powder</m> more. A <wp>cannon</wp> can fire
-4^(xx)<comment>c_017v_02</comment> or a hundred shots <ms>per
+4^(xx)<comment rid="c_017v_02"/> or a hundred shots <ms>per
 <tmp>day</tmp></ms>, but one needs to refresh it every time after one
 has fired <del>te</del> nine or ten shots, if the battery is rigidly
 continued. For if there is a break, it is not necessary to refresh it as
 often. For two <ms>quintals</ms> of <m>copper</m>, or two <ms>quintals
 &amp; a half</ms> if it is for large <wp>cannons</wp>, one puts one
-<ms>quintal</ms> of <m><fr>metal</fr></m>.<comment>c_016v_05</comment> <add><mark>#</mark></add> The
+<ms>quintal</ms> of <m><fr>metal</fr></m>.<comment rid="c_016v_05"/> <add><mark>#</mark></add> The
 <m><fr>metal</fr></m> is composed at the beginning of eight <ms>lb</ms> of
 <m>tin</m> for one <ms>quintal</ms> of <m>rosette</m>, while
 for large bells one only puts six <ms>lb</ms> of <m>fine tin</m> for one
@@ -53,9 +53,9 @@ battering defenses &amp; <env>casemates</env>, <del><fr>s</fr></del>
 placing them via <env>trenches</env> on the <env>edge of the ditch</env>
 <tmp>by night</tmp>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>◯</mark>
 
@@ -63,31 +63,31 @@ On each side of the opening of the breech they give the <ms>thickness of
 half a ball</ms>. And then they also add on each side the <ms>third part
 of a ball</ms>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 <del><fr>Ain</fr></del> one gives it two <tl><ms>ladles</ms></tl> of
 <m><wp>cannon</wp> powder</m> for its charge, &amp; <ms>one &amp; a half of</ms>
 <m><wp>arquebus</wp> powder</m>, &amp; the same for the others.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <mark>#</mark>
 
 The composition of <wp>cannons</wp> of <pl>France</pl> is of <ms>one quintal of
 <m><fr>metal</fr></m> for two of <m>rosette</m></ms>.
-But those of <pl>Toulouse</pl> &amp; <pn>Poncet</pn> puts<comment>c_017v_03</comment> 
+But those of <pl>Toulouse</pl> &amp; <pn>Poncet</pn> puts<comment rid="c_017v_03"/> 
 iii of <m>rosette</m> &amp; one of <m><fr>metal</fr></m>.</ab>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 The <m>rosette</m> for re-melting is more profitable than
 <tl>cauldrons</tl>, which turn entirely into <m>filth</m>.</ab>
 
-<ab>
+<ab margin="left-middle">
 
-<margin>left-middle</margin>
+
 
 <wp>Old pieces</wp> are composed of almost <del><fr>de dem</fr></del> <ms>as much
 of one as of the other</ms>, namely one <ms>part</ms> of
@@ -96,7 +96,7 @@ composition with a <tl>burin</tl>. For its substance is found to be brittle
 &amp; the particle taken from the <tl>burin</tl> is found to be mixed
 with yellow &amp; white.</ab>
 
-<cont/>
+
 
 </div>
 </root>

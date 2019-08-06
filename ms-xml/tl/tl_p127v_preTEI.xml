@@ -1,10 +1,10 @@
-<root>
-<page>127v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="127v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f260.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f260.image</image>
 
-<div>
-<id>p127v_1</id>
+
+
+<div id="p127v_1">
+
 <head><m><pro>Founders</pro>’ earth</m></head>
 
 <ab>It is <m><fr>terre bolvene</fr></m> mixed with <m>dung</m> or
@@ -48,8 +48,8 @@ embers, not burning too much, to have a slow fire at the beginning, put
 there &amp; adjust a little the half-lit charcoals in the
 <tl>forge</tl>.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 The <m>earth that <pro>founders</pro> use to braze or solder</m>, which
 is <m>sandy clay earth</m>, or else <m>clay</m> mixed with <m>sand</m>, after
 having dried &amp; <tl>sieved</tl> &amp; then composed it, is good for
@@ -57,48 +57,48 @@ having dried &amp; <tl>sieved</tl> &amp; then composed it, is good for
 cracks. And any <m>earth</m> that melts <del>is</del> cannot be lacking
 in this.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <add><tl><m>Iron wire</m></tl> to give it bond.</add></ab>
 
-<figure>
+<figure id="fig_p127v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5S2VzRmhYUWpfbmc">
 
-<id>fig_p127v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5S2VzRmhYUWpfbmc</link>
+
+
+
 
 </figure>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <add><m><tl>Lute</tl></m> thickly your <tl>molds</tl>, &amp; if they are small, you can
 reheat them immediately in a good fire, especially those of
 <m><la>crocum</la></m>.</add></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 If the <m>earth</m> is good, &amp; <del><fr>l</fr></del> does not crack
 while reheating, &amp; does not separate from the <tl>mold</tl>, the
 <tl>molds</tl> will also not crack &amp; will not make flashing at the
 casting. Reheat with slow ease in a closed fire &amp; do not expose them
-hot to the air.</ab>
+<corr>hot</corr> to the air.</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <m><tl>Lute</tl></m> rather thickly in two or three layers, especially right in the
 joints, in order that the <m>silver</m> does not come out of the
 <tl>mold</tl>. </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Reheat in a <tl>reverberatory furnace</tl>.
-<hr/><comment>c_127v_03</comment></ab>
+<hr/><comment rid="c_127v_03"/></ab>
 
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 To test if your <m>earth</m> is good, before putting it on your
 <tl>mold</tl>, <m><tl>lute</tl></m> <add>at</add> the place of the <del>fo</del> wall of
 the <tl>forge</tl> which is around the <tl>blast-pipe</tl> &amp;

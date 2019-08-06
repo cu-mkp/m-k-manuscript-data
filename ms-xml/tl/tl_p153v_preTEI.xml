@@ -1,13 +1,13 @@
-<root>
-<page>153v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="153v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f312.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f312.image</image>
 
-<div>
 
-<cont/>
 
-<id>p153r_2</id>
+<div continues="yes" id="p153r_2">
+
+
+
+
 
 <ab><m>flour</m>. And to flatten it, take a <tl>small stick of
 <m><pa>boxwood</pa></m></tl>, very round &amp; of the same thickness
@@ -31,17 +31,17 @@ use <tl><m>sheets of lead &amp; copper</m></tl> of various thicknesses
 or of <tl><m><fr>carton</fr></m></tl>, cut with the <tl>rolling
 pin</tl>.</ab>
 
-<figure>
+<figure id="fig_p153v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5czR5TF9scDhsSG8">
 
-<id>fig_p153v_1</id>
 
-<margin>left-middle</margin>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5czR5TF9scDhsSG8</link>
+
+
+
 
 </figure>
 
-<ab><margin>left-middle</margin>
+<ab margin="left-middle">
 
 If you rubbed your <m>paste</m> with <m>oil</m>, it would drink the
 <m>oil</m> &amp; penetrate up to the <tl>mold</tl>, which it would
@@ -50,19 +50,19 @@ attack. But <m>butter</m> remains on the surface of the <m>paste</m>
 temper your sand with <m>hot water</m>, for it would melt the
 <m>butter</m>.
 
-<figure>
+<figure id="fig_p153v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5c3FRZnZSMnU1Njg">
 
-<id>fig_p153v_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5c3FRZnZSMnU1Njg</link>
+
+
 
 </figure>
 
 </ab></div>
 
-<div>
+<div id="p153v_1">
 
-<id>p153v_1</id>
+
 
 <head>Testing the goodness and strength of a <m>sand</m> to be reheated</head>
 
@@ -71,9 +71,9 @@ rough. It tests better in a large &amp; fantastical <tl>mold</tl>, than
 in a small one, for the large one remains <tmp>long</tmp> in the fire &amp; the
 small one is soon reheated.</ab></div>
 
-<div>
+<div id="p153v_2">
 
-<id>p153v_2</id>
+
 
 <head>Softening <m>gold</m></head>
 

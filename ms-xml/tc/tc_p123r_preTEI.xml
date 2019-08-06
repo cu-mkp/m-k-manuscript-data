@@ -1,12 +1,12 @@
-<root>
-<page>123r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="123r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f251.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f251.item.r=</image>
 
-<div>
-<id>p123r_1</id>
+
+
+<div id="p123r_1" continued="yes">
+
 <head>Moyen <it>di far correr
-l<m>otnegra</m></it><comment>c_123r_01</comment> </head>
+l<m>otnegra</m></it><comment rid="c_123r_01"/> </head>
 
 <ab>P<exp>rens</exp> <m>arsenic blanc</m> deulx <ms>unces</ms> 2
 <ms>℥</ms><lb/>
@@ -82,8 +82,8 @@ quil ne prene point de vent car la matiere ne vauldroit<lb/>
 gueres A cause que les <del>4</del> <add>cinq</add> derniers ingredients
 sexhaler<ups>oient</ups></ab>
 
-<ab>
-<margin>right-top</margin>
+<ab margin="right-middle">
+
 Note quil te fault<lb/>
 
 bien <m><tl>luter</tl></m> ton <tl>creuset</tl><lb/>
@@ -94,8 +94,8 @@ ne prenent vent car<lb/>
 
 elles sexalle<ups>nt</ups> </ab>
 
-<ab>
-<margin>right-middle</margin>
+<ab margin="right-middle">
+
 <m><tl>Lute</tl></m> bien ton <tl><oc>crusol</oc></tl><lb/>
 
 affin quil ne se romp<ups>e</ups><lb/>
@@ -114,8 +114,8 @@ dangereuse</md> si en xii<lb/>
 
 point bien </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 Les <pro>orfevres</pro><lb/>
 
 qui ont cognoi<lb/>
@@ -172,13 +172,13 @@ affin quil nen soit<lb/>
 
 point abuse</ab>
 
-<ab>
-<margin>left-bottom</margin>
+<ab margin="left-middle">
+
 <lb/>Le grain est co<exp>mm</exp>e<lb/>
 
 de l<m>acier rompu</m></ab>
 
-<cont/>
+
 
 </div>
 </root>

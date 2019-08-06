@@ -1,13 +1,13 @@
-<root>
-<page>067r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="067r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f139.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f139.image</image>
 
-<div>
 
-<cont/>
 
-<id>p066v_4</id>
+<div continues="yes" id="p066v_4">
+
+
+
+
 
 <ab>
 
@@ -15,7 +15,7 @@ light, pull out the <m>hairs</m> which make the tip too long with the
 <bp>ends of your fingernails</bp>, and this until the tip seems good to
 you, &amp; until you notice in it the <m><al>rat</al> hairs</m>
 which are entirely black &amp; the <m>hair of the
-<al>petit-gris</al><comment>c_067r_01</comment></m> is <del>at the</del>
+<al>petit-gris</al><comment rid="c_067r_01"/></m> is <del>at the</del>
 whitish from the root to the middle. When it pleases you, bind
 <del><fr>b</fr></del> and tighten it very well with a <tl>thread</tl> in
 two places, then cut the excess &amp; fit it in a <m>quill</m> of a
@@ -25,9 +25,9 @@ in <m>water</m>, do not bulge when you trace on your <bp>hand</bp>.</ab>
 
 </div>
 
-<div>
+<div id="p067r_1">
 
-<id>p067r_1</id>
+
 
 <head><m>Oil</m></head>
 
@@ -38,9 +38,9 @@ making <m>varnish</m>.</ab>
 
 </div>
 
-<div>
+<div id="p067r_2">
 
-<id>p067r_2</id>
+
 
 <head><m>Sand</m></head>
 
@@ -49,9 +49,9 @@ some.</ab>
 
 </div>
 
-<div>
+<div id="p067r_3">
 
-<id>p067r_3</id>
+
 
 <head><tl>Bellows furnace</tl></head>
 
@@ -65,9 +65,9 @@ manner you will melt everything you like.</ab>
 
 </div>
 
-<div>
+<div id="p067r_4">
 
-<id>p067r_4</id>
+
 
 <head><m>Varnish</m> on <m>paper</m></head>
 

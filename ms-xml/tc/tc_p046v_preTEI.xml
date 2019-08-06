@@ -1,11 +1,11 @@
-<root>
-<page>046v</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="046v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f98.image">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f98.image</image>
 
-<div>
 
-<id>p046v_1</id>
+
+<div id="p046v_1">
+
+
 
 <head> <pn>Escrivain</pn> <m>huile de soufre</m></head>
 
@@ -22,9 +22,9 @@ dans l<m>huile de soufre</m> Et incontinent elle sera blanche<lb/>
 
 </div>
 
-<div>
+<div id="p046v_2">
 
-<id>p046v_2</id>
+
 
 <head><pro>Cordonnier</pro></head>
 
@@ -35,7 +35,7 @@ Sil veult faire quelque ouvraige tane sur des souliers de<lb/>
 <m>cuir noir</m> Il peult tramper en <m>huile de soufre</m> une
 <tl>plume a<lb/>
 
-escripre</tl> Et dicelle paindre sur souliers bottines &amp; colets<comment>c_046v_02</comment>
+escripre</tl> Et dicelle paindre sur souliers bottines &amp; colets<comment rid="c_046v_02"/>
 ce<lb/>
 
 quil vouldra Et il aura une couleur rousse qui ne seffacera<lb/>
@@ -44,9 +44,9 @@ pour aulcune labeure <emph>Urb.</emph></ab>
 
 </div>
 
-<div>
+<div id="p046v_3">
 
-<id>p046v_3</id>
+
 
 <head>Effacer l<exp>ett</exp>re</head>
 
@@ -60,9 +60,9 @@ toutes les l<exp>ettr</exp>es<lb/>
 
 </div>
 
-<div>
+<div id="p046v_4">
 
-<id>p046v_4</id>
+
 
 <head>Escripre sans <m>ancre</m></head>
 
@@ -71,25 +71,21 @@ l<exp>ett</exp>re<lb/>
 
 deviendra noire comme ceste cy <emph>Urb.</emph></ab>
 
-<figure>
+<figure id="fig_p046v_1" margin="right-middle" link="https://drive.google.com/file/d/1denrfxQE_oWyKP04zuMTk0s2P7WG4TeK/view?usp=sharing">
 
-<id>fig_p046v_1</id>
 
-<margin>right-middle</margin>
 
-<!-- we think this mark may be made by the oil of sulfur described in
-p046v_4, as it bleeds through to the other side of the folio. Or is this
-related to a compass mark? See also p046r_1.png-->
 
-<link>https://drive.google.com/file/d/1denrfxQE_oWyKP04zuMTk0s2P7WG4TeK/view?usp=sharing</link>
+
+
 
 </figure>
 
 </div>
 
-<div>
+<div id="p046v_5">
 
-<id>p046v_5</id>
+
 
 <head>Faire l<exp>ett</exp>re a jour sur <m>papier</m><lb/>
 
@@ -112,9 +108,9 @@ essuicte</ab>
 
 </div>
 
-<div>
+<div id="p046v_6">
 
-<id>p046v_6</id>
+
 <head>Faire brusler les bottes a quelquu<exp>n</exp></head>
 
 <ab>Frottes de l<m>huile</m> susdict &amp; co<exp>mm</exp>e il se
@@ -124,9 +120,9 @@ se brusleront sans flamme <emph>Urb</emph></ab>
 
 </div>
 
-<div>
+<div id="p046v_7">
 
-<id>p046v_7</id>
+
 
 <head>Sur <m>pierre</m> l<exp>ett</exp>re noire</head>
 

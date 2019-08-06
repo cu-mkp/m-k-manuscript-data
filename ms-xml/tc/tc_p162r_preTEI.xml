@@ -1,10 +1,10 @@
-<root>
-<page>162r</page>
+<?xml version="1.0" encoding="UTF-8"?><root page="162r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f329.item.r=">
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f329.item.r=</image>
 
-<div>
-<id>p162r_1</id>
+
+
+<div id="p162r_1">
+
 <head>Pour la <env>boutique</env></head>
 
 <ab>Il se peult colliger par le dire d<pn>herodote</pn> que la
@@ -27,8 +27,8 @@ co<exp>mmun</exp>em<lb/>
 
 en six <tmp>jours</tmp> il avoient debite</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <emph>
 <underline>Navigatio<exp>n</exp><lb/>
 
@@ -49,8 +49,8 @@ ou ilz ravirent <pn>Medee</pn>
 
 </ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <emph>
 
 Galeres</emph>
@@ -66,8 +66,8 @@ presenta au temple de <pl>delphe</pl><lb/>
 <la>pateras <m>aureas</m> sex pondo 30
 <ms><cn>talentorum</cn></ms></la></ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <emph>
 Vases d<m>or</m></emph>
 
@@ -89,8 +89,8 @@ excogitavit</emph><lb/>
 <m>compactile ferrum</m></la> qui est fait dassemblage &amp; choses
 raportees</ab>
 
-<ab>
-<margin>left-middle</margin>
+<ab margin="left-middle">
+
 <emph>
 Vase de <m>fer</m><lb/>
 
@@ -114,8 +114,8 @@ beaucoup plus rares secrets des benevoles <pro>lecteurs</pro><hr/></ab>
 
 </div>
 
-<div>
-<id>p162r_2</id>
+<div id="p162r_2">
+
 <head><m><la>Aes ustum</la></m></head>
 
 <ab>Estant pulverise subtillem<exp>ent</exp> il moule tresnet &amp; ha
@@ -128,8 +128,8 @@ certaine graisse qui luy donne liaison <mark>|</mark> plus quau
 
 </div>
 
-<div>
-<id>p162r_3</id>
+<div id="p162r_3">
+
 <head><m>Boys pourry</m></head>
 
 <ab><m>Celuy qui est blanc leger comme une esponge</m> estant
