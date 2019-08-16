@@ -1,0 +1,3118 @@
+ms-xml/tc/tc_p085v_preTEI.xml,,ms-xml/tcn/tcn_p085v_preTEI.xml,,ms-xml/tl/tl_p085v_preTEI.xml
+9 ab,,9 ab,,9 ab
+1 cn,,1 cn,,1 cn
+3 comment,,2 comment,,1 comment
+2 del,,1 corr,,2 del
+4 div,,3 del,,4 div
+3 env,,4 div,,2 env
+8 exp,,3 env,,1 exp
+4 head,,8 exp,,7 fr
+38 lb,,4 head,,4 head
+25 m,,38 lb,,25 m
+1 mark,,25 m,,1 mark
+1 ms,,1 mark,,1 ms
+1 pa,,1 ms,,1 pa
+1 pl,,1 pa,,1 pl
+1 pn,,1 pl,,1 pn
+3 pro,,1 pn,,3 pro
+1 root,,3 pro,,1 root
+3 sn,,1 root,,3 sn
+10 tl,,3 sn,,10 tl
+1 wp,,9 tl,,1 wp
+,,1 wp,,
+ms-xml/tc/tc_p086r_preTEI.xml,,ms-xml/tcn/tcn_p086r_preTEI.xml,,ms-xml/tl/tl_p086r_preTEI.xml
+3 ab,,3 ab,,3 ab
+1 al,,1 al,,1 al
+1 bp,,1 bp,,1 bp
+1 comment,,1 comment,,1 comment
+6 del,,6 del,,6 del
+1 div,,1 div,,1 div
+2 emph,,2 emph,,2 emph
+11 exp,,11 exp,,5 fr
+43 lb,,43 lb,,27 m
+26 m,,26 m,,1 pa
+1 pa,,1 pa,,1 root
+1 root,,1 root,,13 tl
+13 tl,,13 tl,,1 underline
+1 underline,,1 underline,,
+ms-xml/tc/tc_p086v_preTEI.xml,,ms-xml/tcn/tcn_p086v_preTEI.xml,,ms-xml/tl/tl_p086v_preTEI.xml
+5 ab,,5 ab,,5 ab
+1 comment,,2 comment,,1 comment
+4 del,,4 del,,4 del
+2 div,,2 div,,2 div
+1 emph,,1 emph,,1 emph
+2 env,,2 env,,2 env
+8 exp,,8 exp,,1 figure
+1 figure,,1 figure,,4 fr
+1 head,,1 head,,1 head
+32 lb,,32 lb,,24 m
+24 m,,24 m,,1 mark
+6 ms,,6 ms,,7 ms
+1 root,,1 root,,1 root
+1 sn,,1 sn,,1 sn
+8 tl,,8 tl,,9 tl
+3 tmp,,3 tmp,,3 tmp
+ms-xml/tc/tc_p087r_preTEI.xml,,ms-xml/tcn/tcn_p087r_preTEI.xml,,ms-xml/tl/tl_p087r_preTEI.xml
+8 ab,,8 ab,,8 ab
+1 add,,1 add,,1 add
+1 bp,,1 bp,,1 bp
+2 comment,,1 comment,,2 del
+2 del,,2 del,,2 div
+2 div,,2 div,,3 emph
+3 emph,,3 emph,,2 env
+2 env,,2 env,,4 fr
+7 exp,,7 exp,,1 head
+1 head,,1 head,,1 hr
+1 hr,,1 hr,,11 m
+25 lb,,25 lb,,1 oc
+11 m,,11 m,,5 pl
+1 oc,,5 pl,,2 pro
+5 pl,,2 pro,,1 root
+2 pro,,1 root,,1 sn
+1 root,,1 sn,,10 tl
+1 sn,,11 tl,,5 tmp
+11 tl,,5 tmp,,1 wp
+5 tmp,,,,
+2 ups,,,,
+ms-xml/tc/tc_p087v_preTEI.xml,,ms-xml/tcn/tcn_p087v_preTEI.xml,,ms-xml/tl/tl_p087v_preTEI.xml
+8 ab,,8 ab,,8 ab
+1 bp,,1 bp,,1 bp
+2 comment,,2 comment,,2 comment
+6 del,,6 del,,6 del
+3 div,,3 div,,3 div
+1 emph,,1 emph,,1 emph
+4 env,,4 env,,3 env
+14 exp,,14 exp,,3 fr
+3 head,,3 head,,3 head
+50 lb,,50 lb,,32 m
+32 m,,32 m,,1 pa
+1 pa,,1 pa,,1 pl
+1 pl,,1 pl,,1 po
+1 po,,1 po,,1 pro
+1 pro,,1 pro,,1 root
+1 root,,1 root,,7 tl
+7 tl,,7 tl,,3 tmp
+3 tmp,,3 tmp,,
+ms-xml/tc/tc_p088r_preTEI.xml,,ms-xml/tcn/tcn_p088r_preTEI.xml,,ms-xml/tl/tl_p088r_preTEI.xml
+6 ab,,6 ab,,6 ab
+1 comment,,1 comment,,1 comment
+2 del,,2 del,,2 del
+6 div,,6 div,,6 div
+2 exp,,2 exp,,3 fr
+6 head,,6 head,,6 head
+17 lb,,17 lb,,16 m
+17 m,,17 m,,2 oc
+2 oc,,2 oc,,4 pa
+5 pa,,5 pa,,1 pro
+1 pro,,1 pro,,1 root
+1 root,,1 root,,9 tl
+9 tl,,9 tl,,
+3 ups,,,,
+ms-xml/tc/tc_p088v_preTEI.xml,,ms-xml/tcn/tcn_p088v_preTEI.xml,,ms-xml/tl/tl_p088v_preTEI.xml
+4 ab,,4 ab,,4 ab
+1 bp,,1 bp,,1 bp
+2 comment,,2 comment,,2 comment
+8 del,,1 corr,,8 del
+2 div,,7 del,,2 div
+1 emph,,2 div,,1 emph
+6 env,,1 emph,,6 env
+3 exp,,6 env,,8 fr
+2 head,,3 exp,,2 head
+36 lb,,2 head,,21 m
+21 m,,36 lb,,1 ms
+1 ms,,21 m,,2 pa
+2 pa,,1 ms,,1 pro
+1 pro,,2 pa,,1 root
+1 root,,1 pro,,1 sn
+1 sn,,1 root,,14 tl
+14 tl,,1 sn,,1 tmp
+1 tmp,,14 tl,,
+,,1 tmp,,
+ms-xml/tc/tc_p089r_preTEI.xml,,ms-xml/tcn/tcn_p089r_preTEI.xml,,ms-xml/tl/tl_p089r_preTEI.xml
+3 ab,,3 ab,,3 ab
+2 al,,2 al,,2 al
+2 comment,,1 comment,,1 comment
+2 del,,2 del,,2 del
+3 div,,3 div,,3 div
+2 env,,2 env,,2 env
+4 exp,,4 exp,,3 fr
+3 head,,3 head,,3 head
+17 lb,,17 lb,,17 m
+17 m,,17 m,,1 ms
+1 ms,,1 ms,,1 root
+1 root,,1 root,,5 tl
+5 tl,,5 tl,,1 tmp
+1 tmp,,1 tmp,,
+2 ups,,,,
+ms-xml/tc/tc_p089v_preTEI.xml,,ms-xml/tcn/tcn_p089v_preTEI.xml,,ms-xml/tl/tl_p089v_preTEI.xml
+3 ab,,3 ab,,3 ab
+2 bp,,2 bp,,2 bp
+4 comment,,2 comment,,2 comment
+6 del,,1 corr,,6 del
+2 div,,6 del,,2 div
+6 env,,2 div,,6 env
+6 exp,,6 env,,9 fr
+2 head,,6 exp,,2 head
+50 lb,,2 head,,23 m
+24 m,,50 lb,,6 ms
+6 ms,,24 m,,4 pa
+4 pa,,6 ms,,2 pl
+2 pl,,4 pa,,3 pro
+3 pro,,2 pl,,1 root
+1 root,,3 pro,,10 tl
+9 tl,,1 root,,3 tmp
+3 tmp,,9 tl,,
+,,3 tmp,,
+ms-xml/tc/tc_p090r_preTEI.xml,,ms-xml/tcn/tcn_p090r_preTEI.xml,,ms-xml/tl/tl_p090r_preTEI.xml
+3 ab,,3 ab,,3 ab
+1 bp,,1 bp,,1 bp
+3 comment,,3 comment,,4 comment
+4 del,,1 corr,,4 del
+3 div,,3 del,,3 div
+9 env,,3 div,,9 env
+4 exp,,9 env,,5 fr
+3 head,,4 exp,,3 head
+1 la,,3 head,,1 la
+24 lb,,1 la,,15 m
+15 m,,24 lb,,5 pl
+5 pl,,15 m,,3 pro
+3 pro,,5 pl,,1 root
+1 root,,3 pro,,1 sn
+1 sn,,1 root,,5 tl
+5 tl,,1 sn,,1 tmp
+1 tmp,,5 tl,,
+,,1 tmp,,
+ms-xml/tc/tc_p090v_preTEI.xml,,ms-xml/tcn/tcn_p090v_preTEI.xml,,ms-xml/tl/tl_p090v_preTEI.xml
+3 ab,,3 ab,,3 ab
+2 add,,2 add,,2 add
+3 del,,3 del,,3 del
+3 div,,3 div,,3 div
+1 env,,1 env,,1 env
+7 exp,,7 exp,,3 fr
+2 head,,2 head,,2 head
+28 lb,,28 lb,,12 m
+13 m,,13 m,,1 ms
+1 ms,,1 ms,,2 pa
+2 pa,,2 pa,,2 pl
+2 pl,,2 pl,,1 pro
+1 pro,,1 pro,,1 root
+1 root,,1 root,,13 tl
+13 tl,,13 tl,,1 tmp
+1 tmp,,1 tmp,,
+ms-xml/tc/tc_p091r_preTEI.xml,,ms-xml/tcn/tcn_p091r_preTEI.xml,,ms-xml/tl/tl_p091r_preTEI.xml
+7 ab,,7 ab,,7 ab
+2 add,,2 add,,2 add
+1 al,,1 al,,1 al
+1 comment,,1 corr,,3 del
+3 del,,3 del,,1 df
+1 df,,1 df,,2 div
+2 div,,2 div,,2 env
+2 env,,2 env,,3 fr
+5 exp,,6 exp,,2 head
+2 head,,2 head,,1 ill
+1 ill,,1 ill,,15 m
+41 lb,,41 lb,,9 pa
+15 m,,15 m,,1 root
+9 pa,,9 pa,,13 tl
+1 root,,1 root,,
+13 tl,,13 tl,,
+ms-xml/tc/tc_p091v_preTEI.xml,,ms-xml/tcn/tcn_p091v_preTEI.xml,,ms-xml/tl/tl_p091v_preTEI.xml
+1 ab,,1 ab,,1 ab
+1 al,,1 al,,1 al
+2 bp,,2 bp,,2 bp
+1 comment,,1 comment,,1 comment
+9 del,,9 del,,8 del
+1 div,,1 div,,1 div
+2 exp,,2 exp,,1 figure
+1 figure,,1 figure,,5 fr
+31 lb,,31 lb,,18 m
+18 m,,18 m,,1 ms
+1 ms,,1 ms,,2 pa
+2 pa,,2 pa,,1 root
+1 root,,1 root,,14 tl
+14 tl,,14 tl,,
+ms-xml/tc/tc_p092r_preTEI.xml,,ms-xml/tcn/tcn_p092r_preTEI.xml,,ms-xml/tl/tl_p092r_preTEI.xml
+7 ab,,7 ab,,7 ab
+4 del,,4 del,,2 comment
+4 div,,4 div,,4 del
+1 emph,,1 emph,,4 div
+5 exp,,5 exp,,1 emph
+4 head,,4 head,,3 fr
+23 lb,,23 lb,,4 head
+24 m,,24 m,,25 m
+8 ms,,8 ms,,7 ms
+1 pro,,1 pro,,2 pro
+1 root,,1 root,,1 root
+5 tl,,5 tl,,5 tl
+2 underline,,2 underline,,1 underline
+ms-xml/tc/tc_p092v_preTEI.xml,,ms-xml/tcn/tcn_p092v_preTEI.xml,,ms-xml/tl/tl_p092v_preTEI.xml
+5 ab,,5 ab,,5 ab
+3 al,,3 al,,3 al
+1 comment,,1 comment,,1 comment
+1 del,,1 del,,1 del
+3 div,,3 div,,3 div
+2 env,,2 env,,2 env
+6 exp,,6 exp,,1 fr
+3 head,,3 head,,3 head
+1 la,,1 la,,1 la
+18 lb,,18 lb,,27 m
+27 m,,27 m,,7 ms
+7 ms,,7 ms,,1 pro
+1 pro,,1 pro,,1 root
+1 root,,1 root,,4 tl
+4 tl,,4 tl,,1 tmp
+1 tmp,,1 tmp,,
+ms-xml/tc/tc_p093r_preTEI.xml,,ms-xml/tcn/tcn_p093r_preTEI.xml,,ms-xml/tl/tl_p093r_preTEI.xml
+10 ab,,10 ab,,10 ab
+1 bp,,1 bp,,1 bp
+4 del,,1 corr,,4 del
+5 div,,5 del,,5 div
+8 env,,5 div,,8 env
+4 exp,,7 env,,3 fr
+5 head,,4 exp,,5 head
+16 lb,,5 head,,9 m
+9 m,,16 lb,,2 md
+2 md,,9 m,,1 ms
+1 ms,,2 md,,3 pa
+3 pa,,1 ms,,1 pro
+1 pro,,3 pa,,1 root
+1 root,,1 pro,,1 sn
+1 sn,,1 root,,1 tl
+1 tl,,1 sn,,3 tmp
+3 tmp,,1 tl,,
+,,3 tmp,,
+ms-xml/tc/tc_p093v_preTEI.xml,,ms-xml/tcn/tcn_p093v_preTEI.xml,,ms-xml/tl/tl_p093v_preTEI.xml
+3 ab,,3 ab,,3 ab
+1 add,,1 add,,1 add
+1 comment,,1 comment,,1 comment
+6 del,,1 corr,,6 del
+3 div,,7 del,,3 div
+1 env,,3 div,,1 env
+4 exp,,1 env,,1 figure
+1 figure,,4 exp,,4 fr
+3 head,,1 figure,,3 head
+31 lb,,3 head,,26 m
+26 m,,31 lb,,2 pro
+2 pro,,26 m,,1 root
+1 root,,2 pro,,9 tl
+9 tl,,1 root,,
+,,9 tl,,
+ms-xml/tc/tc_p094r_preTEI.xml,,ms-xml/tcn/tcn_p094r_preTEI.xml,,ms-xml/tl/tl_p094r_preTEI.xml
+4 ab,,4 ab,,4 ab
+1 add,,1 add,,1 add
+3 al,,3 al,,3 al
+2 bp,,2 bp,,2 bp
+1 cn,,1 cn,,1 cn
+5 comment,,2 comment,,15 comment
+10 del,,1 corr,,1 corr
+7 df,,11 del,,10 del
+1 div,,7 df,,7 df
+1 env,,1 div,,1 div
+2 exp,,1 env,,1 env
+1 figure,,2 exp,,1 figure
+1 head,,1 figure,,7 fr
+37 lb,,1 head,,1 head
+29 m,,37 lb,,30 m
+3 ms,,29 m,,3 ms
+1 pro,,3 ms,,1 pro
+1 root,,1 pro,,1 root
+3 tl,,1 root,,4 tl
+1 tmp,,3 tl,,1 tmp
+2 ups,,1 tmp,,
+,,8 wp,,
+ms-xml/tc/tc_p094v_preTEI.xml,,ms-xml/tcn/tcn_p094v_preTEI.xml,,ms-xml/tl/tl_p094v_preTEI.xml
+14 ab,,14 ab,,15 ab
+1 add,,1 add,,1 add
+1 bp,,1 bp,,1 bp
+5 caption,,5 caption,,5 caption
+1 cn,,1 cn,,1 cn
+2 comment,,1 comment,,6 comment
+3 del,,1 corr,,1 corr
+9 df,,4 del,,4 del
+1 div,,9 df,,10 df
+5 exp,,1 div,,1 div
+7 figure,,5 exp,,7 figure
+1 ill,,7 figure,,13 fr
+33 lb,,1 ill,,1 ill
+29 m,,33 lb,,6 lb
+2 ms,,30 m,,30 m
+4 pa,,2 ms,,2 ms
+4 pro,,4 pa,,4 pa
+1 root,,4 pro,,4 pro
+19 tl,,1 root,,1 root
+9 wp,,21 tl,,18 tl
+,,3 wp,,
+ms-xml/tc/tc_p095r_preTEI.xml,,ms-xml/tcn/tcn_p095r_preTEI.xml,,ms-xml/tl/tl_p095r_preTEI.xml
+6 ab,,6 ab,,6 ab
+1 add,,1 add,,1 add
+3 bp,,3 bp,,3 bp
+2 cn,,2 cn,,2 cn
+2 comment,,3 comment,,8 comment
+7 del,,2 corr,,7 del
+2 df,,7 del,,2 df
+1 div,,2 df,,1 div
+3 exp,,1 div,,12 fr
+35 lb,,3 exp,,17 m
+17 m,,35 lb,,3 ms
+3 ms,,17 m,,1 oc
+1 oc,,3 ms,,5 pl
+5 pl,,1 oc,,4 pro
+4 pro,,5 pl,,1 root
+1 root,,4 pro,,26 tl
+26 tl,,1 root,,
+8 wp,,26 tl,,
+,,3 wp,,
+ms-xml/tc/tc_p095v_preTEI.xml,,ms-xml/tcn/tcn_p095v_preTEI.xml,,ms-xml/tl/tl_p095v_preTEI.xml
+8 ab,,8 ab,,8 ab
+1 bp,,1 bp,,1 add
+5 cn,,5 cn,,1 bp
+1 comment,,2 comment,,5 cn
+4 del,,1 corr,,6 comment
+2 df,,4 del,,5 del
+1 div,,2 df,,2 df
+6 exp,,1 div,,1 div
+26 lb,,7 exp,,4 fr
+11 m,,26 lb,,1 la
+9 ms,,11 m,,6 lb
+1 pa,,9 ms,,11 m
+1 pn,,1 pa,,9 ms
+5 pro,,1 pn,,1 pa
+1 root,,5 pro,,1 pn
+10 tl,,1 root,,6 pro
+2 wp,,10 tl,,1 root
+,,1 wp,,10 tl
+ms-xml/tc/tc_p096r_preTEI.xml,,ms-xml/tcn/tcn_p096r_preTEI.xml,,ms-xml/tl/tl_p096r_preTEI.xml
+8 ab,,8 ab,,8 ab
+2 add,,2 add,,2 add
+11 al,,11 al,,11 al
+1 bp,,1 bp,,1 bp
+2 cn,,1 cn,,2 cn
+1 comment,,1 comment,,4 comment
+1 div,,1 corr,,1 corr
+7 exp,,1 div,,1 div
+35 lb,,7 exp,,4 fr
+29 m,,35 lb,,29 m
+4 ms,,29 m,,4 ms
+2 pa,,3 ms,,2 pa
+3 pro,,2 pa,,4 pro
+1 root,,3 pro,,1 root
+9 tl,,1 root,,9 tl
+1 tmp,,9 tl,,1 tmp
+4 wp,,1 tmp,,
+,,5 wp,,
+ms-xml/tc/tc_p096v_preTEI.xml,,ms-xml/tcn/tcn_p096v_preTEI.xml,,ms-xml/tl/tl_p096v_preTEI.xml
+3 ab,,3 ab,,3 ab
+1 add,,1 add,,2 add
+3 del,,3 del,,1 comment
+1 df,,1 df,,2 del
+3 div,,3 div,,1 df
+1 env,,1 env,,3 div
+2 exp,,2 exp,,1 env
+3 head,,3 head,,3 head
+32 lb,,32 lb,,16 m
+16 m,,16 m,,2 ms
+2 ms,,2 ms,,2 pa
+2 pa,,2 pa,,1 pro
+1 pro,,1 pro,,1 root
+1 root,,1 root,,5 tl
+5 tl,,5 tl,,2 tmp
+2 tmp,,2 tmp,,
+ms-xml/tc/tc_p097r_preTEI.xml,,ms-xml/tcn/tcn_p097r_preTEI.xml,,ms-xml/tl/tl_p097r_preTEI.xml
+3 ab,,3 ab,,3 ab
+1 add,,1 add,,1 add
+2 bp,,2 bp,,2 bp
+1 cn,,1 cn,,1 cn
+6 del,,6 del,,4 comment
+3 div,,3 div,,6 del
+12 exp,,12 exp,,3 div
+3 head,,3 head,,3 fr
+1 ill,,1 ill,,3 head
+28 lb,,28 lb,,1 ill
+20 m,,20 m,,19 m
+1 ms,,1 ms,,1 ms
+1 oc,,1 oc,,1 oc
+1 pro,,1 pro,,1 pro
+1 root,,1 root,,1 root
+1 sn,,1 sn,,1 sn
+1 sup,,1 sup,,11 tl
+10 tl,,11 tl,,
+3 ups,,,,
+ms-xml/tc/tc_p097v_preTEI.xml,,ms-xml/tcn/tcn_p097v_preTEI.xml,,ms-xml/tl/tl_p097v_preTEI.xml
+8 ab,,8 ab,,8 ab
+1 al,,1 al,,1 al
+3 bp,,3 bp,,3 bp
+1 comment,,1 comment,,1 comment
+2 del,,2 corr,,2 del
+2 div,,2 del,,2 div
+8 exp,,2 div,,1 fr
+2 head,,9 exp,,2 head
+62 lb,,2 head,,32 m
+32 m,,62 lb,,5 ms
+5 ms,,32 m,,3 pa
+3 pa,,5 ms,,1 pl
+1 pl,,3 pa,,1 pro
+1 pro,,1 pl,,1 root
+1 root,,1 pro,,7 tl
+7 tl,,1 root,,2 tmp
+2 tmp,,7 tl,,
+,,2 tmp,,
+ms-xml/tc/tc_p098r_preTEI.xml,,ms-xml/tcn/tcn_p098r_preTEI.xml,,ms-xml/tl/tl_p098r_preTEI.xml
+4 ab,,4 ab,,4 ab
+2 al,,2 al,,2 al
+1 comment,,4 del,,4 del
+4 del,,3 div,,1 df
+3 div,,1 env,,3 div
+1 env,,9 exp,,1 env
+9 exp,,3 head,,5 fr
+3 head,,28 lb,,3 head
+28 lb,,30 m,,31 m
+29 m,,2 ms,,2 ms
+2 ms,,3 pa,,4 pa
+3 pa,,2 pro,,2 pro
+2 pro,,1 root,,1 root
+1 root,,12 tl,,11 tl
+12 tl,,2 tmp,,2 tmp
+2 tmp,,,,
+ms-xml/tc/tc_p098v_preTEI.xml,,ms-xml/tcn/tcn_p098v_preTEI.xml,,ms-xml/tl/tl_p098v_preTEI.xml
+6 ab,,6 ab,,6 ab
+4 al,,4 al,,4 al
+1 bp,,1 bp,,1 bp
+3 comment,,1 comment,,1 comment
+3 del,,2 corr,,1 corr
+5 div,,3 del,,3 del
+2 exp,,5 div,,5 div
+5 head,,2 exp,,3 fr
+1 ill,,5 head,,5 head
+21 lb,,1 ill,,1 ill
+16 m,,21 lb,,16 m
+1 ms,,15 m,,1 ms
+1 pa,,1 ms,,1 pa
+1 root,,1 pa,,1 root
+6 tl,,1 root,,5 tl
+1 tmp,,6 tl,,1 tmp
+,,1 tmp,,
+ms-xml/tc/tc_p099r_preTEI.xml,,ms-xml/tcn/tcn_p099r_preTEI.xml,,ms-xml/tl/tl_p099r_preTEI.xml
+10 ab,,10 ab,,10 ab
+2 add,,2 add,,2 add
+2 comment,,1 corr,,5 del
+5 del,,5 del,,2 div
+2 div,,2 div,,1 emph
+1 emph,,1 emph,,1 exp
+11 exp,,11 exp,,8 fr
+1 head,,1 head,,1 head
+1 la,,1 la,,1 la
+53 lb,,53 lb,,32 m
+32 m,,32 m,,1 ms
+1 ms,,1 ms,,3 oc
+3 oc,,3 oc,,1 pro
+1 pro,,1 pro,,1 root
+1 root,,1 root,,1 sn
+1 sn,,1 sn,,9 tl
+9 tl,,9 tl,,1 tmp
+1 tmp,,1 tmp,,
+ms-xml/tc/tc_p099v_preTEI.xml,,ms-xml/tcn/tcn_p099v_preTEI.xml,,ms-xml/tl/tl_p099v_preTEI.xml
+7 ab,,7 ab,,7 ab
+1 add,,1 add,,1 add
+1 comment,,4 del,,1 comment
+4 del,,6 div,,4 del
+6 div,,5 exp,,6 div
+5 exp,,6 head,,2 fr
+6 head,,31 lb,,6 head
+31 lb,,18 m,,18 m
+18 m,,2 mark,,2 mark
+2 mark,,1 ms,,1 ms
+1 ms,,1 pa,,1 pa
+1 pa,,1 root,,1 root
+1 root,,7 tl,,8 tl
+7 tl,,,,2 wp
+2 wp,,,,
+ms-xml/tc/tc_p100r_preTEI.xml,,ms-xml/tcn/tcn_p100r_preTEI.xml,,ms-xml/tl/tl_p100r_preTEI.xml
+7 ab,,7 ab,,7 ab
+2 add,,2 add,,2 add
+1 bp,,1 bp,,1 bp
+1 comment,,4 del,,4 del
+4 del,,5 div,,5 div
+5 div,,1 emph,,1 emph
+1 emph,,7 env,,7 env
+7 env,,2 exp,,3 fr
+2 exp,,5 head,,5 head
+5 head,,31 lb,,27 m
+31 lb,,27 m,,1 ms
+27 m,,1 ms,,1 pa
+1 ms,,1 pa,,1 pro
+1 pa,,1 pro,,1 root
+1 pro,,1 root,,1 sn
+1 root,,1 sn,,9 tl
+1 sn,,9 tl,,2 tmp
+9 tl,,2 tmp,,
+2 tmp,,,,
+4 ups,,,,
+ms-xml/tc/tc_p100v_preTEI.xml,,ms-xml/tcn/tcn_p100v_preTEI.xml,,ms-xml/tl/tl_p100v_preTEI.xml
+8 ab,,8 ab,,8 ab
+1 add,,1 add,,1 add
+4 del,,1 corr,,1 corr
+2 div,,5 del,,5 del
+1 emph,,2 div,,2 div
+3 env,,1 emph,,1 emph
+3 exp,,3 env,,3 env
+1 figure,,3 exp,,1 figure
+2 head,,1 figure,,8 fr
+51 lb,,2 head,,2 head
+35 m,,51 lb,,33 m
+14 ms,,35 m,,14 ms
+1 pa,,14 ms,,1 pa
+5 pro,,1 pa,,5 pro
+1 root,,5 pro,,1 root
+14 tl,,1 root,,14 tl
+1 tmp,,14 tl,,1 tmp
+,,1 tmp,,
+ms-xml/tc/tc_p101r_preTEI.xml,,ms-xml/tcn/tcn_p101r_preTEI.xml,,ms-xml/tl/tl_p101r_preTEI.xml
+6 ab,,6 ab,,6 ab
+3 del,,3 del,,3 del
+3 div,,3 div,,1 df
+1 emph,,1 emph,,3 div
+6 exp,,6 exp,,1 emph
+1 figure,,1 figure,,1 figure
+2 head,,2 head,,5 fr
+53 lb,,53 lb,,2 head
+36 m,,36 m,,36 m
+7 ms,,7 ms,,7 ms
+2 oc,,2 oc,,2 oc
+1 root,,1 root,,1 root
+23 tl,,23 tl,,23 tl
+2 tmp,,2 tmp,,2 tmp
+ms-xml/tc/tc_p101v_preTEI.xml,,ms-xml/tcn/tcn_p101v_preTEI.xml,,ms-xml/tl/tl_p101v_preTEI.xml
+7 ab,,7 ab,,7 ab
+1 add,,1 add,,1 add
+2 comment,,1 comment,,3 del
+3 del,,3 del,,5 div
+5 div,,5 div,,3 fr
+5 exp,,5 exp,,4 head
+4 head,,4 head,,27 m
+24 lb,,24 lb,,1 md
+27 m,,27 m,,2 ms
+2 ms,,2 ms,,1 oc
+1 oc,,1 oc,,1 pa
+1 pa,,1 pa,,1 pl
+1 pl,,1 pl,,1 root
+1 root,,1 root,,6 tl
+6 tl,,6 tl,,1 tmp
+1 tmp,,1 tmp,,
+2 ups,,,,
+ms-xml/tc/tc_p102r_preTEI.xml,,ms-xml/tcn/tcn_p102r_preTEI.xml,,ms-xml/tl/tl_p102r_preTEI.xml
+4 ab,,4 ab,,4 ab
+3 bp,,3 bp,,3 bp
+2 comment,,1 comment,,1 comment
+1 del,,1 del,,1 del
+4 div,,4 div,,4 div
+2 exp,,2 exp,,1 figure
+1 figure,,1 figure,,3 fr
+4 head,,4 head,,4 head
+20 lb,,20 lb,,19 m
+19 m,,19 m,,9 ms
+9 ms,,9 ms,,1 pa
+1 pa,,1 pa,,1 pl
+1 pl,,1 pl,,1 root
+1 root,,1 root,,21 tl
+21 tl,,21 tl,,
+ms-xml/tc/tc_p102v_preTEI.xml,,ms-xml/tcn/tcn_p102v_preTEI.xml,,ms-xml/tl/tl_p102v_preTEI.xml
+3 ab,,3 ab,,3 ab
+1 add,,1 add,,1 add
+1 al,,1 al,,1 al
+3 comment,,1 comment,,3 comment
+2 del,,3 corr,,1 corr
+3 div,,3 del,,1 del
+2 env,,3 div,,3 div
+1 figure,,2 env,,2 env
+3 head,,1 exp,,1 figure
+27 lb,,1 figure,,1 fr
+20 m,,3 head,,3 head
+1 md,,27 lb,,20 m
+7 ms,,20 m,,1 md
+2 pa,,1 md,,7 ms
+1 pl,,7 ms,,2 pa
+1 pn,,2 pa,,1 pl
+1 pro,,1 pl,,1 pn
+1 root,,1 pn,,1 pro
+4 tl,,1 pro,,1 root
+4 tmp,,1 root,,5 tl
+,,4 tl,,4 tmp
+,,4 tmp,,
+ms-xml/tc/tc_p103r_preTEI.xml,,ms-xml/tcn/tcn_p103r_preTEI.xml,,ms-xml/tl/tl_p103r_preTEI.xml
+2 ab,,2 ab,,2 ab
+2 add,,2 add,,1 add
+3 al,,3 al,,3 al
+3 bp,,3 bp,,6 bp
+8 del,,1 corr,,8 del
+2 div,,8 del,,2 div
+7 exp,,2 div,,4 fr
+2 head,,7 exp,,2 head
+26 lb,,2 head,,15 m
+15 m,,26 lb,,5 md
+5 md,,15 m,,7 ms
+7 ms,,5 md,,1 oc
+1 oc,,7 ms,,2 pa
+2 pa,,1 oc,,1 pl
+1 pl,,2 pa,,2 pro
+2 pro,,1 pl,,1 root
+1 root,,2 pro,,3 tl
+3 tl,,1 root,,3 tmp
+2 tmp,,3 tl,,
+,,3 tmp,,
+ms-xml/tc/tc_p103v_preTEI.xml,,ms-xml/tcn/tcn_p103v_preTEI.xml,,ms-xml/tl/tl_p103v_preTEI.xml
+5 ab,,5 ab,,5 ab
+1 add,,1 add,,1 add
+1 al,,1 al,,1 al
+4 bp,,5 bp,,5 bp
+1 cn,,1 cn,,1 cn
+3 del,,3 del,,3 del
+5 div,,5 div,,5 div
+1 env,,1 env,,1 env
+2 exp,,2 exp,,2 fr
+5 head,,5 head,,5 head
+20 lb,,20 lb,,16 m
+16 m,,16 m,,4 md
+4 md,,4 md,,1 ms
+1 ms,,1 ms,,1 root
+1 root,,1 root,,6 tl
+7 tl,,7 tl,,1 tmp
+1 tmp,,1 tmp,,
+ms-xml/tc/tc_p104r_preTEI.xml,,ms-xml/tcn/tcn_p104r_preTEI.xml,,ms-xml/tl/tl_p104r_preTEI.xml
+5 ab,,5 ab,,5 ab
+1 cn,,1 cn,,1 cn
+3 del,,2 corr,,1 comment
+5 div,,3 del,,3 del
+2 env,,5 div,,5 div
+3 exp,,2 env,,2 env
+5 head,,3 exp,,5 fr
+20 lb,,5 head,,5 head
+38 m,,20 lb,,38 m
+10 ms,,38 m,,10 ms
+3 pa,,10 ms,,3 pa
+1 root,,3 pa,,1 root
+1 tl,,1 root,,1 tl
+2 tmp,,1 tl,,2 tmp
+,,2 tmp,,
+ms-xml/tc/tc_p104v_preTEI.xml,,ms-xml/tcn/tcn_p104v_preTEI.xml,,ms-xml/tl/tl_p104v_preTEI.xml
+4 ab,,4 ab,,4 ab
+2 al,,2 al,,1 add
+1 comment,,4 del,,2 al
+4 del,,4 div,,3 comment
+4 div,,2 exp,,4 del
+2 exp,,1 figure,,1 df
+1 figure,,4 head,,4 div
+4 head,,21 lb,,1 figure
+21 lb,,14 m,,3 fr
+14 m,,1 md,,4 head
+1 md,,3 ms,,14 m
+3 ms,,3 mu,,1 md
+3 mu,,2 pro,,3 ms
+2 pro,,1 root,,3 mu
+1 root,,2 tl,,2 pro
+2 tl,,1 tmp,,1 root
+1 tmp,,,,2 tl
+,,,,1 tmp
+ms-xml/tc/tc_p105r_preTEI.xml,,ms-xml/tcn/tcn_p105r_preTEI.xml,,ms-xml/tl/tl_p105r_preTEI.xml
+4 ab,,4 ab,,4 ab
+1 add,,1 add,,1 al
+1 al,,1 al,,7 del
+1 comment,,3 corr,,1 df
+7 del,,7 del,,4 div
+1 df,,1 df,,3 figure
+4 div,,4 div,,6 fr
+8 exp,,10 exp,,4 head
+3 figure,,3 figure,,7 m
+4 head,,4 head,,2 ms
+25 lb,,25 lb,,1 pa
+7 m,,7 m,,1 pro
+2 ms,,2 ms,,1 root
+1 pa,,1 pa,,4 tl
+1 pro,,1 pro,,3 tmp
+1 root,,1 root,,
+4 tl,,4 tl,,
+3 tmp,,3 tmp,,
+9 ups,,1 ups,,
+ms-xml/tc/tc_p105v_preTEI.xml,,ms-xml/tcn/tcn_p105v_preTEI.xml,,ms-xml/tl/tl_p105v_preTEI.xml
+8 ab,,8 ab,,8 ab
+2 add,,2 add,,2 add
+12 al,,12 al,,14 al
+2 bp,,2 bp,,2 bp
+3 comment,,2 comment,,2 comment
+8 del,,2 corr,,1 corr
+6 div,,8 del,,7 del
+4 env,,6 div,,6 div
+15 exp,,4 env,,4 env
+5 head,,16 exp,,9 fr
+1 hr,,5 head,,5 head
+70 lb,,1 hr,,1 hr
+9 m,,70 lb,,9 m
+6 ms,,9 m,,6 ms
+1 oc,,4 ms,,1 oc
+5 pa,,1 oc,,5 pa
+2 pro,,5 pa,,2 pro
+1 root,,2 pro,,1 root
+10 tl,,1 root,,10 tl
+6 tmp,,10 tl,,6 tmp
+,,6 tmp,,
+ms-xml/tc/tc_p106r_preTEI.xml,,ms-xml/tcn/tcn_p106r_preTEI.xml,,ms-xml/tl/tl_p106r_preTEI.xml
+9 ab,,9 ab,,9 ab
+4 add,,4 add,,4 add
+2 al,,2 al,,2 al
+2 comment,,1 comment,,2 comment
+9 del,,9 del,,9 del
+2 div,,2 div,,2 div
+3 exp,,3 exp,,9 fr
+2 head,,2 head,,2 head
+1 la,,1 la,,1 la
+36 lb,,36 lb,,39 m
+39 m,,39 m,,1 mark
+1 mark,,1 mark,,2 pl
+2 pl,,2 pl,,1 root
+1 root,,1 root,,3 tl
+3 tl,,3 tl,,1 tmp
+1 tmp,,1 tmp,,
+1 ups,,,,
+ms-xml/tc/tc_p106v_preTEI.xml,,ms-xml/tcn/tcn_p106v_preTEI.xml,,ms-xml/tl/tl_p106v_preTEI.xml
+15 ab,,15 ab,,15 ab
+5 add,,5 add,,7 add
+5 al,,5 al,,5 al
+1 bp,,1 bp,,1 bp
+7 comment,,7 comment,,4 comment
+12 del,,2 corr,,11 del
+3 div,,12 del,,3 div
+3 emph,,3 div,,3 emph
+4 env,,3 emph,,4 env
+5 exp,,4 env,,5 fr
+3 head,,7 exp,,3 head
+2 hr,,3 head,,2 hr
+2 la,,2 hr,,2 la
+71 lb,,2 la,,32 m
+33 m,,71 lb,,3 mark
+3 mark,,32 m,,3 ms
+3 ms,,3 mark,,1 root
+1 root,,3 ms,,15 tl
+15 tl,,1 root,,3 tmp
+3 tmp,,13 tl,,
+,,3 tmp,,
+ms-xml/tc/tc_p107r_preTEI.xml,,ms-xml/tcn/tcn_p107r_preTEI.xml,,ms-xml/tl/tl_p107r_preTEI.xml
+7 ab,,7 ab,,7 ab
+6 add,,6 add,,6 add
+8 al,,8 al,,8 al
+3 bp,,3 bp,,3 bp
+7 comment,,3 comment,,3 comment
+11 del,,1 corr,,1 corr
+2 div,,12 del,,11 del
+1 env,,2 div,,2 div
+13 exp,,1 env,,1 env
+1 head,,13 exp,,11 fr
+2 la,,1 head,,1 head
+70 lb,,2 la,,2 la
+27 m,,70 lb,,1 lb
+1 mark,,27 m,,27 m
+6 ms,,1 mark,,1 mark
+3 pro,,6 ms,,6 ms
+1 root,,3 pro,,3 pro
+15 tl,,1 root,,1 root
+1 tmp,,13 tl,,15 tl
+8 ups,,1 tmp,,1 tmp
+ms-xml/tc/tc_p107v_preTEI.xml,,ms-xml/tcn/tcn_p107v_preTEI.xml,,ms-xml/tl/tl_p107v_preTEI.xml
+7 ab,,7 ab,,7 ab
+1 add,,1 add,,1 add
+2 al,,2 al,,1 al
+1 bp,,1 bp,,1 bp
+8 comment,,3 comment,,6 comment
+15 del,,1 corr,,14 del
+1 df,,16 del,,1 df
+1 div,,1 df,,1 div
+1 emph,,1 div,,1 emph
+12 exp,,1 emph,,1 exp
+1 la,,12 exp,,10 fr
+60 lb,,1 la,,1 la
+22 m,,60 lb,,5 lb
+1 ms,,22 m,,24 m
+2 pa,,1 ms,,1 ms
+2 pl,,2 pa,,1 pa
+2 pro,,2 pl,,2 pl
+1 root,,2 pro,,2 pro
+8 tl,,1 root,,1 root
+,,1 sup,,1 sup
+,,7 tl,,8 tl
+ms-xml/tc/tc_p108r_preTEI.xml,,ms-xml/tcn/tcn_p108r_preTEI.xml,,ms-xml/tl/tl_p108r_preTEI.xml
+6 ab,,6 ab,,6 ab
+1 bp,,1 bp,,1 bp
+3 comment,,3 comment,,3 comment
+3 de,,2 corr,,3 de
+6 del,,3 de,,5 del
+1 df,,7 del,,1 df
+2 div,,1 df,,2 div
+1 emph,,2 div,,1 emph
+2 env,,1 emph,,2 env
+6 exp,,2 env,,4 fr
+1 head,,7 exp,,1 head
+28 lb,,1 head,,27 m
+27 m,,28 lb,,1 ms
+1 ms,,27 m,,1 pa
+1 pa,,1 ms,,3 pl
+3 pl,,1 pa,,1 pro
+1 pro,,3 pl,,1 root
+1 root,,1 pro,,8 tl
+8 tl,,1 root,,
+,,8 tl,,
+ms-xml/tc/tc_p108v_preTEI.xml,,ms-xml/tcn/tcn_p108v_preTEI.xml,,ms-xml/tl/tl_p108v_preTEI.xml
+4 ab,,4 ab,,4 ab
+4 add,,4 add,,4 add
+2 bp,,2 bp,,2 bp
+4 comment,,1 comment,,1 comment
+8 del,,2 corr,,1 corr
+1 div,,8 del,,8 del
+2 emph,,1 div,,1 div
+7 exp,,2 emph,,2 emph
+1 hr,,8 exp,,6 fr
+59 lb,,1 hr,,1 hr
+27 m,,59 lb,,28 m
+2 mark,,27 m,,2 mark
+1 ms,,2 mark,,1 ms
+2 pro,,1 ms,,2 pro
+1 root,,2 pro,,1 root
+2 sn,,1 root,,2 sn
+32 tl,,2 sn,,30 tl
+2 tmp,,29 tl,,2 tmp
+,,2 tmp,,
+ms-xml/tc/tc_p109r_preTEI.xml,,ms-xml/tcn/tcn_p109r_preTEI.xml,,ms-xml/tl/tl_p109r_preTEI.xml
+7 ab,,7 ab,,7 ab
+3 al,,3 al,,3 al
+2 bp,,2 bp,,2 bp
+2 del,,2 del,,1 comment
+5 div,,5 div,,2 del
+1 env,,1 env,,5 div
+5 exp,,5 exp,,1 env
+5 head,,5 head,,2 fr
+34 lb,,34 lb,,5 head
+30 m,,30 m,,30 m
+1 mark,,1 mark,,1 mark
+1 ms,,1 ms,,1 ms
+1 oc,,1 oc,,1 oc
+1 pa,,1 pa,,1 pa
+1 pl,,1 pl,,1 pl
+1 root,,1 root,,1 root
+11 tl,,11 tl,,11 tl
+5 ups,,,,
+ms-xml/tc/tc_p109v_preTEI.xml,,ms-xml/tcn/tcn_p109v_preTEI.xml,,ms-xml/tl/tl_p109v_preTEI.xml
+6 ab,,6 ab,,6 ab
+6 al,,6 al,,6 al
+2 bp,,3 bp,,3 bp
+1 comment,,2 corr,,1 del
+1 del,,1 del,,3 div
+3 div,,3 div,,2 env
+2 env,,2 env,,1 fr
+7 exp,,8 exp,,2 head
+2 head,,2 head,,1 hr
+1 hr,,1 hr,,1 lb
+54 lb,,54 lb,,12 m
+12 m,,12 m,,1 md
+1 md,,1 md,,3 ms
+3 ms,,3 ms,,1 pa
+1 pa,,1 pa,,1 pn
+1 pn,,1 pn,,1 pro
+1 pro,,1 pro,,1 root
+1 root,,1 root,,7 tl
+7 tl,,7 tl,,2 tmp
+2 tmp,,2 tmp,,
+ms-xml/tc/tc_p110r_preTEI.xml,,ms-xml/tcn/tcn_p110r_preTEI.xml,,ms-xml/tl/tl_p110r_preTEI.xml
+4 ab,,4 ab,,4 ab
+1 add,,1 add,,1 add
+3 al,,3 al,,3 al
+3 bp,,3 bp,,3 bp
+2 comment,,2 comment,,1 corr
+5 del,,1 corr,,5 del
+3 div,,6 del,,3 div
+4 env,,3 div,,4 env
+6 exp,,4 env,,5 fr
+3 head,,6 exp,,3 head
+45 lb,,3 head,,10 m
+10 m,,45 lb,,1 md
+1 md,,10 m,,2 ms
+2 ms,,1 md,,1 pn
+1 pn,,2 ms,,1 root
+1 root,,1 pn,,3 tl
+4 tl,,1 root,,1 tmp
+1 tmp,,3 tl,,
+4 ups,,1 tmp,,
+ms-xml/tc/tc_p110v_preTEI.xml,,ms-xml/tcn/tcn_p110v_preTEI.xml,,ms-xml/tl/tl_p110v_preTEI.xml
+7 ab,,7 ab,,7 ab
+1 add,,1 add,,1 add
+2 al,,2 al,,2 al
+1 bp,,1 bp,,1 bp
+4 comment,,1 comment,,1 comment
+3 del,,1 corr,,3 del
+4 div,,3 del,,4 div
+5 exp,,4 div,,3 fr
+3 head,,5 exp,,3 head
+1 ill,,3 head,,1 ill
+52 lb,,1 ill,,31 m
+31 m,,52 lb,,1 mark
+1 mark,,31 m,,5 ms
+5 ms,,1 mark,,4 pa
+4 pa,,5 ms,,1 root
+1 root,,4 pa,,4 tl
+4 tl,,1 root,,
+,,4 tl,,
+ms-xml/tc/tc_p111r_preTEI.xml,,ms-xml/tcn/tcn_p111r_preTEI.xml,,ms-xml/tl/tl_p111r_preTEI.xml
+8 ab,,8 ab,,8 ab
+1 add,,1 add,,1 bp
+1 bp,,1 bp,,1 comment
+1 comment,,1 comment,,5 del
+5 del,,1 corr,,5 div
+5 div,,5 del,,1 env
+1 env,,5 div,,1 figure
+9 exp,,1 env,,5 fr
+1 figure,,10 exp,,5 head
+5 head,,1 figure,,1 ill
+24 lb,,5 head,,12 m
+12 m,,24 lb,,2 ms
+2 ms,,12 m,,1 mu
+1 mu,,2 ms,,1 root
+1 root,,1 mu,,1 sn
+1 sn,,1 root,,15 tl
+15 tl,,1 sn,,
+5 ups,,15 tl,,
+ms-xml/tc/tc_p111v_preTEI.xml,,ms-xml/tcn/tcn_p111v_preTEI.xml,,ms-xml/tl/tl_p111v_preTEI.xml
+8 ab,,8 ab,,8 ab
+1 add,,1 add,,1 add
+6 al,,6 al,,6 al
+6 bp,,6 bp,,6 bp
+3 comment,,2 comment,,1 comment
+8 del,,1 corr,,8 del
+5 div,,9 del,,5 div
+5 exp,,5 div,,7 fr
+5 head,,5 exp,,5 head
+41 lb,,5 head,,25 m
+25 m,,41 lb,,3 ms
+3 ms,,25 m,,1 oc
+1 oc,,3 ms,,1 pa
+1 pa,,1 oc,,1 root
+1 root,,1 pa,,1 sn
+1 sn,,1 root,,13 tl
+12 tl,,1 sn,,2 tmp
+2 tmp,,13 tl,,
+,,2 tmp,,
+ms-xml/tc/tc_p112r_preTEI.xml,,ms-xml/tcn/tcn_p112r_preTEI.xml,,ms-xml/tl/tl_p112r_preTEI.xml
+8 ab,,8 ab,,8 ab
+2 add,,2 add,,2 add
+2 al,,2 al,,2 al
+2 bp,,2 bp,,2 bp
+1 comment,,9 del,,1 comment
+9 del,,4 div,,10 del
+4 div,,1 env,,4 div
+1 env,,1 figure,,1 env
+1 figure,,4 head,,1 figure
+4 head,,44 lb,,9 fr
+44 lb,,26 m,,4 head
+26 m,,2 mark,,25 m
+2 mark,,2 ms,,2 mark
+2 ms,,1 root,,2 ms
+1 root,,15 tl,,1 root
+15 tl,,2 tmp,,15 tl
+2 tmp,,,,2 tmp
+1 ups,,,,
+ms-xml/tc/tc_p112v_preTEI.xml,,ms-xml/tcn/tcn_p112v_preTEI.xml,,ms-xml/tl/tl_p112v_preTEI.xml
+7 ab,,7 ab,,7 ab
+3 al,,3 al,,3 al
+3 bp,,3 bp,,3 bp
+2 comment,,2 corr,,1 comment
+18 del,,18 del,,18 del
+1 df,,1 df,,1 df
+2 div,,2 div,,2 div
+10 exp,,11 exp,,1 figure
+1 figure,,1 figure,,14 fr
+1 head,,1 head,,1 head
+2 hr,,2 hr,,2 hr
+2 ill,,2 ill,,2 ill
+85 lb,,85 lb,,1 lb
+21 m,,21 m,,21 m
+1 ms,,1 ms,,1 ms
+3 po,,3 po,,3 po
+1 pro,,1 pro,,1 pro
+1 root,,1 root,,1 root
+21 tl,,21 tl,,20 tl
+ms-xml/tc/tc_p113r_preTEI.xml,,ms-xml/tcn/tcn_p113r_preTEI.xml,,ms-xml/tl/tl_p113r_preTEI.xml
+6 ab,,6 ab,,6 ab
+2 al,,2 al,,2 al
+1 bp,,1 bp,,1 bp
+3 comment,,1 comment,,1 comment
+11 del,,11 del,,11 del
+1 df,,1 df,,1 df
+2 div,,2 div,,2 div
+5 exp,,5 exp,,4 figure
+4 figure,,4 figure,,9 fr
+1 head,,1 head,,1 head
+81 lb,,81 lb,,29 m
+29 m,,29 m,,2 ms
+2 ms,,2 ms,,2 mu
+2 mu,,2 mu,,1 pa
+1 pa,,1 pa,,3 po
+3 po,,3 po,,1 root
+1 root,,1 root,,12 tl
+12 tl,,12 tl,,
+6 ups,,,,
+ms-xml/tc/tc_p113v_preTEI.xml,,ms-xml/tcn/tcn_p113v_preTEI.xml,,ms-xml/tl/tl_p113v_preTEI.xml
+6 ab,,6 ab,,6 ab
+2 add,,2 add,,2 add
+2 comment,,2 corr,,1 comment
+19 del,,19 del,,1 corr
+2 div,,2 div,,19 del
+4 exp,,5 exp,,2 div
+3 figure,,3 figure,,3 figure
+1 head,,1 head,,15 fr
+2 ill,,2 ill,,1 head
+83 lb,,83 lb,,2 ill
+29 m,,29 m,,29 m
+2 mark,,2 mark,,2 mark
+3 ms,,3 ms,,3 ms
+1 mu,,1 mu,,1 mu
+1 po,,1 po,,1 po
+1 pro,,1 pro,,1 pro
+1 root,,1 root,,1 root
+15 tl,,15 tl,,15 tl
+1 tmp,,1 tmp,,1 tmp
+1 ups,,1 ups,,1 ups
+ms-xml/tc/tc_p114r_preTEI.xml,,ms-xml/tcn/tcn_p114r_preTEI.xml,,ms-xml/tl/tl_p114r_preTEI.xml
+6 ab,,6 ab,,6 ab
+6 add,,6 add,,6 add
+4 al,,4 al,,4 al
+3 comment,,2 comment,,2 comment
+16 del,,2 corr,,1 corr
+1 div,,17 del,,17 del
+7 exp,,1 div,,1 div
+3 figure,,8 exp,,3 figure
+1 head,,3 figure,,12 fr
+1 la,,1 head,,1 head
+81 lb,,1 la,,1 la
+16 m,,81 lb,,16 m
+5 mark,,16 m,,5 mark
+1 ms,,5 mark,,1 ms
+1 mu,,1 ms,,1 mu
+1 root,,1 mu,,1 root
+21 tl,,1 root,,20 tl
+1 tmp,,21 tl,,1 tmp
+6 ups,,1 tmp,,
+ms-xml/tc/tc_p114v_preTEI.xml,,ms-xml/tcn/tcn_p114v_preTEI.xml,,ms-xml/tl/tl_p114v_preTEI.xml
+5 ab,,5 ab,,5 ab
+3 add,,3 add,,3 add
+1 al,,1 al,,1 al
+3 comment,,1 comment,,2 comment
+10 del,,10 del,,10 del
+1 div,,1 div,,1 div
+7 exp,,7 exp,,3 figure
+3 figure,,3 figure,,8 fr
+80 lb,,80 lb,,17 m
+17 m,,17 m,,1 mark
+1 mark,,1 mark,,6 ms
+6 ms,,6 ms,,1 mu
+1 mu,,1 mu,,2 po
+2 po,,2 po,,1 root
+1 root,,1 root,,1 sn
+1 sn,,1 sn,,19 tl
+19 tl,,19 tl,,7 tmp
+7 tmp,,7 tmp,,
+ms-xml/tc/tc_p115r_preTEI.xml,,ms-xml/tcn/tcn_p115r_preTEI.xml,,ms-xml/tl/tl_p115r_preTEI.xml
+7 ab,,7 ab,,7 ab
+4 al,,4 al,,4 al
+1 bp,,1 bp,,1 bp
+1 caption,,1 caption,,1 caption
+3 comment,,2 comment,,2 comment
+11 del,,1 corr,,1 corr
+4 div,,11 del,,7 del
+9 exp,,4 div,,4 div
+3 figure,,9 exp,,3 figure
+3 head,,3 figure,,4 fr
+1 ill,,3 head,,3 head
+72 lb,,1 ill,,1 lb
+17 m,,73 lb,,15 m
+1 mark,,17 m,,1 mark
+1 ms,,1 mark,,1 ms
+1 mu,,1 ms,,1 po
+1 po,,1 mu,,1 root
+1 root,,1 po,,13 tl
+13 tl,,1 root,,1 tmp
+1 tmp,,13 tl,,
+4 ups,,1 tmp,,
+ms-xml/tc/tc_p115v_preTEI.xml,,ms-xml/tcn/tcn_p115v_preTEI.xml,,ms-xml/tl/tl_p115v_preTEI.xml
+8 ab,,8 ab,,8 ab
+4 add,,4 add,,4 add
+1 bp,,1 bp,,1 bp
+8 del,,1 corr,,8 del
+3 div,,8 del,,3 div
+1 env,,3 div,,1 env
+5 exp,,1 env,,2 figure
+2 figure,,5 exp,,8 fr
+3 head,,2 figure,,3 head
+1 hr,,3 head,,1 hr
+75 lb,,1 hr,,16 m
+17 m,,75 lb,,3 ms
+2 ms,,17 m,,1 root
+1 root,,2 ms,,22 tl
+1 sn,,1 root,,1 tmp
+22 tl,,1 sn,,
+1 tmp,,22 tl,,
+1 ups,,1 tmp,,
+ms-xml/tc/tc_p116r_preTEI.xml,,ms-xml/tcn/tcn_p116r_preTEI.xml,,ms-xml/tl/tl_p116r_preTEI.xml
+6 ab,,6 ab,,6 ab
+1 add,,1 add,,1 add
+2 al,,2 al,,2 al
+4 comment,,3 comment,,2 comment
+15 del,,2 corr,,3 corr
+5 div,,16 del,,14 del
+12 exp,,5 div,,5 div
+1 figure,,12 exp,,1 figure
+4 head,,1 figure,,13 fr
+74 lb,,4 head,,4 head
+48 m,,74 lb,,1 ill
+1 mu,,48 m,,47 m
+3 pa,,1 mu,,1 ms
+1 root,,3 pa,,1 mu
+10 tl,,1 root,,3 pa
+2 ups,,10 tl,,1 root
+,,,,10 tl
+ms-xml/tc/tc_p116v_preTEI.xml,,ms-xml/tcn/tcn_p116v_preTEI.xml,,ms-xml/tl/tl_p116v_preTEI.xml
+5 ab,,5 ab,,5 ab
+1 add,,1 add,,1 add
+6 al,,6 al,,5 al
+1 bp,,1 bp,,1 bp
+1 comment,,1 corr,,1 comment
+8 del,,8 del,,8 del
+3 div,,3 div,,3 div
+1 env,,1 env,,1 env
+12 exp,,13 exp,,5 fr
+3 head,,3 head,,3 head
+67 lb,,67 lb,,49 m
+48 m,,48 m,,6 ms
+7 ms,,7 ms,,1 oc
+1 oc,,1 oc,,1 pa
+1 pa,,1 pa,,1 root
+1 root,,1 root,,2 sn
+1 sn,,1 sn,,9 tl
+8 tl,,8 tl,,2 tmp
+2 tmp,,2 tmp,,
+ms-xml/tc/tc_p117r_preTEI.xml,,ms-xml/tcn/tcn_p117r_preTEI.xml,,ms-xml/tl/tl_p117r_preTEI.xml
+3 ab,,3 ab,,3 ab
+4 add,,4 add,,2 add
+3 al,,3 al,,3 al
+1 bp,,1 bp,,1 bp
+1 caption,,1 caption,,1 caption
+12 del,,1 comment,,1 comment
+1 div,,1 corr,,1 corr
+8 exp,,13 del,,13 del
+3 figure,,1 div,,1 div
+1 head,,8 exp,,3 figure
+42 lb,,3 figure,,4 fr
+23 m,,1 head,,1 head
+1 ms,,42 lb,,21 m
+5 mu,,23 m,,1 ms
+1 root,,1 ms,,5 mu
+13 tl,,5 mu,,1 root
+10 ups,,1 root,,13 tl
+,,13 tl,,
+ms-xml/tc/tc_p117v_preTEI.xml,,ms-xml/tcn/tcn_p117v_preTEI.xml,,ms-xml/tl/tl_p117v_preTEI.xml
+8 ab,,8 ab,,8 ab
+1 add,,1 add,,1 add
+4 al,,4 al,,4 al
+6 del,,2 corr,,2 corr
+5 div,,6 del,,6 del
+5 exp,,5 div,,5 div
+5 head,,5 exp,,4 fr
+52 lb,,5 head,,5 head
+38 m,,52 lb,,38 m
+2 pa,,38 m,,2 pa
+1 root,,2 pa,,1 root
+10 tl,,1 root,,10 tl
+,,10 tl,,
+ms-xml/tc/tc_p118r_preTEI.xml,,ms-xml/tcn/tcn_p118r_preTEI.xml,,ms-xml/tl/tl_p118r_preTEI.xml
+7 ab,,7 ab,,7 ab
+1 add,,1 add,,1 add
+2 al,,2 al,,2 al
+1 de,,1 de,,1 comment
+6 del,,6 del,,1 de
+1 df,,2 df,,6 del
+5 div,,5 div,,2 df
+7 env,,7 env,,5 div
+3 exp,,3 exp,,7 env
+5 head,,5 head,,5 fr
+34 lb,,34 lb,,5 head
+35 m,,35 m,,35 m
+3 ms,,3 ms,,3 ms
+3 pa,,3 pa,,3 pa
+1 root,,1 root,,1 root
+8 tl,,10 tl,,11 tl
+ms-xml/tc/tc_p118v_preTEI.xml,,ms-xml/tcn/tcn_p118v_preTEI.xml,,ms-xml/tl/tl_p118v_preTEI.xml
+10 ab,,10 ab,,10 ab
+1 add,,1 add,,1 add
+1 bp,,1 bp,,1 bp
+1 comment,,1 comment,,1 comment
+17 del,,2 corr,,1 corr
+2 df,,17 del,,16 del
+1 div,,2 df,,1 df
+1 emph,,1 div,,1 div
+5 exp,,1 emph,,1 emph
+1 figure,,6 exp,,1 figure
+1 head,,1 figure,,11 fr
+1 hr,,1 head,,1 head
+73 lb,,1 hr,,1 hr
+35 m,,73 lb,,36 m
+4 ms,,35 m,,4 ms
+1 pa,,4 ms,,1 pa
+1 root,,1 pa,,1 root
+27 tl,,1 root,,27 tl
+,,27 tl,,
+ms-xml/tc/tc_p119r_preTEI.xml,,ms-xml/tcn/tcn_p119r_preTEI.xml,,ms-xml/tl/tl_p119r_preTEI.xml
+10 ab,,10 ab,,10 ab
+1 add,,1 add,,1 add
+1 bp,,1 bp,,1 bp
+7 del,,7 del,,2 comment
+1 df,,1 df,,7 del
+2 div,,2 div,,1 df
+1 emph,,1 emph,,2 div
+6 exp,,6 exp,,1 emph
+1 head,,1 head,,4 fr
+1 la,,1 la,,1 head
+42 lb,,42 lb,,1 la
+25 m,,25 m,,25 m
+5 ms,,5 ms,,5 ms
+2 oc,,3 oc,,3 oc
+2 pa,,2 pa,,2 pa
+1 pl,,1 pl,,1 pl
+1 root,,1 root,,1 root
+15 tl,,15 tl,,15 tl
+6 ups,,,,
+ms-xml/tc/tc_p119v_preTEI.xml,,ms-xml/tcn/tcn_p119v_preTEI.xml,,ms-xml/tl/tl_p119v_preTEI.xml
+5 ab,,5 ab,,5 ab
+1 add,,1 add,,2 add
+1 al,,1 al,,1 al
+1 bp,,1 bp,,1 bp
+4 comment,,3 comment,,2 comment
+2 de,,1 corr,,1 corr
+5 del,,2 de,,2 de
+2 div,,5 del,,3 del
+6 exp,,2 div,,2 div
+2 head,,6 exp,,4 fr
+1 ill,,2 head,,2 head
+1 la,,1 ill,,1 la
+58 lb,,1 la,,38 m
+39 m,,58 lb,,1 ms
+1 ms,,39 m,,1 pl
+1 pl,,1 ms,,1 pn
+1 pn,,1 pl,,1 pro
+1 pro,,1 pn,,1 root
+1 root,,1 pro,,8 tl
+8 tl,,1 root,,
+,,7 tl,,
+ms-xml/tc/tc_p120r_preTEI.xml,,ms-xml/tcn/tcn_p120r_preTEI.xml,,ms-xml/tl/tl_p120r_preTEI.xml
+5 ab,,5 ab,,5 ab
+2 add,,2 add,,3 add
+6 al,,6 al,,6 al
+1 bp,,1 bp,,1 bp
+3 comment,,3 comment,,2 comment
+8 del,,2 corr,,1 corr
+1 df,,9 del,,7 del
+3 div,,1 df,,1 df
+2 env,,3 div,,3 div
+7 exp,,2 env,,2 env
+3 head,,7 exp,,5 fr
+3 la,,3 head,,3 head
+70 lb,,3 la,,3 la
+41 m,,70 lb,,40 m
+6 ms,,41 m,,6 ms
+1 pa,,6 ms,,1 pa
+1 pl,,1 pa,,1 pl
+3 pro,,1 pl,,3 pro
+1 root,,3 pro,,1 root
+10 tl,,1 root,,10 tl
+11 tmp,,10 tl,,11 tmp
+9 ups,,11 tmp,,
+ms-xml/tc/tc_p120v_preTEI.xml,,ms-xml/tcn/tcn_p120v_preTEI.xml,,ms-xml/tl/tl_p120v_preTEI.xml
+15 ab,,15 ab,,15 ab
+3 add,,3 add,,6 add
+1 al,,1 al,,1 al
+2 bp,,2 bp,,3 bp
+7 comment,,3 comment,,3 comment
+10 del,,4 corr,,4 corr
+5 div,,10 del,,10 del
+2 emph,,5 div,,5 div
+8 env,,2 emph,,2 emph
+6 exp,,8 env,,8 env
+1 figure,,6 exp,,1 figure
+4 head,,1 figure,,7 fr
+1 hr,,4 head,,4 head
+6 la,,1 hr,,1 hr
+59 lb,,6 la,,6 la
+38 m,,59 lb,,1 lb
+2 mark,,38 m,,38 m
+1 md,,2 mark,,2 mark
+1 ms,,1 md,,1 md
+2 pa,,1 ms,,1 ms
+1 pro,,2 pa,,2 pa
+1 root,,1 pro,,1 pro
+6 tl,,1 root,,1 root
+3 tmp,,6 tl,,6 tl
+,,3 tmp,,3 tmp
+ms-xml/tc/tc_p121r_preTEI.xml,,ms-xml/tcn/tcn_p121r_preTEI.xml,,ms-xml/tl/tl_p121r_preTEI.xml
+5 ab,,5 ab,,5 ab
+5 bp,,5 bp,,5 bp
+1 comment,,1 comment,,1 comment
+8 del,,3 corr,,2 corr
+2 div,,9 del,,8 del
+5 env,,2 div,,2 div
+11 exp,,5 env,,5 env
+1 head,,11 exp,,3 fr
+2 la,,1 head,,1 head
+68 lb,,2 la,,2 la
+20 m,,68 lb,,18 m
+3 ms,,19 m,,3 ms
+8 pa,,3 ms,,9 pa
+2 po,,8 pa,,2 po
+2 pro,,2 po,,2 pro
+1 root,,2 pro,,1 root
+2 sn,,1 root,,2 sn
+12 tl,,2 sn,,12 tl
+3 tmp,,12 tl,,3 tmp
+7 ups,,3 tmp,,
+ms-xml/tc/tc_p121v_preTEI.xml,,ms-xml/tcn/tcn_p121v_preTEI.xml,,ms-xml/tl/tl_p121v_preTEI.xml
+12 ab,,12 ab,,12 ab
+5 add,,5 add,,5 add
+2 bp,,2 bp,,3 bp
+2 cn,,2 cn,,2 cn
+8 del,,1 corr,,1 corr
+2 div,,9 del,,9 del
+1 emph,,2 div,,2 div
+7 exp,,1 emph,,1 emph
+2 head,,7 exp,,2 fr
+1 la,,2 head,,2 head
+64 lb,,1 la,,1 la
+47 m,,64 lb,,47 m
+1 mark,,47 m,,1 mark
+9 ms,,1 mark,,9 ms
+1 pa,,9 ms,,1 pa
+1 pl,,1 pa,,1 pl
+3 pro,,1 pl,,3 pro
+1 root,,3 pro,,1 root
+17 tl,,1 root,,16 tl
+,,17 tl,,1 wp
+ms-xml/tc/tc_p122r_preTEI.xml,,ms-xml/tcn/tcn_p122r_preTEI.xml,,ms-xml/tl/tl_p122r_preTEI.xml
+3 ab,,3 ab,,3 ab
+1 add,,1 add,,1 add
+4 al,,4 al,,4 al
+1 bp,,1 bp,,1 bp
+1 comment,,1 comment,,1 comment
+9 del,,9 del,,9 del
+2 div,,2 div,,2 div
+3 exp,,3 exp,,4 figure
+4 figure,,4 figure,,4 fr
+2 head,,2 head,,2 head
+29 lb,,29 lb,,9 m
+9 m,,9 m,,1 md
+1 md,,1 md,,1 pa
+1 pa,,1 pa,,1 root
+1 root,,1 root,,11 tl
+11 tl,,11 tl,,
+ms-xml/tc/tc_p122v_preTEI.xml,,ms-xml/tcn/tcn_p122v_preTEI.xml,,ms-xml/tl/tl_p122v_preTEI.xml
+4 ab,,4 ab,,4 ab
+1 add,,1 add,,1 add
+1 al,,1 al,,3 del
+3 del,,3 del,,3 div
+3 div,,3 div,,2 figure
+3 exp,,3 exp,,3 fr
+2 figure,,2 figure,,3 head
+3 head,,3 head,,11 m
+31 lb,,31 lb,,1 root
+10 m,,10 m,,8 tl
+1 root,,1 root,,
+8 tl,,8 tl,,
+5 ups,,,,
+ms-xml/tc/tc_p123r_preTEI.xml,,ms-xml/tcn/tcn_p123r_preTEI.xml,,ms-xml/tl/tl_p123r_preTEI.xml
+6 ab,,6 ab,,6 ab
+3 add,,3 add,,3 add
+4 bp,,4 bp,,5 bp
+1 cn,,1 cn,,1 cn
+1 comment,,1 comment,,1 comment
+1 del,,1 del,,1 del
+1 div,,1 div,,1 div
+8 exp,,8 exp,,1 fr
+1 head,,1 head,,1 head
+1 it,,1 it,,1 it
+1 la,,1 la,,1 la
+67 lb,,68 lb,,13 lb
+29 m,,29 m,,29 m
+1 md,,1 md,,1 md
+25 ms,,25 ms,,24 ms
+3 oc,,4 oc,,4 oc
+4 pro,,4 pro,,4 pro
+1 root,,1 root,,1 root
+13 tl,,12 tl,,13 tl
+1 tmp,,1 tmp,,1 tmp
+10 ups,,1 wp,,1 wp
+1 wp,,,,
+ms-xml/tc/tc_p123v_preTEI.xml,,ms-xml/tcn/tcn_p123v_preTEI.xml,,ms-xml/tl/tl_p123v_preTEI.xml
+4 ab,,4 ab,,4 ab
+6 add,,6 add,,6 add
+1 al,,1 al,,1 al
+3 bp,,3 bp,,3 bp
+12 del,,12 del,,1 comment
+1 div,,1 div,,12 del
+1 env,,1 env,,1 div
+11 exp,,11 exp,,1 env
+1 la,,1 la,,2 fr
+59 lb,,59 lb,,1 la
+34 m,,34 m,,34 m
+1 md,,1 md,,1 md
+5 ms,,5 ms,,5 ms
+6 oc,,5 oc,,6 oc
+1 pa,,1 pa,,1 pa
+2 po,,2 po,,2 po
+3 pro,,3 pro,,3 pro
+1 root,,1 root,,1 root
+11 tl,,11 tl,,12 tl
+6 tmp,,6 tmp,,6 tmp
+ms-xml/tc/tc_p124r_preTEI.xml,,ms-xml/tcn/tcn_p124r_preTEI.xml,,ms-xml/tl/tl_p124r_preTEI.xml
+4 ab,,4 ab,,4 ab
+3 al,,3 al,,2 al
+1 comment,,1 comment,,1 comment
+2 del,,2 del,,2 del
+1 df,,1 df,,1 df
+4 div,,4 div,,4 div
+2 env,,2 env,,2 env
+4 exp,,4 exp,,7 fr
+4 head,,4 head,,4 head
+26 lb,,26 lb,,18 m
+16 m,,16 m,,5 pa
+5 pa,,5 pa,,1 root
+1 root,,1 root,,5 tl
+5 tl,,5 tl,,
+5 ups,,,,
+ms-xml/tc/tc_p124v_preTEI.xml,,ms-xml/tcn/tcn_p124v_preTEI.xml,,ms-xml/tl/tl_p124v_preTEI.xml
+13 ab,,13 ab,,13 ab
+5 add,,5 add,,5 add
+2 al,,2 al,,2 al
+2 cn,,2 cn,,2 cn
+2 comment,,3 comment,,2 comment
+10 del,,10 del,,10 del
+3 div,,3 div,,3 div
+9 exp,,9 exp,,2 figure
+2 figure,,2 figure,,3 fr
+3 head,,3 head,,3 head
+1 hr,,1 hr,,1 hr
+1 ill,,1 ill,,1 ill
+52 lb,,52 lb,,1 lb
+38 m,,38 m,,38 m
+1 mark,,1 mark,,1 mark
+2 ms,,2 ms,,2 ms
+2 pro,,2 pro,,2 pro
+1 root,,1 root,,1 root
+13 tl,,13 tl,,13 tl
+ms-xml/tc/tc_p125r_preTEI.xml,,ms-xml/tcn/tcn_p125r_preTEI.xml,,ms-xml/tl/tl_p125r_preTEI.xml
+8 ab,,8 ab,,8 ab
+1 add,,1 add,,1 add
+1 bp,,1 bp,,1 bp
+4 comment,,4 comment,,3 comment
+7 del,,2 corr,,1 corr
+5 div,,8 del,,8 del
+2 emph,,5 div,,5 div
+4 env,,2 emph,,2 emph
+10 exp,,4 env,,1 env
+1 figure,,11 exp,,1 figure
+3 head,,1 figure,,4 fr
+4 hr,,3 head,,3 head
+72 lb,,4 hr,,4 hr
+30 m,,72 lb,,31 m
+2 mark,,30 m,,2 mark
+4 pl,,2 mark,,4 pl
+1 pro,,4 pl,,1 pro
+1 root,,1 pro,,1 root
+2 sn,,1 root,,2 sn
+3 tl,,2 sn,,4 tl
+2 tmp,,3 tl,,2 tmp
+5 ups,,2 tmp,,4 wp
+3 wp,,3 wp,,
+ms-xml/tc/tc_p125v_preTEI.xml,,ms-xml/tcn/tcn_p125v_preTEI.xml,,ms-xml/tl/tl_p125v_preTEI.xml
+5 ab,,5 ab,,5 ab
+2 add,,2 add,,2 add
+11 al,,11 al,,11 al
+6 del,,1 comment,,1 comment
+3 div,,6 del,,6 del
+5 exp,,3 div,,3 div
+3 head,,5 exp,,2 fr
+49 lb,,3 head,,3 head
+14 m,,49 lb,,14 m
+1 mark,,14 m,,1 mark
+1 root,,1 mark,,1 root
+3 tl,,1 root,,2 tl
+1 ups,,3 tl,,
+ms-xml/tc/tc_p126r_preTEI.xml,,ms-xml/tcn/tcn_p126r_preTEI.xml,,ms-xml/tl/tl_p126r_preTEI.xml
+4 ab,,4 ab,,4 ab
+1 add,,1 add,,1 add
+5 del,,5 del,,5 del
+1 div,,1 div,,1 div
+7 exp,,7 exp,,2 fr
+1 head,,1 head,,1 head
+70 lb,,70 lb,,26 m
+26 m,,26 m,,1 mark
+1 mark,,1 mark,,3 ms
+3 ms,,3 ms,,15 pa
+11 pa,,11 pa,,1 root
+1 root,,1 root,,10 tl
+10 tl,,10 tl,,5 tmp
+5 tmp,,5 tmp,,
+4 ups,,,,
+ms-xml/tc/tc_p126v_preTEI.xml,,ms-xml/tcn/tcn_p126v_preTEI.xml,,ms-xml/tl/tl_p126v_preTEI.xml
+7 ab,,7 ab,,7 ab
+1 add,,1 add,,1 add
+1 cn,,1 cn,,1 cn
+1 comment,,1 comment,,1 comment
+11 del,,11 del,,11 del
+3 div,,3 div,,3 div
+3 exp,,3 exp,,8 fr
+3 head,,3 head,,3 head
+2 la,,2 la,,2 la
+44 lb,,44 lb,,27 m
+27 m,,27 m,,2 ms
+2 ms,,2 ms,,3 pa
+3 pa,,3 pa,,1 root
+1 root,,1 root,,9 tl
+8 tl,,8 tl,,
+ms-xml/tc/tc_p127r_preTEI.xml,,ms-xml/tcn/tcn_p127r_preTEI.xml,,ms-xml/tl/tl_p127r_preTEI.xml
+4 ab,,4 ab,,4 ab
+2 add,,2 add,,2 add
+4 del,,1 corr,,4 del
+2 div,,4 del,,2 div
+1 emph,,2 div,,1 emph
+4 exp,,1 emph,,1 figure
+1 figure,,4 exp,,4 fr
+1 head,,1 figure,,1 head
+1 la,,1 head,,1 la
+35 lb,,1 la,,26 m
+27 m,,35 lb,,1 ms
+1 ms,,26 m,,2 pa
+2 pa,,1 ms,,1 root
+1 root,,2 pa,,6 tl
+6 tl,,1 root,,1 tmp
+1 tmp,,6 tl,,
+7 ups,,1 tmp,,
+ms-xml/tc/tc_p127v_preTEI.xml,,ms-xml/tcn/tcn_p127v_preTEI.xml,,ms-xml/tl/tl_p127v_preTEI.xml
+11 ab,,11 ab,,11 ab
+6 add,,6 add,,5 add
+2 comment,,3 comment,,1 comment
+10 del,,3 corr,,1 corr
+1 div,,10 del,,10 del
+2 emph,,1 div,,1 div
+8 exp,,2 emph,,2 emph
+1 figure,,8 exp,,1 figure
+1 head,,1 figure,,3 fr
+1 hr,,1 head,,1 head
+1 la,,1 hr,,1 hr
+76 lb,,1 la,,1 la
+38 m,,76 lb,,39 m
+1 oc,,39 m,,1 oc
+1 pl,,1 oc,,3 pro
+3 pro,,3 pro,,1 root
+1 root,,1 root,,31 tl
+33 tl,,34 tl,,
+1 ups,,,,
+ms-xml/tc/tc_p128r_preTEI.xml,,ms-xml/tcn/tcn_p128r_preTEI.xml,,ms-xml/tl/tl_p128r_preTEI.xml
+11 ab,,11 ab,,11 ab
+8 add,,8 add,,8 add
+1 bp,,1 bp,,1 bp
+2 comment,,2 comment,,2 comment
+19 del,,1 corr,,1 corr
+1 div,,18 del,,16 del
+3 exp,,1 div,,1 div
+1 head,,3 exp,,6 fr
+1 la,,1 head,,1 head
+62 lb,,1 la,,1 la
+30 m,,62 lb,,29 m
+2 mark,,30 m,,2 mark
+3 ms,,2 mark,,3 ms
+6 oc,,3 ms,,6 oc
+1 pa,,6 oc,,1 pa
+1 root,,1 pa,,1 root
+23 tl,,1 root,,24 tl
+10 ups,,23 tl,,
+ms-xml/tc/tc_p128v_preTEI.xml,,ms-xml/tcn/tcn_p128v_preTEI.xml,,ms-xml/tl/tl_p128v_preTEI.xml
+7 ab,,7 ab,,7 ab
+3 add,,3 add,,2 add
+3 al,,3 al,,3 al
+2 cn,,2 cn,,2 cn
+8 del,,1 corr,,8 del
+2 div,,8 del,,2 div
+15 exp,,2 div,,9 fr
+1 head,,16 exp,,1 head
+1 ill,,1 head,,44 m
+85 lb,,1 ill,,1 mark
+46 m,,85 lb,,2 ms
+1 mark,,45 m,,1 oc
+2 ms,,1 mark,,1 pa
+1 oc,,2 ms,,4 pl
+1 pa,,1 oc,,2 pro
+4 pl,,1 pa,,1 root
+2 pro,,4 pl,,18 tl
+1 root,,2 pro,,
+17 tl,,1 root,,
+2 ups,,18 tl,,
+ms-xml/tc/tc_p129r_preTEI.xml,,ms-xml/tcn/tcn_p129r_preTEI.xml,,ms-xml/tl/tl_p129r_preTEI.xml
+5 ab,,5 ab,,5 ab
+2 add,,2 add,,2 add
+4 al,,4 al,,4 al
+1 comment,,1 corr,,2 comment
+2 del,,2 del,,1 corr
+4 div,,4 div,,2 del
+5 exp,,5 exp,,4 div
+4 head,,4 head,,4 fr
+27 lb,,27 lb,,4 head
+22 m,,22 m,,22 m
+1 mark,,1 mark,,1 mark
+1 ms,,1 ms,,1 ms
+6 pa,,6 pa,,5 pa
+1 root,,1 root,,1 root
+1 tl,,1 tl,,1 tl
+1 tmp,,1 tmp,,1 tmp
+2 ups,,1 wp,,1 wp
+1 wp,,,,
+ms-xml/tc/tc_p129v_preTEI.xml,,ms-xml/tcn/tcn_p129v_preTEI.xml,,ms-xml/tl/tl_p129v_preTEI.xml
+8 ab,,8 ab,,8 ab
+2 add,,2 add,,2 add
+11 al,,11 al,,10 al
+2 bp,,2 bp,,2 bp
+2 comment,,10 del,,10 del
+10 del,,4 div,,4 div
+4 div,,1 env,,1 env
+1 env,,15 exp,,1 figure
+15 exp,,1 figure,,5 fr
+1 figure,,4 head,,4 head
+4 head,,2 hr,,2 hr
+2 hr,,85 lb,,30 m
+85 lb,,31 m,,2 mark
+31 m,,2 mark,,4 ms
+2 mark,,5 ms,,5 pa
+4 ms,,5 pa,,1 root
+5 pa,,1 root,,1 sn
+1 root,,1 sn,,19 tl
+1 sn,,19 tl,,3 tmp
+19 tl,,3 tmp,,
+3 tmp,,,,
+ms-xml/tc/tc_p130r_preTEI.xml,,ms-xml/tcn/tcn_p130r_preTEI.xml,,ms-xml/tl/tl_p130r_preTEI.xml
+6 ab,,6 ab,,6 ab
+2 add,,2 add,,2 add
+6 al,,6 al,,5 al
+2 comment,,2 comment,,1 comment
+4 del,,2 corr,,2 corr
+4 div,,5 del,,5 del
+1 env,,4 div,,4 div
+6 exp,,1 env,,1 env
+1 figure,,6 exp,,1 figure
+4 head,,1 figure,,2 fr
+40 lb,,4 head,,4 head
+13 m,,40 lb,,14 m
+3 pa,,13 m,,3 pa
+1 root,,3 pa,,1 root
+12 tl,,1 root,,12 tl
+4 ups,,12 tl,,
+ms-xml/tc/tc_p130v_preTEI.xml,,ms-xml/tcn/tcn_p130v_preTEI.xml,,ms-xml/tl/tl_p130v_preTEI.xml
+5 ab,,5 ab,,5 ab
+2 add,,2 add,,2 add
+6 al,,6 al,,6 al
+1 comment,,1 comment,,1 comment
+8 del,,8 del,,8 del
+3 div,,3 div,,3 div
+1 emph,,1 emph,,1 emph
+11 exp,,11 exp,,5 fr
+3 head,,3 head,,3 head
+36 lb,,36 lb,,9 m
+9 m,,9 m,,1 root
+1 root,,1 root,,8 tl
+8 tl,,8 tl,,
+ms-xml/tc/tc_p131r_preTEI.xml,,ms-xml/tcn/tcn_p131r_preTEI.xml,,ms-xml/tl/tl_p131r_preTEI.xml
+7 ab,,7 ab,,7 ab
+1 add,,1 add,,1 add
+1 al,,1 al,,1 al
+1 bp,,1 bp,,1 bp
+3 del,,3 del,,2 del
+5 div,,5 div,,5 div
+2 env,,2 env,,2 env
+4 exp,,3 exp,,3 fr
+5 head,,5 head,,5 head
+1 la,,1 la,,1 la
+30 lb,,30 lb,,2 lb
+27 m,,27 m,,27 m
+1 mark,,1 mark,,1 mark
+2 pro,,2 pro,,2 pro
+1 root,,1 root,,1 root
+6 tl,,6 tl,,6 tl
+4 ups,,,,
+ms-xml/tc/tc_p131v_preTEI.xml,,ms-xml/tcn/tcn_p131v_preTEI.xml,,ms-xml/tl/tl_p131v_preTEI.xml
+6 ab,,6 ab,,6 ab
+2 add,,2 add,,2 add
+1 al,,1 al,,1 al
+2 bp,,2 bp,,2 bp
+8 del,,4 corr,,8 del
+2 div,,8 del,,2 div
+7 exp,,2 div,,8 fr
+1 head,,10 exp,,1 head
+61 lb,,1 head,,43 m
+42 m,,61 lb,,4 ms
+4 ms,,42 m,,1 root
+1 root,,4 ms,,2 sn
+3 sn,,1 root,,10 tl
+10 tl,,2 sn,,1 tmp
+1 tmp,,10 tl,,
+,,1 tmp,,
+ms-xml/tc/tc_p132r_preTEI.xml,,ms-xml/tcn/tcn_p132r_preTEI.xml,,ms-xml/tl/tl_p132r_preTEI.xml
+6 ab,,6 ab,,6 ab
+1 add,,1 add,,1 add
+1 bp,,1 bp,,1 bp
+7 del,,7 del,,7 del
+3 div,,3 div,,3 div
+1 env,,1 env,,1 env
+7 exp,,7 exp,,4 fr
+2 head,,2 head,,2 head
+63 lb,,63 lb,,24 m
+23 m,,23 m,,1 ms
+1 ms,,1 ms,,1 root
+1 root,,1 root,,24 tl
+25 tl,,25 tl,,
+1 ups,,,,
+ms-xml/tc/tc_p132v_preTEI.xml,,ms-xml/tcn/tcn_p132v_preTEI.xml,,ms-xml/tl/tl_p132v_preTEI.xml
+8 ab,,8 ab,,8 ab
+1 al,,1 al,,1 al
+3 bp,,3 bp,,3 bp
+4 del,,2 corr,,1 corr
+4 div,,4 del,,4 del
+1 emph,,4 div,,4 div
+1 env,,1 emph,,1 emph
+3 exp,,1 env,,1 env
+3 head,,4 exp,,5 fr
+4 la,,3 head,,3 head
+48 lb,,4 la,,4 la
+22 m,,49 lb,,21 m
+3 ms,,22 m,,3 ms
+1 root,,3 ms,,1 root
+1 sn,,1 root,,3 sn
+15 tl,,3 sn,,15 tl
+2 tmp,,15 tl,,2 tmp
+,,2 tmp,,
+ms-xml/tc/tc_p133r_preTEI.xml,,ms-xml/tcn/tcn_p133r_preTEI.xml,,ms-xml/tl/tl_p133r_preTEI.xml
+6 ab,,6 ab,,6 ab
+2 add,,2 add,,1 add
+1 al,,2 al,,2 al
+10 del,,1 corr,,1 corr
+4 div,,10 del,,10 del
+6 exp,,4 div,,4 div
+1 figure,,6 exp,,1 figure
+4 head,,1 figure,,8 fr
+34 lb,,4 head,,4 head
+24 m,,35 lb,,24 m
+1 mark,,24 m,,1 mark
+1 ms,,1 mark,,1 ms
+1 pro,,1 ms,,1 pro
+1 root,,1 pro,,1 root
+18 tl,,1 root,,18 tl
+7 ups,,18 tl,,
+ms-xml/tc/tc_p133v_preTEI.xml,,ms-xml/tcn/tcn_p133v_preTEI.xml,,ms-xml/tl/tl_p133v_preTEI.xml
+5 ab,,5 ab,,5 ab
+10 al,,10 al,,10 al
+7 del,,7 del,,7 del
+3 div,,3 div,,3 div
+7 exp,,7 exp,,4 fr
+3 head,,3 head,,3 head
+59 lb,,59 lb,,11 m
+12 m,,12 m,,1 mark
+1 mark,,1 mark,,1 po
+1 po,,1 po,,1 root
+1 root,,1 root,,18 tl
+17 tl,,17 tl,,
+ms-xml/tc/tc_p134r_preTEI.xml,,ms-xml/tcn/tcn_p134r_preTEI.xml,,ms-xml/tl/tl_p134r_preTEI.xml
+4 ab,,4 ab,,4 ab
+1 add,,1 add,,1 add
+3 al,,3 al,,3 al
+11 del,,3 corr,,1 corr
+3 div,,12 del,,12 del
+3 exp,,3 div,,3 div
+2 head,,4 exp,,3 fr
+3 la,,2 head,,2 head
+34 lb,,3 la,,3 la
+21 m,,34 lb,,21 m
+1 root,,21 m,,1 root
+11 tl,,1 root,,11 tl
+3 ups,,11 tl,,
+ms-xml/tc/tc_p134v_preTEI.xml,,ms-xml/tcn/tcn_p134v_preTEI.xml,,ms-xml/tl/tl_p134v_preTEI.xml
+7 ab,,7 ab,,7 ab
+1 add,,1 add,,1 al
+1 al,,1 al,,4 bp
+4 bp,,4 bp,,7 del
+7 del,,1 corr,,3 div
+3 div,,7 del,,1 emph
+1 emph,,3 div,,6 fr
+1 exp,,1 emph,,3 head
+3 head,,2 exp,,35 m
+33 lb,,3 head,,1 mark
+35 m,,33 lb,,3 ms
+1 mark,,35 m,,1 pa
+3 ms,,1 mark,,1 root
+1 pa,,3 ms,,8 tl
+1 root,,1 pa,,
+8 tl,,1 root,,
+,,8 tl,,
+ms-xml/tc/tc_p135r_preTEI.xml,,ms-xml/tcn/tcn_p135r_preTEI.xml,,ms-xml/tl/tl_p135r_preTEI.xml
+8 ab,,8 ab,,8 ab
+2 add,,2 add,,2 add
+4 al,,4 al,,4 al
+1 bp,,1 bp,,1 bp
+1 comment,,1 comment,,1 comment
+4 del,,1 corr,,4 del
+3 div,,4 del,,3 div
+1 emph,,3 div,,1 emph
+1 env,,1 emph,,1 env
+7 exp,,1 env,,1 figure
+1 figure,,8 exp,,7 fr
+3 head,,1 figure,,3 head
+54 lb,,3 head,,18 m
+18 m,,54 lb,,3 ms
+3 ms,,18 m,,1 oc
+1 oc,,3 ms,,5 pa
+5 pa,,1 oc,,1 root
+1 root,,5 pa,,6 tl
+6 tl,,1 root,,1 tmp
+1 tmp,,6 tl,,
+7 ups,,1 tmp,,
+ms-xml/tc/tc_p135v_preTEI.xml,,ms-xml/tcn/tcn_p135v_preTEI.xml,,ms-xml/tl/tl_p135v_preTEI.xml
+4 ab,,4 ab,,4 ab
+2 add,,2 add,,2 add
+1 bp,,1 bp,,1 bp
+2 comment,,2 comment,,2 comment
+7 del,,7 del,,7 del
+1 df,,1 df,,1 df
+1 div,,1 div,,1 div
+8 exp,,8 exp,,4 fr
+1 head,,1 head,,1 head
+1 la,,1 la,,1 la
+44 lb,,44 lb,,26 m
+25 m,,25 m,,3 ms
+3 ms,,3 ms,,4 oc
+4 oc,,4 oc,,1 pa
+1 pa,,1 pa,,1 pro
+1 pro,,1 pro,,1 root
+1 root,,1 root,,16 tl
+16 tl,,16 tl,,
+1 ups,,,,
+ms-xml/tc/tc_p136r_preTEI.xml,,ms-xml/tcn/tcn_p136r_preTEI.xml,,ms-xml/tl/tl_p136r_preTEI.xml
+7 ab,,7 ab,,7 ab
+1 add,,1 add,,1 add
+2 comment,,2 comment,,2 comment
+7 del,,7 del,,7 del
+2 div,,2 div,,2 div
+1 env,,1 env,,1 env
+4 exp,,4 exp,,8 fr
+1 head,,1 head,,1 head
+1 ill,,1 ill,,1 ill
+1 la,,1 la,,1 la
+21 lb,,21 lb,,19 m
+20 m,,20 m,,2 oc
+2 oc,,2 oc,,1 pro
+1 pro,,1 pro,,1 root
+1 root,,1 root,,9 tl
+9 tl,,9 tl,,
+2 ups,,,,
+ms-xml/tc/tc_p136v_preTEI.xml,,ms-xml/tcn/tcn_p136v_preTEI.xml,,ms-xml/tl/tl_p136v_preTEI.xml
+2 ab,,2 ab,,2 ab
+2 add,,2 add,,3 add
+1 al,,1 al,,1 al
+1 comment,,1 comment,,1 comment
+5 del,,2 corr,,5 del
+1 div,,5 del,,1 div
+3 env,,1 div,,3 env
+12 exp,,3 env,,7 fr
+1 head,,13 exp,,1 head
+72 lb,,1 head,,49 m
+50 m,,72 lb,,1 md
+1 md,,50 m,,2 pl
+2 pl,,1 md,,2 pro
+2 pro,,2 pl,,1 root
+1 root,,2 pro,,5 tl
+5 tl,,1 root,,
+,,5 tl,,
+ms-xml/tc/tc_p137r_preTEI.xml,,ms-xml/tcn/tcn_p137r_preTEI.xml,,ms-xml/tl/tl_p137r_preTEI.xml
+6 ab,,6 ab,,6 ab
+2 add,,2 add,,2 add
+3 comment,,4 comment,,2 comment
+4 del,,1 corr,,4 del
+3 div,,5 del,,3 div
+5 env,,3 div,,3 env
+15 exp,,5 env,,1 figure
+1 figure,,15 exp,,6 fr
+3 head,,1 figure,,3 head
+1 hr,,3 head,,1 hr
+1 la,,1 hr,,1 la
+54 lb,,1 la,,39 m
+39 m,,54 lb,,3 ms
+3 ms,,39 m,,1 pl
+1 pl,,3 ms,,1 po
+1 po,,1 pl,,2 pro
+2 pro,,1 po,,1 root
+1 root,,2 pro,,12 tl
+12 tl,,1 root,,
+5 ups,,12 tl,,
+ms-xml/tc/tc_p137v_preTEI.xml,,ms-xml/tcn/tcn_p137v_preTEI.xml,,ms-xml/tl/tl_p137v_preTEI.xml
+3 ab,,3 ab,,3 ab
+1 add,,1 add,,1 add
+1 al,,1 al,,1 al
+1 bp,,1 bp,,1 bp
+7 del,,1 corr,,1 corr
+1 div,,7 del,,7 del
+2 exp,,1 div,,1 div
+1 head,,3 exp,,5 fr
+60 lb,,1 head,,1 head
+24 m,,60 lb,,24 m
+1 root,,24 m,,1 ms
+1 sn,,1 ms,,1 root
+15 tl,,1 root,,1 sn
+,,1 sn,,15 tl
+,,15 tl,,
+ms-xml/tc/tc_p138r_preTEI.xml,,ms-xml/tcn/tcn_p138r_preTEI.xml,,ms-xml/tl/tl_p138r_preTEI.xml
+7 ab,,7 ab,,7 ab
+4 al,,4 al,,4 al
+1 comment,,1 comment,,1 comment
+1 de,,4 corr,,2 corr
+4 del,,1 de,,1 de
+1 div,,5 del,,5 del
+9 exp,,1 div,,1 div
+72 lb,,12 exp,,3 fr
+33 m,,72 lb,,32 m
+1 pl,,33 m,,1 pl
+1 root,,1 pl,,1 root
+14 tl,,1 root,,14 tl
+1 ups,,14 tl,,
+ms-xml/tc/tc_p138v_preTEI.xml,,ms-xml/tcn/tcn_p138v_preTEI.xml,,ms-xml/tl/tl_p138v_preTEI.xml
+6 ab,,6 ab,,6 ab
+1 al,,1 al,,1 al
+4 del,,2 corr,,1 comment
+3 div,,4 del,,4 del
+1 emph,,3 div,,3 div
+1 env,,1 emph,,1 emph
+1 exp,,1 env,,1 env
+3 head,,2 exp,,4 fr
+24 lb,,3 head,,3 head
+24 m,,24 lb,,23 m
+3 pa,,24 m,,3 pa
+1 pro,,3 pa,,1 pro
+1 root,,1 pro,,1 root
+12 tl,,1 root,,11 tl
+,,12 tl,,
+ms-xml/tc/tc_p139r_preTEI.xml,,ms-xml/tcn/tcn_p139r_preTEI.xml,,ms-xml/tl/tl_p139r_preTEI.xml
+5 ab,,5 ab,,5 ab
+2 add,,2 add,,2 add
+4 al,,4 al,,4 al
+1 bp,,1 bp,,1 bp
+3 comment,,1 comment,,1 comment
+8 del,,1 corr,,1 corr
+1 div,,8 del,,8 del
+1 env,,1 div,,1 div
+4 exp,,1 env,,1 env
+1 head,,5 exp,,11 fr
+1 hr,,1 head,,1 head
+75 lb,,1 hr,,1 hr
+38 m,,75 lb,,38 m
+1 mark,,38 m,,1 mark
+9 ms,,1 mark,,9 ms
+2 oc,,9 ms,,2 oc
+1 pa,,2 oc,,1 pa
+1 root,,1 pa,,1 root
+1 sn,,1 root,,1 sn
+26 tl,,1 sn,,26 tl
+8 ups,,26 tl,,
+ms-xml/tc/tc_p139v_preTEI.xml,,ms-xml/tcn/tcn_p139v_preTEI.xml,,ms-xml/tl/tl_p139v_preTEI.xml
+4 ab,,4 ab,,4 ab
+4 add,,4 add,,4 add
+1 al,,1 al,,1 al
+1 comment,,1 corr,,1 corr
+4 del,,6 del,,6 del
+2 div,,2 div,,2 div
+13 exp,,13 exp,,6 fr
+1 head,,1 head,,1 head
+63 lb,,63 lb,,33 m
+33 m,,34 m,,5 ms
+6 ms,,6 ms,,1 pa
+1 pa,,1 pa,,1 root
+1 root,,1 root,,1 sn
+1 sn,,1 sn,,15 tl
+15 tl,,15 tl,,
+ms-xml/tc/tc_p140r_preTEI.xml,,ms-xml/tcn/tcn_p140r_preTEI.xml,,ms-xml/tl/tl_p140r_preTEI.xml
+4 ab,,4 ab,,4 ab
+3 add,,3 add,,2 add
+1 al,,1 al,,1 al
+1 bp,,1 bp,,1 bp
+6 del,,6 del,,6 del
+1 div,,1 div,,1 div
+6 exp,,6 exp,,1 figure
+1 figure,,1 figure,,3 fr
+1 ill,,1 ill,,1 ill
+62 lb,,62 lb,,19 m
+21 m,,21 m,,6 ms
+4 ms,,4 ms,,1 root
+1 root,,1 root,,2 sn
+2 sn,,2 sn,,13 tl
+13 tl,,13 tl,,5 tmp
+5 tmp,,5 tmp,,
+9 ups,,,,
+ms-xml/tc/tc_p140v_preTEI.xml,,ms-xml/tcn/tcn_p140v_preTEI.xml,,ms-xml/tl/tl_p140v_preTEI.xml
+8 ab,,8 ab,,8 ab
+1 bp,,1 bp,,1 bp
+2 del,,1 corr,,1 corr
+4 div,,3 del,,3 del
+2 emph,,4 div,,4 div
+6 exp,,2 emph,,2 emph
+3 head,,6 exp,,3 fr
+2 hr,,3 head,,3 head
+1 la,,2 hr,,2 hr
+66 lb,,1 la,,1 la
+38 m,,66 lb,,39 m
+5 ms,,38 m,,5 ms
+1 root,,5 ms,,1 root
+1 sn,,1 root,,1 sn
+10 tl,,1 sn,,9 tl
+,,10 tl,,
+ms-xml/tc/tc_p141r_preTEI.xml,,ms-xml/tcn/tcn_p141r_preTEI.xml,,ms-xml/tl/tl_p141r_preTEI.xml
+10 ab,,10 ab,,10 ab
+1 add,,1 add,,11 al
+11 al,,11 al,,1 comment
+7 del,,3 corr,,2 corr
+1 div,,7 del,,7 del
+4 exp,,1 div,,1 div
+1 head,,4 exp,,3 fr
+2 hr,,1 head,,1 head
+77 lb,,2 hr,,2 hr
+15 m,,77 lb,,16 m
+2 pa,,15 m,,2 pa
+1 pro,,2 pa,,1 pro
+1 root,,1 pro,,1 root
+5 tl,,1 root,,5 tl
+12 ups,,5 tl,,
+ms-xml/tc/tc_p141v_preTEI.xml,,ms-xml/tcn/tcn_p141v_preTEI.xml,,ms-xml/tl/tl_p141v_preTEI.xml
+7 ab,,7 ab,,7 ab
+2 add,,2 add,,2 add
+4 al,,5 al,,5 al
+9 del,,3 corr,,2 corr
+1 div,,9 del,,9 del
+1 env,,1 div,,1 div
+3 exp,,1 env,,1 env
+1 figure,,4 exp,,1 figure
+67 lb,,1 figure,,6 fr
+22 m,,67 lb,,21 m
+1 pro,,21 m,,1 pro
+1 root,,1 pro,,1 root
+7 tl,,1 root,,7 tl
+1 ups,,7 tl,,
+ms-xml/tc/tc_p142r_preTEI.xml,,ms-xml/tcn/tcn_p142r_preTEI.xml,,ms-xml/tl/tl_p142r_preTEI.xml
+5 ab,,5 ab,,5 ab
+10 al,,10 al,,10 al
+1 comment,,1 comment,,1 comment
+8 del,,2 corr,,2 corr
+1 div,,9 del,,9 del
+5 exp,,1 div,,1 div
+1 figure,,5 exp,,1 figure
+1 ill,,1 figure,,9 fr
+2 la,,1 ill,,1 ill
+69 lb,,2 la,,2 la
+18 m,,69 lb,,17 m
+1 root,,18 m,,1 root
+17 tl,,1 root,,19 tl
+3 ups,,18 tl,,
+ms-xml/tc/tc_p142v_preTEI.xml,,ms-xml/tcn/tcn_p142v_preTEI.xml,,ms-xml/tl/tl_p142v_preTEI.xml
+7 ab,,7 ab,,7 ab
+5 al,,5 al,,5 al
+3 comment,,2 comment,,3 comment
+2 del,,2 corr,,2 corr
+3 div,,3 del,,2 del
+1 env,,3 div,,3 div
+9 exp,,1 env,,1 env
+3 head,,9 exp,,5 fr
+2 hr,,3 head,,3 head
+58 lb,,2 hr,,2 hr
+27 m,,58 lb,,27 m
+1 mark,,27 m,,1 mark
+2 ms,,1 mark,,2 ms
+2 pa,,2 ms,,2 pa
+1 pro,,2 pa,,1 pro
+1 root,,1 pro,,1 root
+16 tl,,1 root,,15 tl
+1 wp,,16 tl,,
+,,1 wp,,
+ms-xml/tc/tc_p143r_preTEI.xml,,ms-xml/tcn/tcn_p143r_preTEI.xml,,ms-xml/tl/tl_p143r_preTEI.xml
+7 ab,,7 ab,,7 ab
+1 add,,1 add,,1 add
+9 al,,9 al,,9 al
+2 bp,,2 bp,,2 bp
+3 comment,,2 comment,,1 comment
+1 del,,1 del,,1 del
+3 div,,3 div,,3 div
+9 env,,9 env,,9 env
+6 exp,,6 exp,,1 figure
+1 figure,,1 figure,,5 fr
+3 head,,3 head,,3 head
+1 la,,1 la,,1 la
+60 lb,,60 lb,,18 m
+18 m,,18 m,,1 pa
+1 pa,,1 pa,,4 pl
+4 pl,,4 pl,,1 pro
+1 pro,,1 pro,,1 root
+1 root,,1 root,,5 tl
+5 tl,,5 tl,,2 tmp
+2 tmp,,2 tmp,,
+ms-xml/tc/tc_p143v_preTEI.xml,,ms-xml/tcn/tcn_p143v_preTEI.xml,,ms-xml/tl/tl_p143v_preTEI.xml
+4 ab,,4 ab,,4 ab
+1 al,,1 al,,1 al
+2 del,,2 del,,2 del
+4 div,,4 div,,4 div
+2 exp,,2 exp,,4 fr
+3 head,,3 head,,3 head
+24 lb,,24 lb,,17 m
+17 m,,17 m,,1 pa
+1 pa,,1 pa,,1 root
+1 root,,1 root,,3 tl
+4 tl,,4 tl,,
+ms-xml/tc/tc_p144r_preTEI.xml,,ms-xml/tcn/tcn_p144r_preTEI.xml,,ms-xml/tl/tl_p144r_preTEI.xml
+3 ab,,3 ab,,3 ab
+7 al,,7 al,,7 al
+1 bp,,1 bp,,1 bp
+3 comment,,1 comment,,12 del
+12 del,,12 del,,1 div
+1 div,,1 div,,1 emph
+1 emph,,1 emph,,3 env
+3 env,,3 env,,2 figure
+5 exp,,5 exp,,8 fr
+2 figure,,2 figure,,1 head
+1 head,,1 head,,12 m
+44 lb,,44 lb,,1 ms
+12 m,,11 m,,4 pa
+1 ms,,1 ms,,1 pl
+4 pa,,4 pa,,1 po
+1 pl,,1 pl,,1 root
+1 po,,1 po,,9 tl
+1 root,,1 root,,1 tmp
+9 tl,,9 tl,,
+1 tmp,,1 tmp,,
+1 ups,,,,
+ms-xml/tc/tc_p144v_preTEI.xml,,ms-xml/tcn/tcn_p144v_preTEI.xml,,ms-xml/tl/tl_p144v_preTEI.xml
+4 ab,,4 ab,,4 ab
+10 al,,10 al,,10 al
+1 bp,,1 bp,,1 bp
+2 comment,,1 comment,,1 comment
+9 del,,9 del,,9 del
+1 div,,1 div,,1 div
+1 emph,,1 emph,,1 emph
+8 exp,,8 exp,,2 figure
+2 figure,,2 figure,,8 fr
+1 la,,1 la,,1 la
+54 lb,,54 lb,,28 m
+27 m,,27 m,,1 mark
+1 mark,,1 mark,,1 root
+1 root,,1 root,,1 sn
+1 sn,,1 sn,,24 tl
+25 tl,,25 tl,,
+ms-xml/tc/tc_p145r_preTEI.xml,,ms-xml/tcn/tcn_p145r_preTEI.xml,,ms-xml/tl/tl_p145r_preTEI.xml
+3 ab,,3 ab,,3 ab
+3 add,,3 add,,3 add
+1 al,,1 al,,1 al
+2 bp,,2 bp,,2 bp
+1 caption,,1 caption,,1 caption
+3 comment,,3 comment,,2 comment
+5 del,,5 del,,5 del
+2 div,,2 div,,2 div
+1 emph,,1 emph,,1 emph
+5 exp,,5 exp,,2 figure
+2 figure,,2 figure,,1 fr
+2 head,,2 head,,2 head
+1 la,,1 la,,1 la
+30 lb,,30 lb,,19 m
+19 m,,19 m,,1 ms
+1 ms,,1 ms,,1 root
+1 root,,1 root,,1 sn
+1 sn,,1 sn,,17 tl
+17 tl,,16 tl,,
+13 ups,,,,
+ms-xml/tc/tc_p145v_preTEI.xml,,ms-xml/tcn/tcn_p145v_preTEI.xml,,ms-xml/tl/tl_p145v_preTEI.xml
+7 ab,,7 ab,,7 ab
+4 bp,,4 bp,,4 bp
+1 comment,,1 comment,,1 comment
+11 del,,3 corr,,3 corr
+3 div,,11 del,,11 del
+2 exp,,3 div,,3 div
+1 figure,,4 exp,,1 figure
+2 head,,1 figure,,6 fr
+58 lb,,2 head,,2 head
+18 m,,58 lb,,18 m
+1 mark,,18 m,,1 mark
+1 root,,1 mark,,1 root
+1 sn,,1 root,,1 sn
+25 tl,,1 sn,,25 tl
+,,25 tl,,
+ms-xml/tc/tc_p146r_preTEI.xml,,ms-xml/tcn/tcn_p146r_preTEI.xml,,ms-xml/tl/tl_p146r_preTEI.xml
+5 ab,,5 ab,,5 ab
+1 al,,1 al,,1 al
+1 bp,,1 bp,,1 bp
+6 del,,3 corr,,3 corr
+1 div,,7 del,,7 del
+9 exp,,1 div,,1 div
+2 la,,9 exp,,5 fr
+79 lb,,2 la,,2 la
+23 m,,79 lb,,24 m
+2 ms,,24 m,,2 ms
+2 pa,,2 ms,,2 pa
+1 root,,2 pa,,1 root
+26 tl,,1 root,,25 tl
+3 ups,,26 tl,,
+ms-xml/tc/tc_p146v_preTEI.xml,,ms-xml/tcn/tcn_p146v_preTEI.xml,,ms-xml/tl/tl_p146v_preTEI.xml
+2 ab,,2 ab,,2 ab
+1 add,,1 add,,1 add
+6 al,,6 al,,6 al
+2 comment,,1 comment,,1 comment
+4 del,,4 del,,4 del
+1 div,,1 div,,1 div
+2 env,,2 env,,2 env
+5 exp,,5 exp,,2 figure
+2 figure,,2 figure,,6 fr
+1 head,,1 head,,1 head
+37 lb,,37 lb,,17 m
+17 m,,17 m,,1 mark
+1 mark,,1 mark,,1 pl
+1 pl,,1 pl,,1 root
+1 root,,1 root,,8 tl
+8 tl,,8 tl,,
+ms-xml/tc/tc_p147r_preTEI.xml,,ms-xml/tcn/tcn_p147r_preTEI.xml,,ms-xml/tl/tl_p147r_preTEI.xml
+2 ab,,2 ab,,2 ab
+3 al,,3 al,,3 al
+1 comment,,1 comment,,2 comment
+11 del,,11 del,,11 del
+1 div,,1 div,,1 div
+1 emph,,1 emph,,1 emph
+4 exp,,4 exp,,4 fr
+40 lb,,40 lb,,12 m
+12 m,,12 m,,1 mark
+1 root,,1 root,,1 root
+13 tl,,13 tl,,11 tl
+8 ups,,,,
+ms-xml/tc/tc_p147v_preTEI.xml,,ms-xml/tcn/tcn_p147v_preTEI.xml,,ms-xml/tl/tl_p147v_preTEI.xml
+6 ab,,6 ab,,6 ab
+1 add,,1 add,,1 add
+1 bp,,1 bp,,1 bp
+3 comment,,3 comment,,3 comment
+7 del,,1 corr,,7 del
+4 div,,7 del,,4 div
+10 exp,,4 div,,6 fr
+4 head,,11 exp,,4 head
+2 ill,,4 head,,2 ill
+35 lb,,2 ill,,23 m
+23 m,,35 lb,,2 mark
+2 mark,,23 m,,4 ms
+4 ms,,2 mark,,2 oc
+2 oc,,4 ms,,1 pa
+1 pa,,2 oc,,1 root
+1 root,,1 pa,,11 tl
+12 tl,,1 root,,1 tmp
+1 tmp,,12 tl,,
+,,1 tmp,,
+ms-xml/tc/tc_p148r_preTEI.xml,,ms-xml/tcn/tcn_p148r_preTEI.xml,,ms-xml/tl/tl_p148r_preTEI.xml
+6 ab,,6 ab,,6 ab
+3 al,,3 al,,2 al
+3 comment,,1 comment,,2 comment
+1 del,,1 del,,1 del
+5 div,,5 div,,5 div
+4 exp,,4 exp,,2 fr
+4 head,,4 head,,4 head
+1 la,,1 la,,1 la
+21 lb,,21 lb,,26 m
+25 m,,25 m,,2 ms
+2 ms,,2 ms,,2 pa
+2 pa,,2 pa,,1 root
+1 root,,1 root,,5 tl
+5 tl,,5 tl,,
+3 ups,,,,
+ms-xml/tc/tc_p148v_preTEI.xml,,ms-xml/tcn/tcn_p148v_preTEI.xml,,ms-xml/tl/tl_p148v_preTEI.xml
+2 ab,,2 ab,,2 ab
+1 add,,1 add,,1 add
+3 al,,3 al,,3 al
+1 bp,,1 bp,,1 bp
+5 del,,2 comment,,1 corr
+1 df,,1 corr,,5 del
+1 div,,5 del,,1 df
+8 exp,,1 df,,1 div
+1 head,,1 div,,4 fr
+1 ill,,8 exp,,1 head
+1 la,,1 head,,1 ill
+38 lb,,1 ill,,1 la
+3 m,,1 la,,3 m
+2 ms,,38 lb,,2 ms
+1 root,,3 m,,1 root
+21 tl,,2 ms,,21 tl
+1 tmp,,1 root,,1 tmp
+,,21 tl,,
+,,1 tmp,,
+ms-xml/tc/tc_p149r_preTEI.xml,,ms-xml/tcn/tcn_p149r_preTEI.xml,,ms-xml/tl/tl_p149r_preTEI.xml
+4 ab,,4 ab,,4 ab
+1 al,,1 al,,1 al
+3 comment,,1 comment,,1 del
+1 del,,1 del,,1 df
+1 df,,1 df,,4 div
+4 div,,4 div,,2 env
+2 env,,2 env,,4 head
+3 exp,,3 exp,,22 m
+4 head,,4 head,,1 md
+20 lb,,20 lb,,1 ms
+22 m,,22 m,,5 pl
+1 md,,1 md,,2 pro
+1 ms,,1 ms,,1 root
+5 pl,,5 pl,,3 tl
+2 pro,,2 pro,,2 tmp
+1 root,,1 root,,
+3 tl,,3 tl,,
+2 tmp,,2 tmp,,
+3 ups,,,,
+ms-xml/tc/tc_p149v_preTEI.xml,,ms-xml/tcn/tcn_p149v_preTEI.xml,,ms-xml/tl/tl_p149v_preTEI.xml
+5 ab,,5 ab,,5 ab
+1 add,,1 add,,1 add
+6 al,,6 al,,6 al
+1 bp,,1 bp,,1 bp
+2 cn,,2 cn,,2 cn
+1 comment,,3 del,,3 del
+3 del,,4 div,,4 div
+4 div,,3 exp,,4 fr
+3 exp,,4 head,,4 head
+4 head,,33 lb,,12 m
+33 lb,,12 m,,1 ms
+12 m,,1 ms,,2 pa
+1 ms,,2 pa,,1 pro
+2 pa,,1 pro,,1 root
+1 pro,,1 root,,2 tl
+1 root,,2 tl,,
+2 tl,,,,
+ms-xml/tc/tc_p150r_preTEI.xml,,ms-xml/tcn/tcn_p150r_preTEI.xml,,ms-xml/tl/tl_p150r_preTEI.xml
+11 ab,,11 ab,,11 ab
+1 add,,1 add,,1 add
+2 al,,2 al,,2 al
+1 bp,,1 bp,,1 bp
+1 comment,,2 corr,,1 corr
+2 del,,3 del,,3 del
+3 div,,3 div,,3 div
+1 exp,,2 exp,,2 fr
+3 head,,3 head,,3 head
+30 lb,,30 lb,,22 m
+22 m,,22 m,,7 ms
+7 ms,,7 ms,,1 root
+1 root,,1 root,,6 tl
+6 tl,,6 tl,,
+1 ups,,,,
+ms-xml/tc/tc_p150v_preTEI.xml,,ms-xml/tcn/tcn_p150v_preTEI.xml,,ms-xml/tl/tl_p150v_preTEI.xml
+7 ab,,7 ab,,7 ab
+1 add,,1 add,,1 add
+1 al,,1 al,,1 al
+2 bp,,2 bp,,2 bp
+2 comment,,4 corr,,2 comment
+12 del,,14 del,,3 corr
+1 div,,1 div,,14 del
+7 exp,,9 exp,,1 div
+2 figure,,2 figure,,2 figure
+1 head,,1 head,,10 fr
+77 lb,,77 lb,,1 head
+23 m,,23 m,,23 m
+2 mark,,2 mark,,2 mark
+3 ms,,3 ms,,3 ms
+1 root,,1 root,,1 root
+26 tl,,26 tl,,26 tl
+1 tmp,,1 tmp,,1 tmp
+ms-xml/tc/tc_p151r_preTEI.xml,,ms-xml/tcn/tcn_p151r_preTEI.xml,,ms-xml/tl/tl_p151r_preTEI.xml
+3 ab,,3 ab,,3 ab
+1 al,,1 al,,1 al
+1 comment,,2 corr,,1 comment
+8 del,,8 del,,8 del
+1 div,,1 div,,1 div
+11 exp,,13 exp,,1 figure
+1 figure,,1 figure,,4 fr
+1 la,,1 la,,1 la
+78 lb,,78 lb,,35 m
+35 m,,35 m,,1 mark
+1 mark,,1 mark,,5 ms
+5 ms,,5 ms,,1 pn
+1 pn,,1 pn,,1 root
+1 pro,,1 root,,22 tl
+1 root,,22 tl,,1 tmp
+22 tl,,1 tmp,,
+1 tmp,,,,
+7 ups,,,,
+ms-xml/tc/tc_p151v_preTEI.xml,,ms-xml/tcn/tcn_p151v_preTEI.xml,,ms-xml/tl/tl_p151v_preTEI.xml
+4 ab,,4 ab,,4 ab
+8 al,,8 al,,8 al
+2 comment,,1 comment,,1 del
+1 del,,1 corr,,1 df
+1 df,,1 del,,2 div
+2 div,,1 df,,1 figure
+3 exp,,2 div,,1 fr
+1 figure,,3 exp,,1 head
+1 head,,1 figure,,1 la
+1 la,,1 head,,19 m
+45 lb,,1 la,,2 ms
+19 m,,45 lb,,2 pa
+2 ms,,19 m,,1 pro
+2 pa,,2 ms,,1 root
+1 pro,,2 pa,,21 tl
+1 root,,1 pro,,
+20 tl,,1 root,,
+2 wp,,20 tl,,
+,,2 wp,,
+ms-xml/tc/tc_p152r_preTEI.xml,,ms-xml/tcn/tcn_p152r_preTEI.xml,,ms-xml/tl/tl_p152r_preTEI.xml
+6 ab,,6 ab,,6 ab
+1 add,,1 add,,14 al
+14 al,,14 al,,1 comment
+1 comment,,4 corr,,2 corr
+6 del,,6 del,,6 del
+1 div,,1 div,,1 div
+1 env,,1 env,,1 env
+8 exp,,9 exp,,4 fr
+1 head,,1 head,,1 head
+3 hr,,3 hr,,3 hr
+75 lb,,75 lb,,19 m
+19 m,,19 m,,1 mark
+1 mark,,1 mark,,1 ms
+1 ms,,1 ms,,6 pa
+6 pa,,6 pa,,1 pl
+1 pl,,1 pl,,1 pn
+1 pn,,1 pn,,1 root
+1 root,,1 root,,9 tl
+10 tl,,10 tl,,1 tmp
+1 tmp,,1 tmp,,
+6 ups,,,,
+ms-xml/tc/tc_p152v_preTEI.xml,,ms-xml/tcn/tcn_p152v_preTEI.xml,,ms-xml/tl/tl_p152v_preTEI.xml
+2 ab,,2 ab,,2 ab
+1 add,,1 add,,1 add
+1 bp,,1 bp,,1 bp
+1 comment,,1 corr,,1 comment
+1 div,,1 div,,1 corr
+2 exp,,2 exp,,1 div
+2 figure,,2 figure,,2 figure
+1 head,,1 head,,2 fr
+1 la,,1 la,,1 head
+39 lb,,39 lb,,1 la
+21 m,,21 m,,21 m
+1 pro,,1 pro,,1 pro
+1 root,,1 root,,1 root
+19 tl,,19 tl,,19 tl
+ms-xml/tc/tc_p153r_preTEI.xml,,ms-xml/tcn/tcn_p153r_preTEI.xml,,ms-xml/tl/tl_p153r_preTEI.xml
+4 ab,,4 ab,,4 ab
+1 add,,1 add,,1 add
+1 bp,,1 bp,,1 bp
+4 comment,,3 comment,,3 comment
+6 del,,6 del,,6 del
+2 div,,2 div,,2 div
+8 exp,,8 exp,,7 fr
+2 head,,2 head,,2 head
+1 ill,,1 ill,,1 ill
+1 la,,1 la,,1 la
+51 lb,,51 lb,,40 m
+39 m,,39 m,,1 root
+1 root,,1 root,,4 tl
+4 tl,,4 tl,,
+3 ups,,,,
+ms-xml/tc/tc_p153v_preTEI.xml,,ms-xml/tcn/tcn_p153v_preTEI.xml,,ms-xml/tl/tl_p153v_preTEI.xml
+4 ab,,4 ab,,4 ab
+3 del,,2 corr,,2 corr
+3 div,,4 del,,3 del
+1 exp,,3 div,,3 div
+2 figure,,1 exp,,2 figure
+2 head,,2 figure,,3 fr
+44 lb,,2 head,,2 head
+26 m,,44 lb,,25 m
+2 pa,,26 m,,2 pa
+1 root,,2 pa,,1 root
+15 tl,,1 root,,15 tl
+1 tmp,,15 tl,,1 tmp
+,,1 tmp,,
+ms-xml/tc/tc_p154r_preTEI.xml,,ms-xml/tcn/tcn_p154r_preTEI.xml,,ms-xml/tl/tl_p154r_preTEI.xml
+8 ab,,8 ab,,8 ab
+4 cn,,4 cn,,4 cn
+2 comment,,5 div,,5 div
+5 div,,4 exp,,2 fr
+4 exp,,5 head,,5 head
+5 head,,1 la,,1 la
+1 la,,45 lb,,39 m
+44 lb,,41 m,,2 ms
+40 m,,2 ms,,2 pro
+2 ms,,2 pro,,1 root
+2 pro,,1 root,,4 tl
+1 root,,4 tl,,
+4 tl,,,,
+1 ups,,,,
+ms-xml/tc/tc_p154v_preTEI.xml,,ms-xml/tcn/tcn_p154v_preTEI.xml,,ms-xml/tl/tl_p154v_preTEI.xml
+7 ab,,7 ab,,7 ab
+3 add,,3 add,,3 add
+1 al,,1 al,,1 al
+3 comment,,1 comment,,1 comment
+4 del,,2 corr,,1 corr
+5 div,,6 del,,4 del
+2 exp,,5 div,,5 div
+5 head,,2 exp,,5 head
+25 lb,,5 head,,21 m
+21 m,,25 lb,,1 mark
+1 mark,,21 m,,6 pa
+6 pa,,1 mark,,1 root
+1 root,,6 pa,,2 tl
+2 tl,,1 root,,
+,,2 tl,,
+ms-xml/tc/tc_p155r_preTEI.xml,,ms-xml/tcn/tcn_p155r_preTEI.xml,,ms-xml/tl/tl_p155r_preTEI.xml
+4 ab,,4 ab,,4 ab
+5 add,,5 add,,5 add
+1 bp,,1 bp,,1 bp
+1 comment,,1 corr,,8 del
+8 del,,9 del,,1 div
+1 div,,1 div,,1 figure
+4 exp,,4 exp,,4 fr
+1 figure,,1 figure,,1 head
+1 head,,1 head,,21 m
+62 lb,,62 lb,,13 pa
+22 m,,20 m,,1 root
+13 pa,,15 pa,,7 tl
+1 root,,1 root,,1 tmp
+7 tl,,7 tl,,
+1 tmp,,1 tmp,,
+ms-xml/tc/tc_p155v_preTEI.xml,,ms-xml/tcn/tcn_p155v_preTEI.xml,,ms-xml/tl/tl_p155v_preTEI.xml
+1 ab,,1 ab,,1 ab
+1 add,,1 add,,1 add
+3 al,,3 al,,3 al
+5 del,,5 del,,5 del
+1 df,,1 df,,1 df
+1 div,,1 div,,1 div
+4 exp,,4 exp,,3 fr
+1 head,,1 head,,1 head
+33 lb,,33 lb,,21 m
+21 m,,21 m,,6 pa
+6 pa,,6 pa,,1 root
+1 root,,1 root,,5 tl
+4 tl,,4 tl,,
+ms-xml/tc/tc_p156r_preTEI.xml,,ms-xml/tcn/tcn_p156r_preTEI.xml,,ms-xml/tl/tl_p156r_preTEI.xml
+4 ab,,4 ab,,4 ab
+2 add,,2 add,,2 add
+2 al,,2 al,,2 al
+1 bp,,1 bp,,1 bp
+1 cn,,1 cn,,1 cn
+1 del,,1 corr,,1 del
+3 div,,1 del,,3 div
+8 exp,,3 div,,5 fr
+3 head,,9 exp,,3 head
+35 lb,,3 head,,24 m
+23 m,,35 lb,,1 root
+1 root,,23 m,,8 tl
+8 tl,,1 root,,
+10 ups,,8 tl,,
+ms-xml/tc/tc_p156v_preTEI.xml,,ms-xml/tcn/tcn_p156v_preTEI.xml,,ms-xml/tl/tl_p156v_preTEI.xml
+8 ab,,8 ab,,8 ab
+3 add,,3 add,,2 add
+9 al,,9 al,,9 al
+6 comment,,5 comment,,5 comment
+11 del,,1 corr,,11 del
+1 df,,11 del,,1 df
+1 div,,1 df,,1 div
+1 env,,1 div,,1 env
+13 exp,,1 env,,1 figure
+1 figure,,14 exp,,7 fr
+1 head,,1 figure,,1 head
+3 hr,,1 head,,3 hr
+85 lb,,3 hr,,42 m
+42 m,,85 lb,,1 mark
+1 mark,,42 m,,1 mu
+1 mu,,1 mark,,9 pa
+9 pa,,1 mu,,1 pl
+1 pl,,9 pa,,1 root
+1 root,,1 pl,,7 tl
+2 sup,,1 root,,
+7 tl,,2 sup,,
+,,7 tl,,
+ms-xml/tc/tc_p157r_preTEI.xml,,ms-xml/tcn/tcn_p157r_preTEI.xml,,ms-xml/tl/tl_p157r_preTEI.xml
+6 ab,,6 ab,,6 ab
+7 al,,7 al,,7 al
+3 comment,,2 comment,,2 comment
+4 del,,1 corr,,1 corr
+1 df,,4 del,,4 del
+5 div,,1 df,,1 df
+6 exp,,5 div,,5 div
+5 head,,6 exp,,8 fr
+63 lb,,5 head,,5 head
+27 m,,63 lb,,27 m
+1 mu,,27 m,,1 mu
+1 oc,,1 mu,,1 oc
+3 pro,,1 oc,,3 pro
+1 root,,3 pro,,1 root
+12 tl,,1 root,,1 sup
+1 underline,,12 tl,,12 tl
+2 ups,,1 underline,,1 underline
+ms-xml/tc/tc_p157v_preTEI.xml,,ms-xml/tcn/tcn_p157v_preTEI.xml,,ms-xml/tl/tl_p157v_preTEI.xml
+4 ab,,4 ab,,4 ab
+1 add,,1 add,,1 add
+3 al,,3 al,,3 al
+1 bp,,1 bp,,1 bp
+3 comment,,2 comment,,2 comment
+4 del,,1 corr,,4 del
+3 div,,4 del,,3 div
+11 exp,,3 div,,2 exp
+3 head,,12 exp,,5 fr
+37 lb,,3 head,,3 head
+17 m,,37 lb,,17 m
+1 pro,,17 m,,1 pro
+1 root,,1 pro,,1 root
+11 tl,,1 root,,11 tl
+2 underline,,11 tl,,2 underline
+,,2 underline,,
+ms-xml/tc/tc_p158r_preTEI.xml,,ms-xml/tcn/tcn_p158r_preTEI.xml,,ms-xml/tl/tl_p158r_preTEI.xml
+2 ab,,2 ab,,2 ab
+2 comment,,1 comment,,1 del
+1 del,,1 del,,1 div
+1 div,,1 div,,1 head
+3 exp,,2 exp,,1 la
+1 head,,1 head,,15 m
+1 la,,1 la,,1 pa
+25 lb,,25 lb,,1 root
+14 m,,15 m,,1 sn
+1 pa,,1 pa,,8 tl
+1 root,,1 root,,
+1 sn,,1 sn,,
+8 tl,,8 tl,,
+11 ups,,,,
+ms-xml/tc/tc_p158v_preTEI.xml,,ms-xml/tcn/tcn_p158v_preTEI.xml,,ms-xml/tl/tl_p158v_preTEI.xml
+5 ab,,5 ab,,5 ab
+2 add,,2 add,,2 add
+1 al,,1 al,,1 al
+1 comment,,1 corr,,1 corr
+2 del,,2 del,,2 del
+4 div,,4 div,,4 div
+4 exp,,4 exp,,1 fr
+4 head,,4 head,,4 head
+32 lb,,32 lb,,19 m
+19 m,,19 m,,1 ms
+2 ms,,2 ms,,2 pa
+2 pa,,2 pa,,1 root
+1 root,,1 root,,5 tl
+5 tl,,5 tl,,
+ms-xml/tc/tc_p159r_preTEI.xml,,ms-xml/tcn/tcn_p159r_preTEI.xml,,ms-xml/tl/tl_p159r_preTEI.xml
+4 ab,,4 ab,,4 ab
+1 al,,1 al,,1 al
+4 del,,1 corr,,4 del
+4 div,,5 del,,4 div
+2 exp,,4 div,,3 fr
+4 head,,2 exp,,4 head
+25 lb,,4 head,,27 m
+26 m,,25 lb,,1 root
+1 root,,26 m,,6 tl
+6 tl,,1 root,,
+6 ups,,6 tl,,
+ms-xml/tc/tc_p159v_preTEI.xml,,ms-xml/tcn/tcn_p159v_preTEI.xml,,ms-xml/tl/tl_p159v_preTEI.xml
+7 ab,,7 ab,,7 ab
+1 al,,1 al,,1 al
+5 del,,5 del,,5 del
+4 div,,4 div,,4 div
+2 env,,2 env,,2 env
+16 exp,,15 exp,,1 figure
+1 figure,,1 figure,,4 head
+4 head,,4 head,,27 m
+43 lb,,43 lb,,3 pa
+27 m,,27 m,,3 pl
+3 pa,,3 pa,,1 root
+3 pl,,3 pl,,7 tl
+1 root,,1 root,,
+6 tl,,6 tl,,
+ms-xml/tc/tc_p160r_preTEI.xml,,ms-xml/tcn/tcn_p160r_preTEI.xml,,ms-xml/tl/tl_p160r_preTEI.xml
+3 ab,,3 ab,,3 ab
+1 add,,1 add,,1 add
+1 comment,,1 comment,,1 comment
+3 del,,1 corr,,3 del
+2 div,,3 del,,2 div
+5 exp,,2 div,,2 figure
+2 figure,,6 exp,,2 head
+2 head,,2 figure,,10 m
+23 lb,,2 head,,1 pn
+10 m,,23 lb,,1 root
+1 pn,,10 m,,25 tl
+1 root,,1 pn,,
+25 tl,,1 root,,
+2 ups,,25 tl,,
+ms-xml/tc/tc_p160v_preTEI.xml,,ms-xml/tcn/tcn_p160v_preTEI.xml,,ms-xml/tl/tl_p160v_preTEI.xml
+6 ab,,6 ab,,6 ab
+2 add,,2 add,,2 add
+10 al,,10 al,,10 al
+3 bp,,3 bp,,3 bp
+4 comment,,2 comment,,2 comment
+3 del,,3 del,,3 del
+5 div,,5 div,,5 div
+8 env,,8 env,,8 env
+5 exp,,5 exp,,1 fr
+5 head,,5 head,,5 head
+28 lb,,28 lb,,15 m
+16 m,,16 m,,1 mark
+1 mark,,1 mark,,1 pro
+1 pro,,1 pro,,1 root
+1 root,,1 root,,9 tl
+9 tl,,9 tl,,5 tmp
+5 tmp,,5 tmp,,
+ms-xml/tc/tc_p161r_preTEI.xml,,ms-xml/tcn/tcn_p161r_preTEI.xml,,ms-xml/tl/tl_p161r_preTEI.xml
+3 ab,,3 ab,,3 ab
+5 add,,5 add,,5 add
+4 comment,,5 comment,,4 comment
+8 del,,8 del,,8 del
+1 div,,1 div,,1 div
+1 emph,,1 emph,,1 emph
+13 exp,,13 exp,,7 fr
+1 head,,1 head,,1 head
+1 ill,,1 ill,,1 ill
+6 la,,6 la,,6 la
+46 lb,,45 lb,,23 m
+24 m,,24 m,,3 mark
+3 mark,,3 mark,,1 ms
+1 ms,,1 ms,,1 pro
+1 pro,,1 pro,,1 root
+1 root,,1 root,,20 tl
+19 tl,,20 tl,,2 tmp
+2 tmp,,2 tmp,,
+ms-xml/tc/tc_p161v_preTEI.xml,,ms-xml/tcn/tcn_p161v_preTEI.xml,,ms-xml/tl/tl_p161v_preTEI.xml
+1 ab,,1 ab,,1 ab
+1 add,,1 add,,1 add
+1 bp,,1 bp,,1 bp
+1 comment,,1 corr,,2 comment
+5 del,,5 del,,1 corr
+1 div,,1 div,,5 del
+2 exp,,2 exp,,1 div
+1 head,,1 head,,2 fr
+1 la,,1 la,,1 head
+14 lb,,14 lb,,1 la
+12 m,,12 m,,12 m
+2 ms,,2 ms,,2 ms
+1 root,,1 root,,1 root
+4 tl,,4 tl,,3 tl
+1 tmp,,1 tmp,,1 tmp
+ms-xml/tc/tc_p162r_preTEI.xml,,ms-xml/tcn/tcn_p162r_preTEI.xml,,ms-xml/tl/tl_p162r_preTEI.xml
+11 ab,,11 ab,,11 ab
+1 cn,,1 cn,,1 cn
+1 del,,3 corr,,7 comment
+6 div,,1 del,,1 del
+2 el,,6 div,,6 div
+5 emph,,2 el,,2 el
+2 env,,5 emph,,5 emph
+8 exp,,2 env,,2 env
+3 head,,11 exp,,3 head
+1 hr,,3 head,,1 hr
+4 la,,1 hr,,4 la
+23 lb,,4 la,,12 m
+12 m,,23 lb,,1 mark
+1 mark,,12 m,,1 ms
+1 ms,,1 mark,,13 pl
+13 pl,,1 ms,,9 pn
+9 pn,,13 pl,,2 pro
+2 pro,,9 pn,,1 root
+1 root,,2 pro,,1 tl
+1 tl,,1 root,,1 tmp
+1 tmp,,1 tl,,1 underline
+1 underline,,1 tmp,,
+,,1 underline,,
+ms-xml/tc/tc_p162v_preTEI.xml,,ms-xml/tcn/tcn_p162v_preTEI.xml,,ms-xml/tl/tl_p162v_preTEI.xml
+4 ab,,4 ab,,4 ab
+1 al,,1 al,,1 al
+3 del,,1 comment,,2 del
+4 div,,3 del,,4 div
+2 env,,4 div,,2 env
+2 exp,,2 env,,1 fr
+4 head,,2 exp,,4 head
+28 lb,,4 head,,6 m
+6 m,,28 lb,,5 ms
+5 ms,,6 m,,2 pa
+2 pa,,5 ms,,1 pl
+1 pl,,2 pa,,1 root
+1 root,,1 pl,,8 tl
+8 tl,,1 root,,6 tmp
+6 tmp,,8 tl,,
+,,5 tmp,,
+ms-xml/tc/tc_p163r_preTEI.xml,,ms-xml/tcn/tcn_p163r_preTEI.xml,,ms-xml/tl/tl_p163r_preTEI.xml
+4 ab,,4 ab,,4 ab
+2 bp,,2 bp,,2 bp
+2 comment,,2 corr,,1 corr
+5 del,,6 del,,6 del
+2 div,,2 div,,2 div
+1 env,,1 env,,1 env
+5 exp,,5 exp,,4 fr
+2 head,,2 head,,2 head
+27 lb,,27 lb,,27 m
+27 m,,27 m,,4 ms
+4 ms,,4 ms,,1 pa
+2 pl,,2 pl,,2 pl
+1 pro,,1 pro,,1 pro
+1 root,,1 root,,1 root
+2 sn,,2 sn,,2 sn
+7 tl,,7 tl,,8 tl
+2 ups,,,,
+ms-xml/tc/tc_p163v_preTEI.xml,,ms-xml/tcn/tcn_p163v_preTEI.xml,,ms-xml/tl/tl_p163v_preTEI.xml
+4 ab,,4 ab,,4 ab
+2 add,,2 add,,2 add
+2 al,,2 al,,2 al
+4 bp,,4 bp,,4 bp
+3 del,,1 corr,,1 corr
+3 div,,3 del,,3 del
+6 exp,,3 div,,3 div
+1 figure,,6 exp,,1 figure
+3 head,,1 figure,,3 fr
+2 la,,3 head,,3 head
+33 lb,,2 la,,2 la
+22 m,,33 lb,,22 m
+1 pl,,22 m,,1 pl
+1 root,,1 pl,,1 root
+8 tl,,1 root,,8 tl
+,,8 tl,,
+ms-xml/tc/tc_p164r_preTEI.xml,,ms-xml/tcn/tcn_p164r_preTEI.xml,,ms-xml/tl/tl_p164r_preTEI.xml
+4 ab,,4 ab,,4 ab
+3 al,,3 al,,3 al
+4 cn,,4 cn,,4 cn
+3 comment,,1 comment,,1 comment
+1 del,,1 corr,,1 corr
+4 div,,1 del,,1 del
+9 exp,,4 div,,4 div
+4 head,,9 exp,,1 fr
+25 lb,,4 head,,4 head
+16 m,,25 lb,,16 m
+3 ms,,16 m,,3 ms
+1 oc,,3 ms,,1 oc
+1 pa,,1 oc,,1 pa
+2 pl,,1 pa,,2 pl
+1 root,,2 pl,,1 root
+9 tl,,1 root,,9 tl
+2 ups,,9 tl,,
+ms-xml/tc/tc_p164v_preTEI.xml,,ms-xml/tcn/tcn_p164v_preTEI.xml,,ms-xml/tl/tl_p164v_preTEI.xml
+4 ab,,4 ab,,4 ab
+1 bp,,1 bp,,1 bp
+1 comment,,2 comment,,1 comment
+3 del,,1 corr,,1 corr
+3 div,,3 del,,3 del
+1 env,,3 div,,3 div
+10 exp,,1 env,,1 env
+3 head,,10 exp,,3 head
+2 la,,3 head,,2 la
+48 lb,,2 la,,18 m
+19 m,,48 lb,,1 root
+1 root,,19 m,,1 sn
+1 sn,,1 root,,15 tl
+15 tl,,1 sn,,1 tmp
+1 tmp,,15 tl,,
+,,1 tmp,,
+ms-xml/tc/tc_p165r_preTEI.xml,,ms-xml/tcn/tcn_p165r_preTEI.xml,,ms-xml/tl/tl_p165r_preTEI.xml
+7 ab,,7 ab,,7 ab
+2 add,,2 add,,2 add
+4 al,,4 al,,4 al
+2 del,,2 del,,2 del
+6 div,,6 div,,6 div
+1 env,,1 env,,1 env
+3 exp,,3 exp,,1 fr
+6 head,,6 head,,6 head
+28 lb,,28 lb,,20 m
+20 m,,20 m,,1 ms
+1 ms,,1 ms,,1 root
+1 root,,1 root,,6 tl
+6 tl,,6 tl,,3 tmp
+3 tmp,,3 tmp,,
+2 ups,,,,
+ms-xml/tc/tc_p165v_preTEI.xml,,ms-xml/tcn/tcn_p165v_preTEI.xml,,ms-xml/tl/tl_p165v_preTEI.xml
+9 ab,,9 ab,,9 ab
+1 add,,1 add,,1 add
+4 al,,3 al,,3 al
+2 bp,,2 bp,,2 bp
+2 comment,,1 del,,1 comment
+1 del,,7 div,,1 del
+7 div,,8 exp,,7 div
+8 exp,,1 figure,,1 figure
+1 figure,,7 head,,1 fr
+7 head,,1 hr,,7 head
+1 hr,,49 lb,,1 hr
+49 lb,,24 m,,24 m
+24 m,,2 md,,1 md
+2 md,,1 ms,,1 ms
+1 ms,,1 mu,,1 mu
+1 mu,,1 root,,1 root
+1 root,,12 tl,,12 tl
+12 tl,,3 tmp,,3 tmp
+1 tmp,,,,
+ms-xml/tc/tc_p166r_preTEI.xml,,ms-xml/tcn/tcn_p166r_preTEI.xml,,ms-xml/tl/tl_p166r_preTEI.xml
+4 ab,,4 ab,,4 ab
+1 add,,1 add,,2 al
+2 al,,2 al,,9 comment
+5 comment,,4 comment,,2 corr
+2 del,,2 corr,,2 del
+1 div,,2 del,,1 div
+4 env,,1 div,,4 env
+6 exp,,4 env,,1 exp
+1 head,,6 exp,,1 head
+3 la,,1 head,,4 la
+30 lb,,3 la,,1 pa
+7 pl,,30 lb,,7 pl
+26 pn,,7 pl,,26 pn
+9 pro,,26 pn,,8 pro
+1 root,,9 pro,,1 root
+3 tmp,,1 root,,4 tmp
+,,2 tmp,,
+ms-xml/tc/tc_p166v_preTEI.xml,,ms-xml/tcn/tcn_p166v_preTEI.xml,,ms-xml/tl/tl_p166v_preTEI.xml
+5 ab,,5 ab,,5 ab
+3 bp,,3 bp,,3 bp
+5 comment,,2 comment,,2 comment
+2 del,,1 corr,,2 del
+5 div,,2 del,,5 div
+1 emph,,5 div,,1 emph
+2 env,,1 emph,,2 env
+2 exp,,2 env,,1 fr
+4 head,,3 exp,,4 head
+1 hr,,4 head,,1 hr
+5 la,,1 hr,,4 la
+14 lb,,5 la,,12 m
+13 m,,14 lb,,1 pa
+1 pa,,13 m,,4 pl
+4 pl,,1 pa,,2 pn
+2 pn,,4 pl,,1 root
+1 root,,2 pn,,1 sn
+1 sn,,1 root,,5 tl
+5 tl,,1 sn,,
+,,5 tl,,
+ms-xml/tc/tc_p167r_preTEI.xml,,ms-xml/tcn/tcn_p167r_preTEI.xml,,ms-xml/tl/tl_p167r_preTEI.xml
+1 ab,,1 ab,,1 ab
+1 bp,,1 bp,,1 bp
+2 comment,,1 comment,,1 comment
+3 del,,3 del,,2 del
+1 div,,1 div,,1 div
+2 figure,,2 figure,,2 figure
+1 head,,1 head,,1 fr
+15 lb,,15 lb,,1 head
+9 m,,9 m,,9 m
+10 ms,,10 ms,,10 ms
+1 oc,,1 oc,,1 oc
+1 root,,1 root,,1 root
+1 tl,,1 tl,,1 tl
+ms-xml/tc/tc_p167v_preTEI.xml,,ms-xml/tcn/tcn_p167v_preTEI.xml,,ms-xml/tl/tl_p167v_preTEI.xml
+1 ab,,1 ab,,1 ab
+2 bp,,2 bp,,2 bp
+1 comment,,1 comment,,2 comment
+7 del,,1 corr,,7 del
+1 div,,7 del,,1 div
+4 exp,,1 div,,6 fr
+36 lb,,5 exp,,20 m
+20 m,,36 lb,,5 ms
+6 ms,,20 m,,2 po
+2 po,,6 ms,,1 root
+1 root,,2 po,,13 tl
+13 tl,,1 root,,5 wp
+1 wp,,13 tl,,
+,,1 wp,,
+ms-xml/tc/tc_p168r_preTEI.xml,,ms-xml/tcn/tcn_p168r_preTEI.xml,,ms-xml/tl/tl_p168r_preTEI.xml
+7 ab,,7 ab,,7 ab
+2 add,,2 add,,2 add
+2 al,,2 al,,2 al
+1 bp,,1 bp,,1 bp
+1 comment,,1 comment,,3 comment
+3 del,,5 corr,,3 del
+1 div,,3 del,,1 div
+2 exp,,1 div,,1 figure
+1 figure,,7 exp,,8 m
+27 lb,,1 figure,,7 ms
+8 m,,27 lb,,2 oc
+7 ms,,8 m,,1 pro
+2 oc,,7 ms,,1 root
+1 pro,,2 oc,,16 tl
+1 root,,1 pro,,11 wp
+17 tl,,1 root,,
+12 wp,,17 tl,,
+,,12 wp,,
+ms-xml/tc/tc_p168v_preTEI.xml,,ms-xml/tcn/tcn_p168v_preTEI.xml,,ms-xml/tl/tl_p168v_preTEI.xml
+9 ab,,9 ab,,9 ab
+1 comment,,1 comment,,4 comment
+1 div,,1 corr,,1 div
+1 exp,,1 div,,5 m
+12 lb,,2 exp,,1 ms
+6 m,,12 lb,,2 oc
+1 ms,,6 m,,1 po
+2 oc,,1 ms,,1 pro
+1 po,,2 oc,,1 root
+1 pro,,1 po,,15 tl
+1 root,,1 pro,,5 wp
+15 tl,,1 root,,
+5 wp,,15 tl,,
+,,5 wp,,
+ms-xml/tc/tc_p169r_preTEI.xml,,ms-xml/tcn/tcn_p169r_preTEI.xml,,ms-xml/tl/tl_p169r_preTEI.xml
+45 ab,,45 ab,,45 ab
+12 al,,12 al,,12 al
+1 comment,,1 comment,,1 comment
+2 del,,2 del,,2 del
+1 div,,1 div,,1 div
+2 env,,2 env,,2 env
+1 head,,1 head,,2 fr
+1 la,,1 la,,1 head
+5 lb,,5 lb,,1 la
+18 m,,18 m,,5 lb
+3 mark,,3 mark,,18 m
+7 pa,,7 pa,,3 mark
+1 root,,1 root,,7 pa
+1 sup,,1 sup,,1 root
+3 tl,,3 tl,,1 sup
+20 underline,,20 underline,,3 tl
+1 ups,,,,20 underline
+ms-xml/tc/tc_p169v_preTEI.xml,,ms-xml/tcn/tcn_p169v_preTEI.xml,,ms-xml/tl/tl_p169v_preTEI.xml
+5 ab,,5 ab,,5 ab
+3 add,,3 add,,3 add
+1 bp,,1 bp,,1 bp
+7 del,,1 comment,,7 del
+2 div,,7 del,,2 div
+7 exp,,2 div,,1 figure
+1 figure,,7 exp,,10 fr
+2 head,,1 figure,,2 head
+49 lb,,2 head,,40 m
+40 m,,49 lb,,2 mark
+2 mark,,40 m,,1 pl
+1 pl,,2 mark,,1 pro
+1 pro,,1 pl,,1 root
+1 root,,1 pro,,9 tl
+9 tl,,1 root,,
+,,9 tl,,
+ms-xml/tc/tc_p170r_preTEI.xml,,ms-xml/tcn/tcn_p170r_preTEI.xml,,ms-xml/tl/tl_p170r_preTEI.xml
+8 ab,,8 ab,,8 ab
+2 add,,2 add,,2 add
+2 comment,,4 corr,,1 comment
+4 del,,5 del,,4 corr
+7 div,,7 div,,5 del
+1 env,,1 env,,7 div
+2 exp,,2 exp,,1 env
+2 figure,,2 figure,,2 figure
+6 head,,6 head,,5 fr
+21 lb,,21 lb,,6 head
+21 m,,21 m,,21 m
+1 root,,1 root,,1 root
+11 tl,,11 tl,,11 tl
+ms-xml/tc/tc_p170v_preTEI.xml,,ms-xml/tcn/tcn_p170v_preTEI.xml,,ms-xml/tl/tl_p170v_preTEI.xml
+14 ab,,14 ab,,14 ab
+2 add,,2 add,,1 add
+2 bp,,2 bp,,2 bp
+5 cn,,5 cn,,5 cn
+7 comment,,5 comment,,19 comment
+5 del,,1 corr,,1 corr
+4 div,,5 del,,2 del
+7 emph,,4 div,,4 div
+1 env,,7 emph,,7 emph
+8 exp,,1 env,,1 env
+1 figure,,8 exp,,1 figure
+4 head,,1 figure,,1 fr
+1 hr,,4 head,,4 head
+9 la,,1 hr,,1 hr
+22 lb,,9 la,,9 la
+10 m,,22 lb,,10 m
+7 md,,11 m,,7 md
+1 ms,,7 md,,1 ms
+6 pa,,1 ms,,6 pa
+2 pl,,6 pa,,2 pl
+10 pn,,2 pl,,10 pn
+1 pro,,10 pn,,1 pro
+1 root,,1 pro,,1 root
+2 sup,,1 root,,2 sup
+2 tl,,2 sup,,2 tl
+3 tmp,,2 tl,,3 tmp
+4 ups,,3 tmp,,
