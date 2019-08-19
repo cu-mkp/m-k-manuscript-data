@@ -6,7 +6,7 @@
 <div id="p001r_1">
 
 
-<head margin="left-middle" render="wide"><sup>Liste de noms</sup></head>
+<head margin="left-middle"><sup>Liste de noms</sup></head>
 
 <ab margin="left-middle" render="wide">
 
@@ -32,7 +32,7 @@ boucherie</pl> <pro>courroyeur</pro> essayer <m>fleur de
 <div id="p001r_2">
 
 
-<head margin="left-middle" render="wide"><sup>Liste</sup></head>
+<head margin="left-middle"><sup>Liste</sup></head>
 
 <ab margin="left-middle" render="wide">
 
@@ -50,7 +50,7 @@ Trompettes voy le livre des funerailles
 <div id="p001r_5">
         
 
-<head margin="right-top" render="wide"><sup>Liste de livres et d'autheurs</sup></head>
+<head margin="right-top"><sup>Liste de livres et d'autheurs</sup></head>
 
 <ab margin="right-top" render="tall">  
             
@@ -133,7 +133,7 @@ Strabo<lb/>
 <div id="p001r_3">
 
 
-<head margin="left-top" render="wide"><sup>Liste de livres</sup></head>
+<head margin="left-top"><sup>Liste de livres</sup></head>
 
 <ab>
 <comment rid="c_001r_68"/><emph>mons<exp>ieur</exp></emph><comment rid="c_001r_69"/>
@@ -201,7 +201,7 @@ et de la <pro><pn>royne mere</pn></pro></ab>
 <div id="p001r_4">
 
 
-<head margin="left-middle" render="wide"><sup>Liste de livres</sup></head>
+<head margin="left-middle"><sup>Liste de livres</sup></head>
 <ab margin="left-middle" render="wide">
 
 <la><comment rid="c_001r_70"/><al>Aquatilium animalium</al>
