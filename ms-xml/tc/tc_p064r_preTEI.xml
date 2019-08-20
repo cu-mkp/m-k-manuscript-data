@@ -5,8 +5,6 @@
 
 <div id="p064r_1">
 
-
-
 <head>Nettement travailler</head>
 
 <ab>Ne poses jamays si tu peulx deulx couleurs lune sur laultre<lb/>
@@ -33,9 +31,25 @@ couleurs ne se trouvant pas si espesses</ab>
 
 </div>
 
+
+<div id="p064r_6">
+        
+<head margin="left-top"><m>Ocre<lb/>
+            
+jaulne</m></head>
+        
+<ab margin="left-top">
+            
+Il en fault un<lb/>
+            
+peu en toute<lb/>
+            
+carnation</ab>
+        
+</div>
+    
+    
 <div id="p064r_2">
-
-
 
 <head><m>Huile gras</m></head>
 
@@ -50,9 +64,37 @@ pourras<lb/>
 
 </div>
 
+
+<div id="p064r_7">
+        
+<head margin="left-top">Adoulcir</head>
+        
+<ab margin="left-top">
+            
+On adoulcist<lb/>
+            
+de mesme sur<lb/>
+            
+le <m>papier huile</m><lb/>
+            
+que sur le <m>bois</m><lb/>
+            
+Mays il est<lb/>
+            
+plus ayse<lb/>
+            
+dadoulcir sur la <m>toile</m><lb/>
+            
+pourceque ladoulcissement<lb/>
+            
+y doibt estre<lb/>
+            
+plus rude</ab>
+        
+</div>
+    
+    
 <div id="p064r_3">
-
-
 
 <head><m>Vermeillon</m></head>
 
@@ -76,9 +118,25 @@ du <m>cristallin calcine</m></ab>
 
 </div>
 
+
+<div id="p064r_8">
+        
+<head margin="left-top">Œil</head>
+        
+<ab margin="left-top">
+            
+Tout œil doibt<lb/>
+            
+suivre le rond<lb/>
+            
+du <tl>compas</tl> &amp; non pas<lb/>
+            
+estre plat &amp; quarre</ab>
+        
+</div>
+    
+    
 <div id="p064r_4">
-
-
 
 <head>Couleurs a <m>huile</m> dans l<m>eau</m></head>
 
@@ -97,9 +155,8 @@ y meurt &amp; perd sa couleur le <m>vermeillon</m> <m>azur</m> aussy</ab>
 
 </div>
 
+
 <div id="p064r_5">
-
-
 
 <head>Double couche</head>
 
@@ -116,75 +173,4 @@ quand elles sont seiches</ab>
 
 </div>
 
-<div id="p064r_6" margin="left-top">
-
-
-
-
-
-<head><m>Ocre<lb/>
-
-jaulne</m></head>
-
-<ab>
-
-Il en fault un<lb/>
-
-peu en toute<lb/>
-
-carnation</ab>
-
-</div>
-
-<div id="p064r_7" margin="left-middle">
-
-
-
-
-
-<head>Adoulcir</head>
-
-<ab>
-
-On adoulcist<lb/>
-
-de mesme sur<lb/>
-
-le <m>papier huile</m><lb/>
-
-que sur le <m>bois</m><lb/>
-
-Mays il est<lb/>
-
-plus ayse<lb/>
-
-dadoulcir sur la <m>toile</m><lb/>
-
-pourceque ladoulcissement<lb/>
-
-y doibt estre<lb/>
-
-plus rude</ab>
-
-</div>
-
-<div id="p064r_8" margin="left-bottom">
-
-
-
-
-
-<head>Œil</head>
-
-<ab>
-
-Tout œil doibt<lb/>
-
-suivre le rond<lb/>
-
-du <tl>compas</tl> &amp; non pas<lb/>
-
-estre plat &amp; quarre</ab>
-
-</div>
 </root>
