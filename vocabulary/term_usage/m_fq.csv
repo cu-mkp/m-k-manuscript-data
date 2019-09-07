@@ -1,27 +1,27 @@
 221|plomb
 213|eau
-205|cire
-197|sable
+200|cire
 197|or
+196|sable
 189|huile
-148|argent
+149|argent
 137|fer
 119|metal
-105|estain
+104|estain
 102|cuivre
-91|terre
+90|terre
 79|papier
 77|verre
 77|plastre
-69|estaim
+70|estaim
 66|eau de vye
 60|pouldre
 54|boys
 54|ardille
 52|letton
 48|vinaigre
-46|charbon
 45|vernis
+45|charbon
 43|bois
 42|mabre
 41|fil de fer
@@ -57,12 +57,13 @@
 22|cendres
 21|rousine
 21|rosette
+21|cire fondue
 20|☿
 19|toile
 19|sel
+19|huile de noix
 19|farine
 19|eau fort
-18|huile de noix
 18|huile de froment
 18|estaim de glace
 18|Sable
@@ -75,7 +76,6 @@
 17|estaim fin
 17|cotton
 16|mastic
-16|cire fondue
 16|azur desmail
 15|suif
 15|massicot
@@ -100,6 +100,7 @@
 12|beurre
 12|ancre
 11|vin blanc
+11|vermeillon
 11|verdegris
 11|tartre
 11|soulder
@@ -107,12 +108,10 @@
 11|orpiment
 11|glaire
 11|estain de glace
-11|esmail
 11|dorer
 11|corne
 11|ambre
 11|Vernis
-10|vermeillon
 10|tripoly
 10|pain
 10|os de seiche
@@ -121,6 +120,7 @@
 10|luter
 10|glaire dœuf
 10|estain fin
+10|esmail
 10|crocum ferri
 10|bon vinaigre
 9|vif argent
@@ -147,6 +147,7 @@
 8|fume
 8|feultre
 8|colle forte
+8|beurre fondu
 8|arsenic
 8|arene
 8|Plastre
@@ -168,8 +169,6 @@
 7|buys
 7|bourre
 7|bistre
-7|beurre fondu
-7|argent fondu
 7|albastre
 6|☾
 6|savon
@@ -183,6 +182,7 @@
 6|huiles
 6|grais
 6|gomme dragant
+6|estain doulx
 6|eau commune
 6|drogues
 6|dore
@@ -190,6 +190,7 @@
 6|ciment
 6|chaulx vive
 6|bol
+6|argent fondu
 6|ardile
 6|antimoyne
 6|amydon
@@ -197,6 +198,7 @@
 6|Sel armoniac
 5|verre de plat
 5|tormentine
+5|terre grasse
 5|taffetas
 5|scudegrun
 5|safran
@@ -206,6 +208,7 @@
 5|poil
 5|plombe
 5|parchemin
+5|noir descaille
 5|noir de lampe
 5|noir a noircir
 5|lutte
@@ -213,11 +216,10 @@
 5|laitton
 5|huile gras
 5|fer blanc
-5|estain doulx
 5|esmailler
 5|eaulx
 5|diamant
-5|cire noire
+5|couleur
 5|caillous
 5|blanchiment
 5|aspic
@@ -226,8 +228,8 @@
 4|œufs
 4|☼
 4|vin bouilly avecq racine dorme
+4|vert de gris
 4|tuile
-4|terre grasse
 4|souffre
 4|sels
 4|saphir
@@ -240,7 +242,6 @@
 4|papier blanc
 4|os brusle
 4|ocre
-4|noir descaille
 4|metallique
 4|mercure
 4|magistra
@@ -265,8 +266,8 @@
 4|eau tiede
 4|eau de savon
 4|cuyvre
-4|couleur
 4|coller
+4|cire noire
 4|carte
 4|briques
 4|bonne eau de vye
@@ -274,7 +275,6 @@
 4|Lute
 3|vitriol
 3|viande
-3|vert de gris
 3|vernys
 3|verd de gris
 3|topasse
@@ -310,7 +310,6 @@
 3|mastic pulverise
 3|linge brusle
 3|limaille despingle
-3|limaille de fer
 3|liege
 3|larme de mastic
 3|laque de florence
@@ -445,6 +444,7 @@
 2|pierre ponce
 2|pierre de touche
 2|pierre de fouldre
+2|pierre blanche
 2|perles
 2|pelure de figuier
 2|peau de chien
@@ -475,6 +475,7 @@
 2|lutter
 2|luth commun
 2|litharge
+2|limaille de fer
 2|limaille dargent
 2|limaille daiguilles
 2|limailhe de cuyvre
@@ -483,6 +484,7 @@
 2|letton fondu
 2|letton fin
 2|leton
+2|laveures
 2|laque platte de venise
 2|lames de fer
 2|lame de plomb
@@ -582,10 +584,7 @@
 2|azur dacre
 2|axunge de verre
 2|aspalte
-2|aspalt
 2|argent allie
-2|areneuse
-2|areneulx
 2|ardoise calcinee
 2|ardille molle
 2|ardille fresche
@@ -654,7 +653,6 @@
 1|vetjoin aussi Grossement pille
 1|vessie de porc
 1|vesse
-1|vert dec_064r_02 gris
 1|vert de vessie
 1|vert de Gris
 1|vert dazur
@@ -685,13 +683,12 @@
 1|vernis clair de tourmentine
 1|vernis blanc de tourmentine ou dhuille daspic et de tourmentine
 1|vernis blanc
-1|vernirc_004v_04 noir
+1|vernir noir
 1|vernir
 1|vernilhon
 1|vermillon
 1|vermicularis
 1|vermeillon broye
-1|vermeillon azur
 1|verjus
 1|verd de terre
 1|verd de Grys
@@ -716,6 +713,7 @@
 1|tripoli de bretaigne
 1|tripoli
 1|trbois
+1|tourtelle de terre
 1|tourtelle de cire
 1|tourmentine clere
 1|tourmentine claire de venise
@@ -739,7 +737,6 @@
 1|terres grasses &amp; fortes
 1|terres grasses
 1|terres bolvenes
-1|terrec_107v_03 grasse
 1|terre susdicte des fondeurs
 1|terre maigre de laquelle les fondeurs dartiglerie &amp; de cloches font leur trusseaulx et moules
 1|terre legiere
@@ -752,7 +749,7 @@
 1|terre dumbre
 1|terre des potiers
 1|terre de quoy ilz font la premiere couche de la chappe de pieces &amp; cloches &amp; toutes aultres pieces
-1|terre de laquelle les fondeursc_127v_01 se servent pour braser ou soulder
+1|terre de laquelle les sarruriers se servent pour braser ou soulder
 1|terre cendree
 1|terre bourre dont usent les fondeurs
 1|terre bourre des fondeurs de grands ouvraiges
@@ -806,7 +803,7 @@
 1|storax
 1|staphisagrie
 1|stagno
-1|spatc_108r_02 dallemaigne
+1|spat dallemaigne
 1|spalt
 1|soyes
 1|soye deliee
@@ -859,7 +856,7 @@
 1|sanguine pulverisee
 1|sanguine claire
 1|sang dea Raiec
-1|sang de raiyec_077v_01 da Rac
+1|sang de raiye da Rac
 1|sang daRage darac
 1|sandrax bien pilles
 1|sandaraque pulverisee
@@ -1007,7 +1004,7 @@
 1|porfidio
 1|ponce pulverisee
 1|pommes de Mandragore
-1|poix resinsc_075r_01 resine
+1|poix resins resine
 1|poix resine claire
 1|poix resine
 1|poix fine
@@ -1037,8 +1034,7 @@
 1|plombeus
 1|plombes
 1|plomberies dorees
-1|plombc_139r_01 nœuf &amp; non sophistique
-1|plomb qui est doulx
+1|plomb nœuf &amp; non sophistique
 1|plomb noir de saulmon
 1|plomb neuf
 1|plomb lime
@@ -1084,8 +1080,6 @@
 1|pierre noire
 1|pierre de mabre
 1|pierre dIstre
-1|pierre blanche pilee &amp; pulverisee &amp; tamisee
-1|pierre blanche
 1|pierre blanchastre
 1|pierre a fœu
 1|pieces dor
@@ -1297,6 +1291,7 @@
 1|limaille de talc ou despingle
 1|limaille de letton cuivre menue due lantimoyne du sublime Subtilement pulverises
 1|limaille de letton
+1|limaille de fer ou despingle
 1|limaille de cuivre
 1|limaille dacier &amp; daiguilles
 1|limailhe de fer
@@ -1320,7 +1315,6 @@
 1|le plus fin acier
 1|le plus excellent sable qui se puisse trouver pour plomb estain cuivre argent &amp; or
 1|laveures des pinceaulx a huile
-1|laveures
 1|larde de girofle
 1|lard
 1|laque ronde
@@ -1380,7 +1374,6 @@
 1|huile dolive de noix
 1|huile dolive
 1|huile dolif de froment
-1|huile dec_67v_01 noix
 1|huile de tourmentine fine
 1|huile de tourmentine claire &amp; blanche
 1|huile de tourmentine blanc
@@ -1462,11 +1455,10 @@
 1|gelee
 1|geiette
 1|geiete
-1|gcrasse jaulne
 1|gaulde
 1|gallipot
 1|fœuilles de vigne
-1|fœillet
+1|fœillet escript
 1|fœilles fresches
 1|fœilles dolivier
 1|fœilles de soucy a demy seiches &amp; retorses comme un fil
@@ -1534,7 +1526,7 @@
 1|fil du propre metal
 1|fil dor &amp; dargent fin &amp; faulx
 1|fil delie de letton
-1|fil de letton blanchi
+1|fil de letton blanchy
 1|fil de laitton
 1|fil de fer recuit
 1|fil de fer ou de letton
@@ -1586,8 +1578,7 @@
 1|estaing douls
 1|estaing de Glasse
 1|estaing Cacides
-1|estainc_092r_01 doulx
-1|estain pur
+1|estain pur ou ou le plomb pur
 1|estain mesle
 1|estain doux
 1|estain dou aigre
@@ -1605,7 +1596,6 @@
 1|estaim bien peu allie de plomb
 1|estaille de fer
 1|espricts
-1|espingle
 1|esmeril pulverise
 1|esmeril
 1|esmeri
@@ -1618,11 +1608,11 @@
 1|esmail recuit
 1|esmail de gueule
 1|esmail colombin
+1|esmail blanc
 1|esmail azure fort cler
 1|escume du vin
 1|escume de lurine
 1|escume
-1|escript
 1|escrevisse
 1|escorce de figuier
 1|escorce aussi confite
@@ -1725,7 +1715,7 @@
 1|destaing
 1|desmail de gueule
 1|desgraisse
-1|des chemins sablonneulxc_69r_01 deseiches par le soleil
+1|des chemins sablonneulx deseiches par le soleil
 1|decoction dabsinthe
 1|de soufre
 1|dazur desmail
@@ -1803,7 +1793,7 @@
 1|colle farine
 1|colle de retaille
 1|colle de paste
-1|colle de partenay c_073v_01ou parchemin
+1|colle de partenay ou parchemin
 1|colle de menusier
 1|colle damydon
 1|colle claire
@@ -1824,6 +1814,7 @@
 1|cire treschaulde
 1|cire transparente
 1|cire nœufve
+1|cire noire pour esbaucher
 1|cire noire meslee de soufre
 1|cire gommee a esbaucher
 1|cire gommee
@@ -1832,6 +1823,7 @@
 1|cire esb a esbaucher
 1|cire dure
 1|cire coloree
+1|ciment real
 1|ciment dorfevre
 1|chose combustible
 1|chimolee cuitte
@@ -1856,6 +1848,7 @@
 1|chair delicate
 1|chair bien hachee avecq du jaulne dœuf dur
 1|chair &amp; lœuf
+1|cgrasse jaulne
 1|ceulx de pied de bœuf
 1|cerusse
 1|ceruse ou blanc de plomb fort subtillement broye
@@ -1984,6 +1977,7 @@
 1|balottes
 1|balaustes
 1|baccis juniperi
+1|azur en corps
 1|azur commun
 1|axunge
 1|aux
@@ -1992,6 +1986,7 @@
 1|aspalthe
 1|aspalte est qui se trouve en Allemaigne
 1|aspalte brusle
+1|aspalt
 1|arsenic sublime
 1|arsenic jaulne
 1|arsenic blanc
@@ -2001,7 +1996,7 @@
 1|argille
 1|argent vif arreste
 1|argent sophistique
-1|argent recuitc_015v_04 recuit
+1|argent recuit recuit
 1|argent pur
 1|argent pou vif
 1|argent plus fin que la ligue du capital et comme de realle

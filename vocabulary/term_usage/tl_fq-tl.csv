@@ -1,65 +1,66 @@
-345|mold
-136|molds
+346|mold
+135|molds
 73|frame
 65|crucible
-55|paintbrush
+53|paintbrush
 45|marble
 39|pestled
-39|furnace
+38|furnace
 34|knife
 31|lute
-28|candle
 27|forge
-26|mortar
-25|pot
+27|candle
+26|pot
+25|mortar
 24|pestle
+23|paper
 23|finger
 22|vessel
 22|stick
 22|porphyry
-22|paper
 22|oven
+21|frames
 21|bellows
-20|frames
 20|clamps
 19|sieve
 19|clay slab
-18|table
 18|file
+17|table
 16|ruler
+15|hammer
 15|burin
-14|hammer
 14|bone
 13|point
 13|fingers
 13|Molds
 12|sponge
 12|points
-12|bottle
-11|charcoal
+12|charcoal
+11|pincers
+11|iron wire
+11|four à vent
 11|box
+11|bottle
 10|thread
 10|press
 10|luted
 10|ladle
-10|iron wire
 10|hand
-10|four à vent
 10|cloth
 10|chaple
 10|brush
 10|bowl
-9|plane
+9|plate
 9|pipe
-9|pincers
 9|needle
+9|linen
 9|glass bottle
 9|compass
 9|bones
 8|reverberatory furnace
-8|plate
-8|linen
+8|penknife
 8|hands
+8|fingernail
 8|cauldron
 8|ball
 8|Lute
@@ -67,14 +68,14 @@
 7|tooth
 7|spoon
 7|sieved
-7|pen-knife
-7|nail
+7|plane
 7|little bellows
 7|glass
 7|gimlet
 7|double sieve
 7|chisel
 7|carton
+7|blast-pipe
 6|string
 6|screw
 6|retort
@@ -84,7 +85,7 @@
 6|pegs
 6|palette
 6|leather box
-6|fingernail
+6|grate
 6|files
 6|cuttlefish bone
 6|crucibles
@@ -94,19 +95,22 @@
 5|tile
 5|thimble
 5|spatula
+5|small pincers
 5|small chisel
 5|putty
 5|napkin
+5|nail
+5|linen cloth
 5|jewel
 5|hot iron
-5|grate
 5|glass vial
+5|fustée
 5|feather
 5|burnisher
 5|brazier
 5|borer
+4|vice
 4|vial
-4|small pincers
 4|small file
 4|sleeve
 4|slab
@@ -114,12 +118,12 @@
 4|rollers
 4|ramrod
 4|pots
-4|plates
 4|piece of leather
 4|pestles
 4|peg
+4|paintbrushes
+4|noyau molds
 4|mirror
-4|linen cloth
 4|leather sheath
 4|iron wire point
 4|iron points
@@ -129,53 +133,53 @@
 4|hat
 4|handle
 4|half mold
-4|fustée
 4|foot
+4|earthen pot
 4|circle
 4|card
 4|cage
 4|bolt
+4|bell
 4|baton
 3|wimble
-3|tuelle
 3|tub
 3|thin cane
 3|terrine
 3|stone
 3|small stick
+3|small chisels
 3|skillet
-3|sheet
 3|scratch-brush
 3|reed
 3|presses
 3|points of iron wire
 3|point of a knife
+3|plates
+3|piece of paper
 3|nut
-3|noyau molds
 3|nails
-3|mattras
 3|leaded pot
 3|ladles
 3|iron point
 3|hearth
+3|funnel
 3|emery
 3|earthen slab
-3|earthen pot
 3|copper plates
 3|clay circle
 3|clamp
-3|chisels
 3|chameau
 3|chafing-dish
 3|bushel
 3|brushes
 3|bronze mortar
 3|boards
-3|bell
 3|basket
+3|barrel
 3|bag
 3|alembic
 3|Clamps
+2|à vent bellows furnace
 2|writing quill
 2|wooden spoon
 2|wire stem
@@ -183,52 +187,49 @@
 2|wedges
 2|wax peg
 2|wax
-2|vise
-2|very sharp pen-knife
+2|very sharp penknife
 2|tweezers
 2|toothpick
 2|tooth of a wolf or dog
 2|tools
 2|tip of your finger
-2|tip of the paintbrush
 2|tin molds
 2|tiles
 2|threads
 2|thin canes
-2|stoneware vessel
 2|steel point
 2|spoonful
-2|soft file
 2|smaller box
 2|small points
 2|small point
-2|small chisels
+2|small hog bristle brushes
 2|small box
 2|small bellows
+2|shell
 2|sheets of copper
 2|sheet of paper
+2|sheet
 2|sheath
 2|scissors
 2|scabbard bench
 2|rolling pin
 2|point of a hot iron wire
-2|plates of iron
 2|plaster mold
 2|pillars
 2|piece of white paper
 2|piece of silver
-2|piece of paper
 2|piece of felt
 2|pan
-2|paintbrush for oil
+2|paintbrushes for oil
 2|onglet
-2|oil paintbrush
 2|nailed
 2|muid
 2|mouth
 2|mortars
 2|metals
 2|medal
+2|mattras
+2|matrass
 2|lutes
 2|log
 2|little stick
@@ -236,25 +237,23 @@
 2|little brushes
 2|lids
 2|leather
-2|lead wheel
 2|large stick
 2|large iron pegs
 2|large box
 2|lamps
 2|lamp
 2|knives
+2|joiner’s plane
 2|iron rod
-2|iron posnet
+2|iron pots
 2|iron case
 2|iron
 2|hot iron wire point
-2|hammered
 2|grindstone
-2|grille
+2|grais
+2|goldsmith’s forge
 2|glove
-2|glassmaker's furnace
 2|gimlets
-2|funnel
 2|frame molds
 2|fourneau à vent
 2|fingertip
@@ -263,9 +262,11 @@
 2|felin
 2|esgrusouer
 2|earthen vessel
+2|dung heap
 2|dish
 2|desgrusouer
 2|cuttlefish bones
+2|cutting-punch
 2|copper wheel
 2|copper vessel
 2|copper mold
@@ -274,6 +275,7 @@
 2|clay contour
 2|circle of earth
 2|circle of clay
+2|chisels
 2|chafing dish
 2|cases
 2|canvas
@@ -288,12 +290,12 @@
 2|bellows furnace
 2|bellow
 2|basin
-2|barrel
 2|ashes
 2|arene
 2|anvil
 2|Pestle
 2|Mortars
+2|Mold
 2|Frame
 2|Cuttlefish bone
 2|Candles
@@ -310,7 +312,7 @@
 1|wood blocks
 1|wood block
 1|wood
-1|wolf's tooth
+1|wolf’s tooth
 1|wirebrush
 1|wire-brushed
 1|wire of the same metal that they cast
@@ -324,13 +326,12 @@
 1|wheels for doing this, one of tin, one of lead, &amp; one of fine copper
 1|wheel of soft wood
 1|wet sponge
-1|wet sand mold
 1|wet napkins
 1|wet linen cloth
-1|well-sealed vessel
 1|well-furbished knife
 1|well-forged
 1|well smooth table
+1|well sealed vessel
 1|well reddened mold
 1|well melted silver
 1|well closed andtin vessel
@@ -338,11 +339,11 @@
 1|wax candle
 1|water mills
 1|walnut shell
-1|vice
 1|vials
 1|vessels
 1|vessel filled with ashes or sand
 1|very tight presses
+1|very thin paintbrushes which have a firm point
 1|very thin comb
 1|very soft thread
 1|very smooth string without knots
@@ -351,7 +352,7 @@
 1|very fine linen
 1|very clean glass
 1|very clean &amp; smooth table
-1|vat, or in a corner of earth full of water
+1|vat, or in a cos of earth full of water
 1|vat full of water
 1|vat
 1|vase
@@ -365,7 +366,6 @@
 1|trowel
 1|trivets of iron
 1|trivet
-1|tripoli of Venice
 1|tripoli of Brittany
 1|tripoli from Bretagne
 1|trip hammers
@@ -376,8 +376,9 @@
 1|top grate
 1|top
 1|tongue
-1|tongs
 1|token
+1|tip of the paintbrushes
+1|tip of the paintbrush
 1|tip of another ruler
 1|tip of a knife
 1|tip of a hot iron wire
@@ -396,17 +397,17 @@
 1|thin enamel canes
 1|thick stick
 1|thick rounded squares
-1|thick round iron stick
+1|thick round iron rod
 1|thick needle
 1|thick cloth
 1|thick canvas
 1|the apothecaries’ double
 1|terrines without lead
+1|tempered sand mold
 1|taper
-1|tankard
 1|tammy cloth
 1|tallow candle
-1|table is quite flat
+1|table is quite even
 1|syringe
 1|surrounded with bricks
 1|substance of wine
@@ -432,6 +433,7 @@
 1|steel awl
 1|stalk of latten wire
 1|stalk of copper or iron
+1|stake
 1|square wooden cases
 1|square tile
 1|square pots
@@ -444,8 +446,10 @@
 1|sparkling hot iron plates
 1|solid plank or table
 1|soldering iron
+1|soft, very soft, file
 1|soft wood
 1|soft files
+1|soft file
 1|soft brush
 1|socket
 1|sock from the right d foot that has been worn
@@ -453,6 +457,7 @@
 1|smooth &amp; well-leveled table
 1|small wooden pin
 1|small wooden bushels
+1|small tile oven
 1|small sticks
 1|small stick wrapped in tow
 1|small stick split and quartered at the tip
@@ -467,11 +472,9 @@
 1|small points of latten wire
 1|small pointed stick
 1|small pincers with a long beak
-1|small piglet-bristle brushes
 1|small pieces points of iron or steel wire
 1|small peg, hooked like the hinge of a door
 1|small paintbrush
-1|small oven of tiles
 1|small narrow plane
 1|small molds
 1|small iron tool
@@ -489,8 +492,7 @@
 1|small curved instrument
 1|small burin
 1|small brushes
-1|small bristle brushes of pork
-1|small bristle brushes of hog
+1|small bristle brushes of pig
 1|small bristle brushes
 1|small board
 1|small &amp; large bellows
@@ -513,10 +515,13 @@
 1|short hooked peg
 1|shirt sleeve
 1|shelves
-1|shell
 1|sheets of paper
 1|sheets of lead &amp; copper
+1|sheets of iron
+1|sheets
 1|sheet of tin
+1|sharpening stone
+1|sharp point
 1|sharp iron
 1|shards of wood
 1|shale
@@ -533,7 +538,7 @@
 1|round cutting-punch
 1|rough linen cloth
 1|rolling pins
-1|roll-press
+1|roller press
 1|rod
 1|right hand
 1|retorts
@@ -543,7 +548,6 @@
 1|reinforced firkin
 1|reheated molds
 1|reddened iron shovel
-1|red-hot bricks
 1|receptacle
 1|rammer
 1|rakes
@@ -553,15 +557,14 @@
 1|quite even &amp; table
 1|quarton
 1|quadrant
-1|putty of emery
 1|puncheons
+1|puncheon
 1|pumice stone powder
 1|pulverized salt
 1|pulverized pumice stone
 1|pulverized emery
 1|pruning knife
 1|printing plates
-1|prick
 1|prele
 1|powder of the said tripoli
 1|pouch
@@ -581,70 +584,60 @@
 1|point of an oiled paintbrush
 1|point of an iron wire
 1|point of a small chisel
-1|point of a pen-knife
+1|point of a penknife
 1|point of a chaple or burin
 1|plumb lines
 1|plumb line
 1|plumb
 1|playing card
-1|platine
+1|plates of iron
 1|plaster molds
 1|pitcher
 1|pit
 1|pipes of fer blanc
-1|pinsseau
 1|pins
 1|pinon
+1|pine nut
 1|pikes, with joists
-1|pieces of thick &amp; mouflé felt
-1|piece ofpaper
+1|pieces of plump &amp; thick felt
 1|piece of glass
-1|pickaxe
 1|pick of wood or iron
 1|pestle of pure copper
 1|penknives
-1|penknife
-1|papier collé
 1|palm
 1|palettes
-1|paintbrushes
-1|paintbrush which have a firm point
-1|paintbrush composed of two or three ratwhiskers
+1|paintbrushes composed of two or three rat whiskers
 1|ordinary engraving burin
 1|oil palette
+1|oil paintbrushes
+1|oil paintbrush
 1|new wooden spatula
 1|new charcoal
 1|needle’s worth of fine silk
 1|needles
 1|nail of your right thumb
 1|mustard mill
-1|moulet
-1|moules
-1|moule
+1|moulets
 1|mortar of wood
 1|mortar of thick glass
+1|mortar of metal, or better yet, of iron
 1|mortar of glass
-1|mollettes
-1|molletes
 1|molds of iron &amp; copper
-1|molds of grais
 1|molds for casting latten
-1|molds de noyau
 1|molded
 1|mold, of white stone with no eyelets
+1|mold à noyau
 1|mold which is of white plaster
 1|mold of plaster
 1|mold of earth
 1|mold made of canvas
-1|mold a noyau
 1|model of paper
 1|mirrors
-1|metalc_088r_01 mortar
+1|mills
 1|metal mortar
 1|metal molds
 1|measuring line
 1|matrices
-1|matrass
 1|marcasite powder
 1|marbles
 1|mallet
@@ -670,11 +663,8 @@
 1|little bands
 1|little &amp; ring fingers
 1|lit hay
-1|lit charcoal
-1|linens soaked with water from a honey beehive
-1|linens
-1|linencloth
 1|linen sleeve
+1|linen cloths soaked with water from a honey beehive
 1|linen cloths
 1|lime-twigs
 1|lighted candle
@@ -683,13 +673,16 @@
 1|leather mold
 1|leather cushionet
 1|leather cover of the same length as the box
+1|lead wheel
 1|lead vessel
+1|lead tinwheel
 1|lead mold
 1|lead bowl
 1|latten wirebrush
 1|latten wire
 1|latten skillets, which are beaten &amp; forged thinly
 1|lathe
+1|lateres igniti
 1|larger box
 1|large wooden presses made with screws
 1|large square filee
@@ -708,28 +701,26 @@
 1|knife points
 1|knife point
 1|knee
+1|kneading troughs
 1|kettle of pure copper
 1|judgement of the eye
-1|joiners’ plane
-1|joiners' bench
-1|joiner's plane
+1|joiners’ bench
+1|joiner'splane
 1|iron wires
 1|iron wire wrapped in cotton
 1|iron wire points
 1|iron wheels
-1|iron thread
 1|iron stake
 1|iron spoon
 1|iron slab
 1|iron shovels
 1|iron rod q made with three claws at the end
 1|iron presses
-1|iron pots
+1|iron pot
 1|iron pestle
 1|iron peg
-1|iron or metal skillet
 1|iron or metal shells
-1|iron one
+1|iron or metal pot
 1|iron fork made like pincers
 1|iron fork
 1|iron casket
@@ -739,6 +730,7 @@
 1|hot penknife
 1|hot iron touching point
 1|hot iron point
+1|hot charcoal
 1|horsetail
 1|horsehair sieve
 1|horn
@@ -750,17 +742,18 @@
 1|head of a nail
 1|head band
 1|hands joined between your two knees
-1|handle of paintbrush
+1|handle of paintbrushes
 1|handle of a hammer
 1|hammers
+1|hammered
 1|halberd points
 1|halberd point
 1|hair sieve
-1|grilles
 1|green fabric
 1|green cloth
 1|gratteau
 1|grateau
+1|grais molds
 1|grais mold
 1|grain
 1|gouge
@@ -769,14 +762,13 @@
 1|good lute
 1|good crucible
 1|goldsmith’s table
-1|goldsmith’s forge
-1|goldsmiths' bouteure
-1|goldsmith's water pot
-1|goldsmith's forge
+1|goldsmiths’ bouteure
 1|glued to the quarton
 1|glowing coals
 1|gloves
-1|glassworkers' solders
+1|glassworkers’ solders
+1|glassmaker’s fournaise
+1|glassmaker’s fornaise
 1|glass vessel
 1|glass or smooth slate
 1|glass of good wine
@@ -785,10 +777,8 @@
 1|glass boxes
 1|glass bottles
 1|glass ampul
-1|gimletsc_080r_01 of wheelwrights
-1|furnace of those who make pots
-1|furnace of the potters
-1|furbishers' furnace
+1|gimlets of wheelwrights
+1|furbishers’ furnace
 1|funnel of white iron
 1|fresil stick
 1|fresh clay slab
@@ -796,10 +786,10 @@
 1|frame mold
 1|frails
 1|frail
-1|fours de barbiers
 1|fournaise
+1|fornaise of those who make pots
+1|fornaise of the potters
 1|fornaise
-1|form
 1|forks
 1|fork made like pincers
 1|forges
@@ -811,6 +801,7 @@
 1|flat box
 1|flasks
 1|flaming red tile
+1|flagon
 1|fist
 1|firkin
 1|fire-steel
@@ -825,7 +816,7 @@
 1|feather quill
 1|feather cushions
 1|fatty vessel
-1|farriers' forge
+1|farriers’ forge
 1|fairly large paintbrush
 1|fabric of Cambray
 1|eye
@@ -834,18 +825,16 @@
 1|end of your finger
 1|end of the hot iron wire
 1|end of a iron wire, that is hot
-1|en grille
 1|emery stone powder
+1|emery putty
 1|embers
 1|easel
 1|earthenware bowl, from which the peasants eat their soup
-1|earthenpot
 1|earthen pots
 1|earthen jug
 1|ear picker
 1|ear
-1|dyers' vat
-1|dung heap
+1|dyers’ vat
 1|dry chalk
 1|drawer
 1|dog skin
@@ -857,23 +846,22 @@
 1|device of little crossed sticks
 1|desramonet
 1|desgrusoue
-1|delicates points of fil cist cittern strings
 1|delicate straw
+1|delicate points of of fil cist cittern strings
 1|delicate plate of lead
-1|cutting-punch
 1|cutting iron
 1|cutting file
+1|cut paintbrush
 1|cushionet
 1|cupel
 1|crystal mirror
+1|crystal glass mirror
 1|crucibles for melting metal
-1|crucible covered by another well luted that has a hole in the top
+1|crucible covered with another, well luted, that has a hole in the top
 1|crossbar
 1|crooked iron
-1|cristallin mirror
 1|crayons
 1|covered oven
-1|coux
 1|counter bone
 1|cotton cloth
 1|cornet
@@ -892,17 +880,16 @@
 1|cochiaro
 1|coarse linen
 1|coarse canvas
-1|cloths of swine fur
 1|cloths
 1|cloth, soaked in pig fat, mixed with saltpeter or sal ammoniac
-1|cloth that is woven tight enough
+1|cloth that should be rather tight
 1|cloth strainer
 1|clock
-1|clipped paintbrush
 1|cleft stick
-1|clean thing
 1|clean bottle or vessel
 1|clay slabs
+1|clay entredeux
+1|clay entredeulx
 1|clay closure
 1|clamped
 1|circle of soft clay
@@ -913,7 +900,6 @@
 1|cauldrons
 1|cauldron full of ashes
 1|cast
-1|cask
 1|case of iron or metal
 1|case
 1|cartons
@@ -926,6 +912,7 @@
 1|bungs
 1|bullitoire
 1|buckles
+1|brushes of pig bristle
 1|bronze mortars
 1|brim of a burin
 1|bricks
@@ -942,10 +929,10 @@
 1|bottle of common water
 1|bottle in which one boils tisane
 1|boring
-1|bodkins
 1|bodkin rounded at the tip &amp; that goes into its handle
 1|board
 1|blood
+1|blast-pipes
 1|blades
 1|blade of lead
 1|blade of iron reddened in the fire
@@ -956,9 +943,9 @@
 1|big finger
 1|big charcoal
 1|big cauldron
-1|bellows' pipes
-1|bellow furnace
-1|bel
+1|big bottle
+1|bellows’ pipes
+1|bedsheet
 1|bedpost
 1|beaters
 1|baton à felinder
@@ -967,6 +954,7 @@
 1|baston a felinder
 1|barrels filled with earth &amp; covered with manure
 1|barrel full of earth
+1|barbers' ovens
 1|bar
 1|band of clay
 1|balls of lead or of wax
@@ -978,31 +966,32 @@
 1|au en bowl
 1|arson
 1|archal wire
+1|appropriate thing
 1|anvils
+1|annealing furnace
 1|ampul
-1|ambu
 1|almond
 1|alembics
 1|alembic well luted &amp; covered with a copper helmet
-1|airbellow furnace
-1|air furnace
 1|adapted carton
-1|a piece of cork
+1|a bit of cork
+1|Venice tripoli
 1|Press
 1|Polishing wheel of copper
 1|Pestled
+1|Paintbrushes
 1|Noyau molds
 1|Needles
 1|Mortar of glass
 1|Molds of plaster
 1|Mold en noyau
-1|Mold
 1|Mirror
 1|Knife-like saws
 1|Knife
 1|Iron wire
 1|Iron fork made in the form of pincers of the height of a man
 1|Glass vessels
+1|Frames
 1|Frame molds
 1|Four à vent
 1|Fine sieves of raw silk

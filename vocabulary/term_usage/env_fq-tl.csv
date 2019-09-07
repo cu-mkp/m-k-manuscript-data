@@ -1,8 +1,8 @@
 13|mine
 12|water
 12|in the sun
-10|wall
 10|in the rain
+9|wall
 7|cellar
 6|wind
 6|sun
@@ -12,6 +12,7 @@
 4|room
 4|in the serain
 4|grottos
+4|dry place
 3|window
 3|walls
 3|sea
@@ -22,7 +23,6 @@
 3|in a damp place
 3|hearth
 3|grotto
-3|dry place
 3|damp place
 3|cold
 2|street
@@ -39,18 +39,19 @@
 2|frost
 2|freezes
 2|earth
+2|dung heap
 2|city
 2|church
 2|chamber
 2|Grottos
 1|wind or the cold
 1|wind from a window
-1|where the deep soil is so fertile
+1|where the depth of the earth is so fertile
 1|wet weather
-1|well-closed room, where neither wind nor draft may enter
+1|well-closed room, where neither wind nor air may enter
 1|well
-1|weather is warm &amp;serain
-1|weather is not clear &amp; dry
+1|weather is warm &amp; serain
+1|weather is not serain &amp; dry
 1|weather is damp &amp; humid
 1|water where crayfish eat
 1|warm &amp; close place
@@ -60,12 +61,13 @@
 1|veins of the mountain
 1|under wheat chaff or warm manure
 1|trenches
-1|tree or on a plant that is on the bank
+1|tree or a plant that is on the bank
 1|town
 1|tower
 1|thunder storms
 1|thunder or rainy weather, cloud-covered &amp; cool
 1|the wind
+1|the room, house, &amp;c
 1|the first rain
 1|the air
 1|sunlight
@@ -82,8 +84,7 @@
 1|sand bank
 1|running river
 1|rooms
-1|room, house, &amp;c
-1|room accomodated with three or 4 shelves of large shelves
+1|room accomodated with three or 4 levels of large shelves
 1|rock formation
 1|rock caves
 1|rainy weather
@@ -143,9 +144,9 @@
 1|in damp weather
 1|in cold
 1|in all weather
-1|in a very humid place where with such puys rodier or fountain one can water it often
+1|in a very humid place where with such a rodier well or fountain one can water it often
 1|in a very flat &amp; level place
-1|in a room where there is not a bit of air &amp; of wind
+1|in a room where there is not a drop of air &amp; of wind
 1|in a garden outdoors
 1|in a dry place
 1|in a cool place
@@ -159,13 +160,13 @@
 1|house or elsewhere
 1|hot sun
 1|gutter of some roof
-1|great flakes towards the mountains
+1|great flakes near the mountains
 1|good &amp; fertile land
 1|garrets topped with a tower
 1|gabions
 1|from the depths of the sand-bed
 1|from the ceiling, where the air or &amp; sun dry it
-1|fresh river waters
+1|fresh water rivers
 1|fresh &amp; damp earth
 1|fountains
 1|fortresses of little importance
@@ -208,10 +209,9 @@
 1|barn
 1|at the foot of a wall
 1|at night
-1|ant-hill
+1|anthill
 1|after rainy weather
 1|aerated place
-1|above
 1|Water
 1|Autan wind
 1|

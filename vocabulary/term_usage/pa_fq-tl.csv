@@ -1,34 +1,33 @@
 33|spike lavender
 32|wheat
-26|walnut
+27|walnut
 18|rose
 16|vine
 14|olive
+13|pastel woad
 12|linseed
 11|willow
 10|grain
-9|grapes
 8|millet
+8|grapes
 8|fig tree
-7|pastel
 7|elm
+7|boxwood
 6|sage
-6|pastel woad
 6|garlic
-6|boxwood
 5|pansy
 5|marigold
-5|heather
 5|bean
 5|Wheat
 4|wormwood
 4|walnuts
 4|rosemary
+4|linen
 4|hemp
+4|heather
 4|apricots
 4|Walnut
 3|saffron
-3|rue
 3|roses
 3|quince
 3|peas
@@ -36,7 +35,7 @@
 3|orange
 3|onions
 3|mustard
-3|linen
+3|grains
 3|clove
 3|cinnamon
 3|bugloss
@@ -45,6 +44,7 @@
 2|walnut tree
 2|thyme
 2|sorrel
+2|rue
 2|rose bush
 2|rapeseed
 2|peach tree
@@ -53,8 +53,8 @@
 2|mericotons
 2|maple
 2|lettuces
+2|heath
 2|hazelnut
-2|grains
 2|fir
 2|consolida maior
 2|chestnuts
@@ -73,11 +73,9 @@
 1|zedoary
 1|yellow millet
 1|yellow meadow flowers
-1|woad
 1|white mulberry
 1|wheat chaff
 1|weld
-1|walnut oil
 1|wallwort
 1|visaube
 1|vine shoots
@@ -92,7 +90,7 @@
 1|strawberry
 1|strawberries
 1|straw
-1|small one
+1|some small
 1|sloes
 1|service tree
 1|semperviva
@@ -100,6 +98,7 @@
 1|sauvignons
 1|saltworth
 1|rye
+1|ruta
 1|rowan
 1|rose bushes
 1|red poppy
@@ -114,6 +113,7 @@
 1|plums
 1|plum trees
 1|persicaire
+1|periwinkle
 1|pepper
 1|peony
 1|pears
@@ -124,9 +124,10 @@
 1|pansies
 1|palta lupina
 1|palma christi
-1|orberégrain
+1|orberé grain
 1|oranges
 1|orange tree
+1|oraches
 1|onion
 1|olive tree
 1|oak
@@ -147,16 +148,16 @@
 1|large amaranth
 1|lapathum acutum
 1|lapathium acutum maius
-1|juniper berries
 1|jujubes
 1|ivy
 1|horsetail
 1|horseradish
-1|hog's fennel
-1|heath
+1|hog’s fennel
 1|hazelnuts
+1|guesdre woad
 1|guesde woad
 1|guaiac
+1|grape
 1|grains of wheat
 1|gilliflower
 1|gentian
@@ -177,20 +178,18 @@
 1|columbine
 1|cloves
 1|cherries
-1|chauches
+1|chauchés
 1|carnations
 1|carnation
 1|caper plant
-1|calf's foot
+1|calf’s foot
 1|cabbage
 1|burdock
-1|bulbous plants
 1|broom flower
 1|broom
 1|bramble
-1|box wood
-1|berries
 1|baillard
+1|baccis juniperi
 1|aspic
 1|arum
 1|apples
@@ -200,7 +199,6 @@
 1|almond tree
 1|alberge
 1|Willow
-1|Visme
 1|Vine
 1|Strawberries
 1|Skirret
@@ -214,12 +212,13 @@
 1|Pastel woad
 1|Pansies
 1|Palma christi
+1|Osier
 1|Orberé grain
 1|Orange trees
 1|Olives
 1|Olive trees
 1|Mericotons
-1|Garden lilly
+1|Garden lily
 1|Daisies
 1|Carnation
 1|Brazilwood

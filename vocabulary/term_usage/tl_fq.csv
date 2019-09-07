@@ -1,16 +1,16 @@
-317|moule
+318|moule
 132|moules
-96|chassis
-50|pinceau
+97|chassis
+51|pinceau
 45|crusol
 39|mabre
 38|four
 27|pile
-27|mortier
 27|costeau
+26|pot
+26|mortier
 26|forge
 26|baston
-25|pot
 25|molle
 25|chandelle
 23|os
@@ -32,12 +32,12 @@
 12|esponge
 12|doigts
 12|creuset
-12|bouteille
+12|charbon
 11|regle
 11|plume
 11|four a vent
 11|fil de fer
-11|charbon
+11|bouteille
 10|souflet
 10|ongle
 10|main
@@ -51,7 +51,6 @@
 9|luth
 9|lute
 9|lanterne
-9|grille
 9|escuelle
 9|broisse
 9|bouteille de verre
@@ -64,10 +63,12 @@
 8|compas
 7|verre
 7|tuyau
+7|tuelle
 7|plane
 7|planche
 7|molles
 7|marbre
+7|grille
 7|filet
 7|espingle
 7|dent
@@ -135,7 +136,6 @@
 4|cotton
 4|cordeau
 4|cloche
-4|ciseaulx
 4|cheville
 4|chapeau
 4|cercle
@@ -147,7 +147,6 @@
 4|ancrou
 4|Lute
 3|vibrequin
-3|tuelle
 3|tine
 3|terrine
 3|tables
@@ -181,6 +180,7 @@
 3|dan de loup ou de chien
 3|crusols
 3|creusol
+3|ciseaulx
 3|chevilles de fer
 3|chameau
 3|boisseau
@@ -253,6 +253,7 @@
 2|grande boicte
 2|gand
 2|fœille
+2|fumier
 2|fouye
 2|fourneau a vent
 2|filets
@@ -263,6 +264,7 @@
 2|estamine
 2|esmery
 2|esgrusouer
+2|entredeulx dardille
 2|eguille
 2|drappeau
 2|desgrusouer
@@ -302,6 +304,7 @@
 2|Pinceaulx
 2|Moule
 2|Mortiers
+2|Chassis
 2|Chandelles
 1|œil
 1|virons de faiseur de roues
@@ -335,6 +338,7 @@
 1|tuile ou palle chaulde
 1|tuile a crochet
 1|tuiaulx de plume
+1|tuelles
 1|trusseaulx
 1|truelle
 1|tripoly de bretaigne
@@ -445,19 +449,18 @@
 1|pot quarre
 1|pot destain
 1|pot de terre verny
-1|pot de leaue des orfevres
 1|portepiece
 1|porte piece ronde
 1|porte piece
 1|pone pleine deau
-1|pone ou ung coin de terre plein deau
+1|pone ou ung cos de terre plein deau
 1|ponce pulverisee
 1|pointes de bois
 1|pointe dun fil de fer chault
 1|pointe de fer
 1|pointe
 1|poinctes dhalebarde
-1|poinctes delicates de fil dec_114r_02 cist cordes de cistre
+1|poinctes delicates de fil de cist cordes de cistre
 1|poinctes de gros fil de fer chault
 1|poinctes de fil de fer letton
 1|poinctes de fer asses fortettes
@@ -517,7 +520,6 @@
 1|planche ou table solide
 1|planche de boys
 1|planche de bois
-1|plan
 1|piquet
 1|piques avecq des soliveaulx
 1|pippe
@@ -615,6 +617,7 @@
 1|ongle du poulce droict
 1|moulle de cuivre
 1|moulins deau
+1|moulins
 1|moulin de moustarde
 1|moulets
 1|moules recuits
@@ -649,7 +652,7 @@
 1|mortier de verre espes
 1|mortier de ver f acier
 1|mortier de pierre
-1|mortier de metal ou de fer
+1|mortier de metal ou de fer pour le mieulx
 1|mortier de cuivre
 1|mortier de bois
 1|mortier dacier
@@ -659,12 +662,12 @@
 1|mole
 1|modelle en papier
 1|modelle de bois
-1|mo4ule
 1|mirouers
 1|mirouer de cristalin
 1|mirouer de cristal
 1|meschant linge
 1|medaille de relief
+1|mects a pestrir
 1|matteras
 1|matrices
 1|matras
@@ -752,10 +755,12 @@
 1|grands taraires
 1|grands mortiers
 1|grandes presses de bois faictes a vis
+1|grande bouteille
 1|grand doigt
 1|grand chaulderon
 1|grand chassis
 1|grand boite
+1|grais
 1|gouge
 1|godet
 1|gluons
@@ -772,7 +777,6 @@
 1|fœille de papier blanc
 1|fœille de papier
 1|fusil
-1|fumier
 1|foyer
 1|fours de barbiers
 1|fourneau rond
@@ -788,8 +792,8 @@
 1|four en quarre
 1|four du tuilier
 1|four couvert
-1|four a ventde souflets
 1|four a vent souflets
+1|four a vent de souflets
 1|four a souflets
 1|four a pain
 1|four a boys
@@ -846,7 +850,7 @@
 1|escuelle de terre ou les paysans mangent leurs souppes
 1|escuelle a oreille
 1|escaille
-1|entredeulx
+1|entredeux dardille
 1|entre deulx dardille
 1|entonnouer de fer blanc
 1|engin de petits bastons en croix
@@ -865,7 +869,6 @@
 1|desgrusoue
 1|demy molle
 1|demy mole
-1|dardille
 1|dant de loup
 1|cuyvre
 1|cuve des tinturiers
@@ -889,7 +892,7 @@
 1|crusole
 1|croye seiche
 1|croye
-1|croisetc_002v_05 couvert dun aultre bien lute qui ait un trou dans le hault
+1|croiset couvert dun aultre bien lute qui ait un trou dans le hault
 1|crochet
 1|crible faict de fisselles
 1|creuset creux
@@ -927,13 +930,14 @@
 1|colle
 1|coissins de plume
 1|coissinet
-1|coisinet c_152v_01 de cuir
+1|coisinet de cuir
 1|cofre
 1|cochiaro
 1|cloux
 1|clous
 1|clochettes
 1|cloche de boys
+1|cisellets
 1|ciselets cranes
 1|ciseaux
 1|chose qui soubstiene
@@ -952,7 +956,7 @@
 1|charbons allumes
 1|charbons
 1|charbon nouveau
-1|charbon allume
+1|charbon chault
 1|chandellier
 1|chandelle de suif
 1|chandelle de cire
@@ -1071,6 +1075,7 @@
 1|Lutte
 1|Limes
 1|Lanterne
+1|Grais
 1|Fourchette de fer faicte en forme de tenaille de la haulteur dun homme
 1|Four a vent
 1|Four a souflets
@@ -1081,7 +1086,6 @@
 1|Cousteau
 1|Ciseller
 1|Ciseler
-1|Chassis
 1|Broisses
 1|Bougie
 1|&amp; forgees tanvres

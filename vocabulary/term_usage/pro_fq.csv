@@ -1,5 +1,5 @@
 28|orfevres
-19|fondeurs
+18|fondeurs
 15|painctres
 10|roy
 9|verriers
@@ -15,6 +15,7 @@
 4|imprimeurs
 4|fourbisseur
 4|artiste
+3|sarruriers
 3|pionniers
 3|maistres
 3|canoniers
@@ -27,9 +28,7 @@
 2|vitrier
 2|tondeur
 2|scribes
-2|sarruriers
 2|riches
-2|quiterniers
 2|pionners
 2|painctre
 2|orfevre
@@ -43,6 +42,7 @@
 2|courroieur
 2|commun
 2|cavallerie
+2|barbiers
 2|apothiquaires
 2|Pintiers
 2|Pintier
@@ -66,6 +66,8 @@
 1|rustiques
 1|rustique
 1|royne mere
+1|quiterniers
+1|quiternier
 1|quadraniers
 1|preneurs descrevisses
 1|pouldriers
@@ -149,7 +151,6 @@
 1|blanchisss
 1|bimbalotiers
 1|bergiers
-1|barbiers
 1|ayes quelquun qui chante
 1|autheurs
 1|aultres qui travaillent aulx champs
