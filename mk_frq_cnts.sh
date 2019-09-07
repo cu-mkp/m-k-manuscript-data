@@ -1,6 +1,6 @@
 #! //bin/bash
 
-ELEMENTS="al bp cn def env m md ms mu pa pl pn pro sn tl tmp wp"
+ELEMENTS="al bp cn df env m md ms mu pa pl pn pro sn tl tmp wp"
 
 rm term_usage/term_cnts.txt 
 
