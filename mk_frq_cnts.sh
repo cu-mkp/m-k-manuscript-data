@@ -2,7 +2,7 @@
 
 ELEMENTS="al bp cn df env m md ms mu pa pl pn pro sn tl tmp wp"
 
-rm term_usage/term_cnts.txt 
+rm vocabulary/term_usage/term_cnts.txt 
 
 for ELEMENT in $ELEMENTS
 
