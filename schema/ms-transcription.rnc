@@ -71,6 +71,7 @@ e.figure =
     a.id?,
     a.margin?,
     a.render?,
+    a.size?,
     attribute link { xsd:anyURI }?,
     (m.phrase
      | element caption { (text | m.phrase)+ })+
@@ -172,6 +173,10 @@ a.margin =
 
 ## Margin rendition: Instructions to cue the proper rendition of the height and width  a margin block. Valid values are: "tall", "wide", and "extra-wide"
 a.render = attribute render { ("tall" | "wide" | "extra-wide")? }
+# size
+
+## Image size: Instructions to cue the proper rendition of the size of an image. Valid values are: "x-small", "small", "medium", and "large"
+a.size = attribute size { ("x-small" | "small" | "medium" | "large")? }
 # continues
 
 ## cont (continues): An attribute indicating the parent block continues from another page 

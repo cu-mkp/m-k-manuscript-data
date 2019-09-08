@@ -103,6 +103,9 @@
         <ref name="a.render"/>
       </optional>
       <optional>
+      <ref name="a.size"/>
+      </optional>
+      <optional>
         <attribute name="link">
           <data type="anyURI"/>
         </attribute>
@@ -302,6 +305,21 @@
           <value>tall</value>
           <value>wide</value>
           <value>extra-wide</value>
+        </choice>
+      </optional>
+    </attribute>
+  </define>
+  
+  <!-- size -->
+  <define name="a.size">
+    <a:documentation>Image size: Instructions to cue the proper rendition of the size of an image. Valid values are: "x-small", "small", "medium", and "large"</a:documentation>
+    <attribute name="size">
+      <optional>
+        <choice>
+          <value>x-small</value>
+          <value>small</value>
+          <value>medium</value>
+          <value>large</value>
         </choice>
       </optional>
     </attribute>
