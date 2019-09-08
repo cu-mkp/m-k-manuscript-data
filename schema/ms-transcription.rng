@@ -310,7 +310,7 @@
     </attribute>
   </define>
   
-  <!-- render -->
+  <!-- size -->
   <define name="a.size">
     <a:documentation>Image size: Instructions to cue the proper rendition of the size of an image. Valid values are: "x-small", "small", "medium", and "large"</a:documentation>
     <attribute name="size">

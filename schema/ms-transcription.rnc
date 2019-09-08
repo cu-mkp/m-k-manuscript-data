@@ -173,7 +173,7 @@ a.margin =
 
 ## Margin rendition: Instructions to cue the proper rendition of the height and width  a margin block. Valid values are: "tall", "wide", and "extra-wide"
 a.render = attribute render { ("tall" | "wide" | "extra-wide")? }
-# render
+# size
 
 ## Image size: Instructions to cue the proper rendition of the size of an image. Valid values are: "x-small", "small", "medium", and "large"
 a.size = attribute size { ("x-small" | "small" | "medium" | "large")? }
