@@ -70,7 +70,7 @@ au fœu</add></ab>
 
 <div id="p106v_2" continued="yes">
 
-<head><m>Plastre</m><comment rid="c_106v_07"/></head>
+<head margin="left-top"><m>Plastre</m><comment rid="c_106v_07"/></head>
 
 <ab margin="left-top">
 
@@ -128,7 +128,7 @@ pour ouvrage<lb/>
         
 exquis</ab>
     
-<ab margin="left-middle">
+<ab margin="left-top" render="tall">
 
 Il fault quil<lb/>
         
@@ -192,9 +192,9 @@ l<m>or</m> Cest celuy qui estant<lb/>
         
 mesle parmy le <m>sable</m> le recoit &amp; le contient en sa
 chaleur<hr/></ab>
+
+
 <ab margin="left-bottom" render="extra-wide">
-
-
 
 <mark>#</mark><comment rid="c_106v_03"/> demeure recuit &amp;
 <del>plus</del><lb/>

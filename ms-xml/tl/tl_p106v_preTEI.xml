@@ -49,7 +49,7 @@ fire better.</add>
 
 <div id="p106v_2" continued="yes">
    
-<head><m>Plaster</m><comment rid="c_106v_07"/></head>
+<head margin="left-top"><m>Plaster</m><comment rid="c_106v_07"/></head>
 
 <ab margin="left-top">
         
@@ -71,7 +71,7 @@ place</env>, if it is not <tmp><env>rainy weather</env></tmp>. But when
 fresh, it is excellent for exquisite work.     
 </ab>
     
-<ab margin="left-middle">
+<ab margin="left-top" render="tall">
 
 It must withstand the fire &amp; turn red like a lit
 <m>charcoal</m>.
