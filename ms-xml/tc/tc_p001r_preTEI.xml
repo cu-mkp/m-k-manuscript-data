@@ -54,7 +54,7 @@ Trompettes voy le livre des funerailles
 
 <ab margin="right-top" render="tall">  
             
-<comment rid="c_001r_66"/><la><pn>Alexander Aphrodisæus</pn><lb/>
+<comment rid="c_001r_66"/><pn>Alexander Aphrodisæus</pn><lb/>
                 
 <pn>Polydorus verg<exp>ilius</exp></pn><lb/>
                 
@@ -66,7 +66,7 @@ Pausanias<lb/>
                 
 Statius Thebaidos<lb/>
                 
-<pn>Servius</pn> in Aeneid<exp>em</exp><lb/>
+<pn>Servius</pn> <la>in Aeneid<exp>em</exp></la><lb/>
                 
 <pn>Macrobius</pn><lb/>
                 
@@ -126,7 +126,7 @@ Strabo<lb/>
                 
 <pn>Cornelius Nepos</pn><lb/>
                 
-<pn>Flavius Vopiscus</pn></la></ab>
+<pn>Flavius Vopiscus</pn></ab>
         
 </div>
 
@@ -142,28 +142,28 @@ Strabo<lb/>
 <ab margin="left-top" render="wide">
 
 
-<la>Vuolfangus lazius<lb/>
+Vuolfangus lazius<lb/>
 
-Petrus appianus Mathemat<exp>icus</exp><lb/>
+Petrus appianus <la>Mathemat<exp>icus</exp></la><lb/>
 
-Ingolstadiensis Comment. <pl>urb. rom.</pl></la>
+<la>Ingolstadiensis Comment. <pl>urb. rom.</pl></la>
 
-<la>Hieronimo Ruscelli<lb/>
+Hieronimo Ruscelli<lb/>
 
 Hermolaus barbarus<lb/>
 
-Angelius Bargæus de <al>aucupio</al> et <al>venatione</al><lb/>
+Angelius Bargæus <la>de <al>aucupio</al> et <al>venatione</al></la><lb/>
 
-Nicolaus Damascenus</la>
+Nicolaus Damascenus
 
-<la>Cares<exp>ariensis</exp><comment rid="c_001r_34"/> de rebus
-persarum<lb/>
+Cares<exp>ariensis</exp><comment rid="c_001r_34"/> <la>de rebus
+persarum</la><lb/>
 
-Isidorus</la>
+Isidorus
 
-<la>Osorius<comment rid="c_001r_35"/><lb/>
+Osorius<comment rid="c_001r_35"/><lb/>
 
-Eupolemus historicus gentilis<lb/>
+Eupolemus <la>historicus gentilis<lb/>
 
 qui de rebus davidis &amp; salomonis<lb/>
 
@@ -205,10 +205,10 @@ et de la <pro><pn>royne mere</pn></pro></ab>
 <ab margin="left-middle" render="wide">
 
 <la><comment rid="c_001r_70"/><al>Aquatilium animalium</al>
-historiæ hypolito<lb/>
+historiæ</la> hypolito<lb/>
 
-salviano typhernate authore <pl>Romæ</pl>
-1554</la></ab>
+salviano <la>typhernate authore <pl>Romæ</pl></la>
+1554</ab>
 
 </div>
 
