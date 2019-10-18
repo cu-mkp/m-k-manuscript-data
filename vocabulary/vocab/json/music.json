@@ -1,0 +1,85 @@
+{
+    "guitar": [
+        {
+        "verbatim_term": "guitar",
+        "entry_id": "p004r_1",
+        "entry_title": "Varnish of spike lavender oil"
+        },
+        {
+        "verbatim_term": "guitar",
+        "entry_id": "p007r_4",
+        "entry_title": "Fish glue or isinglass and mouth glue"
+        }
+    ],
+    "spinet": [
+        {
+        "verbatim_term": "spinet",
+        "entry_id": "p104v_4",
+        "entry_title": "Spinet playing by itself"
+        },
+        {
+        "verbatim_term": "spinet",
+        "entry_id": "p111r_5",
+        "entry_title": "Iron wire"
+        },
+        {
+        "verbatim_term": "spinet",
+        "entry_id": "p156v_1",
+        "entry_title": "Molding a fly"
+        },
+        {
+        "verbatim_term": "spinet",
+        "entry_id": "p157r_5",
+        "entry_title": "Flies"
+        },
+        {
+        "verbatim_term": "spinet",
+        "entry_id": "p165v_1",
+        "entry_title": "Stance of animals"
+        },
+        {
+        "verbatim_term": "spinets",
+        "entry_id": "p112v_1",
+        "entry_title": "For molding Making the arrangement and disposition of the animal"
+        }
+    ],
+    "cittern": [
+        {
+        "verbatim_term": "cittern",
+        "entry_id": "p104v_4",
+        "entry_title": "Spinet playing by itself"
+        },
+        {
+        "verbatim_term": "cittern",
+        "entry_id": "p114r_1",
+        "entry_title": "Second Cast"
+        }
+    ],
+    "mandore": [
+        {
+        "verbatim_term": "mandore",
+        "entry_id": "p112v_1",
+        "entry_title": "For molding Making the arrangement and disposition of the animal"
+        },
+        {
+        "verbatim_term": "mandore",
+        "entry_id": "p113r_1",
+        "entry_title": "Tempering the sand and molding the first cast"
+        },
+        {
+        "verbatim_term": "mandore",
+        "entry_id": "p114r_1",
+        "entry_title": "Second Cast"
+        },
+        {
+        "verbatim_term": "mandore",
+        "entry_id": "p116r_2",
+        "entry_title": "Molding de en noyau with the same sand, wax images or lead medals and suchlike"
+        },
+        {
+        "verbatim_term": "mandore",
+        "entry_id": "p117r_1",
+        "entry_title": "A means of molding flowers and plants"
+        }
+    ]
+}
