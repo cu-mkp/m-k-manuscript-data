@@ -71,7 +71,7 @@ p001r,p001r_5,c_001r_69,X,,,phs,A common type of <i>essai de plume</i> (pen tria
 p001r,p001r_4,c_001r_70,X,,,CAG         phs,"This may have been the first line written on this page, following what is now the last page of the manuscript, fol. 170v. Thus the list of five titles on fol. 170v probably continues with this title.","tc, tcn, tl",,structural,,,false,false
 ,,c_001r_71,,,x,NJR,Herodotus,,,,,,false,false
 p001v,p001v_1,c_001v_01,X,,,?,"There is a gap between this paragraph and the rest of the text, perhaps a later addition.","tc, tcn, tl",,Structural,,,false,false
-p002r,p002r_1,c_002r_01,,,X,?,"Contraction of <i>vitis alba</i>, referring to white briony. See Glossary.","tc, tcn, tl",,Translation,,,true,true
+p002r,p002r_1,c_002r_01,,,X,?,"Contraction of <i>vitis alba</i>, referring to white briony. See glossary.","tc, tcn, tl",,Translation,,,true,true
 p002r,p002r_1,c_002r_02,,,X,CAG,Tyrannius Rufinus Aquileiensis c.354-c.410. rufinus1479,"tc, tcn, tl","review - unchecked?        PHS: ok, if completed",Editorial,,,false,false
 p002r,p002r_1,c_002r_03,,,X,,"Irenaeus c.120-c.200, Asia Minor.","tc, tcn, tl","review - unchecked?            PHS: ok, if complete",,,,false,false
 p002r,p002r_1,c_002r_04,,,X,,"ireneus1534
@@ -129,7 +129,7 @@ p009v,p009v_2,c_009v_03,x,x,x,TT,"While the heading of this entry is in the auth
 ,p160r_1,c_009v_04,,,x,NJR,St Andrew,,,,,,false,false
 p011r,p011r_1,c_011r_01,,,X,TT,"<i>Cendre</i> (""ash""), <i>fleur</i> (""flower""), and <i>le plus subtil</i> (""the subtlest part"") are grades of the pigment azurite.","tc, tcn, tl",,historical,,,true,true
 p012r,p012r_4,c_012r_01,x,x,x,THU,Possibly used for heating towels.,"tc, tcn, tl",,historical,,,false,false
-p012v,p012v_3,c_012v_02,X,X,X,TT,"""Cornaline"" written backwards. According to Cotgrave, ""cornaline"" was used in contemporary English, denoting a flesh-coloured stone. This is likely what we would now call carnelian.","tc, tcn, tl",,structural | historical,,,false,false
+p012v,p012v_3,c_012v_02,X,X,X,TT,"""Cornaline"" written backwards. According to Cotgrave, ""cornaline"" was used in contemporary English, denoting a flesh-coloured stone, which is likely carnelian.","tc, tcn, tl",,structural | historical,,,false,false
 p013r,p013r_2,c_013r_01,x,x,x,THU,Latin: Not good.,"tc, tcn, tl",,Translation,,,false,false
 p013v,p013v_4,c_013v_01,X,x,x,TT,Greek: the swine.,"tc, tcn, tl",,Translation,,,false,false
 p013v,p013v_4,c_013v_02,x,x,x,TT,"""ïon"" is a Latin transliteration of the Greek for ""snake,"" based on 16th-century (modern Greek) pronunciation. Cf., όφις (= modern Greek for snake).","tc, tcn, tl",,Translation,,,false,false
@@ -142,7 +142,7 @@ p015r,p015r_1,c_015r_02,X,X,X,TT,Correction in original: -oubs written over -us,
 p015r,p015r_1,c_015r_03,X,,,TT,The loop of this -s is hatched.,"tc, tcn, tl",,,,,false,false
 p015v,p015v_5,c_015v_01,,,X,TT,"In the sixteenth century, diseases were commonly understood in terms of ""fluxes,"" i.e. movements of liquids or vapours in the body.","tc, tcn, tl",,historical,,,false,false
 p015v,p015v_5,c_015v_02,,,X,TT,"Cf. the well known English proverb: ""You shouldn't put anything in your ear that's smaller than your elbow.""","tc, tcn, tl",,historical,,,false,false
-p015v,p015v_6,c_015v_03,,,X,TT,"Contraction of <i>vitis alba</i>, referring to white briony. See Glossary.","tc, tcn, tl",,historical,,,true,true
+p015v,p015v_6,c_015v_03,,,X,TT,"Contraction of <i>vitis alba</i>, referring to white briony. See glossary.","tc, tcn, tl",,historical,,,true,true
 p015v,p015v_4,c_015v_04,x,x,x,THU,"Discs of wax impressed with the figure of a lamb and blessed at stated seasons by the Pope, used as devotional objects.","tc, tcn, tl",,historical,,,false,false
 p016r,p016r_1,c_016r_01,x,x,x,NJR,"The figure partially intersects the text block, suggesting that it was drawn in advance of at least the end of the main text","tc, tcn, tl",,Structural | Editorial,,,false,false
 p016v,p016v_1,c_016v_01,,,X,TT,"In the early modern period, gonorrhea was understood as an involuntary and pleasureless loss of semen. Hence the catheter-like injection of a liquid medicine into the male urethra.","tc, tcn, tl",,historical,,,false,false
@@ -175,7 +175,7 @@ p024r,p024r_1,c_024r_02,,,X,TT,"Here this probably means brass (cf. Cotgrave who
 p024r,p024r_1,c_024r_03,,,X,TT,Likely a piece of cord soaked in saltpeter.,"tc, tcn, tl",,historical,,,false,false
 p024r,p024r_1,c_024r_04,,,X,TT,"I.e., the shell of the grenade.","tc, tcn, tl",,historical,,,false,false
 p024r,p024r_1,c_024r_05,X,x,x,CAG THU,Correction in original: -e written over -un,"tc, tcn, tl",,editorial,,,false,false
-p024v,p024v_1,c_024v_01,,,X,TT,This is an Italianism in the French spelling.,"tc, tcn, tl",,structural,,,false,false
+p024v,p024v_1,c_024v_01,,,X,TT,<i>artiglerie</i>: an Italianism in the French spelling.,"tc, tcn, tl",,structural,,,true,true
 p027v,p027v_7,c_027v_01,,,X,TT,"Given the weight and size, this was not a handheld musket, but what was known as a wall gun.","tc, tcn, tl",,historical,,,false,false
 p028v,p028v_1,c_028v_01,X,,,TT,Internal cross-reference to a related section five pages ahead; see fols 30r–030v.,"tc, tcn, tl",,structural,p030r_2,,false,false
 p028v,p028v_1,c_028v_02,,,X,TT,"A status conferred by the French king in the Ancien Régime, from the late medieval period onwards, granting privileges and financial aid in exchange for military manpower and taxes. <i>Bonne ville</i> thus usually referred to a city of a certain size and degree of fortification.","tc, tcn, tl",,historical,,,true,true
@@ -187,10 +187,10 @@ p029v,p029v_6,c_029v_01,,,X,TT,"I.e., distilled several times","tc, tcn, tl",,ed
 p030r,p030r_2,c_030r_01,,,X,TT,"<i>Pinte</i> here could refer to a measurement known in English as the French or Parisian pint, which according to Cotgrave was ""somewhat less then a sixt part short of our Quart (for in weight it is about 27 ounces, our Quart 32)""; or to a small pewter vessel.","tc, tcn, tl",,,,,true,true
 p030r,p030r_2,c_030r_03,,,x,TT,"A particular type of potters' clay or earth for making stoneware vessels, or the stoneware vessels themselves.","tc, tcn, tl",,historical,,,false,false
 p031r,p031r_3,c_031r_01,x,x,x,TT,"For more on <i>huile de noix blanche</i> (white walnut oil), see the entry on <i>Huile</i> (oil) on fol. 60r.","tc, tcn, tl",,historical,p060r_3,,true,true
-p031v,p031v_4,c_031v_01,,x,,TT,A technique for painting on glass. See Glossary.,"tc, tcn, tl",,historical,,,false,false
+p031v,p031v_4,c_031v_01,,x,,TT,A technique for painting on glass. See glossary.,"tc, tcn, tl",,historical,,,false,false
 p031v,p031v_4,c_031v_02,,,x,TT,"Here, <i>rocaille</i> likely refers to small beads of glass, which may or may not be colored.","tc, tcn, tl",,historical,,,true,true
-p032r,p032r_1,c_032r_01,,,X,TT,This is known as the raising process.,"tc, tcn, tl",,historical,,,false,false
-p032r,p032r_1,c_032r_02,,,X,TT,This probably refers to the process of planishing.,"tc, tcn, tl",,historical,,,false,false
+p032r,p032r_1,c_032r_01,,,X,TT,A process known as raising.,"tc, tcn, tl",,historical,,,false,false
+p032r,p032r_1,c_032r_02,,,X,TT,Likely refers to the process of planishing.,"tc, tcn, tl",,historical,,,false,false
 p032r,p032r_1,c_032r_03,,,X,TT,"Milan was exporting large quantities of morions to France at this time. In France, they were usually made of two pieces.","tc, tcn, tl",,historical,,,false,false
 p032v,p032v_2,c_032v_01,X,,,TT,The rest of this entry wraps around the heading of the next entry and was probably added at a later time.,"tc, tcn, tl",,structural,,,false,false
 p034r,p034r_3,c_034r_01,,,X,TT,"Play on words (<i>faire tenir quelque chose</i> = ""to make something hold"" or ""to have something held""), does not translate well into English.",tl,,editorial,,,true,true
@@ -215,9 +215,9 @@ p038v,p038v_2,c_038v_03,,,,,"A plant, possibly a sorrel.","tc, tcn, tl",,,,,fals
 ,p038v_4,c_038v_04,,,x,NJR,Saint Paul,,,,,,false,false
 ,p039r_2,c_039r_01,,,x,NJR,Saint Anthoine,,,,,,false,false
 p039v,p039v_1,c_039v_01,,,X,TT,A coin; see glossary.,"tc, tcn, tl",,historical,,,false,false
-p039v,p039v_3,c_039v_02,,,X,TT,perhaps one form in which lake was sold,"tc, tcn, tl",,,,,false,false
+p039v,p039v_3,c_039v_02,,,X,TT,Perhaps one form in which lake was sold,"tc, tcn, tl",,,,,false,false
 p040r,p039v_3,c_040r_01,X,,,TT,The rest of this entry wraps around the heading of the next entry and was probably added at a later time.,"tc, tcn, tl",,structural,,,false,false
-p040v,p040v_3,c_040v_01,,,x,TT,"Here <i>cendrée</i> likely refers to a process of separating metals in ashes. For additional meanings, see Glossary.","tc, tcn, tl",,historical,,,true,true
+p040v,p040v_3,c_040v_01,,,x,TT,"Here <i>cendrée</i> likely refers to a process of separating metals in ashes. For additional meanings, see glossary.","tc, tcn, tl",,historical,,,true,true
 p040v,p040v_2,c_040v_02,x,x,x,TT,"The author-practitioner appears to have made corrections in this entry later on in a lighter ink, and perhaps forgot to cross out <i>vent</i> in this second instance.","tc, tcn, tl",,editorial | structural,,,true,true
 p041r,p041r_1,c_041r_01,X,,,TT,The rest of this entry wraps around the heading of the next entry and was probably added at a later time.,"tc, tcn, tl",,structural,,,false,false
 p041v,p041v_2,c_041v_01,X,,,TT,This text block is in a different ink.,"tc, tcn, tl",,structural,,,false,false
@@ -225,37 +225,38 @@ p041v,p041v_2,c_041v_02,x,x,x,TT,"Likely a variant of the old Occitan <i>vistorn
 p043r,p043r_3,c_043r_01,,,X,TT,"Italian: Take soft tin, half an ounce, melt it in a spoon. Once melted, throw in an ℥ of ☿, mix together. Once cold, grind on porphyry. Next take an ℥ of sal ammoniac, an ℥ of sulfur, the yellowest that may be found, grind both of them. And then mix very well all the aforementioned materials. Next put all together into a [deleted: a pot] glass sublimatorium, hold this over a small fire for an hour & a slightly stronger one for an hour, & a very good fire for an hour, and it will be done. Next, to use it, apply soot black with the glue that painters use to paint, & two or three times, until it is quite black. Next apply a little varnish. Once dry, apply the purpurine <i>a secco</i> with a finger where you want. The more of it you apply, the more beautiful it will be. Next, if you want, apply varnish on top.","tc, tcn, tl",,Translation,,,true,true
 p043r,p043r_1,c_043r_02,x,x,X,TT,ink blot,"tc, tcn, tl",,structural,,,false,false
 p043v,p043v_3,c_043v_01,,,X,TT,"Possibly a breech-loading arquebus, which has a chamber.","tc, tcn, tl",,historical,,,false,false
-p043v,p043v_3,c_043v_02,,,X,TT,This is called a swamped barre.,"tc, tcn, tl",,historical,,,false,false
-p043v,p043v_4,c_043v_03,,,X,TT,"This is called ""wadding"" or a ""patch.""","tc, tcn, tl",,historical,,,false,false
+p043v,p043v_3,c_043v_02,,,X,TT,Known as a swamped barre.,"tc, tcn, tl",,historical,,,false,false
+p043v,p043v_4,c_043v_03,,,X,TT,"Known as a ""wadding"" or a ""patch.""","tc, tcn, tl",,historical,,,false,false
 p043v,p043v_2,c_043v_04,x,x,X,TT,"This entry appears to describe a kind of lampworking technique for making imitation pearls of blown glass, perhaps by blowing talcum powder into a glass bubble as it is blown. ","tc, tcn, tl",,historical,,,false,false
-p044r,p044r_1,c_044r_01,,,X,TT,"Term ""hackbut"" was used interchangeably with ""arquebus"" in the period. Cotgrave also has ""caliver,"" which refers to a small musket.","tc, tcn, tl",,historical,,,false,false
-p044r,p044r_3,c_044r_02,,,X,TT,This is likely suggesting an alternative wadding that will keep the barrel cleaner.,"tc, tcn, tl",,historical | editorial,,,false,false
+p044r,p044r_1,c_044r_01,,,X,TT,"Hackbut: used interchangeably with ""arquebus"" in the period. Cotgrave also has ""caliver,"" which refers to a small musket.","tc, tcn, tl",,historical,,,false,false
+p044r,p044r_3,c_044r_02,,,X,TT,Likely suggesting an alternative wadding that will keep the barrel cleaner.,"tc, tcn, tl",,historical | editorial,,,false,false
 p044v,p044v_1,c_044v_01,,,x,TT,"17 x 100 (i.e., 1700)","tc, tcn, tl",,historical | editorial,,,false,false
 p044v,p044v_1,c_044v_02,x,x,x,TT,Likely refers to the decoction rather than the residue.,"tc, tcn, tl",,historical | editorial,,,false,false
 ,p044v_2,c_044v_03,,,x,NJR,Monsieur de Montorsin,,,,,,false,false
 p045r,p045r_1,c_045r_01,,,X,TT,Paper case containing shot but no powder charge put into the barrel as a whole.,"tc, tcn, tl",,historical,,,false,false
 p045r,p045r_1,c_045r_03,,,X,TT,Likely refers to pieces of shot of a particular shape.,"tc, tcn, tl",,historical | editorial,,,false,false
 p045r,p045r_1,c_045r_04,,,X,TT,"i.e., the breastplate","tc, tcn, tl",,historical ,,,false,false
-p045r,p045r_1,c_045r_05,x,x,x,TT,Indication of the marginal note which was likely added at later time.,,,editorial | structural,,,false,false
+p045r,p045r_1,c_045r_05,x,x,x,TT,"Indication of the marginal note, which was likely added at a later time.",,,editorial | structural,,,false,false
 p046r,p046r_4,c_046r_01,,,X,TT,"NB: gout was not considered a discrete disease, but rather a concentration of morbid humors and materials in various parts of the body.","tc, tcn, tl",,historical,,,false,false
 p046r,p046r_5,c_046r_02,x,x,X,CAG THU,Correction in original: -s written over -es,"tc, tcn, tl",,editorial,,,false,false
 p046v,p046v_6,c_046v_01,,X,X,TT,"i.e., oil of sulfur, which is discussed in the preceding entries","tc, tcn, tl",,structural | editorial,,,false,false
-p046v,p046v_2,c_046v_02,x,x,X,TT,Probably refers to leather from the neck of the animal.,"tc, tcn, tl",,historical,,,false,false
+p046v,p046v_2,c_046v_02,x,x,X,TT,Likely refers to leather from the neck of the animal.,"tc, tcn, tl",,historical,,,false,false
 p047r,p047r_1,c_047r_01,X,,,TT,"NB: this word is followed by an incomplete letter, probably the ""d"" of <i>d'huile</i> in the following line.","tc, tcn, tl",,structural,,,true,true
 p047r,p047r_4,c_047r_02,,,x,TT,"A particular type of potters' clay or earth for making stoneware vessels, or the stoneware vessels themselves.","tc, tcn, tl",,historical,,,false,false
 p047r,p047r_4,c_047r_03,x,x,x,,"<i>Laveure</i>: residue specifically of gold or silver recovered from ashes, sweepings, and crucibles in a goldsmith's workshop.","tc, tcn, tl",,historical | translation,,,true,true
 p048r,p048r_2,c_048r_01,,,X,TT,"According to Cotgrave, this could denote either an unspecified ""precipitate"" or ""the red, poisonous, corroding powder of burned quicksilver."" The latter could refer to vermillion, i.e., precipitated mercuric sulfide, also used as a red pigment.","tc, tcn, tl",,historical,,,false,false
-p048v,p048v_2,c_048v_01,X,,,TT,This addition is oriented 90 degrees counter-clockwise to the main text.,"tc, tcn, tl",,structural,,,false,false
-p049r,p049r_1,c_049r_01,,,X,TT,The Poncet were a family of artillery and bell founders active at the Toulouse arsenal between 1560 and 1640. See also f. 17v.,"tc, tcn, tl",,historical,,,false,false
+p048v,p048v_2,c_048v_01,X,,,TT,This marginal text is oriented 90 degrees counter-clockwise to the main text.,"tc, tcn, tl",,structural,,,false,false
+p049r,p049r_1,c_049r_01,,,X,TT,The Poncet were a family of artillery and bell founders active at the Toulouse arsenal between 1560 and 1640. They are mentioned on fols. 17v and 49r.,"tc, tcn, tl",,historical,,,false,false
 p049r,p049r_1,c_049r_03,X,,,TT,The rest of this entry wraps around the heading of the next entry and was probably added at a later time.,"tc, tcn, tl",,structural,,,false,false
 p049r,p049r_2,c_049r_04,X,,,TT,The rest of the entry shows a shift in the handwriting and may have been added at a later time.,"tc, tcn, tl",,structural,,,false,false
 p049v,p049v_1,c_049v_02,X,,,TT,The rest of the entry shows a shift in the handwriting and may have been added at a later time.,"tc, tcn, tl",,structural,,,false,false
 p049v,p049v_3,c_049v_05,x,X,x,TT,"Awkward syntax in the original, perhaps suggesting an unfinished thought.","tc, tcn, tl",,structural | editorial,,,false,false
-p049v,p049v_3,c_049v_06,x,x,x,TT,"""Gaillardise"" usually connotes joy, vigorous health, and sensuality; here the term may relate to the Middle French ""galle"" (f.) and its association with parasitic growths and skin conditions.","tc, tcn, tl",,historical,,,false,false
-p049v,p049v_2,c_049v_08,x,x,x,TT,Here probably referring to the use of the lead grains as shot.,"tc, tcn, tl",,editorial | historical,,,false,false
+p049v,p049v_3,c_049v_06,x,x,x,TT,"<i>Gaillardise</i> usually connotes joy, vigorous health, and sensuality; here the term may relate to the Middle French <i>galle</i> (f.) and its association with parasitic growths and skin conditions.","tc, tcn, tl",,historical,,,true,true
+p049v,p049v_2,c_049v_08,x,x,x,TT,Likely referring to the use of the lead grains as shot.,"tc, tcn, tl",,editorial | historical,,,false,false
 ,p049v_3,c_049v_09,,,x,NJR,Sainct Michel / Michaelmas,,,,,,false,false
-p050v,p050v_1,c_050v_01,x,x,x,TT,"Owsell or similar bird. See Paul J. Smith, “Passer Solitarius: Tribulations of a Lonely Bird in Poetry and Natural History, from Petrarch to Buffon,” in <i>Solitudo: Spaces, Places, and Times of Solitude in Late Medieval and Early Modern Cultures</i>, <i>Intersections</i> 56 (Leiden: Brill, 2018), 531–60, https://doi.org/10.1163/9789004367432_018.","tc, tcn, tl",,historical,,,true,true
-p052r,p052r_1,c_052r_01,,,x,TT,"Here <i>chaulx</i>, which could be read as referring to ""chalk"" or ""lime,"" was then corrected to change the x to a t, changing the meaning to ""hot."" <i>Chaulx vive</i> (quicklime) was sometimes added to horse dung to make it hotter.","tc, tcn, tl",,structural | historical,,,true,true
+p050v,p050v_1,c_050v_01,x,x,x,TT,"<i>passe solitaire</i>: owsell or similar bird. See Paul J. Smith, “Passer Solitarius: Tribulations of a Lonely Bird in Poetry and Natural History, from Petrarch to Buffon,” in <i>Solitudo: Spaces, Places, and Times of Solitude in Late Medieval and Early Modern Cultures</i>, <i>Intersections</i> 56 (Leiden: Brill, 2018), 531–60, https://doi.org/10.1163/9789004367432_018.","tc, tcn, tl",,historical,,,true,true
+p052r,p052r_1,c_052r_01,,,x,TT,"Correction in original: -t written over -x
+Here <i>chaulx</i>, which could be read as referring to ""chalk"" or ""lime,"" was then corrected to change the x to a t, changing the meaning to ""hot."" <i>Chaulx vive</i> (quicklime) was sometimes added to horse dung to make it hotter.","tc, tcn, tl",,structural | historical,,,true,true
 p052r,p052r_1,c_052r_02,x,x,x,CAG THU,Correction in original: -t written over -x,"tc, tcn, tl",,editorial,,,false,false
 ,p052r_1,c_052v_01,,,x,NJR,Sainct Jehan,,,,,,false,false
 p053v,p053v_1,c_053v_01,,,X,TT,"Latin: Girolamo Vida of Cremona, Bishop of Alba, wrote a poem on the nature of silkworms. vida cremonensis de bombice libri  vida1534","tc, tcn, tl",PHS checked,structural | translation,,,false,false
@@ -283,7 +284,7 @@ p058r,p057v_2,c_058r_04,X,x,x,"THU, TT","This paragraph resumes in the author-pr
 p058v,p058v_3,c_058v_03,X,,,THU,Uncertain transcription due to strikethrough.,"tc, tcn, tl",,Editorial | Conjectural,,,false,false
 p058v,p058v_5,c_058v_04,X,X,X,THU,"""fault"" corrected over ""font""","tc, tcn, tl",review  PHS: ok,Editorial,,,false,false
 p059r,p059r_1,c_059r_01,X,X,,THU,This final sentence wraps tightly around the heading of the next entry.,"tc, tcn, tl",,Structural,,,false,false
-p059r,p059r_1,c_059r_02,,,x,TT,"It is likely that ""Acre"" qualifies both ""ash"" and ""<i>azur</azur>"" and may refer to the modern-day city of Acre.","tc, tcn, tl",,,,,true,false
+p059r,p059r_1,c_059r_02,,,x,TT,"It is likely that ""Acre"" qualifies both ""ash"" and ""<i>azur</i>"" and may refer to the modern-day city of Acre.","tc, tcn, tl",,,,,true,true
 p060r,p060r_3,c_060r_01,X,X,,THU            phs,"The author-practitioner (hand A) used a darker, brown ink to reinforce this heading, which was originally written in a lighter and greyish ink.","tc, tcn, tl",,Structural,,,false,false
 p061r,p061r_2,c_061r_03,,X,,THU,"Added to the beginning of the line, slightly in the margin.","tc, tcn, tl",,Structural,,,false,false
 p061v,p061v_2,unanchored,,X,,PHS,For enhancing sight and here apparently magnifying. ,"tc, tcn, tl",review    PHS: ok,Historical,,,false,false
@@ -328,7 +329,7 @@ p077r,p077r_1,c_077r_02,x,x,x,NJR TT,Here the writing switches back to the autho
 p077v,p077v_3,c_077v_03,,,x,NJR,"The scribe (hand D) seems to have difficulty understanding the word ""sandarac,"" as if he heard sang (blood) de Drac or da Rac (the devil's shout). Also seen on 78r and 79v. In context, this is sandarac.","tc, tcn, tl",,Editorial,p078r_1 | p079v_1,,false,false
 p077v,p077v_1,c_077v_04,x,x,x,TT,"This page is part of a longer stretch (fols 77r–79v) in a different hand from the main one (hand D, a semi-calligraphic French script, likely the hand of a scribe; see also fols 57r–58r and  73r–76v). ",repeated on fol. 78r–79v,review           PHS: ok,handshift,,,false,false
 p078r,p078r_1,c_078r_01,,,x,NJR,"The scribe (hand D) seems to have difficulty understanding the word ""sandarac,"" as if he heard sang (blood) de Drac or da Rac (the devil's shout). Also seen on 77v and 79v. In context, this is sandarac.","tc, tcn, tl",,Editorial,p077v_3 | p079v_1,,false,false
-p078r,p078r_1,c_078r_02,X,x,x,PHS,This is the second time the scribe (hand D) wrote <i>trois</i> for <i>bois</i>. Might this indicate a noisy workshop environment as the scribe took dictation?,"tc, tcn, tl",,Editorial,,,true,true
+p078r,p078r_1,c_078r_02,X,x,x,PHS,This is the second time the scribe (hand D) writes <i>trois</i> for <i>bois</i>. Might this indicate a noisy workshop environment as the scribe took dictation?,"tc, tcn, tl",,Editorial,,,true,true
 p078r,p078r_1,c_078r_03,X,x,x,THU CAG,Correction in original: de Rac written over de Raie   ,"tc, tcn, tl",,Editorial,,,false,false
 p079r,p079r_1,c_079r_01,,x,x,NJR,"The scribe (hand D) left a gap, then apparently filled it in with <i>moullée du grais</i> and three short horizontal strokes, perhaps because there was text the scribe could not understand and omitted at first, then perhaps later also striking out the additional space.","tc, tcn, tl",,Editorial | Structural,,,true,true
 ,,c_079r_02,,,x,NJR,God,,,,,,false,false
@@ -375,7 +376,7 @@ p094r,p094r_1,c_094r_08,,,x,NJR,Meaning hilt,"tc, tcn, tl",,Editorial,,,false,fa
 p094r,p094r_1,c_094r_09,,,x,NJR,"The <i>pontet</i> likely port ring or side ring) referenced in the main text is not visible in the figure because the view shown is the back of the sword, whereas the ring is only at the front. The depicted side is called the inner guard because it faces the body when one holds the sword.","tc, tcn, tl",,Editorial,,,true,true
 p094r,p094r_1,c_094r_10,,,x,NJR,These are called the arms of the guard in modern terminology.,"tc, tcn, tl",,Editorial,,,false,false
 p094r,p094r_1,c_094r_11,,,x,NJR,Likely what is now called the port ring or side ring.,"tc, tcn, tl",,Editorial,,,false,false
-p094r,p094r_1,c_094r_13,,,x,NJR,"This is the tang, as defined above.","tc, tcn, tl",,Editorial,,,false,false
+p094r,p094r_1,c_094r_13,,,x,NJR,"i.e., the tang","tc, tcn, tl",,Editorial,,,false,false
 p094r,p094r_1,c_094r_14,,,x,NJR,"Likely meaning dogfish skin (as mentioned below), which was used for sword handles.","tc, tcn, tl",,Editorial,,,false,false
 p094r,p094r_1,c_094r_15,,,x,NJR,Probably what is now known as turk's head bindings.,"tc, tcn, tl",,Editorial,,,false,false
 p094r,p094r_1,c_094r_16,,,x,NJR,A common sand shark.,"tc, tcn, tl",,Editorial,,,false,false
@@ -456,9 +457,9 @@ p110r,p110r_3,c_110r_03,,x,,NJR,Presumably days,"tc, tcn, tl",,Editorial,,,false
 p110v,p110v_3,c_110v_03,x,,,NJR        PHS,Sic. Read <i>mects</i>.,tc only,,,,,true,true
 p110v,p110v_1,c_110v_04,x,,,THU CAG,Correction in original: E- written over L-,"tc, tcn, tl",,,,,false,false
 p111r,p111r_4,c_111r_01,x,x,x,THU CAG,Correction in original: -elle written over -il,"tc, tcn, tl",,,,,false,false
-p111v,p111v_5,c_111v_01,x,,,NJR,"An insertion line shows that this is either an addition or comment into the main text, at ""Si ton plastre.""","tc, tcn, tl",,Structural,,,false,false
+p111v,p111v_5,c_111v_01,x,,,NJR,"An insertion line above ""Si ton plastre"" indicates where in the main text the marginal comment is relevant.","tc, tcn, tl",,Structural,,,false,false
 p111v,p111v_2,c_111v_02,x,x,x,CAG THU,Correction in original: -o- written over -e-,"tc, tcn, tl",,Editorial,,,false,false
-p111v,p111v_2,c_111v_03,x,,,NJR,An insertion line shows that an addition or comment on this text is made in the margin.,"tc, tcn, tl",,,,,false,false
+p111v,p111v_2,c_111v_03,x,,,NJR,An insertion line from the main text indicates where the marginal comment is relevant.,"tc, tcn, tl",,,,,false,false
 p111v,p111v_1,c_111v_04,x,x,x,THU,Compare this recipe for sal ammoniac water to that on f. 118v.,"tc, tcn, tl",,,,,false,false
 p112r,p112r_2,c_112r_01,,,x,NJR,It is unclear to which entry (or entries) this refers.,"tc, tcn, tl",,Editorial | Structural,,,false,false
 p112r,p112r_3,c_112r_02,x,,,NJR,See corresponding mark in the margin.,"tc, tcn, tl",,Structural,,,false,false
@@ -512,8 +513,8 @@ p128r,p128r_1,c_128r_02,x,x,x,,Correction in original: -e written over -il,"tc, 
 p128r,p128r_1,c_128r_03,x,x,x,THU,Correction in original: -a written over -e,"tc, tcn, tl",,Editorial,,,false,false
 p129r,p129r_3,c_129r_01,,,X,NJR,The French <i>nature</i> probably refers here to genitals. ,"tc, tcn, tl",,Translation | Editorial,,,true,true
 p129v,p129v_3,c_129v_02,x,x,,NJR,The note is framed to offset it from the heading and body text,"tc, tcn, tl",,Structural,,,false,false
-p130r,p130r_1,c_130r_02,,X,,NJR,This note continues into the left margin which begins with an illustration of the iron wire,"tc, tcn, tl",,Editorial | Structural,,,false,false
-p130r,p130r_1,c_130r_03,x,x,x,NJR,This is a continuation of the added note about iron wire in the body text,"tc, tcn, tl",,Editorial | Structural,,,false,false
+p130r,p130r_1,c_130r_02,,X,,NJR,"This addition is expanded upon in the left margin, where the author-practitioner illustrates the iron wire.","tc, tcn, tl",,Editorial | Structural,,,false,false
+p130r,p130r_1,c_130r_03,x,x,x,NJR,This expands upon the addition about iron wire in the body text.,"tc, tcn, tl",,Editorial | Structural,,,false,false
 p130v,p130v_1,c_130v_01,x,x,x,NJR,"""Feroit rien"" (""would do nothing"") are written in the left margin but only make sense as a continuation of the interlinear addition on the previous line.","tc, tcn, tl",,Editorial | Structural,,,false,false
 p132v,p132v_2,c_132v_01,x,x,x,THU,Correction in original: -uy written over -a,"tc, tcn, tl",,Editorial,,,false,false
 p135r,p135r_1,c_135r_01,x,x,x,NJR,"""Couleur"" here refers not to ""color"", but to a flux or liquefying agent which makes molten metals flow more easily. From the verb ""couler"" (to flow)","tc, tcn, tl",,Translation | Editorial,,,false,false
@@ -556,7 +557,7 @@ p152r,p152r_1,c_152r_02,x,,,NJR,Word smudged,"tc, tcn, tl",,Handshift,,,false,fa
 p152v,p152v_1,c_152v_02,,,x,NJR,"Literally ""a small beak,"" a tool used in metalworking, here as an attachment, probably a vise, for a goldsmith's table ""where one files.""","tc, tcn, tl",,Translation,,,false,false
 p153r,p153r_1,c_153r_01,x,,,NJR,This marginal note appears to be in a different ink from the rest of the page.,"tc, tcn, tl",,Handshift,,,false,false
 p153r,p153r_2,c_153r_02,x,x,x,NJR,Word obscured by inkblot,"tc, tcn, tl",,Structural | Handshift,,,false,false
-p153r,p153r_1,c_153r_03,x,x,x,PHS,"I.e., the pattern or model. In this case it is of a copper alloy (<i>metal</i), thus will not be melted by tin and lead, which have lower melting points.","tc, tcn, tl",,Translation | Historical,,,true,false
+p153r,p153r_1,c_153r_03,x,x,x,PHS,"I.e., the pattern or model. In this case it is of a copper alloy (<i>metal</i>), thus will not be melted by tin and lead, which have lower melting points.","tc, tcn, tl",,Translation | Historical,,,true,true
 p154r,p154r_3,c_154r_01,x,,,NJR,All notes in the left margin appear to be in a darker ink.,"tc, tcn, tl",,Handshift,,,false,false
 p154r,p154r_4,c_154r_02,x,,,NJR,"Ink stain on ""& letton""","tc, tcn, tl",,Handshift,,,false,false
 p154v,p154v_3,c_154v_01,x,,,NJR,"The addition appears to be in a darker ink similar to the addition in the main text, perhaps suggesting they were written at the same time.","tc, tcn, tl",,Handshift,,,false,false
@@ -572,7 +573,7 @@ p157r,p157r_3,c_157r_01,x,x,x,NJR,The underlining separates these words from the
 p157r,p157r_4,c_157r_02,x,,,,"Ink stains over ""le gecter"" and ""fondeurs.""","tc, tcn, tl",,,,,false,false
 p157r,p157r_4,c_157r_04,x,x,x,NJR,"May read <i>masselotte</i> from <i>machelote</i>, an ""excess reserve of liquid metal for filling the mold,"" according to TLFi. By 1704, the word is used to designate ""superfluous metal that remains in the mold after casting a cannon.""","tc, tcn, tl",,,,,true,true
 p157v,p157v_3,c_157v_01,x,,,NJR,"Uncertain. Could also be m<exp>aistr</exp>e, which doesn't make more sense.",THU wrote to MHS to check,review,,,,false,false
-p157v,p157v_3,c_157v_02,x,x,x,NJR,"This is a separate entry added at the bottom of the page, across the margin, and in a different, super-cursive hand (hand A', see also f. 2v). ","tc, tcn, tl",review         PHS:ok,Handshift,,,false,false
+p157v,p157v_3,c_157v_02,x,x,x,NJR,"This separate entry is added at the bottom of the page, across the margin, and in a different, super-cursive hand (hand A', see also fol. 2v). ","tc, tcn, tl",review         PHS:ok,Handshift,,,false,false
 p157v,p157v_3,c_157v_03,x,x,x,CAG THU,Correction in original: -t written over -d,"tc, tcn, tl",,Editorial,,,false,false
 p158r,p158r_1,C_158r_01,x,x,,NJR,The large blank space may give clues to authorial intent and composition of the text.,"tc, tcn, tl",,Structural,,,false,false
 p158r,p158r_1,C_158r_02,x,,,NJR,Note in darker ink,"tc, tcn, tl",,Handshift,,,false,false
