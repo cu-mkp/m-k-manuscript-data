@@ -7,7 +7,8 @@ Symbol,Meaning,Unicode reference
 ☾,Last quarter moon (silver?),http://unicode-table.com/en/263E/
 ♀/♀,Copper (Venus),http://unicode-table.com/en/2640/ [female sign]
 ♁,Antimony,http://unicode-table.com/en/2641/ [earth]
-X,Insertion mark,
-+,Insertion mark,
-#,Insertion mark,
+X, mark,
++, mark,
+#, mark,
+|, mark
 🝋,Powder (Alchem.sign),http://unicode-table.com/en/1F74B/
