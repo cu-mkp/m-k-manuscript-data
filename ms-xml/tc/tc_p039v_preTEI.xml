@@ -3,7 +3,7 @@
 
 
 
-<div id="p039v_1">
+<div id="p039v_1" categories="painting">
 
 <head><m>Esmail</m></head>
 
@@ -25,7 +25,7 @@ que l<m>argent fin</m> ou l<m>or de <cn>pistolet</cn></m></ab>
 
 </div>
 
-<div id="p039v_2">
+<div id="p039v_2" categories="painting;glass process">
 
 <head>Couleurs sur <m>verre</m><lb/>
 
@@ -39,7 +39,7 @@ mastic</m></ab>
 
 </div>
 
-<div id="p039v_3" continued="yes">
+<div id="p039v_3" categories="painting;glass process" continued="yes">
 
 <head>Trasser sur le <m>verre</m> quelque<lb/>
 

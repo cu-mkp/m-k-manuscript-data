@@ -3,7 +3,7 @@
 
 
 
-<div id="p085v_1">
+<div id="p085v_1" categories="casting">
 
 <head><pro>Fondeur</pro></head>
 
@@ -29,7 +29,7 @@ petit ouvraige</ab>
 
 </div>
 
-<div id="p085v_2">
+<div id="p085v_2" categories="tool">
 
 <head><tl>Mortiers</tl></head>
 
@@ -59,7 +59,7 @@ de<lb/>
 
 </div>
 
-<div id="p085v_3">
+<div id="p085v_3" categories="casting">
 
 <head><m>Sable de <env>mine</env></m></head>
 
@@ -81,7 +81,7 @@ avecq du <m>tripoly</m> ou<lb/>
 <m>feultre brusle</m></ab>
 
 </div>
-<div id="p085v_4" continued="yes">
+<div id="p085v_4" categories="casting" continued="yes">
 
 <head><m>Sables experimentes</m></head>
 

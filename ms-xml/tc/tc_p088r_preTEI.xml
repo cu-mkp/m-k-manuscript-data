@@ -3,7 +3,7 @@
 
 
 
-<div id="p088r_1">
+<div id="p088r_1" categories="cultivation">
 
 <head><pa><oc>Visme</oc></pa></head>
 
@@ -18,7 +18,7 @@ plus hault</ab>
 
 </div>
 
-<div id="p088r_2">
+<div id="p088r_2" categories="tool">
 
 <head><tl>Mortiers</tl></head>
 
@@ -34,7 +34,7 @@ fons des <tl>grands mortiers</tl> de <m>cuivre fin</m></ab>
 
 </div>
 
-<div id="p088r_3">
+<div id="p088r_3" categories="varnish">
 
 <head><m>Vernis</m></head>
 
@@ -53,7 +53,7 @@ corps<lb/>
 
 </div>
 
-<div id="p088r_4">
+<div id="p088r_4" categories="cultivation">
 
 <head>Hanter</head>
 
@@ -66,7 +66,7 @@ est aussy tortu</ab>
 
 </div>
 
-<div id="p088r_5">
+<div id="p088r_5" categories="household and daily life">
 
 <head><pro>Boulangier</pro></head>
 
@@ -89,7 +89,7 @@ beau</ab>
 
 </div>
 
-<div id="p088r_6">
+<div id="p088r_6" categories="casting">
 
 <head><m>Estain de glace</m></head>
 

@@ -3,7 +3,7 @@
 
 
 
-<div id="p131r_1">
+<div id="p131r_1" categories="casting">
 
 <head><m>Herbes</m> qui sont malaisées<lb/>
 
@@ -17,7 +17,7 @@
 Essay</ab>
 
 </div>
-<div id="p131r_2">
+<div id="p131r_2" categories="casting">
 
 <head>L<exp>ett</exp>re et <m>papier</m> moulé</head>
 
@@ -34,7 +34,7 @@ mouille d’<m>eau de vye,</m> et gecte d’une part &amp; d’aultre.</ab>
 
 </div>
 
-<div id="p131r_3">
+<div id="p131r_3" categories="decorative">
 
 <head>Pour orner des <env>licts</env>, <env>mirouers</env><lb/>
 
@@ -57,7 +57,7 @@ d’<m>orpiment</m><lb/>
 
 </div>
 
-<div id="p131r_4">
+<div id="p131r_4" categories="household and daily life">
 
 <head>Pour bien aprendre un <al>ch<del>ei</del>ien</al><comment rid="c_131r_01"/></head>
 
@@ -76,7 +76,7 @@ aussy.</ab>
 
 </div>
 
-<div id="p131r_5" continued="yes">
+<div id="p131r_5" categories="casting" continued="yes">
 
 <head><m>Cires</m> moulées</head>
 

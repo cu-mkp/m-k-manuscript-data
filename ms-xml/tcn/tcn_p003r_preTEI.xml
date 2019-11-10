@@ -3,7 +3,7 @@
 
 
 
-<div id="p003r_1">
+<div id="p003r_1" categories="stones">
 
 <head><m>Coral contrefaict</m></head>
 
@@ -127,7 +127,7 @@ de gueule</m>, qui est rouge en corps, bien<lb/>
 
 </div>
 
-<div id="p003r_2">
+<div id="p003r_2" categories="varnish">
 
 <head><m>Vernis</m> pour tableaulx</head>
 <ab>P<exp>rendre</exp> une <ms>lb</ms> de <m>tourmentine de
@@ -213,7 +213,7 @@ poulsiere. Le <m>vernis de mastic</m> ne soubstient point la
 
 </div>
 
-<div id="p003r_3" continued="yes">
+<div id="p003r_3" categories="varnish" continued="yes">
 
 <head><m>Gros vernis</m> pour les planchers</head>
 

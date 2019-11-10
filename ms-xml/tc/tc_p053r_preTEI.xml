@@ -3,7 +3,7 @@
 
 
 
-<div id="p053r_1">
+<div id="p053r_1" categories="tool">
 
     <head><m>Soulder</m> un <tl><oc>estoc</oc></tl></head>
 
@@ -30,7 +30,7 @@ entournee</ab>
 
 </div>
 
-<div id="p053r_2">
+<div id="p053r_2" categories="metal process">
 
 <head><m>Cuivre</m></head>
 
@@ -43,7 +43,7 @@ si aigre quil ne se pourra forger
 
 </div>
 
-<div id="p053r_3">
+<div id="p053r_3" categories="casting">
 
 <head>Gect de <m>plomb</m></head>
 
@@ -59,7 +59,7 @@ bon</ab>
 
 </div>
 
-<div id="p053r_4">
+<div id="p053r_4" categories="casting">
 
 <head>Mouler de <m>papier</m></head>
 
@@ -75,7 +75,7 @@ delicat</ab>
 
 </div>
 
-<div id="p053r_5">
+<div id="p053r_5" categories="cultivation">
 
 <head><pa>Amendiers</pa> <pa>abricots</pa></head>
 
@@ -88,7 +88,7 @@ mieulx hantes sur l<pa>amendier</pa> en escusson</ab>
 
 </div>
 
-<div id="p053r_6">
+<div id="p053r_6" categories="casting">
 
 <head>Gect de <m>plomb</m> et <m>cuivre</m></head>
 

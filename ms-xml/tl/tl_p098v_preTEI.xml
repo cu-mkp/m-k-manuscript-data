@@ -3,7 +3,7 @@
 
 
 
-<div id="p098v_1">
+<div id="p098v_1" categories="animal husbandry">
 
 <head>Small <al>dogs</al></head>
 
@@ -12,7 +12,7 @@ they have a larger muzzle than others.</ab>
 
 </div>
 
-<div id="p098v_2">
+<div id="p098v_2" categories="cultivation">
 
 <head>Salted <pa>artichokes</pa></head>
 
@@ -26,7 +26,7 @@ enough and would not preserve the <m>fruits</m>.</ab>
 
 </div>
 
-<div id="p098v_3">
+<div id="p098v_3" categories="cultivation">
 
 <head>Trees</head>
 
@@ -34,7 +34,7 @@ enough and would not preserve the <m>fruits</m>.</ab>
 
 </div>
 
-<div id="p098v_4">
+<div id="p098v_4" categories="animal husbandry">
 
 <head><al>Birds</al></head>
 
@@ -46,7 +46,7 @@ that one teaches them better.</ab>
 
 </div>
 
-<div id="p098v_5" continued="yes">
+<div id="p098v_5" categories="casting" continued="yes">
 
 <head>Founding</head>
 

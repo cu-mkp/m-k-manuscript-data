@@ -3,7 +3,7 @@
 
 
 
-<div id="p084v_1">
+<div id="p084v_1" categories="casting">
 
 <head><m>Sand</m></head>
 
@@ -40,7 +40,7 @@ A <m>fat sand</m> which is rendered very smooth, makes it porous.</ab>
 </ab>
 
 </div>
-<div id="p084v_2">
+<div id="p084v_2" categories="casting">
 
 <head><m><fr>Eau Magistra</fr></m></head>
 
@@ -58,7 +58,7 @@ porous.</ab>
 Try <m>burnt <al>oysters</al></m>.</ab>
 
 </div>
-<div id="p084v_3">
+<div id="p084v_3" categories="casting">
 
 <head><m>Lead</m></head>
 
@@ -66,7 +66,7 @@ Try <m>burnt <al>oysters</al></m>.</ab>
 very <del><fr>g</fr></del> hot, and <m>soft tin</m>.</ab>
 
 </div>
-<div id="p084v_4" continued="yes">
+<div id="p084v_4" categories="casting" continued="yes">
 
 <head><m>Sand for <m>lead</m></m>, the most excellent of all, for high and low
 reliefs</head>

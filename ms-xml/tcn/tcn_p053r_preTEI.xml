@@ -3,7 +3,7 @@
 
 
 
-<div id="p053r_1">
+<div id="p053r_1" categories="tool">
 
 <head><m>Soulder</m> un <tl><oc>estoc</oc></tl></head>
 
@@ -28,7 +28,7 @@ entrer la <tl>vis</tl> <del>o</del> sur laquelle <del>est</del> elle est
 entournée.</ab>
 
 </div>
-<div id="p053r_2">
+<div id="p053r_2" categories="metal process">
 
 <head><m>Cuivre</m></head>
 
@@ -38,7 +38,7 @@ sera aprés<lb/>
 si aigre qu’il ne se pourra forger.</ab>
 
 </div>
-<div id="p053r_3">
+<div id="p053r_3" categories="casting">
 
 <head>Gect de <m>plomb</m></head>
 
@@ -52,7 +52,7 @@ en petit dans l’<tl><m>os de <al>seiche</al></m></tl> pourveu qu’il
 soict bon.</ab>
 
 </div>
-<div id="p053r_4">
+<div id="p053r_4" categories="casting">
 
 <head>Mouler de <m>papier</m></head>
 
@@ -66,7 +66,7 @@ Destrempe le aprés avecq <m>eau gommée</m> &amp; mouleras fort
 delicat.</ab>
 
 </div>
-<div id="p053r_5">
+<div id="p053r_5" categories="cultivation">
 
 <head><pa>Amendiers</pa>, <pa>abricots</pa></head>
 
@@ -79,7 +79,7 @@ viennent<lb/>
 mieulx hantés sur l’<pa>amendier</pa> en escusson.</ab>
 
 </div>
-<div id="p053r_6">
+<div id="p053r_6" categories="casting">
 
 <head>Gect de <m>plomb</m> et <m>cuivre</m></head>
 

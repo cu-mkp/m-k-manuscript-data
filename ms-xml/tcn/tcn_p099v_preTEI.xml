@@ -3,7 +3,7 @@
 
 
 
-<div id="p099v_1">
+<div id="p099v_1" categories="cultivation">
 
 <head><pa>Coigniers</pa></head>
 
@@ -13,7 +13,7 @@ meurent<lb/>
 &amp; ne portent pas le fruit si beau.</ab>
 
 </div>
-<div id="p099v_2">
+<div id="p099v_2" categories="arms and armor">
 
 <head>Canons</head>
 
@@ -71,14 +71,14 @@ quand la piece<lb/>
 est de <m>metal</m>.</ab>
 
 </div>
-<div id="p099v_3">
+<div id="p099v_3" categories="casting">
 
 <head>Cloches</head>
 
 <ab>On ne les faict poinct dans la fosse si elles ne passent<comment rid="c_069r_04"/></ab>
 
 </div>
-<div id="p099v_4">
+<div id="p099v_4" categories="painting">
 
 <head>Dorer <del>ta</del> moleures de tableaux <lb/>
 
@@ -98,7 +98,7 @@ touche</m><lb/>
 sont meilleurs.</ab>
 
 </div>
-<div id="p099v_5">
+<div id="p099v_5" categories="painting">
 
 <head>Orenge d’<m>orpiment</m></head>
 
@@ -108,7 +108,7 @@ plustost fondre y mectent un peu d’<m>arsenic</m>.</ab>
 
 </div>
 
-<div id="p099v_6">
+<div id="p099v_6" categories="varnish">
 
 <head><m>Vernis</m></head>
 

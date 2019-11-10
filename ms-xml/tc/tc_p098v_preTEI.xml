@@ -3,7 +3,7 @@
 
 
 
-<div id="p098v_1">
+<div id="p098v_1" categories="animal husbandry">
 
 <head>Petis <al>chiens</al></head>
 
@@ -14,7 +14,7 @@ a ce quilz ont le moeufle plus gros que les aultres</ab>
 
 </div>
 
-<div id="p098v_2">
+<div id="p098v_2" categories="cultivation">
 
 <head><pa>Artichauts</pa> sales</head>
 
@@ -38,7 +38,7 @@ pas asses forte et ne conserveroit pas les <m>fruits</m></ab>
 
 </div>
 
-<div id="p098v_3">
+<div id="p098v_3" categories="cultivation">
 
 <head>Abres</head>
 
@@ -48,7 +48,7 @@ gueres</ab>
 
 </div>
 
-<div id="p098v_4">
+<div id="p098v_4" categories="animal husbandry">
 
 <head><al>Oyseaulx</al></head>
 
@@ -70,7 +70,7 @@ sa voix ilz aprenent mieux le fifler quon leur enseigne</ab>
 
 </div>
 
-<div id="p098v_5" continued="yes">
+<div id="p098v_5" categories="casting" continued="yes">
 
 <head>Fonte</head>
 

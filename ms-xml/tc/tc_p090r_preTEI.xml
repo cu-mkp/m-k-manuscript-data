@@ -3,7 +3,7 @@
 
 
 
-<div id="p090r_1">
+<div id="p090r_1" categories="casting">
 
 <head><m>Sel armoniac</m> et <m>mache de fer</m></head>
 
@@ -24,7 +24,7 @@ bas relief sans estre humectes <env>au <tmp>serain</tmp></env> ou en la <env>cav
 aultrem<exp>ent</exp> avecq la <tl>serviete</tl> &amp; il despouille fort net</ab>
 
 </div>
-<div id="p090r_2">
+<div id="p090r_2" categories="casting">
 
 <head><m>Sable</m></head>
 
@@ -34,7 +34,7 @@ travers<comment rid="c_090r_02"/> usent de <m><la>crocum ferri</la></m> et <m>ar
 chose fort platte<comment rid="c_069r_04"/></ab>
 
 </div>
-<div id="p090r_3" continued="yes">
+<div id="p090r_3" categories="casting" continued="yes">
 
 <head>Que tout <m>sable</m> se peult rendre bon</head>
 

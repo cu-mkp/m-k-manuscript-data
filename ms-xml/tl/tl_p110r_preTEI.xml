@@ -3,7 +3,7 @@
 
 
 
-<div id="p110r_1">
+<div id="p110r_1" categories="casting">
 
 <head>Molding</head>
 
@@ -13,7 +13,7 @@ four or five molds.</ab>
 
 </div>
 
-<div id="p110r_2">
+<div id="p110r_2" categories="decorative">
 
 <head><m>Rock</m> &amp; <env>grotto</env></head>
 
@@ -28,7 +28,7 @@ if your <del><fr>grasse</fr></del> <env>grotto</env> is
 
 </div>
 
-<div id="p110r_3" continued="yes">
+<div id="p110r_3" categories="casting" continued="yes">
 
 <head><al>Snakes</al></head>
 

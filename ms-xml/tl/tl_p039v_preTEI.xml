@@ -3,7 +3,7 @@
 
 
 
-<div id="p039v_1">
+<div id="p039v_1" categories="painting">
 
 <head><m>Enamel</m></head>
 
@@ -19,7 +19,7 @@ hardness for engraving as <m>fine silver</m> or
 
 </div>
 
-<div id="p039v_2">
+<div id="p039v_2" categories="painting;glass process">
 
 <head>Colors for illumination on <m>glass</m></head>
 
@@ -28,7 +28,7 @@ hold together, mix in a little of <m>tear of mastic</m> together with
 the <m>turpentine</m>.</ab>
 
 </div>
-<div id="p039v_3" continued="yes">
+<div id="p039v_3" categories="painting;glass process" continued="yes">
 
 <head>Tracing some history on <m>glass</m></head>
 

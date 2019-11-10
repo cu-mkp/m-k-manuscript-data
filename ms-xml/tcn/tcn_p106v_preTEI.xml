@@ -3,7 +3,7 @@
 
 
 
-<div id="p106v_1">
+<div id="p106v_1" categories="casting">
 
 <head>Gecter en <m>or</m></head>
 
@@ -34,7 +34,7 @@ aisem<corr><exp>ent</exp></corr> du <tl>moule</tl>.<lb/>
 Les pieds se gectent à plusieurs <del>foys</del> pieces.</ab>
 </div>
     
-<div id="p106v_3">
+<div id="p106v_3" categories="casting">
 
 <head><m>Tuiles</m></head>
 
@@ -68,7 +68,7 @@ au foeu.</add></ab>
 
 </div>
     
-<div id="p106v_2" continued="yes">
+<div id="p106v_2" categories="casting" continued="yes">
 
 <head margin="left-top"><m>Plastre</m><comment rid="c_106v_07"/></head>
     

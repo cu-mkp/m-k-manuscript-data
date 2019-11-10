@@ -3,7 +3,7 @@
 
 
 
-<div id="p090r_1">
+<div id="p090r_1" categories="casting">
 
 <head><m>Sal ammoniac</m> and <m>iron dross</m></head>
 
@@ -18,7 +18,7 @@ moistened <env>in the <tmp><fr>serain</fr></tmp></env>, or in the
 releases very neatly.</ab>
 
 </div>
-<div id="p090r_2">
+<div id="p090r_2" categories="casting">
 
 <head><m>Sand</m></head>
 
@@ -27,7 +27,7 @@ medals crosswise,<comment rid="c_090r_02"/> use <m><la>crocum ferri</la></m>
 and <m>calcined slate</m>. It is for very flat things.<comment rid="c_069r_04"/></ab>
 
 </div>
-<div id="p090r_3" continued="yes">
+<div id="p090r_3" categories="casting" continued="yes">
 
 <head>All <m>sands</m> can be rendered good</head>
 

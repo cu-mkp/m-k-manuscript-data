@@ -3,7 +3,7 @@
 
 
 
-<div id="p077r_1">
+<div id="p077r_1" categories="medicine">
 
 <head><comment rid="c_077r_02"/><md>Contre les rougeurs du <bp>visage</bp></md></head>
 
@@ -14,7 +14,7 @@ secret Essaye un masque de <m>plomb</m></ab>
 
 </div>
 
-<div id="p077r_2">
+<div id="p077r_2" categories="medicine">
 
 <head>Medecine des <pl>orientaulx</pl> <md>contre<lb/>
 
@@ -45,7 +45,7 @@ malladies</md></ab>
 
 </div>
 
-<div id="p077r_3">
+<div id="p077r_3" categories="casting">
 
 <head><m>Terre graisse</m></head>
 
@@ -63,7 +63,7 @@ bien choisie &amp; doulce</ab>
 
 </div>
 
-<div id="p077r_4" continued="yes">
+<div id="p077r_4" categories="varnish" continued="yes">
 
 <head><comment rid="c_077r_01"/>Recepte pour faire <m>bronze</m> et
 <m>vernys</m> de<lb/>

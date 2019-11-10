@@ -3,7 +3,7 @@
 
 
 
-<div id="p003r_1">
+<div id="p003r_1" categories="stones">
 
 <head><m>Counterfeit coral</m><comment rid="c_003r_02"/></head>
 
@@ -59,7 +59,7 @@ is red in body, with the <m>vermilion</m>. Thus with all colors of
 
 </div>
 
-<div id="p003r_2">
+<div id="p003r_2" categories="varnish">
 
 <head><m>Varnish</m> for panels</head>
 
@@ -100,7 +100,7 @@ whereas that of <m>oil</m> and <m>rosin</m> does.</ab>
 
 </div>
 
-<div id="p003r_3" continued="yes">
+<div id="p003r_3" categories="varnish" continued="yes">
 
 <head><m>Thick varnish</m> for planks</head>
 
