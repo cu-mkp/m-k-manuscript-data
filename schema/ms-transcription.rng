@@ -348,7 +348,7 @@
   <define name="a.categories">
     <a:documentation>Categories: A semi-colon delimited list of controlled terms assigned by the project to a text division</a:documentation>
     <attribute name="categories">
-      <data type="NMTOKEN"/>
+      <data type="token"/>
     </attribute>
   </define>
   
