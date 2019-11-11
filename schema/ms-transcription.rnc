@@ -60,6 +60,7 @@ e.div =
     a.continues?,
     a.id?,
     a.margin?,
+    a.categories?,
     e.head?,
     (text | e.ab | e.figure | m.phrase)+
   }
@@ -185,6 +186,10 @@ a.continues = attribute continues { "yes" }
 
 ## cont (continued): An attribute indicating that the parent block is continued on another page
 a.continued = attribute continued { "yes" }
+# categories
+
+## Categories: A semi-colon delimited list of controlled terms assigned by the project to a text division
+a.categories = attribute categories { xsd:token }
 #
 
 # LANGUAGE ELEMENTS
