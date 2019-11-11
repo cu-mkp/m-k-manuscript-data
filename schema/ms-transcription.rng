@@ -76,6 +76,9 @@
         <ref name="a.margin"/>
       </optional>
       <optional>
+        <ref name="a.categories"/>
+      </optional>
+      <optional>
         <ref name="e.head"/>
       </optional>
       <oneOrMore>
@@ -340,6 +343,15 @@
       <value>yes</value>
     </attribute>
   </define>
+  
+  <!-- categories -->
+  <define name="a.categories">
+    <a:documentation>Categories: A semi-colon delimited list of controlled terms assigned by the project to a text division</a:documentation>
+    <attribute name="categories">
+      <data type="token"/>
+    </attribute>
+  </define>
+  
 
   <!--                            -->
   <!--  LANGUAGE ELEMENTS         -->

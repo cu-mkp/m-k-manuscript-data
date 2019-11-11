@@ -3,7 +3,7 @@
 
 
 
-<div id="p077r_1">
+<div id="p077r_1" categories="medicine">
 
 <head><comment rid="c_077r_02"/><md>Against redness of the <bp>face</bp></md></head>
 
@@ -12,7 +12,7 @@ Excellent secret. Try a <m>lead</m> mask.</ab>
 
 </div>
 
-<div id="p077r_2">
+<div id="p077r_2" categories="medicine">
 
 <head> <m>Medicine</m> of the <pl>orientals</pl> <md>against all
 maladies</md></head>
@@ -35,7 +35,7 @@ also pinch the <bp>nose</bp>. <md>Against colds</md>, <md>rheums</md>, and <md>o
 maladies</md>.</ab>
 
 </div>
-<div id="p077r_3">
+<div id="p077r_3" categories="casting">
 
 <head><m>Fatty earth</m></head>
 
@@ -47,7 +47,7 @@ it very neatly. But it must not be sandy
 
 </div>
 
-<div id="p077r_4" continued="yes">
+<div id="p077r_4" categories="varnish" continued="yes">
 
 <head><comment rid="c_077r_01"/>Recipe for making <m>bronze</m> and <m>varnish</m> of many
 sorts</head>

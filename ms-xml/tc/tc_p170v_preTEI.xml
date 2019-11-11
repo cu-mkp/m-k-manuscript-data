@@ -3,7 +3,7 @@
 
 
 
-<div id="p170v_1">
+<div id="p170v_1" categories="manuscript structure">
 
 
 <head><sup>Première page d'origine</sup></head>
@@ -34,7 +34,7 @@ Et sur la seconde Judication nont encore rien Repceu<hr/></ab>
         </figure></ab>
 </div>
 
-<div id="p170v_2">
+<div id="p170v_2" categories="medicine">
 
 
 <head> <md>Contre peste</md></head>
@@ -62,7 +62,7 @@ ab orbe condito</la></ab>
     
 </div>
 
-<div id="p170v_3">
+<div id="p170v_3" categories="medicine">
 
 <head><md>Pour preserver</md></head>
 
@@ -112,7 +112,7 @@ variarum</la></emph></ab>
 
 </div>
     
-<div id="p170v_4">
+<div id="p170v_4" categories="lists">
 
 <head><sup>Liste de livres</sup><comment rid="c_170v_04"/></head>
 <ab><emph><la>Reru<exp>m</exp> scoticarum historia <pn>Georgio Bucanano</pn>

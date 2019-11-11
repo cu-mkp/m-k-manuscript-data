@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><root page="145v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f296.image">
 
 
-<div continues="yes" id="p145r_2">
+<div continues="yes" id="p145r_2" categories="casting">
 
 <ab>Mays <del>pourceque</del> les <tl><bp>doigts</bp></tl> ne pressent
 point uniment <del>on</del><lb/>
@@ -47,7 +47,7 @@ bien net il ny ha que nostre <m>sable</m></ab>
 </div>
 
 
-<div id="p145v_2" continued="yes">
+<div id="p145v_2" categories="casting" continued="yes">
     
 <head margin="left-top"><mark>+</mark><lb/><lb/>fleurs</head>
         
@@ -104,7 +104,7 @@ au coste de la <tl>table</tl></ab>
 </div>
     
     
-<div id="p145v_1" continued="yes">
+<div id="p145v_1" categories="casting" continued="yes">
 
 <head>Mouler herbes et fleurs</head>
 
@@ -150,7 +150,7 @@ verre</tl></ab>
 </div>
 
     
-<div continues="yes" id="p145v_2">
+<div continues="yes" id="p145v_2" categories="casting">
     
 <ab margin="left-middle">
 

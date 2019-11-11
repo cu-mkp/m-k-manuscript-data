@@ -3,7 +3,7 @@
 
 
 
-<div id="p106v_1">
+<div id="p106v_1" categories="casting">
 
 <head>Casting in <m>gold</m></head>
 
@@ -22,7 +22,7 @@ The bodies are extracted more easily from the <tl>mold</tl>. The feet
 are cast in many <del>times</del> pieces.</ab>
 </div>
 
-<div id="p106v_3">
+<div id="p106v_3" categories="casting">
 
 <head><m>Tiles</m></head>
 
@@ -47,7 +47,7 @@ fire better.</add>
 </ab>
 </div>
 
-<div id="p106v_2" continued="yes">
+<div id="p106v_2" categories="casting" continued="yes">
    
 <head margin="left-top"><m>Plaster</m><comment rid="c_106v_07"/></head>
 

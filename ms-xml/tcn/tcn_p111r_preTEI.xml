@@ -3,7 +3,7 @@
 
 
 
-<div id="p111r_1">
+<div id="p111r_1" categories="casting">
 
 <head>Recuire les <tl>moules</tl></head>
 
@@ -28,7 +28,7 @@ de chassis</tl> se deseichent.</ab>
 
 </div>
 
-<div id="p111r_2">
+<div id="p111r_2" categories="casting">
 
 <head><m>Fumée de <m>letton</m></m></head>
 
@@ -42,7 +42,7 @@ fort net, co<exp>mm</exp>e esta<exp>n</exp>t de mesme nature.</ab>
 
 </div>
 
-<div id="p111r_3">
+<div id="p111r_3" categories="casting;metal process">
 
 <head>Pour le <m>cuivre rouge</m></head>
 
@@ -53,7 +53,7 @@ cela le faict courir.</ab>
 
 </div>
 
-<div id="p111r_4">
+<div id="p111r_4" categories="casting">
 
 <head><m>Terre ardille</m></head>
 
@@ -100,7 +100,7 @@ Elle est plus propre que <tl>lame de <m>plomb</m></tl>.</ab>
 
 </div>
 
-<div id="p111r_5">
+<div id="p111r_5" categories="casting;tool">
 
 <head><m>Fil de fer</m></head>
 

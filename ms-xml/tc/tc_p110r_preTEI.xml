@@ -3,7 +3,7 @@
 
 
 
-<div id="p110r_1">
+<div id="p110r_1" categories="casting">
 
 <head>Mouler</head>
 
@@ -16,7 +16,7 @@ faire quattre ou cinq <tl>moules</tl></ab>
 
 </div>
 
-<div id="p110r_2">
+<div id="p110r_2" categories="decorative">
 
 <head><m>Rocher</m> &amp; <env>grotte</env></head>
 
@@ -40,7 +40,7 @@ tu auras un bel ouvrage</ab>
 
 </div>
 
-<div id="p110r_3" continued="yes">
+<div id="p110r_3" categories="casting" continued="yes">
 
 <head><al>Serpens</al></head>
 
