@@ -31,7 +31,18 @@ https://www.makingandknowing.org/
 
 
 
+## Use in DCE
 
+The following files and directories are watched for updates by the MK asset_server:
+
+metadata/annotation-metadata.csv
+metadata/authors.csv
+metadata/DCE_comment-tracking-Tracking.csv
+metadata/entry_metadata.tsv
+glossary/DCE-glossary-table.csv
+ms-xml/*
+
+Modification of these files on the master branch results in changes on the staging server.
 
 
 
