@@ -73,7 +73,8 @@ e.figure =
     a.margin?,
     a.render?,
     a.size?,
-    attribute link { xsd:anyURI }?,
+    a.alt-text?,
+    a.link?,
     (m.phrase
      | element caption { (text | m.phrase)+ })+
   }
@@ -178,6 +179,14 @@ a.render = attribute render { ("tall" | "wide" | "extra-wide")? }
 
 ## Image size: Instructions to cue the proper rendition of the size of an image. Valid values are: "x-small", "small", "medium", and "large"
 a.size = attribute size { ("x-small" | "small" | "medium" | "large")? }
+# alt-text
+
+## Alt-text: a textual description of a figure; analogous to HTML alt attribute
+a.alt-text = attribute alt-text { text }
+# link
+
+## Link: the url of a linked image for a figure
+a.link = attribute link { xsd:anyURI }
 # continues
 
 ## cont (continues): An attribute indicating the parent block continues from another page 
