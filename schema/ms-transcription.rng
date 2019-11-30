@@ -109,11 +109,11 @@
       <ref name="a.size"/>
       </optional>
       <optional>
-        <attribute name="link">
-          <data type="anyURI"/>
-        </attribute>
+        <ref name="a.alt-text"/>
       </optional>
-
+      <optional>
+        <ref name="a.link"/>
+      </optional>
       <oneOrMore>
         <choice>
           <ref name="m.phrase"/>
@@ -327,6 +327,25 @@
       </optional>
     </attribute>
   </define>
+  
+<!-- alt-text -->
+  <define name="a.alt-text">
+    <a:documentation>Alt-text: a textual description of a figure; analogous to HTML alt attribute</a:documentation>
+      <attribute name="alt-text">
+        <text/>
+      </attribute>
+
+  </define>
+  
+  <!-- link -->
+  <define name="a.link">
+    <a:documentation>Link: the url of a linked image for a figure</a:documentation>
+    <attribute name="link">
+      <data type="anyURI"/>
+    </attribute>
+  </define>
+  
+  
 
   <!-- continues -->
   <define name="a.continues">
