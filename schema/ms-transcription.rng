@@ -111,6 +111,9 @@
       <optional>
         <ref name="a.alt-text"/>
       </optional>
+      <optional>
+        <ref name="a.link"/>
+      </optional>
       <oneOrMore>
         <choice>
           <ref name="m.phrase"/>
@@ -333,6 +336,16 @@
       </attribute>
 
   </define>
+  
+  <!-- link -->
+  <define name="a.link">
+    <a:documentation>Link: the url of a linked image for a figure</a:documentation>
+    <attribute name="link">
+      <data type="anyURI"/>
+    </attribute>
+  </define>
+  
+  
 
   <!-- continues -->
   <define name="a.continues">
