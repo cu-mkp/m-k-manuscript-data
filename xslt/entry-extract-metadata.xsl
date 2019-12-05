@@ -23,6 +23,8 @@
         <xsl:value-of select="$fieldSep"/>
         <xsl:text>heading_tl</xsl:text>
         <xsl:value-of select="$fieldSep"/>
+        <xsl:text>categories</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
         <xsl:text>margin</xsl:text>
         <xsl:value-of select="$fieldSep"/>
         <xsl:text>has_figures</xsl:text>
@@ -58,6 +60,10 @@
         <xsl:text>md</xsl:text>
         <xsl:value-of select="$fieldSep"/>
         <xsl:text>mu</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:text>df</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:text>wp</xsl:text>
         <xsl:text>&#10;</xsl:text>
         <xsl:apply-templates select="//div"/>
 
@@ -80,6 +86,8 @@
                 <xsl:text/>
             </xsl:otherwise>
              </xsl:choose>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:value-of select="normalize-space(@categories)"/>
         <xsl:value-of select="$fieldSep"/>
         <xsl:value-of select="normalize-space(child::margin)"/>
         <xsl:value-of select="$fieldSep"/>
@@ -187,6 +195,20 @@
         </xsl:for-each>
         <xsl:value-of select="$fieldSep"/>
         <xsl:for-each select="distinct-values(.//mu/normalize-space())">
+            <xsl:value-of select="."/>
+            <xsl:if test="position() != last()">
+                <xsl:text>;</xsl:text>
+            </xsl:if>
+        </xsl:for-each>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:for-each select="distinct-values(.//df/normalize-space())">
+            <xsl:value-of select="."/>
+            <xsl:if test="position() != last()">
+                <xsl:text>;</xsl:text>
+            </xsl:if>
+        </xsl:for-each>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:for-each select="distinct-values(.//wp/normalize-space())">
             <xsl:value-of select="."/>
             <xsl:if test="position() != last()">
                 <xsl:text>;</xsl:text>
