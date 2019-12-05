@@ -63,28 +63,23 @@
 
     </xsl:template>
 
-    <xsl:template match="div">
+    <xsl:template match="div[@id]">
         <xsl:value-of select="ancestor::root/page"/>
         <xsl:value-of select="$fieldSep"/>
-        <xsl:value-of select="child::id"/>
+        <xsl:value-of select="@id"/>
         <xsl:value-of select="$fieldSep"/>
-        <xsl:value-of select="normalize-space(child::head)"/>
+        <xsl:apply-templates select="child::head"/>
         <xsl:value-of select="$fieldSep"/>
         <xsl:choose>
-            <xsl:when test="not(child::cont[following-sibling::*])">
-                <xsl:value-of
-                    select="document($tcnFile)//div[id = current()/child::id]/head/normalize-space()"/>
-                <xsl:value-of select="$fieldSep"/>
-                <xsl:value-of
-                    select="document($tlFile)//div[id = current()/child::id]/head/normalize-space()"
-                />
-            </xsl:when>
+            <xsl:when test="not(@continues = 'yes')">
+        <xsl:apply-templates select="document($tcnFile)//div[@id = current()/@id]/head"/>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:apply-templates select="document($tlFile)//div[@id = current()/@id]/head"/>
+             </xsl:when>
             <xsl:otherwise>
                 <xsl:text/>
-                <xsl:value-of select="$fieldSep"/>
-                <xsl:text/>
             </xsl:otherwise>
-        </xsl:choose>
+             </xsl:choose>
         <xsl:value-of select="$fieldSep"/>
         <xsl:value-of select="normalize-space(child::margin)"/>
         <xsl:value-of select="$fieldSep"/>
@@ -92,11 +87,11 @@
             <xsl:text>CONTAINS FIGURE</xsl:text>
         </xsl:if>
         <xsl:value-of select="$fieldSep"/>
-        <xsl:if test="child::cont[not(following-sibling::*)]">
+        <xsl:if test="@continued">
             <xsl:text>continued</xsl:text>
         </xsl:if>
         <xsl:value-of select="$fieldSep"/>
-        <xsl:if test="child::cont[following-sibling::*]">
+        <xsl:if test="@continues">
             <xsl:text>continues</xsl:text>
         </xsl:if>
         <xsl:value-of select="$fieldSep"/>
@@ -198,6 +193,16 @@
             </xsl:if>
         </xsl:for-each>
         <xsl:text>&#10;</xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="head">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
+    <xsl:template match="sup">
+        <xsl:text>[</xsl:text>
+            <xsl:value-of select="normalize-space(.)"/>
+        <xsl:text>]</xsl:text>
     </xsl:template>
 
 </xsl:stylesheet>
