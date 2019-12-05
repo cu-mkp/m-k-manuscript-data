@@ -70,7 +70,7 @@
     </xsl:template>
 
     <xsl:template match="div[@id]">
-        <xsl:value-of select="ancestor::root/page"/>
+        <xsl:value-of select="ancestor::root/@page"/>
         <xsl:value-of select="$fieldSep"/>
         <xsl:value-of select="@id"/>
         <xsl:value-of select="$fieldSep"/>
@@ -81,8 +81,10 @@
         <xsl:apply-templates select="document($tcnFile)//div[@id = current()/@id]/head"/>
         <xsl:value-of select="$fieldSep"/>
         <xsl:apply-templates select="document($tlFile)//div[@id = current()/@id]/head"/>
-             </xsl:when>
+            </xsl:when>
             <xsl:otherwise>
+                <xsl:text/>
+                <xsl:value-of select="$fieldSep"/>
                 <xsl:text/>
             </xsl:otherwise>
              </xsl:choose>
@@ -218,10 +220,10 @@
     </xsl:template>
     
     <xsl:template match="head">
-        <xsl:apply-templates/>
+        <xsl:value-of select="normalize-space(.)"/>
     </xsl:template>
     
-    <xsl:template match="sup">
+    <xsl:template match="head[child::sup]">
         <xsl:text>[</xsl:text>
             <xsl:value-of select="normalize-space(.)"/>
         <xsl:text>]</xsl:text>
