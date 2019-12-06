@@ -3,7 +3,7 @@
 
 
 
-<div id="p024v_1" categories="arms and armor" continued="yes">
+<div id="p024v_1" categories="arms and armor">
 
 
 
@@ -130,8 +130,8 @@ qui est entre les <wp>pieces</wp> est <ms>la largeur de deulx gabions</ms><lb/>
     <div id="p024v_3" categories="arms and armor">
         
         
-        <head margin="left-middle">Lumiere d<m>acier</m></head>
-        <ab margin="left-middle" render="tall">
+        <head margin="left-bottom">Lumiere d<m>acier</m></head>
+        <ab margin="left-bottom" render="tall">
             
             se pose en Ancrau dans<lb/>
             
@@ -150,7 +150,7 @@ qui est entre les <wp>pieces</wp> est <ms>la largeur de deulx gabions</ms><lb/>
             ha que duser de la lumiere<lb/>
             
             propre</ab></div>
-<div id="p024v_1" categories="arms and armor">
+<div id="p024v_1" categories="arms and armor" continued="yes">
 <ab>
     
 Tant que la batterie dure Les <pro>canoniers</pro> couchent &amp;
@@ -180,8 +180,8 @@ part</ab>
 <div id="p024v_4" categories="arms and armor">
 
 
-<head margin="left-top">Lumiere a ras</head>
-<ab margin="left-top" render="tall">
+<head margin="left-middle">Lumiere a ras</head>
+<ab margin="left-middle" render="tall">
 
 de<lb/>
 
