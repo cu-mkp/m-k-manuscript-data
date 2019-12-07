@@ -50,84 +50,7 @@ Trompettes voy le livre des funerailles
 <div id="p001r_5" categories="lists">
         
 
-<head margin="right-top"><sup>Liste de livres et d'autheurs</sup></head>
-
-<ab margin="right-top" render="tall">  
-            
-<comment rid="c_001r_66"/><pn>Alexander Aphrodisæus</pn><lb/>
-                
-<pn>Polydorus verg<exp>ilius</exp></pn><lb/>
-                
-<pn>Appianus</pn><lb/>
-                
-<pn>Athenæus</pn><lb/>
-                
-<pn>Pausanias</pn><comment rid="c_001r_33"/><lb/>
-                
-Statius Thebaidos<lb/>
-                
-<pn>Servius</pn> <la>in Aeneid<exp>em</exp></la><lb/>
-                
-<pn>Macrobius</pn><lb/>
-                
-Aulus Gellius<lb/>
-                
-Alexander ab <pl>Alex<exp>andria</exp></pl><lb/>
-                
-<pn>Festus</pn><lb/>
-                
-<pn>Nonius</pn><lb/>
-                
-<pn>Magius</pn> miscell<exp>anea</exp><lb/>
-                
-<pn>Pollux</pn> onomast<exp>icon</exp><lb/>
-                
-<pn>Higinus</pn><lb/>
-                
-Berosus<lb/>
-                
-Suetonius<lb/>
-                
-Valerius max<exp>imus</exp><lb/>
-                
-Cornelius tacitu<exp>s</exp><lb/>
-                
-Xenophon<lb/>
-                
-<pn>Seneca</pn><lb/>
-                
-<pn>Dionisius Halicarnassensis</pn><lb/>
-                
-<pn>Sabellicus</pn><lb/><lb/>
-                
-<add>cum permultis<lb/>
-                    
-aliis </add><pn>Iulius Capitollin<exp>us</exp></pn><comment rid="c_001r_67"/><lb/>
-                
-<pn>Budæus</pn><lb/>
-                
-<pn>Spartianus</pn><lb/>
-                
-<pn>Blondus</pn><lb/>
-                
-<pn>Volaterranus</pn><lb/>
-                
-<pn>Herodotus</pn><lb/>
-                
-<pn>Paulus Manutius</pn><lb/>
-                
-Strabo<lb/>
-                
-<pn>Iulius firmicus</pn><lb/>
-                
-<pn>Quintus Curtius</pn><lb/>
-                
-<pn>Dion</pn><lb/>
-                
-<pn>Cornelius Nepos</pn><lb/>
-                
-<pn>Flavius Vopiscus</pn></ab>
-        
+<head margin="left-middle"><sup>Liste de livres et d'autheurs</sup></head>
 
 <ab margin="left-middle" render="wide">
 
@@ -185,7 +108,82 @@ Des præceptes dagriculture<lb/>
 
 et de la <pro>royne mere</pro></ab>
 
-
+    <ab margin="right-top" render="tall">  
+        
+        <comment rid="c_001r_66"/><pn>Alexander Aphrodisæus</pn><lb/>
+        
+        <pn>Polydorus verg<exp>ilius</exp></pn><lb/>
+        
+        <pn>Appianus</pn><lb/>
+        
+        <pn>Athenæus</pn><lb/>
+        
+        <pn>Pausanias</pn><comment rid="c_001r_33"/><lb/>
+        
+        Statius Thebaidos<lb/>
+        
+        <pn>Servius</pn> <la>in Aeneid<exp>em</exp></la><lb/>
+        
+        <pn>Macrobius</pn><lb/>
+        
+        Aulus Gellius<lb/>
+        
+        Alexander ab <pl>Alex<exp>andria</exp></pl><lb/>
+        
+        <pn>Festus</pn><lb/>
+        
+        <pn>Nonius</pn><lb/>
+        
+        <pn>Magius</pn> miscell<exp>anea</exp><lb/>
+        
+        <pn>Pollux</pn> onomast<exp>icon</exp><lb/>
+        
+        <pn>Higinus</pn><lb/>
+        
+        Berosus<lb/>
+        
+        Suetonius<lb/>
+        
+        Valerius max<exp>imus</exp><lb/>
+        
+        Cornelius tacitu<exp>s</exp><lb/>
+        
+        Xenophon<lb/>
+        
+        <pn>Seneca</pn><lb/>
+        
+        <pn>Dionisius Halicarnassensis</pn><lb/>
+        
+        <pn>Sabellicus</pn><lb/><lb/>
+        
+        <add>cum permultis<lb/>
+            
+            aliis </add><pn>Iulius Capitollin<exp>us</exp></pn><comment rid="c_001r_67"/><lb/>
+        
+        <pn>Budæus</pn><lb/>
+        
+        <pn>Spartianus</pn><lb/>
+        
+        <pn>Blondus</pn><lb/>
+        
+        <pn>Volaterranus</pn><lb/>
+        
+        <pn>Herodotus</pn><lb/>
+        
+        <pn>Paulus Manutius</pn><lb/>
+        
+        Strabo<lb/>
+        
+        <pn>Iulius firmicus</pn><lb/>
+        
+        <pn>Quintus Curtius</pn><lb/>
+        
+        <pn>Dion</pn><lb/>
+        
+        <pn>Cornelius Nepos</pn><lb/>
+        
+        <pn>Flavius Vopiscus</pn></ab>
+    
 </div>
 
 <div id="p001r_4" categories="lists">
@@ -194,11 +192,11 @@ et de la <pro>royne mere</pro></ab>
 <head margin="left-middle"><sup>Liste de livres</sup></head>
 <ab margin="left-middle" render="wide">
 
-<la><comment rid="c_001r_70"/><al>Aquatilium animalium</al>
+<emph><la><comment rid="c_001r_70"/><al>Aquatilium animalium</al>
 historiæ</la> hypolito<lb/>
 
 salviano <la>typhernate authore <pl>Romæ</pl></la>
-1554</ab>
+1554</emph></ab>
 
 </div>
 
