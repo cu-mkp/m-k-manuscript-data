@@ -50,7 +50,7 @@ Trompettes voy le livre des funerailles
 <div id="p001r_5" categories="lists">
         
 
-<head><sup>Liste de livres et d'autheurs</sup></head>
+<head margin="left-middle"><sup>Liste de livres et d'autheurs</sup></head>
 
 <ab margin="right-top" render="tall">  
             
@@ -149,11 +149,11 @@ Nicolaus Damascenus
 Cares<exp>ariensis</exp><comment rid="c_001r_34"/> <la>de rebus
 persarum</la><lb/>
 
-Isidorus
+Isidorus<lb/>
 
 Osorius<comment rid="c_001r_35"/><lb/>
 
-Eupolemus <la><pro>historicus</pro> gentilis<lb/>
+Eupolemus <la><pro>historicus</pro> gentilis            <emph>mons<exp>ieur</exp></emph><comment rid="c_001r_69"/><lb/>
 
 qui de rebus davidis &amp; salomonis<lb/>
 
