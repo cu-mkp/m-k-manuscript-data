@@ -50,7 +50,7 @@ Trompettes voy le livre des funerailles
 <div id="p001r_5" categories="lists">
         
 
-<head margin="right-top"><sup>Liste de livres et d'autheurs</sup></head>
+<head><sup>Liste de livres et d'autheurs</sup></head>
 
 <ab margin="right-top" render="tall">  
             
@@ -129,7 +129,7 @@ Strabo<lb/>
 <pn>Flavius Vopiscus</pn></ab>
         
 
-<ab margin="left-top" render="wide">
+<ab margin="left-middle" render="wide">
 
 
 Vuolfangus lazius<lb/>
