@@ -129,7 +129,7 @@ Strabo<lb/>
 <pn>Flavius Vopiscus</pn></ab>
         
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="wide">
 
 
 Vuolfangus lazius<lb/>
@@ -208,10 +208,6 @@ salviano <la>typhernate authore <pl>Romæ</pl></la>
 
 Les Annales de <pl>Normandie</pl></ab>
 
-    <ab>
-        <emph>mons<exp>ieur</exp></emph><comment rid="c_001r_69"/>
-    </ab>
-      
 </div>
 
 </root>
