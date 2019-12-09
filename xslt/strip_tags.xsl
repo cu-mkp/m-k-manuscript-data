@@ -32,6 +32,7 @@
         <xsl:value-of select="@page"/>
         <xsl:text>~~~~~~~~~~~~~~~</xsl:text>
         <xsl:text>&#10;</xsl:text>
+        <xsl:apply-templates/>
     </xsl:template>
     
     <!-- wrap exp in curly braces -->
@@ -40,6 +41,7 @@
         <xsl:apply-templates/>
         <xsl:text>}</xsl:text>
     </xsl:template>
+    
     
     <!-- do not process figures with child elements -->
     <xsl:template match="figure[child::*]">
@@ -51,6 +53,9 @@
         <xsl:message>figure without child</xsl:message>
         <xsl:apply-templates/>
     </xsl:template>
+    
+    <!-- do not output del and ups-->
+    <xsl:template match="del | ups"/>
 
     <!-- by default, process all elements -->
     <xsl:template match="*">
