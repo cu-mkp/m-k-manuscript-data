@@ -26,10 +26,10 @@
     </xsl:template>
     
     <!-- place folio number on own line surrounded by strings of tildes -->
-    <xsl:template match="page">
+    <xsl:template match="root">
         <xsl:text>&#10;</xsl:text>
         <xsl:text>~~~~~~~~~~~~~~~</xsl:text>
-        <xsl:apply-templates/>
+        <xsl:value-of select="@page"/>
         <xsl:text>~~~~~~~~~~~~~~~</xsl:text>
         <xsl:text>&#10;</xsl:text>
     </xsl:template>

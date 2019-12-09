@@ -282,10 +282,10 @@ from <pa>cabbage</pa> ash</m>.</ab>
 <head><add><comment rid="c_002v_07"/><m>Emeralds of <pl>Brissac</pl></m></add></head>
 
 <ab>I have taken <m>minium</m>, 26 <ms>℥</ms>,
-<m>crystal</m> <add><ill/> and ground on <tl><m>marble</m></tl></add> 12
+<m>crystal</m><comment rid="c_002v_04"/> <add><ill/> and ground on <tl><m>marble</m></tl></add> 12
 <ms>℥</ms>, <m>verdet</m> 3
 <ms>|ʒ|</ms>. Incorporate all together, put in a
-<tl>crucible covered with another, well <m><tl>luted</tl></m>, that has a hole in the
+<tl>crucible<comment rid="c_002v_05"/> covered with another, well <m><tl>luted</tl></m>, that has a hole in the
 top</tl>. Fusion 7 <ms><tmp>hours</tmp></ms> without blowing. The mass
 was of a beautiful green.</ab>
 
@@ -2081,7 +2081,8 @@ but is found on the surface of the cast.</add></ab>
 
 <ab margin="left-middle">
 
-<mark>+</mark> by the heat of molten <m>metal</m></ab>
+<mark>+</mark><lb/>
+by the heat of molten <m>metal</m></ab>
 
 </div>
 <div id="p015r_3" categories="casting">
@@ -2317,7 +2318,7 @@ ashes</m>, in order that it does not adhere to it.</ab>
 
 <div id="p016v_1" categories="medicine">
 
-<head><md>Against Go<comment rid="c_016v_04"/></md></head><comment rid="c_016v_01"/>
+<head><md>Against Go.<comment rid="c_016v_01"/></md></head>
 
 <ab>Soak <m><pa>quince</pa> seeds</m> in <m>clear water</m> &amp; of
 this <m>mucilaginous water</m> make an <md>injection</md>.</ab>
@@ -2338,8 +2339,8 @@ to the <m>silk</m> like <m>fine <pa>cotton</pa><comment rid="c_016v_03"/> wisps<
 
 <head><m>Silk</m></head>
 
-<ab><m>Crimson</m><comment rid="c_016v_02"/> is more abundant than all
-other <m>silks</m> because its color does not charge as do blue &amp;
+<ab><m>Crimson</m> is more abundant than all
+other <m>silks</m> because its color does not charge<comment rid="c_016v_02"/> as do blue &amp;
 green, which are also more profitable for the <pro>worker</pro>. Black is less
 abundant because it charges much.</ab>
 
@@ -2423,7 +2424,7 @@ thickness <del><fr>ce</fr></del> the length that they would have by the
 <ms><pro>King</pro>’s <fr>pan</fr></ms>, by which measure they
 will be found longer. But also they would be thinner. The <del>e</del><comment rid="c_017r_01"/>
 <del>great</del> <del><fr>canno</fr></del> strength of the <wp>cannon-perrier</wp> for
-making a battery is 4xx<comment rid="c_017v_02"/> <ms>paces</ms>.</ab>
+making a battery is 4<superscript>xx</superscript><comment rid="c_017v_02"/> <ms>paces</ms>.</ab>
 
 <ab margin="left-middle">
 
@@ -2512,7 +2513,7 @@ of xx <ms>lb</ms> of <m>powder</m>, its ball of 40 <ms>lb</ms>. One
 needs xxv <al>horses</al> to draw it. When one fires it farther than its
 usual range, one puts in a <ms>half <tl>ladle</tl></ms> of <m><wp>cannon</wp>
 powder</m> more. A <wp>cannon</wp> can fire
-4^(xx)<comment rid="c_017v_02"/> or a hundred shots <ms>per
+4<superscript>xx</superscript><comment rid="c_017v_02"/> or a hundred shots <ms>per
 <tmp>day</tmp></ms>, but one needs to refresh it every time after one
 has fired <del>te</del> nine or ten shots, if the battery is rigidly
 continued. For if there is a break, it is not necessary to refresh it as
@@ -2543,7 +2544,8 @@ placing them via <env>trenches</env> on the <env>edge of the ditch</env>
 
 
 
-<mark>◯</mark>
+<mark>◯</mark><lb/>
+<lb/>
 
 On each side of the opening of the breech they give the <ms>thickness of
 half a ball</ms>. And then they also add on each side the <ms>third part
@@ -2559,7 +2561,7 @@ of a ball</ms>.</ab>
 
 
 
-<mark>#</mark>
+<mark>#</mark><lb/>
 
 The composition of <wp>cannons</wp> of <pl>France</pl> is of <ms>one quintal of
 <m><fr>metal</fr></m> for two of <m>rosette</m></ms>.
@@ -2857,15 +2859,10 @@ carries <m>lead</m> balls, and is for the defence of houses. Of these
 <fr><wp>arquebus à croc</wp></fr>, both the large &amp; the small ones, one makes <wp>orgues</wp>
 which are <del>or</del> appropriate for an assault, both outside &amp;
 inside the place. They are founded separately as if to serve for uses
-other than <wp>orgues</wp>. See the marked 4th leaf following.
+other than <wp>orgues</wp>. See the 4th leaf following, marked
 
 <figure id="fig_p019r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5WWY3VjdlVktqZVk">
-
-
-
-    <comment rid="c_019r_02"/>
-
-</figure>
+</figure><comment rid="c_019r_02"/>
 
 </ab>
 
@@ -2894,42 +2891,20 @@ fold your <m>paper</m> such that the fold <del><fr>e</fr></del> gives
 you a straight line, at the <ms>required distance</ms> from which, trace
 a point <del>&amp; a</del> or a line &amp; saturate it well with
 <m>ink</m>. Then fold again the <m>paper</m> &amp; rub it on the back
-&amp; it will print however much you have made. In that way <del><fr>la
+&amp; <figure id="fig_p019v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SUUzLXQ4UVlGR1U">
+</figure> it will print however much you have made. In that way <del><fr>la
 l</fr></del>, A is the line without <m>ink</m> which the <m>paper</m>
 fold gives you, B is the line you have traced, C is the one which is
-printed.
+printed.<lb/>
 
-<figure id="fig_p019v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SUUzLXQ4UVlGR1U">
-
-
-
-
-
-
-</figure>
 
 <figure id="fig_p019v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5cy0tdXF5MGJTLU0">
-
-
-
-
-
 </figure>
 
 <figure id="fig_p019v_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5R0VMdFQ3VC1lQmM">
-
-
-
-
-
 </figure>
 
 <figure id="fig_p019v_4" link="https://drive.google.com/open?id=0B9-oNrvWdlO5TGJOZGVvTmV1LW8">
-
-
-
-
-
 </figure>
 
 </ab>
@@ -3244,7 +3219,7 @@ the one which has been spiked, which will be done in an hour. And if
 with time the violence of the <m>powder</m> loosens the <m>nail</m> with
 which the <wp>piece</wp> is spiked, you will make a <tl>thread</tl> in the second
 touch-hole &amp; place a <tl>screw</tl> in it quite perfectly which will
-never come undone.<del><fr>M</fr></del></ab></div>
+never come undone. <del><fr>M</fr></del></ab></div>
 
 <div id="p021v_2" categories="arms and armor">
 
@@ -3253,7 +3228,7 @@ never come undone.<del><fr>M</fr></del></ab></div>
 <head>Defense of a town</head>
 
 <ab>There is nothing that has a greater effect for the defense of a
-    breach than <wp>petards</wp><comment rid="c_008r_04"/> placed at the entryway at the time of the assault.
+breach than <wp>petards</wp><comment rid="c_008r_04"/> placed at the entryway at the time of the assault.
 They carry a lot of ammunition. <del><fr>be</fr></del> One fills them
 with <m>cart nails</m>, <m>large steel dice</m>, <m>bits of chain</m>
 &amp; similar things. And when one senses that the enemies are close,
@@ -3292,24 +3267,13 @@ follows.</ab>
 </root><root page="022v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f50.image">
 
 
-
-
-<figure id="fig_p022v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NkNrYkVZTlVnbDQ">
-
-
-
-
-
-    <comment rid="c_022v_01"/>
-
-</figure>
-
 <div id="p022v_1" categories="arms and armor">
-
-
 
 <head><wp>Orgues</wp></head>
 
+<ab margin="left-middle"><figure id="fig_p022v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NkNrYkVZTlVnbDQ">
+</figure><comment rid="c_022v_01"/></ab>
+    
 <ab>Then one mounts them on a medium thick board close to 
 one<del><fr>g</fr></del><comment rid="c_022v_08"/> another &amp; one makes
 notches on the board this way <figure id="fig_p022v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5RnQ2Ri1PenA1aDA">
@@ -3349,8 +3313,8 @@ needs thirty <al>horses</al> are necessary to draw it. It makes much
 more of a fracas at the wall than the <wp>cannon</wp>. But it is very troublesome
 to draw. It is for this reason that one hardly uses it today, and it is
 more for moving to some nearby place &amp; battering at close range or
-for an entry, than for ordinary business. One calls them
-<df><wp><fr>basilics</fr></wp></df>,<comment rid="c_022v_07"/> and they are <wp>pieces</wp> made for pleasure.</ab>
+for an entry, than for ordinary business. One calls<comment rid="c_022v_06"/> them
+<df><wp><fr>basilics</fr></wp></df>, and they are <wp>pieces</wp> made for pleasure.</ab>
 
 </div>
 </root><root page="023r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f51.image">
@@ -3446,14 +3410,7 @@ ball which exptends beyond the mouth of the <wp>petard</wp> by two
 
 
 
-<figure id="fig_p023v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Tm4ySC1wcUx6Yzg">
-
-
-
-
-
-
-
+<figure id="fig_p023v_1" margin="left-middle" render="tall" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Tm4ySC1wcUx6Yzg">
 </figure>
 
 <ab><m>powder</m>. When the sausage is full, dip it <del>well in</del>
@@ -3513,7 +3470,7 @@ of the cross.</ab>
 
 <ab><wp>Grenades</wp> must be made from the <m>finest <fr>metal</fr><comment rid="c_016v_05"/> one can find</m>, for
 there is <m>fine <fr>metal</fr></m> and <m>crude <fr>metal</fr></m>. <m>Fine
-<fr>metal</fr></m><comment rid="c_024r_01"/> is that of a large bell, because one
+<fr>metal</fr></m> is that of a large bell, because one
 puts in more <m>copper</m> to give it a bigger voice, &amp; for small
 bells one puts more <m>tin</m> to give it a <del>bigger</del> clearer
 sound. The <m><fr>metal</fr> of a large bell</m> is made <del>one</del><comment rid="c_024r_05"/> with
@@ -3523,7 +3480,7 @@ weigh four to six <ms>lb</ms>. And in order to throw them, it is necessary
 that they be full of <m>powder</m> mixed with <m>coarsely <tl>pestled</tl>
 glass</m>. And for a quarter <ms>lb</ms> of <m>powder</m>, one needs
 half an <ms>ounce</ms> of <m>glass</m> which is put with it, in order
-that on the face or places where the <m>powder</m> will have its effect,
+that on the <bp>face</bp> or places where the <m>powder</m> will have its effect,
 the <md><bp>wounds</bp></md> will be all the worse for it. The <m>best <wp>arquebus</wp>
 powder</m> is required here. The hole needs to be as large as <ms>the
 thickness of a <al>swan</al>’s quill</ms>, &amp; you need not bother to
@@ -3692,7 +3649,7 @@ wall, some say, <del>for</del> that is, as if at an
 several stones.<hr/></ab>
 
 
-<ab margin="left-bottom" render="wide">
+<ab margin="bottom">
 
 
 
@@ -3763,7 +3720,7 @@ restrained, it goes sideways &amp; makes the <wp>piece</wp> break.</ab></div>
 
     
 <head><wp>Cannonball</wp></head>
-<ab margin="top" render="wide">
+<ab margin="top" render="extra-wide">
 
 
 
@@ -3869,9 +3826,9 @@ for fifteen <tmp>days</tmp>, they have more force.</ab>
 
 
 
-<head><wp>Field piece</wp></head>
+<head margin="right-top"><wp>Field piece</wp></head>
     
-<figure id="fig_p027r_3" margin="right-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5M2Ftb2g0bG1FQ3c">
+<figure id="fig_p027r_3" margin="right-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5M2Ftb2g0bG1FQ3c">
 
 
 
@@ -3890,122 +3847,92 @@ for fifteen <tmp>days</tmp>, they have more force.</ab>
 
 <div id="p027v_1" categories="arms and armor">
 
-
-
 <head><wp>Falconet</wp></head>
-<figure id="fig_p027v_1" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bW1tdUg0czEzTjg">
-
-
-
-
-
-
-
+    
+<figure id="fig_p027v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bW1tdUg0czEzTjg">
 </figure>
+
 </div>
+
+
 
 <div id="p027v_2" categories="arms and armor">
 
-    
-<head><wp>Falconet</wp> of 4 <ms>quintals</ms>, alternatively <wp>passe-volant</wp>, is
+<head margin="right-top"><wp>Falconet</wp> of 4 <ms>quintals</ms>, alternatively <wp>passe-volant</wp>, is
 8 <ms><fr>pans</fr></ms> long</head>
 
 <figure id="fig_p027v_2" margin="right-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5OVloUjZocVpuVTg">
-
-
-
-
-
-
-
 </figure>
+
 </div>
-<div id="p027v_3" categories="arms and armor">
 
     
-<head>3 <ms>quintals</ms>, is 9 <ms><fr>pans</fr></ms> long</head>
-<figure id="fig_p027v_3" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5OGJ5MXhrMVFtVTA">
+    
+<div id="p027v_3" categories="arms and armor">
+    
+<head margin="left-bottom">3 <ms>quintals</ms>, is 9 <ms><fr>pans</fr></ms> long</head>
 
-
-
-
-
-
-
+<figure id="fig_p027v_3" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5OGJ5MXhrMVFtVTA">
 </figure>
+    
 </div>
+    
+    
     
 <div id="p027v_4" categories="arms and armor">
 
 <head>2 <ms>quintals</ms>, is one <ms><fr>cane</fr></ms> long, which
 is 8 <ms><pl>Montpellier</pl> <fr>pans</fr></ms></head>
+
 <figure id="fig_p027v_4" link="https://drive.google.com/open?id=0B9-oNrvWdlO5OWVRTXVjNTljRnM">
-
-
-
-
-
 </figure>
+
 </div>
+
+
 
 <div id="p027v_5" categories="arms and armor">
 
-<head>1 <ms>quintal</ms>, is six <ms><fr>pans</fr></ms> and a
+<head margin="right-top">1 <ms>quintal</ms>, is six <ms><fr>pans</fr></ms> and a
 half</head>
-<figure id="fig_p027v_5" margin="right-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5T2k5QjJ0ZGtfc1U">
 
-
-
-
-
-
-
+<figure id="fig_p027v_5" margin="right-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5T2k5QjJ0ZGtfc1U">
 </figure>
+    
 </div>
+
+
 
 <div id="p027v_6" categories="arms and armor">
 
-<head>1 <ms>quintal</ms> and a half is 7 <ms><fr>pans</fr></ms> and a
+<head margin="left-bottom">1 <ms>quintal</ms> and a half is 7 <ms><fr>pans</fr></ms> and a
 half</head>
-<figure id="fig_p027v_6" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5WmlyWDktZUhka1E">
-
-
-
-
-
-
-
+    
+<figure id="fig_p027v_6" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5WmlyWDktZUhka1E">
 </figure>
+
 </div>
 
-<div id="p027v_7" categories="arms and armor">
 
+
+<div id="p027v_7" categories="arms and armor">
     
 <head>60 <ms>lb</ms> <wp>musket</wp>,<comment rid="c_027v_01"/> is 5
 <ms><fr>pans</fr></ms> and a half or 6</head>
-<figure id="fig_p027v_7" margin="right-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Z3BiOF9jTFlzdzA">
-
-
-
-
-
-
-
+    
+<figure id="fig_p027v_7" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Z3BiOF9jTFlzdzA">
 </figure>
+
 </div>
+
+
 
 <div id="p027v_8" categories="arms and armor">
 
 <head>5 <ms>quintals</ms> is eleven <ms><fr>pans</fr></ms> and a
 half</head>
-<figure id="fig_p027v_8" margin="bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MVh1MEdHdDZLWmc">
-
-
-
-
-
-
-
+    
+<figure id="fig_p027v_8" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MVh1MEdHdDZLWmc">
 </figure>
 
 </div>
@@ -4046,9 +3973,9 @@ that carries the marked caliber.</ab>
 <head><pro>Pewterers</pro></head>
 
 <ab>They deem the best <m>tin</m> is the one that comes in
- <fr>saulmons</fr>,<comment rid="c_028v_04"/> which has not been remelted since it came from the
+<fr>saulmons</fr>,<comment rid="c_028v_04"/> which has not been remelted since it came from the
 <env>mine</env>, because the <pro>masters</pro> remelt it <del>a</del> in
-grille ingots,<comment rid="c_028v_05"/> weighing two or three <ms>lb</ms>, to easily
+<fr>grille</fr>,<comment rid="c_028v_05"/> weighing two or three <ms>lb</ms>, to easily
 cut it up and sell it by the piece. And in this they often make a mixture of
 leftovers from <m>plates</m>, <m>solder</m> &amp; <m>common tin</m>.
 And to recognize the best one, it is the most lustrous, which looks
@@ -4087,7 +4014,7 @@ always have beside them, they rub the middle of the back of the dish
 
 
 
-<mark>+</mark>
+<mark>+</mark><lb/>
 
 When the <m>tin is fine</m>, one adds less <m>glass-looking tin</m>,
 namely 4 <ms>lb</ms> per <ms>quintal</ms>, but if the <m>tin is base</m>, 
@@ -4296,7 +4223,7 @@ this reason, one can keep it close to the fire.</ab></div>
 <head><m>Lead</m></head>
 
 <ab>The best, fattest &amp; softest is brought from <pl>Germany</pl> and
-is not in <ms><fr>saulmon</fr></ms>,<comment rid="c_028v_04"/> but in <ms><fr>lattes</fr></ms> of around an
+is not in <fr>saulmon</fr>,<comment rid="c_028v_04"/> but in <fr>lattes</fr><comment rid="c_030r_03"/> of around an
 <ms><bp>arm's</bp></ms> length &amp; three <ms><bp>fingers'</bp></ms> width.
 It is transported to <pl>Lyon</pl>, and from this, the leaf is made for
 small mirrors in <pl>Nuremberg</pl>.</ab>
@@ -4305,7 +4232,7 @@ small mirrors in <pl>Nuremberg</pl>.</ab>
 
 <div id="p030r_2" categories="casting" continued="yes">
 
-<head><pro>Pewterer</pro></head>
+<head><comment rid="c_030r_02"/><pro>Pewterer</pro></head>
 
 <ab>They also make their <tl>molds</tl> from <m>metal</m> which lasts
 longer &amp; molds more cleanly than <m><fr>grais</fr></m>,<comment rid="c_008v_02"/> because the
@@ -6512,7 +6439,7 @@ that it wraps around twice. <mark>#</mark> In this manner, the hail
 shot barely scatters &amp; makes for great piercing against a door,
 cuirass body,<comment rid="c_045r_04"/> and others.</ab>
 
-<ab margin="left-middle">
+<ab margin="left-bottom">
 
 
 <comment rid="c_045r_05"/>as <del>D</del> H
@@ -6910,7 +6837,7 @@ and must be <m><tl>luted</tl></m>.</ab>
 </div>
 <div id="p047v_4" categories="casting">
 
-<head>Cast</head>
+<head>Casting</head>
 
 <ab>Finely <m>calcined pumice stone</m> casts 22 <ms>carat</ms>
 <m>gold</m> without repair, but it needs to be ablaze and red like the
@@ -7029,7 +6956,7 @@ tin</m></del> one <ms>lb</ms> of <m>looking glass tin</m> per one
 <ms>quintal</ms> of <m>fine tin</m> &amp; two <ms>lb</ms> &amp; a half
 or three <ms>lb</ms> of <m>red &amp; soft cauldron copper</m>, which
 is better than <m>latten</m>. There is <m>fine &amp; soft tin</m> &amp;
-<m>brittle tin</m>. The brittle one is cast in grille ingots<comment rid="c_028v_05"/>
+<m>brittle tin</m>. The brittle one is cast in <fr>grille</fr><comment rid="c_028v_05"/>
 by the <pro>pewterers</pro> to sell it better. <del><fr>O</fr></del>
 They come out better &amp; more neatly in <tl><m>stone</m> molds</tl>
 than in a <tl><m>copper</m> mold</tl>, because <m>copper</m> is fatty
@@ -7136,7 +7063,7 @@ with very hot <m>tin</m>. They fumigate their <tl><m>tin</m> molds</tl> with
 <tl><m>resin candles</m></tl>.</ab>
 
 <ab><m>Brittle <del><fr>dou</fr></del> tin</m> is found mixed into
-<fr>saulmons</fr>, easy to cut, but difficult to put to use &amp; melt
+<fr>saulmons</fr>,<comment rid="c_028v_04"/> easy to cut, but difficult to put to use &amp; melt
 if it is not mixed with the other soft one. And without this,
 it would become waste.</ab>
 
@@ -9128,7 +9055,7 @@ first drawing.</ab>
 you need to have a <tl><m>thread</m></tl> with some piece of <m>lead</m>
 attached to one end &amp; a little <tl>hook</tl> to the other for
 hanging the said <tl><m>thread</m></tl> from the top of the panel.
-
+</ab>
 <figure id="fig_p062v_2" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5X0hKa0FueWdjMFk">
 
 
@@ -9139,7 +9066,7 @@ hanging the said <tl><m>thread</m></tl> from the top of the panel.
 
 </figure>
 
-</ab>
+
 
 </div>
 
@@ -9673,7 +9600,7 @@ shiny.</ab>
         
 
         
-<head>From nature</head>
+<head margin="left-top">From nature</head>
         
 <ab margin="left-top" render="tall">
 There are some who paint from nature on <m>oiled paper</m>, &amp;
@@ -9753,7 +9680,7 @@ has no body &amp; <del>makes</del> lightens the density of the others.</ab>
 
 
 
-<head margin="left-middle">Imprimatura</head>
+<head margin="left-top">Imprimatura</head>
 
 <ab margin="left-top" render="tall">
 
@@ -9803,7 +9730,7 @@ them lightly &amp; not very thick, to soften them well.</ab>
 <div id="p066r_6" continued="yes" categories="painting">
 
 
-<head><mark>*</mark><lb/>
+<head margin="left-top"><mark>*</mark><lb/>
 
 <m><fr>Or mat</fr></m></head>
 
@@ -10828,8 +10755,7 @@ Rub <m><al>cuttlefish</al> bone</m> on a <tl>well smooth table</tl> to
 flatten it &amp; one against the other &amp; pierce through the two <m>bones</m>
 with <tl>pegs</tl> to mark the place.</ab>
 
-<ab margin="left-top">
-
+<ab margin="left-middle">
 
 
 <tl><m><al>Cuttlefish</al> bone</m></tl> molds <m>lead</m> better than
@@ -12015,14 +11941,14 @@ And if they want their work to stay pierced in any place, they drive in
 <tl>a bit of <m>cork</m></tl> at this place in the <tl>mold</tl>. And
 the <m>lead</m> or <m>tin</m> will not attach to it. </ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 Make sure the <tl>pegs</tl> of your <tl>frame</tl> enter easily so
 that <del>in opening</del> the <tl>frame</tl> will easily open without shifting anything,
 and that your <tl>frames</tl> fit well together, &amp; the <tl>table
 is quite even</tl>. </ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 Try to etch with <m>distilled vinegar</m>.</ab>
 
@@ -12053,11 +11979,11 @@ rather than with a <m>straw</m> flame, which generates
 <m>linen</m></tl>, &amp; dry pounce the medal and then the <m>moistened sand</m>
 that you put on top, which has more body, will grip it.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 <m>Tallow</m> makes it porous.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 <m>Fixed mercury</m> mixed in when one wants to cast, makes
 <del>metal</del> <m>lead</m> run. But if it is pure, one ought to cast
@@ -12265,13 +12191,10 @@ well hot.</ab>
 
 <ab margin="left-top">
 
-
-
 One can make a <tl><m>lead</m> mold</tl>. &amp; to cast in it, <m>smoke</m>
 it with <m><tl>candle</tl> black</m>. But it is never that neat.</ab>
 
-<ab margin="left-top">
-
+<ab margin="left-middle">
 
 
 Never does <m>lead</m> come so neat as <m>tin</m>.</ab>
@@ -12516,9 +12439,9 @@ clean it, for this degreases it, &amp; makes it easier to release afterward.</ab
 </div>
 <div id="p083v_3" categories="tool;metal process" margin="left-middle">
 
-<head><tl>Bellows</tl></head>
+<head margin="left-middle"><tl>Bellows</tl></head>
 
-<ab>To melt with <tl>bellows</tl>, &amp; hasten your melt,
+<ab margin="left-middle">To melt with <tl>bellows</tl>, &amp; hasten your melt,
 &amp; also cast hotter <del><fr>po</fr></del>, do not place your
 <tl>bellows</tl> at the bottom near the foot of the <tl>furnace</tl>,
 for fear that some <m>charcoal</m> might <del>you</del> enter it, put
@@ -12749,15 +12672,15 @@ barely release well and yet they receive <m>metal</m> well.
 <hr/>
 </ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 Try to mix <m>ceruse</m> or <m>minium</m> with other <m>sands</m>.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 <mark>X</mark></ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 <m>Oil</m> &amp; anoint with <m><pa>aspic</pa> oil</m>, which will go
 away when reheating, for the <m>oil</m> makes it porous.</ab>
@@ -12768,7 +12691,7 @@ One ought to moisten with <m>glair</m>, then mix it well. And once in
 the <tl>frame</tl>, beat it on top with a <tl>pestle</tl>, or other
 proper thing, for this makes it mold better and release better. </ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="tall">
 
 It would be good to fill the <tl>frame</tl> all at once, for the
 mixture, made of several <m>sands</m> with <m>the one of the
@@ -12868,12 +12791,7 @@ relief, &amp; on the other in hollow, &amp; of the <ms>thickness of a
 coin of forty <cn>sous</cn></ms>. I cast very hot</ab>
 
 <ab margin="left-middle">
-<mark>X</mark><comment rid="c_084v_02"/>
-
-</ab>
-
-<ab margin="left-middle">
-
+<mark>X</mark><comment rid="c_084v_02"/><lb/>
 <m>Sand from the <env>mine</env></m>, well chosen &amp; well reheated, is the most
 excellent of all, without looking for any other mixtures, because it
 receives all <m>metals</m>. It does not want to be used hot, because it
@@ -12939,7 +12857,7 @@ that you cast all at once. Always <m><tl>lute</tl></m> the entrance of your
 <tl>frame</tl>, for the <m>metal</m>, touching <m>iron</m> or
 <m><fr>metal</fr></m>,<comment rid="c_016v_05"/> </ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 This <m>bone</m> wants to be well <tl>pestled</tl> in a <tl>mortar</tl>, and does
 not want be reheated because it crumbles.</ab>
@@ -13095,7 +13013,7 @@ does not want to be too reheated.</ab>
 neatly. Next, it is true that it often becomes porous, like <m>burned
 earth</m> also does, like <m>fat sand</m> also does.</ab>
 
-<ab margin="left-top">
+<ab margin="left-bottom">
 
 I find that one ought not to knock on <m>very finely ground sands</m>, for it
 shakes them loose, &amp; <del>make</del> prevents them from releasing
@@ -13595,11 +13513,11 @@ for molding is of high relief, first trace the <tl>mold</tl> &amp; hollow it
 with a <tl>penknife</tl>, to make way for the medal &amp; then
 mold. And if the medal has two sides</ab>
 
-<ab margin="left-bottom">Before casting, heat the
+<ab margin="left-middle">Before casting, heat the
 <tl><m>bones</m></tl> in order to make them lose only the coldness &amp;
 dampness.</ab>
 
-<ab margin="left-bottom">When the <m>lead</m> gets too hot, it
+<ab margin="left-middle">When the <m>lead</m> gets too hot, it
 calcines.</ab>
 
 
@@ -13698,7 +13616,7 @@ would make the <m>tin</m> contract.</ab>
 <ab><m>Tin</m> wants to be cast quite hot to come out neat.</ab>
 
 <ab><emph><underline><m>Soft tin</m></underline></emph>, which is the best for the cast, is the
-one that, once cast in grille ingots, is <del>burnished
+one that, once cast in <fr>grille</fr>,<comment rid="c_028v_05"/> is <del>burnished
 &amp;</del> shiny &amp; polished like a mirror, &amp; appears to have
 been burnished. And not have holes like the one that is brittle &amp;
 that is not shiny as if burnished.</ab>
@@ -13984,11 +13902,6 @@ aquafortis</m>, for if it were too hot, it would cook &amp; spoil the
 <m>skin</m>. It is sewn with <m>black thread</m>.</ab>
 
 <figure id="fig_p094r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5YTlFNHRBSVRrOEU">
-
-
-
-
-
 <comment rid="c_094r_09"/>
 </figure>
 
@@ -14519,13 +14432,13 @@ know, pulverize, pass, &amp; mix, and you will have something very
 singular for small works. Take heed when varnishing not to breathe on
 it, for this will make the <m>varnish</m> whiten &amp; take body.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 
 
 It almost dries when working.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 
 
@@ -14823,9 +14736,10 @@ pushes the <tl>mold</tl>. If the <tl>borer</tl>, which should be neither like a 
 tail, nor a point, but be cut in the round like a <tl>wimble</tl>,<comment rid="c_168r_01"/> if it breaks, one ought not to leave it there to rust
 <mark>+</mark></ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="tall">
 
-<mark>+</mark> but immediately take it out of the touch-hole. This
+<mark>+</mark><lb/> 
+but immediately take it out of the touch-hole. This
 you will do by pouring a little <m>oil</m> on it; then
 <del><fr>l</fr></del> turn the place of the touch-hole downward &amp;
 strike the opposite side of the piece, &amp; it will fall down. One
@@ -14961,7 +14875,7 @@ needs to put the <m>saltpeter</m> on some clean <del>thing</del>
 <add>place</add>, &amp; <del>it</del> put <tl>glowing charcoals</tl> on it,
 and continue all over until it no longer burns.</ab>
 
-<ab margin="left-bottom">
+<ab margin="left-middle">
 
 
 
@@ -15016,7 +14930,7 @@ of pure <m>copper</m></tl>.
 
 One needs to reheat <tl>crucibles</tl> before putting in materials, and
 put them in the <tl><fr>fornaise</fr></tl> or <tl><fr>four à
-vent</fr></tl>, before making &amp; increasing the fire.
+vent</fr></tl>, before making &amp; increasing the fire.<lb/>
 
 <figure id="fig_p100v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5QUx4eF9qWU1jS28">
 
@@ -15107,7 +15021,7 @@ as is only <m>vitrified minium</m>, &amp; some <ms>grains of
 <m>gold</m></ms> in a mass at the bottom. <emph>Try cemented <m>gold</m>
 and accompanied with <m>antimony</m></emph>.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 
 
@@ -15116,13 +15030,6 @@ the opening of the glowing <tl>furnace</tl> <tl>tiles</tl>, one against
 the other, for making the heat reverberate.</ab>
 
 <figure id="fig_p101r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dnlodmJvNkRMaWM">
-
-
-
-
-
-
-
 </figure>
 
 </div>
@@ -15174,7 +15081,7 @@ better, in a <tl><fr>four à vent</fr></tl>. And cast it neatly on
 put it in a <tl><oc>crucible</oc></tl> on <ms>as much</ms> <m>saltpeter</m> &amp;
 let it boil, &amp; mix them together until</ab>
 
-<ab margin="left-bottom">
+<ab margin="left-middle">
 
 
 
@@ -15213,7 +15120,7 @@ such a great fire. The <m>ruby</m> wants fire for a whole
 <ms><tmp>day</tmp></ms>, and if it does not have enough fire, it will
 only have red veins.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 
 
@@ -15221,7 +15128,7 @@ Always heat up your <tl>crucibles</tl>.
 
 </ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 
 
@@ -15354,16 +15261,9 @@ pyramid, of the thickness as a <ms>small <tl>knife</tl> back</ms>, round
 on the bottom without bending like <tl>vials</tl>, its opening of such a
 size that a <tl><ms><pl>Dutch</pl> quill</ms></tl> can just about fit
 in, &amp; with a lip at the end. Thus of height of seven
-<ms><bp>fingers</bp>’ width</ms>.
+<ms><bp>fingers</bp>’ width</ms>.<lb/>
 
 <figure id="fig_p102r_1" margin="bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MVhNYTRzOXJzR2M">
-
-
-
-
-
-
-
 </figure>
 
 </ab>
@@ -15430,17 +15330,10 @@ if you want to mold a thick piece in <m>tin</m>, mold it only on one
 side, &amp; with a cavity on one side, if it is possible, in that way
 you will have it more neat, and then you will be able to <m>solder</m>
 two halves together. But if you must mold it thick, make it in the
-form &amp; mold a lot of feeders around the figure, in this
-way.
-
+form &amp; mold a lot of feeders 
 <figure id="fig_p102v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SjZwV0ZHdW93ZEk">
-
-
-
-
-
 </figure>
-
+around the figure, in this way.
 </ab>
 
 </div>
@@ -15453,7 +15346,7 @@ way.
 
 
 
-<head><md>Against <bp>burns</bp></md>, excellent</head>
+<head><md>Against burns</md>, excellent</head>
 
 <ab>Heat <m><pa>linseed</pa> oil</m> on a gentle fire, without letting
 it boil &amp; simmer, but once it is hot put in a <ms>quarter</ms> as
@@ -15468,7 +15361,7 @@ composition <ms><tmp>for the time it takes you to say 8 paternoster</tmp></ms>, 
 you will consecutively <del>until</del> add <m>new water</m>, doing the
 same as above, until the last &amp; single <ms>paternoster</ms> of
 nine. Then you shall have a <m>soft &amp; white ointment</m>, with which
-you shall anoint the <bp>burn</bp> <ms><tmp>for the space of 9 days</tmp></ms>.
+you shall anoint the burn <ms><tmp>for the space of 9 days</tmp></ms>.
 But <md>do not apply it any longer than this, for it would cause
 <del><fr>a</fr></del> your <bp>flesh</bp> to grow excessively</md>. You
 <del>b</del> shall bandage yourself <ms><tmp>twice a day</tmp></ms>,
@@ -15479,7 +15372,7 @@ pressing with a <tl>wet linen cloth</tl>, and you shall wipe it similarly
 the <m>ointment</m>, over which you can put <m><pa>ivy</pa> leaves</m>.
 This <md>causes <bp>hair</bp> to regrow</md> &amp; <md>leaves no scar</md>. A
 <pro>gunpowder maker</pro> who had almost completely burnt himself
-<del><fr>m’a</fr></del> &amp; showed no sign of the <bp>burn</bp>, taught me
+<del><fr>m’a</fr></del> &amp; showed no sign of the burn, taught me
 this.</ab>
 
 </div>
@@ -15573,7 +15466,7 @@ those who have a <md><bp>headache</bp></md>, all the <m>foam</m> will dissipate.
 <ab>
 
 For recognizing well their difference and their true color by
-candlelight, you need to put your <tl>candle</tl> behind a
+<tl>candlelight</tl>, you need to put your <tl>candle</tl> behind a
 <tl><m>crystal</m> mirror</tl>, or a <tl><m>glass</m> globe or jar</tl>
 full of <m>water</m>, because this light is like
 <env>sunlight</env>.</ab>
@@ -15697,14 +15590,7 @@ form will be of good release.</ab>
 
 <head><mu>Spinet</mu> playing by itself</head>
 
-<figure id="fig_p104v_1" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5cWFSaUU5a2R6N2s">
-
-
-
-
-
-
-
+<figure id="fig_p104v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5cWFSaUU5a2R6N2s">
 </figure>
 
 <ab>Make an axle surrounded with wheels pierced all around the edge and
@@ -15838,7 +15724,7 @@ shield are later to bear fruit than those by cleft.</ab>
         
 
         
-<head><al>Nightingale</al></head>
+<head margin="left-top"><al>Nightingale</al></head>
         
 <ab margin="left-top">
 It is necessary that the <m>iron</m> wire of its cage be of the
@@ -15869,7 +15755,7 @@ broth is kept a little bit cold, it engenders <al>worms</al> in it.</ab>
         
 
         
-<head><al>Nightingale</al></head>
+<head margin="left-top"><al>Nightingale</al></head>
         
 <ab margin="left-top" render="tall">
 
@@ -15992,7 +15878,8 @@ fire twice, &amp; is reheated twice.</ab>
 
 <ab margin="left-middle">
 
-<mark>+</mark> When <m>gold</m> is very fine, it is so dry that it
+<mark>+</mark><lb/>
+When <m>gold</m> is very fine, it is so dry that it
 can hardly endure a <tl>hammer</tl>, but this mixture softens it like
 <m>lead</m>.</ab>
 
@@ -16112,10 +15999,10 @@ binding to <m>sand</m>.
 <hr/>
 </ab>
     
-<ab margin="left-bottom" render="extra-wide">
+<ab margin="left-bottom" render="wide">
 
 
-<mark>#</mark> remains reheated, &amp; <del>more</del> the
+<mark>#</mark><lb/> remains reheated, &amp; <del>more</del> the
 quickest it is put to use, that is the best, for it sets more quickly.
 One ought not to reheat it until you want to mold. And to reheat it, put
 it, as finely ground raw powder, in a <tl>cauldron</tl> on
@@ -16229,7 +16116,7 @@ fine.</add></ab>
 
 
 
-<ab margin="top">
+<ab margin="top" render="extra-wide">
 
 <tl>Molds</tl> can only be used once for
 delicate things, like <pa>wormwood</pa> &amp; others, one needs to break
@@ -16408,7 +16295,8 @@ inside it remains white &amp; better dried out <mark>#</mark></ab>
 
 <ab margin="left-middle">
 
-<mark>#</mark> After your <m>feather alum</m> is cooled,
+<mark>#</mark><lb/>
+After your <m>feather alum</m> is cooled,
 <tl>pestle</tl> it in a <tl>mortar</tl>, then grind it on <tl><m>marble</m></tl>, and it will be rendered in very fine wooly
 filaments, which gives binding to the <m>sand</m>, without getting burned as
 other things do, which is a beautiful invention. <tl>Pestle</tl> it in the
@@ -16478,7 +16366,7 @@ a shape or image of <m>wax</m>, one needs to anoint it with <m>oil</m>
 and moisten your <m>sand</m> with <m>lukewarm water</m>, for the <m>cold
 water</m> would repel more the <m>oil</m> &amp; would not have a good seating on it.</ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="tall">
 
 
 
@@ -16706,7 +16594,8 @@ dry &amp; makes the remainder dry out. It is necessary that the hair or
 down of any animal that you want to mold be flat, for it were upright it
 would elevate the <m>sand</m> &amp; become porous.</ab>
 
-<ab margin="left-middle"><mark>#</mark> If you want to mold
+<ab margin="left-middle" render="tall"><mark>#</mark><lb/>
+If you want to mold
 something delicate, like a <pa>pansy</pa>, some, to give it a little
 thickness, more than what is natural, some rub it with <m>butter</m>. But it
 is best to anoint it with <m><pa>wheat</pa> oil</m> for it has no body
@@ -16734,9 +16623,9 @@ with <m>fine tin</m>, I put in two <ms>ounces</ms> of <m>fine lead</m>
 for one <ms>pound</ms>. I made plants &amp; <al>snakes</al> just like
 nature.</add></ab>
 
-<ab margin="left-bottom"><del><fr>S<ill/></fr></del></ab>
+<ab margin="left-middle"><del><fr>S<ill/></fr></del></ab>
 
-<ab margin="left-bottom">
+<ab margin="left-middle">
 
 I cast <m>tin</m> almost red, and <m>lead</m> the same, which however
 had not remained in the fire for too long, for it becomes brittle and
@@ -16805,20 +16694,6 @@ The gray one is best, which does not crack at all.</ab>
 
 It is more appropriate than a <tl>blade of <m>lead</m></tl>.</ab>
 
-<ab margin="left-middle">
-
-
-
-<figure id="fig_p111r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5X085N09VejNheTQ">
-
-
-
-
-
-</figure>
-
-</ab>
-
 </div>
 
 <div id="p111r_5" categories="casting;tool">
@@ -16837,6 +16712,12 @@ throughout, except at the point. And then, one must make them as long as
 you have need of. <m>Iron wire is firmer</m> than <m>that of
 latten</m>.</ab>
 
+<ab margin="left-middle">
+        
+<figure id="fig_p111r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5X085N09VejNheTQ">
+</figure>
+        
+</ab>
 </div>
 </root><root page="111v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f228.image">
 
@@ -16941,7 +16822,7 @@ makes <tl>molds</tl> too soft &amp; breakable.
 
 </ab>
 
-<ab margin="left-bottom">
+<ab margin="left-middle">
 
 
 
@@ -16969,20 +16850,13 @@ it creates a better bond.</ab>
 <tl>bowl</tl>. <del>The big <tl>basin</tl> is <fr>pour
 tr</fr></del></ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 To make handles for your <tl>large <m>oil</m> paintbrushes</tl>, if you do
 not have large enough <tl><m>feather</m> quills</tl>, take two of them,
 &amp; slit them &amp; join them together.</ab>
 
-<figure id="fig_p112r_1" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MHphUzNsdW9DQ1U">
-
-
-
-
-
-
-
+<figure id="fig_p112r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MHphUzNsdW9DQ1U">
 </figure>
 
 </div>
@@ -17010,7 +16884,8 @@ want to mold <del><fr>de</fr></del> in this manner.</ab>
 
 <ab margin="left-middle">
 
-<mark>#</mark><comment rid="c_112r_03"/> except for the <m>feather alum</m> which
+<mark>#</mark><comment rid="c_112r_03"/><lb/>
+except for the <m>feather alum</m> which
 should be ground in a <tl>mortar</tl>.</ab>
 
 </div>
@@ -17034,13 +16909,13 @@ vinegar</m> &amp; <m><bp>urine</bp></m> that it can be covered. And shake it
 &amp; torment it therein until it is dead, which will be in <ms><tmp>an hour or a half</tmp></ms>. But if you are in a
 hurry</ab>
 
-<ab margin="left-bottom">
+<ab margin="left-middle">
 
 To know if it is quite dead, take it out of the <m>vinegar</m> and take
 it by the tail. If it moves it, do not mold it for it still has feeling,
 &amp; when piercing it, it would draw back &amp; spoil the mold.</ab>
 
-<ab margin="left-bottom">
+<ab margin="left-middle">
 
 <al><env>Water</env> snakes</al> hardly bite.</ab>
 
@@ -17067,7 +16942,7 @@ When your animal is dead, take it out &amp; clean it carefully of its
 old skin, if it sheds, or of the <m>filth</m>, or of the <al>lice</al>, like
 <al>lizards</al> have, and then arrange it thus.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 
 
@@ -17075,7 +16950,7 @@ now, put enough in a <tl>glass</tl>, &amp; soak there &amp; keep there
 continually the head of the animal, or the whole of it, if it is not
 big.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 
 
@@ -17128,7 +17003,7 @@ passing through the animal are fixed in the <po>cake</po> of earth,
 and not so far in front that they jut out beyond the body of the animal
 by a</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 
 
@@ -17153,7 +17028,7 @@ the <tl>point</tl> out, it replaces the skin in its original state.</ab>
 When you put again the <tl>points</tl> you have already used, clean them
 well of <m>rust</m>, so that they do not take away some skin.<hr/></ab>
 
-<ab margin="bottom">
+<ab margin="bottom" render="extra-wide">
 
 
 
@@ -17210,21 +17085,11 @@ by lightly pressing. Thus having placed your animal on the
 circle of the same
 
 <figure id="fig_p113r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5YkE1Vm1ZMmRoVm8">
-
-
-
-
-
 </figure>
 
 <m>earth</m>, in this way
 
 <figure id="fig_p113r_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aW1sekxQWGJJY0E">
-
-
-
-
-
 </figure> &amp; join everything well together in a circle, then, with a
 big <tl>knife</tl>, with which you have cut your <po>cake</po> to
 the right size, trim the outside which exceeds it, &amp; place there a
@@ -17244,16 +17109,9 @@ have thus moistened everything with <m>eau-de-vie</m>, cast
 in your <m>wetted sand</m> without letting the <m>eau-de-vie</m> dry,
 which evaporates promptly. And wet it thus.</ab>
 
-<ab margin="left-top">
-
-
+<ab margin="left-middle">
 
 <figure id="fig_p113r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MDEzX0RhXzJGcXc">
-
-
-
-
-
 </figure><comment rid="c_113r_03"/>
 
 and make sure that the <tl>point</tl> is long according to the height
@@ -17281,18 +17139,11 @@ animal with <m>eau-de-vie</m> &amp; under the belly so that it
 does not dry &amp; attach itself to the <m>earth</m>
 
 <figure id="fig_p113r_4" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Qm8wSlJPOWxfZWM">
-
-
-
-
-
 </figure>
 
 </ab>
 
-<ab margin="left-bottom">
-
-
+<ab margin="left-middle" render="tall">
 
 If, when you pierce your animal, it renders <m>water</m> from the bottom
 of the side of the belly, on the slab of <m>earth</m>, clean it well
@@ -17328,9 +17179,6 @@ first one will set &amp; become solid,</ab>
 <div continues="yes" id="p113r_1" categories="casting">
 
 
-
-
-
 <ab>such that, while reheating, the two casts will unjoin. <del><fr>Et
 pour pl</fr></del> Therefore, for this effect, take several <tl>bowls of
 different size, which have a lip</tl>, to cast better. In these pour
@@ -17355,11 +17203,6 @@ a little thicker than the top, until everything is filled, up to the
 mark for thickness that you made.
 
 <figure id="fig_p113v_4" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bEE5QmFaQWxUYm8">
-
-
-
-
-
 </figure> And do not forget to shake the <tl>mold</tl>
 <del><fr>affin</fr></del> while throwing, in order that the <m>wetted sand</m> runs
 &amp; enters well everywhere. Also tip your <tl>mold</tl> up on the side
@@ -17378,34 +17221,19 @@ cleanly thus. And do not forget to make notches around, in order that the
 second cast anchors itself there &amp; binds better
 
 <figure id="fig_p113v_5" link="https://drive.google.com/open?id=0B9-oNrvWdlO5V29QdUxZVmxCUDQ">
-
-
-
-
-
 </figure> without changing.</ab>
 
-<ab margin="left-top">
-
-
-
+<ab margin="left-middle">
 If you can, fill your half <tl>mold</tl> in one go &amp; with
 <del><fr>la pre</fr></del> one tempered batch it is the best.</ab>
 
-<ab margin="left-top">
-
-
-
-<mark>#</mark>
-
+<ab margin="left-middle">
+<mark>#</mark><lb/>
 <ms>or two <m>eggs</m></ms>, because there is no risk if there will be more.
 <del>And the <m>water</m></del> If you cast in two goes, it is enough
 to put <m>sal ammoniac water</m> at the first bowlful. </ab>
 
-<ab margin="left-top">
-
-
-
+<ab margin="left-middle">
 Make it clear like a <m>pureed broth</m>, or like <m>starch
 water</m>, that <pro>women</pro> use to make their <m>starch</m>. For
 there is no risk in it being very clear, because <m>sand</m> always settles in
@@ -17414,27 +17242,15 @@ scrapes as well <ill/><fr>mme</fr> too weak &amp; soft. And it will not let
 itself set quickly, for all things calcined dry out promptly from mixed
 <m>water</m>.</ab>
 
-<ab margin="left-bottom">
-
-
-
+<ab margin="left-middle">
 <figure id="fig_p113v_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dEdzS040X3RjbkU">
-
-
-
-
-
 </figure>
-
 If you do not fill in one go your <tl>mold</tl>
 <del>tempered</del> with <m>tempered sand</m>, take heed to stir your
 second cast with the <del><fr>e p</fr></del> surface of the first,
 <del><fr>p</fr></del> by mixing with your <tl>spoon</tl> or <tl>spatula</tl> with which you temper it.</ab>
 
-<ab margin="left-bottom">
-
-
-
+<ab margin="left-middle" render="wide">
 <m>Sal ammoniac water</m> is not necessary to small
 <tl>molds</tl>, which require neither a big nor long fire to be
 reheated, however, when you put some in, it will only be better. <ill/>
@@ -17443,9 +17259,8 @@ reheated, however, when you put some in, it will only be better. <ill/>
 
 </div>
 
+
 <div id="p113v_1" categories="casting">
-
-
 
 <head><del>Second cast</del></head>
 
@@ -17525,7 +17340,7 @@ Remove with your <tl>small flat pincers</tl>, all the <tl>points</tl>.</ab>
 
 <ab margin="left-middle">
 
-<figure id="fig_p114r_4" link="https://drive.google.com/file/d/17F847nLWSWShsQsXGUlruIM-6qZBHWkw">
+<figure id="fig_p114r_4" link="https://drive.google.com/open?id=17F847nLWSWShsQsXGUlruIM-6qZBHWkw">
 </figure>
 
 and then
@@ -17535,8 +17350,8 @@ and then
 
 <ab margin="left-middle">
 
-<figure id="fig_p114r_7" link="https://drive.google.com/file/d/1E6KtaMUmbjA5oNRc2Rzq23yjVIA5n_GV">
-</figure><comment rid="c_114r_04"/>
+<figure id="fig_p114r_7" link="https://drive.google.com/open?id=1E6KtaMUmbjA5oNRc2Rzq23yjVIA5n_GV">
+</figure><comment rid="c_114r_04"/><lb/>
 
 However, leave the <tl>point</tl> of the throat, so that it serves as a
 clue to find the head, which is deeper down than any other part, because
@@ -17548,7 +17363,7 @@ with this one to uncover, and follow the rest through the trace of the
 
 <ab margin="left-middle">
 
-<mark>#</mark>
+<mark>#</mark><lb/>
 
 And if some bit of nail from a leg, or from a tail, or from another
 should separate from the <tl>mold</tl>, put <del><fr>y</fr></del>
@@ -17571,20 +17386,10 @@ half binds to it.🝋
 
 
 
-<div continues="yes" id="p114r_1" categories="casting">
+<div continues="yes" id="p114r_1" categories="casting" continued="yes">
 
 
-
-
-
-<figure id="fig_p114v_1" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dmlRQm1lTjc4aXc">
-
-
-
-
-
-
-
+<figure id="fig_p114v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dmlRQm1lTjc4aXc">
 </figure>
 
 <ab>This thus prepared, place your <del><fr>de</fr></del> first
@@ -17615,7 +17420,7 @@ the other, to avoid breaking any of it, or also spoiling something from
 the <tl>mold</tl>. <del><fr>Et</fr></del> The latter being empty,
 <del><fr>retire</fr></del> rejoin the two halves so that no dust
 enters it, &amp; put them aside until you want to reheat them, make the
-cast &amp; vents, &amp; place <tl>clamps</tl>. As for the animal, so
+gate &amp; vents, &amp; place <tl>clamps</tl>. As for the animal, so
 that it does not dry &amp; that you might be able to mold it four of
 five times, put in <m>water</m>. And I think that it would keep even
 better in <m>eau-de-vie</m>. However, the best would be to mold
@@ -17624,26 +17429,19 @@ because these corrupt animals in themselves are in one <ms><tmp>day</tmp></ms><s
 <del><fr>es</fr></del> <ms><tmp>days</tmp></ms> to dry, for they stay
 damp for a good <ms><tmp>month</tmp></ms>, make the vents on one
 half.<figure id="fig_p114v_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dkk3MW10YzNIbDg">
-
-
-
-
-
 </figure><comment rid="c_114v_01"/></ab>
 
-<ab margin="left-top">
 
+<ab margin="left-middle">
 
-
-<mark>+</mark> Note that when you have made your second
+<mark>+</mark><lb/> Note that when you have made your second
 <add>cast</add>, were you to leave your <tl>mold</tl> for one
 <ms><tmp>day</tmp></ms> or a <ms><tmp>night</tmp></ms> without opening
 it, you would need to then dip it in <m>hot water</m>, or else reheat it
 before opening it, as for <al>crabs</al>.</ab>
 
-<ab margin="left-top">
 
-
+<ab margin="left-middle">
 
 If after both halves of the <fr>noyau</fr> have made a strong &amp; hard set, you
 would not dip your <tl>mold</tl> in <m>water</m>, it would not unjoin at
@@ -17651,9 +17449,8 @@ all. But as you dip the reverse of the <tl>mold</tl> in <m>water</m>,
 the imbibed <m>oil</m> collects at the top &amp; at the level of the
 joints &amp; makes it separate.</ab>
 
+
 <ab margin="left-middle">
-
-
 
 However, take heed your second <tl>mold</tl> be of good thickness &amp;
 that it is hard enough because if it is lacking in this, after having
@@ -17667,22 +17464,14 @@ wanted to tear apart a loaf of <m>bread</m>. But if happens to break, join
 it &amp; on the reverse, strengthen the joints with <tl>clamps</tl>.
 
 <figure id="fig_p114v_4" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NmZxVUxKTmhYSXM">
-
-
-
-
-
 </figure>
 
 </ab>
 
-<ab margin="bottom" continued="yes">
 
-
+<ab margin="bottom">
 
 Next, you can repair the faults with small <tl>chisels</tl>.
-
-
 
 </ab>
 
@@ -17695,32 +17484,25 @@ Next, you can repair the faults with small <tl>chisels</tl>.
 <div continues="yes" id="p114r_1" categories="casting">
 
 
-
-
-<ab>
+<ab margin="left-middle" render="tall">
         
-<figure id="fig_p115r_1" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NmVuVUloTy0zNWc">
-            
-
-            
-
-            
-
-            
+<figure id="fig_p115r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NmVuVUloTy0zNWc">
 </figure><comment rid="c_115r_01"/> 
+    
 if you want, which will be enough, or else on the two halves.
 But because one needs to cast by the tail or from the back of the
 animal, make it so that the vents come from the head &amp; the middle of
-the body to join to the said tail, where the cast is done, which is the
-end of the mandore. And having done your cast, do not forget to make in
-it some holes and notches because the metal will run more neatly, as if
+the body to join to the said tail, where the gate is done, which is the
+end of the mandore. <del><fr>N</fr></del>And having done your cast, do not forget to make in
+it some holes and <del><ill/></del>notches because the metal will run more neatly, as if
 the cast was even, for it gets corrupted in its notches &amp; holes,
 &amp; does not go so much at once, &amp; does not become as porous. This
-done, join the two halves of your <tl>mold</tl> &amp; strengthen the joints,
+done, <del><fr>mects</fr></del> join <del><fr>t</fr></del>the two halves of your <tl>mold</tl> &amp; strengthen the joints,
 putting around these some small <tl>clamps</tl> of iron wire of this shape. They
 prevent the <tl>molds</tl> from deforming &amp; corrupting while reheating.</ab>
 
 </div>
+
 
 <div id="p115r_1" categories="casting">
 
@@ -17748,6 +17530,7 @@ will not have set with the first hardened one.</ab>
 
 </div>
 
+
 <div id="p115r_2" categories="casting">
 
 <head>Animal after release</head>
@@ -17766,13 +17549,6 @@ the <tl>mold</tl>, having set, is so firm that, because of this, the
 imprint will not be spoiled. </ab>
 
 <figure id="fig_p115r_3" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aS1ZeHc2dGxJTE0">
-
-
-
-
-
-
-
 </figure>
 
 </div>
@@ -17783,20 +17559,15 @@ imprint will not be spoiled. </ab>
 
 <ab>After your <tl>molds</tl> have been reheated <del><fr>le</fr></del>
 &amp; cleaned, casting soonest is best, because if you keep them, they
-get corrupted and damp. Reheat the thickest part, where the body of the animal is, at the top, so that, if there is something inside to burn, it falls to the bottom.</ab>
+get corrupted and damp. Reheat the thickest part, where the body of the animal is, 
+at the top, so that, if there is something inside to burn, it falls to the bottom.</ab>
 
 <ab>Mark the part on top to recognize it</ab>
 
-<ab>It can only be good to let the <tl>mold</tl> die down a little from the outside <del>so long as</del>, being well reheated, so long as it remains red on the inside when you will cast.</ab>
+<ab>It can only be good to let the <tl>mold</tl> die down a little from the outside 
+<del>so long as</del>, being well reheated, so long as it remains red on the inside when you will cast.</ab>
 
-<figure id="fig_p115r_4" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Xzg4WTZ2NFNkOHM">
-
-
-
-
-
-
-
+<figure id="fig_p115r_4" margin="bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Xzg4WTZ2NFNkOHM">
 <caption>This is the shape of the <tl>clamps</tl></caption>
 
 </figure>
@@ -17826,7 +17597,7 @@ the plant, it will get cold before arriving there. And do not forget to
 mix in it a little <m>looking-glass tin</m>, which makes it run better
 &amp; firms it up.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 In the <m>lead alloyed with tin</m>, or <m>tin alloyed with lead</m>,
 you can put a little bit of <m><fr>metalline</fr></m> &amp; it will seem
@@ -17835,6 +17606,7 @@ you can put a little bit of <m><fr>metalline</fr></m> &amp; it will seem
 similar things, it would not be appropriate.</ab>
 
 </div>
+
 
 <div id="p115v_2" categories="casting">
 
@@ -17848,6 +17620,7 @@ very fine, you can pass a <tl>thread</tl> through the
 give air &amp; venting, to help clean.</ab>
 
 </div>
+
 
 <div id="p115v_3" categories="casting" continued="yes">
 
@@ -17874,7 +17647,7 @@ it will be enough that they are dried well on the same fire, if it is
 for casting <m>tin</m>. They reheat better in a <tl>reverberatory
 furnace</tl>.</ab>
 
-<ab margin="left-middle">
+<ab margin="left-top">
 <hr/>
 Do not pull out your <tl>reheated molds</tl> from the fire before they
 have cooled themselves, &amp; take care that the <env>wind or the
@@ -17883,38 +17656,25 @@ must not reheat them before they are dry and firmed up for they would
 cast in a different way, and it is necessary beforehand to make gates
 &amp; vents &amp; place <tl>clamps</tl>.</ab>
 
-<ab margin="left-bottom">
-
-
+<ab margin="left-middle">
 <figure id="fig_p115v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dHVja3NnV0dmMlk">
-
-
-
-
-
 </figure>
 Take care not to heat the fire in one go, for fear <del><fr>f</fr></del>
 that your <tl>molds</tl> crack inside.</ab>
 
-<ab margin="left-bottom">
+<ab margin="left-middle">
 
 They are reheated enough when the entire hole of the gate is red. When
 it is black, it is not enough.</ab>
 
-<ab margin="left-bottom">
+<ab margin="left-middle">
 
 For casting in <m>silver</m>, one must not reheat two times
 <del>&amp;</del>, if there is nothing in the <tl>mold</tl> that needs
 <del><fr>despouiller</fr></del> burning, simply because it does not
 release well. All the <tl>molds</tl> of flowers are reheated
 two times, first for <figure id="fig_p115v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bXhqSkVQbkgwYjQ">            
-
-        
-
-        
 </figure></ab>
-
-
 
 
 </div>
@@ -17926,19 +17686,9 @@ two times, first for <figure id="fig_p115v_2" link="https://drive.google.com/ope
 <div continues="yes" id="p115v_3" categories="casting">
 
 
-
-
-
-<ab margin="left-top">
-
-
+<ab margin="left-bottom">
 
 <figure id="fig_p116r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SEdPVDdsS2dEUmM">
-
-
-
-
-
 </figure>
 
 burning the plants, flowers, and animal parts which are left inside. Next, one
@@ -17952,14 +17702,13 @@ reheated on a <tl>grate</tl>.
 
 </div>
 
+
 <div id="p116r_1" categories="casting">
-
-
 
 <head>Molding bouquets, plants, and flowers</head>
 
 <ab> One needs to mold them as soon as they are picked because they
-<del><fr><ill/></fr></del> wilt &amp; dry out. Dip them, therefore,
+<del><fr>ont</fr></del> wilt &amp; dry out. Dip them, therefore,
 immediately in good <m>eau-de-vie</m> &amp; then put them in your
 <tl>tempered <m>sand</m> mold</tl>, like <al>snakes</al>. For which one needs no
 release, for while the <tl>molds</tl> being <del><fr>s</fr></del>
@@ -17971,10 +17720,9 @@ because, if it were thick, it would crush the flower.
 </ab>
 
 </div>
+    
 
 <div id="p116r_2" categories="casting">
-
-
 
 <head>Molding <del><fr>de</fr></del> <fr>en noyau</fr> with the same
 <m>sand</m>, <m>wax</m> images or <m>lead</m> medals and suchlike</head>
@@ -17997,10 +17745,7 @@ out of the <del><fr>e</fr></del> <del><fr>la</fr></del> <tl>mold</tl>, which is
 tenacious, as are the natural animals, which are soft &amp;
 flexible.</ab>
 
-<ab margin="left-middle">
-
-
-
+<ab margin="left-middle" render="tall">
 
 When you have tempered your <m>sand</m>, do not cast it in the middle of the
 <tl>mold</tl>, but on the sides, so that the <m>sand</m> descends gently, and
@@ -18012,9 +17757,8 @@ is too thin. Make it therefore of medium thickness.
 
 </div>
 
+
 <div id="p116r_3" categories="casting">
-
-
 
 <head>Casting for <m>gold</m> and <m>silver</m></head>
 
@@ -18028,9 +17772,8 @@ without shaking the <tl>mold</tl> &amp; does not become as porous.</ab>
 
 </div>
 
+
 <div id="p116r_4" categories="metal process">
-
-
 
 <head>A way to <del>grind</del><comment rid="c_116r_04"/> <m>enamel</m> <ms><del>gold</del></ms>
 very delicate <m>gold</m> <pa>rose</pa> leaves and others</head>
@@ -18071,7 +17814,7 @@ it being in a writhing shape, with <m>common plaster</m>, <add>reheated as said<
 they have <al>snakes</al> that they can twist as they like, and then
 they cast them in <m>metal</m>, as is said.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 If, in twisting the <al>snake</al> from <m>wax</m>, some feature becomes
 undone, you can repair it by removing the protrusions from the molded
@@ -18102,7 +17845,7 @@ thin, one needs for it to be almost all <m>tin</m>.
 
 </ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="tall">
 If you <del>mold more</del> want to cast <del>in</del> <m>lead</m> or
 <m>tin</m> <fr>en noyau</fr> in the aforementioned <m>sand</m>, reheat your
 <tl>mold</tl> once, only if there is nothing to burn inside. But if it
@@ -18189,45 +17932,24 @@ adapt two vent holes with two <tl>small sticks</tl>, starting at the
 foot of the cast, which is the pointed end of the <tl><m>wax</m>
 peg</tl>.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 If the plants are so delicate that they rise to the top when you pour
 the <m>tempered sand</m>, one can fix and contain them with a <tl>thread</tl>
 passed through the circle of the <tl>mold</tl> with a
 <tl>needle</tl>.</ab>
 
-<figure id="fig_p117r_1" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5WnpBbm8wN2gyTWs">
-
-
-
-
-
-
-
+<figure id="fig_p117r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5WnpBbm8wN2gyTWs">
 </figure>
 
 <figure id="fig_p117r_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5VURRYzlWOFByNzQ">
-
-
-
-
-
-
-
 </figure>
 
 <ab margin="left-middle">
 
 The more delicate the fllower is, the thinner the <m>sand</m> must be.</ab>
 
-<figure id="fig_p117r_3" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dVB5bzVUWWJuS0U">
-
-
-
-
-
-
-
+<figure id="fig_p117r_3" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dVB5bzVUWWJuS0U">
 <caption><tl>Mold <fr>en noyau</fr></tl>.</caption>
 
 </figure>
@@ -18257,7 +17979,7 @@ perfection of the cast. It is true that if it is to empty the
 <m>calcined bones of the animal</m>, because the aforesaid <m>☿</m> will
 come out &amp; not remain.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 The <pa>asparagus</pa> stalk is so hard that most often it remains as
 <m>charcoal</m>. Because of this, dry it out beforehand, or wet it with
@@ -18265,7 +17987,7 @@ The <pa>asparagus</pa> stalk is so hard that most often it remains as
 branches &amp; <m>solder</m> them onto a thick stalk drawn through the
 <tl>wire drawing plate</tl>.</ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="tall">
 
 If the burnt thing has left some <m>filth</m> or <m>ash</m>, let it cool
 a little, &amp; with an <tl><m>iron wire</m> wrapped in
@@ -18465,7 +18187,7 @@ way, they dry out gently. And if, by chance, they should crack from
 being too moistened, it is on the back, which <del><fr>pr</fr></del>
 takes the harshest fire, &amp; the imprint remains safe &amp;
 whole.</ab>
-<ab margin="left-top">
+<ab margin="left-middle">
 For better, one needs to reheat the <m>sand used for the <fr>noyau</fr></m>
 before using it in <tl>frame</tl>, until it no longer
 contracts.</ab>
@@ -18552,7 +18274,7 @@ medal came out as neat as the principal.<comment rid="c_137r_03"/> I <m>smoked</
 <tl><m>candle</m></tl> &amp; cleaned it with <tl>small
 brushes</tl>.</ab>
 
-<ab margin="left-middle">
+<ab margin="left-bottom">
 
 Always cast through the foot of the medal because the head, which is
 lower, will come out better, &amp; make the cast longish. And when you
@@ -18641,17 +18363,13 @@ aside the one that served for casting <m>lead</m> &amp; <m>tin</m> &amp;
 out of it well. And to do this better, you could put it aside to be used
 for each <m>metal</m>. </ab>
 
-<ab margin="left-top">
-
-
+<ab margin="left-middle">
 
 See <pn>Gesnerus</pn><comment rid="c_119v_02"/>, <la>De lapidibus</la><comment rid="c_119v_03"/>
 
 </ab>
 
-<ab margin="left-top">
-
-
+<ab margin="left-middle">
 
 It endures ten or twelve castings without corrupting, it withstands the
 fire &amp; reddens, it is suitable for all <m>metals</m>. It is so
@@ -18660,8 +18378,6 @@ tenacious that should the <tl>frame</tl> be straked, it holds.
 </ab>
 
 <ab margin="left-middle">
-
-
 
 The <m><de>spat</de></m> almost does not set, even though it is reheated &amp; is
 a kind of <m>plaster</m>. Raw, it breaks easily with the
@@ -18724,7 +18440,7 @@ to which it comes out very neatly. But it is good that your
 <tmp>days</tmp> and <del>three <tmp>days</tmp></del> and three
 <tmp>nights</tmp></ms>, in a <tl>flat box</tl>, where it not be very thick, so that it reheats better.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 You could cast <m>gold</m> well in <m>common sand of
 <pro>goldsmiths</pro></m>, should you throw therein some substance that makes it
@@ -18733,7 +18449,7 @@ flowers in <m>silver</m>, but not at all in <m>gold</m>. It has not been
 forty <ms><tmp>years</tmp></ms> that one knows this in
 <pl>Germany</pl>.</ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="tall">
 
 <m>Sublimate</m> is commonly employed by <pro>goldsmiths</pro> for
 <m>gold</m>. Some add <m>sulfur</m>, but they &amp; others are wrong,
@@ -18787,14 +18503,12 @@ do so until it</ab>
 <div continues="yes" id="p120r_3" categories="casting;animal husbandry">
 
 
-
-
-
 <ab>eats by itself. And to entice it better, you could add amongst the
 <m>meat &amp; the egg</m> some <m>live <al>mealworms</al></m>, for it is
 very fond of them.</ab>
 
 </div>
+
 
 <div id="p120v_1" categories="casting;medicine">
 
@@ -18811,6 +18525,7 @@ very fond of them.</ab>
 
 </div>
 
+
 <div id="p120v_2" categories="preserving">
 
 <head>Anatomy</head>
@@ -18819,6 +18534,7 @@ very fond of them.</ab>
 put it into <m>good quicklime</m>.</ab>
 
 </div>
+
 
 <div id="p120v_3" categories="casting">
 
@@ -18848,9 +18564,8 @@ filings</m>, <m>antimony</m> &amp;</add></ab>
 
 A little <m>tallow</m> and <m>arsenic</m>.</ab>
 
-<ab margin="left-middle"><mark>+</mark></ab>
-
 </div>
+
 
 <div id="p120v_6" categories="preserving" continued="yes">
 
@@ -18860,7 +18575,8 @@ A little <m>tallow</m> and <m>arsenic</m>.</ab>
 
 <figure id="fig_p120v_3" link="https://drive.google.com/file/d/1Sbuw9J8eX42Yhyp56CQoO7gShZRMVkn9"/>state <tmp>all year</tmp></head>
 
-<ab margin="left-middle">
+<ab margin="left-top">
+<mark>+</mark><lb/>
 Flowers are also kept in their same beauty in <m>distilled vinegar</m>
 <del><fr>v</fr></del>in a <tl>well sealed vessel</tl> which does not
 allow any wind, which should be well sealed with <m>wax</m> &amp;
@@ -18923,9 +18639,6 @@ them.</ab>
 <div continues="yes" id="p120v_6" categories="preserving">
 
 
-
-
-
 <ab>a sign that it has some humidity, &amp; if the flower also had some
 aquosity, it would rot. It also ought not to be <del>too</del> coarse,
 for with its heaviness it would weigh down the flower &amp; make it lose
@@ -18952,9 +18665,7 @@ take heed that you choose for that effect <pa><po>cornflowers</po></pa>,
 lupina</pa></la>,<comment rid="c_121r_02"/> <pa>amaranth</pa> &amp; suchlike, and <pa>broom</pa>,
 and others that your experience will teach you.</ab>
 
-<ab margin="left-top">
-
-
+<ab margin="left-middle">
 
 The <m>sand with which <pro>goldsmiths</pro> buff <m>enamels</m> or the
 white one that <pro>glassmakers</pro> use</m> &amp; <m>any lean sand that does
@@ -18966,15 +18677,12 @@ rid of that dust, &amp; well dried, use it as you know.</ab>
 
 <ab margin="left-middle">
 
-
-
 <pa>Pansies</pa> are kept thus.</ab>
 
 </div>
 
+
 <div id="p121r_1" categories="preserving">
-
-
 
 <head>For keeping fruits all <tmp>year</tmp></head>
 
@@ -18990,9 +18698,7 @@ would be all the better. Put them in a <tl>case</tl> in your
 <env>well</env>, or in your <env>cellar</env> in a <tl><po>vat</po>, or in a
 <fr>cos</fr><comment rid="c_121r_01"/> of earth full of <m>water</m></tl>.</ab>
 
-<ab margin="left-bottom">
-
-
+<ab margin="left-middle">
 
 For where the <bp>hand</bp> will <sn>touch</sn>, it will rot,
 and it is even good not to <bp>breathe</bp> on them. You can also put in
@@ -19031,17 +18737,17 @@ with others.
 the <tl>molds</tl> from cracking, &amp; is appropriate for all
 <m>metals</m>.</add></ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 <m>Alloyed silver is better for casting than the fine one</m>, provided
 that it is sweet.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 One needs for the <m>feather alum</m> to be well pulverized
 and well mixed.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 <m>Sal ammoniac</m> is a friend of <m>gold</m> &amp; of
 <m>silver</m>.</ab>
@@ -19091,7 +18797,7 @@ have the mixture one needs to make the <m>silver</m> run.</ab>
 
 <emph>I have used <m>silver from the <pl>Capital</pl></m></emph></ab>
 
-<ab margin="left-bottom">
+<ab margin="left-middle">
 
 Before <del>binding</del> <m><tl>luting</tl></m> &amp; strengthening your <tl>molds</tl>
 for <m>gold</m> &amp; <m>silver</m> with the said <m>earth</m>, one
@@ -19430,7 +19136,7 @@ Pulverize the upper <po>cake</po>, made from <m>salts</m>, &amp;
 put some to clear &amp; clean the <m>silver</m>, and the <m>metallic
 grain</m> will serve you to put in the <m>melted metal</m>.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 Charcoal fire</ab>
 
@@ -19496,7 +19202,7 @@ not dry.</ab>
 <head><al>Spider</al>’s web</head>
 
 <ab>It comes undone in <m>water</m> &amp; thus, cannot be molded 
-<fr>en noyau</fr>, but one casts the <m>spider</m> and then one draws the
+<fr>en noyau</fr>, but one casts the <al>spider</al> and then one draws the
 drawn threads between the grass that they make <env>in the fields</env>
 on some <tl><m><fr>quarton</fr></m></tl> with a <tl>point</tl>. One makes
 around an edge of <m>paper</m>, <tl><m>glued to the
@@ -19678,7 +19384,7 @@ Your gate must be very thin at the entrance of the animal &amp; of the
 
 <mark>🝋</mark> From small rolls, you make your gates and vents without danger of
 crusting &amp; removing anything from the <tl>mold</tl>, because the
-<tl>wax</tl>, being taken away, leaves the empty space all made. Make
+<m>wax</m>, being taken away, leaves the empty space all made. Make
 your vents coming from the head, which is in the bottom, toward the
 gate. Make also your gate so that it is <del>too</del> <add>but
 little</add> thick, and make within its course two or three notches, for
@@ -19701,7 +19407,7 @@ gate.</ab>
 put there small threads of <m>wax</m>, which are joined to the body, in
 order that the <m>metal</m> goes more easily from one part to another
 &amp; promptly runs everywhere. And from these conduits, you lead your
-gates &amp; your vents without spoiling anything.<hr/></ab>
+gate &amp; your vents without spoiling anything.<hr/></ab>
 
 </div>
 
@@ -19729,8 +19435,10 @@ If you mold with <m>plaster</m> <del>raw</del> alone, reheat it
 nevertheless as said. One needs to <m>oil</m> well the first
 <tl>mold</tl>. And when the second one has set well, and it is ready,
 soak it for a long time in <m>water</m>. And if it does not want to
-release, soak it in <m>hot water</m>, for <m>cold water</m> hardens it,
-and <m>hot water</m> softens it further. <m>Cold water</m> does not
+release, soak it in <m>hot water</m>, for <m>cold water</m> hardens it.</ab>
+
+<ab margin="left-middle" render="tall">
+And <m>hot water</m> softens it further. <m>Cold water</m> does not
 penetrate it like it does with the mixed one, because it is harder &amp;
 the mixed one is more spongy. With this <m>plaster</m>, thus reheated as
 powder, one can cast medals that do not fear the <env>rain</env>,
@@ -19821,7 +19529,7 @@ want.<comment rid="c_125r_06"/></ab>
 
 <div id="p125v_3" categories="casting">
 
-<head><m>Plaster</m> for casting in <m>wax</m></head>
+<head><m>Plaster</m> for casting of <m>wax</m></head>
 
 <ab>
 
@@ -19838,15 +19546,15 @@ animals, for they will only be more visible. Also, do not wait for the
 <m>wax</m> to <del>a bit</del> cool completely to release it,
 but do so when it is still a bit warm. When you have also molded the
 first cast of the animal, uncover well the half, in order that, in its
-release, there is as much of it in one half as in the other. Make also
-strong wide gates, close to the animal, in order that it is fortified
+release, there is as much of it in one half of the <tl>mold</tl> as in the other. Make also strong wide gates, close to the animal, in order that it is fortified
 when it is released, &amp; afterward you cut this off.</ab>
 
 <ab margin="left-middle">
 
 
 
-<mark>+</mark> <m>Alabaster</m>, commonly called so, is nevertheless
+<mark>+</mark><lb/> 
+<m>Alabaster</m>, commonly called so, is nevertheless
 <m>plaster</m>, is very hard, but it shrinks a lot. It is very good to
 make medals, but it wants to be very finely sieved.</ab>
 
@@ -19894,7 +19602,7 @@ hollow, which you could not do if the bunch does not have close
 <pa>grapes</pa> &amp; <del><tl>molds</tl></del> without having them
 scattered &amp; spread apart.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 
 
@@ -19914,7 +19622,7 @@ One needs for the <tl>mold</tl> to have soaked <ms>one <tmp>day</tmp>
 and one <tmp>night</tmp></ms> in <m>cold water</m> <del>for</del>, and
 to be humid, when you cast in <m>sugar</m>.</ab>
 
-<ab margin="left-bottom">
+<ab margin="left-middle">
 
 
 
@@ -19922,7 +19630,7 @@ The sign that the <m>syrup</m> or the <m>sugar melted in water</m> is sufficient
 cooked to cast fruits, is when it makes threads when shaken. And
 if it passes that point, it is not good, for it will always be humid. If
 the <m>sugar</m> attaches to it, one needs to throw some
-<m><pa>wheat</pa> starch</m> in the <tl>mold</tl>, or to rub it with an
+<m>wheat starch</m> in the <tl>mold</tl>, or to rub it with an
 <tl><m><pa>almond</pa></m></tl>.</ab>
 
 </div>
@@ -19949,7 +19657,7 @@ second time, the <m>vinegar</m> will have much more strength, &amp; the
 use it to cast in <m>gold</m> <del><fr>ven</fr></del> buy the
 <ms>ounce</ms> for forty or fifty <ms><cn>sous</cn></ms>.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 
 
@@ -20002,7 +19710,7 @@ pass through <del>threads</del> the plants &amp; <del><fr>es</fr></del>the
 <del><tl>molds</tl></del><comment rid="c_126v_01"/> <tl>circle of <m>earth</m></tl>,
 which is to receive the <m>tempered sand</m>,<del><fr>plusi</fr></del></ab>
 
-<ab margin="left-bottom">
+<ab margin="left-middle">
 
 This does not proceed from plants that have a stem with lines, because
 <pa>rosemary</pa> burns well, but it is in the nature of certain
@@ -20111,7 +19819,7 @@ when the gate &amp; vents are made, <m>luting</m> &amp; reheating once. Do not
 rather leave it uncovered &amp; the exit of the vent as well. </ab>
 
 <ab><add>If</add> <emph>the <tl>molds</tl></emph> <del>that</del> were
-<del>do</del> <add>to</add> crack, it is <del>make thus</del> at the
+<del>do</del> <add>to</add> crack, it <add>is</add> <del>made thus</del> at the
 first reheating, for at the second, they no longer crack.</ab>
 
 <ab><emph>The smallest</emph> <tl>molds</tl> are reheated more quickly.
@@ -20195,7 +19903,7 @@ this without cracking, it will be good.</ab>
 
 <ab>
 
-Wanting to melt, always put for these two <tl>metals</tl>,
+Wanting to melt, always put for these two <m>metals</m>,
 a <m>small stone of pulverized borax</m> at the bottom of
 the <tl><oc>crucible</oc></tl> &amp; the <m>gold</m> and <m>silver</m> on top.
 This makes it so that if the <tl><oc>crucible</oc></tl> gives off some vapor or
@@ -20256,7 +19964,7 @@ Some let the <m>silver</m> rest a little outside before casting.</ab>
 <m>Gold and silver, melted</m> with the above said things, scarcely
 become porous.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 
 
@@ -20273,24 +19981,24 @@ should dry beforehand in the <tl>furnace</tl>, for the humidity of the
 <tl>furnace</tl>, is attracted outside. But the fierce heat of the
 charcoals chases it from the exterior through the inside.</ab>
 
-<ab margin="left-bottom">
+<ab margin="left-middle">
 
 
 
 All <m>alloyed silver</m> produces film, and all other
 <m>metal</m> as well.</ab>
 
-<ab margin="left-bottom">
+<ab margin="left-middle">
 
 
 
 <m>Silver</m> does not want to be uncovered when melted.</ab>
 
-<ab margin="left-bottom">
+<ab margin="left-middle">
 
 
 
-<mark>#</mark> <add>Coarsely pulverized</add></ab>
+<mark>#</mark><lb/> <add>Coarsely pulverized</add></ab>
 
 <ab margin="bottom">
 
@@ -20336,7 +20044,7 @@ it. You can cast <m>silver finer than the alloy from the <pl>capital
 </pl>and like the <cn>real</cn></m>, but you must add this
 grain in.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 
 
@@ -20344,10 +20052,10 @@ With all of this, do not let yourself forget to put, before all things,
 a little <m>borax </m>in the <m>melted silver</m>, for even though
 <pro>goldsmiths</pro> do not put any in, however it is good, and I have
 seen it practised well. Next, one puts in the crust of the substance at
-two different times &amp; then the metallic thing. Then make sure that
+two different times &amp; then the metallic thing. Then make sure <ill/> that
 it be placed at the end of your <tl>forge</tl>.</ab>
 
-<ab margin="left-top">
+<ab margin="left-middle">
 
 
 
@@ -20376,7 +20084,7 @@ make it run.</ab>
 
 Because one commonly casts in <m>base silver</m>, &amp; especially the
 <pl>Germans</pl>, and that such an alloy readily makes a film
-or crust, <del>which is contrary to</del> <del>our</del> some
+or crust, <del>which is contrary to</del> <del>our</del> <add>some</add>
 <pro>goldsmiths</pro> <del>from <pl>France</pl></del> are usually quick
 to whiten their works, especially rough ones, because they only
 use <m>common <fr>bullitoyre</fr></m>, which is <m>tartar</m> &amp;
@@ -20394,7 +20102,7 @@ black &amp; no longer <m>smoked</m>. Then, he wet the aforesaid <m>tartar</m>
 <del><fr>d</fr></del> with the <m>water of <fr>bullitoyre</fr></m>,
 composed of <m>salt</m> &amp; <m>tartar</m>, &amp; covered all his
 <al>lizard</al> with it. Then he put it between the live <del>of</del>
-charcoals of his <tl>forge</tl> &amp; blew a little. When the
+<m>charcoals</m> of his <tl>forge</tl> &amp; blew a little. When the
 <al>lizard</al> was red, he took it out, let it cool, then reheated it
 in the <m><fr>bullitoyre</fr></m>. Next, he <tl>brushed</tl> it in
 <m>clear water</m>. </ab>
@@ -20553,7 +20261,7 @@ similarly.</ab>
 
 
 
-<head>Advice about casting</head>
+<head>Advice concerning the gate</head>
 
 <ab><del>Ne</del> Be careful to not make your gate very wide, and do not
 forget to make in its conduit two or three holes and notches, &amp; as
@@ -21454,7 +21162,7 @@ On<add>e</add> of the principal things for the cast is to cast very
 
 <head>
 
-For <m>gold</m> casts in large works</head>
+For casting of <m>gold</m> in large works</head>
 
 <ab>
 
@@ -22072,7 +21780,7 @@ join the edge of the setting to the <m>stone</m> in order that
 
 <div id="p139r_1" categories="casting" continued="yes">
 
-<head>Casts of <m>lead</m> and <m>tin</m></head>
+<head>Casting of <m>lead</m> and <m>tin</m></head>
 
 <ab>
 <add>When it is often melted, it becomes brittle &amp;
@@ -22173,7 +21881,7 @@ than anything else, because it is firmer &amp; does not leave as much
 finely passed through a <tl><m>linen</m></tl> or a <tl>sleeve</tl></m>.
 The <m>charcoal</m> gives color <add>and body</add> to the <m>wax</m>,
 which would otherwise be transparent &amp; the features would not be
-seen as well. Therefore, put your <m>wax</m> to melt in the charcoal fire. And when it will be well melted &amp; liquid, have, for a
+seen as well. Therefore, put your <m>wax</m> to melt in the charcoal fire. And when it will be well melted &amp; liquid, take, for a
 <ms><tl>bowl with handles</tl></ms> full of <m>melted wax</m>, as much
 <m>sulfur</m> <del><fr>la</fr></del> <ms>as a large
 <pa>walnut</pa></ms>. Pulverize it, melt it over a slow fire &amp; when
@@ -22343,7 +22051,7 @@ want to let it shrink, make it dry, either more or less.<hr/></ab>
 
 <div id="p140v_3" categories="casting">
 
-<head>Cast of <m>lead</m> and <m>tin</m> in <m>plaster</m></head>
+<head>Casting of <m>lead</m> and <m>tin</m> in <m>plaster</m></head>
 
 <ab>
 
@@ -23417,7 +23125,7 @@ heed to uncover well up until what can hold.</ab>
 
 
 
-<head><mark>+</mark>Cast of <m>copper</m> alloyed with
+<head><mark>+</mark>Casting of <m>copper</m> alloyed with
 <m>☾</m>, which is like <m>very base solder</m>
 <mark>/</mark> ard<ill/><comment rid="c_147v_01"/> and <m>old
 <fr>K</fr></m><comment rid="c_086v_03"/> and some R<ill/><comment rid="c_147v_01"/> out of
@@ -23460,7 +23168,7 @@ bottom of the <tl><oc>crucible</oc></tl>, otherwise it would cool it.</ab></div>
 
 
 
-<head>Cast of <m>latten</m></head>
+<head>Casting of <m>latten</m></head>
 
 <ab>I took the one of <tl><m>latten</m> skillets, which are beaten &amp;
 forged thinly</tl>. <del><fr>I</fr></del> Once well heated, I cast in it
@@ -23977,7 +23685,7 @@ is better to <del>mold <fr>ault</fr></del> cast <del>your
 only have very thin &amp; very weak things to cast, like flowers, rely
 rather on the abundance of <m>lead</m> than of <m>tin</m>, which becomes
 porous, once cast a little thick, &amp; readily makes some flaw around
-the cast. <pn>Maistre Alexandre</pn><comment rid="c_151r_02"/> says that he has never gone wrong
+the cast. <pn><pro>Maistre</pro> Alexandre</pn><comment rid="c_151r_02"/> says that he has never gone wrong
 with <ms>half</ms> <m>tin</m> &amp; <ms>half</ms> <m>lead</m> for things
 weighty &amp; with the <ms>thickness of the <tl>back of a
 knife</tl></ms>. If there is <m><la>crocum</la></m>, the joints hardly
@@ -24087,7 +23795,7 @@ it until you see the <m>black oil</m> drip well. Reiterate that until
 you have enough of it. This <m>oil</m> dries immediately. It gives gold
 color to <m>silvered</m> &amp; burnished things, augments the color of
 <m>gilded</m> things, serves as a <m>varnish</m> on <m>iron</m> for
-etching on it afterward, for varnishing sword guards tawny. And could
+etching on it afterward, for varnishing <wp>sword guards</wp> tawny. And could
 also serve <pro>makers of <m>gilded leather</m></pro> well.</ab>
 
 <ab margin="left-middle">One needs to use it when it is newly
@@ -24131,7 +23839,7 @@ after their death, &amp; cannot be well fitted to their true shape until
 they are a little softened. However, if you mold it quickly after it is
 dead, or give it its shape before it stiffens, you will do well.
 <del><fr>Au</fr></del> And because the eyes die, <del>you there
-some</del> if you do not mold it promptly, you will be able to
+some</del> if you do <add>not</add> mold it promptly, you will be able to
 substitute, in the eyes, the <m>halves of well-rounded
 <pa>peas</pa></m>, stripped of their skin &amp; shell. Some make the
 <al>rat</al> shed, others anoint it with <m><pa>olive</pa>
@@ -24141,7 +23849,7 @@ feature to a <al>fly</al> foot or under a wing to keep them rigid.
 Others couch the hair with an <m>egg yolk</m>, which is
 quickly dry &amp; amiable. Shape it, before <m>oiling</m> it, on the
 <tl><m>clay</m> slab</tl>, and raise its head with an <tl><m>iron</m>
-point</tl> &amp; secure also the feet with points &amp; the tail. Rub it
+point</tl> &amp; secure also the feet with <tl>points</tl> &amp; the tail. Rub it
 with <m>eau-de-vie</m>, once dry from the <m>oil</m>. Then cast your
 <m>sand</m>, next uncover it like other animals, &amp; make the second cast.
 One ought not to open the <tl>mold</tl> until it is reheated &amp; the
@@ -24272,7 +23980,7 @@ only heated in <m>warm water</m>, or, even better, in <m>warm
 the latter, cast your <m>sand</m>, which will come out in relief, on which you will next cast your hollow form for seals or other works. You could even
 cast a hollow form on the principal<comment rid="c_137r_03"/> of <m><fr>metal</fr></m><comment rid="c_016v_05"/> relief, &amp;
 even with <m>lead</m> &amp; <m>tin</m>, which will not melt the
-principal<comment rid="c_153r_03"/> if it is lightly anointed with <m>crushed chalk</m> with a <tl>paintbrush</tl>, or <m>smoked</m> with <m><tl>candle</tl> smoke</m> or with
+principal<comment rid="c_153r_03"/> if it is lightly anointed with <m>crushed chalk</m> with a <tl>paintbrush</tl>, or smoked with <m><tl>candle</tl> smoke</m> or with
 <m>dried glair of egg</m>.</ab>
 
 <ab margin="left-middle">When you have imprinted your seal of
@@ -24350,7 +24058,7 @@ If you rubbed your <m>paste</m> with <m>oil</m>, it would drink the
 <m>oil</m> &amp; penetrate up to the <tl>mold</tl>, which it would
 attack. But <m>butter</m> remains on the surface of the <m>paste</m>
 &amp; is not imbibed at all. You should not, on these reverse sides,
-temper your sand with <m>hot water</m>, for it would melt the
+temper your <m>sand</m> with <m>hot water</m>, for it would melt the
 <m>butter</m>.
 
 <figure id="fig_p153v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5c3FRZnZSMnU1Njg">
@@ -24503,7 +24211,7 @@ well.</ab></div>
 
 
 
-<head>The casting <add>of <m>silver</m></add></head>
+<head>Casting <add>of <m>silver</m></add></head>
 
 <ab><m>Silver</m> needs a longish gate. For <m>gold</m> it does not
 matter. <add><m>Silver</m>, when soldering, tolerates the <m>water</m>
@@ -24592,7 +24300,7 @@ leaf, you can make casts. You can even make a vein of <m>wax</m> from
 to the gate. All of this facilitates the cast. <del><fr>Aulcu</fr></del>
 The principal thing is to let your reheated <tl>molds</tl> cool down
 well, rather than cleaning them &amp; blowing inside them to make the
-<m>wax</m> come out, because when the <tl>mold</tl> is hot, the ash
+<m>wax</m> come out, because when the <tl>mold</tl> is hot, the <m>ash</m>
 holds to it as if attached. But when it is cold, it wanders and leaves
 with the air or when one blows one’s <bp>breath</bp> through the small
 opening.</ab>
@@ -25051,7 +24759,7 @@ order that the <m>☿</m> exhales well.</ab>
 
 
 
-<head>Colors for green leaves</head>
+<head>Colors for green leaves<comment rid="c_158v_02"/></head>
 
 <ab>One usually paints them in <m>oil</m>, because <m>distemper</m>
 colors have no hold. For <pa>marigold flowers</pa>, <m>lightly ground
@@ -25090,7 +24798,7 @@ thick, it does not hold to any place because it has no body. I have thus
 fumigated my <tl><fr>noyau</fr> molds</tl> for <m>tin</m> &amp;
 <m>lead</m>, and have cast in the cold <tl>mold</tl> well dried
 beforehand, and it came out very neat. It is true that <m>lead</m> mixed
-with half of <m>tin</m> was very hot, because the medal was thick.</ab>
+with <ms>half</ms> of <m>tin</m> was very hot, because the medal was thick.</ab>
 
 </div>
 
@@ -25101,7 +24809,7 @@ with half of <m>tin</m> was very hot, because the medal was thick.</ab>
 <head>Gate</head>
 
 <ab><del>Even though</del> <add>If</add> the medal is very thick, for
-this reason do not give it as thick of a gate. It suffices for the gate
+this reason do not give it as thick a gate. It suffices for the gate
 to have <ms>half of its thickness</ms>. But if it is thin,
 give it a gate of its thickness. Do not forget to make vents in the gate
 where typically the material becomes porous.</ab>
@@ -25296,7 +25004,7 @@ not be easily released from it.</ab>
 <del>they</del> <add>the upper</add> <del>are</del> is able to have play
 &amp; run freely the length of the <tl>pillars</tl>, &amp; that the
 lower one is fixed. At the end of the <tl>pillars</tl> is affixed an
-<m>iron</m> <pn>Sainct André</pn><comment rid="c_009v_04"/> cross, in the middle of which is a
+<m>iron</m> <pn>Sainct André</pn> cross,<comment rid="c_160r_02"/> in the middle of which is a
 <tl>screw</tl> which tightens the <tl>sheets</tl> against the
 <tl>molds</tl> which are between the two. Or, for small <tl>molds</tl>,
 one makes a <tl>frame</tl>, &amp; having put the <tl>molds</tl> between
@@ -25362,7 +25070,7 @@ they would melt. And the work of <m>gold</m> can be
 <al>cow</al> or <al>sheep</al></m>, &amp; with a small <tl>string</tl>
 you make a <tl>basket</tl> hang from the tip of the aforesaid
 <tl>stick</tl>. Put in <env>water where <al>crayfish</al> eat</env>,
-&amp; they will quickly come to accumulate on the flesh. Extract gently
+&amp; they will quickly come to accumulate on the <m>flesh</m>. Extract gently
 from the <env>water</env>, &amp;; those who want to go back into the
 <env>water</env> will fall into the <tl>basket</tl>.</ab>
 
@@ -25476,7 +25184,7 @@ afterward. One needs to let it rest &amp; empty the <m>water</m> by tilting
 <tl>reverberatory furnace</tl>, having washed it in <m>good vinegar</m>
 for the space of a <ms><tmp>day</tmp></ms>. And it will be well burnt
 <del><fr>p</fr></del> &amp; clean, mixed and ground finely on
-<m>marble</m>. Being well ground &amp; once it is quite fine
+<tl><m>marble</m></tl>. Being well ground &amp; once it is quite fine
 <del>the</del>, the <m>vinegar</m> will bite it quite easily &amp; will
 soon give it redness &amp; bonding, wetting it with the strongest you
 can find &amp; next setting it aflame. And in three or 4
@@ -25596,8 +25304,7 @@ molds very neatly. But such things do not endure the fire.</ab>
 caught by the <del><fr>ch</fr></del> <env><tmp>frost</tmp></env>, one
 lays them bare at the roots <ms><tmp>during winter</tmp></ms> in order that
 <del><ms><tmp>the winter</tmp></ms></del> the <env>cold</env> slows
-them, and that blossoming later, the flowers come to profit.</ab>
-
+them, and that <del><fr>le</fr></del>blossoming later, the flowers come to profit.</ab>
 </div>
 
 <div id="p162v_2" categories="cultivation">
@@ -25682,7 +25389,7 @@ amber</m> in the <pl>Portuguese</pl> fashion, take a
 spoon</tl> that one uses at the table</env>, put in your
 <m>ambergris</m> &amp; place all on a low fire, and it will melt quickly
 if your <m>amber</m> is good, &amp; it will remain there without lumps.
-Once all melted, put in <ms>the size of a <tl>pine nut</tl></ms><comment rid="c_163r_03"/> of
+Once all melted, put in <ms>the size of a pine nut</ms><comment rid="c_163r_03"/> of
 <m>civet</m>, &amp; make it melt &amp; mix it well together. Next, take
 your <tl>gloves</tl>, well-cleaned &amp; well-dried, &amp; dipping the
 <tl>tip of your <bp>finger</bp></tl> very lightly <del>on</del> on the
@@ -26059,8 +25766,8 @@ If you want to make them keep their mouths open, put in a little bit of
 <ab>Having molded them once, if you want to keep them for molding again,
 put them back into the mixture of <m><bp>urine</bp></m>, <m>vinegar</m>,
 &amp; <m>eau-de-vie</m> where you killed the others, and they will keep
-for a <tmp>long time</tmp> without spoiling. If you have a <md>cut on your hand,
-take care that this mixture does not touch it</md>.</ab>
+for a <tmp>long time</tmp> without spoiling. If you have a <md>cut on your hand,</md>
+<md>take care that this mixture does not touch it</md>.</ab>
 
 </div>
 
@@ -26178,7 +25885,7 @@ anything new but rather rediscover anew the books of <pn>Numa</pn>,<comment rid=
 buried <del>par</del> &amp; <tmp>long</tmp> unknown &amp; forgotten, in order to
 publish them for those who do not know them; so that as the
 <tmp>preceding day</tmp> is teacher for the <tmp>subsequent</tmp>,
-thus you needed to learn from those who preceded you in order to teach
+thus you needed to learn from those who <tmp>preceded</tmp> you in order to teach
 to those who come after. The <pl>Latins</pl> took from the
 <pl>Greeks</pl>, as <pn>Ciceron</pn><comment rid="c_166r_14"/> 
 from <pn>Platon</pn><comment rid="c_166r_15"/> &amp;
@@ -26261,7 +25968,7 @@ perfume the tip and the wick.</ab>
 <head>Softening <m>gold</m></head>
 
 <ab>Dissolve <m><la>caput mortuum</la></m><comment rid="c_166v_06"/> in <m>distilled vinegar</m>,
-<tl>filter</tl> &amp; congeal in salt &amp; cement
+<tl>filter</tl> &amp; congeal in <m>salt</m> &amp; cement
 <m>☉</m> with this, and it softens it
 marvellously.</ab>
 
@@ -26341,7 +26048,7 @@ the muzzle &amp; opening.</ab>
 
 <ab>
 
-Those of 27 lb or thereabouts are ix <ms>inches</ms> long &amp; six in
+Those of 27 <ms>lb</ms> or thereabouts are ix <ms>inches</ms> long &amp; six in
 diameter at the muzzle. At the breech, they are vi <ms>lines</ms> thick,
 &amp; 3 at the muzzle. The ones weighing 17 <ms>lb</ms> are 8
 <ms>inches</ms> long &amp; five at the muzzle. One covers them all
@@ -26406,7 +26113,7 @@ something like a cocoon or</ab>
 </figure>
 
 <ab>a <tl>peg</tl> which one puts into the touch-hole, &amp; then, with
-a rope wrapped around the end of a <tl>stick</tl>, one gives fire &amp;
+a <tl>rope</tl> wrapped around the end of a <tl>stick</tl>, one gives fire &amp;
 promptly retreats to take cover. The small <wp>petards</wp><comment rid="c_008r_04"/> of 16 or 17
 <ms>lb</ms> are attached promptly with a <tl>short hooked peg</tl> made
 like a <tl>wimble</tl>,<comment rid="c_168r_01"/> &amp; if the <wp>petard</wp>
@@ -26415,7 +26122,7 @@ with <wp>petards</wp> of 27 <ms>lb</ms>, but then one only puts in three
 <ms>lb</ms> of <m>powder</m>. It must certainly be a strong door if the
 seventeen <ms>lb</ms> <wp>petard</wp> does not blow it up. Some use <tl>little
 bells</tl> worn by <al>oxen</al> or <al>mules</al> on a
-<pro>peasant</pro> door. Others load two pistol barrels &amp;, with a
+<pro>peasant</pro> door. Others load two <wp>pistol</wp> barrels &amp;, with a
 <tl>gimlet</tl> &amp; a <tl>string</tl>, attach them with the muzzle
 against the door. If the <wp>petards</wp> are good &amp; do not explode, they
 only recoil and cannot do harm if one is next to them.</ab>
@@ -26471,7 +26178,7 @@ from recoiling.</ab>
 the <wp>petard</wp>.</ab>
 
 <ab>K. These are <tl>common <m>iron</m> pegs</tl>, very round &amp;
-covered with canvas, like all the rest, to turn the <tl>large
+covered with <m>canvas</m>, like all the rest, to turn the <tl>large
 <m>iron</m> pegs</tl> pierced close to the head.</ab>
 
 <ab>L. <tl>Axes</tl> that one must always carry to finish breaking down,
@@ -26733,7 +26440,7 @@ quenched.</ab>
 
 
 
-<head>Cast</head>
+<head>Casting</head>
 
 <ab>Do not cast in one go, for in doing so, the <m>metal</m> is
 regurgitated <corr><del>&amp;</del></corr> <del>in</del> &amp; the
