@@ -6,9 +6,9 @@
 <div id="p001r_1" categories="lists">
 
 
-<head><sup>List of names</sup></head>
+<head margin="left-middle"><sup>List of names</sup></head>
 
-<ab>
+<ab margin="left-middle" render="wide">
 
 <pn>Mestre Nicolas Costé</pn><comment rid="c_001r_01"/>, in the
 <pl>Rue de la Heaumerie<comment rid="c_001r_02"/>, at the
@@ -24,12 +24,12 @@ Escrivains</pl> by <pl>St Jacques de la Boucherie</pl>,
 
 </div>
 
+
 <div id="p001r_2" categories="lists">
 
+<head margin="left-middle"><sup>List</sup></head>
 
-<head><sup>List</sup></head>
-
-<ab>
+<ab margin="left-middle" render="wide">
 <hr/>
 The <pro>harvester</pro> that leaves some ears is not
 blamed<comment rid="c_001r_04"/>.<lb/>
@@ -41,38 +41,48 @@ Trumpets, see the book of funerals.<comment rid="c_001r_08"/><hr/></ab>
 
 </div>
 
+
 <div id="p001r_3" categories="lists">
 
+<head margin="left-middle"><sup>List of books and authors</sup></head>
 
-<head><sup>List of books</sup></head>
+<ab margin="left-middle" render="wide">
 
-<ab>Vuolfangus Lazius<comment rid="c_001r_09"/><lb/>
+Vuolfangus Lazius<comment rid="c_001r_09"/><lb/>
 
 Petrus Appianus<comment rid="c_001r_10"/> <la>mathematicus
 Ingolstadiensis, Comment. <pl>urb.
-rom.</pl></la><comment rid="c_001r_11"/></ab>
+rom.</pl></la><comment rid="c_001r_11"/><lb/>
 
-<ab>Hieronimo Ruscelli<comment rid="c_001r_12"/><lb/>
+Hieronimo Ruscelli<comment rid="c_001r_12"/><lb/>
 
 Hermolaus Barbarus<comment rid="c_001r_13"/><lb/>
 
 Angelius Bargaeus, <la>De <al>aucupio</al> et
 venatione</la><comment rid="c_001r_14"/><lb/>
 
-Nicolaus Damascenus<comment rid="c_001r_15"/></ab>
+Nicolaus Damascenus<comment rid="c_001r_15"/><lb/>
 
-<ab>Caresariensis,<comment rid="c_001r_34"/> <la>De rebus
+Caresariensis,<comment rid="c_001r_34"/> <la>De rebus
 Persarum<comment rid="c_001r_16"/></la><lb/>
 
-Isidorus<comment rid="c_001r_17"/></ab>
+Isidorus<comment rid="c_001r_17"/><lb/>
 
-<ab>Osorius<comment rid="c_001r_35"/><comment rid="c_001r_18"/><lb/>
+Osorius<comment rid="c_001r_35"/><comment rid="c_001r_18"/><lb/>
 
 Eupolemus, <la><pro>historicus</pro> gentilis qui de rebus Davidis &amp;
 Salomonis
-scripsit</la><comment rid="c_001r_19"/><comment rid="c_001r_20"/></ab>
+scripsit</la><comment rid="c_001r_19"/><comment rid="c_001r_20"/>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+<emph>mons<exp>ieur</exp></emph><comment rid="c_001r_69"/><lb/>
 
-<ab><mark>-</mark> <fr>Cathalogue des
+<mark>-</mark> <fr>Cathalogue des
 villes<comment rid="c_001r_21"/><lb/>
 
 Calendrier des <pro>bergiers</pro><comment rid="c_001r_22"/><lb/>
@@ -99,27 +109,8 @@ figulines</pro><comment rid="c_001r_32"/> to the
 
 <pro>king</pro> and the <pro>queen mother</pro></ab>
 
-</div>
 
-<div id="p001r_4" categories="lists">
-
-
-<head><sup>List of books</sup></head>
-<ab><la><al>Aquatilium animalium</al> historiae</la>, Hypolito<lb/>
-Salviano Typhernate <la>authore, <pl>Romae</pl> 1554</la><comment rid="c_001r_38"/></ab>
-
-</div>
-
-<div id="p001r_5" categories="lists">
-
-
-<head><sup>List of books and authors</sup></head>
-<ab>Les Annales de
-<pl>Normandie</pl><comment rid="c_001r_39"/></ab>
-
-<ab margin="right-middle">
-
-
+<ab margin="right-top" render="tall">
 
 <pn>Alexander Aphrodisaeus</pn><comment rid="c_001r_40"/><lb/>
 
@@ -195,7 +186,23 @@ Strabo<lb/>
 
 <pn>Flavius Vopiscus</pn><comment rid="c_001r_64"/></ab>
 
-<ab><emph><fr>Monsieur</fr></emph></ab>
+</div>
+   
+   
+<div id="p001r_4" categories="lists">
+          
+<head margin="left-middle"><sup>List of books</sup></head>
+<ab margin="left-middle" render="wide"><la><al>Aquatilium animalium</al> historiae</la>, Hypolito<lb/>
+Salviano Typhernate <la>authore, <pl>Romae</pl> 1554</la><comment rid="c_001r_38"/></ab>
+        
+</div>
+  
+  
+<div id="p001r_3">
+        
+<ab margin="left-middle" render="wide">Les Annales de
+<pl>Normandie</pl><comment rid="c_001r_39"/></ab>
 
 </div>
+
 </root>

@@ -5,10 +5,9 @@
 
 <div id="p001r_1" categories="lists">
 
+<head margin="left-middle"><sup>Liste de noms</sup></head>
 
-<head><sup>Liste de noms</sup></head>
-
-<ab>
+<ab margin="left-middle" render="wide">
 
 <pn>M<exp>estr</exp>e Nicolas Costé</pn>, à la <pl>rue de la Heaumerie à
 l’image S<exp>ainc</exp>t Claude</pl> <mark>/</mark> Mirouers.<lb/>
@@ -26,12 +25,14 @@ Boucherie</pl>, <pro>courroyeur</pro>. Essayer <m>fleur de
 
 </div>
 
+
 <div id="p001r_2" categories="lists">
 
+<head margin="left-middle"><sup>Liste</sup></head>
 
-<head><sup>Liste</sup></head>
-
-<ab><hr/>Le <pro>moissonneur</pro> laissant quelques espis n’est repris.<lb/>
+<ab margin="left-middle" render="wide">
+    
+<hr/>Le <pro>moissonneur</pro> laissant quelques espis n’est repris.<lb/>
 
 <la>Sacra Eleusinae deae propalare nefas.</la><lb/>
 
@@ -39,38 +40,48 @@ Trompettes, voy le livre des funerailles.<hr/></ab>
 
 </div>
 
+
 <div id="p001r_3" categories="lists">
 
+<head margin="left-middle"><sup>Liste de livres et d'autheurs</sup></head>
 
-<head><sup>Liste de livres</sup></head>
+<ab margin="left-middle" render="wide">
 
-<ab>Vuolfangus Lazius<lb/>
+Vuolfangus Lazius<lb/>
 
 Petrus Appianus, <la>mathemat<exp>icus</exp><lb/>
 
-Ingolstadiensis, Comment. <pl>urb. rom.</pl></la></ab>
+Ingolstadiensis, Comment. <pl>urb. rom.</pl></la><lb/>
 
-<ab>Hieronimo Ruscelli<lb/>
+Hieronimo Ruscelli<lb/>
 
 Hermolaus Barbarus<lb/>
 
 Angelius Bargaeus, <la>De <al>aucupio</al> et venatione</la><lb/>
 
-Nicolaus Damascenus</ab>
+Nicolaus Damascenus<lb/>
 
-<ab>Cares<exp>ariensis</exp>,<comment rid="c_001r_34"/> <la>De rebus
+Cares<exp>ariensis</exp>,<comment rid="c_001r_34"/> <la>De rebus
 Persarum</la><lb/>
 
-Isidorus</ab>
+Isidorus<lb/>
 
-<ab>Osorius<comment rid="c_001r_35"/><lb/>
+Osorius<comment rid="c_001r_35"/><lb/>
 
 Eupolemus, <la><pro>historicus</pro> gentilis<lb/>qui de rebus Davidis &amp;
 Salomonis<lb/>
 
-scripsit</la></ab>
-
-<ab><mark>-</mark> Cathalogue des villes<lb/>
+scripsit</la>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+<emph>mons<exp>ieur</exp></emph><comment rid="c_001r_69"/><lb/>
+    
+<mark>-</mark> Cathalogue des villes<lb/>
 
 Calendrier des <pro>bergiers</pro><lb/>
 
@@ -96,30 +107,10 @@ Des præceptes d'agriculture<lb/>
 
 et de la <pro>royne mere</pro></ab>
 
-</div>
 
-<div id="p001r_4" categories="lists">
+<ab margin="right-top" render="tall">
 
-
-<head><sup>Liste de livres</sup></head>
-<ab><la><al>Aquatilium animalium</al> historiae</la>, Hypolito<lb/>
-
-Salviano <la>Typhernate authore, <pl>Romae</pl> 1554</la></ab>
-
-</div>
-
-<div id="p001r_5" categories="lists">
-
-
-<head><sup>Liste de livres et d'auteurs</sup></head>
-<ab>Les Annales de <pl>Normandie</pl></ab>
-
-<ab margin="right-middle">
-
-
-
-<pn>Alexander
-Aphrodisaeus</pn><lb/>
+<pn>Alexander Aphrodisaeus</pn><lb/>
 
 <pn>Polydorus Verg<exp>ilius</exp></pn><lb/>
 
@@ -193,7 +184,25 @@ Strabo<lb/>
 
 <pn>Flavius Vopiscus</pn></ab>
 
-<ab><emph>Mons<exp>ieur</exp></emph></ab>
+</div>
+    
+    
+<div id="p001r_4" categories="lists">   
+        
+<head margin="left-middle"><sup>Liste de livres</sup></head>
+<ab margin="left-middle" render="wide">
+
+<emph><la><al>Aquatilium animalium</al> historiae</la>, Hypolito<lb/>
+            
+Salviano <la>Typhernate authore, <pl>Romae</pl> 1554</la></emph></ab>
+        
+</div>
+
+
+<div id="p001r_3">
+
+<ab>Les Annales de <pl>Normandie</pl></ab>
 
 </div>
+
 </root>
