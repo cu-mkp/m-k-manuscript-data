@@ -5,7 +5,6 @@
 
 <div id="p001r_1" categories="lists">
 
-
 <head margin="left-middle"><sup>Liste de noms</sup></head>
 
 <ab margin="left-middle" render="wide">
@@ -26,12 +25,14 @@ Boucherie</pl>, <pro>courroyeur</pro>. Essayer <m>fleur de
 
 </div>
 
-<div id="p001r_2" categories="lists">
 
+<div id="p001r_2" categories="lists">
 
 <head margin="left-middle"><sup>Liste</sup></head>
 
-<ab margin="left-middle" render="wide"><hr/>Le <pro>moissonneur</pro> laissant quelques espis n’est repris.<lb/>
+<ab margin="left-middle" render="wide">
+    
+<hr/>Le <pro>moissonneur</pro> laissant quelques espis n’est repris.<lb/>
 
 <la>Sacra Eleusinae deae propalare nefas.</la><lb/>
 
@@ -39,12 +40,14 @@ Trompettes, voy le livre des funerailles.<hr/></ab>
 
 </div>
 
+
 <div id="p001r_3" categories="lists">
 
+<head margin="left-middle"><sup>Liste de livres et d'autheurs</sup></head>
 
-<head margin="left-middle"><sup>Liste de livres</sup></head>
+<ab margin="left-middle" render="wide">
 
-<ab margin="left-middle" render="wide">Vuolfangus Lazius<lb/>
+Vuolfangus Lazius<lb/>
 
 Petrus Appianus, <la>mathemat<exp>icus</exp><lb/>
 
@@ -107,8 +110,7 @@ et de la <pro>royne mere</pro></ab>
 
 <ab margin="right-top" render="tall">
 
-<pn>Alexander
-Aphrodisaeus</pn><lb/>
+<pn>Alexander Aphrodisaeus</pn><lb/>
 
 <pn>Polydorus Verg<exp>ilius</exp></pn><lb/>
 
@@ -187,7 +189,7 @@ Strabo<lb/>
     
 <div id="p001r_4" categories="lists">   
         
-<head><sup margin="left-middle">Liste de livres</sup></head>
+<head margin="left-middle"><sup>Liste de livres</sup></head>
 <ab margin="left-middle" render="wide">
 
 <emph><la><al>Aquatilium animalium</al> historiae</la>, Hypolito<lb/>
