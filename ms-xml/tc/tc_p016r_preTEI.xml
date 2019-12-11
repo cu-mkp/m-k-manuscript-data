@@ -39,6 +39,7 @@ sorte<lb/>
 
 quil y aye <ms>un pan</ms> de gueule de <tl>four</tl> sur la <tl>tuelle</tl>
 &amp; un <ms>pan</ms> dessouls</ab>
+    
 
 <ab margin="left-middle">
 
@@ -56,16 +57,13 @@ rond</tl> en tient deulx<lb/>
 
 <ms>quintals</ms></ab>
 
-<figure id="fig_p016r_1" margin="left-middle" render="wide" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aUw0eThJNEVTelk">
-
-
-
-
-
-
-
-
+</div>
+    
+<div id="p016r_1">
+    
+<figure id="fig_p016r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aUw0eThJNEVTelk">
 </figure>
+
 <ab margin="right-middle">
 
 Les <pro>minerons</pro> pour fayre<lb/>
@@ -83,7 +81,9 @@ Et cela rend le <m>fer</m> merveilleusem<exp>ent</exp><lb/>
 
 ductible &amp; courant</ab>
 
+</div>
 
+<div id="p016r_1">
 
 <ab>Il fault aussy que la <tl>tuelle</tl> entre jusques au milieu de la gueule du
 <tl>fourneau</tl><lb/>
@@ -182,6 +182,6 @@ sont plus subgectes<lb/>
 a rompre</ab>
 
 
-
 </div>
+
 </root>
