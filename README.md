@@ -13,6 +13,8 @@ https://www.makingandknowing.org/
 
 - allFolios - the individual manuscript folios as one continuous file, by version (tc, tcn, and tl)
 
+- bibliogrpahy - bibliographic references in BibTex
+ 
 - metadata - data and additional information about the manuscript text and other materials of the DCE
 
 - ms-md - each folio as an individual file (by version) in markdown
