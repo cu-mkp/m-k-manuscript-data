@@ -1,42 +1,42 @@
-65|canon
-27|piece
-22|mortier
-20|harquebus
-12|pieces
-12|espee
-12|canons
+58|canon
+30|piece
+25|mortier
+19|harquebus
+13|pieces
+13|espee
+13|canons
+7|petites pieces
 7|grenades
-6|petites pieces
-6|gardes
+6|mortiers
 5|grenade
-5|espees
-4|mortiers
+5|gardes
+4|espees
 4|colevrine
 4|canon perrier
 4|bastarde
 4|artiglerie
-3|grandes pieces
-3|grand canon
-3|colevrines
 3|arquebus
 2|pistole
 2|harquebus a croc
 2|grosses pieces
-2|flambeaulx
+2|grandes pieces
+2|grand canon
 2|dorgues
+2|colevrines
 2|cimeterre
-2|cano
 2|Faulconeau
 1|schioppo
 1|pistoles
 1|pieces moindres
 1|pieces de plaisir
 1|pieces de campaigne
-1|pieces chargees
 1|pieces ancienes
 1|piece de quattre quintals
 1|piece de campaigne
 1|piece bastarde
+1|petits canons court
+1|passevolant
+1|passevo lants
 1|orgues
 1|moyennes pieces
 1|moyene
@@ -44,11 +44,15 @@
 1|longue piece
 1|harquebuse
 1|harquebus de chasse
+1|harquebus chambree
+1|haquebute
 1|grands pieces
 1|grands canons
 1|grand colevrine
+1|grand canon ordinayre
+1|gardes despees
 1|garde
-1|fœus artificiels
+1|flambeaulx
 1|faulconneau
 1|faulconeaulx
 1|faulconeau
@@ -56,13 +60,13 @@
 1|double canon
 1|de campaigne
 1|cuirasse
+1|colevrines sont grandes
 1|colevrine bastarde
 1|cimeterres
 1|canons perriers
-1|canons court
 1|bastardes moyennes
 1|basilics
-1|artifices de fœu
+1|artifices de foeu
 1|arquebus de dragee
 1|Piece de campagne
 1|Orgues

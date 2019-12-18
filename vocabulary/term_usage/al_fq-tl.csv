@@ -1,6 +1,6 @@
 34|crayfish
+29|snake
 28|snakes
-28|snake
 20|horse
 19|turtle
 17|lizard
@@ -8,19 +8,19 @@
 14|turtles
 14|fly
 13|worms
+13|spider
+10|oxen
 10|horses
 10|cuttlefish
-9|spider
 9|sheep
 9|rat
-9|oxen
 8|fish
 8|dragon
 8|dog
 8|birds
 6|frog
 6|cow
-5|pig
+5|hog
 5|dogs
 5|crab
 5|calf
@@ -33,9 +33,9 @@
 3|wall lizard
 3|those of the garrigue
 3|pigeon
+3|pig
 3|ox
 3|nightingales
-3|hog
 3|flies
 3|female lizards
 3|chicken
@@ -43,6 +43,7 @@
 3|Spider
 3|Ortolans
 3|Nightingale
+3|Crayfish
 2|those of the water
 2|swine
 2|squirrel
@@ -50,6 +51,7 @@
 2|rats
 2|pork
 2|pigeons
+2|partridge
 2|oyster
 2|nightingale
 2|mutton
@@ -62,14 +64,13 @@
 2|ants
 2|Turtles
 2|Toad
-2|Those from garrigue
+2|Those of the garrigue
 2|Stag beetle
 2|Sheep
 2|Flies
 2|Fish
 2|Dragon
 2|Cuttlefish
-2|Crayfish
 1|worm
 1|weasels
 1|water-dogs
@@ -95,7 +96,6 @@
 1|petit-gris
 1|passerines
 1|passe solitaire
-1|partridge
 1|oysters
 1|ortolans
 1|ogs
@@ -152,6 +152,7 @@
 1|big rat
 1|beef
 1|beech martens
+1|aucupio
 1|animal
 1|Young small birds
 1|Water snakes

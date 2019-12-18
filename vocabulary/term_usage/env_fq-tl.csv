@@ -1,8 +1,8 @@
-13|mine
+14|mine
 12|water
 12|in the sun
+10|wall
 10|in the rain
-9|wall
 7|cellar
 6|wind
 6|sun
@@ -30,8 +30,8 @@
 2|rivers
 2|open space
 2|mountains
+2|in the damp
 2|in the cold
-2|in dampness
 2|humid place
 2|house
 2|gardens
@@ -102,6 +102,7 @@
 1|pantries
 1|overcast weather
 1|out of the wind
+1|other damp place
 1|open sea
 1|on the little hill
 1|on the fire
@@ -135,7 +136,7 @@
 1|in the fields
 1|in the earth
 1|in the cool &amp; by moonlight
-1|in the cellar or other damp place
+1|in the cellar
 1|in sunlight
 1|in straw
 1|in one field &amp; in the one close by it
@@ -159,6 +160,7 @@
 1|humid air or place
 1|house or elsewhere
 1|hot sun
+1|higher up
 1|gutter of some roof
 1|great flakes near the mountains
 1|good &amp; fertile land
@@ -208,7 +210,6 @@
 1|barns
 1|barn
 1|at the foot of a wall
-1|at night
 1|anthill
 1|after rainy weather
 1|aerated place

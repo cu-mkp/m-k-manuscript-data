@@ -20,26 +20,26 @@
 8|deniers
 7|pars
 7|ligne
+7|demy lb
 6|nuict
-6|demy lb
 6|aultant dun que daultre
 5|quart
 5|moys
+5|lignes
 5|jusques a lescusson
+5|balles
 4|unces
 4|quart dheure
-4|pied
 4|livres
-4|lignes
 4|goutte
 4|fois le jour
 4|douzaine
 4|demy once
 4|carte
-4|balles
 3|tous les ans
 3|poix
 3|pieds
+3|pied
 3|pater noster
 3|parties
 3|pan de montpellier
@@ -50,6 +50,7 @@
 3|dragmes
 3|douzaines
 3|demy sestier
+3|demy pied
 3|aulne
 3|Jours
 2|un bon quart dheure
@@ -86,10 +87,8 @@
 2|demye ℥
 2|demye heure
 2|demy ℥
-2|demy pied
 2|cane
 2|ana
-1|œufs
 1|ʒ
 1||ʒ|
 1|une part de pierre ponce calcinee &amp; pulverisee &amp; tr avecq trois pars de minium
@@ -130,7 +129,6 @@
 1|sepmaine
 1|seconde annee
 1|seau en heure
-1|saulmon
 1|realles
 1|quintalz
 1|quintals &amp; demy
@@ -144,7 +142,7 @@
 1|quart de once
 1|quand leur saison passe
 1|quand elle ne fume plus
-1|quand
+1|quand elle faict de grands traicts se retirants aulx borts &amp; non meus
 1|qualibre du roy
 1|qualibre
 1|proportion
@@ -153,7 +151,7 @@
 1|pousses en quarre
 1|pousses
 1|pour scavoir sil est asses chault
-1|pour scavoir quand il sera en bonne chaleur trempe dedans un petit papierretors Sil le noircist sans lallumer il est en bonne chaleur Mays sil le brusle &amp; y mect le fœu il est trop chault
+1|pour scavoir quand il sera en bonne chaleur trempe dedans un petit papierretors Sil le noircist sans lallumer il est en bonne chaleur Mays sil le brusle &amp; y mect le foeu il est trop chault
 1|poulse
 1|poulces de roy
 1|poulce
@@ -167,6 +165,7 @@
 1|plats
 1|pinte
 1|pieds de roy
+1|pied de roy
 1|picotins
 1|petites billes
 1|petite joinctee
@@ -179,12 +178,13 @@
 1|paniers
 1|panier
 1|palles
+1|oeufs
 1|nuit
 1|moitie
 1|mois
 1|moictie du jour
 1|moictie de son espesseur
-1|milieu de la fœille
+1|milieu de la foeille
 1|meza onca
 1|matin
 1|mains
@@ -193,7 +193,6 @@
 1|long comme la largeur de 4 ou 5 doigts
 1|long
 1|livre
-1|lignes pied de roy
 1|lieux
 1|lieue
 1|liards
@@ -202,7 +201,7 @@
 1|lespesseur de c cinq balles
 1|lespesseur de 4 balles
 1|lespace dung Jour
-1|le soir dans un bon fœu jusques au matin
+1|le soir dans un bon foeu jusques au matin
 1|le poix dun grain
 1|le moings aultant
 1|lb t.
@@ -211,7 +210,6 @@
 1|lb la douzaine
 1|lb &amp; demye ou deulx
 1|lb &amp; demye
-1|lattes
 1|largeur de dix b pailles
 1|large de ii ou trois doitgs
 1|large aultant que tu vouldras faire longue une cartuche
@@ -242,8 +240,8 @@
 1|grosseur dun pinon
 1|grosseur de deulx chastaignes
 1|gros comme fisselle de moingdre
-1|grandeur dun œuf de pigeon
-1|grandeur dun pot dœillets
+1|grandeur dun pot doeillets
+1|grandeur dun oeuf de pigeon
 1|grand comme la grosseur dune plume de cigne
 1|grand chaulderon
 1|grains comme pois
@@ -251,7 +249,9 @@
 1|gouttes
 1|goutes
 1|froidir de telle sorte que je pouvois tenir le doigt sans me brusler
+1|fois
 1|floquets
+1|estre de telle chaleur que tu ny puysses tenir le doigt sinon avec sentiment bien chault
 1|espoisseur de trois balles a la culasse &amp; au devant de deulx balles
 1|espoisse dun verre poulce
 1|espoiseur de trois balles
@@ -270,7 +270,7 @@
 1|espesseur de trois doigts
 1|espesseur de deux de ses balles &amp; lesa trois troisiesme parties dune balle
 1|espesseur de deux balles &amp; un quart de balle
-1|espesseur de deulx de ses balles &amp; dune balle
+1|espesseur de deulx de ses balles &amp; lesa troissiesme parties dune balle
 1|espesseur de deulx balles
 1|espesseur de b deulx balles &amp; l des trois parties dune balle lune
 1|espace que tu diras 8 pater noster
@@ -285,7 +285,6 @@
 1|escuelle de terre ou les paysans mangent leurs souppes
 1|en la capacite dun des boisseaulx
 1|en bonne quantite
-1|elle faict de grands traicts se retirants aulx borts &amp; non meus
 1|doze
 1|douziesme partye de la balle du canon
 1|dour
@@ -378,14 +377,13 @@
 1|an suivant
 1|an
 1|aiguillee
-1|Sable
 1|Quand il sautille
 1|Lanterne
 1|Jour
 1|Essaye pour cet effect avecq du papier sil roussist le papier cest asses il est bon a gecter mays sil noircist le papier il est trop chault
 1|Carte
 1|Canne
-1|Aultant quil pourroit tenir dans un œuf
+1|Aultant quil pourroit tenir dans un oeuf
 1|Aultant dun que daultre
 1|Au moys de Janvier
 1|A la culasse trois balles au devant

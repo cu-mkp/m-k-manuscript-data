@@ -1,85 +1,85 @@
-214|lead
-213|water
-199|sand
-195|gold
-192|wax
-192|oil
+215|lead
+214|water
+200|sand
+194|wax
+194|oil
+194|gold
 189|tin
-150|silver
-131|iron
-118|metal
-100|copper
+151|silver
+133|iron
+120|metal
+101|copper
 86|paper
-82|wood
-77|glass
+83|wood
+78|glass
 75|earth
 74|plaster
 69|eau-de-vie
+63|powder
 62|clay
 61|varnish
-61|powder
-60|latten
-50|marble
-49|charcoal
+59|latten
+51|marble
+50|charcoal
 48|vinegar
 48|solder
 41|sal ammoniac
 37|iron wire
 36|ceruse
 35|filth
+34|lake
 33|leather
-33|lake
 33|feather alum
 33|ashes
-32|wine
 32|turpentine
-32|sulfur
+31|wine
+31|sulfur
 31|glue
 31|brick
 30|lute
+30|looking-glass tin
 29|crocum
 28|stone
 28|lead white
 28|fine tin
 27|minium
 26|urine
+26|saltpeter
 26|hot water
 26|distemper
-25|saltpeter
 24|azure
 22|steel
+22|smoke
 22|quicksilver
-22|looking-glass tin
+22|porphyry
 22|aquafortis
 21|tempered sand
 21|sugar
-21|smoke
-21|porphyry
 21|melted wax
 21|linen
+21|canvas
 21|bone
-20|☿
 20|verdigris
 20|spike lavender oil
-20|sands
-20|mastic
-20|canvas
-19|wheat oil
+20|charcoals
+20|ash
+19|☿
+19|sands
 19|rosin
 19|rosette
 19|oiled
+19|mastic
 19|gum
 19|cotton
 19|alum
+18|wheat oil
+18|flour
 18|clear water
-18|ash
 17|verdet
 17|silk
-17|flour
+17|salt
+17|metals
 16|walnut oil
-16|salt
-16|metals
-16|charcoals
 16|bones
 15|tallow
 15|massicot
@@ -97,25 +97,25 @@
 13|chalk
 13|butter
 13|azur d’esmail
-12|olive oil
 12|ink
 12|horn
+12|grain
 12|gold leaf
 12|earthen
 12|dung
+12|cold water
 12|Varnish
 11|white wine
 11|tripoli
 11|tartar
 11|orpiment
-11|grain
 11|glair
-11|cold water
 11|Latten
 10|velvet
 10|stones
 10|soft tin
 10|red copper
+10|olive oil
 10|luted
 10|linseed oil
 10|good vinegar
@@ -126,10 +126,8 @@
 9|white wax
 9|turpentine oil
 9|strong glue
-9|smokes
 9|paste
 9|or mat
-9|oil of sulfur
 9|horse dung
 9|fine lead
 9|filings
@@ -139,11 +137,11 @@
 9|Tin
 9|Lead
 9|Gold
+8|smokes
 8|slate
 8|sandarac
 8|pestled glass
 8|melted butter
-8|looking glass tin
 8|honey
 8|gum water
 8|felt
@@ -154,12 +152,14 @@
 8|Lute
 8|Crocum ferri
 7|wetted sand
+7|thread
 7|sublimate
-7|smoked
 7|putty
 7|pebbles
+7|oil of sulfur
 7|melted silver
 7|lye
+7|grais
 7|glass alum
 7|fish glue
 7|enamels
@@ -175,27 +175,25 @@
 6|☾
 6|wine boiled with elm root
 6|willow charcoal
+6|wheat
 6|tragacanth gum
-6|thread
 6|stil de grain yellow
 6|soot black
 6|soft iron
 6|soap
+6|smoked
 6|sanguine
 6|salts
 6|salt water
 6|saliva
-6|saffron
 6|ruby
 6|resin
 6|quicklime
 6|musk
 6|latten wire
-6|grais
 6|gilding
 6|fine gold
 6|fine copper
-6|dye
 6|drugs
 6|dragon’s blood
 6|diamond
@@ -210,23 +208,27 @@
 6|Oil
 6|Azure
 5|whitening
-5|wheat
 5|waxed cloth
 5|waters
 5|turpentine varnish
 5|spike lavender
+5|saffron
 5|river water
 5|parchment
 5|noir d’escaille
 5|luting
+5|lime
 5|leaded
 5|jet
 5|iron filings
+5|hot ashes
+5|hog bristle
 5|hay
 5|hair
 5|grease
 5|emery
 5|egg yolks
+5|dye
 5|couleur
 5|copperas
 5|cloth waste
@@ -239,25 +241,24 @@
 5|Eau-de-vie
 5|Azur d’esmail
 4|☼
-4|yellow ochre
+4|yellow ocher
 4|white paper
 4|very clear glue
-4|terra merita
+4|tin leaf
 4|taffeta
 4|stucco
 4|starch
 4|soft lead
 4|skin
 4|sapphire
+4|sandiver
 4|potin
 4|pitch
 4|pin filings
-4|pastel woad
-4|ochre
+4|ocher
 4|modeling wax
 4|mercury
 4|magistra
-4|lime
 4|iron dross
 4|hairs
 4|great metals
@@ -269,8 +270,8 @@
 4|esmail d’azur
 4|emerald
 4|eggs
-4|dyeing
 4|distemper glue
+4|cristallin
 4|cannon powder
 4|candle
 4|black wax
@@ -278,6 +279,7 @@
 4|aes ustum
 4|Walnut oil
 4|Sal ammoniac water
+4|Looking-glass tin
 4|Lake
 4|Iron
 4|Fine gold
@@ -285,21 +287,21 @@
 3|white
 3|waxes
 3|waxed canvas
+3|waxed
 3|vitriol
 3|umber
 3|topaz
 3|tinsel
 3|tinned
 3|tile
+3|terra merita
 3|strong vinegar
 3|string
-3|spider
 3|solders
 3|soldered
 3|soft wood
 3|soap water
 3|sapphires
-3|sandever
 3|rust
 3|rubies
 3|rouge clair
@@ -310,9 +312,9 @@
 3|pure lead
 3|pumice
 3|pulverized tartar
-3|pulverized charcoal
 3|plumb
 3|plate glass
+3|pastel woad
 3|ore
 3|onions
 3|oiled paper
@@ -322,34 +324,35 @@
 3|metalline
 3|metallic
 3|melted metal
+3|material of a skillet
 3|litharge
 3|lean sand
 3|lampblack
 3|lamp smoke
 3|jasper
 3|iron scales
-3|hot ashes
 3|hide glue
 3|gummed water
 3|glass pane
 3|gilded
+3|flesh
 3|fine rosette
 3|fine latten
 3|feather
 3|fat sand
 3|fat earth
+3|dyeing
 3|dust
 3|dry mortar
-3|crystal glass
 3|cork
 3|copper filings
 3|common tin
 3|coarse salt
-3|coals
 3|clear turpentine
 3|calcined alabaster
-3|burned felt
+3|burnt bone
 3|bullitoyre
+3|blood
 3|black
 3|beaten glair of egg
 3|arquebus powder
@@ -363,7 +366,6 @@
 3|Sapphire
 3|Saltpeter
 3|Rosette
-3|Looking-glass tin
 3|Iron wire
 3|Florence lake
 3|Feather alum
@@ -373,7 +375,7 @@
 3|Amber
 2|♀
 2|yolk
-2|yellow ocher
+2|yellow ochre
 2|written paper
 2|wine lees
 2|white turpentine oil
@@ -386,7 +388,6 @@
 2|white calcined pebbles
 2|wheat starch
 2|well-gummed ink
-2|waxed
 2|wash water
 2|warm urine
 2|walnut or linseed oil
@@ -396,11 +397,9 @@
 2|vernice
 2|vermillion
 2|vermeilles
-2|velvets
 2|tuf
 2|touchstone
 2|tondure
-2|tin leaf
 2|threads
 2|terre chimolée
 2|tepid water
@@ -411,6 +410,7 @@
 2|strong iron
 2|straws
 2|starch water
+2|spat
 2|sorrel
 2|soot
 2|soft clay
@@ -418,6 +418,7 @@
 2|silver filings
 2|sheets of copper
 2|sel de verre
+2|seeds
 2|satin
 2|sap-green
 2|sand of noyau
@@ -436,6 +437,7 @@
 2|pure aspalte
 2|pumice stone
 2|pulverized mastic
+2|pulverized charcoal
 2|primer powder
 2|prepared tutty
 2|plate of cork
@@ -449,8 +451,8 @@
 2|noir à huile
 2|nastiness
 2|nail
+2|mustard
 2|mortar
-2|mold
 2|moistened sand
 2|minium from England
 2|minerals
@@ -458,7 +460,6 @@
 2|milk of the fig tree
 2|melted sulfur
 2|melted glass
-2|material of a skillet
 2|marrow
 2|lutes
 2|lukewarm water
@@ -484,6 +485,7 @@
 2|good wine
 2|gold color
 2|glueing
+2|gilds
 2|gemstones
 2|gemstone foils
 2|garlic juice
@@ -496,7 +498,6 @@
 2|foodstuff
 2|florey
 2|flint stones
-2|flesh
 2|fixed quicksilver
 2|fine turpentine
 2|fine sand
@@ -509,6 +510,7 @@
 2|enilanroc
 2|enamelled
 2|enameled
+2|emeralds
 2|electrum
 2|ebony
 2|earthenware
@@ -539,15 +541,14 @@
 2|cambric
 2|calcined slate
 2|calcined pumice stone
-2|burnt bone
 2|burning paper
+2|burned felt
 2|burned earth
 2|brittle tin
 2|brine
 2|bread crusts
 2|brazilwood
 2|boiling water
-2|blood
 2|black varnish
 2|black thread
 2|black sulfured wax
@@ -561,6 +562,7 @@
 2|asphaltum
 2|aspalte
 2|argent moulu
+2|amalgam
 2|alum water
 2|alloyed silver
 2|alloyed gold
@@ -577,7 +579,7 @@
 2|Spike lavender oil
 2|Spalt
 2|Soft tin
-2|Sandever
+2|Sandiver
 2|Sand from the mine
 2|Sand for lead
 2|Rouge clair
@@ -599,19 +601,19 @@
 2|Fish glue
 2|Felt
 2|Fatty oil
+2|Excellent sand
 2|Enameling
 2|Enamel
 2|Earth
 2|Dragon’s blood
+2|Damascus steel
 2|Cuttlefish bone
 2|Cold water
 2|Charcoal black
 2|Chalk
-2|Casting of lead
 2|Carton
 2|Bronze
 2|Ash
-2|Armenian bole
 2|Aquafortis
 2|Aes ustum
 2|
@@ -652,7 +654,7 @@
 1|white walnut oil
 1|white vinegar
 1|white varnish
-1|white tin
+1|white tin leaf
 1|white thick which saliva that is found on the teeth
 1|white soap
 1|white pebbles that are found by the rivers &amp; among the sand bank, &amp; paths, which are somewhat transparent
@@ -663,7 +665,6 @@
 1|white lead
 1|white iron
 1|white glass
-1|white false stones
 1|white enamel
 1|white coral
 1|white cloth
@@ -714,7 +715,7 @@
 1|water of glair of egg
 1|water of bullitoyre
 1|water moderately salty
-1|water from a honey beehive
+1|water from a honey bee hive
 1|water for disease of the eyes
 1|washings of oil paintbrushes
 1|warm water
@@ -724,7 +725,7 @@
 1|walnut tree
 1|walnut olive oil
 1|wallwort
-1|vitriol of saltpetre
+1|vitriol of saltpeter
 1|vitrified minium
 1|vini spiritum
 1|vine water
@@ -736,7 +737,6 @@
 1|very soft thread
 1|very soft iron
 1|very soft clay
-1|very pulverized yellow amber
 1|very light tammy cloth
 1|very hot melted wax
 1|very good turpentine
@@ -752,11 +752,10 @@
 1|vert de terre
 1|vermicularis
 1|verjuice
+1|verinseVenice turpentine
 1|verd de terre
 1|verd
 1|veins of wax
-1|varnishing
-1|varnishVenice turpentine
 1|varnish of spike lavender oil
 1|varnish of sandarac, spike lavender oil, and a little mastic
 1|vapor of aquafortis
@@ -765,14 +764,13 @@
 1|turpentine varnish and not spike lavender varnish
 1|turpentine or spike lavender varnish
 1|turpentine it may be, whether fine or crude
-1|turmeric root
+1|turmeric root or terra merita
 1|trwood
 1|tripoli of Brittany
 1|tripoli from Bretagne
 1|transparent amber
 1|tragacanth
 1|tow
-1|tooth of a wolf or dog
 1|tondure of cloth
 1|toast with butter
 1|tisane
@@ -788,7 +786,6 @@
 1|tin from England
 1|tin for bells
 1|tin alloyed with lead
-1|tiles
 1|thunderstone
 1|thunder stone
 1|threads of gold &amp; of fine &amp; false silve
@@ -796,13 +793,13 @@
 1|those of cutlers
 1|thoroughly thinned and clear melted resin
 1|thoroughly tempered wine
+1|thoroughly pulverized yellow amber
 1|thorn branch
 1|thin yellow canvas
 1|thin wire of latten
 1|thin sand
 1|thin plate of gold
 1|thin mustard
-1|thin enamel canes
 1|thin canvas
 1|thicker tempered sand
 1|thick thread
@@ -820,7 +817,6 @@
 1|the one which is found in a vineyard near Puy David
 1|the one of willow
 1|the one of the s mines
-1|the one of the mine
 1|the one of latten
 1|the one of gold
 1|the one of Paris &amp; Spain
@@ -829,9 +825,9 @@
 1|the most excellent sand that can be found for lead
 1|the finest steel
 1|the finest sand you have
-1|the common delicate kind that falls under the anvil
 1|the aforesaid pulverized charcoal
 1|the Champagne one that painters use
+1|that of the mine
 1|that of latten
 1|teston silver
 1|terroy merita
@@ -846,7 +842,6 @@
 1|tartar from Montpellier
 1|tammy of raw silk
 1|tammy cloth
-1|tallow of glass
 1|taffetas
 1|taffer
 1|syrup of sweet jujubes
@@ -861,9 +856,9 @@
 1|sufficiently tempered wine
 1|subtly ground vermilion
 1|subtly ground mastic
+1|substance of wine
 1|substance of the trebuschets
 1|substance of the pieces
-1|substance of a skillet
 1|stuffing cloth
 1|stuf
 1|strongest vinegar
@@ -897,13 +892,13 @@
 1|spike lavender oil.
 1|spike lavender oil varnish
 1|spike lavender &amp;or turpentine oil
+1|spider
 1|spat from Germany
-1|spat
 1|spangle gold
 1|sous from Spain
 1|sous from France
 1|sour latten of candlesticks
-1|some small
+1|some of small
 1|solle
 1|solfo
 1|soldering gold
@@ -916,7 +911,6 @@
 1|soft &amp; fine sand
 1|soapy water
 1|soap from Venice
-1|snake
 1|smoke of safre
 1|smoke of partridge or of yellow or red cloth
 1|smoke of a tallow candle
@@ -926,7 +920,6 @@
 1|small grains of ☿
 1|small filings of latten of thin copper, u e antimony, sublimate, finely pulverized
 1|sludge
-1|sloes from bushes
 1|slip of linen
 1|slaver
 1|simple paper
@@ -935,7 +928,7 @@
 1|silver strips
 1|silver leaf
 1|silver from the Capital
-1|silver from real
+1|silver from reals
 1|silver foil
 1|silver finer than the alloy from the capital and like the real
 1|silks
@@ -956,9 +949,9 @@
 1|sharpening stone
 1|shale
 1|service tree wood
-1|seeds
 1|scrapings of the mold
 1|scales of pure silver &amp; of gilt silver
+1|scales
 1|scabious or bugloss water
 1|sap green
 1|sap
@@ -969,14 +962,15 @@
 1|sandy clay earth
 1|sandy clay
 1|sandalwood
-1|sand, white mai, like salt, and lean
 1|sand, the leanest &amp; driest you can find
 1|sand, the finest that you can
 1|sand with which goldsmiths buff enamels or the white one that glassmakers use
+1|sand white mai like salt and lean
 1|sand which served for the molds
 1|sand used for the noyau
 1|sand that you use for the noyau
 1|sand that was used in the reheated noyaulx
+1|sand that releases well
 1|sand of the second cast
 1|sand of plaster, bri brick, &amp; wet alum
 1|sand of bone
@@ -993,7 +987,6 @@
 1|saltwater
 1|salts sublimated
 1|salts appropriate for metals
-1|saltpetre
 1|salted
 1|salt of tartar
 1|salt of saltwort
@@ -1031,6 +1024,7 @@
 1|resin balls
 1|residue of common vinegar
 1|residue
+1|remelted latten
 1|reheated plaster
 1|reheated brick
 1|regulus
@@ -1055,11 +1049,10 @@
 1|quite clean &amp; polished iron
 1|quills
 1|quickt aiantsilver
-1|quick-lime
 1|quick lime
 1|quarton
-1|purpurine
 1|purpurina
+1|purple
 1|purified steel
 1|purified resin
 1|pureed broth
@@ -1074,9 +1067,9 @@
 1|pumice stone calcined &amp; pulverized &amp; tr with three parts of minium
 1|pulverized willow charcoal
 1|pulverized terra emerita
-1|pulverized subtly mastic
+1|pulverized talc
 1|pulverized sanguine
-1|pulverized sandever
+1|pulverized sandiver
 1|pulverized sandarac
 1|pulverized salt
 1|pulverized sal ammoniac
@@ -1084,11 +1077,10 @@
 1|pulverized pumice stone
 1|pulverized emery
 1|pulverized calamine, raw &amp; pure
+1|pulverized bone
 1|pulverized antimony
 1|pulverized and finely ground aes ustum
 1|pulverized &amp; finely ground iron dross
-1|pulverised talc
-1|pulverised bone
 1|pulverin
 1|puffball
 1|printers’ ink
@@ -1111,7 +1103,8 @@
 1|pomace soured
 1|polished marble
 1|plump &amp; thick felt
-1|plates of wax, cork, &amp; wood
+1|plates of wax, cork &amp; wood
+1|plates of lead or annealed annealed silver
 1|plates of copper
 1|plates
 1|plate of lead
@@ -1132,7 +1125,6 @@
 1|pill of precipitate,
 1|pig’s bladder
 1|pig fat
-1|pig bristle
 1|pierre porte morte
 1|pieces of the molds that have been used
 1|pieces of molds
@@ -1170,8 +1162,8 @@
 1|pansy
 1|paltry cloth
 1|palma christi seed oil
+1|palma christi
 1|painters’ distemper glue
-1|paintbrush
 1|paint
 1|ox foot bone
 1|otnegra
@@ -1190,6 +1182,7 @@
 1|opiate
 1|onion
 1|one of silver
+1|olive wheat oil
 1|olive tree leaves
 1|oldest ♁
 1|old water from farriers
@@ -1203,16 +1196,18 @@
 1|old K
 1|ointment
 1|oily
-1|oil, not of spike lavender, but another odorant that resembles olive oil
+1|oil, not of spike lavender, but another fragrant one that resembles olive oil
 1|oil than that of walnut
 1|oil panel
 1|oil of turpentine or of spike lavender
+1|oil of turpentine or mastic
 1|oil of sulfur &amp; turpentine
 1|oil of petrol or sulfur
 1|oil of perolle petrolle
 1|oil of brick
 1|oil of Jacob
 1|oil either of olive, walnut, or even better spike lavender
+1|not sandy
 1|not quite lukewarm aquafortis
 1|not fine silver but alloyed
 1|non-boiled linseed oil
@@ -1234,7 +1229,6 @@
 1|nailheads
 1|mutton heart
 1|mustard seed
-1|mustard
 1|musked cotton
 1|mushrooms
 1|muddying
@@ -1253,7 +1247,7 @@
 1|molds
 1|molding sand
 1|molded tripoli
-1|moist handkerchief
+1|mold
 1|mixed tin
 1|mineral
 1|mine de plomb
@@ -1272,13 +1266,13 @@
 1|melted fresh butter
 1|melted copper and latten
 1|melted copper
-1|melt
 1|mellis communis
 1|mellis
 1|medicinal gums
 1|meat &amp; the egg
 1|mealworms
 1|mastic, pulverized &amp; passed delicately through a sieve
+1|mastic subtly pulverized
 1|mastic pulverized
 1|mastic &amp; arrabeic, two ounces each, which will both be well ground
 1|marshmallow root
@@ -1309,7 +1303,7 @@
 1|liquid sand
 1|liquid rosette of Brazilwood
 1|linseed varnish
-1|linen, or burned felt
+1|linen, or burnt felt
 1|linen cloths
 1|linen cloth
 1|lime mortar
@@ -1328,11 +1322,11 @@
 1|leaded glass
 1|lead, fine &amp; new
 1|lead ore
-1|lead or annealed annealed silver
 1|lead from Flanders
 1|lead filings
 1|lead alloyed with tin
 1|latten or iron wire
+1|latten from skillets, where one makes the mush for little children
 1|latten filings
 1|large strip of canvas
 1|large steel dice
@@ -1341,7 +1335,6 @@
 1|laque ronde
 1|lapathum acutum
 1|lamb tallow
-1|lake for a quickly-done red
 1|knots of the fir tree
 1|kernels of grain
 1|juice of weld
@@ -1364,11 +1357,9 @@
 1|iron bars
 1|incense
 1|incarnadine
-1|in nature
 1|impurity
 1|impalpable white sand
 1|husks
-1|hot iron
 1|hot bread
 1|host soaked in wine
 1|horsetail
@@ -1378,8 +1369,6 @@
 1|horn used for lanterns
 1|holy water
 1|hog’s fennel
-1|hog bristles
-1|hog bristle
 1|hemp thread
 1|heated parchment
 1|hazelnuts
@@ -1395,11 +1384,10 @@
 1|gummed or pure water
 1|gummed modeling wax
 1|guesdre woad
-1|guesde woad
 1|grès
 1|ground raw plaster
 1|ground metals
-1|ground crystal glass
+1|ground cristallin
 1|ground chalk
 1|ground borax
 1|gris d’escaille
@@ -1416,7 +1404,6 @@
 1|grais powder
 1|grains of wheat
 1|grains of gold
-1|grains
 1|grain of yellow millet
 1|grain of wheat
 1|grain of rapeseed
@@ -1433,7 +1420,7 @@
 1|good lute
 1|good lime
 1|good kind of dragon’s blood
-1|good great grain powder
+1|good grain powder
 1|good fountain or river water
 1|good filings
 1|good chalk, quite white, well ground
@@ -1456,13 +1443,11 @@
 1|glue of Partenay or parchment
 1|glowing charcoal
 1|glass-looking tin
-1|glass sand
 1|glair of egg passed through a sponge
 1|gip of lateribus
 1|gip mat
 1|gilt glass
 1|gilt
-1|gilds
 1|gilding of the glass
 1|gilded silver
 1|gilded leather
@@ -1480,22 +1465,21 @@
 1|fresh leaves
 1|fresh crow eggs
 1|fresh &amp; good oil of sulfur
-1|founder’s earth, which founders use
+1|founder’s earth which founders use
 1|founder’s earth of the founders of great works
 1|founders' sand
 1|food
 1|foil backing for topaz, or one of gold or silver
+1|foil
 1|foaming wine
 1|foam of urine
 1|foam
-1|flowers
 1|flower oil
 1|flower
 1|flour glue
 1|floret
 1|flint
 1|flin
-1|flakes
 1|first water
 1|first substance of wine
 1|firm fine tin
@@ -1505,8 +1489,8 @@
 1|finest metal one can find
 1|finer ☉ than the other one
 1|finely pulverized tripoli
+1|finely pulverized golden &amp; yellow marcasite
 1|finely pulverized common salt
-1|finely pulverised golden &amp; yellow marcasite
 1|finely pestled slate
 1|fine turpentine oil
 1|fine steel
@@ -1523,15 +1507,14 @@
 1|fine coppersmith’s rosette
 1|fine copper filings
 1|fine casting sand
+1|fine boli armeni
 1|fine arquebus powder
 1|fine and new lead
 1|fine alloy
-1|fine Armenian bole
 1|filings of talc or of pins
 1|filings of needles
 1|fig tree wood
 1|fig tree milk
-1|fig tree
 1|ferro
 1|ferri
 1|ferret-silk
@@ -1550,13 +1533,14 @@
 1|fat of a young goat kid
 1|fat metal
 1|fantastical pieces of wood
+1|false white stones
 1|false stones
 1|fabric of Cambray
-1|estamiere
+1|excellent sand
 1|esmail colombin
+1|enamel cannules
 1|emery stone powder
 1|emery putty
-1|emeralds
 1|embers
 1|elm
 1|eggshell
@@ -1570,6 +1554,7 @@
 1|earth mixed with dung or founder’s earth, that artillery founders use
 1|earth bourre bolvene
 1|d’araucq rock alum
+1|dye of guesde woad or pastel woad
 1|dung of the ewe
 1|dry horse dung
 1|dry chalk
@@ -1580,6 +1565,7 @@
 1|dogfish skin
 1|dittany
 1|discarded cloth waste
+1|dirt
 1|dense one
 1|delicate straw
 1|delicate plate of lead
@@ -1588,7 +1574,6 @@
 1|debris
 1|darker dragon’s blood
 1|damascening
-1|damascene steel
 1|currier’s’ black
 1|currier's water
 1|cuivre franc
@@ -1600,7 +1585,6 @@
 1|crucible bottoms
 1|crayons
 1|cow dung
-1|couleur composed, as said beforehand here, of verdet, saltpeter, sal ammoniac &amp; borax
 1|cotton cloth
 1|coryal
 1|corrosive water
@@ -1613,6 +1597,7 @@
 1|consolida maior
 1|congealed mercury
 1|compound of tin &amp; fine latten
+1|composition thereof
 1|common varnish
 1|common silver
 1|common sand of goldsmiths
@@ -1621,11 +1606,11 @@
 1|common oil
 1|common marble
 1|common iron
-1|common glass sand, however crystal glass
-1|common glass
+1|common glass sand
 1|common fountain water
 1|common eau-de-vie
 1|common earth
+1|common delicate kind that falls under the anvil
 1|common charcoal
 1|common carton
 1|common bullitoyre
@@ -1652,7 +1637,6 @@
 1|coarse linen
 1|coarse common turpentine
 1|coarse canvas
-1|coal
 1|clove of garlic
 1|cloths
 1|cloth waste which founders use to cast their cannons
@@ -1668,7 +1652,7 @@
 1|clear &amp; white turpentine oil
 1|clean water
 1|clean glass
-1|clay earth with which one can make tiles
+1|clay earth with which one makes tiles
 1|cittern strings
 1|cistern water
 1|cinnamon or clove oil
@@ -1681,6 +1665,7 @@
 1|cheese
 1|charcoaled
 1|charcoal, pestled &amp; finely passed through a linen or a sleeve
+1|charcoal pulverized
 1|charcoal powder
 1|charcoal of peach tree pits
 1|charcoal black
@@ -1707,9 +1692,10 @@
 1|calcined pulverized pglass
 1|calcined pebbles
 1|calcined oyster shells
-1|calcined crystal glass
+1|calcined cristallin
 1|calcined bones of the animal
-1|calcined &amp; crushed crystal glass
+1|calcined black river pebbles
+1|calcined &amp; ground cristallin
 1|calamine smoke
 1|cake of wax
 1|cake of earth
@@ -1717,6 +1703,7 @@
 1|burnt linen
 1|burnt ivory
 1|burnt horse dung
+1|burnt felt
 1|burnt earth
 1|burnt bones of the feet of oxen
 1|burnt bones
@@ -1725,12 +1712,12 @@
 1|burned tartar
 1|burned marrow of ox horn
 1|burned linen
-1|burned bone
 1|burned aspalte
 1|bullitoire
 1|bugloss flower
 1|buckram strip
 1|buckram
+1|brouillamini
 1|broth
 1|broom flower
 1|bronzing
@@ -1761,6 +1748,7 @@
 1|blue of flowers florey or of Flanders
 1|blue
 1|blocks of wood
+1|blackthorn sloes
 1|blacksmith’s salt
 1|black wax mixed with sulfur
 1|black stone
@@ -1769,7 +1757,6 @@
 1|black moderately thick
 1|black modeling wax
 1|black leather
-1|black calcined river pebbles
 1|bitumen
 1|bits of chain
 1|billon silver
@@ -1802,7 +1789,6 @@
 1|ashes of the wax
 1|ashes of paper
 1|ash of vine shoots
-1|ash from Acre
 1|arène
 1|arum
 1|artificial sands
@@ -1822,13 +1808,13 @@
 1|ants with soil
 1|antique glass
 1|anthos
+1|another fragrant one that resembles olive oil
 1|annealed iron wire
 1|animal
 1|amethyst
 1|ambergris
 1|amber pulverized
 1|amalgamated gold
-1|amalgam
 1|alume jameni
 1|almonds
 1|almond oil
@@ -1841,7 +1827,7 @@
 1|aceto
 1|above mentioned founders’ earth
 1|Yellow varnish
-1|Yellow ochre
+1|Yellow ocher
 1|Yellow arsenic
 1|Yellow Amber
 1|Wood with streaked grain
@@ -1857,10 +1843,8 @@
 1|Very strong wax
 1|Very hard wax
 1|Very finely ground iron scales
-1|Very burnt sand
 1|Vert de terre
 1|Venice tripoli
-1|Velvets
 1|Varnish of iron etchers
 1|Varied and transmuted wine
 1|Urine
@@ -1869,6 +1853,7 @@
 1|Tracing paper burnt
 1|Toadstone
 1|Tin and lead filings
+1|Thoroughly burnt sand
 1|Thick varnish
 1|The yellow
 1|The one which is white, light like a sponge
@@ -1900,13 +1885,14 @@
 1|Sand of calcined glass
 1|Sand of burnt ox bones and rock salt
 1|Sand from river tellins and mussels
-1|Sand from pulverised rock salt
+1|Sand from pulverized rock salt
 1|Sand from oxen feet, burned twice &amp; finely ground
 1|Sand from corp rock
 1|Sand from a mine in Thoulouse
 1|Sand from Thoulouse
 1|Sand for lead casting
 1|Sand for flowers
+1|Sand for copper medals
 1|Sand for casting in gold
 1|Sand for casting
 1|Salt
@@ -1920,13 +1906,13 @@
 1|Raw Tartar
 1|Rapeseed oil
 1|Putty
-1|Purpurine
+1|Purple
 1|Pure spike lavender oil varnish
 1|Pure red copper from a cauldron or other thin works
 1|Prunes of Saint Antonin
 1|Powder
 1|Potter’s earth
-1|Potin from seringue
+1|Potin of syringe
 1|Plaster of Paris
 1|Plants
 1|Pierres de filieres
@@ -1936,13 +1922,12 @@
 1|Pearled
 1|Pastel woad
 1|Paper
-1|Palma christi
 1|Orberé grain
 1|Or moulu
 1|Or
 1|Oils
 1|Oil of guaiac &amp; of sulfur
-1|Ochre
+1|Ocher
 1|Natural sand
 1|Mouth glue
 1|Minium
@@ -1950,9 +1935,7 @@
 1|Metal filings
 1|Metal
 1|Mercury
-1|Medicine
 1|Magistra
-1|Looking glass tin
 1|Linseed oil
 1|Levant bole
 1|Lean white sand
@@ -1969,9 +1952,8 @@
 1|Iron scale
 1|Iron filings
 1|Iron dross
-1|Indian laque plate
+1|Indian laque platte
 1|Human bones
-1|Huiles d’essence
 1|Horsehair
 1|Hard wax
 1|Gum ammoniac
@@ -2000,11 +1982,13 @@
 1|Extraction of regulus
 1|Experimented sands
 1|Excellent sand for lead, tin, and copper
-1|Excellent sand
 1|Excellent mustard
+1|Essential oils
 1|Engraved tai stones
 1|Enamels
+1|Enamelling
 1|Emeralds of Brissac
+1|Emerald
 1|Eau magistra
 1|Eau Magistra
 1|Earwax
@@ -2014,11 +1998,9 @@
 1|Dust
 1|Distilled urine
 1|Damasked cloth
-1|Damascus steel
-1|Crystal glass
 1|Crocum
+1|Cristallin
 1|Crimson
-1|Crayfish
 1|Counterfeit jasper
 1|Counterfeit diamonds put in a work
 1|Counterfeit coral
@@ -2038,6 +2020,7 @@
 1|Charcoal for pouncing
 1|Cendrée earth
 1|Casting sand coming from the mine
+1|Casting of lead
 1|Cardona salt
 1|Candle smoke
 1|Candied peel
@@ -2069,6 +2052,7 @@
 1|Azure ashes
 1|Aspalte is, which is found in Germany
 1|Ashes
+1|Armenian bole
 1|Aquae fabrorum antiquae
 1|Antimony oil
 1|Antimony

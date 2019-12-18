@@ -5,33 +5,34 @@
 20|hands
 13|mouth
 13|forehead
-10|foot
-10|face
+12|foot
+11|face
+10|nose
 9|thumb
-9|nose
 8|fingernail
 7|eyes
 7|ear
+5|little finger
 4|teeth
+4|stomach
 4|saliva
-4|little finger
 4|index finger
-3|stomach
+4|head
+3|tooth
 3|nail
-3|head
+3|handfuls
 3|eye
 3|breath
 3|belly
-2|tooth
 2|thumbs
-2|handfuls
+2|ring finger
+2|liver
 2|handful
 2|flesh
 2|fingertips
 2|fingertip
 2|feet
 2|cheeks
-2|burn
 2|breathe
 2|blood
 2|arm
@@ -53,10 +54,9 @@
 1|temples
 1|teats
 1|sweating
-1|sole of your feet
-1|sole of the feet
+1|soles of your feet
+1|soles of the feet
 1|secret places
-1|ring finger
 1|right hand
 1|right d foot
 1|phlegm
@@ -72,14 +72,13 @@
 1|middle finger
 1|matrix
 1|made by hand
-1|liver
-1|little &amp; ring fingers
 1|legs
 1|knees
 1|knee
 1|joint of the little finger
 1|hollow of the hands
 1|headache
+1|hairs of your beard
 1|hair
 1|foam of urine
 1|fistfuls
@@ -91,7 +90,6 @@
 1|ears
 1|ditto
 1|digiti
-1|burns
 1|breathes
 1|big finger
 1|bare hand

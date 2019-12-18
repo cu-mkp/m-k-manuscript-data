@@ -1,8 +1,8 @@
 36|aspic
 34|noix
 25|froment
-18|bled
 16|rose
+16|bled
 15|vigne
 15|lin
 13|pastel
@@ -24,9 +24,10 @@
 4|mil
 4|buys
 4|bresil
-3|œillets
+4|absinthe
 3|sapin
 3|poix
+3|oeillets
 3|moustarde
 3|grain
 3|coings
@@ -37,7 +38,6 @@
 3|asperge
 3|amendes
 3|ail
-3|absinthe
 2|tim
 2|soulcy
 2|soucy
@@ -46,6 +46,7 @@
 2|pois
 2|pensees
 2|pavis
+2|palma christi
 2|oranges
 2|orange
 2|oignons
@@ -69,8 +70,6 @@
 2|amaranthe
 2|Roses
 2|Rose
-1|Œillets
-1|Œillet
 1|zedoaire
 1|visaube
 1|viole
@@ -86,12 +85,14 @@
 1|soulcis
 1|sorbier
 1|solcy
+1|serment
 1|senegre
 1|semperviva
 1|seigle
 1|scabieuse
 1|sauvignons
 1|saulge
+1|saul
 1|sarment
 1|santonique
 1|salicor
@@ -108,7 +109,7 @@
 1|pruniers
 1|prunier
 1|prunes
-1|prunelles
+1|prunelles de buissons
 1|pruneaux
 1|provenche
 1|prele
@@ -144,8 +145,8 @@
 1|nois
 1|navette
 1|navete
-1|mœurier blanc
 1|mousses
+1|moeurier blanc
 1|mil jaulne
 1|melons
 1|mauves
@@ -173,6 +174,7 @@
 1|funges
 1|fraises
 1|fraise
+1|fleurs jaulnes
 1|fleur de soulcy
 1|fleur de pensee
 1|fleur de genest
@@ -212,6 +214,7 @@
 1|anthos
 1|amendier
 1|amande
+1|aloe
 1|alberges
 1|abres
 1|Visme
@@ -223,6 +226,8 @@
 1|Orangers
 1|Oliviers
 1|Olives
+1|Oeillet
+1|OEillets
 1|Mericotons
 1|Marguerites
 1|Mandragore

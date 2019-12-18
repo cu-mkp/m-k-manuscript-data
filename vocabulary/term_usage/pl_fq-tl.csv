@@ -1,6 +1,6 @@
 16|Germany
+12|Venice
 12|France
-11|Venice
 10|Flanders
 9|Germans
 8|Spain
@@ -19,8 +19,6 @@
 3|Puy David
 3|Paris
 3|Foix
-3|Armenian
-3|Acre
 2|bonnes villes
 2|Vienne
 2|Spanish
@@ -32,6 +30,7 @@
 2|Cardona
 2|Algiers
 2|Albi
+2|Acre
 1|urb. rom.
 1|river Phasis
 1|orientals
@@ -40,7 +39,7 @@
 1|coast of Colchis
 1|capital
 1|bolvenes
-1|Venise
+1|armeni
 1|Tyana
 1|Turks
 1|Turkey
@@ -62,8 +61,8 @@
 1|Rhine
 1|Red Sea
 1|Phoenicians
-1|Parys near the Sainct Chappelle
 1|Partenay
+1|Paris near the Sainct Chappelle
 1|Ox
 1|Nuremberg
 1|Normandy
@@ -94,6 +93,7 @@
 1|Faubourg Saint-Germain
 1|Englishman
 1|Eleusis
+1|Eleusinae
 1|Egyptians
 1|Egypt
 1|Dutch
@@ -124,6 +124,7 @@
 1|Auragne
 1|Augsburg
 1|Assyria
+1|Armenian
 1|Argos
 1|Alexandria
 1|Albensis
