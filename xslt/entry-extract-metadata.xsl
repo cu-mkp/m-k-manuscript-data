@@ -65,7 +65,7 @@
         <xsl:value-of select="$fieldSep"/>
         <xsl:text>wp</xsl:text>
         <xsl:text>&#10;</xsl:text>
-        <xsl:apply-templates select="//div[@id]"/>
+        <xsl:apply-templates select="//div[@id][not(@part = 'y')]"/>
 
     </xsl:template>
 

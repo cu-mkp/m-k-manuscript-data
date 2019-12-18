@@ -5,11 +5,9 @@
 
 <div id="p001r_1" categories="lists">
 
-
 <head margin="left-middle"><sup>Liste de noms</sup></head>
 
 <ab margin="left-middle" render="wide">
-
 
 <pn>M<exp>estr</exp>e Nicolas Coste</pn> a la <pl>rue de la heaumerie a
 limage s<exp>ainc</exp>t claude</pl> <mark>/</mark> mirouers<lb/>
@@ -29,8 +27,8 @@ boucherie</pl> <pro>courroyeur</pro> essayer <m>fleur de
 
 </div>
 
-<div id="p001r_2" categories="lists">
 
+<div id="p001r_2" categories="lists">
 
 <head margin="left-middle"><sup>Liste</sup></head>
 
@@ -40,26 +38,24 @@ boucherie</pl> <pro>courroyeur</pro> essayer <m>fleur de
 
 Le <pro>moissonneur</pro> laissant quelques espis nest repris<lb/>
 
-<la>Sacra Eleusinæ deæ propalare nefas</la><lb/>
+<la>Sacra <pn><pl>Eleusinæ</pl> deæ</pn> propalare nefas</la><lb/>
 
 Trompettes voy le livre des funerailles
 <hr/></ab>
 </div>
 
 
-<div id="p001r_5" categories="lists">
+<div id="p001r_3" categories="lists">
         
-
 <head margin="left-middle"><sup>Liste de livres et d'autheurs</sup></head>
 
 <ab margin="left-middle" render="wide">
-
 
 Vuolfangus lazius<lb/>
 
 Petrus appianus <la>Mathemat<exp>icus</exp><lb/>
 
-Ingolstadiensis Comment. <pl>urb. rom.</pl></la>
+Ingolstadiensis Comment. <pl>urb. rom.</pl></la><lb/>
 
 Hieronimo Ruscelli<lb/>
 
@@ -67,7 +63,7 @@ Hermolaus barbarus<lb/>
 
 Angelius Bargæus <la>de <al>aucupio</al> et venatione</la><lb/>
 
-Nicolaus Damascenus
+Nicolaus Damascenus<lb/>
 
 Cares<exp>ariensis</exp><comment rid="c_001r_34"/> <la>de rebus
 persarum</la><lb/>
@@ -80,7 +76,15 @@ Eupolemus <la><pro>historicus</pro> gentilis<lb/>
 
 qui de rebus davidis &amp; salomonis<lb/>
 
-scripsit</la> <emph>mons<exp>ieur</exp></emph><comment rid="c_001r_69"/><lb/>
+scripsit</la> 
+          
+          
+          
+          
+          
+          
+          
+<emph>mons<exp>ieur</exp></emph><comment rid="c_001r_69"/><lb/>
 
 <mark>-</mark> Cathalogue des villes<lb/>
 
@@ -108,86 +112,87 @@ Des præceptes dagriculture<lb/>
 
 et de la <pro>royne mere</pro></ab>
 
-    <ab margin="right-top" render="tall">  
+
+<ab margin="right-top" render="tall">  
         
-        <comment rid="c_001r_66"/><pn>Alexander Aphrodisæus</pn><lb/>
+<comment rid="c_001r_66"/><pn>Alexander Aphrodisæus</pn><lb/>
         
-        <pn>Polydorus verg<exp>ilius</exp></pn><lb/>
+<pn>Polydorus verg<exp>ilius</exp></pn><lb/>
         
-        <pn>Appianus</pn><lb/>
+<pn>Appianus</pn><lb/>
         
-        <pn>Athenæus</pn><lb/>
+<pn>Athenæus</pn><lb/>
         
-        <pn>Pausanias</pn><comment rid="c_001r_33"/><lb/>
+<pn>Pausanias</pn><comment rid="c_001r_33"/><lb/>
         
-        Statius Thebaidos<lb/>
+Statius Thebaidos<lb/>
         
-        <pn>Servius</pn> <la>in Aeneid<exp>em</exp></la><lb/>
+<pn>Servius</pn> <la>in Aeneid<exp>em</exp></la><lb/>
         
-        <pn>Macrobius</pn><lb/>
+<pn>Macrobius</pn><lb/>
         
-        Aulus Gellius<lb/>
+Aulus Gellius<lb/>
         
-        Alexander ab <pl>Alex<exp>andria</exp></pl><lb/>
+Alexander ab <pl>Alex<exp>andria</exp></pl><lb/>
         
-        <pn>Festus</pn><lb/>
+<pn>Festus</pn><lb/>
         
-        <pn>Nonius</pn><lb/>
+<pn>Nonius</pn><lb/>
         
-        <pn>Magius</pn> miscell<exp>anea</exp><lb/>
+<pn>Magius</pn> miscell<exp>anea</exp><lb/>
         
-        <pn>Pollux</pn> onomast<exp>icon</exp><lb/>
+<pn>Pollux</pn> onomast<exp>icon</exp><lb/>
         
-        <pn>Higinus</pn><lb/>
+<pn>Higinus</pn><lb/>
         
-        Berosus<lb/>
+Berosus<lb/>
         
-        Suetonius<lb/>
+Suetonius<lb/>
         
-        Valerius max<exp>imus</exp><lb/>
+Valerius max<exp>imus</exp><lb/>
         
-        Cornelius tacitu<exp>s</exp><lb/>
+Cornelius tacitu<exp>s</exp><lb/>
         
-        Xenophon<lb/>
+Xenophon<lb/>
         
-        <pn>Seneca</pn><lb/>
+<pn>Seneca</pn><lb/>
         
-        <pn>Dionisius Halicarnassensis</pn><lb/>
+<pn>Dionisius Halicarnassensis</pn><lb/>
         
-        <pn>Sabellicus</pn><lb/><lb/>
+<pn>Sabellicus</pn><lb/>
         
-        <add>cum permultis<lb/>
+<add>cum permultis<lb/>
             
-            aliis </add><pn>Iulius Capitollin<exp>us</exp></pn><comment rid="c_001r_67"/><lb/>
+aliis </add><pn>Iulius Capitollin<exp>us</exp></pn><comment rid="c_001r_67"/><lb/>
         
-        <pn>Budæus</pn><lb/>
+<pn>Budæus</pn><lb/>
         
-        <pn>Spartianus</pn><lb/>
+<pn>Spartianus</pn><lb/>
         
-        <pn>Blondus</pn><lb/>
+<pn>Blondus</pn><lb/>
         
-        <pn>Volaterranus</pn><lb/>
+<pn>Volaterranus</pn><lb/>
         
-        <pn>Herodotus</pn><lb/>
+<pn>Herodotus</pn><lb/>
         
-        <pn>Paulus Manutius</pn><lb/>
+<pn>Paulus Manutius</pn><lb/>
         
-        Strabo<lb/>
+Strabo<lb/>
         
-        <pn>Iulius firmicus</pn><lb/>
+<pn>Iulius firmicus</pn><lb/>
         
-        <pn>Quintus Curtius</pn><lb/>
+<pn>Quintus Curtius</pn><lb/>
         
-        <pn>Dion</pn><lb/>
+<pn>Dion</pn><lb/>
         
-        <pn>Cornelius Nepos</pn><lb/>
+<pn>Cornelius Nepos</pn><lb/>
         
-        <pn>Flavius Vopiscus</pn></ab>
+<pn>Flavius Vopiscus</pn></ab>
     
 </div>
 
-<div id="p001r_4" categories="lists">
 
+<div id="p001r_4" categories="lists">
 
 <head margin="left-middle"><sup>Liste de livres</sup></head>
 <ab margin="left-middle" render="wide">
@@ -200,7 +205,8 @@ salviano <la>typhernate authore <pl>Romæ</pl></la>
 
 </div>
 
-<div id="p001r_3" categories="lists">
+
+<div id="p001r_3" part="y">
 
 <ab margin="left-middle" render="wide">
 
@@ -358,7 +364,11 @@ mace a este de v<exp>er</exp>t Jaulne<lb/>
 
 <head><m>Coral contrefaict</m></head>
 
-<mark>+</mark>
+    <ab>
+                  
+                  
+        <mark>+</mark>
+    </ab>
 
 <ab>Il fault premierement faire les branches de <m>boys</m> ou<lb/>
 
@@ -911,7 +921,7 @@ le doncq dans une <lb/>
 
 descouvert</env></ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="tall">
 
 En cinq ou six <ms>lb</ms> d<m>huile</m><lb/>
 
@@ -927,7 +937,7 @@ noir Mays il se<lb/>
 
 noircist au foeu</ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="tall">
 
 
 
@@ -3547,7 +3557,7 @@ la grise qui semble sarment</ab>
 
 
 
-<div id="p016r_1" categories="metal process" continued="yes">
+<div id="p016r_1" categories="metal process">
 
 <head>Fonte de <m>fer doux</m></head>
 
@@ -3583,6 +3593,7 @@ sorte<lb/>
 
 quil y aye <ms>un pan</ms> de gueule de <tl>four</tl> sur la <tl>tuelle</tl>
 &amp; un <ms>pan</ms> dessouls</ab>
+    
 
 <ab margin="left-middle">
 
@@ -3600,16 +3611,13 @@ rond</tl> en tient deulx<lb/>
 
 <ms>quintals</ms></ab>
 
-<figure id="fig_p016r_1" margin="left-middle" render="wide" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aUw0eThJNEVTelk">
+</div>
+    
+    <div id="p016r_1" part="y">
+    
+<ab margin="left-middle" render="wide"><figure id="fig_p016r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aUw0eThJNEVTelk">
+</figure></ab>
 
-
-
-
-
-
-
-
-</figure>
 <ab margin="right-middle">
 
 Les <pro>minerons</pro> pour fayre<lb/>
@@ -3627,7 +3635,9 @@ Et cela rend le <m>fer</m> merveilleusem<exp>ent</exp><lb/>
 
 ductible &amp; courant</ab>
 
+</div>
 
+<div id="p016r_1" continued="yes">
 
 <ab>Il fault aussy que la <tl>tuelle</tl> entre jusques au milieu de la gueule du
 <tl>fourneau</tl><lb/>
@@ -3726,8 +3736,8 @@ sont plus subgectes<lb/>
 a rompre</ab>
 
 
-
 </div>
+
 </root><root page="016v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f38.image">
 
 
@@ -5867,8 +5877,8 @@ mettent que la balle</ab>
 
 
 
-<figure id="fig_p023v_1" margin="left-middle" render="tall" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Tm4ySC1wcUx6Yzg">
-</figure>
+<ab margin="left-middle" render="tall"><figure id="fig_p023v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Tm4ySC1wcUx6Yzg">
+</figure></ab>
 
 <ab><m>pouldre</m> Estant pleine la saulssisse trempe la <del>bien
 dans</del><lb/>
@@ -6092,30 +6102,33 @@ nuict</tmp><lb/>
 recognoistre le lieu le plus commode pour faire la batterie<lb/>
 
 </ab>
-    <ab margin="left-middle">
-        
-        Scaches les magasins<lb/>
-        
-        de <pl>france</pl> pour l<wp>artiglerie</wp></ab>
     
     
-    <ab margin="left-middle">
+<ab margin="left-middle">
         
-        Il est bon que la plateforme<lb/>
+Scaches les magasins<lb/>
         
-        penche un peu sur le deva<exp>n</exp>t<lb/>
+de <pl>france</pl> pour l<wp>artiglerie</wp></ab>
+    
+    
+<ab margin="left-middle">
         
-        pourceque la <wp>piece</wp> est plustost<lb/>
+Il est bon que la plateforme<lb/>
         
-        mise en batterie &amp; tient<lb/>
+penche un peu sur le deva<exp>n</exp>t<lb/>
         
-        plus coup &amp; bat plus roide</ab>    
+pourceque la <wp>piece</wp> est plustost<lb/>
+        
+mise en batterie &amp; tient<lb/>
+        
+plus coup &amp; bat plus roide</ab>    
     
 </div>
-<div id="p024v_1" categories="arms and armor">
-<ab>
     
-&amp; sil ne voit bien on donne une faulse alarme affin que<lb/>
+
+<div id="p024v_1" part="y">
+
+<ab>&amp; sil ne voit bien on donne une faulse alarme affin que<lb/>
 
 ceulx de dedans jectent des <wp>flambeaulx</wp> Bien souvent on<lb/>
 
@@ -6147,36 +6160,36 @@ quelque fause alarme dun aultre coste Et plustost on ha<lb/>
 </ab>
 </div>
 
-    <div id="p024v_2" categories="arms and armor">
-        
-        
-        <head margin="left-top"><df><wp>Canons a chambre</wp></df></head>
-        <ab margin="left-top" render="tall">
-            
-            sont ceulx qui ont un renfort<lb/>
-            
-            par dedans en tout lespace<lb/>
-            
-            qui contient la <m>pouldre</m> Et<lb/>
-            
-            la balle ne peut <del>a</del> rouler<lb/>
-            
-            que jusque a lentree de<lb/>
-            
-            ladicte chambre Ceulx cy<lb/>
-            
-            ne font pas si grande<lb/>
-            
-            faulcee &amp; sont fascheux<lb/>
-            
-            a charger Mays il ne<lb/>
-            
-            seschauffent pas si tost</ab></div>
-    
-    
-<div id="p024v_1" categories="arms and armor">
-<ab>
 
+<div id="p024v_2" categories="arms and armor">
+        
+        
+<head margin="left-top"><df><wp>Canons a chambre</wp></df></head>
+<ab margin="left-top" render="tall">
+            
+sont ceulx qui ont un renfort<lb/>
+            
+par dedans en tout lespace<lb/>
+            
+qui contient la <m>pouldre</m> Et<lb/>
+            
+la balle ne peut <del>a</del> rouler<lb/>
+            
+que jusque a lentree de<lb/>
+            
+ladicte chambre Ceulx cy<lb/>
+            
+ne font pas si grande<lb/>
+            
+faulcee &amp; sont fascheux<lb/>
+            
+a charger Mays il ne<lb/>
+            
+seschauffent pas si tost</ab></div>
+    
+    
+<div id="p024v_1" part="y">
+<ab>
 
 tire quelque volee aulx deffenses Les gabions les
 <pro>pionners</pro><lb/>
@@ -6207,31 +6220,34 @@ tranchees pour aller aux <wp>pieces</wp> Mays on mect force<lb/>
 gabions qui sont hault &amp; on y en courant aulx gra<exp>n</exp>d<lb/> 
 </ab>
 </div>
+
+
+<div id="p024v_3" categories="arms and armor">
+        
+<head margin="left-top">Lumiere d<m>acier</m></head>
+
+<ab margin="left-top" render="tall">
+            
+se pose en Ancrau dans<lb/>
+            
+les <wp>canons</wp> pourcequelle ne<lb/>
+            
+se gaste poinct en tirant<lb/>
+            
+co<exp>mm</exp>e font bien tost les aultres<lb/>
+            
+Mays ces ancraus sont<lb/>
+            
+subgects a saulter &amp; porter<lb/>
+            
+domaige au <pro>canonier</pro> Il ny<lb/>
+            
+ha que duser de la lumiere<lb/>
+            
+propre</ab></div>
     
-    <div id="p024v_3" categories="arms and armor">
-        
-        
-        <head margin="left-top">Lumiere d<m>acier</m></head>
-        <ab margin="left-top" render="tall">
-            
-            se pose en Ancrau dans<lb/>
-            
-            les <wp>canons</wp> pourcequelle ne<lb/>
-            
-            se gaste poinct en tirant<lb/>
-            
-            co<exp>mm</exp>e font bien tost les aultres<lb/>
-            
-            Mays ces ancraus sont<lb/>
-            
-            subgects a saulter &amp; porter<lb/>
-            
-            domaige au <pro>canonier</pro> Il ny<lb/>
-            
-            ha que duser de la lumiere<lb/>
-            
-            propre</ab></div>
-<div id="p024v_1" categories="arms and armor" continued="yes">
+    
+<div id="p024v_1" continued="yes">
 <ab>
 
 places on faict trenchees Il y a tousjours dans les<lb/>
@@ -6251,8 +6267,8 @@ part</ab>
 
 <div id="p024v_4" categories="arms and armor">
 
-
 <head margin="left-top">Lumiere a ras</head>
+    
 <ab margin="left-top" render="tall">
 
 de<lb/>
@@ -6360,11 +6376,7 @@ ce faisant tu esbranles plusieurs pierres<hr/></ab>
 
 
 
-<ab margin="bottom">
-
-
-
-
+<ab margin="bottom" render="extra-wide">
 
 Aulcuns mettent des petites roues dune <wp>piece</wp> &amp; de quelque table
 espece au bout<lb/>
@@ -7508,7 +7520,7 @@ pluye</env><lb/>
 Mays celuy qui est faict d<m>huile de noix blanche</m><comment rid="c_031r_01"/> co<exp>mm</exp>e
 tu la<lb/>
 
-fais tient <env>a la pluye</env> <add>t</add> est fort
+fais tient <env>a la pluye</env> t est fort
 cler &amp; beau &amp; bien tost sec<lb/>
 
 Cest pourquoy on use diceluy aulx banieres &amp; enseignes<lb/>
@@ -7944,12 +7956,12 @@ pas a ses<lb/>
 
 
 
-<head><mark>X</mark>  Pour rallumer une <tl>chandelle</tl> estainte<lb/>
+<head><mark>X</mark><comment rid="c_084v_02"/> Pour rallumer une <tl>chandelle</tl> estainte<lb/>
 entre les <bp>mains</bp> sans soufler</head>
 
 <figure id="fig_p033r_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SFNtME0xWURubzA"/>
 
-<ab><mark>X</mark>  Ayes un petit <tl>baston d<m>ouzier <del>entre</del> bien
+<ab><mark>X</mark> Ayes un petit <tl>baston d<m>ouzier <del>entre</del> bien
 sec</m></tl> et en couppe une petite piece<lb/>
 
 <ms>comme un <tl>curedant</tl></ms> &amp; <del>la m</del> mects lun bout
@@ -8138,7 +8150,7 @@ tiens pres du <mark>#</mark></ab>
 au <bp>front</bp> tu lempescheras de sortir dune
 <env>chambre</env></head>
 
-<ab><mark>X</mark>Fais luy <bp>embrasser</bp> la <tl>quenoille du
+<ab><mark>X</mark><comment rid="c_084v_02"/> Fais luy <bp>embrasser</bp> la <tl>quenoille du
 lict</tl> ou chose semblable<lb/>
 
 &amp; que du mesme <bp>bras</bp> il tienne le <bp>doigt</bp> au
@@ -8150,7 +8162,7 @@ lict</tl> ou chose semblable<lb/>
 
 
 
-<head><mark>X</mark>Gaiger a quelqu<del>e</del>un que se
+<head><mark>X</mark> Gaiger a quelqu<del>e</del>un que se
 promenant<lb/>
 
 jusques a tel lieu et en revenir il ne<lb/>
@@ -8158,7 +8170,7 @@ jusques a tel lieu et en revenir il ne<lb/>
 dira point quattre fois de suite botte sa<exp>n</exp>s
 espero<exp>n</exp></head>
 
-<ab><mark>X</mark>Sil sessaye de le dir<del>a</del>e<comment rid="c_034r_04"/> <add>mays il
+<ab><mark>X</mark> Sil sessaye de le dir<del>a</del>e<comment rid="c_034r_04"/> <add>mays il
 fault quil parle <sn>hault</sn></add> quand il sera alle &amp; revenu tu
 luy<lb/>
 
@@ -8177,9 +8189,8 @@ botte sans dire esperon car ta gageure est telle</ab>
 
 sans y fayre trou</head>
 
-<mark>X</mark>
 
-<ab>Fais le tenir par un <pro>vallet</pro> contre la
+<ab><mark>X</mark> Fais le tenir par un <pro>vallet</pro> contre la
 <env>muraille</env></ab>
 
 </div>
@@ -8188,12 +8199,12 @@ sans y fayre trou</head>
 
 
 
-<head><mark>X</mark>Ne casser point un <tl><m>verre</m></tl>
+<head><mark>X</mark> Ne casser point un <tl><m>verre</m></tl>
 dune<lb/>
 
 <tl>busche</tl> ou dun <tl>gros baston</tl></head>
 
-<ab><mark>X</mark>Tu en coupperas un petit loppin gros <ms>comme un
+<ab><mark>X</mark> Tu en coupperas un petit loppin gros <ms>comme un
 <tl>curedent</tl></ms><lb/>
 
 &amp; ainsy luy donneras dune <tl>busche</tl> ou dun <tl>gros
@@ -8341,7 +8352,7 @@ ne coulle </ab>
 
 enseigneras une chose quil ne scait pas<lb/>
 
-ne toy aussy</head><comment rid="c_035r_01"/>
+ne toy aussy<comment rid="c_035r_01"/></head>
 
 <ab>Ayes une <tl>fisselle</tl> ou <tl>petit baston</tl> et prens la
 mesure<lb/>
@@ -8780,9 +8791,9 @@ laquelle un aultre coupe le bout puys le soufleur en<lb/>
 tournant laplatise &amp; en touchant sur un plan qui est a
 terre<lb/>
 
-<del>A</del> puys la met a recuire Ainsy le milieu par ou elle se<lb/>
+<del>A</del> puys la met a recuire<comment rid="c_036v_01"/> Ainsy le milieu par ou elle se<lb/>
 
-commance demeure tousjours<comment rid="c_036v_01"/></ab>
+commance demeure tousjours</ab>
 
 <ab margin="left-middle">
 
@@ -9282,7 +9293,7 @@ fort beau fruit</ab>
 <head>Planter abres</head>
 
 <ab>On dict que rarement labre plante le <tmp>jour de
-<pn>S<exp>ain</exp>t paul</pn></tmp><lb/>
+<pn>S<exp>ain</exp>t paul</pn></tmp><comment rid="c_038v_04"/><lb/>
 
 fault a prendre &amp; pour couvrir les ampeaulx la fiente de<lb/>
 
@@ -9297,7 +9308,7 @@ co<exp>mm</exp>e la terre</ab>
 
 
 
-<head><pro>Marchant</pro></head><comment rid="c_038v_02"/>
+<head><pro>Marchant</pro><comment rid="c_038v_02"/></head>
 
 <ab>Ceulx qui vendent par le menu les <m>velours</m> &amp; <del>es</del>
 aultres<lb/>
@@ -9409,9 +9420,9 @@ La terre avecq des <tl>palles <m>fer</m></tl> co<exp>mm</exp>e les
 pour semer quelques<lb/>
 
 <pa>herbes potaigeres</pa> On le seme com<exp>munem</exp>ent <tmp>a la
-<pn>saint Anthoine</pn><comment rid="c_039v_01"/> de<lb/>
+<pn>saint Anthoine</pn> de<lb/>
 
-Janvier</tmp> on en faict huict racoltes Les premieres sont
+Janvier</tmp><comment rid="c_039v_01"/> on en faict huict racoltes Les premieres sont
 meilleures<lb/>
 
 Le meilleur <pa>pastel</pa> de <pl>lauragues</pl> est celuy de
@@ -11015,7 +11026,7 @@ de l<m>ancre</m> qui si est deseche Il ne la fault que tremper<lb/>
 
 dans l<m>huile de soufre</m> Et incontinent elle sera blanche<lb/>
 
-&amp; nette <emph>Urb.</emph></ab>
+&amp; nette <emph>Urb.</emph><comment rid="c_046v_03"/></ab>
 
 </div>
 
@@ -12350,7 +12361,7 @@ deulx<lb/>
 <tl>planche</tl> puys<lb/>
 
 daultre <tl><m>papier</m></tl> &amp; enfin ung aultre
-<tl><m>foeultre</m></tl>Puys passe entre<lb/>
+<tl><m>foeultre</m></tl> Puys passe entre<lb/>
 
 les <tl>rolleaulx</tl> Et tu peulx imprimer une douzaine de pieces<lb/>
 
@@ -14562,7 +14573,7 @@ couleurs</ab>
 <div id="p060v_3" categories="painting">
 
 
-<head><m> Huile d<pa>aspic</pa></m></head>
+<head margin="left-top"><m>Huile d<pa>aspic</pa></m></head>
 
 <ab margin="left-top" render="tall">
 
@@ -17294,7 +17305,7 @@ neantmoings son asperite areneuse sans <m>embouer</m> les
 <tl><bp>doigts</bp></tl> co<exp>mm</exp>e<lb/>
 
 l<m>ardille</m> Il se deseiche legerem<exp>ent</exp> au
-<del><ill/></del>foeu<comment rid="c_069r_05"/> puys se <tl>pile</tl> &amp; passe<lb/>
+<del><ill/></del> foeu<comment rid="c_069r_05"/> puys se <tl>pile</tl> &amp; passe<lb/>
 
 subtillem<exp>ent</exp> par un <tl>double tamis</tl> ou une <tl>manche
 de <m>linge</m></tl> puys<lb/>
@@ -18307,7 +18318,7 @@ poser sans le <m>boys</m></ab>
 
 
 
-<head>Pour Couleur dorange</head>
+<head>Pour couleur dorange</head>
 
 <ab>Prenes de l<m>eau</m> ou la <m>chault</m> aura trempe Et Mectes du
 <m>terroy<lb/>
@@ -18415,7 +18426,7 @@ Remues fort Jusques a ce q<exp>ui</exp>l soit en pouldre</ab>
 
 
 
-<head>Pour le Coucher</head>
+<head>Pour le coucher</head>
 
 <ab>Prenes de la <m>colle de <pl>partenay</pl>
 <add>ou parchemin</add></m> Et lapliques
@@ -18469,7 +18480,7 @@ d<pa>aspic</pa></m></ab>
 
 
 
-<head>Couleur de Cuyvre bruny</head>
+<head>Couleur de cuyvre bruny</head>
 
 <ab>Prenes une <ms>once</ms> de <m>sel armoniac</m> avecq une
 <ms>once</ms> de<lb/>
@@ -22135,7 +22146,7 @@ despouiller</ab>
 
 <div id="p088v_2" categories="casting">
 
-<head><comment rid="c_090r_03"/><m>Sable mineral</m></head>
+<head><comment rid="c_158r_01"/><m>Sable mineral</m></head>
 
 <ab>La couleur de blanc et de jaulne nimporte Le tout est quil
 soict<lb/>
@@ -22451,7 +22462,7 @@ chose fort platte<comment rid="c_069r_04"/></ab>
 </div>
 <div id="p090r_3" categories="casting" continued="yes">
 
-<head>Que tout <m>sable</m> se peult rendre bon</head>
+<head><comment rid="c_158r_01"/>Que tout <m>sable</m> se peult rendre bon</head>
 
 <ab>Les <pro>artisans qui travaillent en grands ouvraiges</pro> &amp; qui ont besoing<lb/>
 
@@ -23172,7 +23183,7 @@ vessie</m> Le meilleur <m>bistre</m> est<lb/>
 celuy gras &amp; luisant des <env>cheminees des grandes cuisines</env>
 Il est<lb/>
 
-difficille a broyer &amp; crie sur le <tl><m>mabre</m></tl></ab>
+difficille a broyer &amp; <sn>crie</sn> sur le <tl><m>mabre</m></tl></ab>
 
 </div>
 
@@ -23354,8 +23365,8 @@ peu tiede</m> Car si elle estoit trop chaulde elle cuiroit &amp;
 gasteroit la<lb/>
 
 <m><ups>p</ups>eau</m> Elle se coust avecq <m>fil noir</m></ab>
-<figure id="fig_p094r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5YTlFNHRBSVRrOEU">
-</figure>
+<ab margin="left-middle"><figure id="fig_p094r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5YTlFNHRBSVRrOEU">
+</figure><comment rid="c_094r_09"/></ab>
 
 
 
@@ -23478,23 +23489,31 @@ des fourreaux</tl></caption>
 <figure id="fig_p094v_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5OEQ3OEFSNnEzeE0">
 </figure>
 
-
-<figure id="fig_p094v_8" margin="left-middle" link="https://drive.google.com/file/d/1Hsga43MIuoLIOrj7I5IKQCRAEEXW75uv"/>
-<figure id="fig_p094v_4" margin="left-middle" link="https://drive.google.com/file/d/1cE1kYyCx4GXgsYAIEb9Mp1ppcOGYyK_m"><caption>a</caption></figure>
-<figure id="fig_p094v_5" margin="left-middle" link="https://drive.google.com/file/d/17W0Rwiq0U0501jXvYvO8kF_FYjeiNtcx"><caption>b</caption></figure>   
+<figure id="fig_p094v_8" margin="left-middle" link="https://drive.google.com/open?id=1Hsga43MIuoLIOrj7I5IKQCRAEEXW75uv">
+</figure>
+    
+<figure id="fig_p094v_4" margin="left-middle" link="https://drive.google.com/open?id=1cE1kYyCx4GXgsYAIEb9Mp1ppcOGYyK_m">
+<caption>a</caption>
+</figure>
+    
+<figure id="fig_p094v_5" margin="left-middle" link="https://drive.google.com/open?id=17W0Rwiq0U0501jXvYvO8kF_FYjeiNtcx">
+<caption>b</caption>
+</figure>   
     
 
-<figure id="fig_p094v_7" margin="left-middle" link="https://drive.google.com/file/d/1HhpPaiH0I9np_aklEzw8tpDV12AM3zD1">
+<figure id="fig_p094v_7" margin="left-middle" link="https://drive.google.com/open?id=1HhpPaiH0I9np_aklEzw8tpDV12AM3zD1">
 <caption>
 D<lb/>
 le <tl>baston<lb/>
-a <m>felinder</m></tl></caption></figure>
+a <m>felinder</m></tl></caption>
+</figure>
 
-<figure id="fig_p094v_6" margin="left-middle" link="https://drive.google.com/file/d/1TAYIJ3T-ElLyUZO0P0CX8t0BPIupl1hP">
+<figure id="fig_p094v_6" margin="left-middle" link="https://drive.google.com/open?id=1TAYIJ3T-ElLyUZO0P0CX8t0BPIupl1hP">
 <caption>
 c<lb/>
 le <tl><m>flin</m></tl> ou <tl><m>pierre<lb/>
-de fouldre</m></tl></caption></figure>
+de fouldre</m></tl></caption>
+</figure>
 
 
 </div>
@@ -23844,7 +23863,7 @@ Un fourreau <m>encire</m><lb/>
 vault bien xxx <ms><cn>s<exp>ols</exp></cn></ms> un de <al>vache</al> xx
 <ms><cn>s<exp>ols</exp></cn></ms></ab>
 
-<ab margin="left-middle">
+<ab margin="left-bottom">
 
 
 
@@ -26419,7 +26438,10 @@ pour aller voir ce que tu auras faict Et voya<exp>n</exp>t des
 <al>vers</al> il entrera</ab>
 
 <ab margin="left-middle">
-
+<lb/>
+<lb/>
+<lb/>
+<lb/>
 Aulcuns les<lb/>
 
 vendent sur<lb/>
@@ -28819,9 +28841,6 @@ de la gorge <del>sarrestan</del> entrant dans le test superieur
 <div continues="yes" id="p112v_1" categories="casting">
 
 
-
-
-
 <ab>bout <del>qua</del> pour les <del>t</del>en retirer au besoing Et
 advise quil fault que ces<lb/>
 
@@ -29014,10 +29033,12 @@ bien avecq du<lb/>
 <m>cotton</m> car le<lb/>
 
 <m>sable</m> qui y<lb/>
-    
+   
+   
 <hr/>L<m>eau de vye</m><lb/>
     
 de trois passes<hr/>  
+
 
 toucheroit seroit<lb/>
 
@@ -29146,21 +29167,8 @@ derechef et retranche le superflu avecq un grand <tl>cousteau</tl> luy
 <mark>||</mark><comment rid="c_113v_01"/><lb/>
 
 donnant forme longue de <mu>mandorre</mu> <del>Rasche</del><lb/>
+</ab>
 
-Rascle &amp; coupe aussy le derriere <add>du <tl>moule</tl></add> qui
-est tousjours le plus<lb/>
-
-foible Et laproprie proprem<exp>ent</exp> ainsy Et noublie de<lb/>
-
-fayre autour des coches affin que le second gect si encre<lb/>
-
-&amp; lye mieulx
-
-<figure id="fig_p113v_5" link="https://drive.google.com/open?id=0B9-oNrvWdlO5V29QdUxZVmxCUDQ">
-</figure>
-
-sans varier</ab>
-    
 
 <ab margin="left-middle">
 
@@ -29243,7 +29251,7 @@ se deseichent promptem<lb/>
 de l<m>eau</m> meslee</ab>
 
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="tall">
 
 <figure id="fig_p113v_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dEdzS040X3RjbkU">
 </figure><lb/>
@@ -29272,26 +29280,43 @@ ta <tl>cuillere</tl> ou<lb/>
 
 tu le destrempes</ab>
 
-
-<ab margin="left-middle" render="wide">
-
-L<m>eau de sel armoniac</m> nest pas<lb/>
-
-necessaire aulx petits <tl>moules</tl> qui ne requierent pas grand ne
-long foeu pour estre recuits<lb/>
-
-touteffois quand tu y en mettras il ne sera que mieulx<lb/>
-
-<ill/></ab>
-
 </div>
-    
-    
+
+
 <div id="p113v_1" categories="casting">
         
 <head><del>Second gect</del></head>
-        
 </div>
+    
+
+
+<div id="p113r_1" part="y">
+<ab>Rascle &amp; coupe aussy le derriere <add>du <tl>moule</tl></add> qui
+est tousjours le plus<lb/>
+            
+foible Et laproprie proprem<exp>ent</exp> ainsy Et noublie de<lb/>
+            
+fayre autour des coches affin que le second gect si encre<lb/>
+            
+&amp; lye mieulx
+            
+<figure id="fig_p113v_5" link="https://drive.google.com/open?id=0B9-oNrvWdlO5V29QdUxZVmxCUDQ">
+</figure>
+            
+sans varier</ab>
+  
+  
+<ab margin="left-bottom" render="wide">
+        
+L<m>eau de sel armoniac</m> nest pas<lb/>
+        
+necessaire aulx petits <tl>moules</tl> qui ne requierent pas grand ne
+long foeu pour estre recuits<lb/>
+        
+touteffois quand tu y en mettras il ne sera que mieulx<lb/>
+        
+<ill/></ab></div>
+        
 </root><root page="114r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f233.image">
 
 
@@ -29771,7 +29796,7 @@ avecq de petits <tl>ciseaulx</tl>
 <ab margin="left-middle" render="tall">
 
 <figure id="fig_p115r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NmVuVUloTy0zNWc">
-</figure><comment rid="c_115r_01"/> 
+</figure><comment rid="c_115r_01"/><lb/> 
 
 Si tu veulx qui sera asses<lb/>
 
@@ -29849,6 +29874,9 @@ de <m>fil de fer</m><lb/>
 
 de ceste forme<lb/>
 
+<figure id="fig_p115r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aVlsV1BuajVVejQ">
+</figure>
+    
 ilz empeschent<lb/>
 
 que les <tl>molles</tl><lb/>
@@ -29858,16 +29886,24 @@ ne se gaulchissent<lb/>
 
 en recuisant</ab>
 
+<figure id="fig_p115r_3" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aS1ZeHc2dGxJTE0">
+</figure>
+
+<figure id="fig_p115r_4" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Xzg4WTZ2NFNkOHM">
+<caption>Cest la forme des <tl>crampons</tl></caption>
+</figure>
+    
+
 </div>
 
 
 <div id="p115r_1" categories="casting">
 
-<head><del>Faire le gect recuire les <tl>moules</tl> &amp;c</del>
+<head><del>Faire le gect recuire les <tl>moules</tl> &amp;c</del><lb/>
 
 Advertisseme<exp>n</exp>t sur tout ce<lb/>
 
-que dessus<mark>|-|</mark></head>
+que dessus <mark>|-|</mark></head>
 
 <ab>Si ton <al>serpent</al> a este <tmp>long temps</tmp> sans manger il advient que
 quand<lb/>
@@ -29946,9 +29982,6 @@ prise est si<lb/>
 
 ferme que pour cela lempraincte ne se gastera poinct</ab>
 
-<figure id="fig_p115r_3" margin="left-bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aS1ZeHc2dGxJTE0">
-</figure>
-
 </div>
 
 
@@ -29975,11 +30008,6 @@ quelque chose dedans a brusler quil tombe en bas</ab>
 recuit pourv<ups>eu</ups><lb/>
 
 quil demeure rouge par dedans quand tu gecteras</ab>
-
-<figure id="fig_p115r_4" margin="bottom" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Xzg4WTZ2NFNkOHM">
-<caption>Cest la forme des <tl>crampons</tl></caption>
-
-</figure>
 
 </div>
 </root><root page="115v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f236.image">
@@ -32047,7 +32075,10 @@ Et de l<m>arsenic</m>
 
 </div>
 
-<div/>
+
+<div>    
+</div>
+
 
 <div id="p120v_6" categories="preserving" continued="yes">
 
@@ -33729,7 +33760,7 @@ Silence</tmp> l<bp>oreille</bp> justem<exp>ent</exp> &amp; tu
 
 </div>
 
-    <div id="p125r_1" categories="casting">
+    <div id="p125r_1" part="y">
         <ab margin="left-top" render="tall">
             Et l<m>eau chaulde</m><lb/>
             
@@ -35131,7 +35162,7 @@ ton ouvraige sera sec Mays couche cler</ab>
 
 
 
-<head>Pour <pa>santonique</pa></head>
+<head>Pour <pa>santonique</pa><comment rid="c_158v_02"/></head>
 
 <ab>Ce blanc blafart de ceste herbe se faict de <m>vert de
 terre</m><lb/>
@@ -35181,7 +35212,7 @@ plaine de aiguillons fort vene<ups>neu</ups>lx</add></ab>
 
 
 
-<mark>+</mark>
+<mark>+</mark><lb/>
 
 Mects un peu de<lb/>
 
@@ -35353,9 +35384,17 @@ encoche &amp; grumeleux<lb/>
 pour retirer la furie du<lb/>
 
 <m>metal</m><hr/></ab>
+ <figure id="fig_p129v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Sk9tdno1ODBqdms">
+        
+        
+        
+        
+        
+    </figure> 
 
 </div>
 
+<div/>
 <div id="p129v_4" categories="casting">
 
 
@@ -35412,21 +35451,12 @@ le bout des pattes les adaptant avecq le bout des <tl>petites
 molettes</tl> Fays<lb/>
 
 le semblable du bout des petites corniches de l<al>iraigne</al>
-Retourne<lb/>
+Retourne <mark>🜊</mark></ab>
 
-<mark>🜊</mark></ab>
-
-<ab margin="left-middle">
+<ab margin="left-top" render="wide">
 
 
 
-<figure id="fig_p129v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Sk9tdno1ODBqdms">
-
-
-
-
-
-</figure>
 
 <add>Pour faire le gect<lb/>
 
@@ -36018,10 +36048,10 @@ l<m>estaim</m><lb/>
 trop de <m>plomb</m> il ne court pas bien tanvre Et pour <add>le</add>
 scavoir<lb/>
 
-si<del>l</del> l<m>estaim</m> crie fort cest signe quil ny ha pas trop
+si<del>l</del> l<m>estaim</m> <sn>crie fort</sn> cest signe quil ny ha pas trop
 de <m>plomb</m><lb/>
 
-Sil crie lentem cest a dire quil y en ha
+Sil <sn>crie lentem</sn> cest a dire quil y en ha
 trop<lb/>
 
 Advise bien</ab>
@@ -36667,11 +36697,11 @@ seche &amp; se retire plustost que faire crouste sur le
 
 ou <m>moisissure</m></ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="tall">
 
 
 
-<mark>+</mark>
+<mark>+</mark><lb/>
 
 Quand tu moules de<lb/>
 
@@ -37766,7 +37796,7 @@ Laisse<lb/>
 
 courra merveilleusem<exp>ent</exp></ab>
 
-<ab margin="left-top" render="tall">
+<ab margin="left-middle" render="tall">
 
 
 
@@ -38403,7 +38433,7 @@ tanvre</ab>
 
 
 
-<mark>+</mark>
+<mark>+</mark><lb/>
 Note que si tu<lb/>
 
 les veulx gecter<lb/>
@@ -39807,7 +39837,9 @@ imprime</ab>
 
 <ab margin="left-middle">
 
-<comment rid="c_142v_02"/><mark>+</mark> Recuits tes <tl>moules</tl><lb/>
+<comment rid="c_142v_02"/><mark>+</mark><lb/> 
+
+Recuits tes <tl>moules</tl><lb/>
 
 avecq <m>charbons</m> allumes<lb/>
 
@@ -40518,7 +40550,7 @@ boit l<m>huile</m></ab>
 
 
 
-<mark>+</mark>
+<mark>+</mark><lb/>
 
 Sil y a du <m><la>crocum</la></m><lb/>
 
@@ -40747,7 +40779,7 @@ Aultrement il viendra<lb/>
             
 grumeleus</ab>
         
-<ab margin="left-top" render="tall">
+<ab margin="left-top">
             
 Pourceque tu ne<lb/>
             
@@ -41103,7 +41135,7 @@ il te le fault departir en trois co<exp>mm</exp>e tu vois Scavoir<lb/>
 tu mectras un <tl>entre deulx d<m>ardille</m></tl> dessus la gorge &amp;
 un<lb/>
 
-aultre sur le bort de la coquille de la queue <mark>#</mark> Et
+aultre sur le bort de la coquille de la queue <mark>#</mark><comment rid="c_154v_03"/> Et
 aya<exp>n</exp>t<lb/>
 
 <m>huile</m> <del>et</del> la coquille du ventre &amp; layant frotee
@@ -42209,12 +42241,13 @@ et le raporter avecq<lb/>
 
 <m>souldure</m></ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="wide">
 
 
 
-<mark>X</mark>  Note quapres que
-ton<lb/>
+<mark>X</mark><lb/>
+
+Note quapres que ton<lb/>
 
 noyau est gecte Il est<lb/>
 
@@ -42707,7 +42740,7 @@ animau<ups>lx</ups><lb/>
 
 <tl>moule</tl> quil ne soict recuit &amp; le <al>rat</al> brusle</ab>
 
-<ab margin="left-middle"><mark>+</mark>
+<ab margin="left-middle"><mark>+</mark><lb/>
 
 Le <al>rat</al> pourcequil<lb/>
 
@@ -43321,7 +43354,7 @@ pource quil est<lb/>
 
 forgeant il saigrist </ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="tall">
 
 Aulcuns souldent<lb/>
 
@@ -43814,7 +43847,7 @@ cave en relief</head>
 
 medaille &amp; tu auras un cave dans lequel tu pourras gecter<lb/>
 
-en noyau un relief <add>de ton <exp><m>sable</m></exp></add> sur lequel tu feras un cave
+en noyau un relief <add>de ton <m>sable</m></add> sur lequel tu feras un cave
 de <m>plomb</m><lb/>
 
 ou d<m>estain</m> dans lequel tu gecteras un relief de <m>cire</m><lb/>
@@ -44112,7 +44145,7 @@ gect a la <al>mouche</al><comment rid="c_156v_02"/><hr/>
 <ab margin="left-middle">
 
 
-<mark>+</mark>
+<mark>+</mark><lb/>
 Sil vient quelque<lb/>
 
 default aulx aisles<lb/>
@@ -44292,9 +44325,9 @@ le reste est bien brusle</ab>
 <div id="p157r_5" categories="casting">
 
 
-<head><al>Mousches</al></head>
+<head margin="left-top"><al>Mousches</al></head>
 
-<ab>Elles se moulent<lb/>
+<ab margin="left-top">Elles se moulent<lb/>
 
 mieulx sur une<lb/>
 
@@ -46000,7 +46033,7 @@ Les <tl>crampons</tl> se doibvent mectre plustost que le recuire<lb/>
 
 ou deseicher</ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="tall">
 
 
 
@@ -46454,9 +46487,9 @@ espis nest pas repris<comment rid="c_166r_01"/><lb/>
 Si quelques <pro>artisans</pro> se plaignent quon descouvre les
 secrets<lb/>
 
-des arts et que les desses <pl>Eleusines</pl> se plaignent
-co<exp>mm</exp>e a <pn>N</pn><lb/>
-<pn>pytagorien</pn> de ce que on ha divulgue leurs mysteres Excuse<lb/>
+des arts et que les <pn>desses <pl>Eleusines</pl></pn><comment rid="c_001r_05"/> se plaignent
+co<exp>mm</exp>e a <pn>N<lb/>
+pytagorien</pn> de ce que on ha divulgue leurs mysteres Excuse<lb/>
 
 toy sur le dire des anciens <pl>hebrieulx</pl> recite par
 <pn>Josephe</pn></ab>
@@ -47448,7 +47481,7 @@ couvre tout</ab>
 <div id="p170v_1" categories="manuscript structure">
 
 
-<head><sup>Première page d'origine</sup></head>
+<head><sup>Première page d'origine (1578–1579)</sup></head>
 <ab>
 <comment rid="c_170v_12"/>
 L<tmp>an</tmp> mil cinq cens septante huict le deuxiesme de <tmp>Juillet</tmp> a este
