@@ -377,7 +377,7 @@
   <!-- part -->
   <define name="a.part">
     <a:documentation>Part: Indicates that a div is a part of the same text division which shares the same id on the same folio page. Values are "y" and "n".</a:documentation>
-    <attribute name="categories">
+    <attribute name="part">
       <choice>
         <value>y</value>
         <value>n</value>
