@@ -2,7 +2,6 @@
 3|touch
 3|ring
 2|taste
-2|stinking
 2|scent
 2|look
 2|bad odor
@@ -21,6 +20,8 @@
 1|tasting
 1|taste as of vinegar
 1|stinky
+1|stinking
+1|stink
 1|stench
 1|sound
 1|soft when handling it between the fingers
@@ -31,6 +32,7 @@
 1|smell
 1|shouts slowly
 1|shouts loudly
+1|screeches
 1|perceived on the fingernail
 1|pain
 1|one smells it &amp; brings it close to the nose

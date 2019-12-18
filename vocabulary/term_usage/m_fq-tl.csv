@@ -53,13 +53,13 @@
 22|quicksilver
 22|porphyry
 22|aquafortis
-21|tempered sand
 21|sugar
 21|melted wax
 21|linen
 21|canvas
 21|bone
 20|verdigris
+20|tempered sand
 20|spike lavender oil
 20|charcoals
 20|ash
@@ -137,6 +137,7 @@
 9|Tin
 9|Lead
 9|Gold
+8|wetted sand
 8|smokes
 8|slate
 8|sandarac
@@ -151,7 +152,6 @@
 8|arsenic
 8|Lute
 8|Crocum ferri
-7|wetted sand
 7|thread
 7|sublimate
 7|putty
@@ -499,6 +499,7 @@
 2|florey
 2|flint stones
 2|fixed quicksilver
+2|firestone
 2|fine turpentine
 2|fine sand
 2|fine metal
@@ -657,7 +658,7 @@
 1|white tin leaf
 1|white thick which saliva that is found on the teeth
 1|white soap
-1|white pebbles that are found by the rivers &amp; among the sand bank, &amp; paths, which are somewhat transparent
+1|white pebbles that are found by the rivers &amp; among the sand bank &amp; paths, which are somewhat transparent
 1|white of one egg
 1|white of ceruse
 1|white mulberry leaves
@@ -691,7 +692,6 @@
 1|well-ground ceruse
 1|well-beaten glair of egg
 1|well water
-1|well pulverized tallow
 1|well minced flesh with the yolk of a hard-boiled egg
 1|well ground ceruse
 1|well dried between wicker
@@ -812,8 +812,8 @@
 1|thick canvas
 1|thick bones
 1|theriac
+1|the white one que v in powder that apothecaries sell
 1|the white of one egg
-1|the one white que v in powder that apothecaries sell
 1|the one which is found in a vineyard near Puy David
 1|the one of willow
 1|the one of the s mines
@@ -1046,7 +1046,7 @@
 1|quite strong vinegar
 1|quite good vinegar
 1|quite clear gum water
-1|quite clean &amp; polished iron
+1|quite clean &amp; polished blade or iron
 1|quills
 1|quickt aiantsilver
 1|quick lime
@@ -1063,8 +1063,8 @@
 1|pure latton used for trebuschets
 1|pure feather alum, reheated &amp; pulverized
 1|pure &amp; fine tin
+1|pumice stone, calcined &amp; pulverized, &amp; tr with three parts of minium
 1|pumice stone powder
-1|pumice stone calcined &amp; pulverized &amp; tr with three parts of minium
 1|pulverized willow charcoal
 1|pulverized terra emerita
 1|pulverized talc
@@ -1244,6 +1244,7 @@
 1|molten ♁
 1|molten lead
 1|molten iron
+1|molten copper and latten
 1|molds
 1|molding sand
 1|molded tripoli
@@ -1264,7 +1265,6 @@
 1|melted resin
 1|melted iron
 1|melted fresh butter
-1|melted copper and latten
 1|melted copper
 1|mellis communis
 1|mellis
@@ -1483,8 +1483,6 @@
 1|first water
 1|first substance of wine
 1|firm fine tin
-1|firestone
-1|fire stone
 1|fir
 1|finest metal one can find
 1|finer ☉ than the other one
@@ -1839,6 +1837,7 @@
 1|White soporific oil
 1|White sand
 1|White enamel
+1|Well pulverized tallow
 1|Water
 1|Very strong wax
 1|Very hard wax
