@@ -61,6 +61,7 @@ e.div =
     a.id?,
     a.margin?,
     a.categories?,
+    a.part?,
     e.head?,
     (text | e.ab | e.figure | m.phrase)+
   }
@@ -199,6 +200,10 @@ a.continued = attribute continued { "yes" }
 
 ## Categories: A semi-colon delimited list of controlled terms assigned by the project to a text division
 a.categories = attribute categories { xsd:token }
+# part
+
+## Part: Indicates that a div is a part of the same text division which shares the same id on the same folio page. Values are "y" and "n".
+a.part = attribute part { "y" | "n" }
 #
 
 # LANGUAGE ELEMENTS

@@ -1,24 +1,25 @@
 44|doigt
 38|doigts
-32|main
+33|main
 26|urine
-20|mains
+19|mains
 14|bouche
+13|pied
 13|front
-12|pied
-10|ongle
+11|ongle
 10|nes
 6|oreille
 5|yeulx
 5|visage
 5|poulce
 5|dents
+4|visaige
 4|teste
 4|salive
 4|petit doigt
-3|œil
-3|visaige
 3|ventre
+3|poignees
+3|oeil
 3|estomac
 3|doits
 3|doigt indice
@@ -27,9 +28,9 @@
 2|yeux
 2|sang
 2|poulse
-2|poignees
 2|plante des pieds
 2|pieds
+2|joinctee
 2|halene
 2|grand doigt
 2|foye
@@ -76,8 +77,10 @@
 1|joues
 1|joue
 1|joincture du petit doigt
+1|joinctees
 1|jambes
 1|indice
+1|hurinne
 1|hurine
 1|genoux
 1|genoul
@@ -86,6 +89,7 @@
 1|face
 1|estomach
 1|escume de lurine
+1|enteste
 1|embrasser
 1|dos
 1|doitgts
@@ -104,6 +108,7 @@
 1|bout des ongles
 1|bout des doigts
 1|blessures
+1|aureille
 1|annulaire
 1|allenois
 1|alheine

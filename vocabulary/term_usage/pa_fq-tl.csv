@@ -8,9 +8,9 @@
 12|linseed
 11|willow
 10|grain
+9|fig tree
 8|millet
 8|grapes
-8|fig tree
 7|elm
 7|boxwood
 6|sage
@@ -21,21 +21,20 @@
 5|Wheat
 4|wormwood
 4|walnuts
+4|saffron
 4|rosemary
+4|orange
 4|linen
 4|hemp
 4|heather
 4|apricots
 4|Walnut
-3|saffron
 3|roses
 3|quince
 3|peas
 3|pea
-3|orange
 3|onions
 3|mustard
-3|grains
 3|clove
 3|cinnamon
 3|bugloss
@@ -50,13 +49,16 @@
 2|peach tree
 2|peach
 2|pavis
+2|palma christi
 2|mericotons
 2|maple
 2|lettuces
 2|heath
 2|hazelnut
+2|grains
 2|fir
 2|consolida maior
+2|cloves
 2|chestnuts
 2|capilli veneris
 2|black cherry
@@ -78,6 +80,7 @@
 1|weld
 1|wallwort
 1|visaube
+1|vini
 1|vine shoots
 1|vermicularis
 1|turmeric root
@@ -90,10 +93,10 @@
 1|strawberry
 1|strawberries
 1|straw
-1|some small
-1|sloes
+1|some of small
 1|service tree
 1|semperviva
+1|seeds
 1|scabious
 1|sauvignons
 1|saltworth
@@ -123,13 +126,13 @@
 1|pappus
 1|pansies
 1|palta lupina
-1|palma christi
 1|orberé grain
 1|oranges
 1|orange tree
 1|oraches
 1|onion
 1|olive tree
+1|oats
 1|oak
 1|nettles
 1|mushrooms
@@ -145,6 +148,7 @@
 1|mallow
 1|lily flower
 1|lettuce
+1|lemon
 1|large amaranth
 1|lapathum acutum
 1|lapathium acutum maius
@@ -176,7 +180,6 @@
 1|cornflower
 1|cooking herbs
 1|columbine
-1|cloves
 1|cherries
 1|chauchés
 1|carnations
@@ -188,6 +191,7 @@
 1|broom flower
 1|broom
 1|bramble
+1|blackthorn sloes
 1|baillard
 1|baccis juniperi
 1|aspic
@@ -197,7 +201,7 @@
 1|amaranth
 1|almond trees
 1|almond tree
-1|alberge
+1|alberges
 1|Willow
 1|Vine
 1|Strawberries
@@ -211,7 +215,6 @@
 1|Peach tree
 1|Pastel woad
 1|Pansies
-1|Palma christi
 1|Osier
 1|Orberé grain
 1|Orange trees

@@ -1,6 +1,6 @@
 32|jours
-28|long temps
-28|jour
+30|long temps
+29|jour
 20|heures
 13|heure
 9|nuict
@@ -58,12 +58,15 @@
 1|temps de leur volupte
 1|temps
 1|sur jour
+1|subsequents
+1|subsequent
 1|sont longues
 1|soleil ne soit vers le midy
 1|serain de la nuit
 1|sepmaine
 1|seconde annee
 1|sabmedy
+1|præcedents
 1|premier jour
 1|pauses
 1|par lespace de vingt quatre heures
@@ -99,6 +102,7 @@
 1|fort long temps
 1|fin de la lune
 1|feste de la sainct andre
+1|espace que tu diras 8 pater noster
 1|espace dun pater noster
 1|espace de quinze jours
 1|espace de mille ans
@@ -143,7 +147,7 @@
 1|annee
 1|an suivant
 1|advents de noël
-1|advents de Nœl
+1|advents de Noel
 1|a toute heure
 1|a la saint Anthoine de Janvier
 1|a la sainct Michel

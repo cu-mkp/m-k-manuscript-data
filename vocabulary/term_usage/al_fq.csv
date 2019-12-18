@@ -1,6 +1,6 @@
 28|serpent
 24|serpents
-22|escrevisse
+23|escrevisse
 21|tortue
 21|cheval
 13|vers
@@ -9,7 +9,7 @@
 12|seiche
 12|mouche
 12|escrevisses
-12|bœuf
+12|boeuf
 11|mouton
 11|lesards
 11|iraigne
@@ -38,9 +38,8 @@
 3|porc
 3|pigeon
 3|papillon
-3|oyseaulx
 3|celles de garrigue
-3|bœufs
+3|boeufs
 3|benarris
 3|Rossignol
 3|Oyseaulx
@@ -51,6 +50,7 @@
 2|poissons
 2|pigeons
 2|papillons
+2|oyseaulx
 2|moutons
 2|mouches
 2|lezards
@@ -77,7 +77,6 @@
 1|verdaule
 1|ver de farine
 1|ver
-1|venatione
 1|tourterelles
 1|tortue deau
 1|telines
@@ -104,6 +103,7 @@
 1|petite grenoille
 1|petite angroisse
 1|petit lesard
+1|perdrix
 1|perdris
 1|passereaulx
 1|passe solitaire
@@ -130,6 +130,7 @@
 1|grosses vomouches
 1|grosses mouches
 1|grenoilles
+1|grands lesards
 1|grand rat
 1|grand lezard
 1|fouines
@@ -166,7 +167,6 @@
 1|bellettes
 1|aucupio
 1|aspic cornu
-1|animaulx
 1|animal
 1|angroissee
 1|angroisse
