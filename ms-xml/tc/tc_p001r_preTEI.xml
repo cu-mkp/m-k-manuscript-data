@@ -131,7 +131,7 @@ Statius Thebaidos<lb/>
         
 <pn>Macrobius</pn><lb/>
         
-Aulus Gellius<lb/>
+Aulus Gellius<comment rid="c_166r_18"/><lb/>
         
 Alexander ab <pl>Alex<exp>andria</exp></pl><lb/>
         
@@ -149,7 +149,7 @@ Berosus<lb/>
         
 Suetonius<lb/>
         
-Valerius max<exp>imus</exp><lb/>
+Valerius max<exp>imus</exp><comment rid="c_166r_19"/><lb/>
         
 Cornelius tacitu<exp>s</exp><lb/>
         
@@ -161,9 +161,9 @@ Xenophon<lb/>
         
 <pn>Sabellicus</pn><lb/>
         
-<add>cum permultis<lb/>
+<add><la>cum permultis<lb/>
             
-aliis </add><pn>Iulius Capitollin<exp>us</exp></pn><comment rid="c_001r_67"/><lb/>
+aliis</la></add><comment rid="c_001r_67"/> <pn>Iulius Capitollin<exp>us</exp></pn><comment rid="c_001r_55"/><lb/>
         
 <pn>Budæus</pn><lb/>
         
@@ -198,9 +198,9 @@ Strabo<lb/>
 <ab margin="left-middle" render="wide">
 
 <emph><la><comment rid="c_001r_70"/><al>Aquatilium animalium</al>
-historiæ</la> hypolito<lb/>
+historiæ <pn>hypolito<lb/>
 
-salviano <la>typhernate authore <pl>Romæ</pl></la>
+salviano</pn><comment rid="c_001r_06"/> typhernate authore <pl>Romæ</pl></la>
 1554</emph></ab>
 
 </div>
