@@ -74,7 +74,7 @@
     <xsl:template match="div[@id]">
         <xsl:value-of select="ancestor::root/@page"/>
         <xsl:value-of select="$fieldSep"/>
-        <xsl:value-of select="replace( ancestor::root/@page, '^0*', '' )"/>
+        <xsl:value-of select="concat(number(substring(ancestor::root/@page, 1, 3)), substring(ancestor::root/@page, 4))"/>
         <xsl:value-of select="$fieldSep"/>
         <xsl:value-of select="@id"/>
         <xsl:value-of select="$fieldSep"/>
