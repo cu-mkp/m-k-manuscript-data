@@ -15,6 +15,8 @@
     <xsl:template match="/">
         <xsl:text>folio</xsl:text>
         <xsl:value-of select="$fieldSep"/>
+        <xsl:text>folio_display</xsl:text>
+        <xsl:value-of select="$fieldSep"/>
         <xsl:text>div_id</xsl:text>
         <xsl:value-of select="$fieldSep"/>
         <xsl:text>heading_tc</xsl:text>
@@ -71,6 +73,8 @@
 
     <xsl:template match="div[@id]">
         <xsl:value-of select="ancestor::root/@page"/>
+        <xsl:value-of select="$fieldSep"/>
+        <xsl:value-of select="replace( ancestor::root/@page, '^0*', '' )"/>
         <xsl:value-of select="$fieldSep"/>
         <xsl:value-of select="@id"/>
         <xsl:value-of select="$fieldSep"/>
