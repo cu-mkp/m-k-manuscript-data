@@ -1,12 +1,12 @@
 14|mine
 12|water
 12|in the sun
-10|wall
 10|in the rain
 7|cellar
 6|wind
 6|sun
 5|workshop
+5|wall
 5|houses
 5|garrigue
 4|room
@@ -14,7 +14,6 @@
 4|grottos
 4|dry place
 3|window
-3|walls
 3|sea
 3|river
 3|rain
@@ -43,6 +42,7 @@
 2|city
 2|church
 2|chamber
+2|barn
 2|Grottos
 1|wind or the cold
 1|wind from a window
@@ -55,6 +55,7 @@
 1|weather is damp &amp; humid
 1|water where crayfish eat
 1|warm &amp; close place
+1|walls
 1|vineyard that is quite high up
 1|vineyard
 1|very dry place
@@ -76,8 +77,8 @@
 1|small towns
 1|silver spoon that one uses at the table
 1|shop
-1|serain, &amp; the humidity of the night
 1|serain of the night
+1|serain &amp; the humidity of the night
 1|serain &amp; s quite dry weather
 1|serain &amp; mild weather, &amp; not too cold &amp; windy
 1|sandy paths
@@ -207,8 +208,6 @@
 1|big kitchens
 1|beds
 1|barricade
-1|barns
-1|barn
 1|at the foot of a wall
 1|anthill
 1|after rainy weather

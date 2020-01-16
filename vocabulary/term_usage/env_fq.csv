@@ -1,13 +1,13 @@
 15|mine
 13|eau
 13|au soleil
-11|muraille
 10|a la pluye
 8|cave
 7|vent
 7|soleil
 6|chambre
 6|boutique
+5|muraille
 5|maisons
 5|lieu humide
 5|garrigue
@@ -30,7 +30,6 @@
 2|rivieres
 2|pluyes
 2|pluye
-2|murailles
 2|lieu descouvert
 2|jour
 2|jardins
@@ -97,6 +96,7 @@
 1|ou le fonds de la terre est si fertil
 1|nuit soict obscure &amp; ne fasse point de ☾
 1|nature
+1|murailles
 1|montaignes
 1|montaigne
 1|mirouers

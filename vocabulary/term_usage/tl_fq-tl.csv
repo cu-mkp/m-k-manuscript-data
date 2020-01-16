@@ -1,5 +1,5 @@
-355|mold
-137|molds
+354|mold
+138|molds
 73|frame
 66|crucible
 54|paintbrush
@@ -19,8 +19,8 @@
 22|stick
 22|porphyry
 22|oven
+22|bellows
 21|frames
-21|bellows
 20|clamps
 19|sieve
 19|clay slab
@@ -69,7 +69,6 @@
 7|spoon
 7|sieved
 7|plane
-7|little bellows
 7|glass
 7|gimlet
 7|double sieve
@@ -99,6 +98,7 @@
 5|spatula
 5|small pincers
 5|small chisel
+5|small bellows
 5|rope
 5|putty
 5|napkin
@@ -122,6 +122,7 @@
 4|pestles
 4|peg
 4|noyau molds
+4|little bellows
 4|leather sheath
 4|iron wire point
 4|iron points
@@ -207,14 +208,12 @@
 2|small point
 2|small hog bristle brushes
 2|small box
-2|small bellows
 2|sheets of copper
 2|sheet of paper
 2|sheet
 2|sheath
 2|scissors
 2|scabbard bench
-2|sand
 2|rolling pin
 2|reed
 2|point of a hot iron wire
@@ -293,7 +292,6 @@
 2|bottles
 2|bore
 2|bellows furnace
-2|bellow
 2|basin
 2|ashes
 2|arene
@@ -318,27 +316,24 @@
 1|wood
 1|wolf’s tooth
 1|wirebrush
-1|wire-brushed
 1|wire of the same metal that they cast
 1|wire drawing plate
-1|wire brush made of wires of latten.
 1|willow stick
 1|white linen cloth
 1|white linen
 1|white leather of the color of the wood
 1|white cloth
-1|wheels for doing this, one of tin, one of lead, &amp; one of fine copper
+1|wheels for doing this, one of tin, one of lead &amp; one of fine copper
 1|wheel of soft wood
 1|wet sponge
 1|wet napkins
 1|wet linen cloth
+1|well-reddened mold
 1|well-furbished knife
 1|well-forged
 1|well sealed vessel
-1|well reddened mold
-1|well melted silver
 1|well evened table
-1|well closed andtin vessel
+1|well closed and tin vessel
 1|weights
 1|wax candle
 1|water mills
@@ -531,10 +526,13 @@
 1|shale
 1|semal
 1|screws
+1|scratch-brushed
+1|scratch brush made of wires of latten.
 1|scraper
 1|saws
+1|sand
 1|rulers
-1|round stick, which pastry makers
+1|round stick which pastry makers
 1|round plane, also mounted with two handles
 1|round or oval-shaped triblet
 1|round furnace
@@ -782,7 +780,7 @@
 1|glass ampul
 1|gimlets of wheelwrights
 1|furbishers’ furnace
-1|funnel of white iron
+1|funnel of fer blanc
 1|fresil stick
 1|fresh clay slab
 1|fresh clay
@@ -827,7 +825,7 @@
 1|entre deulx of clay
 1|end of your finger
 1|end of the hot iron wire
-1|end of a iron wire, that is hot
+1|end of a iron wire that is hot
 1|enamel cannules
 1|emery stone powder
 1|emery putty
@@ -922,7 +920,7 @@
 1|bread oven
 1|boxwood balls
 1|box of boxwood banded with rings
-1|bowls of different size, which have a lip
+1|bowls of different size which have a lip
 1|bowl with handles
 1|bowl of leaded earth
 1|boulting cloth of rough cloth or canvas
@@ -947,6 +945,7 @@
 1|big cauldron
 1|big bottle
 1|bellows’ pipes
+1|bellow
 1|bedsheet
 1|bedpost
 1|beaters
@@ -965,7 +964,7 @@
 1|back of a knife
 1|awl
 1|auger
-1|au end bowl
+1|au en bowl
 1|artificial fire
 1|arson
 1|archal wire

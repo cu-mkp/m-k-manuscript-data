@@ -6,23 +6,22 @@
 9|night
 8|at night
 6|year
+6|quarter of an hour
 6|months
 4|years
 4|in summer
 3|weeks
-3|the next day
 3|summer
-3|quarter hour
 3|overnight
 3|long
 3|in winter
 3|in the winter
 3|hora
 3|every year
-3|a quarter of an hour
 3|In winter
 3|2nd September 1581
 2|today
+2|the next day
 2|several days
 2|serain
 2|season
@@ -34,14 +33,15 @@
 2|in the evening
 2|hour &amp; a half
 2|half hour
+2|good quarter of an hour
 2|during winter
 2|by night
 2|all year
 2|a long time
-2|a good quarter of an hour
 1|with everyes new ☾
 1|winter
 1|whole year
+1|well in advance
 1|week
 1|weather is not serain &amp; dry
 1|weather is damp &amp; humid
@@ -53,6 +53,7 @@
 1|time
 1|three days a week
 1|the winter
+1|the follwing day
 1|the evening and the morning
 1|the day after
 1|take a long time
@@ -62,17 +63,16 @@
 1|serain of the night
 1|season of their pleasure
 1|rainy weather
-1|quarter of an hour
 1|preceding day
 1|preceded
 1|per day
 1|pauses
 1|over time
-1|out of season when winter denies flowers
+1|out of season, when winter denies flowers
 1|one day or one night
 1|once a month
 1|on a warm &amp; dry day
-1|on Saint Anthoine’s day in January
+1|on St. Anthony’s day in January
 1|nights
 1|next day
 1|natural day
@@ -99,7 +99,7 @@
 1|good hours
 1|frost
 1|from their birth until u the their time when they make their cocoons &amp; their prisons
-1|from the feast of St Jehan until the 25th of April
+1|from the feast of St. John until the 25th of April
 1|from mid-May
 1|from All Saints’ Day until Christmas
 1|for the time it takes you to say 8 paternoster
@@ -121,7 +121,7 @@
 1|during the day
 1|different times, but continue once you have started
 1|beginning of August
-1|before Sainct Michel
+1|before St. Michael
 1|at the waning of the moon
 1|at the next sowing
 1|at regular intervals, day &amp; night
@@ -129,8 +129,8 @@
 1|at night in the cool &amp; by moonlight
 1|at least as long
 1|at any hour
-1|at Sainct Michel
-1|around Saint Jehan’s Day
+1|at St. Michael
+1|around St. John’s Day
 1|around Holy Week
 1|an hour or a half
 1|all year long
@@ -139,17 +139,17 @@
 1|after the bread has been taken out
 1|after several days
 1|after rainy weather
-1|after mid-July until Sainct Michel
-1|a long time ago
+1|after mid-July until St. Michael
+1|a quarter of an hour
 1|a good space of time
 1|a good hour
 1|a day &amp; a night
 1|Wednesdays
 1|Tuesdays
 1|Thursdays
-1|St André’s day
+1|St. Paul's day
+1|St. Andrew’s day
 1|Saturdays
-1|Saint Paul's day
 1|Palm Sunday
 1|March
 1|June
@@ -160,7 +160,7 @@
 1|In the month of August
 1|Every morning
 1|At night
-1|Around the feast of Sainct Jehan
+1|Around the feast of St. John
 1|Around Pentecost
 1|Advent of Christmas
 1|Advent
