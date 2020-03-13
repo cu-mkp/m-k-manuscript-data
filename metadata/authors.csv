@@ -3,8 +3,8 @@ author_001,ann_001_fa_14|ann_006_fa_14|ann_011_fa_14,Emogene Cataldo,Emogene,Cat
 author_002,ann_001_fa_14|ann_006_fa_14|ann_011_fa_14,Julianna van Visco,Julianna,Visco,2014,Fall,Columbia University Student,PhD,2nd Year,7th Year,Italian,Italian Literature in 13th and 14th Century
 author_003,ann_002_fa_14|ann_004_fa_14|ann_007_fa_14,Rozemarijn Landsman,Rozemarijn,Landsman,2014,Fall,Columbia University Student,PhD,2nd Year,8th Year,Art History and Archaeology,Dutch 17th Century
 author_004,ann_002_fa_14|ann_004_fa_14|ann_007_fa_14,Jonah Rowen,Jonah,Rowen,2014,Fall,Columbia University Student,PhD,1st Year,Still at Columbia,"Architecture, Planning and Preservation",
-author_005,ann_003_fa_14|ann_005_fa_14|ann_010_fa_14,Jordan Katz,Jordan,Katz,2014,Fall,Columbia University Student,PhD,1st Year,6th Year,History,Early Modern/Jewish
-author_006,ann_003_fa_14|ann_005_fa_14|ann_010_fa_14,Raymond Carlson,Raymond,Carlson,2014,Fall,Columbia University Student,PhD,2nd Year,Still at Columbia,Art History and Archaeology,Italian Renaissance 
+author_005,ann_003_fa_14|ann_005_fa_14|ann_010_fa_14,Raymond Carlson,Raymond,Carlson,2014,Fall,Columbia University Student,PhD,2nd Year,Still at Columbia,Art History and Archaeology,Italian Renaissance 
+author_006,ann_003_fa_14|ann_005_fa_14|ann_010_fa_14,Jordan Katz,Jordan,Katz,2014,Fall,Columbia University Student,PhD,1st Year,6th Year,History,Early Modern/Jewish
 author_007,ann_008_fa_14,Diana Mellon,Diana,Mellon,2014,Fall,Columbia University Student,PhD,1st Year,3rd Year,Art History and Archaeology,Medieval and Renaissance Italian Art
 author_008,ann_009_fa_14,Michelle Lee,Michelle,Lee,2014,Fall,Columbia University Student,MA,,Likely Graduated,Anthropology,
 author_009,ann_012_fa_14,Yijun Wang,Yijun,Wang,2014,Fall,Columbia University Student,PhD,2nd Year,Completed 2019,East Asian Languages and Cultures - History,Chinese History
@@ -69,13 +69,13 @@ author_065,ann_073_fa_18,Baris Gokturk,Baris,Gokturk,2018,Fall ,Columbia Univers
 author_066,ann_074_fa_18|ann_075_fa_18,Angel Jiang,Angel,Jiang,2018,Fall ,Columbia University Student,PhD,2nd Year,2nd Year,Art History and Archaeology,History of Architecture
 author_067,ann_076_fa_18,Min Lim,Min,Lim,2018,Fall ,Columbia University Student,MA/MSc,,1st Year,International History,
 author_068,ann_077_fa_18,Nancy Olson,Nancy,Olson,2018,Fall ,Parsons Student,MA,,,Parsons; Decorative Arts,History of Design and Curatorial Studies
-author_069,ann_300_ie_19|ann_329_ie_19,Pamela H. Smith,Pamela H.,Smith,2019,,"Director of Making and Knowing Project and Seth Low Professor of History, Columbia University",,,,,
+author_069,ann_300_ie_19|ann_329_ie_19|ann_009_fa_14,Pamela H. Smith,Pamela H.,Smith,2019,,"Director of Making and Knowing Project and Seth Low Professor of History, Columbia University",,,,,
 author_070,ann_301_ie_19,Clément Godbarge,Clément,Godbarge,2019,,"Making and Knowing Project Postdoctoral Scholar, Columbia University",,,,,
 author_071,ann_302_ie_19|ann_303_ie_19,Tillmann Taape,Tillmann,Taape,2019,,"Making and Knowing Project Postdoctoral Scholar, Columbia University",,,,,
-author_072,ann_304_ie_19,Tianna Uchacz,Tianna,Uchacz,2019,,"Making and Knowing Project Postdoctoral Scholar, Columbia University",,,,,
+author_072,ann_304_ie_19,Tianna Helena Uchacz,Tianna,Uchacz,2019,,"Making and Knowing Project Postdoctoral Scholar, Columbia University",,,,,
 author_073,ann_305_ie_19,Donna Bilak,Donna,Bilak,2019,,"Director and Founder of Twelve Keys Consultancy and Design; Making and Knowing Postdoctoral Scholar, Columbia University",,,,,
 author_074,ann_306_ie_19,Marjolijn Bol,Marjolijn,Bol,2019,,"Postdoctoral Researcher, Utrecht University",,,,,
-author_075,ann_307_ie_19,Jenny Boulboulle,Jenny,Boulboullé,2019,,"Postdoctoral Researcher, Utrecht University;  Making and Knowing Postdoctoral Scholar, Columbia University",,,,,
+author_075,ann_307_ie_19,Jenny Boulboullé,Jenny,Boulboullé,2019,,"Postdoctoral Researcher, Utrecht University;  Making and Knowing Postdoctoral Scholar, Columbia University",,,,,
 author_076,ann_307_ie_19,Maartje Stols-Witlox,Maartje,Stols-Witlox,2019,,"Assistant Professor Paintings Conservation, University of Amsterdam",,,,,
 author_077,ann_308_ie_19,Jonathan Tavares,Jonathan,Tavares,2019,,"Associate Curator of Arms, Armor and European Decorative Arts before 1700, The Art Institute Of Chicago",,,,,
 author_078,ann_309_ie_19,Pascal Brioist,Pascal,Brioist,2019,,"Professor of History, University of Tours",,,,,
