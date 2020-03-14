@@ -1,8 +1,16 @@
+language: python
+python:
+  - "3.7"
+
 before_install:
   - sudo apt-get install -y libxml2-utils
 
+install:
+  -pip install pipenv
+  -pipenv install --dev
+
 script:
   -  for XML in $(find ms-xml -name '*.xml'); do xmllint --relaxng schema/ms-transcription.rng $XML --noout || error=true; done; if [ $error ]; then exit 1 ; fi
-
+  -  python ./update.py
 
 
