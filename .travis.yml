@@ -11,6 +11,6 @@ install:
 
 script:
   -  for XML in $(find ms-xml -name '*.xml'); do xmllint --relaxng schema/ms-transcription.rng $XML --noout || error=true; done; if [ $error ]; then exit 1 ; fi
-  -  python ./update.py
+  -  python ./check_update.py
 
 
