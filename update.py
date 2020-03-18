@@ -1,4 +1,4 @@
-# Last Updated | 2020-03-16
+# Last Updated | 2020-03-18
 # Python Modules
 import os
 import sys
@@ -19,7 +19,29 @@ versions = ['tc', 'tcn', 'tl']
 properties = ['animal', 'body_part', 'currency', 'definition', 'environment', 'material', 'medical', 'measurement',
               'music', 'plant', 'place', 'personal_name', 'profession', 'sensory', 'tool', 'time', 'weapon']
 
-m_path = f'{os.getcwd()}/../'
+m_path = f'{os.getcwd()}'
+
+def update_all_folios(manuscript: BnF) -> None:
+  """
+  Update /m-k-manuscript-data/allFolios/ with the current manuscript from /ms-xml/. 
+
+  Input:
+    manuscript -- Python object of the manuscript defined in digital_manuscript.py
+  Output:
+    None
+  """
+  for b in [True, False]:
+    for version in versions:
+      text = ''
+      folder = 'xml' if b else 'txt'
+
+      for identity, entry in manuscript.entries.items():
+        new_text = entry.text(version, xml=b)
+        text = f'{text}\n\n{new_text}' if text else new_text
+
+      f = open(f'{m_path}/allFolios/{folder}/all_{version}.{folder}', 'w')
+      f.write(text)
+      f.close()
 
 def update_time():
   """ Extract timestamp at the top of this file and update it. """
@@ -40,6 +62,9 @@ def update_time():
 def update():
 
   manuscript = BnF(apply_corrections=False)
+
+  update_all_folios(manuscript)
+  print('Updated /allFolios/')
 
   update_time()
 
