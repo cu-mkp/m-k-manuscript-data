@@ -65,7 +65,7 @@ def update_time():
 
 def update():
 
-  manuscript = BnF(apply_corrections=False)
+  manuscript = BnF(apply_corrections=True)
 
   update_metadata(manuscript)
   print('Updated metadata.')
