@@ -1,22 +1,25 @@
-# Last Updated | 2020-03-14
+# Last Updated | 2020-03-16
 # Python Modules
 import os
+import sys
 import re
 from typing import List
+
+sys.path.insert(1, './manuscript-object/')
 
 # Third Party Modules
 import pandas as pd
 from datetime import datetime
 
 # Local Modules
-# from digital_manuscript import BnF
-# from recipe import Recipe
+from digital_manuscript import BnF
+from recipe import Recipe
 
 versions = ['tc', 'tcn', 'tl']
 properties = ['animal', 'body_part', 'currency', 'definition', 'environment', 'material', 'medical', 'measurement',
               'music', 'plant', 'place', 'personal_name', 'profession', 'sensory', 'tool', 'time', 'weapon']
 
-# m_path = f'{os.getcwd()}/../m-k-manuscript-data'
+m_path = f'{os.getcwd()}/../'
 
 def update_time():
   """ Extract timestamp at the top of this file and update it. """
@@ -35,6 +38,9 @@ def update_time():
   f.close
 
 def update():
+
+  manuscript = BnF(apply_corrections=False)
+
   update_time()
 
 update()
