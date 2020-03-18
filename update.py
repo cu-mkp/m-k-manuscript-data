@@ -1,4 +1,4 @@
-# Last Updated | 2020-03-16
+# Last Updated | 2020-03-18
 # Python Modules
 import os
 import sys
@@ -19,7 +19,28 @@ versions = ['tc', 'tcn', 'tl']
 properties = ['animal', 'body_part', 'currency', 'definition', 'environment', 'material', 'medical', 'measurement',
               'music', 'plant', 'place', 'personal_name', 'profession', 'sensory', 'tool', 'time', 'weapon']
 
-m_path = f'{os.getcwd()}/../'
+m_path = f'{os.getcwd()}'
+
+def update_ms(manuscript: BnF) -> None:
+  for version in versions: 
+    for r, d, f in os.walk(f'{m_path}/ms-xml/{version}'):
+      for filename in f: # iterate through /ms-xml/{version} folder
+        # read xml file
+        text = ''
+        filepath = f'{m_path}/ms-xml/{version}/{filename}'
+        with open(filepath, encoding="utf-8", errors="surrogateescape") as f:
+          text = f.read()
+        
+        # remove xml
+        text = text.replace('\n', '**NEWLINE**')
+        text = re.sub(r'<.*?>', '', text)
+        text = text.replace('**NEWLINE**', '\n')
+
+        # write txt file
+        txt_filepath = filepath.replace('xml', 'txt')
+        f = open(txt_filepath, 'w')
+        f.write(text)
+        f.close()
 
 def update_time():
   """ Extract timestamp at the top of this file and update it. """
@@ -40,6 +61,9 @@ def update_time():
 def update():
 
   manuscript = BnF(apply_corrections=False)
+
+  update_ms(manuscript)
+  print('Updated /ms-txt/')
 
   update_time()
 
