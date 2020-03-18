@@ -1,4 +1,4 @@
-# Last Updated | 2020-03-16
+# Last Updated | 2020-03-18
 # Python Modules
 import os
 import sys
@@ -19,7 +19,7 @@ versions = ['tc', 'tcn', 'tl']
 properties = ['animal', 'body_part', 'currency', 'definition', 'environment', 'material', 'medical', 'measurement',
               'music', 'plant', 'place', 'personal_name', 'profession', 'sensory', 'tool', 'time', 'weapon']
 
-m_path = f'{os.getcwd()}/../'
+m_path = f'{os.getcwd()}'
 
 def update_time():
   """ Extract timestamp at the top of this file and update it. """
@@ -39,7 +39,7 @@ def update_time():
 
 def update():
 
-  manuscript = BnF(apply_corrections=False)
+  manuscript = BnF(apply_corrections=True)
 
   update_time()
 
