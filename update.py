@@ -46,7 +46,7 @@ def update_entries(manuscript: BnF) -> None:
       if not os.path.exists(path):
         os.mkdir(path)
       # elif len(os.listdir(path)) > 0:
-      #   os.system(f'rm {path} *.txt')
+        # os.system(f'rm {path} *.txt')
 
     # Write new files with manuscript object
     for identity, entry in manuscript.entries.items():
