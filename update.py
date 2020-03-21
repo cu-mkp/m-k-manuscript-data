@@ -60,7 +60,7 @@ def update_entries(manuscript: BnF) -> None:
 
         f_txt = open(filename_txt, 'w')
         f_txt.write(content_txt)
-        # f_txt.close()
+        f_txt.close()
 
         f_xml = open(filename_xml, 'w')
         f_xml.write(content_xml)
