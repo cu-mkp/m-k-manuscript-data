@@ -42,7 +42,8 @@ def update_metadata(manuscript: BnF) -> None:
   df['margins'] = df.entry.apply(lambda x: len(x.margins))
   df['del_tags'] = df.entry.apply(lambda x: '; '.join(x.del_tags))
   for prop in properties:
-    df[prop] = df.entry.apply(lambda x: '; '.join(x.get_prop(prop=prop, version='tc')))
+    for version in versions:
+      df[f'{prop}_{version}'] = df.entry.apply(lambda x: '; '.join(x.get_prop(prop=prop, version=version)))
   df.drop(columns=['entry'], inplace=True)
 
   df.to_csv(f'{m_path}/metadata/entry_metadata.csv', index=False)
