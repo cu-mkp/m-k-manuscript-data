@@ -35,15 +35,22 @@ def update_metadata(manuscript: BnF) -> None:
   df['folio'] = df.entry.apply(lambda x: x.folio)
   df['folio_display'] = df.entry.apply(lambda x: x.folio.lstrip('0'))
   df['div_id'] = df.entry.apply(lambda x: x.identity)
-  df['categories'] = df.entry.apply(lambda x: (';'.join(x.categories)))
   df['heading_tc'] = df.entry.apply(lambda x: x.title['tc'])
   df['heading_tcn'] = df.entry.apply(lambda x: x.title['tcn'])
   df['heading_tl'] = df.entry.apply(lambda x: x.title['tl'])
-  df['margins'] = df.entry.apply(lambda x: len(x.margins))
-  df['del_tags'] = df.entry.apply(lambda x: '; '.join(x.del_tags))
+  df['categories'] = df.entry.apply(lambda x: (';'.join(x.categories)))
+  # list all the positions ? 
+  # df['margins'] = df.entry.apply(lambda x: len(x.margins)) # specify version
+  # specify versions
+  # df['del_tags'] = df.entry.apply(lambda x: '; '.join(x.del_tags))
+
+  # continues and continued (binary) --> on multiple pages binary
+  # part --> disjointed binary
+
+
   for prop in properties:
     for version in versions:
-      df[f'{prop}_{version}'] = df.entry.apply(lambda x: '; '.join(x.get_prop(prop=prop, version=version)))
+      df[f'{prop}_{version}'] = df.entry.apply(lambda x: ';'.join(x.get_prop(prop, version)))
   df.drop(columns=['entry'], inplace=True)
 
   df.to_csv(f'{m_path}/metadata/entry_metadata.csv', index=False)
