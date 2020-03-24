@@ -1,4 +1,4 @@
-# Last Updated | 2020-03-18
+# Last Updated | 2020-03-24
 # Python Modules
 import os
 import sys
@@ -60,7 +60,7 @@ def update_time():
 
 def update():
 
-  manuscript = BnF(apply_corrections=False)
+  manuscript = BnF(apply_corrections=True)
 
   update_ms(manuscript)
   print('Updated /ms-txt/')
