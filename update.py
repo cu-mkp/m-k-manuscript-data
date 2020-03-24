@@ -1,4 +1,4 @@
-# Last Updated | 2020-03-21
+# Last Updated | 2020-03-24
 # Python Modules
 import os
 import sys
@@ -15,8 +15,7 @@ from datetime import datetime
 from digital_manuscript import BnF
 from recipe import Recipe
 
-# versions = ['tc', 'tcn', 'tl']
-versions = ['tl']
+versions = ['tc', 'tcn', 'tl']
 properties = ['animal', 'body_part', 'currency', 'definition', 'environment', 'material', 'medical', 'measurement',
               'music', 'plant', 'place', 'personal_name', 'profession', 'sensory', 'tool', 'time', 'weapon']
 
@@ -33,20 +32,21 @@ def update_entries(manuscript: BnF) -> None:
     None
   """
 
-  for path in [f'{m_path}/entries_mrk', f'{m_path}/entries_mrk/txt', f'{m_path}/entries_mrk/xml']:
+  for path in [f'{m_path}/entries', f'{m_path}/entries/txt', f'{m_path}/entries/xml']:
     if not os.path.exists(path):
       os.mkdir(path)
 
   for version in versions: # TODO: fix this when you're done with the body
-    txt_path = f'{m_path}/entries_mrk/txt/{version}'
-    xml_path = f'{m_path}/entries_mrk/xml/{version}'
+    txt_path = f'{m_path}/entries/txt/{version}'
+    xml_path = f'{m_path}/entries/xml/{version}'
 
     # If the entries/txt or xml directory does not exist, create it. Otherwise, clear the directory.
     for path in [txt_path, xml_path]:
       if not os.path.exists(path):
         os.mkdir(path)
-      # elif len(os.listdir(path)) > 0:
-        # os.system(f'rm {path} *.txt')
+      elif len(os.listdir(path)) > 0: # remove existing files
+        for f in os.listdir(path):
+          os.remove(os.path.join(path, f))
 
     # Write new files with manuscript object
     for identity, entry in manuscript.entries.items():
