@@ -1,4 +1,4 @@
-# Last Updated | 2020-03-24
+# Last Updated | 2020-03-25
 # Python Modules
 import os
 import sys
@@ -21,6 +21,15 @@ properties = ['animal', 'body_part', 'currency', 'definition', 'environment', 'm
 
 m_path = f'{os.getcwd()}'
 
+def is_continued(entry: Recipe) -> bool:
+  return all('continued="yes"' in entry.text(v, True) for v in versions)
+
+def is_parts(entry: Recipe) -> bool:
+  return all('part="y"' in entry.text(v, True) for v in versions)
+
+def get_margin_placements(entry: Recipe) -> str:
+  return [margin.position for margin in entry.margins['tl']]
+
 def update_metadata(manuscript: BnF) -> None:
   """
   Update /m-k-manuscript-data/metadata/entry_metadata.csv with the current manuscript. Create a Pandas DataFrame
@@ -39,18 +48,21 @@ def update_metadata(manuscript: BnF) -> None:
   df['heading_tcn'] = df.entry.apply(lambda x: x.title['tcn'])
   df['heading_tl'] = df.entry.apply(lambda x: x.title['tl'])
   df['categories'] = df.entry.apply(lambda x: (';'.join(x.categories)))
-  # list all the positions ? 
-  # df['margins'] = df.entry.apply(lambda x: len(x.margins)) # specify version
-  # specify versions
-  # df['del_tags'] = df.entry.apply(lambda x: '; '.join(x.del_tags))
-
-  # continues and continued (binary) --> on multiple pages binary
-  # part --> disjointed binary
-
-
+  df['continued'] = df.entry.apply(lambda x: is_continued(x))
+  df['parts'] = df.entry.apply(lambda x: is_parts(x))
+  df['margins'] = df.entry.apply(lambda x: ' '.join(get_margin_placements(x)))
+  print(manuscript.entry('053v_1').get_prop('currency', 'tl'))
   for prop in properties:
     for version in versions:
-      df[f'{prop}_{version}'] = df.entry.apply(lambda x: ';'.join(x.get_prop(prop, version)))
+      key = f'{prop}_{version}'
+      # print(key)
+      for iden, entry in manuscript.entries.items():
+        val = entry.get_prop(prop, version)
+        try:
+          val = (' '.join(val))
+        except:
+          print(iden)
+      # df[key] = df.entry.apply(lambda x: str(';'.join(x.get_prop(prop, version))))
   df.drop(columns=['entry'], inplace=True)
 
   df.to_csv(f'{m_path}/metadata/entry_metadata.csv', index=False)
