@@ -1,4 +1,4 @@
-# Last Updated | 2020-03-25
+# Last Updated | 2020-03-26
 # Python Modules
 import os
 import sys
@@ -54,15 +54,15 @@ def update_metadata(manuscript: BnF) -> None:
   print(manuscript.entry('053v_1').get_prop('currency', 'tl'))
   for prop in properties:
     for version in versions:
-      key = f'{prop}_{version}'
-      # print(key)
-      for iden, entry in manuscript.entries.items():
-        val = entry.get_prop(prop, version)
-        try:
-          val = (' '.join(val))
-        except:
-          print(iden)
-      # df[key] = df.entry.apply(lambda x: str(';'.join(x.get_prop(prop, version))))
+      # key = 
+      # # print(key)
+      # for iden, entry in manuscript.entries.items():
+      #   val = entry.get_prop(prop, version)
+      #   try:
+      #     val = (' '.join(val))
+      #   except:
+      #     print(iden)
+      df[f'{prop}_{version}'] = df.entry.apply(lambda x: str(';'.join(x.get_prop(prop, version))))
   df.drop(columns=['entry'], inplace=True)
 
   df.to_csv(f'{m_path}/metadata/entry_metadata.csv', index=False)
