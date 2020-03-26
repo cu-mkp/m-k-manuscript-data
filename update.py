@@ -88,6 +88,28 @@ def update_all_folios(manuscript: BnF) -> None:
       f.write(text)
       f.close()
 
+def update_ms(manuscript: BnF) -> None:
+  for version in versions: 
+    for r, d, f in os.walk(f'{m_path}/ms-xml/{version}'):
+      for filename in f: # iterate through /ms-xml/{version} folder
+        # read xml file
+        text = ''
+        filepath = f'{m_path}/ms-xml/{version}/{filename}'
+        with open(filepath, encoding="utf-8", errors="surrogateescape") as f:
+          text = f.read()
+        
+        # remove xml, normalize whitespace
+        text = text.replace('\n', '**NEWLINE**')
+        text = re.sub(r'<.*?>', '', text)
+        text = text.replace('**NEWLINE**', '\n')
+        text = text.strip(' \n')
+
+        # write txt file
+        txt_filepath = filepath.replace('xml', 'txt')
+        f = open(txt_filepath, 'w')
+        f.write(text)
+        f.close()
+
 def update_time():
   """ Extract timestamp at the top of this file and update it. """
   # Initialize date to write and container for the text
@@ -107,6 +129,15 @@ def update_time():
 def update():
 
   manuscript = BnF(apply_corrections=True)
+
+  update_entries(manuscript)
+  print('Updated entries')
+
+  # update_ms(manuscript)
+  # print('Updated ms-txt')
+
+  # update_all_folios(manuscript)
+  # print('Updated allFolios')
 
   update_time()
 
