@@ -136,8 +136,8 @@ def update():
   update_ms(manuscript)
   print('Updated ms-txt')
 
-  # update_all_folios(manuscript)
-  # print('Updated allFolios')
+  update_all_folios(manuscript)
+  print('Updated allFolios')
 
   update_time()
 
