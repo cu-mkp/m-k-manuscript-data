@@ -133,8 +133,8 @@ def update():
   update_entries(manuscript)
   print('Updated entries')
 
-  # update_ms(manuscript)
-  # print('Updated ms-txt')
+  update_ms(manuscript)
+  print('Updated ms-txt')
 
   # update_all_folios(manuscript)
   # print('Updated allFolios')
