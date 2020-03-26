@@ -1,4 +1,4 @@
-# Last Updated | 2020-03-24
+# Last Updated | 2020-03-25
 # Python Modules
 import os
 import sys
@@ -31,10 +31,11 @@ def update_ms(manuscript: BnF) -> None:
         with open(filepath, encoding="utf-8", errors="surrogateescape") as f:
           text = f.read()
         
-        # remove xml
+        # remove xml, normalize whitespace
         text = text.replace('\n', '**NEWLINE**')
         text = re.sub(r'<.*?>', '', text)
         text = text.replace('**NEWLINE**', '\n')
+        text = text.strip(' \n')
 
         # write txt file
         txt_filepath = filepath.replace('xml', 'txt')
