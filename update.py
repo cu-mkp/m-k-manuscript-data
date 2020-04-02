@@ -1,4 +1,4 @@
-# Last Updated | 2020-03-26
+# Last Updated | 2020-04-02
 # Python Modules
 import os
 import sys
@@ -17,9 +17,35 @@ from recipe import Recipe
 
 versions = ['tc', 'tcn', 'tl']
 properties = ['animal', 'body_part', 'currency', 'definition', 'environment', 'material', 'medical', 'measurement',
-              'music', 'plant', 'place', 'personal_name', 'profession', 'sensory', 'tool', 'time', 'weapon']
+              'music', 'plant', 'place', 'personal_name', 'profession', 'sensory', 'tool', 'time', 'weapon',
+              'german', 'greek', 'italian', 'latin', 'occitan', 'poitevin']
 
 m_path = f'{os.getcwd()}'
+
+def update_metadata(manuscript: BnF) -> None:
+  """
+  Update /m-k-manuscript-data/metadata/entry_metadata.csv with the current manuscript. Create a Pandas DataFrame
+  indexed by entry. Create data columns, and remove the column that contains the entry objects. Save File.
+
+  Input:
+    manuscript -- Python object of the manuscript defined in digital_manuscript.py
+  Output:
+    None
+  """
+  df = pd.DataFrame(columns=['entry'], data=manuscript.entries.values())
+  df['folio'] = df.entry.apply(lambda x: x.folio)
+  df['folio_display'] = df.entry.apply(lambda x: x.folio.lstrip('0'))
+  df['div_id'] = df.entry.apply(lambda x: x.identity)
+  df['categories'] = df.entry.apply(lambda x: (';'.join(x.categories)))
+  df['heading_tc'] = df.entry.apply(lambda x: x.title['tc'])
+  df['heading_tcn'] = df.entry.apply(lambda x: x.title['tcn'])
+  df['heading_tl'] = df.entry.apply(lambda x: x.title['tl'])
+  for prop in properties:
+    for version in versions:
+      df[f'{prop}_{version}'] = df.entry.apply(lambda x: '; '.join(x.get_prop(prop=prop, version=version)))
+  df.drop(columns=['entry'], inplace=True)
+
+  df.to_csv(f'{m_path}/metadata/entry_metadata.csv', index=False)
 
 def update_entries(manuscript: BnF) -> None:
   """
@@ -129,6 +155,9 @@ def update_time():
 def update():
 
   manuscript = BnF(apply_corrections=True)
+
+  update_metadata(manuscript)
+  print('Updated metadata')
 
   update_entries(manuscript)
   print('Updated entries')
