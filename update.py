@@ -1,4 +1,4 @@
-# Last Updated | 2020-04-10
+# Last Updated | 2020-04-17
 # Python Modules
 import os
 import sys
@@ -19,6 +19,11 @@ versions = ['tc', 'tcn', 'tl']
 properties = ['animal', 'body_part', 'currency', 'definition', 'environment', 'material', 'medical', 'measurement',
               'music', 'plant', 'place', 'personal_name', 'profession', 'sensory', 'tool', 'time', 'weapon',
               'german', 'greek', 'italian', 'latin', 'occitan', 'poitevin']
+prop_dict = {'animal': 'al', 'body_part': 'bp', 'currency': 'cn', 'definition': 'def',
+              'environment': 'env', 'material': 'm', 'medical': 'md', 'measurement': 'ms',
+              'music': 'mu', 'plant': 'pa', 'place': 'pl', 'personal_name': 'pn',
+              'profession': 'pro', 'sensory': 'sn', 'tool': 'tl', 'time': 'tmp', 'weapon': 'wp',
+              'german': 'de', 'greek': 'ge', 'italian': 'it', 'latin': 'la', 'occitan': 'oc', 'poitevin': 'po',}
 
 m_path = f'{os.getcwd()}'
 
@@ -40,9 +45,9 @@ def update_metadata(manuscript: BnF) -> None:
   df['heading_tc'] = df.entry.apply(lambda x: x.title['tc'])
   df['heading_tcn'] = df.entry.apply(lambda x: x.title['tcn'])
   df['heading_tl'] = df.entry.apply(lambda x: x.title['tl'])
-  for prop in properties:
+  for prop, tag in prop_dict.items():
     for version in versions:
-      df[f'{prop}_{version}'] = df.entry.apply(lambda x: '; '.join(x.get_prop(prop=prop, version=version)))
+      df[f'{tag}_{version}'] = df.entry.apply(lambda x: '; '.join(x.get_prop(prop=prop, version=version)))
   df.drop(columns=['entry'], inplace=True)
 
   df.to_csv(f'{m_path}/metadata/entry_metadata.csv', index=False)
