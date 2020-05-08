@@ -19,11 +19,11 @@ versions = ['tc', 'tcn', 'tl']
 properties = ['animal', 'body_part', 'currency', 'definition', 'environment', 'material', 'medical', 'measurement',
               'music', 'plant', 'place', 'personal_name', 'profession', 'sensory', 'tool', 'time', 'weapon',
               'german', 'greek', 'italian', 'latin', 'occitan', 'poitevin']
-prop_dict = {'animal': 'al', 'body_part': 'bp', 'currency': 'cn', 'definition': 'def',
+prop_dict = {'animal': 'al', 'body_part': 'bp', 'currency': 'cn', 'definition': 'df',
               'environment': 'env', 'material': 'm', 'medical': 'md', 'measurement': 'ms',
               'music': 'mu', 'plant': 'pa', 'place': 'pl', 'personal_name': 'pn',
               'profession': 'pro', 'sensory': 'sn', 'tool': 'tl', 'time': 'tmp', 'weapon': 'wp',
-              'german': 'de', 'greek': 'ge', 'italian': 'it', 'latin': 'la', 'occitan': 'oc', 'poitevin': 'po',}
+              'german': 'de', 'greek': 'el', 'italian': 'it', 'latin': 'la', 'occitan': 'oc', 'poitevin': 'po',}
 
 m_path = f'{os.getcwd()}'
 
