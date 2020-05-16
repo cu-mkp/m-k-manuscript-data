@@ -1,4 +1,4 @@
-# Last Updated | 2020-05-08
+# Last Updated | 2020-05-16
 # Python Modules
 import os
 import sys
@@ -37,6 +37,7 @@ def update_metadata(manuscript: BnF) -> None:
   Output:
     None
   """
+  # create DataFrame (spreadsheet) with one entry per row
   df = pd.DataFrame(columns=['entry'], data=manuscript.entries.values())
   df['folio'] = df.entry.apply(lambda x: x.folio)
   df['folio_display'] = df.entry.apply(lambda x: x.folio.lstrip('0'))
@@ -48,6 +49,7 @@ def update_metadata(manuscript: BnF) -> None:
   for prop, tag in prop_dict.items():
     for version in versions:
       df[f'{tag}_{version}'] = df.entry.apply(lambda x: '; '.join(x.get_prop(prop=prop, version=version)))
+  # remove entry column, since it only displays memory address
   df.drop(columns=['entry'], inplace=True)
 
   df.to_csv(f'{m_path}/metadata/entry_metadata.csv', index=False)
@@ -67,7 +69,7 @@ def update_entries(manuscript: BnF) -> None:
     if not os.path.exists(path):
       os.mkdir(path)
 
-  for version in versions: # TODO: fix this when you're done with the body
+  for version in versions:
     txt_path = f'{m_path}/entries/txt/{version}'
     xml_path = f'{m_path}/entries/xml/{version}'
 
@@ -106,15 +108,17 @@ def update_all_folios(manuscript: BnF) -> None:
   Output:
     None
   """
-  for b in [True, False]:
+  for b in [True, False]: # xml and txt respectively
     for version in versions:
       text = ''
       folder = 'xml' if b else 'txt'
 
+      # add text entry by entry, with two line breaks in between each
       for identity, entry in manuscript.entries.items():
         new_text = entry.text(version, xml=b)
         text = f'{text}\n\n{new_text}' if text else new_text
 
+      # write file
       f = open(f'{m_path}/allFolios/{folder}/all_{version}.{folder}', 'w')
       f.write(text)
       f.close()
@@ -170,17 +174,17 @@ def update():
 
   manuscript = BnF(apply_corrections=True)
 
+  print('Updating metadata')
   update_metadata(manuscript)
-  print('Updated metadata')
 
+  print('Updating entries')
   update_entries(manuscript)
-  print('Updated entries')
 
+  print('Updating ms-txt')
   update_ms(manuscript)
-  print('Updated ms-txt')
 
+  print('Updating allFolios')
   update_all_folios(manuscript)
-  print('Updated allFolios')
 
   update_time()
 
