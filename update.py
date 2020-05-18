@@ -1,4 +1,4 @@
-# Last Updated | 2020-05-16
+# Last Updated | 2020-05-18
 # Python Modules
 import os
 import sys
@@ -27,7 +27,7 @@ prop_dict = {'animal': 'al', 'body_part': 'bp', 'currency': 'cn', 'definition': 
 
 m_path = f'{os.getcwd()}'
 
-def update_metadata(manuscript: BnF) -> None:
+def update_metadata(manuscript: BnF, dummy: bool = False) -> None:
   """
   Update /m-k-manuscript-data/metadata/entry_metadata.csv with the current manuscript. Create a Pandas DataFrame
   indexed by entry. Create data columns, and remove the column that contains the entry objects. Save File.
@@ -52,7 +52,8 @@ def update_metadata(manuscript: BnF) -> None:
   # remove entry column, since it only displays memory address
   df.drop(columns=['entry'], inplace=True)
 
-  df.to_csv(f'{m_path}/metadata/entry_metadata.csv', index=False)
+  filename = f'{m_path}/metadata/entry_metadata.csv' if not dummy else f'{m_path}/dummy/entry_metadata.csv'
+  df.to_csv(filename, index=False)
 
 def update_entries(manuscript: BnF) -> None:
   """
@@ -99,7 +100,7 @@ def update_entries(manuscript: BnF) -> None:
         f_xml.write(content_xml)
         f_xml.close()
 
-def update_all_folios(manuscript: BnF) -> None:
+def update_all_folios(manuscript: BnF, dummy: bool = False) -> None:
   """
   Update /m-k-manuscript-data/allFolios/ with the current manuscript from /ms-xml/. 
 
@@ -119,7 +120,8 @@ def update_all_folios(manuscript: BnF) -> None:
         text = f'{text}\n\n{new_text}' if text else new_text
 
       # write file
-      f = open(f'{m_path}/allFolios/{folder}/all_{version}.{folder}', 'w')
+      filename = f'{m_path}/allFolios/{folder}/all_{version}.{folder}' if not dummy else f'{m_path}/dummy/all_{version}.{folder}'
+      f = open(filename, 'w')
       f.write(text)
       f.close()
 
@@ -170,22 +172,31 @@ def update_time():
   f.write('\n'.join(lines))
   f.close
 
-def update():
+def update(dummy=False):
 
   manuscript = BnF(apply_corrections=True)
 
   print('Updating metadata')
-  update_metadata(manuscript)
-
-  print('Updating entries')
-  update_entries(manuscript)
-
-  print('Updating ms-txt')
-  update_ms(manuscript)
+  update_metadata(manuscript, dummy=dummy)
 
   print('Updating allFolios')
-  update_all_folios(manuscript)
+  update_all_folios(manuscript, dummy=dummy)
+
+  if not dummy:
+    print('Updating entries')
+    update_entries(manuscript)
+
+    print('Updating ms-txt')
+    update_ms(manuscript)
 
   update_time()
 
-update()
+def main():
+  if len(sys.argv) == 1: # actually run the update
+    update()
+  else: # create dummy update in travis for comparison
+    if not os.path.exists(f'{m_path}/dummy/'):
+      os.mkdir(f'{m_path}/dummy/')
+    update(dummy=True)
+
+main()
