@@ -72,6 +72,7 @@ def check_update():
   files = [f for f in os.listdir('.') if os.path.isfile(f)]
   for f in files:
     print(f)
+  print(os.getcwd())
   # passed = check_metadata() and check_all_folios()
   # if not passed:
   #   os.system('rm -r dummy')
