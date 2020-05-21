@@ -2,6 +2,7 @@ CHANGED_FILES=
 
 if [ -z "${TRAVIS_COMMIT_RANGE}" ] ; then
     # This is a new branch.
+    STATE = 'HERE'
 else
     # This isn't a new branch.
     if [ "${TRAVIS_PULL_REQUEST}" = "false" ] ; then
