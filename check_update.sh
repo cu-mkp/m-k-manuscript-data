@@ -25,4 +25,4 @@ else
     fi
 fi
 
-echo CHANGED_FILES
+echo "$CHANGED_FILES"
