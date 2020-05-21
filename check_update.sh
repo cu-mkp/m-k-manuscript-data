@@ -13,7 +13,7 @@ else
         COMMIT2="$(echo ${TRAVIS_COMMIT_RANGE} | cut -f 4 -d '.')"
 
         if [ "$(git cat-file -t ${COMMIT1} 2>/dev/null)" = commit -a "$(git cat-file -t ${COMMIT2} 2>/dev/null)" = commit ] ; then
-            STATE = 'HERE2'
+            echo "I'm here"
             # This was a history rewrite.
         else
             # This is a 'normal' build.
@@ -25,4 +25,4 @@ else
     fi
 fi
 
-echo(CHANGED_FILES)
+echo CHANGED_FILES
