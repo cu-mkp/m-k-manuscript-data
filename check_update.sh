@@ -10,3 +10,4 @@ else
     CHANGED_FILES="$(git diff --name-only ${TRAVIS_BRANCH}..HEAD --)"
     echo "This is a PR"
 fi
+echo "End Test"
