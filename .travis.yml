@@ -13,7 +13,5 @@ install:
   - pipenv install --dev
 
 script:
-  -  bash ./check_update.sh
-  # -  for XML in $(find ms-xml -name '*.xml'); do xmllint --relaxng schema/ms-transcription.rng $XML --noout || error=true; done; if [ $error ]; then exit 1 ; fi
-
-
+  -  if [ "${TRAVIS_PULL_REQUEST}" = "true" ] ; then python check_update.py
+  -  for XML in $(find ms-xml -name '*.xml'); do xmllint --relaxng schema/ms-transcription.rng $XML --noout || error=true; done; if [ $error ]; then exit 1 ; fi
