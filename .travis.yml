@@ -13,5 +13,5 @@ install:
   - pipenv install --dev
 
 script:
-  -  if [ "${TRAVIS_PULL_REQUEST}" = "true" ] ; then python ./update/check_update.py ; fi
+  -  if [ "${TRAVIS_PULL_REQUEST}" = "true" ] ; then python ./update/check_update.py && echo "rand update" ; fi
   -  for XML in $(find ms-xml -name '*.xml'); do xmllint --relaxng schema/ms-transcription.rng $XML --noout || error=true; done; if [ $error ]; then exit 1 ; fi
