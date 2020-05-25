@@ -1,28 +1,12 @@
 CHANGED_FILES=
 
-if [ -z "${TRAVIS_COMMIT_RANGE}" ] ; then
-    # This is a new branch.
-    STATE = 'HERE'
+if [ "${TRAVIS_PULL_REQUEST}" = "false" ] ; then
+    # This isn't a PR build.
+    COMMIT_RANGE="$(echo ${TRAVIS_COMMIT_RANGE} | cut -d '.' -f 1,4 --output-delimiter '..')"
+    CHANGED_FILES="$(git diff --name-only ${COMMIT_RANGE} --)"
+    echo "Not a PR"
 else
-    # This isn't a new branch.
-    if [ "${TRAVIS_PULL_REQUEST}" = "false" ] ; then
-        # This isn't a PR build.
-
-        # We need the individual commits to detect force pushes.
-        COMMIT1="$(echo ${TRAVIS_COMMIT_RANGE} | cut -f 1 -d '.')"
-        COMMIT2="$(echo ${TRAVIS_COMMIT_RANGE} | cut -f 4 -d '.')"
-
-        if [ "$(git cat-file -t ${COMMIT1} 2>/dev/null)" = commit -a "$(git cat-file -t ${COMMIT2} 2>/dev/null)" = commit ] ; then
-            echo "I'm here"
-            # This was a history rewrite.
-        else
-            # This is a 'normal' build.
-            CHANGED_FILES="$(git diff --name-only ${COMMIT_RANGE} --)"
-        fi
-    else
-        # This is a PR build.
-        CHANGED_FILES="$(git diff --name-only ${TRAVIS_BRANCH}..HEAD --)"
-    fi
+    # This is a PR build.
+    CHANGED_FILES="$(git diff --name-only ${TRAVIS_BRANCH}..HEAD --)"
+    echo "This is a PR"
 fi
-
-echo "$CHANGED_FILES"
