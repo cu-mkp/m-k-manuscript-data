@@ -1,5 +1,3 @@
-# Last Updated | 2019-11-10
-
 from datetime import datetime
 
 def check_update():
