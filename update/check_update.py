@@ -14,4 +14,5 @@ def check_update():
       print('The repository has not been updated since ' + str(timestamp) + '. Please run update.py on the day of merging the branch.')
       exit(1)
 
+print('outside everything')
 check_update()
