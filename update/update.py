@@ -163,40 +163,31 @@ def update_time():
   lines = []
 
   # open file, extract text, and modify
-  with open('./update.py', 'r') as f:
+  with open('./update/update.py', 'r') as f:
     lines = f.read().split('\n')
     lines[0] = f'# Last Updated | {now_str}'
 
   # write modified text
-  f = open('./update.py', 'w')
+  f = open('./update/update.py', 'w')
   f.write('\n'.join(lines))
   f.close
 
-def update(dummy=False):
+def update():
 
   manuscript = BnF(apply_corrections=True)
 
   print('Updating metadata')
-  update_metadata(manuscript, dummy=dummy)
+  update_metadata(manuscript)
 
   print('Updating allFolios')
-  update_all_folios(manuscript, dummy=dummy)
+  update_all_folios(manuscript)
 
-  if not dummy:
-    print('Updating entries')
-    update_entries(manuscript)
+  print('Updating entries')
+  update_entries(manuscript)
 
-    print('Updating ms-txt')
-    update_ms(manuscript)
+  print('Updating ms-txt')
+  update_ms(manuscript)
 
   update_time()
 
-def main():
-  if len(sys.argv) == 1: # actually run the update
-    update()
-  else: # create dummy update in travis for comparison
-    if not os.path.exists(f'{m_path}/dummy/'):
-      os.mkdir(f'{m_path}/dummy/')
-    update(dummy=True)
-
-main()
+update()
