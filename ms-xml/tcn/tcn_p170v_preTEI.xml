@@ -25,8 +25,8 @@ quarante trois <cn>escus</cn><lb/>
 
 un tiers <del>sur qu</del>.</ab>
 
-<ab>Et leur reste sur la premiere annee quatre vintg <cn>livres</cn> quinze</ab>
-    <figure size="x-small" id="fig_p170v_2" link="https://drive.google.com/file/d/1pPcyOohw3Aygar2ODD_l8U8YEBHXG806"/><comment rid="c_170v_03"/><ab>,<lb/>
+<ab>Et leur reste sur la premiere annee quatre vintg <cn>livres</cn> quinze
+    <figure size="x-small" id="fig_p170v_2" link="https://drive.google.com/file/d/1pPcyOohw3Aygar2ODD_l8U8YEBHXG806"/><comment rid="c_170v_03"/>,<lb/>
 et sur la seconde judication n’ont encore rien repceu.<hr/></ab>
 </div>
 
@@ -47,7 +47,7 @@ prinse, il se fault faire suer.</ab>
 
 <ab margin="left-middle"><la><pn>Othonis</pn> Epi<exp>scopi</exp><lb/>
 
-frisigensis<lb/>
+frisigensis<comment rid="c_170v_30"/><lb/>
         
 ab orbe condito</la><comment rid="c_170v_25"/></ab>
 
@@ -103,17 +103,17 @@ auth<exp>ore</exp></la></emph></ab>
 
 <ab><emph><la><pn>Rembertus Dodonaeus</pn> <pl>Mechliniensis</pl> <pro>medicus</pro>,<comment rid="c_170v_34"/><lb/>
 
-de stirpium historia</la></emph></ab>
+de stirpium historia</la></emph><comment rid="c_170v_21"/></ab>
 
 <ab><emph><pn>Des Ormes</pn>,<comment rid="c_170v_35"/> De l’invention de bien bastir et aultres
-oeuvres</emph></ab>
+oeuvres</emph><comment rid="c_170v_22"/></ab>
 
-<ab><emph><la><pn>Tilesius</pn>,<comment rid="c_170v_36"/> De coloribus, Vascosan</la></emph></ab>
+<ab><emph><la><pn>Tilesius</pn>,<comment rid="c_170v_36"/> De coloribus, Vascosan</la></emph><comment rid="c_170v_23"/></ab>
 
 <ab><emph><la><pn>Marmodaeus</pn>,<comment rid="c_170v_37"/> <del>ge</del> De lapillis
-praeciosis</la></emph></ab>
+praeciosis</la></emph><comment rid="c_170v_24"/></ab>
 
-<ab><emph><la><pn>Albertus Magnus</pn>, De mineralibus</la></emph><comment rid="c_170v_28"/><comment rid="c_170v_28"/></ab>
+<ab><emph><la><pn>Albertus Magnus</pn>,<comment rid="c_170v_38"/> De mineralibus</la></emph><comment rid="c_170v_28"/></ab>
 
 </div>
 </root>
