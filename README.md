@@ -4,6 +4,8 @@ Working files and data for the XML transcription and translation of Making and K
 
 https://www.makingandknowing.org/
 
+_Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_
+https://edition640.makingandknowing.org/
 
 
 > Throughout: **tc** = transcription; **tcn** = normalized transcription **tl** = translation
