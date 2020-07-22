@@ -3,7 +3,7 @@
 
 
 
-<div continues="yes" id="p017r_1" categories="arms and armor" continued="yes">
+<div continues="yes" id="p017r_1" categories="arms and armor">
 
 
 
@@ -110,7 +110,7 @@ de <m>pouldre</m>.</ab>
 </div>
     
 
-<div id="p017r_1" part="y">
+<div id="p017r_1" part="y"  continued="yes">
 <ab>
 
 La <df><wp>bastarde</wp></df>, qui est une <del><wp>colevrine</wp></del> <add><wp>piece</wp></add>

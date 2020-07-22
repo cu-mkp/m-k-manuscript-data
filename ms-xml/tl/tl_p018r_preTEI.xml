@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><root page="018r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f41.image">
 
 
-<div continues="yes" id="p017r_1" categories="arms and armor" continued="yes">
+<div continues="yes" id="p017r_1" categories="arms and armor">
 
 <ab>
 
@@ -45,7 +45,7 @@ is not certain for <wp>large pieces</wp> which are loaded with a lot of
 <m>powder</m>.</ab>
 </div>
 
-<div id="p017r_1" part="y">
+<div id="p017r_1" part="y" continued="yes">
 <ab>
 
 The <df><wp><fr>bastarde</fr></wp></df>, which is a <del><wp>culverin</wp></del>

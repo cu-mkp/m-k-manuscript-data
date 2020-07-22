@@ -16,9 +16,9 @@
 
 
 
-<head margin="right-middle"><hr/><comment rid="c_002v_07"/><add><m>Emeralds of <pl>Brissac</pl></m></add><hr/></head>
+<head margin="right-top"><hr/><comment rid="c_002v_07"/><add><m>Emeralds of <pl>Brissac</pl></m></add><hr/></head>
 
-<ab margin="left-middle" render="extra-wide">I have taken <m>minium</m> 26 <ms>℥</ms>,
+<ab render="full">I have taken <m>minium</m> 26 <ms>℥</ms>,
 <m>crystal</m><comment rid="c_002v_04"/> <add><ill/> and ground on <tl><m>marble</m></tl></add> 12
 <ms>℥</ms>, <m>verdet</m> 3
 <ms>|ʒ|</ms>. Incorporate all together, put in a
@@ -26,7 +26,7 @@
 top</tl>. Fusion 7 <ms><tmp>hours</tmp></ms> without blowing. The mass
 was of a beautiful green.</ab>
 
-<ab margin="left-middle" render="extra-wide">I have taken <m>minium</m> 12 <ms>℥</ms>,
+<ab margin="full" render="extra-wide">I have taken <m>minium</m> 12 <ms>℥</ms>,
 <m>crystal</m> 6 <ms>℥</ms>, <m>verdet</m> 2
 <ms>grains</ms>. Soft fusion vi <ms><tmp>hours</tmp></ms>, refired
 24 <ms><tmp>hours</tmp></ms>. The mass was green, yellow &amp;
@@ -40,7 +40,7 @@ red.</ab>
 
 <head><mark>|</mark> <m>Sapphire</m></head>
 
-<ab margin="left-middle" render="extra-wide"><m>Pebbles</m> or <m>crystal</m> 8 <ms>℥</ms>,
+<ab render="full"><m>Pebbles</m> or <m>crystal</m> 8 <ms>℥</ms>,
 <m>minium</m> 16 <ms>℥</ms>, <m><pro>blacksmith</pro>’s
 salt</m> 4 <ms>℥</ms>, sparkling
 <m><fr>coryal</fr></m> 4
