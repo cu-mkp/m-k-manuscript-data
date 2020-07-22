@@ -8,6 +8,7 @@ start =
   element root {
     attribute page { xsd:NMTOKEN },
     attribute image { xsd:anyURI },
+    attribute layout { "three-column" | "four-column" }?,
     mixed {
       (# <text/>
        e.ab
@@ -174,8 +175,8 @@ a.margin =
   }
 # render
 
-## Margin rendition: Instructions to cue the proper rendition of the height and width  a margin block. Valid values are: "tall", "wide", and "extra-wide"
-a.render = attribute render { ("tall" | "wide" | "extra-wide")? }
+## Margin rendition: Instructions to cue the proper rendition of the height and width  a margin block. Valid values are: "tall", "wide", and "full"
+a.render = attribute render { ("tall" | "wide" | "full")? }
 # size
 
 ## Image size: Instructions to cue the proper rendition of the size of an image. Valid values are: "x-small", "small", "medium", and "large"
