@@ -304,13 +304,13 @@
 
   <!-- render -->
   <define name="a.render">
-    <a:documentation>Margin rendition: Instructions to cue the proper rendition of the height and width  a margin block. Valid values are: "tall", "wide", and "extra-wide"</a:documentation>
+    <a:documentation>Margin rendition: Instructions to cue the proper rendition of the height and width  a margin block. Valid values are: "tall", "wide", and "full"</a:documentation>
     <attribute name="render">
       <optional>
         <choice>
           <value>tall</value>
           <value>wide</value>
-          <value>extra-wide</value>
+          <value>full</value>
         </choice>
       </optional>
     </attribute>
