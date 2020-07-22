@@ -12,6 +12,14 @@
       <attribute name="image">
         <data type="anyURI"/>
       </attribute>
+      <optional>
+        <attribute name="layout">
+        <choice>
+          <value>three-column</value>
+          <value>four-column</value>
+        </choice>
+      </attribute>
+      </optional>
       <mixed>
         <oneOrMore>
           <choice>
