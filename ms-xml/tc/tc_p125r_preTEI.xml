@@ -5,7 +5,7 @@
 
 <div continues="yes" id="p124v_3" categories="casting">
 
-<ab margin="top" render="extra-wide" continues="yes">
+<ab margin="top" render="full" continues="yes">
 
 <mark>🝋</mark><comment rid="c_125r_01"/> des petits rouleaulx tu fais tes gects et souspirails sans danger
 descrouster &amp; enlever<lb/>
@@ -134,12 +134,13 @@ le durcit</ab>
     
 </div>
 
+<div></div>
 
 <div id="p125r_2" categories="arms and armor;casting">
 
 <head><wp>Symeterres</wp><comment rid="c_125r_03"/></head>
 
-<ab margin="left-middle"><hr/><emph>A scavoir</emph><comment rid="c_125r_04"/><hr/></ab>
+<ab margin="left-top"><hr/><emph>A scavoir</emph><comment rid="c_125r_04"/><hr/></ab>
 
 <ab>Les <pro>ouvriers</pro> de <pl>damas</pl> ou d<pl>hongrie</pl>
 voisins des <pl>turcs</pl><lb/>
@@ -166,18 +167,6 @@ qui entre dans le manche quil est gecte en <m>sable</m></ab>
 </div>
 
 
-<div id="p125r_3" categories="tricks and sleight of hand">
-
-<head><sn>Ouyr</sn> de loing</head>
-
-<ab>Fais un petit trou en terre &amp; y pose <tmp>de nuict ou en temps
-de<lb/>
-
-Silence</tmp> l<bp>oreille</bp> justem<exp>ent</exp> &amp; tu
-<sn>entendras</sn> aysem<exp>ent</exp> la rumeur</ab>
-
-</div>
-
 <div id="p125r_1" part="y">
 <ab margin="left-top" render="tall">
 Et l<m>eau chaulde</m><lb/>
@@ -199,9 +188,25 @@ plus dur &amp; le<lb/>
 mixtionne est<lb/>
             
 plus spongieulx<lb/></ab>
-            
 
-<ab margin="bottom" render="extra-wide">
+</div>
+
+
+<div id="p125r_3" categories="tricks and sleight of hand">
+        
+<head><sn>Ouyr</sn> de loing</head>
+        
+<ab>Fais un petit trou en terre &amp; y pose <tmp>de nuict ou en temps
+de<lb/>
+            
+Silence</tmp> l<bp>oreille</bp> justem<exp>ent</exp> &amp; tu
+<sn>entendras</sn> aysem<exp>ent</exp> la rumeur</ab>
+        
+</div>
+    
+            
+<div id="p125r_1" part="y">
+<ab margin="left-top" render="tall">
 De ce <m>plastre</m><lb/>
             
 ainsy recuit en pouldre<lb/>
@@ -211,8 +216,19 @@ il sen gecte des medailles<lb/>
 quil ne craignent point les<lb/>
 <env>pluyes</env> mesmem<exp>en</exp>t si elles sont<lb/>
             
-vernies On les tient en <pl>allemaigne</pl><lb/>
-            
+vernies On les tient en <pl>allemaigne</pl></ab>
+    
+</div>
+ 
+ 
+    <div>
+        <ab><emph>Secret</emph><comment rid="c_125r_05"/></ab>
+        
+    </div>
+ 
+<div id="p125r_1" part="y">
+        
+<ab margin="bottom" render="wide">           
 <env>sur les maisons</env> Mays advise que l<m>eau</m> soict fort
 chaulde &amp; si elle est<lb/>
             
@@ -223,9 +239,5 @@ despouillent</ab>
         
 </div>
     
-    
-<div>
-<ab><emph>Secret</emph><comment rid="c_125r_05"/></ab>
-
-</div>
+ 
 </root>
