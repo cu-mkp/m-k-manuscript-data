@@ -108,7 +108,7 @@ comme un <m>charbon</m><lb/>
         
 allume</ab></div>
  
- 
+<div></div>
  
 <div id="p106v_3" categories="casting">
         
@@ -132,9 +132,9 @@ passer subtillement par le <tl>tamis</tl></ab>
         
 <ab>Les petites <al>tortues</al> estant sorties de loeuf sont bien<lb/>
             
-gentilles a mouler<comment rid="c_106v_02"/><hr/></ab>
+gentilles a mouler<comment rid="c_106v_02"/></ab>
         
-<ab margin="right-middle">
+<ab margin="right-top">
             
 <add>celles des <env>maisons</env> qui sont de <m>terre<lb/>
                 
@@ -146,9 +146,9 @@ au foeu</add></ab>
     
     
 
-<div id="p106v_2" part="y" continued="yes">
+<div id="p106v_2" part="y">
 
-<ab>
+<ab><hr/>
 <add>Si le <m>plastre</m> est mesle de quelque <m>poulssiere</m> ou nest
 du fort il se creve au<lb/>
 
@@ -191,7 +191,9 @@ Car il fault que ce<lb/>
 soict le dernier recuit &amp; quand tout le reste est prest Car le
 moings que le <m>plastre</m> <mark>#</mark></add><comment rid="c_112r_02"/>
 </ab>
-
+</div>
+    
+<div id="p106v_2" part="y" continued="yes">
 <ab><emph>L<m>alum de plume</m></emph> est celuy qui donne bonne liaison
 au <m>sable</m></ab>
     
@@ -202,7 +204,7 @@ mesle parmy le <m>sable</m> le recoit &amp; le contient en sa
 chaleur<hr/></ab>
 
 
-<ab margin="bottom" render="extra-wide">
+<ab margin="left-middle">
 
 <mark>#</mark><comment rid="c_106v_03"/><lb/>
 
@@ -226,9 +228,9 @@ recuire mects le en<lb/>
 
 pouldre subtile<lb/>
 
-tout cru dans un<lb/>
+tout cru dans un</ab>
 
-<tl>chauderon</tl> sur <del>cendre</del> flamme claire &amp; ne la donne
+<ab margin="bottom" render="full" continued="yes"><tl>chauderon</tl> sur <del>cendre</del> flamme claire &amp; ne la donne
 pas trop a coup ne trop vehemente<lb/>
 
 remue tousjours Avecq un long <tl>baston</tl> pour <md>eviter la vapeur</md> le
