@@ -7,7 +7,7 @@
 
 <head>Gecter en <m>or</m></head>
 
-<ab>Pour gecter d’<m>or</m>, <del>il f</del> le <m><la>crocum
+<ab render="wide">Pour gecter d’<m>or</m>, <del>il f</del> le <m><la>crocum
 ferri</la></m> est necessaire, <add>&amp; plus d’<m>alum<lb/>
 
 de plume</m> qu’en la mixtion suivante. La mixtion d’<m>alum de
@@ -18,12 +18,12 @@ promptement avec des <tl>presses<lb/>
 
 de <m>fer</m></tl>.</add></ab>
 
-<ab>L’<m>escaille des <al>chancres</al> &amp; <al>escrevisses</al></m>
+<ab render="wide">L’<m>escaille des <al>chancres</al> &amp; <al>escrevisses</al></m>
 sont malaisées à brusler<lb/>
 
 &amp; y a propre façon pour les mouler.</ab>
 
-<ab>Les <al>rats</al> &amp; <al>oyseaulx</al> se moulent, et les pieds
+<ab render="wide">Les <al>rats</al> &amp; <al>oyseaulx</al> se moulent, et les pieds
 sont<lb/>
 
 malaisés de retirer estant bruslés, pource qu’ilz sont petits<lb/>
@@ -78,8 +78,19 @@ lopins.</ab>
 <div id="p106v_3" categories="casting">
         
 <head><m>Tuiles</m></head>
+
+<ab margin="right-middle">
         
-<ab>Les <m>tuilles</m> de quoy on couvre les <env>maisons</env>, des
+<add>Celles des <env>maisons</env> qui sont de <m>terre<lb/>
+            
+aulcunem<exp>ent</exp> areneuse</m> semblent tenir plus<lb/>
+            
+au foeu.</add></ab>
+</div>
+    
+    
+<div id="p106v_3" part="y">  
+<ab render="wide">Les <m>tuilles</m> de quoy on couvre les <env>maisons</env>, des
 plus dures<lb/>
             
 &amp; plus fermes et repurgées de <m>pierres</m> &amp; gros
@@ -95,17 +106,9 @@ piler &amp;<lb/>
             
 passer subtillement par le <tl>tamis</tl>.</ab>
         
-<ab>Les petites <al>tortues</al> estant sorties de l’oeuf sont bien<lb/>
+<ab render="wide">Les petites <al>tortues</al> estant sorties de l’oeuf sont bien<lb/>
             
 gentilles à mouler.<comment rid="c_106v_02"/></ab>
-        
-<ab margin="right-top">
-            
-<add>Celles des <env>maisons</env> qui sont de <m>terre<lb/>
-                
-aulcunem<exp>ent</exp> areneuse</m> semblent tenir plus<lb/>
-                
-au foeu.</add></ab>
         
 </div>
  
@@ -150,13 +153,13 @@ comme un <m>charbon</m><lb/>
 allumé.</ab>
     
     
-<ab><hr/>
+<ab render="wide"><hr/>
 <add>Si le <m>plastre</m> est meslé de quelque <m>poulssiere</m> ou
 n’est du fort, il se creve au<lb/>
 
 foeu &amp; faict faire des baves.</add></ab>
 
-<ab><emph>Le <m>plastre</m></emph>, co<exp>mm</exp>e dict est, le plus dur
+<ab render="wide"><emph>Le <m>plastre</m></emph>, co<exp>mm</exp>e dict est, le plus dur
 est le meilleur estant en<lb/>
 
 <m>pierre</m>, prens le doncq tout cru en telle sorte. Pile le
@@ -194,10 +197,10 @@ faicts. Car il fault que ce<lb/>
 soict le dernier recuit, &amp; quand tout le reste est prest, car le
 moings que le <m>plastre</m> <mark>#</mark></add><comment rid="c_112r_02"/></ab>
 
-<ab><emph>L’<m>alum de plume</m></emph> est celuy qui donne bonne liaison
+<ab render="wide"><emph>L’<m>alum de plume</m></emph> est celuy qui donne bonne liaison
 au <m>sable</m>.</ab>
     
-<ab><emph>Le <m><la>crocum ferri</la></m></emph> est propre pour
+<ab render="wide"><emph>Le <m><la>crocum ferri</la></m></emph> est propre pour
 l’<m>or</m>. C’est celuy qui estant<lb/>
         
 meslé parmy le <m>sable</m> le recoit &amp; le contient en sa
