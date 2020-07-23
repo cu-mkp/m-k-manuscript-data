@@ -3,7 +3,7 @@
 
 
 
-<div id="p123r_1" categories="metal process" continued="yes">
+<div id="p123r_1" categories="metal process">
 
 <head>Moyen <it>di far correr
 l<m>otnegra</m></it><comment rid="c_123r_01"/> </head>
@@ -39,8 +39,9 @@ subtille 2 <ms>℥</ms><lb/>
 <m>Borras</m> la <ms>moictie</ms> 1 <ms>℥</ms><lb/>
 
 <m>Sel armoniac</m> <ms>aultant que de <m>borras</m></ms> scavoir 1
-<ms>℥</ms></ab>
+<ms>℥</ms></ab></div>
 
+<div id="p123r_1" part="y" continued="yes">
 <ab render="wide"> P<exp>rens</exp> de ces materiaulx des meilleurs que tu pourras
 trouver Poises<lb/>
 
