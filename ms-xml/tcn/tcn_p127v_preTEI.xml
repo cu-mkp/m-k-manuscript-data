@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><root page="127v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f260.igmae">
 
 
-<div></div>
 
 <div id="p127v_1" categories="casting">
 
 <head><m>Terre des <pro>fondeurs</pro></m></head>
 
-<ab><lb/><lb/><lb/>C’est de la <m>terre bolvene</m> meslée de <m>fiens</m> ou
+<ab>C’est de la <m>terre bolvene</m> meslée de <m>fiens</m> ou
 <m>bourre</m>, qui<lb/>
 
 tienne au foeu, de laquelle il te fault tousjours avoyr<lb/>
@@ -100,12 +99,14 @@ coma<exp>n</exp>cem<exp>ent</exp>,<lb/>
 mects y &amp; adjouste peu des charbons demy allumés à la
 <tl>forge</tl>.</ab>
 
-<ab margin="left-middle">
+<ab margin="left-top" render="wide">
 
 La <m>terre de laquelle les
 <pro>sarruriers</pro><lb/>
 
-se servent pour braser ou soulder</m>, qui est<lb/>
+se servent pour braser ou soulder</m>, qui est</ab>
+    
+<ab margin="left-middle">
 
 <m>terre ardille areneuse</m>,<lb/>
 
@@ -149,7 +150,7 @@ incontinent recuire<lb/>
 
 à bon foeu, mesmem<exp>ent</exp> ceulx de<lb/>
 
-<m><la>crocum</la></m>.</add></ab>
+<m><la>crocum</la></m>.</add><hr/></ab>
 
 <ab margin="left-middle">
 
