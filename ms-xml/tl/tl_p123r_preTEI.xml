@@ -3,7 +3,7 @@
 
 
 
-<div id="p123r_1" categories="metal process" continued="yes">
+<div id="p123r_1" categories="metal process">
 
 <head> A means <it>di far correr
 l<m>otnegra</m></it><comment rid="c_123r_01"/></head>
@@ -39,8 +39,10 @@ l<m>otnegra</m></it><comment rid="c_123r_01"/></head>
 <m>Borax</m>, <ms>half</ms>, 1 <ms>℥</ms><lb/>
 
 <m>Sal ammoniac</m>, <ms>as much as <m>borax</m></ms>, that is to say 1
-<ms>℥</ms></ab><lb/>
+<ms>℥</ms></ab><lb/></div>
 
+
+<div id="p123r_1" part="y" continued="yes">
 <ab render="wide">Take these substances, of the best kind you can find. Weigh them as
 said above, and <tl>pestle</tl> them separately, keeping your
 <bp><bp>face</bp></bp> covered, over the <bp>nose</bp> &amp; the
