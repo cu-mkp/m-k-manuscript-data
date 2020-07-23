@@ -5,7 +5,7 @@
 
 <div continues="yes" id="p124v_3" categories="casting">
 
-<ab margin="top" render="extra-wide" continues="yes">
+<ab margin="top" render="full" continues="yes">
 
 <mark>🝋</mark><comment rid="c_125r_01"/> des petits rouleaulx, tu fais tes gects et souspirails sans danger
 d’escrouster &amp; enlever<lb/>
@@ -136,12 +136,13 @@ le durcit.</ab>
 
 </div>
 
+<div></div>
 
 <div id="p125r_2" categories="arms and armor;casting">
 
 <head><wp>Symeterres</wp><comment rid="c_125r_03"/></head>
 
-<ab margin="left-middle"><hr/><emph>A sçavoir</emph><comment rid="c_125r_04"/><hr/></ab>
+<ab margin="left-top"><hr/><emph>A sçavoir</emph><comment rid="c_125r_04"/><hr/></ab>
 
 <ab>Les <pro>ouvriers</pro> de <pl>Damas</pl> ou d’<pl>Hongrie</pl>,
 voisins des <pl>Turcs</pl>,<lb/>
@@ -169,21 +170,8 @@ qui entre dans le manche qu’il est gecté en <m>sable</m>.</ab>
 </div>
 
 
-<div id="p125r_3" categories="tricks and sleight of hand">
-
-<head><sn>Ouyr</sn> de loing</head>
-
-<ab>Fais un petit trou en terre, &amp; y pose <tmp>de nuict ou en temps
-de<lb/>
-
-silence</tmp> l’<bp>oreille</bp> justem<exp>ent</exp>, &amp; tu
-<sn>entendras</sn> aysem<exp>ent</exp> la rumeur.</ab>
-
-</div>
-    
-
 <div id="p125r_1" part="y">
-<ab margin="left-middle" render="tall">
+<ab margin="left-top" render="tall">
 Et l’<m>eau chaulde</m><lb/>
         
 le remollist<lb/>
@@ -203,9 +191,23 @@ plus dur &amp; le<lb/>
 mixtionné est<lb/>
         
 plus spongieulx.<lb/></ab>
-
+</div>
+    
+    <div id="p125r_3" categories="tricks and sleight of hand">
         
-<ab margin="bottom" render="extra-wide">
+        <head><sn>Ouyr</sn> de loing</head>
+        
+        <ab>Fais un petit trou en terre, &amp; y pose <tmp>de nuict ou en temps
+            de<lb/>
+            
+            silence</tmp> l’<bp>oreille</bp> justem<exp>ent</exp>, &amp; tu
+            <sn>entendras</sn> aysem<exp>ent</exp> la rumeur.</ab>
+        
+    </div>
+    
+
+<div id="p125r_1" part="y">       
+<ab margin="left-top" render="tall">
 De ce <m>plastre</m><lb/>
         
 ainsy recuit en pouldre<lb/>
@@ -216,9 +218,18 @@ qu’il ne craignent point les<lb/>
         
 <env>pluyes</env>, mesmem<exp>en</exp>t si elles sont<lb/>
         
-vernies. On les tient en <pl>Allemaigne</pl><lb/>
+vernies. On les tient en <pl>Allemaigne</pl></ab>
+    
+</div>
+ 
+    <div>
+        <ab><emph>Secret</emph><comment rid="c_125r_05"/></ab>
         
-sur les <env>maisons</env>. Mays advise que l’<m>eau</m> soict fort
+    </div>
+    
+<div id="p125r_1" part="y"> 
+        
+<ab margin="bottom" render="full">sur les <env>maisons</env>. Mays advise que l’<m>eau</m> soict fort
 chaulde, &amp; si elle est<lb/>
         
 bouillante il n’y ha point de danger. Tous <tl>moules de
@@ -228,9 +239,4 @@ despouillent.</ab>
     
 </div>
     
-
-<div>
-<ab><emph>Secret</emph><comment rid="c_125r_05"/></ab>
-
-</div>
 </root>
