@@ -5,10 +5,6 @@
 
 <div continues="yes" id="p105r_4" categories="cultivation">
 
-
-
-
-
 <ab>Apres quand il sera bien <del>b</del> pris coupe le dessus de
 labre<lb/>
 
@@ -53,13 +49,14 @@ escusson sont plus tardifs a porter fruict quen fente</ab>
 
 </div>
 
-<div id="p105v_4" categories="animal husbandry">
-        
 
+
+<div id="p105v_4" categories="animal husbandry">
         
 <head margin="left-top"><al>Rossignol</al></head>
         
-<ab margin="left-top">Il fault que le fil<lb/>
+<ab margin="left-top"><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/>
+Il fault que le fil<lb/>
             
 de <m>fer</m> de sa cage<lb/>
             
@@ -71,8 +68,9 @@ il ne se blesse Couvre<lb/>
             
 au coma<exp>n</exp>cem quil est<lb/>
             
-pris sa cage de <tl>toile</tl><lb/>
+pris sa cage de <tl>toile</tl></ab>
             
+<ab margin="left-bottom" render="wide">
 Il le fault paistre le premier <ms><tmp>jour</tmp></ms> par
 co<exp>n</exp>traincte l<del>uy</del>e<comment rid="p120r_3"/> <del>donnant</del> prenant hors
 de la cage dans la<lb/>
@@ -99,6 +97,10 @@ grissoit<lb/>
 il mourroit<hr/></ab>
         
 </div>
+    
+    
+<div></div>
+    
     
 <div id="p105v_1" categories="cultivation">
 
