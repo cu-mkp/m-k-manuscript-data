@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><root page="105v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f216.image">
+<?xml version="1.0" encoding="UTF-8"?><root page="105v" layout="four-column" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f216.image">
 
 
 
 
 <div continues="yes" id="p105r_4" categories="cultivation">
 
-
-
-
-
-<ab>Next, when it is well <del><fr>b</fr></del> taken, cut the top
+<ab render="wide">Next, when it is well <del><fr>b</fr></del> taken, cut the top
 of the tree that exceeds your tree, <del><fr>ne</fr></del> three or 4
 <ms><bp>fingers</bp></ms> above the shield for the first time, and
 <del><fr>apr</fr></del> then, at the closest point, in order that it
@@ -45,14 +41,28 @@ hurt. Cover, from the moment that it is taken, its cage with
 One needs to feed it the first
 <ms><tmp>day</tmp></ms>, <del>giving</del> <del><fr>uy</fr></del><comment rid="p120r_3"/> taking it out from its
 cage into the <bp>hand</bp> &amp; opening its beak, &amp; with a
-<tl>small <m>wooden</m> pin</tl>, put it in its throat &amp; make it
-swallow. And continue thus until it is no longer opinionated. This is
-done for sustaining it, for if it were to become thin, it would die.<hr/></ab>
+<tl>small <m>wooden</m> pin</tl>, put it in its throat &amp; make it</ab>
         
 </div>
 
 <div></div>
+<div></div>
+  
+<div id="p105v_4" part="y">
+
+<ab margin="right-top" render="tall">
+swallow. And continue thus until<lb/>
+it is no longer opinionated. This is done<lb/>
+for sustaining<lb/>
+it,<lb/>
+for<lb/>
+if it<lb/>
+were to<lb/>
+become thin,<lb/>
+it would die.<hr/></ab>
     
+    
+</div>
     
 <div id="p105v_1" categories="cultivation">
 
@@ -89,7 +99,7 @@ make it accustomed to pecking <del>then it</del>, and give it
 
 <head><pro>Fountain maker</pro></head>
 
-<ab>As you will see below in the discussion of the
+<ab render="wide">As you will see below in the discussion of the
 <pro>molder</pro>, <m>reheated plaster</m> promptly mixed into
 <m>water</m> &amp; put on the joints of the conduits of fountains
 <del><fr>s</fr></del> resists as much as any <m>stucco</m>.</ab>
@@ -105,7 +115,7 @@ make it accustomed to pecking <del>then it</del>, and give it
 <add>See the 15th folio after
 this<comment rid="c_105v_04"/></add></head>
 
-<ab>For trapping them, one needs to observe their nature, the food that
+<ab render="wide">For trapping them, one needs to observe their nature, the food that
 they like the best, &amp; the <tmp>season of their pleasure</tmp>. The
 <al>nightingale</al>, as long as it sings, maintains a territory for
 itself alone. Therefore approach, making as if searching the ground for

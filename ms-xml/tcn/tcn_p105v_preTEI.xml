@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><root page="105v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f216.image">
+<?xml version="1.0" encoding="UTF-8"?><root page="105v" layout="four-column" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f216.image">
 
 
 
 
 <div continues="yes" id="p105r_4" categories="cultivation">
 
-
-
-
-
-<ab>Aprés, quand il sera bien <del>b</del> pris, coupe le dessus de
+<ab render="wide">Aprés, quand il sera bien <del>b</del> pris, coupe le dessus de
 l’abre<lb/>
 
 qui excede ton abre, <del>ne</del> trois ou 4 <ms><bp>doigts</bp></ms>
@@ -82,8 +78,17 @@ de la cage dans la<lb/>
             
 <bp>main</bp>, &amp; luy ouvrir le bec, &amp; avecq une <tl>petite
 poincte de <m>bois</m></tl>, luy mectre dans la gorge &amp; luy
-faire<lb/>
+faire</ab>
             
+</div>
+    
+<div></div>
+<div></div>
+    
+
+<div id="p105v_4" part="y">
+        
+<ab margin="right-top" render="tall">
 avaller. Et co<exp>n</exp>tinuer ainsy jusques à ce<lb/>
             
 qu’il ne soit plus opiniastre. Cela se faict<lb/>
@@ -104,7 +109,6 @@ il mourroit.<hr/></ab>
         
 </div>
     
-<div></div>
     
 <div id="p105v_1" categories="cultivation">
 
@@ -168,7 +172,7 @@ et luy donner d’un<lb/>
 
 <head><pro>Fontanier</pro></head>
 
-<ab>Le <m>plastre recuit</m>, comme tu verras cy aprés au discours<lb/>
+<ab render="wide">Le <m>plastre recuit</m>, comme tu verras cy aprés au discours<lb/>
 
 du <pro>mouleur</pro>, destrempé promptem<exp>ent</exp> en <m>eau</m>
 &amp; mis aulx joinctures<lb/>
@@ -187,7 +191,7 @@ soit.</ab>
 
 cy aprés<comment rid="c_105v_04"/></add></head>
 
-<ab>Pour les attraper, il fault observer leur naturel, la viande<lb/>
+<ab render="wide">Pour les attraper, il fault observer leur naturel, la viande<lb/>
 
 qu’ilz aiment le plus &amp; le <tmp>temps de leur volupté</tmp>. Le
 <al>rossignol</al>,<lb/>
