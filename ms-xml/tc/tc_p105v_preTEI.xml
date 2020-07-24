@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><root page="105v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f216.image">
+<?xml version="1.0" encoding="UTF-8"?><root page="105v" layout="four-column" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f216.image">
 
 
 
 
 <div continues="yes" id="p105r_4" categories="cultivation">
 
-<ab>Apres quand il sera bien <del>b</del> pris coupe le dessus de
+<ab render="wide">Apres quand il sera bien <del>b</del> pris coupe le dessus de
 labre<lb/>
 
 qui excede ton abre <del>Ne</del> trois ou 4 <ms><bp>doigts</bp></ms> au
@@ -76,32 +76,41 @@ co<exp>n</exp>traincte l<del>uy</del>e<comment rid="p120r_3"/> <del>donnant</del
 de la cage dans la<lb/>
             
 <bp>main</bp> &amp; luy ouvrir le bec &amp; avecq une <tl>petite poincte
-de <m>bois</m></tl> luy mectre dans la gorge &amp; luy faire<lb/>
+de <m>bois</m></tl> luy mectre dans la gorge &amp; luy faire</ab>
             
-avaller Et co<exp>n</exp>tinuer ainsy jusques a ce<lb/>
-            
-quil ne soit plus opiniastre Cela se faict<lb/>
-            
-pour lentre<lb/>
-            
-tenir<lb/>
-            
-Car<lb/>
-            
-sil<lb/>
-            
-samai<lb/>
-            
-grissoit<lb/>
-            
-il mourroit<hr/></ab>
-        
 </div>
     
     
 <div></div>
+<div></div>    
+
+
+<div id="p105v_4" part="y">
     
+<ab margin="right-top" render="tall">
     
+avaller Et co<exp>n</exp>tinuer ainsy jusques a ce<lb/>
+    
+quil ne soit plus opiniastre Cela se faict<lb/>
+    
+pour lentre<lb/>
+    
+tenir<lb/>
+    
+Car<lb/>
+    
+sil<lb/>
+    
+samai<lb/>
+    
+grissoit<lb/>
+    
+il mourroit<hr/></ab>
+                
+</div>
+
+
+
 <div id="p105v_1" categories="cultivation">
 
 
@@ -164,7 +173,7 @@ Et luy donner dun<lb/>
 
 <head><pro>Fontanier</pro></head>
 
-<ab>Le <m>plastre recuit</m> comme tu verras cy apres au discours<lb/>
+<ab render="wide">Le <m>plastre recuit</m> comme tu verras cy apres au discours<lb/>
 
 du <pro>mouleur</pro> destrempe promptem<exp>ent</exp> en <m>eau</m>
 &amp; mis aulx joinctures<lb/>
@@ -183,7 +192,7 @@ soit</ab>
 
 cy apres<comment rid="c_105v_04"/></add></head>
 
-<ab>Pour les attraper il fault observer leur naturel la viande<lb/>
+<ab render="wide">Pour les attraper il fault observer leur naturel la viande<lb/>
 
 quilz aiment le plus &amp; le <tmp>temps de leur volupte</tmp> Le
 <al>rossignol</al><lb/>
