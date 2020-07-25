@@ -3,11 +3,17 @@
 
 
 
-<div id="p141r_1" categories="casting" continued="yes">
+<div id="p141r_1" categories="casting">
 
 <head>Mouler une <al>escrevisse</al></head>
 
-<ab margin="right-middle" render="wide">
+</div>
+    
+<div></div>
+ 
+ 
+<div id="p141r_1" part="y" continued="yes">
+<ab margin="right-top">
 
 Sil y manque quelque petite chose tu la<lb/>
 
@@ -22,12 +28,9 @@ ce<ups>la</ups><lb/>
 se<lb/>
 
 p<ups>ainct</ups><comment rid="c_141r_01"/></ab>
-    
-</div>
 
-<div id="p141r_1" part="y" continued="yes">
 
-<ab>L<al>escrevisse</al> est des plus fantasques a mouler Mays
+<ab render="wide">L<al>escrevisse</al> est des plus fantasques a mouler Mays
 aussy<lb/>
 
 donne exemple de mouler beaucoup daultres fort difficilles<lb/>
@@ -252,5 +255,5 @@ et du <m>blanc</m>
 
 
 
-</div>
+
 </root>

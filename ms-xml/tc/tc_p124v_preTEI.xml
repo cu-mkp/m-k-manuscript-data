@@ -183,7 +183,7 @@ dessus</add> <mark>🝋</mark><comment rid="c_124v_04"/>
 
 
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="tall">
 
 <hr/><add>Quand la queue qui est subtille et<lb/>
 
@@ -191,7 +191,7 @@ plus pres du gect vient bien le reste<lb/>
 
 vient bien</add></ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="tall">
 
 Le principal est<lb/>
 
@@ -201,7 +201,7 @@ viennent bien moulees<lb/>
 
 du <al>serpent</al></ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="tall">
 
 Ton gect doibt<lb/>
 
@@ -211,9 +211,10 @@ lentree de lanimal<lb/>
 
 &amp; de l<ms>espesseur dun <tl>costeau</tl></ms></ab>
 
-<figure id="fig_p124v_1" size="small" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aGQ0OTFCTklrQ0k">
+<ab margin="left-middle"  render="tall">
+<figure id="fig_p124v_1" size="small" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aGQ0OTFCTklrQ0k">
 </figure>
-
+</ab>
 
 
 </div>
