@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><root page="115r" layout="four-column" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f235.image">
 
 
-    <div id="p115r_1" categories="casting">
+<div continues="yes" id="p115r_1" categories="casting">
         
-        <head><del>Making the cast, reheating the <tl>molds</tl>, &amp;c</del><lb/>
-            Note about everything<lb/>
-            above <figure size="x-small" id="fig_p115r_5" link="https://drive.google.com/file/d/1ObYzhoh2aRo0KXj3zbaJ08g2z-oNd5CR"></figure></head>
-    </div>
+<head><del>Making the cast, reheating the <tl>molds</tl>, &amp;c</del><lb/>
 
+Note about everything<lb/>
 
-
-<div continues="yes" id="p114r_1" categories="casting">
-
-<ab margin="left-middle" render="tall" continues="yes">
+above <figure size="x-small" id="fig_p115r_5" link="https://drive.google.com/file/d/1ObYzhoh2aRo0KXj3zbaJ08g2z-oNd5CR"></figure></head>
+   
+   
+<ab margin="left-middle" continues="yes">
         
 <figure size="x-small" id="fig_p115r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NmVuVUloTy0zNWc">
 </figure><comment rid="c_115r_01"/><lb/> 
     
 if you want, which will be enough,<lb/>
 or else on the two halves.<lb/>
-But because one needs<lb/>
+But because one needs
+</ab>
+</div>
+    
+<div id="p114r_1" part="y">
+<ab margin="left-middle" render="wide">
 to cast by the tail or from the back of the animal,<lb/>
 make it so that the vents come from<lb/>
 the head &amp; the middle of the body to join<lb/>
