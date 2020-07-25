@@ -7,14 +7,21 @@
 
 <head>Mouler une <al>escrevisse</al></head>
 
-<ab margin="right-middle">
+</div>
+    
+<div></div>
+    
+
+<div id="p141r_1" part="y">
+<ab margin="right-top">
 
 S’il y manque quelque petite chose, tu la<lb/>
 
 peulx rejoindre ou bien remplir avecq du <m>ciment<lb/>
 
-d’<pro>orfevre</pro></m><lb/>
-
+d’<pro>orfevre</pro></m></ab>
+    
+<ab margin="right-middle">
 pource que<lb/>
 
 cela<lb/>
@@ -23,11 +30,8 @@ se<lb/>
 
 painct.<comment rid="c_141r_01"/></ab>
 
-</div>
 
-<div id="p141r_1" part="y" continued="yes">
-
-<ab render="wide">L’<al>escrevisse</al> est des plus fantasques à mouler, mays
+<ab>L’<al>escrevisse</al> est des plus fantasques à mouler, mays
 aussy<lb/>
 
 donne exemple de mouler beaucoup d’aultres fort difficilles.<lb/>
@@ -38,8 +42,12 @@ et par quattres <del>jambes</del> petites jambettes blanches au bout
 qu’ont<lb/>
 
 les masles <del>ap</del> au dedans de la queue, aprés les huict
-jambes<lb/>
+jambes</ab>
+</div>    
+    
+<div id="p141r_1" part="y" continued="yes">
 
+<ab render="wide">
 principalles. Il n’est que bon de les faire un peu seicher pource
 q<exp>ue</exp><lb/>
 
@@ -235,6 +243,6 @@ jaulne</m><lb/>
 et du <m>blanc</m>.</ab>
 
 
-
 </div>
+
 </root>
