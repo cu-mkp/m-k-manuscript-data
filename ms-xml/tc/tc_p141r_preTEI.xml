@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><root page="141r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image">
+<?xml version="1.0" encoding="UTF-8"?><root page="141r" layout="four-column" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image">
 
 
 
 
 <div id="p141r_1" categories="casting" continued="yes">
 
-
-
 <head>Mouler une <al>escrevisse</al></head>
 
-<ab margin="top" render="wide">
+<ab margin="right-middle" render="wide">
 
 Sil y manque quelque petite chose tu la<lb/>
 
@@ -24,6 +22,10 @@ ce<ups>la</ups><lb/>
 se<lb/>
 
 p<ups>ainct</ups><comment rid="c_141r_01"/></ab>
+    
+</div>
+
+<div id="p141r_1" part="y" continued="yes">
 
 <ab>L<al>escrevisse</al> est des plus fantasques a mouler Mays
 aussy<lb/>
