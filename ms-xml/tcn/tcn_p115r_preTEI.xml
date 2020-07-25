@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><root page="115r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f235.image">
+<?xml version="1.0" encoding="UTF-8"?><root page="115r" layout="four-column" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f235.image">
 
 
 
@@ -48,7 +48,7 @@ bout de la<lb/>
  
  <div id="p115r_1" part="y">
   
-  <ab>Si ton <al>serpent</al> a esté <tmp>long temps</tmp> sans manger, il advient
+  <ab render="wide">Si ton <al>serpent</al> a esté <tmp>long temps</tmp> sans manger, il advient
    que, quand<lb/>
    
    tu le veulx faire mourir dans l’<m><bp>urine</bp></m> &amp; <m>vinaigre</m>, il
@@ -79,7 +79,7 @@ bout de la<lb/>
    
    avecq le premier endurcy.</ab>
   
-  <ab>Note qu’il fault plus d’<m>alum de plume</m> aux <tl>moules</tl> qui
+  <ab render="wide">Note qu’il fault plus d’<m>alum de plume</m> aux <tl>moules</tl> qui
    se doibvent<lb/>
    
    recuire, co<exp>mm</exp>e ceulx pour l’<m>or</m> &amp; l’<m>argent</m>,
@@ -180,7 +180,7 @@ en recuisant.</ab>
 
 <head>Animal hors de despouille</head>
 
-<ab>Si par cas fortuict tu as donné un tel entortillem<exp>ent</exp> à
+<ab render="wide">Si par cas fortuict tu as donné un tel entortillem<exp>ent</exp> à
 ton <al>serpent</al><lb/>
 
 que l’endroit du ventre n’en puisse aysem<exp>ent</exp> sortir,
@@ -214,7 +214,7 @@ ferme que pour cela l’empraincte ne se gastera poinct.</ab>
 
 <head>Recuite de <tl>moules</tl></head>
 
-<ab>Aprés que tes <tl>moules</tl> sont recuits <del>le p</del> &amp;
+<ab render="wide">Aprés que tes <tl>moules</tl> sont recuits <del>le p</del> &amp;
 nettoyés, le plus tost gecter<lb/>
 
 est le meilleur, pource que si tu les gardes ilz se corrompent et
@@ -229,7 +229,7 @@ la partye<lb/>
 d’en hault pour<lb/>
 la cognoistre.</ab>
 
-<ab>Il n’est que bon de laisser un peu amortir le<lb/>
+<ab render="wide">Il n’est que bon de laisser un peu amortir le<lb/>
 
 <tl>molle</tl> par dehors, <del>pourveu</del> esta<exp>n</exp>t bien
 recuit, pourveu<lb/>
