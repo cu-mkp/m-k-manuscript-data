@@ -17,6 +17,8 @@ https://edition640.makingandknowing.org/
 
 - bibliogrpahy - bibliographic references in BibTex
  
+- manuscript- object: https://github.com/cu-mkp/manuscript-object/tree/a8c8a712b555c9bbc0f0d3696e099a5da087e1e7
+
 - metadata - data and additional information about the manuscript text and other materials of the DCE
 
 - ms-md - each folio as an individual file (by version) in markdown
