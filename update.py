@@ -46,6 +46,7 @@ def update_metadata(manuscript: BnF) -> None:
   df['heading_tc'] = df.entry.apply(lambda x: x.title['tc'])
   df['heading_tcn'] = df.entry.apply(lambda x: x.title['tcn'])
   df['heading_tl'] = df.entry.apply(lambda x: x.title['tl'])
+  
   for prop, tag in prop_dict.items():
     for version in versions:
       df[f'{tag}_{version}'] = df.entry.apply(lambda x: '; '.join(x.get_prop(prop=prop, version=version)))
@@ -172,20 +173,21 @@ def update_time():
 
 def update():
 
-  manuscript = BnF(apply_corrections=True)
+  manuscript = BnF(apply_corrections=False)
 
   print('Updating metadata')
   update_metadata(manuscript)
 
-  print('Updating entries')
-  update_entries(manuscript)
+  #print('Updating entries')
+  #update_entries(manuscript)
 
-  print('Updating ms-txt')
-  update_ms(manuscript)
+  #print('Updating ms-txt')
+  #update_ms(manuscript)
 
-  print('Updating allFolios')
-  update_all_folios(manuscript)
+  #print('Updating allFolios')
+  #update_all_folios(manuscript)
 
-  update_time()
+  #update_time()
 
-update()
+if __name__ == "__main__":
+  update()
