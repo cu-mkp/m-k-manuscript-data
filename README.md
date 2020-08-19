@@ -42,11 +42,17 @@ https://edition640.makingandknowing.org/
 The following files and directories are watched for updates by the MK asset_server:
 
 - metadata/annotation-metadata.csv
+> --> https://edition640.makingandknowing.org/#/essays
 - metadata/authors.csv
+> --> https://edition640.makingandknowing.org/#/essays
 - metadata/DCE_comment-tracking-Tracking.csv
-- metadata/entry_metadata.tsv
+> --> https://edition640.makingandknowing.org/#/folios
+- metadata/entry_metadata.csv
+> --> https://edition640.makingandknowing.org/#/entries
 - glossary/DCE-glossary-table.csv
+> --> https://edition640.makingandknowing.org/#/folios/1r/f/1r/glossary
 - ms-xml/*
+> --> https://edition640.makingandknowing.org/#/folios
 
 Modification of these files on the master branch results in changes on the staging server.
 
