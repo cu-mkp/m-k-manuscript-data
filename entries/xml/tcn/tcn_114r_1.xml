@@ -68,7 +68,7 @@ inferieure de ton animal descouverte soict bien nette.
 faict,<lb/>
 
 trempe <del>le rev</del> <del>ton <tl>moule</tl></del> l’<ms><tmp>espace
-d’un <la>pater n<exp>oste</exp>r</la></tmp></ms><comment rid="c_114r_05"/> ton <tl>moule</tl> dans
+d’un pater n<exp>oste</exp>r</tmp></ms><comment rid="c_114r_05"/> ton <tl>moule</tl> dans
 l’<m>eau</m>,<lb/>
 
 non pas <del>du</del> <add>le</add> costé descouvert mays l’opposite
@@ -116,7 +116,7 @@ faire des <tl>poinctes delicates de <del>fil</del> <lb/><corr><del>de</del></cor
 
 <ab margin="left-middle">
 
-    <comment rid="c_114r_04"/><figure size="x-small" id="fig_p114r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NVR5Y2FtZHM0ck0">
+<comment rid="c_114r_04"/><figure size="x-small" id="fig_p114r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NVR5Y2FtZHM0ck0">
         
 </figure><lb/>
 
@@ -130,10 +130,10 @@ tes <tl>poinctes</tl>.</ab>
 
 <ab margin="left-middle">
 
-    <figure size="x-small" id="fig_p114r_4" link="https://drive.google.com/open?id=17F847nLWSWShsQsXGUlruIM-6qZBHWkw">
+<figure size="x-small" id="fig_p114r_4" link="https://drive.google.com/open?id=17F847nLWSWShsQsXGUlruIM-6qZBHWkw">
 </figure> Et<lb/>
 
-puys <mark>+</mark><del> tantost avecq</del>
+puys <mark>+</mark> <del>tantost avecq</del>
 
 </ab>
 
@@ -231,10 +231,6 @@ moictié s’y lie. 🝋<lb/>
 
 <div continues="yes" id="p114r_1" categories="casting" continued="yes">
 
-
-    <figure size="small" id="fig_p114v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dmlRQm1lTjc4aXc">
-</figure>
-
 <ab>Cela ainsy præparé, pose ton <del>de</del> premier demy
 <tl>molle</tl> sur la<lb/>
 
@@ -285,6 +281,7 @@ droit<lb/>
 les joinctures, dans l’<m>eau</m>, car cecy est un aultre secret<lb/>
 
 pour les desjoindre, aultrement tu romprois tout.<lb/>
+    
 Separes les doncq par ce moyen dextrement, et aprés<lb/>
 
 retire doulcement &amp; avec patience et moyen la moictié<lb/>
@@ -324,11 +321,12 @@ un <ms><tmp>jour</tmp></ms> <sn>puants</sn>. Ayant laissé tes
 essorer,<lb/>
 
 car il se garderont humides bien un <ms><tmp>moys</tmp></ms>, fais les
-    souspirails à une moictié. <figure size="x-small" id="fig_p114v_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dkk3MW10YzNIbDg">
+souspirails à une moictié <figure size="x-small" id="fig_p114v_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dkk3MW10YzNIbDg">
 </figure><comment rid="c_114v_01"/></ab>
 
 <ab margin="left-middle">
-
+<figure size="small" id="fig_p114v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dmlRQm1lTjc4aXc">
+</figure><lb/>
 <mark>+</mark><lb/> Note que quand tu as<lb/>
 
 faict ton second <add>gect</add>, si tu<lb/>
@@ -430,7 +428,7 @@ revers, fortifie les joinctures avecq des <tl>crampons</tl>.
 
 </ab>
 
-<ab margin="bottom">
+<ab margin="bottom" render="wide">
 
 Aprés tu peulx reparer les faultes<lb/>
 
@@ -440,18 +438,8 @@ avecq de petits <tl>ciseaulx</tl>.
 
 </div>
 
-<div continues="yes" id="p114r_1" categories="casting">
-
-<ab margin="left-middle" render="tall">
-        
- <figure size="x-small" id="fig_p115r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5NmVuVUloTy0zNWc">
-</figure><comment rid="c_115r_01"/><lb/>
-        
-si tu veulx, qui sera assés,<lb/>
-
-ou bien au deux moictiés.<lb/>
-Mays pource qu’il fault<lb/>
-
+<div id="p114r_1" part="y">
+<ab margin="left-middle" render="wide">
 gecter par la queue ou derriere de l’animal,<lb/>
 
 fais que les soupirails viennent despuys<lb/>
@@ -466,9 +454,13 @@ gect, qui est le<lb/>
 
 bout de la<lb/>
 
-<mu>mandorre</mu>.<lb/>
+<mu>mandorre</mu>.</ab>
+ 
+</div>
 
-<del>N</del>Et ayant faict<lb/>
+<div id="p114r_1" part="y">
+
+<ab margin="left-top" render="tall"><del>N</del>Et<comment rid="c_115r_03"/> ayant faict<lb/>
 
 ton gect, n’oublye<lb/>
 
@@ -506,7 +498,7 @@ Cela faict,<lb/>
 
 <del>mects</del> joincts<lb/>
 
-<del>t</del>les deux moictiés<lb/>
+<del>t</del>les<comment rid="c_115r_04"/> deux moictiés<lb/>
 
 de ton <tl>moule</tl> &amp;<lb/>
 
@@ -521,10 +513,10 @@ petits <tl>crampo<exp>n</exp>s</tl><lb/>
 
 de <m>fil de fer</m><lb/>
 
-de ceste forme.<lb/>
+de ceste forme<lb/>
 
-<figure id="fig_p115r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aVlsV1BuajVVejQ">
-</figure>
+<figure size="x-small" id="fig_p115r_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aVlsV1BuajVVejQ">
+</figure>.
 
 Ilz empeschent<lb/>
 
@@ -535,10 +527,10 @@ ne se gaulchissent<lb/>
 
 en recuisant.</ab>
 
-<figure id="fig_p115r_3" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aS1ZeHc2dGxJTE0">
+<figure id="fig_p115r_3" size="small" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aS1ZeHc2dGxJTE0">
 </figure>
 
-<figure id="fig_p115r_4" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Xzg4WTZ2NFNkOHM">
+<figure id="fig_p115r_4" size="small" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Xzg4WTZ2NFNkOHM">
 <caption>C’est la forme des <tl>crampons</tl></caption>
 </figure>
 

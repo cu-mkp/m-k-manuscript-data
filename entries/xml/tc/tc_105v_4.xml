@@ -1,10 +1,9 @@
 <div id="p105v_4" categories="animal husbandry">
         
-
-        
 <head margin="left-top"><al>Rossignol</al></head>
         
-<ab margin="left-top">Il fault que le fil<lb/>
+<ab margin="left-top" render="tall">
+Il fault que le fil<lb/>
             
 de <m>fer</m> de sa cage<lb/>
             
@@ -16,31 +15,38 @@ il ne se blesse Couvre<lb/>
             
 au coma<exp>n</exp>cem quil est<lb/>
             
-pris sa cage de <tl>toile</tl><lb/>
+pris sa cage de <tl>toile</tl></ab>
             
+<ab margin="bottom" render="full">
 Il le fault paistre le premier <ms><tmp>jour</tmp></ms> par
-co<exp>n</exp>traincte l<del>uy</del>e <del>donnant</del> prenant hors
+co<exp>n</exp>traincte l<del>uy</del>e<comment rid="p120r_3"/> <del>donnant</del> prenant hors
 de la cage dans la<lb/>
             
 <bp>main</bp> &amp; luy ouvrir le bec &amp; avecq une <tl>petite poincte
-de <m>bois</m></tl> luy mectre dans la gorge &amp; luy faire<lb/>
+de <m>bois</m></tl> luy mectre dans la gorge &amp; luy faire</ab>
             
-avaller Et co<exp>n</exp>tinuer ainsy jusques a ce<lb/>
-            
-quil ne soit plus opiniastre Cela se faict<lb/>
-            
-pour lentre<lb/>
-            
-tenir<lb/>
-            
-Car<lb/>
-            
-sil<lb/>
-            
-samai<lb/>
-            
-grissoit<lb/>
-            
-il mourroit<hr/></ab>
-        
 </div>
+
+<div id="p105v_4" part="y">
+        
+        <ab margin="right-top" render="tall">
+            
+            avaller Et co<exp>n</exp>tinuer ainsy jusques a ce<lb/>
+            
+            quil ne soit plus opiniastre Cela se faict<lb/>
+            
+            pour lentre<lb/>
+            
+            tenir<lb/>
+            
+            Car<lb/>
+            
+            sil<lb/>
+            
+            samai<lb/>
+            
+            grissoit<lb/>
+            
+            il mourroit<hr/></ab>
+        
+    </div>

@@ -1,6 +1,9 @@
 <div id="p023r_1" categories="arms and armor" continued="yes">
 
 <head><sup>Mortiers</sup></head>
+
+<ab><comment rid="c_054v_01"/></ab>
+    
 <ab><wp>Mortier</wp><comment rid="c_008r_04"/> tel se faict qui poise trois <ms>quintals</ms> porte
 balle<lb/>
 
@@ -51,7 +54,7 @@ ou quattre <tl>chevilles de <m>fer</m></tl> dun <ms>pan</ms> de long
 <add>&amp; grosses co<exp>mm</exp>e le <ms><bp>doigt</bp></ms></add> qui
 ayent la<lb/>
 
-poincte comme un <del><tl>vibrequin</tl></del> <add><tl>guinbelet</tl>
+poincte comme un <del><tl>vibrequin</tl></del><comment rid="c_168r_01"/> <add><tl>guinbelet</tl>
 &amp; toute la jambe en <tl>vis</tl> come un <tl>tire fons</tl></add> &amp; un
 aneau par laultre bout<lb/>
 
@@ -128,12 +131,7 @@ charge scavoir x <ms>lb</ms><lb/>
 
 charrette</m></ab>
 
-<figure id="fig_p023r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5RzRNM284T3Q0eTQ">
-
-
-
-
-
+<figure id="fig_p023r_1" size="small" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5RzRNM284T3Q0eTQ">
 </figure>
 
 <ab margin="left-middle">
@@ -186,11 +184,6 @@ mettent que la balle</ab>
 
 <div continues="yes" id="p023r_1" categories="arms and armor">
 
-
-
-<ab margin="left-middle" render="tall"><figure id="fig_p023v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Tm4ySC1wcUx6Yzg">
-</figure></ab>
-
 <ab><m>pouldre</m> Estant pleine la saulssisse trempe la <del>bien
 dans</del><lb/>
 
@@ -214,7 +207,11 @@ par les deulx bouts &amp; la couldre a la saulcice en<lb/>
 
 quelques endroicts sur le milieu Apres il fault oindre<lb/>
 
-toute la saulcice avecq de la <m>tourmentine bien bonne</m><lb/>
+toute la saulcice avecq de la <m>tourmentine bien bonne</m>
+</ab></div>
+
+<div id="p023r_1" part="y">
+<ab>
 
 Et au bout dicelle que tu vouldras joindre a la lumiere<lb/>
 
@@ -253,5 +250,8 @@ avecq des <tl>forchettes</tl> la saulcice Puys celuy qui<lb/>
 tient le bout de la saulcice pourra donner foeu sestant<lb/>
 
 mis en seurette &amp; les aultres aussy</ab>
+
+<ab margin="left-middle" render="tall"><figure id="fig_p023v_1" size="small" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Tm4ySC1wcUx6Yzg">
+</figure></ab>
 
 </div>

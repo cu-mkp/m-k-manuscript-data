@@ -1,6 +1,6 @@
 <div id="p120r_3" categories="casting;animal husbandry" continued="yes">
 
-<head><del><fr>Il</fr></del><al>Nightingale</al><comment rid="c_120r_03"/></head>
+<head><del><fr>Il</fr></del><al>Nightingale</al> <mark>-</mark><comment rid="c_120r_03"/></head>
 
 <ab>One needs for the <tl>cage</tl>, made like those for <al>larks</al>
 like a <env>barn</env> &amp; lined with <tl><m>green fabric</m></tl>, to be
@@ -12,7 +12,7 @@ will lay their eggs there, in order to always have some at hand when you
 want them, should you take pleasure in feeding <al>nightingales</al>.
 When you have taken it, it is fat &amp; full, &amp; thus, to keep it in
 its strength, one needs to, for the <tmp>first day</tmp>,
-take <del><fr>uy</fr></del>it<comment rid="c_120r_02"/> in the
+take <del><fr>uy</fr></del><comment rid="c_120r_02"/> it in the
 <tl><bp>hand</bp></tl> &amp; open its beak &amp; put in its beak with a
 <tl>small pointed stick</tl> some <m><al>mutton</al> heart</m> or other
 <m>delicate flesh</m>, chopped up not too finely, in order to fill its
@@ -32,7 +32,7 @@ do so until it</ab>
 
 <div continues="yes" id="p120r_3" categories="casting;animal husbandry">
 
-<ab>eats by itself. And to entice it better, you could add amongst the
+<ab render="wide">eats by itself. And to entice it better, you could add amongst the
 <m>meat &amp; the egg</m> some <m>live <al>mealworms</al></m>, for it is
 very fond of them.</ab>
 

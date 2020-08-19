@@ -1,6 +1,6 @@
 <div id="p120r_3" categories="casting;animal husbandry" continued="yes">
 
-<head><del>Il</del><al>Rossignol</al><comment rid="c_120r_03"/></head>
+<head><del>Il</del><al>Rossignol</al> <mark>-</mark><comment rid="c_120r_03"/></head>
 
 <ab>Il fault que sa <tl>cage</tl> faicte co<exp>mm</exp>e celle des
 <al>alouetes</al> en <env>grange</env><lb/>
@@ -64,7 +64,7 @@ a ce qu<ups>il</ups></ab>
 
 <div continues="yes" id="p120r_3" categories="casting;animal husbandry">
 
-<ab>mange de luy mesme Et pour luy convier
+<ab render="wide">mange de luy mesme Et pour luy convier
 mieulx tu peulx bien<lb/>
 
 mectre parmy la <m>chair &amp; loeuf</m> quelque <m><al>ver de

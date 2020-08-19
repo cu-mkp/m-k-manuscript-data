@@ -2,7 +2,7 @@
 
 <head><m>Sables experimentes</m></head>
 
-<ab>Jay experimente le <m>sable de
+<ab><mark>X</mark><comment rid="c_084v_02"/> Jay experimente le <m>sable de
 <pl>Th<exp>ou</exp>l<exp>ous</exp>e</pl></m> &amp; apres lavoyr bien
 recuit<lb/>
 
@@ -17,7 +17,7 @@ faict aultresfoys<lb/>
 Je lay humecte de <m>vin boully avecq racine d<pa>orme</pa></m> Et en
 ay<lb/>
 
-moule une grande piece dun portraict de <pn>Jesus</pn> Je lay
+moule une grande piece dun portraict de <pn>Jesus</pn><comment rid="c_085v_01"/> Je lay
 trouve<lb/>
 
 de fort bonne despouille sans que jeusse trop frappe dessus<lb/>
@@ -29,7 +29,6 @@ cave<lb/>
 gecte treschault</ab>
 
 <ab margin="left-middle">
-<mark>X</mark><comment rid="c_084v_02"/><lb/>
 
 Le <m>sable de <env>mine</env></m><lb/>
 
@@ -64,7 +63,7 @@ pour soubstenir</ab>
 
 </div>
 
-<div continues="yes" id="p085v_4" categories="casting" continued="yes">
+<div continues="yes" id="p085v_4" categories="casting">
 
 
 
@@ -91,7 +90,9 @@ Mays cestoit a cause du <m>potin</m> Jay faict un aultre gect<lb/>
 de <m>matiere de poelonne</m> seule dans mesme <m>sable</m> Mays non<lb/>
 
 pas si recuit Il nest pas bien venu</ab>
+</div>
 
+<div id="p085v_4" part="y" continued="yes">
 <ab>Despuys jay moule d<m>os de pied de <al>boeuf</al> brusle
 pulverise</m><lb/>
 

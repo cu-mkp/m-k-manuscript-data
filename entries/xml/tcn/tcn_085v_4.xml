@@ -2,7 +2,7 @@
 
 <head><m>Sables experimentés</m></head>
 
-<ab>J’ay experimenté le <m>sable de
+<ab><mark>X</mark><comment rid="c_084v_02"/> J’ay experimenté le <m>sable de
 <pl>Th<exp>ou</exp>l<exp>ous</exp>e</pl></m>, &amp; aprés l’avoyr bien
 recuit<lb/>
 
@@ -17,7 +17,7 @@ faict aultresfoys.<lb/>
 Je l’ay humecté de <m>vin boully avecq racine d’<pa>orme</pa></m>, et en
 ay<lb/>
 
-moulé une grande piece d’un portraict de <pn>Jésus</pn>. Je l’ay
+moulé une grande piece d’un portraict de <pn>Jésus</pn>.<comment rid="c_085v_01"/> Je l’ay
 trouvé<lb/>
 
 de fort bonne despouille sans que j’eusse trop frappé dessus<lb/>
@@ -29,8 +29,6 @@ de cave,<lb/>
 J’ay gecté tres chault</ab>
 
 <ab margin="left-middle">
-
-<mark>X</mark><comment rid="c_084v_02"/><lb/>
 
 Le <m>sable de <env>mine</env></m><lb/>
 
@@ -65,7 +63,7 @@ pour soubstenir.</ab>
 
 </div>
 
-<div continues="yes" id="p085v_4" categories="casting" continued="yes">
+<div continues="yes" id="p085v_4" categories="casting">
 
 
 
@@ -92,7 +90,9 @@ mays c’estoit à cause du <m>potin</m>. J’ay faict un aultre gect<lb/>
 de <m>matiere de poelonne</m> seule dans mesme <m>sable</m>, mays non<lb/>
 
 pas si recuit, il n’est pas bien venu.</ab>
+</div>
 
+<div id="p085v_4" part="y" continued="yes">
 <ab>Despuys j’ay moulé d’<m>os de pied de <al>boeuf</al> bruslé,
 pulverisé</m><lb/>
 
@@ -170,7 +170,7 @@ Il fault que le <tl>chassis</tl> soit froid &amp; que tu gectes à coup.
 <m><tl>Lutte</tl></m><lb/>
 
 tousjours l’entrée de ton <tl>chassis</tl>, car le <m>metal</m>,
-touchant le <m>fer</m> ou <m>metal</m><comment rid="c_016v_05"/></ab>
+touchant le <m>fer</m> ou <m>metal</m>,<comment rid="c_016v_05"/></ab>
 
 <ab margin="left-middle">
 
@@ -196,7 +196,7 @@ pource qu’il s’esmie.</ab>
 <ab>soufle. Surtout fais que le gect soict tousjours plus hault<lb/>
 
 que la chose moulée, pource que bien souvent le <m>sable</m>, en
-recuisa<exp>n</exp>t<lb/>,
+recuisa<exp>n</exp>t,<lb/>
 
 s’enfle <del>&amp; si le</del> <del>par ce</del> mesmem<exp>ent</exp>
 sur le milieu, &amp; par ainsy la<lb/>

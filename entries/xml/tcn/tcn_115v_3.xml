@@ -57,7 +57,7 @@ un<lb/>
 
 <tl>four de reverberation</tl>.</ab>
 
-<ab margin="left-top">
+<ab margin="left-top" render="wide">
 <hr/>
 Ne retire pas<lb/>
 
@@ -86,8 +86,8 @@ les gects &amp; souspirails<lb/>
 
 <ab margin="left-middle">
 
-<figure id="fig_p115v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dHVja3NnV0dmMlk">
-</figure>
+<figure id="fig_p115v_1" size="small" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dHVja3NnV0dmMlk">
+</figure><lb/>
 Garde de ne donner<lb/>
 
 pas le feu à coup,<lb/>
@@ -112,7 +112,7 @@ noir il n’est pas<lb/>
 
 assés.</ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" continued="yes">
 
 Pour gecter en <m>argent</m>,<lb/>
 
@@ -128,17 +128,17 @@ dans le <tl>moule</tl> qu’il faille<lb/>
 
 n’estre pas de bonne despouille. Tous les <tl>moules</tl> des
 fleurs se recuisent deulx foys, la premiere pour
-    <figure size="x-small" id="fig_p115v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bXhqSkVQbkgwYjQ">            
-</figure></ab>
+<figure size="x-small" id="fig_p115v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5bXhqSkVQbkgwYjQ">            
+</figure><comment rid="c_115v_01"/></ab>
 
 </div>
 
 <div continues="yes" id="p115v_3" categories="casting">
 
-<ab margin="left-bottom">
+<ab margin="left-top" continues="yes">
 
-    <figure size="x-small" id="fig_p116r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SEdPVDdsS2dEUmM">
-</figure>
+<figure size="x-small" id="fig_p116r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SEdPVDdsS2dEUmM">
+</figure><comment rid="c_116r_03"/>
 
 brusler les herbes, fleurs<lb/>
 
@@ -157,7 +157,7 @@ les recuire<lb/>
 &amp; rendre rouges<lb/>
 
 pour gecter.<lb/>
-
+    
 Recuits au<lb/>
 
 commancem<exp>ent</exp> avecq<lb/>

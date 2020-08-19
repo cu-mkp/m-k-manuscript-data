@@ -1,4 +1,4 @@
-# Last Updated | 2020-05-16
+# Last Updated | 2020-08-18
 # Python Modules
 import os
 import sys
@@ -46,7 +46,7 @@ def update_metadata(manuscript: BnF) -> None:
   df['heading_tc'] = df.entry.apply(lambda x: x.title['tc'])
   df['heading_tcn'] = df.entry.apply(lambda x: x.title['tcn'])
   df['heading_tl'] = df.entry.apply(lambda x: x.title['tl'])
-  
+
   for prop, tag in prop_dict.items():
     for version in versions:
       df[f'{tag}_{version}'] = df.entry.apply(lambda x: '; '.join(x.get_prop(prop=prop, version=version)))
@@ -58,7 +58,7 @@ def update_metadata(manuscript: BnF) -> None:
 def update_entries(manuscript: BnF) -> None:
   """
   Update /m-k-manuscript-data/entries/ with the current manuscript from /ms-xml/. For each version, delete all existing
-  entries. Regenerate folio text entry by entry, and save the file. 
+  entries. Regenerate folio text entry by entry, and save the file.
 
   Input:
     manuscript -- Python object of the manuscript defined in digital_manuscript.py
@@ -102,7 +102,7 @@ def update_entries(manuscript: BnF) -> None:
 
 def update_all_folios(manuscript: BnF) -> None:
   """
-  Update /m-k-manuscript-data/allFolios/ with the current manuscript from /ms-xml/. 
+  Update /m-k-manuscript-data/allFolios/ with the current manuscript from /ms-xml/.
 
   Input:
     manuscript -- Python object of the manuscript defined in digital_manuscript.py
@@ -178,16 +178,16 @@ def update():
   print('Updating metadata')
   update_metadata(manuscript)
 
-  #print('Updating entries')
-  #update_entries(manuscript)
+  print('Updating entries')
+  update_entries(manuscript)
 
-  #print('Updating ms-txt')
-  #update_ms(manuscript)
+  print('Updating ms-txt')
+  update_ms(manuscript)
 
-  #print('Updating allFolios')
-  #update_all_folios(manuscript)
+  print('Updating allFolios')
+  update_all_folios(manuscript)
 
-  #update_time()
+  update_time()
 
 if __name__ == "__main__":
   update()

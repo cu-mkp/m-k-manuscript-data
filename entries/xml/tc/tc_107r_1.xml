@@ -32,7 +32,7 @@ bien un <m>linge</m> Les dangereulx se cognoissent aulx yeulx bleus
 &amp;<lb/>
 
 <del>asses</del> aseures<comment rid="c_107r_03"/> <add>azures</add>
-Il<corr>z</corr> ne mordent gueres <env>dans leau</env> ce quexperimentent<lb/>
+Il ne mordent gueres <env>dans leau</env> ce quexperimentent<lb/>
 
 les <pro>preneurs d<al>escrevisses</al></pro></ab>
 
@@ -100,11 +100,9 @@ des <pro>verriers</pro></tl> quattre <ms><tmp>jours</tmp></ms></ab>
 
 </div>
 
-<div continues="yes" id="p107r_1" categories="casting" continued="yes">
+<div continues="yes" id="p107r_1" categories="casting">
 
-
-
-<ab margin="top" render="extra-wide">
+<ab>
 
 Les <tl>moules</tl> ne servent quune foys pourceques choses<lb/>
 
@@ -120,6 +118,9 @@ aysem<exp>ent</exp> Aultrem<exp>ent</exp> tu ne pourroys <del>f</del>
 pas aysem<exp>ent</exp> despouiller<lb/>
 
 ton ouvrage sans danger de le gaster</ab>
+</div>
+
+<div id="p107r_1" part="y" continued="yes">
 
 <ab>Le <m><df>bon alum de plume</df></m> est blanc et a lustre comme
 <add> de</add> <m>soye <del>c</del><lb/>
@@ -304,7 +305,7 @@ sont plus delies</ab>
 <ab>On gecte d<m>argent commun</m> de quoy les <pro>orfevres</pro>
 vulgairem<exp>ent</exp><lb/>
 
-travaillent qui est allie <del>Et que</del> mediocrem<exp>ent</exp> Et
+travaillent qui est allie <del>Et qua</del> mediocrem<exp>ent</exp> Et
 quand<lb/>
 
 on gecteroit de <m>souldure</m> il courroit encores mieulx</ab>

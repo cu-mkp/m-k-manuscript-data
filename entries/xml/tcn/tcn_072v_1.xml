@@ -3,7 +3,7 @@
 
 <head>Gect</head>
 
-<ab>Le <m>plomb</m>, qui est co<exp>mm</exp>e amorty &amp; pesant, veult
+<ab render="wide">Le <m>plomb</m>, qui est co<exp>mm</exp>e amorty &amp; pesant, veult
 estre gecté chault<lb/>
 
 bien plus que l’<m>estaim</m>. Et quand il n’est pas assés chault, il
@@ -63,14 +63,14 @@ subtil affin<lb/>
 
 d’en mectre premierem<exp>ent</exp> sur la piece à mouler.</ab>
 
-<ab>On faict une <m>souldure</m> avecq de l’<m>argent vif</m>,
+<ab render="wide">On faict une <m>souldure</m> avecq de l’<m>argent vif</m>,
 <del>Mays</del> qui<lb/>
 
 est blanche, mays elle est brusque. Fais que ton <tl>chassis</tl><lb/>
 
 joigne bien &amp; qu’on ne voye point le jour entre les joints.</ab>
 
-<ab>Les <pl>Allemands</pl> jectent fort tenvre leurs <m>plombs</m>
+<ab render="wide">Les <pl>Allemands</pl> jectent fort tenvre leurs <m>plombs</m>
 pource qu’il<lb/>
 
 semble qu’ilz viennent mieulx que fort espés, mays affin qu’ilz ne<lb/>
@@ -81,7 +81,7 @@ d’<m>estaim</m><lb/>
 parmy ledict <m>plomb</m>, qui aultrement se plieroit comme
 <m>cire</m>.</ab>
 
-<ab>Le <m>plomb le plus noir, se disent aulcuns, est le meilleur
+<ab render="wide"><emph>Le </emph><m><emph>plomb le</emph> plus noir, se disent aulcuns, est le meilleur
 &amp;<lb/>
 
 le plus doulx &amp; qui coule mieulx</m>. <sn>Tu cognoistras sa bonté
@@ -90,7 +90,7 @@ en<lb/>
 le frottant avecq le <tl><bp>doigt</bp></tl>, lequel il te rendra
 incontinent fort noir</sn>.</ab>
 
-<ab>L’alliage bon pour couler de <m>plomb</m> &amp; d’<m>estain</m> est
+<ab render="wide">L’alliage bon pour couler de <m>plomb</m> &amp; d’<m>estain</m> est
 sur une <ms>lb</ms> de<lb/>
 
 <m>plomb</m>, une <ms>lb</ms> &amp; demye d’<m>estaim</m>,
@@ -101,15 +101,13 @@ d’une <ms>partye</ms>. C’est <m>souldure</m> qui coule bien &amp; bonne
 
 est brusque.</ab>
 
-<ab margin="top">
-
+<ab margin="right-top">
 
 Pour faire couler bien le <m>plomb</m>,<lb/>
 
 on mect un peu d’<m>argent vif</m> dedans.</ab>
 
-<ab margin="left-middle">
-
+<ab margin="left-top">
 
 Frotte l’<m>os de <al>seiche</al></m> sur une <tl>table<lb/>
 
@@ -119,8 +117,7 @@ l’aultre &amp; traverse les deus <m>os</m> avecq<lb/>
 
 des <tl>chevilles</tl> pour remarquer la place.</ab>
 
-<ab margin="left-top">
-
+<ab margin="left-middle">
 
 L’<tl><m>os de <al>seiche</al></m></tl><lb/>
 
@@ -140,10 +137,9 @@ l’<m>os</m> &amp; du costé d’iceluy<lb/>
 
 Car la <m>moelle</m> y<lb/>
 
-est plus delicate</del>.</ab>
+est plus delicate.</del></ab>
 
 <ab margin="left-middle">
-
 
 La <m>moelle de l’os</m><lb/>
 
@@ -219,7 +215,7 @@ cela le rend brusc,<lb/>
 
 le <tl>marteau</tl>.</ab>
 
-<ab margin="left-bottom">
+<ab margin="left-middle">
 
 
 Ayes une <tl>gratte<lb/>

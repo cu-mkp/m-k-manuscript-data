@@ -1,11 +1,10 @@
 <div id="p002v_2" categories="stones">
 
+<head margin="right-top"><hr/><comment rid="c_002v_07"/><add><m>Esmeraldes<lb/>
+de <pl>Brissac</pl></m></add><hr/></head>
 
-<head><add><comment rid="c_002v_07"/><m>Esmeraldes<lb/>
-de <pl>Brissac</pl></m></add></head>
-
-<ab>J’ai prins <m>miniu<exp>m</exp></m> 26 <ms>℥</ms>,
-<m><exp>christ</exp>al</m>,<comment rid="c_002v_04"/> <add><ill/> et broié sur le
+<ab render="full">J’ai prins <m>miniu<exp>m</exp></m> 26 <ms>℥</ms>,
+<m><exp>christ</exp>al</m><comment rid="c_002v_04"/> <add><ill/> et broié sur le
 <tl><m>marbre</m></tl></add> 12 <ms>℥</ms>,
 <m>v<exp>er</exp>det</m> 3 <ms>|ʒ|</ms>.
 Incorporés le tout ensemble,<lb/>
@@ -18,7 +17,7 @@ mace a esté d’un beau<lb/>
 
 v<exp>er</exp>t.</ab>
 
-<ab>J’ai prins <m>miniu<exp>m</exp></m> 12 <ms>℥</ms>,
+<ab render="full">J’ai prins <m>miniu<exp>m</exp></m> 12 <ms>℥</ms>,
 <m><exp>christ</exp>al</m> 6 <ms>℥</ms>,
 <m>v<exp>er</exp>det</m> 2 <ms>grains</ms>. Fuzion doulce<lb/>
 

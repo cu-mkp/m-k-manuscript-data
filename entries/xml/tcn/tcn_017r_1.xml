@@ -34,7 +34,7 @@ deux balles &amp; un quart de balle</ms>. Le devant ne porte que<lb/>
 l’<ms>espesseur d’une balle &amp; la troisiesme partye d’une balle</ms>.
 Sa<lb/>
 
-charge est semblable à celle des plus grands, sçavoir de xx.<lb/>
+charge est semblable à celle des plus grands, sçavoir de xx <ms>lb</ms>.<lb/>
 
 Et quand on les veult essayer, <del><ill/></del> il ne fault poinct pour
 cella<lb/>
@@ -218,8 +218,7 @@ culasse. Aultrement, on ne pointe pas bien.</ab>
 <div continues="yes" id="p017r_1" categories="arms and armor" continued="yes">
 
 
-
-    <ab>Le <wp>grand canon</wp>, qui est pour grandes batteries,<comment rid="c_017v_01"/> poise<lb/>
+<ab>Le <wp>grand canon</wp>, qui est pour grandes batteries,<comment rid="c_017v_01"/> poise<lb/>
 
 commune<exp>ment</exp> cinquante cinq ou lx <ms>quintals</ms>. Sur la
 culasse,<lb/>
@@ -253,7 +252,7 @@ que la portée ordinayre, on y mect <ms>demy <tl>lanterne</tl></ms> de
 <m>pouldre<lb/>
 
 de <wp>canon</wp></m> dadvantaige. Un <wp>canon</wp> peult tirer <ms>par
-    <tmp>jour</tmp></ms> 4<superscript>xx</superscript><comment rid="c_017v_02"/><lb/>
+<tmp>jour</tmp></ms> 4<superscript>xx</superscript><comment rid="c_017v_02"/><lb/>
 
 ou cent coups, mays il le fault refraischir à chasque<lb/>
 
@@ -268,7 +267,7 @@ pas le refraischir si souvent. Sur deulx <ms>quintals</ms> de
 ou deulx <ms>quintals &amp; demy</ms>, si c’est pour <wp>grands canons</wp>, on
 mect<lb/>
 
-un <ms>quintal</ms> de <m>metal</m>.<comment rid="c_016v_05"/> <add><mark>#</mark></add> Le
+un <ms>quintal</ms> de <m>metal</m>.<comment rid="c_016v_05"/> <add><mark>#</mark></add><comment rid="c_112r_02"/> Le
 <m>metal</m> se compose au comma<exp>n</exp>cem<exp>ent</exp><lb/>
 
 de huict <ms>lb</ms> d’<m>estain</m> sur un <ms>quintal</ms> de
@@ -283,7 +282,7 @@ voix</sn>.<lb/>
 Car tant plus il y a d’<m>estaing</m>, tant plus le <sn>son</sn> est
 clair.<lb/>
 
-<del>Sa</del>. Pour la fonte du <wp>canon</wp>, si on fournist la matiere &amp;
+<del>Sa</del> Pour la fonte du <wp>canon</wp>, si on fournist la matiere &amp;
 <m>charb<exp>on</exp></m>,<lb/>
 
 co<exp>mm</exp>e on faict co<exp>mmun</exp>ement, car les
@@ -360,7 +359,7 @@ aultres le mesme.</ab>
 <ab margin="left-middle">
 
 
-<mark>#</mark><lb/>
+<mark>#</mark><comment rid="c_112r_03"/><lb/>
 
 La composition des<lb/>
 
@@ -417,7 +416,7 @@ jaulne &amp; de blanc.</ab>
 
 </div>
 
-<div continues="yes" id="p017r_1" categories="arms and armor" continued="yes">
+<div continues="yes" id="p017r_1" categories="arms and armor">
 
 
 
@@ -517,6 +516,9 @@ qui portent beaucoup<lb/>
 
 de <m>pouldre</m>.</ab>
 
+</div>
+
+<div id="p017r_1" part="y"  continued="yes">
 <ab>
 
 La <df><wp>bastarde</wp></df>, qui est une <del><wp>colevrine</wp></del> <add><wp>piece</wp></add>
@@ -850,7 +852,7 @@ la <m>pouldre</m> allumée.</ab>
 
 La force d’une berche<lb/>
 
-est aux maslees<comment rid="c_019r_01"/> <lb/>
+est aux maslées<comment rid="c_019r_01"/> &amp;<lb/>
 
 au derriere de la<lb/>
 
@@ -963,7 +965,7 @@ mays<lb/>
 
 au qualibre. Touteffois ceulx qui peuvent avoyr balles<lb/>
 
-de <m>metal</m> ou de <m>fer</m> font mieux pour ce que elles feront
+de <m>metal</m><comment rid="c_016v_05"/> ou de <m>fer</m> font mieux pour ce que elles feront
 plus<lb/>
 
 de faulcée que six de <m>plomb</m>. Sa charge est <ms>jusques<lb/>
