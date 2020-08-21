@@ -1,4 +1,4 @@
-# Last Updated | 2020-08-18
+# Last Updated | 2020-08-21
 # Python Modules
 import os
 import sys
@@ -43,9 +43,9 @@ def update_metadata(manuscript: BnF) -> None:
   df['folio_display'] = df.entry.apply(lambda x: x.folio.lstrip('0'))
   df['div_id'] = df.entry.apply(lambda x: x.identity)
   df['categories'] = df.entry.apply(lambda x: (';'.join(x.categories)))
-  df['heading_tc'] = df.entry.apply(lambda x: x.title['tc'])
-  df['heading_tcn'] = df.entry.apply(lambda x: x.title['tcn'])
-  df['heading_tl'] = df.entry.apply(lambda x: x.title['tl'])
+  df['heading_tc'] = df.entry.apply(lambda x: x.find_title(x.versions['tc'], remove_del_text=True))
+  df['heading_tcn'] = df.entry.apply(lambda x: x.find_title(x.versions['tcn'], remove_del_text=True))
+  df['heading_tl'] = df.entry.apply(lambda x: x.find_title(x.versions['tl'], remove_del_text=True))
 
   for prop, tag in prop_dict.items():
     for version in versions:
