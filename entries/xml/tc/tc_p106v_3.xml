@@ -1,103 +1,40 @@
-<entry><div categories="casting" id="p106v_3">
- <m>
-  Tuiles
- </m>
- <ab margin="right-middle">
-  <add>
-   celles des
-   <env>
-    maisons
-   </env>
-   qui sont de
-   <m>
-    terre
-    <lb>
-    </lb>
-    aulcunem
-    <exp>
-     ent
-    </exp>
-    areneuse
-   </m>
-   semblent tenir plus
-   <lb>
-   </lb>
-   au foeu
-  </add>
- </ab>
+<entry><div id="p106v_3" categories="casting">
+        
+<head><m>Tuiles</m></head>
+    
+<ab margin="right-middle">
+        
+<add>celles des <env>maisons</env> qui sont de <m>terre<lb/>
+            
+aulcunem<exp>ent</exp> areneuse</m> semblent tenir plus<lb/>
+            
+au foeu</add></ab>
+    
 </div>
 
 
+
 <div id="p106v_3" part="y">
- <ab render="wide">
-  Les
-  <m>
-   tuilles
-  </m>
-  de quoy on couvre les
-  <env>
-   maisons
-  </env>
-  des plus
-dures
-  <lb>
-  </lb>
-  &amp; plus fermes et repurgees de
-  <m>
-   pierres
-  </m>
-  &amp; gros
-  <m>
-   gravier
-  </m>
-  <lb>
-  </lb>
-  se prenent pour
-  <del>
-   p
-  </del>
-  mesler parmy le
-  <m>
-   sable
-  </m>
-  <del>
-   Et
-  </del>
-  a
-mouler
-  <lb>
-  </lb>
-  Mays plustost il les fault recuire jusques a ce quelles
-  <lb>
-  </lb>
-  ayent este une
-  <ms>
-   <tmp>
-    heure
-   </tmp>
-  </ms>
-  ou deux bien rouges &amp; les
-  <tl>
-   piler
-  </tl>
-  &amp;
-  <lb>
-  </lb>
-  passer subtillement par le
-  <tl>
-   tamis
-  </tl>
- </ab>
- <ab render="wide">
-  Les petites
-  <al>
-   tortues
-  </al>
-  estant sorties de loeuf sont bien
-  <lb>
-  </lb>
-  gentilles a mouler
-  <comment rid="c_106v_02">
-  </comment>
- </ab>
+<ab render="wide">Les <m>tuilles</m> de quoy on couvre les <env>maisons</env> des plus
+dures<lb/>
+            
+&amp; plus fermes et repurgees de <m>pierres</m> &amp; gros
+<m>gravier</m><lb/>
+            
+se prenent pour <del>p</del> mesler parmy le <m>sable</m> <del>Et</del> a
+mouler<lb/>
+            
+Mays plustost il les fault recuire jusques a ce quelles<lb/>
+            
+ayent este une <ms><tmp>heure</tmp></ms> ou deux bien rouges &amp; les
+<tl>piler</tl> &amp;<lb/>
+            
+passer subtillement par le <tl>tamis</tl></ab>
+        
+<ab render="wide">Les petites <al>tortues</al> estant sorties de loeuf sont bien<lb/>
+            
+gentilles a mouler<comment rid="c_106v_02"/></ab>
+        
+
+        
 </div></entry>

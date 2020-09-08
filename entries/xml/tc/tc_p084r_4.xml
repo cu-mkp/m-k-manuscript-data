@@ -1,18 +1,8 @@
-<entry><div categories="casting" id="p084r_4">
- <m>
-  Farine
- </m>
- <ab>
-  Moulue aulx
-  <tmp>
-   advents de Noel
-  </tmp>
-  <comment rid="c_084r_05">
-  </comment>
-  se garde
-  <tmp>
-   tout
-lan
-  </tmp>
- </ab>
+<entry><div id="p084r_4" categories="casting">
+
+<head><m>Farine</m></head>
+
+<ab>Moulue aulx <tmp>advents de Noel</tmp><comment rid="c_084r_05"/> se garde <tmp>tout
+lan</tmp></ab>
+
 </div></entry>

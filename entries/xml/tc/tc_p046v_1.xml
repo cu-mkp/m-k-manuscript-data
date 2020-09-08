@@ -1,42 +1,15 @@
-<entry><div categories="corrosives" id="p046v_1">
- <pro>
-  Escrivain
- </pro>
- <m>
-  huile de soufre
- </m>
- <ab>
-  Si l
-  <pro>
-   escrivain
-  </pro>
-  veult promptement netoyer sa
-  <tl>
-   plume
-  </tl>
-  de
-lespesseur
-  <lb>
-  </lb>
-  de l
-  <m>
-   ancre
-  </m>
-  qui si est deseche Il ne la fault que tremper
-  <lb>
-  </lb>
-  dans l
-  <m>
-   huile de soufre
-  </m>
-  Et incontinent elle sera blanche
-  <lb>
-  </lb>
-  &amp; nette
-  <emph>
-   Urb.
-  </emph>
-  <comment rid="c_046v_03">
-  </comment>
- </ab>
+<entry><div id="p046v_1" categories="corrosives">
+
+<head><pro>Escrivain</pro> <m>huile de soufre</m></head>
+
+<ab>
+Si l<pro>escrivain</pro> veult promptement netoyer sa <tl>plume</tl> de
+lespesseur<lb/>
+
+de l<m>ancre</m> qui si est deseche Il ne la fault que tremper<lb/>
+
+dans l<m>huile de soufre</m> Et incontinent elle sera blanche<lb/>
+
+&amp; nette <emph>Urb.</emph><comment rid="c_046v_03"/></ab>
+
 </div></entry>

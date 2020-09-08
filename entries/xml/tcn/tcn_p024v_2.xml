@@ -1,45 +1,25 @@
-<entry><div categories="arms and armor" id="p024v_2">
- <df>
-  <wp>
-   Canons à chambre
-  </wp>
- </df>
- <ab margin="left-top" render="tall">
-  sont ceulx qui ont un renfort
-  <lb>
-  </lb>
-  par dedans en tout l’espace
-  <lb>
-  </lb>
-  qui contient la
-  <m>
-   pouldre
-  </m>
-  , et
-  <lb>
-  </lb>
-  la balle ne peut
-  <del>
-   a
-  </del>
-  rouler
-  <lb>
-  </lb>
-  que jusque à l’entrée de
-  <lb>
-  </lb>
-  ladicte chambre. Ceulx cy
-  <lb>
-  </lb>
-  ne font pas si grande
-  <lb>
-  </lb>
-  faulcée &amp; sont fascheux
-  <lb>
-  </lb>
-  à charger, mays il ne
-  <lb>
-  </lb>
-  s’eschauffent pas si tost.
- </ab>
-</div></entry>
+<entry><div id="p024v_2" categories="arms and armor">
+        
+<head margin="left-top"><df><wp>Canons &#224; chambre</wp></df></head>
+        
+<ab margin="left-top" render="tall">
+            
+sont ceulx qui ont un renfort<lb/>
+            
+par dedans en tout l&#8217;espace<lb/>
+            
+qui contient la <m>pouldre</m>, et<lb/>
+            
+la balle ne peut <del>a</del> rouler<lb/>
+            
+que jusque &#224; l&#8217;entr&#233;e de<lb/>
+            
+ladicte chambre. Ceulx cy<lb/>
+            
+ne font pas si grande<lb/>
+            
+faulc&#233;e &amp; sont fascheux<lb/>
+            
+&#224; charger, mays il ne<lb/>
+            
+s&#8217;eschauffent pas si tost.</ab></div></entry>

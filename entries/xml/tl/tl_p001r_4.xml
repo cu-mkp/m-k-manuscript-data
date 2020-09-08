@@ -1,29 +1,8 @@
-<entry><div categories="lists" id="p001r_4">
- <sup>
-  List of books
- </sup>
- <ab margin="left-middle" render="wide">
-  <comment rid="c_001r_70">
-  </comment>
-  <emph>
-   <la>
-    Aquatilium animalium historiæ,
-    <pn>
-     Hypolito
-     <lb>
-     </lb>
-     Salviano
-    </pn>
-    <comment rid="c_001r_06">
-    </comment>
-    Typhernate authore,
-    <pl>
-     Romæ
-    </pl>
-    1554
-   </la>
-  </emph>
-  <comment rid="c_001r_38">
-  </comment>
- </ab>
+<entry><div id="p001r_4" categories="lists">
+          
+<head margin="left-middle"><sup>List of books</sup></head>
+<ab margin="left-middle" render="wide">
+<comment rid="c_001r_70"/><emph><la>Aquatilium animalium histori&#230;, <pn>Hypolito<lb/>
+Salviano</pn><comment rid="c_001r_06"/> Typhernate authore, <pl>Rom&#230;</pl> 1554</la></emph><comment rid="c_001r_38"/></ab>
+        
 </div></entry>

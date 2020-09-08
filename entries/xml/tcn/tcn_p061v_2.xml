@@ -1,96 +1,29 @@
-<entry><div categories="painting;varnish;practical optics" id="p061v_2">
- <tl>
-  Chassis
- </tl>
- <comment rid="c_061v_02">
- </comment>
- des
- <pl>
-  Allemans
- </pl>
- <ab>
-  Les
-  <pl>
-   Allemans
-  </pl>
-  qui travaillent en petit font des
-  <tl>
-   chassis
-  </tl>
-  non
-de
-  <lb>
-  </lb>
-  <m>
-   verre
-  </m>
-  , mays de
-  <m>
-   toile
-  </m>
-  oincte de
-  <m>
-   vernis clair de
-tourmentine
-  </m>
-  ,
-  <lb>
-  </lb>
-  sçavoir
-  <ms>
-   moictié
-  </ms>
-  <m>
-   huile de tourmentine
-  </m>
-  &amp;
-  <ms>
-   presque
-moictié
-  </ms>
-  de
-  <m>
-   tourmentine
-  </m>
-  ,
-  <lb>
-  </lb>
-  pource que ce jour, qui n’est pas si esclatant que du
-  <m>
-   verre
-  </m>
-  ,
-leur
-  <lb>
-  </lb>
-  faict parroistre les traicts plus gros. Et quand ilz veulent
-  <lb>
-  </lb>
-  faire quelque chose subtile co
-  <exp>
-   mm
-  </exp>
-  e les venes
-  <del>
-   de
-  </del>
-  &amp; semblables choses,
-  <lb>
-  </lb>
-  ilz usent de
-  <tl>
-   pinceaulx composés de deulx ou trois
-   <m>
-    poils de
-barbe
-    <lb>
-    </lb>
-    de
-    <al>
-     rat
-    </al>
-   </m>
-  </tl>
-  .
- </ab>
+<entry><div id="p061v_2" categories="painting;varnish;practical optics">
+
+
+
+<head><tl>Chassis</tl><comment rid="c_061v_02"/> des <pl>Allemans</pl></head>
+
+<ab>Les <pl>Allemans</pl> qui travaillent en petit font des <tl>chassis</tl> non
+de<lb/>
+
+<m>verre</m>, mays de <m>toile</m> oincte de <m>vernis clair de
+tourmentine</m>,<lb/>
+
+s&#231;avoir <ms>moicti&#233;</ms> <m>huile de tourmentine</m> &amp; <ms>presque
+moicti&#233;</ms> de <m>tourmentine</m>,<lb/>
+
+pource que ce jour, qui n&#8217;est pas si esclatant que du <m>verre</m>,
+leur<lb/>
+
+faict parroistre les traicts plus gros. Et quand ilz veulent<lb/>
+
+faire quelque chose subtile co<exp>mm</exp>e les venes <del>de</del>
+&amp; semblables choses,<lb/>
+
+ilz usent de <tl>pinceaulx compos&#233;s de deulx ou trois <m>poils de
+barbe<lb/>
+
+de <al>rat</al></m></tl>.</ab>
+
 </div></entry>

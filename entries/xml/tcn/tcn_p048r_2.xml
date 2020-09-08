@@ -1,58 +1,18 @@
-<entry><div categories="medicine" id="p048r_2">
- <md>
-  Guerir les
-  <al>
-   chiens
-  </al>
-  de la
-  <lb>
-  </lb>
-  galle
- </md>
- <ab>
-  Donne leur une
-  <m>
-   pilulle de præcipité
-  </m>
-  ,
-  <comment rid="c_048r_01">
-  </comment>
-  sçavoir iii ou 4 ou
-jusques
-  <lb>
-  </lb>
-  à cinq
-  <ms>
-   grains
-  </ms>
-  , meslé parmy leur
-  <m>
-   viande
-  </m>
-  . Et leur en
-ayant
-  <lb>
-  </lb>
-  donné une
-  <corr>
-   <del>
-    une
-   </del>
-  </corr>
-  <ms>
-   <tmp>
-    sepmaine
-   </tmp>
-  </ms>
-  ,
-donne leur en un aultre sept ou huict
-  <lb>
-  </lb>
-  <ms>
-   <tmp>
-    jours
-   </tmp>
-  </ms>
-  aprés.
- </ab>
+<entry><div id="p048r_2" categories="medicine">
+
+<head><md>Guerir les <al>chiens</al> de la<lb/>
+
+galle</md></head>
+
+    <ab>Donne leur une <m>pilulle de pr&#230;cipit&#233;</m>,<comment rid="c_048r_01"/> s&#231;avoir iii ou 4 ou
+jusques<lb/>
+
+&#224; cinq <ms>grains</ms>, mesl&#233; parmy leur <m>viande</m>. Et leur en
+ayant<lb/>
+
+donn&#233; une <corr><del>une</del></corr> <ms><tmp>sepmaine</tmp></ms>,
+donne leur en un aultre sept ou huict<lb/>
+
+<ms><tmp>jours</tmp></ms> apr&#233;s.</ab>
+
 </div></entry>

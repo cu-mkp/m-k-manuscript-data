@@ -1,106 +1,33 @@
-<entry><div categories="stones" id="p038r_1">
- <m>
-  Saphir
- </m>
- <ab>
-  Il se trouve des
-  <m>
-   saphirs
-  </m>
-  qu’on appelle
-  <df>
-   de treille
-  </df>
-  , pource
-qu’ils sont
-  <lb>
-  </lb>
-  percés et qu’on dict que certain
-  <pro>
-   roy
-  </pro>
-  en avoict faict certain
-ornem
-  <exp>
-   ent
-  </exp>
-  en forme
-  <lb>
-  </lb>
-  de treille, co
-  <exp>
-   mme
-  </exp>
-  seroict peult estre l’escran de
-  <pn>
-   Charlemaigne
-  </pn>
-  ,
-  <comment rid="c_038r_02">
-  </comment>
-  ainsy nommé, au
-  <lb>
-  </lb>
-  tresor de
-  <pl>
-   Saint Denis
-  </pl>
-  , où les
-  <m>
-   pierreries
-  </m>
-  sont mises en
-oeuvre sans foeille, affin
-  <lb>
-  </lb>
-  d’en avoyr la jouissance du jour d’une part &amp; d’aultre &amp; pour
-monstrer
-  <lb>
-  </lb>
-  leur naïfveté. J’en
-  <corr>
-   <del>
-    en
-   </del>
-  </corr>
-  ay un blanc qui semble estre brut &amp; percé, et
-est mouschetté
-  <lb>
-  </lb>
-  de tasches bleues partout. J’ay opinion qu’elles soient artificielles
-&amp; qu’elles soient
-  <lb>
-  </lb>
-  de
-  <m>
-   taffre
-  </m>
-  ou d’
-  <m>
-   esmail azuré fort cler
-  </m>
-  parfondu sur le
-  <m>
-   saphir
-  </m>
-  .
-  <add>
-   La
-   <tl>
-    lime
-   </tl>
-   y
-   <lb>
-   </lb>
-   mort co
-   <exp>
-    mm
-   </exp>
-   e sur le
-   <m>
-    beril
-   </m>
-   .
-  </add>
- </ab>
+<entry><div id="p038r_1" categories="stones">
+
+
+
+<head><m>Saphir</m></head>
+
+<ab>Il se trouve des <m>saphirs</m> qu&#8217;on appelle <df>de treille</df>, pource
+qu&#8217;ils sont<lb/>
+
+perc&#233;s et qu&#8217;on dict que certain <pro>roy</pro> en avoict faict certain
+ornem<exp>ent</exp> en forme<lb/>
+
+de treille, co<exp>mme</exp> seroict peult estre l&#8217;escran de
+<pn>Charlemaigne</pn>,<comment rid="c_038r_02"/> ainsy nomm&#233;, au<lb/>
+
+tresor de <pl>Saint Denis</pl>, o&#249; les <m>pierreries</m> sont mises en
+oeuvre sans foeille, affin<lb/>
+
+d&#8217;en avoyr la jouissance du jour d&#8217;une part &amp; d&#8217;aultre &amp; pour
+monstrer<lb/>
+
+leur na&#239;fvet&#233;. J&#8217;en <corr><del>en</del></corr> ay un blanc qui semble estre brut &amp; perc&#233;, et
+est mouschett&#233;<lb/>
+
+de tasches bleues partout. J&#8217;ay opinion qu&#8217;elles soient artificielles
+&amp; qu&#8217;elles soient<lb/>
+
+de <m>taffre</m> ou d&#8217;<m>esmail azur&#233; fort cler</m> parfondu sur le
+<m>saphir</m>. <add>La <tl>lime</tl> y<lb/>
+
+mort co<exp>mm</exp>e sur le <m>beril</m>.</add></ab>
+
 </div></entry>

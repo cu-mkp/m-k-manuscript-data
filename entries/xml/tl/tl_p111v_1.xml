@@ -1,58 +1,12 @@
-<entry><div categories="casting" id="p111v_1">
- <m>
-  Sal ammoniac wate
-  <corr>
-   <del>
-    e
-   </del>
-  </corr>
-  r
- </m>
- <ab>
-  The
-  <ms>
-   size of two
-   <m>
-    <pa>
-     chestnuts
-    </pa>
-   </m>
-  </ms>
-  of
-  <m>
-   pulverized
-sal ammoniac
-  </m>
-  suffices in a
-  <ms>
-   <tl>
-    pot
-   </tl>
-  </ms>
-  of
-  <m>
-   water
-  </m>
-  ,
-and
-  <sn>
-   to the
-   <tl>
-    <bp>
-     tongue
-    </bp>
-   </tl>
-   , you find the
-   <m>
-    water
-   </m>
-   moderately
-   <m>
-    salty
-   </m>
-  </sn>
-  , for too much is not good.
-  <comment rid="c_111v_04">
-  </comment>
- </ab>
+<entry><div id="p111v_1" categories="casting">
+
+
+
+<head><m>Sal ammoniac wate<corr><del>e</del></corr>r</m></head>
+
+<ab>The <ms>size of two <m><pa>chestnuts</pa></m></ms> of <m>pulverized
+sal ammoniac</m> suffices in a <ms><tl>pot</tl></ms> of <m>water</m>,
+and <sn>to the <tl><bp>tongue</bp></tl>, you find the <m>water</m>
+moderately <m>salty</m></sn>, for too much is not good.<comment rid="c_111v_04"/></ab>
+
 </div></entry>

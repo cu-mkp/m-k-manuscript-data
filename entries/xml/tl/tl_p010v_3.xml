@@ -1,21 +1,10 @@
-<entry><div categories="metal process;painting" id="p010v_3">
- For cleaning
- <m>
-  gold leaf
- </m>
- applied to
- <m>
-  iron
- </m>
- <ab>
-  Rub your weapons or other gilt objects with
-  <m>
-   dry
-   <al>
-    horse
-   </al>
-   dung
-  </m>
-  .
- </ab>
+<entry><div id="p010v_3" categories="metal process;painting">
+
+
+
+<head>For cleaning <m>gold leaf</m> applied to <m>iron</m></head>
+
+<ab>Rub your weapons or other gilt objects with <m>dry <al>horse</al>
+dung</m>.</ab>
+
 </div></entry>

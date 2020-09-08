@@ -1,198 +1,89 @@
-<entry><div categories="painting" id="p065r_4">
- <ab margin="left-top">
-  On ne peult
-  <lb>
-  </lb>
-  point coucher
-  <lb>
-  </lb>
-  à
-  <m>
-   huile
-  </m>
-  sur un
-  <lb>
-  </lb>
-  <m>
-   papier
-  </m>
-  coupé
-  <lb>
-  </lb>
-  &amp; patronner
-  <lb>
-  </lb>
-  co
-  <exp>
-   mm
-  </exp>
-  e à
-  <m>
-   destrempe
-  </m>
-  ,
-  <lb>
-  </lb>
-  car la couleur
-  <lb>
-  </lb>
-  couleroit. Ainsy
-  <lb>
-  </lb>
-  pour
-  <m>
-   dorer
-  </m>
-  d’
-  <m>
-   or mat
-  </m>
-  <lb>
-  </lb>
-  il fault poncer &amp;
-  <lb>
-  </lb>
-  puys coucher l’
-  <m>
-   or couleur
-  </m>
-  <lb>
-  </lb>
-  avecq le
-  <tl>
-   pinceau
-  </tl>
-  .
- </ab>
- <ab margin="left-bottom">
-  Toutes couleurs
-  <lb>
-  </lb>
-  grasses, co
-  <exp>
-   mm
-  </exp>
-  e la
-  <lb>
-  </lb>
-  <m>
-   ceruse
-  </m>
-  et le
-  <m>
-   minium
-  </m>
-  ,
-  <lb>
-  </lb>
-  le
-  <m>
-   massicot
-  </m>
-  , l’
-  <m>
-   ocre
-  </m>
-  ,
-  <lb>
-  </lb>
-  <m>
-   blanc de plomb
-  </m>
-  ,
-  <lb>
-  </lb>
-  sont bonnes pour
-  <lb>
-  </lb>
-  faire or couleur.
- </ab>
+<entry><div id="p065r_4" categories="painting">
+<ab margin="left-top">
+    
+On ne peult<lb/>
+    
+point coucher<lb/>
+    
+&#224; <m>huile</m> sur un<lb/>
+    
+<m>papier</m> coup&#233;<lb/>
+    
+&amp; patronner<lb/>
+    
+co<exp>mm</exp>e &#224; <m>destrempe</m>,<lb/>
+    
+car la couleur<lb/>
+    
+couleroit. Ainsy<lb/>
+    
+pour <m>dorer</m> d&#8217;<m>or mat</m><lb/>
+    
+il fault poncer &amp;<lb/>
+    
+puys coucher l&#8217;<m>or couleur</m><lb/>
+    
+avecq le <tl>pinceau</tl>.</ab>
+    
+<ab margin="left-bottom">
+        
+Toutes couleurs<lb/>
+        
+grasses, co<exp>mm</exp>e la<lb/>
+        
+<m>ceruse</m> et le <m>minium</m>,<lb/>
+        
+le <m>massicot</m>, l&#8217;<m>ocre</m>,<lb/>
+        
+<m>blanc de plomb</m>,<lb/>
+        
+sont bonnes pour<lb/>
+        
+faire or couleur.</ab>
+    
+
 </div>
+    
+    
+    
 
 
 <div id="p065r_4" part="y">
- Couleurs grasses
- <ab>
-  Si, aprés que les couleurs couchées sont imbeues, il reste
-quelque
-  <lb>
-  </lb>
-  partye luisante qui semble n’estre pas seiches, c’est que cest
-endroit
-  <lb>
-  </lb>
-  est gras, &amp; les secondes couleurs qu’on y couche ne prendroient pas
-aisem
-  <exp>
-   ent
-  </exp>
-  ,
-  <lb>
-  </lb>
-  si tu ne frotois cest endroit de
-  <m>
-   savon
-  </m>
-  ou n’
-  <bp>
-   allenois
-  </bp>
-  dessus,
-pource que
-  <lb>
-  </lb>
-  l’humidité fera prendre les couleurs.
- </ab>
- <ab margin="left-middle">
-  Toute couleur ou chose
-  <lb>
-  </lb>
-  qui se rend espesse
-  <lb>
-  </lb>
-  y mectant de l’
-  <m>
-   eau
-  </m>
-  <lb>
-  </lb>
-  en broyant a
-  <lb>
-  </lb>
-  <df>
-   corps
-  </df>
-  . Mays celles
-  <lb>
-  </lb>
-  qui n’en ont point,
-  <lb>
-  </lb>
-  co
-  <exp>
-   mm
-  </exp>
-  e le
-  <m>
-   verre
-   <tl>
-    pilé
-   </tl>
-  </m>
-  ,
-  <lb>
-  </lb>
-  la
-  <m>
-   laque
-  </m>
-  &amp;
-  <corr>
-   c
-  </corr>
-  , se
-  <lb>
-  </lb>
-  rendent claires.
- </ab>
+
+<head>Couleurs grasses</head>
+
+<ab>Si, apr&#233;s que les couleurs couch&#233;es sont imbeues, il reste
+quelque<lb/>
+
+partye luisante qui semble n&#8217;estre pas seiches, c&#8217;est que cest
+endroit<lb/>
+
+est gras, &amp; les secondes couleurs qu&#8217;on y couche ne prendroient pas
+aisem<exp>ent</exp>,<lb/>
+
+si tu ne frotois cest endroit de <m>savon</m> ou n&#8217;<bp>allenois</bp> dessus,
+pource que<lb/>
+
+l&#8217;humidit&#233; fera prendre les couleurs.</ab>
+    
+<ab margin="left-middle">
+        
+Toute couleur ou chose<lb/>
+        
+qui se rend espesse<lb/>
+        
+y mectant de l&#8217;<m>eau</m><lb/>
+        
+en broyant a<lb/>
+        
+<df>corps</df>. Mays celles<lb/>
+        
+qui n&#8217;en ont point,<lb/>
+        
+co<exp>mm</exp>e le <m>verre <tl>pil&#233;</tl></m>,<lb/>
+        
+la <m>laque</m> &amp;<corr>c</corr>, se<lb/>
+        
+rendent claires.</ab>
+
 </div></entry>

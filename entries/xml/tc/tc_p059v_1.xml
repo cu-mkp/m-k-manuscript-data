@@ -1,44 +1,15 @@
-<entry><div categories="painting" id="p059v_1">
- <del>
-  Noir
- </del>
- Paincture darmes
- <ab>
-  Le
-  <m>
-   noir de charbon
-  </m>
-  mesle dun peu de
-  <m>
-   blanc de plomb
-  </m>
-  est
-  <lb>
-  </lb>
-  fort propre pour faire les armes y meslant si tu veux un
-  <lb>
-  </lb>
-  peu
-  <del>
-   de
-   <ill>
-   </ill>
-  </del>
-  d
-  <m>
-   azur
-  </m>
-  Le
-  <m>
-   <add>
-    noir de
-   </add>
-   charbon
-  </m>
-  de soymesme est co
-  <exp>
-   mm
-  </exp>
-  e bluastre
- </ab>
+<entry><div id="p059v_1" categories="painting">
+
+
+
+<head><del>Noir</del> Paincture darmes</head>
+
+<ab>Le <m>noir de charbon</m> mesle dun peu de <m>blanc de plomb</m>
+est<lb/>
+
+fort propre pour faire les armes y meslant si tu veux un<lb/>
+
+peu <del>de <ill/></del> d<m>azur</m> Le <m><add>noir de</add>
+charbon</m> de soymesme est co<exp>mm</exp>e bluastre</ab>
+
 </div></entry>

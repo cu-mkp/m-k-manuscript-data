@@ -1,32 +1,11 @@
-<entry><div categories="corrosives;stones" id="p046v_7">
- Sur
- <m>
-  pierre
- </m>
- , l
- <exp>
-  ett
- </exp>
- re noire
- <ab>
-  Le mesme
-  <m>
-   huile
-  </m>
-  <comment rid="c_046v_01">
-  </comment>
-  sur des l
-  <exp>
-   ett
-  </exp>
-  res
-gravées en
-  <m>
-   pierre
-  </m>
-  &amp; chaufé
-  <lb>
-  </lb>
-  vient noir &amp; penetre.
- </ab>
+<entry><div id="p046v_7" categories="corrosives;stones">
+
+<head>Sur <m>pierre</m>, l<exp>ett</exp>re noire</head>
+
+<ab>
+Le mesme <m>huile</m><comment rid="c_046v_01"/> sur des l<exp>ett</exp>res
+grav&#233;es en <m>pierre</m> &amp; chauf&#233;<lb/>
+
+vient noir &amp; penetre.</ab>
+
 </div></entry>

@@ -1,62 +1,18 @@
-<entry><div categories="medicine" id="p104v_1">
- <md>
-  Contre la galle des
-  <al>
-   chiens
-  </al>
- </md>
- <ab>
-  Une
-  <ms>
-   demy ℥
-  </ms>
-  de
-  <m>
-   staphisagrie
-  </m>
-  pour les
-  <al>
-   chiens
-   <lb>
-   </lb>
-   communs
-  </al>
-  &amp; une
-  <ms>
-   ℥
-  </ms>
-  pour les grands, en
-pouldre subtile,
-  <lb>
-  </lb>
-  battu avec deux
-  <m>
-   blanc
-   <del>
-    d'
-    <m>
-     huile
-    </m>
-   </del>
-   d’oeufs
-  </m>
-  &amp; un
-  <ms>
-   quarteron
-  </ms>
-  <lb>
-  </lb>
-  d’
-  <m>
-   huile
-  </m>
-  . Leur faire boire à jeun, les ayant tenus
-  <lb>
-  </lb>
-  la
-  <tmp>
-   nuit
-  </tmp>
-  enfermés sans manger. Aprouvé.
- </ab>
+<entry><div id="p104v_1" categories="medicine">
+
+<head><md>Contre la galle des <al>chiens</al></md></head>
+
+<ab>Une <ms>demy &#8485;</ms> de <m>staphisagrie</m> pour les
+<al>chiens<lb/>
+
+communs</al> &amp; une <ms>&#8485;</ms> pour les grands, en
+pouldre subtile,<lb/>
+
+battu avec deux <m>blanc <del>d'<m>huile</m></del> d&#8217;oeufs</m> &amp; un
+<ms>quarteron</ms><lb/>
+
+d&#8217;<m>huile</m>. Leur faire boire &#224; jeun, les ayant tenus<lb/>
+
+la <tmp>nuit</tmp> enferm&#233;s sans manger. Aprouv&#233;.</ab>
+
 </div></entry>

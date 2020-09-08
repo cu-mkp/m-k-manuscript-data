@@ -1,109 +1,21 @@
-<entry><div categories="lists" id="p001r_1">
- <sup>
-  Liste de noms
- </sup>
- <ab margin="left-middle" render="wide">
-  <pn>
-   M
-   <exp>
-    estr
-   </exp>
-   e Nico
-   <ill>
-   </ill>
-   Costé
-  </pn>
-  ,
-  <comment rid="c_001r_01">
-  </comment>
-  à la
-  <pl>
-   rue de la Heaumerie
-   <comment rid="c_001r_02">
-   </comment>
-   à
-l’image S
-   <exp>
-    ainc
-   </exp>
-   t Claude
-  </pl>
-  <mark>
-   /
-  </mark>
-  Mirouers.
-  <lb>
-  </lb>
-  <pn>
-   M
-   <exp>
-    estr
-   </exp>
-   e Jehan Cousin
-  </pn>
-  ,
-  <comment rid="c_001r_03">
-  </comment>
-  qui demeure au
-  <pl>
-   faulxbourgs
-de S
-   <exp>
-    ainc
-   </exp>
-   t Germain
-  </pl>
-  ,
-  <comment rid="c_001r_76">
-  </comment>
-  sçaict du
-  <lb>
-  </lb>
-  <pro>
-   mestre
-  </pro>
-  .
-  <lb>
-  </lb>
-  <pn>
-   M
-   <exp>
-    estr
-   </exp>
-   e Jehan Garnier
-  </pn>
-  ,
-  <comment rid="c_001r_80">
-  </comment>
-  à la
-  <pl>
-   rue des
-Escrivains
-  </pl>
-  pres
-  <pl>
-   S
-   <exp>
-    ainc
-   </exp>
-   t Jaques de la
-   <lb>
-   </lb>
-   Boucherie
-  </pl>
-  ,
-  <comment rid="c_001r_77">
-  </comment>
-  <pro>
-   courroyeur
-  </pro>
-  . Essayer
-  <m>
-   fleur de
-   <pa>
-    pastel
-   </pa>
-  </m>
-  .
- </ab>
+<entry><div id="p001r_1" categories="lists">
+
+<head margin="left-middle"><sup>Liste de noms</sup></head>
+
+<ab margin="left-middle" render="wide">
+
+<pn>M<exp>estr</exp>e Nico<ill/> Cost&#233;</pn>,<comment rid="c_001r_01"/> &#224; la <pl>rue de la Heaumerie<comment rid="c_001r_02"/> &#224;
+l&#8217;image S<exp>ainc</exp>t Claude</pl> <mark>/</mark> Mirouers.<lb/>
+
+<pn>M<exp>estr</exp>e Jehan Cousin</pn>,<comment rid="c_001r_03"/> qui demeure au <pl>faulxbourgs
+de S<exp>ainc</exp>t Germain</pl>,<comment rid="c_001r_76"/> s&#231;aict du<lb/>
+
+<pro>mestre</pro>.<lb/>
+
+<pn>M<exp>estr</exp>e Jehan Garnier</pn>,<comment rid="c_001r_80"/> &#224; la <pl>rue des
+Escrivains</pl> pres <pl>S<exp>ainc</exp>t Jaques de la<lb/>
+
+Boucherie</pl>,<comment rid="c_001r_77"/> <pro>courroyeur</pro>. Essayer <m>fleur de
+<pa>pastel</pa></m>.</ab>
+
 </div></entry>

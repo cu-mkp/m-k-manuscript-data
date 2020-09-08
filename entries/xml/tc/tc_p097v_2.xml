@@ -1,24 +1,15 @@
-<entry><div categories="painting;medicine" id="p097v_2">
- Travailler daprest
- <ab>
-  Cest une chose estrange que les
-  <pro>
-   ouvriers
-  </pro>
-  de cest art
-  <comment rid="c_097v_01">
-  </comment>
-  ne
-  <lb>
-  </lb>
-  peuvent bien travailler sils nont bonne
-  <bp>
-   halene
-  </bp>
-  Car sils
-lont
-  <lb>
-  </lb>
-  mauvaise leur ouvrage se rompt au foeu en recuisant
- </ab>
+<entry><div id="p097v_2" categories="painting;medicine">
+
+
+
+<head>Travailler daprest</head>
+
+<ab>Cest une chose estrange que les <pro>ouvriers</pro> de cest art<comment rid="c_097v_01"/> 
+ne<lb/>
+
+peuvent bien travailler sils nont bonne <bp>halene</bp> Car sils
+lont<lb/>
+
+mauvaise leur ouvrage se rompt au foeu en recuisant</ab>
+
 </div></entry>

@@ -1,177 +1,78 @@
-<entry><div categories="casting" id="p150r_3">
- <tl>
-  Moules
- </tl>
- <ab>
-  Ils sont moings subgects à se fendre en recuisant quand
-  <lb>
-  </lb>
-  ilz sont fort espés que quand ilz sont de peu d’espesseur,
-  <lb>
-  </lb>
-  pourveu qu’elle soict suffisante. Car estant tanvres, ilz n’ont
-  <lb>
-  </lb>
-  pas besoing d’estre gueres
-  <del>
-   recui
-  </del>
-  au foeu, &amp; la longueur
-du
-  <lb>
-  </lb>
-  foeu les fait corrompre, mesmement quand le
-  <m>
-   plastre
-  </m>
-  <lb>
-  </lb>
-  n’est pas fort.
- </ab>
- <ab>
-  Il est mieulx de recuire un
-  <tl>
-   moule
-  </tl>
-  seul que plusieurs
-  <lb>
-  </lb>
-  ensemble, pource qu’il y fault plus grand &amp; violent foeu
-  <lb>
-  </lb>
-  que pour un. Et l’entredeulx des
-  <tl>
-   moules
-  </tl>
-  reserrant du
-  <lb>
-  </lb>
-  <m>
-   charbon allumé
-  </m>
-  , se reverberent l’un l’autre, de telle sorte
-  <lb>
-  </lb>
-  que plus souvant tu trouveras tes
-  <tl>
-   moules
-  </tl>
-  crevés &amp;
-fendus
-  <lb>
-  </lb>
-  de ce costé que d’un aultre.
- </ab>
- <ab>
-  Recuits donc tes
-  <tl>
-   moules
-  </tl>
-  seul, n’y faisant foeu
-  <lb>
-  </lb>
-  sinon pour le couvrir.
- </ab>
- <ab>
-  Et pource que ton
-  <m>
-   plomb
-  </m>
-  et
-  <m>
-   estain
-  </m>
-  s’aigrissent en les
-fondant
-  <lb>
-  </lb>
-  souvent rouges, pour l’adoulcir
-  <comment rid="c_015r_01">
-  </comment>
-  fonds le sans le rougir
-  <lb>
-  </lb>
-  et gecte en verge.
- </ab>
- <ab>
-  La
-  <m>
-   brique
-  </m>
-  refroidist le
-  <m>
-   metal
-  </m>
-  , &amp; si ce n’estoit
-pour
-  <lb>
-  </lb>
-  donner liaison, elle ne seroit point necessaire.
- </ab>
- <ab margin="left-middle">
-  Les
-  <tl>
-   moules
-  </tl>
-  recuits ne peuvent soubstenir
-  <lb>
-  </lb>
-  plusieurs gects. Mays ceulx dans lesquels
-  <lb>
-  </lb>
-  on ne veult gecter que
-  <m>
-   plomb
-  </m>
-  ou
-  <m>
-   estain
-  </m>
-  <corr>
-   <del>
-    et
-   </del>
-  </corr>
-  <lb>
-  </lb>
-  <add>
-   ou
-  </add>
-  medailles plattes, n’estant que sechés,
-  <lb>
-  </lb>
-  en soubstiennent
-  <lb>
-  </lb>
-  beaucoup.
- </ab>
- <ab margin="left-middle">
-  L’
-  <m>
-   escaille
-   <lb>
-   </lb>
-   de fer fort
-   <lb>
-   </lb>
-   subtillem
-   <corr>
-    <exp>
-     ent
-    </exp>
-   </corr>
-   <lb>
-   </lb>
-   broyée
-  </m>
-  <lb>
-  </lb>
-  les rend
-  <lb>
-  </lb>
-  bien fermes
-  <lb>
-  </lb>
-  &amp; forts.
- </ab>
-</div></entry>
+<entry><div id="p150r_3" categories="casting">
+
+
+
+<head><tl>Moules</tl></head>
+
+<ab>Ils sont moings subgects &#224; se fendre en recuisant quand<lb/>
+
+ilz sont fort esp&#233;s que quand ilz sont de peu d&#8217;espesseur,<lb/>
+
+pourveu qu&#8217;elle soict suffisante. Car estant tanvres, ilz n&#8217;ont<lb/>
+
+pas besoing d&#8217;estre gueres <del>recui</del> au foeu, &amp; la longueur
+du<lb/>
+
+foeu les fait corrompre, mesmement quand le <m>plastre</m><lb/>
+
+n&#8217;est pas fort.</ab>
+
+<ab>Il est mieulx de recuire un <tl>moule</tl> seul que plusieurs<lb/>
+
+ensemble, pource qu&#8217;il y fault plus grand &amp; violent foeu<lb/>
+
+que pour un. Et l&#8217;entredeulx des <tl>moules</tl> reserrant du<lb/>
+
+<m>charbon allum&#233;</m>, se reverberent l&#8217;un l&#8217;autre, de telle sorte<lb/>
+
+que plus souvant tu trouveras tes <tl>moules</tl> crev&#233;s &amp;
+fendus<lb/>
+
+de ce cost&#233; que d&#8217;un aultre.</ab>
+
+<ab>Recuits donc tes <tl>moules</tl> seul, n&#8217;y faisant foeu<lb/>
+
+sinon pour le couvrir.</ab>
+
+<ab>Et pource que ton <m>plomb</m> et <m>estain</m> s&#8217;aigrissent en les
+fondant<lb/>
+
+souvent rouges, pour l&#8217;adoulcir<comment rid="c_015r_01"/> fonds le sans le rougir<lb/>
+
+et gecte en verge.</ab>
+
+<ab>La <m>brique</m> refroidist le <m>metal</m>, &amp; si ce n&#8217;estoit
+pour<lb/>
+
+donner liaison, elle ne seroit point necessaire.</ab>
+
+<ab margin="left-middle">
+
+Les <tl>moules</tl> recuits ne peuvent soubstenir<lb/>
+
+plusieurs gects. Mays ceulx dans lesquels<lb/>
+
+on ne veult gecter que <m>plomb</m> ou <m>estain</m>
+<corr><del>et</del></corr><lb/>
+
+<add>ou</add> medailles plattes, n&#8217;estant que sech&#233;s,<lb/>
+
+en soubstiennent<lb/>
+
+beaucoup.</ab>
+
+<ab margin="left-middle">
+
+L&#8217;<m>escaille<lb/>
+
+de fer fort<lb/>
+
+subtillem<corr><exp>ent</exp></corr><lb/>
+
+broy&#233;e</m><lb/>
+
+les rend<lb/>
+
+bien fermes<lb/>
+
+&amp; forts.</ab></div></entry>

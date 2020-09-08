@@ -1,132 +1,35 @@
-<entry><div categories="metal process;casting" id="p134v_1">
- For making
- <m>
-  <mark>
-   ☀
-  </mark>
- </m>
- run
- <comment rid="c_134v_01">
- </comment>
- <ab>
-  <m>
-   Verdigris
-  </m>
-  &amp;
-  <m>
-   sal ammoniac
-  </m>
-  ,
-  <ms>
-   as much of one as the
-other
-  </ms>
-  ,
-  <m>
-   borax
-  </m>
-  &amp;
-  <m>
-   saltpeter
-  </m>
-  ,
-  <ms>
-   as much of one as
-the other
-  </ms>
-  . But the
-  <del>
-   <fr>
-    s
-   </fr>
-  </del>
-  <m>
-   borax
-  </m>
-  &amp;
-  <del>
-   <fr>
-    sel armo
-   </fr>
-  </del>
-  <m>
-   saltpeter
-  </m>
-  together must only weigh
-  <ms>
-   half of the others
-  </ms>
-  , that is to say, as much together as the
-  <m>
-   verdigris
-  </m>
-  . Grind them finely into powder on
-  <tl>
-   <m>
-    marble
-   </m>
-  </tl>
-  , then grind them again with some
-  <m>
-   good strong
-vinegar
-  </m>
-  until it is fine, like a
-  <m>
-   <fr>
-    couleur
-   </fr>
-  </m>
-  and
-  <m>
-   verdet
-  </m>
-  ground in
-  <m>
-   oil
-  </m>
-  . Next, leave it to dry on its own, if
-you have time, or in the
-  <del>
-   slow
-  </del>
-  fire of the
-  <tl>
-   forge
-  </tl>
-  , &amp; make sure it is well dry.
- </ab>
- <ab margin="left-middle">
-  Grind
- </ab>
- <ab margin="left-middle">
-  <del>
-   <al>
-    spider
-   </al>
-  </del>
- </ab>
- <ab margin="left-middle">
-  On
-  <add>
-   e
-  </add>
-  of the principal things for the cast is to cast very
-  <del>
-   <fr>
-    gec
-   </fr>
-  </del>
-  hot,
-  <del>
-   <fr>
-    s
-   </fr>
-  </del>
-  especially the great
-  <m>
-   metals
-  </m>
-  .
- </ab>
+<entry><div id="p134v_1" categories="metal process;casting">
+
+
+
+<head>For making <m><mark>&#9728;</mark></m> run<comment rid="c_134v_01"/></head>
+
+<ab>
+
+<m>Verdigris</m> &amp; <m>sal ammoniac</m>, <ms>as much of one as the
+other</ms>, <m>borax</m> &amp; <m>saltpeter</m>, <ms>as much of one as
+the other</ms>. But the <del><fr>s</fr></del> <m>borax</m> &amp;
+<del><fr>sel armo</fr></del> <m>saltpeter</m> together must only weigh
+<ms>half of the others</ms>, that is to say, as much together as the
+<m>verdigris</m>. Grind them finely into powder on
+<tl><m>marble</m></tl>, then grind them again with some <m>good strong
+vinegar</m> until it is fine, like a <m><fr>couleur</fr></m> and
+<m>verdet</m> ground in <m>oil</m>. Next, leave it to dry on its own, if
+you have time, or in the <del>slow</del> fire of the
+<tl>forge</tl>, &amp; make sure it is well dry.</ab>
+
+<ab margin="left-middle">
+Grind</ab>
+
+<ab margin="left-middle">
+<del><al>spider</al></del></ab>
+
+<ab margin="left-middle">
+
+
+
+On<add>e</add> of the principal things for the cast is to cast very
+<del><fr>gec</fr></del> hot, <del><fr>s</fr></del> especially the great
+<m>metals</m>.</ab>
+
 </div></entry>

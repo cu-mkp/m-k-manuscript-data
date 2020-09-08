@@ -1,30 +1,11 @@
-<entry><div categories="painting" id="p064v_5">
- <m>
-  Distemper
- </m>
- <ab>
-  <m>
-   Distemper
-  </m>
-  colors need to be
-  <add>
-   kept
-  </add>
-  darker
-  <del>
-   <fr>
-    pr
-   </fr>
-  </del>
-  while you temper them,
-  <add>
-   because they whiten
-while drying
-  </add>
-  . But
-  <m>
-   oil
-  </m>
-  colors remain the same color.
- </ab>
+<entry><div id="p064v_5" categories="painting">
+
+
+
+<head><m>Distemper</m></head>
+
+<ab><m>Distemper</m> colors need to be <add>kept</add> darker
+<del><fr>pr</fr></del> while you temper them, <add>because they whiten
+while drying</add>. But <m>oil</m> colors remain the same color.</ab>
+
 </div></entry>

@@ -1,60 +1,21 @@
-<entry><div categories="medicine" id="p020v_6">
- <md>
-  Forme de regime
- </md>
- <ab>
-  <tmp>
-   Chasque matin
-  </tmp>
-  prens deulx ou trois
-  <m>
-   oeufs
-  </m>
-  ponds dun
-ou
-  <lb>
-  </lb>
-  deulx
-  <tmp>
-   jours
-  </tmp>
-  fais les chaufer
-  <del>
-   jusques
-  </del>
-  &amp; non
-cuire prens les
-  <lb>
-  </lb>
-  <m>
-   moyeulx
-  </m>
-  bien saulpouldres de
-  <m>
-   sucre
-  </m>
-  Et apres bois un
-  <ms>
-   <bp>
-    doigt
-   </bp>
-  </ms>
-  <lb>
-  </lb>
-  de
-  <m>
-   vin
-  </m>
-  Et oultre ce que cela est
-  <md>
-   nourrissant
-  </md>
-  il
-  <md>
-   faict bon
-   <bp>
-    ventre
-   </bp>
-  </md>
- </ab>
+<entry><div id="p020v_6" categories="medicine">
+
+
+
+<head><md>Forme de regime</md></head>
+
+<ab><tmp>Chasque matin</tmp> prens deulx ou trois <m>oeufs</m> ponds dun
+ou<lb/>
+
+deulx <tmp>jours</tmp> fais les chaufer <del>jusques</del> &amp; non
+cuire prens les<lb/>
+
+<m>moyeulx</m> bien saulpouldres de <m>sucre</m> Et apres bois un
+<ms><bp>doigt</bp></ms><lb/>
+
+de <m>vin</m> Et oultre ce que cela est <md>nourrissant</md> il <md>faict bon
+<bp>ventre</bp></md>
+
+</ab>
+
 </div></entry>

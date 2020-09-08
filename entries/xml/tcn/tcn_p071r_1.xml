@@ -1,44 +1,16 @@
-<entry><div categories="stones" id="p071r_1">
- <m>
-  Ambre
- </m>
- <ab>
-  Il se ramollist co
-  <exp>
-   mm
-  </exp>
-  e
-  <m>
-   paste
-  </m>
-  estant bouilly en
-  <m>
-   cire fondue
-  </m>
-  ,
-  <lb>
-  </lb>
-  et prend couleur bouilly avecq
-  <del>
-   ceru
-  </del>
-  <m>
-   graise de jeune
-   <al>
-    chevreau
-   </al>
-  </m>
-  ,
-  <lb>
-  </lb>
-  car celle du
-  <al>
-   bouc
-  </al>
-  le feroit rompre, principallem
-  <exp>
-   ent
-  </exp>
-  s’il est glacé.
- </ab>
+<entry><div id="p071r_1" categories="stones">
+
+
+
+<head><m>Ambre</m></head>
+
+<ab>Il se ramollist co<exp>mm</exp>e <m>paste</m> estant bouilly en
+<m>cire fondue</m>,<lb/>
+
+et prend couleur bouilly avecq <del>ceru</del> <m>graise de jeune
+<al>chevreau</al></m>,<lb/>
+
+car celle du <al>bouc</al> le feroit rompre, principallem<exp>ent</exp>
+s&#8217;il est glac&#233;.</ab>
+
 </div></entry>

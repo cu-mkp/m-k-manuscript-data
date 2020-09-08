@@ -1,117 +1,23 @@
-<entry><div categories="arms and armor" id="p044r_1">
- Portée d’
- <wp>
-  harquebus
- </wp>
- <ab>
-  La proportion
-  <corr>
-   <del>
-    est
-   </del>
-  </corr>
-  de l’
-  <wp>
-   harquebus de chasse
-  </wp>
-  est de 4
-  <ms>
-   pieds de
-   <lb>
-   </lb>
-   roy
-  </ms>
-  de long &amp; xviii
-  <ms>
-   <cn>
-    deniers
-   </cn>
-  </ms>
-  de balle, la
-cha
-  <corr>
-   rg
-  </corr>
-  e vi
-  <ms>
-   <cn>
-    deniers
-   </cn>
-  </ms>
-  de
-  <lb>
-  </lb>
-  <m>
-   pouldre
-  </m>
-  , sa portée iiii
-  <superscript>
-   xx
-  </superscript>
-  <comment rid="c_017v_02">
-  </comment>
-  <ms>
-   pans
-  </ms>
-  &amp; 3
-  <ms>
-   pieds
-  </ms>
-  <del>
-   lxi
-  </del>
-  &amp; demy, deulx
-  <lb>
-  </lb>
-  <ms>
-   poulces
-  </ms>
-  &amp; quelque
-  <ms>
-   ligne
-  </ms>
-  qu’est l’
-  <df>
-   <ms>
-    aulne de
-    <pl>
-     Paris
-    </pl>
-   </ms>
-  </df>
-  . L’
-  <wp>
-   haquebute
-  </wp>
-  <comment rid="c_044r_01">
-  </comment>
-  <lb>
-  </lb>
-  moyene, qui est l’ordinayre &amp; la plus aysée, porte xv
-  <ms>
-   <cn>
-    den
-    <exp>
-     iers
-    </exp>
-   </cn>
-  </ms>
-  <lb>
-  </lb>
-  de balle, v
-  <ms>
-   <cn>
-    deniers
-   </cn>
-  </ms>
-  de
-  <m>
-   pouldre
-  </m>
-  &amp; lx
-  <ms>
-   pas
-  </ms>
-  de portée.
- </ab>
+<entry><div id="p044r_1" categories="arms and armor">
+
+<head>Port&#233;e d&#8217;<wp>harquebus</wp></head>
+
+<ab>La proportion <corr><del>est</del></corr> de l&#8217;<wp>harquebus de chasse</wp>
+est de 4 <ms>pieds de<lb/>
+
+roy</ms> de long &amp; xviii <ms><cn>deniers</cn></ms> de balle, la
+cha<corr>rg</corr>e vi <ms><cn>deniers</cn></ms> de<lb/>
+
+<m>pouldre</m>, sa port&#233;e iiii<superscript>xx</superscript><comment rid="c_017v_02"/> <ms>pans</ms> &amp; 3 <ms>pieds</ms>
+<del>lxi</del> &amp; demy, deulx<lb/>
+
+<ms>poulces</ms> &amp; quelque <ms>ligne</ms> qu&#8217;est l&#8217;<df><ms>aulne de
+    <pl>Paris</pl></ms></df>. L&#8217;<wp>haquebute</wp><comment rid="c_044r_01"/><lb/>
+
+moyene, qui est l&#8217;ordinayre &amp; la plus ays&#233;e, porte xv
+<ms><cn>den<exp>iers</exp></cn></ms><lb/>
+
+de balle, v <ms><cn>deniers</cn></ms> de <m>pouldre</m> &amp; lx
+<ms>pas</ms> de port&#233;e.</ab>
+
 </div></entry>

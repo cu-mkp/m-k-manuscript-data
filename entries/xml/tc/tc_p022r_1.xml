@@ -1,36 +1,19 @@
-<entry><div categories="arms and armor" id="p022r_1">
- Balle de
- <wp>
-  canon
- </wp>
- poisant
- <lb>
- </lb>
- 40
- <ms>
-  lb
- </ms>
- ayant 12
- <ms>
-  lignes
- </ms>
- <lb>
- </lb>
- <ms>
-  <bp>
-   pied
-  </bp>
-  de roy
- </ms>
- <ab margin="top">
-  Un peu trop grande voy celle
-  <lb>
-  </lb>
-  <del>
-   de
-  </del>
-  qui suict
- </ab>
- <figure id="fig_p022r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dWtBam9HWEpiaHc" size="large">
- </figure>
+<entry><div id="p022r_1" categories="arms and armor">
+
+
+
+<head>Balle de <wp>canon</wp> poisant<lb/>
+        
+40 <ms>lb</ms> ayant 12 <ms>lignes</ms><lb/>
+            
+<ms><bp>pied</bp> de roy</ms></head>
+
+
+    
+<ab margin="top">Un peu trop grande voy celle<lb/>
+        
+<del>de</del> qui suict</ab>
+
+<figure size="large" id="fig_p022r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dWtBam9HWEpiaHc">
+</figure>
 </div></entry>

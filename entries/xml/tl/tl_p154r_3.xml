@@ -1,90 +1,27 @@
-<entry><div categories="metal process" id="p154r_3">
- Softening
- <comment rid="c_015r_01">
- </comment>
- <m>
-  silver
- </m>
- <ab>
-  When
-  <pro>
-   goldsmiths who work large wares
-  </pro>
-  have
+<entry><div id="p154r_3" categories="metal process">
+
+<head>Softening<comment rid="c_015r_01"/> <m>silver</m></head>
+
+<ab>When <pro>goldsmiths who work large wares</pro> have
 forged their platters, it very often happens with their sheddings that
 it bursts &amp; cracks for being too soured. To avoid this, throw in,
-when it is well melted, some
-  <m>
-   dry mortar
-  </m>
-  composed of
-  <m>
-   sand
-  </m>
-  &amp;
-  <m>
-   good lime
-  </m>
-  which has been worked, &amp; pulverize it &amp; throw
-it in.
- </ab>
- <ab margin="left-middle">
-  <pro>
-   Goldsmiths
-  </pro>
-  do not work at all with
-the
-  <m>
-   silver from
-   <cn>
-    reals
-   </cn>
-  </m>
-  that is not alloyed, because it is
-  <m>
-   leady
-  </m>
-  &amp; when forging it sours.
- </ab>
- <ab margin="left-middle" render="tall">
-  Some solder, for small works &amp; things which only go in the fire
-once, with some
-  <cn>
-   old sou
-  </cn>
-  &amp;
-  <cn>
-   carolus
-  </cn>
-  , reheated &amp; beaten. 
-However, if the
-  <cn>
-   sou
-  </cn>
-  is not very
-good, the
-  <m>
-   solder
-  </m>
-  eats away &amp; one needs to solder there twice,
-&amp; one finds there too much
-  <m>
-   copper
-  </m>
-  . Others solder with
-  <ms>
-   half
-  </ms>
-  <m>
-   silver
-  </m>
-  &amp;
-  <ms>
-   half
-  </ms>
-  <m>
-   fine copper
-  </m>
-  .
- </ab>
+when it is well melted, some <m>dry mortar</m> composed of <m>sand</m> &amp;
+<m>good lime</m> which has been worked, &amp; pulverize it &amp; throw
+it in.</ab>
+
+<ab margin="left-middle">
+
+<pro>Goldsmiths</pro> do not work at all with
+the <m>silver from <cn>reals</cn></m> that is not alloyed, because it is
+<m>leady</m> &amp; when forging it sours.</ab>
+
+<ab margin="left-middle" render="tall">
+
+Some solder, for small works &amp; things which only go in the fire
+once, with some <cn>old sou</cn> &amp; <cn>carolus</cn>, reheated &amp; beaten. 
+However, if the <cn>sou</cn> is not very
+good, the <m>solder</m> eats away &amp; one needs to solder there twice,
+&amp; one finds there too much <m>copper</m>. Others solder with
+<ms>half</ms> <m>silver</m> &amp; <ms>half</ms> <m>fine copper</m>.</ab>
+
 </div></entry>

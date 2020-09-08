@@ -1,53 +1,10 @@
-<entry><div categories="casting" id="p053r_3">
- Casting of
- <m>
-  lead
- </m>
- <ab>
-  One mixes it, according to some,
-  <ms>
-   half
-  </ms>
-  <m>
-   tin
-  </m>
-  &amp;
-  <ms>
-   half
-  </ms>
-  <m>
-   lead
-  </m>
-  , and to
-  <fr>
-   l'esch
-  </fr>
-  <del>
-   <ill>
-   </ill>
-  </del>
-  <add>
-   <fr>
-    afer
-   </fr>
-  </add>
-  <comment rid="c_053r_01">
-  </comment>
-  it,
-one mixes in a little
-  <m>
-   sublimate
-  </m>
-  . It casts well in small works in
-a
-  <tl>
-   <m>
-    <al>
-     cuttlefish
-    </al>
-    bone
-   </m>
-  </tl>
-  , provided it is good.
- </ab>
+<entry><div id="p053r_3" categories="casting">
+
+<head>Casting of <m>lead</m></head>
+
+<ab>One mixes it, according to some, <ms>half</ms> <m>tin</m> &amp;
+<ms>half</ms> <m>lead</m>, and to <fr>l'esch</fr><del><ill/></del><add><fr>afer</fr></add><comment rid="c_053r_01"/> it,
+one mixes in a little <m>sublimate</m>. It casts well in small works in
+a <tl><m><al>cuttlefish</al> bone</m></tl>, provided it is good.</ab>
+
 </div></entry>

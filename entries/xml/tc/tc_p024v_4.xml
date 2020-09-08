@@ -1,19 +1,13 @@
-<entry><div categories="arms and armor" id="p024v_4">
- Lumiere a ras
- <ab margin="left-top" render="tall">
-  de
-  <lb>
-  </lb>
-  la culasse est la meilleure
-  <lb>
-  </lb>
-  pourcequen en ceste sorte
-  <lb>
-  </lb>
-  le
-  <wp>
-   canon
-  </wp>
-  ne repousse gueres
- </ab>
-</div></entry>
+<entry><div id="p024v_4" categories="arms and armor">
+
+<head margin="left-top">Lumiere a ras</head>
+    
+<ab margin="left-top" render="tall">
+
+de<lb/>
+
+la culasse est la meilleure<lb/>
+
+pourcequen en ceste sorte<lb/>
+
+le <wp>canon</wp> ne repousse gueres</ab></div></entry>

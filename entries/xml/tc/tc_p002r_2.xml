@@ -1,24 +1,12 @@
-<entry><div categories="medicine" id="p002r_2">
- <md>
-  Contre douleurs
- </md>
- <ab>
-  <m>
-   Huile de tourmentine
-  </m>
-  <m>
-   huile de jacob
-  </m>
-  Et
-  <m>
-   sel tire de
-la cendre
-   <lb>
-   </lb>
-   de
-   <pa>
-    choux
-   </pa>
-  </m>
- </ab>
+<entry><div id="p002r_2" categories="medicine">
+
+
+
+<head><md>Contre douleurs</md></head>
+
+<ab><m>Huile de tourmentine</m> <m>huile de jacob</m> Et <m>sel tire de
+la cendre<lb/>
+
+de <pa>choux</pa></m></ab>
+
 </div></entry>

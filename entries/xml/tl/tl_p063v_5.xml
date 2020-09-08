@@ -1,32 +1,9 @@
-<entry><div categories="painting" id="p063v_5">
- <pl>
-  Flanders
- </pl>
- blue
- <ab>
-  In the
-  <tmp>
-   month of May
-  </tmp>
-  , one puts the
-  <m>
-   <al>
-    cow
-   </al>
-   dung
-  </m>
-  to putrefy under
-  <m>
-   <al>
-    horse
-   </al>
-   dung
-  </m>
-  . Then one mixes
-with
-  <m>
-   florey
-  </m>
-  .
- </ab>
+<entry><div id="p063v_5" categories="painting">
+
+<head><pl>Flanders</pl> blue</head>
+
+<ab>In the <tmp>month of May</tmp>, one puts the <m><al>cow</al>
+dung</m> to putrefy under <m><al>horse</al> dung</m>. Then one mixes
+with <m>florey</m>.</ab>
+
 </div></entry>

@@ -1,42 +1,17 @@
-<entry><div categories="cultivation" id="p038v_3">
- Beaulx
- <pa>
-  artichaulx
- </pa>
- <ab>
-  Il les fault espurger
-  <ms>
-   <tmp>
-    tous les ans
-   </tmp>
-  </ms>
-  de sorte quil
-ny
-  <lb>
-  </lb>
-  demeure quun pied &amp; les arrouser fort
-  <del>
-   L
-  </del>
-  En replanter
-  <lb>
-  </lb>
-  aussy
-  <ms>
-   <tmp>
-    tous les ans
-   </tmp>
-  </ms>
-  car la
-  <ms>
-   <tmp>
-    seconde
-annee
-   </tmp>
-  </ms>
-  ilz porteront
-  <lb>
-  </lb>
-  fort beau fruit
- </ab>
+<entry><div id="p038v_3" categories="cultivation">
+
+
+
+<head>Beaulx <pa>artichaulx</pa></head>
+
+<ab>Il les fault espurger <ms><tmp>tous les ans</tmp></ms> de sorte quil
+ny<lb/>
+
+demeure quun pied &amp; les arrouser fort <del>L</del> En replanter<lb/>
+
+aussy <ms><tmp>tous les ans</tmp></ms> car la <ms><tmp>seconde
+annee</tmp></ms> ilz porteront<lb/>
+
+fort beau fruit</ab>
+
 </div></entry>

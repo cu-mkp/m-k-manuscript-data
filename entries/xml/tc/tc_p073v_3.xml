@@ -1,60 +1,15 @@
-<entry><div categories="varnish" id="p073v_3">
- Aultre recepte pour faire
- <m>
-  verny
- </m>
- <ab>
-  Prenes une
-  <ms>
-   once
-  </ms>
-  de
-  <m>
-   tormentine de
-   <del>
-    verinse
-   </del>
-   <add>
-    <pl>
-     venise
-    </pl>
-   </add>
-  </m>
-  &amp; ung
-  <ms>
-   quart de
-   <lb>
-   </lb>
-   once
-  </ms>
-  d
-  <m>
-   huille de
-   <del>
-    perolle
-   </del>
-   <add>
-    petrolle
-   </add>
-  </m>
-  &amp;
-une
-  <ms>
-   once
-  </ms>
-  de
-  <m>
-   sandrax
-  </m>
-  &amp; une d
-  <m>
-   huille
-   <lb>
-   </lb>
-   d
-   <pa>
-    aspic
-   </pa>
-  </m>
- </ab>
+<entry><div id="p073v_3" categories="varnish">
+
+
+
+<head>Aultre recepte pour faire <m>verny</m></head>
+
+<ab>Prenes une <ms>once</ms> de <m>tormentine de <del>verinse</del>
+<add><pl>venise</pl></add></m> &amp; ung <ms>quart de<lb/>
+
+once</ms> d<m>huille de <del>perolle</del> <add>petrolle</add></m> &amp;
+une <ms>once</ms> de <m>sandrax</m> &amp; une d<m>huille<lb/>
+
+d<pa>aspic</pa></m></ab>
+
 </div></entry>

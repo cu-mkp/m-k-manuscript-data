@@ -1,34 +1,14 @@
-<entry><div categories="merchants" id="p038v_5">
- <pro>
-  Merchant
- </pro>
- <comment rid="c_038v_02">
- </comment>
- <ab>
-  Those who sell
-  <m>
-   velvet
-  </m>
-  &amp;
-  <del>
-   <fr>
-    es
-   </fr>
-  </del>
-  other
+<entry><div id="p038v_5" categories="merchants">
+
+
+
+<head><pro>Merchant</pro><comment rid="c_038v_02"/></head>
+
+<ab>Those who sell <m>velvet</m> &amp; <del><fr>es</fr></del> other
 stuffs by retail do not make double-entry books because selling by
 retail &amp; in detail it would be too much effort for them. They have
-only their sales book
-  <comment rid="c_038v_01">
-  </comment>
-  &amp; their account book. But those who sell in
-bulk &amp; those who traffic in
-  <m>
-   <pa>
-    pastel woad
-   </pa>
-  </m>
-  have
-double-entry books.
- </ab>
+only their sales book<comment rid="c_038v_01"/> &amp; their account book. But those who sell in
+bulk &amp; those who traffic in <m><pa>pastel woad</pa></m> have
+double-entry books.</ab>
+
 </div></entry>

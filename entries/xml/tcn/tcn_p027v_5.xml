@@ -1,22 +1,12 @@
-<entry><div categories="arms and armor" id="p027v_5">
- 1
- <ms>
-  quintal
- </ms>
- ,
- <lb>
- </lb>
- tire six
- <ms>
-  pa
-  <exp>
-   n
-  </exp>
-  s
- </ms>
- <lb>
- </lb>
- et demy
- <figure id="fig_p027v_5" link="https://drive.google.com/open?id=0B9-oNrvWdlO5T2k5QjJ0ZGtfc1U" margin="right-top">
- </figure>
+<entry><div id="p027v_5" categories="arms and armor">
+    
+<head margin="right-top">1 <ms>quintal</ms>,<lb/>
+        
+tire six <ms>pa<exp>n</exp>s</ms><lb/>
+        
+et demy</head>
+
+<figure id="fig_p027v_5" margin="right-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5T2k5QjJ0ZGtfc1U">
+</figure>
+
 </div></entry>

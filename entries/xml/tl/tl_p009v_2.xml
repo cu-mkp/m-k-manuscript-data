@@ -1,16 +1,11 @@
-<entry><div categories="merchants" id="p009v_2">
- <pro>
-  Merchant
- </pro>
- <ab>
-  <comment rid="c_009v_03">
-  </comment>
-  The rule that
-  <pro>
-   merchants
-  </pro>
-  are accustomed to keep in their
+<entry><div id="p009v_2" categories="merchants">
+
+
+
+<head><pro>Merchant</pro></head>
+
+<ab><comment rid="c_009v_03"/>The rule that <pro>merchants</pro> are accustomed to keep in their
 books, that is to say, the waste book, the sales book, and the ledger,
-otherwise called the account book.
- </ab>
+otherwise called the account book.</ab>
+
 </div></entry>

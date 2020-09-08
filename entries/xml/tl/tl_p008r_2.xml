@@ -1,36 +1,12 @@
-<entry><div categories="arms and armor" id="p008r_2">
- For bursting
- <wp>
-  grenades
- </wp>
- and giving force to
- <wp>
-  fireworks
- </wp>
- <ab>
-  Put among the
-  <m>
-   powder
-  </m>
-  <del>
-   <ms>
-    six times as much
-   </ms>
-   of
-   <m>
-    quicksilver
-   </m>
-  </del>
-  <del>
-   and
-  </del>
-  <ms>
-   a sixth part
-  </ms>
-  of
-  <m>
-   quicksilver
-  </m>
-  .
- </ab>
+<entry><div id="p008r_2" categories="arms and armor">
+
+
+
+<head>For bursting <wp>grenades</wp> and giving force to
+<wp>fireworks</wp></head>
+
+<ab>Put among the <m>powder</m> <del><ms>six times as much</ms> of
+<m>quicksilver</m></del> <del>and</del> <ms>a sixth part</ms> of
+<m>quicksilver</m>.</ab>
+
 </div></entry>

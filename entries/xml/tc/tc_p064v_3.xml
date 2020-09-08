@@ -1,66 +1,33 @@
-<entry><div categories="painting" id="p064v_3">
- Adoulcir
- <ab>
-  Pour bien adoulcir il ne fault pas coucher les couleurs
-espesses
-  <lb>
-  </lb>
-  Ains plustost les coucher a deulx fois Si ce nest l
-  <m>
-   azur
-desmail
-  </m>
- </ab>
- <ab margin="left-top" render="wide">
-  Toutes couleurs qui nont point de corps
-  <lb>
-  </lb>
-  a
-  <m>
-   huile
-  </m>
-  nen ont point a
-  <m>
-   destrempe
-  </m>
-  <del>
-   Et
-  </del>
-  <lb>
-  </lb>
-  ains a
-  <m>
-   destrempe
-  </m>
-  vont a fonds Les
-  <lb>
-  </lb>
-  couleurs a
-  <m>
-   destrempe
-  </m>
-  veulent estre grasses
-  <lb>
-  </lb>
-  ce qui se cognoist quand elles prenent
-  <lb>
-  </lb>
-  a la
-  <tl>
-   pallete
-  </tl>
-  <lb>
-  </lb>
-  esta
-  <exp>
-   n
-  </exp>
-  t destrempees
-  <lb>
-  </lb>
-  a
-  <m>
-   huile
-  </m>
- </ab>
+<entry><div id="p064v_3" categories="painting">
+
+
+
+<head>Adoulcir</head>
+
+<ab>Pour bien adoulcir il ne fault pas coucher les couleurs
+espesses<lb/>
+
+Ains plustost les coucher a deulx fois Si ce nest l<m>azur
+desmail</m></ab>
+
+<ab margin="left-top" render="wide">
+
+
+
+Toutes couleurs qui nont point de corps<lb/>
+
+a <m>huile</m> nen ont point a <m>destrempe</m> <del>Et</del><lb/>
+
+ains a <m>destrempe</m> vont a fonds Les<lb/>
+
+couleurs a <m>destrempe</m> veulent estre grasses<lb/>
+
+ce qui se cognoist quand elles prenent<lb/>
+
+a la <tl>pallete</tl><lb/>
+
+esta<exp>n</exp>t destrempees<lb/>
+
+a <m>huile</m></ab>
+
 </div></entry>

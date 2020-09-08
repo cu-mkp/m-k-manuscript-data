@@ -1,36 +1,14 @@
-<entry><div categories="metal process;casting" id="p165v_5">
- <m>
-  Argent
- </m>
- <ab render="wide">
-  <ms>
-   Quand il sautille
-  </ms>
-  , estant fondu, c’est signe qu’il est
-  <lb>
-  </lb>
-  bien chault, &amp; pource que co
-  <exp>
-   mmun
-  </exp>
-  ement il est
-  <m>
-   plombeux
-  </m>
-  ,
-  <lb>
-  </lb>
-  il est bon d’i gecter du
-  <m>
-   mortier de chaulx
-  </m>
-  , car cella
-  <lb>
-  </lb>
-  attire &amp; amasse le
-  <m>
-   plomb
-  </m>
-  .
- </ab>
+<entry><div id="p165v_5" categories="metal process;casting">
+
+<head><m>Argent</m></head>
+
+<ab render="wide"><ms>Quand il sautille</ms>, estant fondu, c&#8217;est signe qu&#8217;il est<lb/>
+
+bien chault, &amp; pource que co<exp>mmun</exp>ement il est
+<m>plombeux</m>,<lb/>
+
+il est bon d&#8217;i gecter du <m>mortier de chaulx</m>, car cella<lb/>
+
+attire &amp; amasse le <m>plomb</m>.</ab>
+
 </div></entry>

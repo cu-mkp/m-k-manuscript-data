@@ -1,47 +1,10 @@
-<entry><div categories="medicine" id="p079v_2">
- <comment rid="c_079v_02">
- </comment>
- <md>
-  Antidote against the fumes of metals
- </md>
- <ab>
-  <tmp>
-   In the morning
-  </tmp>
-  , take a piece of
-  <m>
-   toast with butter
-  </m>
-  ,
-&amp;
-  <md>
-   neither
-   <m>
-    antimony
-   </m>
-   nor
-   <m>
-    any other vapor
-   </m>
-   will be able to
-harm you
-  </md>
-  . Or put
-  <ms>
-   half
-  </ms>
-  a
-  <m>
-   <al>
-    pig
-   </al>
-   ’s bladder
-  </m>
-  in front
-of the
-  <bp>
-   face
-  </bp>
-  .
- </ab>
-</div></entry>
+<entry><div id="p079v_2" categories="medicine">
+
+
+
+<head><comment rid="c_079v_02"/><md>Antidote against the fumes of metals</md></head>
+
+<ab><tmp>In the morning</tmp>, take a piece of <m>toast with butter</m>,
+&amp; <md>neither <m>antimony</m> nor <m>any other vapor</m> will be able to
+harm you</md>. Or put <ms>half</ms> a <m><al>pig</al>&#8217;s bladder</m> in front
+of the <bp>face</bp>.</ab></div></entry>

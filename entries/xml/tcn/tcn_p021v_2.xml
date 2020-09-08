@@ -1,111 +1,37 @@
-<entry><div categories="arms and armor" id="p021v_2">
- Deffense d’une ville
- <ab>
-  Il n’y ha rien qui fasse plus d’execution à la deffence
-  <lb>
-  </lb>
-  d’une bresche que les
-  <wp>
-   mortiers
-  </wp>
-  <comment rid="c_008r_04">
-  </comment>
-  qui sont disposés aulx
-  <lb>
-  </lb>
-  advenues dès l’assault. Ilz portent beaucoup de munition.
-  <lb>
-  </lb>
-  <del>
-   be
-  </del>
-  On les emplist de
-  <m>
-   cloux de charrette
-  </m>
-  , de
-  <m>
-   gros
-dets
-   <lb>
-   </lb>
-   d’acier
-  </m>
-  ,
-  <m>
-   bouts de chesne
-  </m>
-  &amp; choses semblables. Et
-quand
-  <lb>
-  </lb>
-  on sent les ennemys pres, on donne foeu à tous. Les
-  <lb>
-  </lb>
-  <wp>
-   grenades
-  </wp>
-  aussy, bien faictes et jectées à propos, font
-  <lb>
-  </lb>
-  grand domaige. Et pour les empirer, on mect du
-  <m>
-   verre
-   <lb>
-   </lb>
-   grossierem
-   <exp>
-    ent
-   </exp>
-   <del>
-    <tl>
-     pillem
-     <exp>
-      ent
-     </exp>
-    </tl>
-   </del>
-   <tl>
-    pillé
-   </tl>
-  </m>
-  , ou
-dans les
-  <tl>
-   molles
-  </tl>
-  ou dans le
-  <lb>
-  </lb>
-  <tl>
-   <oc>
-    crusol
-   </oc>
-  </tl>
-  , quand on les veult gecter; cela empire les
-  <md>
-   blesseures
-  </md>
-  .
-  <lb>
-  </lb>
-  Il ne fault pas que les
-  <wp>
-   grenades
-  </wp>
-  soient si aigres. Mays
-  <lb>
-  </lb>
-  il est bon qu’elles soient un peu alliées de la
-  <m>
-   matiere des
-   <lb>
-   </lb>
-   pieces
-  </m>
-  affin que, tenant un peu coup plustost que se rompre,
-  <lb>
-  </lb>
-  elles ayent plus de violence.
- </ab>
-</div></entry>
+<entry><div id="p021v_2" categories="arms and armor">
+
+
+
+<head>Deffense d&#8217;une ville</head>
+
+<ab>Il n&#8217;y ha rien qui fasse plus d&#8217;execution &#224; la deffence<lb/>
+
+d&#8217;une bresche que les <wp>mortiers</wp><comment rid="c_008r_04"/> qui sont dispos&#233;s aulx<lb/>
+
+advenues d&#232;s l&#8217;assault. Ilz portent beaucoup de munition.<lb/>
+
+<del>be</del> On les emplist de <m>cloux de charrette</m>, de <m>gros
+dets<lb/>
+
+d&#8217;acier</m>, <m>bouts de chesne</m> &amp; choses semblables. Et
+quand<lb/>
+
+on sent les ennemys pres, on donne foeu &#224; tous. Les<lb/>
+
+<wp>grenades</wp> aussy, bien faictes et ject&#233;es &#224; propos, font<lb/>
+
+grand domaige. Et pour les empirer, on mect du <m>verre<lb/>
+
+grossierem<exp>ent</exp> <del><tl>pillem<exp>ent</exp></tl></del> <tl>pill&#233;</tl></m>, ou
+dans les <tl>molles</tl> ou dans le<lb/>
+
+<tl><oc>crusol</oc></tl>, quand on les veult gecter; cela empire les
+<md>blesseures</md>.<lb/>
+
+Il ne fault pas que les <wp>grenades</wp> soient si aigres. Mays<lb/>
+
+il est bon qu&#8217;elles soient un peu alli&#233;es de la <m>matiere des<lb/>
+
+pieces</m> affin que, tenant un peu coup plustost que se rompre,<lb/>
+
+elles ayent plus de violence.</ab></div></entry>

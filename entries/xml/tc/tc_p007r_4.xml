@@ -1,157 +1,45 @@
-<entry><div categories="tool" id="p007r_4">
- <m>
-  Colle de
-  <al>
-   poisson
-  </al>
- </m>
- ou
- <m>
-  usblac
- </m>
- <add>
-  et
-  <m>
-   colle
-de
-   <lb>
-   </lb>
-   <bp>
-    bouche
-   </bp>
-  </m>
- </add>
- <ab>
-  Elle se faict avecq
-  <m>
-   peau de
-   <al>
-    moulue
-   </al>
-  </m>
-  boullie plustost
-questre
-  <lb>
-  </lb>
-  <m>
-   salee
-  </m>
-  Les
-  <pro>
-   menusiers
-  </pro>
-  en
-  <m>
-   collent
-  </m>
-  leurs chef
-doeuvre et les
-  <pro>
-   <mu>
-    quiternier
-    <ill>
-    </ill>
-   </mu>
-  </pro>
-  <lb>
-  </lb>
-  sen servent aulx ouvrages delicates Elle veult estre fort battue
-  <lb>
-  </lb>
-  puys destrempee doulcem
-  <exp>
-   ent
-  </exp>
-  en
-  <m>
-   eau qui ne bouille
-gueres
-  </m>
- </ab>
- <ab>
-  La
-  <m>
-   colle de
-   <bp>
-    bouche
-   </bp>
-  </m>
-  se faict de
-  <m>
-   ratisseures de
-parchemin
-  </m>
-  et on sen
-  <lb>
-  </lb>
-  sert sans feu pour
-  <m>
-   coller
-  </m>
-  <m>
-   papier
-  </m>
-  ou choses semblables la
-mouilla
-  <exp>
-   n
-  </exp>
-  t
-  <lb>
-  </lb>
-  avecq la
-  <tl>
-   <bp>
-    bouche
-   </bp>
-  </tl>
- </ab>
- <ab margin="left-middle">
-  On la bat et faict
-  <lb>
-  </lb>
-  tremper
-  <del>
-   en
-   <m>
-    eau de vye
-   </m>
-  </del>
-  <lb>
-  </lb>
-  <del>
-   de
-   <m>
-    vinaigre
-   </m>
-  </del>
-  en
-  <m>
-   vin
-   <lb>
-   </lb>
-   blanc
-  </m>
-  une
-  <ms>
-   <tmp>
-    nuict
-   </tmp>
-  </ms>
-  puys
-  <lb>
-  </lb>
-  on la faict fondre
-  <lb>
-  </lb>
-  a feu lent Aultres
-  <lb>
-  </lb>
-  la destrempent en
-  <lb>
-  </lb>
-  <m>
-   eau de vye
-  </m>
- </ab>
+<entry><div id="p007r_4" categories="tool">
+
+<head><m>Colle de <al>poisson</al></m> ou <m>usblac</m> <add>et <m>colle
+de<lb/>
+
+<bp>bouche</bp></m></add></head>
+
+<ab>Elle se faict avecq <m>peau de <al>moulue</al></m> boullie plustost
+questre<lb/>
+
+<m>salee</m> Les <pro>menusiers</pro> en <m>collent</m> leurs chef
+doeuvre et les <pro><mu>quiternier<ill/></mu></pro><lb/>
+
+sen servent aulx ouvrages delicates Elle veult estre fort battue<lb/>
+
+puys destrempee doulcem<exp>ent</exp> en <m>eau qui ne bouille
+gueres</m></ab>
+
+<ab>La <m>colle de <bp>bouche</bp></m> se faict de <m>ratisseures de
+parchemin</m> et on sen<lb/>
+
+sert sans feu pour <m>coller</m> <m>papier</m> ou choses semblables la
+mouilla<exp>n</exp>t<lb/>
+
+avecq la <tl><bp>bouche</bp></tl></ab>
+
+<ab margin="left-middle">
+
+On la bat et faict<lb/>
+
+tremper <del>en <m>eau de vye</m></del><lb/>
+
+<del>de <m>vinaigre</m></del> en <m>vin<lb/>
+
+blanc</m> une <ms><tmp>nuict</tmp></ms> puys<lb/>
+
+on la faict fondre<lb/>
+
+a feu lent Aultres<lb/>
+
+la destrempent en<lb/>
+
+<m>eau de vye</m></ab>
+
 </div></entry>

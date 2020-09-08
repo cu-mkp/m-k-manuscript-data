@@ -1,88 +1,25 @@
-<entry><div categories="medicine" id="p044v_2">
- Excellente
- <md>
-  <m>
-   eau
-  </m>
-  co
-  <exp>
-   n
-  </exp>
-  tre la peste
- </md>
- / de
- <pn>
-  m
-  <exp>
-   onsieu
-  </exp>
-  r de montorsin
- </pn>
- <comment rid="c_044v_03">
- </comment>
- <ab>
-  Prens
-  <m>
-   Theriaque
-  </m>
-  <m>
-   <pa>
-    rue
-   </pa>
-  </m>
-  &amp;
-  <m>
-   <pa>
-    dictam
-   </pa>
-  </m>
-  &amp;
-  <m>
-   bon vinaigre
-  </m>
-  mects
-  <lb>
-  </lb>
-  tout dans une
-  <tl>
-   bouteille de
-   <m>
-    verre
-   </m>
-  </tl>
-  la laissant a demy
-ouverte
-  <lb>
-  </lb>
-  &amp; bien sellee Et la mects en bain fort lent trois ou 4
-  <ms>
-   <tmp>
-    jours
-   </tmp>
-  </ms>
-  <lb>
-  </lb>
-  Puys separe ta decoction de la residence de laquelle
-  <comment rid="c_044v_02">
-  </comment>
-  en temps
-  <lb>
-  </lb>
-  de besoing tu verseras sur un
-  <tl>
-   quarreau rouge enflamme
-  </tl>
-  &amp;
-en
-  <lb>
-  </lb>
-  recepvras la vapeur &amp; en parfumeras aussy tes vestem
-  <exp>
-   ents
-  </exp>
-  cest
-  <lb>
-  </lb>
-  un secret fort rare &amp; esprouve
- </ab>
-</div></entry>
+<entry><div id="p044v_2" categories="medicine">
+
+
+
+<head>Excellente <md><m>eau</m> co<exp>n</exp>tre la peste</md> / de
+    <pn>m<exp>onsieu</exp>r de montorsin</pn><comment rid="c_044v_03"/></head>
+
+<ab>Prens <m>Theriaque</m> <m><pa>rue</pa></m> &amp;
+<m><pa>dictam</pa></m> &amp; <m>bon vinaigre</m> mects<lb/>
+
+tout dans une <tl>bouteille de <m>verre</m></tl> la laissant a demy
+ouverte<lb/>
+
+&amp; bien sellee Et la mects en bain fort lent trois ou 4
+<ms><tmp>jours</tmp></ms><lb/>
+
+Puys separe ta decoction de la residence de laquelle<comment rid="c_044v_02"/> en temps<lb/>
+
+de besoing tu verseras sur un <tl>quarreau rouge enflamme</tl> &amp;
+en<lb/>
+
+recepvras la vapeur &amp; en parfumeras aussy tes vestem<exp>ents</exp>
+cest<lb/>
+
+un secret fort rare &amp; esprouve</ab></div></entry>

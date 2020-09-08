@@ -1,160 +1,61 @@
-<entry><div categories="medicine" continued="yes" id="p055r_4">
- <md>
-  <it>
-   Onenev elbirro
-  </it>
- </md>
- <comment rid="c_055r_03">
- </comment>
- <md>
-  tnaut is no
-ehcram
-  <lb>
-  </lb>
-  rus enu elbat uo
-  <del>
-   ueirse
-  </del>
-  ueirtse
- </md>
- <comment rid="c_055r_06">
- </comment>
- <ab>
-  Ayes au
-  <tmp>
-   moys de juing &amp; juillet
-  </tmp>
-  nombre des
-plus gros
-  <al>
-   escargots
-  </al>
-  <lb>
-  </lb>
-  que tu pourras avecq leur coquille, mects les dans une
-  <tl>
-   bouteille
-   <lb>
-   </lb>
-   de
-   <m>
-    verre
-   </m>
-  </tl>
-  avecq nombre suffisant de
-  <m>
-   jaulne d’oeufs
-  </m>
-  fort durs
-  <lb>
-  </lb>
-  &amp; fort cuits, avecq
-  <m>
-   bon vinaigre
-  </m>
-  . Bouche bien le tout &amp;
-le
-  <lb>
-  </lb>
-  mects soubs le
-  <m>
-   fiens de
-   <al>
-    cheval
-   </al>
-  </m>
-  l’
-  <ms>
-   <tmp>
-    espace de
-quinze jours
-   </tmp>
-  </ms>
-  .
-  <lb>
-  </lb>
-  Les
-  <al>
-   escargots
-  </al>
-  vivront premierem
-  <exp>
-   ent
-  </exp>
-  des
-  <m>
-   jaulnes
-d’oeufs
-  </m>
-  , puys avecq
-  <lb>
-  </lb>
-  la chaleur sortiront de leur coquille &amp; mangeront &amp; vivront
-d’icelle.
-  <lb>
-  </lb>
-  Enfin il s’en fera un onguent blanc, lequel, sans descouper la
-  <lb>
-  </lb>
-  <tl>
-   bouteille
-  </tl>
-  <del>
-   tu mec
-  </del>
-  que sur toutes choses pour ta
-seurté tu
-  <del>
-   b
-  </del>
-  tiendras
-  <comment rid="c_055r_06">
-  </comment>
-  <lb>
-  </lb>
-  bien bouchée, tu mectras
-  <env>
-   au soleil bien fort &amp; au serain
-  </env>
-  ,
-l’espace
- </ab>
+<entry><div id="p055r_4" categories="medicine" continued="yes">
+
+
+
+<head><md><it>Onenev elbirro</it></md><comment rid="c_055r_03"/> <md>tnaut is no
+ehcram<lb/>
+
+rus enu elbat uo <del>ueirse</del> ueirtse</md><comment rid="c_055r_06"/></head>
+
+<ab>Ayes au <tmp>moys de juing &amp; juillet</tmp> nombre des
+plus gros <al>escargots</al><lb/>
+
+que tu pourras avecq leur coquille, mects les dans une
+<tl>bouteille<lb/>
+
+de <m>verre</m></tl> avecq nombre suffisant de <m>jaulne d&#8217;oeufs</m>
+fort durs<lb/>
+
+&amp; fort cuits, avecq <m>bon vinaigre</m>. Bouche bien le tout &amp;
+le<lb/>
+
+mects soubs le <m>fiens de <al>cheval</al></m> l&#8217;<ms><tmp>espace de
+quinze jours</tmp></ms>.<lb/>
+
+Les <al>escargots</al> vivront premierem<exp>ent</exp> des <m>jaulnes
+d&#8217;oeufs</m>, puys avecq<lb/>
+
+la chaleur sortiront de leur coquille &amp; mangeront &amp; vivront
+d&#8217;icelle.<lb/>
+
+Enfin il s&#8217;en fera un onguent blanc, lequel, sans descouper la<lb/>
+
+<tl>bouteille</tl> <del>tu mec</del> que sur toutes choses pour ta
+seurt&#233; tu <del>b</del>tiendras<comment rid="c_055r_06"/><lb/>
+
+bien bouch&#233;e, tu mectras <env>au soleil bien fort &amp; au serain</env>,
+l&#8217;espace</ab>
+
+
+
 </div>
 
-<div categories="medicine" continues="yes" id="p055r_4">
- <ab>
-  de quinze
-  <ms>
-   <tmp>
-    jours
-   </tmp>
-  </ms>
-  . Aprés tu la
-romperas de bien loings
-  <lb>
-  </lb>
-  &amp; avecq un
-  <tl>
-   long baston
-  </tl>
-  sans le regarder &amp; estant
-bien
-  <lb>
-  </lb>
-  bouché en poseras où tu vouldras, ou en frotteras un
-  <lb>
-  </lb>
-  pau dans une
-  <env>
-   riviere courante
-  </env>
-  ou un
-  <env>
-   abre ou herbe
-   <lb>
-   </lb>
-   qui soict au bort
-  </env>
-  .
- </ab>
+<div continues="yes" id="p055r_4" categories="medicine">
+
+
+
+
+
+<ab>de quinze <ms><tmp>jours</tmp></ms>. Apr&#233;s tu la
+romperas de bien loings<lb/>
+
+&amp; avecq un <tl>long baston</tl> sans le regarder &amp; estant
+bien<lb/>
+
+bouch&#233; en poseras o&#249; tu vouldras, ou en frotteras un<lb/>
+
+pau dans une <env>riviere courante</env> ou un <env>abre ou herbe<lb/>
+
+qui soict au bort</env>.</ab>
+
 </div></entry>

@@ -1,157 +1,52 @@
-<entry><div categories="varnish" continued="yes" id="p004v_3">
- <m>
-  Vernis des
-  <pro>
-   graveurs
-   <comment rid="c_004v_02">
-   </comment>
-   sur le
-   <lb>
-   </lb>
-   fer
-  </pro>
- </m>
- <ab>
-  Prens
-  <m>
-   huile de
-   <pa>
-    lin
-   </pa>
-  </m>
-  ou
-  <m>
-   huile de
-   <pa>
-    noix
-   </pa>
-  </m>
-  &amp;, au lieu de
-  <m>
-   poix
-   <lb>
-   </lb>
-   noire,
-  </m>
-  tu y mectras un peu de
-  <m>
-   poix resine
-  </m>
-  , &amp; le fault
-cuire
-  <lb>
-  </lb>
-  à la façon du
-  <m>
-   verni
-   <corr>
-    s
-   </corr>
-   noir
-  </m>
-  à foeu. Et pour l’apliquer,
-  <lb>
-  </lb>
-  chaufe ton
-  <m>
-   fer
-  </m>
-  &amp; ne luy donne qu’une couche de
-  <m>
-   vernis
-  </m>
-  ,
-  <lb>
-  </lb>
-  &amp; quand il ne
-  <m>
-   fumera
-  </m>
-  plus, il est sec. Grave aprés avecq
-  <lb>
-  </lb>
-  la
-  <tl>
-   poincte d’
-   <m>
-    acier
-   </m>
-  </tl>
-  ce que tu vouldras. Aprés
-  <add>
-   ayes
-  </add>
-  du
-  <m>
-   sel
-  </m>
-  &amp;
-  <lb>
-  </lb>
-  du
-  <m>
-   verdegris
-  </m>
-  &amp; le destrempe aultant d’un que d’aultre
-  <lb>
-  </lb>
-  en
-  <m>
-   vinaigre bien fort
-  </m>
-  &amp; le laisse XX4
-  <ms>
-   <tmp>
-    heures
-   </tmp>
-  </ms>
-  deva
-  <exp>
-   n
-  </exp>
-  t
-  <lb>
-  </lb>
-  qu’en user, &amp; tout se destrempera. Aprés estens de ceste
-  <lb>
-  </lb>
-  liqueur ou saulce sur la chose gravée avecq une
-  <tl>
-   esponge
-  </tl>
- </ab>
+<entry><div id="p004v_3" categories="varnish" continued="yes">
+
+<head><m>Vernis des <pro>graveurs<comment rid="c_004v_02"/> sur le<lb/>
+
+fer</pro></m></head>
+
+<ab>Prens <m>huile de <pa>lin</pa></m> ou <m>huile de <pa>noix</pa></m>
+&amp;, au lieu de <m>poix<lb/>
+
+noire,</m> tu y mectras un peu de <m>poix resine</m>, &amp; le fault
+cuire<lb/>
+
+&#224; la fa&#231;on du <m>verni<corr>s</corr> noir</m> &#224; foeu. Et pour l&#8217;apliquer,<lb/>
+
+chaufe ton <m>fer</m> &amp; ne luy donne qu&#8217;une couche de
+<m>vernis</m>,<lb/>
+
+&amp; quand il ne <m>fumera</m> plus, il est sec. Grave apr&#233;s avecq<lb/>
+
+la <tl>poincte d&#8217;<m>acier</m></tl> ce que tu vouldras. Apr&#233;s
+<add>ayes</add> du <m>sel</m> &amp;<lb/>
+
+du <m>verdegris</m> &amp; le destrempe aultant d&#8217;un que d&#8217;aultre<lb/>
+
+en <m>vinaigre bien fort</m> &amp; le laisse XX4
+<ms><tmp>heures</tmp></ms> deva<exp>n</exp>t<lb/>
+
+qu&#8217;en user, &amp; tout se destrempera. Apr&#233;s estens de ceste<lb/>
+
+liqueur ou saulce sur la chose grav&#233;e avecq une <tl>esponge</tl></ab>
+
+
+
 </div>
 
-<div categories="varnish" continues="yes" id="p004v_3">
- <ab>
-  ou
-  <m>
-   <pa>
-    linge
-   </pa>
-  </m>
-  &amp; le laisser ainsy xx4
-  <ms>
-   <tmp>
-    heures
-   </tmp>
-  </ms>
-  , &amp; il sera gravé.
-  <comment rid="c_004v_02">
-  </comment>
-  <lb>
-  </lb>
-  Mays si tu voulois promptement graver, vernisses tout
-v
-  <exp>
-   ost
-  </exp>
-  re
-  <lb>
-  </lb>
-  besoigne &amp; la faictes bouillir dans ladicte liqueur, &amp; elle
-  <lb>
-  </lb>
-  gravera promptement.
- </ab>
+<div continues="yes" id="p004v_3" categories="varnish">
+
+
+
+
+
+<ab>ou <m><pa>linge</pa></m> &amp; le laisser ainsy xx4
+<ms><tmp>heures</tmp></ms>, &amp; il sera grav&#233;.<comment rid="c_004v_02"/><lb/>
+
+Mays si tu voulois promptement graver, vernisses tout
+v<exp>ost</exp>re<lb/>
+
+besoigne &amp; la faictes bouillir dans ladicte liqueur, &amp; elle<lb/>
+
+gravera promptement.</ab>
+
 </div></entry>

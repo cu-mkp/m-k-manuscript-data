@@ -1,186 +1,56 @@
-<entry><div categories="casting" id="p110v_3">
- Gect de
- <m>
-  plomb
- </m>
- et
- <m>
-  estaim
- </m>
- <ab>
-  Pource que l’
-  <m>
-   estaim
-  </m>
-  veult estre gecté fort tanvre, si ta
-medaille,
-  <lb>
-  </lb>
-  herbe, ou aultre chose à mouler est
-  <del>
-   espe
-  </del>
-  tanvre &amp;
-subtile, fais qu’il
-  <lb>
-  </lb>
-  y aye plus d’
-  <m>
-   estaim
-  </m>
-  , beaucoup plus que de
-  <m>
-   plomb
-  </m>
-  , sçavoir
-moins
-  <lb>
-  </lb>
-  que la
-  <ms>
-   quarte partie de
-   <m>
-    plomb
-   </m>
-   sur trois d’
-   <m>
-    estaim
-   </m>
-  </ms>
-  .
-Et encores ne
-  <lb>
-  </lb>
-  mect on le
-  <m>
-   plomb
-  </m>
-  que pour l’alier. Au contraire, si tu veulx
-  <lb>
-  </lb>
-  mouler quelque chose forte &amp; espesse,
-  <corr>
-   mects
-  </corr>
-  <comment rid="c_110v_03">
-  </comment>
-  beaucoup plus
-  <lb>
-  </lb>
-  de
-  <m>
-   plomb
-  </m>
-  que d’
-  <m>
-   estaim
-  </m>
-  . Et en l’un &amp; l’aultre tu peulx
-mectre
-  <lb>
-  </lb>
-  un peu d’
-  <m>
-   estaim de glace
-  </m>
-  , mays fort peu, avecq un peu de
-  <m>
-   rousine
-  </m>
-  <lb>
-  </lb>
-  quand tu vouldras gecter.
-  <add>
-   Despuys en moulant de
-   <m>
-    plomb fin
-et
-    <lb>
-    </lb>
-    noeuf
-   </m>
-   , j’ay mis sur une
-   <ms>
-    lb
-   </ms>
-   deulx
-   <ms>
-    onces
-   </ms>
-   d’
-   <m>
-    estaim
-fin
-   </m>
-   . Et moulant
-   <lb>
-   </lb>
-   d’
-   <m>
-    estaim fin
-   </m>
-   , j’y ay mis ii
-   <ms>
-    ℥
-   </ms>
-   de
-   <m>
-    plomb fin
-   </m>
-   pour
-   <ms>
-    lb
-   </ms>
-   . J’ay faict des
-   <lb>
-   </lb>
-   herbes &amp;
-   <al>
-    serpents
-   </al>
-   co
-   <exp>
-    mm
-   </exp>
-   e le naturel.
-  </add>
- </ab>
- <ab margin="left-middle">
-  <del>
-   S
-   <ill>
-   </ill>
-  </del>
- </ab>
- <ab margin="left-middle">
-  J’ay gecté l’
-  <m>
-   estaim
-  </m>
-  <lb>
-  </lb>
-  presque rouge
-  <lb>
-  </lb>
-  et le
-  <m>
-   plomb
-  </m>
-  de
-  <lb>
-  </lb>
-  mesme, qui touteffois
-  <lb>
-  </lb>
-  n’avoict pas trop
-  <lb>
-  </lb>
-  demeuré au foeu,
-  <lb>
-  </lb>
-  car il s’y aigrist
-  <lb>
-  </lb>
-  et calcine.
- </ab>
-</div></entry>
+<entry><div id="p110v_3" categories="casting">
+
+
+
+<head>Gect de <m>plomb</m> et <m>estaim</m></head>
+
+<ab>Pource que l&#8217;<m>estaim</m> veult estre gect&#233; fort tanvre, si ta
+medaille,<lb/>
+
+herbe, ou aultre chose &#224; mouler est <del>espe</del> tanvre &amp;
+subtile, fais qu&#8217;il<lb/>
+
+y aye plus d&#8217;<m>estaim</m>, beaucoup plus que de <m>plomb</m>, s&#231;avoir
+moins<lb/>
+
+que la <ms>quarte partie de <m>plomb</m> sur trois d&#8217;<m>estaim</m></ms>.
+Et encores ne<lb/>
+
+mect on le <m>plomb</m> que pour l&#8217;alier. Au contraire, si tu veulx<lb/>
+
+mouler quelque chose forte &amp; espesse, <corr>mects</corr><comment rid="c_110v_03"/> beaucoup plus<lb/>
+
+de <m>plomb</m> que d&#8217;<m>estaim</m>. Et en l&#8217;un &amp; l&#8217;aultre tu peulx
+mectre<lb/>
+
+un peu d&#8217;<m>estaim de glace</m>, mays fort peu, avecq un peu de
+<m>rousine</m><lb/>
+
+quand tu vouldras gecter. <add>Despuys en moulant de <m>plomb fin
+et<lb/>
+
+noeuf</m>, j&#8217;ay mis sur une <ms>lb</ms> deulx <ms>onces</ms> d&#8217;<m>estaim
+fin</m>. Et moulant<lb/>
+
+d&#8217;<m>estaim fin</m>, j&#8217;y ay mis ii <ms>&#8485;</ms> de
+<m>plomb fin</m> pour <ms>lb</ms>. J&#8217;ay faict des<lb/>
+
+herbes &amp; <al>serpents</al> co<exp>mm</exp>e le naturel.</add></ab>
+
+<ab margin="left-middle"><del>S<ill/></del></ab>
+
+<ab margin="left-middle">J&#8217;ay gect&#233; l&#8217;<m>estaim</m><lb/>
+
+presque rouge<lb/>
+
+et le <m>plomb</m> de<lb/>
+
+mesme, qui touteffois<lb/>
+
+n&#8217;avoict pas trop<lb/>
+
+demeur&#233; au foeu,<lb/>
+
+car il s&#8217;y aigrist<lb/>
+
+et calcine.</ab></div></entry>

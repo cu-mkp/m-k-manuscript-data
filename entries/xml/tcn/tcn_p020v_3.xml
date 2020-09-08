@@ -1,33 +1,20 @@
-<entry><div categories="cultivation" id="p020v_3">
- <pa>
-  Eschervis
- </pa>
- racine
- <ab>
-  Ils veulent estre plantés
-  <env>
-   en lieu fort humide où tel
-qu’avecq
-   <lb>
-   </lb>
-   puys
-   <oc>
-    rodier
-   </oc>
-   ou fontayne on le puysse souvent arroser
-  </env>
-  ,
-car
-  <lb>
-  </lb>
-  par ce moyen ilz sont tendres. Aultrement, ils se faict au
-deda
-  <exp>
-   n
-  </exp>
-  s
-  <lb>
-  </lb>
-  un coeur dur qui luy oste toute sa bonté.
- </ab>
+<entry><div id="p020v_3" categories="cultivation">
+
+
+
+<head><pa>Eschervis</pa> racine</head>
+
+<ab>Ils veulent estre plant&#233;s <env>en lieu fort humide o&#249; tel
+qu&#8217;avecq<lb/>
+
+puys <oc>rodier</oc> ou fontayne on le puysse souvent arroser</env>,
+car<lb/>
+
+par ce moyen ilz sont tendres. Aultrement, ils se faict au
+deda<exp>n</exp>s<lb/>
+
+un coeur dur qui luy oste toute sa bont&#233;.
+
+</ab>
+
 </div></entry>

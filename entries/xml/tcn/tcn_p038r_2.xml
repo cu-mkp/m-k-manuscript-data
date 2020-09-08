@@ -1,40 +1,15 @@
-<entry><div categories="dyeing" id="p038r_2">
- <m>
-  <pa>
-   Safran
-  </pa>
- </m>
- <ab>
-  Il se contrefaict
-  <comment rid="c_003r_02">
-  </comment>
-  &amp; s’augmente avecq des
-  <m>
-   foeilles de
-   <pa>
-    soucy
-   </pa>
-   à demy seiches
-   <lb>
-   </lb>
-   &amp; retorses co
-   <exp>
-    mm
-   </exp>
-   e un fil
-  </m>
-  &amp; mises à seicher
-  <env>
-   au
-plus chault soleil
-  </env>
-  , &amp; se mesle,
-  <lb>
-  </lb>
-  &amp; ledict
-  <pa>
-   soucy
-  </pa>
-  donne mesme quelque taincture.
- </ab>
+<entry><div id="p038r_2" categories="dyeing">
+
+
+
+<head><m><pa>Safran</pa></m></head>
+
+<ab>Il se contrefaict<comment rid="c_003r_02"/> &amp; s&#8217;augmente avecq des <m>foeilles de
+<pa>soucy</pa> &#224; demy seiches<lb/>
+
+&amp; retorses co<exp>mm</exp>e un fil</m> &amp; mises &#224; seicher <env>au
+plus chault soleil</env>, &amp; se mesle,<lb/>
+
+&amp; ledict <pa>soucy</pa> donne mesme quelque taincture.</ab>
+
 </div></entry>

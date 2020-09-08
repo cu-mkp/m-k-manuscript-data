@@ -1,86 +1,23 @@
-<entry><div categories="casting" id="p081v_3">
- <m>
-  Sable
- </m>
- <ab>
-  Les
-  <m>
-   caillous noirs de
-   <env>
-    riviere
-   </env>
-   calcinés
-  </m>
-  sont bons
-pour le
-  <lb>
-  </lb>
-  <m>
-   plomb
-  </m>
-  , mays ilz s’estonnent pour le
-  <m>
-   metal
-  </m>
-  .
- </ab>
- <ab>
-  Il n’y a que la
-  <del>
-   <ill>
-   </ill>
-  </del>
-  <m>
-   terre ardille de quoy on faict
-les tuiles
-  </m>
-  ,
-  <lb>
-  </lb>
-  recuite &amp; rougie &amp; passée par une
-  <tl>
-   manche
-  </tl>
-  subtilem
-  <exp>
-   ent
-  </exp>
-  destrempée
-  <lb>
-  </lb>
-  avecq
-  <m>
-   glaire
-  </m>
-  .
- </ab>
- <ab>
-  Le
-  <m>
-   charbon de
-   <pa>
-    saule
-   </pa>
-  </m>
-  pour
-  <m>
-   sable pour le
-   <del>
-    b
-   </del>
-   <m>
-    plomb
-   </m>
-  </m>
-  est excellent.
-  <comment rid="c_081v_02">
-  </comment>
- </ab>
- <ab>
-  Le
-  <m>
-   laitton
-  </m>
-  court mieulx.
- </ab>
+<entry><div id="p081v_3" categories="casting">
+
+<head><m>Sable</m></head>
+
+<ab>Les <m>caillous noirs de <env>riviere</env> calcin&#233;s</m> sont bons
+pour le<lb/>
+
+<m>plomb</m>, mays ilz s&#8217;estonnent pour le <m>metal</m>.</ab>
+
+<ab>Il n&#8217;y a que la <del><ill/></del> <m>terre ardille de quoy on faict
+les tuiles</m>,<lb/>
+
+recuite &amp; rougie &amp; pass&#233;e par une <tl>manche</tl>
+subtilem<exp>ent</exp> destremp&#233;e<lb/>
+
+avecq <m>glaire</m>.</ab>
+
+<ab>Le <m>charbon de <pa>saule</pa></m> pour <m>sable pour le <del>b</del>
+<m>plomb</m></m> est excellent.<comment rid="c_081v_02"/></ab>
+
+<ab>Le <m>laitton</m> court mieulx.</ab>
+
 </div></entry>

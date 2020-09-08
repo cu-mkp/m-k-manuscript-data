@@ -1,45 +1,12 @@
-<entry><div categories="cultivation" id="p053r_5">
- <pa>
-  Almond trees
- </pa>
- ,
- <pa>
-  apricots
- </pa>
- <ab>
-  They come in quite straight if one grafts them. And all trees with
-pitted fruit, like
-  <pa>
-   <fr>
-    pavis
-   </fr>
-  </pa>
-  ,
-  <pa>
-   <fr>
-    mericotons
-   </fr>
-  </pa>
-  ,
-  <pa>
-   <fr>
-    alberges
-   </fr>
-  </pa>
-  ,
-  <del>
-   <fr>
-    vie
-   </fr>
-  </del>
-  <pa>
-   apricots
-  </pa>
-  &amp;c, come in best 
-shield grafted on an
-  <pa>
-   almond tree
-  </pa>
-  .
- </ab>
+<entry><div id="p053r_5" categories="cultivation">
+
+
+<head><pa>Almond trees</pa>, <pa>apricots</pa></head>
+
+<ab>They come in quite straight if one grafts them. And all trees with
+pitted fruit, like <pa><fr>pavis</fr></pa>,
+<pa><fr>mericotons</fr></pa>, <pa><fr>alberges</fr></pa>,
+<del><fr>vie</fr></del> <pa>apricots</pa> &amp;c, come in best 
+shield grafted on an <pa>almond tree</pa>.</ab>
+
 </div></entry>
