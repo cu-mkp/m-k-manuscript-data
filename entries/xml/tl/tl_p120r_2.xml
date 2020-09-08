@@ -1,226 +1,47 @@
-<entry><div categories="casting" id="p120r_2">
- <m>
-  Sand for casting in
-  <m>
-   gold
-  </m>
- </m>
- <ab margin="left-top" render="wide">
-  You could cast
-  <m>
-   gold
-  </m>
-  well in
-  <m>
-   common sand of
-   <pro>
-    goldsmiths
-   </pro>
-  </m>
-  , should you throw therein
-  <lb>
-  </lb>
-  some substance that makes it run.
- </ab>
+<entry><div id="p120r_2" categories="casting">
+
+<head><m>Sand for casting in <m>gold</m></m></head>
+
+
+<ab margin="left-top" render="wide">
+        
+You could cast <m>gold</m> well in <m>common sand of
+<pro>goldsmiths</pro></m>, should you throw therein<lb/>
+some substance that makes it run.</ab>
+
 </div>
+    
 
 
 <div id="p120r_2" part="y">
- <ab>
-  Take
-  <m>
-   common sand
-  </m>
-  of
-  <m>
-   alum
-  </m>
-  , of
-  <m>
-   plaster
-  </m>
-  &amp;
-  <m>
-   brick
-  </m>
-  , according to the composition said above. Add to it some
-more
-  <m>
-   feather alum
-  </m>
-  . And mix in not quite the
-  <ms>
-   third
-part
-  </ms>
-  of
-  <m>
-   <la>
-    crocum ferri
-   </la>
-  </m>
-  . However, its quantity cannot
-be harmful, for it is that which receives the
-  <m>
-   gold
-  </m>
-  &amp; thanks
+<ab>Take <m>common sand</m> of <m>alum</m>, of <m>plaster</m> &amp;
+<m>brick</m>, according to the composition said above. Add to it some
+more <m>feather alum</m>. And mix in not quite the <ms>third
+part</ms> of <m><la>crocum ferri</la></m>. However, its quantity cannot
+be harmful, for it is that which receives the <m>gold</m> &amp; thanks
 to which it comes out very neatly. But it were good that your
-  <m>
-   <la>
-    crocum
-   </la>
-  </m>
-  had previously been in the
-  <tl>
-   <pro>
-    glassmaker’s
-   </pro>
-   <fr>
-    fornaise
-   </fr>
-  </tl>
-  ,
-  <del>
-   4
-  </del>
-  <comment rid="c_120r_01">
-  </comment>
-  <ms>
-   three
-   <del>
-    or 4
-   </del>
-   <tmp>
-    days
-   </tmp>
-   <corr>
-    <del>
-     and
-    </del>
-   </corr>
-   <del>
-    three
-    <tmp>
-     days
-    </tmp>
-   </del>
-   and three
-   <tmp>
-    nights
-   </tmp>
-  </ms>
-  , in a
-  <tl>
-   flat box
-  </tl>
-  where it should not be very thick, so that it reheats better.
- </ab>
- <ab margin="left-top" render="wide">
-  Before the invention of
-  <m>
-   <la>
-    crocum
-   </la>
-  </m>
-  , one
-  <lb>
-  </lb>
-  would cast flowers in
-  <m>
-   silver
-  </m>
-  but not at all in
-  <m>
-   gold
-  </m>
-  . It has not been
-forty
-  <ms>
-   <tmp>
-    years
-   </tmp>
-  </ms>
-  that one
-  <lb>
-  </lb>
-  knows this in
-  <pl>
-   Germany
-  </pl>
-  .
- </ab>
- <ab margin="left-middle" render="tall">
-  <m>
-   Sublimate
-  </m>
-  is commonly employed by
-  <pro>
-   goldsmiths
-  </pro>
-  for
-  <m>
-   gold
-  </m>
-  . Some add
-  <m>
-   sulfur
-  </m>
-  , but they &amp; others are wrong,
-for
-  <m>
-   sulfur
-  </m>
-  sours, even as it heats. And the
-  <m>
-   sublimate
-  </m>
-  is
-agitated, boils, and bubbles. It is very good to clean
-  <m>
-   gold
-  </m>
-  because by its exhalations, it draws everything out as it goes up in
-  <m>
-   smoke
-  </m>
-  . But to warm
-  <m>
-   gold
-  </m>
-  &amp; conserve its heat, there is only
-the
-  <df>
-   <m>
-    <fr>
-     couleur
-    </fr>
-   </m>
-  </df>
-  , which is
-  <m>
-   verdet
-  </m>
-  ,
-  <m>
-   sal ammoniac
-  </m>
-  ,
-  <m>
-   saltpeter
-  </m>
-  &amp;
-  <m>
-   borax
-  </m>
-  . This makes it run, &amp; you can
-throw in a
-  <m>
-   branch of
-   <pa>
-    wormseed
-   </pa>
-  </m>
-  .
- </ab>
+<m><la>crocum</la></m> had previously been in the
+<tl><pro>glassmaker&#8217;s</pro> <fr>fornaise</fr></tl>, <del>4</del><comment rid="c_120r_01"/> <ms>three <del>or 4</del>
+<tmp>days</tmp> <corr><del>and</del></corr> <del>three <tmp>days</tmp></del> and three
+<tmp>nights</tmp></ms>, in a <tl>flat box</tl> where it should not be very thick, so that it reheats better.</ab>
+
+
+<ab margin="left-top" render="wide">
+Before the invention of <m><la>crocum</la></m>, one<lb/>
+would cast flowers in <m>silver</m> but not at all in <m>gold</m>. It has not been
+forty <ms><tmp>years</tmp></ms> that one<lb/>
+knows this in <pl>Germany</pl>.</ab>
+
+<ab margin="left-middle" render="tall">
+
+<m>Sublimate</m> is commonly employed by <pro>goldsmiths</pro> for
+<m>gold</m>. Some add <m>sulfur</m>, but they &amp; others are wrong,
+for <m>sulfur</m> sours, even as it heats. And the <m>sublimate</m> is
+agitated, boils, and bubbles. It is very good to clean <m>gold</m>
+because by its exhalations, it draws everything out as it goes up in
+<m>smoke</m>. But to warm <m>gold</m> &amp; conserve its heat, there is only
+the <df><m><fr>couleur</fr></m></df>, which is <m>verdet</m>, <m>sal ammoniac</m>,
+<m>saltpeter</m> &amp; <m>borax</m>. This makes it run, &amp; you can
+throw in a <m>branch of <pa>wormseed</pa></m>.</ab>
+
 </div></entry>

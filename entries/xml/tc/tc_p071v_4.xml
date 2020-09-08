@@ -1,89 +1,28 @@
-<entry><div categories="casting" id="p071v_4">
- <m>
-  Sable
- </m>
- <ab>
-  La
-  <m>
-   moulee
-  </m>
-  est fort bonne pour gecter en
-  <m>
-   cuivre
-  </m>
-  mays il
-ne
-  <lb>
-  </lb>
-  fault prendre de
-  <m>
-   celle des
-   <pro>
-    cousteliers
-   </pro>
-  </m>
-  car ce nest que
-  <m>
-   vase
-  </m>
-  <lb>
-  </lb>
-  Mays de celle que font ceulx qui
-  <del>
-   moulent
-  </del>
-  esmoulent les
-grands
-  <lb>
-  </lb>
-  ciseaulx
- </ab>
- <ab>
-  Les
-  <m>
-   pierres de filieres
-  </m>
-  <comment rid="c_071v_01">
-  </comment>
-  dequoy adoulcissent
-  <pro>
-   ceulx qui
-aguisent
-  </pro>
-  <comment rid="c_071v_02">
-  </comment>
-  <lb>
-  </lb>
-  moule fort net estant raclee pour le
-  <m>
-   plomb
-  </m>
-  Elle est
-commun
-  <exp>
-   ement
-  </exp>
-  <lb>
-  </lb>
-  de couleur d
-  <m>
-   ardoise
-  </m>
-  On en porte fort a
-  <pl>
-   Th
-   <exp>
-    ou
-   </exp>
-   l
-   <exp>
-    ous
-   </exp>
-   e
-  </pl>
-  devers
-  <pl>
-   Carcassonne
-  </pl>
- </ab>
+<entry><div id="p071v_4" categories="casting">
+
+
+
+<head><m>Sable</m></head>
+
+<ab>La <m>moulee</m> est fort bonne pour gecter en <m>cuivre</m> mays il
+ne<lb/>
+
+fault prendre de <m>celle des <pro>cousteliers</pro></m> car ce nest que
+<m>vase</m><lb/>
+
+Mays de celle que font ceulx qui <del>moulent</del> esmoulent les
+grands<lb/>
+
+ciseaulx</ab>
+
+<ab>Les <m>pierres de filieres</m><comment rid="c_071v_01"/> dequoy adoulcissent <pro>ceulx qui
+aguisent</pro><comment rid="c_071v_02"/><lb/>
+
+moule fort net estant raclee pour le <m>plomb</m> Elle est
+commun<exp>ement</exp><lb/>
+
+de couleur d<m>ardoise</m> On en porte fort a
+<pl>Th<exp>ou</exp>l<exp>ous</exp>e</pl> devers
+<pl>Carcassonne</pl></ab>
+
 </div></entry>

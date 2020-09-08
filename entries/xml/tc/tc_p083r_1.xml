@@ -1,71 +1,26 @@
-<entry><div categories="casting" id="p083r_1">
- <m>
-  Sable pour le
-  <m>
-   plomb
-  </m>
- </m>
- <ab>
-  <la>
-   ℞
-  </la>
-  <comment rid="c_083r_04">
-  </comment>
-  <m>
-   suye grise du fourneau des
-   <pro>
-    argentiers
-   </pro>
-  </m>
-  <m>
-   chaulx vive
-  </m>
-  et
-  <lb>
-  </lb>
-  <m>
-   farine
-  </m>
-  <ms>
-   <la>
-    ana
-   </la>
-  </ms>
-  <comment rid="c_083r_03">
-  </comment>
-  humecte selon lart estant le plus
-subtilie quil te sera
-  <lb>
-  </lb>
-  possible
- </ab>
- <ab margin="left-middle">
-  La
-  <m>
-   suye grise des
-   <pro>
-    sarruriers
-   </pro>
-  </m>
-  <lb>
-  </lb>
-  qui se tient a leur
-  <tl>
-   forge
-  </tl>
-  est fort
-  <lb>
-  </lb>
-  subtile esta
-  <exp>
-   n
-  </exp>
-  t broyee moule fort net
-  <lb>
-  </lb>
-  &amp; despouille
-  <lb>
-  </lb>
-  fort bien
- </ab>
+<entry><div id="p083r_1" categories="casting">
+
+
+<head><m>Sable pour le <m>plomb</m></m></head>
+
+<ab><la>&#8478;</la><comment rid="c_083r_04"/> <m>suye grise du fourneau des
+<pro>argentiers</pro></m> <m>chaulx vive</m> et<lb/>
+
+<m>farine</m> <ms><la>ana</la></ms><comment rid="c_083r_03"/> humecte selon lart estant le plus
+subtilie quil te sera<lb/>
+
+possible</ab>
+
+<ab margin="left-middle">
+
+La <m>suye grise des <pro>sarruriers</pro></m><lb/>
+
+qui se tient a leur <tl>forge</tl> est fort<lb/>
+
+subtile esta<exp>n</exp>t broyee moule fort net<lb/>
+
+&amp; despouille<lb/>
+
+fort bien</ab>
+
 </div></entry>

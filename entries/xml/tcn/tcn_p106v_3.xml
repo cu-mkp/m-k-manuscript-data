@@ -1,105 +1,38 @@
-<entry><div categories="casting" id="p106v_3">
- <m>
-  Tuiles
- </m>
- <ab margin="right-middle">
-  <add>
-   Celles des
-   <env>
-    maisons
-   </env>
-   qui sont de
-   <m>
-    terre
-    <lb>
-    </lb>
-    aulcunem
-    <exp>
-     ent
-    </exp>
-    areneuse
-   </m>
-   semblent tenir plus
-   <lb>
-   </lb>
-   au foeu.
-  </add>
- </ab>
+<entry><div id="p106v_3" categories="casting">
+        
+<head><m>Tuiles</m></head>
+
+<ab margin="right-middle">
+        
+<add>Celles des <env>maisons</env> qui sont de <m>terre<lb/>
+            
+aulcunem<exp>ent</exp> areneuse</m> semblent tenir plus<lb/>
+            
+au foeu.</add></ab>
 </div>
+    
+    
 
 
-<div id="p106v_3" part="y">
- <ab render="wide">
-  Les
-  <m>
-   tuilles
-  </m>
-  de quoy on couvre les
-  <env>
-   maisons
-  </env>
-  , des
-plus dures
-  <lb>
-  </lb>
-  &amp; plus fermes et repurgées de
-  <m>
-   pierres
-  </m>
-  &amp; gros
-  <m>
-   gravier
-  </m>
-  ,
-  <lb>
-  </lb>
-  se prenent pour
-  <del>
-   p
-  </del>
-  mesler parmy le
-  <m>
-   sable
-  </m>
-  <del>
-   Et
-  </del>
-  à
-mouler.
-  <lb>
-  </lb>
-  Mays plustost il les fault recuire jusques à ce qu’elles
-  <lb>
-  </lb>
-  ayent esté une
-  <ms>
-   <tmp>
-    heure
-   </tmp>
-  </ms>
-  ou deux bien rouges, &amp; les
-  <tl>
-   piler
-  </tl>
-  &amp;
-  <lb>
-  </lb>
-  passer subtillement par le
-  <tl>
-   tamis
-  </tl>
-  .
- </ab>
- <ab render="wide">
-  Les petites
-  <al>
-   tortues
-  </al>
-  estant sorties de l’oeuf sont bien
-  <lb>
-  </lb>
-  gentilles à mouler.
-  <comment rid="c_106v_02">
-  </comment>
- </ab>
+<div id="p106v_3" part="y">  
+<ab render="wide">Les <m>tuilles</m> de quoy on couvre les <env>maisons</env>, des
+plus dures<lb/>
+            
+&amp; plus fermes et repurg&#233;es de <m>pierres</m> &amp; gros
+<m>gravier</m>,<lb/>
+            
+se prenent pour <del>p</del> mesler parmy le <m>sable</m> <del>Et</del> &#224;
+mouler.<lb/>
+            
+Mays plustost il les fault recuire jusques &#224; ce qu&#8217;elles<lb/>
+            
+ayent est&#233; une <ms><tmp>heure</tmp></ms> ou deux bien rouges, &amp; les
+<tl>piler</tl> &amp;<lb/>
+            
+passer subtillement par le <tl>tamis</tl>.</ab>
+        
+<ab render="wide">Les petites <al>tortues</al> estant sorties de l&#8217;oeuf sont bien<lb/>
+            
+gentilles &#224; mouler.<comment rid="c_106v_02"/></ab>
+        
 </div></entry>

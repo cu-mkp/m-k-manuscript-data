@@ -1,176 +1,44 @@
-<entry><div categories="varnish" continued="yes" id="p066r_5">
- <underline>
-  Gilding molding for
- </underline>
- panels with
- <m>
-  <fr>
-   or mat
-  </fr>
- </m>
- <ab>
-  <add>
-   see the other side of this folio this mark:
-   <mark>
-    *
-   </mark>
-  </add>
-  <comment rid="c_066r_01">
-  </comment>
- </ab>
- <ab>
-  The
-  <pl>
-   Flemish
-  </pl>
-  give a layer of
-  <m>
-   distemper glue
-  </m>
-  on the molding, then mix
-  <m>
-   lamp black
-  </m>
-  or
-  <m>
-   soot black
-  </m>
-  with the same
-  <m>
-   glue
-  </m>
-  &amp; let dry.
+<entry><div id="p066r_5" categories="varnish" continued="yes">
+        
+<head><underline>Gilding molding for</underline> panels with <m><fr>or mat</fr></m></head>
+        
+<ab><add>see the other side of this folio this mark:
+<mark>*</mark></add><comment rid="c_066r_01"/></ab>
+        
+<ab>The <pl>Flemish</pl> give a layer of <m>distemper glue</m> 
+on the molding, then mix <m>lamp black</m> or
+<m>soot black</m> with the same <m>glue</m> &amp; let dry.
 Next they pounce some moresque in the corners &amp; paint it
-with
-  <m>
-   minium
-  </m>
-  ,
-  <m>
-   massicot
-  </m>
-  , &amp;
-  <m>
-   <fr>
-    ocre de ru
-   </fr>
-  </m>
-  ,
-  <add>
-   and a little
-   <m>
-    yellow ocher
-   </m>
-  </add>
-  , tempered with
-  <m>
-   fatty oil
-  </m>
-  in which they clean their
-  <tl>
-   paintbrushes for
-   <m>
-    oil
-   </m>
-  </tl>
-  ,
+with <m>minium</m>, <m>massicot</m>, &amp; <m><fr>ocre de ru</fr></m>,
+<add>and a little <m>yellow ocher</m></add>, tempered with <m>fatty oil</m>
+in which they clean their <tl>paintbrushes for <m>oil</m></tl>,
 because the three aforesaid colors are gripping &amp; dry immediately.
-Next they lay down the
-  <m>
-   gold
-  </m>
-  , then varnish on top of all. And it
+Next they lay down the <m>gold</m>, then varnish on top of all. And it
 seems to some by this means that all this black is painted in
-  <m>
-   oil
-  </m>
-  , but it would not be good because the
-  <m>
-   gold
-  </m>
-  would
+<m>oil</m>, but it would not be good because the <m>gold</m> would
 attach itself everywhere &amp; not only to the moresque. Go
-back to the top to
-  <mark>
-   *
-  </mark>
-  <comment rid="c_066r_02">
-  </comment>
- </ab>
+back to the top to <mark>*</mark><comment rid="c_066r_02"/></ab>
+
 </div>
 
-<div categories="varnish" continues="yes" id="p066r_5">
- <ab continues="yes" margin="left-top" render="tall">
-  <mark>
-   *
-  </mark>
-  <comment rid="c_066v_01">
-  </comment>
-  <lb>
-  </lb>
-  To make
-  <m>
-   <fr>
-    or mat
-   </fr>
-  </m>
-  beautiful, put in a little
-  <m>
-   varnish
-  </m>
-  or
-  <m>
-   fatty oil
-  </m>
-  , not from that which is made from the cleaning of
-  <tl>
-   paintbrushes
-  </tl>
-  , but the pure, which is made fatty
-  <env>
-   in
-the sun
-  </env>
-  or mixed with
-  <m>
-   ceruse
-  </m>
-  .
- </ab>
- <ab margin="left-top" render="tall">
-  <m>
-   <fr>
-    Or mat
-   </fr>
-  </m>
-  of this sort is scarcely less beautiful than
-  <del>
-   <fr>
-    es
-   </fr>
-  </del>
-  <comment rid="c_066v_05">
-  </comment>
-  <m>
-   burnished gold
-  </m>
-  , and lasts
-longer
-  <env>
-   in the rain
-  </env>
-  &amp; besides, &amp; is made sooner.
-  <m>
-   Burnished gold
-  </m>
-  cracks
-  <tmp>
-   over time
-  </tmp>
-  &amp; comes off
-  <env>
-   in the rain
-  </env>
-  .
- </ab>
+<div continues="yes" id="p066r_5" categories="varnish">
+
+<ab margin="left-top" render="tall" continues="yes">
+
+<mark>*</mark><comment rid="c_066v_01"/><lb/>
+
+To make <m><fr>or mat</fr></m> beautiful, put in a little <m>varnish</m>
+or <m>fatty oil</m>, not from that which is made from the cleaning of
+<tl>paintbrushes</tl>, but the pure, which is made fatty <env>in
+the sun</env> or mixed with <m>ceruse</m>.</ab>
+
+<ab margin="left-top" render="tall">
+
+
+<m><fr>Or mat</fr></m> of this sort is scarcely less beautiful than
+<del><fr>es</fr></del><comment rid="c_066v_05"/> <m>burnished gold</m>, and lasts
+longer <env>in the rain</env> &amp; besides, &amp; is made sooner.
+<m>Burnished gold</m> cracks <tmp>over time</tmp> &amp; comes off
+<env>in the rain</env>.</ab>
+
 </div></entry>

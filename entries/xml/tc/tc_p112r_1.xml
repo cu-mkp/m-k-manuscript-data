@@ -1,107 +1,34 @@
-<entry><div categories="casting" id="p112r_1">
- Pour destremper le
- <m>
-  sable
- </m>
- <ab>
-  Il te fault avoir une grande
-  <tl>
-   conche
-  </tl>
-  pleine d
-  <m>
-   eau
-  </m>
-  pour
-  <lb>
-  </lb>
-  <del>
-   q
-  </del>
-  tramper les
-  <tl>
-   moules
-  </tl>
-  pour les ouvrir Ung
-  <tl>
-   broc
-  </tl>
-  <lb>
-  </lb>
-  plein d
-  <m>
-   eau
-   <add>
-    commune
-   </add>
-  </m>
-  Une
-  <tl>
-   escuelle
-   <m>
-    plombee
-   </m>
-  </tl>
-  pour destremper le
-  <lb>
-  </lb>
-  <m>
-   sable
-  </m>
-  Une petite
-  <tl>
-   cueillere de
-   <m>
-    boys
-   </m>
-  </tl>
-  pour ramasser
-  <lb>
-  </lb>
-  le
-  <m>
-   sable destrempe
-  </m>
-  dans l
-  <tl>
-   escuelle
-  </tl>
-  <del>
-   La grande
-   <tl>
-    conche
-   </tl>
-   est
-   <lb>
-   </lb>
-   pour tr
-  </del>
- </ab>
- <ab margin="left-middle" render="tall">
-  pour mancher tes
-  <tl>
-   gros
-   <lb>
-   </lb>
-   pinceaulx a
-   <m>
-    huile
-   </m>
-  </tl>
-  si tu nas
-  <lb>
-  </lb>
-  dasses gros
-  <tl>
-   tuiaulx de
-   <m>
-    plume
-   </m>
-  </tl>
-  <lb>
-  </lb>
-  prens en deulx &amp; les fends &amp; joints ensemble
- </ab>
- <figure id="fig_p112r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MHphUzNsdW9DQ1U" margin="left-middle" render="tall">
- </figure>
+<entry><div id="p112r_1" categories="casting">
+
+<head>Pour destremper le <m>sable</m></head>
+
+<ab>Il te fault avoir une grande <tl>conche</tl> pleine d<m>eau</m>
+pour<lb/>
+
+<del>q</del> tramper les <tl>moules</tl> pour les ouvrir Ung
+<tl>broc</tl><lb/>
+
+plein d<m>eau <add>commune</add></m> Une <tl>escuelle
+<m>plombee</m></tl> pour destremper le<lb/>
+
+<m>sable</m> Une petite <tl>cueillere de <m>boys</m></tl> pour ramasser<lb/>
+
+le <m>sable destrempe</m> dans l<tl>escuelle</tl> <del>La grande <tl>conche</tl> est<lb/>
+pour tr</del></ab>
+
+<ab margin="left-middle" render="tall">
+
+pour mancher tes <tl>gros<lb/>
+
+pinceaulx a <m>huile</m></tl> si tu nas<lb/>
+
+dasses gros <tl>tuiaulx de <m>plume</m></tl><lb/>
+
+prens en deulx &amp; les fends &amp; joints ensemble
+
+</ab>
+
+    <figure id="fig_p112r_1" margin="left-middle" render="tall" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MHphUzNsdW9DQ1U">
+</figure>
+
 </div></entry>

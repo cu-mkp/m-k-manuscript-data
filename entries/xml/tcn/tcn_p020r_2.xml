@@ -1,208 +1,64 @@
-<entry><div categories="glass process" id="p020r_2">
- <pro>
-  Vitrier
- </pro>
- <ab>
-  Le
-  <m>
-   verre de
-   <pl>
-    Lorraine
-   </pl>
-  </m>
-  est plus plain &amp; plus uny que
-le
-  <m>
-   verre
-   <lb>
-   </lb>
-   de plat
-  </m>
-  et plus fort &amp; de plus de durée. Mays
-co
-  <exp>
-   mmun
-  </exp>
-  ement il est
-  <lb>
-  </lb>
-  tasché par venes co
-  <exp>
-   mm
-  </exp>
-  e lignes droictes co
-  <exp>
-   mm
-  </exp>
-  e
-tanées, ce qui advient
-  <lb>
-  </lb>
-  pource que les
-  <pro>
-   verriers
-  </pro>
-  , l’ayant faict, le mectent tout
-chault
-  <lb>
-  </lb>
-  sur la
-  <m>
-   <pa>
-    paille
-   </pa>
-  </m>
-  , qui le tache de ceste sorte. Cela
-neantmoings
-  <lb>
-  </lb>
-  s’efface avecq du
-  <m>
-   vernis
-  </m>
-  &amp; du
-  <m>
-   sel
-  </m>
-  &amp; aultres
-  <m>
-   drogues
-  </m>
-  que les
-  <lb>
-  </lb>
-  <pro>
-   vitriers
-  </pro>
-  y mettent. Le
-  <m>
-   verre de
-   <pl>
-    Lorraine
-   </pl>
-  </m>
-  se
-    vent à
-  <ms>
-   lien
-  </ms>
-  <comment rid="c_020r_04">
-  </comment>
-  &amp;
-  <lb>
-  </lb>
-  à chasque
-  <ms>
-   <df>
-    lien
-   </df>
-  </ms>
-  il y a trois
-  <ms>
-   tables
-  </ms>
-  . Le
-  <ms>
-   lien
-  </ms>
-  coste co
-  <exp>
-   mmun
-  </exp>
-  ement x
-  <cn>
-   s
-   <exp>
-    ols
-   </exp>
-  </cn>
-  .
-  <lb>
-  </lb>
-  Le
-  <m>
-   verre de plat
-  </m>
-  se
-  <del>
-   vent en
-  </del>
-  faict en
-  <pl>
-   France
-  </pl>
-  , il est plus blanc &amp; plus clair,
-  <lb>
-  </lb>
-  mays il n’est pas aussy de telle durée que le
-  <pl>
-   Lorrain
-  </pl>
-  . Il est
-aussy co
-  <exp>
-   mmun
-  </exp>
-  ement
-  <lb>
-  </lb>
-  envellé &amp; pour ceste occasion il est meilleur à faire petites
-losanges que
-  <lb>
-  </lb>
-  grandes pieces quarrées en forme de
-  <tl>
-   chassis
-  </tl>
-  , pource que elles ne se
-peuvent bonnem
-  <exp>
-   ent
-  </exp>
-  <lb>
-  </lb>
-  bien assoir uniment.
- </ab>
- <ab margin="left-middle">
-  Le
-  <m>
-   verre de plat
-  </m>
-  <lb>
-  </lb>
-  se vent à
-  <ms>
-   paniers
-  </ms>
-  .
-  <lb>
-  </lb>
-  Le
-  <ms>
-   <df>
-    panier
-   </df>
-  </ms>
-  contient
-  <lb>
-  </lb>
-  24
-  <ms>
-   plats
-  </ms>
-  , qui se
-  <lb>
-  </lb>
-  vendent commune
-  <exp>
-   ment
-  </exp>
-  <lb>
-  </lb>
-  x ou douze
-  <cn>
-   lb
-  </cn>
-  .
- </ab>
+<entry><div id="p020r_2" categories="glass process">
+
+
+
+<head><pro>Vitrier</pro></head>
+
+<ab>
+
+Le <m>verre de <pl>Lorraine</pl></m> est plus plain &amp; plus uny que
+le <m>verre<lb/>
+
+de plat</m> et plus fort &amp; de plus de dur&#233;e. Mays
+co<exp>mmun</exp>ement il est<lb/>
+
+tasch&#233; par venes co<exp>mm</exp>e lignes droictes co<exp>mm</exp>e
+tan&#233;es, ce qui advient<lb/>
+
+pource que les <pro>verriers</pro>, l&#8217;ayant faict, le mectent tout
+chault<lb/>
+
+sur la <m><pa>paille</pa></m>, qui le tache de ceste sorte. Cela
+neantmoings<lb/>
+
+s&#8217;efface avecq du <m>vernis</m> &amp; du <m>sel</m> &amp; aultres
+<m>drogues</m> que les<lb/>
+
+<pro>vitriers</pro> y mettent. Le <m>verre de <pl>Lorraine</pl></m> se
+    vent &#224; <ms>lien</ms><comment rid="c_020r_04"/> &amp;<lb/>
+
+&#224; chasque <ms><df>lien</df></ms> il y a trois <ms>tables</ms>. Le
+<ms>lien</ms> coste co<exp>mmun</exp>ement x
+<cn>s<exp>ols</exp></cn>.<lb/>
+
+Le <m>verre de plat</m> se <del>vent en</del> faict en
+<pl>France</pl>, il est plus blanc &amp; plus clair,<lb/>
+
+mays il n&#8217;est pas aussy de telle dur&#233;e que le <pl>Lorrain</pl>. Il est
+aussy co<exp>mmun</exp>ement<lb/>
+
+envell&#233; &amp; pour ceste occasion il est meilleur &#224; faire petites
+losanges que<lb/>
+
+grandes pieces quarr&#233;es en forme de <tl>chassis</tl>, pource que elles ne se
+peuvent bonnem<exp>ent</exp><lb/>
+
+bien assoir uniment.</ab>
+
+<ab margin="left-middle">
+
+
+
+Le <m>verre de plat</m><lb/>
+
+se vent &#224; <ms>paniers</ms>.<lb/>
+
+Le <ms><df>panier</df></ms> contient<lb/>
+
+24 <ms>plats</ms>, qui se<lb/>
+
+vendent commune<exp>ment</exp><lb/>
+
+x ou douze <cn>lb</cn>.</ab>
+
 </div></entry>

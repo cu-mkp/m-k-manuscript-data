@@ -1,88 +1,37 @@
-<entry><div categories="animal husbandry;household and daily life" id="p041v_2">
- <al>
-  Brebis
- </al>
- tondues
- <ab>
-  Si le
-  <pro>
-   tondeur
-  </pro>
-  quelque foys les blesse il y mect
-  <del>
-   <ill>
-   </ill>
-  </del>
-  de
-  <lb>
-  </lb>
-  la
-  <m>
-   fiente mesme de
-   <al>
-    brebis
-   </al>
-  </m>
-  dessus. Quand elles sont
-grasses,
-  <lb>
-  </lb>
-  elles sont plus aysées à tondre &amp; ne se blessent pas si tost.
- </ab>
- <ab margin="left-middle" render="tall">
-  <comment rid="c_041v_01">
-  </comment>
-  Si le
-  <pro>
-   tondeur
-  </pro>
-  les
-  <lb>
-  </lb>
-  veult
-  <df>
-   <oc>
-    viscorter
-   </oc>
-  </df>
-  ,
-  <comment rid="c_041v_02">
-  </comment>
-  c’est
-  <lb>
-  </lb>
-  à dire chastrer, co
-  <exp>
-   mm
-  </exp>
-  e
-  <lb>
-  </lb>
-  ilz sont d’un
-  <ms>
-   <tmp>
-    an
-   </tmp>
-  </ms>
-  ou
-  <lb>
-  </lb>
-  deulx, il ne fault
-  <lb>
-  </lb>
-  pas qu’il aye esté
-  <lb>
-  </lb>
-  avecq sa femme car
-  <lb>
-  </lb>
-  cela feroit mourir
-  <lb>
-  </lb>
-  les
-  <al>
-   moutons
-  </al>
-  .
- </ab>
+<entry><div id="p041v_2" categories="animal husbandry;household and daily life">
+
+
+
+<head><al>Brebis</al> tondues</head>
+
+<ab>Si le <pro>tondeur</pro> quelque foys les blesse il y mect
+<del><ill/></del> de<lb/>
+
+la <m>fiente mesme de <al>brebis</al></m> dessus. Quand elles sont
+grasses,<lb/>
+
+elles sont plus ays&#233;es &#224; tondre &amp; ne se blessent pas si tost.</ab>
+
+<ab margin="left-middle" render="tall">
+
+<comment rid="c_041v_01"/>Si le <pro>tondeur</pro> les<lb/>
+
+veult <df><oc>viscorter</oc></df>,<comment rid="c_041v_02"/> c&#8217;est<lb/>
+
+&#224; dire chastrer, co<exp>mm</exp>e<lb/>
+
+ilz sont d&#8217;un <ms><tmp>an</tmp></ms> ou<lb/>
+
+deulx, il ne fault<lb/>
+
+pas qu&#8217;il aye est&#233;<lb/>
+
+avecq sa femme car<lb/>
+
+cela feroit mourir<lb/>
+
+les <al>moutons</al>.
+
+</ab>
+
 </div></entry>

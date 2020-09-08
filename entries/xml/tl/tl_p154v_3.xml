@@ -1,62 +1,16 @@
-<entry><div categories="casting" id="p154v_3">
- Casting
- <add>
-  of
-  <m>
-   silver
-  </m>
-  <comment rid="c_154v_01">
-  </comment>
- </add>
- <ab>
-  <m>
-   Silver
-  </m>
-  needs a longish gate. For
-  <m>
-   gold
-  </m>
-  it does not
-matter.
-  <add>
-   <m>
-    Silver
-   </m>
-   , when soldering, tolerates the
-   <m>
-    water
-   </m>
-   one throws on it. But
-   <m>
-    gold
-   </m>
-   would spatter, &amp;
-   <del>
-    needs
-that
-   </del>
-   for that reason, one casts
-   <del>
-    <m>
-     solder
-    </m>
-   </del>
-   <m>
-    bran
-   </m>
-   on the
-   <m>
-    solder
-   </m>
-   .
-  </add>
- </ab>
- <ab margin="left-middle">
-  Let the
-  <tl>
-   mold
-  </tl>
-  cool well after the casting before opening
-it.
- </ab>
-</div></entry>
+<entry><div id="p154v_3" categories="casting">
+
+
+
+<head>Casting <add>of <m>silver</m><comment rid="c_154v_01"/></add></head>
+
+<ab><m>Silver</m> needs a longish gate. For <m>gold</m> it does not
+matter. <add><m>Silver</m>, when soldering, tolerates the <m>water</m>
+one throws on it. But <m>gold</m> would spatter, &amp; <del>needs
+that</del> for that reason, one casts <del><m>solder</m></del>
+<m>bran</m> on the <m>solder</m>.</add></ab>
+
+<ab margin="left-middle">
+
+Let the <tl>mold</tl> cool well after the casting before opening
+it.</ab></div></entry>

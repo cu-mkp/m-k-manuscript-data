@@ -1,16 +1,23 @@
-<entry><div categories="arms and armor" id="p026r_1">
- <wp>
-  Cannonball
- </wp>
- <ab margin="top" render="wide">
-  <emph>
-   This is the true measure of the caliber, but the
-   <tl>
-    borer
-   </tl>
-   always takes away a little more.
-  </emph>
- </ab>
- <figure id="fig_p026r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SHVaaE9oQjRySlE" size="large">
- </figure>
+<entry><div id="p026r_1" categories="arms and armor">
+
+
+    
+<head><wp>Cannonball</wp></head>
+<ab margin="top" render="wide">
+
+
+
+
+
+<emph>This is the true measure of the caliber, but the <tl>borer</tl>
+always takes away a little more.</emph></ab>
+
+    <figure size="large" id="fig_p026r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5SHVaaE9oQjRySlE">
+
+
+
+
+
+</figure>
+
 </div></entry>

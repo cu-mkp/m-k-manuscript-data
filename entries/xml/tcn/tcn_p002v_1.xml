@@ -1,30 +1,9 @@
-<entry><div categories="lists" id="p002v_1">
- <sup>
-  Liste de livres
- </sup>
- <ab>
-  <emph>
-   <it>
-    Practica, cioè nova inventione
-    <lb>
-    </lb>
-    di contegiare,
-    <comment rid="c_002v_03">
-    </comment>
-    stampata in
-    <pl>
-     Brescia
-    </pl>
-    <lb>
-    </lb>
-    per
-    <pn>
-     Vincenzo Sabio
-    </pn>
-   </it>
-   .
-  </emph>
-  <comment rid="c_002v_01">
-  </comment>
- </ab>
+<entry><div id="p002v_1" categories="lists">
+
+
+<head><sup>Liste de livres</sup></head>
+<ab><emph><it>Practica, cio&#232; nova inventione<lb/>di contegiare,<comment rid="c_002v_03"/> stampata in
+<pl>Brescia</pl><lb/>
+per <pn>Vincenzo Sabio</pn></it>.</emph><comment rid="c_002v_01"/></ab>
+
 </div></entry>

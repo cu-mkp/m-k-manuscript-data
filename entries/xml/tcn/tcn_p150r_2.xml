@@ -1,107 +1,23 @@
-<entry><div categories="casting" id="p150r_2">
- <comment rid="c_150r_01">
- </comment>
- Ligues diverses d’
- <m>
-  estain
- </m>
- et
- <m>
-  plomb
- </m>
- <ab>
-  Pour choses creuses co
-  <exp>
-   mm
-  </exp>
-  e
-  <al>
-   tortues
-  </al>
-  ,
-  <ms>
-   moictié
-  </ms>
-  <m>
-   plomb fin
-  </m>
-  et
-  <ms>
-   moitié
-  </ms>
-  <lb>
-  </lb>
-  <m>
-   estaim
-  </m>
-  .
- </ab>
- <ab>
-  Pour fleurs, presque tout
-  <m>
-   estaim
-  </m>
-  , sçavoir une
-  <ms>
-   lb
-  </ms>
-  d’
-  <m>
-   estain fin
-  </m>
-  <lb>
-  </lb>
-  et deux
-  <ms>
-   ℥
-  </ms>
-  de
-  <m>
-   plomb fin
-  </m>
-  .
- </ab>
- <ab>
-  Pour
-  <al>
-   lesards
-  </al>
-  qui sont espés d’un
-  <ms>
-   <bp>
-    doigt
-   </bp>
-  </ms>
-  ou
-deux, presque
-  <lb>
-  </lb>
-  tout
-  <m>
-   plomb
-  </m>
-  , sçavoir une
-  <ms>
-   lb
-  </ms>
-  de
-  <m>
-   plomb fin
-  </m>
-  et 4
-  <ms>
-   ℥
-  </ms>
-  <del>
-   es
-  </del>
-  d’
-  <m>
-   estaim
-   <lb>
-   </lb>
-   fin
-  </m>
-  .
- </ab>
-</div></entry>
+<entry><div id="p150r_2" categories="casting">
+
+
+
+<head><comment rid="c_150r_01"/>Ligues diverses d&#8217;<m>estain</m> et <m>plomb</m></head>
+
+<ab>Pour choses creuses co<exp>mm</exp>e <al>tortues</al>,
+<ms>moicti&#233;</ms> <m>plomb fin</m> et <ms>moiti&#233;</ms><lb/>
+
+<m>estaim</m>.</ab>
+
+<ab>Pour fleurs, presque tout <m>estaim</m>, s&#231;avoir une <ms>lb</ms>
+d&#8217;<m>estain fin</m><lb/>
+
+et deux <ms>&#8485;</ms> de <m>plomb fin</m>.</ab>
+
+<ab>Pour <al>lesards</al> qui sont esp&#233;s d&#8217;un <ms><bp>doigt</bp></ms> ou
+deux, presque<lb/>
+
+tout <m>plomb</m>, s&#231;avoir une <ms>lb</ms> de <m>plomb fin</m> et 4
+<ms>&#8485;</ms> <del>es</del> d&#8217;<m>estaim<lb/>
+
+fin</m>.</ab></div></entry>

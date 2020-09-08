@@ -1,60 +1,16 @@
-<entry><div categories="metal process" id="p040v_2">
- <m>
-  Letton
- </m>
- et
- <m>
-  calamine
- </m>
- <ab>
-  Les
-  <pro>
-   fondeurs
-  </pro>
-  ne fondent pas le
-  <m>
-   letton
-  </m>
-  en
-  <tl>
-   four
-   <del>
-    à vent
-   </del>
-   <add>
-    de souflets
-   </add>
-  </tl>
-  <lb>
-  </lb>
-  mays dans des
-  <tl>
-   creusets
-  </tl>
-  , car dans le
-  <tl>
-   four à
-   <add>
-    souflets
-   </add>
-   vent
-  </tl>
-  <comment rid="c_040v_02">
-  </comment>
-  &amp;
-  <lb>
-  </lb>
-  parmy les
-  <m>
-   charbons
-  </m>
-  , la
-  <m>
-   calamine
-  </m>
-  s’en yroit.
-  <del>
-   A
-  </del>
- </ab>
+<entry><div id="p040v_2" categories="metal process">
+
+
+
+<head><m>Letton</m> et <m>calamine</m></head>
+
+<ab>Les <pro>fondeurs</pro> ne fondent pas le <m>letton</m> en <tl>four
+<del>&#224; vent</del> <add>de souflets</add></tl><lb/>
+
+mays dans des <tl>creusets</tl>, car dans le <tl>four &#224;
+<add>souflets</add> vent</tl><comment rid="c_040v_02"/> &amp;<lb/>
+parmy les <m>charbons</m>, la <m>calamine</m> s&#8217;en yroit. <del>A</del>
+
+</ab>
+
 </div></entry>

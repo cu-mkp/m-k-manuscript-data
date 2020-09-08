@@ -1,38 +1,9 @@
-<entry><div categories="casting" id="p090r_2">
- <m>
-  Sand
- </m>
- <ab>
-  <pro>
-   Molders
-  </pro>
-  from
-  <pl>
-   Foix
-  </pl>
-  who cast their
-  <del>
-   <fr>
-    ur
-   </fr>
-  </del>
-  <comment rid="c_090r_01">
-  </comment>
-  medals crosswise,
-  <comment rid="c_090r_02">
-  </comment>
-  use
-  <m>
-   <la>
-    crocum ferri
-   </la>
-  </m>
-  and
-  <m>
-   calcined slate
-  </m>
-  . It is for very flat things.
-  <comment rid="c_069r_04">
-  </comment>
- </ab>
+<entry><div id="p090r_2" categories="casting">
+
+<head><m>Sand</m></head>
+
+<ab><pro>Molders</pro> from <pl>Foix</pl> who cast their <del><fr>ur</fr></del><comment rid="c_090r_01"/> 
+medals crosswise,<comment rid="c_090r_02"/> use <m><la>crocum ferri</la></m> 
+and <m>calcined slate</m>. It is for very flat things.<comment rid="c_069r_04"/></ab>
+
 </div></entry>

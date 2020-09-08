@@ -1,66 +1,39 @@
-<entry><div categories="stones" id="p101v_1">
- <m>
-  Jacinthe
- </m>
- <ab>
-  Se faict co
-  <exp>
-   mm
-  </exp>
-  e le
-  <m>
-   ruby
-  </m>
-  , avecq de l’
-  <m>
-   or
-  </m>
-  , mays
-il n’y
-  <lb>
-  </lb>
-  fault pas si grand foeu. Le
-  <m>
-   ruby
-  </m>
-  veult foeu tout
-  <lb>
-  </lb>
-  un
-  <ms>
-   <tmp>
-    jour
-   </tmp>
-  </ms>
-  , et s’il n’ha pas assés de foeu il
-n’aura
-  <lb>
-  </lb>
-  que des veines rouges.
- </ab>
- <ab margin="left-middle">
-  Recuits tousjours
-  <lb>
-  </lb>
-  tes
-  <tl>
-   creusets
-  </tl>
-  .
- </ab>
- <ab margin="left-middle">
-  On tient que
-  <lb>
-  </lb>
-  <m>
-   antimoine rubifié
-  </m>
-  <lb>
-  </lb>
-  faict
-  <m>
-   jacinthe
-  </m>
-  .
- </ab>
+<entry><div id="p101v_1" categories="stones">
+
+
+
+<head><m>Jacinthe</m></head>
+
+<ab>Se faict co<exp>mm</exp>e le <m>ruby</m>, avecq de l&#8217;<m>or</m>, mays
+il n&#8217;y<lb/>
+
+fault pas si grand foeu. Le <m>ruby</m> veult foeu tout<lb/>
+
+un <ms><tmp>jour</tmp></ms>, et s&#8217;il n&#8217;ha pas ass&#233;s de foeu il
+n&#8217;aura<lb/>
+
+que des veines rouges.</ab>
+
+<ab margin="left-middle">
+
+
+
+Recuits tousjours<lb/>
+
+tes <tl>creusets</tl>.
+
+</ab>
+
+<ab margin="left-middle">
+
+
+
+On tient que<lb/>
+
+<m>antimoine rubifi&#233;</m><lb/>
+
+faict <m>jacinthe</m>.
+
+</ab>
+
 </div></entry>

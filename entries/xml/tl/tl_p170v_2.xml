@@ -1,67 +1,13 @@
-<entry><div categories="medicine" id="p170v_2">
- <md>
-  Against plague
- </md>
- <ab>
-  Take,
-  <md>
-   against pestilential fever
-  </md>
-  or
-  <md>
-   poison
-  </md>
-  or
-  <md>
-   plague
-  </md>
-  , an
-  <ms>
-   <cn>
-    écu
-   </cn>
-   ’s weight
-  </ms>
-  of your
-  <m>
-   opiate
-  </m>
-  soaked in
-  <m>
-   <pa>
-    scabious
-   </pa>
-   <comment rid="c_170v_15">
-   </comment>
-   or
-   <pa>
-    bugloss
-   </pa>
-   water
-  </m>
-  or
-  <m>
-   thoroughly tempered wine
-  </m>
-  , if one is afflicted. After taking
-it, one needs to make oneself sweat.
- </ab>
- <ab margin="left-middle">
-  <la>
-   <pn>
-    Othonis
-   </pn>
-   episcopi
-   <lb>
-   </lb>
-   Frisigensis
-   <comment rid="c_170v_30">
-   </comment>
-   <lb>
-   </lb>
-   ab orbe condito
-  </la>
-  <comment rid="c_170v_25">
-  </comment>
- </ab>
+<entry><div id="p170v_2" categories="medicine">
+
+<head><md>Against plague</md></head>
+
+<ab>Take, <md>against pestilential fever</md> or <md>poison</md> or <md>plague</md>, an
+<ms><cn>&#233;cu</cn>&#8217;s weight</ms> of your <m>opiate</m> soaked in
+<m><pa>scabious</pa><comment rid="c_170v_15"/> or <pa>bugloss</pa> water</m>
+or <m>thoroughly tempered wine</m>, if one is afflicted. After taking
+it, one needs to make oneself sweat.</ab>
+    
+<ab margin="left-middle"><la> <pn>Othonis</pn> episcopi<lb/> Frisigensis<comment rid="c_170v_30"/><lb/>
+ab orbe condito</la><comment rid="c_170v_25"/></ab>
 </div></entry>

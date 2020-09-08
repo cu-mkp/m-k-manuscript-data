@@ -1,78 +1,25 @@
-<entry><div categories="casting" id="p154v_3">
- Gect
- <add>
-  d’
-  <m>
-   argent
-  </m>
-  <comment rid="c_154v_01">
-  </comment>
- </add>
- <ab>
-  L’
-  <m>
-   argent
-  </m>
-  veult bien le gect longuet. À l’
-  <m>
-   or
-  </m>
-  n’importe.
-  <lb>
-  </lb>
-  <add>
-   L’
-   <m>
-    argent
-   </m>
-   en soubdant endure l’
-   <m>
-    eau
-   </m>
-   qu’on gecte dessus.
-Mays l’
-   <m>
-    or
-   </m>
-   saulteroit,
-   <lb>
-   </lb>
-   &amp;
-   <del>
-    veult que
-   </del>
-   à ceste cause on jecte
-d
-   <corr>
-    u
-   </corr>
-   <del>
-    la
-    <m>
-     soubdure
-    </m>
-   </del>
-   <m>
-    son
-   </m>
-   sur
-la
-   <m>
-    soubdure
-   </m>
-   .
-  </add>
- </ab>
- <ab margin="left-middle">
-  Laisse bien refroidir le
-  <lb>
-  </lb>
-  <tl>
-   moule
-  </tl>
-  aprés le gect plustost
-  <lb>
-  </lb>
-  que l’ouvrir.
- </ab>
+<entry><div id="p154v_3" categories="casting">
+
+
+
+<head>Gect <add>d&#8217;<m>argent</m><comment rid="c_154v_01"/></add></head>
+
+<ab>L&#8217;<m>argent</m> veult bien le gect longuet. &#192; l&#8217;<m>or</m>
+n&#8217;importe.<lb/>
+
+<add>L&#8217;<m>argent</m> en soubdant endure l&#8217;<m>eau</m> qu&#8217;on gecte dessus.
+Mays l&#8217;<m>or</m> saulteroit,<lb/>
+
+&amp; <del>veult que</del> &#224; ceste cause on jecte
+d<corr>u</corr> <del>la <m>soubdure</m></del> <m>son</m> sur
+la <m>soubdure</m>.</add></ab>
+
+<ab margin="left-middle">
+
+Laisse bien refroidir le<lb/>
+
+<tl>moule</tl> apr&#233;s le gect plustost<lb/>
+
+que l&#8217;ouvrir.</ab>
+
 </div></entry>

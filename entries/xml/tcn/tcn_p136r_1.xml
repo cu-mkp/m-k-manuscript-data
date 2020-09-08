@@ -1,39 +1,12 @@
-<entry><div categories="casting;metal process" id="p136r_1">
- <del>
-  D
- </del>
- <del>
-  Esm
- </del>
- <comment rid="c_136r_04">
- </comment>
- <m>
-  Esmailler
- </m>
- ouvraiges
- <lb>
- </lb>
- tanvres
- <ab>
-  Les
-  <pro>
-   orfevres
-  </pro>
-  rasclent avecq l’
-  <tl>
-   aisle du burin
-  </tl>
-  la
-  <m>
-   foeille
-   <lb>
-   </lb>
-   d’or
-  </m>
-  &amp; puys y assoient l’
-  <m>
-   esmail
-  </m>
-  .
- </ab>
+<entry><div id="p136r_1" categories="casting;metal process">
+
+<head><del>D</del><del>Esm</del><comment rid="c_136r_04"/> <m>Esmailler</m> ouvraiges<lb/>
+
+tanvres</head>
+
+<ab>Les <pro>orfevres</pro> rasclent avecq l&#8217;<tl>aisle du burin</tl> la
+<m>foeille<lb/>
+
+d&#8217;or</m> &amp; puys y assoient l&#8217;<m>esmail</m>.</ab>
+
 </div></entry>

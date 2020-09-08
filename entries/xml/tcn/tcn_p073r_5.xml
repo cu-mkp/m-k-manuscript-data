@@ -1,113 +1,37 @@
-<entry><div categories="metal process" continued="yes" id="p073r_5">
- Pour faire
- <m>
-  bronze
- </m>
- à couleur d’or
- <ab>
-  Prenés une
-  <ms>
-   once
-  </ms>
-  de
-  <m>
-   sel armoniac
-  </m>
-  et les broyés dans
-ung
-  <lb>
-  </lb>
-  <tl>
-   mortier de
-   <m>
-    fer
-   </m>
-  </tl>
-  . Estant bien broyé, prenés une
-  <ms>
-   once
-  </ms>
-  de
-  <m>
-   soufre
-  </m>
-  et le
- </ab>
- <ab margin="left-middle">
-  l______.
-  <comment rid="c_073r_04">
-  </comment>
- </ab>
+<entry><div id="p073r_5" categories="metal process" continued="yes">
+
+
+
+<head>Pour faire <m>bronze</m> &#224; couleur d&#8217;or</head>
+
+<ab>Pren&#233;s une <ms>once</ms> de <m>sel armoniac</m> et les broy&#233;s dans
+ung<lb/>
+
+<tl>mortier de <m>fer</m></tl>. Estant bien broy&#233;, pren&#233;s une
+<ms>once</ms> de <m>soufre</m> et le</ab>
+
+<ab margin="left-middle">l______.<comment rid="c_073r_04"/></ab>
+
 </div>
 
-<div categories="metal process" continues="yes" id="p073r_5">
- <ab>
-  <comment rid="c_073v_02">
-  </comment>
-  broyés à part. Quand il sera bien broyé, prenés le
-  <m>
-   sel
-armoniac
-  </m>
-  &amp;
-  <lb>
-  </lb>
-  le broyés encores ensemble. Puys prenés une
-  <ms>
-   once
-  </ms>
-  d’
-  <m>
-   estaing
-doulz
-  </m>
-  &amp;
-  <lb>
-  </lb>
-  une
-  <ms>
-   once
-  </ms>
-  d’
-  <m>
-   argent vif
-  </m>
-  , puis faictes fondre
-v
-  <exp>
-   ost
-  </exp>
-  re
-  <m>
-   estaing
-  </m>
-  &amp; mectés
-  <lb>
-  </lb>
-  v
-  <exp>
-   ost
-  </exp>
-  re
-  <m>
-   argent vif
-  </m>
-  goutte à goutte dans
-v
-  <exp>
-   ost
-  </exp>
-  re
-  <m>
-   estaing
-  </m>
-  en fondant, &amp; le
-  <lb>
-  </lb>
-  remués fort jusques à ce q
-  <exp>
-   u’i
-  </exp>
-  l soit en pouldre.
- </ab>
+<div continues="yes" id="p073r_5" categories="metal process">
+
+
+
+
+
+<ab><comment rid="c_073v_02"/>broy&#233;s &#224; part. Quand il sera bien broy&#233;, pren&#233;s le <m>sel
+armoniac</m> &amp;<lb/>
+
+le broy&#233;s encores ensemble. Puys pren&#233;s une <ms>once</ms> d&#8217;<m>estaing
+doulz</m> &amp;<lb/>
+
+une <ms>once</ms> d&#8217;<m>argent vif</m>, puis faictes fondre
+v<exp>ost</exp>re <m>estaing</m> &amp; mect&#233;s<lb/>
+
+v<exp>ost</exp>re <m>argent vif</m> goutte &#224; goutte dans
+v<exp>ost</exp>re <m>estaing</m> en fondant, &amp; le<lb/>
+
+remu&#233;s fort jusques &#224; ce q<exp>u&#8217;i</exp>l soit en pouldre.</ab>
+
 </div></entry>

@@ -1,36 +1,14 @@
-<entry><div categories="arms and armor" id="p027v_2">
- <wp>
-  Faulconeau
- </wp>
- <lb>
- </lb>
- de 4
- <ms>
-  quint
-  <exp>
-   als
-  </exp>
- </ms>
- <lb>
- </lb>
- autrem
- <exp>
-  ent
- </exp>
- <wp>
-  passevo
-  <lb>
-  </lb>
-  lants
- </wp>
- tire 8
- <ms>
-  pa
-  <exp>
-   n
-  </exp>
- </ms>
- s
- <figure id="fig_p027v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5OVloUjZocVpuVTg" margin="right-top">
- </figure>
+<entry><div id="p027v_2" categories="arms and armor">
+
+<head margin="right-top"><wp>Faulconeau</wp><lb/>
+        
+de 4 <ms>quint<exp>als</exp></ms><lb/>
+        
+autrem<exp>ent</exp> <wp>passevo<lb/>
+        
+lants</wp> tire 8 <ms>pa<exp>n</exp></ms>s</head>
+
+<figure id="fig_p027v_2" margin="right-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5OVloUjZocVpuVTg">
+</figure>
+    
 </div></entry>

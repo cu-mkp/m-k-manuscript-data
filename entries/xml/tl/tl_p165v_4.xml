@@ -1,45 +1,11 @@
-<entry><div categories="casting" id="p165v_4">
- <m>
-  <tl>
-   Lute
-  </tl>
- </m>
- <ab render="wide">
-  When reheating, you can use
-  <m>
-   <tl>
-    common lute
-   </tl>
-  </m>
-  . But when you want to
-cast, strip the
-  <tl>
-   mold
-  </tl>
-  of it
-  <comment rid="c_165v_04">
-  </comment>
-  &amp; promptly, with a
-  <tl>
-   brush
-  </tl>
-  , layer the
-  <m>
-   <tl>
-    lute
-   </tl>
-   of plaster that has been used for
-   <tl>
-    molds
-   </tl>
-  </m>
-  , for it will be dry when it is placed, &amp; cast.
-One needs to mainly put this
-  <m>
-   <tl>
-    lute
-   </tl>
-  </m>
-  on the joints.
- </ab>
+<entry><div id="p165v_4" categories="casting">
+
+<head><m><tl>Lute</tl></m></head>
+
+<ab render="wide">When reheating, you can use <m><tl>common lute</tl></m>. But when you want to
+cast, strip the <tl>mold</tl> of it<comment rid="c_165v_04"/> &amp; promptly, with a
+<tl>brush</tl>, layer the <m><tl>lute</tl> of plaster that has been used for
+<tl>molds</tl></m>, for it will be dry when it is placed, &amp; cast.
+One needs to mainly put this <m><tl>lute</tl></m> on the joints.</ab>
+
 </div></entry>

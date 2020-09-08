@@ -1,119 +1,27 @@
-<entry><div categories="arms and armor;casting" id="p125r_2">
- <wp>
-  Symeterres
- </wp>
- <comment rid="c_125r_03">
- </comment>
- <ab margin="left-top">
-  <hr/>
-  <emph>
-   A scavoir
-  </emph>
-  <comment rid="c_125r_04">
-  </comment>
-  <hr/>
- </ab>
- <ab>
-  Les
-  <pro>
-   ouvriers
-  </pro>
-  de
-  <pl>
-   damas
-  </pl>
-  ou d
-  <pl>
-   hongrie
-  </pl>
-  voisins des
-  <pl>
-   turcs
-  </pl>
-  <lb>
-  </lb>
-  separent aulx
-  <m>
-   mines
-  </m>
-  le
-  <m>
-   fer
-  </m>
-  davecq l
-  <m>
-   acier
-  </m>
-  Et de
-ce premier
-  <lb>
-  </lb>
-  <m>
-   acier
-  </m>
-  fondu premierem de sa
-  <m>
-   mine
-  </m>
-  ilz gectent en
-  <m>
-   sable
-  </m>
-  des
-  <lb>
-  </lb>
-  <del>
-   sab
-  </del>
-  lames de
-  <wp>
-   cimeterre
-  </wp>
-  qui couppent apres laultre
-  <m>
-   fer
-  </m>
-  <lb>
-  </lb>
-  sans grande difficulte pourceque tout
-  <m>
-   fer fondu
-  </m>
-  est plus
-  <lb>
-  </lb>
-  dur que le
-  <m>
-   fer douls
-  </m>
-  battu en gueuses &amp; barres Ainsy est
-  <lb>
-  </lb>
-  de l
-  <m>
-   acier
-  </m>
-  des
-  <wp>
-   cimeterres
-  </wp>
-  Mays il est fort brusc Quand on
-  <lb>
-  </lb>
-  des
-  <del>
-   b
-  </del>
-  manche un
-  <wp>
-   cimeterre
-  </wp>
-  on cognoist bien par la queue
-  <lb>
-  </lb>
-  qui entre dans le manche quil est gecte en
-  <m>
-   sable
-  </m>
- </ab>
+<entry><div id="p125r_2" categories="arms and armor;casting">
+
+<head><wp>Symeterres</wp><comment rid="c_125r_03"/></head>
+
+<ab margin="left-top"><hr/><emph>A scavoir</emph><comment rid="c_125r_04"/><hr/></ab>
+
+<ab>Les <pro>ouvriers</pro> de <pl>damas</pl> ou d<pl>hongrie</pl>
+voisins des <pl>turcs</pl><lb/>
+
+separent aulx <m>mines</m> le <m>fer</m> davecq l<m>acier</m> Et de
+ce premier<lb/>
+
+<m>acier</m> fondu premierem de sa <m>mine</m> ilz gectent en <m>sable</m> des<lb/>
+<del>sab</del> lames de <wp>cimeterre</wp> qui couppent apres laultre
+<m>fer</m><lb/>
+
+sans grande difficulte pourceque tout <m>fer fondu</m> est plus<lb/>
+
+dur que le <m>fer douls</m> battu en gueuses &amp; barres Ainsy est<lb/>
+
+de l<m>acier</m> des <wp>cimeterres</wp> Mays il est fort brusc Quand on<lb/>
+
+des<del>b</del>manche un <wp>cimeterre</wp> on cognoist bien par la queue<lb/>
+
+qui entre dans le manche quil est gecte en <m>sable</m></ab>
+
 </div></entry>

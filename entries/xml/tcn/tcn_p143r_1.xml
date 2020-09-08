@@ -1,286 +1,113 @@
-<entry><div categories="casting" id="p143r_1">
- Mouler
- <al>
-  tortues
- </al>
- <ab>
-  La
-  <al>
-   tortue d’
-   <env>
-    eau
-   </env>
-  </al>
-  est plus belle à mouler pource
-qu’elle ha
-  <lb>
-  </lb>
-  plus belles escailles &amp; les jambes droictes. Et
-  <al>
-   celle de
-   <lb>
-   </lb>
-   <pl>
-    <env>
-     garrigue
-    </env>
-   </pl>
-  </al>
-  les ha tortues. Elles sont de grande vye;
-  <lb>
-  </lb>
-  partant pour les faire mourir, ouvre leur la gueule
-  <lb>
-  </lb>
-  &amp; leur passe un long
-  <tl>
-   trencheplume
-  </tl>
-  par touts les
-intestins
-  <lb>
-  </lb>
-  &amp; puys luy fais avaller du
-  <m>
-   vinaigre
-  </m>
-  meslé d’
-  <m>
-   eau de
-vye
-  </m>
-  <lb>
-  </lb>
-  ou
-  <m>
-   <bp>
-    urine
-   </bp>
-  </m>
-  , co
-  <exp>
-   mm
-  </exp>
-  e pour les
-  <al>
-   serpents
-  </al>
-  . Il les
-fault mouler
-  <lb>
-  </lb>
-  à plusieurs pieces, &amp; le dos mesmes quelques fois, pource que
-  <lb>
-  </lb>
-  les costés sont à quelques unes plus estroits qu’ailleurs
-  <lb>
-  </lb>
-  &amp; ne sont pas à ceste occasion en despouille. Pour les
-  <lb>
-  </lb>
-  faire mourir, il ne les fault pas faire bouillir, car elles
-  <lb>
-  </lb>
-  se deffont, &amp; mesmes la coquille, par l’
-  <m>
-   eau chaulde
-  </m>
-  . Elles
-viennent
-  <lb>
-  </lb>
-  mieulx creuses, pource que leur grande espesseur corromproit
-  <lb>
-  </lb>
-  le
-  <tl>
-   moulle
-  </tl>
-  .
-  <add>
-   <al>
-    Celles d’
-    <env>
-     eau
-    </env>
-   </al>
-   sont plus
-    vigoureuses.
-   <al>
-    Celles de
-    <pl>
-     <env>
-      garrigue
-     </env>
-    </pl>
-   </al>
-   sont
-   <lb>
-   </lb>
-   plus maigres, plus lentes &amp; plus endormies. Si tu grattes
-   <al>
-    celles
-d’
-    <env>
-     eau
-    </env>
-   </al>
-   <lb>
-   </lb>
-   sur leur coquille, quelque endormies qu’elles soient, elles s’esbougent.
-   <al>
-    Celles
-    <lb>
-    </lb>
-    de
-    <pl>
-     <env>
-      garrigue
-     </env>
-    </pl>
-   </al>
-   non.
-  </add>
- </ab>
- <ab margin="left-middle">
-  Elles meurent assés tost dans
-  <lb>
-  </lb>
-  le
-  <m>
-   vinaigre
-  </m>
-  meslé d’un peu d’
-  <m>
-   eau
-   <lb>
-   </lb>
-   de vie
-  </m>
-  ou d’
-  <m>
-   <bp>
-    urine
-   </bp>
-  </m>
-  , co
-  <exp>
-   mm
-  </exp>
-  e touts aultres
-  <lb>
-  </lb>
-  animaulx.
- </ab>
- <ab margin="left-middle">
-  Elles se tiennent
-  <lb>
-  </lb>
-  l’
-  <tmp>
-   hiver
-  </tmp>
-  les yeulx
-  <lb>
-  </lb>
-  clos &amp; sont co
-  <exp>
-   mm
-  </exp>
-  e
-  <lb>
-  </lb>
-  mortes, esta
-  <exp>
-   n
-  </exp>
-  t
-  <lb>
-  </lb>
-  assopies du
-  <env>
-   froid
-  </env>
-  .
-  <lb>
-  </lb>
-  Elles se cachent
-  <lb>
-  </lb>
-  <env>
-   en terre
-  </env>
-  ou
-  <env>
-   soubs
-   <lb>
-   </lb>
-   de la balle de
-   <lb>
-   </lb>
-   <m>
-    <pa>
-     bled
-    </pa>
-   </m>
-   ou
-   <m>
-    fumier
-    <lb>
-    </lb>
-    chauld
-   </m>
-  </env>
-  , &amp; ne
-  <lb>
-  </lb>
-  vivent que de
-  <lb>
-  </lb>
-  l’humeur de la
-  <lb>
-  </lb>
-  terre.
- </ab>
- <ab margin="left-middle" render="tall">
-  Il ne les fault
-  <lb>
-  </lb>
-  pas mouler si tost
-  <lb>
-  </lb>
-  qu’elles sont
-  <lb>
-  </lb>
-  mortes, pource qu’elles
-  <lb>
-  </lb>
-  sont encores
-  <lb>
-  </lb>
-  trop roydes.
-  <lb>
-  </lb>
-  Mays le
-  <tmp>
-   lendemain
-  </tmp>
-  ,
-  <lb>
-  </lb>
-  tu les manieras
-  <lb>
-  </lb>
-  &amp; plieras les
-  <lb>
-  </lb>
-  pattes co
-  <exp>
-   mm
-  </exp>
-  e tu
-  <lb>
-  </lb>
-  vouldras.
- </ab>
+<entry><div id="p143r_1" categories="casting">
+
+
+
+<head>Mouler <al>tortues</al></head>
+
+<ab>La <al>tortue d&#8217;<env>eau</env></al> est plus belle &#224; mouler pource
+qu&#8217;elle ha<lb/>
+
+plus belles escailles &amp; les jambes droictes. Et <al>celle de<lb/>
+
+<pl><env>garrigue</env></pl></al> les ha tortues. Elles sont de grande vye;<lb/>
+
+partant pour les faire mourir, ouvre leur la gueule<lb/>
+
+&amp; leur passe un long <tl>trencheplume</tl> par touts les
+intestins<lb/>
+
+&amp; puys luy fais avaller du <m>vinaigre</m> mesl&#233; d&#8217;<m>eau de
+vye</m><lb/>
+
+ou <m><bp>urine</bp></m>, co<exp>mm</exp>e pour les <al>serpents</al>. Il les
+fault mouler<lb/>
+
+&#224; plusieurs pieces, &amp; le dos mesmes quelques fois, pource que<lb/>
+
+les cost&#233;s sont &#224; quelques unes plus estroits qu&#8217;ailleurs<lb/>
+
+&amp; ne sont pas &#224; ceste occasion en despouille. Pour les<lb/>
+
+faire mourir, il ne les fault pas faire bouillir, car elles<lb/>
+
+se deffont, &amp; mesmes la coquille, par l&#8217;<m>eau chaulde</m>. Elles
+viennent<lb/>
+
+mieulx creuses, pource que leur grande espesseur corromproit<lb/>
+
+le <tl>moulle</tl>. <add><al>Celles d&#8217;<env>eau</env></al> sont plus
+    vigoureuses. <al>Celles de <pl><env>garrigue</env></pl></al> sont<lb/>
+
+plus maigres, plus lentes &amp; plus endormies. Si tu grattes <al>celles
+d&#8217;<env>eau</env></al><lb/>
+
+sur leur coquille, quelque endormies qu&#8217;elles soient, elles s&#8217;esbougent.
+<al>Celles<lb/>
+
+de <pl><env>garrigue</env></pl></al> non.</add></ab>
+
+<ab margin="left-middle">
+
+Elles meurent ass&#233;s tost dans<lb/>
+
+le <m>vinaigre</m> mesl&#233; d&#8217;un peu d&#8217;<m>eau<lb/>
+
+de vie</m> ou d&#8217;<m><bp>urine</bp></m>, co<exp>mm</exp>e touts aultres<lb/>
+
+animaulx.</ab>
+
+<ab margin="left-middle">
+
+Elles se tiennent<lb/>
+
+l&#8217;<tmp>hiver</tmp> les yeulx<lb/>
+
+clos &amp; sont co<exp>mm</exp>e<lb/>
+
+mortes, esta<exp>n</exp>t<lb/>
+
+assopies du <env>froid</env>.<lb/>
+
+Elles se cachent<lb/>
+
+<env>en terre</env> ou <env>soubs<lb/>
+
+de la balle de<lb/>
+
+<m><pa>bled</pa></m> ou <m>fumier<lb/>
+
+chauld</m></env>, &amp; ne<lb/>
+
+vivent que de<lb/>
+
+l&#8217;humeur de la<lb/>
+
+terre.</ab>
+
+<ab margin="left-middle" render="tall">
+
+
+
+ Il ne les fault<lb/>
+
+pas mouler si tost<lb/>
+
+qu&#8217;elles sont<lb/>
+
+mortes, pource qu&#8217;elles<lb/>
+
+sont encores<lb/>
+
+trop roydes.<lb/>
+
+Mays le <tmp>lendemain</tmp>,<lb/>
+
+tu les manieras<lb/>
+
+&amp; plieras les<lb/>
+
+pattes co<exp>mm</exp>e tu<lb/>
+
+vouldras.</ab>
+
 </div></entry>

@@ -1,36 +1,17 @@
-<entry><div categories="tool;household and daily life" id="p013v_5">
- <tl>
-  Chandelles
- </tl>
- <ab>
-  Jamays les
-  <pro>
-   chandeliers
-  </pro>
-  ne font bonne
-  <tl>
-   chandelle
-  </tl>
-  lorsque
-  <lb>
-  </lb>
-  le
-  <env>
-   vent d’
-   <oc>
-    haultan
-   </oc>
-  </env>
-  <comment rid="c_013v_03">
-  </comment>
-  soufle pource qu’elle est
-tousjours fondante,
-  <lb>
-  </lb>
-  quelque bon
-  <m>
-   suif
-  </m>
-  qu’ilz y employent.
- </ab>
+<entry><div id="p013v_5" categories="tool;household and daily life">
+
+
+
+<head><tl>Chandelles</tl></head>
+
+<ab>Jamays les <pro>chandeliers</pro> ne font bonne <tl>chandelle</tl>
+lorsque<lb/>
+
+le <env>vent d&#8217;<oc>haultan</oc></env><comment rid="c_013v_03"/> soufle pource qu&#8217;elle est
+tousjours fondante,<lb/>
+
+quelque bon <m>suif</m> qu&#8217;ilz y employent.
+
+</ab>
+
 </div></entry>

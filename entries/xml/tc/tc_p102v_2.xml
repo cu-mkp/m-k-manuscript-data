@@ -1,157 +1,43 @@
-<entry><div categories="medicine" id="p102v_2">
- Infusion d
- <m>
-  <pa>
-   anthos
-  </pa>
- </m>
- ou
- <m>
-  <pa>
-   rosmarin
-  </pa>
- </m>
- <comment rid="c_102v_05">
- </comment>
- <ab>
-  <tmp>
-   Au mois daougst
-  </tmp>
-  la fleur est mieulx cuicte &amp;
-plus propre
-  <lb>
-  </lb>
-  a fayre
-  <m>
-   huile
-  </m>
-  prens en telle quantite quil te plaira
-  <lb>
-  </lb>
-  Et la mects dans une
-  <tl>
-   bouteille
-  </tl>
-  bien
-  <add>
-   apres
-  </add>
-  bouchee &amp; laisse
-  <lb>
-  </lb>
-  fanir
-  <env>
-   a lombre
-  </env>
-  la dedans un
-  <ms>
-   <tmp>
-    jour
-   </tmp>
-  </ms>
-  puys
-mects y de
-  <lb>
-  </lb>
-  la
-  <m>
-   premiere substance de vin
-  </m>
-  <comment rid="c_102v_06">
-  </comment>
-  &amp; la laisse reposer trois
-ou
-  <lb>
-  </lb>
-  quattre
-  <ms>
-   <tmp>
-    jours
-   </tmp>
-  </ms>
-  Et exprime apres le tout dans
-une aultre
-  <lb>
-  </lb>
-  <tl>
-   vaisseau
-  </tl>
-  &amp; dans ceste mesme
-  <m>
-   substance de vin
-  </m>
-  mects y
-sept
-  <lb>
-  </lb>
-  ou huict
-  <ms>
-   infusions
-  </ms>
-  de nouvelles fleurs Apres laisse
-  <env>
-   au
-   <lb>
-   </lb>
-   soleil
-  </env>
-  la derniere
-  <ms>
-   infusion
-  </ms>
-  un
-  <ms>
-   <tmp>
-    moys
-   </tmp>
-  </ms>
-  Apres distille la
-  <lb>
-  </lb>
-  par
-  <tl>
-   alenbic
-  </tl>
-  <del>
-   Ap
-  </del>
-  Et de ceste
-  <m>
-   eau
-  </m>
-  prens en ii
-  <ms>
-   ℥
-  </ms>
-  dans
-  <lb>
-  </lb>
-  deulx ou trois
-  <tl>
-   <ms>
-    cuillerees
-   </ms>
-  </tl>
-  de
-  <m>
-   vin blanc
-  </m>
-  Mays
-cest
-  <md>
-   pour
-   <lb>
-   </lb>
-   les
-   <pro>
-    vieulx
-   </pro>
-  </md>
-  <pn>
-   Paul tiers
-  </pn>
-  <comment rid="c_102v_03">
-  </comment>
-  en usoit.
- </ab>
+<entry><div id="p102v_2" categories="medicine">
+
+
+
+<head>Infusion d<m><pa>anthos</pa></m> ou
+<m><pa>rosmarin</pa></m><comment rid="c_102v_05"/></head>
+
+<ab><tmp>Au mois daougst</tmp> la fleur est mieulx cuicte &amp;
+plus propre<lb/>
+
+a fayre <m>huile</m> prens en telle quantite quil te plaira<lb/>
+
+Et la mects dans une <tl>bouteille</tl> bien
+<add>apres</add> bouchee &amp; laisse<lb/>
+
+fanir <env>a lombre</env> la dedans un <ms><tmp>jour</tmp></ms> puys
+mects y de<lb/>
+
+la <m>premiere substance de vin</m><comment rid="c_102v_06"/> &amp; la laisse reposer trois
+ou<lb/>
+
+quattre <ms><tmp>jours</tmp></ms> Et exprime apres le tout dans
+une aultre<lb/>
+
+<tl>vaisseau</tl> &amp; dans ceste mesme <m>substance de vin</m> mects y
+sept<lb/>
+
+ou huict <ms>infusions</ms> de nouvelles fleurs Apres laisse
+<env>au<lb/>
+
+soleil</env> la derniere <ms>infusion</ms> un <ms><tmp>moys</tmp></ms>
+Apres distille la<lb/>
+
+par <tl>alenbic</tl> <del>Ap</del> Et de ceste <m>eau</m> prens en ii
+<ms>&#8485;</ms> dans<lb/>
+
+deulx ou trois <tl><ms>cuillerees</ms></tl> de <m>vin blanc</m> Mays
+cest <md>pour<lb/>
+
+les <pro>vieulx</pro></md> <pn>Paul tiers</pn><comment rid="c_102v_03"/>
+en usoit.</ab>
+
 </div></entry>

@@ -1,45 +1,14 @@
-<entry><div categories="painting" id="p059v_1">
- <del>
-  Noir
- </del>
- Paincture d’armes
- <ab>
-  Le
-  <m>
-   noir de charbon
-  </m>
-  meslé d’un peu de
-  <m>
-   blanc de plomb
-  </m>
-  est
-  <lb>
-  </lb>
-  fort propre pour faire les armes, y meslant si tu veux un
-  <lb>
-  </lb>
-  peu
-  <del>
-   de
-   <ill>
-   </ill>
-  </del>
-  d’
-  <m>
-   azur
-  </m>
-  . Le
-  <m>
-   <add>
-    noir de
-   </add>
-   charbon
-  </m>
-  de soy
-mesme est co
-  <exp>
-   mm
-  </exp>
-  e bluastre.
- </ab>
-</div></entry>
+<entry><div id="p059v_1" categories="painting">
+
+
+
+<head><del>Noir</del> Paincture d&#8217;armes</head>
+
+<ab>Le <m>noir de charbon</m> mesl&#233; d&#8217;un peu de <m>blanc de plomb</m>
+est<lb/>
+
+fort propre pour faire les armes, y meslant si tu veux un<lb/>
+
+peu <del>de <ill/></del> d&#8217;<m>azur</m>. Le
+<m><add>noir de</add> charbon</m> de soy
+mesme est co<exp>mm</exp>e bluastre.</ab></div></entry>

@@ -1,139 +1,59 @@
-<entry><div categories="animal husbandry" id="p105v_3">
- Prendre
- <al>
-  rossignols
- </al>
- <add>
-  Voy le 15 foeillet
-  <lb>
-  </lb>
-  cy aprés
-  <comment rid="c_105v_04">
-  </comment>
- </add>
- <ab render="wide">
-  Pour les attraper, il fault observer leur naturel, la viande
-  <lb>
-  </lb>
-  qu’ilz aiment le plus &amp; le
-  <tmp>
-   temps de leur volupté
-  </tmp>
-  . Le
-  <al>
-   rossignol
-  </al>
-  ,
-  <lb>
-  </lb>
-  aultant qu’il chante, mainctient un quartier pour luy tout seul.
-  <lb>
-  </lb>
-  Aproche doncq faisant semblant de chercher en terre quelque
-  <lb>
-  </lb>
-  chose. Et ayant des
-  <al>
-   vers
-  </al>
-  qui viennent dans les vielles
-farines
-  <lb>
-  </lb>
-  ou dessoubs les
-  <tl>
-   mects à pestrir
-  </tl>
-  ou aulx
-  <tl>
-   moulins
-  </tl>
-  , do
-  <corr>
-   nt
-  </corr>
-  il
-est fort
-  <lb>
-  </lb>
-  friand, mects en sur ton
-  <tl>
-   chapeau
-  </tl>
-  quelqu’un attaché avecq un
-  <tl>
-   espingle
-  </tl>
-  <lb>
-  </lb>
-  ou aultrem
-  <exp>
-   ent
-  </exp>
-  , affin qu’il se remue. Et à cinq ou six
-  <ms>
-   pas
-  </ms>
-  de la haye
-  <lb>
-  </lb>
-  où il chante, fais un trou en terre &amp; y mects des
-  <al>
-   vers
-  </al>
-  et
-ton
-  <tl>
-   engin
-   <lb>
-   </lb>
-   de petits bastons en croix
-  </tl>
-  . Il luy tardera que tu ne sois hors de
-là
-  <lb>
-  </lb>
-  pour aller voir ce que tu auras faict, et voya
-  <exp>
-   n
-  </exp>
-  t des
-  <al>
-   vers
-  </al>
-  il entrera.
- </ab>
- <ab margin="left-middle">
-  Aulcuns les
-  <lb>
-  </lb>
-  vendent sur
-  <lb>
-  </lb>
-  l’abre.
- </ab>
- <ab margin="left-middle">
-  <env>
-   <tmp>
-    Le soir et le
-    <lb>
-    </lb>
-    matin
-   </tmp>
-   à la fraischeur,
-   <lb>
-   </lb>
-   vers les fontaines
-   <lb>
-   </lb>
-   &amp; lieulx ombrageulx
-  </env>
-  ,
-  <lb>
-  </lb>
-  est plus propre
-  <lb>
-  </lb>
-  pour les prendre.
- </ab>
+<entry><div id="p105v_3" categories="animal husbandry">
+
+<head>Prendre <al>rossignols</al> <add>Voy le 15 foeillet<lb/>
+
+cy apr&#233;s<comment rid="c_105v_04"/></add></head>
+
+<ab render="wide">Pour les attraper, il fault observer leur naturel, la viande<lb/>
+
+qu&#8217;ilz aiment le plus &amp; le <tmp>temps de leur volupt&#233;</tmp>. Le
+<al>rossignol</al>,<lb/>
+
+aultant qu&#8217;il chante, mainctient un quartier pour luy tout seul.<lb/>
+
+Aproche doncq faisant semblant de chercher en terre quelque<lb/>
+
+chose. Et ayant des <al>vers</al> qui viennent dans les vielles
+farines<lb/>
+
+ou dessoubs les <tl>mects &#224; pestrir</tl> ou aulx <tl>moulins</tl>, do<corr>nt</corr> il
+est fort<lb/>
+
+friand, mects en sur ton <tl>chapeau</tl> quelqu&#8217;un attach&#233; avecq un
+<tl>espingle</tl><lb/>
+
+ou aultrem<exp>ent</exp>, affin qu&#8217;il se remue. Et &#224; cinq ou six
+<ms>pas</ms> de la haye<lb/>
+
+o&#249; il chante, fais un trou en terre &amp; y mects des <al>vers</al> et
+ton <tl>engin<lb/>
+
+de petits bastons en croix</tl>. Il luy tardera que tu ne sois hors de
+l&#224;<lb/>
+
+pour aller voir ce que tu auras faict, et voya<exp>n</exp>t des
+<al>vers</al> il entrera.</ab>
+
+<ab margin="left-middle">
+
+Aulcuns les<lb/>
+
+vendent sur<lb/>
+
+l&#8217;abre.</ab>
+
+<ab margin="left-middle">
+
+<env><tmp>Le soir et le<lb/>
+
+matin</tmp> &#224; la fraischeur,<lb/>
+
+vers les fontaines<lb/>
+
+&amp; lieulx ombrageulx</env>,<lb/>
+
+est plus propre<lb/>
+
+pour les prendre.</ab>
+
 </div></entry>

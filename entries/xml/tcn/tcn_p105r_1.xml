@@ -1,27 +1,17 @@
-<entry><div categories="animal husbandry" id="p105r_1">
- <al>
-  Tortues
- </al>
- <ab>
-  Les masles ont la coquille renversée au bout vers la queue
-  <lb>
-  </lb>
-  et ont la coquille de dessoubs le ventre encochée tout du long
-  <lb>
-  </lb>
-  depuys la queue jusques à la
-  <del>
-   que
-  </del>
-  teste. Et les femelles
-n’ont
-  <lb>
-  </lb>
-  ne la coquille revirée vers la queue, ne les
-cocheure
-  <corr>
-   s
-  </corr>
-  .
- </ab>
+<entry><div id="p105r_1" categories="animal husbandry">
+
+
+
+<head><al>Tortues</al></head>
+
+<ab>Les masles ont la coquille renvers&#233;e au bout vers la queue<lb/>
+
+et ont la coquille de dessoubs le ventre encoch&#233;e tout du long<lb/>
+
+depuys la queue jusques &#224; la <del>que</del> teste. Et les femelles
+n&#8217;ont<lb/>
+
+ne la coquille revir&#233;e vers la queue, ne les
+cocheure<corr>s</corr>.</ab>
+
 </div></entry>

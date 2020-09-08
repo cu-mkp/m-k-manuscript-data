@@ -1,92 +1,28 @@
-<entry><div categories="medicine" id="p020v_2">
- <md>
-  Contre les
-  <bp>
-   ventosités
-  </bp>
-  , colique, &amp;c
- </md>
- <ab>
-  Le
-  <m>
-   suc exprimé ou l’eau
-   <del>
-    <ill>
-    </ill>
-   </del>
-   distilée de l’escorce
-d’
-   <pa>
-    orenge
-   </pa>
-  </m>
-  <lb>
-  </lb>
-  est excellent
-  <md>
-   contre la colique venteuse
-  </md>
-  . L’
-  <m>
-   escorce aussi
-   <lb>
-   </lb>
-   confite
-  </m>
-  est excellente
-  <md>
-   pour les
-   <bp>
-    vents de l’
-    <bp>
-     estomac
-    </bp>
-   </bp>
-  </md>
-  . Et
-pour
-  <lb>
-  </lb>
-  en faire preuve, ayant versé du
-  <m>
-   vin escumant
-  </m>
-  dans un
-  <lb>
-  </lb>
-  <tl>
-   <m>
-    verre
-   </m>
-  </tl>
-  , exprime du
-  <m>
-   jus d’
-   <pa>
-    orange
-   </pa>
-  </m>
-  sur
-l’
-  <m>
-   escume du vin
-  </m>
-  , qui
-  <lb>
-  </lb>
-  ne provient que de vapeur &amp; vent, et tu verras qu’incontinent
-  <lb>
-  </lb>
-  l’escume s’esperdra. Si tu exprimes aussi du
-  <m>
-   just
-  </m>
-  contre la
-  <lb>
-  </lb>
-  <tl>
-   chandelle
-  </tl>
-  , elle ardra dadvantaige.
- </ab>
+<entry><div id="p020v_2" categories="medicine">
+
+
+
+<head><md>Contre les <bp>ventosit&#233;s</bp>, colique, &amp;c</md></head>
+
+<ab>Le <m>suc exprim&#233; ou l&#8217;eau <del><ill/></del> distil&#233;e de l&#8217;escorce
+d&#8217;<pa>orenge</pa></m><lb/>
+
+est excellent <md>contre la colique venteuse</md>. L&#8217;<m>escorce aussi<lb/>
+
+confite</m> est excellente <md>pour les <bp>vents de l&#8217;<bp>estomac</bp></bp></md>. Et
+pour<lb/>
+
+en faire preuve, ayant vers&#233; du <m>vin escumant</m> dans un<lb/>
+
+<tl><m>verre</m></tl>, exprime du <m>jus d&#8217;<pa>orange</pa></m> sur
+l&#8217;<m>escume du vin</m>, qui<lb/>
+
+ne provient que de vapeur &amp; vent, et tu verras qu&#8217;incontinent<lb/>
+
+l&#8217;escume s&#8217;esperdra. Si tu exprimes aussi du <m>just</m> contre la<lb/>
+
+<tl>chandelle</tl>, elle ardra dadvantaige.
+
+</ab>
+
 </div></entry>

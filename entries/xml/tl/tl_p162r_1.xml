@@ -1,70 +1,21 @@
-<entry><div categories="La boutique" id="p162r_1">
- For the
- <env>
-  workshop
- </env>
- <ab>
-  It can be gathered from the words of
-  <pn>
-   Herodotus
-  </pn>
-  <comment rid="c_001r_71">
-  </comment>
-  that the
-navigation of the
-  <pl>
-   Portuguese
-  </pl>
-  was not newly invented by them, as
-they brag. At the beginning of the first book entitled
-  <el>
-   Clio
-  </el>
-  ,
-  <comment rid="c_162r_08">
-  </comment>
-  he
-says that the
-  <pl>
-   Phoenicians
-  </pl>
-  would come from the
-  <pl>
-   Red Sea
-  </pl>
-  by continuous navigation to the
-  <pl>
-   coast of Greece
-  </pl>
-  , mainly to
-  <pl>
-   Argos
-  </pl>
-  , to which they would carry merchandise from
-  <pl>
-   Egypt
-  </pl>
-  &amp; from
-  <pl>
-   Assyria
-  </pl>
-  , which they usually sold out
-of within 6
-  <tmp>
-   days
-  </tmp>
-  .
-  <comment rid="c_162r_01">
-  </comment>
- </ab>
- <ab margin="left-middle">
-  <emph>
-   <underline>
-    Navigation,
-    <lb>
-    </lb>
-    trade
-   </underline>
-  </emph>
- </ab>
+<entry><div id="p162r_1" categories="La boutique">
+
+<head>For the <env>workshop</env></head>
+
+<ab>
+
+It can be gathered from the words of <pn>Herodotus</pn><comment rid="c_001r_71"/> that the
+navigation of the <pl>Portuguese</pl> was not newly invented by them, as
+they brag. At the beginning of the first book entitled <el>Clio</el>,<comment rid="c_162r_08"/> he
+says that the <pl>Phoenicians</pl> would come from the <pl>Red Sea</pl>
+by continuous navigation to the <pl>coast of Greece</pl>, mainly to
+<pl>Argos</pl>, to which they would carry merchandise from
+<pl>Egypt</pl> &amp; from <pl>Assyria</pl>, which they usually sold out
+of within 6 <tmp>days</tmp>.<comment rid="c_162r_01"/></ab>
+
+<ab margin="left-middle">
+
+<emph>
+<underline>Navigation,<lb/>
+trade</underline></emph></ab>
 </div></entry>

@@ -1,48 +1,11 @@
-<entry><div categories="metal process;practical optics" id="p030r_1">
- <m>
-  Lead
- </m>
- <ab>
-  The best, fattest &amp; softest is brought from
-  <pl>
-   Germany
-  </pl>
-  and
-is not in
-  <fr>
-   saulmon
-  </fr>
-  ,
-  <comment rid="c_028v_04">
-  </comment>
-  but in
-  <fr>
-   lattes
-  </fr>
-  <comment rid="c_030r_03">
-  </comment>
-  of around an
-  <ms>
-   <bp>
-    arm's
-   </bp>
-  </ms>
-  length &amp; three
-  <ms>
-   <bp>
-    fingers'
-   </bp>
-  </ms>
-  width.
-It is transported to
-  <pl>
-   Lyon
-  </pl>
-  , and from this, the leaf is made for
-small mirrors in
-  <pl>
-   Nuremberg
-  </pl>
-  .
- </ab>
+<entry><div id="p030r_1" categories="metal process;practical optics">
+
+<head><m>Lead</m></head>
+
+<ab>The best, fattest &amp; softest is brought from <pl>Germany</pl> and
+is not in <fr>saulmon</fr>,<comment rid="c_028v_04"/> but in <fr>lattes</fr><comment rid="c_030r_03"/> of around an
+<ms><bp>arm's</bp></ms> length &amp; three <ms><bp>fingers'</bp></ms> width.
+It is transported to <pl>Lyon</pl>, and from this, the leaf is made for
+small mirrors in <pl>Nuremberg</pl>.</ab>
+
 </div></entry>

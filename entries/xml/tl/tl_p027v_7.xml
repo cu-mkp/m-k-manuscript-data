@@ -1,28 +1,11 @@
-<entry><div categories="arms and armor" id="p027v_7">
- <wp>
-  Musket
- </wp>
- ,
- <comment rid="c_027v_01">
- </comment>
- <lb>
- </lb>
- of 60
- <ms>
-  lb
- </ms>
- ,
- <lb>
- </lb>
- is 5
- <ms>
-  <fr>
-   pans
-  </fr>
- </ms>
- <lb>
- </lb>
- and a half or 6
- <figure id="fig_p027v_7" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Z3BiOF9jTFlzdzA">
- </figure>
+<entry><div id="p027v_7" categories="arms and armor">
+    
+<head><wp>Musket</wp>,<comment rid="c_027v_01"/><lb/>
+of 60 <ms>lb</ms>,<lb/>
+is 5 <ms><fr>pans</fr></ms><lb/>
+and a half or 6</head>
+    
+<figure id="fig_p027v_7" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Z3BiOF9jTFlzdzA">
+</figure>
+
 </div></entry>

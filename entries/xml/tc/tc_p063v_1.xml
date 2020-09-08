@@ -1,93 +1,27 @@
-<entry><div categories="painting" id="p063v_1">
- Velours et noirs
- <ab>
-  Il fault fault faire l
-  <del>
-   e
-  </del>
-  a
-  <comment rid="c_063v_01">
-  </comment>
-  <del>
-   milieu
-  </del>
-  principalle couche
-  <del>
-   d
-  </del>
-  fort
-  <comment rid="c_063v_03">
-  </comment>
-  <lb>
-  </lb>
-  obscure &amp; les plis &amp; rehaulssem
-  <exp>
-   ents
-  </exp>
-  de la mesme fort
-esclarcie
-  <lb>
-  </lb>
-  avecq du blanc &amp; sur les fins d
-  <del>
-   u
-  </del>
-  e
-  <comment rid="c_063v_02">
-  </comment>
-  son jour tu donnes
-un
-  <lb>
-  </lb>
-  traict blanc Pour velours bleu &amp; vert Tu
-  <del>
-   rehaulsses
-  </del>
-  <lb>
-  </lb>
-  touches le renfoncem
-  <exp>
-   ent
-  </exp>
-  de noir d
-  <m>
-   os de
-   <pa>
-    peche
-   </pa>
-  </m>
-  qui est fort
-  <lb>
-  </lb>
-  noir Pour
-  <m>
-   laque
-  </m>
-  le noir de
-  <m>
-   charbon de pierre
-  </m>
-  qui
-  <lb>
-  </lb>
-  faict un noir rougeastre
-  <add>
-   sur
-   <m>
-    laque
-   </m>
-   pour velours
-  </add>
-  Le
-  <m>
-   charbon commun
-  </m>
-  faict
-  <lb>
-  </lb>
-  un noir blanchastre
-  <del>
-   P
-  </del>
- </ab>
+<entry><div id="p063v_1" categories="painting">
+
+<head>Velours et noirs</head>
+
+<ab>Il fault fault faire l<del>e</del>a<comment rid="c_063v_01"/>
+<del>milieu</del> principalle couche <del>d</del>fort<comment rid="c_063v_03"/><lb/>
+
+obscure &amp; les plis &amp; rehaulssem<exp>ents</exp> de la mesme fort
+esclarcie<lb/>
+
+avecq du blanc &amp; sur les fins d<del>u</del>e<comment rid="c_063v_02"/> son jour tu donnes
+un<lb/>
+
+traict blanc Pour velours bleu &amp; vert Tu
+<del>rehaulsses</del><lb/>
+
+touches le renfoncem<exp>ent</exp> de noir d<m>os de <pa>peche</pa></m>
+qui est fort<lb/>
+
+noir Pour <m>laque</m> le noir de <m>charbon de pierre</m> qui<lb/>
+
+faict un noir rougeastre <add>sur <m>laque</m> pour velours</add> 
+Le <m>charbon commun</m> faict<lb/>
+
+un noir blanchastre <del>P</del></ab>
+
 </div></entry>

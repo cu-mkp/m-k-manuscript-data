@@ -1,106 +1,31 @@
-<entry><div categories="painting" id="p100r_1">
- Or couleur
- <ab>
-  Pour avoyr bien tost faict couche d’
-  <m>
-   or
-   <del>
-    sur
-   </del>
-   mat
-  </m>
-  sur
-  <m>
-   toile
-  </m>
-  <lb>
-  </lb>
-  ou aultre
-  <m>
-   tableau à huile
-  </m>
-  , on faict
-  <env>
-   au soleil
-  </env>
-  ou
-  <env>
-   au feu
-  </env>
-  de
-  <lb>
-  </lb>
-  l’
-  <m>
-   huile de
-   <pa>
-    noix
-   </pa>
-  </m>
-  gras co
-  <exp>
-   mm
-  </exp>
-  e cy devant dict,
-car il s’espessist de soy
-  <lb>
-  </lb>
-  mesmes en ceste sorte, encores qu’il n’y aye point de
-  <m>
-   plomb
-  </m>
-  ne
-  <m>
-   ceruse
-  </m>
-  .
-  <lb>
-  </lb>
-  Et avec iceluy broye du
-  <m>
-   massicot
-  </m>
-  ,
-  <m>
-   mine
-  </m>
-  &amp; aultres
-dessiccatifs,
-  <lb>
-  </lb>
-  non pas
-  <m>
-   verdet
-  </m>
-  ne
-  <m>
-   orpiment
-  </m>
-  , car ilz font mourir
-l’
-  <m>
-   or
-  </m>
-  . Il sera
-  <lb>
-  </lb>
-  sec bientost. Touteffoys si le
-  <env>
-   <tmp>
-    temps n’est serain &amp;
-sec
-   </tmp>
-  </env>
-  ne l’adoulcis
-  <lb>
-  </lb>
-  pas, car si le
-  <env>
-   <tmp>
-    temps est relent &amp; humide
-   </tmp>
-  </env>
-  il se
-rendroit noir.
- </ab>
+<entry><div id="p100r_1" categories="painting">
+
+
+
+<head>Or couleur</head>
+
+<ab>Pour avoyr bien tost faict couche d&#8217;<m>or <del>sur</del> mat</m> sur
+<m>toile</m><lb/>
+
+ou aultre <m>tableau &#224; huile</m>, on faict <env>au soleil</env> ou
+<env>au feu</env> de<lb/>
+
+l&#8217;<m>huile de <pa>noix</pa></m> gras co<exp>mm</exp>e cy devant dict,
+car il s&#8217;espessist de soy<lb/>
+
+mesmes en ceste sorte, encores qu&#8217;il n&#8217;y aye point de <m>plomb</m> ne
+<m>ceruse</m>.<lb/>
+
+Et avec iceluy broye du <m>massicot</m>, <m>mine</m> &amp; aultres
+dessiccatifs,<lb/>
+
+non pas <m>verdet</m> ne <m>orpiment</m>, car ilz font mourir
+l&#8217;<m>or</m>. Il sera<lb/>
+
+sec bientost. Touteffoys si le <env><tmp>temps n&#8217;est serain &amp;
+sec</tmp></env> ne l&#8217;adoulcis<lb/>
+
+pas, car si le <env><tmp>temps est relent &amp; humide</tmp></env> il se
+rendroit noir.</ab>
+
 </div></entry>

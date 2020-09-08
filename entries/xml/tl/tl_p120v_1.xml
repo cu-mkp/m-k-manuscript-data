@@ -1,40 +1,14 @@
-<entry><div categories="casting;medicine" id="p120v_1">
- <m>
-  <la>
-   Crocum ferri
-  </la>
- </m>
- <ab render="wide">
-  It is excellent
-  <md>
-   plastered
-  </md>
-  on wounds to stop the
-  <bp>
-   blood
-  </bp>
-  . The best is made of
-  <m>
-   needle filings
-  </m>
-  .
- </ab>
- <ab margin="left-middle">
-  <m>
-   <la>
-    Crocum ferri
-   </la>
-  </m>
-  hardens
-  <tl>
-   molds
-  </tl>
-  , once reheated,
-&amp;
-  <m>
-   feather alum
-  </m>
-  , the more there is, it renders them softer
-&amp; sweeter.
- </ab>
+<entry><div id="p120v_1" categories="casting;medicine">
+
+<head><m><la>Crocum ferri</la></m></head>
+
+<ab render="wide">It is excellent <md>plastered</md> on wounds to stop the
+<bp>blood</bp>. The best is made of <m>needle filings</m>.</ab>
+
+<ab margin="left-middle">
+
+<m><la>Crocum ferri</la></m> hardens <tl>molds</tl>, once reheated,
+&amp; <m>feather alum</m>, the more there is, it renders them softer
+&amp; sweeter.</ab>
+
 </div></entry>

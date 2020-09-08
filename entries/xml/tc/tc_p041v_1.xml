@@ -1,57 +1,23 @@
-<entry><div categories="painting" id="p041v_1">
- <m>
-  Noir
- </m>
- des
- <pro>
-  vitriers
- </pro>
- <ab>
-  <m>
-   Lescaille de fer
-  </m>
-  qui se prend des barres qui ont
-  <tmp>
-   long
-   <lb>
-   </lb>
-   temps
-  </tmp>
-  este au foeu &amp; qui est espesse est beaucoup
-meilleure
-  <lb>
-  </lb>
-  qui
-  <m>
-   celle commune tendre qui tombe soubs l
-   <tl>
-    enclume
-   </tl>
-  </m>
-  en
-  <lb>
-  </lb>
-  <tl>
-   forge
-  </tl>
-  pourcequelle imite le
-  <m>
-   nel
-  </m>
-  Audict
-  <m>
-   noir
-  </m>
-  descript ailleurs
-  <lb>
-  </lb>
-  aulcuns y adjoustent
-  <del>
-   d
-  </del>
-  un peu de
-  <m>
-   minium
-  </m>
- </ab>
+<entry><div id="p041v_1" categories="painting">
+
+
+
+<head><m>Noir</m> des <pro>vitriers</pro></head>
+
+<ab><m>Lescaille de fer</m> qui se prend des barres qui ont
+<tmp>long<lb/>
+
+temps</tmp> este au foeu &amp; qui est espesse est beaucoup
+meilleure<lb/>
+
+qui <m>celle commune tendre qui tombe soubs l<tl>enclume</tl></m>
+en<lb/>
+
+<tl>forge</tl> pourcequelle imite le <m>nel</m> Audict <m>noir</m>
+descript ailleurs<lb/>
+
+aulcuns y adjoustent <del>d</del> un peu de <m>minium</m>
+
+</ab>
+
 </div></entry>

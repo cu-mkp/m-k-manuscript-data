@@ -1,93 +1,27 @@
-<entry><div categories="metal process;wood and its coloring" id="p078v_1">
- <comment rid="c_077v_04">
- </comment>
- Pour faire
- <m>
-  bronze
- </m>
- en
- <lb>
- </lb>
- couleur dassier
- <ab>
-  Prens de l
-  <m>
-   alung de glace
-  </m>
-  <comment rid="c_075v_03">
-  </comment>
-  &amp; de l
-  <m>
-   anthimoyne
-  </m>
-  <lb>
-  </lb>
-  mais Il fault
-  <ms>
-   deux foys aultant
-  </ms>
-  d
-  <m>
-   alung
-  </m>
-  de
-  <lb>
-  </lb>
-  glace q
-  <exp>
-   ue
-  </exp>
-  d
-  <m>
-   enthimoyne
-  </m>
-  et pille le tout ensemble
-  <lb>
-  </lb>
-  dedans ung
-  <tl>
-   mortier de
-   <m>
-    fer
-   </m>
-  </tl>
-  &amp; puys destrampe aveq
-de
-  <lb>
-  </lb>
-  l
-  <m>
-   eau de Gomme
-  </m>
-  en le broiant sur ung
-  <tl>
-   <m>
-    marbre
-   </m>
-  </tl>
-  &amp;
-  <lb>
-  </lb>
-  puys en fault user aveq le
-  <tl>
-   pinceau
-  </tl>
-  &amp; appres laisser
-  <lb>
-  </lb>
-  seicher et puys le polir aveq ung
-  <tl>
-   dan de
-   <al>
-    loup
-   </al>
-   ou
-   <lb>
-   </lb>
-   de
-   <al>
-    chien
-   </al>
-  </tl>
- </ab>
+<entry><div id="p078v_1" categories="metal process;wood and its coloring">
+
+
+
+<head><comment rid="c_077v_04"/>Pour faire <m>bronze</m> en<lb/>
+
+couleur dassier</head>
+
+    <ab>Prens de l<m>alung de glace</m><comment rid="c_075v_03"/> &amp; de l<m>anthimoyne</m><lb/>
+
+mais Il fault <ms>deux foys aultant</ms> d<m>alung</m> de<lb/>
+
+glace q<exp>ue</exp> d<m>enthimoyne</m> et pille le tout ensemble<lb/>
+
+dedans ung <tl>mortier de <m>fer</m></tl> &amp; puys destrampe aveq
+de<lb/>
+
+l<m>eau de Gomme</m> en le broiant sur ung <tl><m>marbre</m></tl>
+&amp;<lb/>
+
+puys en fault user aveq le <tl>pinceau</tl> &amp; appres laisser<lb/>
+
+seicher et puys le polir aveq ung <tl>dan de <al>loup</al> ou<lb/>
+
+de <al>chien</al></tl></ab>
+
 </div></entry>

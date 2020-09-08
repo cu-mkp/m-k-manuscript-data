@@ -1,68 +1,21 @@
-<entry><div categories="medicine" id="p055r_3">
- <md>
-  Contre playes
- </md>
- <ab>
-  Perce un
-  <al>
-   poulet
-  </al>
-  ou
-  <al>
-   chien
-  </al>
-  pour essayer, &amp; mects
-dans la
-  <lb>
-  </lb>
-  playe du
-  <m>
-   suc
-  </m>
-  &amp; de l’
-  <m>
-   herbe
-   <tl>
-    pillée
-   </tl>
-   qui s’appelle
-   <pa>
-    <df>
-     <la>
-      semperviva
-     </la>
-    </df>
-   </pa>
-  </m>
-  ,
-  <comment rid="c_055r_05">
-  </comment>
-  <lb>
-  </lb>
-  c’est de ceste petite qui ha la foeille co
-  <exp>
-   mm
-  </exp>
-  e petits grains,
-qu’aulcuns
-  <lb>
-  </lb>
-  apellent
-  <m>
-   <pa>
-    <la>
-     vermicularis
-    </la>
-   </pa>
-  </m>
-  . Et on tient pour asseuré
-qu’
-  <md>
-   il ne mourra
-   <lb>
-   </lb>
-   point
-  </md>
-  .
- </ab>
+<entry><div id="p055r_3" categories="medicine">
+
+
+
+<head><md>Contre playes</md></head>
+
+<ab>Perce un <al>poulet</al> ou <al>chien</al> pour essayer, &amp; mects
+dans la<lb/>
+
+playe du <m>suc</m> &amp; de l&#8217;<m>herbe <tl>pill&#233;e</tl> qui s&#8217;appelle
+<pa><df><la>semperviva</la></df></pa></m>,<comment rid="c_055r_05"/><lb/>
+
+c&#8217;est de ceste petite qui ha la foeille co<exp>mm</exp>e petits grains,
+qu&#8217;aulcuns<lb/>
+
+apellent <m><pa><la>vermicularis</la></pa></m>. Et on tient pour asseur&#233;
+qu&#8217;<md>il ne mourra<lb/>
+
+point</md>.</ab>
+
 </div></entry>

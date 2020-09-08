@@ -1,36 +1,15 @@
-<entry><div categories="metal process" id="p055v_2">
- <m>
-  Acier de damas
- </m>
- <comment rid="c_055v_03">
- </comment>
- <ab>
-  Distille des
-  <m>
-   <al>
-    lumbris
-   </al>
-  </m>
-  a part &amp; de la
-  <m>
-   foeille
-de
-   <lb>
-   </lb>
-   <pa>
-    reforts
-   </pa>
-  </m>
-  a part &amp; mesle ces deulx
-  <m>
-   eaulx
-  </m>
-  <ms>
-   aultant
-   <lb>
-   </lb>
-   dune que daultre
-  </ms>
-  &amp; la dedans trempe
- </ab>
+<entry><div id="p055v_2" categories="metal process">
+
+
+
+    <head><m>Acier de damas</m><comment rid="c_055v_03"/></head>
+
+<ab>Distille des <m><al>lumbris</al></m> a part &amp; de la <m>foeille
+de<lb/>
+
+<pa>reforts</pa></m> a part &amp; mesle ces deulx <m>eaulx</m>
+<ms>aultant<lb/>
+
+dune que daultre</ms> &amp; la dedans trempe</ab>
+
 </div></entry>

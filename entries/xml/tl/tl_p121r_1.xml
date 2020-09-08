@@ -1,120 +1,23 @@
-<entry><div categories="preserving" id="p121r_1">
- For keeping fruits all
- <tmp>
-  year
- </tmp>
- <ab>
-  One needs to pick them in
-  <env>
-   <fr>
-    serain
-   </fr>
-   &amp;
-   <del>
-    <fr>
-     s
-    </fr>
-   </del>
-   quite dry weather
-  </env>
-  &amp; by the stem without
-  <sn>
-   touching
-  </sn>
-  <del>
-   it
-  </del>
-  the fruit with your
-  <bp>
-   hand
-  </bp>
-  , and
-put them in
-  <tl>
-   <m>
-    glass
-   </m>
-   bottles
-  </tl>
-  that have a wide
-opening, like tall
-  <tl>
-   <m>
-    glass
-   </m>
-   boxes
-  </tl>
-  for putting preserves.
-Fortify them with
-  <m>
-   straw
-  </m>
-  or something else so that they may not
-break, and seal them well with
-  <m>
-   wax
-  </m>
-  so that they may not breathe.
-And if they had a
-  <m>
-   glass
-  </m>
-  lid, well-sealed with
-  <m>
-   wax
-  </m>
-  , they
-would be all the better. Put them in a
-  <tl>
-   case
-  </tl>
-  in your
-  <env>
-   well
-  </env>
-  , or in your
-  <env>
-   cellar
-  </env>
-  in a
-  <tl>
-   <po>
-    vat
-   </po>
-   , or in a
-   <fr>
-    cos
-   </fr>
-   <comment rid="c_121r_01">
-   </comment>
-   of earth full of
-   <m>
-    water
-   </m>
-  </tl>
-  .
- </ab>
- <ab margin="left-middle">
-  For where the
-  <bp>
-   hand
-  </bp>
-  will
-  <sn>
-   touch
-  </sn>
-  , it will rot,
-and it is even good not to
-  <bp>
-   breathe
-  </bp>
-  on them. You can also put in
-  <m>
-   leaves from
-   <pa>
-    vine
-   </pa>
-  </m>
-  .
- </ab>
+<entry><div id="p121r_1" categories="preserving">
+
+<head>For keeping fruits all <tmp>year</tmp></head>
+
+<ab>One needs to pick them in <env><fr>serain</fr> &amp;
+<del><fr>s</fr></del> quite dry weather</env> &amp; by the stem without
+<sn>touching</sn> <del>it</del> the fruit with your <bp>hand</bp>, and
+put them in <tl><m>glass</m> bottles</tl> that have a wide
+opening, like tall <tl><m>glass</m> boxes</tl> for putting preserves.
+Fortify them with <m>straw</m> or something else so that they may not
+break, and seal them well with <m>wax</m> so that they may not breathe.
+And if they had a <m>glass</m> lid, well-sealed with <m>wax</m>, they
+would be all the better. Put them in a <tl>case</tl> in your
+<env>well</env>, or in your <env>cellar</env> in a <tl><po>vat</po>, or in a
+<fr>cos</fr><comment rid="c_121r_01"/> of earth full of <m>water</m></tl>.</ab>
+
+<ab margin="left-middle">
+
+For where the <bp>hand</bp> will <sn>touch</sn>, it will rot,
+and it is even good not to <bp>breathe</bp> on them. You can also put in
+<m>leaves from <pa>vine</pa></m>.</ab>
+
 </div></entry>

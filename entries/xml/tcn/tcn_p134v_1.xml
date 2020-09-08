@@ -1,167 +1,57 @@
-<entry><div categories="metal process;casting" id="p134v_1">
- Faire courre le
- <m>
-  <mark>
-   ☀
-  </mark>
- </m>
- <comment rid="c_134v_01">
- </comment>
- <ab>
-  <m>
-   Verdegris
-  </m>
-  &amp;
-  <m>
-   sel armoniac
-  </m>
-  <ms>
-   aultant d’un que
-d’aultre
-  </ms>
-  ,
-  <lb>
-  </lb>
-  <m>
-   borras
-  </m>
-  &amp;
-  <m>
-   salpestre
-  </m>
-  <ms>
-   aultant d’un que d’autre
-  </ms>
-  .
-Mays
-  <lb>
-  </lb>
-  le
-  <del>
-   s
-  </del>
-  <m>
-   borras
-  </m>
-  &amp;
-  <del>
-   sel armo
-  </del>
-  <m>
-   salpestre
-  </m>
-  ensemble ne doibvent
-  <lb>
-  </lb>
-  poiser
-  <ms>
-   que la moitié des aultres
-  </ms>
-  , sçavoir aultant
-  <lb>
-  </lb>
-  tous deulx que le
-  <m>
-   verdegris
-  </m>
-  . Broye les subtillem
-  <exp>
-   ent
-  </exp>
-  sur
-  <lb>
-  </lb>
-  le
-  <tl>
-   <m>
-    mabre
-   </m>
-  </tl>
-  en pouldre, puys broye les de nouveau
-  <lb>
-  </lb>
-  avec de
-  <m>
-   fort bon vinaigre
-  </m>
-  jusques à ce qu’il soict
-  <lb>
-  </lb>
-  subtil comme une
-  <m>
-   couleur
-  </m>
-  et
-  <m>
-   verdet
-  </m>
-  broyé à
-  <m>
-   huile
-  </m>
-  .
-  <lb>
-  </lb>
-  Aprés laisse le seicher de soy mesme si tu as loisir
-  <lb>
-  </lb>
-  ou au foeu
-  <del>
-   lent
-  </del>
-  de la
-  <tl>
-   forge
-  </tl>
-  , &amp; fais qu’il soict
-bien
-  <lb>
-  </lb>
-  sec.
- </ab>
- <ab margin="left-middle">
-  Broye
- </ab>
- <ab margin="left-middle">
-  <del>
-   <al>
-    iraigne
-   </al>
-  </del>
- </ab>
- <ab margin="left-middle">
-  Un
-  <add>
-   e
-  </add>
-  des principalles
-  <lb>
-  </lb>
-  choses pour le gect
-  <lb>
-  </lb>
-  est de gecter fort
-  <del>
-   gec
-  </del>
-  <lb>
-  </lb>
-  chault,
-  <del>
-   s
-  </del>
-  principallem
-  <corr>
-   <exp>
-    ent
-   </exp>
-  </corr>
-  <lb>
-  </lb>
-  les grands
-  <m>
-   metaulx
-  </m>
-  .
- </ab>
+<entry><div id="p134v_1" categories="metal process;casting">
+
+
+
+<head>Faire courre le <m><mark>&#9728;</mark></m><comment rid="c_134v_01"/></head>
+
+<ab>
+
+<m>Verdegris</m> &amp; <m>sel armoniac</m> <ms>aultant d&#8217;un que
+d&#8217;aultre</ms>,<lb/>
+
+<m>borras</m> &amp; <m>salpestre</m> <ms>aultant d&#8217;un que d&#8217;autre</ms>.
+Mays<lb/>
+
+le<del>s</del> <m>borras</m> &amp; <del>sel armo</del> <m>salpestre</m>
+ensemble ne doibvent<lb/>
+
+poiser <ms>que la moiti&#233; des aultres</ms>, s&#231;avoir aultant<lb/>
+
+tous deulx que le <m>verdegris</m>. Broye les subtillem<exp>ent</exp>
+sur<lb/>
+
+le <tl><m>mabre</m></tl> en pouldre, puys broye les de nouveau<lb/>
+
+avec de <m>fort bon vinaigre</m> jusques &#224; ce qu&#8217;il soict<lb/>
+
+subtil comme une <m>couleur</m> et <m>verdet</m> broy&#233; &#224;
+<m>huile</m>.<lb/>
+
+Apr&#233;s laisse le seicher de soy mesme si tu as loisir<lb/>
+
+ou au foeu <del>lent</del> de la <tl>forge</tl>, &amp; fais qu&#8217;il soict
+bien<lb/>
+
+sec.</ab>
+
+<ab margin="left-middle">
+Broye</ab>
+
+<ab margin="left-middle">
+<del><al>iraigne</al></del></ab>
+
+<ab margin="left-middle">
+
+
+
+Un<add>e</add> des principalles<lb/>
+
+choses pour le gect<lb/>
+
+est de gecter fort <del>gec</del><lb/>
+
+chault, <del>s</del> principallem<corr><exp>ent</exp></corr><lb/>
+
+les grands <m>metaulx</m>.</ab>
+
 </div></entry>

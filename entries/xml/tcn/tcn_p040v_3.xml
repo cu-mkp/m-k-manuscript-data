@@ -1,44 +1,14 @@
-<entry><div categories="metal process" id="p040v_3">
- <m>
-  Metal
- </m>
- <comment rid="c_016v_05">
- </comment>
- <ab>
-  L’
-  <m>
-   estaim doibt estre pur
-  </m>
-  car s’il y a du
-  <m>
-   plomb
-  </m>
-  il
-s’en
-  <lb>
-  </lb>
-  va en
-  <m>
-   fumée
-  </m>
-  en fondant. L’
-  <m>
-   estain
-  </m>
-  meslé tient
-  <tmp>
-   long temps
-  </tmp>
-  <lb>
-  </lb>
-  au foeu mays la
-  <tl>
-   <m>
-    cendrée
-   </m>
-  </tl>
-  <comment rid="c_040v_01">
-  </comment>
-  le separe.
- </ab>
+<entry><div id="p040v_3" categories="metal process">
+
+
+
+<head><m>Metal</m><comment rid="c_016v_05"/></head>
+
+<ab>L&#8217;<m>estaim doibt estre pur</m> car s&#8217;il y a du <m>plomb</m> il
+s&#8217;en<lb/>
+
+va en <m>fum&#233;e</m> en fondant. L&#8217;<m>estain</m> mesl&#233; tient <tmp>long temps</tmp><lb/>
+
+au foeu mays la <tl><m>cendr&#233;e</m></tl><comment rid="c_040v_01"/> le separe.</ab>
+
 </div></entry>

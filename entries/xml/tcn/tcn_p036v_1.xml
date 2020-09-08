@@ -1,108 +1,33 @@
-<entry><div categories="casting" id="p036v_1">
- <pro>
-  Fondeur
- </pro>
- <ab>
-  Les pots de cuisine se font bons, pour ne donner poinct
-  <lb>
-  </lb>
-  <sn>
-   mauvays goust à la viande
-  </sn>
-  , avecq du mesme
-  <m>
-   metal
-   <comment rid="c_016v_05">
-   </comment>
-   duquel
-   <lb>
-   </lb>
-   les cloches se font
-  </m>
-  . Il est vray que, pour les rendre plus
-  <lb>
-  </lb>
-  vendables, les
-  <pro>
-   fond
-   <del>
-    ables
-   </del>
-   <add>
-    eurs
-   </add>
-  </pro>
-  y meslent
-plus de
-  <m>
-   letton
-  </m>
-  , pource qu’ilz
-  <lb>
-  </lb>
-  sont plus jaulnes. Mays le
-  <m>
-   letton
-  </m>
-  , de soymesme &amp; à son
-seul
-  <lb>
-  </lb>
-  attouchem
-  <exp>
-   ent
-  </exp>
-  , est
-  <sn>
-   puant
-  </sn>
-  &amp; de
-  <sn>
-   mauvaise
-odeur
-  </sn>
-  .
- </ab>
- <ab>
-  Le
-  <m>
-   letton
-  </m>
-  ne perd point, ou bien peu, sa
-  <m>
-   calamine
-  </m>
-  au
-  <tl>
-   four à vent
-  </tl>
-  <lb>
-  </lb>
-  quand il se fond au
-  <tl>
-   creuset
-  </tl>
-  , ne gueres au
-  <tl>
-   four à
-   <m>
-    boys
-   </m>
-  </tl>
-  , mays
-  <lb>
-  </lb>
-  bien au
-  <tl>
-   four à souflets
-  </tl>
-  , pource que les
-  <tl>
-   souflets
-  </tl>
-  donnent
-  <lb>
-  </lb>
-  feu de chasse.
- </ab>
+<entry><div id="p036v_1" categories="casting">
+
+
+
+<head><pro>Fondeur</pro></head>
+
+<ab>Les pots de cuisine se font bons, pour ne donner poinct<lb/>
+
+<sn>mauvays goust &#224; la viande</sn>, avecq du mesme <m>metal<comment rid="c_016v_05"/> duquel<lb/>
+
+les cloches se font</m>. Il est vray que, pour les rendre plus<lb/>
+
+vendables, les <pro>fond<del>ables</del><add>eurs</add></pro> y meslent
+plus de <m>letton</m>, pource qu&#8217;ilz<lb/>
+
+sont plus jaulnes. Mays le <m>letton</m>, de soymesme &amp; &#224; son
+seul<lb/>
+
+attouchem<exp>ent</exp>, est <sn>puant</sn> &amp; de <sn>mauvaise
+odeur</sn>.</ab>
+
+<ab>Le <m>letton</m> ne perd point, ou bien peu, sa <m>calamine</m> au
+<tl>four &#224; vent</tl><lb/>
+
+quand il se fond au <tl>creuset</tl>, ne gueres au <tl>four &#224;
+<m>boys</m></tl>, mays<lb/>
+
+bien au <tl>four &#224; souflets</tl>, pource que les <tl>souflets</tl>
+donnent<lb/>
+
+feu de chasse.</ab>
+
 </div></entry>

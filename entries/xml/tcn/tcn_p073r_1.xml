@@ -1,81 +1,19 @@
-<entry><div categories="wood and its coloring" id="p073r_1">
- <comment rid="c_073r_01">
- </comment>
- Pour faire
- <m>
-  vernys pers
- </m>
- <ab>
-  Prenés du
-  <m>
-   pers de fleurs
-   <add>
-    de fleurée ou de
-    <pl>
-     Flandres
-    </pl>
-   </add>
-  </m>
-  <comment rid="c_073r_02">
-  </comment>
-  &amp; de la
-  <m>
-   chault vifve
-  </m>
-  , et mettés
-de l’
-  <m>
-   eau
-  </m>
-  <lb>
-  </lb>
-  dessus environ quatre
-  <ms>
-   <bp>
-    doigts
-   </bp>
-  </ms>
-  , et le laissés tremper
-ung
-  <ms>
-   <tmp>
-    jour
-   </tmp>
-  </ms>
-  / Prenés
-  <lb>
-  </lb>
-  de l’
-  <m>
-   eau
-  </m>
-  où lad
-  <exp>
-   icte
-  </exp>
-  <m>
-   chault
-  </m>
-  a trempé, et mectés
-v
-  <exp>
-   ost
-  </exp>
-  re
-  <m>
-   pers
-  </m>
-  avecq, et le
-  <lb>
-  </lb>
-  poser s
-  <corr>
-   ur
-  </corr>
-  le
-  <m>
-   boys
-  </m>
-  .
- </ab>
+<entry><div id="p073r_1" categories="wood and its coloring">
+
+
+
+<head><comment rid="c_073r_01"/>Pour faire <m>vernys pers</m></head>
+
+<ab>Pren&#233;s du <m>pers de fleurs <add>de fleur&#233;e ou de
+<pl>Flandres</pl></add></m><comment rid="c_073r_02"/> &amp; de la <m>chault vifve</m>, et mett&#233;s
+de l&#8217;<m>eau</m><lb/>
+
+dessus environ quatre <ms><bp>doigts</bp></ms>, et le laiss&#233;s tremper
+ung <ms><tmp>jour</tmp></ms> / Pren&#233;s<lb/>
+
+de l&#8217;<m>eau</m> o&#249; lad<exp>icte</exp> <m>chault</m> a tremp&#233;, et mect&#233;s
+v<exp>ost</exp>re <m>pers</m> avecq, et le<lb/>
+
+poser s<corr>ur</corr> le <m>boys</m>.</ab>
+
 </div></entry>

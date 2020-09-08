@@ -1,42 +1,14 @@
-<entry><div categories="casting" id="p013v_4">
- <al>
-  Snakes
- </al>
- <ab>
-  It is said that if one calls a
-  <al>
-   snake
-  </al>
-  in Greek, saying
-  <el>
-   ΟΦΗ ΟΦΗ
-  </el>
-  ,
-  <comment rid="c_013v_02">
-  </comment>
-  it will flee. Likewise, if one
-  <del>
-   <fr>
-    nom
-   </fr>
-  </del>
-  calls a
-  <al>
-   swine
-  </al>
-  in Greek,
-  <del>
-   <fr>
-    y
-   </fr>
-  </del>
-  <el>
-   ïon
-  </el>
-  ,
-  <comment rid="c_013v_01">
-  </comment>
-  it
+<entry><div id="p013v_4" categories="casting">
+
+
+
+<head><al>Snakes</al></head>
+
+<ab>It is said that if one calls a <al>snake</al> in Greek, saying
+<el>&#927;&#934;&#919; &#927;&#934;&#919;</el>,<comment rid="c_013v_02"/> it will flee. Likewise, if one <del><fr>nom</fr></del>
+calls a <al>swine</al> in Greek, <del><fr>y</fr></del> <el>&#239;on</el>,<comment rid="c_013v_01"/> it
 will come.
- </ab>
+
+</ab>
+
 </div></entry>

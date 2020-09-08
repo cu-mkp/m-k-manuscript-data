@@ -1,115 +1,21 @@
-<entry><div categories="stones" id="p002v_2">
- <hr/>
- <comment rid="c_002v_07">
- </comment>
- <add>
-  <m>
-   Emeralds of
-   <pl>
-    Brissac
-   </pl>
-  </m>
- </add>
- <hr/>
- <ab render="full">
-  I have taken
-  <m>
-   minium
-  </m>
-  26
-  <ms>
-   ℥
-  </ms>
-  ,
-  <m>
-   crystal
-  </m>
-  <comment rid="c_002v_04">
-  </comment>
-  <add>
-   <ill>
-   </ill>
-   and ground on
-   <tl>
-    <m>
-     marble
-    </m>
-   </tl>
-  </add>
-  12
-  <ms>
-   ℥
-  </ms>
-  ,
-  <m>
-   verdet
-  </m>
-  3
-  <ms>
-   |ʒ|
-  </ms>
-  . Incorporate all together, put in a
-  <tl>
-   crucible
-   <comment rid="c_002v_05">
-   </comment>
-   covered with another, well
-   <m>
-    <tl>
-     luted
-    </tl>
-   </m>
-   , that has a hole in the
-top
-  </tl>
-  . Fusion 7
-  <ms>
-   <tmp>
-    hours
-   </tmp>
-  </ms>
-  without blowing. The mass
-was of a beautiful green.
- </ab>
- <ab margin="full">
-  I have taken
-  <m>
-   minium
-  </m>
-  12
-  <ms>
-   ℥
-  </ms>
-  ,
-  <m>
-   crystal
-  </m>
-  6
-  <ms>
-   ℥
-  </ms>
-  ,
-  <m>
-   verdet
-  </m>
-  2
-  <ms>
-   grains
-  </ms>
-  . Soft fusion vi
-  <ms>
-   <tmp>
-    hours
-   </tmp>
-  </ms>
-  , refired
-24
-  <ms>
-   <tmp>
-    hours
-   </tmp>
-  </ms>
-  . The mass was green, yellow &amp;
-red.
- </ab>
+<entry><div id="p002v_2" categories="stones">
+
+
+
+<head margin="right-top"><hr/><comment rid="c_002v_07"/><add><m>Emeralds of <pl>Brissac</pl></m></add><hr/></head>
+
+<ab render="full">I have taken <m>minium</m> 26 <ms>&#8485;</ms>,
+<m>crystal</m><comment rid="c_002v_04"/> <add><ill/> and ground on <tl><m>marble</m></tl></add> 12
+<ms>&#8485;</ms>, <m>verdet</m> 3
+<ms>|&#658;|</ms>. Incorporate all together, put in a
+<tl>crucible<comment rid="c_002v_05"/> covered with another, well <m><tl>luted</tl></m>, that has a hole in the
+top</tl>. Fusion 7 <ms><tmp>hours</tmp></ms> without blowing. The mass
+was of a beautiful green.</ab>
+
+<ab margin="full">I have taken <m>minium</m> 12 <ms>&#8485;</ms>,
+<m>crystal</m> 6 <ms>&#8485;</ms>, <m>verdet</m> 2
+<ms>grains</ms>. Soft fusion vi <ms><tmp>hours</tmp></ms>, refired
+24 <ms><tmp>hours</tmp></ms>. The mass was green, yellow &amp;
+red.</ab>
+
 </div></entry>

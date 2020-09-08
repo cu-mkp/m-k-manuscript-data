@@ -1,84 +1,29 @@
-<entry><div categories="animal husbandry" id="p105v_3">
- Catching
- <al>
-  nightingales
- </al>
- <add>
-  See the 15th folio after
-this
-  <comment rid="c_105v_04">
-  </comment>
- </add>
- <ab render="wide">
-  For trapping them, one needs to observe their nature, the food that
-they like the best, &amp; the
-  <tmp>
-   season of their pleasure
-  </tmp>
-  . The
-  <al>
-   nightingale
-  </al>
-  , as long as it sings, maintains a territory for
+<entry><div id="p105v_3" categories="animal husbandry">
+
+
+
+<head>Catching <al>nightingales</al>
+
+<add>See the 15th folio after
+this<comment rid="c_105v_04"/></add></head>
+
+<ab render="wide">For trapping them, one needs to observe their nature, the food that
+they like the best, &amp; the <tmp>season of their pleasure</tmp>. The
+<al>nightingale</al>, as long as it sings, maintains a territory for
 itself alone. Therefore approach, making as if searching the ground for
-something. And taking some
-  <al>
-   worms
-  </al>
-  which come from old meal or
-from beneath
-  <tl>
-   kneading troughs
-  </tl>
-  or
-  <tl>
-   mills
-  </tl>
-  , which it is fond of, put some on your
-  <tl>
-   hat
-  </tl>
-  attached
-with a
-  <tl>
-   pin
-  </tl>
-  or otherwise, in order that it wiggles. And at five
-or six
-  <ms>
-   paces
-  </ms>
-  from the hedge where it sings, make a hole in the
-ground &amp; put in some
-  <al>
-   worms
-  </al>
-  and your
-  <tl>
-   device of little
-crossed sticks
-  </tl>
-  . It will be anxious for you to leave so it can go
-see what you have done, and seeing
-  <al>
-   worms
-  </al>
-  , it will enter.
- </ab>
- <ab margin="left-middle">
-  Some sell them on trees.
- </ab>
- <ab margin="left-middle">
-  The
-  <env>
-   coolness of
-   <tmp>
-    the evening
-and the morning
-   </tmp>
-   , near fountains &amp; shaded places
-  </env>
-  , are
-more appropriate for taking them.
- </ab>
+something. And taking some <al>worms</al> which come from old meal or
+from beneath <tl>kneading troughs</tl> or <tl>mills</tl>, which it is fond of, put some on your <tl>hat</tl> attached
+with a <tl>pin</tl> or otherwise, in order that it wiggles. And at five
+or six <ms>paces</ms> from the hedge where it sings, make a hole in the
+ground &amp; put in some <al>worms</al> and your <tl>device of little
+crossed sticks</tl>. It will be anxious for you to leave so it can go
+see what you have done, and seeing <al>worms</al>, it will enter.</ab>
+
+<ab margin="left-middle">
+Some sell them on trees.</ab>
+
+<ab margin="left-middle">The <env>coolness of <tmp>the evening
+and the morning</tmp>, near fountains &amp; shaded places</env>, are
+more appropriate for taking them.</ab>
+
 </div></entry>

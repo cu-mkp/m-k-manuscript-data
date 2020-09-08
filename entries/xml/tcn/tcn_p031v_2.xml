@@ -1,29 +1,15 @@
-<entry><div categories="painting" id="p031v_2">
- <tl>
-  Broisses
- </tl>
- <ab>
-  Prens de celles qui ont un peu servy aulx
-  <pro>
-   blanchiss
-   <corr>
-    <exp>
-     eur
-    </exp>
-   </corr>
-   s
-   <lb>
-   </lb>
-   de chaulx vive
-  </pro>
-  , car l’asperité de la
-  <m>
-   chaulx
-  </m>
-  &amp;
-l’usage
-  <lb>
-  </lb>
-  les rend plus maniables.
- </ab>
+<entry><div id="p031v_2" categories="painting">
+
+
+
+<head><tl>Broisses</tl></head>
+
+<ab>Prens de celles qui ont un peu servy aulx
+<pro>blanchiss<corr><exp>eur</exp></corr>s<lb/>
+
+de chaulx vive</pro>, car l&#8217;asperit&#233; de la <m>chaulx</m> &amp;
+l&#8217;usage<lb/>
+
+les rend plus maniables.</ab>
+
 </div></entry>

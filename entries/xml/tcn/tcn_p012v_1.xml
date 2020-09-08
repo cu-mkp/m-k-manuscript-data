@@ -1,97 +1,33 @@
-<entry><div categories="casting" id="p012v_1">
- Mouler le
- <m>
-  stuc
- </m>
- promptem
- <exp>
-  en
- </exp>
- t
- <ab>
-  Broye &amp; pulverise subtilem
-  <exp>
-   ent
-  </exp>
-  de la
-  <m>
-   brique
-  </m>
-  ou
-  <m>
-   bol
-   <lb>
-   </lb>
-   <pl>
-    armen
-   </pl>
-  </m>
-  ou
-  <m>
-   sanguine
-  </m>
-  &amp; l’incorpore avecq
-  <m>
-   cire fondue
-  </m>
-  ,
-  <lb>
-  </lb>
-  &amp; ainsy fondu jecte co
-  <exp>
-   mm
-  </exp>
-  e des aultres sur une
-  <tl>
-   medaille
-   <lb>
-   </lb>
-   de relief
-  </tl>
-  , &amp; ainsy tu auras un cave où tu pourras
-  <lb>
-  </lb>
-  gecter du
-  <m>
-   plastre
-  </m>
-  ,
-  <m>
-   papier
-   <tl>
-    pilé
-   </tl>
-  </m>
-  ou
-  <m>
-   terre
-chimolée
-  </m>
-  .
- </ab>
- <ab margin="left-middle">
-  La
-  <m>
-   brique
-  </m>
-  bien
-  <lb>
-  </lb>
-  subtilem
-  <corr>
-   <exp>
-    ent
-   </exp>
-  </corr>
-  tamisée
-  <lb>
-  </lb>
-  est meilleure car le
-  <lb>
-  </lb>
-  <m>
-   bol
-  </m>
-  est trop gras.
- </ab>
+<entry><div id="p012v_1" categories="casting">
+
+
+
+<head>Mouler le <m>stuc</m> promptem<exp>en</exp>t</head>
+
+<ab>Broye &amp; pulverise subtilem<exp>ent</exp> de la <m>brique</m> ou
+<m>bol<lb/>
+
+<pl>armen</pl></m> ou <m>sanguine</m> &amp; l&#8217;incorpore avecq
+<m>cire fondue</m>,<lb/>
+
+&amp; ainsy fondu jecte co<exp>mm</exp>e des aultres sur une
+<tl>medaille<lb/>
+
+de relief</tl>, &amp; ainsy tu auras un cave o&#249; tu pourras<lb/>
+
+gecter du <m>plastre</m>, <m>papier <tl>pil&#233;</tl></m> ou <m>terre
+chimol&#233;e</m>.</ab>
+
+<ab margin="left-middle">
+
+
+
+La <m>brique</m> bien<lb/>
+
+subtilem<corr><exp>ent</exp></corr> tamis&#233;e<lb/>
+
+est meilleure car le<lb/>
+
+<m>bol</m> est trop gras.</ab>
+
 </div></entry>

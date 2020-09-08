@@ -1,27 +1,10 @@
-<entry><div categories="corrosives" id="p046v_6">
- Faire brusler les bottes a quelquu
- <exp>
-  n
- </exp>
- <ab>
-  Frottes de l
-  <m>
-   huile
-  </m>
-  susdict
-  <comment rid="c_046v_01">
-  </comment>
-  &amp; co
-  <exp>
-   mm
-  </exp>
-  e il se
-chaufera elle
-  <lb>
-  </lb>
-  se brusleront sans flamme
-  <emph>
-   Urb
-  </emph>
- </ab>
+<entry><div id="p046v_6" categories="corrosives">
+
+<head>Faire brusler les bottes a quelquu<exp>n</exp></head>
+
+<ab>Frottes de l<m>huile</m> susdict<comment rid="c_046v_01"/> &amp; co<exp>mm</exp>e il se
+chaufera elle<lb/>
+
+se brusleront sans flamme <emph>Urb</emph></ab>
+
 </div></entry>

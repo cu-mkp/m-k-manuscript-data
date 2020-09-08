@@ -1,25 +1,8 @@
-<entry><div categories="lists" id="p002v_1">
- <sup>
-  List of books
- </sup>
- <ab>
-  <emph>
-   <it>
-    Practica, cioè nova inventione di contegiare,
-    <comment rid="c_002v_03">
-    </comment>
-    stampata in
-    <pl>
-     Brescia
-    </pl>
-    per
-    <pn>
-     Vincenzo Sabio
-    </pn>
-    .
-    <comment rid="c_002v_01">
-    </comment>
-   </it>
-  </emph>
- </ab>
+<entry><div id="p002v_1" categories="lists">
+
+
+<head><sup>List of books</sup></head>
+<ab><emph><it>Practica, cio&#232; nova inventione di contegiare,<comment rid="c_002v_03"/> stampata in
+<pl>Brescia</pl> per <pn>Vincenzo Sabio</pn>.<comment rid="c_002v_01"/></it></emph></ab>
+
 </div></entry>

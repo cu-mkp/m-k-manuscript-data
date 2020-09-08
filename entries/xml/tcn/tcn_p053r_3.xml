@@ -1,54 +1,14 @@
-<entry><div categories="casting" id="p053r_3">
- Gect de
- <m>
-  plomb
- </m>
- <ab>
-  On le mesle selon aulcuns
-  <ms>
-   moictié
-  </ms>
-  d’
-  <m>
-   estain
-  </m>
-  &amp;
-  <ms>
-   moictié
-  </ms>
-  <m>
-   plomb
-  </m>
-  ,
-  <lb>
-  </lb>
-  et pour l'esch
-  <del>
-   <ill>
-   </ill>
-  </del>
-  <add>
-   afer
-  </add>
-  <comment rid="c_053r_01">
-  </comment>
-  on y mesle un peu de
-  <m>
-   sublimé
-  </m>
-  . Il se gecte bien
-  <lb>
-  </lb>
-  en petit dans l’
-  <tl>
-   <m>
-    os de
-    <al>
-     seiche
-    </al>
-   </m>
-  </tl>
-  pourveu qu’il
-soict bon.
- </ab>
+<entry><div id="p053r_3" categories="casting">
+
+<head>Gect de <m>plomb</m></head>
+
+<ab>On le mesle selon aulcuns <ms>moicti&#233;</ms> d&#8217;<m>estain</m> &amp;
+<ms>moicti&#233;</ms> <m>plomb</m>,<lb/>
+
+et pour l'esch<del><ill/></del><add>afer</add><comment rid="c_053r_01"/> on y mesle un peu de
+<m>sublim&#233;</m>. Il se gecte bien<lb/>
+
+en petit dans l&#8217;<tl><m>os de <al>seiche</al></m></tl> pourveu qu&#8217;il
+soict bon.</ab>
+
 </div></entry>

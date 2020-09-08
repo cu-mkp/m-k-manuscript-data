@@ -1,89 +1,31 @@
-<entry><div categories="casting;metal process" id="p135r_1">
- <m>
-  Couleur
- </m>
- <comment rid="c_135r_01">
- </comment>
- pour
- <m>
-  or
- </m>
- ou saulce
- <ab>
-  <m>
-   Verdegris
-  </m>
-  &amp;
-  <m>
-   sel armoniac
-  </m>
-  <ms>
-   autant d’un que
-d’aultre
-  </ms>
-  <lb>
-  </lb>
-  &amp;
-  <ms>
-   aussi gros qu’une
-   <pa>
-    febve
-   </pa>
-  </ms>
-  de
-  <m>
-   salpestre
-  </m>
-  . Car
-si tu en mectois
-  <lb>
-  </lb>
-  quantité, il feroit bouillir tellem
-  <corr>
-   <exp>
-    ent
-   </exp>
-  </corr>
-  le tout
-qu’il se reverseroit.
-  <lb>
-  </lb>
-  Le
-  <m>
-   salpestre
-  </m>
-  ne se mect que pour faire bouillir, affin
-  <lb>
-  </lb>
-  qu’on cognoisse quand la matiere a assés bouilly.
- </ab>
-</div>
+<entry><div id="p135r_1" categories="casting;metal process">
+
+<head><m>Couleur</m><comment rid="c_135r_01"/> pour <m>or</m> ou saulce</head>
+
+<ab>
+
+<m>Verdegris</m> &amp; <m>sel armoniac</m> <ms>autant d&#8217;un que
+d&#8217;aultre</ms><lb/>
+
+&amp; <ms>aussi gros qu&#8217;une <pa>febve</pa></ms> de <m>salpestre</m>. Car
+si tu en mectois <lb/>
+
+quantit&#233;, il feroit bouillir tellem<corr><exp>ent</exp></corr> le tout
+qu&#8217;il se reverseroit. <lb/>
+
+Le <m>salpestre</m> ne se mect que pour faire bouillir, affin <lb/>
+
+qu&#8217;on cognoisse quand la matiere a ass&#233;s bouilly.</ab></div>
+    
+    
 
 
-<div id="p135r_1" part="y">
- <ab>
-  Ceste
-  <m>
-   couleur
-  </m>
-  mise sur l’
-  <m>
-   or aigre fondu
-  </m>
-  le rend doulx
-  <lb>
-  </lb>
-  incontinent.
- </ab>
- <ab margin="left-middle">
-  <emph>
-   Adoulcir
-   <comment rid="c_015r_01">
-   </comment>
-   l’
-   <m>
-    or
-   </m>
-  </emph>
- </ab>
+<div id="p135r_1" part="y"><ab>
+Ceste <m>couleur</m> mise sur l&#8217;<m>or aigre fondu</m> le rend doulx
+<lb/>
+
+incontinent. </ab>
+
+<ab margin="left-middle"><emph>Adoulcir<comment rid="c_015r_01"/> l&#8217;<m>or</m></emph></ab>
+
 </div></entry>

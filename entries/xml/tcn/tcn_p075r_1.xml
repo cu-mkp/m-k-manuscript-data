@@ -1,32 +1,14 @@
-<entry><div categories="wax process;wood and its coloring" id="p075r_1">
- <comment rid="c_073v_02">
- </comment>
- <m>
-  Goume
- </m>
- rouge
- <ab>
-  Prenés
-  <m>
-   sire rouge
-  </m>
-  , du
-  <m>
-   vernilhon
-  </m>
-  &amp; ung petict de
-  <m>
-   poix
-   <del>
-    resins
-   </del>
-   <add>
-    resine
-   </add>
-  </m>
-  ,
-  <lb>
-  </lb>
-  comme dessus.
- </ab>
+<entry><div id="p075r_1" categories="wax process;wood and its coloring">
+
+
+
+<head><comment rid="c_073v_02"/><m>Goume</m> rouge</head>
+
+<ab>
+
+Pren&#233;s <m>sire rouge</m>, du <m>vernilhon</m> &amp; ung petict de
+<m>poix <del>resins</del> <add>resine</add></m>,<lb/>
+
+comme dessus.</ab>
+
 </div></entry>

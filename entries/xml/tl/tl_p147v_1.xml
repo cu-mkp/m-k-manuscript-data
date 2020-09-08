@@ -1,92 +1,21 @@
-<entry><div categories="casting" id="p147v_1">
- <mark>
-  +
- </mark>
- Casting of
- <m>
-  copper
- </m>
- alloyed with
- <m>
-  ☾
- </m>
- , which is like
- <m>
-  very base solder
- </m>
- <mark>
-  /
- </mark>
- <fr>
-  ard
- </fr>
- <ill>
- </ill>
- <comment rid="c_147v_01">
- </comment>
- and
- <cn>
-  <m>
-   old
-K
-  </m>
- </cn>
- <comment rid="c_086v_03">
- </comment>
- and some
- <fr>
-  R
- </fr>
- <ill>
- </ill>
- <comment rid="c_147v_01">
- </comment>
- out of
-xii
- <ab>
-  I have cast with it the cleanest I have seen, in very small
-figures &amp; thin as
-  <m>
-   paper
-  </m>
-  . I have cast very hot in the
-very red
-  <tl>
-   mold
-  </tl>
-  , and have put in the melted substance of
-  <del>
-   this
-  </del>
-  <add>
-   the
-  </add>
-  two
-  <del>
-   substances
-  </del>
-  compositions,
-which make
-  <m>
-   silver
-  </m>
-  run, &amp; have made as if I had wanted to
-cast
-  <m>
-   pure silver
-  </m>
-  . This alloy is white in
-  <tl>
-   <fr>
-    bullitoire
-   </fr>
-  </tl>
-  , like any alloys which resemble, however
-little,
-  <m>
-   ☾
-  </m>
-  . For casting something delicate, use
-this one.
- </ab>
+<entry><div id="p147v_1" categories="casting">
+
+
+
+<head><mark>+</mark> Casting of <m>copper</m> alloyed with
+<m>&#9790;</m>, which is like <m>very base solder</m>
+<mark>/</mark> <fr>ard</fr><ill/><comment rid="c_147v_01"/> and <cn><m>old
+K</m></cn><comment rid="c_086v_03"/> and some <fr>R</fr><ill/><comment rid="c_147v_01"/> out of
+xii</head>
+
+<ab>I have cast with it the cleanest I have seen, in very small
+figures &amp; thin as <m>paper</m>. I have cast very hot in the
+very red <tl>mold</tl>, and have put in the melted substance of
+<del>this</del> <add>the</add> two <del>substances</del> compositions,
+which make <m>silver</m> run, &amp; have made as if I had wanted to
+cast <m>pure silver</m>. This alloy is white in
+<tl><fr>bullitoire</fr></tl>, like any alloys which resemble, however
+little, <m>&#9790;</m>. For casting something delicate, use
+this one.</ab>
+
 </div></entry>

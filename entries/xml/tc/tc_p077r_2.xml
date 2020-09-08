@@ -1,84 +1,30 @@
-<entry><div categories="medicine" id="p077r_2">
- Medecine des
- <pl>
-  orientaulx
- </pl>
- <md>
-  contre
-  <lb>
-  </lb>
-  toutes maladies
- </md>
- <figure id="fig_p077r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ckxxXzJIeWhnMDg">
- </figure>
- <ab>
-  Fais secher du
-  <m>
-   <pa>
-    rosmarin
-   </pa>
-  </m>
-  <tmp>
-   au moys de
-may
-  </tmp>
-  puys emplis ce
-  <tl>
-   godet
-  </tl>
-  <lb>
-  </lb>
-  de
-  <m>
-   pouldre
-  </m>
-  diceluy Et mects un
-  <m>
-   charbon allume
-  </m>
-  dessus Et
-  <lb>
-  </lb>
-  recois la
-  <m>
-   fumee
-  </m>
-  par la
-  <bp>
-   bouche
-  </bp>
-  bien serree Et une
-partye
-  <lb>
-  </lb>
-  te sortira par le
-  <bp>
-   nes
-  </bp>
-  Mays si tu veulx
-  <md>
-   purger la
-   <bp>
-    teste
-   </bp>
-  </md>
-  sarre
-  <lb>
-  </lb>
-  aussy le
-  <bp>
-   nes
-  </bp>
-  <md>
-   Contre morfondiments
-  </md>
-  <md>
-   rheumes
-  </md>
-  &amp;
-  <md>
-   aultres
-malladies
-  </md>
- </ab>
+<entry><div id="p077r_2" categories="medicine">
+
+<head>Medecine des <pl>orientaulx</pl> <md>contre<lb/>
+
+toutes maladies</md></head>
+
+<figure id="fig_p077r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ckxxXzJIeWhnMDg">
+
+
+
+
+
+</figure>
+
+<ab>Fais secher du <m><pa>rosmarin</pa></m> <tmp>au moys de
+may</tmp> puys emplis ce <tl>godet</tl><lb/>
+
+de <m>pouldre</m> diceluy Et mects un <m>charbon allume</m>
+dessus Et<lb/>
+
+recois la <m>fumee</m> par la <bp>bouche</bp> bien serree Et une
+partye<lb/>
+
+te sortira par le <bp>nes</bp> Mays si tu veulx <md>purger la <bp>teste</bp></md>
+sarre<lb/>
+
+aussy le <bp>nes</bp> <md>Contre morfondiments</md> <md>rheumes</md> &amp; <md>aultres
+malladies</md></ab>
+
 </div></entry>

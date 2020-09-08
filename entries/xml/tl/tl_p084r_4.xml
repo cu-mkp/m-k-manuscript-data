@@ -1,20 +1,8 @@
-<entry><div categories="casting" id="p084r_4">
- <m>
-  Flour
- </m>
- <ab>
-  Ground during
-  <tmp>
-   Advent
-  </tmp>
-  ,
-  <comment rid="c_084r_05">
-  </comment>
-  keeps for the
-  <tmp>
-   whole
-year
-  </tmp>
-  .
- </ab>
+<entry><div id="p084r_4" categories="casting">
+
+<head><m>Flour</m></head>
+
+<ab>Ground during <tmp>Advent</tmp>,<comment rid="c_084r_05"/> keeps for the <tmp>whole
+year</tmp>.</ab>
+
 </div></entry>

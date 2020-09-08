@@ -1,58 +1,19 @@
-<entry><div categories="painting" id="p062v_1">
- Portraire
- <ab>
-  Il fault pourtraire à l’
-  <tl>
-   <bp>
-    oeil
-   </bp>
-  </tl>
-  sans
-  <tl>
-   compas
-  </tl>
-  ne
-  <tl>
-   regle
-  </tl>
-  pour se
-  <lb>
-  </lb>
-  rendre
-  <pro>
-   artiste
-  </pro>
-  . Les
-  <pro>
-   maistres
-  </pro>
-  ne le permectent pas
-aulx
-  <lb>
-  </lb>
-  <pro>
-   aprentis
-  </pro>
-  .
- </ab>
- <ab>
-  Quand l’impression est de
-  <tmp>
-   long temps
-  </tmp>
-  faicte, elle
-s’engraisse.
-  <lb>
-  </lb>
-  Il la fault frotter avecq de la
-  <m>
-   cendre
-  </m>
-  &amp; de
-l’
-  <m>
-   eau
-  </m>
-  .
- </ab>
+<entry><div id="p062v_1" categories="painting">
+
+<head>Portraire</head>
+
+<ab>Il fault pourtraire &#224; l&#8217;<tl><bp>oeil</bp></tl> sans <tl>compas</tl>
+ne <tl>regle</tl> pour se<lb/>
+
+rendre <pro>artiste</pro>. Les <pro>maistres</pro> ne le permectent pas
+aulx<lb/>
+
+<pro>aprentis</pro>.</ab>
+
+<ab>Quand l&#8217;impression est de <tmp>long temps</tmp> faicte, elle
+s&#8217;engraisse.<lb/>
+
+Il la fault frotter avecq de la <m>cendre</m> &amp; de
+l&#8217;<m>eau</m>.</ab>
+
 </div></entry>

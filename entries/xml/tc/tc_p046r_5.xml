@@ -1,24 +1,10 @@
-<entry><div categories="cultivation" id="p046r_5">
- <del>
-  Go
- </del>
- Fleurs dabres
- <ab>
-  Celles qui se voyent
-  <tmp>
-   en tout
-   <del>
-    es
-   </del>
-   s
-   <comment rid="c_046r_02">
-   </comment>
-   les
-renouveaulx de ☾
-  </tmp>
-  ne viennent
-  <lb>
-  </lb>
-  gueres a proffict Il ne fault laisser au greffe que deulx boutons
- </ab>
+<entry><div id="p046r_5" categories="cultivation">
+
+<head><del>Go</del> Fleurs dabres</head>
+
+<ab>Celles qui se voyent <tmp>en tout<del>es</del>s<comment rid="c_046r_02"/> les
+renouveaulx de &#9790;</tmp> ne viennent<lb/>
+
+gueres a proffict Il ne fault laisser au greffe que deulx boutons</ab>
+
 </div></entry>

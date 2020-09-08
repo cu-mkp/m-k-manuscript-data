@@ -1,79 +1,20 @@
-<entry><div categories="lists" id="p001r_1">
- <sup>
-  List of names
- </sup>
- <ab margin="left-middle" render="wide">
-  <pn>
-   Mestre Nico
-   <ill>
-   </ill>
-   Costé
-  </pn>
-  ,
-  <comment rid="c_001r_01">
-  </comment>
-  in the
-  <pl>
-   Rue de la Heaumerie,
-   <comment rid="c_001r_02">
-   </comment>
-   at the
-sign of St Claude
-  </pl>
-  <mark>
-   /
-  </mark>
-  Mirrors.
-  <lb>
-  </lb>
-  <pn>
-   Mestre Jehan Cousin,
-  </pn>
-  <comment rid="c_001r_03">
-  </comment>
-  who resides in
-the
-  <pl>
-   Faubourg Saint-Germain
-  </pl>
-  ,
-  <comment rid="c_001r_76">
-  </comment>
-  knows of the
-  <pro>
-   master
-  </pro>
-  .
-  <lb>
-  </lb>
-  <pn>
-   Mestre Jehan Garnier
-  </pn>
-  ,
-  <comment rid="c_001r_80">
-  </comment>
-  in the
-  <pl>
-   Rue des
-Escrivains
-  </pl>
-  by
-  <pl>
-   St Jacques de la Boucherie
-  </pl>
-  ,
-  <comment rid="c_001r_77">
-  </comment>
-  <pro>
-   currier
-  </pro>
-  . Try
-  <m>
-   <pa>
-    pastel woad
-   </pa>
-   flowers
-  </m>
-  .
- </ab>
+<entry><div id="p001r_1" categories="lists">
+
+
+<head margin="left-middle"><sup>List of names</sup></head>
+
+<ab margin="left-middle" render="wide">
+
+<pn>Mestre Nico<ill/> Cost&#233;</pn>,<comment rid="c_001r_01"/> in the
+<pl>Rue de la Heaumerie,<comment rid="c_001r_02"/> at the
+sign of St Claude</pl> <mark>/</mark> Mirrors.<lb/>
+
+<pn>Mestre Jehan Cousin,</pn><comment rid="c_001r_03"/> who resides in
+the <pl>Faubourg Saint-Germain</pl>,<comment rid="c_001r_76"/> knows of the
+<pro>master</pro>.<lb/>
+
+<pn>Mestre Jehan Garnier</pn>,<comment rid="c_001r_80"/> in the <pl>Rue des
+Escrivains</pl> by <pl>St Jacques de la Boucherie</pl>,<comment rid="c_001r_77"/>
+<pro>currier</pro>. Try <m><pa>pastel woad</pa> flowers</m>.</ab>
+
 </div></entry>

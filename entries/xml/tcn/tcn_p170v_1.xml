@@ -1,106 +1,26 @@
-<entry><div categories="manuscript structure" id="p170v_1">
- <sup>
-  Première page d'origine (1578–1579)
- </sup>
- <ab>
-  <comment rid="c_170v_12">
-  </comment>
-  L’
-  <tmp>
-   an
-  </tmp>
-  mil cinq cens septante huict le
-deuxiesme de
-  <tmp>
-   juillet
-  </tmp>
-  a esté faict
-  <lb>
-  </lb>
-  transport aulx heritiers d
-  <del>
-   e
-  </del>
-  u
-  <comment rid="c_170v_29">
-  </comment>
-  feu
-  <pn>
-   s
-   <exp>
-    ieu
-   </exp>
-   r
-Ouvryer
-  </pn>
-  <comment rid="c_170v_13">
-  </comment>
-  <del>
-   deux cens cinq
-   <cn>
-    escus
-   </cn>
-  </del>
-  <lb>
-  </lb>
-  du rentement de
-  <pl>
-   S
-   <exp>
-    ainc
-   </exp>
-   t Frajou
-  </pl>
-  ,
-  <comment rid="c_170v_14">
-  </comment>
-  montant douze cens trente
-  <cn>
-   livres
-  </cn>
-  .
- </ab>
- <ab>
-  Autre transport leur a esté faict sur les fruictz de l’
-  <tmp>
-   année
-  </tmp>
-  <lb>
-  </lb>
-  mil cinq cens septante neuf de
-  <del>
-   deux
-  </del>
-  <add>
-   trois
-  </add>
-  cens
-quarante trois
-  <cn>
-   escus
-  </cn>
-  <lb>
-  </lb>
-  un tiers
-  <del>
-   sur qu
-  </del>
-  .
- </ab>
- <ab>
-  Et leur reste sur la premiere année quatre vintg
-  <cn>
-   livres
-  </cn>
-  quinze
-  <figure id="fig_p170v_2" link="https://drive.google.com/file/d/1pPcyOohw3Aygar2ODD_l8U8YEBHXG806" size="x-small">
-  </figure>
-  <comment rid="c_170v_03">
-  </comment>
-  ,
-  <lb>
-  </lb>
-  et sur la seconde judication n’ont encore rien repceu.
-  <hr/>
- </ab>
+<entry><div id="p170v_1" categories="manuscript structure">
+
+
+<head><sup>Premi&#232;re page d'origine (1578&#8211;1579)</sup></head>
+<ab>
+
+<comment rid="c_170v_12"/>L&#8217;<tmp>an</tmp> mil cinq cens septante huict le
+deuxiesme de <tmp>juillet</tmp> a est&#233; faict<lb/>
+
+transport aulx heritiers d<del>e</del>u<comment rid="c_170v_29"/> feu <pn>s<exp>ieu</exp>r
+Ouvryer</pn><comment rid="c_170v_13"/> <del>deux cens cinq <cn>escus</cn></del><lb/>
+
+du rentement de <pl>S<exp>ainc</exp>t Frajou</pl>,<comment rid="c_170v_14"/> montant douze cens trente
+<cn>livres</cn>.</ab>
+
+<ab>Autre transport leur a est&#233; faict sur les fruictz de l&#8217;<tmp>ann&#233;e</tmp><lb/>
+
+mil cinq cens septante neuf de <del>deux</del> <add>trois</add> cens
+quarante trois <cn>escus</cn><lb/>
+
+un tiers <del>sur qu</del>.</ab>
+
+<ab>Et leur reste sur la premiere ann&#233;e quatre vintg <cn>livres</cn> quinze
+    <figure size="x-small" id="fig_p170v_2" link="https://drive.google.com/file/d/1pPcyOohw3Aygar2ODD_l8U8YEBHXG806"/><comment rid="c_170v_03"/>,<lb/>
+et sur la seconde judication n&#8217;ont encore rien repceu.<hr/></ab>
 </div></entry>

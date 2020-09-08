@@ -1,18 +1,12 @@
-<entry><div categories="stones" id="p043v_2">
- <m>
-  Pearls
- </m>
- <ab>
-  It is said that
-  <m>
-   pulverized talc
-  </m>
-  blown into with a
-  <tl>
-   lamp
-  </tl>
-  renders them thus.
-  <comment rid="c_043v_04">
-  </comment>
- </ab>
+<entry><div id="p043v_2" categories="stones">
+
+
+
+<head><m>Pearls</m></head>
+
+<ab>It is said that <m>pulverized talc</m> blown into with a <tl>lamp</tl>
+renders them thus.<comment rid="c_043v_04"/>
+
+</ab>
+
 </div></entry>

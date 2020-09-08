@@ -1,63 +1,19 @@
-<entry><div categories="arms and armor" id="p043v_4">
- Dragée d’
- <wp>
-  harquebus
- </wp>
- <ab>
-  Si tu veulx qu’elle aille ensemble, pose dessus une piece
-  <comment rid="c_043v_03">
-  </comment>
-  <lb>
-  </lb>
-  de
-  <m>
-   feultre
-  </m>
-  ou
-  <m>
-   cuir
-  </m>
-  ou
-  <m>
-   papier
-  </m>
-  , selon la
-dista
-  <exp>
-   n
-  </exp>
-  ce, &amp; que l
-  <del>
-   e
-  </del>
-  a
-  <comment rid="c_017r_01">
-  </comment>
-  piece
-  <lb>
-  </lb>
-  soict avecq un
-  <tl>
-   portepiece
-  </tl>
-  justem
-  <exp>
-   ent
-  </exp>
-  coupée
-  <del>
-   a
-  </del>
-  selon
-  <comment rid="c_043v_05">
-  </comment>
-  le qualibre
-  <lb>
-  </lb>
-  de l’
-  <wp>
-   harquebus
-  </wp>
-  .
- </ab>
+<entry><div id="p043v_4" categories="arms and armor">
+
+
+
+<head>Drag&#233;e d&#8217;<wp>harquebus</wp></head>
+
+<ab>Si tu veulx qu&#8217;elle aille ensemble, pose dessus une piece<comment rid="c_043v_03"/><lb/>
+
+de <m>feultre</m> ou <m>cuir</m> ou <m>papier</m>, selon la
+dista<exp>n</exp>ce, &amp; que l<del>e</del>a<comment rid="c_017r_01"/> piece<lb/>
+
+soict avecq un <tl>portepiece</tl> justem<exp>ent</exp> coup&#233;e
+<del>a</del>selon<comment rid="c_043v_05"/> le qualibre<lb/>
+
+de l&#8217;<wp>harquebus</wp>.
+
+</ab>
+
 </div></entry>

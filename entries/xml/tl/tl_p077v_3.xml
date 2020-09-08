@@ -1,71 +1,25 @@
-<entry><div categories="varnish" continued="yes" id="p077v_3">
- Another
- <m>
-  varnish
- </m>
- <ab>
-  Take one
-  <ms>
-   ounce
-  </ms>
-  of
-  <m>
-   <pa>
-    spike lavender
-   </pa>
-   oil
-  </m>
-  &amp;
-of
-  <m>
-   <fr>
-    sang
-    <del>
-     de ra
-     <del>
-      ie
-     </del>
-     y
-    </del>
-    <comment rid="c_077v_02">
-    </comment>
-    <add>
-     da Rac
-    </add>
-   </fr>
-  </m>
-  <comment rid="c_077v_03">
-  </comment>
-  &amp; make
- </ab>
+<entry><div id="p077v_3" categories="varnish" continued="yes">
+
+
+
+<head>Another <m>varnish</m></head>
+
+<ab>Take one <ms>ounce</ms> of <m><pa>spike lavender</pa> oil</m> &amp;
+of <m><fr>sang <del>de ra<del>ie</del>y</del><comment rid="c_077v_02"/>
+<add>da Rac</add></fr></m><comment rid="c_077v_03"/> &amp; make</ab>
+
+
+
 </div>
 
-<div categories="varnish" continues="yes" id="p077v_3">
- <ab>
-  <comment rid="c_077v_04">
-  </comment>
-  these
-  <m>
-   drugs
-  </m>
-  melt in a new
-  <tl>
-   <m>
-    earthen
-   </m>
-   pot
-  </tl>
-  , &amp;
-when it will be melted, you will pass it in a clean
-  <tl>
-   <m>
-    cloth
-   </m>
-  </tl>
-  &amp; you will see a beautiful
-  <m>
-   varnish
-  </m>
-  .
- </ab>
+<div continues="yes" id="p077v_3" categories="varnish">
+
+
+
+
+
+<ab><comment rid="c_077v_04"/>these <m>drugs</m> melt in a new <tl><m>earthen</m> pot</tl>, &amp;
+when it will be melted, you will pass it in a clean <tl><m>cloth</m></tl>
+&amp; you will see a beautiful <m>varnish</m>.</ab>
+
 </div></entry>

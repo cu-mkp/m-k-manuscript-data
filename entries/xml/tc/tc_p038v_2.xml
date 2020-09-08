@@ -1,67 +1,20 @@
-<entry><div categories="medicine;dyeing" id="p038v_2">
- Contre
- <md>
-  seignee du
-  <bp>
-   nes
-  </bp>
- </md>
- <lb>
- </lb>
- et pour
- <m>
-  taincture
- </m>
- <ab>
-  <tl>
-   Pile
-  </tl>
-  de ceste espece de
-  <m>
-   <pa>
-    vinete
-   </pa>
-  </m>
-  ou
-  <m>
-   <pa>
-    <la>
-     lapathum acutum
-    </la>
-   </pa>
-  </m>
-  <comment rid="c_038v_03">
-  </comment>
-  qui est vene
-  <lb>
-  </lb>
-  de rouge quon appelle
-  <m>
-   sang de
-   <al>
-    dragon
-   </al>
-  </m>
-  Et laplique
-  <del>
-   de
-  </del>
-  sur le
-  <lb>
-  </lb>
-  <md>
-   <bp>
-    front
-   </bp>
-   de celuy qui seigne
-  </md>
-  Ceste herbe a force
-  <m>
-   taincture
-  </m>
-  &amp; faict
-  <lb>
-  </lb>
-  beau violet
- </ab>
+<entry><div id="p038v_2" categories="medicine;dyeing">
+
+
+
+<head>Contre <md>seignee du <bp>nes</bp></md><lb/>
+
+et pour <m>taincture</m></head>
+
+<ab><tl>Pile</tl> de ceste espece de <m><pa>vinete</pa></m> ou
+<m><pa><la>lapathum acutum</la></pa></m><comment rid="c_038v_03"/> qui est vene<lb/>
+
+de rouge quon appelle <m>sang de <al>dragon</al></m> Et laplique
+<del>de</del> sur le<lb/>
+
+<md><bp>front</bp> de celuy qui seigne</md> Ceste herbe a force
+<m>taincture</m> &amp; faict<lb/>
+
+beau violet</ab>
+
 </div></entry>

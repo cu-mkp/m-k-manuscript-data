@@ -1,52 +1,21 @@
-<entry><div categories="animal husbandry;household and daily life" id="p041r_04">
- <al>
-  Canards
- </al>
- <ab>
-  Les domestiques petits ne croissent d’un
-  <ms>
-   <tmp>
-    moys
-   </tmp>
-  </ms>
-  aprés qu’ilz sont
-  <lb>
-  </lb>
-  esclos, ains demeurent en cest estat. Mays aprés ilz croissent
-bientost,
-  <lb>
-  </lb>
-  mesmem
-  <exp>
-   ent
-  </exp>
-  s’ilz vont dans l’
-  <env>
-   eau
-  </env>
-  . On les nourrist avecq du
-  <m>
-   grain de
-   <pa>
-    mil
-   </pa>
-   <lb>
-   </lb>
-   bouilly
-  </m>
-  leur esmiant parmy du
-  <m>
-   pain
-  </m>
-  et y espandant des
-  <m>
-   <pa>
-    laictues
-   </pa>
-   <lb>
-   </lb>
-   fort hachées
-  </m>
-  .
- </ab>
+<entry><div id="p041r_04" categories="animal husbandry;household and daily life">
+
+
+
+<head><al>Canards</al></head>
+
+<ab>Les domestiques petits ne croissent d&#8217;un <ms><tmp>moys</tmp></ms>
+apr&#233;s qu&#8217;ilz sont<lb/>
+
+esclos, ains demeurent en cest estat. Mays apr&#233;s ilz croissent
+bientost,<lb/>
+
+mesmem<exp>ent</exp> s&#8217;ilz vont dans l&#8217;<env>eau</env>. On les nourrist avecq du
+<m>grain de <pa>mil</pa><lb/>
+
+bouilly</m> leur esmiant parmy du <m>pain</m> et y espandant des
+<m><pa>laictues</pa><lb/>
+
+fort hach&#233;es</m>.</ab>
+
 </div></entry>

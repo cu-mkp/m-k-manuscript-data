@@ -1,48 +1,10 @@
-<entry><div categories="casting" id="p082r_2">
- <tl>
-  Frame
- </tl>
- <ab>
-  <m>
-   Iron
-  </m>
-  &amp;
-  <m>
-   copper
-  </m>
-  make it porous if the
-  <m>
-   <fr>
-    metal
-   </fr>
-  </m>
-  <comment rid="c_016v_05">
-  </comment>
-  touches it, &amp; the
-  <m>
-   wood
-  </m>
-  warps. Thus, make a
-  <tl>
-   mold
-  </tl>
-  of
-  <m>
-   wood
-  </m>
-  , &amp; have
-  <tl>
-   frames
-  </tl>
-  of
-  <m>
-   bricks
-  </m>
-  made inside this
-  <tl>
-   mold
-  </tl>
-  of
-whatever thickness that you want.
- </ab>
+<entry><div id="p082r_2" categories="casting">
+
+<head><tl>Frame</tl></head>
+
+<ab><m>Iron</m> &amp; <m>copper</m> make it porous if the <m><fr>metal</fr></m><comment rid="c_016v_05"/>
+touches it, &amp; the <m>wood</m> warps. Thus, make a <tl>mold</tl> of
+<m>wood</m>, &amp; have <tl>frames</tl> of <m>bricks</m> made inside this <tl>mold</tl> of
+whatever thickness that you want.</ab>
+
 </div></entry>
