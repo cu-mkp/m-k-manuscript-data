@@ -16,8 +16,6 @@ https://edition640.makingandknowing.org/
 - allFolios - the individual manuscript folios as one continuous file, by version (tc, tcn, and tl)
 
 - bibliogrpahy - bibliographic references in BibTex
- 
-- manuscript- object: https://github.com/cu-mkp/manuscript-object/tree/a8c8a712b555c9bbc0f0d3696e099a5da087e1e7
 
 - metadata - data and additional information about the manuscript text and other materials of the DCE
 
@@ -56,5 +54,20 @@ The following files and directories are watched for updates by the MK asset_serv
 
 Modification of these files on the master branch results in changes on the staging server.
 
+
+## Derivative Files
+
+A number of files are generated from ms-xml/ by **[manuscript-object](https://github.com/cu-mkp/manuscript-object)**. 
+
+These include:
+- allFolios/: for each version, a single XML file containing each folio concatenated together
+- entries/: for each version, every entry as a single file in both XML and TXT formats
+- metadata/entry_metadata.csv: listing of the properties of each entry, including IDs, headings, and semantic tags (the significant properties of the manuscript as defined by the M&K Project editors), and is used to generate the [List of Entries](https://edition640.makingandknowing.org/#/entries)
+- ms-txt/: for each version, every folio as a single file in TXT format. 
+**NOTE for TXT versions:** 
+- UTF-8 encoding
+- ampersand (&) is rendered in its literal form rather than the character entity `&amp`
+- if text is marked in ms-xml/ as `<add>` (additions), `<corr>` (corrections), `<del>` (deletions), `<exp>` (expansions), and `<sup>` (supplied), the text is retained and unmarked
+- figures and comments are absent and unmarked
 
 
