@@ -13,33 +13,33 @@ https://edition640.makingandknowing.org/
 
 ## Directories
 
-- allFolios - the individual manuscript folios as one continuous file, by version (tc, tcn, and tl)
+- **allFolios** - the individual manuscript folios as one continuous file, by version (tc, tcn, and tl)
 
-- bibliogrpahies - bibliographic references in BibTex, used in [bibliography.md](https://github.com/cu-mkp/edition-webpages/blob/master/docs/resources/bibliography.md) for the DCE's [Bibliography](https://edition640.makingandknowing.org/#/content/resources/bibliography). These are grouped into references used in the DCE's glossary and the editorial comments embedded throughout ms-xml/
+- **bibliogrpahies** - bibliographic references in BibTex, used in [bibliography.md](https://github.com/cu-mkp/edition-webpages/blob/master/docs/resources/bibliography.md) for the DCE's [Bibliography](https://edition640.makingandknowing.org/#/content/resources/bibliography). These are grouped into references used in the DCE's glossary and the editorial comments embedded throughout ms-xml/
 
-- entries - for each version of the text, every entry as a single file in both XML and TXT formats, derived from ms-xml/
+- **entries** - for each version of the text, every entry as a single file in both XML and TXT formats, derived from ms-xml/
 
-- glossary - a record of distinctive terms used in the manuscript and a translation aid for Middle French terms and Renaissance workshop materials, compiled during the process of transcribing and translating Ms. Fr. 640
+- **glossary** - a record of distinctive terms used in the manuscript and a translation aid for Middle French terms and Renaissance workshop materials, compiled during the process of transcribing and translating Ms. Fr. 640
 
-- lib - scripts used for maintenance of repository
+- **lib** - scripts used for maintenance of repository
 
-- metadata - data and additional information about the manuscript text and other materials of the DCE
+- **metadata** - data and additional information about the manuscript text and other materials of the DCE
 
-- ms-md - each folio as an individual file (by version) in markdown format, derived from ms-xml/
+- **ms-md** - each folio as an individual file (by version) in markdown format, derived from ms-xml/ and used in the [Minimal Edition of BnF Ms. Fr. 640 (Workshop Version)](https://cu-mkp.github.io/2017-workshop-edition/). See also [cu-mkp/2017-workshop-edition](https://github.com/cu-mkp/2017-workshop-edition)
 
-- ms-txt - each folio as an individual file (by version) in text format, derived from ms-xml/
+- **ms-txt** - each folio as an individual file (by version) in text format, derived from ms-xml/
 
-- ms-xml - each folio as an individual file (by version) in xml format, derived from ms-xml/
+- **ms-xml** - each folio as an individual file (by version) in xml format, derived from ms-xml/
 
-- qc - listings and counts to aid in the process of ms-xml markup consistency and accuracy
+- **qc** - listings and counts to aid in the process of ms-xml markup consistency and accuracy
 
-- reference_docs - records of special characters and unicode symbols used in ms-xml other than the standard printing (US-layout keyboard) characters
+- **reference_docs** - records of special characters and unicode symbols used in ms-xml other than the standard printing (US-layout keyboard) characters
 
-- schema  - RelaxNG and Schematron schemas for project specific tag set
+- **schema** - RelaxNG and Schematron schemas for project specific tag set
 
-- vocabulary - listings of marked-up terms tagged in the manuscript 
+- **vocabulary** - listings of marked-up terms tagged in the manuscript 
 
-- xslt - scripts used for processing xml
+- **xslt** - scripts used for processing xml
   
 ## Use in DCE
 
