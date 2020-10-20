@@ -73,8 +73,6 @@ le durcit</ab>
     
 </div>
 
-
-
 <div id="p125r_1" part="y">
 <ab margin="left-top" render="tall">
 Et l<m>eau chaulde</m><lb/>
@@ -100,8 +98,6 @@ plus spongieulx<lb/></ab>
 </div>
 
 
-
-
 <div id="p125r_1" part="y">
 <ab margin="left-top" render="tall">
 De ce <m>plastre</m><lb/>
@@ -118,9 +114,7 @@ vernies On les tient en <pl>allemaigne</pl></ab>
 </div>
  
  
-    
-
-<div id="p125r_1" part="y">
+    <div id="p125r_1" part="y">
         
 <ab margin="bottom" render="full">           
 <env>sur les maisons</env> Mays advise que l<m>eau</m> soict fort
@@ -131,4 +125,7 @@ bouillante il ny ha point de danger Tous <tl>moules de
             
 despouillent</ab>
         
-</div></entry>
+</div>
+    
+ 
+</entry>

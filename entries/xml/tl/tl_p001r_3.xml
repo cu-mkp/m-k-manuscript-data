@@ -14,7 +14,7 @@ rom.</pl></la><comment rid="c_001r_11"/><lb/>
 
 <pn>Hermolaus Barbarus</pn><comment rid="c_001r_13"/><lb/>
 
-<pn>Angelius Barg&#230;us</pn>,<comment rid="c_001r_35"/> <la>De <al>aucupio</al> et
+<pn>Angelius Bargæus</pn>,<comment rid="c_001r_35"/> <la>De <al>aucupio</al> et
 venatione</la><comment rid="c_001r_14"/><lb/>
 
 <pn>Nicolaus Damascenus</pn><comment rid="c_001r_15"/><lb/>
@@ -29,11 +29,11 @@ Persarum</la><comment rid="c_001r_16"/><lb/>
 <pn>Eupolemus</pn>,<comment rid="c_001r_19"/> <la><pro>historicus</pro> gentilis<lb/>
 qui de rebus Davidis &amp; Salomonis<lb/>
 scripsit</la><comment rid="c_001r_20"/>
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+          
+          
+          
+          
+          
 <emph>mons<exp>ieur</exp></emph><comment rid="c_001r_69"/><lb/>
 
 <mark>-</mark> <fr>Cathalogue des
@@ -49,9 +49,9 @@ villes<comment rid="c_001r_21"/></fr><lb/>
 
 <fr>Questions aeigmatiques</fr><comment rid="c_001r_26"/><lb/>
 
-<fr>Des pr&#230;ceptes d&#8217;agriculture</fr><comment rid="c_001r_27"/><lb/>
+<fr>Des præceptes d’agriculture</fr><comment rid="c_001r_27"/><lb/>
 
-<mark>+</mark> <fr>Le secret des finances &#224;
+<mark>+</mark> <fr>Le secret des finances à
 <pl>Lyon</pl></fr><comment rid="c_001r_28"/><lb/>
 
 <pn>Synesius</pn><comment rid="c_001r_29"/><lb/>
@@ -66,13 +66,13 @@ figulines</pro> to the
 
 <ab margin="right-top" render="tall">
 
-<pn>Alexander Aphrodis&#230;us</pn><comment rid="c_001r_40"/><lb/>
+<pn>Alexander Aphrodisæus</pn><comment rid="c_001r_40"/><lb/>
 
 <pn>Polydorus Vergilius</pn><comment rid="c_001r_41"/><lb/>
 
 <pn>Appianus</pn><comment rid="c_001r_42"/><lb/>
 
-<pn>Athen&#230;us</pn><comment rid="c_001r_43"/><lb/>
+<pn>Athenæus</pn><comment rid="c_001r_43"/><lb/>
 
 <pn>Pausanias</pn><comment rid="c_001r_33"/><lb/>
 
@@ -116,7 +116,7 @@ figulines</pro> to the
 
 aliis</la></add><comment rid="c_001r_67"/> <pn>Julius Capitolinus</pn><comment rid="c_001r_55"/><lb/>
 
-<pn>Bud&#230;us</pn><comment rid="c_001r_56"/><lb/>
+<pn>Budæus</pn><comment rid="c_001r_56"/><lb/>
 
 <pn>Spartianus</pn><comment rid="c_001r_57"/><lb/>
 
@@ -143,11 +143,11 @@ aliis</la></add><comment rid="c_001r_67"/> <pn>Julius Capitolinus</pn><comment r
 </div>
    
    
-
-
 <div id="p001r_3" part="y">
         
 <ab margin="left-middle" render="wide"><fr>Les Annales de
 <pl>Normandie</pl></fr><comment rid="c_001r_39"/></ab>
 
-</div></entry>
+</div>
+
+</entry>
