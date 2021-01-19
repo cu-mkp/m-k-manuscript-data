@@ -238,13 +238,6 @@
     </element>
   </define>
 
-  <!-- unc -->
-  <define name="e.unc">
-    <a:documentation>Unclear: Text which has been transcribed but with some uncertainty</a:documentation>
-    <element name="unc">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
 
   <!-- underline -->
   <define name="e.underline">
@@ -658,7 +651,6 @@
         <ref name="e.underline"/>
         <ref name="e.superscript"/>
         <ref name="e.exp"/>
-        <ref name="e.unc"/>
         <ref name="e.comment"/>
         <ref name="e.hr"/>
         <ref name="e.emph"/>
