@@ -129,10 +129,6 @@ e.lb = element lb { empty }
 
 ## Supplied Text: Text added by the transcriber/editor.
 e.sup = element sup { m.phrase }
-# unc
-
-## Unclear: Text which has been transcribed but with some uncertainty
-e.unc = element unc { m.phrase }
 # underline
 
 ## Underlined: underlined text
@@ -365,7 +361,6 @@ m.phrase =
    | e.underline
    | e.superscript
    | e.exp
-   | e.unc
    | e.comment
    | e.hr
    | e.emph
