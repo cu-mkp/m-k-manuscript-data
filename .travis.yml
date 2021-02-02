@@ -11,6 +11,7 @@ before_install:
 
 script:
   -  for XML in $(find ms-xml -name '*.xml'); do xmllint --relaxng schema/ms-transcription.rng $XML --noout || error=true; done; if [ $error ]; then exit 1 ; fi
-  # -  python ./check_update.py
-
+  -  bash check_metadata.sh
+  -  bash check_filecount.sh
+  -  bash check_filenames.sh
 
