@@ -6,7 +6,7 @@ EXPECTED_HEADERS="folio,folio_display,div_id,categories,heading_tc,heading_tcn,h
 if [ "$EXPECTED_HEADERS" != "$(cat ./metadata/entry_metadata.csv | head -1)" ] ;
 then
     echo "error: entry_metadata.csv has missing headings:" >&2
-    echo "$(sdiff <(echo "$EXPECTED_HEADERS") <(echo "$(cat ./metadata/entry_metadata.csv | head -1)"))" >&2
+    echo "$(sdiff <(echo "$EXPECTED_HEADERS" | tr ',' '\n') <(echo "$(cat ./metadata/entry_metadata.csv | head -1 | tr ',' '\n')"))" >&2
     exit 2
 fi
 
