@@ -11,6 +11,6 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
-            - run: bash check_metadata.sh
-            - run: bash check_filecount.sh
-            - run: bash check_filenames.sh
+            - run: bash qc/check_metadata.sh
+            - run: bash qc/check_filecount.sh
+            - run: bash qc/check_filenames.sh
