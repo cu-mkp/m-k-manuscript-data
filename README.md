@@ -65,11 +65,23 @@ These include:
 - metadata/entry_metadata.csv: listing of the properties of each entry, including IDs, headings, and semantic tags (the significant properties of the manuscript as defined by the M&K Project editors), and is used to generate the [List of Entries](https://edition640.makingandknowing.org/#/entries)
 - ms-txt/: for each version, every folio as a single file in TXT format. 
 
-
 **NOTE for TXT versions:** 
 - UTF-8 encoding
 - ampersand (&) is rendered in its literal form rather than the character entity `&amp`
 - if text is marked in ms-xml/ as `<add>` (additions), `<corr>` (corrections), `<del>` (deletions), `<exp>` (expansions), and `<sup>` (supplied), the text is retained and unmarked
 - figures and comments are absent and unmarked
 
+**Making changes to derivative files in `m-k-manuscript-data`:**
 
+1. `cd` to `m-k-manuscript-data` directory
+2. `git fetch`
+3. `git pull`
+4. Checkout a branch: `git checkout -b [name of branch]`
+5. `cd` to `manuscript-object` directory
+6. `git fetch`
+7. `git pull`
+8. Run update.py: `python3 update.py` (might need to use `python3.8`, e.g., if you have more than one version installed)
+9. `cd` back to `m-k-manuscript-data` directory
+10. `git add .`
+11. `git commit -m '#[issue##]: [commit message]'`
+12. `git push -u origin [name of branch]`
