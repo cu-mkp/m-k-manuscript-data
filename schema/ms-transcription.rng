@@ -298,6 +298,7 @@
           <value>right-bottom</value>
           <value>top</value>
           <value>bottom</value>
+          <value>full</value>
         </choice>
       </optional>
     </attribute>
