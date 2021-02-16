@@ -12,7 +12,8 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
-            - run: sudo apt install --fix-missing jing
+            - run: sudo apt update
+            - run: sudo apt install jing
             - run: for XML in $(find ms-xml -name '*.xml'); do jing schema/ms-transcription.rng $XML; done
     check-derivatives:
         runs-on: ubuntu-latest
