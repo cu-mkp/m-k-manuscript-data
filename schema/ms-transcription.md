@@ -157,7 +157,7 @@ e.ups = element ups { m.phrase }
 a.id = attribute id { xsd:NMTOKEN }
 # margin
 
-## Margin (position): the location in the margin at which the parent element appears in the source document. Valid values are: "right-top", "right-middle", "right-bottom", "left-top", "left-middle", "left-bottom", "top", and "bottom"
+## Margin (position): the location in the margin at which the parent element appears in the source document. Valid values are: "right-top", "right-middle", "right-bottom", "left-top", "left-middle", "left-bottom", "top", "bottom", and "full"
 a.margin =
   attribute margin {
     ("left-top"
@@ -167,7 +167,8 @@ a.margin =
      | "right-middle"
      | "right-bottom"
      | "top"
-     | "bottom")?
+     | "bottom"
+     | "full")?
   }
 # render
 
