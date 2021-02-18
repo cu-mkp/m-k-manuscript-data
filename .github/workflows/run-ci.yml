@@ -2,11 +2,19 @@ name: run-ci
 on: [push]
 jobs:
     xml-lint:
+        if: ${{ 1==0 }}
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
             - run: sudo apt-get install -y libxml2-utils
             - run: for XML in $(find ms-xml -name '*.xml'); do xmllint --relaxng schema/ms-transcription.rng $XML --noout || error=true; done; if [ $error ]; then exit 1 ; fi
+    jing:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - run: sudo apt update
+            - run: sudo apt install jing
+            - run: find ms-xml -name "*.xml" -exec jing schema/ms-transcription.rng '{}' +
     check-derivatives:
         runs-on: ubuntu-latest
         steps:
