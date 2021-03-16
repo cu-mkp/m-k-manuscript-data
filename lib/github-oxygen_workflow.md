@@ -231,3 +231,8 @@ mkdir [directory name]
   - For example,
     - git checkout --track origin/v0.2
 - See [https://stackify.com/git-checkout-remote-branch/](https://stackify.com/git-checkout-remote-branch/)
+
+## GIT STASH AND GIT CLEAN
+- `git stash` - for tracked files
+- `git clean` - for UNtracked files
+- https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning 
