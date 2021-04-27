@@ -1,4 +1,6 @@
-<a href="https://zenodo.org/badge/latestdoi/94773520"><img src="https://zenodo.org/badge/94773520.svg" alt="DOI"></a>
+Making and Knowing Project
+
+[![DOI](https://zenodo.org/badge/94773520.svg)](https://zenodo.org/badge/latestdoi/94773520)
 
 ![run-ci](https://github.com/cu-mkp/m-k-manuscript-data/workflows/run-ci/badge.svg)
 
@@ -17,7 +19,7 @@ https://edition640.makingandknowing.org/
 
 - **allFolios** - the individual manuscript folios as one continuous file, by version (tc, tcn, and tl)
 
-- **bibliogrpahies** - bibliographic references in BibTex, used in [bibliography.md](https://github.com/cu-mkp/edition-webpages/blob/master/docs/resources/bibliography.md) for the DCE's [Bibliography](https://edition640.makingandknowing.org/#/content/resources/bibliography). These are grouped into references used in the DCE's [glossary](https://github.com/cu-mkp/m-k-manuscript-data/blob/master/glossary/DCE-glossary-table.csv) and the [editorial comments](https://github.com/cu-mkp/m-k-manuscript-data/blob/master/metadata/DCE_comment-tracking-Tracking.csv)
+- **bibliographies** - bibliographic references in BibTex, used in [bibliography.md](https://github.com/cu-mkp/edition-webpages/blob/master/docs/resources/bibliography.md) for the DCE's [Bibliography](https://edition640.makingandknowing.org/#/content/resources/bibliography). These are grouped into references used in the DCE's [glossary](https://github.com/cu-mkp/m-k-manuscript-data/blob/master/glossary/DCE-glossary-table.csv) and the [editorial comments](https://github.com/cu-mkp/m-k-manuscript-data/blob/master/metadata/DCE_comment-tracking-Tracking.csv)
 
 - **entries** - for each version of the text, every entry as a single file in both XML and TXT formats, derived from ms-xml/
 
