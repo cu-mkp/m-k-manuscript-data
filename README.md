@@ -1,4 +1,4 @@
-Making and Knowing Project
+# The Making and Knowing Project: Manuscript Data Repository
 
 [![DOI](https://zenodo.org/badge/94773520.svg)](https://zenodo.org/badge/latestdoi/94773520)
 
