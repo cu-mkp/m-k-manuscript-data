@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/94773520.svg)](https://zenodo.org/badge/latestdoi/94773520)
+<a href="https://zenodo.org/badge/latestdoi/94773520"><img src="https://zenodo.org/badge/94773520.svg" alt="DOI"></a>
 
 ![run-ci](https://github.com/cu-mkp/m-k-manuscript-data/workflows/run-ci/badge.svg)
 
