@@ -1,6 +1,6 @@
 # The Making and Knowing Project: Manuscript Data Repository
 
-[![DOI](https://zenodo.org/badge/94773520.svg)](https://zenodo.org/badge/latestdoi/94773520)
+[![DOI: 10.5281/zenodo.4724101](https://zenodo.org/badge/94773520.svg)](https://zenodo.org/badge/latestdoi/94773520)
 
 ![run-ci](https://github.com/cu-mkp/m-k-manuscript-data/workflows/run-ci/badge.svg)
 
