@@ -3,7 +3,6 @@
 
 # detect plaintext
 *.txt linguist-detectable
-*.txt linguist-language=Plaintext
 
 # detect CSV
 *.csv linguist-detectable
