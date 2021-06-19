@@ -3,3 +3,6 @@
 
 # detect plaintext
 *.txt linguist-detectable
+
+# detect CSV
+*.csv linguist-detectable
