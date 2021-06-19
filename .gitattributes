@@ -1,2 +1,5 @@
 # detect XML
 *.xml linguist-detectable
+
+# detect plaintext
+*.txt linguist-detectable
