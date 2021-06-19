@@ -23,8 +23,6 @@ https://edition640.makingandknowing.org/
 
 - **entries** - for each version of the text, every entry as a single file in both XML and TXT formats, derived from ms-xml/
 
-- **glossary** - a record of distinctive terms used in the manuscript and a translation aid for Middle French terms and Renaissance workshop materials, compiled during the process of transcribing and translating Ms. Fr. 640
-
 - **lib** - scripts used for maintenance of repository
 
 - **metadata** - data and additional information about the manuscript text and other materials of the DCE
@@ -36,8 +34,6 @@ https://edition640.makingandknowing.org/
 - **ms-xml** - each folio as an individual file (by version) in xml format, derived from ms-xml/
 
 - **qc** - listings and counts to aid in the process of ms-xml markup consistency and accuracy
-
-- **reference_docs** - records of special characters and unicode symbols used in ms-xml other than the standard printing (US-layout keyboard) characters
 
 - **schema** - RelaxNG and Schematron schemas for project specific tag set
 
@@ -53,7 +49,7 @@ The following files and directories are watched for updates by the MK asset_serv
 - metadata/authors.csv --> https://edition640.makingandknowing.org/#/essays
 - metadata/DCE_comment-tracking-Tracking.csv --> https://edition640.makingandknowing.org/#/folios
 - metadata/entry_metadata.csv --> https://edition640.makingandknowing.org/#/entries
-- glossary/DCE-glossary-table.csv --> https://edition640.makingandknowing.org/#/folios/1r/f/1r/glossary
+- metadata/glossary/DCE-glossary-table.csv --> https://edition640.makingandknowing.org/#/folios/1r/f/1r/glossary
 - ms-xml/* --> https://edition640.makingandknowing.org/#/folios
 
 Modification of these files on the master branch results in changes on the staging/development server.
