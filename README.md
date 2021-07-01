@@ -14,6 +14,7 @@ https://edition640.makingandknowing.org/
 
 > Throughout: **tc** = transcription; **tcn** = normalized transcription **tl** = translation
 
+The backbone data of this repository is in `ms-xml/`
 
 ## Directories
 
