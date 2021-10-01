@@ -6,3 +6,6 @@
 
 # detect CSV
 *.csv linguist-detectable
+
+# detect MD
+*.md linguist-detectable
