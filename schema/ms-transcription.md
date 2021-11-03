@@ -29,7 +29,12 @@ start =
 ## Anonymous Block: a generic block of text
 e.ab =
   element ab {
-    a.continued?, a.continues?, a.margin?, a.render?, m.phrase
+    a.continued?,
+    a.continues?,
+    a.margin?,
+    a.render?,
+    a.cancelled?,
+    m.phrase
   }
 # div
 
@@ -202,6 +207,10 @@ a.categories = attribute categories { xsd:token }
 
 ## Part: Indicates that a div is a part of the same text division which shares the same id on the same folio page. Values are "y" and "n".
 a.part = attribute part { "y" | "n" }
+# cancelled
+
+## Cancelled: Indicates that an ab has been stricken out (or cancelled) in the original. Values are "y" and "n".
+a.cancelled = attribute cancelled { "y" | "n" }
 #
 
 # LANGUAGE ELEMENTS
