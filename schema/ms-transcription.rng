@@ -56,6 +56,9 @@
       <optional>
         <ref name="a.render"/>
       </optional>
+      <optional>
+        <ref name="a.cancelled"/>
+      </optional>
       <ref name="m.phrase"/>
     </element>
   </define>
@@ -380,6 +383,17 @@
   <define name="a.part">
     <a:documentation>Part: Indicates that a div is a part of the same text division which shares the same id on the same folio page. Values are "y" and "n".</a:documentation>
     <attribute name="part">
+      <choice>
+        <value>y</value>
+        <value>n</value>
+      </choice>
+    </attribute>
+  </define>
+  
+  <!-- cancelled -->
+  <define name="a.cancelled">
+    <a:documentation>Cancelled: Indicates that an ab has been stricken out (or cancelled) in the original. Values are "y" and "n".</a:documentation>
+    <attribute name="cancelled">
       <choice>
         <value>y</value>
         <value>n</value>
