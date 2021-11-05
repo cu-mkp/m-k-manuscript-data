@@ -3,7 +3,7 @@
 
 
 
-<div id="p162r_1" categories="La boutique">
+<div id="p162r_1" categories="La boutique" part="y">
 
 <head>For the <env>workshop</env></head>
 
@@ -25,7 +25,7 @@ of within 6 <tmp>days</tmp>.<comment rid="c_162r_01"/></ab>
 trade</underline></emph></ab>
 </div>
 
-<div>
+<div id="p162r_1" categories="La boutique" part="y">
 <ab>
 <pn>Herodotus</pn>, on the first page of <el>Clio</el>, says that the
 <pl>Greeks</pl> were on a long ship on the <pl>coast of Colchis</pl>
@@ -36,7 +36,7 @@ trade</underline></emph></ab>
 <emph>Galleys</emph></ab>
 </div>
 
-<div>
+<div id="p162r_1" categories="La boutique" part="y">
 <ab>
 
 <pn>Herodotus</pn>, on the third page, says that <pn>Gyges</pn><comment rid="c_162r_11"/>
@@ -50,7 +50,7 @@ presented to the temple of <pl>Delphi</pl><comment rid="c_162r_04"/>
 <m>Gold</m> vases</emph></ab>
 </div>
 
-<div>
+<div id="p162r_1" categories="La boutique" part="y">
 <ab>
 <pn>Herodotus</pn>. <pn>Halyattes</pn>,<comment rid="c_162r_07"/> the father of <pn>Croesus</pn>,<comment rid="c_162r_09"/>
 <la><emph>pateram ex <m>ferro</m> compactilem
