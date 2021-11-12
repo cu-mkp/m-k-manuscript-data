@@ -3,7 +3,7 @@
 
 
 
-<div id="p162r_1" categories="La boutique">
+<div id="p162r_1" categories="La boutique" part="y">
 
 <head>Pour la <env>boutique</env></head>
 
@@ -37,7 +37,7 @@ marchandise</underline></emph>
 </ab>
 </div>
     
-<div>
+<div id="p162r_1" categories="La boutique" part="y">
 <ab>
 
 <pn>Herodote</pn>, au premier foeuillet de <el>Clio</el>, dict que les
@@ -58,7 +58,7 @@ Galeres</emph>
 </ab>
 </div>
     
-<div>
+<div id="p162r_1" categories="La boutique" part="y">
 <ab>
 
 <pn>Herod<exp>ote</exp></pn> au 3 foeuillet dict que <pn>Gyges</pn><comment rid="c_162r_11"/>
@@ -75,7 +75,7 @@ Vases d’<m>or</m></emph>
 </ab>
 </div>
     
-<div>
+<div id="p162r_1" categories="La boutique" part="y">
 <ab>
 
 <pn>Herod<exp>ote</exp></pn>. <pn>Halyattes</pn>,<comment rid="c_162r_07"/> pere de
