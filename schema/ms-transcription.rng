@@ -406,7 +406,7 @@
   
   <!-- hand -->
   <define name="a.hand">
-    <a:documentation>Hand: Indicates that an ab has been written by a hand other than the main hand of the author-practitioner, hand a. Valid values are: "handa'", "handb", "handc", and "handd"</a:documentation>
+    <a:documentation>Hand: Indicates that an ab has been written by a hand other than the main hand of the author-practitioner, hand a. Valid values are: "handa'", "handb", "handc", "handd", and "hande"</a:documentation>
     <attribute name="hand">
       <optional>
         <choice>
