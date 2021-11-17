@@ -227,7 +227,7 @@ taking it <tmp>in the morning</tmp> <md>loosens the <bp>belly</bp></md>.</ab>
 
 Ruffinus<comment rid="c_002r_02"/><lb/>
 
-Irenius<comment rid="c_002r_03"/><la>In
+Irenius<comment rid="c_002r_03"/><la>in
 Exegesi</la><comment rid="c_002r_04"/><lb/>
 
 Paule Emile<comment rid="c_002r_05"/><lb/>
@@ -267,7 +267,7 @@ from <pa>cabbage</pa> ash</m>.</ab>
 
 <head margin="right-top"><hr/><comment rid="c_002v_07"/><add><m>Emeralds of <pl>Brissac</pl></m></add><hr/></head>
 
-<ab render="full">I have taken <m>minium</m> 26 <ms>℥</ms>,
+<ab render="full" hand="handa'">I have taken <m>minium</m> 26 <ms>℥</ms>,
 <m>crystal</m><comment rid="c_002v_04"/> <add><ill/> and ground on <tl><m>marble</m></tl></add> 12
 <ms>℥</ms>, <m>verdet</m> 3
 <ms>|ʒ|</ms>. Incorporate all together, put in a
@@ -275,7 +275,7 @@ from <pa>cabbage</pa> ash</m>.</ab>
 top</tl>. Fusion 7 <ms><tmp>hours</tmp></ms> without blowing. The mass
 was of a beautiful green.</ab>
 
-<ab margin="full">I have taken <m>minium</m> 12 <ms>℥</ms>,
+<ab margin="full" hand="handa'">I have taken <m>minium</m> 12 <ms>℥</ms>,
 <m>crystal</m> 6 <ms>℥</ms>, <m>verdet</m> 2
 <ms>grains</ms>. Soft fusion vi <ms><tmp>hours</tmp></ms>, refired
 24 <ms><tmp>hours</tmp></ms>. The mass was green, yellow &amp;
@@ -289,7 +289,7 @@ red.</ab>
 
 <head><mark>|</mark> <m>Sapphire</m></head>
 
-<ab render="full"><m>Pebbles</m> or <m>crystal</m> 8 <ms>℥</ms>,
+<ab render="full" hand="handa'"><m>Pebbles</m> or <m>crystal</m> 8 <ms>℥</ms>,
 <m>minium</m> 16 <ms>℥</ms>, <m><pro>blacksmith</pro>’s
 salt</m> 4 <ms>℥</ms>, sparkling
 <m><fr>coryal</fr></m> 4
@@ -597,7 +597,7 @@ after <m>sands</m>, in the chapter on <pro>furbishers</pro>.<comment rid="c_004v
 <div id="p004v_2" categories="varnish">
 
 <head><m>Black varnish</m> without fire, without disassembling the
-harnesses<comment rid="c_004v_02"/> or removing the bands from
+harnesses<comment rid="c_004v_03"/> or removing the bands from
 trunks</head>
 
 <ab>Take <m>varnish of <pa>spike lavender</pa> oil</m> &amp; mix in
@@ -1189,7 +1189,7 @@ calcine <m>common salt</m> &amp; to grind it in.
 
 <head><pro>Merchant</pro></head>
 
-<ab><comment rid="c_009v_03"/>The rule that <pro>merchants</pro> are accustomed to keep in their
+<ab hand="handb"><comment rid="c_009v_03"/>The rule that <pro>merchants</pro> are accustomed to keep in their
 books, that is to say, the waste book, the sales book, and the ledger,
 otherwise called the account book.</ab>
 
@@ -1201,26 +1201,26 @@ otherwise called the account book.</ab>
 
 <head>Waste book</head>
 
-<ab>And first, <pn>François du Cros</pn><comment rid="c_009v_02"/> owes from <tmp>2nd September
+<ab hand="handb">And first, <pn>François du Cros</pn><comment rid="c_009v_02"/> owes from <tmp>2nd September
 1581</tmp> / for 1 <ms><fr>cane</fr></ms> of <m>cambric</m> at 8
 <ms><cn>livres</cn> per <fr>canne</fr></ms>, I make this <mark>___ ___ ___ ___</mark> 8
 <ms><cn>lb t.</cn></ms><comment rid="c_009v_01"/></ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" hand="handb">
     <lb/>
     <lb/>
     <lb/>
 <oc>Moved</oc> to the sales book at c. 25 /</ab>
 
-<ab><pn>François du Cros</pn> owes from <tmp>2nd September 1581</tmp> /
+<ab hand="handb"><pn>François du Cros</pn> owes from <tmp>2nd September 1581</tmp> /
 for 1 <ms><fr>canne</fr></ms> of <m>cambric</m> at 8 <ms><cn>livres</cn>
 per <fr>canne</fr></ms>, as appears in the waste book at c.<comment rid="c_009v_06"/> 25</ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" hand="handb">
     <lb/>
 <oc>Moved</oc> to the account book at c. 55 /</ab>
 
-<ab><pn>François du Cros</pn> owes from <tmp>2nd September 1581</tmp> /
+<ab hand="handb"><pn>François du Cros</pn> owes from <tmp>2nd September 1581</tmp> /
 for the merchandise taken by himself, as specified in detail in the
 sales book no. 7 / at c. 55 / the sum of 8 <ms><cn>livres</cn></ms> / of
 which the said <pn>du Cros</pn> has made a bill on the said
@@ -1682,7 +1682,7 @@ bringing it on <del>the</del> a table of
 
 <m>agate</m> of various color. But because this total whiteness did not
 respond to make this white crust on the surface that I was seeking,
-leaving the rest of the thing of its natural color, I made a opening in
+leaving the rest of the thing of its natural color, I made an opening in
 a <m>brick</m> of the exact size of the thing &amp; put it inside. Then
 I reddened two <tl><pro>glassworkers’</pro>
 solders</tl>, &amp; as they were red, I
@@ -1894,8 +1894,8 @@ wall. Which, when old, whitens, &amp; thereby shows that it
 has <m>saltpeter</m> in it. That is why, when they fall down,
 <pro>gunpowder makers</pro> profit from them.</ab>
 
-<ab margin="left-middle"><figure id="fig_p014r_1" size="small" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5b2lVN19SU1Z6UkU">
-<caption>A</caption></figure></ab>
+<ab margin="left-middle">A<figure id="fig_p014r_1" size="small" link="https://drive.google.com/open?id=0B9-oNrvWdlO5b2lVN19SU1Z6UkU"/>
+</ab>
 
 </div>
 <div><ab><comment rid="c_014v_01"/></ab></div>
@@ -2768,7 +2768,7 @@ it always causes <bp>wind</bp> at the end.</ab>
 
 <head><comment rid="c_020r_01"/>For making <m><oc>millas</oc></m> <figure size="x-small" id="fig_p020r_1" link="https://drive.google.com/file/d/1hyCXz2KOCrpNwqiDiCzKp4Tg4YGawMYm"/></head>
 
-<ab>It is necessary to have <m><pa>millet</pa></m> pilled to remove the
+<ab hand="handc">It is necessary to have <m><pa>millet</pa></m> pilled to remove the
 <m>husks</m> and then you will clean it well. Next one needs to
 grind it again quite finely and pass it through a <oc><tl>hair sieve</tl></oc>
 quite finely. This done, it is necessary to mix the <m>flour</m> with
@@ -2780,7 +2780,7 @@ to two <m>egg yolks</m> for each <m><oc>millas</oc></m>.
 Then you will put in some <m><pa>saffron</pa></m>, if you like, to give
 them a little color.</ab>
 
-<ab>Next, you need to have <tl>molds</tl>, and it is
+<ab hand="handc">Next, you need to have <tl>molds</tl>, and it is
 necessary that they be <m>earthenware</m>, in the fashion of the crown of
 a catholic hat, but it is necessary that they be open at both ends. And
 then, having made a good fire, you will clean the place in the
@@ -3043,11 +3043,11 @@ violence.</ab></div>
 40 <ms>lb</ms>, having 12 <ms>lines</ms>,<lb/>
 <ms>king's <bp>foot</bp></ms></head>
    
-<ab margin="top">A little too big, see the one <del>of</del> that
+<ab margin="top" cancelled="y">A little too big, see the one <del>of</del> that
 follows.</ab>
 
-<figure size="large" id="fig_p022r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dWtBam9HWEpiaHc">
-</figure>
+<ab cancelled="y"><figure size="large" id="fig_p022r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dWtBam9HWEpiaHc">
+</figure></ab>
 
 </div>
 <div id="p022v_1" categories="arms and armor">
@@ -4686,11 +4686,7 @@ it into the <tl>bag</tl> or <tl>pouch</tl>.</ab>
 <head>For transmuting a <tl>ball</tl> into a <tl>thimble</tl>,
 cunning</head>
 
-    <figure size="small" id="fig_p036r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UmZaWjV2VE82QjQ">
-
-<caption>of <m>leather</m></caption>
-
-</figure>
+<ab margin="left-middle">of <m>leather</m><figure size="small" id="fig_p036r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UmZaWjV2VE82QjQ"/></ab>
 
 <ab>Make a <tl>small sheath of <m>plain leather, such as <al>cow</al> or
 morocco</m></tl>, somewhat thick, <ms>as tall as three
@@ -5624,7 +5620,7 @@ which will have taken the substance.</ab>
 Christmas</tmp> provided that it does not freeze too much.</ab>
 
 </div>
-<div id="p043r_2" categories="painting;varnish">
+<div id="p043r_2" categories="painting">
 
 <head>White bronzing on <m>plaster</m></head>
 
@@ -5683,7 +5679,7 @@ piu bello. Dapoi, si volete, datte <m>vernice</m> sopra</it>.<comment rid="c_043
 
 </div>
 
-<div id="p043r_4" categories="painting">
+<div id="p043r_4" categories="painting;varnish">
 
 <head>White bronzing</head>
 
@@ -7474,12 +7470,12 @@ easily for grinding it afterward. Being well ground <del>it</del> with a lot of
 <m>water</m>, it resembles ground <m>lead white</m>, but for all this it has
 no body. I think it would be good for casting.</ab>
 
-<ab>
+<ab hand="handd">
 
 <comment rid="c_057r_02"/><m>Lead white</m> is made with <m>plate lead</m>, beaten thin &amp; put
 under the <env><tl><m>dung</m> heap</tl></env>.</ab>
 
-<ab>
+<ab hand="handd">
 
 <m>White varnish of <m>turpentine</m> or of <m><pa>spike lavender</pa>
 oil</m> and <m>turpentine</m></m> is colored with <m>pulverized
@@ -7490,12 +7486,12 @@ color still, but it takes long to dry &amp; the other is dry in <tmp>a quarter
 of an hour</tmp>, <tmp>in winter</tmp> as well as
 <tmp>summer</tmp>.</ab>
 
-<ab>
+<ab hand="handd">
 
 Good <m>lake</m> moistened with <m>saliva</m> is promptly rendered dark.
 That from <pl>Florence</pl> is too gummed.</ab>
 
-<ab>
+<ab hand="handd">
 
 If you make a layer of <m><pro>printers</pro>’ ink</m> on <m>velvet</m>
 and there apply <m>gold leaf</m> and then stretch the <m>velvet</m>, it
@@ -7530,7 +7526,7 @@ rid the <tl><m>marble</m></tl> of grease.</ab>
 
 <head><comment rid="c_057v_01"/><pro>Sheath maker</pro></head>
 
-<ab><pro>Sheath makers</pro> use <m>small, very delicate skins of
+<ab hand="handd"><pro>Sheath makers</pro> use <m>small, very delicate skins of
 <al>lambs</al> and young <al>goats</al></m>, almost like
 <m>parchment</m> and keep them constantly re-moistened in <env>humid
 places</env>. When they want to imprint some history, they layer them in
@@ -7559,22 +7555,22 @@ is done differently and can be retraced with a <tl>hot
 
 <head><underline><pro>Painter</pro></underline><comment rid="c_057v_04"/></head>
 
-<ab>Good <tl><m>crayons</m></tl> are not made with <del>good</del>
+<ab hand="handd">Good <tl><m>crayons</m></tl> are not made with <del>good</del>
 <m>glue</m> but with <m>women’s milk</m>.</ab>
 
-<ab>Images made of <m><fr>carton</fr></m>, once dry, have to be soaked
+<ab hand="handd">Images made of <m><fr>carton</fr></m>, once dry, have to be soaked
 in <m>thoroughly thinned and clear melted resin</m>. This strengthens
 it, otherwise they turn limp in <env>humid weather</env>.</ab>
 
-<ab><pl>Venice</pl> masks are made with the
+<ab hand="handd"><pl>Venice</pl> masks are made with the
 hollow &amp; the male face of
 <m>copper</m>.</ab>
 
-<ab>The <pl>Flemish</pl> do not use any whites for flesh colors in
+<ab> hand="handd"The <pl>Flemish</pl> do not use any whites for flesh colors in
 <m>oil</m> other than <m>lead white</m> because the <m>ceruse</m> turns
 yellow.</ab>
 
-<ab>4- or 5-<tmp>year</tmp>-old <m><pa>walnut</pa> oil</m> which is clear
+<ab hand="handd">4- or 5-<tmp>year</tmp>-old <m><pa>walnut</pa> oil</m> which is clear
 is the best color, it keeps off dust. <comment rid="c_057v_02"/>The kind which has recently been
 drawn with the press in the manner of <m><pa>almond</pa> oil</m> is
 white, especially if the <m><pa>walnuts</pa>’ skin</m> is removed.</ab>
@@ -7588,7 +7584,7 @@ white, especially if the <m><pa>walnuts</pa>’ skin</m> is removed.</ab>
 
 
 
-<ab><comment rid="c_058r_01"/>One needs to make at least three layers of flesh color to accomplish
+ <ab hand="handd"><comment rid="c_058r_01"/>One needs to make at least three layers of flesh color to accomplish
 faces in <m>oil</m>. And at the beginning, one puts the black and umber
 where it is appropriate. Next, the <corr><del><fr>c</fr></del></corr> heightening with <m>lead
 white</m> must not be put on the black. Flesh colors, and <gap/> where the
@@ -7749,7 +7745,7 @@ dipping a <tl>knife point</tl> in the <m>oil</m>, then
 tempering it little by little on the said
 <tl>palette</tl>.</ab></div>
 
-<div id="p059r_1" categories="painting">
+<div id="p059r_1" categories="varnish;painting">
 
 
 
@@ -7772,7 +7768,7 @@ imbibed well.</ab>
 
 </div>
 
-<div id="p059r_2" categories="varnish;painting">
+<div id="p059r_2" categories="painting">
 
 
 
@@ -9965,7 +9961,7 @@ Take a <tl>wirebrush</tl> to clean your <tl>molds</tl>.</ab>
 
 <head><comment rid="c_073r_01"/>For making <m>blue varnish</m></head>
 
-<ab>Take the <m>blue of flowers <add>of florey or of
+<ab hand="handd">Take the <m>blue of flowers <add>of florey or of
 <pl>Flanders</pl></add></m><comment rid="c_073r_02"/> &amp; <m>quicklime</m>, and put around
 four <ms><bp>fingers</bp></ms> of <m>water</m> over it, and let it soak one
 <ms><tmp>day</tmp></ms> / Take the <m>water</m> where the said
@@ -9980,7 +9976,7 @@ it down on the <m>wood</m>.</ab>
 
 <head>For orange color</head>
 
-<ab>Take <m>water</m> in which <m>lime</m> has soaked and put
+<ab hand="handd">Take <m>water</m> in which <m>lime</m> has soaked and put
 <m><fr>terroy merita</fr></m>, one with the other, and then
 set on your <m>wood</m>.</ab>
 
@@ -9992,7 +9988,7 @@ set on your <m>wood</m>.</ab>
 
 <head>For ridding <m>bone</m> or <m>horn</m> of grease</head>
 
-<ab>One needs to make them boil in <m>quicklime</m>, and let there always
+<ab hand="handd">One needs to make them boil in <m>quicklime</m>, and let there always
 be <m>water</m>, and take a very clean <tl>pan</tl>. And when they are
 washed, boil them in the <m>ash of <pa>vine shoots</pa></m>, and
 put them into the hottest <tl>pot</tl> you can, and put into the <tl>pot</tl>
@@ -10007,10 +10003,10 @@ the space of some time, and you will see a very beautiful green color.</ab>
 
 <head>For making gray <m>wood</m></head>
 
-<ab>Take <m>alum</m> with <m>river water</m>, make them boil together,
+<ab hand="handd">Take <m>alum</m> with <m>river water</m>, make them boil together,
 then take <m>river water</m> with <m>bran</m>, submerge the <m>bran</m>
 and beat it together. Take <m>iron filings</m> &amp; <m>sulfur</m> &amp;
-    <m>verdigris</m> and <add><m>grindings</m></add><comment rid="c_073r_03"/> <gap/>, and make
+<m>verdigris</m> and <add><m>grindings</m></add><comment rid="c_073r_03"/> <gap/>, and make
 it all boil together, and pound <m><pa>maplewood</pa></m> which will
 have been soaked in <m>alum water</m> and <m>well water</m>, &amp;
 put it to boil together. <add>All of this will be done better in a hollow
@@ -10024,13 +10020,13 @@ put it to boil together. <add>All of this will be done better in a hollow
 
 <head>For making <m>bronze</m> in gold color</head>
 
-<ab>Take one <ms>ounce</ms> of <m>sal ammoniac</m> and grind it in an
+<ab hand="handd">Take one <ms>ounce</ms> of <m>sal ammoniac</m> and grind it in an
 <tl><m>iron</m> mortar</tl>. Once well ground, take one <ms>ounce</ms>
 of <m>sulfur</m>, and
 
 </ab>
 
-<ab margin="left-middle">l______.<comment rid="c_073r_04"/></ab>
+<ab margin="left-middle" hand="handd">l______.<comment rid="c_073r_04"/></ab>
 
 </div>
 <div continues="yes" id="p073r_5" categories="metal process">
@@ -10039,7 +10035,7 @@ of <m>sulfur</m>, and
 
 
 
-<ab><comment rid="c_073v_02"/>grind it separately. When it is well-ground, take the <m>sal
+<ab hand="handd"><comment rid="c_073v_02"/>grind it separately. When it is well-ground, take the <m>sal
 ammoniac</m> &amp; grind it together again. Then take one <ms>ounce</ms>
 of <m>soft tin</m> &amp; one <ms>ounce</ms> of <m>quicksilver</m>, then
 melt your <m>tin</m> &amp; put your <m>quicksilver</m> drop by drop into
@@ -10054,7 +10050,7 @@ powder.</ab>
 
 <head>For coating it</head>
 
-<ab>Take some <m>glue of <pl>Partenay</pl> <add>or parchment</add></m>
+<ab hand="handd">Take some <m>glue of <pl>Partenay</pl> <add>or parchment</add></m>
 and apply it with the <m>white of one egg</m>, then take a little
 <m>saffron</m> and <m>vinegar</m> and the <m>milk of the <pa>fig
 tree</pa></m>, and do another coat. Then take the <m>bronze</m> and
@@ -10068,7 +10064,7 @@ apply it on top.</ab>
 
 <head><m>Varnish</m></head>
 
-<ab>Take two <ms>ounces</ms> of <m><pa>spike lavender</pa> oil</m> &amp;
+<ab hand="handd">Take two <ms>ounces</ms> of <m><pa>spike lavender</pa> oil</m> &amp;
 one <ms>ounce</ms> of <m>sandarac</m>. Take a clean <tl>pot</tl>, &amp;
 warm it, &amp; then take it from the fire, and next put the <m>drugs</m>
 inside, and next put them into a <tl>vial</tl>, &amp; apply it on the
@@ -10082,7 +10078,7 @@ inside, and next put them into a <tl>vial</tl>, &amp; apply it on the
 
 <head>Another recipe for making <m>varnish</m></head>
 
-<ab>Take one <ms>ounce</ms> of <m><del><fr>verinse</fr></del> <add><pl>Venice</pl></add>
+<ab hand="handd">Take one <ms>ounce</ms> of <m><del><fr>verinse</fr></del> <add><pl>Venice</pl></add>
 turpentine</m> &amp; one <ms>quarter ounce</ms> of <m>oil of <del><fr>perolle</fr></del>
 <add><fr>petrolle</fr></add></m> &amp; one <ms>ounce</ms> of <m>sandarac</m>
 &amp; one of <m><pa>spike lavender</pa> oil.</m></ab>
@@ -10095,7 +10091,7 @@ turpentine</m> &amp; one <ms>quarter ounce</ms> of <m>oil of <del><fr>perolle</f
 
 <head>Color of burnished copper</head>
 
-<ab>Take one <ms>ounce</ms> of <m>sal ammoniac</m> with one
+<ab hand="handd">Take one <ms>ounce</ms> of <m>sal ammoniac</m> with one
 <ms>ounce</ms> of <m><fr>brouillamini</fr></m> and half of <m>copper
 filings</m> with one <ms>ounce</ms> of <m>sulfur</m> &amp; a 
 <ms>half-septier</ms> of <m>vinegar</m>. Push it all into a <tl>small
@@ -10110,7 +10106,7 @@ your <tl>pot</tl> into the said <tl>oven</tl> for the whole
 
 <head><comment rid="c_073v_02"/>For <m>bronzing</m> white</head>
 
-<ab>Take <m>looking-glass tin</m> &amp; put it to soak in <m>gum
+<ab hand="handd">Take <m>looking-glass tin</m> &amp; put it to soak in <m>gum
 water</m> &amp; <tl>pestle</tl> it in a <tl>mortar</tl>. And next, you will put it
 on <tl><m>marble</m></tl>.</ab>
 
@@ -10122,7 +10118,7 @@ on <tl><m>marble</m></tl>.</ab>
 
 <head>For making <m>vermilion</m></head>
 
-<ab>Take two <ms>pounds</ms> of <m>sulfur</m>, &amp; melt it, &amp; put
+<ab hand="handd">Take two <ms>pounds</ms> of <m>sulfur</m>, &amp; melt it, &amp; put
 it into two <ms>pounds</ms> of <del><fr>merecuse</fr></del>
 <add><m>mercury</m></add>. And if this substance ignites, cover it quite
 gently, so the air does not pass into the <tl>pot</tl>, then put the
@@ -10140,7 +10136,7 @@ have <m>good vermilion</m>.
 
 <head>For making <m>varnish</m></head>
 
-<ab>Take one <ms>pound</ms> of <m><pa>linseed</pa> oil</m>, and then you
+<ab hand="handd">Take one <ms>pound</ms> of <m><pa>linseed</pa> oil</m>, and then you
 will put it in a <tl><m>earthen</m> pot</tl>, mixed with a <m>crust of
 bread</m> and three <m><pa>onions</pa></m>, and put it on top of a
 <m>charcoal</m> fire, and you will cook it on a little fire, so that it
@@ -10168,7 +10164,7 @@ that they are not cooked enough, have it cook more on a low</ab>
 
 
 
-<ab><comment rid="c_073v_02"/>fire until it is cooked enough. And pour it into a <tl><m>cloth</m>
+<ab hand="handd"><comment rid="c_073v_02"/>fire until it is cooked enough. And pour it into a <tl><m>cloth</m>
 that should be rather tight</tl>. And when you have poured it, let it to
 cool a little. And if you see that it is too thick so that you cannot
 pour it, you will put a little of the said <m>oil</m> &amp; you will
@@ -10184,7 +10180,7 @@ make it better.
 
 <head>For making <m>red varnish</m></head>
 
-<ab>Take <m>vermilion</m> and make it soak in <m>quite clear gum water</m>, 
+<ab hand="handd">Take <m>vermilion</m> and make it soak in <m>quite clear gum water</m>, 
 like the other, and <corr><del><fr>s</fr></del></corr> make two or three ground layers as above.
 
 </ab>
@@ -10197,7 +10193,7 @@ like the other, and <corr><del><fr>s</fr></del></corr> make two or three ground 
 
 <head>For making <m>yellow varnish</m></head>
 
-<ab>Take some <m>gum arabic</m> &amp; <del><fr>tr</fr></del><comment rid="c_074v_02"/> soak it
+<ab hand="handd">Take some <m>gum arabic</m> &amp; <del><fr>tr</fr></del><comment rid="c_074v_02"/> soak it
 with <m>water</m>, then take some <m>well beaten saffron</m>, &amp;
 temper the said <m>gum</m>, and make it quite clear, then make your ground
 layer on that which you want to varnish, &amp; let it dry, &amp; when it
@@ -10217,7 +10213,7 @@ Then wash your <bp>hands</bp> quite well &amp; with your
 
 <head>Recipe for white <m>gum</m></head>
 
-<ab>Take <m>white wax</m> &amp; <m>ceruse</m> &amp; a small amount of <m>fine
+<ab hand="handd">Take <m>white wax</m> &amp; <m>ceruse</m> &amp; a small amount of <m>fine
 pitch</m> very well <tl>pestled</tl> together, &amp; put it in a small new
 <tl>pot</tl> &amp; make it melt. And when it will be melted you will
 make a <tl>spatula of <m>wood</m></tl> <del>of</del>&amp;<comment rid="c_074v_01"/>
@@ -10233,7 +10229,7 @@ burnish what you want.
 
 <head>Green <m>gum</m></head>
 
-<ab>Take <m>green wax</m> with a small amount of <m>verdigris</m> and make it
+<ab hand="handd">Take <m>green wax</m> with a small amount of <m>verdigris</m> and make it
 melt as above.
 
 </ab>
@@ -10246,7 +10242,7 @@ melt as above.
 
 <head><comment rid="c_073v_02"/>Red <m>gum</m></head>
 
-<ab>
+<ab hand="handd">
 
 Take <m>red wax</m>, <m>vermillion</m>, &amp; a small amount of
 <m><del><fr>resins</fr></del> <add>resin</add> pitch</m>, as above.</ab>
@@ -10259,7 +10255,7 @@ Take <m>red wax</m>, <m>vermillion</m>, &amp; a small amount of
 
 <head><m>Bronze</m> of <m>copper</m></head>
 
-<ab>
+<ab hand="handd">
 
 Take <corr><del><fr>da</fr></del></corr> some <m>verdet</m> &amp; <m>clear
 glue</m>, &amp; grind it together. Then make a layer on your
@@ -10275,7 +10271,7 @@ glue</m>, &amp; grind it together. Then make a layer on your
 
 <head><m>Bronze</m> like <m>tin</m></head>
 
-<ab>
+<ab hand="handd">
 
 Take <m>looking-glass tin</m>, two <ms>ounces</ms> of
 <m>quicksilver</m>, &amp; melt the <m>looking-glass tin</m> into a new
@@ -10295,7 +10291,7 @@ piece of <tl><m>tin</m></tl>.</ab>
 
 <head>For making <m>aquafortis</m></head>
 
-<ab>
+<ab hand="handd">
 
 Take a <ms>half-septier</ms> of <m>vinegar</m> with one
 <ms>ounce</ms> of <m>verdigris</m>, &amp; one <ms>ounce</ms> of
@@ -10309,7 +10305,7 @@ put them together in a <tl><m>glass</m> vial</tl>.</ab>
 
 <head><m><fr>Or moulu</fr></m></head>
 
-<ab>
+<ab hand="handd">
 
 Take <m>fine gold</m> &amp; put it on a quite clean
 <del><fr>bu</fr></del> <tl><m>marble</m></tl> &amp; put <m>aquafortis</m> &amp; start crushing. Then take <m>saltpeter</m> &amp; <m>sal
@@ -10323,7 +10319,7 @@ ammoniac</m>, and put it into a <tl>shell</tl> which should be large
 
 <head><comment rid="c_073v_02"/>For making gray <m>wood</m></head>
 
-<ab>One needs to take three <ms>half-septiers</ms> of <m>iron
+<ab hand="handd">One needs to take three <ms>half-septiers</ms> of <m>iron
 filings</m>, xviii <del><fr>s</fr></del> <ms><fr>deniers'</fr>-worth</ms> of
 <m>glass alum</m>,<comment rid="c_075v_03"/> &amp; as much <m>green copperas</m>,
 six <ms><fr>deniers'</fr>-worth</ms> of <m>verdigris</m>, <del><fr>am</fr></del><comment rid="c_075v_05"/> <m>pitch</m>,
@@ -10339,7 +10335,7 @@ six <ms><fr>deniers'</fr>-worth</ms> of <m>verdigris</m>, <del><fr>am</fr></del>
 
 <head>For <m>gilding</m> on <m>wood</m></head>
 
-<ab>First one needs to put down a layer of <m>very clear glue</m>, and
+<ab hand="handd">First one needs to put down a layer of <m>very clear glue</m>, and
 once dry, you will put down a layer of <m>yellow gold</m>. And when it is
 done, you will take <m><pa>fig tree</pa> wood</m>, &amp; put it to soak
 some space of time, &amp; wash the places you want to <m>gild</m>, and
@@ -10349,7 +10345,7 @@ lay. And one must lay the said <m>gold</m> with
 And if you can find a <pa>fig tree</pa>,
 take the <m>the white of one egg</m> &amp; stir it vigorously.</ab>
 
-<ab>
+<ab hand="handd">
 
 If your <m>gold</m> does not have beautiful enough color, you will take
 a <m><al>partridge</al> feather</m>, &amp; make it burn in a<tl>
@@ -10364,7 +10360,7 @@ chafing-dish</tl>, and make the <m>smoke</m> go against what you have
 
 <head>For <m>gilding</m> with <m><fr>or moleu</fr></m></head>
 
-<ab>One needs to take a <ms>shell</ms> of <m>gold</m><comment rid="c_075v_02"/>
+<ab hand="handd">One needs to take a <ms>shell</ms> of <m>gold</m><comment rid="c_075v_02"/>
 and, before you want to work with it, you will put it to soak with <m>gum
 water</m> and lay it down with a <tl>paintbrush</tl>, &amp;
 polish it with a <tl><al>wolf</al>’s <del>skin</del> <add>tooth</add></tl> when it
@@ -10378,7 +10374,7 @@ is dry.</ab>
 
 <head>Recipe for putting all <m>woods</m> in color</head>
 
-<ab>For making it black, one needs to soak it in <m><pa>olive</pa>
+<ab hand="handd">For making it black, one needs to soak it in <m><pa>olive</pa>
 oil</m>, and similarly for <m>horn</m>, as the case may be, four or five
 <ms><tmp>days</tmp></ms>, &amp; then boil it where it has soaked
 for the space of one <ms><tmp>hour</tmp></ms>, &amp; take it out of the
@@ -10392,8 +10388,7 @@ for the space of one <ms><tmp>hour</tmp></ms>, &amp; take it out of the
 
 
 
-
-<ab><comment rid="c_073v_02"/>if you cannot find it, and cover the said <m>wood</m> with this
+<ab hand="handd"><comment rid="c_073v_02"/>if you cannot find it, and cover the said <m>wood</m> with this
 powder, until it is cool, &amp; you will make it boil again, &amp;
 boiling it, one will see if it is black enough or not. If it is not
 enough, you take the said powder &amp; put it on the said <m>wood</m>
@@ -10407,7 +10402,7 @@ while boiling.</ab>
 
 <head>For making <m>wood</m> green</head>
 
-<ab>
+<ab hand="handd">
 
 One needs to take one <ms>quart</ms> of <m>white vinegar</m> &amp; one
 <ms>ounce</ms> of green &amp; one <ms>ounce</ms> of <m>glass alum</m>, all mixed together, and you will put your substances
@@ -10424,7 +10419,7 @@ substances for the space of three <ms><tmp>hours</tmp></ms>.</ab>
 
 <head>For making <m>wood</m> red</head>
 
-<ab>
+<ab hand="handd">
 
 Take one <ms>quart</ms> of <m><bp>old urine</bp></m> and three <ms>ounces</ms> of
 <m>madder</m> &amp; one <ms>ounce</ms> of <m>glass alum</m>, and you will put all in your <tl>pot</tl>, &amp; do
@@ -10438,7 +10433,7 @@ as with green.</ab>
 
 <head>For making it blue</head>
 
-<ab>
+<ab hand="handd">
 
 Take one <ms>quart</ms> of <m><bp>urine</bp></m> as above and one <ms>ounce</ms>
 of <m>alum</m> &amp; two <ms>drams</ms> of <m>sal ammoniac</m> &amp;
@@ -10453,7 +10448,7 @@ into powder, and do as with green.</ab>
 
 <head>For making it violet </head>
 
-<ab>
+<ab hand="handd">
 
 Take one <ms>quart</ms> of <m><bp>urine</bp></m> &amp; one <ms>ounce</ms> of
 <m>alum</m> &amp; two <ms>drams</ms> of <m>sal ammoniac</m> &amp; one of
@@ -10467,7 +10462,7 @@ Take one <ms>quart</ms> of <m><bp>urine</bp></m> &amp; one <ms>ounce</ms> of
 
 <head>For making it yellow</head>
 
-<ab>
+<ab hand="handd">
 
 Take <m><bp>urine</bp></m> as above and two <ms>ounces</ms> of
 <m><pa><fr>guesdre</fr> woad</pa></m> &amp; one <ms>ounce</ms> of <m><pa>fustet</pa></m>
@@ -10481,7 +10476,7 @@ and two <del><ms>ounces</ms></del> <ms>drams</ms> of <m>sal ammoniac</m>, &amp; 
 <head><comment rid="c_073v_02"/>For making very beautiful color of gold &amp; of little
 expense</head>
 
-<ab>First take very yellow <m><pa>orange</pa> peel,</m> &amp; clean them
+<ab hand="handd">First take very yellow <m><pa>orange</pa> peel,</m> &amp; clean them
 well of the white that is inside, &amp; pulverize them very well
 <del>and</del> <add>in</add> a very clean <tl>mortar</tl>. And take as
 much of <m>sulfur</m>, &amp; grind all together, and put everything in
@@ -10499,7 +10494,7 @@ color. </ab>
 
 <head>For making black <m><fr>goumiche</fr></m></head>
 
-<ab>
+<ab hand="handd">
 
 Take some <m>glue</m>, &amp; temper it with <m>vinegar</m>, &amp; melt it, and it should be very clear. And take <m>lampblack</m> or another
 black &amp; mix them together, then put it on <m>wood</m>.</ab>
@@ -10512,7 +10507,7 @@ black &amp; mix them together, then put it on <m>wood</m>.</ab>
 
 <head>For the white </head>
 
-<ab>One needs to take <m>white wax</m> with <m>ceruse</m>, and melt it all
+<ab hand="handd">One needs to take <m>white wax</m> with <m>ceruse</m>, and melt it all
 together, &amp; lay it on <m>wood</m><comment rid="c_076v_01"/> or another thing.</ab>
 
 </div>
@@ -10523,7 +10518,7 @@ together, &amp; lay it on <m>wood</m><comment rid="c_076v_01"/> or another thing
 
 <head>For gilding on <m>iron</m> or <m>tin</m></head>
 
-<ab>First one needs to wash that which one wants to gild in <m>wine
+<ab hand="handd">First one needs to wash that which one wants to gild in <m>wine
 lees</m>, and then wash it again with <m>white wine</m>, and take three
 <ms>ounces</ms> <m><fr>terra merita</fr></m> &amp; a <ms>chopin</ms> of
 <m>white wine</m>, and boil the substances the <ms>space of <tmp>half an
@@ -10547,19 +10542,11 @@ Excellent secret. Try a <m>lead</m> mask.</ab>
 <head> Medicine of the <pl>orientals</pl> <md>against all
 maladies</md></head>
 
-<figure id="fig_p077r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ckxxXzJIeWhnMDg">
-
-
-
-
-
-</figure>
+<figure id="fig_p077r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ckxxXzJIeWhnMDg"/>
 
 <ab>Dry <m><pa>rosemary</pa></m> <tmp>in the month of
 May</tmp>, then fill this <tl>bowl</tl> with <m>powder</m> of it, and
-put a <m>lit charcoal</m> on top. And, receive the
-
-<m>smoke</m> by a quite tightened <bp>mouth</bp>, and a part will come
+put a <m>lit charcoal</m> on top. And, receive the <m>smoke</m> by a quite tightened <bp>mouth</bp>, and a part will come
 out by your <bp>nose</bp>. But if you want to <md>purge the <bp>head</bp></md>
 also pinch the <bp>nose</bp>. <md>Against colds</md>, <md>rheums</md>, and <md>other
 maladies</md>.</ab>
@@ -10582,11 +10569,11 @@ it very neatly. But it must not be sandy
 <head><comment rid="c_077r_01"/>Recipe for making <m>bronze</m> and <m>varnish</m> of many
 sorts</head>
 
-<ab>For making excellent <m>varnish</m> with <m>clear water</m> which
+<ab hand="handd">For making excellent <m>varnish</m> with <m>clear water</m> which
 you will use with a <tl>paintbrush</tl> and immediately dry, for
 putting on <m>paper</m>, a tablet, or another piece.</ab>
 
-<ab>First, you will take five <ms>ounces</ms> of <m>eau-de-vie</m>
+<ab hand="handd">First, you will take five <ms>ounces</ms> of <m>eau-de-vie</m>
 and one <ms>ounce</ms> of <m>benzoin</m> pestled between
 two pieces of <m>paper</m> or <m>card</m> or in a <tl>mortar</tl>,</ab>
 
@@ -10599,7 +10586,7 @@ two pieces of <m>paper</m> or <m>card</m> or in a <tl>mortar</tl>,</ab>
 
 
 
-<ab><comment rid="c_077v_04"/>but it should not be too small, then take <del><ill/></del> a
+<ab hand="handd"><comment rid="c_077v_04"/>but it should not be too small, then take <del><ill/></del> a
 <tl><m>glass</m> vial</tl> not too big and put into it a half of these
 two, namely two &amp; a half <ms>ounces</ms>. Next take the said
 <m>benzoin just as coarsely <tl>pestled</tl></m>, and put it to use with the
@@ -10620,7 +10607,7 @@ use it for something more noble.</ab>
 
 <head>Another approved <m>varnish</m></head>
 
-<ab>Take two <ms>ounces</ms> of <m><pa>linseed</pa> oil</m> &amp; two
+<ab hand="handd">Take two <ms>ounces</ms> of <m><pa>linseed</pa> oil</m> &amp; two
 <ms>ounces</ms> of <m><fr>petrolle</fr> oil</m> and two
 <ms>ounces</ms> of <m>mastic</m>, the whitest you can find, and of
 <m>glass alum</m>,<comment rid="c_075v_03"/> &amp; grind it, and take a little bit of
@@ -10637,7 +10624,7 @@ use it for something more noble.</ab>
 
 <head>Another <m>varnish</m></head>
 
-<ab>Take <m><fr>petrolle</fr> oil</m> &amp; <m><pa>spike
+<ab hand="handd">Take <m><fr>petrolle</fr> oil</m> &amp; <m><pa>spike
 lavender</pa> oil</m>, as much of one as the other, &amp; mix it
 together with <m>copperas</m>, &amp; make them melt over hot
 <m>ashes</m>, according to the quantity that you want to make. To lay
@@ -10652,7 +10639,7 @@ varnish.</ab>
 
 <head>Another <m>varnish</m></head>
 
-<ab>Take one <ms>ounce</ms> of <m><pa>spike lavender</pa> oil</m> &amp;
+<ab hand="handd">Take one <ms>ounce</ms> of <m><pa>spike lavender</pa> oil</m> &amp;
 of <m><fr>sang <del>de ra<del>ie</del>y</del><comment rid="c_077v_02"/>
 <add>da Rac</add></fr></m><comment rid="c_077v_03"/> &amp; make</ab>
 
@@ -10665,7 +10652,7 @@ of <m><fr>sang <del>de ra<del>ie</del>y</del><comment rid="c_077v_02"/>
 
 
 
-<ab><comment rid="c_077v_04"/>these <m>drugs</m> melt in a new <tl><m>earthen</m> pot</tl>, &amp;
+<ab hand="handd"><comment rid="c_077v_04"/>these <m>drugs</m> melt in a new <tl><m>earthen</m> pot</tl>, &amp;
 when it will be melted, you will pass it in a clean <tl><m>cloth</m></tl>
 &amp; you will see a beautiful <m>varnish</m>.</ab>
 
@@ -10677,7 +10664,7 @@ when it will be melted, you will pass it in a clean <tl><m>cloth</m></tl>
 
 <head>Another <m>varnish</m></head>
 
-<ab>Take one <ms>ounce</ms> of <m><pa>spike lavender</pa> oil</m> &amp;
+<ab hand="handd">Take one <ms>ounce</ms> of <m><pa>spike lavender</pa> oil</m> &amp;
 heat it over <m>charcoals</m>, &amp; then take a <ms>half ounce</ms> of
 <m><fr>sang d<del>e</del>a<comment rid="c_017r_01"/>
 Ra<del>ie</del>c</fr></m><comment rid="c_078r_01"/><comment rid="c_077v_03"/>
@@ -10696,7 +10683,7 @@ clear glue</m>, &amp; then put it down with a <tl>paintbrush</tl>.</ab>
 
 <head>For making <m>red varnish</m></head>
 
-<ab>Take <m>vermilion</m> &amp; temper it with <m>gum water</m> as well
+<ab hand="handd">Take <m>vermilion</m> &amp; temper it with <m>gum water</m> as well
 as with other <m>water</m>, and make it like the other <m>varnish</m>,
 &amp; mix this other <m>water</m> like the other <m>varnish</m>, and
 then lay it down as before <del>for making three green</del>.</ab>
@@ -10709,7 +10696,7 @@ then lay it down as before <del>for making three green</del>.</ab>
 
 <head>For making <m><del><fr>tr</fr></del>wood</m><comment rid="c_078r_03"/> green<comment rid="c_078r_02"/></head>
 
-<ab>Take <m>very strong vinegar</m>, <m>salt</m>, &amp;
+<ab hand="handd">Take <m>very strong vinegar</m>, <m>salt</m>, &amp;
 <m>rainwater</m>, and one needs to put it all together with
 <m>verdigris</m>, and put it in a new <tl><m>earthen</m> vessel</tl>
 with your <m>wood</m>, &amp; put it in some very warm <m><al>horse</al>
@@ -10722,7 +10709,7 @@ dung</m> for the space of eight or nine <ms><tmp>days</tmp></ms>.</ab>
 
 <head><comment rid="c_077v_04"/>For making <m>bronze</m> in the color of steel</head>
 
-<ab>Take <m>glass alum</m><comment rid="c_075v_03"/> &amp; <m>antimony</m>, but one
+<ab hand="handd">Take <m>glass alum</m><comment rid="c_075v_03"/> &amp; <m>antimony</m>, but one
 needs <ms>twice as much</ms> <m>glass alum</m> as
 <m>antimony</m>, and pestle the whole together in an <tl><m>iron</m>
 mortar</tl>, &amp; then mix with <m>gum water</m> while grinding it on
@@ -10738,7 +10725,7 @@ with a <tl>tooth of a <al>wolf</al> or <al>dog</al></tl>.</ab>
 
 <head>For making <m>bronze</m> in the color of gold</head>
 
-<ab>Take <m>copper filings</m> &amp; <m>ocher</m> &amp; <m>gum</m> &amp;
+<ab hand="handd">Take <m>copper filings</m> &amp; <m>ocher</m> &amp; <m>gum</m> &amp;
 <m>alum</m>, &amp; grind it all together in a <tl><m>stone</m>
 mortar</tl>, and when it is well ground, you will lay it on the work
 with a <tl>paintbrush</tl>, then polish it with a <tl>tooth of a
@@ -10752,7 +10739,7 @@ with a <tl>paintbrush</tl>, then polish it with a <tl>tooth of a
 
 <head>For making <m>bone</m> or <m>horn</m> green</head>
 
-<ab>Take <m>verdigris</m> &amp; temper it with <m>strong vinegar</m>, then
+<ab hand="handd">Take <m>verdigris</m> &amp; temper it with <m>strong vinegar</m>, then
 soak your <m>bone</m> or <m>horn</m> an <ms><tmp>hour</tmp></ms>, &amp;
 then put it to use.</ab>
 
@@ -10764,7 +10751,7 @@ then put it to use.</ab>
 
 <head>For making <m>bronze</m></head>
 
-<ab>Take <m>pin filings</m> &amp; other of <m>latten</m>, &amp; put
+<ab hand="handd">Take <m>pin filings</m> &amp; other of <m>latten</m>, &amp; put
 it together, &amp; grind it on <tl><m>marble</m></tl>, grind it well
 with <m>water</m> little by little, until they are distilled, then put them
 into some new <tl>vessel</tl>. And</ab>
@@ -10778,7 +10765,7 @@ into some new <tl>vessel</tl>. And</ab>
 
 
 
-<ab><comment rid="c_077v_04"/>when you want to use some of it, mix it with <m>very clear glue</m>,
+<ab hand="handd"><comment rid="c_077v_04"/>when you want to use some of it, mix it with <m>very clear glue</m>,
 &amp; then you will layer it on what you want two or three times, &amp;
 then let it dry. But before layering it, lay down on it one layer of
 <m>very clear glue</m>, &amp; let it dry, &amp; rub the said
@@ -10793,7 +10780,7 @@ then let it dry. But before layering it, lay down on it one layer of
 
 <head>For making <m>wood</m> gray</head>
 
-<ab>
+<ab hand="handd">
 
 Take some <m><fr>grais</fr> powder</m>, ___ ___ ___,<comment rid="c_079r_01"/> <m>iron filings</m>,
 <m>ironware</m>, <m>alum</m>, <m><pro>currier</pro>’s’ black</m>,
@@ -10807,7 +10794,7 @@ Take some <m><fr>grais</fr> powder</m>, ___ ___ ___,<comment rid="c_079r_01"/> <
 
 <head>For making <md><m>water for disease of the <bp>eyes</bp></m></md></head>
 
-<ab>
+<ab hand="handd">
 
 Take <m>white copperas</m>, &amp; heat it a little on the fire, then put
 it as a powder on a <tl>white cloth</tl> stretched over a <tl>very clean
@@ -10826,7 +10813,7 @@ it as a powder on a <tl>white cloth</tl> stretched over a <tl>very clean
 
 <head>For making <m>bronze</m> in the color of gold</head>
 
-<ab>
+<ab hand="handd">
 
 Take six <ms>ounces</ms> of <m>calcined tin</m> &amp; as much of
 <m>natural sulfur</m> &amp; six <ms>ounces</ms> of <m>sal ammoniac</m>,
@@ -10844,7 +10831,7 @@ put in <m>quicksilver</m>, and cast it in a line, then <tl>pestle</tl> all these
 
 
 
-<ab><comment rid="c_079v_03"/>and put it into an <tl><m>earthen</m> pot</tl>, &amp; it should have
+<ab hand="handd"><comment rid="c_079v_03"/>and put it into an <tl><m>earthen</m> pot</tl>, &amp; it should have
 many hot <m>ashes</m> underneath, &amp; little by little you will make
 the fire underneath bigger and bigger, &amp; one ought not to move it,
 &amp; when it is cooked, &amp; it needs to be for six
@@ -10857,7 +10844,7 @@ for they are bad</md>.</ab></div>
 
 <head>For making <m>varnish</m></head>
 
-<ab>Take some <m>mastic</m>, <m><fr>sang <del>daRage</del>
+<ab hand="handd">Take some <m>mastic</m>, <m><fr>sang <del>daRage</del>
 <add>darac</add></fr></m><comment rid="c_077v_03"/>, <m>gum arabic</m>
 &amp; <m><pa>spike lavender</pa> oil</m>, as much of one as the other,
 &amp; make them melt all together, &amp; before coating it, lay a coat
@@ -12834,9 +12821,9 @@ needs to twist it twice. A grip of <m>fine gold</m> is worth 18 or 20
 
 <ab>The best <wp>sword</wp> point is the <m><pa>sage</pa> leaf</m> form.</ab>
 
-<figure id="fig_p094v_1" size="small" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Q29MTEVLUGE5RGs">
-<caption><tl>scabbard bench</tl></caption></figure>
-    
+<ab margin="left-middle"><tl>scabbard bench</tl>
+<figure id="fig_p094v_1" size="small" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Q29MTEVLUGE5RGs">
+</figure></ab>
 </div>
     
     
@@ -12870,30 +12857,25 @@ serves to <corr><del>to</del></corr> smooth the traces of the
 have been ground, which is better than with a <tl><m>stone</m></tl> or a
 <tl><m>sharpening stone</m></tl>, which quite often makes scratches.</ab>
 
-
 <figure id="fig_p094v_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5OEQ3OEFSNnEzeE0">
 </figure>
-
+    
 <ab margin="left-middle">
-    <figure size="small" id="fig_p094v_8" link="https://drive.google.com/file/d/1Hsga43MIuoLIOrj7I5IKQCRAEEXW75uv"/>
-    <figure size="x-small" id="fig_p094v_4" link="https://drive.google.com/file/d/1cE1kYyCx4GXgsYAIEb9Mp1ppcOGYyK_m"><caption>a</caption></figure>
-    <figure size="x-small" id="fig_p094v_5" link="https://drive.google.com/file/d/17W0Rwiq0U0501jXvYvO8kF_FYjeiNtcx"><caption>b</caption></figure>   
-        
-</ab>
-        
-    <figure size="small" margin="left-middle" id="fig_p094v_6" link="https://drive.google.com/file/d/1TAYIJ3T-ElLyUZO0P0CX8t0BPIupl1hP">
-        <caption>
-            c<lb/>
-            the <tl><m><fr>flin</fr></m></tl> or <tl><m>thunder<lb/>
-                stone</m></tl></caption></figure>
+<figure size="small" id="fig_p094v_8" link="https://drive.google.com/file/d/1Hsga43MIuoLIOrj7I5IKQCRAEEXW75uv"/>
+a<figure size="x-small" id="fig_p094v_4" link="https://drive.google.com/file/d/1cE1kYyCx4GXgsYAIEb9Mp1ppcOGYyK_m"/>
+b<figure size="x-small" id="fig_p094v_5" link="https://drive.google.com/file/d/17W0Rwiq0U0501jXvYvO8kF_FYjeiNtcx"/>   
+</ab>     
 
-
-    <figure size="small" margin="left-middle" id="fig_p094v_7" link="https://drive.google.com/file/d/1HhpPaiH0I9np_aklEzw8tpDV12AM3zD1">
-<caption>
+<ab margin="left-middle">    
+<figure size="small" id="fig_p094v_6" link="https://drive.google.com/file/d/1TAYIJ3T-ElLyUZO0P0CX8t0BPIupl1hP"/>
+c<lb/>
+the <tl><m><fr>flin</fr></m></tl> or <tl><m>thunder<lb/>
+stone</m></tl>
+        
+<figure size="small" id="fig_p094v_7" link="https://drive.google.com/file/d/1HhpPaiH0I9np_aklEzw8tpDV12AM3zD1"/>
 D<lb/>
 the <tl><fr>baston<lb/>
-a <m>felinder</m></fr></tl></caption></figure>
-       
+a <m>felinder</m></fr></tl></ab>       
 
 <ab>To make <del><fr>coupp</fr></del> <wp>swords</wp> cut better, one gives them
 the edge by pulling upward from the point.</ab>
@@ -13705,7 +13687,7 @@ clean.</ab>
 <ab>Take the aforesaid <m>calcined saltpeter</m> &amp; expose it to
 a <env>humid air or place</env>, and it will convert itself into a
 liquor which, if rubbed <add>on both sides</add> of the windows, the
-<env>sun</env> will not pass through; rather, it will give shade. One
+<env>sun</env> will not pass through; rather, it will give <env>shade</env>. One
 needs to put the <m>saltpeter</m> on some clean <del>thing</del>
 <add>place</add> &amp; <del>it</del> put <tl>glowing charcoals</tl> on it,
 and continue all over until it no longer burns.</ab>
@@ -15808,8 +15790,8 @@ circle of the same
 
 <m>earth</m>, in this way,
 
- <figure size="small" id="fig_p113r_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aW1sekxQWGJJY0E"><caption>b</caption>
-</figure> &amp; join everything well together in a circle, then, with a
+ <figure size="small" id="fig_p113r_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aW1sekxQWGJJY0E">
+</figure> <add>b</add> &amp; join everything well together in a circle, then, with a
 big <tl>knife</tl>, with which you have cut your <po>cake</po> to
 the right size, trim the outside which exceeds it, &amp; place there a
 piece to close it as you see in b.<comment rid="c_113r_02"/> Then, with a <tl>small curved
@@ -16246,15 +16228,12 @@ putting around these some small <tl>clamps</tl> of <m>iron wire</m> of this shap
 prevent<lb/> 
 the <tl>molds</tl> from deforming &amp; corrupting while reheating.</ab>
 
-<figure id="fig_p115r_3" size="small" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aS1ZeHc2dGxJTE0">
-</figure>
-    
-<figure id="fig_p115r_4" size="small" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Xzg4WTZ2NFNkOHM">
-<caption>This is the shape of the <tl>clamps</tl></caption>
-</figure>
+<ab margin="left-top"><figure id="fig_p115r_3" size="small" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aS1ZeHc2dGxJTE0"/>
+<figure id="fig_p115r_4" size="small" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Xzg4WTZ2NFNkOHM"/>
+This is the shape of the <tl>clamps</tl>
+</ab>
 
 </div>
-
 
 
 <div id="p115r_2" categories="casting">
@@ -16659,10 +16638,8 @@ passed through the circle of the <tl>mold</tl> with a
 
 The more delicate the flower is, the thinner the <m>sand</m> must be.</ab>
 
-<figure id="fig_p117r_3" size="small" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dVB5bzVUWWJuS0U">
-<caption><tl>Mold <fr>en noyau</fr></tl></caption>
-
-</figure>
+<ab margin="left-middle"><figure id="fig_p117r_3" size="small" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dVB5bzVUWWJuS0U"/>
+<tl>Mold <fr>en noyau</fr></tl></ab>
 
 </div>
 <div id="p117v_1" categories="casting">
@@ -17224,7 +17201,7 @@ put it into <m>good quicklime</m>.</ab>
 
 <head>Making <m>silver</m> run</head>
 
-<ab render="wide"><comment rid="c_120v_08"/>If it is for a large work, <m>arsenic</m> &amp;
+<ab render="wide" cancelled="y"><comment rid="c_120v_08"/>If it is for a large work, <m>arsenic</m> &amp;
 <m>tartar</m>, pulverized &amp; thrown on the <m>melted silver</m>, makes it run
 <del>If it is <fr>pou</fr></del> and suffices. But for fine work, one needs some
 <m><la>æs ustum</la></m>, <m>filings of
@@ -17239,7 +17216,7 @@ filings</m>, <m>antimony</m> &amp;c.</ab>
 
 <ab><emph>See</emph> the second leaf following.<comment rid="c_120v_04"/></ab>
 
-<ab margin="left-middle"><emph>
+<ab margin="left-middle" cancelled="y"><emph>
 
 <la>Sciscitatio dubia</la></emph><comment rid="c_120v_07"/></ab>
 
@@ -17354,7 +17331,7 @@ and others that your experience will teach you.</ab>
 The <m>sand with which <pro>goldsmiths</pro> buff <m>enamels</m> or the
 white one that <pro>glassmakers</pro> use</m>, &amp; <m>any lean sand that does
 not hold together</m>, pass it through a <tl><m>horsehair</m> sieve</tl>, for
-it ought not to be so thin. Next, dry it well in the <env>sun</env> for
+it ought not to be so thin. Next, dry it well <env>in the sun</env> for
 <ms><tmp>several days</tmp></ms> to remove all humidity from it, and
 ventilate it like <m>grain</m> so that the dust goes away. Once it is
 rid of that dust &amp; well dried, use it as you know.</ab>
@@ -17521,12 +17498,13 @@ but that is when they are small.</ab>
 
     <figure size="small" id="fig_p122r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ZDJlZ0g5OXNKeDQ">
     </figure>
-    
-    <figure size="small" id="fig_p122r_3" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UDgyYnNSZnlndjg">
-    </figure>
-    
-    <figure size="small" id="fig_p122r_4" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5elo4VzJZRUppOWc">
-    </figure>
+    <ab margin="left-middle" cancelled="y">
+        <figure size="small" id="fig_p122r_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UDgyYnNSZnlndjg">
+        </figure>
+        
+        <figure size="small" id="fig_p122r_4" link="https://drive.google.com/open?id=0B9-oNrvWdlO5elo4VzJZRUppOWc">
+        </figure>
+    </ab>
     
 </div>
 
@@ -20721,7 +20699,7 @@ after the second cast unless it has been <m><tl>luted</tl></m> &amp; reheated
 for one needs to reheat strongly, &amp; the <m><la>crocum</la></m>
 withstands marvelously. Molding a <al>crab</al> &amp; a
 <al>crayfish</al>, it is<comment rid="c_142r_01"/> all the same. When you have uncovered
-your <al>crayfish</al> on one side, only delay making the seond cast as little you can, for <del><fr>el</fr></del> <al>crayfish</al> dry
+your <al>crayfish</al> on one side, only delay making the second cast as little you can, for <del><fr>el</fr></del> <al>crayfish</al> dry
 <del><fr>se</fr></del> out. It is not just about uncovering the
 <al>crayfish</al> well, in such a way that you see an entire half, but
 take heed that your <tl>mold</tl> itself, in which you uncover, releases
@@ -21140,12 +21118,9 @@ is in it would not be released.</ab>
 <emph><la>Inquire</la></emph><comment rid="c_145r_05"/>
 </ab>
     
-    <figure size="x-small" id="fig_p145r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MXRaSldvRzY2UTg">
-
-
-
-<caption>A</caption>
-</figure>
+<ab margin="left-middle"><figure size="x-small" id="fig_p145r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MXRaSldvRzY2UTg"/>
+A
+</ab>
 </div>
 
 <div id="p145r_2" categories="casting" continued="yes">
@@ -21699,7 +21674,7 @@ draw the <m>wire</m>.</ab></div>
 
 
 
-<head>Repairing a medal</head>
+<head>Medal to be repaired</head>
 
 <ab>If you want to mold any medal to serve as your pattern, &amp; at the
 same time repair it, cast it in a majority of <m>tin</m> &amp; copiously put in <m>looking-glass tin</m> to harden it.</ab></div>
@@ -22921,7 +22896,7 @@ dressing is <m>alum</m> &amp; <m>paste of flour</m>.</ab>
 <head><comment rid="c_157v_02"/>For making <fr>h</fr><exp>…</exp> wine
 <fr>f</fr><exp>…</exp><fr>rs</fr><comment rid="c_157v_01"/></head>
 
-<ab render="full">Take a <tl>sock from the <bp>right <del><fr>d</fr></del><comment rid="c_157v_03"/> foot</bp> 
+<ab render="full" hand="handa'">Take a <tl>sock from the <bp>right <del><fr>d</fr></del><comment rid="c_157v_03"/> foot</bp> 
 that has been worn</tl> and make
 <del>drink at</del> it soak in <m>water</m>, and of the <m>water</m> that comes out, 
 make that same person or someone else drink it, and you
@@ -23344,7 +23319,7 @@ one does not need too much <m>sal ammoniac</m> in it.
 
 </ab>
 
-<ab margin="left-top">
+<ab margin="left-top" hand="handa'">
 
 <comment rid="c_161r_05"/><mark>#</mark><lb/> 
 <emph><la>Nota</la></emph> that one needs, <del><ill/></del>
@@ -23382,7 +23357,7 @@ redder &amp; the color of <del><m>minium</m></del>
 showering it each time with <m>vinegar</m>.</ab>
 
 </div>
-<div id="p162r_1" categories="La boutique">
+<div id="p162r_1" categories="La boutique" part="y">
 
 <head>For the <env>workshop</env></head>
 
@@ -23404,7 +23379,7 @@ of within 6 <tmp>days</tmp>.<comment rid="c_162r_01"/></ab>
 trade</underline></emph></ab>
 </div>
 
-<div>
+<div id="p162r_1" categories="La boutique" part="y">
 <ab>
 <pn>Herodotus</pn>, on the first page of <el>Clio</el>, says that the
 <pl>Greeks</pl> were on a long ship on the <pl>coast of Colchis</pl>
@@ -23415,7 +23390,7 @@ trade</underline></emph></ab>
 <emph>Galleys</emph></ab>
 </div>
 
-<div>
+<div id="p162r_1" categories="La boutique" part="y">
 <ab>
 
 <pn>Herodotus</pn>, on the third page, says that <pn>Gyges</pn><comment rid="c_162r_11"/>
@@ -23429,7 +23404,7 @@ presented to the temple of <pl>Delphi</pl><comment rid="c_162r_04"/>
 <m>Gold</m> vases</emph></ab>
 </div>
 
-<div>
+<div id="p162r_1" categories="La boutique" part="y">
 <ab>
 <pn>Herodotus</pn>. <pn>Halyattes</pn>,<comment rid="c_162r_07"/> the father of <pn>Croesus</pn>,<comment rid="c_162r_09"/>
 <la><emph>pateram ex <m>ferro</m> compactilem
@@ -24603,79 +24578,79 @@ thicken the tail with <m>wax</m>, then cut it,
 
 </div>
 <div id="p170v_1" categories="manuscript structure">
-
-
-<head><sup>Original first page (1578–1579)</sup></head>
-<ab><comment rid="c_170v_12"/>In the <tmp>year</tmp> fifteen hundred
-seventy-eight, the second of <tmp>July</tmp>, the heirs of 
-the <del><fr>e</fr></del><comment rid="c_170v_29"/> late <pn>Sieur
-Ouvryer</pn><comment rid="c_170v_13"/> received <del>two hundred and five
-<cn>écus</cn></del> the rent of <pl>Saint-Frajou</pl>,<comment rid="c_170v_14"/> amounting
-to twelve hundred and thirty <cn>livres</cn>.</ab>
-
-<ab>They have also received, as part of the revenue of the <tmp>year</tmp> fifteen
-hundred seventy nine, <del>two</del> <add>three</add> hundred forty three and one third <cn>écus</cn> <del>on <fr>qu</fr></del>.</ab>
-
-<ab>And for the first year, eighty <cn>livres</cn> and fifteen
-    <figure size="x-small" id="fig_p170v_2" link="https://drive.google.com/file/d/1pPcyOohw3Aygar2ODD_l8U8YEBHXG806"/><comment rid="c_170v_03"/> remain to them,
-and for the second settlement, they have not yet received anything.<hr/></ab>
-</div>
-
-<div id="p170v_2" categories="medicine">
-
-<head><md>Against plague</md></head>
-
-<ab>Take, <md>against pestilential fever</md> or <md>poison</md> or <md>plague</md>, an
-<ms><cn>écu</cn>’s weight</ms> of your <m>opiate</m> soaked in
-<m><pa>scabious</pa><comment rid="c_170v_15"/> or <pa>bugloss</pa> water</m>
-or <m>thoroughly tempered wine</m>, if one is afflicted. After taking
-it, one needs to make oneself sweat.</ab>
+        
+        
+        <head><sup>Original first page (1578–1579)</sup></head>
+        <ab cancelled="y" hand="hande"><comment rid="c_170v_12"/>In the <tmp>year</tmp> fifteen hundred
+            seventy-eight, the second of <tmp>July</tmp>, the heirs of 
+            the <del><fr>e</fr></del><comment rid="c_170v_29"/> late <pn>Sieur
+                Ouvryer</pn><comment rid="c_170v_13"/> received <del>two hundred and five
+                    <cn>écus</cn></del> the rent of <pl>Saint-Frajou</pl>,<comment rid="c_170v_14"/> amounting
+            to twelve hundred and thirty <cn>livres</cn>.</ab>
+        
+        <ab cancelled="y" hand="hande">They have also received, as part of the revenue of the <tmp>year</tmp> fifteen
+            hundred seventy nine, <del>two</del> <add>three</add> hundred forty three and one third <cn>écus</cn> <del>on <fr>qu</fr></del>.</ab>
+        
+        <ab cancelled="y" hand="hande">And for the first year, eighty <cn>livres</cn> and fifteen
+            <figure size="x-small" id="fig_p170v_2" link="https://drive.google.com/file/d/1pPcyOohw3Aygar2ODD_l8U8YEBHXG806"/><comment rid="c_170v_03"/> remain to them,
+            and for the second settlement, they have not yet received anything.<hr/></ab>
+    </div>
     
-<ab margin="left-middle"><la> <pn>Othonis</pn> episcopi<lb/> Frisigensis<comment rid="c_170v_30"/><lb/>
-ab orbe condito</la><comment rid="c_170v_25"/></ab>
-</div>
-
-<div id="p170v_3" categories="medicine">
-
-<head><md>For preserving</md></head>
-
-<ab><la><m>Acetum</m> paratum ex <m><pa>ruta</pa></m> <m><pa>baccis juniperi</pa></m> 
-simul tusis. Eo <m>aceto</m> extinguantur <tl>lateres igniti</tl> et vapor excipiatur 
-<bp>ore</bp> &amp; <bp>naribus</bp></la>.<comment rid="c_170v_16"/>
-This is <md>to preserve oneself when one goes into infected air</md>.<comment rid="c_170v_17"/> a
-garment can be thus perfumed &amp; <md>removing <add>its</add> infection</md>, 
-<env>the room, house, &amp;c</env>. If you find yourself in a place where
-you do not have this preparation, carry <m><pa>rue</pa></m> &amp;
-<m><pa>seeds</pa></m><comment rid="c_170v_19"/> <tl>pestled</tl> together, then, according to
-your need, boil them in <m>vinegar</m> and use as above.</ab>
-
-
-<ab margin="left-middle"><la><pn>Abbatis<lb/> Urspergensis</pn><comment rid="c_170v_31"/><lb/>
-Chronicon</la><comment rid="c_170v_26"/></ab>
- 
-<ab margin="left-middle"><emph><la><pn>Hyeronimus<lb/> Mercurialis</pn>,<comment rid="c_170v_32"/><lb/>
-Variarum</la></emph><comment rid="c_170v_27"/></ab>
-</div>
-
-<div id="p170v_4" categories="lists">
-
-<head><sup>List of books</sup></head>
-<ab><comment rid="c_170v_04"/><emph><la>Rerum Scoticarum Historia,<comment rid="c_170v_20"/> <pn>Georgio
-Bucanano</pn><comment rid="c_170v_33"/> authore</la></emph></ab>
-
-<ab><emph><la><pn>Rembertus Dodonæus</pn>, <pl>Mechliniensis</pl> <pro>medicus</pro>,<comment rid="c_170v_34"/><lb/> De stirpium
-historia</la></emph><comment rid="c_170v_21"/></ab>
-
-<ab><emph><pn>Des Ormes</pn>,<comment rid="c_170v_35"/> <fr>De l’invention de bien bastir</fr>, and other
-works</emph><comment rid="c_170v_22"/></ab>
-
-<ab><emph><la><pn>Tilesius</pn>,<comment rid="c_170v_36"/> De coloribus,
-Vascosan</la></emph><comment rid="c_170v_23"/></ab>
-
-<ab><emph><la><pn>Marmodæus</pn>,<comment rid="c_170v_37"/> <del><fr>ge</fr></del> De lapillis
-præciosis</la></emph><comment rid="c_170v_24"/></ab>
-
-<ab><emph><la><pn>Albertus Magnus</pn>,<comment rid="c_170v_38"/> De mineralibus</la></emph><comment rid="c_170v_28"/></ab>
-
-</div>
+    <div id="p170v_2" categories="medicine">
+        
+        <head><md>Against plague</md></head>
+        
+        <ab>Take, <md>against pestilential fever</md> or <md>poison</md> or <md>plague</md>, an
+            <ms><cn>écu</cn>’s weight</ms> of your <m>opiate</m> soaked in
+            <m><pa>scabious</pa><comment rid="c_170v_15"/> or <pa>bugloss</pa> water</m>
+            or <m>thoroughly tempered wine</m>, if one is afflicted. After taking
+            it, one needs to make oneself sweat.</ab>
+        
+        <ab margin="left-middle"><la> <pn>Othonis</pn> episcopi<lb/> Frisigensis<comment rid="c_170v_30"/><lb/>
+            ab orbe condito</la><comment rid="c_170v_25"/></ab>
+    </div>
+    
+    <div id="p170v_3" categories="medicine">
+        
+        <head><md>For preserving</md></head>
+        
+        <ab><la><m>Acetum</m> paratum ex <m><pa>ruta</pa></m> <m><pa>baccis juniperi</pa></m> 
+            simul tusis. Eo <m>aceto</m> extinguantur <tl>lateres igniti</tl> et vapor excipiatur 
+            <bp>ore</bp> &amp; <bp>naribus</bp></la>.<comment rid="c_170v_16"/>
+            This is <md>to preserve oneself when one goes into infected air</md>.<comment rid="c_170v_17"/> a
+            garment can be thus perfumed &amp; <md>removing <add>its</add> infection</md>, 
+            <env>the room, house, &amp;c</env>. If you find yourself in a place where
+            you do not have this preparation, carry <m><pa>rue</pa></m> &amp;
+            <m><pa>seeds</pa></m><comment rid="c_170v_19"/> <tl>pestled</tl> together, then, according to
+            your need, boil them in <m>vinegar</m> and use as above.</ab>
+        
+        
+        <ab margin="left-middle"><la><pn>Abbatis<lb/> Urspergensis</pn><comment rid="c_170v_31"/><lb/>
+            Chronicon</la><comment rid="c_170v_26"/></ab>
+        
+        <ab margin="left-middle"><emph><la><pn>Hyeronimus<lb/> Mercurialis</pn>,<comment rid="c_170v_32"/><lb/>
+            Variarum</la></emph><comment rid="c_170v_27"/></ab>
+    </div>
+    
+    <div id="p170v_4" categories="lists">
+        
+        <head><sup>List of books</sup></head>
+        <ab><comment rid="c_170v_04"/><emph><la>Rerum scoticarum historia,<comment rid="c_170v_20"/> <pn>Georgio
+            Bucanano</pn><comment rid="c_170v_33"/> authore</la></emph></ab>
+        
+        <ab><emph><la><pn>Rembertus Dodonæus</pn>, <pl>Mechliniensis</pl> <pro>medicus</pro>,<comment rid="c_170v_34"/><lb/> De stirpium
+            historia</la></emph><comment rid="c_170v_21"/></ab>
+        
+        <ab><emph><pn>Des Ormes</pn>,<comment rid="c_170v_35"/> <fr>De l’invention de bien bastir</fr>, and other
+            works</emph><comment rid="c_170v_22"/></ab>
+        
+        <ab><emph><la><pn>Tilesius</pn>,<comment rid="c_170v_36"/> De coloribus,
+            Vascosan</la></emph><comment rid="c_170v_23"/></ab>
+        
+        <ab><emph><la><pn>Marmodæus</pn>,<comment rid="c_170v_37"/> <del><fr>ge</fr></del> De lapillis
+            præciosis</la></emph><comment rid="c_170v_24"/></ab>
+        
+        <ab><emph><la><pn>Albertus Magnus</pn>,<comment rid="c_170v_38"/> De mineralibus</la></emph><comment rid="c_170v_28"/></ab>
+        
+    </div>
 </all>

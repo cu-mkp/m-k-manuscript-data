@@ -290,7 +290,7 @@ contegiare<comment rid="c_002v_03"/> stampata in
 
 de <pl>Brissac</pl></m></add><hr/></head>
 
-<ab render="full">Jai prins <m>miniu<exp>m</exp></m> 26
+<ab render="full" hand="handa'">Jai prins <m>miniu<exp>m</exp></m> 26
 <ms>℥</ms>
 <m><exp>christ</exp>al</m><comment rid="c_002v_04"/><add><ill/> et
 broie sur le <tl><m>marbre</m></tl></add> 12 <ms>℥</ms>
@@ -306,7 +306,7 @@ este dun beau<lb/>
 
 v<exp>er</exp>t</ab>
 
-<ab render="full">Jai prins <m>miniu<exp>m</exp></m> 12
+<ab render="full" hand="handa'">Jai prins <m>miniu<exp>m</exp></m> 12
 <ms>℥</ms> <m><exp>christ</exp>al</m> 6
 <ms>℥</ms> <m>v<exp>er</exp>det</m> 2 <ms>grains</ms>
 fuzion doulce<lb/>
@@ -324,7 +324,7 @@ mace a este de v<exp>er</exp>t Jaulne<lb/>
 
 <head><m><mark>|</mark> Safir</m></head>
 
-<ab render="full"><m>Caillous</m> ou
+<ab render="full" hand="handa'"><m>Caillous</m> ou
 <m><exp>christ</exp>al</m> 8 <ms>℥</ms>
 <m>miniu<exp>m</exp></m> 16 <ms>℥</ms> <m>sel de
 <pro>febvre</pro></m> 4 <ms>℥</ms><lb/>
@@ -910,7 +910,7 @@ du <pro>fourbisseur</pro><comment rid="c_004v_01"/></ab>
 
 <head><m>Vernis noir</m> sans foeu sans<lb/>
 
-demonter les harnois<comment rid="c_004v_02"/> ou deffaire<lb/>
+demonter les harnois<comment rid="c_004v_03"/> ou deffaire<lb/>
 
 les bandes des bahus</head>
 
@@ -1884,7 +1884,7 @@ parmy Le <m>vert de terre</m> ne semploye poinct a <m>huile</m></ab>
 
 <head><pro>Marchant</pro></head>
 
-<ab><comment rid="c_009v_03"/>Le Raiglement que les <pro>Marchans</pro> ont accoustumé<lb/>
+<ab hand="handb"><comment rid="c_009v_03"/>Le Raiglement que les <pro>Marchans</pro> ont accoustumé<lb/>
 
 tenir en leurs livres Scavoir le livre Brouillart<lb/>
 
@@ -1900,7 +1900,7 @@ appelle le livre de Raisons</ab>
 
 <head>Brouillart</head>
 
-<ab>Et premierement <pn>francois du Cros</pn><comment rid="c_009v_02"/> doibt du
+<ab hand="handb">Et premierement <pn>francois du Cros</pn><comment rid="c_009v_02"/> doibt du
 <tmp>ii<superscript>e</superscript> de<lb/>
 
 Septembre 1581</tmp> / po<exp>ur</exp> 1 <ms>cane</ms> <m>toille
@@ -1909,7 +1909,7 @@ babtiste</m> a 8 <ms><cn>livres</cn><lb/>
 Canne</ms> Jedis <mark>___ ___ ___ ___</mark> 8 <ms><cn>t.</cn></ms><comment rid="c_009v_01"/></ab>
 
 
-<ab margin="left-middle">
+<ab margin="left-middle" hand="handb">
     <lb/>
     <lb/>
     <lb/>
@@ -1920,7 +1920,7 @@ de vantes a c.<lb/>
 25 /</ab>
 
 
-<ab><pn>Francois du Cros</pn> doibt du
+<ab hand="handb"><pn>Francois du Cros</pn> doibt du
 <tmp>ii<superscript>e</superscript> de septembre 1581</tmp> / pour<lb/>
 
 1 <ms>Canne</ms> <m>toille babtiste</m> a 8 <ms><cn>livres</cn>
@@ -1929,7 +1929,7 @@ Canne</ms> Ainsy que appert<lb/>
 au brouillart a c.<comment rid="c_009v_06"/> 25</ab>
 
 
-<ab margin="left-middle">
+<ab margin="left-middle" hand="handb">
 <oc>Mudat</oc> au livre<lb/>
 
 de raisons a c.<lb/>
@@ -1937,7 +1937,7 @@ de raisons a c.<lb/>
 55 /</ab>
 
 
-<ab><pn>Francois du Cros</pn> doibt du
+<ab hand="handb"><pn>Francois du Cros</pn> doibt du
 <tmp>ii<superscript>e</superscript> de septembre 1581</tmp> / pour<lb/>
 
 marchandise que luy mesmes a prise expeciffiée par le<lb/>
@@ -3108,8 +3108,7 @@ quil y a du <m>salpestre</m> Cest pourquoy quand elles tumbent les<lb/>
 
 <pro>pouldriers</pro> en font leur proffict</ab>
 
-<ab margin="left-middle"><figure size="small" id="fig_p014r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5b2lVN19SU1Z6UkU">
-<caption>A</caption></figure></ab>
+<ab margin="left-middle">A<lb/><figure size="small" id="fig_p014r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5b2lVN19SU1Z6UkU"/></ab>
 
 </div>
 <div><ab><comment rid="c_014v_01"/></ab></div>
@@ -4800,7 +4799,7 @@ a la fin</ab>
 <head><comment rid="c_020r_01"/>Pour faire
 les <m><oc>Millas</oc></m> <figure size="x-small" id="fig_p020r_1" link="https://drive.google.com/file/d/1hyCXz2KOCrpNwqiDiCzKp4Tg4YGawMYm"/></head>
 
-<ab>
+<ab hand="handc">
 
 Il fault faire fraiser du <m><pa>millet</pa></m> po<exp>ur</exp> en
 tirer la <m>croutte</m> Et puis le<lb/>
@@ -4826,7 +4825,7 @@ quil revienne deux <m>Jaulnes deouf</m> po<exp>ur</exp> chaique
 du <m><pa>safran</pa></m> si vous voules po<exp>ur</exp> leur donner ung
 peu de couleur</ab>
 
-<ab>
+<ab hand="handc">
 
 Il fault apres avoir des <tl>moulles</tl> Et fault quil soient de
 <m>terre</m><lb/>
@@ -5291,12 +5290,12 @@ elles ayent plus de violence</ab></div>
 
 
     
-<ab margin="top">Un peu trop grande voy celle<lb/>
+<ab margin="top" cancelled="y">Un peu trop grande voy celle<lb/>
         
 <del>de</del> qui suict</ab>
+<ab cancelled="y"><figure size="large" id="fig_p022r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dWtBam9HWEpiaHc">
+</figure></ab>
 
-<figure size="large" id="fig_p022r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dWtBam9HWEpiaHc">
-</figure>
 </div>
 <div id="p022v_1" categories="arms and armor">
 
@@ -8149,18 +8148,9 @@ dans le <tl>sac</tl> ou <tl>gibbessiere</tl></ab>
 <head>Pour fayre transmuer une <tl>boule</tl><lb/>
 
 en un <tl>de a couldre</tl> subtil</head>
-
-    <figure size="small" id="fig_p036r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UmZaWjV2VE82QjQ">
-
-
-
-
-
-
-
-<caption>de <m>cuir</m></caption>
-
-</figure>
+<ab margin="left-middle">de <m>cuir</m>
+<figure size="small" id="fig_p036r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UmZaWjV2VE82QjQ">
+</figure></ab>
 
 <ab>Fais un <tl>petit estuy de <m>cuyr simple co<exp>mm</exp>e de
 <al>vache</al> ou marroquin</m></tl><lb/>
@@ -9742,7 +9732,7 @@ ne gele pas trop</ab>
 
 </div>
 
-<div id="p043r_2" categories="painting;varnish">
+<div id="p043r_2" categories="painting">
 
 <head>Bronzure blanche sur <m>plastre</m></head>
 
@@ -9814,7 +9804,7 @@ piu bello dapoi si volete datte <m>vernice</m> sopra</it><comment rid="c_043r_01
 
 </div>
 
-<div id="p043r_4" categories="painting">
+<div id="p043r_4" categories="painting;varnish">
 
 <head>Bronzure blanche</head>
 
@@ -12912,14 +12902,14 @@ corps<lb/>
 
 Je croy quil seroit bon pour le gect</ab>
 
-<ab>
+<ab hand="handd">
 
 <comment rid="c_057r_02"/>Le <m>blanc de plomb</m> se faict de <m>lame de plomb</m> battue
 subtile &amp; mise<lb/>
 
 soubz le <env><tl><m>fumier</m></tl></env></ab>
 
-<ab>
+<ab hand="handd">
 
 Le <m>vernis blanc de <m>tourmentine</m> ou d<m>huille
 d<pa>aspic</pa></m> et de <m>tourmentine</m></m><lb/>
@@ -12936,14 +12926,14 @@ haulte Mais Il est long<lb/>
 a seicher &amp; laultre est sec en <tmp>ung quart dheure</tmp>
 <tmp>lyver</tmp> aussi bien que <tmp>leste</tmp></ab>
 
-<ab>
+<ab hand="handd">
 
 La Bonne <m>lacque</m> mouillee de <m>salive</m> se rend
 promptem<exp>ent</exp> obscure Celle de<lb/>
 
 <pl>florence</pl> est trop gommee</ab>
 
-<ab>
+<ab hand="handd">
 
 Si tu fais couche d<m>encre d<pro>imprimeur</pro></m> sur du
 <m>velours</m> et y aplicque <m>or de<lb/>
@@ -13001,7 +12991,7 @@ gros pain</m> pour desgraisser le <tl><m>mabre</m></tl></ab>
 
 <head><comment rid="c_057v_01"/><pro>Gainier</pro></head>
 
-<ab>Les <pro>Gainiers</pro> se servent de
+<ab hand="handd">Les <pro>Gainiers</pro> se servent de
 <m>petites peaulx <al>daigneaulx</al> et<lb/>
 <al>chevreaulx</al> fort deliees</m> quasi comme <m>parchemin</m> Et les
 tiennent en <env>lieux<lb/>
@@ -13059,12 +13049,12 @@ et se resuict aveq ung <tl><m>fer</m> chault</tl></ab>
 
 <head><underline><pro>Painctre</pro></underline><comment rid="c_057v_04"/></head>
 
-<ab><tl><m>Croons</m></tl> bons ne se font
+<ab hand="handd"><tl><m>Croons</m></tl> bons ne se font
 aveq <m>colle</m> <del>bonne</del> mays aveq <m>laict de<lb/>
 
 femme</m></ab>
 
-<ab>Les Images faictz de <m>carton</m> se doibvent estant secs tremper
+<ab hand="handd">Les Images faictz de <m>carton</m> se doibvent estant secs tremper
 dans la<lb/>
 
 <m>rousine fondue fort delayee et claire</m> Cela la fortifie aultrement
@@ -13072,18 +13062,18 @@ Ilz<lb/>
 
 deviennent mols en <env>temps humide</env></ab>
 
-<ab>Les Masques de <pl>venise</pl> se font aveq le creulx &amp; le
+<ab hand="handd">Les Masques de <pl>venise</pl> se font aveq le creulx &amp; le
 visaige masle de<lb/>
 
 <m>cuyvre</m></ab>
 
-<ab>Les <pl>flamens</pl> nemploient poinct aultre blanc aux
+<ab hand="handd">Les <pl>flamens</pl> nemploient poinct aultre blanc aux
 carna<exp>ti</exp>ons a <m>huille</m><lb/>
 
 Que le <m>blanc de plomb</m> pource q<exp>ue</exp> la <m>ceruse</m>
 Jaulnist</ab>
 
-<ab>L<m>huille de <pa>noix</pa></m> de 4 ou 5 <tmp>ans</tmp> qui est
+<ab hand="handd">L<m>huille de <pa>noix</pa></m> de 4 ou 5 <tmp>ans</tmp> qui est
 Cler est la meilheure couleur<lb/>
 
 garde de poulsiere <comment rid="c_057v_02"/>Celuy qui est recentem<exp>ent</exp> tire avecq la
@@ -13103,7 +13093,7 @@ est tiree</ab>
 
 
 
-<ab><comment rid="c_058r_01"/>Il fault faire pour le moingts trois
+<ab hand="handd"><comment rid="c_058r_01"/>Il fault faire pour le moingts trois
 couches de carna<exp>ti</exp>ons pour achever<lb/>
 
 les visaiges a <m>huille</m> Et au commancem<exp>ent</exp> on mect le
@@ -13401,7 +13391,7 @@ sur ladicte <tl>pallete</tl></ab>
 
 </div>
 
-<div id="p059r_1" categories="painting">
+<div id="p059r_1" categories="varnish;painting">
 
 
 
@@ -13438,7 +13428,7 @@ bien imbue</ab>
 
 </div>
 
-<div id="p059r_2" categories="varnish;painting">
+<div id="p059r_2" categories="painting">
 
 
 
@@ -17378,7 +17368,7 @@ tes <tl>moules</tl></ab>
 
 <head><comment rid="c_073r_01"/>Pour faire <m>vernys pers</m></head>
 
-<ab>Prenes du <m>pers de fleurs <add>de fleuree ou de
+<ab hand="handd">Prenes du <m>pers de fleurs <add>de fleuree ou de
 <pl>Flandres</pl></add></m><comment rid="c_073r_02"/> &amp; de la <m>chault vifve</m> Et mettes de
 l<m>eau</m><lb/>
 
@@ -17398,7 +17388,7 @@ poser sans le <m>boys</m></ab>
 
 <head>Pour couleur dorange</head>
 
-<ab>Prenes de l<m>eau</m> ou la <m>chault</m> aura trempe Et Mectes du
+<ab hand="handd">Prenes de l<m>eau</m> ou la <m>chault</m> aura trempe Et Mectes du
 <m>terroy<lb/>
 
 merita</m> lung avecq lau<exp>tr</exp>e Et puys poseres sur
@@ -17412,7 +17402,7 @@ v<exp>ost</exp>re <m>boys</m></ab>
 
 <head>Pour desgresser <m>os</m> ou <m>corne</m></head>
 
-<ab>Il les fault faire bouillir dans la <m>chault vive</m> Et quil y
+<ab hand="handd">Il les fault faire bouillir dans la <m>chault vive</m> Et quil y
 ayt<lb/>
 
 tousjours de l<m>eau</m> Et prenes une <tl>casse</tl> bien necte Et
@@ -17437,7 +17427,7 @@ quelque temps et verres une Fort belle coulleur de verd</ab>
 
 <head>Pour faire <m>boys</m> gris</head>
 
-<ab>Prenes de l<m>alung</m> avecques de l<m>eau de Riviere</m> Faictes
+<ab hand="handd">Prenes de l<m>alung</m> avecques de l<m>eau de Riviere</m> Faictes
 bouilhir<lb/>
 
 ensemble puis prenes <m>eau de Riviere</m> aveq du <m>son</m> et coules
@@ -17462,14 +17452,13 @@ Fera mieulx dedans ung <tl><m>Grais</m></tl> Cruze</add></ab>
 <div id="p073r_5" categories="metal process" continued="yes">
 
 <head>Pour faire <m>bronze</m> a couleur dor</head>
-
-<ab>Prenes une <ms>once</ms> de <m>sel armoniac</m> Et les broyes dans
+<ab hand="handd">Prenes une <ms>once</ms> de <m>sel armoniac</m> Et les broyes dans
 ung<lb/>
 
 <tl>mortier de <m>fer</m></tl> Estant bien broye prenes une
 <ms>once</ms> de <m>soufre</m> Et le</ab>
 
-<ab margin="left-middle">l______.<comment rid="c_073r_04"/></ab>
+<ab margin="left-middle" hand="handd">l______.<comment rid="c_073r_04"/></ab>
 
 </div>
 <div continues="yes" id="p073r_5" categories="metal process">
@@ -17478,7 +17467,7 @@ ung<lb/>
 
 
 
-<ab><comment rid="c_073v_02"/>broyes a part Quand Il sera bien broye prenes le <m>sel armoniac</m>
+<ab hand="handd"><comment rid="c_073v_02"/>broyes a part Quand Il sera bien broye prenes le <m>sel armoniac</m>
 &amp;<lb/>
 
 le broyes encores ensemble puys prenes une <ms>once</ms> d<m>estaing
@@ -17500,7 +17489,7 @@ Remues fort Jusques a ce q<exp>ui</exp>l soit en pouldre</ab>
 
 <head>Pour le coucher</head>
 
-<ab>Prenes de la <m>colle de <pl>partenay</pl>
+<ab hand="handd">Prenes de la <m>colle de <pl>partenay</pl>
 <add>ou parchemin</add></m> Et lapliques
 avecq Le <m>blanc<lb/>
 
@@ -17520,7 +17509,7 @@ prenes la <m>bronze</m> Et laplicques dessus</ab>
 
 <head><m>Verny</m></head>
 
-<ab>Prenes deux <ms>onces</ms> d<m>uille d<pa>aspic</pa></m> &amp; une
+<ab hand="handd">Prenes deux <ms>onces</ms> d<m>uille d<pa>aspic</pa></m> &amp; une
 <ms>once</ms> de <m>sandrax</m> prenes<lb/>
 
 ung <tl>pot</tl> net &amp; le faictes chauffer &amp; puis le tires hors
@@ -17538,7 +17527,7 @@ dedans une <tl>fiole</tl> &amp; le coucher sur le <m>boys</m></ab>
 
 <head>Aultre recepte pour faire <m>verny</m></head>
 
-<ab>Prenes une <ms>once</ms> de <m>tormentine de <del>verinse</del>
+<ab hand="handd">Prenes une <ms>once</ms> de <m>tormentine de <del>verinse</del>
 <add><pl>venise</pl></add></m> &amp; ung <ms>quart de<lb/>
 
 once</ms> d<m>huille de <del>perolle</del> <add>petrolle</add></m> &amp;
@@ -17554,7 +17543,7 @@ d<pa>aspic</pa></m></ab>
 
 <head>Couleur de cuyvre bruny</head>
 
-<ab>Prenes une <ms>once</ms> de <m>sel armoniac</m> avecq une
+<ab hand="handd">Prenes une <ms>once</ms> de <m>sel armoniac</m> avecq une
 <ms>once</ms> de<lb/>
 
 <m>broullaminy</m> et demye de <m>limailhe de cuyvre</m> aveq une
@@ -17577,7 +17566,7 @@ toute la <ms><tmp>journee</tmp></ms></ab>
 
 <head><comment rid="c_073v_02"/>Pour <m>bronzer</m> blanc</head>
 
-<ab>Prenes de l<m>estaing de Glace</m> &amp; le mectes destremper
+<ab hand="handd">Prenes de l<m>estaing de Glace</m> &amp; le mectes destremper
 dedans<lb/>
 
 de l<m>eaue de gomme</m> &amp; le <tl>pilles</tl> dedans ung <tl>mortier</tl> Et
@@ -17593,7 +17582,7 @@ vous le mectres dessus le <tl><m>mabre</m></tl></ab>
 
 <head>Pour faire <m>vernilhon</m></head>
 
-<ab>Prenes deux <ms>livres</ms> de <m>souffre</m> &amp; le faictes
+<ab hand="handd">Prenes deux <ms>livres</ms> de <m>souffre</m> &amp; le faictes
 fondre &amp; le<lb/>
 
 mectes dedans deux <ms>livres</ms> de
@@ -17620,7 +17609,7 @@ aures de <m>bon vernilhon</m>
 
 <head>Pour faire <m>verny</m></head>
 
-<ab>Prenes une <ms>livre</ms> d<m>huille de <pa>lin</pa></m> Et puys la
+<ab hand="handd">Prenes une <ms>livre</ms> d<m>huille de <pa>lin</pa></m> Et puys la
 mecteres dedans<lb/>
 
 ung <tl>pot de <m>terre</m></tl> mellee <m>croute de pin</m> et trois
@@ -17667,7 +17656,7 @@ voyes qui ne soit asses cuyt faictes le cuyre davantage apetict</ab>
 
 
 
-<ab><comment rid="c_073v_02"/>foeu Jusques ace q<exp>ui</exp>l soit asses cuyt Et la coulles
+<ab hand="handd"><comment rid="c_073v_02"/>foeu Jusques ace q<exp>ui</exp>l soit asses cuyt Et la coulles
 pardedans<lb/>
 
 une <tl><m>toille</m> q<exp>ui</exp> soit asses serree</tl> Et quand
@@ -17689,7 +17678,7 @@ petict dud<exp>ict</exp> <m>huille</m> &amp; le feres meilheur</ab>
 
 <head>Pour faire <m>vernys Rouge</m></head>
 
-<ab>Prenes de <m>vermilhon</m> Et le faictes tremper avecq de
+<ab hand="handd">Prenes de <m>vermilhon</m> Et le faictes tremper avecq de
 l<m>eaue<lb/>
 
 de gaulme bien clair</m> ainsin q<exp>ue</exp>lau<exp>ltr</exp>e est
@@ -17707,7 +17696,7 @@ trois assictes comme dess<exp>us</exp>
 
 <head>Pour faire <m>vernys Jaulne</m></head>
 
-<ab>Prenes dela <m>Gaulme arrabic</m> &amp; la faictes
+<ab hand="handd">Prenes dela <m>Gaulme arrabic</m> &amp; la faictes
 <del>tr</del>destremper<comment rid="c_074v_02"/> aveq<lb/>
 
 de l<m>eaue</m> puys prenes du <m>saffran bien baptu</m> &amp;
@@ -17743,7 +17732,7 @@ dicell<exp>e</exp> estendes v<exp>ost</exp>re <m>verny</m>
 
 <head>Recepte pour <m>Gaulme</m> blanche</head>
 
-<ab>Prenes <m>Sire blanche</m> &amp; dela <m>seruze</m> &amp; ung petict
+<ab hand="handd">Prenes <m>Sire blanche</m> &amp; dela <m>seruze</m> &amp; ung petict
 de <m>poix<lb/>
 
 fine</m> tresbien <tl>pillee</tl> Ensemble &amp; la mectes dedans ung petict<lb/>
@@ -17762,7 +17751,7 @@ brunises ce q<exp>ue</exp> vouldres</ab>
 
 <head><m>Goume</m> verte</head>
 
-<ab>Prenes dela <m>cire verte</m> aveq du <m>vert de Gris</m> ung petict
+<ab hand="handd">Prenes dela <m>cire verte</m> aveq du <m>vert de Gris</m> ung petict
 Et le<lb/>
 
 faictes fondre comme dess<exp>us</exp></ab>
@@ -17774,7 +17763,7 @@ faictes fondre comme dess<exp>us</exp></ab>
 
 <head><comment rid="c_073v_02"/><m>Goume</m> Rouge</head>
 
-<ab>
+<ab hand="handd">
 
 Prenes <m>sire Rouge</m> du <m>Vernilhon</m> &amp; ung petict de <m>poix
 <del>resins</del> <add>resine</add></m><lb/>
@@ -17789,7 +17778,7 @@ comme dessus</ab>
 
 <head><m>Bronze</m> de <m>Cuyvre</m></head>
 
-<ab>Prenes da de <m>verdet</m> &amp; de la
+<ab hand="handd">Prenes da de <m>verdet</m> &amp; de la
 <m>colle claire</m> &amp; le broyes ensemble<lb/>
 
 puys faictes une couche sur v<exp>ost</exp>re <m>boys</m> Et prenes de
@@ -17808,7 +17797,7 @@ verches sur le <m>boys</m> &amp; le polisses aveq du <tl><m>cuyvre</m></tl></ab>
 
 <head><m>Bronze</m> Comme <m>Estaing</m></head>
 
-<ab>Prenes de L<m>estaing de Glasse</m> deux <ms>onces</ms> d<m>argent
+<ab hand="handd">Prenes de L<m>estaing de Glasse</m> deux <ms>onces</ms> d<m>argent
 vif</m> &amp;<lb/>
 
 faictes fondre L<m>estaing de Glace</m> dedans ung <tl>pot</tl> neuf
@@ -17837,7 +17826,7 @@ morceau d<tl><m>estaing</m></tl></ab>
 
 <head>Pour faire <m>Eaue fort</m></head>
 
-<ab>
+<ab hand="handd">
 
 Prenes ung <ms>demy sestier</ms> de <m>vinaigre</m> avecq une
 <ms>once</ms> de <m>verd<lb/>
@@ -17855,7 +17844,7 @@ mectes ensemble dans une <tl>fiolle de <m>voyrre</m></tl></ab>
 
 <head><m>Or Moulu</m></head>
 
-<ab>Prenes <m>fin or</m> &amp; le mectes sur le <del>bu</del>
+<ab hand="handd">Prenes <m>fin or</m> &amp; le mectes sur le <del>bu</del>
 <tl><m>marbre</m></tl> bien nect &amp; mectes<lb/>
 
 de l<m>eaue fort</m> &amp; commances a broyer puys prenes du
@@ -17872,8 +17861,7 @@ comme assure</ab>
 
 
 <head><comment rid="c_073v_02"/>Pour f<exp>air</exp>e du <m>boys</m> gris</head>
-
-<ab>Il fault prendre de <m>limailhe de fer</m> trois <ms>demy
+<ab hand="handd">Il fault prendre de <m>limailhe de fer</m> trois <ms>demy
 sestier</ms> po<exp>ur</exp><lb/>
 
 xviii <del>s</del> <ms>deniers</ms> <m>dalung de glace</m><comment rid="c_075v_03"/> &amp; pour
@@ -17896,7 +17884,7 @@ menu de gre</ab>
 
 <head>Pour <m>dorer</m> sur le <m>boys</m></head>
 
-<ab>Premierement fault poser une couche de <m>colle bien claire</m>
+<ab hand="handd">Premierement fault poser une couche de <m>colle bien claire</m>
 Et<lb/>
 
 estant seiche vous poseres une couche d<m>ore Jaulne</m> Et quand
@@ -17918,7 +17906,7 @@ pouves trouver<lb/>
 du <pa>figuier</pa> prenes le <m>blanc dung oeuf</m> &amp; le fort
 remuer</ab>
 
-<ab>Et si v<exp>ost</exp>re <m>or</m> Na asses belle couleur vous
+<ab hand="handd">Et si v<exp>ost</exp>re <m>or</m> Na asses belle couleur vous
 prandres de la<lb/>
 
 <m>plume de <al>perdris</al></m> &amp; la feres bruller dedans une
@@ -17935,7 +17923,7 @@ et faictes aller la <m>fumee</m> co<exp>n</exp>tre ce q<exp>ue</exp> vous aures
 
 <head>Pour <m>dorer</m> d<m>or Moleu</m></head>
 
-    <ab>Fault prandre une <ms>coquille</ms> d<m>or</m><comment rid="c_075v_02"/> et auparavant
+<ab hand="handd">Fault prandre une <ms>coquille</ms> d<m>or</m><comment rid="c_075v_02"/> et auparavant
 q<exp>ue</exp> en vouldres<lb/>
 
 travailher vous la mectres tramper avecq de l<m>eaue de Gome</m> Et<lb/>
@@ -17955,7 +17943,7 @@ le poseres avecq un <tl>pinsseau</tl> &amp; le polires avecq une
 
 en coulleur</head>
 
-<ab>
+<ab hand="handd">
 
 Pour le faire noir Il le fault tremper en <m>huille d<pa>olive</pa></m>
 Et<lb/>
@@ -17978,7 +17966,7 @@ dau<exp>ltr</exp>e</ab>
 
 
 
-<ab><comment rid="c_073v_02"/>sy nen trouves Et en couvrir dicell<exp>e</exp> pouldre
+<ab hand="handd"><comment rid="c_073v_02"/>sy nen trouves Et en couvrir dicell<exp>e</exp> pouldre
 led<exp>ict</exp> <m>boys</m><lb/>
 
 Jusques ace quil soit froid &amp; le feres Rebouillir &amp; en
@@ -17997,7 +17985,7 @@ led<exp>ict</exp> <m>boys</m> en boulhant</ab>
 
 <head>Pour faire <m>boys</m> verd</head>
 
-<ab>
+<ab hand="handd">
 
 Fault prandre une <ms>carte</ms> de <m>vinaigre Blanc</m> &amp; une
 <ms>once</ms><lb/>
@@ -18024,7 +18012,7 @@ matieres lespace de trois <ms><tmp>heures</tmp></ms></ab>
 
 <head>Pour faire <m>boys</m> Rouge</head>
 
-<ab>
+<ab hand="handd">
 
 Prenes une <ms>Carte</ms> d<m><bp>urine vieilhe</bp></m> et trois <ms>onces</ms>
 de <m>Garante</m><lb/>
@@ -18042,7 +18030,7 @@ v<exp>ost</exp>re <tl>pot</tl><lb/>
 
 <head>Pour le faire Bleu</head>
 
-<ab>
+<ab hand="handd">
 
 Prenes une <ms>carte</ms> d<m><bp>urine</bp></m> comme dessus et une
 <ms>once</ms> d<m>alung</m><lb/>
@@ -18061,7 +18049,7 @@ du verd</ab>
 
 <head>Pour le faire Violet</head>
 
-<ab>
+<ab hand="handd">
 
 Prenes une <ms>carte</ms> d<m><bp>hurine</bp></m> &amp; une <ms>once</ms>
 d<m>alung</m> &amp; deux <ms>dragmes</ms><lb/>
@@ -18077,7 +18065,7 @@ dess<exp>us</exp></ab>
 
 <head>Pour le faire Jaulne</head>
 
-<ab>
+<ab hand="handd">
 
 Prenes <m><bp>hurinne</bp></m> comme dessus Et <m><pa>Guesdre</pa></m> deux
 <ms>onces</ms> &amp; une<lb/>
@@ -18097,7 +18085,7 @@ comme dessus</ab>
 
 &amp; de peu de despance</head>
 
-<ab>Premierement prenes <m>Escorce d<pa>oranges</pa></m> bien Jaulne
+<ab hand="handd">Premierement prenes <m>Escorce d<pa>oranges</pa></m> bien Jaulne
 &amp;<lb/>
 
 les nettoies bien du blanc qui est dedans &amp; les<lb/>
@@ -18125,7 +18113,7 @@ vous vouldres &amp; vous verres une fort belle coulleur</ab>
 
 <head>Pour faire <m>Goumiche noyre</m></head>
 
-<ab>Prenes de la <m>colle</m> &amp; la destrampes aveq du
+<ab hand="handd">Prenes de la <m>colle</m> &amp; la destrampes aveq du
 <m>vinaigre</m><lb/>
 
 &amp; la faictes fondre et quelle soit bien claire et prenes du<lb/>
@@ -18143,7 +18131,7 @@ puys le poses sur <m>boys</m></ab>
 
 <head>Pour La Blanche</head>
 
-<ab>Fault prandre de la <m>Cire blanche</m> aveq de la
+<ab hand="handd">Fault prandre de la <m>Cire blanche</m> aveq de la
 <m>Ceruze</m><lb/>
 
 et fondes le tout ensemble &amp; le couches sur
@@ -18161,7 +18149,7 @@ au<exp>ltr</exp>e chose</ab>
 
 <m>Estaing</m></head>
 
-<ab>Premierement Il fault laver ce q<exp>ue</exp> lon veuld dorer<lb/>
+<ab hand="handd">Premierement Il fault laver ce q<exp>ue</exp> lon veuld dorer<lb/>
 
 dedans <m>lye de vin</m> Et puis de Rechief le laver aveq du <m>vin<lb/>
 
@@ -18247,7 +18235,7 @@ bien choisie &amp; doulce</ab>
 
 plusieurs sortes</head>
 
-<ab>Pour faire <m>vernys</m> excellant d<m>eaue claire</m> duquel uzeras
+<ab hand="handd">Pour faire <m>vernys</m> excellant d<m>eaue claire</m> duquel uzeras
 aveq le<lb/>
 
 <tl>pinceau</tl> Et Incontinant seiche pour mectre sur <m>pappier</m>
@@ -18255,7 +18243,7 @@ tablette ou<lb/>
 
 au<exp>ltr</exp>e piece</ab>
 
-<ab>Premierement tu prandras Cinq <ms>onces</ms> d<m>eau de vye</m> et
+<ab hand="handd">Premierement tu prandras Cinq <ms>onces</ms> d<m>eau de vye</m> et
 une <ms>once</ms><lb/>
 
 de <m>betjoin</m> pillez entre deux <m>pappiers</m> ou <m>cartes</m> ou
@@ -18270,7 +18258,7 @@ en ung <tl>mortier</tl></ab>
 
 
 
-<ab><comment rid="c_077v_04"/>mais quil ne soit pas trop menu puis prandre une <del><ill/></del>
+<ab hand="handd"><comment rid="c_077v_04"/>mais quil ne soit pas trop menu puis prandre une <del><ill/></del>
 <tl>fiolle<lb/>
 
 de <m>verre</m></tl> moienement grande Et y mectre de ses deux<lb/>
@@ -18308,7 +18296,7 @@ noble</ab>
 
 <head>Aultre <m>vernys</m> aprouve</head>
 
-<ab>Prens deux <ms>onces</ms> d<m>huille de <pa>lin</pa></m> &amp; deux
+<ab hand="handd">Prens deux <ms>onces</ms> d<m>huille de <pa>lin</pa></m> &amp; deux
 <ms>onces</ms> d<m>huille<lb/>
 
 petrolle</m> et deux <ms>onces</ms> de <m>masticq</m> le plus blanc
@@ -18334,7 +18322,7 @@ peu sur les <m>cendres</m> chauldes et tu verras du beau
 
 <head>Aultre <m>verny</m></head>
 
-<ab>Prendz de l<m>huille petrolle</m> &amp; de l<m>huille
+<ab hand="handd">Prendz de l<m>huille petrolle</m> &amp; de l<m>huille
 d<pa>aspic</pa></m> aultant<lb/>
 
 dun q<exp>ue</exp> dau<exp>ltr</exp>e &amp; le mectz ensemble aveq de la
@@ -18355,7 +18343,7 @@ couches sur la besogne q<exp>ue</exp> tu vouldras vernir</ab>
 
 <head>Aultre <m>verny</m></head>
 
-<ab>Prens une <ms>once</ms> d<m>huille d<pa>aspic</pa></m> &amp; du
+<ab hand="handd">Prens une <ms>once</ms> d<m>huille d<pa>aspic</pa></m> &amp; du
 <m>sang <del>de ra<del>ie</del>y</del><comment rid="c_077v_02"/> <add>da
 Rac</add></m><comment rid="c_077v_03"/> &amp; fais
 
@@ -18370,7 +18358,7 @@ Rac</add></m><comment rid="c_077v_03"/> &amp; fais
 
 
 
-<ab><comment rid="c_077v_04"/>fondre ses <m>drogues</m> dedans un <tl>pot de <m>terre</m></tl>
+<ab hand="handd"><comment rid="c_077v_04"/>fondre ses <m>drogues</m> dedans un <tl>pot de <m>terre</m></tl>
 noeuf &amp; quand<lb/>
 
 Il sera fondu tu le passeras en un <tl><m>drappeau</m></tl> nect
@@ -18386,7 +18374,7 @@ tu verras de beau <m>verny</m></ab>
 
 <head>Aultre <m>verny</m></head>
 
-<ab>Prens une <ms>once</ms> d<m>huille d<pa>aspic</pa></m> &amp; la fais
+<ab hand="handd">Prens une <ms>once</ms> d<m>huille d<pa>aspic</pa></m> &amp; la fais
 chauffer sur les<lb/>
 
 <m>charbons</m> &amp; puys prens <ms>demye once</ms> de <m>sang
@@ -18418,7 +18406,7 @@ de<lb/>
 
 <head>Pour faire v<m>erny Rouge</m></head>
 
-<ab>Prens du <m>vermilhon</m> &amp; le fais tremper aveq de l<m>eau
+<ab hand="handd">Prens du <m>vermilhon</m> &amp; le fais tremper aveq de l<m>eau
 de<lb/>
 
 goume</m> ainsin q<exp>ue</exp> dau<exp>ltr</exp>e <m>eau</m> et en fais
@@ -18437,7 +18425,7 @@ couche comme devant <del>pour faire trois verd</del></ab>
 
 <head>Pour faire <m><del>tr</del>bois</m><comment rid="c_078r_03"/> verd<comment rid="c_078r_02"/></head>
 
-<ab>Prenes du <m>vinaigre bien fort</m> du <m>sel</m> &amp; de l<m>eau
+<ab hand="handd">Prenes du <m>vinaigre bien fort</m> du <m>sel</m> &amp; de l<m>eau
 de pluye</m><lb/>
 
 et fault mectre le tout ensemble aveq du <m>verd de Grys</m><lb/>
@@ -18459,7 +18447,7 @@ de huict ou neuf <ms><tmp>Jours</tmp></ms></ab>
 
 couleur dassier</head>
 
-    <ab>Prens de l<m>alung de glace</m><comment rid="c_075v_03"/> &amp; de l<m>anthimoyne</m><lb/>
+<ab hand="handd">Prens de l<m>alung de glace</m><comment rid="c_075v_03"/> &amp; de l<m>anthimoyne</m><lb/>
 
 mais Il fault <ms>deux foys aultant</ms> d<m>alung</m> de<lb/>
 
@@ -18487,7 +18475,7 @@ de <al>chien</al></tl></ab>
 
 Couleur dor</head>
 
-<ab>Prens <m>limailhe de cuyvre</m> &amp; de l<m>ocre</m> &amp; de
+<ab hand="handd">Prens <m>limailhe de cuyvre</m> &amp; de l<m>ocre</m> &amp; de
 la<lb/>
 
 <m>goume</m> &amp; de l<m>alung</m> &amp; broye le tout ensemble
@@ -18511,7 +18499,7 @@ de <al>chien</al></tl></ab>
 
 verd</head>
 
-<ab>Prens <m>verd de Gris</m> &amp; le destrampe aveq <m>fort
+<ab hand="handd">Prens <m>verd de Gris</m> &amp; le destrampe aveq <m>fort
 vinaigre</m><lb/>
 
 puys fais tramper ton <m>os</m> ou <m>corne</m> une
@@ -18527,7 +18515,7 @@ puys le mectz en besongne</ab>
 
 <head>Pour faire <m>bronze</m></head>
 
-<ab>Prens <m>Limailhe despaingle</m> &amp; au<exp>ltr</exp>e de
+<ab hand="handd">Prens <m>Limailhe despaingle</m> &amp; au<exp>ltr</exp>e de
 <m>leton</m> &amp; le<lb/>
 
 mectz ensemble &amp; le broye sur ung <tl><m>marbre</m></tl> bien
@@ -18547,7 +18535,7 @@ puys les mectz dedans q<exp>ue</exp>lque <tl>vaisseau</tl> noeuf Et</ab>
 
 
 
-<ab><comment rid="c_077v_04"/>quand tu en vouldras user destrampe le aveq de la<lb/>
+<ab hand="handd"><comment rid="c_077v_04"/>quand tu en vouldras user destrampe le aveq de la<lb/>
 
 <m>colle bien clere</m> &amp; puys tu le coucheras surce q<exp>ue</exp>
 tu<lb/>
@@ -18572,7 +18560,7 @@ lad<exp>icte</exp><lb/>
 
 <head>Pour faire <m>boys</m> Gris</head>
 
-<ab>
+<ab hand="handd">
 
 Prendz de la <m>moullee du grais</m> ___ ___ ___<comment rid="c_079r_01"/> de<lb/>
 
@@ -18592,7 +18580,7 @@ Glace</m><comment rid="c_075v_03"/></ab>
 
 <bp>yeux</bp></m></md></head>
 
-<ab>
+<ab hand="handd">
 
 Prenes de la <m>coupperose blanche</m> &amp; la faictes chauffer<lb/>
 
@@ -18623,7 +18611,7 @@ de <pn>dieu</pn><comment rid="c_079r_02"/> <md>vous vous en trouveres fort bien<
 
 <head>Pour faire <m>bronze</m> en coulleur dor</head>
 
-<ab>
+<ab hand="handd">
 
 Prenes six <ms>onces</ms> d<m>estaing Cacides</m> &amp; aultant de
 <m>souffre<lb/>
@@ -18647,7 +18635,7 @@ l<m>argent vif</m> dedans puys le gectes en ligne puys<lb/>
 
 
 
-<ab><comment rid="c_079v_03"/>et mectes le dedans ung <tl>pot de <m>terre</m></tl> &amp; quil y
+<ab hand="handd"><comment rid="c_079v_03"/>et mectes le dedans ung <tl>pot de <m>terre</m></tl> &amp; quil y
 ayt<lb/>
 
 forces <m>cendres</m> chauldes dessoubz &amp; feres petit a<lb/>
@@ -18669,7 +18657,7 @@ face mal car est maulvaix</md></ab>
 
 <head>Pour faire <m>verny</m></head>
 
-<ab>Prenes <m>Masticq</m> <m>sang <del>daRage</del> <add>darac</add></m><comment rid="c_077v_03"/>
+<ab hand="handd">Prenes <m>Masticq</m> <m>sang <del>daRage</del> <add>darac</add></m><comment rid="c_077v_03"/>
 <m>Gomme aRabic</m> &amp;<lb/>
 
 <m>Huille d<pa>aspic</pa></m> aultant dung q<exp>ue</exp>
@@ -22233,9 +22221,8 @@ d<m>or fin</m> vault 18 ou 20 <ms><cn>s<exp>ols</exp></cn></ms></ab>
 
 <m>foeille de <pa>sauge</pa></m></ab>
 
-<figure id="fig_p094v_1" size="small" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Q29MTEVLUGE5RGs">
-<caption>le <tl>banc <lb/>
-des fourreaux</tl></caption></figure>
+<ab margin="left-middle">le <tl>banc<lb/>
+des fourreaux</tl><lb/><figure id="fig_p094v_1" size="small" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Q29MTEVLUGE5RGs"/></ab>
     
 </div>
  
@@ -22288,32 +22275,22 @@ ou <tl><m>coux</m></tl> qui faict bien souvent des rayeures</ab>
 </figure>
 
 <ab margin="left-middle">
-    <figure size="small" id="fig_p094v_8" link="https://drive.google.com/open?id=1Hsga43MIuoLIOrj7I5IKQCRAEEXW75uv">
-</figure>
-    
-    <figure size="x-small" id="fig_p094v_4" link="https://drive.google.com/open?id=1cE1kYyCx4GXgsYAIEb9Mp1ppcOGYyK_m">
-<caption>a</caption>
-</figure>
-    
-    <figure size="x-small" id="fig_p094v_5" link="https://drive.google.com/open?id=17W0Rwiq0U0501jXvYvO8kF_FYjeiNtcx">
-<caption>b</caption>
-</figure>   
+<figure size="small" id="fig_p094v_8" link="https://drive.google.com/open?id=1Hsga43MIuoLIOrj7I5IKQCRAEEXW75uv"/>  
+a<figure size="x-small" id="fig_p094v_4" link="https://drive.google.com/open?id=1cE1kYyCx4GXgsYAIEb9Mp1ppcOGYyK_m"/>
+b<figure size="x-small" id="fig_p094v_5" link="https://drive.google.com/open?id=17W0Rwiq0U0501jXvYvO8kF_FYjeiNtcx"/>   
 </ab>
-
-    <figure size="small" id="fig_p094v_6" margin="left-middle" link="https://drive.google.com/open?id=1TAYIJ3T-ElLyUZO0P0CX8t0BPIupl1hP">
-        <caption>
-            c<lb/>
-            le <tl><m>flin</m></tl> ou <tl><m>pierre<lb/>
-                de fouldre</m></tl></caption>
-    </figure>
-
-    <figure size="small" id="fig_p094v_7" margin="left-middle" link="https://drive.google.com/open?id=1HhpPaiH0I9np_aklEzw8tpDV12AM3zD1">
-<caption>
+<ab margin="left-middle">
+<figure size="small" id="fig_p094v_6" link="https://drive.google.com/open?id=1TAYIJ3T-ElLyUZO0P0CX8t0BPIupl1hP"/>
+ 
+c<lb/>
+le <tl><m>flin</m></tl> ou <tl><m>pierre<lb/>
+de fouldre</m></tl>
+ 
+<figure size="small" id="fig_p094v_7" link="https://drive.google.com/open?id=1HhpPaiH0I9np_aklEzw8tpDV12AM3zD1"/>
 D<lb/>
 le <tl>baston<lb/>
-a <m>felinder</m></tl></caption>
-</figure>
-
+a <m>felinder</m></tl>
+</ab>
 
 <ab>Pour mieulx faire <del>coupp</del> trancher les <wp>espees</wp> on leur donne
 le fil<lb/>
@@ -23724,7 +23701,7 @@ ou lieu humide</env> et il se convertira en liqueur de laquelle<lb/>
 si tu frottes les vitres <add>des deux costes</add> le <env>soleil</env>
 ne passera point<lb/>
 
-a travers ains fera ombre Il fault mectre le <m>salpestre</m><lb/>
+a travers ains fera <env>ombre</env> Il fault mectre le <m>salpestre</m><lb/>
 
 sur quelque <del>chose</del> <add>place</add> nette &amp; <del>la</del>
 mectre dessus des <tl>charbons allumes</tl><lb/>
@@ -27553,7 +27530,7 @@ mesme<lb/>
 <m>terre</m> en ceste sorte
 
     <figure size="small" id="fig_p113r_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aW1sekxQWGJJY0E">
-</figure> &amp; le joings bien tout<lb/>
+</figure> <add>b</add> &amp; le joings bien tout<lb/>
 
 au circuict puys avecq un grand <tl>costeau</tl> avecq lequel tu<lb/>
 
@@ -28592,19 +28569,13 @@ ne se gaulchissent<lb/>
 
 en recuisant</ab>
 
-<figure id="fig_p115r_3" size="small" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aS1ZeHc2dGxJTE0">
+<ab margin="left-top"><figure id="fig_p115r_3" size="small" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aS1ZeHc2dGxJTE0">
 </figure>
-
-<figure id="fig_p115r_4" size="small" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Xzg4WTZ2NFNkOHM">
-<caption>Cest la forme des <tl>crampons</tl></caption>
-</figure>
+<figure id="fig_p115r_4" size="small" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Xzg4WTZ2NFNkOHM"/>
+Cest la forme des <tl>crampons</tl>
+</ab>
     
-
 </div>
-
-
-
-
 
 
 <div id="p115r_2" categories="casting">
@@ -29480,11 +29451,8 @@ fault que le<lb/>
 
 <m>sable</m> soict clair</ab>
 
-<figure id="fig_p117r_3" size="small" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dVB5bzVUWWJuS0U">
-<caption><tl>Moule en noyau</tl></caption>
-
-</figure>
-
+<ab margin="left-middle"><figure id="fig_p117r_3" size="small" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dVB5bzVUWWJuS0U"/>
+<tl>Moule en noyau</tl></ab>
 </div>
 <div id="p117v_1" categories="casting">
 
@@ -30638,7 +30606,7 @@ lescorcher &amp; le mectre dans <m>bonne chaulx vive</m></ab>
 
 <head>Fayre courre l<m>argent</m></head>
 
-<ab render="wide"><comment rid="c_120v_08"/>Si cest pour grand ouvrage L<m>arsenic</m> &amp; le <m>tartre
+<ab render="wide" cancelled="y"><comment rid="c_120v_08"/>Si cest pour grand ouvrage L<m>arsenic</m> &amp; le <m>tartre
 pulverises</m><lb/>
 
 &amp; gectes sur l<m>argent fondu</m> le font courre <del>Si cest
@@ -30669,7 +30637,7 @@ drogues susdictes <m>arsenic</m> <m>tartre</m> <m><la>æs ustum</la></m>
 <ab><emph>Voy</emph>
 le second foeillet suivant<comment rid="c_120v_04"/></ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" cancelled="y">
 <emph><la>Siscitatio<lb/>
 
 dubia</la></emph><comment rid="c_120v_07"/>
@@ -30921,7 +30889,7 @@ deslie Apres<lb/>
 
 seiche le bien<lb/>
 
-au <env>soleil</env> pour<lb/>
+<env>au soleil</env> pour<lb/>
 
 luy oster toute<lb/>
 
@@ -31275,12 +31243,14 @@ Mays cest quand ils sont petits</ab>
 
     <figure size="small" id="fig_p122r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5ZDJlZ0g5OXNKeDQ">
     </figure>
-    
-    <figure size="small" id="fig_p122r_3" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UDgyYnNSZnlndjg">
-    </figure>
-    
-    <figure size="small" id="fig_p122r_4" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5elo4VzJZRUppOWc">
-    </figure>
+    <ab margin="left-middle" cancelled="y">
+        <figure size="small" id="fig_p122r_3" link="https://drive.google.com/open?id=0B9-oNrvWdlO5UDgyYnNSZnlndjg">
+        </figure>
+        
+        <figure size="small" id="fig_p122r_4" link="https://drive.google.com/open?id=0B9-oNrvWdlO5elo4VzJZRUppOWc">
+        </figure>
+    </ab>
+
     
     
 </div>
@@ -37498,7 +37468,7 @@ eulx qui sont delicats Et qui seroient malaises a descouv<ups>rir</ups><lb/>
 sans rompre Tu feras mieulx de faire le premier gect<lb/>
 
 sur le ventre &amp; les oeufs affin quil <del>te</del> ne te faille
-descou<ups>rir</ups><lb/>
+descou<ups>vrir</ups><lb/>
 
 que sur le dos qui est dur, &amp; facile a manier Et le ventre<lb/>
 
@@ -38831,13 +38801,10 @@ ne seroit pas en despouille</ab>
 
 <emph><la>Inquire</la></emph><comment rid="c_145r_05"/>
 </ab>
-
-    <figure size="x-small" id="fig_p145r_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MXRaSldvRzY2UTg">
-
-
-
-<caption>A</caption>
-</figure>
+<ab margin="left-middle"><figure size="x-small" id="fig_p145r_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5MXRaSldvRzY2UTg"/>
+A
+</ab>
+    
 </div>
 
 <div id="p145r_2" categories="casting" continued="yes">
@@ -42554,7 +42521,7 @@ de farine</m></ab>
 <head><comment rid="c_157v_02"/>Po<exp>ur</exp> f<exp>air</exp>e h<exp>…</exp> vin
 f<exp>…</exp>rs<comment rid="c_157v_01"/></head>
 
-<ab render="full">Prenez un <tl>chausson du <bp>pied droi<del>d</del>t</bp><comment rid="c_157v_03"/>
+<ab render="full" hand="handa'">Prenez un <tl>chausson du <bp>pied droi<del>d</del>t</bp><comment rid="c_157v_03"/>
 qui ait este porte</tl> et le faictes<lb/>
 
 <del>boyre au</del> tremper en <m>eau</m> et de l<m>eau</m>
@@ -43312,7 +43279,7 @@ grossier<lb/>
 
 &amp; pour ceste cause il ny fault pas trop de <m>sel armoniac</m></ab>
 
-<ab margin="left-top">
+<ab margin="left-top" hand="handa'">
 <comment rid="c_161r_05"/><mark>#</mark><lb/>
 
 <emph><la>nota</la></emph> quil fault<lb/>
@@ -43397,7 +43364,7 @@ Aultres bruslent plusieurs fois la <m>limaille</m> sur une<lb/>
 <m>vinaigre</m></ab>
 
 </div>
-<div id="p162r_1" categories="La boutique">
+<div id="p162r_1" categories="La boutique" part="y">
 
 <head>Pour la <env>boutique</env></head>
 
@@ -43430,7 +43397,7 @@ marchandise</underline></emph>
 
 </ab>
 </div>
-<div>
+<div id="p162r_1" categories="La boutique" part="y">
 <ab>
 
 <pn>Herodote</pn> au premier foeuillet de <el>Clio</el> dict que les
@@ -43451,7 +43418,7 @@ Galeres</emph>
 
 </ab>
 </div>
-<div>
+<div id="p162r_1" categories="La boutique" part="y">
 <ab>
 
 <pn>Herod.</pn> au 3 foeuillet dict que <pn>Gyges</pn><comment rid="c_162r_11"/>
@@ -43467,7 +43434,7 @@ Vases d<m>or</m></emph>
 
 </ab>
 </div>
-<div>
+<div id="p162r_1" categories="La boutique" part="y">
 <ab>
 
 <pn>Herod.</pn> <pn>Halyattes</pn><comment rid="c_162r_07"/> pere de <pn>croesus</pn><comment rid="c_162r_09"/>
@@ -45346,7 +45313,7 @@ attirant a toy Engrossis plustost que mouler la queue avecq de la
 
 
 <head><sup>Première page d'origine (1578–1579)</sup></head>
-<ab>
+<ab cancelled="y" hand="hande">
 <comment rid="c_170v_12"/>L<tmp>an</tmp> mil cinq cens septante huict le deuxiesme de <tmp>Juillet</tmp> a este faict<lb/>
 
 Transport aulx heritiers d<del>e</del>u<comment rid="c_170v_29"/> feu <pn>s<exp>ieu</exp>r
@@ -45355,7 +45322,7 @@ ouvryer</pn><comment rid="c_170v_13"/> <del>deux cens cinq <cn>escu<ups>s</ups><
 du Rentement de <pl>S<exp>ainc</exp>t frajou</pl><comment rid="c_170v_14"/> montant douze cens trente
 <cn>livres</cn></ab>
 
-<ab>Autre transport leur a este faict sur les fruictz de l<tmp>annee</tmp><lb/>
+<ab cancelled="y" hand="hande">Autre transport leur a este faict sur les fruictz de l<tmp>annee</tmp><lb/>
 
 mil cinq cens septante neuf de <del>deux</del>
 <add>trois</add> cens quarante trois
@@ -45363,7 +45330,7 @@ mil cinq cens septante neuf de <del>deux</del>
 
 un tiers <del>sur qu</del></ab>
 
-<ab>Et leur reste sur la premiere annee quatre vintg <cn>livres</cn> quinz<ups>e</ups>
+<ab cancelled="y" hand="hande">Et leur reste sur la premiere annee quatre vintg <cn>livres</cn> quinz<ups>e</ups>
  <ups><figure size="x-small" id="fig_p170v_2" link="https://drive.google.com/file/d/1pPcyOohw3Aygar2ODD_l8U8YEBHXG806"/></ups><comment rid="c_170v_03"/><lb/>
 Et sur la seconde Judication nont encore rien Repceu<hr/></ab>
 </div>
