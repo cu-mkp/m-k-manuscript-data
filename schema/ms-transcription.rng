@@ -59,6 +59,9 @@
       <optional>
         <ref name="a.cancelled"/>
       </optional>
+      <optional>
+        <ref name="a.hand"/>
+      </optional>
       <ref name="m.phrase"/>
     </element>
   </define>
@@ -398,6 +401,21 @@
         <value>y</value>
         <value>n</value>
       </choice>
+    </attribute>
+  </define>
+  
+  <!-- size -->
+  <define name="a.hand">
+    <a:documentation>Hand: Indicates that an ab has been written by a hand other than the main hand of the author-practitioner, hand a. Valid values are: "handa'", "handb", "handc", and "handd"</a:documentation>
+    <attribute name="size">
+      <optional>
+        <choice>
+          <value>handa'</value>
+          <value>handb</value>
+          <value>handc</value>
+          <value>handd</value>
+        </choice>
+      </optional>
     </attribute>
   </define>
   

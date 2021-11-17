@@ -34,6 +34,7 @@ e.ab =
     a.margin?,
     a.render?,
     a.cancelled?,
+    a.hand?,
     m.phrase
   }
 # div
@@ -211,6 +212,10 @@ a.part = attribute part { "y" | "n" }
 
 ## Cancelled: Indicates that an ab has been stricken out (or cancelled) in the original. Values are "y" and "n".
 a.cancelled = attribute cancelled { "y" | "n" }
+# size
+
+## Hand: Indicates that an ab has been written by a hand other than the main hand of the author-practitioner, hand a. Valid values are: "handa'", "handb", "handc", and "handd"
+a.hand = attribute size { ("handa'" | "handb" | "handc" | "handd")? }
 #
 
 # LANGUAGE ELEMENTS
