@@ -414,6 +414,7 @@
           <value>handb</value>
           <value>handc</value>
           <value>handd</value>
+          <value>hande</value>
         </choice>
       </optional>
     </attribute>

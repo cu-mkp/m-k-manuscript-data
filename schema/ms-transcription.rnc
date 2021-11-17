@@ -215,7 +215,8 @@ a.cancelled = attribute cancelled { "y" | "n" }
 # hand
 
 ## Hand: Indicates that an ab has been written by a hand other than the main hand of the author-practitioner, hand a. Valid values are: "handa'", "handb", "handc", and "handd"
-a.hand = attribute hand { ("handa'" | "handb" | "handc" | "handd")? }
+a.hand =
+  attribute hand { ("handa'" | "handb" | "handc" | "handd" | "hande")? }
 #
 
 # LANGUAGE ELEMENTS
