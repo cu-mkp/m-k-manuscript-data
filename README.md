@@ -6,6 +6,8 @@
 
 Working files and data for the XML transcription and translation of Making and Knowing Project's Digital Critical Edition (DCE) of BnF Ms Fr 640. The repository contains the text of the manuscript in multiple formats, metadata about the manuscript, and derived data.
 
+As the the main working repository for [cu-mkp](https://github.com/cu-mkp), this repository also functions as a larger, more general M&K project management tool.
+
 https://www.makingandknowing.org/
 
 _Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_
