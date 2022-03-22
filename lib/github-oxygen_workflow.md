@@ -179,11 +179,14 @@ Problem of multi-word search terms being interrupted by arbitrary line breaks, e
 - `rm -fr [name of repository]` _(removing the contents of the repository to re-clone it)_
   - For example,
     - `rm -fr m-k-manuscript-data`
-- `history | grep clone` _(this gives you when you last ran that command)_
-- _Provides a number of the last instance it was run_
-- `![number provided]`
-  - For example,
-    - `!30`
+- option 1:
+    - `git clone [SSH URL from github]` (e.g., git@github.com:cu-mkp/m-k-manuscript-data.git)
+- option 2, if you have recently run a clone of this repo and likely have it stored in your command history:
+     - `history | grep clone` _(this gives you when you last ran that command)_
+     - _Provides a number of the last instance it was run_
+     - `![number provided]`
+         - For example,
+         - `!30`
 
 ## CHECK YOUR BRANCH AND MAKE SURE IT IS CORRECT
 
