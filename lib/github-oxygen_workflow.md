@@ -204,7 +204,7 @@ Problem of multi-word search terms being interrupted by arbitrary line breaks, e
 
 ```
 git checkout -b [name of branch e.g. issue 73]
-(this creates a new branch named &quot;issue73&quot;)
+(this creates a new branch named "issue73")
 git branch (to check you're in the new branch (issue73)
 ```
 
