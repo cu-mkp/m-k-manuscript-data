@@ -77,7 +77,7 @@ git pull
     2. Assign the appropriate project label (`Consistency issues in ms text`)
     3. If applicable, assign an editor to complete the task
 7. Click "Submit New Issue"
-8. 
+
 _**Newly created issues (if tagged with the project label) will automatically be moved into the "TO DO" board of our "Consistency issues" GitHub project**_
 
 ### ADDITIONAL INFO: PROJECTS IN GITHUB
