@@ -214,9 +214,11 @@ git branch (to check you're in the new branch (issue73)
 
 ## GITHUB - CREATE A DIRECTORY (on the command line):
 
-- Better to create a file to put into the not-yet-created directory
+- Git(hub) can have trouble with empty directories, so it is better to create a file to put into the not-yet-created directory
+- Create a file
+- Make a directory:
   - `mkdir [directory name]`
-- Then, EITHER: Copy or move an existing file into the directory
+- Then, EITHER: Copy or move the existing file into the directory
     - `cp [file name] [directory name]`
     - `mv [file name] [directory name]`
 
