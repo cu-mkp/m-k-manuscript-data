@@ -20,8 +20,8 @@ The following workflow was first created in February 2019 as part of an XML-edit
 7. In oXygen:
   1. Refresh content of m-k-manuscript-data (you will need to refresh the highest level of your directory for it to register the current directory)
   2. Make changes to files, typically a find/replace campaign
-    1. NB: Assume that there may be any number of spaces between the words in a phrase you are searching for. You may select "Ignore extra whitespace" to address this.
-    2. Otherwise, you can also locate target phrases by the smallest component to match (e.g., &quot;vye&quot; or &quot;eau de&quot; when looking for &quot;eau de vye&quot;)
+      1. NB: Assume that there may be any number of spaces between the words in a phrase you are searching for. You may select "Ignore extra whitespace" to address this.
+      2. Otherwise, you can also locate target phrases by the smallest component to match (e.g., &quot;vye&quot; or &quot;eau de&quot; when looking for &quot;eau de vye&quot;)
 8. Add file in local repository for tracking in github repository, and add a short comment about the task. By using the `#` symbol, you will link this commit to the open issue.
   ```
   git add .
@@ -35,13 +35,13 @@ The following workflow was first created in February 2019 as part of an XML-edit
   1. For translation work, list all variants used, any problems, etc.
   2. List updates to VOCAB list (the glossary or dictionary)
   3. About find/replace presets: it is assumed that no search options are checked (e.g., "case sensitive" or "whole words only")
-    1. If any are checked, specify in comment
+      1. If any are checked, specify in comment
   4. If task could not be completed, apply the label `blocked` to the issue
-    1. Do not close the issue, and update with comments about what problems there were or what needs to be resolved
+      1. Do not close the issue, and update with comments about what problems there were or what needs to be resolved
 11. If work is complete, close the issue
 12. Submit a pull request in github interface (browser) to merge your issue branch with master
-  1. Github will often prompt you to create a pull request by navigate to that Pull Requests page
-  2. Otherwise: in branch dropdown menu, select the branch you want to merge, then hit the "new pull request"
+    1. Github will often prompt you to create a pull request by navigate to that Pull Requests page
+    2. Otherwise: in branch dropdown menu, select the branch you want to merge, then hit the "new pull request"
 13. THC (Terry Catapano) or NJR (Naomi Rosenkranz) will merge unless there are conflicts to be resolved
 14. AFTER ALL HAS BEEN MERGED UP IN THE CLOUD… you don't want to be working in a merged branch on your local repository, so… in the command line:
 ```
@@ -70,12 +70,12 @@ git pull
 2. Navigate to the "Issues" tab
 3. Click "New Issue"
 4. In the "title" bar, give a brief descriptive title so that the issue can be grasped at a glance
-  1. A good issue should be discrete, clear, actionable, and resolvable
+    1. A good issue should be discrete, clear, actionable, and resolvable
 5. In the "Leave a comment" text box, elaborate on the issue
 6. For project management, all issues should have at least one label and be assigned to at least one Github project
-  1. Assign the appropriate labels (e.g., `consistency`,`translation` / `markup`, and `straightforward` / `problematic`
-  2. Assign the appropriate project label (`Consistency issues in ms text`)
-  3. If applicable, assign an editor to complete the task
+    1. Assign the appropriate labels (e.g., `consistency`,`translation` / `markup`, and `straightforward` / `problematic`
+    2. Assign the appropriate project label (`Consistency issues in ms text`)
+    3. If applicable, assign an editor to complete the task
 7. Click "Submit New Issue"
 _**Newly created issues (if tagged with the project label) will automatically be moved into the "TO DO" board of our "Consistency issues" GitHub project**_
 
