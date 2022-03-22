@@ -27,7 +27,7 @@ The following workflow was first created in February 2019 as part of an XML-edit
   git add .
   git commit -m '#[issue##]: [commit message]' (commits your changes to git and creates an automatic link in the commit message to the issue in question)
   ```
-9. Push to the remote server (for the first time, MUST BE TRACKED)
+9. Push to the remote server (for the first time, MUST BE TRACKED, using `-u`)
   ```
   git push -u origin [branchname]
   ```
