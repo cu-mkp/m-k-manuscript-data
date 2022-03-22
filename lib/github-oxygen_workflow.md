@@ -212,7 +212,7 @@ git branch (to check you're in the new branch (issue73)
 
 - [https://code.likeagirl.io/how-to-undo-the-last-commit-393e7db2840b](https://code.likeagirl.io/how-to-undo-the-last-commit-393e7db2840b)
 
-## GITHUB - CREATE A DIRECTORY (from the directory):
+## GITHUB - CREATE A DIRECTORY (on the command line):
 
 - Better to create a file to put into the not-yet-created directory
   - `mkdir [directory name]`
