@@ -175,6 +175,7 @@ Problem of multi-word search terms being interrupted by arbitrary line breaks, e
 
 ### RE-CLONE REPOSITORY IF IT IS OUT OF DATE AND YOU DO NOT WANT TO SAVE/PUSH ANY LOCAL CHANGES
 
+- navigate to the directory containing the repository
 - `rm -fr [name of repository]` _(removing the contents of the repository to re-clone it)_
   - For example,
     - `rm -fr m-k-manuscript-data`
