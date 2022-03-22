@@ -119,8 +119,8 @@ _**Newly created issues (if tagged with the project label) will automatically be
   - Don&#39;t select whole words only (that would only give you &quot;mould&quot; not &quot;moulds&quot; or &quot;moulds&quot;
   - Ignore white space
     - NB: Assume that there may be any number of spaces between the words in a phrase you are searching for. You may select &quot;Ignore extra whitespace&quot; to address this. Otherwise, you can also locate target phrases by the smallest component to match (e.g., &quot;vye&quot; or &quot;eau de&quot; when looking for &quot;eau de vye&quot;)
-  - Enable XML search options
-    - &quot;Search only in: Element names&quot; = search only in the tag titles (e.g., tl → tool tag)
+  - Enable XML search options"
+    - &quot;Search only in: Element names&quot; = search only in the tag titles [i.e., "element names"] (e.g., tl → tool tag)
     - &quot;Search only in: Element contents&quot; = search only in the text NOT the tag titles
   - Scope
     - Allows to search within a parts of the project or its entirety
