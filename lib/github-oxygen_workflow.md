@@ -159,8 +159,8 @@ Problem of multi-word search terms being interrupted by arbitrary line breaks, e
   - search for `de-v[iy]e`
     - that is, &quot;de&quot; followed by a &quot;-&quot; followed by a &quot;v&quot; followed by either an &quot;i&quot; or a &quot;y&quot; followed by an &quot;e&quot;. The square brackets in the expression form a character class which defines a set of characters to match; i.e., &quot;i&quot; or &quot;y&quot;
   - To find all the cases where &quot;de&quot; is followed by whitespace and then &quot;vie&quot; or &quot;vye&quot;, search `de\s+v[iy]e`;
-    - that is, &quot;de&quot; followed by 1 or more (designated by the &quot;+&quot; character) whitespace characters (space, tab, return) followed by a &quot;v&quot; followed by either an &quot;i&quot; or a &quot;y&quot; followed by an &quot;e&quot;.
-    - The `\s` is a shorthand character class which matches against a built-in, predefined set of characters, in this case all whitespace characters. Often you can specify the inverse (or negation) of shorthand character classes by using the corresponding upper-case character after the slash. So, `\S` matches against all non-whitespace characters.
+    - that is, &quot;de&quot; followed by 1 or more (designated by the &quot;+&quot; character) whitespace characters (e.g., space, tab, return) followed by a &quot;v&quot; followed by either an &quot;i&quot; or a &quot;y&quot; followed by an &quot;e&quot;
+    - The `\s` is a shorthand character class which matches against a built-in, predefined set of characters, in this case all whitespace characters. Often you can specify the inverse (or negation) of shorthand character classes by using the corresponding upper-case character after the slash. So, `\S` matches against all non-whitespace characters
     - A couple other useful shorthand character classes in Oxygen&#39;s regular expression syntax are:
       - `\w` alphanumeric character (a &quot;word&quot; character&quot;) and its inverse `\W`: non-alphanumeric character
       - `\d` digit character (i.e., 0-9) and its inverse `\D` non-digit character
