@@ -12,6 +12,14 @@
       <attribute name="image">
         <data type="anyURI"/>
       </attribute>
+      <optional>
+        <attribute name="layout">
+        <choice>
+          <value>three-column</value>
+          <value>four-column</value>
+        </choice>
+      </attribute>
+      </optional>
       <mixed>
         <oneOrMore>
           <choice>
@@ -47,6 +55,12 @@
       </optional>
       <optional>
         <ref name="a.render"/>
+      </optional>
+      <optional>
+        <ref name="a.cancelled"/>
+      </optional>
+      <optional>
+        <ref name="a.hand"/>
       </optional>
       <ref name="m.phrase"/>
     </element>
@@ -230,13 +244,6 @@
     </element>
   </define>
 
-  <!-- unc -->
-  <define name="e.unc">
-    <a:documentation>Unclear: Text which has been transcribed but with some uncertainty</a:documentation>
-    <element name="unc">
-      <ref name="m.phrase"/>
-    </element>
-  </define>
 
   <!-- underline -->
   <define name="e.underline">
@@ -285,7 +292,7 @@
 
   <!-- margin -->
   <define name="a.margin">
-    <a:documentation>Margin (position): the location in the margin at which the parent element appears in the source document. Valid values are: "right-top", "right-middle", "right-bottom", "left-top", "left-middle", "left-bottom", "top", and "bottom"</a:documentation>
+    <a:documentation>Margin (position): the location in the margin at which the parent element appears in the source document. Valid values are: "right-top", "right-middle", "right-bottom", "left-top", "left-middle", "left-bottom", "top", "bottom", and "full"</a:documentation>
     <attribute name="margin">
       <optional>
         <choice>
@@ -297,6 +304,7 @@
           <value>right-bottom</value>
           <value>top</value>
           <value>bottom</value>
+          <value>full</value>
         </choice>
       </optional>
     </attribute>
@@ -304,13 +312,13 @@
 
   <!-- render -->
   <define name="a.render">
-    <a:documentation>Margin rendition: Instructions to cue the proper rendition of the height and width  a margin block. Valid values are: "tall", "wide", and "extra-wide"</a:documentation>
+    <a:documentation>Margin rendition: Instructions to cue the proper rendition of the height and width  a margin block. Valid values are: "tall", "wide", and "full"</a:documentation>
     <attribute name="render">
       <optional>
         <choice>
           <value>tall</value>
           <value>wide</value>
-          <value>extra-wide</value>
+          <value>full</value>
         </choice>
       </optional>
     </attribute>
@@ -382,6 +390,33 @@
         <value>y</value>
         <value>n</value>
       </choice>
+    </attribute>
+  </define>
+  
+  <!-- cancelled -->
+  <define name="a.cancelled">
+    <a:documentation>Cancelled: Indicates that an ab has been stricken out (or cancelled) in the original. Values are "y" and "n".</a:documentation>
+    <attribute name="cancelled">
+      <choice>
+        <value>y</value>
+        <value>n</value>
+      </choice>
+    </attribute>
+  </define>
+  
+  <!-- hand -->
+  <define name="a.hand">
+    <a:documentation>Hand: Indicates that an ab has been written by a hand other than the main hand of the author-practitioner, hand a. Valid values are: "handa'", "handb", "handc", "handd", and "hande"</a:documentation>
+    <attribute name="hand">
+      <optional>
+        <choice>
+          <value>handa'</value>
+          <value>handb</value>
+          <value>handc</value>
+          <value>handd</value>
+          <value>hande</value>
+        </choice>
+      </optional>
     </attribute>
   </define>
   
@@ -650,7 +685,6 @@
         <ref name="e.underline"/>
         <ref name="e.superscript"/>
         <ref name="e.exp"/>
-        <ref name="e.unc"/>
         <ref name="e.comment"/>
         <ref name="e.hr"/>
         <ref name="e.emph"/>

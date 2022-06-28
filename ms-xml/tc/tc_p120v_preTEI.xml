@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><root page="120v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image">
+<?xml version="1.0" encoding="UTF-8"?><root page="120v" layout="four-column" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image">
 
 
 
@@ -6,7 +6,7 @@
 <div continues="yes" id="p120r_3" categories="casting;animal husbandry">
 
 
-<ab>mange de luy mesme Et pour luy convier
+<ab render="wide">mange de luy mesme Et pour luy convier
 mieulx tu peulx bien<lb/>
 
 mectre parmy la <m>chair &amp; loeuf</m> quelque <m><al>ver de
@@ -21,7 +21,7 @@ car il en est fort friand</ab>
 
 <head><m><la>Crocum ferri</la></m></head>
 
-<ab>Il est excellent <md>sinapise</md> sur les playes pour arrester
+<ab render="wide">Il est excellent <md>sinapise</md> sur les playes pour arrester
 le<lb/>
 
 <bp>sang</bp> Le meilleur est de <m>limaille daiguilles</m></ab>
@@ -47,7 +47,7 @@ il en y a les rend plus mols &amp; doulx</ab>
 
 <head>Anatomie</head>
 
-<ab>Il fault escorcher lanimal &amp; le faire bouillir Ou bien<lb/>
+<ab render="wide">Il fault escorcher lanimal &amp; le faire bouillir Ou bien<lb/>
 
 lescorcher &amp; le mectre dans <m>bonne chaulx vive</m></ab>
 
@@ -58,13 +58,13 @@ lescorcher &amp; le mectre dans <m>bonne chaulx vive</m></ab>
 
 <head>Fayre courre l<m>argent</m></head>
 
-<ab><comment rid="c_120v_08"/>Si cest pour grand ouvrage L<m>arsenic</m> &amp; le <m>tartre
+<ab render="wide" cancelled="y"><comment rid="c_120v_08"/>Si cest pour grand ouvrage L<m>arsenic</m> &amp; le <m>tartre
 pulverises</m><lb/>
 
 &amp; gectes sur l<m>argent fondu</m> le font courre <del>Si cest
 pou</del> et<lb/>
 
-suffist Mays pour ouvrage subtil Il y fault de l<m><la>aes<lb/>
+suffist Mays pour ouvrage subtil Il y fault de l<m><la>æs<lb/>
 
 ustum</la></m> de la <m>limaille <del>de letton</del> <add>cuivre
 menue</add> d<del>u</del>e<comment rid="c_120v_01"/> lantimoyne du sublime
@@ -78,20 +78,19 @@ Si le <del>s</del> <m>plastre</m> est bon il ny fault point de
 
 l<m>argent</m> Mays on mect plus d<m>alum de plume</m><lb/>
 
-<add><comment rid="c_120v_02"/>Il y fault aussy du <m>sel commun
+<comment rid="c_120v_02"/>Il y fault aussy du <m>sel commun
 fondu</m> &amp; du <m>salpestre</m> avecq les<lb/>
 
-drogues susdictes <m>arsenic</m> <m>tartre</m> <m><la>aes ustum</la></m>
+drogues susdictes <m>arsenic</m> <m>tartre</m> <m><la>æs ustum</la></m>
 <m>limaille de cuivre</m><lb/>
 
-<m>antimoyne</m> &amp;</add></ab>
+<m>antimoyne</m> &amp;.</ab>
 
 <ab><emph>Voy</emph>
 le second foeillet suivant<comment rid="c_120v_04"/></ab>
 
-<ab margin="left-middle">
-<comment rid="c_120v_08"/><emph>
-<la>Siscitatio<lb/>
+<ab margin="left-middle" cancelled="y">
+<emph><la>Siscitatio<lb/>
 
 dubia</la></emph><comment rid="c_120v_07"/>
 
@@ -120,7 +119,7 @@ Et de l<m>arsenic</m>
     <figure size="x-small" id="fig_p120v_3" link="https://drive.google.com/file/d/1Sbuw9J8eX42Yhyp56CQoO7gShZRMVkn9"></figure> estat <tmp>toute lannee</tmp></head>
 
 
-<ab>
+<ab render="wide">
 
 Cest un rare secret &amp; qui donne du plaisir pour orner<lb/>
 
@@ -231,7 +230,7 @@ car quand on tire un il fault<lb/>
 tirer tout</ab>
 
 
-<ab margin="bottom">
+<ab margin="bottom" render="wide">
 
 Advise bien de ne coeuillir pas tes fleurs<lb/>
 

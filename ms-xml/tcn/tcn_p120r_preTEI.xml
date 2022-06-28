@@ -26,9 +26,25 @@ moulé en cave pour <al>lesards</al> &amp;<corr>c</corr>.</ab>
 
 </div>
 
+
+<div></div>
+    
+    
 <div id="p120r_2" categories="casting">
 
 <head><m>Sable pour gecter en <m>or</m></m></head>
+
+<ab margin="left-top" render="wide">
+        
+Tu pourrois bien gecter l’<m>or</m> en <m>sable commun des
+<pro>orfevres</pro></m>, mays que tu y bouttes<lb/>
+        
+de la matiere qui faict courre.</ab>
+</div>
+    
+    <div></div>
+    
+    <div id="p120r_2" part="y">
 
 <ab>Prens du <m>sable commun</m>, d’<m>alum</m>, de <m>plastre</m> &amp;
 <m>brique</m>, selon la<lb/>
@@ -55,14 +71,7 @@ ne soict guere espés, car<lb/>
 
 il s’en recuit mieulx.</ab>
 
-<ab margin="left-middle">
-
-Tu pourrois bien gecter l’<m>or</m> en <m>sable commun des
-<pro>orfevres</pro></m>, mays que tu y bouttes<lb/>
-
-de la matiere qui faict courre.<lb/>
-
-Devant l’invention du <m><la>crocum</la></m> on<lb/>
+<ab margin="left-top" render="wide">Devant l’invention du <m><la>crocum</la></m> on<lb/>
 
 gectoit bien les fleurs en <m>argent</m> mays non point en <m>or</m>. Il
 n’y ha pas quara<exp>n</exp>te <ms><tmp>ans</tmp></ms> qu’on<lb/>
@@ -145,7 +154,7 @@ de <pa>Santonique</pa></m>. </ab>
 
 <div id="p120r_3" categories="casting;animal husbandry" continued="yes">
 
-<head><del>Il</del><al>Rossignol</al><comment rid="c_120r_03"/></head>
+<head><del>Il</del><al>Rossignol</al> <mark>-</mark><comment rid="c_120r_03"/></head>
 
 <ab> Il fault que sa <tl>cage</tl>, faicte co<exp>mm</exp>e celle des
 <al>alouetes</al> en <env>grange</env><lb/>

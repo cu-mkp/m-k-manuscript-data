@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><root page="106v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f218.image">
+<?xml version="1.0" encoding="UTF-8"?><root page="106v" layout="four-column" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f218.image">
 
 
 
@@ -7,39 +7,46 @@
 
 <head>Casting in <m>gold</m></head>
 
-<ab>To cast in <m>gold</m>, <del><fr>il f</fr></del> <m><la>crocum
+<ab render="wide">To cast in <m>gold</m>, <del>it <fr>f</fr></del> <m><la>crocum
 ferri</la></m> is necessary, <add>&amp; more <m>feather alum</m> than in the following mixture. 
 The <m>feather alum</m> mixture cannot corrupt anything. The <tl>mold</tl> needs
 to be red, &amp; one needs to press it promptly with <tl><m>iron</m>
 presses</tl>.</add></ab>
 
-<ab>The <m>shell of <al>crabs</al> &amp; <al>crayfish</al></m> are
+<ab render="wide">The <m>shell of <al>crabs</al> &amp; <al>crayfish</al></m> are
 awkward to burn, &amp; there is a proper fashion of molding them.</ab>
 
-<ab><al>Rats</al> &amp; <al>birds</al> can be molded, and the feet are
+<ab render="wide"><al>Rats</al> &amp; <al>birds</al> can be molded, and the feet are
 awkward to extract when burnt because they are small &amp; delicate.
 The bodies are extracted more easily from the <tl>mold</tl>. The feet
 are cast in many <del>times</del> pieces.</ab>
 </div>
 
+
+
+<div id="p106v_2" categories="casting">
+   
+<head margin="left-top"><m>Plaster</m><comment rid="c_106v_07"/></head>
+
+<ab margin="left-top" render="tall">
+        
+When you have it as a <m>stone</m>, choose the hardest bits and those
+which do not easily crumble away with your <tl><bp>nail</bp></tl>, and
+clean it well from powder &amp; <m>filth</m> before pestling it.
+</ab>
+    
+<ab margin="left-top" render="tall">
+
+<m>Plaster</m> alone does not withstand fire but breaks up into pieces.
+</ab>
+    
+</div>
+    
+
+
 <div id="p106v_3" categories="casting">
-
+        
 <head><m>Tiles</m></head>
-
-<ab>
-<m>Tiles</m> with which one covers <env>houses</env>, the hardest
-&amp; firmest, and purged of <m>stones</m> &amp; coarse <m>gravel</m>,
-are used to <del><fr>p</fr></del> mix in with the <m>sand</m>
-<del><fr>et</fr></del> for molding. But, before, it is necessary to heat
-them until they have been quite red for one or two
-<ms><tmp>hours</tmp></ms>, &amp; <tl>pestle</tl> them &amp; pass them finely
-through a <tl>sieve</tl>.
-</ab>
-
-<ab>
-The little <al>turtles</al>, having just come out of the egg, are
-very nice to mold.<comment rid="c_106v_02"/><hr/>
-</ab>
 
 <ab margin="right-middle">
 <add>Those of the <env>houses</env> that are <m>not sandy</m> seem to withstand
@@ -47,88 +54,101 @@ fire better.</add>
 </ab>
 </div>
 
-<div id="p106v_2" categories="casting" continued="yes">
-   
-<head margin="left-top"><m>Plaster</m><comment rid="c_106v_07"/></head>
+<div id="p106v_3" part="y">
+<ab render="wide">
+<m>Tiles</m> with which one covers <env>houses</env>, the hardest
+&amp; firmest, and purged of <m>stones</m> &amp; coarse <m>gravel</m>,
+are used to <del><fr>p</fr></del> mix in with the <m>sand</m>
+<del>And</del> for molding. But, before, it is necessary to heat
+them until they have been quite red for one or two
+<ms><tmp>hours</tmp></ms>, &amp; <tl>pestle</tl> them &amp; pass them finely
+through a <tl>sieve</tl>.
+</ab>
+        
+<ab render="wide">
+The little <al>turtles</al>, having just come out of the egg, are
+very nice to mold.<comment rid="c_106v_02"/>
+</ab>
+        
+</div>
+ 
+    
+<div id="p106v_2" part="y" continued="yes">
 
 <ab margin="left-top">
         
-When you have it as a <m>stone</m>, choose the hardest bits and those
-which do not easily crumble away with your <tl><bp>nail</bp></tl>, and
-clean it well from powder &amp; <m>filth</m> before pestling it.
-</ab>
-    
-<ab margin="left-top">
-
-<m>Plaster</m> alone does not withstand fire but breaks up into pieces.
-</ab>
-    
-<ab margin="left-top">
-      
-Reheated <m>plaster</m>, <del><fr>se ga</fr></del>, as is said here, keeps
+Reheated <m>plaster</m> <del><fr>se ga</fr></del> as is said here, keeps
 well one or two <ms><tmp>months</tmp></ms>, well pressed, <env>in a dry
 place</env>, if it is not <tmp><env>rainy weather</env></tmp>. But when
 fresh, it is excellent for exquisite work.     
 </ab>
     
-<ab margin="left-top" render="tall">
-
+<ab margin="left-middle">
+        
 It must withstand the fire &amp; turn red like a lit
 <m>charcoal</m>.
-</ab>
-
-<ab>
+</ab>    
+<ab render="wide"><hr/>
 <add>If the <m>plaster</m> is mixed with some <m>dust</m> or is not the
 hard kind, it bursts in the fire &amp; causes flashing.</add>
 </ab>
 
-<ab>
-<emph>The hardest <m>plaster</m></emph>, as was said, is the best
+<ab render="wide">
+The hardest <emph><m>plaster</m></emph>, as was said, is the best
 when it is from <m>stone</m>, therefore take it raw of this kind. <tl>Pestle</tl> it
 <del>well</del> as finely as possible,
 and pass it through the finest <tl>sieve</tl> or <tl>sleeve</tl> that
-you can. Being thus <del><fr>p</fr></del> fine, put it,
-<add>in a <ms>good amount</ms></add>, in a <tl>cauldron</tl> or
+you can. <del><fr>A</fr></del><comment rid="c_106v_01"/> Being thus <del><fr>p</fr></del><comment rid="c_091v_01"/> fine, put it
+<add>in a <ms>good amount</ms></add> in a <tl>cauldron</tl> or
 <tl>skillet</tl> over an open flame, &amp; as it begins to heat up, stir
 it continuously, and heavy &amp; coarse as it is, it will become so light
 &amp; so handleable that it will seem to you not to have any resistance
-to <del>handling</del><add>stirring</add>, as if it were <m>water</m>.
+to <del>handling</del> <add>stirring</add>, as if it were <m>water</m>.
 Keep stirring it continuously until it returns once again to being heavy
 &amp; dense, and that is the sign that it is cooked. <add>But do not reheat
 it until your <m>brick</m> and <corr><del>feather</del></corr> <m>feather alum</m> are
 reheated &amp; the <m>clay</m> circles are made. For it needs to be the
 last one reheated &amp; when all the rest is ready, for the less
-<m>plaster</m> <mark>#</mark><comment rid="c_106v_03"/></add>
+<m>plaster</m> <mark>#</mark></add><comment rid="c_112r_02"/>
 </ab>
 
-<ab>
+<ab render="wide">
 <emph><m>Feather alum</m></emph> is the one that gives good
 binding to <m>sand</m>.
 </ab>
 
-<ab>
+<ab render="wide">
 <emph><m><la>Crocum ferri</la></m></emph> is appropriate for
 <m>gold</m>. It is that one which, being mixed among the <m>sand</m>, receives it
 &amp; holds it within its warmth.
 <hr/>
 </ab>
     
-<ab margin="left-bottom" render="wide">
+<ab margin="left-middle">
 
 
-<mark>#</mark><lb/> remains reheated, &amp; <del>more</del> the
-more quickly it is put to use, the better it is, for it sets more quickly.
-One ought not to reheat it until you want to mold. And to reheat it, put
-it, as finely ground raw powder, in a <tl>cauldron</tl> on
-<del>ash</del> a clear flame, &amp; do not make it either too strong nor
-too violent. Always stir with a long <tl>stick</tl> to avoid the vapor,
+<mark>#</mark><comment rid="c_106v_03"/><lb/> remains reheated, &amp; <del>more</del><lb/>
+the more quickly it is<lb/>
+put to use, the better<lb/>
+it is, for it sets<lb/>
+more quickly. One ought not<lb/>
+to reheat it until<lb/>
+you want to<lb/>
+mold. And to <lb/>
+reheat it, put it,<lb/>
+as finely ground raw powder,<lb/>
+in a</ab>
+
+<ab margin="bottom" render="full" continued="yes"><tl>cauldron</tl> on <del>ash</del>
+a clear flame, &amp; do not make it either too strong nor
+too violent. Always stir with a long <tl>stick</tl> to <md>avoid the vapor</md>,
 turning it around the <tl>cauldron</tl> &amp; in the middle, in a figure
 8. At the beginning, you will find it heavy <del>difficult</del> to
 stir, because it is full of moisture. As it heats up, it will start to
 throw off some bubbles at the edge of the <tl>cauldron</tl>. And finally,
 it will become like liquid &amp;, as it were, mealy &amp; like bran &amp; boiling in
 the middle. Continue to stir continuously until you recognize that it
-has once again become heavy,
+has once again become heavy
 <mark>ʘʘ</mark><comment rid="c_106v_06"/>
 </ab>
     

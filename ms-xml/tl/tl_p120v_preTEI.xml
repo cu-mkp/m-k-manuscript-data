@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><root page="120v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image">
+<?xml version="1.0" encoding="UTF-8"?><root page="120v" layout="four-column" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f246.image">
 
 
 
@@ -6,7 +6,7 @@
 <div continues="yes" id="p120r_3" categories="casting;animal husbandry">
 
 
-<ab>eats by itself. And to entice it better, you could add amongst the
+<ab render="wide">eats by itself. And to entice it better, you could add amongst the
 <m>meat &amp; the egg</m> some <m>live <al>mealworms</al></m>, for it is
 very fond of them.</ab>
 
@@ -17,7 +17,7 @@ very fond of them.</ab>
 
 <head><m><la>Crocum ferri</la></m></head>
 
-<ab>It is excellent <md>plastered</md> on wounds to stop the
+<ab render="wide">It is excellent <md>plastered</md> on wounds to stop the
 <bp>blood</bp>. The best is made of <m>needle filings</m>.</ab>
 
 <ab margin="left-middle">
@@ -33,7 +33,7 @@ very fond of them.</ab>
 
 <head>Anatomy</head>
 
-<ab> One needs to skin the animal &amp; boil it, or else skin it &amp;
+<ab render="wide"> One needs to skin the animal &amp; boil it, or else skin it &amp;
 put it into <m>good quicklime</m>.</ab>
 
 </div>
@@ -43,22 +43,22 @@ put it into <m>good quicklime</m>.</ab>
 
 <head>Making <m>silver</m> run</head>
 
-<ab><comment rid="c_120v_08"/>If it is for a large work, <m>arsenic</m> &amp;
+<ab render="wide" cancelled="y"><comment rid="c_120v_08"/>If it is for a large work, <m>arsenic</m> &amp;
 <m>tartar</m>, pulverized &amp; thrown on the <m>melted silver</m>, makes it run
-<del>If it is</del> and suffices. But for fine work, one needs some
-<m><la>aes ustum</la></m>, <m>filings <del>of
-latten</del> of <add>thin copper</add>, <del><fr>u</fr></del><comment rid="c_120v_01"/>
+<del>If it is <fr>pou</fr></del> and suffices. But for fine work, one needs some
+<m><la>æs ustum</la></m>, <m>filings of
+<del>latten</del> of <add>thin copper</add>, <del><fr>u</fr></del><comment rid="c_120v_01"/>
  antimony, sublimate, finely pulverized</m>.
 <del>This</del> From this gets made a mass that does not sour. If the <del><fr>s</fr></del> <m>plaster</m> is good, one ought
 not to add <m><la>crocum</la></m> for <m>silver</m>, but one puts more
-<m>feather alum</m>. <add><comment rid="c_120v_02"/>It needs also some melted <m>common
+<m>feather alum</m>. <comment rid="c_120v_02"/>It needs also some melted <m>common
 salt</m> &amp; some <m>saltpeter</m> with the aforesaid drugs:
-<m>arsenic</m>, <m>tartar</m>, <m><la>aes ustum</la></m>, <m>copper
-filings</m>, <m>antimony</m> &amp;c.</add></ab>
+<m>arsenic</m>, <m>tartar</m>, <m><la>æs ustum</la></m>, <m>copper
+filings</m>, <m>antimony</m> &amp;c.</ab>
 
 <ab><emph>See</emph> the second leaf following.<comment rid="c_120v_04"/></ab>
 
-<ab margin="left-middle"><comment rid="c_120v_08"/><emph>
+<ab margin="left-middle" cancelled="y"><emph>
 
 <la>Sciscitatio dubia</la></emph><comment rid="c_120v_07"/></ab>
 
@@ -80,7 +80,7 @@ A little <m>tallow</m> and <m>arsenic</m></ab>
  <figure size="x-small" id="fig_p120v_3" link="https://drive.google.com/file/d/1Sbuw9J8eX42Yhyp56CQoO7gShZRMVkn9"></figure>state <tmp>all year</tmp></head>
 
 
-<ab>This is a rare secret, &amp; which gives pleasure for adorning
+<ab render="wide">This is a rare secret, &amp; which gives pleasure for adorning
 tables, <env>rooms</env> &amp; <env>cabinets</env> <tmp>out of season,
 when winter denies flowers</tmp>. Take heed, therefore, to
 <del><fr>ce</fr></del> pick them when they are in full vigor &amp;
@@ -91,8 +91,7 @@ driest you can find</m>, which should be very fine, like that which
 <pro>goldsmiths</pro> <del>use</del> <add>use</add> to work
 <m>enamel</m> or like that for stampings. But above all, it must not
 make <m>dust</m>, nor remain on the <bp>hand</bp>, or leave a mark on it
-when you have pulverized it &amp; then poured it from your
-<bp>hand</bp>. For it is</ab>
+when you have pulverized it &amp; then poured it. For it is</ab>
 
 
 <ab margin="right-top">
@@ -120,20 +119,20 @@ best.</ab>
 
 Make sure your <tl>box</tl> is well joined, in order that the <m>sand</m>
 does not trickle out. Keep it uncovered <env>in sunlight</env> and
-remove it from the <env><fr>serain</fr> &amp; the humidity of the
+remove it from the <env><fr>serain</fr> &amp; the moisture of the
 night</env>, &amp; cover it &amp; keep it in a <env>dry
 place</env>.</ab>
 
 
 <ab margin="left-middle" render="tall">
 
-<del><fr>Que</fr></del>Take heed not to put the said flowers in <tl>big
+<del>That</del> Take heed not to put the said flowers in <tl>big
 vessels</tl>, for when one pulls out one, one needs to pull out all. </ab>
 
 
-<ab margin="bottom">
+<ab margin="bottom" render="wide">
 
-Take good heed not to pick your flowers <del>w</del> in <env>rainy and
+Take good heed not to pick your flowers <del><fr>q</fr></del> in <env>rainy and
 humid weather</env>, but when the <env>sun</env> has been shining on
 them.</ab>
 

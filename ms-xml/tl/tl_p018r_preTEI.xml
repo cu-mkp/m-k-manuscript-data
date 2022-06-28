@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><root page="018r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f41.image">
 
 
-
-
-<div continues="yes" id="p017r_1" categories="arms and armor" continued="yes">
-
-
-
-
+<div continues="yes" id="p017r_1" categories="arms and armor">
 
 <ab>
 
@@ -20,7 +14,7 @@ suffices for its charge. The <wp>cannon</wp> makes a bigger opening due to the
 size of its ball, but the <wp>culverin</wp> hits more fiercely &amp; propels
 faster, having greater force due to its length. At the breech it carries
 the <ms>thickness of two of its balls &amp; <del><fr>es</fr></del>the<comment rid="c_018r_02"/> 
-<del>three</del> <add>third</add> <del><fr>s</fr></del> part of a ball</ms>, at the front the
+<del>three</del> <add>third</add> part<del><fr>s</fr></del> of a ball</ms>, at the front the
 <ms>thickness of one ball &amp; two thirds</ms>. <wp>Culverins</wp> serve to
 batter defenses from afar when one cannot easily make an approach, and
 <wp>cannons</wp> approach more closely. They also serve to support the battery.
@@ -30,7 +24,7 @@ One needs fifteen or sixteen <al>horses</al> for moving it. They are
 these, one adds a little more <m><fr>metal</fr></m><comment rid="c_016v_05"/> in order that the melt runs
 better. And for two <ms>quintals</ms> of <m>rosette</m>, one
 adds six twenties <ms>lb</ms> of <m><fr>metal</fr></m> for the <wp>smaller pieces</wp>.
-<add>They shoot 8 or 9 hundred <ms>paces</ms> at point blank, &amp; up to
+<add>They shoot 8 or 9 hundred <ms>paces</ms> at point-blank, &amp; up to
 a thousand <ms>paces</ms> if the <m>powder</m> is strong, &amp;
 half a <ms>league</ms> at range.</add></ab>
 
@@ -49,7 +43,9 @@ all in one go but in two &amp; ramming each time, saying that each
 ramming raises &amp; gives a further <ms><bp>thumb</bp>’s breadth</ms>. But this
 is not certain for <wp>large pieces</wp> which are loaded with a lot of
 <m>powder</m>.</ab>
+</div>
 
+<div id="p017r_1" part="y" continued="yes">
 <ab>
 
 The <df><wp><fr>bastarde</fr></wp></df>, which is a <del><wp>culverin</wp></del>
@@ -64,7 +60,7 @@ They serve to batter defences of little importance such as
 <env>gabions</env> and <env>garrets topped with a tower</env> &amp;
 similar things. It is thirteen or xiiii <ms><fr>pans</fr></ms> long like
 the <wp>large cannon</wp>. Ten <al>horses</al> can move it. <add>It accompanies well
-the <wp>large culverin</wp> for point blank because it carries small
+the <wp>large culverin</wp> for point-blank because it carries small
 ammunition.</add></ab>
 
 <ab margin="left-middle">
@@ -84,7 +80,7 @@ carriage, but are for <env>city</env> defences. Some make these xxvii or
 xxviii <ms><fr>pan</fr></ms>s long, like the Cow of <pl>La
 Rochelle</pl>. But to such <wp>pieces</wp> one gives reinforcement at the breech
 as of three <ms>balls</ms>. At range, they can shoot around one <ms>league</ms>,
-&amp; <ms>a half league</ms> at point blank. Its charge is like the
+&amp; <ms>a half league</ms> at point-blank. Its charge is like the
 <wp><fr>bastarde</fr></wp>. And if one wants to fire at some <pro>cavalry</pro>
 quite far off, one increases the <m>powder</m> a little. A tail of <m>smoke</m>
 follows the ball which <del><fr>de</fr></del> guides your

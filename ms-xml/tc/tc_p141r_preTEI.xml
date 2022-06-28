@@ -1,31 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><root page="141r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image">
+<?xml version="1.0" encoding="UTF-8"?><root page="141r" layout="four-column" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image">
 
 
 
 
-<div id="p141r_1" categories="casting" continued="yes">
-
-
+<div id="p141r_1" categories="casting">
 
 <head>Mouler une <al>escrevisse</al></head>
 
-<ab margin="top">
+
+<ab margin="left-middle">
+        
+Le gect se faict par la<lb/>
+        
+queue fort tanvre</ab>
+    
+</div>
+    
+    
+<div></div>
+ 
+ 
+<div id="p141r_1" part="y">
+<ab margin="right-top">
 
 Sil y manque quelque petite chose tu la<lb/>
 
 peulx rejoindre ou bien remplir avecq du <m>cimen<ups>t</ups><lb/>
 
 d<pro>orfevr<ups>e</ups></pro></m><lb/>
-
+    
 pource q<ups>ue</ups><lb/>
 
 ce<ups>la</ups><lb/>
 
 se<lb/>
 
-p<ups>ainct</ups><comment rid="c_141r_01"/></ab>
-
-<ab>L<al>escrevisse</al> est des plus fantasques a mouler Mays
+p<ups>ainct</ups><comment rid="c_141r_01"/><hr/></ab>
+    
+</div>
+    
+<div id="p141r_1" part="y" continued="yes">
+<ab render="wide">L<al>escrevisse</al> est des plus fantasques a mouler Mays
 aussy<lb/>
 
 donne exemple de mouler beaucoup daultres fort difficilles<lb/>
@@ -40,7 +55,7 @@ jambes<lb/>
 
 principalles Il nest que bon de les faire un peu seicher pour <ups>ce
 q<exp>ue</exp></ups><lb/>
-
+    
 les grumeleures nen viennent que plus <del>dures</del> rudes &amp;
 plus<lb/>
 
@@ -81,7 +96,7 @@ eulx qui sont delicats Et qui seroient malaises a descouv<ups>rir</ups><lb/>
 sans rompre Tu feras mieulx de faire le premier gect<lb/>
 
 sur le ventre &amp; les oeufs affin quil <del>te</del> ne te faille
-descou<ups>rir</ups><lb/>
+descou<ups>vrir</ups><lb/>
 
 que sur le dos qui est dur, &amp; facile a manier Et le ventre<lb/>
 
@@ -101,19 +116,8 @@ prise se separe aisem<exp>ent</exp> du premier apres estre recuit<lb/>
 
 qui est un particulier secret pour semblable <tl>moules</tl></ab>
 
-<ab margin="left-top">
 
-
-
-Le gect se faict par la<lb/>
-
-queue fort tanvre
-
-</ab>
-
-<ab margin="left-middle">
-
-
+<ab margin="left-middle" render="tall">
 
 Noublie pas<lb/>
 
@@ -127,8 +131,6 @@ que mouler
 
 <ab margin="left-middle">
 
-
-
 Le <al>cerf volant</al><lb/>
 
 L<al>escrevisse</al> &amp; le<lb/>
@@ -140,8 +142,6 @@ de mesme facon
 </ab>
 
 <ab margin="left-middle">
-
-
 
 Si ton <al>escrevisse</al><lb/>
 
@@ -160,8 +160,6 @@ peulx donner
 </ab>
 
 <ab margin="left-middle">
-
-
 
 Elle se pourroit<lb/>
 
@@ -194,8 +192,6 @@ pour les <al>tortues</al>
 </ab>
 
 <ab margin="left-middle">
-
-
 
 Quand tu ouvres<lb/>
 
@@ -248,7 +244,7 @@ et du <m>blanc</m>
 
 </ab>
 
-
-
 </div>
+
+
 </root>

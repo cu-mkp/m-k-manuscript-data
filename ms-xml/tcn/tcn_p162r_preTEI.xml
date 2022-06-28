@@ -3,7 +3,7 @@
 
 
 
-<div id="p162r_1" categories="La boutique">
+<div id="p162r_1" categories="La boutique" part="y">
 
 <head>Pour la <env>boutique</env></head>
 
@@ -37,7 +37,7 @@ marchandise</underline></emph>
 </ab>
 </div>
     
-<div>
+<div id="p162r_1" categories="La boutique" part="y">
 <ab>
 
 <pn>Herodote</pn>, au premier foeuillet de <el>Clio</el>, dict que les
@@ -58,7 +58,7 @@ Galeres</emph>
 </ab>
 </div>
     
-<div>
+<div id="p162r_1" categories="La boutique" part="y">
 <ab>
 
 <pn>Herod<exp>ote</exp></pn> au 3 foeuillet dict que <pn>Gyges</pn><comment rid="c_162r_11"/>
@@ -75,18 +75,18 @@ Vases d’<m>or</m></emph>
 </ab>
 </div>
     
-<div>
+<div id="p162r_1" categories="La boutique" part="y">
 <ab>
 
-<pn>Herod<exp>ote</exp></pn>. <pn>Halyattes</pn><comment rid="c_162r_07"/>, pere de
+<pn>Herod<exp>ote</exp></pn>. <pn>Halyattes</pn>,<comment rid="c_162r_07"/> pere de
 <pn>Croesus</pn>,<comment rid="c_162r_09"/> <la><emph>pateram ex <m>ferro</m><lb/>
 
 compactilem apud <pl>Delphos</pl> dedicavit spectatu dignam<lb/>
 
-inter omnia quae sunt <pl>Delphis</pl> donaria, opus <pn>Glauci<lb/>
+inter omnia quæ sunt <pl>Delphis</pl> donaria, opus <pn>Glauci<lb/>
 
 Chii</pn><comment rid="c_162r_10"/> qui solus omnium compactionem <m>ferri</m>
-excogitavit.</emph><lb/>
+excogitavit.</emph><comment rid="c_162r_05"/><lb/>
 
 <m>Compactile ferrum</m></la>,<comment rid="c_162r_06"/> qui est fait d’assemblage &amp; choses
 raportées.</ab>

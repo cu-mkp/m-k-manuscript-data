@@ -1,31 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><root page="141r" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image">
+<?xml version="1.0" encoding="UTF-8"?><root page="141r" layout="four-column" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image">
 
 
 
 
-<div id="p141r_1" categories="casting" continued="yes">
-
-
+<div id="p141r_1" categories="casting">
 
 <head>Mouler une <al>escrevisse</al></head>
 
-<ab margin="top">
+
+<ab margin="left-middle">
+        
+Le gect se faict par la<lb/>
+        
+queue fort tanvre.</ab>
+    
+</div>
+    
+    
+<div></div>
+    
+
+<div id="p141r_1" part="y">
+<ab margin="right-top">
 
 S’il y manque quelque petite chose, tu la<lb/>
 
 peulx rejoindre ou bien remplir avecq du <m>ciment<lb/>
 
 d’<pro>orfevre</pro></m><lb/>
-
+    
 pource que<lb/>
 
 cela<lb/>
 
 se<lb/>
 
-painct.<comment rid="c_141r_01"/></ab>
+painct.<comment rid="c_141r_01"/><hr/></ab>
 
-<ab>L’<al>escrevisse</al> est des plus fantasques à mouler, mays
+</div>
+    
+<div id="p141r_1" part="y" continued="yes">
+<ab render="wide">L’<al>escrevisse</al> est des plus fantasques à mouler, mays
 aussy<lb/>
 
 donne exemple de mouler beaucoup d’aultres fort difficilles.<lb/>
@@ -84,7 +99,7 @@ descouvrir<lb/>
 sans rompre, tu feras mieulx de faire le premier gect<lb/>
 
 sur le ventre &amp; les oeufs, affin qu’il <del>te</del> ne te faille
-descou<corr>v</corr>rir<lb/>
+descouvrir<lb/>
 
 que sur le dos, qui est dur, &amp; facile à manier. Et le ventre<lb/>
 
@@ -105,17 +120,9 @@ prise, se separe aisem<exp>ent</exp> du premier aprés estre recuit,<lb/>
 qui est un particulier secret pour semblable<corr>s</corr>
 <tl>moules</tl>.</ab>
 
-<ab margin="left-top">
 
 
-
-Le gect se faict par la<lb/>
-
-queue fort tanvre.</ab>
-
-<ab margin="left-middle">
-
-
+<ab margin="left-middle" render="tall">
 
 N’oublie pas<lb/>
 
@@ -127,8 +134,6 @@ que mouler.</ab>
 
 <ab margin="left-middle">
 
-
-
 Le <al>cerf volant</al>,<lb/>
 
 l’<al>escrevisse</al> &amp; le<lb/>
@@ -138,8 +143,6 @@ l’<al>escrevisse</al> &amp; le<lb/>
 de mesme façon.</ab>
 
 <ab margin="left-middle">
-
-
 
 Si ton <al>escrevisse</al><lb/>
 
@@ -156,8 +159,6 @@ bas. Tu luy<lb/>
 peulx donner.</ab>
 
 <ab margin="left-middle">
-
-
 
 Elle se pourroit<lb/>
 
@@ -188,8 +189,6 @@ doibt reserver<lb/>
 pour les <al>tortues</al>.</ab>
 
 <ab margin="left-middle">
-
-
 
 Quand tu ouvres<lb/>
 
@@ -233,6 +232,6 @@ jaulne</m><lb/>
 et du <m>blanc</m>.</ab>
 
 
-
 </div>
+
 </root>

@@ -7,7 +7,7 @@
 
 <head>Mouler une <al>mousche</al></head>
 
-<ab>P<exp>rens</exp> des plus <al>grosses <del>vo</del>mouches</al> qui
+<ab>P<exp>rens</exp> des plus <al>grosses <del>vo</del> mouches</al> qui
 vont aulx <env>gardema<exp>n</exp>gers</env><lb/>
 
 qui ne soient poinct pelues sil est possible si elles le sont<lb/>
@@ -63,9 +63,9 @@ de <m>fil de fer</m> chault</tl> joignis les jambes &amp; pattes
 d<m>huile<lb/>
 
 de <pa>froment</pa></m> Et pour abattre &amp; faire coucher le poil
-<add>lanugineux</add><lb/>
+<add>lanugineux</add><comment rid="c_156v_07"/><lb/>
 
-quelle avoit je loignis aussy dun<comment rid="c_156v_04"/> peu d<m>huile
+quelle avoit je loignis aussy dn<comment rid="c_156v_04"/> peu d<m>huile
 d<pa>olif</pa></m></ab>
 
 <ab>Je ne laissay pas beaucoup seicher l<m>huile de <pa>froment</pa></m>
@@ -103,9 +103,9 @@ ne sont pas venues en <m>estain</m> Le reste de la <al>mouche</al> est
 bien<lb/>
 
 venu Et mesmem le bouquet de <pa>sauge</pa> qui est
-fort beau moule</ab>
+fort beau moule<hr/></ab>
 
-<ab margin="left-top">
+<ab margin="left-top" render="wide">
 
 On la pourroit bien gecter d<m>or</m> &amp; d<m>argent</m> sans les
 pieds &amp; sans lapliquer sur une fleur<lb/>
@@ -142,11 +142,6 @@ pains selon le<lb/>
 naturel
 
     <figure size="x-small" id="fig_p156v_1" link="https://drive.google.com/open?id=0B9-oNrvWdlO5VjFPeWlJc05CbDQ">
-
-
-
-
-
 </figure>
 
 </ab>
@@ -233,9 +228,9 @@ point la <m>colle</m> qui sera<lb/>
 
 bien tost seche la<lb/>
 
-chaufant de loing<lb/>
+chaufant de loing</ab>
 
-Apres couvre legerem<lb/>
+<ab margin="bottom" render="full">Apres couvre legerem<lb/>
 
 les joinctures de la chose raportee avecq de la <df><m>cire a
 esbaucher</m></df> qui est <m>cire blanche</m> meslee<lb/>

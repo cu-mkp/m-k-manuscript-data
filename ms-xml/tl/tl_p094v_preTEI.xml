@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><root page="094v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f194.image">
+<?xml version="1.0" encoding="UTF-8"?><root page="094v" layout="four-column" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f194.image">
 
 
 
 
-<div continues="yes" id="p094r_1" categories="arms and armor" continued="yes">
-
-
-
-
+<div continues="yes" id="p094r_1" categories="arms and armor">
 
 <ab>The <m>gold</m> grips are made by putting underneath <m>thin yellow
 canvas</m> or a different <m>canvas yellowed with chalk</m>. And this
@@ -20,9 +16,16 @@ and even less because it takes more to twist <m>silk</m>, because one
 needs to twist it twice. A grip of <m>fine gold</m> is worth 18 or 20
 <ms><cn>sous</cn></ms>.</ab>
 
-<ab>The best sword point is the <m><pa>sage</pa> leaf</m> form.</ab>
+<ab>The best <wp>sword</wp> point is the <m><pa>sage</pa> leaf</m> form.</ab>
 
-<ab>This long plank on which the sword is attached &amp; laid down to
+<ab margin="left-middle"><tl>scabbard bench</tl>
+<figure id="fig_p094v_1" size="small" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Q29MTEVLUGE5RGs">
+</figure></ab>
+</div>
+    
+    
+<div id="p094r_1" part="y" continued="yes">
+<ab>This long plank on which the <wp>sword</wp> is attached &amp; laid down to
 furbish it is called the
 <tl><df><fr>chameau</fr></df></tl>, it is
 commonly of <m><pa>rowan</pa>,</m><comment rid="c_094v_05"/> which is
@@ -35,7 +38,7 @@ hard &amp; even.</ab>
 <fr>fustée</fr></df></tl>.</ab>
 
 <ab>And this small square piece, which is pu<del><ill/></del>t
-<del><fr>l</fr></del>on the sword to burnish it, is called the
+<del><fr>l</fr></del><comment rid="c_094v_04"/> on the <wp>sword</wp> to <tl>burnish</tl> it, is called the
 <tl><df><fr>fustée</fr></df></tl>.</ab>
 
 <ab>There are two horns: one is called the <df><tl><m>oil</m> horn</tl></df> and
@@ -46,76 +49,52 @@ the other the <df><tl><m>emery</m> horn</tl>.</df><comment rid="c_094v_06"/>
 square, &amp; of <m>very even steel, &amp; well <tl>filed</tl></m>,
 which is called the
 <tl><df><fr>grateau</fr></df></tl>,<comment rid="c_094v_07"/> which
-serves to <corr><del>to</del></corr> soften the traces of the
-<tl>file</tl> on sword guards &amp; to give an edge to swords after they
+serves to <corr><del>to</del></corr> smooth the traces of the
+<tl>file</tl> on <wp>sword guards</wp> &amp; to give an edge to <wp>swords</wp> after they
 have been ground, which is better than with a <tl><m>stone</m></tl> or a
 <tl><m>sharpening stone</m></tl>, which quite often makes scratches.</ab>
 
-<ab>To make <del><fr>coupp</fr></del> swords cut better, one gives them
+<figure id="fig_p094v_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5OEQ3OEFSNnEzeE0">
+</figure>
+    
+<ab margin="left-middle">
+<figure size="small" id="fig_p094v_8" link="https://drive.google.com/file/d/1Hsga43MIuoLIOrj7I5IKQCRAEEXW75uv"/>
+a<figure size="x-small" id="fig_p094v_4" link="https://drive.google.com/file/d/1cE1kYyCx4GXgsYAIEb9Mp1ppcOGYyK_m"></figure>
+b<figure size="x-small" id="fig_p094v_5" link="https://drive.google.com/file/d/17W0Rwiq0U0501jXvYvO8kF_FYjeiNtcx"></figure>   
+</ab>     
+
+<ab margin="left-middle">    
+<figure size="small" id="fig_p094v_6" link="https://drive.google.com/file/d/1TAYIJ3T-ElLyUZO0P0CX8t0BPIupl1hP"></figure>
+c<lb/>
+the <tl><m><fr>flin</fr></m></tl> or <tl><m>thunder<lb/>
+stone</m></tl>
+        
+<figure size="small" id="fig_p094v_7" link="https://drive.google.com/file/d/1HhpPaiH0I9np_aklEzw8tpDV12AM3zD1"></figure>
+D<lb/>
+the <tl><fr>baston<lb/>
+a <m>felinder</m></fr></tl></ab>       
+
+<ab>To make <del><fr>coupp</fr></del> <wp>swords</wp> cut better, one gives them
 the edge by pulling upward from the point.</ab>
-
-<ab><pro>Those who create sword guards</pro> are <pro>artisans</pro>
+        
+<ab><pro>Those who create <wp>sword guards</wp></pro> are <pro>artisans</pro>
 separate from the <pro>furbisher</pro>.</ab>
-
+        
 <ab> A is the
 <fr>bruisson</fr><comment rid="c_094v_08"/><lb/>
-
+            
 B is the <m>bloodstone</m><comment rid="c_094v_09"/></ab>
-
+        
 <ab>The <tl><df><fr>fustée</fr></df></tl> is a square piece of wood
 three <ms><bp>fingers</bp> in thickness</ms>, of
 <m><pa>boxwood</pa></m>, which is fitted in the middle of the stick
-<add>of the <tl>fustée</tl> to furbish</add>.</ab>
-
+<add>of the <tl><fr>fustée</fr></tl> to furbish</add>.</ab>
+        
 <ab>The <tl><m><fr>fresil</fr></m> stick</tl> is of <m><pa>willow</pa>
 wood</m>, which is to clean the rust off weapons with
 <df><m><fr>fresil</fr></m></df>, which is the <m>iron scale</m> falling
 at the <tl><pro>farriers</pro>’ forge</tl>.</ab>
-
-<figure id="fig_p094v_1" margin="left-top" link="https://drive.google.com/open?id=0B9-oNrvWdlO5Q29MTEVLUGE5RGs">
-
-
-
-
-
-
-
-<caption><tl>scabbard bench</tl></caption>
-
-</figure>
-<figure id="fig_p094v_2" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5OEQ3OEFSNnEzeE0">
-
-
-
-
-
-
-
-</figure>
-
-<ab margin="left-middle">
-
-    <figure size="small" id="fig_p094v_8" link="https://drive.google.com/file/d/1Hsga43MIuoLIOrj7I5IKQCRAEEXW75uv"/>
-    <figure size="small" id="fig_p094v_4" link="https://drive.google.com/file/d/1cE1kYyCx4GXgsYAIEb9Mp1ppcOGYyK_m"><caption>a</caption></figure>
-    <figure size="small" id="fig_p094v_5" link="https://drive.google.com/file/d/17W0Rwiq0U0501jXvYvO8kF_FYjeiNtcx"><caption>b</caption></figure>   
         
-<lb/>
-        
-    <figure size="x-small" id="fig_p094v_7" link="https://drive.google.com/file/d/1HhpPaiH0I9np_aklEzw8tpDV12AM3zD1">
-<caption>
-D<lb/>
-the <tl><fr>baston<lb/>
-a <m>felinder</m></fr></tl></caption></figure>
-        
-    <figure size="x-small" id="fig_p094v_6" link="https://drive.google.com/file/d/1TAYIJ3T-ElLyUZO0P0CX8t0BPIupl1hP">
-<caption>
-c<lb/>
-the <tl><m><fr>flin</fr></m></tl> or <tl><m>thunder<lb/>
-stone</m></tl></caption></figure></ab><ab margin="left-middle">
-
-</ab>
-
-
 
 </div>
 </root>

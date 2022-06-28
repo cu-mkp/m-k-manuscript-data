@@ -49,7 +49,7 @@ parmy. Le <m>vert de terre</m> ne s’employe poinct à <m>huile</m>.</ab>
 
 <head><pro>Marchant</pro></head>
 
-<ab><comment rid="c_009v_03"/>Le raiglement que les <pro>marchans</pro> ont accoustumé<lb/>
+<ab hand="handb"><comment rid="c_009v_03"/>Le raiglement que les <pro>marchans</pro> ont accoustumé<lb/>
 
 tenir en leurs livres, sçavoir le livre brouillart,<lb/>
 
@@ -65,56 +65,57 @@ appellé le livre de raisons.</ab>
 
 <head>Brouillart</head>
 
-<ab>Et premierement <pn>François du Cros</pn><comment rid="c_009v_02"/> doibt du <tmp>ii<superscript>e</superscript> de<lb/>
+<ab hand="handb">Et premierement <pn>François du Cros</pn><comment rid="c_009v_02"/> doibt du <tmp>ii<superscript>e</superscript> de<lb/>
 
-septembre 1581</tmp>, po<exp>ur</exp> i <ms>cane</ms> <m>toille
+septembre 1581</tmp> / po<exp>ur</exp> 1 <ms>cane</ms> <m>toille
 babtiste</m> à 8 <ms><cn>livres</cn><lb/>
 
-canne</ms>, je dis <mark>--</mark> 8 <ms><cn><corr>lb</corr>
-    t.</cn></ms><comment rid="c_009v_01"/></ab>
-
-<ab margin="left-middle">
+canne</ms>, je dis <mark>___ ___ ___ ___</mark> 8 <ms><cn><corr>lb</corr>
+t.</cn></ms><comment rid="c_009v_01"/></ab>
 
 
-
+<ab margin="left-middle" hand="handb">
+<lb/>
+<lb/>
+<lb/>
 <oc>Mudat</oc> au livre<lb/>
 
 de vantes à c.<lb/>
 
-25.</ab>
+25 /</ab>
 
-<ab><pn>François du Cros</pn> doibt du
-<tmp>ii<superscript>e</superscript> de septembre 1581</tmp>, pour<lb/>
+
+<ab hand="handb"><pn>François du Cros</pn> doibt du
+<tmp>ii<superscript>e</superscript> de septembre 1581</tmp> / pour<lb/>
 
 1 <ms>canne</ms> <m>toille babtiste</m> à 8 <ms><cn>livres</cn>
 canne</ms>, ainsy que appert<lb/>
 
-au brouillart à c. 25.</ab>
-
-<ab margin="left-middle">
+au brouillart à c.<comment rid="c_009v_06"/> 25</ab>
 
 
-
+<ab margin="left-middle" hand="handb">
 <oc>Mudat</oc> au livre<lb/>
 
 de raisons à c.<lb/>
 
-55.</ab>
+55 /</ab>
 
-<ab><pn>François du Cros</pn> doibt du
-<tmp>ii<superscript>e</superscript> de septembre 1581</tmp>, pour<lb/>
+
+<ab hand="handb"><pn>François du Cros</pn> doibt du
+<tmp>ii<superscript>e</superscript> de septembre 1581</tmp> / pour<lb/>
 
 marchandise que luy mesmes a prise, expeciffiée par le<lb/>
 
-menu au livre de vantes, n° 7 à c. 55, la somme de 8
-<ms><cn>livres</cn></ms>,<lb/>
+menu au livre de vantes n° 7 / à c. 55 / la somme de 8
+<ms><cn>livres</cn></ms> /<lb/>
 
 de laquelle led<exp>ict</exp> <pn>du Cros</pn> en a faict cedulle ledict
 <tmp>jour</tmp>, à<lb/>
 
-payer à la <tmp>feste de la <pn>S<exp>ainc</exp>t André</pn><comment rid="c_009v_04"/></tmp>
-prochainne, par ce dis <mark>--</mark> 8 <ms><cn>lb
-t.</cn></ms></ab>
+payer à la <tmp>feste de la <pn>S<exp>ainc</exp>t André</pn></tmp><comment rid="c_009v_04"/>
+prochainne, par ce dis <mark>___</mark> 8 <ms><cn>lb
+<corr>t</corr>.</cn></ms><comment rid="c_009v_05"/></ab>
 
 </div>
 </root>

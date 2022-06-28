@@ -40,9 +40,11 @@ l<m>or</m></ab>
 
 </div>
 
+
+<div></div>
+
+
 <div id="p124v_2" categories="casting">
-
-
 
 <head>Gecter en <m>or</m></head>
 
@@ -71,7 +73,7 @@ L<m>or fin</m><lb/>
 
 ne court pas bien Mays bien l<m>or allie</m></ab>
 
-<ab margin="left-middle">
+<ab margin="left-top" render="wide">
 
 
 
@@ -120,7 +122,7 @@ tumbes de <m>plomb</m> ou<lb/>
 <m>estain</m> ou <m>chaulx diceulx</m> dans la<lb/>
 
 <tl>forge</tl><lb/>
-<hr/></ab>
+</ab>
 </div>
 
 <div id="p124v_3" categories="casting" continued="yes">
@@ -131,7 +133,7 @@ tumbes de <m>plomb</m> ou<lb/>
 
 <al>lezardes</al></head>
 
-<ab continued="yes">Pourceque tu doibs tousjours faire ton gect par la queue<lb/>
+<ab>Pourceque tu doibs tousjours faire ton gect par la queue<lb/>
 
 Et quelle est s<del>u</del>i<comment rid="c_124v_03"/> subtille et deliee que le
 <del>gect peyneroit</del> <m>metal</m> avecq<lb/>
@@ -140,12 +142,7 @@ difficulte pourroit bien courre Mesmement quand elle est replyee<lb/>
 
 Roule de la <m>cire</m> a petits filets de ceste grosseur
 
-    <figure size="x-small" id="fig_p124v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dWU4UEtpX0hBV0k">
-
-
-
-
-
+    <figure size="small" id="fig_p124v_2" link="https://drive.google.com/open?id=0B9-oNrvWdlO5dWU4UEtpX0hBV0k">
 </figure>
 
 et<lb/>
@@ -175,32 +172,26 @@ corps<lb/>
 qui sont un peu longs &amp; ilz serviront dabreuvoirs a la chose
 moulee<lb/>
 
-
-
 </ab>
 
-<ab margin="right-middle">
 
-
-
-<add>suys icy dessus</add>
-<mark>🝋</mark>
+<ab margin="right-bottom" continued="yes">
+<add>suys icy<lb/>
+dessus</add> <mark>🝋</mark><comment rid="c_124v_04"/>
 
 </ab>
 
 
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="tall">
 
-
-
-<add>Quand la queue qui est subtille et<lb/>
+<hr/><add>Quand la queue qui est subtille et<lb/>
 
 plus pres du gect vient bien le reste<lb/>
 
 vient bien</add></ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="tall">
 
 Le principal est<lb/>
 
@@ -210,7 +201,7 @@ viennent bien moulees<lb/>
 
 du <al>serpent</al></ab>
 
-<ab margin="left-middle">
+<ab margin="left-middle" render="tall">
 
 Ton gect doibt<lb/>
 
@@ -220,16 +211,10 @@ lentree de lanimal<lb/>
 
 &amp; de l<ms>espesseur dun <tl>costeau</tl></ms></ab>
 
-<figure id="fig_p124v_1" margin="left-middle" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aGQ0OTFCTklrQ0k">
-
-
-
-
-
-
-
+<ab margin="left-middle"  render="tall">
+<figure id="fig_p124v_1" size="small" link="https://drive.google.com/open?id=0B9-oNrvWdlO5aGQ0OTFCTklrQ0k">
 </figure>
-
+</ab>
 
 
 </div>

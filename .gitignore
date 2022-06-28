@@ -3,3 +3,4 @@
 newProject.xpr
 *.xpr
 .vs
+.nosync

@@ -5,8 +5,6 @@
 
 <div id="p046r_1" categories="medicine">
 
-
-
 <head><md>Pour les <bp>dents</bp></md>, <m>huile de soufre</m></head>
 
 <ab>Aulcuns les <md>blanchissent</md> avecq compositions d’<m>eau fort</m>;<lb/>
@@ -48,9 +46,8 @@ avecq discretion.</ab>
 
 </div>
 
+
 <div id="p046r_2" categories="medicine">
-
-
 
 <head><m>Huile de <pa>froment</pa></m></head>
 
@@ -58,19 +55,16 @@ avecq discretion.</ab>
 
 </div>
 
-<ab margin="left-middle">
 
-
-    
-    <figure size="x-small" id="fig_p046r_1" link="https://drive.google.com/file/d/12xzqUaVLFzijxF_ihGQ2pfq55PKriLAu">
-
-
-
-
+<div id="p046v_4" categories="corrosives">
+        
+<figure size="x-small" margin="left-top" id="fig_p046r_1" link="https://drive.google.com/file/d/12xzqUaVLFzijxF_ihGQ2pfq55PKriLAu">
 </figure>
-
-</ab>
-
+        
+</div>
+    
+    
+    
 <div id="p046r_3" categories="medicine">
 
 
@@ -78,7 +72,7 @@ avecq discretion.</ab>
 <head><md>Contre mal caducq</md></head>
 
 <ab>Ayes des <m>oeufs frais d’un <al>corbeau</al></m> <del>ou</del>
-qualtre ou cinq, &amp;<del>le</del><lb/>
+qualtre ou cinq, &amp; <del>le</del><lb/>
 
 l’<ms>espace de 4 ou cinq <tmp>matins</tmp></ms> fais en cuire un, et
 ayant meslé<lb/>
@@ -92,20 +86,18 @@ plus</md>.</ab>
 
 </div>
 
+
 <div id="p046r_4" categories="medicine">
 
-
-
-    <head><md>Contre goutes<comment rid="c_046r_01"/> froides</md></head>
+<head><md>Contre goutes<comment rid="c_046r_01"/> froides</md><comment rid="c_046r_01"/></head>
 
 <ab><m>Huile de <pa>gayac</pa> &amp; de soufre</m> meslée ensemble,
 apliquée.</ab>
 
 </div>
 
+
 <div id="p046r_5" categories="cultivation">
-
-
 
 <head><del>Go</del> Fleurs d’abres</head>
 

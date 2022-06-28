@@ -9,7 +9,7 @@
 
 <head>Couleurs mi vives</head>
 
-<ab>Quand les couleurs s’<del>a</del>emboivent sur la <m>toile</m>,
+<ab>Quand les couleurs s’<del>a</del>emboivent<comment rid="c_065v_05"/> sur la <m>toile</m>,
 c’est à dire qu’elle<lb/>
 
 n’a esté imprimée qu’une fois &amp; à ceste cause elles deviennent<lb/>
@@ -39,7 +39,7 @@ seconde couche d’icelles ne s’emboit point &amp; demeure luisante.</ab>
         
 
         
-    <head margin="left-top">Au naturel<comment rid="c_065v_01"/></head>
+<head margin="left-top">Au naturel<comment rid="c_065v_01"/></head>
         
 <ab margin="left-top" render="tall">
 
@@ -65,56 +65,10 @@ l’<m>eau</m> affin qu’il<lb/>
             
 ne seiche point.</ab>
         
-<ab margin="left-top" render="tall">
-            
-
-
-            
-Les <pro>enleumineurs</pro><lb/>
-            
-paignant sur le<lb/>
-            
-<m>papier</m> destrempent<lb/>
-            
-leurs couleurs avecq<lb/>
-            
-de la <m>gomme</m> &amp; y<lb/>
-            
-meslent un peu de<lb/>
-            
-<m>savon</m> pour les<lb/>
-            
-faire mieulx courre.</ab>
-        
-<ab margin="left-top" render="tall">
-            
-
-
-            
-Les <pro>painctres</pro><lb/>
-            
-doibvent tous aprendre<lb/>
-            
-à pourtraire aprés<lb/>
-            
-le naturel, car c’est<lb/>
-            
-leur viatique &amp; rente<lb/>
-            
-&amp; moyen assuré de<lb/>
-            
-gaigner leur passaige,<lb/>
-            
-allant par pays<lb/>
-            
-avecq le seul <m>cocon</m>.<comment rid="c_065v_03"/></ab>
-        
 </div>
     
 
 <div id="p065v_2" categories="painting">
-
-
 
 <head>Paindre grandes figures</head>
 
@@ -133,14 +87,56 @@ de pres, tiens ton <m>charbon</m> le plus long que tu pourras<lb/>
 &amp; <del>de</del> comme du <bp>bout des doigts</bp>. Car en ceste
 sorte, tu t’adquerras<lb/>
 
-le traict <pro>artiste</pro> &amp; <del>l</del> te rendras la
+le traict <pro>artiste</pro> &amp; <del>l</del>te<comment rid="c_065v_06"/> rendras la
 <bp>main</bp> legere.</ab>
 
 </div>
 
+
+<div id="p065v_6" part="y">
+<ab margin="left-top">
+        
+Les <pro>enleumineurs</pro><lb/>
+        
+paignant sur le<lb/>
+        
+<m>papier</m> destrempent<lb/>
+        
+leurs couleurs avecq<lb/>
+        
+de la <m>gomme</m> &amp; y<lb/>
+        
+meslent un peu de<lb/>
+        
+<m>savon</m> pour les<lb/>
+        
+faire mieulx courre.</ab>
+    
+<ab margin="left-bottom">
+        
+Les <pro>painctres</pro><lb/>
+        
+doibvent tous aprendre<lb/>
+        
+à pourtraire aprés<lb/>
+        
+le naturel, car c’est<lb/>
+        
+leur viatique &amp; rente<lb/>
+        
+&amp; moyen assuré de<lb/>
+        
+gaigner leur passaige,<lb/>
+        
+allant par pays<lb/>
+        
+avecq le seul <m>cocon</m>.<comment rid="c_065v_03"/></ab>
+    
+</div>
+
+
+
 <div id="p065v_3" categories="painting">
-
-
 
 <head>Glasser</head>
 
@@ -173,20 +169,9 @@ deulx ou trois <tmp>ans</tmp> pour se rendre <pro>artiste</pro>.</ab>
 
 </div>
 
-<div id="p065v_5" categories="painting">
-
-
-
-<head><m>Blanc de plomb</m></head>
-
-<ab>Il ne se meurt point &amp; ha beaucoup de corps.</ab>
-
-</div>
 
 
 <div id="p065v_7" categories="painting">
-
-
 
 <head margin="left-top">Impression</head>
 
@@ -218,15 +203,28 @@ aprés. Il est bon de la faire<comment rid="c_065v_02"/><lb/>
 
 </ab>
 
-<ab>
+</div>
+   
+   
+<div id="p065v_5" categories="painting">
+        
+<head><m>Blanc de plomb</m></head>
+        
+<ab>Il ne se meurt point &amp; ha beaucoup de corps.</ab>
+        
+</div>
 
+<div id="p065v_7" part="y">
+<ab margin="bottom" render="wide">
+        
 <comment rid="c_065v_04"/>avecq de la <m>ceruse</m>, de l’<m>ocre <del>&amp; un peu de</del>
 jaulne</m> &amp; un peu<lb/>
-
+        
 de <m>massicot</m>, &amp; ne la faire pas gueres espesse affin
 qu’elle<lb/>
-
-ne s’esclate point.</ab>
-
+        
+ne s’esclate point.</ab>  
 </div>
+
+
 </root>

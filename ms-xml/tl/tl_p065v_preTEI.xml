@@ -9,7 +9,7 @@
 
 <head>Semi-lively colors</head>
 
-<ab>When colors <del><fr>a</fr></del>absorb into the <m>canvas</m>, it
+<ab>When colors <del><fr>a</fr></del><comment rid="c_065v_05"/> absorb into the <m>canvas</m>, it
 means that it has been given imprimatura only once, &amp; for this reason they
 become matte rather than <add>being</add> shiny. But this is the best,
 as long as you re-coat it twice, for in this manner, the colors, having
@@ -24,30 +24,13 @@ shiny.</ab>
 
 <div id="p065v_6" categories="painting">
         
-
+<head margin="left-top">From nature<comment rid="c_065v_01"/></head>
         
-    <head margin="left-top">From nature<comment rid="c_065v_01"/></head>
-        
-<ab margin="left-top" render="tall">
+<ab margin="left-top">
 There are some who paint from nature on <m>oiled paper</m>, &amp;
 if they do not finish in one go, they put their <m>paper</m> &amp;
 unfinished picture in <m>water</m> so that it shall not dry.</ab>
-        
-<ab margin="left-top" render="tall">
-
-
-<pro>Illuminators</pro> painting on <m>paper</m> temper their colors
-with <m>gum</m> &amp; mix in a little <m>soap</m> to make them run
-better.</ab>
-        
-<ab margin="left-top" render="tall">
-
-           
-<pro>Painters</pro> must all learn how to depict after nature, for to them
-it is travel provisions &amp; revenue &amp; sure means of earning their
-passage when travelling across the lands with only their
-<m><fr>cocon</fr>.</m><comment rid="c_065v_03"/></ab>
-        
+               
 </div>
     
 <div id="p065v_2" categories="painting">
@@ -62,14 +45,30 @@ you would not be able to judge proportions as well as from a certain
 &amp; sufficient distance. Also, <del>you</del> when you paint up close, hold your
 <m>charcoal</m> at the farthest end, &amp; <del><fr>de</fr></del> practically with your
 <bp>fingertips</bp>. For in this way you will acquire an<pro>
-artist</pro>’s <del>l</del> stroke &amp; will render your <bp>hand</bp>
+artist</pro>’s stroke &amp; <del><fr>l</fr></del><comment rid="c_065v_06"/> will render your <bp>hand</bp>
 nimble.</ab>
 
 </div>
 
+<div id="p065v_6" part="y">   
+<ab margin="left-top">
+        
+<pro>Illuminators</pro> painting on <m>paper</m> temper their colors
+with <m>gum</m> &amp; mix in a little <m>soap</m> to make them run
+better.</ab>
+    
+<ab margin="left-bottom">
+        
+        
+<pro>Painters</pro> must all learn how to depict after nature, for to them
+it is travel provisions &amp; revenue &amp; sure means of earning their
+passage when travelling across the lands with only their
+<m><fr>cocon</fr>.</m><comment rid="c_065v_03"/></ab>
+</div>
+
+
+
 <div id="p065v_3" categories="painting">
-
-
 
 <head>Glazing</head>
 
@@ -92,19 +91,8 @@ has no body &amp; <del>makes</del> lightens the density of the others.</ab>
 
 </div>
 
-<div id="p065v_5" categories="painting">
-
-
-
-<head><m>Lead white</m></head>
-
-<ab>It does not die &amp; has a lot of body.</ab>
-
-</div>
 
 <div id="p065v_7" categories="painting">
-
-
 
 <head margin="left-top">Imprimatura</head>
 
@@ -113,14 +101,25 @@ has no body &amp; <del>makes</del> lightens the density of the others.</ab>
 One needs to be quite careful about this, &amp; not make it, as some
 will, with gold color which is made with the <m>washings of
 <tl><m>oil</m> paintbrushes</tl></m>, because <m>verdigris</m> &amp;
-other corrosive colors which are in it will in the end will make
+other corrosive colors which are in it will in the end make
 the colors die that are <del><fr>meu</fr></del> layered on next. It is
 good to do it<comment rid="c_065v_02"/></ab>
 
-<ab>
-<comment rid="c_065v_04"/>with <m>ceruse</m>, <m><del>&amp; a bit of </del>yellow ocher</m>, &amp;
+</div>
+  
+  
+<div id="p065v_5" categories="painting">
+         
+<head><m>Lead white</m></head>
+        
+<ab>It does not die &amp; has a lot of body.</ab>
+        
+</div>
+    
+<div id="p065v_7" part="y">
+<ab margin="bottom" render="wide">
+<comment rid="c_065v_04"/>with <m>ceruse</m>, <del>&amp; a bit of</del> <m>yellow ocher</m>, &amp;
 a little <m>massicot</m>, &amp; make it not very thick in order that it does
 not crack.</ab>
-
 </div>
 </root>

@@ -8,6 +8,7 @@ start =
   element root {
     attribute page { xsd:NMTOKEN },
     attribute image { xsd:anyURI },
+    attribute layout { "three-column" | "four-column" }?,
     mixed {
       (# <text/>
        e.ab
@@ -28,7 +29,13 @@ start =
 ## Anonymous Block: a generic block of text
 e.ab =
   element ab {
-    a.continued?, a.continues?, a.margin?, a.render?, m.phrase
+    a.continued?,
+    a.continues?,
+    a.margin?,
+    a.render?,
+    a.cancelled?,
+    a.hand?,
+    m.phrase
   }
 # div
 
@@ -128,10 +135,6 @@ e.lb = element lb { empty }
 
 ## Supplied Text: Text added by the transcriber/editor.
 e.sup = element sup { m.phrase }
-# unc
-
-## Unclear: Text which has been transcribed but with some uncertainty
-e.unc = element unc { m.phrase }
 # underline
 
 ## Underlined: underlined text
@@ -160,7 +163,7 @@ e.ups = element ups { m.phrase }
 a.id = attribute id { xsd:NMTOKEN }
 # margin
 
-## Margin (position): the location in the margin at which the parent element appears in the source document. Valid values are: "right-top", "right-middle", "right-bottom", "left-top", "left-middle", "left-bottom", "top", and "bottom"
+## Margin (position): the location in the margin at which the parent element appears in the source document. Valid values are: "right-top", "right-middle", "right-bottom", "left-top", "left-middle", "left-bottom", "top", "bottom", and "full"
 a.margin =
   attribute margin {
     ("left-top"
@@ -170,12 +173,13 @@ a.margin =
      | "right-middle"
      | "right-bottom"
      | "top"
-     | "bottom")?
+     | "bottom"
+     | "full")?
   }
 # render
 
-## Margin rendition: Instructions to cue the proper rendition of the height and width  a margin block. Valid values are: "tall", "wide", and "extra-wide"
-a.render = attribute render { ("tall" | "wide" | "extra-wide")? }
+## Margin rendition: Instructions to cue the proper rendition of the height and width  a margin block. Valid values are: "tall", "wide", and "full"
+a.render = attribute render { ("tall" | "wide" | "full")? }
 # size
 
 ## Image size: Instructions to cue the proper rendition of the size of an image. Valid values are: "x-small", "small", "medium", and "large"
@@ -204,6 +208,15 @@ a.categories = attribute categories { xsd:token }
 
 ## Part: Indicates that a div is a part of the same text division which shares the same id on the same folio page. Values are "y" and "n".
 a.part = attribute part { "y" | "n" }
+# cancelled
+
+## Cancelled: Indicates that an ab has been stricken out (or cancelled) in the original. Values are "y" and "n".
+a.cancelled = attribute cancelled { "y" | "n" }
+# hand
+
+## Hand: Indicates that an ab has been written by a hand other than the main hand of the author-practitioner, hand a. Valid values are: "handa'", "handb", "handc", "handd", and "hande"
+a.hand =
+  attribute hand { ("handa'" | "handb" | "handc" | "handd" | "hande")? }
 #
 
 # LANGUAGE ELEMENTS
@@ -364,7 +377,6 @@ m.phrase =
    | e.underline
    | e.superscript
    | e.exp
-   | e.unc
    | e.comment
    | e.hr
    | e.emph

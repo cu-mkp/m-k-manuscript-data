@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><root page="106v" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f218.image">
+<?xml version="1.0" encoding="UTF-8"?><root page="106v" layout="four-column" image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f218.image">
 
 
 
@@ -7,7 +7,7 @@
 
 <head>Gecter en <m>or</m></head>
 
-<ab>Pour gecter d<m>or</m> <del>il f</del> le <m><la>crocum
+<ab render="wide">Pour gecter d<m>or</m> <del>il f</del> le <m><la>crocum
 ferri</la></m> est necessaire  <add>&amp;plus d<m>alum<lb/>
 
 de plume</m> quen la mixtion suivante la mixtion d<m>alum de plume</m>
@@ -18,12 +18,12 @@ promptement avec des <tl>presses<lb/>
 
 de <m>fer</m></tl></add></ab>
 
-<ab>L<m>escaille des <al>chancres</al> &amp; <al>escrevisses</al></m>
+<ab render="wide">L<m>escaille des <al>chancres</al> &amp; <al>escrevisses</al></m>
 sont malaisees a brusler<lb/>
 
 &amp; y a propre facon pour les mouler</ab>
 
-<ab>Les <al>rats</al> &amp; <al>oyseaulx</al> se moulent Et les pieds
+<ab render="wide">Les <al>rats</al> &amp; <al>oyseaulx</al> se moulent Et les pieds
 sont<lb/>
 
 malaises de retirer estant brusles pourcequilz sont petits<lb/>
@@ -34,47 +34,15 @@ du <tl>moule</tl><lb/>
 Les pieds se gectent a plusieurs <del>foys</del> pieces</ab>
 </div>
     
-<div id="p106v_3" categories="casting">
 
-<head><m>Tuiles</m></head>
 
-<ab>Les <m>tuilles</m> de quoy on couvre les <env>maisons</env> des plus
-dures<lb/>
-
-&amp; plus fermes et repurgees de <m>pierres</m> &amp; gros
-<m>gravier</m><lb/>
-
-se prenent pour <del>p</del><add>b</add> mesler parmy le <m>sable</m> <del>Et</del> a
-mouler<lb/>
-
-Mays plustost il les fault recuire jusques a ce quelles<lb/>
-
-ayent este une <ms><tmp>heure</tmp></ms> ou deux bien rouges &amp; les
-<tl>piler</tl> &amp;<lb/>
-
-passer subtillement par le <tl>tamis</tl></ab>
-
-<ab>Les petites <al>tortues</al> estant sorties de loeuf sont bien<lb/>
-
-gentilles a mouler<comment rid="c_106v_02"/><hr/></ab>
-    
-<ab margin="right-middle">
-        
-<add>celles des <env>maisons</env> qui sont de <m>terre<lb/>
-            
-aulcunem<exp>ent</exp> areneuse</m> semblent tenir plus<lb/>
-            
-au foeu</add></ab>
-
-</div>
-
-<div id="p106v_2" categories="casting" continued="yes">
+<div id="p106v_2" categories="casting">
 
 <head margin="left-top"><m>Plastre</m><comment rid="c_106v_07"/></head>
 
-<ab margin="left-top">
+<ab margin="left-top" render="tall">
 
-Quant tu las en<lb/>
+Quand tu las en<lb/>
         
 <m>pierre</m> choisis les<lb/>
         
@@ -92,7 +60,7 @@ bien de pouldre &amp;<lb/>
         
 le piler</ab>
     
-<ab margin="left-top">
+<ab margin="left-top" render="tall">
 
 Le <m>plastre</m><lb/>
         
@@ -104,8 +72,54 @@ se rompt en<lb/>
         
 lopins</ab>
     
-<ab margin="left-top">
+</div>
 
+ 
+<div id="p106v_3" categories="casting">
+        
+<head><m>Tuiles</m></head>
+    
+<ab margin="right-middle">
+        
+<add>celles des <env>maisons</env> qui sont de <m>terre<lb/>
+            
+aulcunem<exp>ent</exp> areneuse</m> semblent tenir plus<lb/>
+            
+au foeu</add></ab>
+    
+</div>
+
+<div id="p106v_3" part="y">
+<ab render="wide">Les <m>tuilles</m> de quoy on couvre les <env>maisons</env> des plus
+dures<lb/>
+            
+&amp; plus fermes et repurgees de <m>pierres</m> &amp; gros
+<m>gravier</m><lb/>
+            
+se prenent pour <del>p</del> mesler parmy le <m>sable</m> <del>Et</del> a
+mouler<lb/>
+            
+Mays plustost il les fault recuire jusques a ce quelles<lb/>
+            
+ayent este une <ms><tmp>heure</tmp></ms> ou deux bien rouges &amp; les
+<tl>piler</tl> &amp;<lb/>
+            
+passer subtillement par le <tl>tamis</tl></ab>
+        
+<ab render="wide">Les petites <al>tortues</al> estant sorties de loeuf sont bien<lb/>
+            
+gentilles a mouler<comment rid="c_106v_02"/></ab>
+        
+
+        
+</div>
+    
+    
+
+<div id="p106v_2" part="y" continued="yes">
+
+<ab margin="left-top">
+        
 Le <m>plastre</m> recuit<lb/>
         
 <del>se ga</del> comme dit est icy<lb/>
@@ -128,8 +142,8 @@ pour ouvrage<lb/>
         
 exquis</ab>
     
-<ab margin="left-top" render="tall">
-
+<ab margin="left-middle">
+        
 Il fault quil<lb/>
         
 soubstienne le foeu<lb/>
@@ -139,14 +153,14 @@ soubstienne le foeu<lb/>
 comme un <m>charbon</m><lb/>
         
 allume</ab>
-
-<ab>
+    
+<ab render="wide"><hr/>
 <add>Si le <m>plastre</m> est mesle de quelque <m>poulssiere</m> ou nest
 du fort il se creve au<lb/>
 
 foeu &amp; faict faire des baves</add></ab>
 
-<ab><emph>Le <m>plastre</m></emph> co<exp>mm</exp>e dict est le plus dur
+<ab render="wide"><emph>Le <m>plastre</m></emph> co<exp>mm</exp>e dict est le plus dur
 est le meilleur estant en<lb/>
 
 <m>pierre</m> prens le doncq tout cru en telle sorte <tl>Pile</tl> le
@@ -155,7 +169,7 @@ est le meilleur estant en<lb/>
 subtillement quil te sera possible Et le passe par le plus<lb/>
 
 delie <tl>tamis</tl> ou <tl>manche</tl> que tu pourras
-<del>A</del>Estant ainsy <del>p</del>bien<lb/>
+<del>A</del>Estant<comment rid="c_106v_01"/> ainsy <del>p</del>bien<comment rid="c_091v_01"/><lb/>
 
 subtil mects le <add><ms>en bonne quantite</ms></add> dans un
 <tl>chaulderon</tl> ou <tl>poelonne</tl> sur foeu de<lb/>
@@ -181,10 +195,10 @@ ne soient recuits &amp; que les cercles d<m>ardille</m> ne soient faicts
 Car il fault que ce<lb/>
 
 soict le dernier recuit &amp; quand tout le reste est prest Car le
-moings que le <m>plastre</m> <mark>#</mark></add>
+moings que le <m>plastre</m> <mark>#</mark></add><comment rid="c_112r_02"/>
 </ab>
 
-<ab><emph>L<m>alum de plume</m></emph> est celuy qui donne bonne liaison
+<ab render="wide"><emph>L<m>alum de plume</m></emph> est celuy qui donne bonne liaison
 au <m>sable</m></ab>
     
 <ab><emph>Le <m><la>crocum ferri</la></m></emph> est propre pour
@@ -194,7 +208,7 @@ mesle parmy le <m>sable</m> le recoit &amp; le contient en sa
 chaleur<hr/></ab>
 
 
-<ab margin="left-bottom" render="wide">
+<ab margin="left-middle">
 
 <mark>#</mark><comment rid="c_106v_03"/><lb/>
 
@@ -218,12 +232,12 @@ recuire mects le en<lb/>
 
 pouldre subtile<lb/>
 
-tout cru dans un<lb/>
+tout cru dans un</ab>
 
-<tl>chauderon</tl> sur <del>cendre</del> flamme claire &amp; ne la donne
+<ab margin="bottom" render="full" continued="yes"><tl>chauderon</tl> sur <del>cendre</del> flamme claire &amp; ne la donne
 pas trop a coup ne trop vehemente<lb/>
 
-remue tousjours Avecq un long <tl>baston</tl> pour eviter la vapeur le
+remue tousjours Avecq un long <tl>baston</tl> pour <md>eviter la vapeur</md> le
 tourna<exp>n</exp>t aultour du <tl>chaulderon</tl><lb/>
 
 &amp; au milieu en forme de 8 Au commancem<exp>ent</exp> tu le trouveras
