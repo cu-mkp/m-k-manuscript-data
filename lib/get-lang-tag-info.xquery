@@ -1,5 +1,6 @@
 (: This XQuery script selects elements "la", "de", "el", "it", "oc", "po" in the document, and returns information about them :)
-(: This information includes the id of the ancestor div element, the local name of the current element, the text content of the ancestor head element, the categories attribute of the ancestor div element, and the local names of the current element's parent elements :)
+(: This information includes the id of the ancestor div element, the local name of the current element, the text content of the :)
+(: ancestor head element, the categories attribute of the ancestor div element, and the local names of the current element's parent elements :)
 
 (: Select all the "la", "de", "el", "it", "oc", "po" elements in the document :)
 for $lang in //(la | de | el | it | oc | po)
