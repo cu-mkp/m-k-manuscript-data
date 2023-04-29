@@ -21,5 +21,7 @@ for $lang in //(la | de | el | it | oc | po)
   let $parent2 := $lang/parent::*/parent::*/local-name()
   let $parent3 := $lang/parent::*/parent::*/parent::*/local-name()
   
+  order by $lang-name
+  
   (: Concatenate all the information and return it as a string with line break at the end :)
   return concat($id,':',$lang-name,':',normalize-space($head),':',$categories,':',$parent3,':',$parent2,':',$parent1,':','"',normalize-space($lang),'"','&#10;')
