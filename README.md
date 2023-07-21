@@ -76,14 +76,17 @@ These include:
 
 **Making changes to derivative files in `m-k-manuscript-data`:**
 
+
+
 1. `cd` to `m-k-manuscript-data` directory
 2. `git fetch`
-3. `git pull`
-4. Checkout a branch: `git checkout -b [name of branch]`
-5. `cd` to `manuscript-object` directory
-6. `git fetch`
-7. `git pull`
-8. Run update.py: `python3 update.py` (might need to use `python3.8`, e.g., if you have more than one version installed)
+3. `git pull` to make sure you are up to date
+4. Checkout a branch: `git checkout -b [name of branch]` -- though you will be running code in the `manuscript-object` directory, its output will be written to the `m-k-manuscript-data` directory (i.e., the changes will be made in that directory)
+5. Navigate to your local `manuscript-object` directory: `cd` to `manuscript-object` directory
+6. Make sure you're on the correct (usually master) branch by typing `git status`. If you're not in the correct branch, type `git checkout -b [BRANCH_NAME]`.
+7. `git fetch`
+8. `git pull`
+8. Run update.py: `python3 update.py` (might need to use `python3.8`, e.g., if you have more than one version installed)  -- more technical details are provided in this step in the README of [manuscript-object]([https://github.com/cu-mkp/manuscript-object](https://github.com/cu-mkp/manuscript-object/blob/master/README.md#running-updatepy))
 9. `cd` back to `m-k-manuscript-data` directory
 10. `git add .`
 11. `git commit -m '#[issue##]: [commit message]'`
