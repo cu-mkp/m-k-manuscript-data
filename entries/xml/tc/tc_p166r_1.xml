@@ -1,24 +1,4 @@
-<entry><div continues="yes" id="p166r_1" categories="La boutique">
-
-
-
-
-<ab>Aulx exemplaires <pl>grecs</pl> il
-sadjouste un psalme de <pn>david</pn><comment rid="c_166v_02"/><lb/>
-
-duquel <pn>s<exp>ainc</exp>t Athanase</pn><comment rid="c_166v_08"/> faict mention <del>en</del>
-<la>in Sinopsi</la><comment rid="c_166v_07"/> il se comma<exp>n</exp>ce<lb/>
-
-<la>parvus eram</la><comment rid="c_166v_04"/> &amp; au second verset le prophete royal dict<lb/>
-<del><la><bp>Manus</bp> meӕ</la></del>
-<emph><la><bp>Manus</bp> meӕ fecerunt organum et
-<bp>digiti</bp><lb/>
-
-mei aptarunt psalterium</la></emph><comment rid="c_166v_05"/><hr/></ab>
-
-</div>
-
-<div id="p166r_1" categories="La boutique" continued="yes">
+<entry><div id="p166r_1" categories="La boutique" continued="yes">
 
 <head>Pour la <env>boutique</env></head>
 
@@ -127,4 +107,24 @@ princip.<comment rid="c_166r_09"/></la></ab>
 
 
 </div>
+<div continues="yes" id="p166r_1" categories="La boutique">
+
+
+
+
+<ab>Aulx exemplaires <pl>grecs</pl> il
+sadjouste un psalme de <pn>david</pn><comment rid="c_166v_02"/><lb/>
+
+duquel <pn>s<exp>ainc</exp>t Athanase</pn><comment rid="c_166v_08"/> faict mention <del>en</del>
+<la>in Sinopsi</la><comment rid="c_166v_07"/> il se comma<exp>n</exp>ce<lb/>
+
+<la>parvus eram</la><comment rid="c_166v_04"/> &amp; au second verset le prophete royal dict<lb/>
+<del><la><bp>Manus</bp> meӕ</la></del>
+<emph><la><bp>Manus</bp> meӕ fecerunt organum et
+<bp>digiti</bp><lb/>
+
+mei aptarunt psalterium</la></emph><comment rid="c_166v_05"/><hr/></ab>
+
+</div>
+
 </entry>

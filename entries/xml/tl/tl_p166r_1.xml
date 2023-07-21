@@ -1,20 +1,4 @@
-<entry><div continues="yes" id="p166r_1" categories="La boutique">
-
-
-
-
-
-<ab>To the <pl>Greek</pl> examples, there can be added a psalm of
-<pn>David</pn><comment rid="c_166v_02"/> of which <pn>St. Athanasius</pn><comment rid="c_166v_08"/> makes mention
-<del><fr>en</fr></del> <la>in Sinopsi</la>.<comment rid="c_166v_07"/> It begins <la>Parvus
-eram</la><comment rid="c_166v_04"/> &amp; in the second versicle the
-royal prophet says, <del><la><bp>Manus</bp> meae</la></del>
-<emph><la><bp>Manus</bp> meae fecerunt organum et
-<bp>digiti</bp> mei aptarunt psalterium</la></emph>.<comment rid="c_166v_05"/><hr/></ab>
-
-</div>
-
-<div id="p166r_1" categories="La boutique" continued="yes">
+<entry><div id="p166r_1" categories="La boutique" continued="yes">
 
 <head>For the <env>workshop</env></head>
 
@@ -83,4 +67,20 @@ princip<exp>ium</exp>.</la><comment rid="c_166r_09"/></ab>
 
 
 </div>
+<div continues="yes" id="p166r_1" categories="La boutique">
+
+
+
+
+
+<ab>To the <pl>Greek</pl> examples, there can be added a psalm of
+<pn>David</pn><comment rid="c_166v_02"/> of which <pn>St. Athanasius</pn><comment rid="c_166v_08"/> makes mention
+<del><fr>en</fr></del> <la>in Sinopsi</la>.<comment rid="c_166v_07"/> It begins <la>Parvus
+eram</la><comment rid="c_166v_04"/> &amp; in the second versicle the
+royal prophet says, <del><la><bp>Manus</bp> meae</la></del>
+<emph><la><bp>Manus</bp> meae fecerunt organum et
+<bp>digiti</bp> mei aptarunt psalterium</la></emph>.<comment rid="c_166v_05"/><hr/></ab>
+
+</div>
+
 </entry>
