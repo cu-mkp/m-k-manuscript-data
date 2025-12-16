@@ -19,10 +19,11 @@ def escape_html(text):
             .replace('"', "&quot;")
             .replace("'", "&#39;"))
 
-def process_element(elem, depth=0):
+def process_element(elem, depth=0, margin_notes=None):
     """
     Recursively process XML elements and convert to HTML.
     Returns HTML string.
+    margin_notes: list to collect margin notes (ab elements with margin attribute)
     """
     tag = elem.tag
     text = elem.text or ""
@@ -43,12 +44,28 @@ def process_element(elem, depth=0):
     elif tag == "div":
         div_id = elem.get("id", "")
         categories = elem.get("categories", "")
+
+        # Create a list to collect margin notes for this div
+        div_margin_notes = []
+
         html = f'<div class="entry" id="{escape_html(div_id)}" data-categories="{escape_html(categories)}">\n'
         if text.strip():
             html += escape_html(text)
+
+        # Process children, collecting margin notes
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, margin_notes=div_margin_notes)
+
         html += '</div>\n'
+
+        # Add margin notes after the div if any were collected
+        if div_margin_notes:
+            html += '<div class="margin-notes">\n'
+            html += '<h3 class="margin-notes-header">Margin Notes:</h3>\n'
+            for note_html in div_margin_notes:
+                html += note_html
+            html += '</div>\n'
+
         if tail.strip():
             html += escape_html(tail)
         return html
@@ -59,7 +76,7 @@ def process_element(elem, depth=0):
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, margin_notes=margin_notes)
         html += '</h2>\n'
         if tail:
             html += escape_html(tail)
@@ -68,12 +85,28 @@ def process_element(elem, depth=0):
     elif tag == "ab":
         margin = elem.get("margin", "")
         render = elem.get("render", "")
+
+        # If this ab has a margin attribute and we're collecting notes, add to notes
+        if margin and margin_notes is not None:
+            note_html = f'<div class="margin-note" data-position="{escape_html(margin)}">\n'
+            note_html += f'<span class="margin-position">[{escape_html(margin)}]</span> '
+            if text:
+                note_html += escape_html(text)
+            for child in elem:
+                note_html += process_element(child, depth + 1, margin_notes=None)
+            note_html += '</div>\n'
+            margin_notes.append(note_html)
+
+            # Return tail only (the margin note itself is collected)
+            return escape_html(tail) if tail else ""
+
+        # Regular ab without margin or not collecting notes
         classes = f"ab {escape_html(margin)} {escape_html(render)}".strip()
         html = f'<p class="{classes}">'
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, margin_notes=margin_notes)
         html += '</p>\n'
         if tail:
             html += escape_html(tail)
@@ -466,7 +499,7 @@ def process_element(elem, depth=0):
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, margin_notes=margin_notes)
         html += '</div>\n'
         if tail:
             html += escape_html(tail)
@@ -478,7 +511,7 @@ def process_element(elem, depth=0):
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, margin_notes=margin_notes)
         if tail:
             html += escape_html(tail)
         return html
@@ -678,6 +711,44 @@ def get_css():
         border-top: 1px solid #bdc3c7;
         margin: 1em 0;
     }
+
+    /* Margin notes section */
+    .margin-notes {
+        margin-top: 1.5em;
+        margin-bottom: 2em;
+        padding: 1em;
+        background-color: #f8f9fa;
+        border-left: 4px solid #3498db;
+        page-break-inside: avoid;
+    }
+
+    .margin-notes-header {
+        font-size: 12pt;
+        font-weight: bold;
+        color: #2c3e50;
+        margin: 0 0 0.75em 0;
+    }
+
+    .margin-note {
+        margin-bottom: 0.75em;
+        padding: 0.5em;
+        background-color: #ffffff;
+        border-left: 2px solid #95a5a6;
+        font-size: 10pt;
+        line-height: 1.5;
+    }
+
+    .margin-note:last-child {
+        margin-bottom: 0;
+    }
+
+    .margin-position {
+        display: inline-block;
+        font-weight: bold;
+        color: #7f8c8d;
+        font-size: 0.9em;
+        font-variant: small-caps;
+    }
     """
 
 def xml_to_html(xml_file, output_html):
@@ -741,8 +812,8 @@ def main():
     """Main function."""
     # Input and output paths
     xml_file = Path("allFolios/xml/tl/all_tl.xml")
-    html_file = Path("allFolios/xml/tl/all_tl.html")
-    pdf_file = Path("allFolios/xml/tl/all_tl.pdf")
+    html_file = Path("allFolios/pdf/all_tl.html")
+    pdf_file = Path("allFolios/pdf/all_tl.pdf")
 
     # Check if XML file exists
     if not xml_file.exists():
