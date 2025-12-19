@@ -22,6 +22,7 @@ Repository: https://github.com/cu-mkp/m-k-manuscript-data
 
 import xml.etree.ElementTree as ET
 import sys
+import csv
 from pathlib import Path
 
 # ==============================================================================
@@ -59,7 +60,7 @@ def escape_html(text):
 # XML TO HTML CONVERSION
 # ==============================================================================
 
-def process_element(elem, depth=0, margin_notes=None):
+def process_element(elem, depth=0, margin_notes=None, endnotes=None):
     """
     Recursively process XML elements and convert to styled HTML.
 
@@ -75,12 +76,20 @@ def process_element(elem, depth=0, margin_notes=None):
       as a separate "Margin Notes" section after the div
     - This separates marginal annotations from the main manuscript content
 
+    Special behavior for comments:
+    - All <comment> elements are collected into the endnotes list
+    - Each comment is assigned a sequential number
+    - In-text references are converted to clickable links
+    - A complete endnotes section is generated at the end
+
     Args:
         elem (ET.Element): XML element to process
         depth (int): Current recursion depth (for debugging)
         margin_notes (list): List to collect margin note HTML strings.
                            When provided, <ab> elements with margin attributes
                            are added to this list instead of inline rendering.
+        endnotes (list): List to collect comment IDs for endnotes section.
+                        Comments are numbered sequentially as encountered.
 
     Returns:
         str: HTML representation of the element and its children
@@ -98,7 +107,7 @@ def process_element(elem, depth=0, margin_notes=None):
     if tag == "all":
         html = '<div class="manuscript">\n'
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, endnotes=endnotes)
         html += '</div>\n'
         return html
 
@@ -133,9 +142,9 @@ def process_element(elem, depth=0, margin_notes=None):
             html += escape_html(text)
 
         # Process all child elements, passing the margin_notes list so they
-        # can add margin annotations to it
+        # can add margin annotations to it, and endnotes list for comments
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=div_margin_notes)
+            html += process_element(child, depth + 1, margin_notes=div_margin_notes, endnotes=endnotes)
 
         html += '</div>\n'
 
@@ -167,7 +176,7 @@ def process_element(elem, depth=0, margin_notes=None):
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=margin_notes)
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes)
         html += '</h2>\n'
         if tail:
             html += escape_html(tail)
@@ -205,7 +214,7 @@ def process_element(elem, depth=0, margin_notes=None):
                 note_html += escape_html(text)
             # Process children but don't collect more notes (margin_notes=None)
             for child in elem:
-                note_html += process_element(child, depth + 1, margin_notes=None)
+                note_html += process_element(child, depth + 1, margin_notes=None, endnotes=endnotes)
             note_html += '</div>\n'
             # Add to the parent div's margin notes collection
             margin_notes.append(note_html)
@@ -219,7 +228,7 @@ def process_element(elem, depth=0, margin_notes=None):
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=margin_notes)
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes)
         html += '</p>\n'
         if tail:
             html += escape_html(tail)
@@ -715,8 +724,36 @@ def process_element(elem, depth=0, margin_notes=None):
             html += escape_html(tail)
         return html
 
-    elif tag == "comment":  # Comment reference
+    # --------------------------------------------------------------------------
+    # <comment>: Comment Reference
+    # --------------------------------------------------------------------------
+    # Links to editorial commentary. Converted to numbered endnotes.
+    # Attributes:
+    #   - rid: Comment ID (e.g., "c_001r_01")
+    #
+    # Rendering:
+    # - In-text: Clickable superscript number (e.g., [1])
+    # - Links to endnote at bottom of document
+    # - Endnote links back to reference location
+    elif tag == "comment":
         rid = elem.get("rid", "")
+
+        # If we're collecting endnotes, add this comment
+        if endnotes is not None and rid:
+            # Add to endnotes list if not already present
+            if rid not in [note['id'] for note in endnotes]:
+                endnotes.append({'id': rid})
+
+            # Find the index/number for this comment
+            note_num = next(i + 1 for i, note in enumerate(endnotes) if note['id'] == rid)
+
+            # Create clickable link to endnote
+            # The link goes to #endnote-{rid} anchor at bottom
+            # The reference has id="ref-{rid}" so endnote can link back
+            html = f'<sup class="comment-ref"><a href="#endnote-{escape_html(rid)}" id="ref-{escape_html(rid)}">[{note_num}]</a></sup>'
+            return html + escape_html(tail)
+
+        # Fallback if no endnotes collection
         return f'<sup class="comment-ref">[{escape_html(rid)}]</sup>' + escape_html(tail)
 
     elif tag == "figure":  # Figure
@@ -727,7 +764,7 @@ def process_element(elem, depth=0, margin_notes=None):
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=margin_notes)
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes)
         html += '</div>\n'
         if tail:
             html += escape_html(tail)
@@ -743,7 +780,7 @@ def process_element(elem, depth=0, margin_notes=None):
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=margin_notes)
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes)
         if tail:
             html += escape_html(tail)
         return html
@@ -1001,22 +1038,127 @@ def get_css():
         font-size: 0.9em;
         font-variant: small-caps;
     }
+
+    /* Endnotes section */
+    .endnotes {
+        margin-top: 3em;
+        padding-top: 2em;
+        border-top: 2px solid #2c3e50;
+        page-break-before: always;
+    }
+
+    .endnotes-header {
+        font-size: 18pt;
+        font-weight: bold;
+        color: #2c3e50;
+        margin-bottom: 1em;
+    }
+
+    .endnote {
+        margin-bottom: 1em;
+        font-size: 10pt;
+        line-height: 1.6;
+        padding-left: 2em;
+        text-indent: -2em;
+    }
+
+    .endnote-number {
+        font-weight: bold;
+        color: #3498db;
+        margin-right: 0.5em;
+    }
+
+    .endnote-id {
+        font-family: monospace;
+        color: #7f8c8d;
+        font-size: 0.85em;
+        margin-right: 0.5em;
+    }
+
+    .endnote-text {
+        display: block;
+        margin-left: 2em;
+        margin-top: 0.25em;
+        color: #2c3e50;
+        text-indent: 0;
+    }
+
+    .endnote-text i {
+        font-style: italic;
+    }
+
+    .endnote-backlink {
+        color: #3498db;
+        text-decoration: none;
+        font-size: 0.9em;
+        margin-left: 0.5em;
+    }
+
+    .endnote-backlink:hover {
+        text-decoration: underline;
+    }
+
+    /* Comment reference links */
+    .comment-ref a {
+        color: #3498db;
+        text-decoration: none;
+    }
+
+    .comment-ref a:hover {
+        text-decoration: underline;
+    }
     """
 
 # ==============================================================================
 # CONVERSION PIPELINE FUNCTIONS
 # ==============================================================================
 
+def load_comments(csv_file):
+    """
+    Load comment data from DCE comment tracking CSV.
+
+    Parses the comment tracking CSV and creates a dictionary mapping
+    comment IDs to their content.
+
+    Args:
+        csv_file (Path): Path to DCE_comment-tracking-Tracking.csv
+
+    Returns:
+        dict: Dictionary mapping comment IDs (e.g., 'c_001r_01') to comment text
+    """
+    comments = {}
+    try:
+        with open(csv_file, 'r', encoding='utf-8') as f:
+            reader = csv.reader(f)
+            next(reader)  # Skip header row
+            for row in reader:
+                if len(row) >= 8:
+                    comment_id = row[2]  # Column 2: Comment-ID
+                    comment_text = row[7]  # Column 7: Comment
+                    if comment_id and comment_text:
+                        comments[comment_id] = comment_text
+        print(f"Loaded {len(comments)} comments from CSV")
+    except FileNotFoundError:
+        print(f"Warning: Comment CSV not found at {csv_file}")
+        print("Endnotes will only show comment IDs without content")
+    except Exception as e:
+        print(f"Warning: Error loading comments: {e}")
+        print("Endnotes will only show comment IDs without content")
+
+    return comments
+
 def xml_to_html(xml_file, output_html):
     """
     Convert manuscript XML file to styled HTML.
 
     This function orchestrates the XML-to-HTML conversion process:
-    1. Parses the XML manuscript file using ElementTree
-    2. Recursively processes all elements via process_element()
-    3. Wraps the converted content in a complete HTML document
-    4. Embeds the CSS stylesheet for styling
-    5. Writes the final HTML to disk
+    1. Loads comment data from CSV file
+    2. Parses the XML manuscript file using ElementTree
+    3. Recursively processes all elements via process_element()
+    4. Wraps the converted content in a complete HTML document
+    5. Embeds the CSS stylesheet for styling
+    6. Generates endnotes section with actual comment content
+    7. Writes the final HTML to disk
 
     The resulting HTML file can be viewed in a browser or converted to PDF.
     It includes:
@@ -1025,6 +1167,7 @@ def xml_to_html(xml_file, output_html):
     - Manuscript title headers
     - All converted manuscript content with semantic formatting
     - Extracted margin notes in separate sections
+    - Linked endnotes with full comment text
 
     Args:
         xml_file (Path): Path to input XML file (all_tl.xml)
@@ -1036,13 +1179,51 @@ def xml_to_html(xml_file, output_html):
     """
     print(f"Parsing XML file: {xml_file}")
 
+    # Load comment data from CSV
+    csv_file = Path("metadata/DCE_comment-tracking-Tracking.csv")
+    comments_dict = load_comments(csv_file)
+
     # Parse the XML manuscript file
     tree = ET.parse(xml_file)
     root = tree.getroot()
 
+    # Initialize endnotes collection for comment references
+    endnotes = []
+
     # Convert XML tree to HTML by recursively processing all elements
+    # Pass endnotes list to collect all comment references
     print("Converting XML to HTML...")
-    body_html = process_element(root)
+    body_html = process_element(root, endnotes=endnotes)
+
+    # Generate endnotes section if comments were found
+    endnotes_html = ""
+    if endnotes:
+        print(f"Generating {len(endnotes)} endnotes...")
+        endnotes_html = '<div class="endnotes">\n'
+        endnotes_html += '<h2 class="endnotes-header">Endnotes</h2>\n'
+        for i, note in enumerate(endnotes, 1):
+            note_id = note['id']
+            # Get comment text from CSV, if available
+            comment_text = comments_dict.get(note_id, "")
+
+            # Each endnote has:
+            # - An anchor (id) so links can jump to it
+            # - The note number
+            # - The comment ID in gray monospace
+            # - The actual comment text (if available)
+            # - A backlink (↩) to return to the reference in text
+            endnotes_html += f'<div class="endnote" id="endnote-{escape_html(note_id)}">\n'
+            endnotes_html += f'  <span class="endnote-number">[{i}]</span>'
+            endnotes_html += f'  <span class="endnote-id">{escape_html(note_id)}</span>'
+
+            # Add comment text if available
+            # Note: CSV contains HTML tags like <i>, which we preserve
+            if comment_text:
+                endnotes_html += f'  <span class="endnote-text">{comment_text}</span>'
+
+            endnotes_html += f'  <a href="#ref-{escape_html(note_id)}" class="endnote-backlink">↩</a>\n'
+            endnotes_html += '</div>\n'
+        endnotes_html += '</div>\n'
 
     # Create complete HTML document with metadata, styling, and content
     html = f"""<!DOCTYPE html>
@@ -1058,6 +1239,7 @@ def xml_to_html(xml_file, output_html):
     <h1>Secrets of Craft and Nature in Renaissance France</h1>
     <h2>BnF Ms. Fr. 640 - English Translation</h2>
     {body_html}
+    {endnotes_html}
 </body>
 </html>
 """
