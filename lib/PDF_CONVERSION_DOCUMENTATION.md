@@ -112,9 +112,9 @@ The script renders different element types with distinct visual treatments to ma
 #### `<head>` - Heading
 **Purpose:** Entry titles and headings
 **Rendering:**
-- `<h2>` element, 14pt, bold
-- Dark gray color (#2c3e50)
-- Bottom border for emphasis
+- `<h3>` element. Two styles are applied based on the `margin` attribute:
+  - **Major Heading:** 18pt, bold, dark gray, with a solid bottom border. This is the default.
+  - **Minor Heading:** 14pt, bold, dark gray, with a lighter bottom border. Applied when the `margin` attribute contains 'left-middle' or 'right-top'.
 
 #### `<ab>` - Anonymous Block
 **Purpose:** Primary text container for manuscript content
@@ -135,6 +135,8 @@ The script renders different element types with distinct visual treatments to ma
 ---
 
 ### 2. Semantic Elements
+
+**Note:** The color-coded styling for these elements is optional. By default, they are rendered as plain text. To enable the styling described below, run the script with the `--semantic` flag.
 
 These elements mark significant terms and concepts. Each receives distinct color-coding:
 
@@ -382,6 +384,8 @@ pip install weasyprint
 
 ## Usage
 
+The script is run from the command line and accepts an optional flag to control semantic styling.
+
 ### Basic Usage
 
 ```bash
@@ -389,40 +393,28 @@ pip install weasyprint
 source .venv/bin/activate
 python3 lib/generate_pdf.py
 ```
+This will generate the PDF without any special coloring for semantic elements.
+
+### Command-Line Options
+
+#### `--semantic`
+- **Purpose:** Enables the rendering of semantic elements with special styling (colors, font weights, etc.).
+- **Default:** Off.
+- **Usage:**
+  ```bash
+  python3 lib/generate_pdf.py --semantic
+  ```
 
 ### Output
 
-The script produces:
-1. **allFolios/pdf/all_tl.html** (1.3 MB)
-   - Can be opened in any web browser
-   - Contains all styling inline
-   - Useful for debugging or web viewing
+The script produces two files:
+1.  **allFolios/pdf/all_tl.html**
+    - An intermediate HTML file containing the manuscript content.
+    - This file can be opened in a web browser for debugging or viewing.
 
-2. **allFolios/pdf/all_tl.pdf** (3.2 MB)
-   - Print-ready PDF
-   - ~656 margin note sections
-   - All semantic styling applied
-
-### Progress Output
-
-```
-Parsing XML file: allFolios/xml/tl/all_tl.xml
-Converting XML to HTML...
-Writing HTML to: allFolios/pdf/all_tl.html
-HTML conversion complete!
-Generating PDF from HTML: allFolios/pdf/all_tl.html
-PDF generated successfully: allFolios/pdf/all_tl.pdf
-
-✓ PDF generation complete!
-  Output: allFolios/pdf/all_tl.pdf
-```
-
-### Running Without weasyprint
-
-If weasyprint is not installed, the script will:
-1. Generate the HTML file successfully
-2. Display installation instructions
-3. Allow manual PDF generation (print from browser)
+2.  **allFolios/pdf/all_tl.pdf**
+    - The final, print-ready PDF.
+    - The content of this file depends on the `--semantic` flag. If the flag is used, the PDF will include color-coded semantic styling. Otherwise, it will be plain text.
 
 ---
 
