@@ -172,12 +172,16 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None):
     # Rendered as: <h2> with semantic styling
     elif tag == "head":
         margin = elem.get("margin", "")
-        html = f'<h2 class="head {escape_html(margin)}">'
+        css_class = "head"
+        if "left-middle" in margin or "right-top" in margin:
+            css_class += " minor-head"
+        
+        html = f'<h3 class="{css_class} {escape_html(margin)}">'
         if text:
             html += escape_html(text)
         for child in elem:
             html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes)
-        html += '</h2>\n'
+        html += '</h3>\n'
         if tail:
             html += escape_html(tail)
         return html
@@ -831,6 +835,16 @@ def get_css():
     }
 
     .head {
+        font-size: 18pt;
+        font-weight: bold;
+        margin-top: 2em;
+        margin-bottom: 1em;
+        color: #2c3e50;
+        border-bottom: 2px solid #2c3e50;
+        padding-bottom: 0.5em;
+    }
+
+    .head.minor-head {
         font-size: 14pt;
         font-weight: bold;
         margin-top: 1.5em;
@@ -1200,7 +1214,7 @@ def xml_to_html(xml_file, output_html):
     if endnotes:
         print(f"Generating {len(endnotes)} endnotes...")
         endnotes_html = '<div class="endnotes">\n'
-        endnotes_html += '<h2 class="endnotes-header">Endnotes</h2>\n'
+        endnotes_html += '<h3 class="endnotes-header">Endnotes</h3>\n'
         for i, note in enumerate(endnotes, 1):
             note_id = note['id']
             # Get comment text from CSV, if available
@@ -1237,7 +1251,7 @@ def xml_to_html(xml_file, output_html):
 </head>
 <body>
     <h1>Secrets of Craft and Nature in Renaissance France</h1>
-    <h2>BnF Ms. Fr. 640 - English Translation</h2>
+    <h3>BnF Ms. Fr. 640 - English Translation</h3>
     {body_html}
     {endnotes_html}
 </body>
@@ -1321,7 +1335,7 @@ def main():
     # Define input and output file paths
     xml_file = Path("allFolios/xml/tl/all_tl.xml")
     html_file = Path("allFolios/pdf/all_tl.html")
-    pdf_file = Path("allFolios/pdf/all_tl.pdf")
+    pdf_file = Path("allFolios/pdf/all_tl_gemini.pdf")
 
     # Check if XML file exists
     if not xml_file.exists():
