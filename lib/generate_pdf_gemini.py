@@ -12,7 +12,26 @@ import sys
 import csv
 import argparse
 from pathlib import Path
+import urllib.request
 from collections import defaultdict
+
+def create_figure_list_html(figures):
+    """
+    Creates the HTML for a list of figures.
+    """
+    if not figures:
+        return ""
+
+    html = '<div id="list-of-figures" style="page-break-before: always;">\n'
+    html += '<h2>List of Figures</h2>\n'
+    for fig in figures:
+        html += f'<div class="figure-list-item" id="figure-list-{escape_html(fig["id"])}">\n'
+        html += f'<img src="../../images/{escape_html(fig["local_path"].name)}" alt="{escape_html(fig["alt_text"])}">\n'
+        html += f'<p class="figure-caption">Figure {escape_html(fig["id"].replace("fig_", ""))} - {escape_html(fig["alt_text"])}</p>\n'
+        html += f'<a href="#{escape_html(fig["id"])}">Back to reference</a>\n'
+        html += '</div>\n'
+    html += '</div>\n'
+    return html
 
 def create_toc_html():
     """
@@ -25,6 +44,7 @@ def create_toc_html():
             <li><a href="#transcription">Transcription</a></li>
             <li><a href="#endnotes">Endnotes</a></li>
             <li><a href="#back-of-book-index">Index of Categories</a></li>
+            <li><a href="#list-of-figures">List of Figures</a></li>
         </ul>
     </div>
     """
@@ -100,192 +120,378 @@ def escape_html(text):
 # XML TO HTML CONVERSION
 # ==============================================================================
 
-def process_element(elem, depth=0, margin_notes=None, endnotes=None, render_semantic=False):
+def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=None, render_semantic=False):
+
     """
+
     Recursively process XML elements and convert to styled HTML.
+
     """
+
     tag = elem.tag
+
     text = elem.text or ""
+
     tail = elem.tail or ""
+
     html = ""
 
+
+
     if tag == "all":
+
         html = '<div class="manuscript" id="transcription">\n'
+
         for child in elem:
-            html += process_element(child, depth + 1, endnotes=endnotes, render_semantic=render_semantic)
+
+            html += process_element(child, depth + 1, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+
         html += '</div>\n'
+
         return html
+
     elif tag == "div":
+
         div_id = elem.get("id", "")
+
         categories = elem.get("categories", "")
+
         div_margin_notes = []
+
         html = f'<div class="entry" id="{escape_html(div_id)}" data-categories="{escape_html(categories)}">\n'
+
         if text.strip():
+
             html += escape_html(text)
+
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=div_margin_notes, endnotes=endnotes, render_semantic=render_semantic)
+
+            html += process_element(child, depth + 1, margin_notes=div_margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+
         html += '</div>\n'
+
         if div_margin_notes:
+
             html += '<div class="margin-notes">\n'
+
             html += '<h3 class="margin-notes-header">in margin:</h3>\n'
+
             for note_html in div_margin_notes:
+
                 html += note_html
+
             html += '</div>\n'
+
         if tail.strip():
+
             html += escape_html(tail)
+
         return html
+
     elif tag == "head":
+
         margin = elem.get("margin", "")
+
         css_class = "head"
+
         if "left-middle" in margin or "right-top" in margin:
+
             css_class += " minor-head"
+
         html = f'<h3 class="{css_class} {escape_html(margin)}" >'
+
         if text:
+
             html += escape_html(text)
+
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
+
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+
         html += '</h3>\n'
+
         if tail:
+
             html += escape_html(tail)
+
         return html
+
     elif tag == "ab":
+
         margin = elem.get("margin", "")
+
         render = elem.get("render", "")
+
         if margin and margin_notes is not None:
+
             note_html = f'<div class="margin-note" data-position="{escape_html(margin)}">\n'
+
             note_html += f'<span class="margin-position">[{escape_html(margin)}]</span> '
+
             if text:
+
                 note_html += escape_html(text)
+
             for child in elem:
-                note_html += process_element(child, depth + 1, margin_notes=None, endnotes=endnotes, render_semantic=render_semantic)
+
+                note_html += process_element(child, depth + 1, margin_notes=None, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+
             note_html += '</div>\n'
+
             margin_notes.append(note_html)
+
             return escape_html(tail) if tail else ""
+
         classes = f"ab {escape_html(margin)} {escape_html(render)}".strip()
+
         html = f'<p class="{classes}" >'
+
         if text:
+
             html += escape_html(text)
+
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
+
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+
         html += '</p>\n'
+
         if tail:
+
             html += escape_html(tail)
+
         return html
+
     elif tag == "hr":
+
         return '<hr/>\n' + escape_html(tail)
+
     elif tag == "lb":
+
         return '<br/>\n' + escape_html(tail)
+
     elif tag in ("pn", "pl", "pro", "m", "pa", "al", "tl", "ms", "env", "tmp", "bp", "cn", "mu", "md", "wp", "sn", "df"):
-        html = f'<span class="{tag}" >'
+
+        html = f'<span class="{tag}">'
+
         if text:
+
             html += escape_html(text)
+
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
+
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+
         html += '</span>'
+
         if tail:
+
             html += escape_html(tail)
+
         return html
+
     elif tag in ("la", "fr", "it", "de", "el", "oc", "po"):
+
         html = f'<span class="{tag}" >'
+
         if text:
+
             html += escape_html(text)
+
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
+
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+
         html += '</span>'
+
         if tail:
+
             html += escape_html(tail)
+
         return html
+
     elif tag == "emph":
+
         html = '<em>'
+
         if text:
+
             html += escape_html(text)
+
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
+
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+
         html += '</em>'
+
         if tail:
+
             html += escape_html(tail)
+
         return html
+
     elif tag == "underline":
+
         html = '<u>'
+
         if text:
+
             html += escape_html(text)
+
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
+
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+
         html += '</u>'
+
         if tail:
+
             html += escape_html(tail)
+
         return html
+
     elif tag in ("superscript", "sup"):
+
         html = '<sup>'
+
         if text:
+
             html += escape_html(text)
+
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
+
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+
         html += '</sup>'
+
         if tail:
+
             html += escape_html(tail)
+
         return html
+
     elif tag == "del":
+
         html = '<del>'
+
         if text:
+
             html += escape_html(text)
+
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
+
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+
         html += '</del>'
+
         if tail:
+
             html += escape_html(tail)
+
         return html
+
     elif tag == "add":
+
         html = '<ins>'
+
         if text:
+
             html += escape_html(text)
+
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
+
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+
         html += '</ins>'
+
         if tail:
+
             html += escape_html(tail)
+
         return html
+
     elif tag == "exp":
+
         html = '<span class="exp">'
+
         if text:
+
             html += escape_html(text)
+
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
+
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+
         html += '</span>'
+
         if tail:
+
             html += escape_html(tail)
+
         return html
+
     elif tag == "corr":
+
         html = '<span class="corr">'
+
         if text:
+
             html += escape_html(text)
+
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
+
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+
         html += '</span>'
+
         if tail:
+
             html += escape_html(tail)
+
         return html
+
     elif tag == "ill":
+
         html = '<span class="ill">[illegible]</span>'
+
         if text:
+
             html += escape_html(text)
+
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
+
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+
         if tail:
+
             html += escape_html(tail)
+
         return html
+
     elif tag == "gap":
+
         return '<span class="gap">[gap]</span>' + escape_html(tail)
+
     elif tag == "mark":
+
         html = '<span class="mark">'
+
         if text:
+
             html += escape_html(text)
+
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
+
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+
         html += '</span>'
+
         if tail:
+
             html += escape_html(tail)
+
         return html
+
     elif tag == "comment":
         rid = elem.get("rid", "")
         if endnotes is not None and rid:
@@ -298,13 +504,47 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, render_sema
     elif tag == "figure":
         fig_id = elem.get("id", "")
         alt_text = elem.get("alt-text", "")
-        html = f'<div class="figure" id="{escape_html(fig_id)}" >'
-        html += f'<p class="figure-placeholder">[Figure: {escape_html(alt_text) if alt_text else fig_id}]</p>'
+        
+        if figures is not None:
+            # Construct the image URL and local path
+            base_url = "https://edition-assets.makingandknowing.org/manuscript-figures/"
+            img_filename = fig_id.replace("fig_", "") + ".png"
+            img_url = base_url + img_filename
+            local_img_path = Path("../images") / img_filename
+
+            # Download the image if it doesn't exist
+            if not local_img_path.exists():
+                try:
+                    req = urllib.request.Request(img_url, headers={'User-Agent': 'Mozilla/5.0'})
+                    with urllib.request.urlopen(req) as response, open(local_img_path, 'wb') as out_file:
+                        data = response.read()
+                        out_file.write(data)
+                    print(f"Downloaded {img_url} to {local_img_path}")
+                except Exception as e:
+                    print(f"Failed to download {img_url}: {e}")
+
+            # Add figure info to the list for later use
+            figures.append({
+                "id": fig_id,
+                "alt_text": alt_text,
+                "local_path": local_img_path
+            })
+            
+                            # Create a link to the figure in the list of figures
+            html = f'<a id="{escape_html(fig_id)}" href="#figure-list-{escape_html(fig_id)}">[Figure: {escape_html(alt_text) if alt_text else fig_id}]</a>'
+        else:
+            # Fallback for when figures are not being processed
+            html = f'<div class="figure" id="{escape_html(fig_id)}" >'
+            html += f'<p class="figure-placeholder">[Figure: {escape_html(alt_text) if alt_text else fig_id}]</p>'
+
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
-        html += '</div>\n'
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+        
+        if figures is None:
+            html += '</div>\n'
+
         if tail:
             html += escape_html(tail)
         return html
@@ -313,7 +553,7 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, render_sema
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
         if tail:
             html += escape_html(tail)
         return html
@@ -354,6 +594,22 @@ def get_css(render_semantic=False):
 
     .publication-info {
         font-style: italic;
+    }
+
+    .figure-list-item {
+        margin-bottom: 2em;
+        page-break-inside: avoid;
+    }
+
+    .figure-list-item img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .figure-caption {
+        font-size: 10pt;
+        font-style: italic;
+        margin-top: 0.5em;
     }
 
     body {
@@ -689,6 +945,7 @@ def load_comments(csv_file):
         print("Endnotes will only show comment IDs without content")
     return comments
 
+import urllib.request
 def xml_to_html(xml_file, output_html, render_semantic=False):
     print(f"Parsing XML file: {xml_file}")
     csv_file = Path("../metadata/DCE_comment-tracking-Tracking.csv")
@@ -696,11 +953,13 @@ def xml_to_html(xml_file, output_html, render_semantic=False):
     tree = ET.parse(xml_file)
     root = tree.getroot()
     endnotes = []
+    figures = []
     print("Converting XML to HTML...")
-    body_html = process_element(root, endnotes=endnotes, render_semantic=render_semantic)
+    body_html = process_element(root, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
     index_html = create_index_html()
     title_page_html = create_title_page_html()
     toc_html = create_toc_html()
+    figure_list_html = create_figure_list_html(figures)
     endnotes_html = ""
     if endnotes:
         print(f"Generating {len(endnotes)} endnotes...")
@@ -734,6 +993,7 @@ def xml_to_html(xml_file, output_html, render_semantic=False):
     {body_html}
     {endnotes_html}
     {index_html}
+    {figure_list_html}
 </body>
 </html>
 """
