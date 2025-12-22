@@ -127,7 +127,7 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, render_sema
         html += '</div>\n'
         if div_margin_notes:
             html += '<div class="margin-notes">\n'
-            html += '<h3 class="margin-notes-header">Margin Notes:</h3>\n'
+            html += '<h3 class="margin-notes-header">in margin:</h3>\n'
             for note_html in div_margin_notes:
                 html += note_html
             html += '</div>\n'
@@ -480,7 +480,7 @@ def get_css(render_semantic=False):
         margin: 1em 0;
     }
 
-    /* Margin notes section */
+    /* In margin section */
     .margin-notes {
         margin-top: 1.5em;
         margin-bottom: 2em;
@@ -491,9 +491,9 @@ def get_css(render_semantic=False):
     }
 
     .margin-notes-header {
-        font-size: 12pt;
-        font-weight: bold;
-        color: #2c3e50;
+        font-size: 10pt;
+        font-weight: normal;
+        color: #7f8c8d;
         margin: 0 0 0.75em 0;
     }
 
