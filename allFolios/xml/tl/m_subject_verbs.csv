@@ -1,0 +1,145 @@
+div_id,subject_tag,subject_term,verb_lemma,verb_form,obj_text,obj_is_tagged,sentence
+p001v_1,m,Prunes of Saint Antonin,want,want,leaves,True,"Prunes of Saint Antonin, &, if you like, you want put among them leaves of mallow & gilliflower, adding in sugar &, if one wants, a little cinnamon for the stomach."
+p003r_1,m,vinegar,give,gives,strength,False,"Then pour it through a coarse canvas or a very light tammy cloth, such that when pouring it falls into the strongest vinegar that you can find, for the vinegar gives it strength & prevents it from being so fragile."
+p003r_1,m,Sulfur,make,makes,the same effect,False,Sulfur & vermilion makes the same effect.
+p003r_1,m,coral,endure,endures,the file,False,The coral made of gules red enamel endures the file and polishing.
+p003r_2,m,Mastic varnish,resist,resist,rain,False,"Mastic varnish does not resist rain, whereas that of oil and rosin does."
+p003v_1,m,Turpentine varnish,need,need,any glue,True,Turpentine varnish does not need any glue because it is fatty & viscous & it is not absorbed in the wood like that of spike lavender & sandarac.
+p004r_1,m,spike lavender oil,eat,eats,the colors,False,"Varnish of spike lavender oil is not as appropriate for colors as that of turpentine, for spike lavender oil eats the colors since it is too penetrating."
+p004v_1,m,oil,have,has,body,False,"And when the pitch is well melted & when the oil has body, you can remove it from the fire."
+p006r_1,m,lamb tallow,tallow,tallow,the size,False,"Next take fine boli armeni & sanguine, as much of one as of the other, also lamb tallow the size of a bean or a pea depending on the quantity of bole, and a little willow charcoal, or as much as the tallow, & half a walnut shell full of half-burned saffron."
+p007r_1,m,Minium,give,gives,color,False,Minium gives color to the gold.
+p007r_3,m,dragon's blood,carry,carries,its mastic,True,"Good dragon's blood soaked in eau-de-vie carries its mastic or glue in itself, as do sap green & saffron."
+p008v_5,m,☾,have,have,a tint,False,"The ☾ will have a tint and, once melted, will leave some grains of ☼, & the ♀ will be very beautiful & will have almost no crust."
+p010r_1,m,horn,present,presents,a luster & fatty polish,False,And the horn presents a luster & fatty polish like jasper.
+p010v_1,m,Alum water,keep,keeps,oil,True,Alum water also keeps oil from running.
+p012r_1,m,soot black,give,gives,a fine sheen,False,The soot black gives it a fine sheen & makes it neater.
+p013r_1,m,Sublimated arsenic,make,makes,a beautiful flesh color,False,"Sublimated arsenic, that is to say, the white one that is sold as stone, when ground on marble, mixed with vermilion or lake or minium, makes a beautiful flesh color that is always shiny."
+p013r_1,m,Yellow arsenic,have,has,a very beautiful color,False,"Yellow arsenic has a very beautiful color, the white one is good in oil and agrees well with the lake."
+p014r_1,m,light earth,hold,holds,first rank,False,"And for this, light earth, which does not form clumps when plowed, but which is as if intermixed with arene, holds first rank, because it can be beaten & tamped down better."
+p015r_3,m,earth,drink,drink,the metal,True,"It is also necessary for the earth to drink the metal, for cast gold or silver becomes very spongy."
+p017r_1,m,metal,cost,costs,xv lb & fine rosette xv,False,The metal commonly costs xv lb & fine rosette xv or xvi.
+p024r_1,m,powder,have,have,its effect,False,"And for a quarter lb of powder, one needs half an ounce of glass which is put with it, in order that on the face or places where the powder will have its effect, the wounds will be all the worse for it."
+p026r_2,m,powder,make,makes,more,False,"The ball only makes a hole, the powder alone makes more of an effect."
+p029r_1,m,stucco,have,has,the quality,False,"This stucco with the tragacanth gum has the quality that, yielding when it is not yet dry, it can be accommodated on either round or flat things, as you like."
+p029v_6,m,water,take,took,a slight tint,False,"At the beginning the water took on a slight tint, but at the end there was only an appearance of tragacanth gum with which I think they adulterate the dragon's blood."
+p036v_1,m,Latten,lose,lose,its calamine,True,"Latten does not lose, or only slightly, its calamine in an four à vent when it is melted in a crucible, nor in a wood furnace, but it does in a bellows furnace because bellows give violent fire."
+p037v_3,m,Amber,lose,loses,its color,False,"Amber loses its color if an unhealthy person wears it, & becomes whitish."
+p038r_2,pa,marigold,give,gives,some color,False,"It is counterfeited & augmented with marigold leaves half-dried, & twisted like a thread, & put in the hottest sun to dry, & is mixed, & the said marigold even gives some color."
+p039v_1,m,Copper,have,has,a similar hardness,False,Copper has a similar hardness for engraving as fine silver or pistolet gold.
+p039v_3,m,tin leaf,give,gives,light,False,The tin leaf gives light to the colors.
+p040r_2,m,water,have,have,as much dregs,False,One de-phlegms & calcines alum in order that the water does not have as much dregs.
+p040r_4,m,vermeilles,fear,fear,fire,False,"Because vermeilles do not fear fire, one cuts them into lozenges flat on one side, then one joins them together in a star shape in a paste of ground enamel, next one melts it & one gilds the enamel with gold leaf which one reheats."
+p044r_5,m,red poppy,make,makes,a very beautiful columbine,True,"The red poppy, which grows amongst grains, makes a very beautiful columbine on white leather."
+p044r_5,m,cornflower,make,makes,a very beautiful blue,False,The cornflower makes a very beautiful blue.
+p044r_5,m,"plant which grows in hedges, which has a stem similar to flax, a long & broad leaf like small bugloss, which has a violet flower verging on blue & is shaped like the lily flower",make,makes,a very beautiful turquin,False,"A plant which grows in hedges, which has a stem similar to flax, a long & broad leaf like small bugloss, which has a violet flower verging on blue & is shaped like the lily flower, makes a very beautiful turquin, surpassing azure."
+p044r_5,m,"plant which grows in hedges, which has a stem similar to flax, a long & broad leaf like small bugloss, which has a violet flower verging on blue & is shaped like the lily flower",have,has,a stem,True,"A plant which grows in hedges, which has a stem similar to flax, a long & broad leaf like small bugloss, which has a violet flower verging on blue & is shaped like the lily flower, makes a very beautiful turquin, surpassing azure."
+p044r_5,m,"plant which grows in hedges, which has a stem similar to flax, a long & broad leaf like small bugloss, which has a violet flower verging on blue & is shaped like the lily flower",have,has,a violet flower,True,"A plant which grows in hedges, which has a stem similar to flax, a long & broad leaf like small bugloss, which has a violet flower verging on blue & is shaped like the lily flower, makes a very beautiful turquin, surpassing azure."
+p049r_1,m,lead,take,take,hold,False,One says that one makes lead take hold on glass with resin.
+p051r_1,m,soap water,turn,turn,the piece,False,"The soap water will turn the piece yellow, but well-gummed water, which has the same effect, does not do this."
+p053r_6,m,The one from Champaigne,fetch,fetches,the price,False,The one from Champaigne fetches the price that is set in Lyon.
+p056v_1,m,lake,lose,lose,their color,False,The lake & rosette of Ghent & others lose their color & die in the air.
+p056v_1,m,Chalk,have,has,no body,False,Chalk has no body in oil.
+p056v_1,m,Aloe,make,make,brighter color,False,"Aloe would make brighter color still, but it takes long to dry & the other is dry in a quarter of an hour, in winter as well as summer."
+p058v_4,m,azure,require,requires,a little fatty oil,True,The azure requires a little fatty oil because it has no body.
+p058v_4,m,Azur d'esmail,hat,hates,more,False,"Azur d'esmail hates more than any other to be ground, especially with water, for it dies & loses all its color."
+p058v_5,m,bristles of beech martens & weasels & small animals that make musk,make,make,musk,True,"The bristles of beech martens & weasels & small animals that make musk are even better, for a single hair in a paintbrush suffices."
+p059v_6,m,oil,receive,receive,color,False,"And the oil mixed with wax will better receive color, which is also tempered with oil."
+p060r_3,m,oil,have,has,a little body,False,"And when the oil has a little body, the colors soften in it."
+p063r_1,m,white wine,remove,removes,its tint,False,"Although it is said to be immortal, it is nonetheless the case that white wine removes its tint & turns claret-colored, & the dry flower ends up white afterward."
+p063r_1,m,Eau-de-vie,do,does,much,False,Eau-de-vie does as much.
+p063r_1,m,Eau-de-vie,do,does,much,False,Eau-de-vie does as much.
+p063r_1,m,Eau-de-vie,do,does,much,False,Eau-de-vie does as much.
+p063r_1,m,Eau-de-vie,do,does,much,False,Eau-de-vie does as much.
+p063v_1,m,common charcoal,make,makes,black,False,The common charcoal makes a whitish black.
+p063v_2,m,Soft wood charcoal,make,makes,a bluish color,False,Soft wood charcoal makes a bluish color.
+p064r_5,m,lake,require,require,two layers,False,"But lake & others, & principally flesh colors, require two layers."
+p067r_4,m,another fragrant one that resembles olive oil,resemble,resembles,olive oil,True,"The Germans make boxes covered with painted paper & varnish it with glair of egg mixed with gum & a little oil, not of spike lavender, but another fragrant one that resembles olive oil."
+p067v_1,m,Latten,welcome,welcomes,softer files,False,"Latten, which is more brittle, welcomes softer files than copper does."
+p068r_3,m,cristallin,contain,contains,both salt,True,"Pestled glass can be made from common glass sand, however, cristallin is more excellent, for common glass contains salt of saltwort only, but cristallin contains both salt of tartar & saltwort all together, which both help fusion, the glass once calcined & reduced as if to its prime substance."
+p068r_3,m,Burnt linen,give,gives,less trouble,False,"Burnt linen gives less trouble than any other, because it needs neither to be reheated nor to be moistened, & molds and releases very neatly , subtly & neatly, like the previous ones do as well, & withstands several fusions."
+p069r_2,m,"Sand from oxen feet, burned twice & finely ground",burn,burned,ground,True,"Sand from oxen feet, burned twice & finely ground, melts more neatly with copper than sand that I have seen, & without crust."
+p069r_2,m,Ash,have,have,enough body,False,Ash does not have enough body to withstand copper.
+p069r_2,m,Slightly coarser sand,have,has,more body,False,Slightly coarser sand has more body.
+p071r_2,m,elm,have,has,beautiful streaks,False,"The elm, in its knotty root, has beautiful streaks diversified with grey and black, and the root of the maple, but one needs to choose well the grain of the wood."
+p071r_3,m,wine,lose,lost,its sweetness,False,"The common English put sugar in wine to affect for themselves the sweet new wine, which they cannot have because, owing to the long sea crossing, the wine has lost its sweetness and is clarified before it reaches their country."
+p071v_1,m,oil,leave,leaves,the paper,True,"If the oil, which will evaporate, leaves the paper clean, without a yellow mark, it is good, if not, it is fatty."
+p072v_1,m,tin,exceed,exceeds,more than one part,False,"The alloy good for running lead & tin is per one lb of lead, one lb & a half of tin, in order that the tin exceeds more than one part."
+p075v_2,m,gold,have,have,beautiful enough color,False,"If your gold does not have beautiful enough color, you will take a partridge feather, & make it burn in a chafing-dish, and make the smoke go against what you have gilded."
+p081r_2,m,"Tanner's earth, or the one with which potters make a whitening on pots",make,make,a whitening,True,"Tanner's earth, or the one with which potters make a whitening on pots to make lead run better on them & to prevent the lead from being absorbed into them, is very good for molding the hollow forms of things you want make in relief."
+p081v_3,m,clay earth with which one makes tiles,make,makes,tiles,True,"There is only clay earth with which one makes tiles, reheated & reddened & passed through a sleeve finely mixed with glair."
+p081v_4,m,metal,touch,touch,the frame's iron,True,"Lute also, or cover the mouth of the frame with sand in order that the melted metal, or lead, or copper does not touch the frame's iron or latten, because it makes it brittle, & makes it porous."
+p081v_4,m,Black lead of saulmon,make,makes,one,False,Black lead of saulmon from the first melting makes a very neat one.
+p082r_3,m,Glair of eggs,give,gives,strength,False,Glair of eggs gives strength to sand to make several casts.
+p083r_2,m,Bone,have,has,scarcely any body,False,Bone has scarcely any body unless it has iron dross.
+p083v_2,m,coarse sand,communicate,communicate,its humidity,False,"This is why the press is better, for it tightens evenly, & more than your hands, and makes the coarse sand, which is humid, communicate its humidity to the soft & fine sand, which is sprinkled & pounced dry on the medal."
+p084v_1,m,sands,withstand,withstand,one casting,False,These sands only withstand one casting.
+p084v_1,m,fatty metal,need,needs,lean sand,True,A fatty metal needs lean sand.
+p086v_1,m,sand,surpass,surpass,the edges,False,"Take heed also that the sand does not surpass the edges of the frame, for it makes the molded medal higher than the cast, & in this way, metal will never enter the mold."
+p086v_1,m,metal,enter,enter,the mold,False,"Take heed also that the sand does not surpass the edges of the frame, for it makes the molded medal higher than the cast, & in this way, metal will never enter the mold."
+p087v_1,m,Thoroughly burnt sand,lose,loses,its bond,False,Thoroughly burnt sand loses its bond.
+p087v_3,m,vinegar,give,gives,any bond,False,"I have molded it from pure lead cast very hot, & I had as an example the very neat principal, but the vinegar hardly gives it any bond, & thus it sustained only one cast."
+p088r_5,m,Dust,keep,keeps,wheat,True,Dust keeps wheat from becoming infested with weevils.
+p089v_1,m,sand that releases well,have,has,body,False,All sand that releases well has body & gives a good hold.
+p090r_3,m,water,rest,rested,little,False,"For if it is coarse, pass it through a sieve, and if it is not yet fine enough, wash it, & when the water has rested a little, empty that which is still troubled in some separate vessel."
+p091r_1,pa,Apricot trees,have,have,a very thin bark,False,"Apricot trees have a very thin bark, & thus one needs to graft them onto young trees which do not yet have thick bark, like on shoots of prune trees & almond trees."
+p092v_1,m,shells,make,make,an impalpable white sand,True,"The long shells that one finds in fresh water rivers, once calcined, make an impalpable white sand, which molds very neatly."
+p092v_3,m,Fine tin,make,makes,a substance,False,"Fine tin, congealed mercury with the smell of tin, looking-glass tin, fine lead, as much of one as the other, makes a substance that melts very promptly but is breakable & white."
+p094r_1,m,Iron wire,have,has,a lower price,False,Iron wire has a lower price & is the most durable.
+p094r_1,m,skin,cost,costs,fifty or lx sous,False,The beautiful skin costs fifty or lx sous & 4 or five dozen grips are made from it.
+p096v_1,m,ash,heat,heated,the guards,False,"Blue is obtained as soon as the ash has heated the guards a little, but it is still grey in some places."
+p097v_1,m,varnish,have,have,body,False,"One knows that this varnish does not have body enough when it does not take well on a panel in oil, for it is like water."
+p101r_1,m,ruby,want,wants,more time,False,The ruby wants more time & more fire & colored with gold leaf.
+p101v_1,m,ruby,want,wants,fire,False,"The ruby wants fire for a whole day, and if it does not have enough fire, it will only have red veins."
+p101v_1,m,rubified antimony,make,makes,jacinth,True,One holds that rubified antimony makes jacinth.
+p105r_4,pa,Almond trees,lose,lose,their sap,False,"Almond trees, which by their nature are drier, lose their sap earlier, therefore those who want to graft onto them mericotons, apricots & grafts of trees with pitted fruit, which are the best there, they are grafted in the month of January."
+p106v_2,m,Plaster,withstand,withstand,fire,False,Plaster alone does not withstand fire but breaks up into pieces.
+p107r_1,m,sand,withstand,withstand,the fire,False,"There can never be too much feather alum, for this is what gives bond to the sand, and because it does not burn, it makes sand withstand the fire without cracking & bursting."
+p107r_1,m,sand,withstand,withstands,the fire,False,"It is necessary that all sand with which you want to cast well, withstands the fire well, that is to say that it withstands a great firing without getting spoiled."
+p107r_1,m,feather alum,resist,resists,the fire,False,"It is this, with its small soft & thin filaments, which gives binding to the sand in a much more excellent fashion than cloth shearings in the founder's earth of the founders of great works, because these cloth shearings & cloth waste burn and feather alum resists the fire."
+p107r_1,m,Eau-de-vie,prevent,prevents,the sand,True,Eau-de-vie prevents the sand from becoming porous & does not make little holes on the edges of the mold if the thing to mold is well moistened with it.
+p107r_1,m,Eau-de-vie,prevent,prevents,the sand,True,Eau-de-vie prevents the sand from becoming porous & does not make little holes on the edges of the mold if the thing to mold is well moistened with it.
+p107r_1,m,Eau-de-vie,prevent,prevents,the sand,True,Eau-de-vie prevents the sand from becoming porous & does not make little holes on the edges of the mold if the thing to mold is well moistened with it.
+p109r_3,m,cold water,repel,repel,the oil,True,"In order that your mold grips without repelling in any place on a shape or image of wax, you need to anoint it with oil and moisten your sand with lukewarm water, for the cold water would repel the oil more & would not have a good seating on it."
+p112r_4,m,eau-de-vie,mix,mix,little,False,"to cast, make him take through the mouth some good eau-de-vie or else mix a little with the vinegar."
+p112v_1,m,wax,touch,touch,this wax,True,"But place wax, as much as a grain of millet, between the body & the end of the tail, then with a bit of flattened & hot iron wire, touch this wax & join by lightly pressing."
+p115v_1,m,tin,exceed,exceeds,the lead,True,"If the plant or flower that you want to cast is delicate & fine, it is necessary that the tin exceeds the lead in the mixture, & on the contrary, if it is thick, it is necessary that the lead exceeds."
+p116r_2,m,oil,make,makes,no thickness,False,"If they do not, fill with wax what does not, and then anoint your images of wax or of lead with olive oil, very thinly & very lightly, such that the oil makes no thickness nor body on the medal."
+p119v_2,m,gold,have,has,the thickness,False,"Next, gild it with fine gold, as uniform as it will be possible for you, three or four or five times, & until your gold has the thickness of a piece of paper or something similar, & all the scales will always show equally."
+p120v_6,m,sand,make,makes,dust,True,"If the sand makes dust, & clings to the flowers, & is not easily removed with a paintbrush, it is no good."
+p122v_2,m,Wax,keep,keeps,its heat,False,"Wax on its own cools too quickly & does not run well everywhere, & tallow keeps its heat well & runs everywhere, but on its own it is not good."
+p124v_1,m,Gold,render,renders,the enamel,True,"Gold , with its own pale color, renders the enamel a dead color."
+p124v_2,m,gold,reach,reaches,its perfect heat,False,"When gold reaches its perfect heat, it is green like an emerald."
+p124v_3,m,metal,run,run,roll wax,True,"Because you always have to make the gate by the tail, and because it is so delicate and thin that the metal would run with difficulty, especially when it is curled, roll wax in little threads of this thickness and apply some with the hot iron wire, as is said, one at the end of the tail & the others, that are applied in the same way, from one side of the tail to the other, as you see depicted."
+p126v_1,m,vinegar,have,have,much more strength,False,"However, when the filings are passed through vinegar, & you have made it evaporate & heat up, & it is very red, if you do this again for a second time, the vinegar will have much more strength, & the crocum will only be finer for it, & redder."
+p126v_2,m,wood,imbibe,imbibe,very hot wax,True,"But if you take your molds from large works & pieces of wood, it will not release well unless you make your wood imbibe very hot wax."
+p128r_1,m,alloyed silver,produce,produces,film,False,"All alloyed silver produces film, and all other metal as well."
+p129r_1,m,oil,take,takes,a long time,False,"If you are in a hurry, it would be better to mix your color with a not-too-thick gum because oil takes a long time to dry and runs if it is layered thinly, as the plants require."
+p134v_1,m,borax,weigh,weigh,half,False,"But the borax & saltpeter together must only weigh half of the others, that is to say, as much together as the verdigris."
+p135v_1,m,smokes,put,put,some more borax,True,"And if the gold smokes & swirls, put some more borax in and blow on top, making sure that, if it is still brittle & not softened enough, it does not cover itself when you blow, as if it had cooled."
+p136v_1,m,latten from skillets in which one makes the mush for little children,make,makes,the mush,True,"The latten from skillets in which one makes the mush for little children, which is soft, is appropriate for the cast."
+p136v_1,m,German tokens,contain,contain,a lot,False,Some say that German tokens contain a lot of calamine.
+p137v_1,m,grey earth,dry,dries,the mold,False,"Yet, I have experienced that grey earth dries the mold too soon."
+p139v_1,m,charcoal,give,gives,color,False,"The charcoal gives color and body to the wax, which would otherwise be transparent & the features would not be seen as well."
+p139v_1,m,wax,pass,passed,its high heat,False,"And as it will be well incorporated, take heed if your wax has passed its high heat, which you will recognize when it no longer smokes, when it makes large tracts pulling at the edges, & motionless & close one to the other."
+p139v_1,m,wax,have,has,more,False,"Cut down the protuberance of the gates, in order that they are smooth & that the wax has more of the silver to run in one go without turning around in the folds of the snake."
+p142v_3,m,lean earth of which the founders of artillery & bells make their trusseaulx and molds,make,make,their trusseaulx,True,"Take this lean earth of which the founders of artillery & bells make their trusseaulx and molds, which is lean & sandy."
+p143r_2,m,slate,retain,retains,its asperity,False,"Those who mold crosswise make their sand with crocum & calcined slate, but slate always retains its asperity & becomes porous, because it is fatty."
+p146v_1,m,clay,bring,brings,the wax,True,"And if the pulled-out clay brings with it the wax that you put there, put back it in the places that cannot release, as is said."
+p149v_3,m,tempered sand,change,change,their form,False,"Because being weak & delicate, the tempered sand, weighing down their tops, would change their form."
+p150r_3,m,glowing charcoal,stop,stopping,the space,False,"And, glowing charcoal stopping up the space between the molds, the heat reverberates from one to the other in such a way that more often you will find your molds burst & cracked on one side more than another."
+p150r_3,m,Brick,cool,cools,the metal,True,"Brick cools the metal, & if this were not for giving bond, it would not be necessary."
+p150v_1,m,white wax,have,has,such little substance,False,"the white wax with which you have composed your black sulfured wax, has such little substance, since being dry and purified, that it leaves nothing inside, and flows very gently."
+p152v_1,m,tin,cast,cast,thick retracts,False,"If there is also too much tin in a moderately thick thing, it does not come out well, because tin cast thick retracts & becomes porous."
+p154v_3,m,Silver,need,needs,a longish gate,False,Silver needs a longish gate.
+p154v_3,m,Silver,tolerate,tolerates,the water,True,"Silver, when soldering, tolerates the water one throws on it."
+p155r_1,pa,rose,have,has,great volume,False,"I would be of the opinion to mold the rose on its own with a little of its stem close to its bud, & then to join it to a longer one of tinned latten, because the rose in full bloom has great volume & weight."
+p158r_1,m,☿,clean,cleans,the ash,True,"The ☿ cleans the ash well, especially flat things where there are not delicate lineaments which could be broken by its weight."
+p158v_1,m,verdigris,have,has,depth,False,"For green, the verdigris has depth & is too dark."
+p163r_1,m,amber,overtake,overtakes,the principal scent,False,"They readily put half of amber & half of musk & very little civet, because amber always overtakes the principal scent of musk."
+p163r_1,m,ben oil,put,put,your ambergris,True,"And having put in a small silver bowl a spoonful of flower oil, or lacking that, ben oil, that is to say, a silver spoon that one uses at the table, put in your ambergris & place all on a low fire, and it will melt quickly if your amber is good, & it will remain there without lumps."
+p163v_2,m,Urine,give,gives,much tincture,False,"Urine gives much tincture, and eau-de-vie also."
+p163v_2,m,Urine,give,gives,-,True,"Urine gives much tincture, and eau-de-vie also."
+p163v_2,m,Urine,give,gives,vie,True,"Urine gives much tincture, and eau-de-vie also."
+p165r_4,m,Good plaster,keep,keeps,a long time,False,Good plaster keeps a long time in molds.
+p169r_1,pa,mosses,apply,applied,Molding,False,Very hard wax Molding a ring and that which is engraved Molding pieces of carcanets Things that are not released Fountains Grottos Diverse mosses applied Molding in three frames Softening iron to engrave it

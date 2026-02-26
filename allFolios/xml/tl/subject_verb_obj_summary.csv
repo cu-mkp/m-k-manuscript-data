@@ -1,0 +1,292 @@
+subject_tag,subject_label,subject_term,verb_lemma,total_count,objects
+al,Animal,crayfish,have,2,eggs; no eggs
+al,Animal,hen,search,1,the garbage
+al,Animal,lizard,have,1,large jaws
+al,Animal,nightingale,maintain,1,a territory
+al,Animal,sheep,have,1,very yellow fat
+al,Animal,snakes,have,1,a double row
+al,Animal,Swallows,teach,1,this craft
+al,Animal,those of the garrigue,have,1,crooked ones
+al,Animal,Those of the water,have,1,ones
+al,Animal,turtles,have,1,as much work
+df,Definition,blades,have,1,a sharp ridge
+df,Definition,panier,contain,1,24 plates
+env,Environment,place where the flame cannot cause damage,cause,1,damage
+env,Environment,rains,fill,1,the holes
+env,Environment,workshop,represent,1,all things
+m,Material,alloyed silver,produce,1,film
+m,Material,Aloe,make,1,brighter color
+m,Material,Alum water,keep,1,oil
+m,Material,Amber,lose,1,its color
+m,Material,amber,overtake,1,the principal scent
+m,Material,another fragrant one that resembles olive oil,resemble,1,olive oil
+m,Material,Ash,have,1,enough body
+m,Material,ash,heat,1,the guards
+m,Material,Azur d'esmail,hat,1,more
+m,Material,azure,require,1,a little fatty oil
+m,Material,ben oil,put,1,your ambergris
+m,Material,Black lead of saulmon,make,1,one
+m,Material,Bone,have,1,scarcely any body
+m,Material,borax,weigh,1,half
+m,Material,Brick,cool,1,the metal
+m,Material,bristles of beech martens & weasels & small animals that make musk,make,1,musk
+m,Material,Burnt linen,give,1,less trouble
+m,Material,Chalk,have,1,no body
+m,Material,charcoal,give,1,color
+m,Material,clay,bring,1,the wax
+m,Material,clay earth with which one makes tiles,make,1,tiles
+m,Material,coarse sand,communicate,1,its humidity
+m,Material,cold water,repel,1,the oil
+m,Material,common charcoal,make,1,black
+m,Material,Copper,have,1,a similar hardness
+m,Material,coral,endure,1,the file
+m,Material,cornflower,make,1,a very beautiful blue
+m,Material,cristallin,contain,1,both salt
+m,Material,dragon's blood,carry,1,its mastic
+m,Material,Dust,keep,1,wheat
+m,Material,earth,drink,1,the metal
+m,Material,Eau-de-vie,do,4,much (4)
+m,Material,eau-de-vie,mix,1,little
+m,Material,Eau-de-vie,prevent,3,the sand (3)
+m,Material,elm,have,1,beautiful streaks
+m,Material,fatty metal,need,1,lean sand
+m,Material,feather alum,resist,1,the fire
+m,Material,Fine tin,make,1,a substance
+m,Material,German tokens,contain,1,a lot
+m,Material,Glair of eggs,give,1,strength
+m,Material,glowing charcoal,stop,1,the space
+m,Material,gold,have,2,beautiful enough color; the thickness
+m,Material,gold,reach,1,its perfect heat
+m,Material,Gold,render,1,the enamel
+m,Material,Good plaster,keep,1,a long time
+m,Material,grey earth,dry,1,the mold
+m,Material,horn,present,1,a luster & fatty polish
+m,Material,Iron wire,have,1,a lower price
+m,Material,lake,lose,1,their color
+m,Material,lake,require,1,two layers
+m,Material,lamb tallow,tallow,1,the size
+m,Material,Latten,lose,1,its calamine
+m,Material,Latten,welcome,1,softer files
+m,Material,latten from skillets in which one makes the mush for little children,make,1,the mush
+m,Material,lead,take,1,hold
+m,Material,lean earth of which the founders of artillery & bells make their trusseaulx and molds,make,1,their trusseaulx
+m,Material,light earth,hold,1,first rank
+m,Material,Mastic varnish,resist,1,rain
+m,Material,metal,cost,1,xv lb & fine rosette xv
+m,Material,metal,enter,1,the mold
+m,Material,metal,run,1,roll wax
+m,Material,metal,touch,1,the frame's iron
+m,Material,Minium,give,1,color
+m,Material,oil,have,1,a little body
+m,Material,oil,leave,1,the paper
+m,Material,oil,make,1,no thickness
+m,Material,oil,receive,1,color
+m,Material,oil,take,1,a long time
+m,Material,"plant which grows in hedges, which has a stem similar to flax, a long & broad leaf like small bugloss, which has a violet flower verging on blue & is shaped like the lily flower",have,2,a stem; a violet flower
+m,Material,"plant which grows in hedges, which has a stem similar to flax, a long & broad leaf like small bugloss, which has a violet flower verging on blue & is shaped like the lily flower",make,1,a very beautiful turquin
+m,Material,Plaster,withstand,1,fire
+m,Material,powder,have,1,its effect
+m,Material,powder,make,1,more
+m,Material,Prunes of Saint Antonin,want,1,leaves
+m,Material,red poppy,make,1,a very beautiful columbine
+m,Material,rubified antimony,make,1,jacinth
+m,Material,ruby,want,2,fire; more time
+m,Material,sand,make,1,dust
+m,Material,sand,surpass,1,the edges
+m,Material,sand,withstand,2,the fire (2)
+m,Material,"Sand from oxen feet, burned twice & finely ground",burn,1,ground
+m,Material,sand that releases well,have,1,body
+m,Material,sands,withstand,1,one casting
+m,Material,shells,make,1,an impalpable white sand
+m,Material,Silver,need,1,a longish gate
+m,Material,Silver,tolerate,1,the water
+m,Material,skin,cost,1,fifty or lx sous
+m,Material,slate,retain,1,its asperity
+m,Material,Slightly coarser sand,have,1,more body
+m,Material,smokes,put,1,some more borax
+m,Material,soap water,turn,1,the piece
+m,Material,Soft wood charcoal,make,1,a bluish color
+m,Material,soot black,give,1,a fine sheen
+m,Material,spike lavender oil,eat,1,the colors
+m,Material,stucco,have,1,the quality
+m,Material,Sublimated arsenic,make,1,a beautiful flesh color
+m,Material,Sulfur,make,1,the same effect
+m,Material,"Tanner's earth, or the one with which potters make a whitening on pots",make,1,a whitening
+m,Material,tempered sand,change,1,their form
+m,Material,The one from Champaigne,fetch,1,the price
+m,Material,Thoroughly burnt sand,lose,1,its bond
+m,Material,tin,cast,1,thick retracts
+m,Material,tin,exceed,2,more than one part; the lead
+m,Material,tin leaf,give,1,light
+m,Material,Turpentine varnish,need,1,any glue
+m,Material,Urine,give,3,-; much tincture; vie
+m,Material,varnish,have,1,body
+m,Material,verdigris,have,1,depth
+m,Material,vermeilles,fear,1,fire
+m,Material,vinegar,give,2,any bond; strength
+m,Material,vinegar,have,1,much more strength
+m,Material,water,have,1,as much dregs
+m,Material,water,rest,1,little
+m,Material,water,take,1,a slight tint
+m,Material,wax,have,2,more; such little substance
+m,Material,Wax,keep,1,its heat
+m,Material,wax,pass,1,its high heat
+m,Material,wax,touch,1,this wax
+m,Material,white wine,remove,1,its tint
+m,Material,wine,lose,1,its sweetness
+m,Material,wood,imbibe,1,very hot wax
+m,Material,Yellow arsenic,have,1,a very beautiful color
+m,Material,☾,have,1,a tint
+m,Material,☿,clean,1,the ash
+ms,Measurement,At the breech it has three balls & two in front,have,1,three balls
+ms,Measurement,At the breech it has three balls & two in the front,have,1,three balls
+ms,Measurement,aulne,cost,1,lb
+ms,Measurement,bundle,cost,1,x
+ms,Measurement,cool until you can hold the tip of your finger in the gate without burning yourself,hold,1,the tip
+ms,Measurement,dozen,cost,1,x lb
+ms,Measurement,"hot enough, like when one takes out the bread",take,1,the bread
+ms,Measurement,pan,contain,1,one
+ms,Measurement,pan,hold,1,two quintals
+ms,Measurement,part,reheat,1,feather alum
+ms,Measurement,quarters,make,1,a very liquid line
+ms,Measurement,"Test for this effect with paper. If it turns the paper red, it is enough, it is good to cast, but if it blackens the paper, it is too hot.",blacken,1,the paper
+ms,Measurement,"Test for this effect with paper. If it turns the paper red, it is enough, it is good to cast, but if it blackens the paper, it is too hot.",turn,1,the paper red
+ms,Measurement,℥,grind,2,massicot (2)
+pn,Personal Name,Angelius Bargæus,scripsit,1,monsieur Cathalogue des villes Calendrier des bergiers Grammaire italiene Arithmetique
+pn,Personal Name,Aulus Gellius,make,1,a collection
+pn,Personal Name,du Cros,make,1,a bill
+pn,Personal Name,Livy,make,1,his xxiii book
+pn,Personal Name,Servius,alii,2,Budæus Spartianus Blondus Volaterranus Herodotus Paulus Manutius Strabo Julius Firmicus Quintus Curtius Dion Cornelius Nepos Flavius Vopiscus; Julius Capitolinus
+pn,Personal Name,St. Athanasius,make,1,mention
+pl,Place,Cremonensis,scripsit,1,carmine de bombicum natura
+pl,Place,English,have,1,grooms
+pl,Place,English,mull,1,wine
+pl,Place,Flemish,give,1,a layer
+pl,Place,Flemish,make,1,one layer
+pl,Place,Flemish,reglue,1,their earthen pots
+pl,Place,Flemish,use,1,any whites
+pl,Place,Germans,cast,1,their leads
+pl,Place,Germans,make,3,minium boil; statues; their files
+pl,Place,Germans,use,1,lead
+pl,Place,Irish,drink,1,any wine
+pl,Place,Italians,make,1,three shadows
+pl,Place,Italians,varnish,1,their paintings
+pl,Place,Levantines,refine,1,our steel
+pa,Plant,Almond trees,lose,1,their sap
+pa,Plant,Apricot trees,have,1,a very thin bark
+pa,Plant,marigold,give,1,some color
+pa,Plant,mosses,apply,1,Molding
+pa,Plant,rose,have,1,great volume
+pro,Profession,Artisans who work in large works,seek,1,one
+pro,Profession,Candlemakers,make,1,a good candle
+pro,Profession,Casters,take,1,that very yellow latten
+pro,Profession,common people,make,1,emeralds
+pro,Profession,curriers,do,1,that
+pro,Profession,fellow,bend,1,his head
+pro,Profession,Founders,cast,2,frames; lb
+pro,Profession,Founders,have,1,their files
+pro,Profession,founders,have,1,this superstition
+pro,Profession,Founders,melt,1,latten
+pro,Profession,Founders,take,1,the roots
+pro,Profession,Founders of large casts for statues,throw,1,much tartar
+pro,Profession,furbisher,buy,1,his blades
+pro,Profession,glassworker,have,1,a stench
+pro,Profession,goldsmiths,assemble,1,their silver filings
+pro,Profession,goldsmiths,know,1,the substance
+pro,Profession,Goldsmiths,scrape,1,gold leaf
+pro,Profession,Goldsmiths,sell,1,a denier
+pro,Profession,goldsmiths who work large wares,forge,1,their platters
+pro,Profession,goldsmiths who work large wares,work,1,large wares
+pro,Profession,gunner,rivet,1,the nail
+pro,Profession,gunners,prefer,1,a piece
+pro,Profession,Joiners,glue,1,their masterpieces
+pro,Profession,mason,make,1,a house
+pro,Profession,masters,pass,1,judgment
+pro,Profession,Molders,use,1,crocum ferri
+pro,Profession,"others, who work in the countryside",put,1,fifteen
+pro,Profession,painters,bring,1,their palette
+pro,Profession,painters,have,1,such panels
+pro,Profession,painters,make,2,batture; their shadows
+pro,Profession,painters,pour,1,a few drops
+pro,Profession,painters,trick,1,the poor peasants
+pro,Profession,peasants,eat,1,their soup
+pro,Profession,Pewterers,put,2,lb (2)
+pro,Profession,pioneers,bring,1,gabions
+pro,Profession,pioneers,carry,1,the boards
+pro,Profession,Scribes,achieve,1,darkening
+pro,Profession,Sheath makers,use,1,"small, very delicate skins"
+pro,Profession,small peddlers,lie,1,open small wares
+pro,Profession,Stone cutters,choose,1,old pieces
+pro,Profession,sworn master pewterers,add,1,lb
+pro,Profession,The one who makes a profession of working in oil,make,1,a profession
+pro,Profession,Those who create sword guards,create,1,sword guards
+pro,Profession,those who make gemstone foils,make,1,gemstone foils
+pro,Profession,those who make pots,make,1,pots
+pro,Profession,those who sharpen,sharpen,1,"smooth, mold"
+pro,Profession,weaver,make,1,a cloth
+pro,Profession,women,see,1,the secret places
+pro,Profession,worker who made the wood piece,make,1,the wood piece
+sn,Sense Term,I could hold my finger to it without burning myself,hold,1,my finger
+sn,Sense Term,"of such a heat that you can handle it without harm, or that you can keep your finger in the gate without burning yourself",keep,1,your finger
+sn,Sense Term,of such heat that you can hold your finger there without harm in the hole,hold,1,your finger
+sn,Sense Term,of such heat that you cannot hold your finger there without feeling strong heat,hold,1,your finger
+sn,Sense Term,"so that without burning yourself, you can hold your finger in it without burning yourself",hold,1,your finger
+sn,Sense Term,until you can hold your finger without harm in the hole of the gate,hold,1,your finger
+sn,Sense Term,"water so hot, that, at the beginning, you cannot hold your finger in it",hold,1,your finger
+sn,Sense Term,"You will know its goodness by rubbing it with your finger, which will render it very black immediately",know,1,its goodness
+tmp,Temporal,from their birth until u the time when they make their cocoons & their prisons,make,1,their cocoons
+tmp,Temporal,"out of season, when winter denies flowers",deny,1,flowers
+tl,Tool,bellows,give,1,violent fire
+tl,Tool,blast-pipe,mark,1,A
+tl,Tool,borer,take,1,more
+tl,Tool,bottle in which one boils tisane,boil,1,tisane
+tl,Tool,bowls of different size which have a lip,have,1,a lip
+tl,Tool,boxes,place,1,one
+tl,Tool,concave mirror,produce,1,an endless number
+tl,Tool,cord,mark,1,a straight line
+tl,Tool,crucible,give,1,some vapor
+tl,Tool,"crucible covered with another, well luted, that has a hole in the top",have,1,a hole
+tl,Tool,cutting-punch,punch,1,round pieces
+tl,Tool,earthen slab,arrange,1,your animal
+tl,Tool,files,place,1,your work
+tl,Tool,Fine copper mortars,throw,1,fire
+tl,Tool,frame,have,1,vents
+tl,Tool,frame,take,1,the imprint
+tl,Tool,head of a nail,soak,1,little
+tl,Tool,Iron fork made in the form of pincers of the height of a man,place,1,the mortar
+tl,Tool,metal mortar,do,1,same
+tl,Tool,mold,cost,1,fifteen or sixteen frans
+tl,Tool,mold,have,1,the same thickness
+tl,Tool,mold,lean,1,little
+tl,Tool,mold,retain,1,the color
+tl,Tool,molds,have,1,their gate
+tl,Tool,molds,withstand,1,several casts
+tl,Tool,peg,attach,1,the petard
+tl,Tool,pestles,make,1,little balls
+tl,Tool,small rods to rest their hand when they are painting,rest,1,their hand
+tl,Tool,sponge,purge,1,their mouth
+tl,Tool,sponge,remove,1,the colored water
+tl,Tool,things that withstand the fire,withstand,1,the fire
+tl,Tool,trepan,make,1,another touch-hole
+tl,Tool,very thin paintbrushes which have a firm point,have,1,a firm point
+wp,Weapon,bastard culverin,weigh,1,35 quintals
+wp,Weapon,bastarde,weigh,1,thirty quintals
+wp,Weapon,cannon,fire,1,4xx
+wp,Weapon,cannon,make,1,a bigger opening
+wp,Weapon,cannon,need,1,3 gunners
+wp,Weapon,cannon,tend,2,more; to one side
+wp,Weapon,cannon,weigh,1,fifty-five or lx quintals
+wp,Weapon,cannon-perrier,have,1,a large effect
+wp,Weapon,double musket,weigh,1,2 quintals
+wp,Weapon,field piece,weigh,1,ten or twelve quintals
+wp,Weapon,great cannon,carry,1,a range
+wp,Weapon,grenade,weigh,1,four to six lb
+wp,Weapon,Grenades,cause,1,great damage
+wp,Weapon,hackbut,carry,1,a ball
+wp,Weapon,passe-volant,weigh,1,vi quintals
+wp,Weapon,petard,push,1,the pegs
+wp,Weapon,piece,break,1,that
+wp,Weapon,piece,have,1,its own frail
+wp,Weapon,piece,weigh,1,how many quintals
+wp,Weapon,simple musket,weigh,1,quintal
+wp,Weapon,sword,cut,1,the scabbard
