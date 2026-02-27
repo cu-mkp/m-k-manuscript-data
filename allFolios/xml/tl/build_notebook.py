@@ -452,10 +452,11 @@ Use the Gemini API to generate a scholarly interpretation of the NLP results.
 
 Then run the cells below. You can edit the prompts freely to ask different questions.
 
-> **Tip — free tier limits:** The default model is `gemini-1.5-flash-8b`,
-> which has the most generous free-tier quota. If you still get a 429 error,
-> the `ask()` helper will retry automatically after 60 seconds.
-> To use a larger model, change `GEMINI_MODEL` in the setup cell."""))
+> **Tip — free tier limits:** The default model is `gemini-2.0-flash-lite`.
+> If you get a 429 error the `ask()` helper retries automatically after 60 s.
+> To list all models available to your key, run:
+> `for m in _client.models.list(): print(m.name)`
+> Then set `GEMINI_MODEL` in the setup cell to any model from that list."""))
 
 cells.append(new_code_cell("""\
 %%capture
@@ -466,13 +467,14 @@ import time
 from google import genai
 from google.colab import userdata
 
-# Model choice — free-tier availability varies by account and region.
-# If you get a 429 / quota-exceeded error, try the next model down the list:
-#   'gemini-1.5-flash-8b'  <- most generous free tier, try this first
-#   'gemini-1.5-flash'     <- slightly larger, still free
-#   'gemini-2.0-flash-lite'
-#   'gemini-2.0-flash'     <- may require billing on some accounts
-GEMINI_MODEL = 'gemini-1.5-flash-8b'
+# Model choice — to see all models available to your API key, run:
+#   for m in _client.models.list(): print(m.name)
+#
+# Recommended order to try if you hit quota errors:
+#   'gemini-2.0-flash-lite'  <- lowest quota cost, try this first
+#   'gemini-2.0-flash'       <- standard; may need billing on some accounts
+#   'gemini-2.5-flash'       <- most capable free-tier option
+GEMINI_MODEL = 'gemini-2.0-flash-lite'
 
 _client = genai.Client(api_key=userdata.get('GEMINI_API_KEY'))
 
