@@ -467,13 +467,15 @@ import time
 from google import genai
 from google.colab import userdata
 
-# Model choice — to see all models available to your API key, run:
-#   for m in _client.models.list(): print(m.name)
+# Available text-generation models (confirmed for this API):
+#   'gemini-2.0-flash-lite'   <- lowest cost, try first on free tier
+#   'gemini-2.0-flash'        <- standard
+#   'gemini-2.0-flash-001'    <- pinned version of 2.0-flash
+#   'gemini-2.5-flash'        <- faster, efficient
+#   'gemini-2.5-pro'          <- most capable, higher cost
 #
-# Recommended order to try if you hit quota errors:
-#   'gemini-2.0-flash-lite'  <- lowest quota cost, try this first
-#   'gemini-2.0-flash'       <- standard; may need billing on some accounts
-#   'gemini-2.5-flash'       <- most capable free-tier option
+# To list all models available to your key:
+#   for m in _client.models.list(): print(m.name)
 GEMINI_MODEL = 'gemini-2.0-flash-lite'
 
 _client = genai.Client(api_key=userdata.get('GEMINI_API_KEY'))
