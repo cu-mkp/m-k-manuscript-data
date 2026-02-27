@@ -459,14 +459,12 @@ Then run the cells below. You can edit the prompts freely to ask different quest
 
 cells.append(new_code_cell("""\
 %%capture
-!pip install -q google-generativeai"""))
+!pip install -q google-genai"""))
 
 cells.append(new_code_cell("""\
 import time
-import google.generativeai as genai
+from google import genai
 from google.colab import userdata
-
-genai.configure(api_key=userdata.get('GEMINI_API_KEY'))
 
 # Model choice — free-tier availability varies by account and region.
 # If you get a 429 / quota-exceeded error, try the next model down the list:
@@ -476,13 +474,16 @@ genai.configure(api_key=userdata.get('GEMINI_API_KEY'))
 #   'gemini-2.0-flash'     <- may require billing on some accounts
 GEMINI_MODEL = 'gemini-1.5-flash-8b'
 
-_client = genai.GenerativeModel(GEMINI_MODEL)
+_client = genai.Client(api_key=userdata.get('GEMINI_API_KEY'))
 
 def ask(prompt, retries=3, wait=60):
     \"\"\"Send a prompt to Gemini with automatic retry on 429 rate-limit errors.\"\"\"
     for attempt in range(retries):
         try:
-            return _client.generate_content(prompt).text
+            return _client.models.generate_content(
+                model=GEMINI_MODEL,
+                contents=prompt,
+            ).text
         except Exception as e:
             if '429' in str(e) and attempt < retries - 1:
                 print(f'Rate limit hit — waiting {wait}s before retry {attempt+2}/{retries}...')
