@@ -274,7 +274,13 @@ def main():
             if not obj_tokens:
                 continue
 
-            sentence = token.sent.text.strip()
+            # 300-char window around the subject token, clipped to the <ab> block.
+            # Avoids both spaCy's over-eager sentence segmentation and
+            # the risk of very long <ab> blocks flooding the output.
+            window    = 300
+            ctx_start = max(0, token.idx - window)
+            ctx_end   = min(len(text), token.idx + len(token.text) + window)
+            sentence  = text[ctx_start:ctx_end].strip()
             is_passive = token.dep_ == 'nsubjpass'
 
             for obj_tok in obj_tokens:

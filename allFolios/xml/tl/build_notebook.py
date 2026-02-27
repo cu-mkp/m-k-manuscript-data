@@ -255,7 +255,10 @@ for i, ab in enumerate(all_abs):
         obj_tokens = [c for c in verb.children if c.dep_ in ('obj', 'dobj')]
         if not obj_tokens: continue
 
-        sentence   = token.sent.text.strip()
+        window     = 300
+        ctx_start  = max(0, token.idx - window)
+        ctx_end    = min(len(text), token.idx + len(token.text) + window)
+        sentence   = text[ctx_start:ctx_end].strip()
         is_passive = token.dep_ == 'nsubjpass'
         for obj_tok in obj_tokens:
             if obj_tok.pos_ == 'PRON': continue

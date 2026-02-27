@@ -1,6 +1,6 @@
 # NLP Analysis — Caveats and Methodology Notes
 
-**Date:** 2026-02-25
+**Date:** 2026-02-26
 **Script:** `m_subject_verbs.py`
 **Model:** spaCy `en_core_web_sm`
 **Source:** `all_tl.xml` (English translation layer)
