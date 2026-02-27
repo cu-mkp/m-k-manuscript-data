@@ -450,7 +450,11 @@ Use the Gemini API to generate a scholarly interpretation of the NLP results.
 3. Add a secret named `GEMINI_API_KEY` and paste your key
 4. Toggle *Notebook access* to ON
 
-Then run the cells below. You can edit the prompts freely to ask different questions."""))
+Then run the cells below. You can edit the prompts freely to ask different questions.
+
+> **Tip — free tier limits:** The default model is `gemini-2.0-flash`.
+> If you hit rate limits, switch `GEMINI_MODEL` to `gemini-2.0-flash-lite`
+> (lower quota cost) or wait a minute and retry."""))
 
 cells.append(new_code_cell("""\
 %%capture
@@ -461,8 +465,43 @@ import google.generativeai as genai
 from google.colab import userdata
 
 genai.configure(api_key=userdata.get('GEMINI_API_KEY'))
-model = genai.GenerativeModel('gemini-2.0-flash')
-print('Gemini ready')"""))
+
+# Switch to 'gemini-2.0-flash-lite' if you hit free-tier rate limits
+GEMINI_MODEL = 'gemini-2.0-flash'
+
+model = genai.GenerativeModel(GEMINI_MODEL)
+print(f'Gemini ready ({GEMINI_MODEL})')"""))
+
+cells.append(new_code_cell("""\
+# ---------------------------------------------------------------------------
+# Shared data summaries reused across all prompts below.
+# We deliberately omit the 'sentence' column — it is long and not needed
+# for pattern interpretation (sentences are in the CSVs for manual review).
+# ---------------------------------------------------------------------------
+
+# Per-tag triple counts
+tag_counts_str = (
+    df.groupby(['subject_label', 'subject_tag'])
+      .size()
+      .reset_index(name='triples')
+      .sort_values('triples', ascending=False)
+      .to_string(index=False)
+)
+
+# Top triples across all tags, capped at 60 rows
+top_triples_csv = (
+    df.groupby(['subject_label', 'subject_term', 'verb_lemma', 'obj_text'])
+      .size()
+      .reset_index(name='count')
+      .sort_values(['subject_label', 'count'], ascending=[True, False])
+      .head(60)
+      [['subject_label', 'subject_term', 'verb_lemma', 'obj_text', 'count']]
+      .to_csv(index=False)
+)
+
+print('Data summaries ready')
+print(f'  tag_counts_str : {len(tag_counts_str)} chars')
+print(f'  top_triples_csv: {len(top_triples_csv)} chars')"""))
 
 cells.append(new_markdown_cell("""\
 ### 9.1 · Overall patterns
@@ -471,26 +510,6 @@ Ask Gemini to interpret what the full set of triples reveals about craft knowled
 in the manuscript."""))
 
 cells.append(new_code_cell("""\
-# Build a compact summary of the most frequent triples for the prompt.
-# We cap at 80 rows to stay well within the context window.
-top = (
-    df.groupby(['subject_label', 'subject_term', 'verb_lemma', 'obj_text'])
-      .size()
-      .reset_index(name='count')
-      .sort_values(['subject_label', 'count'], ascending=[True, False])
-      .head(80)
-      .to_csv(index=False)
-)
-
-# Per-tag triple counts for context
-tag_counts = (
-    df.groupby(['subject_label', 'subject_tag'])
-      .size()
-      .reset_index(name='triples')
-      .sort_values('triples', ascending=False)
-      .to_string(index=False)
-)
-
 prompt = f\"\"\"
 You are a historian of science and technology specialising in early modern craft knowledge.
 
@@ -501,14 +520,14 @@ casting, painting, varnishing, medicine, and natural history, among other topics
 
 Each triple records a semantically tagged entity (Material, Tool, Profession, etc.)
 acting as the grammatical subject of a transitive action verb, with its direct object.
-The triples were extracted by spaCy dependency parsing; treat them as a first-pass
+The triples were extracted by spaCy dependency parsing — treat them as a first-pass
 signal, not ground truth.
 
 Entity type counts:
-{tag_counts}
+{tag_counts_str}
 
-Top subject-verb-object triples (up to 80, sorted by entity type then frequency):
-{top}
+Top subject-verb-object triples (top 60 by frequency, grouped by entity type):
+{top_triples_csv}
 
 Please interpret what these patterns collectively reveal, addressing:
 1. How do **materials** behave or act in the manuscript's language — what do they do?
@@ -517,7 +536,7 @@ Please interpret what these patterns collectively reveal, addressing:
 4. Are there any surprising, counterintuitive, or historically significant patterns?
 5. What questions do these results open up for further research?
 
-Write 400–600 words in an academic but readable style.
+Write 400-600 words in an academic but readable style.
 \"\"\"
 
 response = model.generate_content(prompt)
@@ -526,37 +545,42 @@ print(response.text)"""))
 cells.append(new_markdown_cell("""\
 ### 9.2 · Deep dive by entity type
 
-Change `FOCUS_TAG` and `FOCUS_LABEL` to zoom in on any entity type."""))
+Change `FOCUS_TAG` to zoom in on any entity type.
+Valid tags: `m`, `tl`, `pro`, `wp`, `al`, `pl`, `pa`, `pn`, `sn`, `env`, `ms`, `df`, `tmp`"""))
 
 cells.append(new_code_cell("""\
-FOCUS_TAG   = 'm'         # <- change to any tag: tl, pro, wp, al, pl, ...
-FOCUS_LABEL = 'Material'  # <- matching human-readable label
+FOCUS_TAG = 'm'   # <- change this
 
-subset_csv = (
+focus_label = TAG_LABELS.get(FOCUS_TAG, FOCUS_TAG)
+
+# Top 40 triples for this tag only (no sentence column)
+focus_csv = (
     df[df.subject_tag == FOCUS_TAG]
-      [['subject_term', 'verb_lemma', 'obj_text', 'passive', 'sentence']]
-      .sort_values(['verb_lemma', 'subject_term'])
+      .groupby(['subject_term', 'verb_lemma', 'obj_text', 'passive'])
+      .size()
+      .reset_index(name='count')
+      .sort_values('count', ascending=False)
+      .head(40)
       .to_csv(index=False)
 )
 
 prompt2 = f\"\"\"
 You are a historian of early modern craft and material culture.
 
-The data below are subject-verb-object triples for **{FOCUS_LABEL}** entities
+The data below are subject-verb-object triples for **{focus_label}** entities (<{FOCUS_TAG}>)
 extracted from BnF Ms. Fr. 640 (16th-century craftsman's manuscript, ca. 1580s).
-The 'sentence' column provides a 300-character context window from the manuscript.
+The 'passive' column is True when the entity is acted upon rather than acting.
 
-{subset_csv}
+{focus_csv}
 
-Analyse what these triples reveal about how {FOCUS_LABEL.lower()}s are described and
+Analyse what these triples reveal about how {focus_label.lower()}s are described and
 used in this manuscript:
-- Which materials/entities appear most active (frequent as subjects)?
-- What verbs dominate — do they suggest transformation, preservation, application, ...?
-- Are passive constructions (column 'passive' = True) revealing — what is done *to* these entities?
-- Quote 2–3 specific sentences from the data that are particularly illuminating.
-- What does this language tell us about 16th-century craft epistemology?
+- Which {focus_label.lower()}s appear most active (frequent as subjects)?
+- What verbs dominate — do they suggest transformation, preservation, application?
+- Are passive constructions (passive = True) revealing — what is done *to* these entities?
+- What does this language tell us about 16th-century craft knowledge and practice?
 
-Write 300–500 words.
+Write 300-500 words.
 \"\"\"
 
 response2 = model.generate_content(prompt2)
@@ -565,22 +589,24 @@ print(response2.text)"""))
 cells.append(new_markdown_cell("""\
 ### 9.3 · Custom question
 
-Ask anything about the data."""))
+Edit `your_question` to ask anything about the data.
+The prompt includes the top-60 triples summary (no sentences) as context."""))
 
 cells.append(new_code_cell("""\
-# Paste any slice of the data you want to ask about, or use the full df
-data_for_prompt = df[['subject_label','subject_term','verb_lemma','obj_text','sentence']].to_csv(index=False)
-
 your_question = \"\"\"
 Which entries suggest the author had hands-on practical experience rather than
-book learning? Cite specific triples and sentences.
+book learning? What patterns in the verb choices support your answer?
 \"\"\"
 
 prompt3 = f\"\"\"
 You are a historian of early modern craft and technology.
-Here are subject-verb-object triples from BnF Ms. Fr. 640 (16th-century craftsman's manuscript):
 
-{data_for_prompt}
+Here are subject-verb-object triples from BnF Ms. Fr. 640 (16th-century craftsman's manuscript).
+Entity type counts:
+{tag_counts_str}
+
+Top triples (top 60):
+{top_triples_csv}
 
 {your_question}
 \"\"\"
