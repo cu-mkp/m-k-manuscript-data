@@ -452,24 +452,45 @@ Use the Gemini API to generate a scholarly interpretation of the NLP results.
 
 Then run the cells below. You can edit the prompts freely to ask different questions.
 
-> **Tip — free tier limits:** The default model is `gemini-2.0-flash`.
-> If you hit rate limits, switch `GEMINI_MODEL` to `gemini-2.0-flash-lite`
-> (lower quota cost) or wait a minute and retry."""))
+> **Tip — free tier limits:** The default model is `gemini-1.5-flash-8b`,
+> which has the most generous free-tier quota. If you still get a 429 error,
+> the `ask()` helper will retry automatically after 60 seconds.
+> To use a larger model, change `GEMINI_MODEL` in the setup cell."""))
 
 cells.append(new_code_cell("""\
 %%capture
 !pip install -q google-generativeai"""))
 
 cells.append(new_code_cell("""\
+import time
 import google.generativeai as genai
 from google.colab import userdata
 
 genai.configure(api_key=userdata.get('GEMINI_API_KEY'))
 
-# Switch to 'gemini-2.0-flash-lite' if you hit free-tier rate limits
-GEMINI_MODEL = 'gemini-2.0-flash'
+# Model choice — free-tier availability varies by account and region.
+# If you get a 429 / quota-exceeded error, try the next model down the list:
+#   'gemini-1.5-flash-8b'  <- most generous free tier, try this first
+#   'gemini-1.5-flash'     <- slightly larger, still free
+#   'gemini-2.0-flash-lite'
+#   'gemini-2.0-flash'     <- may require billing on some accounts
+GEMINI_MODEL = 'gemini-1.5-flash-8b'
 
-model = genai.GenerativeModel(GEMINI_MODEL)
+_client = genai.GenerativeModel(GEMINI_MODEL)
+
+def ask(prompt, retries=3, wait=60):
+    \"\"\"Send a prompt to Gemini with automatic retry on 429 rate-limit errors.\"\"\"
+    for attempt in range(retries):
+        try:
+            return _client.generate_content(prompt).text
+        except Exception as e:
+            if '429' in str(e) and attempt < retries - 1:
+                print(f'Rate limit hit — waiting {wait}s before retry {attempt+2}/{retries}...')
+                time.sleep(wait)
+            else:
+                raise
+    return None
+
 print(f'Gemini ready ({GEMINI_MODEL})')"""))
 
 cells.append(new_code_cell("""\
@@ -539,8 +560,7 @@ Please interpret what these patterns collectively reveal, addressing:
 Write 400-600 words in an academic but readable style.
 \"\"\"
 
-response = model.generate_content(prompt)
-print(response.text)"""))
+print(ask(prompt))"""))
 
 cells.append(new_markdown_cell("""\
 ### 9.2 · Deep dive by entity type
@@ -583,8 +603,7 @@ used in this manuscript:
 Write 300-500 words.
 \"\"\"
 
-response2 = model.generate_content(prompt2)
-print(response2.text)"""))
+print(ask(prompt2))"""))
 
 cells.append(new_markdown_cell("""\
 ### 9.3 · Custom question
@@ -611,8 +630,7 @@ Top triples (top 60):
 {your_question}
 \"\"\"
 
-response3 = model.generate_content(prompt3)
-print(response3.text)"""))
+print(ask(prompt3))"""))
 
 # ---------------------------------------------------------------------------
 # 10. Caveats
