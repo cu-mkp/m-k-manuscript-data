@@ -1,8 +1,111 @@
 #!/usr/bin/env python3
-"""Build ms_fr_640_nlp.ipynb using nbformat to guarantee valid JSON."""
+"""Build ms_fr_640_nlp.ipynb using nbformat to guarantee valid JSON.
 
+Three code cells (Configuration, Extraction functions, Analysis helpers) are
+read directly from m_subject_verbs.py so that comments stay in sync
+automatically.  Run this script after editing m_subject_verbs.py to
+regenerate the notebook with the latest code and comments.
+
+Usage
+-----
+    python build_notebook.py
+"""
+
+import re
+import pathlib
 import nbformat
 from nbformat.v4 import new_notebook, new_markdown_cell, new_code_cell
+
+# ---------------------------------------------------------------------------
+# Read and parse m_subject_verbs.py into named sections
+# ---------------------------------------------------------------------------
+_HERE   = pathlib.Path(__file__).parent
+_SCRIPT = (_HERE / 'm_subject_verbs.py').read_text(encoding='utf-8')
+
+# The === section separator used throughout m_subject_verbs.py
+# (79-character line: '# ' + 77 '=' signs)
+_SEP = '# ' + '=' * 77
+
+
+def _parse_sections(text, sep):
+    """
+    Split *text* on *sep* and return a dict mapping section names to code bodies.
+
+    m_subject_verbs.py is structured as:
+
+        [preamble: docstring + imports]
+        SEP
+        # SECTION NAME
+        # optional one-line description
+        SEP
+        [section code]
+        SEP
+        # NEXT SECTION NAME
+        SEP
+        [next section code]
+        ...
+
+    After splitting on SEP, odd-indexed parts are headers and even-indexed
+    parts are bodies.  The section name is the first comment line in the
+    header that is not itself a line of '=' characters.
+    """
+    parts = text.split(sep)
+    sections = {}
+    i = 1                       # first header is at index 1
+    while i + 1 < len(parts):
+        header = parts[i]
+        body   = parts[i + 1]
+        name   = None
+        for line in header.splitlines():
+            line = line.strip()
+            if line.startswith('#') and set(line[1:].strip()) != {'='}:
+                name = line[1:].strip()
+                break
+        if name:
+            sections[name] = body.strip()
+        i += 2
+    return sections
+
+
+_sec = _parse_sections(_SCRIPT, _SEP)
+
+
+def _section(name):
+    """Return the commented code body for a named section from m_subject_verbs.py."""
+    if name not in _sec:
+        raise KeyError(
+            f"Section '{name}' not found in m_subject_verbs.py.\n"
+            f"Available sections: {list(_sec)}"
+        )
+    return _sec[name]
+
+
+# ---------------------------------------------------------------------------
+# Configuration cell
+# The CONFIGURATION section starts with local file-path constants
+# (XML_FILE, OUTPUT_*, SPACY_MODEL) that are irrelevant in Colab.
+# We keep only from the first '# ---' divider onward, which introduces
+# the TAG_LABELS block.
+# ---------------------------------------------------------------------------
+_conf_raw = _section('CONFIGURATION')
+_cut      = _conf_raw.find('# ----')      # finds the '# ---...---' divider before TAG_LABELS
+_config_cell = (_conf_raw[_cut:] if _cut >= 0 else _conf_raw).strip()
+_config_cell += '\n\nprint(f"{len(TAG_LABELS)} semantic tags tracked")'
+
+# ---------------------------------------------------------------------------
+# Extraction functions cell — verbatim from the XML TEXT EXTRACTION section
+# ---------------------------------------------------------------------------
+_extract_cell = _section('XML TEXT EXTRACTION') + "\n\nprint('Extraction functions defined')"
+
+# ---------------------------------------------------------------------------
+# Analysis helpers cell — verbatim from the SPAN-LOOKUP HELPERS section
+# ---------------------------------------------------------------------------
+_helpers_cell = _section('SPAN-LOOKUP HELPERS') + "\n\nprint('Analysis functions defined')"
+
+
+# ===========================================================================
+# Build notebook cells
+# ===========================================================================
 
 COLAB_BADGE = (
     "[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]"
@@ -78,7 +181,7 @@ urllib.request.urlretrieve(XML_URL, XML_FILE)
 print(f"Downloaded {XML_FILE}")"""))
 
 # ---------------------------------------------------------------------------
-# 3. Configuration
+# 3. Configuration  ← code read from m_subject_verbs.py
 # ---------------------------------------------------------------------------
 cells.append(new_markdown_cell("""\
 ## 3 · Configuration
@@ -89,36 +192,10 @@ The manuscript XML uses a controlled tag vocabulary developed by the Making and 
 We track all 17 semantic tags as potential grammatical subjects.
 Language tags (`<fr>`, `<la>`, ...) and editorial markup (`<add>`, `<del>`, ...) are excluded -- see Caveats."""))
 
-cells.append(new_code_cell("""\
-TAG_LABELS = {
-    'al':  'Animal',
-    'bp':  'Body Part',
-    'cn':  'Currency',
-    'df':  'Definition',
-    'env': 'Environment',
-    'm':   'Material',
-    'md':  'Medical Term',
-    'ms':  'Measurement',
-    'mu':  'Musical Instrument',
-    'pa':  'Plant',
-    'pl':  'Place',
-    'pn':  'Personal Name',
-    'pro': 'Profession',
-    'sn':  'Sense Term',
-    'tl':  'Tool',
-    'tmp': 'Temporal',
-    'wp':  'Weapon',
-}
-SUBJECT_TAGS  = frozenset(TAG_LABELS)
-SKIP_TAGS     = frozenset({'comment', 'del', 'figure', 'gap', 'hr', 'ill', 'mark'})
-SPACE_TAGS    = frozenset({'lb'})
-COPULA_LEMMAS = frozenset({'be', 'seem', 'appear', 'become', 'remain', 'look', 'feel', 'sound'})
-M_PRIORITY_TAG = 'm'
-
-print(f"{len(TAG_LABELS)} semantic tags tracked")"""))
+cells.append(new_code_cell(_config_cell))
 
 # ---------------------------------------------------------------------------
-# 4. Extraction functions
+# 4. Extraction functions  ← code read from m_subject_verbs.py
 # ---------------------------------------------------------------------------
 cells.append(new_markdown_cell("""\
 ## 4 · XML text extraction
@@ -129,53 +206,10 @@ For each `<ab>` (anonymous text block), we walk the element tree and build:
 
 Character positions are tracked incrementally so multi-word spans are handled correctly."""))
 
-cells.append(new_code_cell("""\
-def extract_text_and_subject_spans(element):
-    buf, spans, pos = [], [], [0]
-
-    def walk(node):
-        tag = node.tag if isinstance(node.tag, str) else None
-        if tag is None: return
-        if tag in SKIP_TAGS: return
-        if tag in SPACE_TAGS:
-            buf.append(' '); pos[0] += 1; return
-
-        is_subj = tag in SUBJECT_TAGS
-        if is_subj:
-            s_start, s_tag = pos[0], tag
-        if node.text:
-            buf.append(node.text); pos[0] += len(node.text)
-        for child in node:
-            walk(child)
-            if child.tail:
-                buf.append(child.tail); pos[0] += len(child.tail)
-        if is_subj:
-            s_text = ''.join(buf)[s_start:pos[0]]
-            spans.append((s_start, pos[0], s_text.strip(), s_tag))
-
-    walk(element)
-    return ''.join(buf), spans
-
-
-def normalise_and_remap_spans(raw_text, raw_spans):
-    norm = re.sub(r'\\s+', ' ', raw_text).strip()
-    out, search_from = [], 0
-    for (_, _, raw_t, tag) in raw_spans:
-        s = re.sub(r'\\s+', ' ', raw_t).strip()
-        if not s: continue
-        idx = norm.find(s, search_from)
-        if idx == -1: idx = norm.find(s)
-        if idx == -1: continue
-        end = idx + len(s)
-        out.append((idx, end, s, tag))
-        search_from = end
-    return norm, out
-
-
-print('Extraction functions defined')"""))
+cells.append(new_code_cell(_extract_cell))
 
 # ---------------------------------------------------------------------------
-# 5. Analysis
+# 5. Analysis  ← helpers from m_subject_verbs.py; main loop is notebook-specific
 # ---------------------------------------------------------------------------
 cells.append(new_markdown_cell("""\
 ## 5 · NLP analysis
@@ -187,29 +221,7 @@ For every sentence in every `<ab>` block:
 
 When tags are nested, `<m>` (Material) takes priority; otherwise the tightest span wins."""))
 
-cells.append(new_code_cell("""\
-def tightest_subject_span(token, spans):
-    t0, t1 = token.idx, token.idx + len(token.text)
-    best_m, best_oth = None, None
-    for (ms, me, mt, tag) in spans:
-        if t0 >= ms and t1 <= me:
-            length = me - ms
-            if tag == M_PRIORITY_TAG:
-                if best_m is None or length < best_m[0]: best_m = (length, mt)
-            else:
-                if best_oth is None or length < best_oth[0]: best_oth = (length, mt, tag)
-    if best_m   is not None: return (best_m[1], M_PRIORITY_TAG)
-    if best_oth is not None: return (best_oth[1], best_oth[2])
-    return None
-
-
-def noun_chunk_for(token, doc):
-    for chunk in doc.noun_chunks:
-        if chunk.root == token: return chunk.text
-    return token.text
-
-
-print('Analysis functions defined')"""))
+cells.append(new_code_cell(_helpers_cell))
 
 cells.append(new_code_cell("""\
 print("Loading spaCy model ...")
@@ -226,6 +238,7 @@ for i, ab in enumerate(all_abs):
     if i % 500 == 0 and i > 0:
         print(f"  {i:,} / {len(all_abs):,}")
 
+    # Find the enclosing <div> for its id and categories attributes
     div_id = categories = ''
     node = ab.getparent()
     while node is not None:
@@ -243,6 +256,7 @@ for i, ab in enumerate(all_abs):
 
     doc = nlp(text)
     for token in doc:
+        # Only consider nominal subjects (active and passive)
         if token.dep_ not in ('nsubj', 'nsubjpass'): continue
         match = tightest_subject_span(token, spans)
         if match is None: continue
@@ -252,16 +266,19 @@ for i, ab in enumerate(all_abs):
         if verb.pos_ not in ('VERB', 'AUX'): continue
         if verb.lemma_ in COPULA_LEMMAS: continue
 
+        # Require a syntactic direct object
         obj_tokens = [c for c in verb.children if c.dep_ in ('obj', 'dobj')]
         if not obj_tokens: continue
 
-        window     = 300
-        ctx_start  = max(0, token.idx - window)
-        ctx_end    = min(len(text), token.idx + len(token.text) + window)
-        sentence   = text[ctx_start:ctx_end].strip()
+        # 300-character context window around the subject token
+        window    = 300
+        ctx_start = max(0, token.idx - window)
+        ctx_end   = min(len(text), token.idx + len(token.text) + window)
+        sentence  = text[ctx_start:ctx_end].strip()
+
         is_passive = token.dep_ == 'nsubjpass'
         for obj_tok in obj_tokens:
-            if obj_tok.pos_ == 'PRON': continue
+            if obj_tok.pos_ == 'PRON': continue     # skip pronoun objects
             obj_text  = noun_chunk_for(obj_tok, doc)
             obj_match = tightest_subject_span(obj_tok, spans)
             rows.append({
@@ -471,10 +488,11 @@ appear primarily as objects or adjuncts in recipe prose, not as agents of action
 # Write notebook
 # ---------------------------------------------------------------------------
 nb = new_notebook(cells=cells)
-nb['metadata']['colab'] = {'provenance': [], 'toc_visible': True}
+nb['metadata']['colab']      = {'provenance': [], 'toc_visible': True}
 nb['metadata']['kernelspec'] = {'display_name': 'Python 3', 'name': 'python3'}
 
-with open('ms_fr_640_nlp.ipynb', 'w', encoding='utf-8') as f:
+out = _HERE / 'ms_fr_640_nlp.ipynb'
+with open(out, 'w', encoding='utf-8') as f:
     nbformat.write(nb, f)
 
-print("ms_fr_640_nlp.ipynb written successfully")
+print(f"ms_fr_640_nlp.ipynb written successfully ({out})")
