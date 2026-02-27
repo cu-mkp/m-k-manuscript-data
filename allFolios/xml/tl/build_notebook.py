@@ -415,7 +415,7 @@ plt.show()"""))
 # ---------------------------------------------------------------------------
 # 8. Export
 # ---------------------------------------------------------------------------
-cells.append(new_markdown_cell("## 8 · Export results"))
+cells.append(new_markdown_cell("## 8 · Export results\n\nDownload the CSVs for use in other tools, or continue to the AI Interpretation section below."))
 
 cells.append(new_code_cell("""\
 df.to_csv('subject_verb_obj_detail.csv', index=False)
@@ -437,12 +437,164 @@ summary_out.to_csv('subject_verb_obj_summary.csv', index=False)
 print('Saved CSVs. Use File -> Download in the Colab sidebar to save them locally.')"""))
 
 # ---------------------------------------------------------------------------
-# 9. Caveats
+# 9. AI Interpretation
+# ---------------------------------------------------------------------------
+cells.append(new_markdown_cell("""\
+## 9 · AI Interpretation with Gemini
+
+Use the Gemini API to generate a scholarly interpretation of the NLP results.
+
+**One-time setup:**
+1. Get a free API key at [aistudio.google.com](https://aistudio.google.com) → *Get API key*
+2. In this Colab, click the **key icon** in the left sidebar (*Secrets*)
+3. Add a secret named `GEMINI_API_KEY` and paste your key
+4. Toggle *Notebook access* to ON
+
+Then run the cells below. You can edit the prompts freely to ask different questions."""))
+
+cells.append(new_code_cell("""\
+%%capture
+!pip install -q google-generativeai"""))
+
+cells.append(new_code_cell("""\
+import google.generativeai as genai
+from google.colab import userdata
+
+genai.configure(api_key=userdata.get('GEMINI_API_KEY'))
+model = genai.GenerativeModel('gemini-2.0-flash')
+print('Gemini ready')"""))
+
+cells.append(new_markdown_cell("""\
+### 9.1 · Overall patterns
+
+Ask Gemini to interpret what the full set of triples reveals about craft knowledge
+in the manuscript."""))
+
+cells.append(new_code_cell("""\
+# Build a compact summary of the most frequent triples for the prompt.
+# We cap at 80 rows to stay well within the context window.
+top = (
+    df.groupby(['subject_label', 'subject_term', 'verb_lemma', 'obj_text'])
+      .size()
+      .reset_index(name='count')
+      .sort_values(['subject_label', 'count'], ascending=[True, False])
+      .head(80)
+      .to_csv(index=False)
+)
+
+# Per-tag triple counts for context
+tag_counts = (
+    df.groupby(['subject_label', 'subject_tag'])
+      .size()
+      .reset_index(name='triples')
+      .sort_values('triples', ascending=False)
+      .to_string(index=False)
+)
+
+prompt = f\"\"\"
+You are a historian of science and technology specialising in early modern craft knowledge.
+
+The table below contains subject-verb-object triples automatically extracted from
+BnF Ms. Fr. 640, a 16th-century French craftsman's manuscript (ca. 1580s) written
+in Middle French and translated into English. The manuscript covers goldsmithing,
+casting, painting, varnishing, medicine, and natural history, among other topics.
+
+Each triple records a semantically tagged entity (Material, Tool, Profession, etc.)
+acting as the grammatical subject of a transitive action verb, with its direct object.
+The triples were extracted by spaCy dependency parsing; treat them as a first-pass
+signal, not ground truth.
+
+Entity type counts:
+{tag_counts}
+
+Top subject-verb-object triples (up to 80, sorted by entity type then frequency):
+{top}
+
+Please interpret what these patterns collectively reveal, addressing:
+1. How do **materials** behave or act in the manuscript's language — what do they do?
+2. What roles do **professions** (craftsmen, artisans) play as grammatical agents?
+3. What does the language around **tools** and **weapons** suggest about their use?
+4. Are there any surprising, counterintuitive, or historically significant patterns?
+5. What questions do these results open up for further research?
+
+Write 400–600 words in an academic but readable style.
+\"\"\"
+
+response = model.generate_content(prompt)
+print(response.text)"""))
+
+cells.append(new_markdown_cell("""\
+### 9.2 · Deep dive by entity type
+
+Change `FOCUS_TAG` and `FOCUS_LABEL` to zoom in on any entity type."""))
+
+cells.append(new_code_cell("""\
+FOCUS_TAG   = 'm'         # <- change to any tag: tl, pro, wp, al, pl, ...
+FOCUS_LABEL = 'Material'  # <- matching human-readable label
+
+subset_csv = (
+    df[df.subject_tag == FOCUS_TAG]
+      [['subject_term', 'verb_lemma', 'obj_text', 'passive', 'sentence']]
+      .sort_values(['verb_lemma', 'subject_term'])
+      .to_csv(index=False)
+)
+
+prompt2 = f\"\"\"
+You are a historian of early modern craft and material culture.
+
+The data below are subject-verb-object triples for **{FOCUS_LABEL}** entities
+extracted from BnF Ms. Fr. 640 (16th-century craftsman's manuscript, ca. 1580s).
+The 'sentence' column provides a 300-character context window from the manuscript.
+
+{subset_csv}
+
+Analyse what these triples reveal about how {FOCUS_LABEL.lower()}s are described and
+used in this manuscript:
+- Which materials/entities appear most active (frequent as subjects)?
+- What verbs dominate — do they suggest transformation, preservation, application, ...?
+- Are passive constructions (column 'passive' = True) revealing — what is done *to* these entities?
+- Quote 2–3 specific sentences from the data that are particularly illuminating.
+- What does this language tell us about 16th-century craft epistemology?
+
+Write 300–500 words.
+\"\"\"
+
+response2 = model.generate_content(prompt2)
+print(response2.text)"""))
+
+cells.append(new_markdown_cell("""\
+### 9.3 · Custom question
+
+Ask anything about the data."""))
+
+cells.append(new_code_cell("""\
+# Paste any slice of the data you want to ask about, or use the full df
+data_for_prompt = df[['subject_label','subject_term','verb_lemma','obj_text','sentence']].to_csv(index=False)
+
+your_question = \"\"\"
+Which entries suggest the author had hands-on practical experience rather than
+book learning? Cite specific triples and sentences.
+\"\"\"
+
+prompt3 = f\"\"\"
+You are a historian of early modern craft and technology.
+Here are subject-verb-object triples from BnF Ms. Fr. 640 (16th-century craftsman's manuscript):
+
+{data_for_prompt}
+
+{your_question}
+\"\"\"
+
+response3 = model.generate_content(prompt3)
+print(response3.text)"""))
+
+# ---------------------------------------------------------------------------
+# 10. Caveats
 # ---------------------------------------------------------------------------
 cells.append(new_markdown_cell("""\
 ---
 
-## 9 · Caveats and methodology notes
+## 10 · Caveats and methodology notes
 
 ### Model accuracy
 `en_core_web_sm` is a small statistical model trained on modern English (news, web text).
