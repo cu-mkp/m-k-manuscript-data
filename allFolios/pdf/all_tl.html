@@ -10,6 +10,24 @@
         margin: 1in;
     }
 
+    /* PDF outline bookmarks */
+    h1 {
+        bookmark-level: 1;
+        bookmark-label: content();
+    }
+    h2 {
+        bookmark-level: 1;
+        bookmark-label: content();
+    }
+    h3.head:not(.minor-head) {
+        bookmark-level: 2;
+        bookmark-label: content();
+    }
+    h3.head.minor-head {
+        bookmark-level: 3;
+        bookmark-label: content();
+    }
+
     .title-page {
         border: 1px solid black;
         padding: 2em;
@@ -324,7 +342,7 @@
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -350,7 +368,7 @@ Escrivains</span> by <span class="pl">St Jacques de la Boucherie</span>,<sup cla
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 <hr/>
@@ -377,7 +395,7 @@ Trumpets, see the book of funerals.<sup class="comment-ref"><a href="#endnote-c_
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -583,7 +601,7 @@ aliis</span></ins><sup class="comment-ref"><a href="#endnote-c_001r_67" id="ref-
         
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 <sup class="comment-ref"><a href="#endnote-c_001r_70" id="ref-c_001r_70-1">[80]</a></sup><em><span class="la" >Aquatilium animalium historiæ, <span class="pn">Hypolito<br/>
@@ -595,7 +613,7 @@ Salviano</span><sup class="comment-ref"><a href="#endnote-c_001r_06" id="ref-c_0
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> <span class="fr" >Les Annales de
 <span class="pl">Normandie</span></span><sup class="comment-ref"><a href="#endnote-c_001r_39" id="ref-c_001r_39-1">[83]</a></sup></div>
@@ -686,7 +704,7 @@ was of a beautiful green.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="full">
 <span class="margin-position">[full]</span> I have taken <span class="m">minium</span> 12 <span class="ms">℥</span>,
 <span class="m">crystal</span> 6 <span class="ms">℥</span>, <span class="m">verdet</span> 2
@@ -739,7 +757,7 @@ should remain on it, turn the branch over the heat of the
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 
@@ -802,7 +820,7 @@ it dries both <span class="env">in the shade</span> and <span class="env">in the
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-bottom">
 <span class="margin-position">[left-bottom]</span> 
 
@@ -835,7 +853,7 @@ other one except that one puts <span class="m">coarse common turpentine</span></
   
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span>     
 But it is used to heighten colors which have soaked in and to keep them
@@ -879,7 +897,7 @@ round, you will place it on a <span class="tl">trivet</span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -943,7 +961,7 @@ would not penetrate the wall, &amp; when you would put your
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -974,7 +992,7 @@ is dry, you can spread your <span class="m">turpentine varnish</span> on it.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -1016,7 +1034,7 @@ And when you see that it no longer <span class="m">smokes</span>, it is done and
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -1282,7 +1300,7 @@ the said <span class="tl">furnace</span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="right-middle">
 <span class="margin-position">[right-middle]</span> 
 
@@ -1380,7 +1398,7 @@ wetting it with the <span class="tl"><span class="bp">mouth</span></span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -1661,7 +1679,7 @@ I make this <span class="mark">___</span> 8 <span class="ms"><span class="cn">lb
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
     <br/>
@@ -1706,7 +1724,7 @@ lavender</span> oil</span>.</ins></p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -1954,7 +1972,7 @@ let it melt well until it becomes liquid, like <span class="m">oil</span>, mix i
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -1988,7 +2006,7 @@ can make a hollow form of animals from <span class="m"><span class="fr" >chimol�
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -2036,7 +2054,7 @@ with the <span class="tl"><span class="bp">finger</span></span> until <span clas
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -2063,7 +2081,7 @@ bole</span> or <span class="m">sanguine</span> &amp; incorporate it with <span c
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -2313,7 +2331,7 @@ has <span class="m">saltpeter</span> in it. That is why, when they fall down,
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> A<a id="fig_p014r_1" href="#figure-list-fig_p014r_1">[Figure: fig_p014r_1]</a>
 </div>
@@ -2367,7 +2385,7 @@ but is found on the surface of the cast.</ins></p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -2491,7 +2509,7 @@ that there is one <span class="ms"><span class="fr" >pan</span></span> of the mo
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -2508,7 +2526,7 @@ contains <span class="ms">one &amp; a half quintal</span>, &amp; the
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> <a id="fig_p016r_1" href="#figure-list-fig_p016r_1">[Figure: fig_p016r_1]</a>
 </div>
@@ -2553,7 +2571,7 @@ to a point, up to the top of the wall
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -2712,7 +2730,7 @@ making a battery is 4<sup>xx</sup><sup class="comment-ref"><a href="#endnote-c_0
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 <del>The <span class="wp">double canon</span></del></div>
@@ -2830,7 +2848,7 @@ placing them via <span class="env">trenches</span> on the <span class="env">edge
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -2913,7 +2931,7 @@ half a <span class="ms">league</span> at range.</ins></p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -2974,7 +2992,7 @@ sight <span class="corr"><del><span class="fr" >e</span></del></span> to where t
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -3045,7 +3063,7 @@ battery or for siege combat, are <span class="wp">cannons</span>, <span class="w
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -3135,7 +3153,7 @@ other than <span class="wp">orgues</span>. See the 4th leaf following, marked
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -3304,7 +3322,7 @@ shape of a <span class="tl">frame</span>, because they cannot be set quite evenl
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -3447,7 +3465,7 @@ has been pointed &amp; adjusted for firing.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> If the
 platform, the wheels, or the
@@ -3519,7 +3537,7 @@ violence.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="top">
 <span class="margin-position">[top]</span> A little too big, see the one <del>of</del> that
 follows.</div>
@@ -3574,7 +3592,7 @@ for an entry, than for ordinary business. One calls<sup class="comment-ref"><a h
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> <a id="fig_p022v_1" href="#figure-list-fig_p022v_1">[Figure: fig_p022v_1]</a>
 <sup class="comment-ref"><a href="#endnote-c_022v_01" id="ref-c_022v_01-1">[180]</a></sup></div>
@@ -3634,7 +3652,7 @@ completely with good</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -3697,7 +3715,7 @@ also.</p>
  
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> <a id="fig_p023v_1" href="#figure-list-fig_p023v_1">[Figure: fig_p023v_1]</a>
 </div>
@@ -3787,7 +3805,7 @@ battery<br/>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
         
@@ -3821,7 +3839,7 @@ on another side. And before, one has</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span>  are those which have a
 reinforcement inside, in the entire space which contains the <span class="m">powder</span>, and the
@@ -3849,7 +3867,7 @@ but one puts plenty of gabions that are high &amp; goes running to them. In larg
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> is
 put in the <span class="wp">cannons</span> in the manner of a screw so it will not be damaged
@@ -3869,7 +3887,7 @@ the <span class="wp">pieces</span>. One keeps the small <span class="m">powder</
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span>  of
 the breach is the best because in <span class="corr"><del>in</del></span> this way the <span class="wp">cannon</span> hardly pushes
@@ -3916,7 +3934,7 @@ several stones.<hr/>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="bottom">
 <span class="margin-position">[bottom]</span> 
 
@@ -3985,7 +4003,7 @@ restrained, it goes sideways &amp; makes the <span class="wp">piece</span> break
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="top">
 <span class="margin-position">[top]</span> 
 
@@ -4167,7 +4185,7 @@ and a half</h3>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="right-middle">
 <span class="margin-position">[right-middle]</span> 
 
@@ -4233,7 +4251,7 @@ always have beside them, they rub the middle of the back of the dish
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -4314,7 +4332,7 @@ expense.
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -4377,7 +4395,7 @@ the <span class="tl">mortar</span> while <span class="tl">pestling</span> is
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-bottom">
 <span class="margin-position">[left-bottom]</span> 
 The <span class="m">darker <span class="al">dragon</span>&#39;s blood</span><br/>
@@ -4413,7 +4431,7 @@ passed<sup class="comment-ref"><a href="#endnote-c_029v_01" id="ref-c_029v_01-1"
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -4750,7 +4768,7 @@ six <span class="cn">lb</span>. <del>Put in</del></p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -4801,7 +4819,7 @@ the <span class="bp">nose</span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -4894,7 +4912,7 @@ close to <span class="mark">#</span><sup class="comment-ref"><a href="#endnote-c
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -5198,7 +5216,7 @@ needle.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> of <span class="m">leather</span><a id="fig_p036r_1" href="#figure-list-fig_p036r_1">[Figure: fig_p036r_1]</a></div>
 </div>
@@ -5260,7 +5278,7 @@ middle, whence it is begun, still remains.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -5478,7 +5496,7 @@ of <span class="m">soft wood</span></span> with <span class="tl"><span class="m"
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -5853,7 +5871,7 @@ porous.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -5901,7 +5919,7 @@ are fat, they are easier to shear &amp; do not get wounded so easily.
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 <sup class="comment-ref"><a href="#endnote-c_041v_01" id="ref-c_041v_01-1">[234]</a></sup>If the <span class="pro">shearer</span> wants to
@@ -6245,7 +6263,7 @@ that <span class="pro">coppersmiths</span> make</span>. This makes the plate mor
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -6402,7 +6420,7 @@ cuirass body,<sup class="comment-ref"><a href="#endnote-c_045r_04" id="ref-c_045
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -6853,7 +6871,7 @@ whiter and seems to be burnished like a mirror.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -6894,7 +6912,7 @@ that one makes <span class="m">lead</span> take hold on <span class="m">glass</s
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -7028,7 +7046,7 @@ brood.
         
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
             
@@ -7090,7 +7108,7 @@ mold in <span class="m">plaster</span> or <span class="m">tripoli</span>, and th
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -7158,7 +7176,7 @@ reduce to a mass. The <span class="pl">Germans</span> make their <span class="tl
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> One applies <span class="m">steel</span> to tools
 <del><span class="fr" >dess</span></del> not on both sides, but underneath the part
@@ -7226,7 +7244,7 @@ one follows in cutting the surface. You could do this with historiated
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -7466,7 +7484,7 @@ the price that is set in <span class="pl">Lyon</span>. <span class="m">Burnt &am
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-bottom">
 <span class="margin-position">[left-bottom]</span> 
 
@@ -7515,7 +7533,7 @@ one needs to give them <span class="m"><span class="pa">white mulberry</span> le
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
         
@@ -7566,7 +7584,7 @@ attaches</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -7612,7 +7630,7 @@ their cocoon there without climbing high.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -7897,7 +7915,7 @@ gather the <span class="m">azure</span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -8148,7 +8166,7 @@ with long <span class="tl">paintbrushes</span>. Fresco is not used
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -8192,7 +8210,7 @@ their <span class="bp">hand</span> when they are painting</span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -8251,7 +8269,7 @@ the darkest to the clearest.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -8387,7 +8405,7 @@ will be not be able to soften them thoroughly.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -8445,7 +8463,7 @@ enough body. <span class="mark">+</span><sup class="comment-ref"><a href="#endno
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -8471,7 +8489,7 @@ others with <span class="m">white wine</span>, for dust spoils the colors.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 
@@ -8554,7 +8572,7 @@ alexandrine</span></span> &amp; <span class="m">incarnadine</span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -8657,7 +8675,7 @@ is very subtle &amp; thin without being ground, and does not run.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -8798,7 +8816,7 @@ Perspective is very difficult.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -8821,7 +8839,7 @@ hanging the said <span class="tl"><span class="m">thread</span></span> from the 
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> <a id="fig_p062v_2" href="#figure-list-fig_p062v_2">[Figure: fig_p062v_2]</a>
 </div>
@@ -8874,7 +8892,7 @@ of <span class="m">iron</span> &amp; <span class="m">copper</span></span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -9014,7 +9032,7 @@ better, since they are not so thick.</p>
         
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
             
@@ -9039,7 +9057,7 @@ freshest.</p>
         
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
             
@@ -9069,7 +9087,7 @@ for this reason one mixes in <span class="m">calcined <span class="fr" >cristall
         
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
             
@@ -9139,7 +9157,7 @@ rather layer them twice, if it is not <span class="m"><span class="fr" >azur d&#
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 
@@ -9206,7 +9224,7 @@ you will have a perfect shadow for women in <span class="m">distemper</span>.</p
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -9238,7 +9256,7 @@ left like
     
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
     
@@ -9281,7 +9299,7 @@ humidity will make the colors take.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
         
@@ -9314,7 +9332,7 @@ shiny.</p>
                
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 There are some who paint from nature on <span class="m">oiled paper</span>, &amp;
@@ -9342,7 +9360,7 @@ nimble.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
         
@@ -9387,7 +9405,7 @@ has no body &amp; <del>makes</del> lightens the density of the others.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 
@@ -9410,7 +9428,7 @@ good to do it<sup class="comment-ref"><a href="#endnote-c_065v_02" id="ref-c_065
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="bottom">
 <span class="margin-position">[bottom]</span> 
 <sup class="comment-ref"><a href="#endnote-c_065v_04" id="ref-c_065v_04-1">[320]</a></sup>with <span class="m">ceruse</span>, <del>&amp; a bit of</del> <span class="m">yellow ocher</span>, &amp;
@@ -9437,7 +9455,7 @@ them lightly &amp; not very thick, to soften them well.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 
@@ -9461,7 +9479,7 @@ seat for the color in the <span class="tmp">evening</span>.</div>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 After having gilded,<br/>
@@ -9503,7 +9521,7 @@ not last.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 
@@ -9565,7 +9583,7 @@ would be imbibed &amp; would run.</p>
         
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span>            
 <sup class="comment-ref"><a href="#endnote-c_066r_04" id="ref-c_066r_04-1">[322]</a></sup>On <span class="m">canvas</span> &amp; in<br/>
@@ -9607,7 +9625,7 @@ back to the top to <span class="mark">*</span><sup class="comment-ref"><a href="
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
         
@@ -9625,7 +9643,7 @@ take heed not to</del> and when it is as if dry, it grips the
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -9663,7 +9681,7 @@ from a honey bee hive</span></span>, that is to say <span class="m">honey</span>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 
@@ -9823,7 +9841,7 @@ following layers with <span class="m">wadding</span> mixed with the said tempere
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -9907,7 +9925,7 @@ And when it is well red, throw it into
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -10021,7 +10039,7 @@ sieve</span> or a <span class="tl"><span class="m">linen</span> sleeve</span>, t
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -10089,7 +10107,7 @@ but not more.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -10170,7 +10188,7 @@ dries it in a <span class="tl">skillet</span> on the fire, until it <del>is</del
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -10265,7 +10283,7 @@ they <del><span class="fr" >boi</span></del> drink it as hot as they can to over
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -10405,7 +10423,7 @@ large knives</span> is very good for <span class="m">copper</span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -10484,7 +10502,7 @@ for casting, but it is brittle.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="right-top">
 <span class="margin-position">[right-top]</span> 
 
@@ -10601,7 +10619,7 @@ of <span class="m">sulfur</span>, and
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> l______.<sup class="comment-ref"><a href="#endnote-c_073r_04" id="ref-c_073r_04-1">[344]</a></sup></div>
 </div>
@@ -11341,7 +11359,7 @@ of the <span class="bp">face</span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> Some find that there is nothing better
 than <span class="m">fine tin</span>.</div>
@@ -11464,7 +11482,7 @@ the <span class="m">lead</span> or <span class="m">tin</span><br/>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
         
@@ -11512,7 +11530,7 @@ that you put on top, which has more body, will grip it.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -11725,7 +11743,7 @@ well hot.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 
@@ -11781,7 +11799,7 @@ Turn.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -11821,7 +11839,7 @@ finest possible.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -11847,7 +11865,7 @@ neatly and releases very neatly.</ins></p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -11892,7 +11910,7 @@ dung</span>, it will be all the better. Moisten with <span class="m">glair of eg
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -12003,7 +12021,7 @@ clean it, for this degreases it, &amp; makes it easier to release afterward.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> To melt with <span class="tl">bellows</span>, &amp; hasten your melt,
 &amp; also cast hotter <del><span class="fr" >po</span></del>, do not place your
@@ -12090,7 +12108,7 @@ until<del><span class="fr" >l</span></del><sup class="comment-ref"><a href="#end
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -12129,7 +12147,7 @@ well, and also makes the other two release.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -12166,7 +12184,7 @@ porous.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -12200,7 +12218,7 @@ a little</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -12253,7 +12271,7 @@ barely release well and yet they receive <span class="m">metal</span> well.
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -12375,7 +12393,7 @@ coin of forty <span class="cn">sous</span></span>. I cast very hot</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 <span class="m">Sand from the <span class="env">mine</span></span>, well chosen &amp; well reheated, is the most
@@ -12439,7 +12457,7 @@ that you cast all at once. Always <span class="m"><span class="tl">lute</span></
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -12582,7 +12600,7 @@ earth</span> also does, as <span class="m">fatty sand</span> also does.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-bottom">
 <span class="margin-position">[left-bottom]</span> 
 
@@ -12650,7 +12668,7 @@ on another.
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -12791,7 +12809,7 @@ it.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 
@@ -12878,7 +12896,7 @@ reheated it, there would be danger of it crumbling in some<sup class="comment-re
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-bottom">
 <span class="margin-position">[left-bottom]</span> <sup class="comment-ref"><a href="#endnote-c_089v_02" id="ref-c_089v_02-1">[389]</a></sup>place because of its delicateness &amp; fineness, even if the medal has a high
 relief. Once you have molded with it, pulverize it as before and put it
@@ -13092,7 +13110,7 @@ mold. And if the medal has two sides</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> Before casting, heat the
 <span class="tl"><span class="m">bones</span></span> in order to make them lose only the coldness &amp;
@@ -13474,7 +13492,7 @@ aquafortis</span>, for if it were too hot, it would cook &amp; spoil the
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> <a id="fig_p094r_1" href="#figure-list-fig_p094r_1">[Figure: fig_p094r_1]</a>
 <sup class="comment-ref"><a href="#endnote-c_094r_09" id="ref-c_094r_09-1">[411]</a></sup></div>
@@ -13498,7 +13516,7 @@ needs to twist it twice. A grip of <span class="m">fine gold</span> is worth 18 
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> <span class="tl">scabbard bench</span>
 <a id="fig_p094v_1" href="#figure-list-fig_p094v_1">[Figure: fig_p094v_1]</a>
@@ -13577,7 +13595,7 @@ at the <span class="tl"><span class="pro">farriers</span>&#39; forge</span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 <a id="fig_p094v_8" href="#figure-list-fig_p094v_8">[Figure: fig_p094v_8]</a>
@@ -13825,7 +13843,7 @@ least xxx <span class="ms"><span class="cn">sous</span></span>, a <span class="a
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -13998,7 +14016,7 @@ it, for this will make the <span class="m">varnish</span> whiten &amp; take body
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 
@@ -14235,7 +14253,7 @@ use it.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -14300,7 +14318,7 @@ tail nor a point but be cut in the round like a <span class="tl">wimble</span>,<
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -14397,7 +14415,7 @@ break. This can serve for <span class="pro">perfumers</span>. &amp; <del>the
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -14439,7 +14457,7 @@ and continue all over until it no longer burns.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -14492,7 +14510,7 @@ of pure <span class="m">copper</span></span>.
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -14553,7 +14571,7 @@ grain</span> of <span class="m">gold leaf</span> of what the <span class="pro">p
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -14594,7 +14612,7 @@ and accompanied with <span class="m">antimony</span>.</em></p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -14628,7 +14646,7 @@ enough, <span class="tl">pestle</span> it more in the <span class="tl"><span cla
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -14659,7 +14677,7 @@ let it boil, &amp; mix them together until</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -14692,7 +14710,7 @@ only have red veins.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -15236,7 +15254,7 @@ shield are later in bearing fruit than those by cleft.</p>
         
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 It is necessary that the <span class="m">iron</span> wire of its cage be of the
@@ -15261,7 +15279,7 @@ cage into the <span class="bp">hand</span> &amp; opening its beak, &amp; with a
         
     </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
             
@@ -15293,7 +15311,7 @@ broth is kept a little bit cold because of it, it engenders <span class="al">wor
         
     </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="right-top">
 <span class="margin-position">[right-top]</span> 
             swallow. And continue thus until<br/>
@@ -15352,7 +15370,7 @@ see what you have done, and seeing <span class="al">worms</span>, it will enter.
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 Some sell them on trees.</div>
@@ -15430,7 +15448,7 @@ fire twice &amp; is reheated twice.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -15471,7 +15489,7 @@ are cast in many <del>times</del> pieces.</p>
     
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
         
@@ -15492,7 +15510,7 @@ clean it well from powder &amp; <span class="m">filth</span> before pestling it.
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="right-middle">
 <span class="margin-position">[right-middle]</span> 
 <ins>Those of the <span class="env">houses</span> that are <span class="m">not sandy</span> seem to withstand
@@ -15571,7 +15589,7 @@ binding to <span class="m">sand</span>.
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
         
@@ -15631,7 +15649,7 @@ has once again become heavy
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-bottom">
 <span class="margin-position">[left-bottom]</span> 
 
@@ -15780,7 +15798,7 @@ molded hollow.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -15911,7 +15929,7 @@ when you need it.<hr/>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -15960,7 +15978,7 @@ having molded, it melts in the <span class="tl">mold</span> gently like <span cl
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> If</div>
 </div>
@@ -15977,7 +15995,7 @@ water</span> would repel the <span class="m">oil</span> more &amp; would not hav
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -16055,7 +16073,7 @@ A <span class="al">frog</span> is not so beautiful molded because it has lively 
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="top">
 <span class="margin-position">[top]</span> 
 <hr/>
@@ -16088,7 +16106,7 @@ beasts.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -16157,7 +16175,7 @@ pulls out all the venom and nothing else. It is the same with
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -16200,7 +16218,7 @@ would elevate the <span class="m">sand</span> &amp; become porous.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> <span class="mark">#</span><br/>
 
@@ -16237,7 +16255,7 @@ nature.</ins></p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> <del><span class="fr" >S<span class="ill">[illegible]</span></span></del></div>
 <div class="margin-note" data-position="left-middle">
@@ -16303,7 +16321,7 @@ fresh.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -16333,7 +16351,7 @@ latten</span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
         
@@ -16396,7 +16414,7 @@ have changed skin, they are more beautiful.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -16442,7 +16460,7 @@ makes <span class="tl">molds</span> too soft &amp; breakable.
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -16475,7 +16493,7 @@ it creates a better bond.</div>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -16511,7 +16529,7 @@ want to mold <del><span class="fr" >de</span></del>,<sup class="comment-ref"><a 
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -16548,7 +16566,7 @@ hurry</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -16577,7 +16595,7 @@ old skin, if it sheds, or of the <span class="m">filth</span>, or of the <span c
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -16647,7 +16665,7 @@ by a</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -16744,7 +16762,7 @@ which evaporates promptly. And wet it thus.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -16855,7 +16873,7 @@ be appropriate for molding right away, and trim the excess with a big
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 If you can, fill your half <span class="tl">mold</span> in one go, &amp; with
@@ -16904,7 +16922,7 @@ second cast anchors itself there &amp; binds better
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-bottom">
 <span class="margin-position">[left-bottom]</span> 
 <span class="m">Sal ammoniac water</span> is not necessary to small
@@ -16982,7 +17000,7 @@ the surface in little drops.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -17095,7 +17113,7 @@ half <a id="fig_p114v_3" href="#figure-list-fig_p114v_3">[Figure: fig_p114v_3]</
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 <a id="fig_p114v_1" href="#figure-list-fig_p114v_1">[Figure: fig_p114v_1]</a>
@@ -17154,7 +17172,7 @@ above <a id="fig_p115r_5" href="#figure-list-fig_p115r_5">[Figure: fig_p115r_5]<
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
         
@@ -17174,7 +17192,7 @@ But because one needs
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 to cast by the tail or from the back of the animal,<br/>
@@ -17223,7 +17241,7 @@ end of the<br/>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> <del><span class="fr" >N</span></del><sup class="comment-ref"><a href="#endnote-c_115r_03" id="ref-c_115r_03-1">[516]</a></sup> And having done your cast, do not forget to make in
 it some holes and <del><span class="ill">[illegible]</span></del>notches<sup class="comment-ref"><a href="#endnote-c_115r_02" id="ref-c_115r_02-1">[517]</a></sup> because the <span class="m">metal</span> will run more neatly thus than if
@@ -17310,7 +17328,7 @@ mix in it a little <span class="m">looking-glass tin</span>, which makes it run 
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -17372,7 +17390,7 @@ furnace</span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 <hr/>
@@ -17446,7 +17464,7 @@ because, if it were thick, it would crush the flower.
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 
@@ -17490,7 +17508,7 @@ flexible.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -17557,7 +17575,7 @@ they cast them in <span class="m">metal</span>, as is said.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -17594,7 +17612,7 @@ thin, one needs for it to be almost all <span class="m">tin</span>.
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 If you <del>mold <span class="fr" >de plu</span></del> want to cast <del>in</del> <span class="m">lead</span> or
@@ -17692,7 +17710,7 @@ peg</span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -17734,7 +17752,7 @@ come out &amp; not remain.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -17793,7 +17811,7 @@ always mix in it a little <span class="m">sal ammoniac</span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -17866,7 +17884,7 @@ are very beautiful.</ins></p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -17970,7 +17988,7 @@ whole.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 For better, one needs to reheat the <span class="m">sand used for the <span class="fr" >noyau</span></span>
@@ -18045,7 +18063,7 @@ brushes</span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-bottom">
 <span class="margin-position">[left-bottom]</span> 
 
@@ -18144,7 +18162,7 @@ for each <span class="m">metal</span>. </p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -18211,7 +18229,7 @@ Try <span class="m">sheets of gemstone foils</span> molded in a hollow form for 
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
         
@@ -18242,7 +18260,7 @@ to which it comes out very neatly. But it were good that your
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 Before the invention of <span class="m"><span class="la" >crocum</span></span>, one<br/>
@@ -18316,7 +18334,7 @@ very fond of them.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -18360,7 +18378,7 @@ filings</span>, <span class="m">antimony</span> &amp;c.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> <em>
 
@@ -18413,7 +18431,7 @@ when you have pulverized it &amp; then poured it. For it is</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="right-top">
 <span class="margin-position">[right-top]</span> 
         
@@ -18490,7 +18508,7 @@ and others that your experience will teach you.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -18527,7 +18545,7 @@ would be all the better. Put them in a <span class="tl">case</span> in your
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -18575,7 +18593,7 @@ the <span class="tl">molds</span> from cracking &amp; is appropriate for all
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -18641,7 +18659,7 @@ have the mixture one needs to make the <span class="m">silver</span> run.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -18695,7 +18713,7 @@ but that is when they are small.</p>
     
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
         <a id="fig_p122r_3" href="#figure-list-fig_p122r_3">[Figure: fig_p122r_3]</a>
@@ -18755,7 +18773,7 @@ the legs, it will be awkward.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -18852,7 +18870,7 @@ l<span class="m">otnegra</span></span><sup class="comment-ref"><a href="#endnote
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="right-middle">
 <span class="margin-position">[right-middle]</span> 
 
@@ -18977,7 +18995,7 @@ grain</span> will serve you to put in the <span class="m">melted metal</span>.</
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -19111,7 +19129,7 @@ not run well, but <span class="m">alloyed gold</span> does.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 <span class="m">Gold</span> &amp; <span class="m">silver</span> do not sour,<br/>
@@ -19181,7 +19199,7 @@ molded thing.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="right-bottom">
 <span class="margin-position">[right-bottom]</span> 
 
@@ -19243,7 +19261,7 @@ gate.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="top">
 <span class="margin-position">[top]</span> 
 
@@ -19280,7 +19298,7 @@ liquid, your <span class="m">plaster</span> or your <span class="m">sand of <spa
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -19315,7 +19333,7 @@ one recognizes by the tang that enters the hilt that it is cast in
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> <hr/>
 <em>To know</em><sup class="comment-ref"><a href="#endnote-c_125r_04" id="ref-c_125r_04-1">[561]</a></sup><hr/>
@@ -19325,7 +19343,7 @@ one recognizes by the tang that enters the hilt that it is cast in
  
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 And <span class="m">hot water</span> softens it further. <span class="m">Cold water</span> does not
@@ -19346,7 +19364,7 @@ there, <span class="tmp">at night or at a silent time</span>, &amp; you will eas
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
         
@@ -19372,7 +19390,7 @@ varnished. One can find these in
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="bottom">
 <span class="margin-position">[bottom]</span> 
 <span class="env">on the houses</span>. But take heed that the <span class="m">water</span> be
@@ -19402,7 +19420,7 @@ stinger. Other <span class="al">snakes</span> have a double row of teeth.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -19452,7 +19470,7 @@ when it is released, &amp; afterward you cut this off.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -19512,7 +19530,7 @@ scattered &amp; spread apart.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -19569,7 +19587,7 @@ use it to cast in <span class="m">gold</span> <del><span class="fr" >ven</span><
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -19599,7 +19617,7 @@ neatly.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -19632,7 +19650,7 @@ which is to receive the <span class="m">tempered sand</span>, <del><span class="
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -19671,7 +19689,7 @@ remain loose &amp; the weight of the <span class="m">quicksilver</span> makes th
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 <span class="pa">Asparagus</span> always stays as <span class="m">charcoal</span>, like little pins.
@@ -19743,7 +19761,7 @@ but leave it uncovered &amp; the exit of the vent as well. </p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 
@@ -19814,7 +19832,7 @@ there &amp; adjust a little the half-lit charcoals in the
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -19859,7 +19877,7 @@ hot &amp; filling one, remelt &amp; cast in the other.</p>
     
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="right-top">
 <span class="margin-position">[right-top]</span> 
         
@@ -19928,7 +19946,7 @@ on your <span class="m">melted silver</span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -20000,7 +20018,7 @@ grain in.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -20068,7 +20086,7 @@ in the <span class="m"><span class="fr" >bullitoyre</span></span>. Next, he <spa
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -20137,7 +20155,7 @@ made in the genitals and full of very venomous<sup class="comment-ref"><a href="
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -20182,7 +20200,7 @@ necessary that they be dried promptly.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -20230,7 +20248,7 @@ hindered by vapors &amp; fumes.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="right-top">
 <span class="margin-position">[right-top]</span> 
 <hr/>
@@ -20292,7 +20310,7 @@ small cornicles of the <span class="al">spider</span>. Return <span class="mark"
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 
@@ -20355,7 +20373,7 @@ similar fancies. Thus for <span class="al">rats</span> &amp; all animals.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -20388,7 +20406,7 @@ second cast.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -20436,7 +20454,7 @@ here is the cunning &amp; secret for releasing it.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
         
@@ -20457,7 +20475,7 @@ burned enough, reheat until it is.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -20502,7 +20520,7 @@ inside.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -20567,7 +20585,7 @@ And for this reason, if you want to rough out something</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -20599,7 +20617,7 @@ put your <span class="tl">mold</span> in <span class="m">boiling water</span>.</
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -20646,7 +20664,7 @@ means that there is too much. Take heed</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -20699,7 +20717,7 @@ red.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -20742,7 +20760,7 @@ cool</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -20812,7 +20830,7 @@ needles</span>.</em></p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
         
@@ -20880,7 +20898,7 @@ the scales from the top of the toes will come out well.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -20931,7 +20949,7 @@ reheating, is broken, you can adjust it with some <span class="tl">clamps</span>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -20960,7 +20978,7 @@ neatly, provided that one blows strongly enough when casting on the tempered
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -20989,7 +21007,7 @@ retracts before making a crust or <span class="m">mold</span> on the
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -21103,7 +21121,7 @@ believe that for flat things it would withstand <del>well
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -21138,7 +21156,7 @@ you have time, or in the <del>slow</del> fire of the
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 Grind</div>
@@ -21171,7 +21189,7 @@ bands</span> made for this.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -21224,7 +21242,7 @@ renders it soft immediately.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> <em>Softening<sup class="comment-ref"><a href="#endnote-c_015r_01" id="ref-c_015r_01-3">[152]</a></sup> <span class="m">gold</span></em></div>
 </div>
@@ -21260,7 +21278,7 @@ lizards</span></span> &amp; delicate things like this.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -21303,7 +21321,7 @@ several lines &amp; lumpy.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -21364,7 +21382,7 @@ composed, as said before, of <span class="m">verdet</span>, <span class="m">salt
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -21479,7 +21497,7 @@ with the <span class="m">prepared tutty</span>, you will not have any bad fumes.
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -21532,7 +21550,7 @@ above <span class="fr" >en noyau</span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 
@@ -21565,7 +21583,7 @@ that everything dissolves like <span class="m">wax</span>, making many colors. L
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 <hr/>
@@ -21638,7 +21656,7 @@ opposite.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -21705,7 +21723,7 @@ better.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -21835,7 +21853,7 @@ pots</span></p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -21921,7 +21939,7 @@ unctuousness, does not flow
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -21996,7 +22014,7 @@ in place of <span class="m">varnish</span> to engrave<sup class="comment-ref"><a
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -22030,7 +22048,7 @@ singularity.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 <em>Seals</em></div>
@@ -22050,7 +22068,7 @@ To cast neatly in <span class="m">sulfur</span>, arrange the <span class="m">bre
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -22063,7 +22081,7 @@ inflames &amp; no longer makes eyelets.</div>
         
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
         
@@ -22140,7 +22158,7 @@ withstood several castings.</p>
     
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> The gate is made by the tail, very
 thin.</div>
@@ -22152,7 +22170,7 @@ thin.</div>
     
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="right-top">
 <span class="margin-position">[right-top]</span> 
 If some little thing is missing from it, you<br/>
@@ -22223,7 +22241,7 @@ reheated, which is a singular secret for similar <span class="tl">molds</span>.<
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> Do not forget to rub with
 <span class="m">eau-de-vie</span> before molding.</div>
@@ -22309,7 +22327,7 @@ folded &amp; curved it to hold the eggs. Other animals</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> Secure what will  detach itself,
 like the hairy brows near the mouth, with some <span class="m">melted
@@ -22389,7 +22407,7 @@ without breaking.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="top">
 <span class="margin-position">[top]</span> Repair with
 <span class="tl">penknives</span>, <del><span class="ill">[illegible]</span></del><sup class="comment-ref"><a href="#endnote-c_142r_02" id="ref-c_142r_02-1">[611]</a></sup> <span class="tl">files</span>, <span class="tl">little
@@ -22441,7 +22459,7 @@ handleable.<hr/>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> If you write on <span class="m">paper</span> or on
 <span class="m">common <span class="fr" >carton</span></span> &amp; if your
@@ -22475,7 +22493,7 @@ this makes them <del>melt</del> break.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="right-middle">
 <span class="margin-position">[right-middle]</span> Do not keep them in a <span class="env">humid or
 enclosed place</span> if they are not quite dry <span class="corr"><del><span class="fr" >e</span></del></span>, for they go moldy. So do
@@ -22534,7 +22552,7 @@ shells, however sleepy they are, they move. <span class="al">Those of the
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> They die rather quickly in
 <span class="m">vinegar</span> mixed with a little <span class="m">eau-de-vie</span> or <span class="m"><span class="bp">urine</span></span>, as
@@ -22586,7 +22604,7 @@ can be done. Make also some gate conduits from the end of </p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -22662,7 +22680,7 @@ on the sides than near the middle, which is the reason their
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
         
@@ -22713,7 +22731,7 @@ should be lower than the shell of the <del><span class="fr" >s</span></del>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -22785,7 +22803,7 @@ beasts, which are molded in two halves.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -22828,7 +22846,7 @@ is in it would not be released.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -22915,7 +22933,7 @@ Flowers</h3>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 When you mold them, if they are not strong enough to hold themselves
@@ -22953,7 +22971,7 @@ flower or plant in some <span class="m">good eau-de-vie</span>, <del>or else
     
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> <br/>
 <br/>
@@ -22974,7 +22992,7 @@ flower or plant in some <span class="m">good eau-de-vie</span>, <del>or else
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 It is enough to reheat<br/>
@@ -23038,7 +23056,7 @@ is the most excellent of all.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 
@@ -23126,7 +23144,7 @@ your <span class="tl">mold</span> can be seen thus.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -23180,7 +23198,7 @@ hollow is made better. Next<br/>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> To avoid breaking when releasing, take
 heed to uncover well up until what can hold.</div>
@@ -23248,7 +23266,7 @@ water</span>. And because the first time it had not</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -23315,7 +23333,7 @@ of the foot in two, and the bottom in one piece.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> in three pieces</div>
 </div>
@@ -23374,7 +23392,7 @@ the <span class="tl">point of a small chisel</span>, not tempered, &amp; struck 
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> Make this hole before <del>molding</del>
 joining your <span class="tl">molds</span>.</div>
@@ -23464,7 +23482,7 @@ because they dry out and their legs break.<sup class="comment-ref"><a href="#end
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -23550,7 +23568,7 @@ bond, it would not be necessary.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -23619,7 +23637,7 @@ inside &amp; leave some pustules &amp; lumpy things, although</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -23741,7 +23759,7 @@ core, leaving it wet a <span class="tmp">long time</span>;<hr/>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -23846,7 +23864,7 @@ also serve <span class="pro">makers of <span class="m">gilded leather</span></sp
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> One needs to use it when it is newly
 made. And for things to be molded, it must not be as thick as for
@@ -23910,7 +23928,7 @@ One ought not to open the <span class="tl">mold</span> until it is reheated &amp
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> <span class="mark">+</span><br/>
 
@@ -24003,7 +24021,7 @@ tools &amp; with the appropriate <span class="tl">small chisels</span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -24042,7 +24060,7 @@ principal<sup class="comment-ref"><a href="#endnote-c_153r_03" id="ref-c_153r_03
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> <sup class="comment-ref"><a href="#endnote-c_153r_01" id="ref-c_153r_01-1">[645]</a></sup>When you have imprinted your seal of
 <span class="m">wax</span>, mold <span class="fr" >en noyau</span> this piece of <span class="m">wax</span>, which is
@@ -24098,7 +24116,7 @@ pin</span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -24155,7 +24173,7 @@ holds closely with <span class="m">☿</span>.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -24183,7 +24201,7 @@ it in.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -24258,7 +24276,7 @@ that</del> for that reason, one casts <del><span class="m">solder</span></del>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -24283,7 +24301,7 @@ other small animals with <span class="m"><span class="pa">wheat</span> oil</span
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -24360,7 +24378,7 @@ the <span class="m">water</span>, the <span class="m">earth</span> is gone from 
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -24458,7 +24476,7 @@ well</ins>, you will do well.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -24544,7 +24562,7 @@ and especially the bouquet of <span class="pa">sage</span>, which is very beauti
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 
@@ -24631,7 +24649,7 @@ or <span class="m">silver</span>, and then <span class="m">solder</span> or braz
         
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 They mold better on a single leaf than <del><span class="fr" >n</span></del> on a bouquet
@@ -24668,7 +24686,7 @@ show excellently on a common work.<br/>
     
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> fall
 off. And if this happens to you, <span class="m">glue</span> with <span class="m"><span class="al">fish</span><br/>
@@ -24717,7 +24735,7 @@ to be cast very hot.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -24764,7 +24782,7 @@ repair them to first model a form that will be stiff &amp; withstand the <span c
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -24821,7 +24839,7 @@ flower a layer of <span class="m">melted butter</span> on the back of the flower
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 <sup class="comment-ref"><a href="#endnote-c_158r_02" id="ref-c_158r_02-1">[661]</a></sup>Reheat the <span class="tl">mold</span> very red before <del><span class="fr" >q</span></del> casting in it, in
@@ -24883,7 +24901,7 @@ where typically the material becomes porous.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -24989,7 +25007,7 @@ for the most secure way, even if you could mold them together in a closed
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> <a id="fig_p159v_1" href="#figure-list-fig_p159v_1">[Figure: fig_p159v_1]</a>
     <sup class="comment-ref"><a href="#endnote-c_159v_02" id="ref-c_159v_02-1">[665]</a></sup></div>
@@ -25012,7 +25030,7 @@ they are rendered musty &amp; humid, &amp; the <span class="tl">mold</span> is u
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -25044,7 +25062,7 @@ open, in <span class="m">hot water</span> &amp; sometimes in <span class="m">boi
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -25075,7 +25093,7 @@ not be easily released from it.<hr/>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span>       
 The <span class="tl">screw</span> is riveted to this <span class="tl">stirrup</span>,<sup class="comment-ref"><a href="#endnote-c_160r_01" id="ref-c_160r_01-1">[666]</a></sup> which is
@@ -25187,7 +25205,7 @@ gather them &amp; catch many.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -25253,7 +25271,7 @@ one does not need too much <span class="m">sal ammoniac</span> in it.
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 
@@ -25313,7 +25331,7 @@ of within 6 <span class="tmp">days</span>.<sup class="comment-ref"><a href="#end
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -25333,7 +25351,7 @@ trade</u></em></div>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 <em>Galleys</em></div>
@@ -25350,7 +25368,7 @@ presented to the temple of <span class="pl">Delphi</span><sup class="comment-ref
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -25379,7 +25397,7 @@ secrets from my benevolent <span class="pro">readers</span>.<hr/>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 <em>
@@ -25533,7 +25551,7 @@ hold them up and to blow out the <span class="m">ash</span> that hinders.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -25664,7 +25682,7 @@ drying it.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -25767,7 +25785,7 @@ a <span class="tmp">long time</span> in<br/>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -25815,7 +25833,7 @@ wax</span>, animals are secured on the <span class="tl"><span class="m">earthen<
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="right-middle">
 <span class="margin-position">[right-middle]</span> 
 <ins>of <span class="m">vinegar</span> &amp; <span class="m"><span class="bp">urine</span></span>,<br/>
@@ -25883,7 +25901,7 @@ they are subject to corrupting.</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -26310,7 +26328,7 @@ pebbles</span></p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 <br/>
@@ -26488,7 +26506,7 @@ you will be able to mix there some works of <span class="m">sugar</span>,</p>
 
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> <span class="mark">#</span><sup class="comment-ref"><a href="#endnote-c_112r_03" id="ref-c_112r_03-15">[135]</a></sup><br/>
 
@@ -26522,7 +26540,7 @@ harder by adding into the already melted one more <span class="m">melted sulfur<
     
 </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-bottom">
 <span class="margin-position">[left-bottom]</span> 
         
@@ -26635,7 +26653,7 @@ thicken the tail with <span class="m">wax</span>, then cut it,
         
     </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> <span class="la" > <span class="pn">Othonis</span> episcopi<br/>
  Frisigensis<sup class="comment-ref"><a href="#endnote-c_170v_30" id="ref-c_170v_30-1">[738]</a></sup><br/>
@@ -26663,7 +26681,7 @@ thicken the tail with <span class="m">wax</span>, then cut it,
         
     </div>
 <div class="margin-notes">
-<h3 class="margin-notes-header">in margin:</h3>
+<p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> <span class="la" ><span class="pn">Abbatis<br/>
  Urspergensis</span><sup class="comment-ref"><a href="#endnote-c_170v_31" id="ref-c_170v_31-1">[743]</a></sup><br/>

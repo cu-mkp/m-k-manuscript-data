@@ -174,7 +174,7 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
 
             html += '<div class="margin-notes">\n'
 
-            html += '<h3 class="margin-notes-header">in margin:</h3>\n'
+            html += '<p class="margin-notes-header">in margin:</p>\n'
 
             for note_html in div_margin_notes:
 
@@ -571,6 +571,24 @@ def get_css(render_semantic=False):
     @page {
         size: letter;
         margin: 1in;
+    }
+
+    /* PDF outline bookmarks */
+    h1 {
+        bookmark-level: 1;
+        bookmark-label: content();
+    }
+    h2 {
+        bookmark-level: 1;
+        bookmark-label: content();
+    }
+    h3.head:not(.minor-head) {
+        bookmark-level: 2;
+        bookmark-label: content();
+    }
+    h3.head.minor-head {
+        bookmark-level: 3;
+        bookmark-label: content();
     }
 
     .title-page {
