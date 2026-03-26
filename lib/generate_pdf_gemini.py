@@ -955,6 +955,7 @@ def xml_to_html(xml_file, output_html, render_semantic=False):
     print(f"Parsing XML file: {xml_file}")
     csv_file = Path("../metadata/DCE_comment-tracking-Tracking.csv")
     comments_dict = load_comments(csv_file)
+    Path("../images").mkdir(exist_ok=True)
     tree = ET.parse(xml_file)
     root = tree.getroot()
     endnotes = []
