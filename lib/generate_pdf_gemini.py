@@ -495,10 +495,15 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
     elif tag == "comment":
         rid = elem.get("rid", "")
         if endnotes is not None and rid:
-            if rid not in [note['id'] for note in endnotes]:
-                endnotes.append({'id': rid})
-            note_num = next(i + 1 for i, note in enumerate(endnotes) if note['id'] == rid)
-            html = f'<sup class="comment-ref"><a href="#endnote-{escape_html(rid)}" id="ref-{escape_html(rid)}">[{note_num}]</a></sup>'
+            note = next((n for n in endnotes if n['id'] == rid), None)
+            if note is None:
+                note = {'id': rid, 'refs': []}
+                endnotes.append(note)
+            note_num = endnotes.index(note) + 1
+            ref_count = len(note['refs']) + 1
+            ref_id = f"ref-{rid}-{ref_count}"
+            note['refs'].append(ref_id)
+            html = f'<sup class="comment-ref"><a href="#endnote-{escape_html(rid)}" id="{escape_html(ref_id)}">[{note_num}]</a></sup>'
             return html + escape_html(tail)
         return f'<sup class="comment-ref">[{escape_html(rid)}]</sup>' + escape_html(tail)
     elif tag == "figure":
@@ -967,14 +972,19 @@ def xml_to_html(xml_file, output_html, render_semantic=False):
         endnotes_html += '<h3 class="endnotes-header">Endnotes</h3>\n'
         for i, note in enumerate(endnotes, 1):
             note_id = note['id']
+            refs = note.get('refs', [])
             comment_text = comments_dict.get(note_id, "")
             endnotes_html += f'<div class="endnote" id="endnote-{escape_html(note_id)}">\n'
             endnotes_html += f'  <span class="endnote-number">[{i}]</span>'
             endnotes_html += f'  <span class="endnote-id">{escape_html(note_id)}</span>'
             if comment_text:
                 endnotes_html += f'  <span class="endnote-text">{comment_text}</span>'
-            endnotes_html += f'  <a href="#ref-{escape_html(note_id)}" class="endnote-backlink">↩</a>\n'
-            endnotes_html += '</div>\n'
+            if len(refs) > 1:
+                for j, ref_id in enumerate(refs, 1):
+                    endnotes_html += f'  <a href="#{escape_html(ref_id)}" class="endnote-backlink">↩{j}</a>'
+            elif refs:
+                endnotes_html += f'  <a href="#{escape_html(refs[0])}" class="endnote-backlink">↩</a>'
+            endnotes_html += '\n</div>\n'
         endnotes_html += '</div>\n'
     html = f"""<!DOCTYPE html>
 <html>
