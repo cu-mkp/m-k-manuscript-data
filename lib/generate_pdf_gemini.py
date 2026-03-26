@@ -10,6 +10,7 @@ This script converts the Making and Knowing Project's XML manuscript data
 import xml.etree.ElementTree as ET
 import sys
 import csv
+import re
 import argparse
 from pathlib import Path
 import urllib.request
@@ -70,26 +71,34 @@ def create_title_page_html():
     """
     return html
 
-def create_index_html():
+def create_index_html(root):
     """
-    Creates a back-of-book style index from the category metadata and returns it as an HTML string.
+    Creates a back-of-book style index from the div categories attributes in the XML tree.
     """
     index = defaultdict(list)
-    with open('../metadata/DCE_entry-category-metadata.csv', 'r', encoding='utf-8') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            if not row['heading_tl']:
-                continue
-            entry = f"<a href=\"#{row['div_id']}\">{row['heading_tl']} ({row['folio']})</a>"
-            categories = [row['category'], row['add-cat-1'], row['add-cat-2']]
-            for category in categories:
-                if category:
-                    index[category.strip()].append(entry)
+    for div in root.iter('div'):
+        categories_attr = div.get('categories', '').strip()
+        if not categories_attr:
+            continue
+        head = div.find('head')
+        if head is None:
+            continue
+        heading = ''.join(head.itertext()).strip()
+        if not heading:
+            continue
+        div_id = div.get('id', '')
+        folio_match = re.match(r'p(\d+[rv])', div_id)
+        folio = folio_match.group(1) if folio_match else div_id
+        entry = f"<a href=\"#{escape_html(div_id)}\">{escape_html(heading)} ({escape_html(folio)})</a>"
+        for category in categories_attr.split(';'):
+            category = category.strip()
+            if category:
+                index[category].append(entry)
 
     html = '<div id="back-of-book-index" style="page-break-before: always;">\n'
     html += '<h2>Index of Categories</h2>\n'
     for category in sorted(index.keys()):
-        html += f"<h3>{category.capitalize()}</h3>\n"
+        html += f"<h3>{escape_html(category.capitalize())}</h3>\n"
         html += "<ul>\n"
         for entry in sorted(index[category]):
             html += f"<li>{entry}</li>\n"
@@ -980,7 +989,7 @@ def xml_to_html(xml_file, output_html, render_semantic=False):
     figures = []
     print("Converting XML to HTML...")
     body_html = process_element(root, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
-    index_html = create_index_html()
+    index_html = create_index_html(root)
     title_page_html = create_title_page_html()
     toc_html = create_toc_html()
     figure_list_html = create_figure_list_html(figures)
