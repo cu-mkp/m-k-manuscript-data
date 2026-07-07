@@ -23,10 +23,13 @@ from collections import Counter
 from pathlib import Path
 
 from generate_pdf_gemini import (
+    ENTRY_FOLIOS,
     TAG_INDEX_TYPES,
     escape_html,
+    folio_range_label,
     folio_sort_key,
     html_to_pdf,
+    load_entry_folios,
     load_essay_data,
 )
 
@@ -81,19 +84,24 @@ def essays_html(div_id, essays_by_entry):
 
 def entry_html(row, essays_by_entry):
     div_id = row['div_id'].strip()
-    folio = (row.get('folio_display') or row.get('folio') or '').strip()
+    # folio extent from the per-folio XML sources (the CSV's folio column is
+    # not necessarily the start folio for entries spanning folio breaks);
+    # the edition link targets the entry's start folio
+    folios = ENTRY_FOLIOS.get(div_id)
+    start_folio = folios[0] if folios else (row.get('folio_display') or row.get('folio') or '').strip()
+    folio_range = folio_range_label(div_id) if folios else start_folio
     heading_tl = ' '.join((row.get('heading_tl') or '').split()) or '[no heading]'
     heading_tc = ' '.join((row.get('heading_tc') or '').split())
     categories = (row.get('categories') or '').strip()
 
-    url = EDITION_FOLIO_URL.format(folio=escape_html(folio)) if folio else None
+    url = EDITION_FOLIO_URL.format(folio=escape_html(start_folio)) if start_folio else None
     heading = escape_html(heading_tl)
     if url:
         heading = f'<a href="{url}">{heading}</a>'
 
     html = f'<div class="entry-block" id="{escape_html(div_id)}">\n'
     html += (f'<h2 class="entry-heading">{heading} '
-             f'<span class="entry-ref">{escape_html(folio)} &middot; {escape_html(div_id)}</span></h2>\n')
+             f'<span class="entry-ref">fol. {escape_html(folio_range)} &middot; {escape_html(div_id)}</span></h2>\n')
     if heading_tc and heading_tc != heading_tl:
         html += f'<p class="heading-tc">{escape_html(heading_tc)}</p>\n'
     if categories:
@@ -175,6 +183,11 @@ def main():
 
     rows = load_entries(csv_file)
     print(f'Loaded {len(rows)} entries')
+
+    ENTRY_FOLIOS.clear()
+    ENTRY_FOLIOS.update(load_entry_folios('../ms-xml/tl'))
+    spanning = sum(1 for f in ENTRY_FOLIOS.values() if len(f) > 1)
+    print(f'Folio extents: {len(ENTRY_FOLIOS)} entries, {spanning} spanning multiple folios')
 
     known_ids = {r['div_id'].strip() for r in rows}
     essays_by_entry, _ = load_essay_data(
