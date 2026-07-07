@@ -5,3 +5,4 @@ newProject.xpr
 .vs
 .nosync
 images/
+lib/.venv/

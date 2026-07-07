@@ -45,6 +45,8 @@ def create_toc_html():
             <li><a href="#transcription">Transcription</a></li>
             <li><a href="#endnotes">Endnotes</a></li>
             <li><a href="#back-of-book-index">Index of Categories</a></li>
+            <li><a href="#tag-index">Index of Tags</a></li>
+            <li><a href="#essay-index">Index of Essays</a></li>
             <li><a href="#list-of-figures">List of Figures</a></li>
         </ul>
     </div>
@@ -103,6 +105,213 @@ def create_index_html(root):
         for entry in sorted(index[category]):
             html += f"<li>{entry}</li>\n"
         html += "</ul>\n"
+    html += '</div>\n'
+    return html
+
+# Semantic phrase-level tags to index, mapped to display labels.
+# Language/dialect tags (fr, la, gk, it, oc, po) and editorial markup are
+# deliberately excluded. Labels follow vocabulary/README.md and the schema docs.
+TAG_INDEX_TYPES = {
+    'al': 'Animals',
+    'bp': 'Body parts',
+    'cn': 'Coins and currency',
+    'df': 'Definitions',
+    'env': 'Environments and physical spaces',
+    'm': 'Materials',
+    'md': 'Medical',
+    'ms': 'Measurements',
+    'mu': 'Music',
+    'pa': 'Plants',
+    'pl': 'Places',
+    'pn': 'Personal names',
+    'pro': 'Professions',
+    'sn': 'Sensory',
+    'tl': 'Tools',
+    'tmp': 'Time and temporal',
+    'wp': 'Weapons',
+}
+
+def folio_label(div_id):
+    """p003r_1 -> 3r; falls back to the raw id."""
+    m = re.match(r'p0*(\d+)([rv])', div_id)
+    return f"{m.group(1)}{m.group(2)}" if m else div_id
+
+def folio_sort_key(div_id):
+    """Manuscript-order sort key for entry div ids like p003r_1."""
+    m = re.match(r'p0*(\d+)([rv])_?(\d*)', div_id)
+    if not m:
+        return (9999, 2, 0)
+    return (int(m.group(1)), 0 if m.group(2) == 'r' else 1, int(m.group(3) or 0))
+
+def tag_term_text(elem):
+    """Collect an element's text for indexing: skip deleted text, collapse whitespace."""
+    parts = []
+    def walk(e):
+        if e.tag == 'del':
+            return
+        if e.text:
+            parts.append(e.text)
+        for child in e:
+            walk(child)
+            if child.tail:
+                parts.append(child.tail)
+    walk(elem)
+    term = re.sub(r'\s+', ' ', ''.join(parts)).strip().strip(',;:.')
+    return term
+
+def create_tag_index_html(root):
+    """
+    Creates an index of semantic tags: for each tag type, unique terms in
+    alphabetical order, each with links to the folios of entries where the
+    term occurs.
+    """
+    parent_map = {child: p for p in root.iter() for child in p}
+
+    def enclosing_div_id(elem):
+        node = elem
+        while node is not None:
+            if node.tag == 'div' and node.get('id'):
+                return node.get('id')
+            node = parent_map.get(node)
+        return None
+
+    # tag type -> casefolded term -> {'forms': Counter, 'divs': set}
+    index = {t: defaultdict(lambda: {'forms': defaultdict(int), 'divs': set()})
+             for t in TAG_INDEX_TYPES}
+    for tag_type in TAG_INDEX_TYPES:
+        for elem in root.iter(tag_type):
+            term = tag_term_text(elem)
+            if not term:
+                continue
+            div_id = enclosing_div_id(elem)
+            if not div_id:
+                continue
+            slot = index[tag_type][term.casefold()]
+            slot['forms'][term] += 1
+            slot['divs'].add(div_id)
+
+    html = '<div id="tag-index" class="tag-index" style="page-break-before: always;">\n'
+    html += '<h2>Index of Tags</h2>\n'
+    html += ('<p class="index-note">Terms marked in the manuscript, by tag type. '
+             'Each reference links to the first entry on that folio containing the term.</p>\n')
+    for tag_type, label in sorted(TAG_INDEX_TYPES.items(), key=lambda kv: kv[1]):
+        terms = index[tag_type]
+        if not terms:
+            continue
+        html += f'<h3 class="tag-index-type">{escape_html(label)}</h3>\n'
+        html += '<ul class="tag-index-terms">\n'
+        for key in sorted(terms.keys()):
+            slot = terms[key]
+            # display the most frequent surface form of the term
+            display = max(slot['forms'].items(), key=lambda kv: kv[1])[0]
+            # one link per folio: first entry on the folio (manuscript order)
+            by_folio = {}
+            for div_id in sorted(slot['divs'], key=folio_sort_key):
+                by_folio.setdefault(folio_label(div_id), div_id)
+            links = ', '.join(
+                f'<a href="#{escape_html(div_id)}">{escape_html(fol)}</a>'
+                for fol, div_id in by_folio.items()
+            )
+            html += f'<li>{escape_html(display)}&ensp;{links}</li>\n'
+        html += '</ul>\n'
+    html += '</div>\n'
+    return html
+
+def create_essay_index_html(root, csv_file):
+    """
+    Creates an index of edition essays grouped by the manuscript entry they
+    discuss, from metadata/annotation-metadata.csv. Entry headings link to the
+    entry in this document; essay titles link to the online edition.
+    """
+    try:
+        with open(csv_file, 'r', encoding='utf-8') as f:
+            rows = list(csv.DictReader(f))
+    except FileNotFoundError:
+        print(f"Warning: annotation metadata CSV not found at {csv_file}; skipping essay index")
+        return ""
+
+    headings = {}
+    known_ids = set()
+    for div in root.iter('div'):
+        div_id = div.get('id')
+        if not div_id:
+            continue
+        known_ids.add(div_id)
+        head = div.find('head')
+        if head is not None:
+            text = re.sub(r'\s+', ' ', ''.join(head.itertext())).strip()
+            if text:
+                headings[div_id] = text
+
+    def normalize_entry_id(raw):
+        """Repair common entry-id format slips (missing 'p', unpadded folio)."""
+        eid = raw.strip()
+        if eid in known_ids:
+            return eid
+        m = re.match(r'p?0*(\d+)([rv])_(\w+)$', eid)
+        if m:
+            candidate = f'p{int(m.group(1)):03d}{m.group(2)}_{m.group(3)}'
+            if candidate in known_ids:
+                return candidate
+        return None
+
+    by_entry = defaultdict(list)
+    unlinked = []
+    unmatched_ids = set()
+    for row in rows:
+        title = row.get('full-title', '').strip()
+        if not title:
+            continue
+        essay = {
+            'title': title,
+            'authors': row.get('author', '').strip(),
+            'url': row.get('edition-URL', '').strip(),
+        }
+        entry_ids = [e.strip() for e in row.get('entry-id', '').split(';') if e.strip()]
+        if entry_ids:
+            for entry_id in entry_ids:
+                normalized = normalize_entry_id(entry_id)
+                if normalized:
+                    by_entry[normalized].append(essay)
+                else:
+                    unmatched_ids.add(entry_id)
+                    unlinked.append(essay)
+        else:
+            unlinked.append(essay)
+    if unmatched_ids:
+        print(f"Warning: essay index: entry-ids not found in XML (listed without links): "
+              f"{sorted(unmatched_ids)} — fix in metadata/annotation-metadata.csv")
+
+    def essay_item_html(essay):
+        title_html = escape_html(essay['title'])
+        if essay['url']:
+            title_html = f'<a href="{escape_html(essay["url"])}">{title_html}</a>'
+        authors = f' — {escape_html(essay["authors"])}' if essay['authors'] else ''
+        return f'<li>{title_html}{authors}</li>\n'
+
+    html = '<div id="essay-index" class="essay-index" style="page-break-before: always;">\n'
+    html += '<h2>Index of Essays</h2>\n'
+    html += ('<p class="index-note">Research essays from the online edition, by the '
+             'manuscript entry they discuss. Essay titles link to the edition; entry '
+             'headings link to the entry in this document.</p>\n')
+    for entry_id in sorted(by_entry.keys(), key=folio_sort_key):
+        heading = headings.get(entry_id, entry_id)
+        html += (f'<h4 class="essay-index-entry"><a href="#{escape_html(entry_id)}">'
+                 f'{escape_html(heading)} ({escape_html(folio_label(entry_id))})</a></h4>\n')
+        html += '<ul class="essay-index-essays">\n'
+        for essay in sorted(by_entry[entry_id], key=lambda e: e['title']):
+            html += essay_item_html(essay)
+        html += '</ul>\n'
+    if unlinked:
+        # dedupe essays that ended up here via multiple unmatched ids
+        seen = set()
+        unlinked = [e for e in unlinked
+                    if not (e['title'] in seen or seen.add(e['title']))]
+        html += '<h4 class="essay-index-entry">Not linked to a specific entry</h4>\n'
+        html += '<ul class="essay-index-essays">\n'
+        for essay in sorted(unlinked, key=lambda e: e['title']):
+            html += essay_item_html(essay)
+        html += '</ul>\n'
     html += '</div>\n'
     return html
 
@@ -599,6 +808,36 @@ def get_css(render_semantic=False):
         bookmark-level: 3;
         bookmark-label: content();
     }
+    h3.tag-index-type {
+        bookmark-level: 2;
+        bookmark-label: content();
+    }
+
+    /* Back-matter indexes */
+    .index-note {
+        font-style: italic;
+        font-size: 9pt;
+        color: #555;
+    }
+    ul.tag-index-terms {
+        columns: 2;
+        column-gap: 2em;
+        list-style: none;
+        margin: 0 0 1em 0;
+        padding: 0;
+        font-size: 9pt;
+    }
+    ul.tag-index-terms li {
+        break-inside: avoid;
+        margin-bottom: 0.15em;
+    }
+    h4.essay-index-entry {
+        margin: 0.8em 0 0.2em 0;
+    }
+    ul.essay-index-essays {
+        margin: 0 0 0.5em 0;
+        font-size: 10pt;
+    }
 
     .title-page {
         border: 1px solid black;
@@ -990,6 +1229,8 @@ def xml_to_html(xml_file, output_html, render_semantic=False):
     print("Converting XML to HTML...")
     body_html = process_element(root, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
     index_html = create_index_html(root)
+    tag_index_html = create_tag_index_html(root)
+    essay_index_html = create_essay_index_html(root, Path("../metadata/annotation-metadata.csv"))
     title_page_html = create_title_page_html()
     toc_html = create_toc_html()
     figure_list_html = create_figure_list_html(figures)
@@ -1031,6 +1272,8 @@ def xml_to_html(xml_file, output_html, render_semantic=False):
     {body_html}
     {endnotes_html}
     {index_html}
+    {tag_index_html}
+    {essay_index_html}
     {figure_list_html}
 </body>
 </html>
