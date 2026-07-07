@@ -27,6 +27,7 @@ from generate_pdf_gemini import (
     escape_html,
     folio_sort_key,
     html_to_pdf,
+    load_essay_data,
 )
 
 EDITION_FOLIO_URL = 'https://edition640.makingandknowing.org/#/folios/{folio}/f/{folio}/tl'
@@ -65,7 +66,20 @@ def terms_html(row):
     return ''.join(sections)
 
 
-def entry_html(row):
+def essays_html(div_id, essays_by_entry):
+    essays = essays_by_entry.get(div_id)
+    if not essays:
+        return ''
+    rendered = '; '.join(
+        (f'<a href="{escape_html(e["url"])}">{escape_html(e["title"])}</a>'
+         if e['url'] else escape_html(e['title']))
+        + (f' ({escape_html(e["authors"])})' if e['authors'] else '')
+        for e in sorted(essays, key=lambda e: e['title'])
+    )
+    return f'<p class="essays"><span class="tag-type">Essays:</span> {rendered}</p>\n'
+
+
+def entry_html(row, essays_by_entry):
     div_id = row['div_id'].strip()
     folio = (row.get('folio_display') or row.get('folio') or '').strip()
     heading_tl = ' '.join((row.get('heading_tl') or '').split()) or '[no heading]'
@@ -84,13 +98,14 @@ def entry_html(row):
         html += f'<p class="heading-tc">{escape_html(heading_tc)}</p>\n'
     if categories:
         html += f'<p class="categories">{escape_html(categories)}</p>\n'
+    html += essays_html(div_id, essays_by_entry)
     html += terms_html(row)
     html += '</div>\n'
     return html
 
 
-def build_html(rows):
-    body = ''.join(entry_html(r) for r in rows)
+def build_html(rows, essays_by_entry):
+    body = ''.join(entry_html(r, essays_by_entry) for r in rows)
     return f"""<!DOCTYPE html>
 <html>
 <head>
@@ -124,6 +139,8 @@ h2.entry-heading {{
 p.heading-tc {{ font-style: italic; color: #555; margin: 0 0 2pt 0; }}
 p.categories {{ margin: 0 0 2pt 0; text-transform: uppercase; letter-spacing: 0.08em; font-size: 8pt; color: #555; }}
 p.terms {{ margin: 0 0 1pt 1.5em; text-indent: -1.5em; font-size: 9pt; }}
+p.essays {{ margin: 0 0 1pt 1.5em; text-indent: -1.5em; font-size: 9pt; }}
+p.essays a {{ color: #792421; }}
 .tag-type {{ font-family: "Helvetica Neue", "Arial", "DejaVu Sans", sans-serif; font-size: 8pt; color: #792421; }}
 a {{ color: inherit; text-decoration: none; }}
 h2.entry-heading a {{ color: #792421; }}
@@ -136,7 +153,8 @@ h2.entry-heading a {{ color: #792421; }}
         A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</h2>
     <p class="note">One block per manuscript entry, in manuscript order: the entry heading
         (English translation, linked to the entry&rsquo;s folio in the online edition) with the
-        original French transcription beneath, the entry&rsquo;s categories, and its tagged terms
+        original French transcription beneath, the entry&rsquo;s categories, its associated
+        research essays (linked to the online edition), and its tagged terms
         grouped by semantic tag type &mdash; deduplicated, with occurrence counts &mdash; from the
         translation. Source: metadata/entry_metadata.csv.</p>
 </div>
@@ -158,7 +176,12 @@ def main():
     rows = load_entries(csv_file)
     print(f'Loaded {len(rows)} entries')
 
-    html_file.write_text(build_html(rows), encoding='utf-8')
+    known_ids = {r['div_id'].strip() for r in rows}
+    essays_by_entry, _ = load_essay_data(
+        None, Path('../metadata/annotation-metadata.csv'), known_ids=known_ids)
+    print(f'{len(essays_by_entry)} entries have associated essays')
+
+    html_file.write_text(build_html(rows, essays_by_entry), encoding='utf-8')
     print(f'Wrote {html_file}')
 
     if html_to_pdf(str(html_file), str(pdf_file)):

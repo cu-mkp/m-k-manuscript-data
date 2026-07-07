@@ -217,12 +217,13 @@ def create_tag_index_html(root):
     html += '</div>\n'
     return html
 
-def load_essay_data(root, csv_file):
+def load_essay_data(root, csv_file, known_ids=None):
     """
     Loads the essay metadata CSV and returns (by_entry, unlinked):
     by_entry maps entry div ids to lists of essay dicts; unlinked lists essays
     with no (resolvable) entry-id. Malformed but unambiguous entry-ids are
-    repaired; unmatched ones produce a build warning.
+    repaired; unmatched ones produce a build warning. Entry ids are validated
+    against the XML root's divs, or against known_ids when no root is given.
     """
     try:
         with open(csv_file, 'r', encoding='utf-8') as f:
@@ -231,7 +232,8 @@ def load_essay_data(root, csv_file):
         print(f"Warning: annotation metadata CSV not found at {csv_file}; skipping essay index")
         return {}, []
 
-    known_ids = {div.get('id') for div in root.iter('div') if div.get('id')}
+    if known_ids is None:
+        known_ids = {div.get('id') for div in root.iter('div') if div.get('id')}
 
     def normalize_entry_id(raw):
         """Repair common entry-id format slips (missing 'p', unpadded folio)."""
