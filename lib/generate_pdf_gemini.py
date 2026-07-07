@@ -1283,12 +1283,76 @@ def xml_to_html(xml_file, output_html, render_semantic=False):
         f.write(html)
     print("HTML conversion complete!")
 
+def post_process_pdf_links(pdf_file):
+    """
+    Rewrite internal links from named destinations to explicit destinations
+    and normalize link rectangles. WeasyPrint emits links as string /Dest
+    names resolved through the document name tree; some viewers (Adobe
+    Acrobat in particular) have proven unreliable with that form, while
+    explicit [page /XYZ x y z] destinations work everywhere.
+    """
+    try:
+        from pypdf import PdfReader, PdfWriter
+        from pypdf.generic import ArrayObject, FloatObject, NameObject
+    except ImportError:
+        print("Warning: pypdf not installed; skipping link post-processing.")
+        print("Internal links may not work in Adobe Acrobat. pip install pypdf")
+        return
+
+    print("Post-processing PDF links (named -> explicit destinations)...")
+    reader = PdfReader(pdf_file)
+
+    # name -> raw destination array from the name tree
+    root = reader.trailer['/Root']
+    name_map = {}
+    dests_tree = root.get('/Names', {}).get_object().get('/Dests')
+    if dests_tree is None:
+        print("No named destinations found; nothing to do.")
+        return
+    def collect(node):
+        node = node.get_object()
+        if '/Names' in node:
+            arr = node['/Names']
+            for i in range(0, len(arr), 2):
+                name_map[str(arr[i])] = arr[i + 1]
+        for kid in node.get('/Kids', []):
+            collect(kid)
+    collect(dests_tree)
+
+    rewritten = unresolved = 0
+    for page in reader.pages:
+        for a in (page.get('/Annots') or []):
+            o = a.get_object()
+            if o.get('/Subtype') != '/Link':
+                continue
+            # normalize /Rect to lower-left / upper-right order
+            x0, y0, x1, y1 = [float(v) for v in o['/Rect']]
+            o[NameObject('/Rect')] = ArrayObject([FloatObject(min(x0, x1)), FloatObject(min(y0, y1)),
+                                      FloatObject(max(x0, x1)), FloatObject(max(y0, y1))])
+            dest = o.get('/Dest')
+            if dest is None or isinstance(dest.get_object(), ArrayObject):
+                continue
+            target = name_map.get(str(dest))
+            if target is not None:
+                o[NameObject('/Dest')] = target.get_object()
+                rewritten += 1
+            else:
+                unresolved += 1
+
+    writer = PdfWriter()
+    writer.append(reader)
+    with open(pdf_file, 'wb') as f:
+        writer.write(f)
+    print(f"Rewrote {rewritten} internal links to explicit destinations"
+          + (f" ({unresolved} unresolved names left as-is)" if unresolved else ""))
+
 def html_to_pdf(html_file, output_pdf):
     try:
         from weasyprint import HTML
         print(f"Generating PDF from HTML: {html_file}")
         HTML(filename=html_file).write_pdf(output_pdf)
         print(f"PDF generated successfully: {output_pdf}")
+        post_process_pdf_links(output_pdf)
         return True
     except ImportError:
         print("\nERROR: weasyprint is not installed.")
