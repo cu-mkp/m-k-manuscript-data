@@ -72,8 +72,22 @@ def render_meanings(entry):
         num = f'{i}. ' if len(meanings) > 1 else ''
         # meaning text may contain markup (e.g. <i>) — pass through raw,
         # matching the web view's HTML parsing of these fields
-        parts.append(f'{num}{meaning["meaning"]}{ref}')
+        parts.append(f'{num}{balance_tags(meaning["meaning"], entry["headWord"])}{ref}')
     return ' '.join(parts)
+
+
+def balance_tags(fragment, context):
+    """Close any unclosed inline tags so a data typo cannot leak formatting
+    into the rest of the document (the web view is immune because it parses
+    each entry as an isolated fragment)."""
+    for tag in ('i', 'b', 'em', 'u', 'sup', 'sub'):
+        opens = len(re.findall(f'<{tag}[ >]', fragment))
+        closes = len(re.findall(f'</{tag}>', fragment))
+        if opens > closes:
+            print(f"Warning: unclosed <{tag}> in meaning of '{context}' — "
+                  f"auto-closing; fix in metadata/DCE-glossary-table.csv")
+            fragment += f'</{tag}>' * (opens - closes)
+    return fragment
 
 
 def xref_html(label, value, known):
