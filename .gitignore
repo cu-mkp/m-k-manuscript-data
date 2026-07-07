@@ -6,3 +6,4 @@ newProject.xpr
 .nosync
 images/
 lib/.venv/
+__pycache__/
