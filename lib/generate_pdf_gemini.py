@@ -361,6 +361,19 @@ ESSAY_MARKED = set()
 # instead of appearing only in the back-of-book List of Figures.
 RENDER_FIGURES = False
 
+# child element -> parent; built by xml_to_html so the figure renderer can
+# tell mid-text figures (inside <ab>/<head>) from standalone ones
+PARENT_MAP = {}
+
+def figure_in_text_flow(elem):
+    """True if the figure sits inside running text (<ab> or <head>)."""
+    node = PARENT_MAP.get(elem)
+    while node is not None:
+        if node.tag in ('ab', 'head'):
+            return True
+        node = PARENT_MAP.get(node)
+    return False
+
 def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=None, render_semantic=False):
 
     """
@@ -799,6 +812,10 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
                 if margin_attr:
                     side = "left" if margin_attr.startswith("left") else "right"
                     classes += f" fig-margin fig-margin-{side}"
+                elif figure_in_text_flow(elem) and size != "large":
+                    # figure occurs mid-text with no placement info: keep it
+                    # in the line (large figures still break out as blocks)
+                    classes += " fig-intext"
                 if elem.get("render") == "tall":
                     classes += " fig-tall"
                 # image links to its List of Figures entry, which links back
@@ -905,6 +922,14 @@ def get_css(render_semantic=False):
     a.fig-inline.fig-default img { max-width: 3.5in; }
     a.fig-inline.fig-large img { max-width: 100%; }
     a.fig-inline.fig-tall img { max-height: 5in; }
+    a.fig-inline.fig-intext {
+        display: inline-block;
+        vertical-align: middle;
+        margin: 0 3pt;
+    }
+    a.fig-inline.fig-intext.fig-x-small img { max-height: 0.5in; max-width: 1.2in; }
+    a.fig-inline.fig-intext.fig-small img { max-height: 0.9in; max-width: 2in; }
+    a.fig-inline.fig-intext.fig-default img { max-height: 0.9in; max-width: 2in; }
     a.fig-inline.fig-margin {
         display: block;
         max-width: 2.4in;
@@ -1323,6 +1348,8 @@ def xml_to_html(xml_file, output_html, render_semantic=False, render_figures=Fal
     Path("../images").mkdir(exist_ok=True)
     tree = ET.parse(xml_file)
     root = tree.getroot()
+    PARENT_MAP.clear()
+    PARENT_MAP.update({child: p for p in root.iter() for child in p})
     endnotes = []
     figures = []
     essays_by_entry, essays_unlinked = load_essay_data(root, Path("../metadata/annotation-metadata.csv"))
