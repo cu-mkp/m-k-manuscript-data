@@ -1313,10 +1313,12 @@ def main():
     )
     args = parser.parse_args()
 
-    # Define input and output file paths
+    # Define input and output file paths; the semantic rendering gets its own
+    # output files so the two variants can coexist
     xml_file = Path("../allFolios/xml/tl/all_tl.xml")
-    html_file = Path("../allFolios/pdf/all_tl.html")
-    pdf_file = Path("../allFolios/pdf/all_tl.pdf")
+    suffix = "_semantic" if args.semantic else ""
+    html_file = Path(f"../allFolios/pdf/all_tl{suffix}.html")
+    pdf_file = Path(f"../allFolios/pdf/all_tl{suffix}.pdf")
 
     # Check if XML file exists
     if not xml_file.exists():
