@@ -217,31 +217,21 @@ def create_tag_index_html(root):
     html += '</div>\n'
     return html
 
-def create_essay_index_html(root, csv_file):
+def load_essay_data(root, csv_file):
     """
-    Creates an index of edition essays grouped by the manuscript entry they
-    discuss, from metadata/annotation-metadata.csv. Entry headings link to the
-    entry in this document; essay titles link to the online edition.
+    Loads the essay metadata CSV and returns (by_entry, unlinked):
+    by_entry maps entry div ids to lists of essay dicts; unlinked lists essays
+    with no (resolvable) entry-id. Malformed but unambiguous entry-ids are
+    repaired; unmatched ones produce a build warning.
     """
     try:
         with open(csv_file, 'r', encoding='utf-8') as f:
             rows = list(csv.DictReader(f))
     except FileNotFoundError:
         print(f"Warning: annotation metadata CSV not found at {csv_file}; skipping essay index")
-        return ""
+        return {}, []
 
-    headings = {}
-    known_ids = set()
-    for div in root.iter('div'):
-        div_id = div.get('id')
-        if not div_id:
-            continue
-        known_ids.add(div_id)
-        head = div.find('head')
-        if head is not None:
-            text = re.sub(r'\s+', ' ', ''.join(head.itertext())).strip()
-            if text:
-                headings[div_id] = text
+    known_ids = {div.get('id') for div in root.iter('div') if div.get('id')}
 
     def normalize_entry_id(raw):
         """Repair common entry-id format slips (missing 'p', unpadded folio)."""
@@ -281,6 +271,24 @@ def create_essay_index_html(root, csv_file):
     if unmatched_ids:
         print(f"Warning: essay index: entry-ids not found in XML (listed without links): "
               f"{sorted(unmatched_ids)} — fix in metadata/annotation-metadata.csv")
+    return by_entry, unlinked
+
+def create_essay_index_html(root, by_entry, unlinked):
+    """
+    Creates an index of edition essays grouped by the manuscript entry they
+    discuss. Entry headings link to the entry in this document; essay titles
+    link to the online edition. Each entry group carries an
+    id="essay-entry-<entry_id>" anchor so entry headings in the body can link
+    here (see the essay marker in process_element).
+    """
+    headings = {}
+    for div in root.iter('div'):
+        div_id = div.get('id')
+        head = div.find('head')
+        if div_id and head is not None:
+            text = re.sub(r'\s+', ' ', ''.join(head.itertext())).strip()
+            if text:
+                headings[div_id] = text
 
     def essay_item_html(essay):
         title_html = escape_html(essay['title'])
@@ -296,7 +304,8 @@ def create_essay_index_html(root, csv_file):
              'headings link to the entry in this document.</p>\n')
     for entry_id in sorted(by_entry.keys(), key=folio_sort_key):
         heading = headings.get(entry_id, entry_id)
-        html += (f'<h4 class="essay-index-entry"><a href="#{escape_html(entry_id)}">'
+        html += (f'<h4 class="essay-index-entry" id="essay-entry-{escape_html(entry_id)}">'
+                 f'<a href="#{escape_html(entry_id)}">'
                  f'{escape_html(heading)} ({escape_html(folio_label(entry_id))})</a></h4>\n')
         html += '<ul class="essay-index-essays">\n'
         for essay in sorted(by_entry[entry_id], key=lambda e: e['title']):
@@ -338,6 +347,15 @@ def escape_html(text):
 # XML TO HTML CONVERSION
 # ==============================================================================
 
+# entry div id -> number of essays; populated by xml_to_html so that
+# process_element can mark entries that have essays in the Index of Essays.
+# Entries split across folio breaks repeat their div id (the part="y"
+# attribute is inconsistently applied), so ESSAY_MARKED tracks ids that have
+# already received their marker: exactly one marker per entry, on its first
+# segment in document order.
+ESSAY_COUNTS = {}
+ESSAY_MARKED = set()
+
 def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=None, render_semantic=False):
 
     """
@@ -377,6 +395,17 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
         div_margin_notes = []
 
         html = f'<div class="entry" id="{escape_html(div_id)}" data-categories="{escape_html(categories)}">\n'
+
+        essay_count = 0 if div_id in ESSAY_MARKED else ESSAY_COUNTS.get(div_id, 0)
+
+        if essay_count:
+
+            ESSAY_MARKED.add(div_id)
+
+            label = f"{essay_count} essay" + ("s" if essay_count > 1 else "")
+
+            html += (f'<a class="essay-marker" href="#essay-entry-{escape_html(div_id)}" '
+                     f'title="See {label} on this entry">&#10022;&thinsp;{label}</a>\n')
 
         if text.strip():
 
@@ -834,6 +863,17 @@ def get_css(render_semantic=False):
     h4.essay-index-entry {
         margin: 0.8em 0 0.2em 0;
     }
+    a.essay-marker {
+        float: right;
+        font-family: sans-serif;
+        font-size: 8pt;
+        color: #792421;
+        text-decoration: none;
+        border: 0.5pt solid #79242180;
+        border-radius: 3pt;
+        padding: 1pt 4pt;
+        margin: 2pt 0 2pt 6pt;
+    }
     ul.essay-index-essays {
         margin: 0 0 0.5em 0;
         font-size: 10pt;
@@ -1226,11 +1266,15 @@ def xml_to_html(xml_file, output_html, render_semantic=False):
     root = tree.getroot()
     endnotes = []
     figures = []
+    essays_by_entry, essays_unlinked = load_essay_data(root, Path("../metadata/annotation-metadata.csv"))
+    ESSAY_COUNTS.clear()
+    ESSAY_COUNTS.update({eid: len(essays) for eid, essays in essays_by_entry.items()})
+    ESSAY_MARKED.clear()
     print("Converting XML to HTML...")
     body_html = process_element(root, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
     index_html = create_index_html(root)
     tag_index_html = create_tag_index_html(root)
-    essay_index_html = create_essay_index_html(root, Path("../metadata/annotation-metadata.csv"))
+    essay_index_html = create_essay_index_html(root, essays_by_entry, essays_unlinked)
     title_page_html = create_title_page_html()
     toc_html = create_toc_html()
     figure_list_html = create_figure_list_html(figures)
