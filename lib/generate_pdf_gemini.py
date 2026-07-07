@@ -90,7 +90,7 @@ def create_index_html(root):
             continue
         div_id = div.get('id', '')
         folio = folio_range_label(div_id)
-        entry = f"<a href=\"#{escape_html(div_id)}\">{escape_html(heading)} ({escape_html(folio)})</a>"
+        entry = f"<a href=\"#{escape_html(div_id)}\">{escape_html(heading)} (fol. {escape_html(folio)})</a>"
         for category in categories_attr.split(';'):
             category = category.strip()
             if category:
@@ -357,7 +357,7 @@ def create_essay_index_html(root, by_entry, unlinked):
         heading = headings.get(entry_id, entry_id)
         html += (f'<h4 class="essay-index-entry" id="essay-entry-{escape_html(entry_id)}">'
                  f'<a href="#{escape_html(entry_id)}">'
-                 f'{escape_html(heading)} ({escape_html(folio_range_label(entry_id))})</a></h4>\n')
+                 f'{escape_html(heading)} (fol. {escape_html(folio_range_label(entry_id))})</a></h4>\n')
         html += '<ul class="essay-index-essays">\n'
         for essay in sorted(by_entry[entry_id], key=lambda e: e['title']):
             html += essay_item_html(essay)
@@ -407,6 +407,9 @@ def escape_html(text):
 ESSAY_COUNTS = {}
 ESSAY_MARKED = set()
 RANGE_MARKED = set()
+# folio-range label waiting to be placed inside the entry's heading; set by
+# the div branch on an entry's first segment, consumed by the head branch
+PENDING_FOLIO_RANGE = []
 
 # When True (--figures), figure images are rendered inline in the body at
 # their point of reference, sized/positioned from the XML attributes,
@@ -470,8 +473,9 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
 
             RANGE_MARKED.add(div_id)
 
-            html += (f'<span class="folio-range" title="Folio range of this entry">'
-                     f'{escape_html(folio_range_label(div_id))}</span>\n')
+            PENDING_FOLIO_RANGE.clear()
+
+            PENDING_FOLIO_RANGE.append(folio_range_label(div_id))
 
         essay_count = 0 if div_id in ESSAY_MARKED else ESSAY_COUNTS.get(div_id, 0)
 
@@ -491,6 +495,11 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
         for child in elem:
 
             html += process_element(child, depth + 1, margin_notes=div_margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+
+        if PENDING_FOLIO_RANGE:
+
+            html += (f'<span class="folio-range folio-range-floated">fol. '
+                     f'{escape_html(PENDING_FOLIO_RANGE.pop())}</span>\n')
 
         html += '</div>\n'
 
@@ -531,6 +540,11 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
         for child in elem:
 
             html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+
+        if PENDING_FOLIO_RANGE:
+
+            html += (f' <span class="folio-range">fol. '
+                     f'{escape_html(PENDING_FOLIO_RANGE.pop())}</span>')
 
         html += '</h3>\n'
 
@@ -1045,9 +1059,15 @@ def get_css(render_semantic=False):
     }
 
     .folio-range {
+        font-family: "Helvetica Neue", "Arial", "DejaVu Sans", sans-serif;
+        font-size: 9pt;
+        font-weight: normal;
+        color: #792421;
+        margin-left: 6pt;
+    }
+    .folio-range-floated {
         float: right;
         clear: right;
-        font-family: "Helvetica Neue", "Arial", "DejaVu Sans", sans-serif;
         font-size: 8pt;
         color: #555;
         margin: 2pt 0 2pt 6pt;
