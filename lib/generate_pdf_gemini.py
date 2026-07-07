@@ -881,6 +881,23 @@ def get_css(render_semantic=False):
     Generate CSS stylesheet for PDF rendering.
     """
     base_css = """
+    /* Bundled symbol-fallback font: the manuscript uses apothecary/alchemical
+       signs the standard fonts lack; without an explicit fallback, fontconfig
+       substitutes hidden macOS faces that Acrobat cannot extract. */
+    @font-face {
+        font-family: "DejaVu Sans";
+        src: url("../../lib/fonts/DejaVuSans.ttf");
+    }
+    @font-face {
+        font-family: "DejaVu Sans";
+        font-weight: bold;
+        src: url("../../lib/fonts/DejaVuSans-Bold.ttf");
+    }
+    @font-face {
+        font-family: "Noto Sans Symbols";
+        src: url("../../lib/fonts/NotoSansSymbols-Regular.ttf");
+    }
+
     @page {
         size: letter;
         margin: 1in;
@@ -970,7 +987,7 @@ def get_css(render_semantic=False):
 
     a.essay-marker {
         float: right;
-        font-family: sans-serif;
+        font-family: "Helvetica Neue", "Arial", "DejaVu Sans", sans-serif;
         font-size: 8pt;
         color: #792421;
         text-decoration: none;
@@ -1029,7 +1046,7 @@ def get_css(render_semantic=False):
     }
 
     body {
-        font-family: "Garamond", "Georgia", "Times New Roman", serif;
+        font-family: "Garamond", "Georgia", "Times New Roman", "DejaVu Sans", "Noto Sans Symbols", serif;
         font-size: 11pt;
         line-height: 1.6;
         color: #000;
@@ -1186,8 +1203,9 @@ def get_css(render_semantic=False):
         display: inline-block;
         font-weight: bold;
         color: #7f8c8d;
-        font-size: 0.9em;
-        font-variant: small-caps;
+        font-size: 0.8em;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
     }
 
     /* Endnotes section */
@@ -1263,17 +1281,19 @@ def get_css(render_semantic=False):
     semantic_css = """
     /* Semantic elements - different colors for different categories */
     .pn {
-        font-weight: 600;
+        font-weight: bold;
         color: #16a085;
     }
 
     .pl {
-        font-weight: 500;
+        font-weight: bold;
         color: #2980b9;
     }
 
     .pro {
-        font-variant: small-caps;
+        text-transform: uppercase;
+        font-size: 0.85em;
+        letter-spacing: 0.04em;
         color: #8e44ad;
     }
 
@@ -1332,7 +1352,7 @@ def get_css(render_semantic=False):
     }
 
     .df {
-        font-weight: 500;
+        font-weight: bold;
     }
     """
 

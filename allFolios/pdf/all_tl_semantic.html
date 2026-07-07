@@ -5,6 +5,23 @@
     <title>BnF Ms. Fr. 640 - Translation</title>
     <style>
     
+    /* Bundled symbol-fallback font: the manuscript uses apothecary/alchemical
+       signs the standard fonts lack; without an explicit fallback, fontconfig
+       substitutes hidden macOS faces that Acrobat cannot extract. */
+    @font-face {
+        font-family: "DejaVu Sans";
+        src: url("../../lib/fonts/DejaVuSans.ttf");
+    }
+    @font-face {
+        font-family: "DejaVu Sans";
+        font-weight: bold;
+        src: url("../../lib/fonts/DejaVuSans-Bold.ttf");
+    }
+    @font-face {
+        font-family: "Noto Sans Symbols";
+        src: url("../../lib/fonts/NotoSansSymbols-Regular.ttf");
+    }
+
     @page {
         size: letter;
         margin: 1in;
@@ -53,9 +70,48 @@
     h4.essay-index-entry {
         margin: 0.8em 0 0.2em 0;
     }
+    /* Inline figures (--figures mode) */
+    a.fig-inline {
+        display: block;
+        text-align: center;
+        margin: 8pt auto;
+        break-inside: avoid;
+    }
+    a.fig-inline img {
+        max-height: 7.5in;
+        max-width: 100%;
+    }
+    a.fig-inline.fig-x-small img { max-width: 1.4in; }
+    a.fig-inline.fig-small img { max-width: 2.4in; }
+    a.fig-inline.fig-default img { max-width: 3.5in; }
+    a.fig-inline.fig-large img { max-width: 100%; }
+    a.fig-inline.fig-tall img { max-height: 5in; }
+    a.fig-inline.fig-intext {
+        display: inline-block;
+        vertical-align: middle;
+        margin: 0 3pt;
+    }
+    a.fig-inline.fig-intext.fig-x-small img { max-height: 0.75in; max-width: 1.8in; }
+    a.fig-inline.fig-intext.fig-small img { max-height: 1.25in; max-width: 2.5in; }
+    a.fig-inline.fig-intext.fig-default img { max-height: 1.25in; max-width: 2.5in; }
+    a.fig-inline.fig-margin {
+        display: block;
+        max-width: 2.4in;
+    }
+    a.fig-inline.fig-margin-right {
+        float: right;
+        clear: right;
+        margin: 2pt 0 6pt 10pt;
+    }
+    a.fig-inline.fig-margin-left {
+        float: left;
+        clear: left;
+        margin: 2pt 10pt 6pt 0;
+    }
+
     a.essay-marker {
         float: right;
-        font-family: sans-serif;
+        font-family: "Helvetica Neue", "Arial", "DejaVu Sans", sans-serif;
         font-size: 8pt;
         color: #792421;
         text-decoration: none;
@@ -114,7 +170,7 @@
     }
 
     body {
-        font-family: "Garamond", "Georgia", "Times New Roman", serif;
+        font-family: "Garamond", "Georgia", "Times New Roman", "DejaVu Sans", "Noto Sans Symbols", serif;
         font-size: 11pt;
         line-height: 1.6;
         color: #000;
@@ -271,8 +327,9 @@
         display: inline-block;
         font-weight: bold;
         color: #7f8c8d;
-        font-size: 0.9em;
-        font-variant: small-caps;
+        font-size: 0.8em;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
     }
 
     /* Endnotes section */
@@ -346,17 +403,19 @@
     
     /* Semantic elements - different colors for different categories */
     .pn {
-        font-weight: 600;
+        font-weight: bold;
         color: #16a085;
     }
 
     .pl {
-        font-weight: 500;
+        font-weight: bold;
         color: #2980b9;
     }
 
     .pro {
-        font-variant: small-caps;
+        text-transform: uppercase;
+        font-size: 0.85em;
+        letter-spacing: 0.04em;
         color: #8e44ad;
     }
 
@@ -415,7 +474,7 @@
     }
 
     .df {
-        font-weight: 500;
+        font-weight: bold;
     }
     
     </style>
