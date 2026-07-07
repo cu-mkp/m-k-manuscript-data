@@ -15,7 +15,7 @@ match another head-word are linked to that entry. Reuses the weasyprint +
 pypdf explicit-destination pipeline from generate_pdf_gemini.py.
 
 Run from lib/:  python generate_glossary_pdf.py
-Output:         ../allFolios/pdf/glossary.{html,pdf}
+Output:         ../metadata/glossary.{html,pdf} (alongside the source CSV)
 """
 
 import csv
@@ -196,8 +196,8 @@ a {{ color: #792421; text-decoration: none; }}
 
 def main():
     csv_file = Path('../metadata/DCE-glossary-table.csv')
-    html_file = Path('../allFolios/pdf/glossary.html')
-    pdf_file = Path('../allFolios/pdf/glossary.pdf')
+    html_file = Path('../metadata/glossary.html')
+    pdf_file = Path('../metadata/glossary.pdf')
 
     if not csv_file.exists():
         print(f'ERROR: glossary CSV not found: {csv_file}')
