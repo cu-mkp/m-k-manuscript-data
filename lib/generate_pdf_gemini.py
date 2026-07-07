@@ -792,6 +792,29 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
                     print(f"Downloaded {img_url} to {local_img_path}")
                 except Exception as e:
                     print(f"Failed to download {img_url}: {e}")
+                    # Fall back to the figure's Google Drive link (some figures,
+                    # e.g. fig_p020r_1, are absent from the edition asset server)
+                    drive_id = None
+                    link = elem.get("link", "")
+                    m_drive = re.search(r'(?:/file/d/|[?&]id=)([\w-]+)', link)
+                    if m_drive:
+                        drive_id = m_drive.group(1)
+                    if drive_id:
+                        drive_url = f"https://drive.google.com/uc?export=download&id={drive_id}"
+                        try:
+                            req = urllib.request.Request(drive_url, headers={'User-Agent': 'Mozilla/5.0'})
+                            with urllib.request.urlopen(req) as response:
+                                data = response.read()
+                            # only keep it if it's actually an image, not a
+                            # Drive error/confirmation page
+                            if data[:8] == b'\x89PNG\r\n\x1a\n' or data[:3] == b'\xff\xd8\xff':
+                                with open(local_img_path, 'wb') as out_file:
+                                    out_file.write(data)
+                                print(f"Downloaded {drive_url} to {local_img_path} (Drive fallback)")
+                            else:
+                                print(f"Drive fallback for {fig_id} did not return an image; skipping")
+                        except Exception as e2:
+                            print(f"Drive fallback for {fig_id} failed: {e2}")
 
             # Add figure info to the list for later use
             figures.append({
