@@ -927,9 +927,9 @@ def get_css(render_semantic=False):
         vertical-align: middle;
         margin: 0 3pt;
     }
-    a.fig-inline.fig-intext.fig-x-small img { max-height: 0.5in; max-width: 1.2in; }
-    a.fig-inline.fig-intext.fig-small img { max-height: 0.9in; max-width: 2in; }
-    a.fig-inline.fig-intext.fig-default img { max-height: 0.9in; max-width: 2in; }
+    a.fig-inline.fig-intext.fig-x-small img { max-height: 0.75in; max-width: 1.8in; }
+    a.fig-inline.fig-intext.fig-small img { max-height: 1.25in; max-width: 2.5in; }
+    a.fig-inline.fig-intext.fig-default img { max-height: 1.25in; max-width: 2.5in; }
     a.fig-inline.fig-margin {
         display: block;
         max-width: 2.4in;
