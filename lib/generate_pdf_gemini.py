@@ -89,8 +89,7 @@ def create_index_html(root):
         if not heading:
             continue
         div_id = div.get('id', '')
-        folio_match = re.match(r'p(\d+[rv])', div_id)
-        folio = folio_match.group(1) if folio_match else div_id
+        folio = folio_range_label(div_id)
         entry = f"<a href=\"#{escape_html(div_id)}\">{escape_html(heading)} ({escape_html(folio)})</a>"
         for category in categories_attr.split(';'):
             category = category.strip()
@@ -135,6 +134,43 @@ def folio_label(div_id):
     """p003r_1 -> 3r; falls back to the raw id."""
     m = re.match(r'p0*(\d+)([rv])', div_id)
     return f"{m.group(1)}{m.group(2)}" if m else div_id
+
+# entry div id -> ordered list of folios the entry physically spans;
+# built by xml_to_html from the per-folio source files in ms-xml/<version>/,
+# which are authoritative for which segment sits on which folio
+ENTRY_FOLIOS = {}
+
+def folio_key(folio):
+    """Sort key for folio labels like '17r' / '17v'."""
+    m = re.match(r'0*(\d+)([rv])', folio)
+    return (int(m.group(1)), 0 if m.group(2) == 'r' else 1) if m else (9999, 2)
+
+def load_entry_folios(folio_dir):
+    """Map each entry id to the folios its segments occupy, in folio order."""
+    entry_folios = defaultdict(set)
+    for path in sorted(Path(folio_dir).glob('*_p*_preTEI.xml')):
+        m = re.search(r'_p0*(\d+[rv])_preTEI', path.name)
+        if not m:
+            continue
+        folio = m.group(1)
+        try:
+            froot = ET.parse(path).getroot()
+        except ET.ParseError as e:
+            print(f'Warning: could not parse {path.name}: {e}')
+            continue
+        for div in froot.iter('div'):
+            if div.get('id'):
+                entry_folios[div.get('id')].add(folio)
+    return {eid: sorted(folios, key=folio_key) for eid, folios in entry_folios.items()}
+
+def folio_range_label(div_id):
+    """'17r' for single-folio entries, '17r\u201317v' for spanning ones."""
+    folios = ENTRY_FOLIOS.get(div_id)
+    if not folios:
+        return folio_label(div_id)
+    if len(folios) == 1:
+        return folios[0]
+    return f'{folios[0]}\u2013{folios[-1]}'
 
 def folio_sort_key(div_id):
     """Manuscript-order sort key for entry div ids like p003r_1."""
@@ -321,7 +357,7 @@ def create_essay_index_html(root, by_entry, unlinked):
         heading = headings.get(entry_id, entry_id)
         html += (f'<h4 class="essay-index-entry" id="essay-entry-{escape_html(entry_id)}">'
                  f'<a href="#{escape_html(entry_id)}">'
-                 f'{escape_html(heading)} ({escape_html(folio_label(entry_id))})</a></h4>\n')
+                 f'{escape_html(heading)} ({escape_html(folio_range_label(entry_id))})</a></h4>\n')
         html += '<ul class="essay-index-essays">\n'
         for essay in sorted(by_entry[entry_id], key=lambda e: e['title']):
             html += essay_item_html(essay)
@@ -370,6 +406,7 @@ def escape_html(text):
 # segment in document order.
 ESSAY_COUNTS = {}
 ESSAY_MARKED = set()
+RANGE_MARKED = set()
 
 # When True (--figures), figure images are rendered inline in the body at
 # their point of reference, sized/positioned from the XML attributes,
@@ -428,6 +465,13 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
         div_margin_notes = []
 
         html = f'<div class="entry" id="{escape_html(div_id)}" data-categories="{escape_html(categories)}">\n'
+
+        if div_id and div_id not in RANGE_MARKED:
+
+            RANGE_MARKED.add(div_id)
+
+            html += (f'<span class="folio-range" title="Folio range of this entry">'
+                     f'{escape_html(folio_range_label(div_id))}</span>\n')
 
         essay_count = 0 if div_id in ESSAY_MARKED else ESSAY_COUNTS.get(div_id, 0)
 
@@ -1000,6 +1044,15 @@ def get_css(render_semantic=False):
         margin: 2pt 10pt 6pt 0;
     }
 
+    .folio-range {
+        float: right;
+        clear: right;
+        font-family: "Helvetica Neue", "Arial", "DejaVu Sans", sans-serif;
+        font-size: 8pt;
+        color: #555;
+        margin: 2pt 0 2pt 6pt;
+    }
+
     a.essay-marker {
         float: right;
         font-family: "Helvetica Neue", "Arial", "DejaVu Sans", sans-serif;
@@ -1414,6 +1467,11 @@ def xml_to_html(xml_file, output_html, render_semantic=False, render_figures=Fal
     ESSAY_COUNTS.clear()
     ESSAY_COUNTS.update({eid: len(essays) for eid, essays in essays_by_entry.items()})
     ESSAY_MARKED.clear()
+    RANGE_MARKED.clear()
+    ENTRY_FOLIOS.clear()
+    ENTRY_FOLIOS.update(load_entry_folios('../ms-xml/tl'))
+    spanning = sum(1 for f in ENTRY_FOLIOS.values() if len(f) > 1)
+    print(f'Folio extents: {len(ENTRY_FOLIOS)} entries, {spanning} spanning multiple folios')
     print("Converting XML to HTML...")
     body_html = process_element(root, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
     index_html = create_index_html(root)
