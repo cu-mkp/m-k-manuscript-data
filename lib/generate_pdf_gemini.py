@@ -356,6 +356,11 @@ def escape_html(text):
 ESSAY_COUNTS = {}
 ESSAY_MARKED = set()
 
+# When True (--figures), figure images are rendered inline in the body at
+# their point of reference, sized/positioned from the XML attributes,
+# instead of appearing only in the back-of-book List of Figures.
+RENDER_FIGURES = False
+
 def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=None, render_semantic=False):
 
     """
@@ -782,8 +787,29 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
                 "local_path": local_img_path
             })
             
-                            # Create a link to the figure in the list of figures
-            html = f'<a id="{escape_html(fig_id)}" href="#figure-list-{escape_html(fig_id)}">[Figure: {escape_html(alt_text) if alt_text else fig_id}]</a>'
+            if RENDER_FIGURES and local_img_path.exists():
+                # Inline image at the point of reference. Size and position
+                # are interpreted from the XML attributes:
+                #   size:   x-small | small | large | (unset -> default)
+                #   margin: manuscript margin placement -> float left/right
+                #   render: "tall" -> tighter height cap
+                size = elem.get("size", "") or "default"
+                margin_attr = elem.get("margin", "")
+                classes = f"fig-inline fig-{size}"
+                if margin_attr:
+                    side = "left" if margin_attr.startswith("left") else "right"
+                    classes += f" fig-margin fig-margin-{side}"
+                if elem.get("render") == "tall":
+                    classes += " fig-tall"
+                # image links to its List of Figures entry, which links back
+                html = (f'<a id="{escape_html(fig_id)}" class="{classes}" '
+                        f'href="#figure-list-{escape_html(fig_id)}">'
+                        f'<img src="../../images/{escape_html(local_img_path.name)}" '
+                        f'alt="{escape_html(alt_text) if alt_text else escape_html(fig_id)}"/>'
+                        f'</a>')
+            else:
+                # Create a link to the figure in the list of figures
+                html = f'<a id="{escape_html(fig_id)}" href="#figure-list-{escape_html(fig_id)}">[Figure: {escape_html(alt_text) if alt_text else fig_id}]</a>'
         else:
             # Fallback for when figures are not being processed
             html = f'<div class="figure" id="{escape_html(fig_id)}" >'
@@ -863,6 +889,37 @@ def get_css(render_semantic=False):
     h4.essay-index-entry {
         margin: 0.8em 0 0.2em 0;
     }
+    /* Inline figures (--figures mode) */
+    a.fig-inline {
+        display: block;
+        text-align: center;
+        margin: 8pt auto;
+        break-inside: avoid;
+    }
+    a.fig-inline img {
+        max-height: 7.5in;
+        max-width: 100%;
+    }
+    a.fig-inline.fig-x-small img { max-width: 1.4in; }
+    a.fig-inline.fig-small img { max-width: 2.4in; }
+    a.fig-inline.fig-default img { max-width: 3.5in; }
+    a.fig-inline.fig-large img { max-width: 100%; }
+    a.fig-inline.fig-tall img { max-height: 5in; }
+    a.fig-inline.fig-margin {
+        display: block;
+        max-width: 2.4in;
+    }
+    a.fig-inline.fig-margin-right {
+        float: right;
+        clear: right;
+        margin: 2pt 0 6pt 10pt;
+    }
+    a.fig-inline.fig-margin-left {
+        float: left;
+        clear: left;
+        margin: 2pt 10pt 6pt 0;
+    }
+
     a.essay-marker {
         float: right;
         font-family: sans-serif;
@@ -1257,7 +1314,9 @@ def load_comments(csv_file):
     return comments
 
 import urllib.request
-def xml_to_html(xml_file, output_html, render_semantic=False):
+def xml_to_html(xml_file, output_html, render_semantic=False, render_figures=False):
+    global RENDER_FIGURES
+    RENDER_FIGURES = render_figures
     print(f"Parsing XML file: {xml_file}")
     csv_file = Path("../metadata/DCE_comment-tracking-Tracking.csv")
     comments_dict = load_comments(csv_file)
@@ -1419,12 +1478,19 @@ def main():
         action='store_true',
         help='If set, render semantic XML elements with special styling (colors, etc.). Default is off.'
     )
+    parser.add_argument(
+        '--figures',
+        action='store_true',
+        help='If set, render figure images inline in the body at their point of reference, '
+             'sized/positioned from the XML size/margin attributes. Default is off '
+             '(figures appear only in the List of Figures).'
+    )
     args = parser.parse_args()
 
-    # Define input and output file paths; the semantic rendering gets its own
-    # output files so the two variants can coexist
+    # Define input and output file paths; each rendering variant gets its own
+    # output files so they can coexist (e.g. all_tl_semantic_figures.pdf)
     xml_file = Path("../allFolios/xml/tl/all_tl.xml")
-    suffix = "_semantic" if args.semantic else ""
+    suffix = ("_semantic" if args.semantic else "") + ("_figures" if args.figures else "")
     html_file = Path(f"../allFolios/pdf/all_tl{suffix}.html")
     pdf_file = Path(f"../allFolios/pdf/all_tl{suffix}.pdf")
 
@@ -1433,8 +1499,8 @@ def main():
         print(f"ERROR: XML file not found: {xml_file}")
         sys.exit(1)
 
-    # Convert XML to HTML, passing the semantic rendering flag
-    xml_to_html(xml_file, html_file, render_semantic=args.semantic)
+    # Convert XML to HTML, passing the rendering flags
+    xml_to_html(xml_file, html_file, render_semantic=args.semantic, render_figures=args.figures)
 
     # Convert HTML to PDF
     success = html_to_pdf(html_file, pdf_file)
