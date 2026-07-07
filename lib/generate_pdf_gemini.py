@@ -217,6 +217,16 @@ def create_tag_index_html(root):
     html += '</div>\n'
     return html
 
+def balance_inline_tags(fragment, context):
+    """Close unclosed inline tags so a data typo cannot leak formatting."""
+    for tag in ('i', 'b', 'em', 'u', 'sup', 'sub'):
+        opens = len(re.findall(f'<{tag}[ >]', fragment))
+        closes = len(re.findall(f'</{tag}>', fragment))
+        if opens > closes:
+            print(f"Warning: unclosed <{tag}> in '{context}' — auto-closing")
+            fragment += f'</{tag}>' * (opens - closes)
+    return fragment
+
 def load_essay_data(root, csv_file, known_ids=None):
     """
     Loads the essay metadata CSV and returns (by_entry, unlinked):
@@ -256,19 +266,22 @@ def load_essay_data(root, csv_file, known_ids=None):
             continue
         essay = {
             'title': title,
+            'title_html': balance_inline_tags(title, f'essay title: {title[:40]}'),
             'authors': row.get('author', '').strip(),
             'url': row.get('edition-URL', '').strip(),
         }
         entry_ids = [e.strip() for e in row.get('entry-id', '').split(';') if e.strip()]
-        if entry_ids:
-            for entry_id in entry_ids:
-                normalized = normalize_entry_id(entry_id)
-                if normalized:
-                    by_entry[normalized].append(essay)
-                else:
-                    unmatched_ids.add(entry_id)
-                    unlinked.append(essay)
-        else:
+        matched_any = False
+        for entry_id in entry_ids:
+            normalized = normalize_entry_id(entry_id)
+            if normalized:
+                by_entry[normalized].append(essay)
+                matched_any = True
+            else:
+                unmatched_ids.add(entry_id)
+        # an essay goes to the general group only when it matched no entry at
+        # all; a partially-bad id list still lists it under its valid entries
+        if not matched_any:
             unlinked.append(essay)
     if unmatched_ids:
         print(f"Warning: essay index: entry-ids not found in XML (listed without links): "
@@ -293,7 +306,7 @@ def create_essay_index_html(root, by_entry, unlinked):
                 headings[div_id] = text
 
     def essay_item_html(essay):
-        title_html = escape_html(essay['title'])
+        title_html = essay.get('title_html') or escape_html(essay['title'])
         if essay['url']:
             title_html = f'<a href="{escape_html(essay["url"])}">{title_html}</a>'
         authors = f' — {escape_html(essay["authors"])}' if essay['authors'] else ''
@@ -318,7 +331,7 @@ def create_essay_index_html(root, by_entry, unlinked):
         seen = set()
         unlinked = [e for e in unlinked
                     if not (e['title'] in seen or seen.add(e['title']))]
-        html += '<h4 class="essay-index-entry">Not linked to a specific entry</h4>\n'
+        html += '<h4 class="essay-index-entry">General essays on the manuscript and edition</h4>\n'
         html += '<ul class="essay-index-essays">\n'
         for essay in sorted(unlinked, key=lambda e: e['title']):
             html += essay_item_html(essay)

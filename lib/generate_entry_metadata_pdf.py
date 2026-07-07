@@ -71,8 +71,8 @@ def essays_html(div_id, essays_by_entry):
     if not essays:
         return ''
     rendered = '; '.join(
-        (f'<a href="{escape_html(e["url"])}">{escape_html(e["title"])}</a>'
-         if e['url'] else escape_html(e['title']))
+        (f'<a href="{escape_html(e["url"])}">{e.get("title_html") or escape_html(e["title"])}</a>'
+         if e['url'] else (e.get('title_html') or escape_html(e['title'])))
         + (f' ({escape_html(e["authors"])})' if e['authors'] else '')
         for e in sorted(essays, key=lambda e: e['title'])
     )
