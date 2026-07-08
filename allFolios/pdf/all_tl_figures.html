@@ -117,6 +117,20 @@
         display: block;
         max-width: 2.4in;
     }
+    /* A margin figure must never paint outside its float box: text wraps
+       around the box, so an image wider than it would cover that text.
+       Size caps live on the <img>, so clamp the image to the box and cap
+       box-width per size (unset size would otherwise give a 3.5in image). */
+    .fig-inline.fig-margin img {
+        max-width: 100%;
+    }
+    .fig-inline.fig-margin.fig-x-small {
+        max-width: 1.4in;
+    }
+    .fig-inline.fig-margin.fig-default,
+    .fig-inline.fig-margin.fig-large {
+        max-width: 2.4in;
+    }
     .fig-inline.fig-margin-right {
         float: right;
         clear: right;
@@ -3852,7 +3866,6 @@ completely with good</p>
 
 .
 
-<span id="fig_p023r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p023r_1.png" alt="fig_p023r_1"/></span>
 
 
 
@@ -3871,6 +3884,9 @@ pointing up. One makes two large <span class="m">iron</span> rings &amp; with a
 in breaches but here one needs only half a charge, namely x <span class="ms">lb</span>,
 &amp; to fill it with <span class="m">flint stones</span> &amp; <span class="m">cart flint
 stones</span></div>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p023r_1" class="fig-inline fig-small"><img src="../../images/p023r_1.png" alt="fig_p023r_1"/></span>
+</div>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -4238,7 +4254,13 @@ more of an effect. One holds that, once loaded &amp; kept in a <span class="env"
 for fifteen <span class="tmp">days</span>, they have more force.</p>
 
 
-    <span id="fig_p026r_2" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p026r_2.png" alt="fig_p026r_2"/></span>
+    
+
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p026r_2" class="fig-inline fig-small"><img src="../../images/p026r_2.png" alt="fig_p026r_2"/></span>
 
 
 
@@ -4246,8 +4268,7 @@ for fifteen <span class="tmp">days</span>, they have more force.</p>
 
 
 
-
-
+</div>
 </div>
 <div class="entry" id="p026v_1" data-categories="arms and armor">
 <h3 class="head " ><span class="wp">Culverin</span> ball <span class="folio-range">fol. 26v</span></h3>
@@ -4282,9 +4303,14 @@ for fifteen <span class="tmp">days</span>, they have more force.</p>
 <h3 class="head minor-head right-top" ><span class="wp">Field piece</span> <span class="folio-range">fol. 27r</span></h3>
 
     
-<span id="fig_p027r_3" class="fig-inline fig-default fig-margin fig-margin-right"><img src="../../images/p027r_3.png" alt="fig_p027r_3"/></span>
 
 
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="right-top">
+<span class="margin-position">[right-top]</span> <span id="fig_p027r_3" class="fig-inline fig-default"><img src="../../images/p027r_3.png" alt="fig_p027r_3"/></span>
+</div>
 </div>
 <div class="entry" id="p027v_1" data-categories="arms and armor">
 <h3 class="head " ><span class="wp">Falconet</span> <span class="folio-range">fol. 27v</span></h3>
@@ -4304,9 +4330,14 @@ alternatively <span class="wp">passe-<br/>
 volant</span>, is 8 <span class="ms"><span class="fr" >pans</span></span> long <span class="folio-range">fol. 27v</span></h3>
 
 
-<span id="fig_p027v_2" class="fig-inline fig-default fig-margin fig-margin-right"><img src="../../images/p027v_2.png" alt="fig_p027v_2"/></span>
 
 
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="right-top">
+<span class="margin-position">[right-top]</span> <span id="fig_p027v_2" class="fig-inline fig-default"><img src="../../images/p027v_2.png" alt="fig_p027v_2"/></span>
+</div>
 </div>
 <div class="entry" id="p027v_3" data-categories="arms and armor">
 <h3 class="head left-bottom" >3 <span class="ms">quintals</span>,<br/>
@@ -4316,9 +4347,14 @@ is 9 <span class="ms"><span class="fr" >pans</span></span><br/>
 long <span class="folio-range">fol. 27v</span></h3>
 
 
-<span id="fig_p027v_3" class="fig-inline fig-default fig-margin fig-margin-left"><img src="../../images/p027v_3.png" alt="fig_p027v_3"/></span>
 
     
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-bottom">
+<span class="margin-position">[left-bottom]</span> <span id="fig_p027v_3" class="fig-inline fig-default"><img src="../../images/p027v_3.png" alt="fig_p027v_3"/></span>
+</div>
 </div>
 <div class="entry" id="p027v_4" data-categories="arms and armor">
 <h3 class="head " >2 <span class="ms">quintals</span>,<br/>
@@ -4342,9 +4378,14 @@ is six <span class="ms"><span class="fr" >pans</span></span><br/>
 and a half <span class="folio-range">fol. 27v</span></h3>
 
 
-<span id="fig_p027v_5" class="fig-inline fig-default fig-margin fig-margin-right"><img src="../../images/p027v_5.png" alt="fig_p027v_5"/></span>
 
     
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="right-top">
+<span class="margin-position">[right-top]</span> <span id="fig_p027v_5" class="fig-inline fig-default"><img src="../../images/p027v_5.png" alt="fig_p027v_5"/></span>
+</div>
 </div>
 <div class="entry" id="p027v_6" data-categories="arms and armor">
 <h3 class="head left-bottom" >1 <span class="ms">quintal</span><br/>
@@ -4354,9 +4395,14 @@ and a half is<br/>
 7 <span class="ms"><span class="fr" >pans</span></span> and a half <span class="folio-range">fol. 27v</span></h3>
 
     
-<span id="fig_p027v_6" class="fig-inline fig-default fig-margin fig-margin-left"><img src="../../images/p027v_6.png" alt="fig_p027v_6"/></span>
 
 
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-bottom">
+<span class="margin-position">[left-bottom]</span> <span id="fig_p027v_6" class="fig-inline fig-default"><img src="../../images/p027v_6.png" alt="fig_p027v_6"/></span>
+</div>
 </div>
 <div class="entry" id="p027v_7" data-categories="arms and armor">
 <h3 class="head " ><span class="wp">Musket</span>,<sup class="comment-ref"><a href="#endnote-c_027v_01" id="ref-c_027v_01-1">[193]</a></sup><br/>
@@ -5053,7 +5099,6 @@ at his <span class="bp">hands</span>.</div>
 <span class="bp">hands</span> without blowing <span class="folio-range">fol. 33r</span></h3>
 
 
-<span id="fig_p033r_2" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p033r_2.png" alt="fig_p033r_2"/></span>
 
 
 <p class="ab" ><span class="mark">X</span> Take a small <span class="tl">stick of <span class="m">well dried <del>between</del>
@@ -5073,6 +5118,12 @@ will light. Then immediately extinguish your <span class="m">wicker</span> &amp;
 secretly cast it aside.</p>
 
 
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p033r_2" class="fig-inline fig-small"><img src="../../images/p033r_2.png" alt="fig_p033r_2"/></span>
+</div>
 </div>
 <div class="entry" id="p033v_1" data-categories="tricks and sleight of hand">
 <h3 class="head " >For making it seem <del>that</del> to someone that he has a <span class="tl">piece
@@ -5099,7 +5150,6 @@ nowhere.</p>
 someone&#39;s <span class="bp">forehead</span> or from a <span class="env">wall</span> <span class="folio-range">fol. 33v</span></h3>
 
 
-<span id="fig_p033v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p033v_1.png" alt="fig_p033v_1"/></span>
 
 
 <p class="ab" >Take a <span class="tl"><span class="oc" >funnel</span></span> or <span class="tl">funnel of <span class="m"><span class="fr" >fer blanc</span></span></span> which is double-walled in the body <del><span class="fr" >d</span></del>
@@ -5131,6 +5181,9 @@ close to <span class="mark">#</span><sup class="comment-ref"><a href="#endnote-c
 </div>
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p033v_1" class="fig-inline fig-small"><img src="../../images/p033v_1.png" alt="fig_p033v_1"/></span>
+</div>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -5342,7 +5395,6 @@ See <span class="pn">Mathiol</span>.<sup class="comment-ref"><a href="#endnote-c
 another <span class="folio-range">fol. 35v–36r</span></h3>
 
 
-<span id="fig_p035v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p035v_1.png" alt="fig_p035v_1"/></span>
 
 
 <p class="ab" >Take two <span class="tl">small <span class="m">wooden</span> bushels</span> of the <span class="ms">same
@@ -5384,6 +5436,12 @@ of <span class="m"><span class="pa">grain</span></span>, which you will scrape d
 
 
 
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p035v_1" class="fig-inline fig-small"><img src="../../images/p035v_1.png" alt="fig_p035v_1"/></span>
+</div>
 </div>
 <div class="entry" id="p035v_2" data-categories="tricks and sleight of hand">
 <p class="ab" >
@@ -6735,10 +6793,15 @@ born.</span></p>
 
 </div>
 <div class="entry" id="p046v_4" data-categories="corrosives">
-<span id="fig_p046r_1" class="fig-inline fig-x-small fig-margin fig-margin-left"><img src="../../images/p046r_1.png" alt="fig_p046r_1"/></span>
 
         
 <span class="folio-range folio-range-floated">fol. 46r–46v</span>
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-top">
+<span class="margin-position">[left-top]</span> <span id="fig_p046r_1" class="fig-inline fig-x-small"><img src="../../images/p046r_1.png" alt="fig_p046r_1"/></span>
+</div>
 </div>
 <div class="entry" id="p046r_3" data-categories="medicine">
 <h3 class="head " ><span class="md">Against the falling sickness</span> <span class="folio-range">fol. 46r</span></h3>
@@ -6819,10 +6882,15 @@ black as this one. <em><span class="fr" >Urb.</span></em>
 </p>
 
 
-<span id="fig_p046v_1" class="fig-inline fig-x-small fig-margin fig-margin-right"><img src="../../images/p046v_1.png" alt="fig_p046v_1"/></span>
 
 
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="right-middle">
+<span class="margin-position">[right-middle]</span> <span id="fig_p046v_1" class="fig-inline fig-x-small"><img src="../../images/p046v_1.png" alt="fig_p046v_1"/></span>
 
+</div>
 </div>
 <div class="entry" id="p046v_5" data-categories="corrosives">
 <h3 class="head " >Making a letter <span class="fr" >à jour</span> on <span class="m">paper</span> and other
@@ -8519,7 +8587,6 @@ the darkest to the clearest.</p>
 
 
 
-<span id="fig_p059r_1" class="fig-inline fig-x-small fig-margin fig-margin-left"><img src="../../images/p059r_1.png" alt="fig_p059r_1"/></span>
 
 
 </div>
@@ -8530,6 +8597,9 @@ the darkest to the clearest.</p>
 
 The <span class="m">varnish</span> is more beautiful on the panel when the color has
 imbibed well.</div>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p059r_1" class="fig-inline fig-x-small"><img src="../../images/p059r_1.png" alt="fig_p059r_1"/></span>
+</div>
 </div>
 <div class="entry" id="p059r_2" data-categories="painting">
 <h3 class="head " ><span class="m">Azure</span> <span class="folio-range">fol. 59r</span></h3>
@@ -11700,12 +11770,19 @@ that the trussed-up length is <span class="ms">as long as</span> its straight pi
 &amp; nevertheless does not descend as far down.</p>
 
 
-<span id="fig_p080r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p080r_1.png" alt="fig_p080r_1"/></span>
 
 
-<span id="fig_p080r_3" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p080r_3.png" alt="fig_p080r_3"/></span>
 
 
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p080r_1" class="fig-inline fig-small"><img src="../../images/p080r_1.png" alt="fig_p080r_1"/></span>
+</div>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p080r_3" class="fig-inline fig-small"><img src="../../images/p080r_3.png" alt="fig_p080r_3"/></span>
+</div>
 </div>
 <div class="entry" id="p080v_1" data-categories="casting">
 <a class="essay-marker" href="#essay-entry-p080v_1" title="See 1 essay on this entry">&#10022;&thinsp;1 essay</a>
@@ -13859,7 +13936,6 @@ have been ground, which is better than with a <span class="tl"><span class="m">s
 <span class="tl"><span class="m">sharpening stone</span></span>, which quite often makes scratches.</p>
 
 
-<span id="fig_p094v_2" class="fig-inline fig-default fig-margin fig-margin-left"><img src="../../images/p094v_2.png" alt="fig_p094v_2"/></span>
 
     
      
@@ -13897,6 +13973,9 @@ at the <span class="tl"><span class="pro">farriers</span>&#39; forge</span>.</p>
 </div>
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p094v_2" class="fig-inline fig-default"><img src="../../images/p094v_2.png" alt="fig_p094v_2"/></span>
+</div>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 <span id="fig_p094v_8" class="fig-inline fig-small fig-intext"><img src="../../images/p094v_8.png" alt="fig_p094v_8"/></span>
@@ -14916,8 +14995,7 @@ and accompanied with <span class="m">antimony</span>.</em></p>
 
 
 
-    <span id="fig_p101r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p101r_1.png" alt="fig_p101r_1"/></span>
-
+    
 
 </div>
 <div class="margin-notes">
@@ -14930,6 +15008,9 @@ and accompanied with <span class="m">antimony</span>.</em></p>
 If you need greater heat, <del><span class="fr" >plie</span></del> put, on the edge of
 the opening of the glowing <span class="tl">furnace</span>, <span class="tl">tiles</span>, one against
 the other, for making the heat reverberate.</div>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p101r_1" class="fig-inline fig-small"><img src="../../images/p101r_1.png" alt="fig_p101r_1"/></span>
+</div>
 </div>
 <div class="entry" id="p101r_1" data-categories="stones">
 <h3 class="head " ><span class="m">Topaz</span> <span class="folio-range">fol. 101r</span></h3>
@@ -15161,12 +15242,17 @@ in, &amp; with a lip at the end. Thus of a height of seven
 <span class="ms"><span class="bp">fingers</span>&#39; width</span>.<br/>
 
 
-    <span id="fig_p102r_1" class="fig-inline fig-small fig-margin fig-margin-right"><img src="../../images/p102r_1.png" alt="fig_p102r_1"/></span>
-
+    
 
 </p>
 
 
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="bottom">
+<span class="margin-position">[bottom]</span> <span id="fig_p102r_1" class="fig-inline fig-small"><img src="../../images/p102r_1.png" alt="fig_p102r_1"/></span>
+</div>
 </div>
 <div class="entry" id="p102v_1" data-categories="painting;glass process">
 <h3 class="head " >Painting on <span class="m">crystal</span> or <span class="m">glass</span> <span class="folio-range">fol. 102v</span></h3>
@@ -15454,8 +15540,7 @@ form will be of good release.</p>
 <h3 class="head " ><span class="mu">Spinet</span> playing by itself <span class="folio-range">fol. 104v</span></h3>
 
 
-    <span id="fig_p104v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p104v_1.png" alt="fig_p104v_1"/></span>
-
+    
 
 <p class="ab" >Make an axle surrounded with wheels pierced all around the edge, and
 attach <span class="m">quills</span> as for a <span class="mu">cittern</span> or a <span class="mu">spinet</span>, 
@@ -15465,6 +15550,12 @@ axle either by yourself or by a <span class="tl">clock</span> spring, your inven
 will be effected.</p>
 
 
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p104v_1" class="fig-inline fig-small"><img src="../../images/p104v_1.png" alt="fig_p104v_1"/></span>
+</div>
 </div>
 <div class="entry" id="p105r_1" data-categories="animal husbandry">
 <h3 class="head " ><span class="al">Turtles</span> <span class="folio-range">fol. 105r</span></h3>
@@ -15527,11 +15618,16 @@ or growth, leave it space to go out, &amp; do thus three or 4
 times.</p>
 
 
-<span id="fig_p105r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p105r_1.png" alt="fig_p105r_1"/></span>
 
 
 
 
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p105r_1" class="fig-inline fig-small"><img src="../../images/p105r_1.png" alt="fig_p105r_1"/></span>
+</div>
 </div>
 <div class="entry" id="p105r_4" data-categories="cultivation">
 <p class="ab  wide" >Next, when it is well <del><span class="fr" >b</span></del> taken, cut the top
@@ -16810,7 +16906,6 @@ it creates a better bond.</div>
 
 
 
-<span id="fig_p112r_1" class="fig-inline fig-default fig-margin fig-margin-left fig-tall"><img src="../../images/p112r_1.png" alt="fig_p112r_1"/></span>
 
 
 </div>
@@ -16822,6 +16917,9 @@ it creates a better bond.</div>
 To make handles for your <span class="tl">large <span class="m">oil</span> paintbrushes</span>, if you do
 not have large enough <span class="tl"><span class="m">feather</span> quills</span>, take two of them,
 &amp; slit them, &amp; join them together.</div>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p112r_1" class="fig-inline fig-default fig-tall"><img src="../../images/p112r_1.png" alt="fig_p112r_1"/></span>
+</div>
 </div>
 <div class="entry" id="p112r_2" data-categories="casting">
 <h3 class="head " >Decoction of <span class="m">sands</span> <span class="folio-range">fol. 112r</span></h3>
@@ -18024,10 +18122,8 @@ peg</span>.</p>
 
 
 
-<span id="fig_p117r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p117r_1.png" alt="fig_p117r_1"/></span>
 
 
-<span id="fig_p117r_2" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p117r_2.png" alt="fig_p117r_2"/></span>
 
 
 
@@ -18044,6 +18140,12 @@ If the plants are so delicate that they rise to the top when you pour
 the <span class="m">tempered sand</span>, one can fix and contain them with a <span class="tl">thread</span>
 passed through the circle of the <span class="tl">mold</span> with a
 <span class="tl">needle</span>.</div>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p117r_1" class="fig-inline fig-small"><img src="../../images/p117r_1.png" alt="fig_p117r_1"/></span>
+</div>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p117r_2" class="fig-inline fig-small"><img src="../../images/p117r_2.png" alt="fig_p117r_2"/></span>
+</div>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -19038,13 +19140,15 @@ anything, which is a secret.</p>
 but that is when they are small.</p>
 
 
-    <span id="fig_p122r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p122r_1.png" alt="fig_p122r_1"/></span>
     
     
     
 </div>
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p122r_1" class="fig-inline fig-small"><img src="../../images/p122r_1.png" alt="fig_p122r_1"/></span>
+    </div>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
         <span id="fig_p122r_3" class="fig-inline fig-small fig-intext"><img src="../../images/p122r_3.png" alt="fig_p122r_3"/></span>
@@ -21237,7 +21341,6 @@ the scales from the top of the toes will come out well.</p>
 
 
 
-<span id="fig_p133r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p133r_1.png" alt="fig_p133r_1"/></span>
 
 
 </div>
@@ -21251,6 +21354,9 @@ the scales from the top of the toes will come out well.</p>
 At the end of the nails of <span class="al">large lizards</span>, <ins>place</ins>
 <del>make</del> on each one a little circle of <span class="m">wax</span>, to make the
 gate thus</div>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p133r_1" class="fig-inline fig-small"><img src="../../images/p133r_1.png" alt="fig_p133r_1"/></span>
+</div>
 </div>
 <div class="entry" id="p133r_3" data-categories="casting">
 <h3 class="head " >Marks from the <span class="tl">points of <span class="m">iron wire</span></span> which are found
@@ -21953,9 +22059,14 @@ When they are thus fine, they are subject to burning, being put often
 in the <span class="tl">molds</span> for reheating. Therefore, use some new ones.</p>
 
 
-<span id="fig_p137r_1" class="fig-inline fig-x-small fig-margin fig-margin-left"><img src="../../images/p137r_1.png" alt="fig_p137r_1"/></span>
 
 
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p137r_1" class="fig-inline fig-x-small"><img src="../../images/p137r_1.png" alt="fig_p137r_1"/></span>
+</div>
 </div>
 <div class="entry" id="p137v_1" data-categories="casting">
 <a class="essay-marker" href="#essay-entry-p137v_1" title="See 1 essay on this entry">&#10022;&thinsp;1 essay</a>
@@ -22664,7 +22775,6 @@ folded &amp; curved it to hold the eggs. Other animals</p>
 
 
 
-<span id="fig_p141v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p141v_1.png" alt="fig_p141v_1"/></span>
 
 
 
@@ -22685,6 +22795,9 @@ folded &amp; curved it to hold the eggs. Other animals</p>
 <span class="margin-position">[left-middle]</span> Secure what will  detach itself,
 like the hairy brows near the mouth, with some <span class="m">melted
 wax</span> underneath.</div>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p141v_1" class="fig-inline fig-small"><img src="../../images/p141v_1.png" alt="fig_p141v_1"/></span>
+</div>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> Uncover the most that you can, but take
 heed that the notching that you make in the <span class="tl">mold</span> will release
@@ -22751,7 +22864,6 @@ without breaking.</p>
 
 
 
-<span id="fig_p142r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p142r_1.png" alt="fig_p142r_1"/></span>
 
 
 
@@ -22771,6 +22883,9 @@ without breaking.</p>
 Make all around them, as you see, a gate of <span class="m">wax</span>, &amp; at the end
 of the tail, also two or three, from which you make the principal
 gate.</div>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p142r_1" class="fig-inline fig-small"><img src="../../images/p142r_1.png" alt="fig_p142r_1"/></span>
+</div>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> Make a gate of <span class="m">wax</span>, elongated in
 a line like a <span class="m">thick thread</span>, all along the end of the legs &amp;
@@ -23076,12 +23191,10 @@ should be lower than the shell of the <del><span class="fr" >s</span></del>
 
 
 
-<span id="fig_p144r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p144r_1.png" alt="fig_p144r_1"/></span>
 
 
 
 
-<span id="fig_p144r_2" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p144r_2.png" alt="fig_p144r_2"/></span>
 
 
 
@@ -23090,11 +23203,17 @@ should be lower than the shell of the <del><span class="fr" >s</span></del>
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p144r_1" class="fig-inline fig-small"><img src="../../images/p144r_1.png" alt="fig_p144r_1"/></span>
+</div>
+<div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
 <em>
 
 animal eyes of my invention</em></div>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p144r_2" class="fig-inline fig-small"><img src="../../images/p144r_2.png" alt="fig_p144r_2"/></span>
+</div>
 </div>
 <div class="entry" id="p144r_1" data-categories="casting">
 <p class="ab" >having been thus arranged &amp; well cleaned with
@@ -23115,8 +23234,13 @@ malleable, like <span class="al">snakes</span> &amp; <span class="al">lizards</s
 <span class="m">Hot water</span> makes the <span class="m">tempered sand</span> <del>in <span class="m">water</span></del> set
 better on <span class="m">oil</span>, which otherwise would be refused.</p>
 
-<span id="fig_p144v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p144v_1.png" alt="fig_p144v_1"/></span>
 
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p144v_1" class="fig-inline fig-small"><img src="../../images/p144v_1.png" alt="fig_p144v_1"/></span>
+</div>
 </div>
 <div class="entry" id="p144r_1" data-categories="">
 <p class="ab" > Once your half of the
@@ -23149,7 +23273,6 @@ the belly &amp; of the throat, in the way that you uncover a
 beasts, which are molded in two halves.</p>
 
 
-<span id="fig_p144v_2" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p144v_2.png" alt="fig_p144v_2"/></span>
 
 
 
@@ -23161,6 +23284,9 @@ beasts, which are molded in two halves.</p>
 </div>
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p144v_2" class="fig-inline fig-small"><img src="../../images/p144v_2.png" alt="fig_p144v_2"/></span>
+</div>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -23492,12 +23618,10 @@ go, attach &amp; rejoin it to the <span class="tl">mold</span> with some <span c
 your <span class="tl">mold</span> can be seen thus.</p>
 
 
-<span id="fig_p146v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p146v_1.png" alt="fig_p146v_1"/></span>
 
 
 
 
-<span id="fig_p146v_2" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p146v_2.png" alt="fig_p146v_2"/></span>
 
 
 
@@ -23506,10 +23630,16 @@ your <span class="tl">mold</span> can be seen thus.</p>
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p146v_1" class="fig-inline fig-small"><img src="../../images/p146v_1.png" alt="fig_p146v_1"/></span>
+</div>
+<div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
 in such a way that only the entire belly shell be uncovered, to mold it
 alone</div>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p146v_2" class="fig-inline fig-small"><img src="../../images/p146v_2.png" alt="fig_p146v_2"/></span>
+</div>
 </div>
 <div class="entry" id="p146v_1" data-categories="casting">
 <p class="ab" >Take heed to make a border of <span class="m">melted wax</span>, with a <span class="tl">hot
@@ -24203,9 +24333,14 @@ chisels</span>,<sup class="comment-ref"><a href="#endnote-c_151v_01" id="ref-c_1
 &amp; <span class="tl">small serrated chisels</span>.</p>
 
 
-    <span id="fig_p151v_1" class="fig-inline fig-x-small fig-margin fig-margin-left"><img src="../../images/p151v_1.png" alt="fig_p151v_1"/></span>
+    
 
-
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p151v_1" class="fig-inline fig-x-small"><img src="../../images/p151v_1.png" alt="fig_p151v_1"/></span>
+</div>
 </div>
 <div class="entry" id="p151v_1" data-categories="casting">
 <h3 class="head " ><span class="m"><span class="pa">Wheat</span> oil</span> <span class="folio-range">fol. 151v</span></h3>
@@ -24362,25 +24497,9 @@ tools &amp; with the appropriate <span class="tl">small chisels</span>.</p>
 
 
 
-    <span id="fig_p152v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p152v_1.png" alt="fig_p152v_1"/></span>
+    
 
-
-
-
-
-
-
-
-
-    <span id="fig_p152v_2" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p152v_2.png" alt="fig_p152v_2"/></span>
-
-
-
-
-
-
-
-
+    
 
 </div>
 <div class="margin-notes">
@@ -24391,6 +24510,26 @@ tools &amp; with the appropriate <span class="tl">small chisels</span>.</p>
 For <span class="m">gold</span> &amp; small work, one needs to cement it on a ball of
 <span class="m">lead</span>, which will be placed on the <span class="tl">cushionet</span> &amp; will
 be held thus with the <span class="tl">rope</span>.</div>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p152v_1" class="fig-inline fig-small"><img src="../../images/p152v_1.png" alt="fig_p152v_1"/></span>
+
+
+
+
+
+
+
+</div>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p152v_2" class="fig-inline fig-small"><img src="../../images/p152v_2.png" alt="fig_p152v_2"/></span>
+
+
+
+
+
+
+
+</div>
 </div>
 <div class="entry" id="p153r_1" data-categories="casting">
 <h3 class="head " >Molding hollow for seals or other things <span class="folio-range">fol. 153r</span></h3>
@@ -24474,12 +24613,14 @@ or of <span class="tl"><span class="m"><span class="fr" >carton</span></span></s
 pin</span>.</p>
 
 
-    <span id="fig_p153v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p153v_1.png" alt="fig_p153v_1"/></span>
-
+    
 
 </div>
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p153v_1" class="fig-inline fig-small"><img src="../../images/p153v_1.png" alt="fig_p153v_1"/></span>
+</div>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -24732,7 +24873,6 @@ work soak in <span class="m">water</span> for a <span class="tmp">long time</spa
 the <span class="m">water</span>, the <span class="m">earth</span> is gone from it.</p>
 
 
-<span id="fig_p155r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p155r_1.png" alt="fig_p155r_1"/></span>
 
 
 
@@ -24743,6 +24883,9 @@ the <span class="m">water</span>, the <span class="m">earth</span> is gone from 
 </div>
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p155r_1" class="fig-inline fig-small"><img src="../../images/p155r_1.png" alt="fig_p155r_1"/></span>
+</div>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
@@ -25456,7 +25599,6 @@ not be easily released from it.<hr/>
 <span id="fig_p160r_1" class="fig-inline fig-default"><img src="../../images/p160r_1.png" alt="fig_p160r_1"/></span>
 
 
-<span id="fig_p160r_2" class="fig-inline fig-small fig-margin fig-margin-right"><img src="../../images/p160r_2.png" alt="fig_p160r_2"/></span>
 
     
 
@@ -25464,6 +25606,9 @@ not be easily released from it.<hr/>
 </div>
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="right-middle">
+<span class="margin-position">[right-middle]</span> <span id="fig_p160r_2" class="fig-inline fig-small"><img src="../../images/p160r_2.png" alt="fig_p160r_2"/></span>
+</div>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span>       
 The <span class="tl">screw</span> is riveted to this <span class="tl">stirrup</span>,<sup class="comment-ref"><a href="#endnote-c_160r_01" id="ref-c_160r_01-1">[666]</a></sup> which is
@@ -25950,9 +26095,14 @@ and fine, one throws on top <span class="m">vinegar</span>, <span class="m"><spa
 <span class="m">eau-de-vie</span> also.</p>
 
 
-<span id="fig_p163v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p163v_1.png" alt="fig_p163v_1"/></span>
 
 
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p163v_1" class="fig-inline fig-small"><img src="../../images/p163v_1.png" alt="fig_p163v_1"/></span>
+</div>
 </div>
 <div class="entry" id="p163v_3" data-categories="casting;tool">
 <h3 class="head " >Repairing <span class="folio-range">fol. 163v</span></h3>
@@ -26314,9 +26464,14 @@ of these some <span class="m">veins of wax</span>. Make sure also that under the
 there is enough <span class="m">wax</span>, for this is what makes the gate.</p>
 
 
-<span id="fig_p165v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p165v_1.png" alt="fig_p165v_1"/></span>
 
 
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p165v_1" class="fig-inline fig-small"><img src="../../images/p165v_1.png" alt="fig_p165v_1"/></span>
+</div>
 </div>
 <div class="entry" id="p165v_7" data-categories="casting">
 <h3 class="head " >Joining some <span class="al">fly</span> wing, or similar <span class="folio-range">fol. 165v</span></h3>
@@ -26546,7 +26701,6 @@ something like a cocoon or</p>
 
 </div>
 <div class="entry" id="p167r_1" data-categories="arms and armor">
-<span id="fig_p168r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p168r_1.png" alt="fig_p168r_1"/></span>
 
 
 <p class="ab" >a <span class="tl">peg</span> which one puts into the touch-hole, &amp; then, with
@@ -26601,6 +26755,12 @@ from recoiling.</p>
 
 
 
+</div>
+<div class="margin-notes">
+<p class="margin-notes-header">in margin:</p>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p168r_1" class="fig-inline fig-small"><img src="../../images/p168r_1.png" alt="fig_p168r_1"/></span>
+</div>
 </div>
 <div class="entry" id="p167r_1" data-categories="arms and armor">
 <p class="ab" >G. <span class="wp">Petard</span><sup class="comment-ref"><a href="#endnote-c_008r_04" id="ref-c_008r_04-10">[121]</a></sup> with ear,<sup class="comment-ref"><a href="#endnote-c_168v_01" id="ref-c_168v_01-2">[727]</a></sup> placed with its
@@ -26870,8 +27030,7 @@ you will be able to mix there some works of <span class="m">sugar</span>,</p>
 
 
 
-    <span id="fig_p169v_3" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p169v_3.png" alt="fig_p169v_3"/></span>
-
+    
 
 
 
@@ -26892,6 +27051,9 @@ a little <span class="m">oiled</span>, to pull it out better.</div>
 
 <span class="m">Transparent wax</span> is not good, but rather the one which has body,
 to make an imprint well.</div>
+<div class="margin-note" data-position="left-middle">
+<span class="margin-position">[left-middle]</span> <span id="fig_p169v_3" class="fig-inline fig-small"><img src="../../images/p169v_3.png" alt="fig_p169v_3"/></span>
+</div>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 

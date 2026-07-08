@@ -957,11 +957,16 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
                 #   render: "tall" -> tighter height cap
                 size = elem.get("size", "") or "default"
                 margin_attr = elem.get("margin", "")
+                # A figure whose margin attribute places it in the manuscript's
+                # margin, but which is not already inside margin content, is
+                # hoisted into the entry's margin-note block (see below) rather
+                # than floated in the running text, where it would overlay it.
+                hoist_to_margin = bool(margin_attr) and margin_notes is not None
                 classes = f"fig-inline fig-{size}"
-                if margin_attr:
+                if margin_attr and not hoist_to_margin:
                     side = "left" if margin_attr.startswith("left") else "right"
                     classes += f" fig-margin fig-margin-{side}"
-                elif figure_in_text_flow(elem) and size != "large":
+                elif not margin_attr and figure_in_text_flow(elem) and size != "large":
                     # figure occurs mid-text with no placement info: keep it
                     # in the line (large figures still break out as blocks)
                     classes += " fig-intext"
@@ -991,6 +996,18 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
         
         if figures is None:
             html += '</div>\n'
+
+        # A margin figure outside margin content becomes its own margin note,
+        # keeping it out of the running text (margin <ab> content passes
+        # margin_notes=None, so figures already in a margin note stay put).
+        margin_attr = elem.get("margin", "")
+        if margin_attr and margin_notes is not None:
+            note = f'<div class="margin-note" data-position="{escape_html(margin_attr)}">\n'
+            note += f'<span class="margin-position">[{escape_html(margin_attr)}]</span> '
+            note += html
+            note += '</div>\n'
+            margin_notes.append(note)
+            return escape_html(tail) if tail else ""
 
         if tail:
             html += escape_html(tail)
@@ -1120,6 +1137,20 @@ def get_css(render_semantic=False):
     .fig-inline.fig-intext.fig-default img { max-height: 1.25in; max-width: 2.5in; }
     .fig-inline.fig-margin {
         display: block;
+        max-width: 2.4in;
+    }
+    /* A margin figure must never paint outside its float box: text wraps
+       around the box, so an image wider than it would cover that text.
+       Size caps live on the <img>, so clamp the image to the box and cap
+       box-width per size (unset size would otherwise give a 3.5in image). */
+    .fig-inline.fig-margin img {
+        max-width: 100%;
+    }
+    .fig-inline.fig-margin.fig-x-small {
+        max-width: 1.4in;
+    }
+    .fig-inline.fig-margin.fig-default,
+    .fig-inline.fig-margin.fig-large {
         max-width: 2.4in;
     }
     .fig-inline.fig-margin-right {
