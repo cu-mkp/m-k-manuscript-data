@@ -907,7 +907,9 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
 
     elif tag == "exp":
 
-        html = '<span class="exp">'
+        # editorial expansion of a scribal abbreviation: marked with braces,
+        # e.g. M{estr}e
+        html = '<span class="exp">{'
 
         if text:
 
@@ -917,7 +919,7 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
 
             html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
 
-        html += '</span>'
+        html += '}</span>'
 
         if tail:
 
@@ -1416,8 +1418,9 @@ def get_css(render_semantic=False):
         border-bottom: 1px dotted #999;
     }
 
+    /* Editorial expansion of an abbreviation: marked with braces in the text
+       (see the exp branch); inherits the surrounding style. */
     .exp {
-        font-style: normal;
     }
 
     .corr {
