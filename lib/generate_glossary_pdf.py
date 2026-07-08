@@ -128,13 +128,21 @@ def entry_html(entry, known):
             f'{head}{alt}{mod}{mod_punct}{pos_str} {meanings}{tail}</p>\n')
 
 
+# Ligatures index under their leading base letter (Œillet under O, not Œ):
+# the ligature is not a distinct alphabetic section.
+SECTION_LETTER = {'Œ': 'O', 'Æ': 'A'}
+
+def section_letter(head_word):
+    first = head_word[0].upper()
+    return SECTION_LETTER.get(first, first)
+
 def build_html(entries):
     known = {e['headWord'].casefold(): e['headWord'] for e in entries.values()}
 
     body = ''
     seen_letters = set()
     for entry in entries.values():
-        letter = entry['headWord'][0].upper()
+        letter = section_letter(entry['headWord'])
         if letter not in seen_letters:
             seen_letters.add(letter)
             body += (f'<h2 class="letter-head" id="letter-{escape_html(letter)}">'
