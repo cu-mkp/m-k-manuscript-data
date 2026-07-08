@@ -27,7 +27,34 @@ import branding
 # generated apparatus (titles, index headings, notes) is written.
 # tl  = English translation; tc = diplomatic French transcription;
 # tcn = normalized French transcription.
-VERSION_LANG = {'tl': 'en', 'tc': 'fr', 'tcn': 'fr'}
+# Apparatus language — the language of generated text (titles, index headings,
+# notes, "essays", margin labels). tcn uses English apparatus by request.
+VERSION_LANG = {'tl': 'en', 'tc': 'fr', 'tcn': 'en'}
+
+# Body-content language, for the html lang attribute (hyphenation/accessibility):
+# the tcn/tc body is Middle French even when its apparatus is English.
+CONTENT_LANG = {'tl': 'en', 'tc': 'fr', 'tcn': 'fr'}
+
+# Document-identity strings: which version this is. Worded to match the
+# apparatus language but independent of it, so tcn can read as a transcription
+# in English rather than inheriting tl's "Translation".
+VERSION_LABELS = {
+    'tl': {
+        'text_section': 'Translation',
+        'subtitle': 'BnF Ms. Fr. 640 &mdash; English Translation',
+        'title_page_subtitle': 'A Digital Critical Edition and English Translation of BnF Ms. Fr. 640',
+    },
+    'tc': {
+        'text_section': 'Transcription diplomatique',
+        'subtitle': 'BnF Ms. Fr. 640 &mdash; Transcription diplomatique',
+        'title_page_subtitle': 'Édition critique numérique du BnF Ms. Fr. 640 &mdash; transcription diplomatique',
+    },
+    'tcn': {
+        'text_section': 'Normalized Transcription',
+        'subtitle': 'BnF Ms. Fr. 640 &mdash; Normalized Transcription',
+        'title_page_subtitle': 'A Digital Critical Edition of BnF Ms. Fr. 640 &mdash; Normalized Transcription',
+    },
+}
 
 LABELS = {
     'en': {
@@ -135,11 +162,16 @@ LANG = 'en'
 L = LABELS['en']
 TAG_INDEX_TYPES = dict(TAG_LABELS['en'])
 
+# Body-content language of the version being rendered (for html lang).
+CONTENT_LANG_CUR = 'en'
+
 def set_language(version):
-    """Point the module's label tables at the language of this version."""
-    global LANG, L
+    """Point the module's label tables at the apparatus language of this version,
+    overlaying the version's document-identity strings."""
+    global LANG, L, CONTENT_LANG_CUR
     LANG = VERSION_LANG.get(version, 'en')
-    L = LABELS[LANG]
+    CONTENT_LANG_CUR = CONTENT_LANG.get(version, LANG)
+    L = {**LABELS[LANG], **VERSION_LABELS.get(version, {})}
     TAG_INDEX_TYPES.clear()
     TAG_INDEX_TYPES.update(TAG_LABELS[LANG])
 
@@ -1776,7 +1808,7 @@ def xml_to_html(xml_file, output_html, render_semantic=False, render_figures=Fal
             endnotes_html += '\n</div>\n'
         endnotes_html += '</div>\n'
     html = f"""<!DOCTYPE html>
-<html lang="{LANG}">
+<html lang="{CONTENT_LANG_CUR}">
 <head>
     <meta charset="UTF-8">
     <title>BnF Ms. Fr. 640 &mdash; {L["text_section"]}</title>
