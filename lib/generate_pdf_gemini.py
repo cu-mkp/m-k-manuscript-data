@@ -16,6 +16,8 @@ from pathlib import Path
 import urllib.request
 from collections import defaultdict
 
+import branding
+
 
 # ==============================================================================
 # VERSIONS AND LABELS
@@ -184,8 +186,11 @@ def create_title_page_html():
     """
     Creates the HTML for a title page.
     """
+    # output lives in allFolios/pdf/, so lib/assets is two levels up
+    assets = '../../lib/assets'
     html = f"""
     <div class="title-page">
+        {branding.header_html(assets, LANG)}
         <h1>Secrets of Craft and Nature in Renaissance France</h1>
         <h2>{L["title_page_subtitle"]}</h2>
         <div class="publishers">
@@ -196,6 +201,7 @@ def create_title_page_html():
             <p>{L["publication"]}</p>
             <p><a href="https://edition640.makingandknowing.org">https://edition640.makingandknowing.org</a></p>
         </div>
+        {branding.footer_html(assets, LANG)}
     </div>
     """
     return html
@@ -1689,6 +1695,7 @@ def get_css(render_semantic=False):
         css = base_css + semantic_css
     else:
         css = base_css
+    css += branding.CSS
     return css.replace('__TEXT_SECTION__', L['text_section'])
 
 def load_comments(csv_file):

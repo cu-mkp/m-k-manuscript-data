@@ -23,6 +23,7 @@ import re
 import sys
 from pathlib import Path
 
+import branding
 from generate_pdf_gemini import escape_html, html_to_pdf
 
 
@@ -171,10 +172,12 @@ p.gloss-entry {{
 .head-word {{ font-weight: bold; }}
 .xref-arrow {{ color: #792421; font-family: "Helvetica Neue", "Arial", sans-serif; }}
 a {{ color: #792421; text-decoration: none; }}
+{branding.CSS}
 </style>
 </head>
 <body>
 <div class="title-page">
+    {branding.header_html('../lib/assets', 'en')}
     <h1>Glossary</h1>
     <h2>Secrets of Craft and Nature in Renaissance France<br/>
         A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</h2>
@@ -186,6 +189,7 @@ a {{ color: #792421; text-decoration: none; }}
         Tillmann Taape, Cl&eacute;ment Godbarge, Sophie Pitman, Jenny Boulboull&eacute;, Joel Klein,
         Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020.
         <a href="https://edition640.makingandknowing.org/#/folios/1r/f/1r/glossary">https://edition640.makingandknowing.org/#/folios/1r/f/1r/glossary</a>.</p>
+    {branding.footer_html('../lib/assets', 'en')}
 </div>
 <p class="letter-links">{letter_links}</p>
 {body}

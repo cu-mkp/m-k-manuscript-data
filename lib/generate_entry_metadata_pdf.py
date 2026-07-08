@@ -22,6 +22,7 @@ import sys
 from collections import Counter
 from pathlib import Path
 
+import branding
 from generate_pdf_gemini import (
     ENTRY_FOLIOS,
     TAG_INDEX_TYPES,
@@ -152,10 +153,12 @@ p.essays a {{ color: #792421; }}
 .tag-type {{ font-family: "Helvetica Neue", "Arial", "DejaVu Sans", sans-serif; font-size: 8pt; color: #792421; }}
 a {{ color: inherit; text-decoration: none; }}
 h2.entry-heading a {{ color: #792421; }}
+{branding.CSS}
 </style>
 </head>
 <body>
 <div class="title-page">
+    {branding.header_html('../lib/assets', 'en')}
     <h1>Entry Metadata</h1>
     <h2>Secrets of Craft and Nature in Renaissance France<br/>
         A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</h2>
@@ -165,6 +168,7 @@ h2.entry-heading a {{ color: #792421; }}
         research essays (linked to the online edition), and its tagged terms
         grouped by semantic tag type &mdash; deduplicated, with occurrence counts &mdash; from the
         translation. Source: metadata/entry_metadata.csv.</p>
+    {branding.footer_html('../lib/assets', 'en')}
 </div>
 {body}
 </body>
