@@ -1,0 +1,70 @@
+==============================================================================
+GLYPHS BY FONT  (fallback fonts reveal silent substitution)
+==============================================================================
+
+  Georgia  (631363 glyphs, 530 pages)
+    ' 'x116929 'e'x60967 't'x50935 'o'x38528 'i'x36474 'a'x34268 'n'x30614 'h'x30023 's'x28401 'r'x28114 'l'x24186 'd'x16691
+
+  Georgia-Italic  (288780 glyphs, 663 pages)
+    ' 'x42265 'e'x20159 'r'x19844 'o'x14589 'i'x14508 'a'x14258 'n'x13206 't'x13147 's'x11502 'l'x10356 '1'x8255 ','x7901
+
+  Georgia-Bold  (27068 glyphs, 520 pages)
+    ' 'x2606 'e'x1459 'o'x1411 'n'x1363 'a'x1271 'i'x1231 'r'x1212 'L'x1099 'E'x1091 'D'x1023 't'x1004 's'x989
+
+  Georgia-Bold-Italic  (12195 glyphs, 207 pages)
+    ' 'x1140 '['x746 ']'x746 'o'x666 'r'x527 'l'x499 'e'x482 'n'x450 'a'x415 'i'x393 '1'x391 's'x358
+
+  Helvetica-Neue  (9742 glyphs, 439 pages)
+    ' 'x1128 'f'x928 'o'x928 'l'x928 '.'x928 '1'x797 'v'x513 'r'x497 's'x421 '6'x233 '4'x228 '3'x227
+
+  Verdana-Italic  (6674 glyphs, 90 pages)
+    '_'x1482 '0'x1273 '1'x777 'c'x740 'r'x411 'v'x331 '2'x329 '3'x257 '6'x250 '4'x221 '5'x215 '7'x154
+    distinct: U+0030 DIGIT ZERO; U+0031 DIGIT ONE; U+0032 DIGIT TWO; U+0033 DIGIT THREE; U+0034 DIGIT FOUR; U+0035 DIGIT FIVE; U+0036 DIGIT SIX; U+0037 DIGIT SEVEN; U+0038 DIGIT EIGHT; U+0039 DIGIT NINE; U+005F LOW LINE; U+0063 LATIN SMALL LETTER C; U+0070 LATIN SMALL LETTER P; U+0072 LATIN SMALL LETTER R; U+0076 LATIN SMALL LETTER V
+
+  DejaVu-Sans  (1493 glyphs, 318 pages)
+    '↩'x991 '✦'x207 '℥'x72 '0'x44 '_'x34 '☿'x26 '1'x24 'c'x17 'r'x17 '\u2002'x12 '☾'x11 '℞'x8
+    distinct: U+0030 DIGIT ZERO; U+0031 DIGIT ONE; U+0032 DIGIT TWO; U+0033 DIGIT THREE; U+0034 DIGIT FOUR; U+0035 DIGIT FIVE; U+0036 DIGIT SIX; U+0037 DIGIT SEVEN; U+0038 DIGIT EIGHT; U+0039 DIGIT NINE; U+005F LOW LINE; U+0063 LATIN SMALL LETTER C; U+0072 LATIN SMALL LETTER R; U+211E PRESCRIPTION TAKE; U+2125 OUNCE SIGN; U+21A9 LEFTWARDS ARROW WITH HOOK; U+25EF LARGE CIRCLE; U+2600 BLACK SUN WITH RAYS; U+2609 SUN; U+263E LAST QUARTER MOON; U+263F MERCURY; U+2641 EARTH; U+2726 BLACK FOUR POINTED STAR
+
+  Times-New-Roman,-Italic  (11 glyphs, 6 pages)
+    'ʒ'x4 '\u2002'x3 '☼'x2 'ὗ'x1 '♀'x1
+    distinct: U+0292 LATIN SMALL LETTER EZH; U+1F57 GREEK SMALL LETTER UPSILON WITH DASIA AND PERISPOMENI; U+263C WHITE SUN WITH RAYS; U+2640 FEMALE SIGN
+
+  Times-New-Roman,  (10 glyphs, 4 pages)
+    'ʘ'x4 '☼'x3 '♀'x2 'ʒ'x1
+    distinct: U+0292 LATIN SMALL LETTER EZH; U+0298 LATIN LETTER BILABIAL CLICK; U+263C WHITE SUN WITH RAYS; U+2640 FEMALE SIGN
+
+  Noto-Sans-Symbols  (6 glyphs, 5 pages)
+    '🝋'x4 '🜊'x2
+    distinct: U+1F70A ALCHEMICAL SYMBOL FOR VINEGAR; U+1F74B ALCHEMICAL SYMBOL FOR POWDER
+
+  DejaVu-Sans-Bold  (3 glyphs, 3 pages)
+    '☀'x2 '☾'x1
+    distinct: U+2600 BLACK SUN WITH RAYS; U+263E LAST QUARTER MOON
+
+  Times-New-Roman,-Bold  (1 glyphs, 1 pages)
+    '☼'x1
+    distinct: U+263C WHITE SUN WITH RAYS
+
+==============================================================================
+RASTER IMAGES — 165 placements
+==============================================================================
+  below 300 PPI: 123 of 165
+  min=96  median=199  max=2650 PPI
+    p.433  123x230px placed 92.2pt wide -> 96 PPI
+    p.77   161x227px placed 120.8pt wide -> 96 PPI
+    p.95   104x166px placed 78.0pt wide -> 96 PPI
+    p.143  117x261px placed 87.8pt wide -> 96 PPI
+    p.145  92x215px placed 69.0pt wide -> 96 PPI
+    p.179  113x171px placed 84.8pt wide -> 96 PPI
+    p.199  83x71px placed 62.2pt wide -> 96 PPI
+    p.241  214x552px placed 160.5pt wide -> 96 PPI
+    p.305  223x396px placed 167.2pt wide -> 96 PPI
+    p.339  89x50px placed 66.8pt wide -> 96 PPI
+    p.347  73x58px placed 54.8pt wide -> 96 PPI
+    p.347  59x57px placed 44.2pt wide -> 96 PPI
+
+==============================================================================
+CONTENT OVERFLOW — 0 occurrences
+==============================================================================
+   {}
+  pages affected: 0  first 20: []
