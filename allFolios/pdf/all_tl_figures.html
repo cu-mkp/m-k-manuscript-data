@@ -71,39 +71,44 @@
         margin: 0.8em 0 0.2em 0;
     }
     /* Inline figures (--figures mode) */
-    a.fig-inline {
+    .fig-inline {
         display: block;
         text-align: center;
         margin: 8pt auto;
         break-inside: avoid;
     }
-    a.fig-inline img {
+    .fig-inline img {
         max-height: 7.5in;
         max-width: 100%;
     }
-    a.fig-inline.fig-x-small img { max-width: 1.4in; }
-    a.fig-inline.fig-small img { max-width: 2.4in; }
-    a.fig-inline.fig-default img { max-width: 3.5in; }
-    a.fig-inline.fig-large img { max-width: 100%; }
-    a.fig-inline.fig-tall img { max-height: 5in; }
-    a.fig-inline.fig-intext {
+    .fig-inline.fig-x-small img { max-width: 1.4in; }
+    .fig-inline.fig-small img { max-width: 2.4in; }
+    .fig-inline.fig-default img { max-width: 3.5in; }
+    .fig-inline.fig-large img { max-width: 100%; }
+    .fig-inline.fig-tall img { max-height: 5in; }
+    .figure-missing {
+        font-style: italic;
+        color: #777;
+    }
+
+    .fig-inline.fig-intext {
         display: inline-block;
         vertical-align: middle;
         margin: 0 3pt;
     }
-    a.fig-inline.fig-intext.fig-x-small img { max-height: 0.75in; max-width: 1.8in; }
-    a.fig-inline.fig-intext.fig-small img { max-height: 1.25in; max-width: 2.5in; }
-    a.fig-inline.fig-intext.fig-default img { max-height: 1.25in; max-width: 2.5in; }
-    a.fig-inline.fig-margin {
+    .fig-inline.fig-intext.fig-x-small img { max-height: 0.75in; max-width: 1.8in; }
+    .fig-inline.fig-intext.fig-small img { max-height: 1.25in; max-width: 2.5in; }
+    .fig-inline.fig-intext.fig-default img { max-height: 1.25in; max-width: 2.5in; }
+    .fig-inline.fig-margin {
         display: block;
         max-width: 2.4in;
     }
-    a.fig-inline.fig-margin-right {
+    .fig-inline.fig-margin-right {
         float: right;
         clear: right;
         margin: 2pt 0 6pt 10pt;
     }
-    a.fig-inline.fig-margin-left {
+    .fig-inline.fig-margin-left {
         float: left;
         clear: left;
         margin: 2pt 10pt 6pt 0;
@@ -235,7 +240,7 @@
         color: #34495e;
     }
 
-    /* Transcription elements */
+    /* Transcription (source-text) elements */
     em {
         font-style: italic;
     }
@@ -437,18 +442,17 @@
     <div class="toc" style="page-break-after: always;">
         <h2>Table of Contents</h2>
         <ul>
-            <li><a href="#transcription">Transcription</a></li>
+            <li><a href="#translation">Translation</a></li>
             <li><a href="#endnotes">Endnotes</a></li>
             <li><a href="#back-of-book-index">Index of Categories</a></li>
             <li><a href="#tag-index">Index of Tags</a></li>
             <li><a href="#essay-index">Index of Essays</a></li>
-            <li><a href="#list-of-figures">List of Figures</a></li>
         </ul>
     </div>
     
     <h1>Secrets of Craft and Nature in Renaissance France</h1>
-    <h3>BnF Ms. Fr. 640 - English Translation</h3>
-    <div class="manuscript" id="transcription">
+    <h3>BnF Ms. Fr. 640 &mdash; English Translation</h3>
+    <div class="manuscript" id="translation">
 <div class="entry" id="p001r_1" data-categories="lists">
 <a class="essay-marker" href="#essay-entry-p001r_1" title="See 2 essays on this entry">&#10022;&thinsp;2 essays</a>
 <h3 class="head minor-head left-middle" ><sup>List of names</sup> <span class="folio-range">fol. 1r</span></h3>
@@ -991,7 +995,7 @@ will cost you no more than five or six <span class="cn">sous</span> per
 <span class="ms">lb</span>.</p>
 
 
-<a id="fig_p003v_1" class="fig-inline fig-default" href="#figure-list-fig_p003v_1"><img src="../../images/p003v_1.png" alt="fig_p003v_1"/></a>
+<span id="fig_p003v_1" class="fig-inline fig-default"><img src="../../images/p003v_1.png" alt="fig_p003v_1"/></span>
 
 
 
@@ -1418,7 +1422,7 @@ the said <span class="tl">furnace</span>.</p>
 
 </div>
 <div class="entry" id="p006v_1" data-categories="">
-<a id="fig_p006v_1" class="fig-inline fig-default" href="#figure-list-fig_p006v_1"><img src="../../images/p006v_1.png" alt="fig_p006v_1"/></a>
+<span id="fig_p006v_1" class="fig-inline fig-default"><img src="../../images/p006v_1.png" alt="fig_p006v_1"/></span>
 
 
 
@@ -2476,7 +2480,7 @@ has <span class="m">saltpeter</span> in it. That is why, when they fall down,
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
-<span class="margin-position">[left-middle]</span> A<a id="fig_p014r_1" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p014r_1"><img src="../../images/p014r_1.png" alt="fig_p014r_1"/></a>
+<span class="margin-position">[left-middle]</span> A<span id="fig_p014r_1" class="fig-inline fig-small fig-intext"><img src="../../images/p014r_1.png" alt="fig_p014r_1"/></span>
 </div>
 </div>
 <div class="entry" id="" data-categories="">
@@ -2675,7 +2679,7 @@ contains <span class="ms">one &amp; a half quintal</span>, &amp; the
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
-<span class="margin-position">[left-middle]</span> <a id="fig_p016r_1" class="fig-inline fig-large" href="#figure-list-fig_p016r_1"><img src="../../images/p016r_1.png" alt="fig_p016r_1"/></a>
+<span class="margin-position">[left-middle]</span> <span id="fig_p016r_1" class="fig-inline fig-large"><img src="../../images/p016r_1.png" alt="fig_p016r_1"/></span>
 </div>
 <div class="margin-note" data-position="right-middle">
 <span class="margin-position">[right-middle]</span> 
@@ -3295,7 +3299,7 @@ which are <del>or</del> appropriate for an assault, both outside &amp;
 inside the place. They are founded separately as if to serve for uses
 other than <span class="wp">orgues</span>. See the 4th leaf following, marked
 
-    <a id="fig_p019r_1" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p019r_1"><img src="../../images/p019r_1.png" alt="fig_p019r_1"/></a>
+    <span id="fig_p019r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p019r_1.png" alt="fig_p019r_1"/></span>
 <sup class="comment-ref"><a href="#endnote-c_019r_02" id="ref-c_019r_02-1">[173]</a></sup>
 
 </p>
@@ -3354,7 +3358,7 @@ fold your <span class="m">paper</span> such that the fold <del><span class="fr" 
 you a straight line, at the <span class="ms">required distance</span> from which, trace
 a point <del>&amp; a</del> or a line &amp; saturate it well with
 <span class="m">ink</span>. Then fold again the <span class="m">paper</span> &amp; rub it on the back
-    &amp; <a id="fig_p019v_1" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p019v_1"><img src="../../images/p019v_1.png" alt="fig_p019v_1"/></a>
+    &amp; <span id="fig_p019v_1" class="fig-inline fig-small fig-intext"><img src="../../images/p019v_1.png" alt="fig_p019v_1"/></span>
  it will print however much you have made. In that way <del>the <span class="fr" >
 l</span></del>, A is the line without <span class="m">ink</span> which the <span class="m">paper</span>
 fold gives you, B is the line you have traced, C is the one which is
@@ -3362,13 +3366,13 @@ printed.<br/>
 
 
 
-    <a id="fig_p019v_2" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p019v_2"><img src="../../images/p019v_2.png" alt="fig_p019v_2"/></a>
+    <span id="fig_p019v_2" class="fig-inline fig-small fig-intext"><img src="../../images/p019v_2.png" alt="fig_p019v_2"/></span>
 
 
-    <a id="fig_p019v_3" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p019v_3"><img src="../../images/p019v_3.png" alt="fig_p019v_3"/></a>
+    <span id="fig_p019v_3" class="fig-inline fig-small fig-intext"><img src="../../images/p019v_3.png" alt="fig_p019v_3"/></span>
 
 
-    <a id="fig_p019v_4" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p019v_4"><img src="../../images/p019v_4.png" alt="fig_p019v_4"/></a>
+    <span id="fig_p019v_4" class="fig-inline fig-small fig-intext"><img src="../../images/p019v_4.png" alt="fig_p019v_4"/></span>
 
 
 </p>
@@ -3414,7 +3418,7 @@ it always causes <span class="bp">wind</span> at the end.</p>
 </div>
 <div class="entry" id="p020r_1" data-categories="household and daily life">
 <a class="essay-marker" href="#essay-entry-p020r_1" title="See 1 essay on this entry">&#10022;&thinsp;1 essay</a>
-<h3 class="head " ><sup class="comment-ref"><a href="#endnote-c_020r_01" id="ref-c_020r_01-1">[176]</a></sup>For making <span class="m"><span class="oc" >millas</span></span> <a id="fig_p020r_1" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p020r_1"><img src="../../images/p020r_1.png" alt="fig_p020r_1"/></a> <span class="folio-range">fol. 20r</span></h3>
+<h3 class="head " ><sup class="comment-ref"><a href="#endnote-c_020r_01" id="ref-c_020r_01-1">[176]</a></sup>For making <span class="m"><span class="oc" >millas</span></span> <span id="fig_p020r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p020r_1.png" alt="fig_p020r_1"/></span> <span class="folio-range">fol. 20r</span></h3>
 
 
 <p class="ab" >It is necessary to have <span class="m"><span class="pa">millet</span></span> pilled to remove the
@@ -3687,7 +3691,7 @@ violence.</p>
    
 
 
-<p class="ab" ><a id="fig_p022r_1" class="fig-inline fig-large" href="#figure-list-fig_p022r_1"><img src="../../images/p022r_1.png" alt="fig_p022r_1"/></a>
+<p class="ab" ><span id="fig_p022r_1" class="fig-inline fig-large"><img src="../../images/p022r_1.png" alt="fig_p022r_1"/></span>
 </p>
 
 
@@ -3706,7 +3710,7 @@ follows.</div>
     
 <p class="ab" >Then one mounts them on a medium thick board close to 
 one<del><span class="fr" >g</span></del><sup class="comment-ref"><a href="#endnote-c_022v_08" id="ref-c_022v_08-1">[181]</a></sup> another &amp; one makes
-    notches on the board this way <a id="fig_p022v_2" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p022v_2"><img src="../../images/p022v_2.png" alt="fig_p022v_2"/></a>
+    notches on the board this way <span id="fig_p022v_2" class="fig-inline fig-small fig-intext"><img src="../../images/p022v_2.png" alt="fig_p022v_2"/></span>
  &amp; through these notches one passes the hook of the <span class="wp">arquebus</span> which
 has a hole through which one passes <span class="tl"><span class="m">iron</span> pegs</span> from under
 the board. Then, when one wants to aim it, one mounts the middle one
@@ -3750,7 +3754,7 @@ for an entry, than for ordinary business. One calls<sup class="comment-ref"><a h
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
-<span class="margin-position">[left-middle]</span> <a id="fig_p022v_1" class="fig-inline fig-x-small fig-margin fig-margin-left" href="#figure-list-fig_p022v_1"><img src="../../images/p022v_1.png" alt="fig_p022v_1"/></a>
+<span class="margin-position">[left-middle]</span> <span id="fig_p022v_1" class="fig-inline fig-x-small fig-margin fig-margin-left"><img src="../../images/p022v_1.png" alt="fig_p022v_1"/></span>
 <sup class="comment-ref"><a href="#endnote-c_022v_01" id="ref-c_022v_01-1">[180]</a></sup></div>
 </div>
 <div class="entry" id="p023r_1" data-categories="arms and armor">
@@ -3802,7 +3806,7 @@ completely with good</p>
 
 .
 
-<a id="fig_p023r_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p023r_1"><img src="../../images/p023r_1.png" alt="fig_p023r_1"/></a>
+<span id="fig_p023r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p023r_1.png" alt="fig_p023r_1"/></span>
 
 
 
@@ -3874,7 +3878,7 @@ also.</p>
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
-<span class="margin-position">[left-middle]</span> <a id="fig_p023v_1" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p023v_1"><img src="../../images/p023v_1.png" alt="fig_p023v_1"/></a>
+<span class="margin-position">[left-middle]</span> <span id="fig_p023v_1" class="fig-inline fig-small fig-intext"><img src="../../images/p023v_1.png" alt="fig_p023v_1"/></span>
 </div>
 </div>
 <div class="entry" id="p023v_1" data-categories="arms and armor">
@@ -4153,7 +4157,7 @@ restrained, it goes sideways &amp; makes the <span class="wp">piece</span> break
 
 
 
-    <a id="fig_p026r_1" class="fig-inline fig-large" href="#figure-list-fig_p026r_1"><img src="../../images/p026r_1.png" alt="fig_p026r_1"/></a>
+    <span id="fig_p026r_1" class="fig-inline fig-large"><img src="../../images/p026r_1.png" alt="fig_p026r_1"/></span>
 
 
 
@@ -4188,7 +4192,7 @@ more of an effect. One holds that, once loaded &amp; kept in a <span class="env"
 for fifteen <span class="tmp">days</span>, they have more force.</p>
 
 
-    <a id="fig_p026r_2" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p026r_2"><img src="../../images/p026r_2.png" alt="fig_p026r_2"/></a>
+    <span id="fig_p026r_2" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p026r_2.png" alt="fig_p026r_2"/></span>
 
 
 
@@ -4203,7 +4207,7 @@ for fifteen <span class="tmp">days</span>, they have more force.</p>
 <h3 class="head " ><span class="wp">Culverin</span> ball <span class="folio-range">fol. 26v</span></h3>
 
 
-    <a id="fig_p026v_1" class="fig-inline fig-large" href="#figure-list-fig_p026v_1"><img src="../../images/p026v_1.png" alt="fig_p026v_1"/></a>
+    <span id="fig_p026v_1" class="fig-inline fig-large"><img src="../../images/p026v_1.png" alt="fig_p026v_1"/></span>
 
 
 
@@ -4216,7 +4220,7 @@ for fifteen <span class="tmp">days</span>, they have more force.</p>
 <h3 class="head " ><span class="wp"><span class="fr" >Bastarde</span></span> ball <span class="folio-range">fol. 27r</span></h3>
 
 
-<a id="fig_p027r_1" class="fig-inline fig-large" href="#figure-list-fig_p027r_1"><img src="../../images/p027r_1.png" alt="fig_p027r_1"/></a>
+<span id="fig_p027r_1" class="fig-inline fig-large"><img src="../../images/p027r_1.png" alt="fig_p027r_1"/></span>
 
 
 </div>
@@ -4224,7 +4228,7 @@ for fifteen <span class="tmp">days</span>, they have more force.</p>
 <h3 class="head " ><span class="wp">Medium</span> ball <span class="folio-range">fol. 27r</span></h3>
 
     
-<a id="fig_p027r_2" class="fig-inline fig-default" href="#figure-list-fig_p027r_2"><img src="../../images/p027r_2.png" alt="fig_p027r_2"/></a>
+<span id="fig_p027r_2" class="fig-inline fig-default"><img src="../../images/p027r_2.png" alt="fig_p027r_2"/></span>
 
 
 </div>
@@ -4232,7 +4236,7 @@ for fifteen <span class="tmp">days</span>, they have more force.</p>
 <h3 class="head minor-head right-top" ><span class="wp">Field piece</span> <span class="folio-range">fol. 27r</span></h3>
 
     
-<a id="fig_p027r_3" class="fig-inline fig-default fig-margin fig-margin-right" href="#figure-list-fig_p027r_3"><img src="../../images/p027r_3.png" alt="fig_p027r_3"/></a>
+<span id="fig_p027r_3" class="fig-inline fig-default fig-margin fig-margin-right"><img src="../../images/p027r_3.png" alt="fig_p027r_3"/></span>
 
 
 </div>
@@ -4240,7 +4244,7 @@ for fifteen <span class="tmp">days</span>, they have more force.</p>
 <h3 class="head " ><span class="wp">Falconet</span> <span class="folio-range">fol. 27v</span></h3>
 
     
-<a id="fig_p027v_1" class="fig-inline fig-default" href="#figure-list-fig_p027v_1"><img src="../../images/p027v_1.png" alt="fig_p027v_1"/></a>
+<span id="fig_p027v_1" class="fig-inline fig-default"><img src="../../images/p027v_1.png" alt="fig_p027v_1"/></span>
 
 
 </div>
@@ -4254,7 +4258,7 @@ alternatively <span class="wp">passe-<br/>
 volant</span>, is 8 <span class="ms"><span class="fr" >pans</span></span> long <span class="folio-range">fol. 27v</span></h3>
 
 
-<a id="fig_p027v_2" class="fig-inline fig-default fig-margin fig-margin-right" href="#figure-list-fig_p027v_2"><img src="../../images/p027v_2.png" alt="fig_p027v_2"/></a>
+<span id="fig_p027v_2" class="fig-inline fig-default fig-margin fig-margin-right"><img src="../../images/p027v_2.png" alt="fig_p027v_2"/></span>
 
 
 </div>
@@ -4266,7 +4270,7 @@ is 9 <span class="ms"><span class="fr" >pans</span></span><br/>
 long <span class="folio-range">fol. 27v</span></h3>
 
 
-<a id="fig_p027v_3" class="fig-inline fig-default fig-margin fig-margin-left" href="#figure-list-fig_p027v_3"><img src="../../images/p027v_3.png" alt="fig_p027v_3"/></a>
+<span id="fig_p027v_3" class="fig-inline fig-default fig-margin fig-margin-left"><img src="../../images/p027v_3.png" alt="fig_p027v_3"/></span>
 
     
 </div>
@@ -4280,7 +4284,7 @@ long, which<br/>
 is 8 <span class="ms"><span class="pl">Montpellier</span> <span class="fr" >pans</span></span> <span class="folio-range">fol. 27v</span></h3>
 
 
-<a id="fig_p027v_4" class="fig-inline fig-default" href="#figure-list-fig_p027v_4"><img src="../../images/p027v_4.png" alt="fig_p027v_4"/></a>
+<span id="fig_p027v_4" class="fig-inline fig-default"><img src="../../images/p027v_4.png" alt="fig_p027v_4"/></span>
 
 
 </div>
@@ -4292,7 +4296,7 @@ is six <span class="ms"><span class="fr" >pans</span></span><br/>
 and a half <span class="folio-range">fol. 27v</span></h3>
 
 
-<a id="fig_p027v_5" class="fig-inline fig-default fig-margin fig-margin-right" href="#figure-list-fig_p027v_5"><img src="../../images/p027v_5.png" alt="fig_p027v_5"/></a>
+<span id="fig_p027v_5" class="fig-inline fig-default fig-margin fig-margin-right"><img src="../../images/p027v_5.png" alt="fig_p027v_5"/></span>
 
     
 </div>
@@ -4304,7 +4308,7 @@ and a half is<br/>
 7 <span class="ms"><span class="fr" >pans</span></span> and a half <span class="folio-range">fol. 27v</span></h3>
 
     
-<a id="fig_p027v_6" class="fig-inline fig-default fig-margin fig-margin-left" href="#figure-list-fig_p027v_6"><img src="../../images/p027v_6.png" alt="fig_p027v_6"/></a>
+<span id="fig_p027v_6" class="fig-inline fig-default fig-margin fig-margin-left"><img src="../../images/p027v_6.png" alt="fig_p027v_6"/></span>
 
 
 </div>
@@ -4318,7 +4322,7 @@ is 5 <span class="ms"><span class="fr" >pans</span></span><br/>
 and a half or 6 <span class="folio-range">fol. 27v</span></h3>
 
     
-<a id="fig_p027v_7" class="fig-inline fig-default" href="#figure-list-fig_p027v_7"><img src="../../images/p027v_7.png" alt="fig_p027v_7"/></a>
+<span id="fig_p027v_7" class="fig-inline fig-default"><img src="../../images/p027v_7.png" alt="fig_p027v_7"/></span>
 
 
 </div>
@@ -4330,7 +4334,7 @@ is eleven <span class="ms"><span class="fr" >pans</span></span><br/>
 and a half <span class="folio-range">fol. 27v</span></h3>
 
     
-<a id="fig_p027v_8" class="fig-inline fig-default" href="#figure-list-fig_p027v_8"><img src="../../images/p027v_8.png" alt="fig_p027v_8"/></a>
+<span id="fig_p027v_8" class="fig-inline fig-default"><img src="../../images/p027v_8.png" alt="fig_p027v_8"/></span>
 
 
 </div>
@@ -4338,7 +4342,7 @@ and a half <span class="folio-range">fol. 27v</span></h3>
 <h3 class="head " >The measure of the caliber of <span class="wp">pieces</span> <span class="folio-range">fol. 28r</span></h3>
 
 
-<a id="fig_p028r_1" class="fig-inline fig-small" href="#figure-list-fig_p028r_1"><img src="../../images/p028r_1.png" alt="fig_p028r_1"/></a>
+<span id="fig_p028r_1" class="fig-inline fig-small"><img src="../../images/p028r_1.png" alt="fig_p028r_1"/></span>
 
 
 
@@ -4566,7 +4570,7 @@ The <span class="m">darker <span class="al">dragon</span>&#39;s blood</span><br/
 
 is the best &amp; has more of a tint; it is the tear that is found in <del><span class="fr" >gr</span></del> pieces like
 <span class="m"><span class="pa">peas</span></span> and large <span class="m"><span class="pa">hazelnuts</span></span> which look like
-<a id="fig_p029v_1" class="fig-inline fig-x-small fig-margin fig-margin-right" href="#figure-list-fig_p029v_1"><img src="../../images/p029v_1.png" alt="fig_p029v_1"/></a>
+<span id="fig_p029v_1" class="fig-inline fig-x-small fig-margin fig-margin-right"><img src="../../images/p029v_1.png" alt="fig_p029v_1"/></span>
 .</div>
 </div>
 <div class="entry" id="" data-categories="">
@@ -4953,7 +4957,7 @@ six <span class="cn">lb</span>. <del>Put in</del></p>
 <span class="bp">finger</span> <span class="folio-range">fol. 33r</span></h3>
 
 
-<a id="fig_p033r_1" class="fig-inline fig-default" href="#figure-list-fig_p033r_1"><img src="../../images/p033r_1.png" alt="fig_p033r_1"/></a>
+<span id="fig_p033r_1" class="fig-inline fig-default"><img src="../../images/p033r_1.png" alt="fig_p033r_1"/></span>
 
 </div>
 <div class="entry" id="p033r_1" data-categories="">
@@ -5003,7 +5007,7 @@ at his <span class="bp">hands</span>.</div>
 <span class="bp">hands</span> without blowing <span class="folio-range">fol. 33r</span></h3>
 
 
-<a id="fig_p033r_2" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p033r_2"><img src="../../images/p033r_2.png" alt="fig_p033r_2"/></a>
+<span id="fig_p033r_2" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p033r_2.png" alt="fig_p033r_2"/></span>
 
 
 <p class="ab" ><span class="mark">X</span> Take a small <span class="tl">stick of <span class="m">well dried <del>between</del>
@@ -5049,7 +5053,7 @@ nowhere.</p>
 someone&#39;s <span class="bp">forehead</span> or from a <span class="env">wall</span> <span class="folio-range">fol. 33v</span></h3>
 
 
-<a id="fig_p033v_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p033v_1"><img src="../../images/p033v_1.png" alt="fig_p033v_1"/></a>
+<span id="fig_p033v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p033v_1.png" alt="fig_p033v_1"/></span>
 
 
 <p class="ab" >Take a <span class="tl"><span class="oc" >funnel</span></span> or <span class="tl">funnel of <span class="m"><span class="fr" >fer blanc</span></span></span> which is double-walled in the body <del><span class="fr" >d</span></del>
@@ -5164,7 +5168,7 @@ nothing of it.<sup class="comment-ref"><a href="#endnote-c_034r_03" id="ref-c_03
 <span class="tl">box</span> <span class="folio-range">fol. 34v</span></h3>
 
 
-<a id="fig_p034v_1" class="fig-inline fig-default" href="#figure-list-fig_p034v_1"><img src="../../images/p034v_1.png" alt="fig_p034v_1"/></a>
+<span id="fig_p034v_1" class="fig-inline fig-default"><img src="../../images/p034v_1.png" alt="fig_p034v_1"/></span>
 
 
 
@@ -5232,7 +5236,7 @@ you did not know, and neither did he.</p>
 <span class="tl">knives</span> laid down without touching the ground <span class="folio-range">fol. 35r</span></h3>
 
 
-<a id="fig_p035r_1" class="fig-inline fig-default" href="#figure-list-fig_p035r_1"><img src="../../images/p035r_1.png" alt="fig_p035r_1"/></a>
+<span id="fig_p035r_1" class="fig-inline fig-default"><img src="../../images/p035r_1.png" alt="fig_p035r_1"/></span>
 
 
 
@@ -5292,7 +5296,7 @@ See <span class="pn">Mathiol</span>.<sup class="comment-ref"><a href="#endnote-c
 another <span class="folio-range">fol. 35v–36r</span></h3>
 
 
-<a id="fig_p035v_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p035v_1"><img src="../../images/p035v_1.png" alt="fig_p035v_1"/></a>
+<span id="fig_p035v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p035v_1.png" alt="fig_p035v_1"/></span>
 
 
 <p class="ab" >Take two <span class="tl">small <span class="m">wooden</span> bushels</span> of the <span class="ms">same
@@ -5389,7 +5393,7 @@ needle.</p>
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
-<span class="margin-position">[left-middle]</span> of <span class="m">leather</span><a id="fig_p036r_1" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p036r_1"><img src="../../images/p036r_1.png" alt="fig_p036r_1"/></a></div>
+<span class="margin-position">[left-middle]</span> of <span class="m">leather</span><span id="fig_p036r_1" class="fig-inline fig-small fig-intext"><img src="../../images/p036r_1.png" alt="fig_p036r_1"/></span></div>
 </div>
 <div class="entry" id="p036v_1" data-categories="casting">
 <h3 class="head " ><span class="pro">Founder</span> <span class="folio-range">fol. 36v</span></h3>
@@ -6556,7 +6560,7 @@ strength. Others, <span class="m">white chalk</span> or <span class="m">white st
 <h3 class="head " >Loading an <span class="wp">arquebus with hail shot</span> <span class="folio-range">fol. 45r</span></h3>
 
 
-<a id="fig_p045r_1" class="fig-inline fig-large" href="#figure-list-fig_p045r_1"><img src="../../images/p045r_1.png" alt="fig_p045r_1"/></a>
+<span id="fig_p045r_1" class="fig-inline fig-large"><img src="../../images/p045r_1.png" alt="fig_p045r_1"/></span>
 
 
 <p class="ab" >One needs to make a <span class="m">wooden</span> pipe as<span class="ms"> long as the width of 4
@@ -6633,7 +6637,7 @@ in the chamber. Thus it will not push back, and you will shoot more
 true.</p>
 
 
-<a id="fig_p045v_1" class="fig-inline fig-small" href="#figure-list-fig_p045v_1"><img src="../../images/p045v_1.png" alt="fig_p045v_1"/></a>
+<span id="fig_p045v_1" class="fig-inline fig-small"><img src="../../images/p045v_1.png" alt="fig_p045v_1"/></span>
 
 
 </div>
@@ -6685,7 +6689,7 @@ born.</span></p>
 
 </div>
 <div class="entry" id="p046v_4" data-categories="corrosives">
-<a id="fig_p046r_1" class="fig-inline fig-x-small fig-margin fig-margin-left" href="#figure-list-fig_p046r_1"><img src="../../images/p046r_1.png" alt="fig_p046r_1"/></a>
+<span id="fig_p046r_1" class="fig-inline fig-x-small fig-margin fig-margin-left"><img src="../../images/p046r_1.png" alt="fig_p046r_1"/></span>
 
         
 <span class="folio-range folio-range-floated">fol. 46r–46v</span>
@@ -6769,7 +6773,7 @@ black as this one. <em><span class="fr" >Urb.</span></em>
 </p>
 
 
-<a id="fig_p046v_1" class="fig-inline fig-x-small fig-margin fig-margin-right" href="#figure-list-fig_p046v_1"><img src="../../images/p046v_1.png" alt="fig_p046v_1"/></a>
+<span id="fig_p046v_1" class="fig-inline fig-x-small fig-margin fig-margin-right"><img src="../../images/p046v_1.png" alt="fig_p046v_1"/></span>
 
 
 
@@ -6948,7 +6952,7 @@ and must be <span class="m"><span class="tl">luted</span></span>.</p>
 </p>
 
 
-<a id="fig_p048r_1" class="fig-inline fig-default" href="#figure-list-fig_p048r_1"><img src="../../images/p048r_1.png" alt="fig_p048r_1"/></a>
+<span id="fig_p048r_1" class="fig-inline fig-default"><img src="../../images/p048r_1.png" alt="fig_p048r_1"/></span>
 
 
 <p class="ab" >For a <span class="tl">furnace</span> for melting a large quantity of
@@ -7843,7 +7847,7 @@ The <span class="m">silk</span> of the cocoons where there are<sup class="commen
 <p class="ab" ><sup class="comment-ref"><a href="#endnote-c_054v_01" id="ref-c_054v_01-2">[184]</a></sup></p>
 
     
-<a id="fig_p054v_1" class="fig-inline fig-default" href="#figure-list-fig_p054v_1"><img src="../../images/p054v_1.png" alt="fig_p054v_1"/></a>
+<span id="fig_p054v_1" class="fig-inline fig-default"><img src="../../images/p054v_1.png" alt="fig_p054v_1"/></span>
 
 
 <p class="ab" >To dry preserves <del>take a</del> which are not liquid, take an
@@ -8469,7 +8473,7 @@ the darkest to the clearest.</p>
 
 
 
-<a id="fig_p059r_1" class="fig-inline fig-x-small fig-margin fig-margin-left" href="#figure-list-fig_p059r_1"><img src="../../images/p059r_1.png" alt="fig_p059r_1"/></a>
+<span id="fig_p059r_1" class="fig-inline fig-x-small fig-margin fig-margin-left"><img src="../../images/p059r_1.png" alt="fig_p059r_1"/></span>
 
 
 </div>
@@ -8817,10 +8821,10 @@ because it does not have enough body.</p>
 <p class="ab" >Your <span class="tl">paintbrush</span> shows it to you by casting a shadow
 which must always follow the <span class="bp">back of your hand</span>, not in a
 straight line like this
-<a id="fig_p061r_1" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p061r_1"><img src="../../images/p061r_1.png" alt="fig_p061r_1"/></a>,
+<span id="fig_p061r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p061r_1.png" alt="fig_p061r_1"/></span>,
 for the light would be too crude &amp; too harsh, but obliquely &amp; as
 if at an incline, thus
-<a id="fig_p061r_2" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p061r_2"><img src="../../images/p061r_2.png" alt="fig_p061r_2"/></a>.
+<span id="fig_p061r_2" class="fig-inline fig-small fig-intext"><img src="../../images/p061r_2.png" alt="fig_p061r_2"/></span>.
 It is necessary that the panel not be facing the
 <span class="env">light</span> head-on, but half turned
 against it. And above all look for soft light, for it makes soft both
@@ -9017,7 +9021,7 @@ moves about &amp; reaches as far as necessary without losing the point.</p>
 Perspective is very difficult.</p>
 
 
-<a id="fig_p062v_1" class="fig-inline fig-large" href="#figure-list-fig_p062v_1"><img src="../../images/p062v_1.png" alt="fig_p062v_1"/></a>
+<span id="fig_p062v_1" class="fig-inline fig-large"><img src="../../images/p062v_1.png" alt="fig_p062v_1"/></span>
 
 
 
@@ -9048,7 +9052,7 @@ hanging the said <span class="tl"><span class="m">thread</span></span> from the 
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
-<span class="margin-position">[left-middle]</span> <a id="fig_p062v_2" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p062v_2"><img src="../../images/p062v_2.png" alt="fig_p062v_2"/></a>
+<span class="margin-position">[left-middle]</span> <span id="fig_p062v_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p062v_2.png" alt="fig_p062v_2"/></span>
 </div>
 </div>
 <div class="entry" id="p062v_3" data-categories="painting">
@@ -9348,7 +9352,7 @@ the model for a straight &amp; whole figure.<sup class="comment-ref"><a href="#e
 Without these strokes you will never do well.</p>
 
 
-<a id="fig_p064v_1" class="fig-inline fig-large" href="#figure-list-fig_p064v_1"><img src="../../images/p064v_1.png" alt="fig_p064v_1"/></a>
+<span id="fig_p064v_1" class="fig-inline fig-large"><img src="../../images/p064v_1.png" alt="fig_p064v_1"/></span>
 
 
 </div>
@@ -9421,7 +9425,7 @@ especially that of men, is yellowish. And for this effect use very
 strongly ground <span class="m">jet</span>, which you will mix with a little
 <span class="m"><ins>yellow</ins> ocher</span> &amp; <span class="m">lead white</span>. Or else, after
 you have ground your <span class="m">lead white</span> <del><span class="fr" >bro</span></del> and
-<del>clean <span class="fr" >p</span></del> gathered it with the <a id="fig_p065r_1" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p065r_1"><img src="../../images/p065r_1.png" alt="fig_p065r_1"/></a>
+<del>clean <span class="fr" >p</span></del> gathered it with the <span id="fig_p065r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p065r_1.png" alt="fig_p065r_1"/></span>
 ,<sup class="comment-ref"><a href="#endnote-c_065r_01" id="ref-c_065r_01-1">[314]</a></sup> grind the <span class="m">jet</span> into it. Thus it will be more
 desiccative, &amp; making on its own a yellowish black. A little white
 mixed in renders it perfect for men&#39;s shadows. Blacks which make a
@@ -9454,7 +9458,7 @@ observe that a thing which appears flat needs to be softened lengthwise,
 as if going from <del><span class="fr" >l<span class="exp">ett</span>re a ga</span></del> right to
 left like
 
-<a id="fig_p065r_2" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p065r_2"><img src="../../images/p065r_2.png" alt="fig_p065r_2"/></a>
+<span id="fig_p065r_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p065r_2.png" alt="fig_p065r_2"/></span>
 , and whatever ought to appear round must be softened in circles.</p>
 
 
@@ -11294,7 +11298,7 @@ Excellent secret. Try a <span class="m">lead</span> mask.</p>
 maladies</span> <span class="folio-range">fol. 77r</span></h3>
 
 
-<a id="fig_p077r_1" class="fig-inline fig-default" href="#figure-list-fig_p077r_1"><img src="../../images/p077r_1.png" alt="fig_p077r_1"/></a>
+<span id="fig_p077r_1" class="fig-inline fig-default"><img src="../../images/p077r_1.png" alt="fig_p077r_1"/></span>
 
 <p class="ab" >Dry <span class="m"><span class="pa">rosemary</span></span> <span class="tmp">in the month of
 May</span>, then fill this <span class="tl">bowl</span> with <span class="m">powder</span> of it, and
@@ -11629,7 +11633,7 @@ up, which makes a large breach.</p>
 <h3 class="head " >Fountains <span class="folio-range">fol. 80r</span></h3>
 
 
-<a id="fig_p080r_2" class="fig-inline fig-large" href="#figure-list-fig_p080r_2"><img src="../../images/p080r_2.png" alt="fig_p080r_2"/></a>
+<span id="fig_p080r_2" class="fig-inline fig-large"><img src="../../images/p080r_2.png" alt="fig_p080r_2"/></span>
 
 
 <p class="ab" >If you wish to make <span class="m">water</span> rise higher than its source, make a
@@ -11650,10 +11654,10 @@ that the trussed-up length is <span class="ms">as long as</span> its straight pi
 &amp; nevertheless does not descend as far down.</p>
 
 
-<a id="fig_p080r_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p080r_1"><img src="../../images/p080r_1.png" alt="fig_p080r_1"/></a>
+<span id="fig_p080r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p080r_1.png" alt="fig_p080r_1"/></span>
 
 
-<a id="fig_p080r_3" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p080r_3"><img src="../../images/p080r_3.png" alt="fig_p080r_3"/></a>
+<span id="fig_p080r_3" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p080r_3.png" alt="fig_p080r_3"/></span>
 
 
 </div>
@@ -11699,7 +11703,7 @@ And if they want their work to stay pierced in any place, they drive in
 <span class="tl">a bit of <span class="m">cork</span></span> at this place in the <span class="tl">mold</span>. And
 the <span class="m">lead</span> or <span class="m">tin</span><br/>
 
-<a id="fig_p080v_1" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p080v_1"><img src="../../images/p080v_1.png" alt="fig_p080v_1"/></a>
+<span id="fig_p080v_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p080v_1.png" alt="fig_p080v_1"/></span>
  will not attach to it. </p>
 
 
@@ -11934,7 +11938,7 @@ circle</span>, &amp; make in this manner their division &amp; distribution
 of the teeth as fine as they please.</p>
 
 
-<a id="fig_p082r_1" class="fig-inline fig-default" href="#figure-list-fig_p082r_1"><img src="../../images/p082r_1.png" alt="fig_p082r_1"/></a>
+<span id="fig_p082r_1" class="fig-inline fig-default"><img src="../../images/p082r_1.png" alt="fig_p082r_1"/></span>
 
 
 
@@ -12752,7 +12756,7 @@ found.</p>
 way.</p>
 
 
-<a id="fig_p086v_1" class="fig-inline fig-small" href="#figure-list-fig_p086v_1"><img src="../../images/p086v_1.png" alt="fig_p086v_1"/></a>
+<span id="fig_p086v_1" class="fig-inline fig-small"><img src="../../images/p086v_1.png" alt="fig_p086v_1"/></span>
 
 
 <p class="ab" ><span class="m">Potin of syringe</span> &amp; other
@@ -13399,7 +13403,7 @@ out <del>from the <span class="fr" >mo</span></del> hot from the <span class="tl
 breaking.<br/>
 
 
-<a id="fig_p091v_1" class="fig-inline fig-default fig-intext" href="#figure-list-fig_p091v_1"><img src="../../images/p091v_1.png" alt="fig_p091v_1"/></a>
+<span id="fig_p091v_1" class="fig-inline fig-default fig-intext"><img src="../../images/p091v_1.png" alt="fig_p091v_1"/></span>
 
 
 
@@ -13642,7 +13646,7 @@ difficult to grind &amp; <span class="sn">screeches</span> on the <span class="t
 <span class="m">filth</span> that can be perceived in the <span class="m">wash water</span> makes it die. One needs
 to layer it two times, &amp; the first very thick, moving the
 <span class="tl">paintbrush</span> by layering it first lengthwise then across.
-<a id="fig_p093v_1" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p093v_1"><img src="../../images/p093v_1.png" alt="fig_p093v_1"/></a> It is better used on <span class="m">canvas</span>, where it is imbibed
+<span id="fig_p093v_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p093v_1.png" alt="fig_p093v_1"/></span> It is better used on <span class="m">canvas</span>, where it is imbibed
 immediately, than on <span class="m">wood</span>. <span class="m">Varnish</span> returns it to its
 vigor, because being imbibed, it becomes dark. To assay it,
 <span class="pro">painters</span> bring their <span class="tl">palette</span> to the
@@ -13745,7 +13749,7 @@ aquafortis</span>, for if it were too hot, it would cook &amp; spoil the
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
-<span class="margin-position">[left-middle]</span> <a id="fig_p094r_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p094r_1"><img src="../../images/p094r_1.png" alt="fig_p094r_1"/></a>
+<span class="margin-position">[left-middle]</span> <span id="fig_p094r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p094r_1.png" alt="fig_p094r_1"/></span>
 <sup class="comment-ref"><a href="#endnote-c_094r_09" id="ref-c_094r_09-1">[411]</a></sup></div>
 </div>
 <div class="entry" id="p094r_1" data-categories="arms and armor">
@@ -13770,7 +13774,7 @@ needs to twist it twice. A grip of <span class="m">fine gold</span> is worth 18 
 <p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> <span class="tl">scabbard bench</span>
-<a id="fig_p094v_1" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p094v_1"><img src="../../images/p094v_1.png" alt="fig_p094v_1"/></a>
+<span id="fig_p094v_1" class="fig-inline fig-small fig-intext"><img src="../../images/p094v_1.png" alt="fig_p094v_1"/></span>
 </div>
 </div>
 <div class="entry" id="p094r_1" data-categories="">
@@ -13809,7 +13813,7 @@ have been ground, which is better than with a <span class="tl"><span class="m">s
 <span class="tl"><span class="m">sharpening stone</span></span>, which quite often makes scratches.</p>
 
 
-<a id="fig_p094v_2" class="fig-inline fig-default fig-margin fig-margin-left" href="#figure-list-fig_p094v_2"><img src="../../images/p094v_2.png" alt="fig_p094v_2"/></a>
+<span id="fig_p094v_2" class="fig-inline fig-default fig-margin fig-margin-left"><img src="../../images/p094v_2.png" alt="fig_p094v_2"/></span>
 
     
      
@@ -13849,20 +13853,20 @@ at the <span class="tl"><span class="pro">farriers</span>&#39; forge</span>.</p>
 <p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
-<a id="fig_p094v_8" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p094v_8"><img src="../../images/p094v_8.png" alt="fig_p094v_8"/></a>
-a<a id="fig_p094v_4" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p094v_4"><img src="../../images/p094v_4.png" alt="fig_p094v_4"/></a>
-b<a id="fig_p094v_5" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p094v_5"><img src="../../images/p094v_5.png" alt="fig_p094v_5"/></a>   
+<span id="fig_p094v_8" class="fig-inline fig-small fig-intext"><img src="../../images/p094v_8.png" alt="fig_p094v_8"/></span>
+a<span id="fig_p094v_4" class="fig-inline fig-x-small fig-intext"><img src="../../images/p094v_4.png" alt="fig_p094v_4"/></span>
+b<span id="fig_p094v_5" class="fig-inline fig-x-small fig-intext"><img src="../../images/p094v_5.png" alt="fig_p094v_5"/></span>   
 </div>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span>     
-<a id="fig_p094v_6" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p094v_6"><img src="../../images/p094v_6.png" alt="fig_p094v_6"/></a>
+<span id="fig_p094v_6" class="fig-inline fig-small fig-intext"><img src="../../images/p094v_6.png" alt="fig_p094v_6"/></span>
 c<br/>
 
 the <span class="tl"><span class="m"><span class="fr" >flin</span></span></span> or <span class="tl"><span class="m">thunder<br/>
 
 stone</span></span>
         
-<a id="fig_p094v_7" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p094v_7"><img src="../../images/p094v_7.png" alt="fig_p094v_7"/></a>
+<span id="fig_p094v_7" class="fig-inline fig-small fig-intext"><img src="../../images/p094v_7.png" alt="fig_p094v_7"/></span>
 D<br/>
 
 the <span class="tl"><span class="fr" >baston<br/>
@@ -14779,7 +14783,7 @@ put them in the <span class="tl"><span class="fr" >fornaise</span></span> or <sp
 vent</span></span> before making &amp; increasing the fire.<br/>
 
 
-<a id="fig_p100v_1" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p100v_1"><img src="../../images/p100v_1.png" alt="fig_p100v_1"/></a>
+<span id="fig_p100v_1" class="fig-inline fig-small fig-intext"><img src="../../images/p100v_1.png" alt="fig_p100v_1"/></span>
 
 
 
@@ -14866,7 +14870,7 @@ and accompanied with <span class="m">antimony</span>.</em></p>
 
 
 
-    <a id="fig_p101r_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p101r_1"><img src="../../images/p101r_1.png" alt="fig_p101r_1"/></a>
+    <span id="fig_p101r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p101r_1.png" alt="fig_p101r_1"/></span>
 
 
 </div>
@@ -15111,7 +15115,7 @@ in, &amp; with a lip at the end. Thus of a height of seven
 <span class="ms"><span class="bp">fingers</span>&#39; width</span>.<br/>
 
 
-    <a id="fig_p102r_1" class="fig-inline fig-small fig-margin fig-margin-right" href="#figure-list-fig_p102r_1"><img src="../../images/p102r_1.png" alt="fig_p102r_1"/></a>
+    <span id="fig_p102r_1" class="fig-inline fig-small fig-margin fig-margin-right"><img src="../../images/p102r_1.png" alt="fig_p102r_1"/></span>
 
 
 </p>
@@ -15169,7 +15173,7 @@ side &amp; with a cavity on one side, if it is possible, in that way
 you will have it more neat, and then you will be able to <span class="m">solder</span>
 two halves together. But if you must mold it thick, <del><span class="fr" >a</span></del><sup class="comment-ref"><a href="#endnote-c_102v_01" id="ref-c_102v_01-1">[453]</a></sup> make it in the
 form, &amp; mold a lot of feeders 
-<a id="fig_p102v_1" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p102v_1"><img src="../../images/p102v_1.png" alt="fig_p102v_1"/></a>
+<span id="fig_p102v_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p102v_1.png" alt="fig_p102v_1"/></span>
 
 around the figure, in this way.
 </p>
@@ -15404,7 +15408,7 @@ form will be of good release.</p>
 <h3 class="head " ><span class="mu">Spinet</span> playing by itself <span class="folio-range">fol. 104v</span></h3>
 
 
-    <a id="fig_p104v_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p104v_1"><img src="../../images/p104v_1.png" alt="fig_p104v_1"/></a>
+    <span id="fig_p104v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p104v_1.png" alt="fig_p104v_1"/></span>
 
 
 <p class="ab" >Make an axle surrounded with wheels pierced all around the edge, and
@@ -15461,8 +15465,8 @@ contains an <span class="fr" >œillet</span> or sprout with the leaf, thus marke
 <del>But</del> <del><span class="fr" >plusto</span></del> Then, carefully make on the
 tender wood, <del><span class="fr" >s</span></del> which is in sap, on which you
 want to graft, two lines thus <del><span class="fr" >de</span></del> cut 
-<a id="fig_p105r_3" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p105r_3"><img src="../../images/p105r_3.png" alt="fig_p105r_3"/></a>, then
-make in the middle a cleft thus <a id="fig_p105r_2" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p105r_2"><img src="../../images/p105r_2.png" alt="fig_p105r_2"/></a>.
+<span id="fig_p105r_3" class="fig-inline fig-x-small fig-intext"><img src="../../images/p105r_3.png" alt="fig_p105r_3"/></span>, then
+make in the middle a cleft thus <span id="fig_p105r_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p105r_2.png" alt="fig_p105r_2"/></span>.
 Next, separate, with the point of the <span class="tl">penknife</span>, the bark &amp;
 open it from the cleft in the middle, and having neatly lodged your
 shield so that nothing comes out but the sprout, bind it well &amp; wrap
@@ -15477,7 +15481,7 @@ or growth, leave it space to go out, &amp; do thus three or 4
 times.</p>
 
 
-<a id="fig_p105r_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p105r_1"><img src="../../images/p105r_1.png" alt="fig_p105r_1"/></a>
+<span id="fig_p105r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p105r_1.png" alt="fig_p105r_1"/></span>
 
 
 
@@ -16627,7 +16631,7 @@ latten</span>.</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
         
-<a id="fig_p111r_1" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p111r_1"><img src="../../images/p111r_1.png" alt="fig_p111r_1"/></a>
+<span id="fig_p111r_1" class="fig-inline fig-small fig-intext"><img src="../../images/p111r_1.png" alt="fig_p111r_1"/></span>
 
         
 </div>
@@ -16760,7 +16764,7 @@ it creates a better bond.</div>
 
 
 
-<a id="fig_p112r_1" class="fig-inline fig-default fig-margin fig-margin-left fig-tall" href="#figure-list-fig_p112r_1"><img src="../../images/p112r_1.png" alt="fig_p112r_1"/></a>
+<span id="fig_p112r_1" class="fig-inline fig-default fig-margin fig-margin-left fig-tall"><img src="../../images/p112r_1.png" alt="fig_p112r_1"/></span>
 
 
 </div>
@@ -16910,7 +16914,7 @@ pierce it from underneath in the middle of the throat &amp; up to
 an <span class="m">iron wire</span></span> of such a length that it suffices to hold the
 head of the animal as <del><span class="fr" >q</span></del><sup class="comment-ref"><a href="#endnote-c_112v_05" id="ref-c_112v_05-1">[497]</a></sup> high as it must be, &amp; if
 the skin moves into the inside <del>&amp;</del> when you put in the
-<span class="tl">point</span><a id="fig_p112v_2" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p112v_2"><img src="../../images/p112v_2.png" alt="fig_p112v_2"/></a>
+<span class="tl">point</span><span id="fig_p112v_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p112v_2.png" alt="fig_p112v_2"/></span>
 ,<sup class="comment-ref"><a href="#endnote-c_112v_01" id="ref-c_112v_01-1">[498]</a></sup> pull it out with <del><span class="fr" >a</span></del><sup class="comment-ref"><a href="#endnote-c_033r_01" id="ref-c_033r_01-3">[209]</a></sup>
 <del><span class="tl">point</span></del> the edge of your <span class="tl">small pincers</span>, &amp;
 arrange it as it was. Push the other end of the <span class="tl">point</span> in the
@@ -16973,7 +16977,7 @@ on a <span class="tl">solid plank or table</span> <del>&amp; <span class="ill">[
 <span class="tl">point</span> pass through the bottom of the throat,
 <del><span class="fr" >s&#39;arrestan</span></del> entering into the top of the head,
 
-<a id="fig_p112v_1" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p112v_1"><img src="../../images/p112v_1.png" alt="fig_p112v_1"/></a>
+<span id="fig_p112v_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p112v_1.png" alt="fig_p112v_1"/></span>
 <sup class="comment-ref"><a href="#endnote-c_112v_03" id="ref-c_112v_03-1">[500]</a></sup>
 
 </div>
@@ -17001,12 +17005,12 @@ by lightly pressing. Thus having placed your animal on the
 <span class="po" >cake</span> shaped like a <span class="mu">mandore</span>, place all around a
 circle of the same
 
- <a id="fig_p113r_2" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p113r_2"><img src="../../images/p113r_2.png" alt="fig_p113r_2"/></a>
+ <span id="fig_p113r_2" class="fig-inline fig-small fig-intext"><img src="../../images/p113r_2.png" alt="fig_p113r_2"/></span>
 
 
 <span class="m">earth</span>, in this way,
 
- <a id="fig_p113r_3" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p113r_3"><img src="../../images/p113r_3.png" alt="fig_p113r_3"/></a>
+ <span id="fig_p113r_3" class="fig-inline fig-small fig-intext"><img src="../../images/p113r_3.png" alt="fig_p113r_3"/></span>
  <ins>b</ins> &amp; join everything well together in a circle, then, with a
 big <span class="tl">knife</span>, with which you have cut your <span class="po" >cake</span> to
 the right size, trim the outside which exceeds it, &amp; place there a
@@ -17039,7 +17043,7 @@ which evaporates promptly. And wet it thus.</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
-<a id="fig_p113r_1" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p113r_1"><img src="../../images/p113r_1.png" alt="fig_p113r_1"/></a>
+<span id="fig_p113r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p113r_1.png" alt="fig_p113r_1"/></span>
 <sup class="comment-ref"><a href="#endnote-c_113r_03" id="ref-c_113r_03-1">[506]</a></sup><br/>
 
 
@@ -17059,7 +17063,7 @@ If, after you have placed your animal on your <span class="m">clay</span>
 animal with <span class="m">eau-de-vie</span>, &amp; under the belly, so that it
 does not dry &amp; attach itself to the <span class="m">earth</span>.
 
-<a id="fig_p113r_4" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p113r_4"><img src="../../images/p113r_4.png" alt="fig_p113r_4"/></a>
+<span id="fig_p113r_4" class="fig-inline fig-x-small fig-intext"><img src="../../images/p113r_4.png" alt="fig_p113r_4"/></span>
 
 <hr/>
 
@@ -17120,7 +17124,7 @@ to dissipate the small and big bubbles that the <span class="m">wetted sand</spa
 continue without delay to put all the rest which is at the bottom, &amp;
 a little thicker than at the top, until everything is filled, up to the
 mark for thickness that you made.
-<a id="fig_p113v_4" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p113v_4"><img src="../../images/p113v_4.png" alt="fig_p113v_4"/></a>
+<span id="fig_p113v_4" class="fig-inline fig-x-small fig-intext"><img src="../../images/p113v_4.png" alt="fig_p113v_4"/></span>
 <sup class="comment-ref"><a href="#endnote-c_112r_02" id="ref-c_112r_02-13">[134]</a></sup> And do not forget to shake the <span class="tl">mold</span>
 <del>in order</del> while casting, in order that the <span class="m">wetted sand</span> runs
 &amp; enters well everywhere. Also, tip your <span class="tl">mold</span> up on the side
@@ -17169,7 +17173,7 @@ itself set quickly, for all things calcined dry out promptly from mixed
 <span class="m">water</span>.</div>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
-<a id="fig_p113v_3" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p113v_3"><img src="../../images/p113v_3.png" alt="fig_p113v_3"/></a>
+<span id="fig_p113v_3" class="fig-inline fig-x-small fig-intext"><img src="../../images/p113v_3.png" alt="fig_p113v_3"/></span>
 <sup class="comment-ref"><a href="#endnote-c_112r_03" id="ref-c_112r_03-12">[135]</a></sup><br/>
 
 If you do not fill in one go your <span class="tl">mold</span>
@@ -17188,7 +17192,7 @@ the <span class="tl">mold</span></ins>, which is always the weakest, and adapt i
 cleanly thus. And do not forget to make notches around, in order that the
 second cast anchors itself there &amp; binds better
             
-<a id="fig_p113v_5" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p113v_5"><img src="../../images/p113v_5.png" alt="fig_p113v_5"/></a>
+<span id="fig_p113v_5" class="fig-inline fig-small fig-intext"><img src="../../images/p113v_5.png" alt="fig_p113v_5"/></span>
  without changing.</p>
 
         
@@ -17212,9 +17216,9 @@ reheated; however, when you put some in, it will only be better.
 <p class="ab" >When you have well molded the first part of the animal, that is the
 back, the backbone, and the entire top part, and the
 <del><span class="fr" >len</span></del> half-<span class="tl">mold</span> where it is enclosed has set
-and is hard enough, <a id="fig_p114r_2" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p114r_2"><img src="../../images/p114r_2.png" alt="fig_p114r_2"/></a>
+and is hard enough, <span id="fig_p114r_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p114r_2.png" alt="fig_p114r_2"/></span>
  <span class="mark">+</span><sup class="comment-ref"><a href="#endnote-c_114r_03" id="ref-c_114r_03-1">[511]</a></sup>  uncover the whole bottom part &amp; side of the belly,
-<a id="fig_p114r_3" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p114r_3"><img src="../../images/p114r_3.png" alt="fig_p114r_3"/></a>
+<span id="fig_p114r_3" class="fig-inline fig-x-small fig-intext"><img src="../../images/p114r_3.png" alt="fig_p114r_3"/></span>
  now with a <span class="tl">knife</span> <del>&amp; <span class="fr" >tant</span></del>
 at the thickest places, &amp; then with a <span class="tl">penknife</span>, where the
 most delicate parts are enclosed, such as the legs, the tail, &amp;
@@ -17284,7 +17288,7 @@ Mold small animals like big ones, except that you need to make
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
-<sup class="comment-ref"><a href="#endnote-c_114r_04" id="ref-c_114r_04-1">[512]</a></sup><a id="fig_p114r_1" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p114r_1"><img src="../../images/p114r_1.png" alt="fig_p114r_1"/></a>
+<sup class="comment-ref"><a href="#endnote-c_114r_04" id="ref-c_114r_04-1">[512]</a></sup><span id="fig_p114r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p114r_1.png" alt="fig_p114r_1"/></span>
         
 <br/>
 
@@ -17293,7 +17297,7 @@ remove with your <span class="tl">small flat pincers</span>, all the <span class
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
-<a id="fig_p114r_4" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p114r_4"><img src="../../images/p114r_4.png" alt="fig_p114r_4"/></a>
+<span id="fig_p114r_4" class="fig-inline fig-x-small fig-intext"><img src="../../images/p114r_4.png" alt="fig_p114r_4"/></span>
 
 
 And then
@@ -17302,7 +17306,7 @@ And then
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
-<a id="fig_p114r_7" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p114r_7"><img src="../../images/p114r_7.png" alt="fig_p114r_7"/></a>
+<span id="fig_p114r_7" class="fig-inline fig-x-small fig-intext"><img src="../../images/p114r_7.png" alt="fig_p114r_7"/></span>
 <br/>
 
 
@@ -17326,7 +17330,7 @@ hot <span class="m">iron wire</span></span>, join it, then adapt your <span clas
 half binds to it. 🝋<br/>
 
 
-<a id="fig_p114r_6" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p114r_6"><img src="../../images/p114r_6.png" alt="fig_p114r_6"/></a>
+<span id="fig_p114r_6" class="fig-inline fig-small fig-intext"><img src="../../images/p114r_6.png" alt="fig_p114r_6"/></span>
 
 
 
@@ -17369,7 +17373,7 @@ in the same <span class="tmp">day</span> the 4 or 5 <span class="tl">molds</span
 because these corrupt animals in themselves <span class="sn">stink</span> within one <span class="ms"><span class="tmp">day</span></span>. Having left your <span class="tl">molds</span> one or two
 <del><span class="fr" >es</span></del> <span class="ms"><span class="tmp">days</span></span> to dry, for they stay
 humid for a good <span class="ms"><span class="tmp">month</span></span>, make the vents on one
-half <a id="fig_p114v_3" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p114v_3"><img src="../../images/p114v_3.png" alt="fig_p114v_3"/></a>
+half <span id="fig_p114v_3" class="fig-inline fig-x-small fig-intext"><img src="../../images/p114v_3.png" alt="fig_p114v_3"/></span>
 <sup class="comment-ref"><a href="#endnote-c_114v_01" id="ref-c_114v_01-1">[513]</a></sup></p>
 
 
@@ -17390,7 +17394,7 @@ half <a id="fig_p114v_3" class="fig-inline fig-x-small fig-intext" href="#figure
 <p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
-<a id="fig_p114v_1" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p114v_1"><img src="../../images/p114v_1.png" alt="fig_p114v_1"/></a>
+<span id="fig_p114v_1" class="fig-inline fig-small fig-intext"><img src="../../images/p114v_1.png" alt="fig_p114v_1"/></span>
 <br/>
 
 <span class="mark">+</span><br/>
@@ -17421,7 +17425,7 @@ order to have a better grip, and separate them with strength as if you
 wanted to tear apart a loaf of <span class="m">bread</span>. But if it happens to break, join
 it &amp; on the reverse, strengthen the joints with <span class="tl">clamps</span>.
 
-<a id="fig_p114v_4" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p114v_4"><img src="../../images/p114v_4.png" alt="fig_p114v_4"/></a>
+<span id="fig_p114v_4" class="fig-inline fig-x-small fig-intext"><img src="../../images/p114v_4.png" alt="fig_p114v_4"/></span>
 
 
 </div>
@@ -17439,7 +17443,7 @@ Next, you can repair the faults with small <span class="tl">chisels</span>.
 Note about everything<br/>
 
 
-above <a id="fig_p115r_5" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p115r_5"><img src="../../images/p115r_5.png" alt="fig_p115r_5"/></a> <span class="folio-range">fol. 115r</span></h3>
+above <span id="fig_p115r_5" class="fig-inline fig-x-small fig-intext"><img src="../../images/p115r_5.png" alt="fig_p115r_5"/></span> <span class="folio-range">fol. 115r</span></h3>
 
    
    
@@ -17450,7 +17454,7 @@ above <a id="fig_p115r_5" class="fig-inline fig-x-small fig-intext" href="#figur
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
         
-<a id="fig_p115r_1" class="fig-inline fig-x-small fig-margin fig-margin-left" href="#figure-list-fig_p115r_1"><img src="../../images/p115r_1.png" alt="fig_p115r_1"/></a>
+<span id="fig_p115r_1" class="fig-inline fig-x-small fig-margin fig-margin-left"><img src="../../images/p115r_1.png" alt="fig_p115r_1"/></span>
 <sup class="comment-ref"><a href="#endnote-c_115r_01" id="ref-c_115r_01-1">[514]</a></sup><br/>
  
     
@@ -17524,14 +17528,14 @@ the cast were even, for it gets corrupted in its notches &amp; holes,
 done, <del>put</del> join <del><span class="fr" >t</span></del><sup class="comment-ref"><a href="#endnote-c_115r_04" id="ref-c_115r_04-1">[518]</a></sup> the two halves of your <span class="tl">mold</span> &amp; strengthen the joints,
 putting around these some small <span class="tl">clamps</span> of <span class="m">iron wire</span> of this shape<br/>
 
-<a id="fig_p115r_2" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p115r_2"><img src="../../images/p115r_2.png" alt="fig_p115r_2"/></a>
+<span id="fig_p115r_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p115r_2.png" alt="fig_p115r_2"/></span>
 . They
 prevent<br/>
  
 the <span class="tl">molds</span> from deforming &amp; corrupting while reheating.</div>
 <div class="margin-note" data-position="left-top">
-<span class="margin-position">[left-top]</span> <a id="fig_p115r_3" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p115r_3"><img src="../../images/p115r_3.png" alt="fig_p115r_3"/></a>
-<a id="fig_p115r_4" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p115r_4"><img src="../../images/p115r_4.png" alt="fig_p115r_4"/></a>
+<span class="margin-position">[left-top]</span> <span id="fig_p115r_3" class="fig-inline fig-small fig-intext"><img src="../../images/p115r_3.png" alt="fig_p115r_3"/></span>
+<span id="fig_p115r_4" class="fig-inline fig-small fig-intext"><img src="../../images/p115r_4.png" alt="fig_p115r_4"/></span>
 This is the shape of the <span class="tl">clamps</span>
 </div>
 </div>
@@ -17695,7 +17699,7 @@ gates &amp; vents<br/>
 &amp; place <span class="tl">clamps</span>.</div>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
-<a id="fig_p115v_1" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p115v_1"><img src="../../images/p115v_1.png" alt="fig_p115v_1"/></a>
+<span id="fig_p115v_1" class="fig-inline fig-small fig-intext"><img src="../../images/p115v_1.png" alt="fig_p115v_1"/></span>
 <br/>
 
 Take care not to heat the fire in one go, for fear <del><span class="fr" >f</span></del>
@@ -17712,7 +17716,7 @@ For casting in <span class="m">silver</span>, one must not reheat two times
 <del>&amp;</del>, if there is nothing in the <span class="tl">mold</span> that needs
 <del>releasing</del> burning, simply because it does not
 release well. All the <span class="tl">molds</span> of flowers are reheated
-two times, first for <a id="fig_p115v_2" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p115v_2"><img src="../../images/p115v_2.png" alt="fig_p115v_2"/></a>            
+two times, first for <span id="fig_p115v_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p115v_2.png" alt="fig_p115v_2"/></span>            
 <sup class="comment-ref"><a href="#endnote-c_115v_01" id="ref-c_115v_01-1">[519]</a></sup></div>
 </div>
 <div class="entry" id="p116r_1" data-categories="casting">
@@ -17742,7 +17746,7 @@ because, if it were thick, it would crush the flower.
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 
-<a id="fig_p116r_1" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p116r_1"><img src="../../images/p116r_1.png" alt="fig_p116r_1"/></a>
+<span id="fig_p116r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p116r_1.png" alt="fig_p116r_1"/></span>
 <sup class="comment-ref"><a href="#endnote-c_116r_03" id="ref-c_116r_03-1">[522]</a></sup>
 
 burning the plants, flowers, and animal parts which are left inside. Next, one
@@ -17974,10 +17978,10 @@ peg</span>.</p>
 
 
 
-<a id="fig_p117r_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p117r_1"><img src="../../images/p117r_1.png" alt="fig_p117r_1"/></a>
+<span id="fig_p117r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p117r_1.png" alt="fig_p117r_1"/></span>
 
 
-<a id="fig_p117r_2" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p117r_2"><img src="../../images/p117r_2.png" alt="fig_p117r_2"/></a>
+<span id="fig_p117r_2" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p117r_2.png" alt="fig_p117r_2"/></span>
 
 
 
@@ -17999,7 +18003,7 @@ passed through the circle of the <span class="tl">mold</span> with a
 
 The more delicate the flower is, the thinner the <span class="m">sand</span> must be.</div>
 <div class="margin-note" data-position="left-middle">
-<span class="margin-position">[left-middle]</span> <a id="fig_p117r_3" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p117r_3"><img src="../../images/p117r_3.png" alt="fig_p117r_3"/></a>
+<span class="margin-position">[left-middle]</span> <span id="fig_p117r_3" class="fig-inline fig-small fig-intext"><img src="../../images/p117r_3.png" alt="fig_p117r_3"/></span>
 <span class="tl">Mold <span class="fr" >en noyau</span></span></div>
 </div>
 <div class="entry" id="p117v_1" data-categories="casting">
@@ -18300,7 +18304,7 @@ Make the gate so that it is not too thick, so as not to overcharge the
 medal, but wide enough near the medal that it embraces a third part. Do
 not forget the vents.</div>
 <div class="margin-note" data-position="left-middle">
-<span class="margin-position">[left-middle]</span> <a id="fig_p118v_1" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p118v_1"><img src="../../images/p118v_1.png" alt="fig_p118v_1"/></a>
+<span class="margin-position">[left-middle]</span> <span id="fig_p118v_1" class="fig-inline fig-small fig-intext"><img src="../../images/p118v_1.png" alt="fig_p118v_1"/></span>
 </div>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
@@ -18675,7 +18679,7 @@ A little <span class="m">tallow</span> and <span class="m">arsenic</span></div>
 <h3 class="head " >Keeping dry flowers in the same<br/>
 
 
- <a id="fig_p120v_3" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p120v_3"><img src="../../images/p120v_3.png" alt="fig_p120v_3"/></a>state <span class="tmp">all year</span> <span class="folio-range">fol. 120v–121r</span></h3>
+ <span id="fig_p120v_3" class="fig-inline fig-x-small fig-intext"><img src="../../images/p120v_3.png" alt="fig_p120v_3"/></span>state <span class="tmp">all year</span> <span class="folio-range">fol. 120v–121r</span></h3>
 
 
 
@@ -18981,14 +18985,14 @@ melting, will continue the gate up to the animal without spoiling
 anything, which is a secret.</p>
 
 
-<a id="fig_p122r_2" class="fig-inline fig-small" href="#figure-list-fig_p122r_2"><img src="../../images/p122r_2.png" alt="fig_p122r_2"/></a>
+<span id="fig_p122r_2" class="fig-inline fig-small"><img src="../../images/p122r_2.png" alt="fig_p122r_2"/></span>
 
 
 <p class="ab" >One arranges <span class="al">snakes</span> bound together in embraces of love,
 but that is when they are small.</p>
 
 
-    <a id="fig_p122r_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p122r_1"><img src="../../images/p122r_1.png" alt="fig_p122r_1"/></a>
+    <span id="fig_p122r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p122r_1.png" alt="fig_p122r_1"/></span>
     
     
     
@@ -18997,10 +19001,10 @@ but that is when they are small.</p>
 <p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
-        <a id="fig_p122r_3" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p122r_3"><img src="../../images/p122r_3.png" alt="fig_p122r_3"/></a>
+        <span id="fig_p122r_3" class="fig-inline fig-small fig-intext"><img src="../../images/p122r_3.png" alt="fig_p122r_3"/></span>
         
         
-        <a id="fig_p122r_4" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p122r_4"><img src="../../images/p122r_4.png" alt="fig_p122r_4"/></a>
+        <span id="fig_p122r_4" class="fig-inline fig-small fig-intext"><img src="../../images/p122r_4.png" alt="fig_p122r_4"/></span>
         
     </div>
 </div>
@@ -19070,10 +19074,10 @@ second.</div>
 
 <p class="ab" >You do not have to make the gate with legs thus
 
-<a id="fig_p122v_1" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p122v_1"><img src="../../images/p122v_1.png" alt="fig_p122v_1"/></a>
+<span id="fig_p122v_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p122v_1.png" alt="fig_p122v_1"/></span>
 , but rather in this way
 
-<a id="fig_p122v_2" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p122v_2"><img src="../../images/p122v_2.png" alt="fig_p122v_2"/></a>
+<span id="fig_p122v_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p122v_2.png" alt="fig_p122v_2"/></span>
 , which embraces the medal well. For the other way, with legs, is only
 done to accommodate more delicate works and the other, <ins>which is
 wide and in one piece,</ins> works better for flat medals. But take heed
@@ -19454,7 +19458,7 @@ Take care that in the place where you want to cast the <span class="m">gold</spa
 <span class="m">metal</span> would run with difficulty, especially when it is curled,
 roll <span class="m">wax</span> in little threads of this thickness
 
-    <a id="fig_p124v_2" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p124v_2"><img src="../../images/p124v_2.png" alt="fig_p124v_2"/></a>
+    <span id="fig_p124v_2" class="fig-inline fig-small fig-intext"><img src="../../images/p124v_2.png" alt="fig_p124v_2"/></span>
 
 
 and apply some with the <span class="tl">hot <span class="m">iron wire</span></span>, as is said, one at
@@ -19513,7 +19517,7 @@ well-molded.</div>
 Your gate must be very thin at the entrance of the animal &amp; of the
 <span class="ms">thickness of a <span class="tl">knife</span></span>.</div>
 <div class="margin-note" data-position="left-middle">
-<span class="margin-position">[left-middle]</span> <a id="fig_p124v_1" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p124v_1"><img src="../../images/p124v_1.png" alt="fig_p124v_1"/></a>
+<span class="margin-position">[left-middle]</span> <span id="fig_p124v_1" class="fig-inline fig-small fig-intext"><img src="../../images/p124v_1.png" alt="fig_p124v_1"/></span>
 </div>
 </div>
 <div class="entry" id="p124v_3" data-categories="casting">
@@ -19535,7 +19539,7 @@ without bubbling nor making excessive fumes, which hinders its run.<br/>
 
 You can divide it also in two or three branches thus
         
-<a id="fig_p125r_2" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p125r_2"><img src="../../images/p125r_2.png" alt="fig_p125r_2"/></a>
+<span id="fig_p125r_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p125r_2.png" alt="fig_p125r_2"/></span>
 
         
 when it approaches the molded thing, and always make holes in the
@@ -19995,7 +19999,7 @@ the <span class="m">wax</span> animal would attach itself &amp; would break, &am
 have it perfect. <em>Take heed also</em> to make your gates for the
 <span class="m">wax</span> very wide. Thus, &amp; the gates should not be too thick.
 They are made when <del>the animal is</del>
-<a id="fig_p127r_1" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p127r_1"><img src="../../images/p127r_1.png" alt="fig_p127r_1"/></a>
+<span id="fig_p127r_1" class="fig-inline fig-small fig-intext"><img src="../../images/p127r_1.png" alt="fig_p127r_1"/></span>
  the <span class="tl">molds</span> have been made from both sides &amp; the animal is
 outside of it.</p>
 
@@ -20070,7 +20074,7 @@ in this.</div>
 give it bond</ins><br/>
 
 
-<a id="fig_p127v_1" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p127v_1"><img src="../../images/p127v_1.png" alt="fig_p127v_1"/></a>
+<span id="fig_p127v_1" class="fig-inline fig-small fig-intext"><img src="../../images/p127v_1.png" alt="fig_p127v_1"/></span>
 </div>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
@@ -20559,7 +20563,7 @@ to draw out the fury of the<br/>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
-<a id="fig_p129v_1" class="fig-inline fig-x-small fig-margin fig-margin-left" href="#figure-list-fig_p129v_1"><img src="../../images/p129v_1.png" alt="fig_p129v_1"/></a>
+<span id="fig_p129v_1" class="fig-inline fig-x-small fig-margin fig-margin-left"><img src="../../images/p129v_1.png" alt="fig_p129v_1"/></span>
 
 </div>
 </div>
@@ -20668,7 +20672,7 @@ similar fancies. Thus for <span class="al">rats</span> &amp; all animals.</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
-<sup class="comment-ref"><a href="#endnote-c_130r_03" id="ref-c_130r_03-1">[573]</a></sup><a id="fig_p130r_1" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p130r_1"><img src="../../images/p130r_1.png" alt="fig_p130r_1"/></a>
+<sup class="comment-ref"><a href="#endnote-c_130r_03" id="ref-c_130r_03-1">[573]</a></sup><span id="fig_p130r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p130r_1.png" alt="fig_p130r_1"/></span>
 
 
 which, surrounding the fingers of the paws, stick in
@@ -21187,7 +21191,7 @@ the scales from the top of the toes will come out well.</p>
 
 
 
-<a id="fig_p133r_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p133r_1"><img src="../../images/p133r_1.png" alt="fig_p133r_1"/></a>
+<span id="fig_p133r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p133r_1.png" alt="fig_p133r_1"/></span>
 
 
 </div>
@@ -21586,7 +21590,7 @@ said animal, for the <span class="tl">mold</span>, in drying, contracts and woul
 make the animal contract. Keep it therefore in some <span class="env">moist &amp;
 humid place</span> until you have<br/>
 
-<a id="fig_p135r_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p135r_1"><img src="../../images/p135r_1.png" alt="fig_p135r_1"/></a>
+<span id="fig_p135r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p135r_1.png" alt="fig_p135r_1"/></span>
  done it.</div>
 </div>
 <div class="entry" id="p135r_3" data-categories="casting">
@@ -21903,7 +21907,7 @@ When they are thus fine, they are subject to burning, being put often
 in the <span class="tl">molds</span> for reheating. Therefore, use some new ones.</p>
 
 
-<a id="fig_p137r_1" class="fig-inline fig-x-small fig-margin fig-margin-left" href="#figure-list-fig_p137r_1"><img src="../../images/p137r_1.png" alt="fig_p137r_1"/></a>
+<span id="fig_p137r_1" class="fig-inline fig-x-small fig-margin fig-margin-left"><img src="../../images/p137r_1.png" alt="fig_p137r_1"/></span>
 
 
 </div>
@@ -22281,7 +22285,7 @@ better, thus</p>
 
 <p class="ab" >Make the first
 
-<a id="fig_p140r_1" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p140r_1"><img src="../../images/p140r_1.png" alt="fig_p140r_1"/></a>
+<span id="fig_p140r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p140r_1.png" alt="fig_p140r_1"/></span>
 
  gate twice as large as for other <span class="tl">molds</span>. And if, in
 the first cast, your work becomes porous and does not come out neat
@@ -22614,7 +22618,7 @@ folded &amp; curved it to hold the eggs. Other animals</p>
 
 
 
-<a id="fig_p141v_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p141v_1"><img src="../../images/p141v_1.png" alt="fig_p141v_1"/></a>
+<span id="fig_p141v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p141v_1.png" alt="fig_p141v_1"/></span>
 
 
 
@@ -22701,7 +22705,7 @@ without breaking.</p>
 
 
 
-<a id="fig_p142r_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p142r_1"><img src="../../images/p142r_1.png" alt="fig_p142r_1"/></a>
+<span id="fig_p142r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p142r_1.png" alt="fig_p142r_1"/></span>
 
 
 
@@ -22914,7 +22918,7 @@ can be done. Make also some gate conduits from the end of </p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
-<a id="fig_p143r_1" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p143r_1"><img src="../../images/p143r_1.png" alt="fig_p143r_1"/></a>
+<span id="fig_p143r_1" class="fig-inline fig-small fig-intext"><img src="../../images/p143r_1.png" alt="fig_p143r_1"/></span>
 <br/>
 
 
@@ -23026,12 +23030,12 @@ should be lower than the shell of the <del><span class="fr" >s</span></del>
 
 
 
-<a id="fig_p144r_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p144r_1"><img src="../../images/p144r_1.png" alt="fig_p144r_1"/></a>
+<span id="fig_p144r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p144r_1.png" alt="fig_p144r_1"/></span>
 
 
 
 
-<a id="fig_p144r_2" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p144r_2"><img src="../../images/p144r_2.png" alt="fig_p144r_2"/></a>
+<span id="fig_p144r_2" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p144r_2.png" alt="fig_p144r_2"/></span>
 
 
 
@@ -23065,7 +23069,7 @@ malleable, like <span class="al">snakes</span> &amp; <span class="al">lizards</s
 <span class="m">Hot water</span> makes the <span class="m">tempered sand</span> <del>in <span class="m">water</span></del> set
 better on <span class="m">oil</span>, which otherwise would be refused.</p>
 
-<a id="fig_p144v_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p144v_1"><img src="../../images/p144v_1.png" alt="fig_p144v_1"/></a>
+<span id="fig_p144v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p144v_1.png" alt="fig_p144v_1"/></span>
 
 </div>
 <div class="entry" id="p144r_1" data-categories="">
@@ -23099,7 +23103,7 @@ the belly &amp; of the throat, in the way that you uncover a
 beasts, which are molded in two halves.</p>
 
 
-<a id="fig_p144v_2" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p144v_2"><img src="../../images/p144v_2.png" alt="fig_p144v_2"/></a>
+<span id="fig_p144v_2" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p144v_2.png" alt="fig_p144v_2"/></span>
 
 
 
@@ -23162,7 +23166,7 @@ is in it would not be released.</p>
 <em><span class="la" >Inquire</span></em><sup class="comment-ref"><a href="#endnote-c_145r_05" id="ref-c_145r_05-1">[616]</a></sup>
 </div>
 <div class="margin-note" data-position="left-middle">
-<span class="margin-position">[left-middle]</span> <a id="fig_p145r_1" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p145r_1"><img src="../../images/p145r_1.png" alt="fig_p145r_1"/></a>
+<span class="margin-position">[left-middle]</span> <span id="fig_p145r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p145r_1.png" alt="fig_p145r_1"/></span>
 A
 </div>
 </div>
@@ -23190,7 +23194,7 @@ lightly by the fire, &amp; cast, &amp; then shake the <span class="tl">mold</spa
 scratch over rough scales, &amp; let it cool before opening. Usually one
 cuts the <span class="tl"><span class="m">bone</span></span> in the middle, and the dullest part and
 that which does not have any half circles
-    <a id="fig_p145r_2" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p145r_2"><img src="../../images/p145r_2.png" alt="fig_p145r_2"/></a>
+    <span id="fig_p145r_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p145r_2.png" alt="fig_p145r_2"/></span>
 is the most delicate and smoothest for molding, &amp; thus one always
 imprints there the principal;<sup class="comment-ref"><a href="#endnote-c_137r_03" id="ref-c_137r_03-7">[376]</a></sup> the other is scaly on the inside, as it
 demonstrates on the outside. Thus, one does not use this for delicate
@@ -23290,7 +23294,7 @@ flower or plant in some <span class="m">good eau-de-vie</span>, <del>or else
 <br/>
 
     
-<a id="fig_p145v_2" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p145v_2"><img src="../../images/p145v_2.png" alt="fig_p145v_2"/></a>
+<span id="fig_p145v_2" class="fig-inline fig-small fig-intext"><img src="../../images/p145v_2.png" alt="fig_p145v_2"/></span>
 
 </div>
 </div>
@@ -23442,12 +23446,12 @@ go, attach &amp; rejoin it to the <span class="tl">mold</span> with some <span c
 your <span class="tl">mold</span> can be seen thus.</p>
 
 
-<a id="fig_p146v_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p146v_1"><img src="../../images/p146v_1.png" alt="fig_p146v_1"/></a>
+<span id="fig_p146v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p146v_1.png" alt="fig_p146v_1"/></span>
 
 
 
 
-<a id="fig_p146v_2" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p146v_2"><img src="../../images/p146v_2.png" alt="fig_p146v_2"/></a>
+<span id="fig_p146v_2" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p146v_2.png" alt="fig_p146v_2"/></span>
 
 
 
@@ -23962,7 +23966,7 @@ the gate when the <span class="tl">mold</span> is in several pieces, like a
 not shake. But when the <span class="tl">mold</span> is only of two pieces,<br/>
 
     
-<a id="fig_p150v_1" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p150v_1"><img src="../../images/p150v_1.png" alt="fig_p150v_1"/></a>
+<span id="fig_p150v_1" class="fig-inline fig-small fig-intext"><img src="../../images/p150v_1.png" alt="fig_p150v_1"/></span>
 <br/>
 
 
@@ -23970,7 +23974,7 @@ it is not necessary to put <span class="tl">points</span><br/>
  in the middle of it.<br/>
 
 
-    <a id="fig_p150v_2" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p150v_2"><img src="../../images/p150v_2.png" alt="fig_p150v_2"/></a>
+    <span id="fig_p150v_2" class="fig-inline fig-small fig-intext"><img src="../../images/p150v_2.png" alt="fig_p150v_2"/></span>
 
 
 
@@ -24019,7 +24023,7 @@ it. And then, if there is hardly any <span class="m">wax</span>, you will not ne
 reheat it as much. When opening the <span class="tl">mold</span>, the cast will break.
 But it can easily be repaired, even though you
 cast <span class="mark">A</span><sup class="comment-ref"><a href="#endnote-c_150v_02" id="ref-c_150v_02-1">[635]</a></sup>
-    <a id="fig_p150v_4" class="fig-inline fig-small fig-margin fig-margin-right" href="#figure-list-fig_p150v_4"><img src="../../images/p150v_4.png" alt="fig_p150v_4"/></a>
+    <span id="fig_p150v_4" class="fig-inline fig-small fig-margin fig-margin-right"><img src="../../images/p150v_4.png" alt="fig_p150v_4"/></span>
 
 </div>
 </div>
@@ -24088,7 +24092,7 @@ beforehand by joining &amp; binding well the two halves of the
 inside many <span class="tl"><span class="m">iron wires</span></span> to sustain the core.<br/>
 
 
-    <a id="fig_p151r_1" class="fig-inline fig-small fig-intext" href="#figure-list-fig_p151r_1"><img src="../../images/p151r_1.png" alt="fig_p151r_1"/></a>
+    <span id="fig_p151r_1" class="fig-inline fig-small fig-intext"><img src="../../images/p151r_1.png" alt="fig_p151r_1"/></span>
 
 
 </div>
@@ -24153,7 +24157,7 @@ chisels</span>,<sup class="comment-ref"><a href="#endnote-c_151v_01" id="ref-c_1
 &amp; <span class="tl">small serrated chisels</span>.</p>
 
 
-    <a id="fig_p151v_1" class="fig-inline fig-x-small fig-margin fig-margin-left" href="#figure-list-fig_p151v_1"><img src="../../images/p151v_1.png" alt="fig_p151v_1"/></a>
+    <span id="fig_p151v_1" class="fig-inline fig-x-small fig-margin fig-margin-left"><img src="../../images/p151v_1.png" alt="fig_p151v_1"/></span>
 
 
 </div>
@@ -24312,7 +24316,7 @@ tools &amp; with the appropriate <span class="tl">small chisels</span>.</p>
 
 
 
-    <a id="fig_p152v_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p152v_1"><img src="../../images/p152v_1.png" alt="fig_p152v_1"/></a>
+    <span id="fig_p152v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p152v_1.png" alt="fig_p152v_1"/></span>
 
 
 
@@ -24322,7 +24326,7 @@ tools &amp; with the appropriate <span class="tl">small chisels</span>.</p>
 
 
 
-    <a id="fig_p152v_2" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p152v_2"><img src="../../images/p152v_2.png" alt="fig_p152v_2"/></a>
+    <span id="fig_p152v_2" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p152v_2.png" alt="fig_p152v_2"/></span>
 
 
 
@@ -24424,7 +24428,7 @@ or of <span class="tl"><span class="m"><span class="fr" >carton</span></span></s
 pin</span>.</p>
 
 
-    <a id="fig_p153v_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p153v_1"><img src="../../images/p153v_1.png" alt="fig_p153v_1"/></a>
+    <span id="fig_p153v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p153v_1.png" alt="fig_p153v_1"/></span>
 
 
 </div>
@@ -24439,7 +24443,7 @@ attack. But <span class="m">butter</span> remains on the surface of the <span cl
 &amp; is not imbibed at all. You should not, on these reverse sides,
 temper your <span class="m">sand</span> with <span class="m">hot water</span>, for it would melt<br/>
 
-<a id="fig_p153v_2" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p153v_2"><img src="../../images/p153v_2.png" alt="fig_p153v_2"/></a>
+<span id="fig_p153v_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p153v_2.png" alt="fig_p153v_2"/></span>
  the <span class="m">butter</span>.
 
 </div>
@@ -24682,7 +24686,7 @@ work soak in <span class="m">water</span> for a <span class="tmp">long time</spa
 the <span class="m">water</span>, the <span class="m">earth</span> is gone from it.</p>
 
 
-<a id="fig_p155r_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p155r_1"><img src="../../images/p155r_1.png" alt="fig_p155r_1"/></a>
+<span id="fig_p155r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p155r_1.png" alt="fig_p155r_1"/></span>
 
 
 
@@ -24893,7 +24897,7 @@ by fortifying the wings a little, &amp; the feet, as said.</div>
 If your <span class="pa">sage</span> or branch has something to repair, do as said
 below. And then paint according to nature.
 
-    <a id="fig_p156v_1" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p156v_1"><img src="../../images/p156v_1.png" alt="fig_p156v_1"/></a>
+    <span id="fig_p156v_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p156v_1.png" alt="fig_p156v_1"/></span>
 </div>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
@@ -25328,7 +25332,7 @@ for the most secure way, even if you could mold them together in a closed
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
-<span class="margin-position">[left-middle]</span> <a id="fig_p159v_1" class="fig-inline fig-default fig-intext" href="#figure-list-fig_p159v_1"><img src="../../images/p159v_1.png" alt="fig_p159v_1"/></a>
+<span class="margin-position">[left-middle]</span> <span id="fig_p159v_1" class="fig-inline fig-default fig-intext"><img src="../../images/p159v_1.png" alt="fig_p159v_1"/></span>
     <sup class="comment-ref"><a href="#endnote-c_159v_02" id="ref-c_159v_02-1">[665]</a></sup></div>
 </div>
 <div class="entry" id="p159v_3" data-categories="casting">
@@ -25403,10 +25407,10 @@ not be easily released from it.<hr/>
 <h3 class="head " ><span class="tl">Press</span> for large <span class="tl">molds</span> <span class="folio-range">fol. 160r</span></h3>
 
 
-<a id="fig_p160r_1" class="fig-inline fig-default" href="#figure-list-fig_p160r_1"><img src="../../images/p160r_1.png" alt="fig_p160r_1"/></a>
+<span id="fig_p160r_1" class="fig-inline fig-default"><img src="../../images/p160r_1.png" alt="fig_p160r_1"/></span>
 
 
-<a id="fig_p160r_2" class="fig-inline fig-small fig-margin fig-margin-right" href="#figure-list-fig_p160r_2"><img src="../../images/p160r_2.png" alt="fig_p160r_2"/></a>
+<span id="fig_p160r_2" class="fig-inline fig-small fig-margin fig-margin-right"><img src="../../images/p160r_2.png" alt="fig_p160r_2"/></span>
 
     
 
@@ -25900,7 +25904,7 @@ and fine, one throws on top <span class="m">vinegar</span>, <span class="m"><spa
 <span class="m">eau-de-vie</span> also.</p>
 
 
-<a id="fig_p163v_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p163v_1"><img src="../../images/p163v_1.png" alt="fig_p163v_1"/></a>
+<span id="fig_p163v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p163v_1.png" alt="fig_p163v_1"/></span>
 
 
 </div>
@@ -26264,7 +26268,7 @@ of these some <span class="m">veins of wax</span>. Make sure also that under the
 there is enough <span class="m">wax</span>, for this is what makes the gate.</p>
 
 
-<a id="fig_p165v_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p165v_1"><img src="../../images/p165v_1.png" alt="fig_p165v_1"/></a>
+<span id="fig_p165v_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p165v_1.png" alt="fig_p165v_1"/></span>
 
 
 </div>
@@ -26413,7 +26417,7 @@ and it will take on a high color.</p>
 <h3 class="head " ><span class="wp">Petards</span><sup class="comment-ref"><a href="#endnote-c_008r_04" id="ref-c_008r_04-7">[121]</a></sup> <span class="folio-range">fol. 167r–168v</span></h3>
 
 
-<p class="ab" ><a id="fig_p167r_1" class="fig-inline fig-large" href="#figure-list-fig_p167r_1"><img src="../../images/p167r_1.png" alt="fig_p167r_1"/></a>
+<p class="ab" ><span id="fig_p167r_1" class="fig-inline fig-large"><img src="../../images/p167r_1.png" alt="fig_p167r_1"/></span>
 <sup class="comment-ref"><a href="#endnote-c_167r_01" id="ref-c_167r_01-1">[725]</a></sup></p>
 
 
@@ -26429,7 +26433,7 @@ Others are of the weight of 25 to 27 <span class="ms">lb</span> and are loaded w
 loaded with eight <span class="ms">lb</span> of <span class="m">powder</span>. And thus they are formed
 according to the effort they have to make. On the outside, they are <del><span class="fr" >e</span></del><sup class="comment-ref"><a href="#endnote-c_111v_02" id="ref-c_111v_02-2">[488]</a></sup>
 of a regular shape, but on the inside, they are made like a
-<span class="tl"><span class="oc" >crucible</span></span>, <a id="fig_p167r_2" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p167r_2"><img src="../../images/p167r_2.png" alt="fig_p167r_2"/></a>
+<span class="tl"><span class="oc" >crucible</span></span>, <span id="fig_p167r_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p167r_2.png" alt="fig_p167r_2"/></span>
 
 
 
@@ -26496,7 +26500,7 @@ something like a cocoon or</p>
 
 </div>
 <div class="entry" id="p167r_1" data-categories="arms and armor">
-<a id="fig_p168r_1" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p168r_1"><img src="../../images/p168r_1.png" alt="fig_p168r_1"/></a>
+<span id="fig_p168r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p168r_1.png" alt="fig_p168r_1"/></span>
 
 
 <p class="ab" >a <span class="tl">peg</span> which one puts into the touch-hole, &amp; then, with
@@ -26820,7 +26824,7 @@ you will be able to mix there some works of <span class="m">sugar</span>,</p>
 
 
 
-    <a id="fig_p169v_3" class="fig-inline fig-small fig-margin fig-margin-left" href="#figure-list-fig_p169v_3"><img src="../../images/p169v_3.png" alt="fig_p169v_3"/></a>
+    <span id="fig_p169v_3" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p169v_3.png" alt="fig_p169v_3"/></span>
 
 
 
@@ -26868,7 +26872,7 @@ harder by adding into the already melted one more <span class="m">melted sulfur<
 <div class="margin-note" data-position="left-bottom">
 <span class="margin-position">[left-bottom]</span> 
         
-<a id="fig_p170r_1" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p170r_1"><img src="../../images/p170r_1.png" alt="fig_p170r_1"/></a>
+<span id="fig_p170r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p170r_1.png" alt="fig_p170r_1"/></span>
 <sup class="comment-ref"><a href="#endnote-c_170r_01" id="ref-c_170r_01-1">[730]</a></sup>
 &amp; join &amp; <span class="m">solder</span> a tail of <span class="m">latten wire</span> with
 <span class="m">solder</span>. The lumps on a flower are a small matter, for this can
@@ -26937,7 +26941,7 @@ tin</span>.</p>
 for when hot, they retain the <span class="m">ash</span>. When cold, they are cleaned better. Take a <span class="tl"><span class="m">thin wire of latten</span></span> or a <span class="tl"><span class="m">delicate straw</span></span> to clean the tail completely, for this is what makes the gate. Blow into it &amp; suck, drawing it to you. Before molding,
 thicken the tail with <span class="m">wax</span>, then cut it,
 
-<a id="fig_p170r_2" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p170r_2"><img src="../../images/p170r_2.png" alt="fig_p170r_2"/></a>
+<span id="fig_p170r_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p170r_2.png" alt="fig_p170r_2"/></span>
 <sup class="comment-ref"><a href="#endnote-c_170r_02" id="ref-c_170r_02-1">[732]</a></sup></p>
 
 
@@ -26959,7 +26963,7 @@ thicken the tail with <span class="m">wax</span>, then cut it,
 
         
         <p class="ab" >And for the first year, eighty <span class="cn">livres</span> and fifteen
-            <a id="fig_p170v_2" class="fig-inline fig-x-small fig-intext" href="#figure-list-fig_p170v_2"><img src="../../images/p170v_2.png" alt="fig_p170v_2"/></a><sup class="comment-ref"><a href="#endnote-c_170v_03" id="ref-c_170v_03-1">[736]</a></sup> remain to them,
+            <span id="fig_p170v_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p170v_2.png" alt="fig_p170v_2"/></span><sup class="comment-ref"><a href="#endnote-c_170v_03" id="ref-c_170v_03-1">[736]</a></sup> remain to them,
             and for the second settlement, they have not yet received anything.<hr/>
 </p>
 
@@ -36331,819 +36335,6 @@ the Author-Practitioner</a> — Colin Debuiche</li>
 </ul>
 </div>
 
-    <div id="list-of-figures" style="page-break-before: always;">
-<h2>List of Figures</h2>
-<div class="figure-list-item" id="figure-list-fig_p003v_1">
-<img src="../../images/p003v_1.png" alt="">
-<p class="figure-caption">Figure p003v_1 - </p>
-<a href="#fig_p003v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p006v_1">
-<img src="../../images/p006v_1.png" alt="">
-<p class="figure-caption">Figure p006v_1 - </p>
-<a href="#fig_p006v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p014r_1">
-<img src="../../images/p014r_1.png" alt="">
-<p class="figure-caption">Figure p014r_1 - </p>
-<a href="#fig_p014r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p016r_1">
-<img src="../../images/p016r_1.png" alt="">
-<p class="figure-caption">Figure p016r_1 - </p>
-<a href="#fig_p016r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p019r_1">
-<img src="../../images/p019r_1.png" alt="">
-<p class="figure-caption">Figure p019r_1 - </p>
-<a href="#fig_p019r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p019v_1">
-<img src="../../images/p019v_1.png" alt="">
-<p class="figure-caption">Figure p019v_1 - </p>
-<a href="#fig_p019v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p019v_2">
-<img src="../../images/p019v_2.png" alt="">
-<p class="figure-caption">Figure p019v_2 - </p>
-<a href="#fig_p019v_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p019v_3">
-<img src="../../images/p019v_3.png" alt="">
-<p class="figure-caption">Figure p019v_3 - </p>
-<a href="#fig_p019v_3">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p019v_4">
-<img src="../../images/p019v_4.png" alt="">
-<p class="figure-caption">Figure p019v_4 - </p>
-<a href="#fig_p019v_4">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p020r_1">
-<img src="../../images/p020r_1.png" alt="">
-<p class="figure-caption">Figure p020r_1 - </p>
-<a href="#fig_p020r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p022r_1">
-<img src="../../images/p022r_1.png" alt="">
-<p class="figure-caption">Figure p022r_1 - </p>
-<a href="#fig_p022r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p022v_1">
-<img src="../../images/p022v_1.png" alt="">
-<p class="figure-caption">Figure p022v_1 - </p>
-<a href="#fig_p022v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p022v_2">
-<img src="../../images/p022v_2.png" alt="">
-<p class="figure-caption">Figure p022v_2 - </p>
-<a href="#fig_p022v_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p023r_1">
-<img src="../../images/p023r_1.png" alt="">
-<p class="figure-caption">Figure p023r_1 - </p>
-<a href="#fig_p023r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p023v_1">
-<img src="../../images/p023v_1.png" alt="">
-<p class="figure-caption">Figure p023v_1 - </p>
-<a href="#fig_p023v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p026r_1">
-<img src="../../images/p026r_1.png" alt="">
-<p class="figure-caption">Figure p026r_1 - </p>
-<a href="#fig_p026r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p026r_2">
-<img src="../../images/p026r_2.png" alt="">
-<p class="figure-caption">Figure p026r_2 - </p>
-<a href="#fig_p026r_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p026v_1">
-<img src="../../images/p026v_1.png" alt="">
-<p class="figure-caption">Figure p026v_1 - </p>
-<a href="#fig_p026v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p027r_1">
-<img src="../../images/p027r_1.png" alt="">
-<p class="figure-caption">Figure p027r_1 - </p>
-<a href="#fig_p027r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p027r_2">
-<img src="../../images/p027r_2.png" alt="">
-<p class="figure-caption">Figure p027r_2 - </p>
-<a href="#fig_p027r_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p027r_3">
-<img src="../../images/p027r_3.png" alt="">
-<p class="figure-caption">Figure p027r_3 - </p>
-<a href="#fig_p027r_3">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p027v_1">
-<img src="../../images/p027v_1.png" alt="">
-<p class="figure-caption">Figure p027v_1 - </p>
-<a href="#fig_p027v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p027v_2">
-<img src="../../images/p027v_2.png" alt="">
-<p class="figure-caption">Figure p027v_2 - </p>
-<a href="#fig_p027v_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p027v_3">
-<img src="../../images/p027v_3.png" alt="">
-<p class="figure-caption">Figure p027v_3 - </p>
-<a href="#fig_p027v_3">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p027v_4">
-<img src="../../images/p027v_4.png" alt="">
-<p class="figure-caption">Figure p027v_4 - </p>
-<a href="#fig_p027v_4">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p027v_5">
-<img src="../../images/p027v_5.png" alt="">
-<p class="figure-caption">Figure p027v_5 - </p>
-<a href="#fig_p027v_5">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p027v_6">
-<img src="../../images/p027v_6.png" alt="">
-<p class="figure-caption">Figure p027v_6 - </p>
-<a href="#fig_p027v_6">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p027v_7">
-<img src="../../images/p027v_7.png" alt="">
-<p class="figure-caption">Figure p027v_7 - </p>
-<a href="#fig_p027v_7">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p027v_8">
-<img src="../../images/p027v_8.png" alt="">
-<p class="figure-caption">Figure p027v_8 - </p>
-<a href="#fig_p027v_8">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p028r_1">
-<img src="../../images/p028r_1.png" alt="">
-<p class="figure-caption">Figure p028r_1 - </p>
-<a href="#fig_p028r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p029v_1">
-<img src="../../images/p029v_1.png" alt="">
-<p class="figure-caption">Figure p029v_1 - </p>
-<a href="#fig_p029v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p033r_1">
-<img src="../../images/p033r_1.png" alt="">
-<p class="figure-caption">Figure p033r_1 - </p>
-<a href="#fig_p033r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p033r_2">
-<img src="../../images/p033r_2.png" alt="">
-<p class="figure-caption">Figure p033r_2 - </p>
-<a href="#fig_p033r_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p033v_1">
-<img src="../../images/p033v_1.png" alt="">
-<p class="figure-caption">Figure p033v_1 - </p>
-<a href="#fig_p033v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p034v_1">
-<img src="../../images/p034v_1.png" alt="">
-<p class="figure-caption">Figure p034v_1 - </p>
-<a href="#fig_p034v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p035r_1">
-<img src="../../images/p035r_1.png" alt="">
-<p class="figure-caption">Figure p035r_1 - </p>
-<a href="#fig_p035r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p035v_1">
-<img src="../../images/p035v_1.png" alt="">
-<p class="figure-caption">Figure p035v_1 - </p>
-<a href="#fig_p035v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p036r_1">
-<img src="../../images/p036r_1.png" alt="">
-<p class="figure-caption">Figure p036r_1 - </p>
-<a href="#fig_p036r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p045r_1">
-<img src="../../images/p045r_1.png" alt="">
-<p class="figure-caption">Figure p045r_1 - </p>
-<a href="#fig_p045r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p045v_1">
-<img src="../../images/p045v_1.png" alt="">
-<p class="figure-caption">Figure p045v_1 - </p>
-<a href="#fig_p045v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p046r_1">
-<img src="../../images/p046r_1.png" alt="">
-<p class="figure-caption">Figure p046r_1 - </p>
-<a href="#fig_p046r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p046v_1">
-<img src="../../images/p046v_1.png" alt="">
-<p class="figure-caption">Figure p046v_1 - </p>
-<a href="#fig_p046v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p048r_1">
-<img src="../../images/p048r_1.png" alt="">
-<p class="figure-caption">Figure p048r_1 - </p>
-<a href="#fig_p048r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p054v_1">
-<img src="../../images/p054v_1.png" alt="">
-<p class="figure-caption">Figure p054v_1 - </p>
-<a href="#fig_p054v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p059r_1">
-<img src="../../images/p059r_1.png" alt="">
-<p class="figure-caption">Figure p059r_1 - </p>
-<a href="#fig_p059r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p061r_1">
-<img src="../../images/p061r_1.png" alt="">
-<p class="figure-caption">Figure p061r_1 - </p>
-<a href="#fig_p061r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p061r_2">
-<img src="../../images/p061r_2.png" alt="">
-<p class="figure-caption">Figure p061r_2 - </p>
-<a href="#fig_p061r_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p062v_1">
-<img src="../../images/p062v_1.png" alt="">
-<p class="figure-caption">Figure p062v_1 - </p>
-<a href="#fig_p062v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p062v_2">
-<img src="../../images/p062v_2.png" alt="">
-<p class="figure-caption">Figure p062v_2 - </p>
-<a href="#fig_p062v_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p064v_1">
-<img src="../../images/p064v_1.png" alt="">
-<p class="figure-caption">Figure p064v_1 - </p>
-<a href="#fig_p064v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p065r_1">
-<img src="../../images/p065r_1.png" alt="">
-<p class="figure-caption">Figure p065r_1 - </p>
-<a href="#fig_p065r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p065r_2">
-<img src="../../images/p065r_2.png" alt="">
-<p class="figure-caption">Figure p065r_2 - </p>
-<a href="#fig_p065r_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p077r_1">
-<img src="../../images/p077r_1.png" alt="">
-<p class="figure-caption">Figure p077r_1 - </p>
-<a href="#fig_p077r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p080r_2">
-<img src="../../images/p080r_2.png" alt="">
-<p class="figure-caption">Figure p080r_2 - </p>
-<a href="#fig_p080r_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p080r_1">
-<img src="../../images/p080r_1.png" alt="">
-<p class="figure-caption">Figure p080r_1 - </p>
-<a href="#fig_p080r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p080r_3">
-<img src="../../images/p080r_3.png" alt="">
-<p class="figure-caption">Figure p080r_3 - </p>
-<a href="#fig_p080r_3">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p080v_1">
-<img src="../../images/p080v_1.png" alt="">
-<p class="figure-caption">Figure p080v_1 - </p>
-<a href="#fig_p080v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p082r_1">
-<img src="../../images/p082r_1.png" alt="">
-<p class="figure-caption">Figure p082r_1 - </p>
-<a href="#fig_p082r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p086v_1">
-<img src="../../images/p086v_1.png" alt="">
-<p class="figure-caption">Figure p086v_1 - </p>
-<a href="#fig_p086v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p091v_1">
-<img src="../../images/p091v_1.png" alt="">
-<p class="figure-caption">Figure p091v_1 - </p>
-<a href="#fig_p091v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p093v_1">
-<img src="../../images/p093v_1.png" alt="">
-<p class="figure-caption">Figure p093v_1 - </p>
-<a href="#fig_p093v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p094r_1">
-<img src="../../images/p094r_1.png" alt="">
-<p class="figure-caption">Figure p094r_1 - </p>
-<a href="#fig_p094r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p094v_1">
-<img src="../../images/p094v_1.png" alt="">
-<p class="figure-caption">Figure p094v_1 - </p>
-<a href="#fig_p094v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p094v_2">
-<img src="../../images/p094v_2.png" alt="">
-<p class="figure-caption">Figure p094v_2 - </p>
-<a href="#fig_p094v_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p094v_8">
-<img src="../../images/p094v_8.png" alt="">
-<p class="figure-caption">Figure p094v_8 - </p>
-<a href="#fig_p094v_8">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p094v_4">
-<img src="../../images/p094v_4.png" alt="">
-<p class="figure-caption">Figure p094v_4 - </p>
-<a href="#fig_p094v_4">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p094v_5">
-<img src="../../images/p094v_5.png" alt="">
-<p class="figure-caption">Figure p094v_5 - </p>
-<a href="#fig_p094v_5">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p094v_6">
-<img src="../../images/p094v_6.png" alt="">
-<p class="figure-caption">Figure p094v_6 - </p>
-<a href="#fig_p094v_6">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p094v_7">
-<img src="../../images/p094v_7.png" alt="">
-<p class="figure-caption">Figure p094v_7 - </p>
-<a href="#fig_p094v_7">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p100v_1">
-<img src="../../images/p100v_1.png" alt="">
-<p class="figure-caption">Figure p100v_1 - </p>
-<a href="#fig_p100v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p101r_1">
-<img src="../../images/p101r_1.png" alt="">
-<p class="figure-caption">Figure p101r_1 - </p>
-<a href="#fig_p101r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p102r_1">
-<img src="../../images/p102r_1.png" alt="">
-<p class="figure-caption">Figure p102r_1 - </p>
-<a href="#fig_p102r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p102v_1">
-<img src="../../images/p102v_1.png" alt="">
-<p class="figure-caption">Figure p102v_1 - </p>
-<a href="#fig_p102v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p104v_1">
-<img src="../../images/p104v_1.png" alt="">
-<p class="figure-caption">Figure p104v_1 - </p>
-<a href="#fig_p104v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p105r_3">
-<img src="../../images/p105r_3.png" alt="">
-<p class="figure-caption">Figure p105r_3 - </p>
-<a href="#fig_p105r_3">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p105r_2">
-<img src="../../images/p105r_2.png" alt="">
-<p class="figure-caption">Figure p105r_2 - </p>
-<a href="#fig_p105r_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p105r_1">
-<img src="../../images/p105r_1.png" alt="">
-<p class="figure-caption">Figure p105r_1 - </p>
-<a href="#fig_p105r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p111r_1">
-<img src="../../images/p111r_1.png" alt="">
-<p class="figure-caption">Figure p111r_1 - </p>
-<a href="#fig_p111r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p112r_1">
-<img src="../../images/p112r_1.png" alt="">
-<p class="figure-caption">Figure p112r_1 - </p>
-<a href="#fig_p112r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p112v_2">
-<img src="../../images/p112v_2.png" alt="">
-<p class="figure-caption">Figure p112v_2 - </p>
-<a href="#fig_p112v_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p112v_1">
-<img src="../../images/p112v_1.png" alt="">
-<p class="figure-caption">Figure p112v_1 - </p>
-<a href="#fig_p112v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p113r_2">
-<img src="../../images/p113r_2.png" alt="">
-<p class="figure-caption">Figure p113r_2 - </p>
-<a href="#fig_p113r_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p113r_3">
-<img src="../../images/p113r_3.png" alt="">
-<p class="figure-caption">Figure p113r_3 - </p>
-<a href="#fig_p113r_3">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p113r_1">
-<img src="../../images/p113r_1.png" alt="">
-<p class="figure-caption">Figure p113r_1 - </p>
-<a href="#fig_p113r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p113r_4">
-<img src="../../images/p113r_4.png" alt="">
-<p class="figure-caption">Figure p113r_4 - </p>
-<a href="#fig_p113r_4">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p113v_4">
-<img src="../../images/p113v_4.png" alt="">
-<p class="figure-caption">Figure p113v_4 - </p>
-<a href="#fig_p113v_4">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p113v_3">
-<img src="../../images/p113v_3.png" alt="">
-<p class="figure-caption">Figure p113v_3 - </p>
-<a href="#fig_p113v_3">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p113v_5">
-<img src="../../images/p113v_5.png" alt="">
-<p class="figure-caption">Figure p113v_5 - </p>
-<a href="#fig_p113v_5">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p114r_2">
-<img src="../../images/p114r_2.png" alt="">
-<p class="figure-caption">Figure p114r_2 - </p>
-<a href="#fig_p114r_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p114r_3">
-<img src="../../images/p114r_3.png" alt="">
-<p class="figure-caption">Figure p114r_3 - </p>
-<a href="#fig_p114r_3">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p114r_1">
-<img src="../../images/p114r_1.png" alt="">
-<p class="figure-caption">Figure p114r_1 - </p>
-<a href="#fig_p114r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p114r_4">
-<img src="../../images/p114r_4.png" alt="">
-<p class="figure-caption">Figure p114r_4 - </p>
-<a href="#fig_p114r_4">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p114r_7">
-<img src="../../images/p114r_7.png" alt="">
-<p class="figure-caption">Figure p114r_7 - </p>
-<a href="#fig_p114r_7">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p114r_6">
-<img src="../../images/p114r_6.png" alt="">
-<p class="figure-caption">Figure p114r_6 - </p>
-<a href="#fig_p114r_6">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p114v_3">
-<img src="../../images/p114v_3.png" alt="">
-<p class="figure-caption">Figure p114v_3 - </p>
-<a href="#fig_p114v_3">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p114v_1">
-<img src="../../images/p114v_1.png" alt="">
-<p class="figure-caption">Figure p114v_1 - </p>
-<a href="#fig_p114v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p114v_4">
-<img src="../../images/p114v_4.png" alt="">
-<p class="figure-caption">Figure p114v_4 - </p>
-<a href="#fig_p114v_4">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p115r_5">
-<img src="../../images/p115r_5.png" alt="">
-<p class="figure-caption">Figure p115r_5 - </p>
-<a href="#fig_p115r_5">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p115r_1">
-<img src="../../images/p115r_1.png" alt="">
-<p class="figure-caption">Figure p115r_1 - </p>
-<a href="#fig_p115r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p115r_2">
-<img src="../../images/p115r_2.png" alt="">
-<p class="figure-caption">Figure p115r_2 - </p>
-<a href="#fig_p115r_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p115r_3">
-<img src="../../images/p115r_3.png" alt="">
-<p class="figure-caption">Figure p115r_3 - </p>
-<a href="#fig_p115r_3">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p115r_4">
-<img src="../../images/p115r_4.png" alt="">
-<p class="figure-caption">Figure p115r_4 - </p>
-<a href="#fig_p115r_4">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p115v_1">
-<img src="../../images/p115v_1.png" alt="">
-<p class="figure-caption">Figure p115v_1 - </p>
-<a href="#fig_p115v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p115v_2">
-<img src="../../images/p115v_2.png" alt="">
-<p class="figure-caption">Figure p115v_2 - </p>
-<a href="#fig_p115v_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p116r_1">
-<img src="../../images/p116r_1.png" alt="">
-<p class="figure-caption">Figure p116r_1 - </p>
-<a href="#fig_p116r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p117r_1">
-<img src="../../images/p117r_1.png" alt="">
-<p class="figure-caption">Figure p117r_1 - </p>
-<a href="#fig_p117r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p117r_2">
-<img src="../../images/p117r_2.png" alt="">
-<p class="figure-caption">Figure p117r_2 - </p>
-<a href="#fig_p117r_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p117r_3">
-<img src="../../images/p117r_3.png" alt="">
-<p class="figure-caption">Figure p117r_3 - </p>
-<a href="#fig_p117r_3">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p118v_1">
-<img src="../../images/p118v_1.png" alt="">
-<p class="figure-caption">Figure p118v_1 - </p>
-<a href="#fig_p118v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p120v_3">
-<img src="../../images/p120v_3.png" alt="">
-<p class="figure-caption">Figure p120v_3 - </p>
-<a href="#fig_p120v_3">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p122r_2">
-<img src="../../images/p122r_2.png" alt="">
-<p class="figure-caption">Figure p122r_2 - </p>
-<a href="#fig_p122r_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p122r_1">
-<img src="../../images/p122r_1.png" alt="">
-<p class="figure-caption">Figure p122r_1 - </p>
-<a href="#fig_p122r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p122r_3">
-<img src="../../images/p122r_3.png" alt="">
-<p class="figure-caption">Figure p122r_3 - </p>
-<a href="#fig_p122r_3">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p122r_4">
-<img src="../../images/p122r_4.png" alt="">
-<p class="figure-caption">Figure p122r_4 - </p>
-<a href="#fig_p122r_4">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p122v_1">
-<img src="../../images/p122v_1.png" alt="">
-<p class="figure-caption">Figure p122v_1 - </p>
-<a href="#fig_p122v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p122v_2">
-<img src="../../images/p122v_2.png" alt="">
-<p class="figure-caption">Figure p122v_2 - </p>
-<a href="#fig_p122v_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p124v_2">
-<img src="../../images/p124v_2.png" alt="">
-<p class="figure-caption">Figure p124v_2 - </p>
-<a href="#fig_p124v_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p124v_1">
-<img src="../../images/p124v_1.png" alt="">
-<p class="figure-caption">Figure p124v_1 - </p>
-<a href="#fig_p124v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p125r_2">
-<img src="../../images/p125r_2.png" alt="">
-<p class="figure-caption">Figure p125r_2 - </p>
-<a href="#fig_p125r_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p127r_1">
-<img src="../../images/p127r_1.png" alt="">
-<p class="figure-caption">Figure p127r_1 - </p>
-<a href="#fig_p127r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p127v_1">
-<img src="../../images/p127v_1.png" alt="">
-<p class="figure-caption">Figure p127v_1 - </p>
-<a href="#fig_p127v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p129v_1">
-<img src="../../images/p129v_1.png" alt="">
-<p class="figure-caption">Figure p129v_1 - </p>
-<a href="#fig_p129v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p130r_1">
-<img src="../../images/p130r_1.png" alt="">
-<p class="figure-caption">Figure p130r_1 - </p>
-<a href="#fig_p130r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p133r_1">
-<img src="../../images/p133r_1.png" alt="">
-<p class="figure-caption">Figure p133r_1 - </p>
-<a href="#fig_p133r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p135r_1">
-<img src="../../images/p135r_1.png" alt="">
-<p class="figure-caption">Figure p135r_1 - </p>
-<a href="#fig_p135r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p137r_1">
-<img src="../../images/p137r_1.png" alt="">
-<p class="figure-caption">Figure p137r_1 - </p>
-<a href="#fig_p137r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p140r_1">
-<img src="../../images/p140r_1.png" alt="">
-<p class="figure-caption">Figure p140r_1 - </p>
-<a href="#fig_p140r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p141v_1">
-<img src="../../images/p141v_1.png" alt="">
-<p class="figure-caption">Figure p141v_1 - </p>
-<a href="#fig_p141v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p142r_1">
-<img src="../../images/p142r_1.png" alt="">
-<p class="figure-caption">Figure p142r_1 - </p>
-<a href="#fig_p142r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p143r_1">
-<img src="../../images/p143r_1.png" alt="">
-<p class="figure-caption">Figure p143r_1 - </p>
-<a href="#fig_p143r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p144r_1">
-<img src="../../images/p144r_1.png" alt="">
-<p class="figure-caption">Figure p144r_1 - </p>
-<a href="#fig_p144r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p144r_2">
-<img src="../../images/p144r_2.png" alt="">
-<p class="figure-caption">Figure p144r_2 - </p>
-<a href="#fig_p144r_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p144v_1">
-<img src="../../images/p144v_1.png" alt="">
-<p class="figure-caption">Figure p144v_1 - </p>
-<a href="#fig_p144v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p144v_2">
-<img src="../../images/p144v_2.png" alt="">
-<p class="figure-caption">Figure p144v_2 - </p>
-<a href="#fig_p144v_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p145r_1">
-<img src="../../images/p145r_1.png" alt="">
-<p class="figure-caption">Figure p145r_1 - </p>
-<a href="#fig_p145r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p145r_2">
-<img src="../../images/p145r_2.png" alt="">
-<p class="figure-caption">Figure p145r_2 - </p>
-<a href="#fig_p145r_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p145v_2">
-<img src="../../images/p145v_2.png" alt="">
-<p class="figure-caption">Figure p145v_2 - </p>
-<a href="#fig_p145v_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p146v_1">
-<img src="../../images/p146v_1.png" alt="">
-<p class="figure-caption">Figure p146v_1 - </p>
-<a href="#fig_p146v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p146v_2">
-<img src="../../images/p146v_2.png" alt="">
-<p class="figure-caption">Figure p146v_2 - </p>
-<a href="#fig_p146v_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p150v_1">
-<img src="../../images/p150v_1.png" alt="">
-<p class="figure-caption">Figure p150v_1 - </p>
-<a href="#fig_p150v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p150v_2">
-<img src="../../images/p150v_2.png" alt="">
-<p class="figure-caption">Figure p150v_2 - </p>
-<a href="#fig_p150v_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p150v_4">
-<img src="../../images/p150v_4.png" alt="">
-<p class="figure-caption">Figure p150v_4 - </p>
-<a href="#fig_p150v_4">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p151r_1">
-<img src="../../images/p151r_1.png" alt="">
-<p class="figure-caption">Figure p151r_1 - </p>
-<a href="#fig_p151r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p151v_1">
-<img src="../../images/p151v_1.png" alt="">
-<p class="figure-caption">Figure p151v_1 - </p>
-<a href="#fig_p151v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p152v_1">
-<img src="../../images/p152v_1.png" alt="">
-<p class="figure-caption">Figure p152v_1 - </p>
-<a href="#fig_p152v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p152v_2">
-<img src="../../images/p152v_2.png" alt="">
-<p class="figure-caption">Figure p152v_2 - </p>
-<a href="#fig_p152v_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p153v_1">
-<img src="../../images/p153v_1.png" alt="">
-<p class="figure-caption">Figure p153v_1 - </p>
-<a href="#fig_p153v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p153v_2">
-<img src="../../images/p153v_2.png" alt="">
-<p class="figure-caption">Figure p153v_2 - </p>
-<a href="#fig_p153v_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p155r_1">
-<img src="../../images/p155r_1.png" alt="">
-<p class="figure-caption">Figure p155r_1 - </p>
-<a href="#fig_p155r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p156v_1">
-<img src="../../images/p156v_1.png" alt="">
-<p class="figure-caption">Figure p156v_1 - </p>
-<a href="#fig_p156v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p159v_1">
-<img src="../../images/p159v_1.png" alt="">
-<p class="figure-caption">Figure p159v_1 - </p>
-<a href="#fig_p159v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p160r_1">
-<img src="../../images/p160r_1.png" alt="">
-<p class="figure-caption">Figure p160r_1 - </p>
-<a href="#fig_p160r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p160r_2">
-<img src="../../images/p160r_2.png" alt="">
-<p class="figure-caption">Figure p160r_2 - </p>
-<a href="#fig_p160r_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p163v_1">
-<img src="../../images/p163v_1.png" alt="">
-<p class="figure-caption">Figure p163v_1 - </p>
-<a href="#fig_p163v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p165v_1">
-<img src="../../images/p165v_1.png" alt="">
-<p class="figure-caption">Figure p165v_1 - </p>
-<a href="#fig_p165v_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p167r_1">
-<img src="../../images/p167r_1.png" alt="">
-<p class="figure-caption">Figure p167r_1 - </p>
-<a href="#fig_p167r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p167r_2">
-<img src="../../images/p167r_2.png" alt="">
-<p class="figure-caption">Figure p167r_2 - </p>
-<a href="#fig_p167r_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p168r_1">
-<img src="../../images/p168r_1.png" alt="">
-<p class="figure-caption">Figure p168r_1 - </p>
-<a href="#fig_p168r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p169v_3">
-<img src="../../images/p169v_3.png" alt="">
-<p class="figure-caption">Figure p169v_3 - </p>
-<a href="#fig_p169v_3">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p170r_1">
-<img src="../../images/p170r_1.png" alt="">
-<p class="figure-caption">Figure p170r_1 - </p>
-<a href="#fig_p170r_1">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p170r_2">
-<img src="../../images/p170r_2.png" alt="">
-<p class="figure-caption">Figure p170r_2 - </p>
-<a href="#fig_p170r_2">Back to reference</a>
-</div>
-<div class="figure-list-item" id="figure-list-fig_p170v_2">
-<img src="../../images/p170v_2.png" alt="">
-<p class="figure-caption">Figure p170v_2 - </p>
-<a href="#fig_p170v_2">Back to reference</a>
-</div>
-</div>
-
+    
 </body>
 </html>

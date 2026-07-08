@@ -34,21 +34,22 @@ def create_figure_list_html(figures):
     html += '</div>\n'
     return html
 
-def create_toc_html():
+def create_toc_html(include_figure_list=True):
     """
     Creates the HTML for a table of contents.
     """
-    html = """
+    figure_list_item = ('            <li><a href="#list-of-figures">List of Figures</a></li>\n'
+                        if include_figure_list else '')
+    html = f"""
     <div class="toc" style="page-break-after: always;">
         <h2>Table of Contents</h2>
         <ul>
-            <li><a href="#transcription">Transcription</a></li>
+            <li><a href="#translation">Translation</a></li>
             <li><a href="#endnotes">Endnotes</a></li>
             <li><a href="#back-of-book-index">Index of Categories</a></li>
             <li><a href="#tag-index">Index of Tags</a></li>
             <li><a href="#essay-index">Index of Essays</a></li>
-            <li><a href="#list-of-figures">List of Figures</a></li>
-        </ul>
+{figure_list_item}        </ul>
     </div>
     """
     return html
@@ -449,7 +450,7 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
 
     if tag == "all":
 
-        html = '<div class="manuscript" id="transcription">\n'
+        html = '<div class="manuscript" id="translation">\n'
 
         for child in elem:
 
@@ -914,12 +915,15 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
                     classes += " fig-intext"
                 if elem.get("render") == "tall":
                     classes += " fig-tall"
-                # image links to its List of Figures entry, which links back
-                html = (f'<a id="{escape_html(fig_id)}" class="{classes}" '
-                        f'href="#figure-list-{escape_html(fig_id)}">'
+                # inline figures replace the List of Figures, so nothing to link to
+                html = (f'<span id="{escape_html(fig_id)}" class="{classes}">'
                         f'<img src="../../images/{escape_html(local_img_path.name)}" '
                         f'alt="{escape_html(alt_text) if alt_text else escape_html(fig_id)}"/>'
-                        f'</a>')
+                        f'</span>')
+            elif RENDER_FIGURES:
+                # inline mode, but the image could not be fetched
+                html = (f'<span id="{escape_html(fig_id)}" class="figure-missing">'
+                        f'[Figure: {escape_html(alt_text) if alt_text else escape_html(fig_id)}]</span>')
             else:
                 # Create a link to the figure in the list of figures
                 html = f'<a id="{escape_html(fig_id)}" href="#figure-list-{escape_html(fig_id)}">[Figure: {escape_html(alt_text) if alt_text else fig_id}]</a>'
@@ -1020,39 +1024,44 @@ def get_css(render_semantic=False):
         margin: 0.8em 0 0.2em 0;
     }
     /* Inline figures (--figures mode) */
-    a.fig-inline {
+    .fig-inline {
         display: block;
         text-align: center;
         margin: 8pt auto;
         break-inside: avoid;
     }
-    a.fig-inline img {
+    .fig-inline img {
         max-height: 7.5in;
         max-width: 100%;
     }
-    a.fig-inline.fig-x-small img { max-width: 1.4in; }
-    a.fig-inline.fig-small img { max-width: 2.4in; }
-    a.fig-inline.fig-default img { max-width: 3.5in; }
-    a.fig-inline.fig-large img { max-width: 100%; }
-    a.fig-inline.fig-tall img { max-height: 5in; }
-    a.fig-inline.fig-intext {
+    .fig-inline.fig-x-small img { max-width: 1.4in; }
+    .fig-inline.fig-small img { max-width: 2.4in; }
+    .fig-inline.fig-default img { max-width: 3.5in; }
+    .fig-inline.fig-large img { max-width: 100%; }
+    .fig-inline.fig-tall img { max-height: 5in; }
+    .figure-missing {
+        font-style: italic;
+        color: #777;
+    }
+
+    .fig-inline.fig-intext {
         display: inline-block;
         vertical-align: middle;
         margin: 0 3pt;
     }
-    a.fig-inline.fig-intext.fig-x-small img { max-height: 0.75in; max-width: 1.8in; }
-    a.fig-inline.fig-intext.fig-small img { max-height: 1.25in; max-width: 2.5in; }
-    a.fig-inline.fig-intext.fig-default img { max-height: 1.25in; max-width: 2.5in; }
-    a.fig-inline.fig-margin {
+    .fig-inline.fig-intext.fig-x-small img { max-height: 0.75in; max-width: 1.8in; }
+    .fig-inline.fig-intext.fig-small img { max-height: 1.25in; max-width: 2.5in; }
+    .fig-inline.fig-intext.fig-default img { max-height: 1.25in; max-width: 2.5in; }
+    .fig-inline.fig-margin {
         display: block;
         max-width: 2.4in;
     }
-    a.fig-inline.fig-margin-right {
+    .fig-inline.fig-margin-right {
         float: right;
         clear: right;
         margin: 2pt 0 6pt 10pt;
     }
-    a.fig-inline.fig-margin-left {
+    .fig-inline.fig-margin-left {
         float: left;
         clear: left;
         margin: 2pt 10pt 6pt 0;
@@ -1184,7 +1193,7 @@ def get_css(render_semantic=False):
         color: #34495e;
     }
 
-    /* Transcription elements */
+    /* Transcription (source-text) elements */
     em {
         font-style: italic;
     }
@@ -1498,8 +1507,9 @@ def xml_to_html(xml_file, output_html, render_semantic=False, render_figures=Fal
     tag_index_html = create_tag_index_html(root)
     essay_index_html = create_essay_index_html(root, essays_by_entry, essays_unlinked)
     title_page_html = create_title_page_html()
-    toc_html = create_toc_html()
-    figure_list_html = create_figure_list_html(figures)
+    toc_html = create_toc_html(include_figure_list=not render_figures)
+    # inline figures render in the body, so the back-of-book list is redundant
+    figure_list_html = '' if render_figures else create_figure_list_html(figures)
     endnotes_html = ""
     if endnotes:
         print(f"Generating {len(endnotes)} endnotes...")
@@ -1534,7 +1544,7 @@ def xml_to_html(xml_file, output_html, render_semantic=False, render_figures=Fal
     {title_page_html}
     {toc_html}
     <h1>Secrets of Craft and Nature in Renaissance France</h1>
-    <h3>BnF Ms. Fr. 640 - English Translation</h3>
+    <h3>BnF Ms. Fr. 640 &mdash; English Translation</h3>
     {body_html}
     {endnotes_html}
     {index_html}
@@ -1645,8 +1655,9 @@ def main():
         '--figures',
         action='store_true',
         help='If set, render figure images inline in the body at their point of reference, '
-             'sized/positioned from the XML size/margin attributes. Default is off '
-             '(figures appear only in the List of Figures).'
+             'sized/positioned from the XML size/margin attributes, and omit the '
+             'back-of-book List of Figures. Default is off (figures appear only in '
+             'the List of Figures).'
     )
     args = parser.parse_args()
 
