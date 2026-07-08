@@ -1329,6 +1329,9 @@ def get_css(render_semantic=False):
         vertical-align: middle;
         margin: 0;
     }
+    .fig-with-note > .comment-ref {
+        margin-left: 2pt;
+    }
     .fig-with-note.fig-margin-left {
         float: left;
         clear: left;
