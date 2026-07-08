@@ -16,6 +16,131 @@ from pathlib import Path
 import urllib.request
 from collections import defaultdict
 
+
+# ==============================================================================
+# VERSIONS AND LABELS
+# ==============================================================================
+
+# Which manuscript version is being rendered, and in which language its
+# generated apparatus (titles, index headings, notes) is written.
+# tl  = English translation; tc = diplomatic French transcription;
+# tcn = normalized French transcription.
+VERSION_LANG = {'tl': 'en', 'tc': 'fr', 'tcn': 'fr'}
+
+LABELS = {
+    'en': {
+        'toc': 'Table of Contents',
+        'text_section': 'Translation',
+        'subtitle': 'BnF Ms. Fr. 640 &mdash; English Translation',
+        'title_page_subtitle': 'A Digital Critical Edition and English Translation of BnF Ms. Fr. 640',
+        'edited_by': 'Edited by:',
+        'publication': 'New York: Making and Knowing Project, 2020',
+        'endnotes': 'Endnotes',
+        'index_categories': 'Index of Categories',
+        'index_tags': 'Index of Tags',
+        'index_essays': 'Index of Essays',
+        'list_of_figures': 'List of Figures',
+        'back_to_reference': 'Back to reference',
+        'figure': 'Figure',
+        'in_margin': 'in margin:',
+        'essay': 'essay',
+        'essays': 'essays',
+        'see_essays': 'See {n} on this entry',
+        'tag_index_note': ('Terms marked in the manuscript, by tag type. '
+                           'Each reference links to the first entry on that folio containing the term.'),
+        'essay_index_note': ('Research essays from the online edition, by the manuscript entry they '
+                             'discuss. Essay titles link to the edition; entry headings link to the '
+                             'entry in this document.'),
+        'general_essays': 'General essays on the manuscript and edition',
+        'folio_range_title': 'Folio range of this entry',
+        'illegible': '[illegible]',
+        'gap': '[gap]',
+        'figure_ref': '[Figure: {label}]',
+    },
+    'fr': {
+        'toc': 'Table des matières',
+        'text_section': 'Transcription normalisée',
+        'subtitle': 'BnF Ms. Fr. 640 &mdash; Transcription normalisée',
+        'title_page_subtitle': 'Édition critique numérique du BnF Ms. Fr. 640 &mdash; transcription normalisée',
+        'edited_by': 'Édité par :',
+        'publication': 'New York : Making and Knowing Project, 2020',
+        'endnotes': 'Notes',
+        'index_categories': 'Index des catégories',
+        'index_tags': 'Index des termes balisés',
+        'index_essays': 'Index des essais',
+        'list_of_figures': 'Liste des figures',
+        'back_to_reference': 'Retour à la référence',
+        'figure': 'Figure',
+        'in_margin': 'en marge :',
+        'essay': 'essai',
+        'essays': 'essais',
+        'see_essays': 'Voir {n} sur cette entrée',
+        'tag_index_note': ('Termes balisés dans le manuscrit, par type de balise. Chaque référence '
+                           'renvoie à la première entrée du folio où le terme apparaît.'),
+        'essay_index_note': ('Essais de l’édition en ligne, classés par l’entrée du manuscrit qu’ils '
+                             'traitent. Les titres renvoient à l’édition en ligne ; les intitulés '
+                             'd’entrée renvoient à l’entrée dans ce document.'),
+        'general_essays': 'Essais généraux sur le manuscrit et l’édition',
+        'folio_range_title': 'Étendue en folios de cette entrée',
+        'illegible': '[illisible]',
+        'gap': '[lacune]',
+        'figure_ref': '[Figure : {label}]',
+    },
+}
+
+# Semantic tag-type labels per language (keys are the XML element names).
+TAG_LABELS = {
+    'en': {
+        'al': 'Animals', 'bp': 'Body parts', 'cn': 'Coins and currency',
+        'df': 'Definitions', 'env': 'Environments and physical spaces',
+        'm': 'Materials', 'md': 'Medical', 'ms': 'Measurements', 'mu': 'Music',
+        'pa': 'Plants', 'pl': 'Places', 'pn': 'Personal names',
+        'pro': 'Professions', 'sn': 'Sensory', 'tl': 'Tools',
+        'tmp': 'Time and temporal', 'wp': 'Weapons',
+    },
+    'fr': {
+        'al': 'Animaux', 'bp': 'Parties du corps', 'cn': 'Monnaies',
+        'df': 'Définitions', 'env': 'Environnements et espaces physiques',
+        'm': 'Matériaux', 'md': 'Médical', 'ms': 'Mesures', 'mu': 'Musique',
+        'pa': 'Plantes', 'pl': 'Lieux', 'pn': 'Noms de personnes',
+        'pro': 'Métiers', 'sn': 'Sensoriel', 'tl': 'Outils',
+        'tmp': 'Temps', 'wp': 'Armes',
+    },
+}
+
+# Manuscript margin positions (the `margin` attribute value), rendered as the
+# label on a margin note. English keeps the source values; French translates.
+POSITION_LABELS = {
+    'en': {},   # empty -> the raw attribute value is used
+    'fr': {
+        'left-top': 'marge gauche, en haut',
+        'left-middle': 'marge gauche, au milieu',
+        'left-bottom': 'marge gauche, en bas',
+        'right-top': 'marge droite, en haut',
+        'right-middle': 'marge droite, au milieu',
+        'right-bottom': 'marge droite, en bas',
+        'top': 'en haut',
+        'bottom': 'en bas',
+    },
+}
+
+def position_label(margin):
+    """Human-readable label for a margin position, in the current language."""
+    return POSITION_LABELS[LANG].get(margin, margin)
+
+# Populated by main()/xml_to_html for the version being rendered.
+LANG = 'en'
+L = LABELS['en']
+TAG_INDEX_TYPES = dict(TAG_LABELS['en'])
+
+def set_language(version):
+    """Point the module's label tables at the language of this version."""
+    global LANG, L
+    LANG = VERSION_LANG.get(version, 'en')
+    L = LABELS[LANG]
+    TAG_INDEX_TYPES.clear()
+    TAG_INDEX_TYPES.update(TAG_LABELS[LANG])
+
 def create_figure_list_html(figures):
     """
     Creates the HTML for a list of figures.
@@ -24,12 +149,13 @@ def create_figure_list_html(figures):
         return ""
 
     html = '<div id="list-of-figures" style="page-break-before: always;">\n'
-    html += '<h2>List of Figures</h2>\n'
+    html += f'<h2>{escape_html(L["list_of_figures"])}</h2>\n'
     for fig in figures:
         html += f'<div class="figure-list-item" id="figure-list-{escape_html(fig["id"])}">\n'
         html += f'<img src="../../images/{escape_html(fig["local_path"].name)}" alt="{escape_html(fig["alt_text"])}">\n'
-        html += f'<p class="figure-caption">Figure {escape_html(fig["id"].replace("fig_", ""))} - {escape_html(fig["alt_text"])}</p>\n'
-        html += f'<a href="#{escape_html(fig["id"])}">Back to reference</a>\n'
+        html += (f'<p class="figure-caption">{escape_html(L["figure"])} '
+                 f'{escape_html(fig["id"].replace("fig_", ""))} - {escape_html(fig["alt_text"])}</p>\n')
+        html += f'<a href="#{escape_html(fig["id"])}">{escape_html(L["back_to_reference"])}</a>\n'
         html += '</div>\n'
     html += '</div>\n'
     return html
@@ -38,17 +164,17 @@ def create_toc_html(include_figure_list=True):
     """
     Creates the HTML for a table of contents.
     """
-    figure_list_item = ('            <li><a href="#list-of-figures">List of Figures</a></li>\n'
+    figure_list_item = (f'            <li><a href="#list-of-figures">{escape_html(L["list_of_figures"])}</a></li>\n'
                         if include_figure_list else '')
     html = f"""
     <div class="toc" style="page-break-after: always;">
-        <h2>Table of Contents</h2>
+        <h2>{escape_html(L["toc"])}</h2>
         <ul>
-            <li><a href="#translation">Translation</a></li>
-            <li><a href="#endnotes">Endnotes</a></li>
-            <li><a href="#back-of-book-index">Index of Categories</a></li>
-            <li><a href="#tag-index">Index of Tags</a></li>
-            <li><a href="#essay-index">Index of Essays</a></li>
+            <li><a href="#translation">{escape_html(L["text_section"])}</a></li>
+            <li><a href="#endnotes">{escape_html(L["endnotes"])}</a></li>
+            <li><a href="#back-of-book-index">{escape_html(L["index_categories"])}</a></li>
+            <li><a href="#tag-index">{escape_html(L["index_tags"])}</a></li>
+            <li><a href="#essay-index">{escape_html(L["index_essays"])}</a></li>
 {figure_list_item}        </ul>
     </div>
     """
@@ -58,16 +184,16 @@ def create_title_page_html():
     """
     Creates the HTML for a title page.
     """
-    html = """
+    html = f"""
     <div class="title-page">
         <h1>Secrets of Craft and Nature in Renaissance France</h1>
-        <h2>A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</h2>
+        <h2>{L["title_page_subtitle"]}</h2>
         <div class="publishers">
-            <p><strong>Edited by:</strong></p>
+            <p><strong>{L["edited_by"]}</strong></p>
             <p>The Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano</p>
         </div>
         <div class="publication-info">
-            <p>New York: Making and Knowing Project, 2020</p>
+            <p>{L["publication"]}</p>
             <p><a href="https://edition640.makingandknowing.org">https://edition640.makingandknowing.org</a></p>
         </div>
     </div>
@@ -98,7 +224,7 @@ def create_index_html(root):
                 index[category].append(entry)
 
     html = '<div id="back-of-book-index" style="page-break-before: always;">\n'
-    html += '<h2>Index of Categories</h2>\n'
+    html += f'<h2>{escape_html(L["index_categories"])}</h2>\n'
     for category in sorted(index.keys()):
         html += f"<h3>{escape_html(category.capitalize())}</h3>\n"
         html += "<ul>\n"
@@ -108,28 +234,6 @@ def create_index_html(root):
     html += '</div>\n'
     return html
 
-# Semantic phrase-level tags to index, mapped to display labels.
-# Language/dialect tags (fr, la, gk, it, oc, po) and editorial markup are
-# deliberately excluded. Labels follow vocabulary/README.md and the schema docs.
-TAG_INDEX_TYPES = {
-    'al': 'Animals',
-    'bp': 'Body parts',
-    'cn': 'Coins and currency',
-    'df': 'Definitions',
-    'env': 'Environments and physical spaces',
-    'm': 'Materials',
-    'md': 'Medical',
-    'ms': 'Measurements',
-    'mu': 'Music',
-    'pa': 'Plants',
-    'pl': 'Places',
-    'pn': 'Personal names',
-    'pro': 'Professions',
-    'sn': 'Sensory',
-    'tl': 'Tools',
-    'tmp': 'Time and temporal',
-    'wp': 'Weapons',
-}
 
 def folio_label(div_id):
     """p003r_1 -> 3r; falls back to the raw id."""
@@ -228,9 +332,8 @@ def create_tag_index_html(root):
             slot['divs'].add(div_id)
 
     html = '<div id="tag-index" class="tag-index" style="page-break-before: always;">\n'
-    html += '<h2>Index of Tags</h2>\n'
-    html += ('<p class="index-note">Terms marked in the manuscript, by tag type. '
-             'Each reference links to the first entry on that folio containing the term.</p>\n')
+    html += f'<h2>{escape_html(L["index_tags"])}</h2>\n'
+    html += f'<p class="index-note">{escape_html(L["tag_index_note"])}</p>\n'
     for tag_type, label in sorted(TAG_INDEX_TYPES.items(), key=lambda kv: kv[1]):
         terms = index[tag_type]
         if not terms:
@@ -350,10 +453,8 @@ def create_essay_index_html(root, by_entry, unlinked):
         return f'<li>{title_html}{authors}</li>\n'
 
     html = '<div id="essay-index" class="essay-index" style="page-break-before: always;">\n'
-    html += '<h2>Index of Essays</h2>\n'
-    html += ('<p class="index-note">Research essays from the online edition, by the '
-             'manuscript entry they discuss. Essay titles link to the edition; entry '
-             'headings link to the entry in this document.</p>\n')
+    html += f'<h2>{escape_html(L["index_essays"])}</h2>\n'
+    html += f'<p class="index-note">{escape_html(L["essay_index_note"])}</p>\n'
     for entry_id in sorted(by_entry.keys(), key=folio_sort_key):
         heading = headings.get(entry_id, entry_id)
         html += (f'<h4 class="essay-index-entry" id="essay-entry-{escape_html(entry_id)}">'
@@ -368,7 +469,7 @@ def create_essay_index_html(root, by_entry, unlinked):
         seen = set()
         unlinked = [e for e in unlinked
                     if not (e['title'] in seen or seen.add(e['title']))]
-        html += '<h4 class="essay-index-entry">General essays on the manuscript and edition</h4>\n'
+        html += f'<h4 class="essay-index-entry">{escape_html(L["general_essays"])}</h4>\n'
         html += '<ul class="essay-index-essays">\n'
         for essay in sorted(unlinked, key=lambda e: e['title']):
             html += essay_item_html(essay)
@@ -540,10 +641,13 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
 
             ESSAY_MARKED.add(div_id)
 
-            label = f"{essay_count} essay" + ("s" if essay_count > 1 else "")
+            word = L["essays"] if essay_count > 1 else L["essay"]
+
+            label = f"{essay_count} {word}"
 
             html += (f'<a class="essay-marker" href="#essay-entry-{escape_html(div_id)}" '
-                     f'title="See {label} on this entry">&#10022;&thinsp;{label}</a>\n')
+                     f'title="{escape_html(L["see_essays"].format(n=label))}">'
+                     f'&#10022;&thinsp;{escape_html(label)}</a>\n')
 
         if text.strip():
 
@@ -564,7 +668,7 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
 
             html += '<div class="margin-notes">\n'
 
-            html += '<p class="margin-notes-header">in margin:</p>\n'
+            html += f'<p class="margin-notes-header">{escape_html(L["in_margin"])}</p>\n'
 
             for note_html in div_margin_notes:
 
@@ -621,7 +725,7 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
 
             note_html = f'<div class="margin-note" data-position="{escape_html(margin)}">\n'
 
-            note_html += f'<span class="margin-position">[{escape_html(margin)}]</span> '
+            note_html += f'<span class="margin-position">[{escape_html(position_label(margin))}]</span> '
 
             if text:
 
@@ -843,7 +947,7 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
 
     elif tag == "ill":
 
-        html = '<span class="ill">[illegible]</span>'
+        html = f'<span class="ill">{escape_html(L["illegible"])}</span>'
 
         if text:
 
@@ -861,7 +965,7 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
 
     elif tag == "gap":
 
-        return '<span class="gap">[gap]</span>' + escape_html(tail)
+        return f'<span class="gap">{escape_html(L["gap"])}</span>' + escape_html(tail)
 
     elif tag == "mark":
 
@@ -976,14 +1080,16 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
             elif RENDER_FIGURES:
                 # inline mode, but the image could not be fetched
                 html = (f'<span id="{escape_html(fig_id)}" class="figure-missing">'
-                        f'[Figure: {escape_html(alt_text) if alt_text else escape_html(fig_id)}]</span>')
+                        f'{escape_html(L["figure_ref"].format(label=alt_text or fig_id))}</span>')
             else:
                 # Create a link to the figure in the list of figures
-                html = f'<a id="{escape_html(fig_id)}" href="#figure-list-{escape_html(fig_id)}">[Figure: {escape_html(alt_text) if alt_text else fig_id}]</a>'
+                html = (f'<a id="{escape_html(fig_id)}" href="#figure-list-{escape_html(fig_id)}">'
+                        f'{escape_html(L["figure_ref"].format(label=alt_text or fig_id))}</a>')
         else:
             # Fallback for when figures are not being processed
             html = f'<div class="figure" id="{escape_html(fig_id)}" >'
-            html += f'<p class="figure-placeholder">[Figure: {escape_html(alt_text) if alt_text else fig_id}]</p>'
+            html += (f'<p class="figure-placeholder">'
+                     f'{escape_html(L["figure_ref"].format(label=alt_text or fig_id))}</p>')
 
         if text:
             html += escape_html(text)
@@ -999,7 +1105,7 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
         margin_attr = elem.get("margin", "")
         if margin_attr and margin_notes is not None:
             note = f'<div class="margin-note" data-position="{escape_html(margin_attr)}">\n'
-            note += f'<span class="margin-position">[{escape_html(margin_attr)}]</span> '
+            note += f'<span class="margin-position">[{escape_html(position_label(margin_attr))}]</span> '
             note += html
             note += '</div>\n'
             margin_notes.append(note)
@@ -1058,7 +1164,7 @@ def get_css(render_semantic=False):
     }
     h1.doc-title {
         bookmark-level: 1;
-        bookmark-label: "Translation";
+        bookmark-label: "__TEXT_SECTION__";
     }
     h3.endnotes-header {
         bookmark-level: 1;
@@ -1577,9 +1683,10 @@ def get_css(render_semantic=False):
     """
 
     if render_semantic:
-        return base_css + semantic_css
+        css = base_css + semantic_css
     else:
-        return base_css
+        css = base_css
+    return css.replace('__TEXT_SECTION__', L['text_section'])
 
 def load_comments(csv_file):
     comments = {}
@@ -1602,7 +1709,7 @@ def load_comments(csv_file):
     return comments
 
 import urllib.request
-def xml_to_html(xml_file, output_html, render_semantic=False, render_figures=False):
+def xml_to_html(xml_file, output_html, render_semantic=False, render_figures=False, version='tl'):
     global RENDER_FIGURES
     RENDER_FIGURES = render_figures
     print(f"Parsing XML file: {xml_file}")
@@ -1621,7 +1728,7 @@ def xml_to_html(xml_file, output_html, render_semantic=False, render_figures=Fal
     ESSAY_MARKED.clear()
     RANGE_MARKED.clear()
     ENTRY_FOLIOS.clear()
-    ENTRY_FOLIOS.update(load_entry_folios('../ms-xml/tl'))
+    ENTRY_FOLIOS.update(load_entry_folios(f'../ms-xml/{version}'))
     spanning = sum(1 for f in ENTRY_FOLIOS.values() if len(f) > 1)
     print(f'Folio extents: {len(ENTRY_FOLIOS)} entries, {spanning} spanning multiple folios')
     print("Converting XML to HTML...")
@@ -1637,7 +1744,7 @@ def xml_to_html(xml_file, output_html, render_semantic=False, render_figures=Fal
     if endnotes:
         print(f"Generating {len(endnotes)} endnotes...")
         endnotes_html = '<div class="endnotes" id="endnotes">\n'
-        endnotes_html += '<h3 class="endnotes-header">Endnotes</h3>\n'
+        endnotes_html += f'<h3 class="endnotes-header">{escape_html(L["endnotes"])}</h3>\n'
         for i, note in enumerate(endnotes, 1):
             note_id = note['id']
             refs = note.get('refs', [])
@@ -1655,10 +1762,10 @@ def xml_to_html(xml_file, output_html, render_semantic=False, render_figures=Fal
             endnotes_html += '\n</div>\n'
         endnotes_html += '</div>\n'
     html = f"""<!DOCTYPE html>
-<html>
+<html lang="{LANG}">
 <head>
     <meta charset="UTF-8">
-    <title>BnF Ms. Fr. 640 - Translation</title>
+    <title>BnF Ms. Fr. 640 &mdash; {L["text_section"]}</title>
     <style>
     {get_css(render_semantic=render_semantic)}
     </style>
@@ -1667,7 +1774,7 @@ def xml_to_html(xml_file, output_html, render_semantic=False, render_figures=Fal
     {title_page_html}
     {toc_html}
     <h1 class="doc-title">Secrets of Craft and Nature in Renaissance France</h1>
-    <h3>BnF Ms. Fr. 640 &mdash; English Translation</h3>
+    <h3>{L["subtitle"]}</h3>
     {body_html}
     {endnotes_html}
     {index_html}
@@ -1770,6 +1877,15 @@ def main():
     """
     parser = argparse.ArgumentParser(description="Convert BnF Ms. Fr. 640 XML to styled PDF.")
     parser.add_argument(
+        '--version',
+        choices=sorted(VERSION_LANG),
+        default='tl',
+        help="Manuscript version to render: tl (English translation), tc (diplomatic "
+             "French transcription), tcn (normalized French transcription). Generated "
+             "apparatus — title page, table of contents, index headings — is written in "
+             "the language of the version. Default: tl."
+    )
+    parser.add_argument(
         '--semantic',
         action='store_true',
         help='If set, render semantic XML elements with special styling (colors, etc.). Default is off.'
@@ -1786,10 +1902,12 @@ def main():
 
     # Define input and output file paths; each rendering variant gets its own
     # output files so they can coexist (e.g. all_tl_semantic_figures.pdf)
-    xml_file = Path("../allFolios/xml/tl/all_tl.xml")
+    set_language(args.version)
+    v = args.version
+    xml_file = Path(f"../allFolios/xml/{v}/all_{v}.xml")
     suffix = ("_semantic" if args.semantic else "") + ("_figures" if args.figures else "")
-    html_file = Path(f"../allFolios/pdf/all_tl{suffix}.html")
-    pdf_file = Path(f"../allFolios/pdf/all_tl{suffix}.pdf")
+    html_file = Path(f"../allFolios/pdf/all_{v}{suffix}.html")
+    pdf_file = Path(f"../allFolios/pdf/all_{v}{suffix}.pdf")
 
     # Check if XML file exists
     if not xml_file.exists():
@@ -1797,7 +1915,8 @@ def main():
         sys.exit(1)
 
     # Convert XML to HTML, passing the rendering flags
-    xml_to_html(xml_file, html_file, render_semantic=args.semantic, render_figures=args.figures)
+    xml_to_html(xml_file, html_file, render_semantic=args.semantic,
+                render_figures=args.figures, version=args.version)
 
     # Convert HTML to PDF
     success = html_to_pdf(html_file, pdf_file)
