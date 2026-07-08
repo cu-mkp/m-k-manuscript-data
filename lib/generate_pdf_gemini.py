@@ -1328,10 +1328,8 @@ def get_css(render_semantic=False):
         font-style: italic;
     }
 
-    .mark {
-        font-weight: bold;
-        color: #e74c3c;
-    }
+    /* <mark> is a symbol in the source text rendered as a utf-8 character
+       (e.g. / - +), not emphasis: it carries no styling of its own. */
 
     .comment-ref {
         color: #3498db;
