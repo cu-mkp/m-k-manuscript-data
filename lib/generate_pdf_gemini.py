@@ -1758,7 +1758,11 @@ def xml_to_html(xml_file, output_html, render_semantic=False, render_figures=Fal
         for i, note in enumerate(endnotes, 1):
             note_id = note['id']
             refs = note.get('refs', [])
-            comment_text = comments_dict.get(note_id, "")
+            # endnote text is raw HTML from the comment CSV: balance its inline
+            # tags so an unclosed <i> cannot leak formatting into every page
+            # that follows (see qc/print-audit/PRINT-AUDIT.md, R1)
+            comment_text = balance_inline_tags(comments_dict.get(note_id, ""),
+                                               f'endnote {note_id}')
             endnotes_html += f'<div class="endnote" id="endnote-{escape_html(note_id)}">\n'
             endnotes_html += f'  <span class="endnote-number">[{i}]</span>'
             endnotes_html += f'  <span class="endnote-id">{escape_html(note_id)}</span>'
