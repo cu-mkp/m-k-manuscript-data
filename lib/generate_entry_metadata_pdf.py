@@ -136,7 +136,9 @@ h1 {{ bookmark-level: 1; bookmark-label: content(); font-family: "Helvetica Neue
 .title-page {{ text-align: center; margin-top: 2.5in; page-break-after: always; }}
 .title-page h1 {{ font-size: 24pt; margin-bottom: 0.3em; }}
 .title-page h2 {{ font-size: 14pt; font-weight: normal; bookmark-level: none; }}
-.title-page .note {{ font-size: 9pt; color: #444; margin-top: 2em; text-align: left; }}
+.title-page .cite {{ font-size: 9pt; color: #444; margin-top: 2em; text-align: left; }}
+.title-page .note {{ font-size: 9pt; color: #444; margin-top: 1.5em; text-align: left; }}
+.title-page .note a, .title-page .cite a {{ color: #792421; }}
 .entry-block {{ margin-bottom: 12pt; break-inside: avoid; }}
 h2.entry-heading {{
     bookmark-level: 2; bookmark-label: content();
@@ -162,12 +164,22 @@ h2.entry-heading a {{ color: #792421; }}
     <h1>Entry Metadata</h1>
     <h2>Secrets of Craft and Nature in Renaissance France<br/>
         A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</h2>
-    <p class="note">One block per manuscript entry, in manuscript order: the entry heading
-        (English translation, linked to the entry&rsquo;s folio in the online edition) with the
-        original French transcription beneath, the entry&rsquo;s categories, its associated
-        research essays (linked to the online edition), and its tagged terms
-        grouped by semantic tag type &mdash; deduplicated, with occurrence counts &mdash; from the
-        translation. Source: metadata/entry_metadata.csv.</p>
+    <p class="cite">&ldquo;List of Entries.&rdquo; In <i>Secrets of Craft and Nature in Renaissance France.
+        A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</i>, edited by
+        Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz,
+        Tillmann Taape, Cl&eacute;ment Godbarge, Sophie Pitman, Jenny Boulboull&eacute;, Joel Klein,
+        Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020.
+        <a href="https://edition640.makingandknowing.org/entries">https://edition640.makingandknowing.org/entries</a>.</p>
+    <p class="note">Ms. Fr. 640 consists almost entirely of distinct &ldquo;entries,&rdquo; i.e., units of
+        text with titles. They have been grouped into
+        <a href="https://edition640.makingandknowing.org/content/resources">categories</a> to help browse
+        the manuscript. Within entries, meaningful terms have been
+        <a href="https://edition640.makingandknowing.org/content/resources/principles">tagged</a>.</p>
+    <p class="note">Each entry in the manuscript is listed here by title, folio, and entry id with its
+        assigned categories, tagged terms, and any Research Essays associated with it. This listing has
+        been derived from the
+        <a href="https://edition640.makingandknowing.org/entries">List of Entries</a> resource in
+        <i>Secrets of Craft and Nature</i>.</p>
     {branding.footer_html('../lib/assets', 'en')}
 </div>
 {body}
