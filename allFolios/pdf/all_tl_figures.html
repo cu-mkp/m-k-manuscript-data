@@ -304,6 +304,35 @@
     .comment-ref {
         color: #3498db;
         font-size: 0.7em;
+        /* never let an out-of-flow neighbour paint over a footnote marker */
+        position: relative;
+        z-index: 2;
+        background-color: #ffffff;
+        padding: 0 0.5pt;
+    }
+
+    /* a figure and the footnote marker that annotates it travel as one box */
+    .fig-with-note {
+        display: inline-block;
+        vertical-align: middle;
+        break-inside: avoid;
+    }
+    .fig-with-note > .fig-inline,
+    .fig-with-note > .figure-missing {
+        float: none;
+        display: inline-block;
+        vertical-align: middle;
+        margin: 0;
+    }
+    .fig-with-note.fig-margin-left {
+        float: left;
+        clear: left;
+        margin: 2pt 10pt 6pt 0;
+    }
+    .fig-with-note.fig-margin-right {
+        float: right;
+        clear: right;
+        margin: 2pt 0 6pt 10pt;
     }
 
     /* Figure placeholder */
@@ -3313,8 +3342,8 @@ which are <del>or</del> appropriate for an assault, both outside &amp;
 inside the place. They are founded separately as if to serve for uses
 other than <span class="wp">orgues</span>. See the 4th leaf following, marked
 
-    <span id="fig_p019r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p019r_1.png" alt="fig_p019r_1"/></span>
-<sup class="comment-ref"><a href="#endnote-c_019r_02" id="ref-c_019r_02-1">[173]</a></sup>
+    <span class="fig-with-note"><span id="fig_p019r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p019r_1.png" alt="fig_p019r_1"/></span>
+<sup class="comment-ref"><a href="#endnote-c_019r_02" id="ref-c_019r_02-1">[173]</a></sup></span>
 
 </p>
 
@@ -3768,8 +3797,8 @@ for an entry, than for ordinary business. One calls<sup class="comment-ref"><a h
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
-<span class="margin-position">[left-middle]</span> <span id="fig_p022v_1" class="fig-inline fig-x-small fig-margin fig-margin-left"><img src="../../images/p022v_1.png" alt="fig_p022v_1"/></span>
-<sup class="comment-ref"><a href="#endnote-c_022v_01" id="ref-c_022v_01-1">[180]</a></sup></div>
+<span class="margin-position">[left-middle]</span> <span class="fig-with-note fig-margin fig-margin-left"><span id="fig_p022v_1" class="fig-inline fig-x-small fig-margin-inner"><img src="../../images/p022v_1.png" alt="fig_p022v_1"/></span>
+<sup class="comment-ref"><a href="#endnote-c_022v_01" id="ref-c_022v_01-1">[180]</a></sup></span></div>
 </div>
 <div class="entry" id="p023r_1" data-categories="arms and armor">
 <a class="essay-marker" href="#essay-entry-p023r_1" title="See 1 essay on this entry">&#10022;&thinsp;1 essay</a>
@@ -9439,8 +9468,8 @@ especially that of men, is yellowish. And for this effect use very
 strongly ground <span class="m">jet</span>, which you will mix with a little
 <span class="m"><ins>yellow</ins> ocher</span> &amp; <span class="m">lead white</span>. Or else, after
 you have ground your <span class="m">lead white</span> <del><span class="fr" >bro</span></del> and
-<del>clean <span class="fr" >p</span></del> gathered it with the <span id="fig_p065r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p065r_1.png" alt="fig_p065r_1"/></span>
-,<sup class="comment-ref"><a href="#endnote-c_065r_01" id="ref-c_065r_01-1">[314]</a></sup> grind the <span class="m">jet</span> into it. Thus it will be more
+<del>clean <span class="fr" >p</span></del> gathered it with the <span class="fig-with-note"><span id="fig_p065r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p065r_1.png" alt="fig_p065r_1"/></span>
+,<sup class="comment-ref"><a href="#endnote-c_065r_01" id="ref-c_065r_01-1">[314]</a></sup></span> grind the <span class="m">jet</span> into it. Thus it will be more
 desiccative, &amp; making on its own a yellowish black. A little white
 mixed in renders it perfect for men&#39;s shadows. Blacks which make a
 greenish black are appropriate for women&#39;s shadows. Take, then, some
@@ -13763,8 +13792,8 @@ aquafortis</span>, for if it were too hot, it would cook &amp; spoil the
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
-<span class="margin-position">[left-middle]</span> <span id="fig_p094r_1" class="fig-inline fig-small fig-margin fig-margin-left"><img src="../../images/p094r_1.png" alt="fig_p094r_1"/></span>
-<sup class="comment-ref"><a href="#endnote-c_094r_09" id="ref-c_094r_09-1">[411]</a></sup></div>
+<span class="margin-position">[left-middle]</span> <span class="fig-with-note fig-margin fig-margin-left"><span id="fig_p094r_1" class="fig-inline fig-small fig-margin-inner"><img src="../../images/p094r_1.png" alt="fig_p094r_1"/></span>
+<sup class="comment-ref"><a href="#endnote-c_094r_09" id="ref-c_094r_09-1">[411]</a></sup></span></div>
 </div>
 <div class="entry" id="p094r_1" data-categories="arms and armor">
 <p class="ab" >The <span class="m">gold</span> grips are made by putting underneath <span class="m">thin yellow
@@ -16928,8 +16957,8 @@ pierce it from underneath in the middle of the throat &amp; up to
 an <span class="m">iron wire</span></span> of such a length that it suffices to hold the
 head of the animal as <del><span class="fr" >q</span></del><sup class="comment-ref"><a href="#endnote-c_112v_05" id="ref-c_112v_05-1">[497]</a></sup> high as it must be, &amp; if
 the skin moves into the inside <del>&amp;</del> when you put in the
-<span class="tl">point</span><span id="fig_p112v_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p112v_2.png" alt="fig_p112v_2"/></span>
-,<sup class="comment-ref"><a href="#endnote-c_112v_01" id="ref-c_112v_01-1">[498]</a></sup> pull it out with <del><span class="fr" >a</span></del><sup class="comment-ref"><a href="#endnote-c_033r_01" id="ref-c_033r_01-3">[209]</a></sup>
+<span class="tl">point</span><span class="fig-with-note"><span id="fig_p112v_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p112v_2.png" alt="fig_p112v_2"/></span>
+,<sup class="comment-ref"><a href="#endnote-c_112v_01" id="ref-c_112v_01-1">[498]</a></sup></span> pull it out with <del><span class="fr" >a</span></del><sup class="comment-ref"><a href="#endnote-c_033r_01" id="ref-c_033r_01-3">[209]</a></sup>
 <del><span class="tl">point</span></del> the edge of your <span class="tl">small pincers</span>, &amp;
 arrange it as it was. Push the other end of the <span class="tl">point</span> in the
 <span class="po" >cake</span> of <span class="m">clay</span>. Thus, the head will be held high,
@@ -16991,8 +17020,8 @@ on a <span class="tl">solid plank or table</span> <del>&amp; <span class="ill">[
 <span class="tl">point</span> pass through the bottom of the throat,
 <del><span class="fr" >s&#39;arrestan</span></del> entering into the top of the head,
 
-<span id="fig_p112v_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p112v_1.png" alt="fig_p112v_1"/></span>
-<sup class="comment-ref"><a href="#endnote-c_112v_03" id="ref-c_112v_03-1">[500]</a></sup>
+<span class="fig-with-note"><span id="fig_p112v_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p112v_1.png" alt="fig_p112v_1"/></span>
+<sup class="comment-ref"><a href="#endnote-c_112v_03" id="ref-c_112v_03-1">[500]</a></sup></span>
 
 </div>
 </div>
@@ -17057,8 +17086,8 @@ which evaporates promptly. And wet it thus.</p>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
 
-<span id="fig_p113r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p113r_1.png" alt="fig_p113r_1"/></span>
-<sup class="comment-ref"><a href="#endnote-c_113r_03" id="ref-c_113r_03-1">[506]</a></sup><br/>
+<span class="fig-with-note"><span id="fig_p113r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p113r_1.png" alt="fig_p113r_1"/></span>
+<sup class="comment-ref"><a href="#endnote-c_113r_03" id="ref-c_113r_03-1">[506]</a></sup></span><br/>
 
 
 and make sure that the <span class="tl">point</span> is longish, depending on how much you want to elevate the head, and that it be pointed on both ends. Once placed
@@ -17138,8 +17167,8 @@ to dissipate the small and big bubbles that the <span class="m">wetted sand</spa
 continue without delay to put all the rest which is at the bottom, &amp;
 a little thicker than at the top, until everything is filled, up to the
 mark for thickness that you made.
-<span id="fig_p113v_4" class="fig-inline fig-x-small fig-intext"><img src="../../images/p113v_4.png" alt="fig_p113v_4"/></span>
-<sup class="comment-ref"><a href="#endnote-c_112r_02" id="ref-c_112r_02-13">[134]</a></sup> And do not forget to shake the <span class="tl">mold</span>
+<span class="fig-with-note"><span id="fig_p113v_4" class="fig-inline fig-x-small fig-intext"><img src="../../images/p113v_4.png" alt="fig_p113v_4"/></span>
+<sup class="comment-ref"><a href="#endnote-c_112r_02" id="ref-c_112r_02-13">[134]</a></sup></span> And do not forget to shake the <span class="tl">mold</span>
 <del>in order</del> while casting, in order that the <span class="m">wetted sand</span> runs
 &amp; enters well everywhere. Also, tip your <span class="tl">mold</span> up on the side
 of the head, which is higher than the body, and thus your <span class="tl">mold</span>
@@ -17187,8 +17216,8 @@ itself set quickly, for all things calcined dry out promptly from mixed
 <span class="m">water</span>.</div>
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
-<span id="fig_p113v_3" class="fig-inline fig-x-small fig-intext"><img src="../../images/p113v_3.png" alt="fig_p113v_3"/></span>
-<sup class="comment-ref"><a href="#endnote-c_112r_03" id="ref-c_112r_03-12">[135]</a></sup><br/>
+<span class="fig-with-note"><span id="fig_p113v_3" class="fig-inline fig-x-small fig-intext"><img src="../../images/p113v_3.png" alt="fig_p113v_3"/></span>
+<sup class="comment-ref"><a href="#endnote-c_112r_03" id="ref-c_112r_03-12">[135]</a></sup></span><br/>
 
 If you do not fill in one go your <span class="tl">mold</span>
 <del>tempered</del> with <span class="m">tempered sand</span>, take heed to stir your
@@ -17387,8 +17416,8 @@ in the same <span class="tmp">day</span> the 4 or 5 <span class="tl">molds</span
 because these corrupt animals in themselves <span class="sn">stink</span> within one <span class="ms"><span class="tmp">day</span></span>. Having left your <span class="tl">molds</span> one or two
 <del><span class="fr" >es</span></del> <span class="ms"><span class="tmp">days</span></span> to dry, for they stay
 humid for a good <span class="ms"><span class="tmp">month</span></span>, make the vents on one
-half <span id="fig_p114v_3" class="fig-inline fig-x-small fig-intext"><img src="../../images/p114v_3.png" alt="fig_p114v_3"/></span>
-<sup class="comment-ref"><a href="#endnote-c_114v_01" id="ref-c_114v_01-1">[513]</a></sup></p>
+half <span class="fig-with-note"><span id="fig_p114v_3" class="fig-inline fig-x-small fig-intext"><img src="../../images/p114v_3.png" alt="fig_p114v_3"/></span>
+<sup class="comment-ref"><a href="#endnote-c_114v_01" id="ref-c_114v_01-1">[513]</a></sup></span></p>
 
 
 
@@ -17468,8 +17497,8 @@ above <span id="fig_p115r_5" class="fig-inline fig-x-small fig-intext"><img src=
 <div class="margin-note" data-position="left-middle">
 <span class="margin-position">[left-middle]</span> 
         
-<span id="fig_p115r_1" class="fig-inline fig-x-small fig-margin fig-margin-left"><img src="../../images/p115r_1.png" alt="fig_p115r_1"/></span>
-<sup class="comment-ref"><a href="#endnote-c_115r_01" id="ref-c_115r_01-1">[514]</a></sup><br/>
+<span class="fig-with-note fig-margin fig-margin-left"><span id="fig_p115r_1" class="fig-inline fig-x-small fig-margin-inner"><img src="../../images/p115r_1.png" alt="fig_p115r_1"/></span>
+<sup class="comment-ref"><a href="#endnote-c_115r_01" id="ref-c_115r_01-1">[514]</a></sup></span><br/>
  
     
 if you want, which will be enough,<br/>
@@ -17730,8 +17759,8 @@ For casting in <span class="m">silver</span>, one must not reheat two times
 <del>&amp;</del>, if there is nothing in the <span class="tl">mold</span> that needs
 <del>releasing</del> burning, simply because it does not
 release well. All the <span class="tl">molds</span> of flowers are reheated
-two times, first for <span id="fig_p115v_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p115v_2.png" alt="fig_p115v_2"/></span>            
-<sup class="comment-ref"><a href="#endnote-c_115v_01" id="ref-c_115v_01-1">[519]</a></sup></div>
+two times, first for <span class="fig-with-note"><span id="fig_p115v_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p115v_2.png" alt="fig_p115v_2"/></span>            
+<sup class="comment-ref"><a href="#endnote-c_115v_01" id="ref-c_115v_01-1">[519]</a></sup></span></div>
 </div>
 <div class="entry" id="p116r_1" data-categories="casting">
 <h3 class="head " >Molding bouquets, plants, and flowers <span class="folio-range">fol. 116r</span></h3>
@@ -17760,8 +17789,8 @@ because, if it were thick, it would crush the flower.
 <div class="margin-note" data-position="left-top">
 <span class="margin-position">[left-top]</span> 
 
-<span id="fig_p116r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p116r_1.png" alt="fig_p116r_1"/></span>
-<sup class="comment-ref"><a href="#endnote-c_116r_03" id="ref-c_116r_03-1">[522]</a></sup>
+<span class="fig-with-note"><span id="fig_p116r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p116r_1.png" alt="fig_p116r_1"/></span>
+<sup class="comment-ref"><a href="#endnote-c_116r_03" id="ref-c_116r_03-1">[522]</a></sup></span>
 
 burning the plants, flowers, and animal parts which are left inside. Next, one
 needs to clean them &amp; remove the <span class="m">ashes</span>. Second, reheat them
@@ -23208,9 +23237,9 @@ lightly by the fire, &amp; cast, &amp; then shake the <span class="tl">mold</spa
 scratch over rough scales, &amp; let it cool before opening. Usually one
 cuts the <span class="tl"><span class="m">bone</span></span> in the middle, and the dullest part and
 that which does not have any half circles
-    <span id="fig_p145r_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p145r_2.png" alt="fig_p145r_2"/></span>
+    <span class="fig-with-note"><span id="fig_p145r_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p145r_2.png" alt="fig_p145r_2"/></span>
 is the most delicate and smoothest for molding, &amp; thus one always
-imprints there the principal;<sup class="comment-ref"><a href="#endnote-c_137r_03" id="ref-c_137r_03-7">[376]</a></sup> the other is scaly on the inside, as it
+imprints there the principal;<sup class="comment-ref"><a href="#endnote-c_137r_03" id="ref-c_137r_03-7">[376]</a></sup></span> the other is scaly on the inside, as it
 demonstrates on the outside. Thus, one does not use this for delicate
 things that are molded on two sides. One smooths &amp; flattens these
 two halves on some <span class="tl">smooth <span class="m">wood</span></span>, then one scrapes
@@ -25346,8 +25375,8 @@ for the most secure way, even if you could mold them together in a closed
 <div class="margin-notes">
 <p class="margin-notes-header">in margin:</p>
 <div class="margin-note" data-position="left-middle">
-<span class="margin-position">[left-middle]</span> <span id="fig_p159v_1" class="fig-inline fig-default fig-intext"><img src="../../images/p159v_1.png" alt="fig_p159v_1"/></span>
-    <sup class="comment-ref"><a href="#endnote-c_159v_02" id="ref-c_159v_02-1">[665]</a></sup></div>
+<span class="margin-position">[left-middle]</span> <span class="fig-with-note"><span id="fig_p159v_1" class="fig-inline fig-default fig-intext"><img src="../../images/p159v_1.png" alt="fig_p159v_1"/></span>
+    <sup class="comment-ref"><a href="#endnote-c_159v_02" id="ref-c_159v_02-1">[665]</a></sup></span></div>
 </div>
 <div class="entry" id="p159v_3" data-categories="casting">
 <h3 class="head " ><span class="tl">Molds</span> <span class="folio-range">fol. 159v</span></h3>
@@ -26431,8 +26460,8 @@ and it will take on a high color.</p>
 <h3 class="head " ><span class="wp">Petards</span><sup class="comment-ref"><a href="#endnote-c_008r_04" id="ref-c_008r_04-7">[121]</a></sup> <span class="folio-range">fol. 167r–168v</span></h3>
 
 
-<p class="ab" ><span id="fig_p167r_1" class="fig-inline fig-large"><img src="../../images/p167r_1.png" alt="fig_p167r_1"/></span>
-<sup class="comment-ref"><a href="#endnote-c_167r_01" id="ref-c_167r_01-1">[725]</a></sup></p>
+<p class="ab" ><span class="fig-with-note"><span id="fig_p167r_1" class="fig-inline fig-large"><img src="../../images/p167r_1.png" alt="fig_p167r_1"/></span>
+<sup class="comment-ref"><a href="#endnote-c_167r_01" id="ref-c_167r_01-1">[725]</a></sup></span></p>
 
 
 <p class="ab" ><span class="wp">Petards</span> are made of the best alloy of <span class="m"><span class="fr" >metal</span></span> &amp; <span class="m">fine
@@ -26886,8 +26915,8 @@ harder by adding into the already melted one more <span class="m">melted sulfur<
 <div class="margin-note" data-position="left-bottom">
 <span class="margin-position">[left-bottom]</span> 
         
-<span id="fig_p170r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p170r_1.png" alt="fig_p170r_1"/></span>
-<sup class="comment-ref"><a href="#endnote-c_170r_01" id="ref-c_170r_01-1">[730]</a></sup>
+<span class="fig-with-note"><span id="fig_p170r_1" class="fig-inline fig-x-small fig-intext"><img src="../../images/p170r_1.png" alt="fig_p170r_1"/></span>
+<sup class="comment-ref"><a href="#endnote-c_170r_01" id="ref-c_170r_01-1">[730]</a></sup></span>
 &amp; join &amp; <span class="m">solder</span> a tail of <span class="m">latten wire</span> with
 <span class="m">solder</span>. The lumps on a flower are a small matter, for this can
 be removed with the <span class="tl"><span class="fr" >chaple</span></span>, but let the leaves come
@@ -26955,8 +26984,8 @@ tin</span>.</p>
 for when hot, they retain the <span class="m">ash</span>. When cold, they are cleaned better. Take a <span class="tl"><span class="m">thin wire of latten</span></span> or a <span class="tl"><span class="m">delicate straw</span></span> to clean the tail completely, for this is what makes the gate. Blow into it &amp; suck, drawing it to you. Before molding,
 thicken the tail with <span class="m">wax</span>, then cut it,
 
-<span id="fig_p170r_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p170r_2.png" alt="fig_p170r_2"/></span>
-<sup class="comment-ref"><a href="#endnote-c_170r_02" id="ref-c_170r_02-1">[732]</a></sup></p>
+<span class="fig-with-note"><span id="fig_p170r_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p170r_2.png" alt="fig_p170r_2"/></span>
+<sup class="comment-ref"><a href="#endnote-c_170r_02" id="ref-c_170r_02-1">[732]</a></sup></span></p>
 
 
 </div>
@@ -26977,7 +27006,7 @@ thicken the tail with <span class="m">wax</span>, then cut it,
 
         
         <p class="ab" >And for the first year, eighty <span class="cn">livres</span> and fifteen
-            <span id="fig_p170v_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p170v_2.png" alt="fig_p170v_2"/></span><sup class="comment-ref"><a href="#endnote-c_170v_03" id="ref-c_170v_03-1">[736]</a></sup> remain to them,
+            <span class="fig-with-note"><span id="fig_p170v_2" class="fig-inline fig-x-small fig-intext"><img src="../../images/p170v_2.png" alt="fig_p170v_2"/></span><sup class="comment-ref"><a href="#endnote-c_170v_03" id="ref-c_170v_03-1">[736]</a></sup></span> remain to them,
             and for the second settlement, they have not yet received anything.<hr/>
 </p>
 

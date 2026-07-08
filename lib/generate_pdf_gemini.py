@@ -399,6 +399,62 @@ def escape_html(text):
 # XML TO HTML CONVERSION
 # ==============================================================================
 
+def figure_annotating_comments(ab_elem):
+    """Map each comment that directly annotates a figure -> that figure."""
+    kids = list(ab_elem)
+    return {kids[n]: kids[n - 1] for n in range(1, len(kids))
+            if kids[n].tag == 'comment' and kids[n - 1].tag == 'figure'}
+
+def render_ab_children(elem, depth, margin_notes, endnotes, figures, render_semantic):
+    """Render an <ab>'s children, binding figure footnote markers to the figure.
+
+    A figure placed out of the text flow (a floated margin figure) would
+    otherwise sit on top of the small marker that follows it. Wrapping the
+    figure and its marker in one container — and moving any float onto that
+    container — keeps the marker beside the image it annotates and visible.
+    Endnote numbering is unaffected: markers are generated in document order.
+    """
+    annotated = figure_annotating_comments(elem)          # comment -> figure
+    annotated_figures = set(annotated.values())
+
+    def render(child):
+        return process_element(child, depth + 1, margin_notes=margin_notes,
+                               endnotes=endnotes, figures=figures,
+                               render_semantic=render_semantic)
+
+    parts = []
+    pending_figure = None
+    for child in elem:
+        if child in annotated_figures:
+            pending_figure = render(child)
+            continue
+        rendered = render(child)
+        if pending_figure is not None and child in annotated:
+            marker, sep, rest = rendered.partition('</sup>')
+            fig_html, wrapper_classes = _hoist_placement(pending_figure)
+            parts.append(f'<span class="fig-with-note{wrapper_classes}">'
+                         f'{fig_html}{marker}{sep}</span>{rest}')
+        else:
+            if pending_figure is not None:
+                parts.append(pending_figure)
+            parts.append(rendered)
+        pending_figure = None
+    if pending_figure is not None:
+        parts.append(pending_figure)
+    return ''.join(parts)
+
+def _hoist_placement(fig_html):
+    """Move a figure's margin float onto its wrapper, so the wrapper floats
+    as one unit (image + marker) instead of the image alone."""
+    wrapper_classes = ''
+    for side in ('left', 'right'):
+        token = f' fig-margin fig-margin-{side}'
+        if token in fig_html:
+            fig_html = fig_html.replace(token, ' fig-margin-inner')
+            wrapper_classes = f' fig-margin fig-margin-{side}'
+            break
+    return fig_html, wrapper_classes
+
 # entry div id -> number of essays; populated by xml_to_html so that
 # process_element can mark entries that have essays in the Index of Essays.
 # Entries split across folio breaks repeat their div id (the part="y"
@@ -571,9 +627,7 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
 
                 note_html += escape_html(text)
 
-            for child in elem:
-
-                note_html += process_element(child, depth + 1, margin_notes=None, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+            note_html += render_ab_children(elem, depth, None, endnotes, figures, render_semantic)
 
             note_html += '</div>\n'
 
@@ -589,9 +643,7 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
 
             html += escape_html(text)
 
-        for child in elem:
-
-            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, figures=figures, render_semantic=render_semantic)
+        html += render_ab_children(elem, depth, margin_notes, endnotes, figures, render_semantic)
 
         html += '</p>\n'
 
@@ -1257,6 +1309,35 @@ def get_css(render_semantic=False):
     .comment-ref {
         color: #3498db;
         font-size: 0.7em;
+        /* never let an out-of-flow neighbour paint over a footnote marker */
+        position: relative;
+        z-index: 2;
+        background-color: #ffffff;
+        padding: 0 0.5pt;
+    }
+
+    /* a figure and the footnote marker that annotates it travel as one box */
+    .fig-with-note {
+        display: inline-block;
+        vertical-align: middle;
+        break-inside: avoid;
+    }
+    .fig-with-note > .fig-inline,
+    .fig-with-note > .figure-missing {
+        float: none;
+        display: inline-block;
+        vertical-align: middle;
+        margin: 0;
+    }
+    .fig-with-note.fig-margin-left {
+        float: left;
+        clear: left;
+        margin: 2pt 10pt 6pt 0;
+    }
+    .fig-with-note.fig-margin-right {
+        float: right;
+        clear: right;
+        margin: 2pt 0 6pt 10pt;
     }
 
     /* Figure placeholder */
