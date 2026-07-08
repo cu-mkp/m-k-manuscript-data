@@ -9,3 +9,23 @@
 
 # detect MD
 *.md linguist-detectable
+
+# Binary assets: never apply end-of-line conversion. Without this, git's
+# text/binary auto-detection samples only the first 8000 bytes for a NUL byte;
+# a PDF whose opening objects run longer than that (e.g. all_tcn_figures.pdf,
+# first NUL at byte 10439) is misclassified as text and corrupted by
+# core.autocrlf on Windows checkout — Acrobat then reports "not a valid PDF".
+*.pdf   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.ttf   binary
+*.otf   binary
+*.woff  binary
+*.woff2 binary
+*.xlsx  binary
+*.xls   binary
+*.docx  binary
+*.pptx  binary
