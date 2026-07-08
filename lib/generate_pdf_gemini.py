@@ -980,8 +980,22 @@ def get_css(render_semantic=False):
         margin: 1in;
     }
 
-    /* PDF outline bookmarks */
+    /* PDF outline bookmarks. The title page and the body's repeated title
+       are suppressed; the body title anchors the "Translation" bookmark that
+       entry headings nest under. */
     h1 {
+        bookmark-level: 1;
+        bookmark-label: content();
+    }
+    .title-page h1,
+    .title-page h2 {
+        bookmark-level: none;
+    }
+    h1.doc-title {
+        bookmark-level: 1;
+        bookmark-label: "Translation";
+    }
+    h3.endnotes-header {
         bookmark-level: 1;
         bookmark-label: content();
     }
@@ -1543,7 +1557,7 @@ def xml_to_html(xml_file, output_html, render_semantic=False, render_figures=Fal
 <body>
     {title_page_html}
     {toc_html}
-    <h1>Secrets of Craft and Nature in Renaissance France</h1>
+    <h1 class="doc-title">Secrets of Craft and Nature in Renaissance France</h1>
     <h3>BnF Ms. Fr. 640 &mdash; English Translation</h3>
     {body_html}
     {endnotes_html}
