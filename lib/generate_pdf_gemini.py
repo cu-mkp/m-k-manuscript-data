@@ -165,6 +165,7 @@ TAG_INDEX_TYPES = dict(TAG_LABELS['en'])
 # Body-content language of the version being rendered (for html lang).
 CONTENT_LANG_CUR = 'en'
 
+
 def set_language(version):
     """Point the module's label tables at the apparatus language of this version,
     overlaying the version's document-identity strings."""
@@ -1854,6 +1855,11 @@ def post_process_pdf_links(pdf_file):
     print("Post-processing PDF links (named -> explicit destinations)...")
     reader = PdfReader(pdf_file)
 
+    # WeasyPrint embeds /Title (from <title>) and /Lang (from <html lang>);
+    # pypdf's writer below drops both, so capture them now to restore after.
+    orig_title = (reader.metadata or {}).get('/Title')
+    orig_lang = reader.trailer['/Root'].get('/Lang')
+
     # name -> raw destination array from the name tree
     root = reader.trailer['/Root']
     name_map = {}
@@ -1897,6 +1903,28 @@ def post_process_pdf_links(pdf_file):
         writer.write(f)
     print(f"Rewrote {rewritten} internal links to explicit destinations"
           + (f" ({unresolved} unresolved names left as-is)" if unresolved else ""))
+
+    # Final normalization: pypdf's PdfWriter omits the trailer /ID array and
+    # leaves a structure Adobe Acrobat flags as damaged (it opens after a
+    # repair prompt). Re-save through pikepdf/qpdf to add /ID, a clean xref,
+    # and restore the /Title and /Lang pypdf dropped. Verified to preserve
+    # every link and bookmark. See qc/print-audit/PRINT-AUDIT.md R9.
+    try:
+        import pikepdf
+    except ImportError:
+        print("Warning: pikepdf not installed; skipping final normalization.")
+        print("Acrobat may report the PDF as damaged. pip install pikepdf")
+        return
+    lang = str(orig_lang) if orig_lang is not None else 'en'
+    with pikepdf.open(pdf_file, allow_overwriting_input=True) as pdf:
+        if orig_title:
+            with pdf.open_metadata() as meta:
+                meta['dc:title'] = str(orig_title)
+                meta['dc:language'] = lang
+            pdf.docinfo['/Title'] = str(orig_title)
+        pdf.Root['/Lang'] = pikepdf.String(lang)
+        pdf.save(pdf_file, fix_metadata_version=True)
+    print(f"Normalized {pdf_file} (added /ID, /Title={orig_title!r}, /Lang={lang!r})")
 
 def html_to_pdf(html_file, output_pdf):
     try:
