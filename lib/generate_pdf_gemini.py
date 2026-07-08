@@ -957,16 +957,12 @@ def process_element(elem, depth=0, margin_notes=None, endnotes=None, figures=Non
                 #   render: "tall" -> tighter height cap
                 size = elem.get("size", "") or "default"
                 margin_attr = elem.get("margin", "")
-                # A figure whose margin attribute places it in the manuscript's
-                # margin, but which is not already inside margin content, is
-                # hoisted into the entry's margin-note block (see below) rather
-                # than floated in the running text, where it would overlay it.
-                hoist_to_margin = bool(margin_attr) and margin_notes is not None
+                # A margin figure never floats: either it is hoisted into the
+                # entry's margin-note block (see below), or it is already inside
+                # margin content (margin <ab>, which passes margin_notes=None).
+                # Floating it would only let it overlay neighbouring text.
                 classes = f"fig-inline fig-{size}"
-                if margin_attr and not hoist_to_margin:
-                    side = "left" if margin_attr.startswith("left") else "right"
-                    classes += f" fig-margin fig-margin-{side}"
-                elif not margin_attr and figure_in_text_flow(elem) and size != "large":
+                if not margin_attr and figure_in_text_flow(elem) and size != "large":
                     # figure occurs mid-text with no placement info: keep it
                     # in the line (large figures still break out as blocks)
                     classes += " fig-intext"
