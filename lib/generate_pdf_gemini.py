@@ -28,8 +28,9 @@ import branding
 # tl  = English translation; tc = diplomatic French transcription;
 # tcn = normalized French transcription.
 # Apparatus language — the language of generated text (titles, index headings,
-# notes, "essays", margin labels). tcn uses English apparatus by request.
-VERSION_LANG = {'tl': 'en', 'tc': 'fr', 'tcn': 'en'}
+# notes, "essays", margin labels). The French transcriptions use English
+# apparatus by request: generated French is not editorially sourced text.
+VERSION_LANG = {'tl': 'en', 'tc': 'en', 'tcn': 'en'}
 
 # Body-content language, for the html lang attribute (hyphenation/accessibility):
 # the tcn/tc body is Middle French even when its apparatus is English.
@@ -45,9 +46,9 @@ VERSION_LABELS = {
         'title_page_subtitle': 'A Digital Critical Edition and English Translation of BnF Ms. Fr. 640',
     },
     'tc': {
-        'text_section': 'Transcription diplomatique',
-        'subtitle': 'BnF Ms. Fr. 640 &mdash; Transcription diplomatique',
-        'title_page_subtitle': 'Édition critique numérique du BnF Ms. Fr. 640 &mdash; transcription diplomatique',
+        'text_section': 'Diplomatic Transcription',
+        'subtitle': 'BnF Ms. Fr. 640 &mdash; Diplomatic Transcription',
+        'title_page_subtitle': 'A Digital Critical Edition of BnF Ms. Fr. 640 &mdash; Diplomatic Transcription',
     },
     'tcn': {
         'text_section': 'Normalized Transcription',
