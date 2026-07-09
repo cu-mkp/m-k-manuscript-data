@@ -28,8 +28,9 @@ import branding
 # tl  = English translation; tc = diplomatic French transcription;
 # tcn = normalized French transcription.
 # Apparatus language — the language of generated text (titles, index headings,
-# notes, "essays", margin labels). tcn uses English apparatus by request.
-VERSION_LANG = {'tl': 'en', 'tc': 'fr', 'tcn': 'en'}
+# notes, "essays", margin labels). The French transcriptions use English
+# apparatus by request: generated French is not editorially sourced text.
+VERSION_LANG = {'tl': 'en', 'tc': 'en', 'tcn': 'en'}
 
 # Body-content language, for the html lang attribute (hyphenation/accessibility):
 # the tcn/tc body is Middle French even when its apparatus is English.
@@ -45,9 +46,9 @@ VERSION_LABELS = {
         'title_page_subtitle': 'A Digital Critical Edition and English Translation of BnF Ms. Fr. 640',
     },
     'tc': {
-        'text_section': 'Transcription diplomatique',
-        'subtitle': 'BnF Ms. Fr. 640 &mdash; Transcription diplomatique',
-        'title_page_subtitle': 'Édition critique numérique du BnF Ms. Fr. 640 &mdash; transcription diplomatique',
+        'text_section': 'Diplomatic Transcription',
+        'subtitle': 'BnF Ms. Fr. 640 &mdash; Diplomatic Transcription',
+        'title_page_subtitle': 'A Digital Critical Edition of BnF Ms. Fr. 640 &mdash; Diplomatic Transcription',
     },
     'tcn': {
         'text_section': 'Normalized Transcription',
@@ -1904,6 +1905,40 @@ def post_process_pdf_links(pdf_file):
     print(f"Rewrote {rewritten} internal links to explicit destinations"
           + (f" ({unresolved} unresolved names left as-is)" if unresolved else ""))
 
+    # Release the pypdf reader and writer (each a full in-memory copy of the
+    # doc, ~300 MB decompressed for the figure PDFs) before spawning the
+    # memory-hungry Ghostscript pass below. Without this, the combined peak can
+    # OOM-kill gs on the large figure PDFs, silently leaving them uncompressed.
+    import gc
+    del writer, reader
+    gc.collect()
+
+    # Compression: every embedded image and soft mask is stored losslessly
+    # (FlateDecode/PNG-style), which bloats the figure PDFs to ~60 MB. Re-encode
+    # them as 300 dpi JPEG via Ghostscript (/prepress keeps print-grade quality
+    # and won't downsample the already-<=300 dpi manuscript images). This cuts
+    # the figure PDFs ~3x with no visible quality loss and preserves every page,
+    # link and bookmark. gs regenerates /ID and drops /Lang; the pikepdf pass
+    # below restores /ID, /Title and /Lang.
+    import os, shutil, subprocess
+    gs = shutil.which('gs') or shutil.which('gswin64c') or shutil.which('gswin32c')
+    if gs:
+        tmp = str(pdf_file) + '.gs.tmp'
+        try:
+            subprocess.run([gs, '-dBATCH', '-dNOPAUSE', '-dQUIET', '-sDEVICE=pdfwrite',
+                            '-dCompatibilityLevel=1.7', '-dPDFSETTINGS=/prepress',
+                            '-dDetectDuplicateImages=true', '-dAutoRotatePages=/None',
+                            '-o', tmp, pdf_file], check=True)
+            os.replace(tmp, pdf_file)
+            print(f"Compressed {pdf_file} via Ghostscript (/prepress, 300 dpi JPEG).")
+        except (subprocess.CalledProcessError, OSError) as e:
+            if os.path.exists(tmp):
+                os.remove(tmp)
+            print(f"Warning: Ghostscript compression failed ({e}); keeping uncompressed PDF.")
+    else:
+        print("Warning: Ghostscript ('gs') not found; skipping image compression. "
+              "Install Ghostscript to shrink the figure PDFs.")
+
     # Final normalization: pypdf's PdfWriter omits the trailer /ID array and
     # leaves a structure Adobe Acrobat flags as damaged (it opens after a
     # repair prompt). Re-save through pikepdf/qpdf to add /ID, a clean xref,
@@ -1928,12 +1963,7 @@ def post_process_pdf_links(pdf_file):
 
 def html_to_pdf(html_file, output_pdf):
     try:
-        from weasyprint import HTML
-        print(f"Generating PDF from HTML: {html_file}")
-        HTML(filename=html_file).write_pdf(output_pdf)
-        print(f"PDF generated successfully: {output_pdf}")
-        post_process_pdf_links(output_pdf)
-        return True
+        from weasyprint import HTML  # noqa: F401 - fail fast with a clear message
     except ImportError:
         print("\nERROR: weasyprint is not installed.")
         print("Please install it using: pip install weasyprint")
@@ -1941,6 +1971,22 @@ def html_to_pdf(html_file, output_pdf):
         print("On macOS, install with: brew install python cairo pango gdk-pixbuf libffi")
         print("On Ubuntu/Debian: apt-get install python3-pip python3-cffi python3-brotli libpango-1.0-0 libpangoft2-1.0-0")
         return False
+    try:
+        import subprocess, os
+        print(f"Generating PDF from HTML: {html_file}")
+        # Render WeasyPrint in an isolated child process. WeasyPrint's peak
+        # memory on the 750-1000 page figure PDFs is several GB and is NOT
+        # returned to the OS while this process lives; running it here in the
+        # same process as the Ghostscript compression in post_process_pdf_links()
+        # OOM-kills the build (macOS jetsam). The child frees everything on exit.
+        result = subprocess.run([sys.executable, os.path.abspath(__file__),
+                                 "--render-only", str(html_file), str(output_pdf)])
+        if result.returncode != 0:
+            print(f"\nERROR: WeasyPrint render subprocess failed (exit {result.returncode}).")
+            return False
+        print(f"PDF generated successfully: {output_pdf}")
+        post_process_pdf_links(output_pdf)
+        return True
     except Exception as e:
         print(f"\nERROR generating PDF: {e}")
         return False
@@ -2005,4 +2051,11 @@ def main():
         print(f"or install weasyprint to generate PDFs automatically.")
 
 if __name__ == "__main__":
+    # Isolated WeasyPrint render mode (spawned by html_to_pdf). Runs in its own
+    # process so its multi-GB memory footprint is fully returned to the OS before
+    # the Ghostscript compression pass; renders one HTML file and exits.
+    if len(sys.argv) == 4 and sys.argv[1] == "--render-only":
+        from weasyprint import HTML
+        HTML(filename=sys.argv[2]).write_pdf(sys.argv[3])
+        sys.exit(0)
     main()

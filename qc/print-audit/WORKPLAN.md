@@ -4,7 +4,7 @@
 
 **Cross-checked against** an independent review, [`qc/reports/pdf-production-review.md`](../reports/pdf-production-review.md) (Ghostscript-based, both PDFs); see [`RECONCILIATION.md`](RECONCILIATION.md). Both reviews agree on every shared finding. **R12** and **R13** below originate with that review; **R1**, **R3**, **R4**, **R5** were missed by it for want of `pypdf`/`pdfplumber`.
 
-**Scope.** Four generated PDFs share this pipeline: `all_tl_figures.pdf`, `all_tcn_figures.pdf`, `metadata/glossary.pdf`, `metadata/entry-metadata.pdf`. Except where noted, a fix to `lib/generate_pdf_gemini.py` benefits the two manuscript PDFs; `lib/branding.py`, `lib/generate_glossary_pdf.py` and `lib/generate_entry_metadata_pdf.py` need the same treatment for R2/R7/R9.
+**Scope.** Four generated PDFs share this pipeline: `all_tl_figures.pdf`, `all_tcn_figures.pdf`, `metadata/glossary.pdf`, `metadata/list-of-entries.pdf`. Except where noted, a fix to `lib/generate_pdf_gemini.py` benefits the two manuscript PDFs; `lib/branding.py`, `lib/generate_glossary_pdf.py` and `lib/generate_entry_metadata_pdf.py` need the same treatment for R2/R7/R9.
 
 **Rebuild cost.** Each manuscript variant takes ≈6 min to render; a full four-PDF regeneration ≈20 min. Batch changes per phase rather than rebuilding per commit.
 

@@ -119,7 +119,7 @@ def build_html(rows, essays_by_entry):
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Entry Metadata - BnF Ms. Fr. 640</title>
+<title>List of Entries - BnF Ms. Fr. 640</title>
 <style>
 @font-face {{
     font-family: "DejaVu Sans";
@@ -161,7 +161,7 @@ h2.entry-heading a {{ color: #792421; }}
 <body>
 <div class="title-page">
     {branding.header_html('../lib/assets', 'en')}
-    <h1>Entry Metadata</h1>
+    <h1>List of Entries</h1>
     <h2>Secrets of Craft and Nature in Renaissance France<br/>
         A Digital Critical Edition and English Translation of BnF Ms. Fr. 640</h2>
     <p class="cite">&ldquo;List of Entries.&rdquo; In <i>Secrets of Craft and Nature in Renaissance France.
@@ -190,8 +190,8 @@ h2.entry-heading a {{ color: #792421; }}
 
 def main():
     csv_file = Path('../metadata/entry_metadata.csv')
-    html_file = Path('../metadata/entry-metadata.html')
-    pdf_file = Path('../metadata/entry-metadata.pdf')
+    html_file = Path('../metadata/list-of-entries.html')
+    pdf_file = Path('../metadata/list-of-entries.pdf')
 
     if not csv_file.exists():
         print(f'ERROR: entry metadata CSV not found: {csv_file}')
