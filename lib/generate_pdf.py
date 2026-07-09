@@ -1,491 +1,264 @@
 #!/usr/bin/env python3
 """
-Generate PDF from BnF Ms. Fr. 640 XML manuscript data.
-This script converts the translation XML to a formatted PDF.
+BnF Ms. Fr. 640 XML to PDF Converter
+=====================================
+
+This script converts the Making and Knowing Project's XML manuscript data
+(specifically the English translation version) into a formatted PDF document.
 """
 
 import xml.etree.ElementTree as ET
 import sys
+import csv
+import argparse
 from pathlib import Path
 
+# ==============================================================================
+# HTML UTILITY FUNCTIONS
+# ==============================================================================
+
 def escape_html(text):
-    """Escape HTML special characters."""
+    """
+    Escape HTML special characters to prevent rendering issues.
+    """
     if not text:
         return ""
-    return (text
-            .replace("&", "&amp;")
-            .replace("<", "&lt;")
-            .replace(">", "&gt;")
-            .replace('"', "&quot;")
-            .replace("'", "&#39;"))
+    return (
+        text
+        .replace("&", "&amp;")
+        .replace("<", "&lt;")
+        .replace(">", "&gt;")
+        .replace('"', "&quot;")
+        .replace("'", "&#39;")
+    )
 
-def process_element(elem, depth=0):
+# ==============================================================================
+# XML TO HTML CONVERSION
+# ==============================================================================
+
+def process_element(elem, depth=0, margin_notes=None, endnotes=None, render_semantic=False):
     """
-    Recursively process XML elements and convert to HTML.
-    Returns HTML string.
+    Recursively process XML elements and convert to styled HTML.
     """
     tag = elem.tag
     text = elem.text or ""
     tail = elem.tail or ""
-
-    # Handle different element types
     html = ""
 
-    # Root element
     if tag == "all":
         html = '<div class="manuscript">\n'
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, endnotes=endnotes, render_semantic=render_semantic)
         html += '</div>\n'
         return html
-
-    # Structural elements
     elif tag == "div":
         div_id = elem.get("id", "")
         categories = elem.get("categories", "")
+        div_margin_notes = []
         html = f'<div class="entry" id="{escape_html(div_id)}" data-categories="{escape_html(categories)}">\n'
         if text.strip():
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, margin_notes=div_margin_notes, endnotes=endnotes, render_semantic=render_semantic)
         html += '</div>\n'
+        if div_margin_notes:
+            html += '<div class="margin-notes">\n'
+            html += '<h3 class="margin-notes-header">Margin Notes:</h3>\n'
+            for note_html in div_margin_notes:
+                html += note_html
+            html += '</div>\n'
         if tail.strip():
             html += escape_html(tail)
         return html
-
     elif tag == "head":
         margin = elem.get("margin", "")
-        html = f'<h2 class="head {escape_html(margin)}">'
+        css_class = "head"
+        if "left-middle" in margin or "right-top" in margin:
+            css_class += " minor-head"
+        html = f'<h3 class="{css_class} {escape_html(margin)}" >'
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</h2>\n'
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
+        html += '</h3>\n'
         if tail:
             html += escape_html(tail)
         return html
-
     elif tag == "ab":
         margin = elem.get("margin", "")
         render = elem.get("render", "")
+        if margin and margin_notes is not None:
+            note_html = f'<div class="margin-note" data-position="{escape_html(margin)}">\n'
+            note_html += f'<span class="margin-position">[{escape_html(margin)}]</span> '
+            if text:
+                note_html += escape_html(text)
+            for child in elem:
+                note_html += process_element(child, depth + 1, margin_notes=None, endnotes=endnotes, render_semantic=render_semantic)
+            note_html += '</div>\n'
+            margin_notes.append(note_html)
+            return escape_html(tail) if tail else ""
         classes = f"ab {escape_html(margin)} {escape_html(render)}".strip()
-        html = f'<p class="{classes}">'
+        html = f'<p class="{classes}" >'
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
         html += '</p>\n'
         if tail:
             html += escape_html(tail)
         return html
-
     elif tag == "hr":
         return '<hr/>\n' + escape_html(tail)
-
     elif tag == "lb":
         return '<br/>\n' + escape_html(tail)
-
-    # Semantic elements - styled spans
-    elif tag == "pn":  # Personal name
-        html = '<span class="pn">'
+    elif tag in ("pn", "pl", "pro", "m", "pa", "al", "tl", "ms", "env", "tmp", "bp", "cn", "mu", "md", "wp", "sn", "df"):
+        html = f'<span class="{tag}">'
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
         html += '</span>'
         if tail:
             html += escape_html(tail)
         return html
-
-    elif tag == "pl":  # Place
-        html = '<span class="pl">'
+    elif tag in ("la", "fr", "it", "de", "el", "oc", "po"):
+        html = f'<span class="{tag}" >'
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
         html += '</span>'
         if tail:
             html += escape_html(tail)
         return html
-
-    elif tag == "pro":  # Profession
-        html = '<span class="pro">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "m":  # Material
-        html = '<span class="m">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "pa":  # Plant
-        html = '<span class="pa">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "al":  # Animal
-        html = '<span class="al">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "tl":  # Tool
-        html = '<span class="tl">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "ms":  # Measurement
-        html = '<span class="ms">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "env":  # Environment
-        html = '<span class="env">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "tmp":  # Temporal
-        html = '<span class="tmp">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "bp":  # Body part
-        html = '<span class="bp">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "cn":  # Currency
-        html = '<span class="cn">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "mu":  # Musical instrument
-        html = '<span class="mu">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "md":  # Medical
-        html = '<span class="md">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "wp":  # Weapon
-        html = '<span class="wp">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "sn":  # Sense
-        html = '<span class="sn">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "df":  # Definition
-        html = '<span class="df">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    # Language elements
-    elif tag == "la":  # Latin
-        html = '<span class="la">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "fr":  # French
-        html = '<span class="fr">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "it":  # Italian
-        html = '<span class="it">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "de":  # German
-        html = '<span class="de">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "el":  # Greek
-        html = '<span class="el">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "oc":  # Occitane
-        html = '<span class="oc">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    elif tag == "po":  # Poitevin
-        html = '<span class="po">'
-        if text:
-            html += escape_html(text)
-        for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
-        if tail:
-            html += escape_html(tail)
-        return html
-
-    # Transcription elements
-    elif tag == "emph":  # Emphasized
+    elif tag == "emph":
         html = '<em>'
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
         html += '</em>'
         if tail:
             html += escape_html(tail)
         return html
-
-    elif tag == "underline":  # Underlined
+    elif tag == "underline":
         html = '<u>'
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
         html += '</u>'
         if tail:
             html += escape_html(tail)
         return html
-
-    elif tag == "superscript" or tag == "sup":  # Superscript/Supplied
+    elif tag in ("superscript", "sup"):
         html = '<sup>'
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
         html += '</sup>'
         if tail:
             html += escape_html(tail)
         return html
-
-    elif tag == "del":  # Deletion
+    elif tag == "del":
         html = '<del>'
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
         html += '</del>'
         if tail:
             html += escape_html(tail)
         return html
-
-    elif tag == "add":  # Addition
+    elif tag == "add":
         html = '<ins>'
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
         html += '</ins>'
         if tail:
             html += escape_html(tail)
         return html
-
-    elif tag == "exp":  # Expansion
+    elif tag == "exp":
         html = '<span class="exp">'
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
         html += '</span>'
         if tail:
             html += escape_html(tail)
         return html
-
-    elif tag == "corr":  # Correction
+    elif tag == "corr":
         html = '<span class="corr">'
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
         html += '</span>'
         if tail:
             html += escape_html(tail)
         return html
-
-    elif tag == "ill":  # Illegible
-        html = '<span class="ill">[illegible]'
+    elif tag == "ill":
+        html = '<span class="ill">[illegible]</span>'
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
-        html += '</span>'
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
         if tail:
             html += escape_html(tail)
         return html
-
-    elif tag == "gap":  # Gap
+    elif tag == "gap":
         return '<span class="gap">[gap]</span>' + escape_html(tail)
-
-    elif tag == "mark":  # Mark/Symbol
+    elif tag == "mark":
         html = '<span class="mark">'
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
         html += '</span>'
         if tail:
             html += escape_html(tail)
         return html
-
-    elif tag == "comment":  # Comment reference
+    elif tag == "comment":
         rid = elem.get("rid", "")
+        if endnotes is not None and rid:
+            if rid not in [note['id'] for note in endnotes]:
+                endnotes.append({'id': rid})
+            note_num = next(i + 1 for i, note in enumerate(endnotes) if note['id'] == rid)
+            html = f'<sup class="comment-ref"><a href="#endnote-{escape_html(rid)}" id="ref-{escape_html(rid)}">[{note_num}]</a></sup>'
+            return html + escape_html(tail)
         return f'<sup class="comment-ref">[{escape_html(rid)}]</sup>' + escape_html(tail)
-
-    elif tag == "figure":  # Figure
+    elif tag == "figure":
         fig_id = elem.get("id", "")
         alt_text = elem.get("alt-text", "")
-        html = f'<div class="figure" id="{escape_html(fig_id)}">'
+        html = f'<div class="figure" id="{escape_html(fig_id)}" >'
         html += f'<p class="figure-placeholder">[Figure: {escape_html(alt_text) if alt_text else fig_id}]</p>'
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
         html += '</div>\n'
         if tail:
             html += escape_html(tail)
         return html
-
-    # Default: just process children and text
     else:
         html = ""
         if text:
             html += escape_html(text)
         for child in elem:
-            html += process_element(child, depth + 1)
+            html += process_element(child, depth + 1, margin_notes=margin_notes, endnotes=endnotes, render_semantic=render_semantic)
         if tail:
             html += escape_html(tail)
         return html
 
-def get_css():
-    """Return CSS stylesheet for the PDF."""
-    return """
+def get_css(render_semantic=False):
+    """
+    Generate CSS stylesheet for PDF rendering.
+    """
+    base_css = """
     @page {
         size: letter;
         margin: 1in;
@@ -509,6 +282,16 @@ def get_css():
     }
 
     .head {
+        font-size: 18pt;
+        font-weight: bold;
+        margin-top: 2em;
+        margin-bottom: 1em;
+        color: #2c3e50;
+        border-bottom: 2px solid #2c3e50;
+        padding-bottom: 0.5em;
+    }
+
+    .head.minor-head {
         font-size: 14pt;
         font-weight: bold;
         margin-top: 1.5em;
@@ -521,80 +304,6 @@ def get_css():
     .ab {
         margin-bottom: 1em;
         text-align: justify;
-    }
-
-    /* Semantic elements - different colors for different categories */
-    .pn {
-        font-weight: 600;
-        color: #16a085;
-    }
-
-    .pl {
-        font-weight: 500;
-        color: #2980b9;
-    }
-
-    .pro {
-        font-variant: small-caps;
-        color: #8e44ad;
-    }
-
-    .m {
-        color: #d35400;
-    }
-
-    .pa {
-        color: #27ae60;
-    }
-
-    .al {
-        color: #c0392b;
-    }
-
-    .tl {
-        color: #7f8c8d;
-    }
-
-    .ms {
-        font-family: monospace;
-        font-size: 0.95em;
-    }
-
-    .env {
-        color: #16a085;
-    }
-
-    .tmp {
-        font-style: italic;
-        color: #95a5a6;
-    }
-
-    .bp {
-        color: #e74c3c;
-    }
-
-    .cn {
-        color: #f39c12;
-    }
-
-    .mu {
-        color: #9b59b6;
-    }
-
-    .md {
-        color: #e67e22;
-    }
-
-    .wp {
-        color: #c0392b;
-    }
-
-    .sn {
-        font-style: italic;
-    }
-
-    .df {
-        font-weight: 500;
     }
 
     /* Language elements */
@@ -678,47 +387,264 @@ def get_css():
         border-top: 1px solid #bdc3c7;
         margin: 1em 0;
     }
+
+    /* Margin notes section */
+    .margin-notes {
+        margin-top: 1.5em;
+        margin-bottom: 2em;
+        padding: 1em;
+        background-color: #f8f9fa;
+        border-left: 4px solid #3498db;
+        page-break-inside: avoid;
+    }
+
+    .margin-notes-header {
+        font-size: 12pt;
+        font-weight: bold;
+        color: #2c3e50;
+        margin: 0 0 0.75em 0;
+    }
+
+    .margin-note {
+        margin-bottom: 0.75em;
+        padding: 0.5em;
+        background-color: #ffffff;
+        border-left: 2px solid #95a5a6;
+        font-size: 10pt;
+        line-height: 1.5;
+    }
+
+    .margin-note:last-child {
+        margin-bottom: 0;
+    }
+
+    .margin-position {
+        display: inline-block;
+        font-weight: bold;
+        color: #7f8c8d;
+        font-size: 0.9em;
+        font-variant: small-caps;
+    }
+
+    /* Endnotes section */
+    .endnotes {
+        margin-top: 3em;
+        padding-top: 2em;
+        border-top: 2px solid #2c3e50;
+        page-break-before: always;
+    }
+
+    .endnotes-header {
+        font-size: 18pt;
+        font-weight: bold;
+        color: #2c3e50;
+        margin-bottom: 1em;
+    }
+
+    .endnote {
+        margin-bottom: 1em;
+        font-size: 10pt;
+        line-height: 1.6;
+        padding-left: 2em;
+        text-indent: -2em;
+    }
+
+    .endnote-number {
+        font-weight: bold;
+        color: #3498db;
+        margin-right: 0.5em;
+    }
+
+    .endnote-id {
+        font-family: monospace;
+        color: #7f8c8d;
+        font-size: 0.85em;
+        margin-right: 0.5em;
+    }
+
+    .endnote-text {
+        display: block;
+        margin-left: 2em;
+        margin-top: 0.25em;
+        color: #2c3e50;
+        text-indent: 0;
+    }
+
+    .endnote-text i {
+        font-style: italic;
+    }
+
+    .endnote-backlink {
+        color: #3498db;
+        text-decoration: none;
+        font-size: 0.9em;
+        margin-left: 0.5em;
+    }
+
+    .endnote-backlink:hover {
+        text-decoration: underline;
+    }
+
+    /* Comment reference links */
+    .comment-ref a {
+        color: #3498db;
+        text-decoration: none;
+    }
+
+    .comment-ref a:hover {
+        text-decoration: underline;
+    }
     """
 
-def xml_to_html(xml_file, output_html):
-    """Convert XML file to HTML."""
-    print(f"Parsing XML file: {xml_file}")
+    semantic_css = """
+    /* Semantic elements - different colors for different categories */
+    .pn {
+        font-weight: 600;
+        color: #16a085;
+    }
 
-    # Parse XML
+    .pl {
+        font-weight: 500;
+        color: #2980b9;
+    }
+
+    .pro {
+        font-variant: small-caps;
+        color: #8e44ad;
+    }
+
+    .m {
+        color: #d35400;
+    }
+
+    .pa {
+        color: #27ae60;
+    }
+
+    .al {
+        color: #c0392b;
+    }
+
+    .tl {
+        color: #7f8c8d;
+    }
+
+    .ms {
+        font-family: monospace;
+        font-size: 0.95em;
+    }
+
+    .env {
+        color: #16a085;
+    }
+
+    .tmp {
+        font-style: italic;
+        color: #95a5a6;
+    }
+
+    .bp {
+        color: #e74c3c;
+    }
+
+    .cn {
+        color: #f39c12;
+    }
+
+    .mu {
+        color: #9b59b6;
+    }
+
+    .md {
+        color: #e67e22;
+    }
+
+    .wp {
+        color: #c0392b;
+    }
+
+    .sn {
+        font-style: italic;
+    }
+
+    .df {
+        font-weight: 500;
+    }
+    """
+
+    if render_semantic:
+        return base_css + semantic_css
+    else:
+        return base_css
+
+def load_comments(csv_file):
+    comments = {}
+    try:
+        with open(csv_file, 'r', encoding='utf-8') as f:
+            reader = csv.reader(f)
+            next(reader)
+            for row in reader:
+                if len(row) >= 8:
+                    comment_id, comment_text = row[2], row[7]
+                    if comment_id and comment_text:
+                        comments[comment_id] = comment_text
+        print(f"Loaded {len(comments)} comments from CSV")
+    except FileNotFoundError:
+        print(f"Warning: Comment CSV not found at {csv_file}")
+        print("Endnotes will only show comment IDs without content")
+    except Exception as e:
+        print(f"Warning: Error loading comments: {e}")
+        print("Endnotes will only show comment IDs without content")
+    return comments
+
+def xml_to_html(xml_file, output_html, render_semantic=False):
+    print(f"Parsing XML file: {xml_file}")
+    csv_file = Path("metadata/DCE_comment-tracking-Tracking.csv")
+    comments_dict = load_comments(csv_file)
     tree = ET.parse(xml_file)
     root = tree.getroot()
-
-    # Convert to HTML
+    endnotes = []
     print("Converting XML to HTML...")
-    body_html = process_element(root)
-
-    # Create complete HTML document
+    body_html = process_element(root, endnotes=endnotes, render_semantic=render_semantic)
+    endnotes_html = ""
+    if endnotes:
+        print(f"Generating {len(endnotes)} endnotes...")
+        endnotes_html = '<div class="endnotes">\n'
+        endnotes_html += '<h3 class="endnotes-header">Endnotes</h3>\n'
+        for i, note in enumerate(endnotes, 1):
+            note_id = note['id']
+            comment_text = comments_dict.get(note_id, "")
+            endnotes_html += f'<div class="endnote" id="endnote-{escape_html(note_id)}">\n'
+            endnotes_html += f'  <span class="endnote-number">[{i}]</span>'
+            endnotes_html += f'  <span class="endnote-id">{escape_html(note_id)}</span>'
+            if comment_text:
+                endnotes_html += f'  <span class="endnote-text">{comment_text}</span>'
+            endnotes_html += f'  <a href="#ref-{escape_html(note_id)}" class="endnote-backlink">↩</a>\n'
+            endnotes_html += '</div>\n'
+        endnotes_html += '</div>\n'
     html = f"""<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
     <title>BnF Ms. Fr. 640 - Translation</title>
     <style>
-    {get_css()}
+    {get_css(render_semantic=render_semantic)}
     </style>
 </head>
 <body>
     <h1>Secrets of Craft and Nature in Renaissance France</h1>
-    <h2>BnF Ms. Fr. 640 - English Translation</h2>
+    <h3>BnF Ms. Fr. 640 - English Translation</h3>
     {body_html}
+    {endnotes_html}
 </body>
 </html>
 """
-
-    # Write HTML file
     print(f"Writing HTML to: {output_html}")
     with open(output_html, 'w', encoding='utf-8') as f:
         f.write(html)
-
     print("HTML conversion complete!")
 
 def html_to_pdf(html_file, output_pdf):
-    """Convert HTML file to PDF using weasyprint."""
     try:
         from weasyprint import HTML
         print(f"Generating PDF from HTML: {html_file}")
@@ -727,8 +653,7 @@ def html_to_pdf(html_file, output_pdf):
         return True
     except ImportError:
         print("\nERROR: weasyprint is not installed.")
-        print("Please install it using:")
-        print("  pip install weasyprint")
+        print("Please install it using: pip install weasyprint")
         print("\nNote: weasyprint requires additional system dependencies.")
         print("On macOS, install with: brew install python cairo pango gdk-pixbuf libffi")
         print("On Ubuntu/Debian: apt-get install python3-pip python3-cffi python3-brotli libpango-1.0-0 libpangoft2-1.0-0")
@@ -738,19 +663,29 @@ def html_to_pdf(html_file, output_pdf):
         return False
 
 def main():
-    """Main function."""
-    # Input and output paths
+    """
+    Main entry point for the PDF generation script.
+    """
+    parser = argparse.ArgumentParser(description="Convert BnF Ms. Fr. 640 XML to styled PDF.")
+    parser.add_argument(
+        '--semantic',
+        action='store_true',
+        help='If set, render semantic XML elements with special styling (colors, etc.). Default is off.'
+    )
+    args = parser.parse_args()
+
+    # Define input and output file paths
     xml_file = Path("allFolios/xml/tl/all_tl.xml")
-    html_file = Path("allFolios/xml/tl/all_tl.html")
-    pdf_file = Path("allFolios/xml/tl/all_tl.pdf")
+    html_file = Path("allFolios/pdf/all_tl.html")
+    pdf_file = Path("allFolios/pdf/all_tl.pdf")
 
     # Check if XML file exists
     if not xml_file.exists():
         print(f"ERROR: XML file not found: {xml_file}")
         sys.exit(1)
 
-    # Convert XML to HTML
-    xml_to_html(xml_file, html_file)
+    # Convert XML to HTML, passing the semantic rendering flag
+    xml_to_html(xml_file, html_file, render_semantic=args.semantic)
 
     # Convert HTML to PDF
     success = html_to_pdf(html_file, pdf_file)

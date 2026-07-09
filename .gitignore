@@ -4,3 +4,7 @@ newProject.xpr
 *.xpr
 .vs
 .nosync
+images/
+lib/.venv/
+__pycache__/
+allFolios/pdf/tmp/
