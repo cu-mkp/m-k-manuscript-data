@@ -4,7 +4,7 @@
 **Pipeline** `lib/generate_pdf_gemini.py` → HTML+CSS (embedded in the script) → WeasyPrint **69.0** → pypdf post-processing (`post_process_pdf_links`)
 **Trim** US Letter 612 × 792 pt (8.5 × 11 in), 1 in margins · **Intended for** print + archival deposit
 
-The same pipeline produces `all_tcn_figures.pdf`, `metadata/glossary.pdf` and `metadata/entry-metadata.pdf`; every root cause below except **R1** and **R9** applies to all four.
+The same pipeline produces `all_tcn_figures.pdf`, `metadata/glossary.pdf` and `metadata/list-of-entries.pdf`; every root cause below except **R1** and **R9** applies to all four.
 
 Sample: pp. 1, 2, 3, 5, 8, 39, 207, 241, 305, 339, 433, 513, 528, 540, 541, 543, 544, 632, 633, 665, 732, 748 — one instance per structural element type; indexes sampled at first and last page only. Rendered images in `qc/print-audit/pages/`.
 
